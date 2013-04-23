@@ -1,0 +1,2121 @@
+PokerStars Game #19950871457:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:23:25 (ET)
+Table 'Veteraniya' 9-max Seat #6 is the button
+Seat 1: AsReyJota ($13.75 in chips) 
+Seat 2: fentar59 ($25.60 in chips) 
+Seat 3: mjm1976m ($8.75 in chips) 
+Seat 5: Alameda22 ($25 in chips) 
+Seat 6: shaktale66 ($28.25 in chips) 
+Seat 7: Ed.T ($24.50 in chips) 
+Seat 8: AcedePique ($25 in chips) 
+Seat 9: a2roscoe ($20.35 in chips) 
+Ed.T: posts small blind $0.10
+AcedePique: posts big blind $0.25
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Kd]
+a2roscoe: folds 
+AsReyJota: folds 
+fentar59: folds 
+mjm1976m: folds 
+Alameda22: checks 
+shaktale66: calls $0.25
+Ed.T: calls $0.15
+AcedePique: checks 
+*** FLOP *** [5c Ks 5s]
+Ed.T: checks 
+AcedePique: checks 
+Alameda22: bets $0.50
+shaktale66: folds 
+Ed.T: folds 
+AcedePique: calls $0.50
+*** TURN *** [5c Ks 5s] [Jc]
+AcedePique: checks 
+Alameda22: checks 
+*** RIVER *** [5c Ks 5s Jc] [3s]
+Steve Kash joins the table at seat #4 
+AcedePique: bets $1.25
+Alameda22: folds 
+Uncalled bet ($1.25) returned to AcedePique
+AcedePique collected $1.95 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [5c Ks 5s Jc 3s]
+Seat 1: AsReyJota folded before Flop (didn't bet)
+Seat 2: fentar59 folded before Flop (didn't bet)
+Seat 3: mjm1976m folded before Flop (didn't bet)
+Seat 5: Alameda22 folded on the River
+Seat 6: shaktale66 (button) folded on the Flop
+Seat 7: Ed.T (small blind) folded on the Flop
+Seat 8: AcedePique (big blind) collected ($1.95)
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19950894188:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:24:24 (ET)
+Table 'Veteraniya' 9-max Seat #7 is the button
+Seat 1: AsReyJota ($13.75 in chips) 
+Seat 2: fentar59 ($25.60 in chips) 
+Seat 3: mjm1976m ($8.75 in chips) 
+Seat 4: Steve Kash ($15 in chips) 
+Seat 5: Alameda22 ($24.25 in chips) 
+Seat 6: shaktale66 ($28 in chips) 
+Seat 7: Ed.T ($24.25 in chips) 
+Seat 8: AcedePique ($26.20 in chips) 
+Seat 9: a2roscoe ($20.35 in chips) 
+AcedePique: posts small blind $0.10
+a2roscoe: posts big blind $0.25
+Steve Kash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Ad]
+AsReyJota: folds 
+fentar59: folds 
+mjm1976m: folds 
+Steve Kash: checks 
+Alameda22: raises $0.75 to $1
+shaktale66: folds 
+Ed.T: calls $1
+AcedePique: folds 
+a2roscoe: calls $0.75
+Steve Kash: folds 
+*** FLOP *** [8h 8c 6c]
+a2roscoe: bets $2.25
+Alameda22: folds 
+Ed.T: folds 
+Uncalled bet ($2.25) returned to a2roscoe
+a2roscoe collected $3.20 from pot
+a2roscoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [8h 8c 6c]
+Seat 1: AsReyJota folded before Flop (didn't bet)
+Seat 2: fentar59 folded before Flop (didn't bet)
+Seat 3: mjm1976m folded before Flop (didn't bet)
+Seat 4: Steve Kash folded before Flop
+Seat 5: Alameda22 folded on the Flop
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T (button) folded on the Flop
+Seat 8: AcedePique (small blind) folded before Flop
+Seat 9: a2roscoe (big blind) collected ($3.20)
+
+
+
+PokerStars Game #19950918675:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:25:27 (ET)
+Table 'Veteraniya' 9-max Seat #8 is the button
+Seat 1: AsReyJota ($13.75 in chips) 
+Seat 2: fentar59 ($25.60 in chips) 
+Seat 3: mjm1976m ($8.75 in chips) 
+Seat 4: Steve Kash ($14.75 in chips) 
+Seat 5: Alameda22 ($23.25 in chips) 
+Seat 6: shaktale66 ($28 in chips) 
+Seat 7: Ed.T ($23.25 in chips) 
+Seat 8: AcedePique ($26.10 in chips) 
+Seat 9: a2roscoe ($22.55 in chips) 
+a2roscoe: posts small blind $0.10
+AsReyJota: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 5d]
+fentar59: folds 
+mjm1976m: folds 
+fentar59 leaves the table
+Steve Kash: folds 
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: raises $0.50 to $0.75
+AcedePique: folds 
+a2roscoe: calls $0.65
+AsReyJota: folds 
+*** FLOP *** [3d Ad Tc]
+a2roscoe: checks 
+Ed.T: bets $0.75
+a2roscoe: folds 
+Uncalled bet ($0.75) returned to Ed.T
+Sammy2212 joins the table at seat #2 
+Ed.T collected $1.70 from pot
+Ed.T: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [3d Ad Tc]
+Seat 1: AsReyJota (big blind) folded before Flop
+Seat 2: fentar59 folded before Flop (didn't bet)
+Seat 3: mjm1976m folded before Flop (didn't bet)
+Seat 4: Steve Kash folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T collected ($1.70)
+Seat 8: AcedePique (button) folded before Flop (didn't bet)
+Seat 9: a2roscoe (small blind) folded on the Flop
+
+
+
+PokerStars Game #19950936834:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:26:13 (ET)
+Table 'Veteraniya' 9-max Seat #9 is the button
+Seat 1: AsReyJota ($13.50 in chips) 
+Seat 2: Sammy2212 ($10 in chips) 
+Seat 3: mjm1976m ($8.75 in chips) 
+Seat 4: Steve Kash ($14.75 in chips) 
+Seat 5: Alameda22 ($23.25 in chips) 
+Seat 6: shaktale66 ($28 in chips) 
+Seat 7: Ed.T ($24.20 in chips) 
+Seat 8: AcedePique ($26.10 in chips) 
+Seat 9: a2roscoe ($21.80 in chips) 
+AsReyJota: posts small blind $0.10
+Sammy2212: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Jh]
+mjm1976m: folds 
+Steve Kash: raises $0.50 to $0.75
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+AcedePique: folds 
+a2roscoe: folds 
+AsReyJota: folds 
+Sammy2212: folds 
+Uncalled bet ($0.50) returned to Steve Kash
+Steve Kash collected $0.60 from pot
+Steve Kash: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: AsReyJota (small blind) folded before Flop
+Seat 2: Sammy2212 (big blind) folded before Flop
+Seat 3: mjm1976m folded before Flop (didn't bet)
+Seat 4: Steve Kash collected ($0.60)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19950951015:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:26:50 (ET)
+Table 'Veteraniya' 9-max Seat #1 is the button
+Seat 1: AsReyJota ($13.40 in chips) 
+Seat 2: Sammy2212 ($9.75 in chips) 
+Seat 3: mjm1976m ($8.75 in chips) 
+Seat 4: Steve Kash ($15.10 in chips) 
+Seat 5: Alameda22 ($23.25 in chips) 
+Seat 6: shaktale66 ($28 in chips) 
+Seat 7: Ed.T ($24.20 in chips) 
+Seat 8: AcedePique ($26.10 in chips) 
+Seat 9: a2roscoe ($21.80 in chips) 
+Sammy2212: posts small blind $0.10
+mjm1976m: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Th]
+Steve Kash: folds 
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+AcedePique: folds 
+a2roscoe: folds 
+AsReyJota: folds 
+Sammy2212: calls $0.15
+mjm1976m: checks 
+*** FLOP *** [6h 4s 2c]
+Sammy2212: checks 
+mjm1976m: bets $0.50
+Sammy2212: folds 
+Uncalled bet ($0.50) returned to mjm1976m
+mjm1976m collected $0.50 from pot
+mjm1976m: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [6h 4s 2c]
+Seat 1: AsReyJota (button) folded before Flop (didn't bet)
+Seat 2: Sammy2212 (small blind) folded on the Flop
+Seat 3: mjm1976m (big blind) collected ($0.50)
+Seat 4: Steve Kash folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19950967989:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:27:34 (ET)
+Table 'Veteraniya' 9-max Seat #2 is the button
+Seat 1: AsReyJota ($13.40 in chips) 
+Seat 2: Sammy2212 ($9.50 in chips) 
+Seat 3: mjm1976m ($9 in chips) 
+Seat 4: Steve Kash ($15.10 in chips) 
+Seat 5: Alameda22 ($23.25 in chips) 
+Seat 6: shaktale66 ($28 in chips) 
+Seat 7: Ed.T ($24.20 in chips) 
+Seat 8: AcedePique ($26.10 in chips) 
+Seat 9: a2roscoe ($21.80 in chips) 
+mjm1976m: posts small blind $0.10
+Steve Kash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Jc]
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+AcedePique: folds 
+a2roscoe: folds 
+AsReyJota: raises $0.50 to $0.75
+Sammy2212: folds 
+mjm1976m: calls $0.65
+Steve Kash: calls $0.50
+*** FLOP *** [Ah As Jh]
+mjm1976m: checks 
+Steve Kash: checks 
+AsReyJota: checks 
+*** TURN *** [Ah As Jh] [Th]
+mjm1976m: bets $0.75
+Steve Kash: calls $0.75
+AsReyJota: calls $0.75
+*** RIVER *** [Ah As Jh Th] [Kc]
+mjm1976m: checks 
+Steve Kash: bets $3
+AsReyJota: raises $8.90 to $11.90 and is all-in
+mjm1976m: folds 
+Steve Kash: calls $8.90
+*** SHOW DOWN ***
+AsReyJota: shows [Ad Ts] (a full house, Aces full of Tens)
+Steve Kash: mucks hand 
+AsReyJota collected $26.90 from pot
+*** SUMMARY ***
+Total pot $28.30 | Rake $1.40 
+Board [Ah As Jh Th Kc]
+Seat 1: AsReyJota showed [Ad Ts] and won ($26.90) with a full house, Aces full of Tens
+Seat 2: Sammy2212 (button) folded before Flop (didn't bet)
+Seat 3: mjm1976m (small blind) folded on the River
+Seat 4: Steve Kash (big blind) mucked [Qh 9h]
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951012561:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:29:29 (ET)
+Table 'Veteraniya' 9-max Seat #3 is the button
+Seat 1: AsReyJota ($26.90 in chips) 
+Seat 2: Sammy2212 ($9.50 in chips) 
+Seat 3: mjm1976m ($7.50 in chips) 
+Seat 4: Steve Kash ($1.70 in chips) 
+Seat 5: Alameda22 ($23.25 in chips) 
+Seat 6: shaktale66 ($28 in chips) 
+Seat 7: Ed.T ($24.20 in chips) 
+Seat 8: AcedePique ($26.10 in chips) 
+Seat 9: a2roscoe ($21.80 in chips) 
+Steve Kash: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 8c]
+shaktale66: folds 
+Ed.T: raises $0.50 to $0.75
+AcedePique: folds 
+a2roscoe: folds 
+AsReyJota: folds 
+Sammy2212: folds 
+mjm1976m: calls $0.75
+AsReyJota leaves the table
+Steve Kash: raises $0.95 to $1.70 and is all-in
+Alameda22: folds 
+Ed.T: calls $0.95
+mjm1976m: calls $0.95
+*** FLOP *** [5s 5d 4c]
+HDRIDER777 joins the table at seat #1 
+Ed.T: bets $1.50
+mjm1976m: folds 
+Uncalled bet ($1.50) returned to Ed.T
+*** TURN *** [5s 5d 4c] [As]
+*** RIVER *** [5s 5d 4c As] [4d]
+*** SHOW DOWN ***
+Steve Kash: shows [8d 8h] (two pair, Eights and Fives)
+Ed.T: shows [3c Ac] (two pair, Aces and Fives)
+Ed.T collected $5.10 from pot
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [5s 5d 4c As 4d]
+Seat 1: AsReyJota folded before Flop (didn't bet)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m (button) folded on the Flop
+Seat 4: Steve Kash (small blind) showed [8d 8h] and lost with two pair, Eights and Fives
+Seat 5: Alameda22 (big blind) folded before Flop
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T showed [3c Ac] and won ($5.10) with two pair, Aces and Fives
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951036274:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:30:31 (ET)
+Table 'Veteraniya' 9-max Seat #5 is the button
+Seat 1: HDRIDER777 ($15 in chips) 
+Seat 2: Sammy2212 ($9.50 in chips) 
+Seat 3: mjm1976m ($5.80 in chips) 
+Seat 5: Alameda22 ($23 in chips) 
+Seat 6: shaktale66 ($28 in chips) 
+Seat 7: Ed.T ($27.60 in chips) 
+Seat 8: AcedePique ($26.10 in chips) 
+Seat 9: a2roscoe ($21.80 in chips) 
+shaktale66: posts small blind $0.10
+Ed.T: posts big blind $0.25
+HDRIDER777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 9s]
+Steve Kash leaves the table
+AcedePique: folds 
+a2roscoe: raises $1.25 to $1.50
+HDRIDER777: folds 
+cowboymonkey joins the table at seat #4 
+Sammy2212: folds 
+mjm1976m: folds 
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+Uncalled bet ($1.25) returned to a2roscoe
+a2roscoe collected $0.85 from pot
+a2roscoe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: HDRIDER777 folded before Flop
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: shaktale66 (small blind) folded before Flop
+Seat 7: Ed.T (big blind) folded before Flop
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe collected ($0.85)
+
+
+
+PokerStars Game #19951053985:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:31:16 (ET)
+Table 'Veteraniya' 9-max Seat #6 is the button
+Seat 1: HDRIDER777 ($14.75 in chips) 
+Seat 2: Sammy2212 ($9.50 in chips) 
+Seat 3: mjm1976m ($5.80 in chips) 
+Seat 4: cowboymonkey ($25 in chips) 
+Seat 5: Alameda22 ($23 in chips) 
+Seat 6: shaktale66 ($27.90 in chips) 
+Seat 7: Ed.T ($27.35 in chips) 
+Seat 8: AcedePique ($26.10 in chips) 
+Seat 9: a2roscoe ($22.40 in chips) 
+Ed.T: posts small blind $0.10
+AcedePique: posts big blind $0.25
+cowboymonkey: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Ts]
+a2roscoe: calls $0.25
+HDRIDER777: calls $0.25
+Sammy2212: folds 
+mjm1976m: folds 
+cowboymonkey: checks 
+Alameda22: calls $0.25
+shaktale66: calls $0.25
+Ed.T: calls $0.15
+AcedePique: checks 
+*** FLOP *** [9h 2h Qs]
+Ed.T: checks 
+AcedePique: checks 
+a2roscoe: checks 
+HDRIDER777: bets $1.50
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+AcedePique: folds 
+a2roscoe: folds 
+Uncalled bet ($1.50) returned to HDRIDER777
+HDRIDER777 collected $1.70 from pot
+HDRIDER777: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [9h 2h Qs]
+Seat 1: HDRIDER777 collected ($1.70)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m folded before Flop (didn't bet)
+Seat 4: cowboymonkey folded on the Flop
+Seat 5: Alameda22 folded on the Flop
+Seat 6: shaktale66 (button) folded on the Flop
+Seat 7: Ed.T (small blind) folded on the Flop
+Seat 8: AcedePique (big blind) folded on the Flop
+Seat 9: a2roscoe folded on the Flop
+
+
+
+PokerStars Game #19951084049:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:32:35 (ET)
+Table 'Veteraniya' 9-max Seat #7 is the button
+Seat 1: HDRIDER777 ($16.20 in chips) 
+Seat 2: Sammy2212 ($9.50 in chips) 
+Seat 3: mjm1976m ($5.80 in chips) 
+Seat 4: cowboymonkey ($24.75 in chips) 
+Seat 5: Alameda22 ($22.75 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: Ed.T ($27.10 in chips) 
+Seat 8: AcedePique ($25.85 in chips) 
+Seat 9: a2roscoe ($22.15 in chips) 
+AcedePique: posts small blind $0.10
+a2roscoe: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 5h]
+HDRIDER777: folds 
+Sammy2212: calls $0.25
+mjm1976m: calls $0.25
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+Ed.T is sitting out
+AcedePique: folds 
+a2roscoe: checks 
+*** FLOP *** [Qd 3s 6h]
+a2roscoe: checks 
+Sammy2212: checks 
+mjm1976m: bets $0.75
+Ed.T has returned
+a2roscoe: folds 
+Sammy2212: folds 
+Uncalled bet ($0.75) returned to mjm1976m
+mjm1976m collected $0.85 from pot
+mjm1976m: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Qd 3s 6h]
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 folded on the Flop
+Seat 3: mjm1976m collected ($0.85)
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T (button) folded before Flop (didn't bet)
+Seat 8: AcedePique (small blind) folded before Flop
+Seat 9: a2roscoe (big blind) folded on the Flop
+
+
+
+PokerStars Game #19951109351:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:33:42 (ET)
+Table 'Veteraniya' 9-max Seat #8 is the button
+Seat 1: HDRIDER777 ($16.20 in chips) 
+Seat 2: Sammy2212 ($9.25 in chips) 
+Seat 3: mjm1976m ($6.40 in chips) 
+Seat 4: cowboymonkey ($24.75 in chips) 
+Seat 5: Alameda22 ($22.75 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: Ed.T ($27.10 in chips) 
+Seat 8: AcedePique ($25.75 in chips) 
+Seat 9: a2roscoe ($21.90 in chips) 
+a2roscoe: posts small blind $0.10
+HDRIDER777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 3h]
+Sammy2212: folds 
+mjm1976m: folds 
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+AcedePique: folds 
+a2roscoe: folds 
+Uncalled bet ($0.15) returned to HDRIDER777
+HDRIDER777 collected $0.20 from pot
+HDRIDER777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: HDRIDER777 (big blind) collected ($0.20)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m folded before Flop (didn't bet)
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: AcedePique (button) folded before Flop (didn't bet)
+Seat 9: a2roscoe (small blind) folded before Flop
+
+
+
+PokerStars Game #19951124054:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:34:20 (ET)
+Table 'Veteraniya' 9-max Seat #9 is the button
+Seat 1: HDRIDER777 ($16.30 in chips) 
+Seat 2: Sammy2212 ($9.25 in chips) 
+Seat 3: mjm1976m ($6.40 in chips) 
+Seat 4: cowboymonkey ($24.75 in chips) 
+Seat 5: Alameda22 ($22.75 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: Ed.T ($27.10 in chips) 
+Seat 8: AcedePique ($25.75 in chips) 
+Seat 9: a2roscoe ($21.80 in chips) 
+HDRIDER777: posts small blind $0.10
+Sammy2212: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Kh]
+mjm1976m: calls $0.25
+cowboymonkey: folds 
+Alameda22: raises $0.75 to $1
+shaktale66: folds 
+Ed.T: folds 
+AcedePique: folds 
+a2roscoe: folds 
+HDRIDER777: folds 
+Sammy2212: folds 
+mjm1976m: calls $0.75
+*** FLOP *** [7c Js Ah]
+mjm1976m: bets $0.50
+Alameda22: raises $1.50 to $2
+mjm1976m: calls $1.50
+*** TURN *** [7c Js Ah] [2h]
+mjm1976m: checks 
+Alameda22: bets $4
+mjm1976m: folds 
+Uncalled bet ($4) returned to Alameda22
+Alameda22 collected $6.05 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.30 
+Board [7c Js Ah 2h]
+Seat 1: HDRIDER777 (small blind) folded before Flop
+Seat 2: Sammy2212 (big blind) folded before Flop
+Seat 3: mjm1976m folded on the Turn
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 collected ($6.05)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951155755:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:35:44 (ET)
+Table 'Veteraniya' 9-max Seat #1 is the button
+Seat 1: HDRIDER777 ($16.20 in chips) 
+Seat 2: Sammy2212 ($9 in chips) 
+Seat 3: mjm1976m ($3.40 in chips) 
+Seat 4: cowboymonkey ($24.75 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: Ed.T ($27.10 in chips) 
+Seat 8: AcedePique ($25.75 in chips) 
+Seat 9: a2roscoe ($21.80 in chips) 
+Sammy2212: posts small blind $0.10
+mjm1976m: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Kh]
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: raises $0.25 to $0.50
+AcedePique: folds 
+a2roscoe: folds 
+HDRIDER777: folds 
+Sammy2212: folds 
+mjm1976m: calls $0.25
+*** FLOP *** [2h Td Jc]
+mjm1976m: checks 
+Ed.T: bets $0.50
+mjm1976m: folds 
+Uncalled bet ($0.50) returned to Ed.T
+Ed.T collected $1.05 from pot
+Ed.T: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [2h Td Jc]
+Seat 1: HDRIDER777 (button) folded before Flop (didn't bet)
+Seat 2: Sammy2212 (small blind) folded before Flop
+Seat 3: mjm1976m (big blind) folded on the Flop
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T collected ($1.05)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951173698:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:36:32 (ET)
+Table 'Veteraniya' 9-max Seat #2 is the button
+Seat 1: HDRIDER777 ($16.20 in chips) 
+Seat 2: Sammy2212 ($8.90 in chips) 
+Seat 3: mjm1976m ($2.90 in chips) 
+Seat 4: cowboymonkey ($24.75 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: Ed.T ($27.65 in chips) 
+Seat 8: AcedePique ($25.75 in chips) 
+Seat 9: a2roscoe ($21.80 in chips) 
+mjm1976m: posts small blind $0.10
+cowboymonkey: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Th]
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+AcedePique: folds 
+a2roscoe: folds 
+HDRIDER777: folds 
+Sammy2212: folds 
+mjm1976m: calls $0.15
+cowboymonkey: checks 
+*** FLOP *** [9s Qh 8c]
+mjm1976m: bets $0.25
+cowboymonkey: folds 
+Uncalled bet ($0.25) returned to mjm1976m
+mjm1976m collected $0.50 from pot
+mjm1976m: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [9s Qh 8c]
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 (button) folded before Flop (didn't bet)
+Seat 3: mjm1976m (small blind) collected ($0.50)
+Seat 4: cowboymonkey (big blind) folded on the Flop
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951195670:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:37:29 (ET)
+Table 'Veteraniya' 9-max Seat #3 is the button
+Seat 1: HDRIDER777 ($16.20 in chips) 
+Seat 2: Sammy2212 ($8.90 in chips) 
+Seat 3: mjm1976m ($3.15 in chips) 
+Seat 4: cowboymonkey ($24.50 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: Ed.T ($27.65 in chips) 
+Seat 8: AcedePique ($25.75 in chips) 
+Seat 9: a2roscoe ($21.80 in chips) 
+cowboymonkey: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Ah]
+shaktale66: folds 
+Ed.T: folds 
+AcedePique: folds 
+a2roscoe: folds 
+HDRIDER777: folds 
+Sammy2212: folds 
+mjm1976m: folds 
+cowboymonkey: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m (button) folded before Flop (didn't bet)
+Seat 4: cowboymonkey (small blind) folded before Flop
+Seat 5: Alameda22 (big blind) collected ($0.20)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951203588:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:37:50 (ET)
+Table 'Veteraniya' 9-max Seat #4 is the button
+Seat 1: HDRIDER777 ($16.20 in chips) 
+Seat 2: Sammy2212 ($8.90 in chips) 
+Seat 3: mjm1976m ($3.15 in chips) 
+Seat 4: cowboymonkey ($24.40 in chips) 
+Seat 5: Alameda22 ($25.90 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: Ed.T ($27.65 in chips) 
+Seat 8: AcedePique ($25.75 in chips) 
+Seat 9: a2roscoe ($21.80 in chips) 
+Alameda22: posts small blind $0.10
+shaktale66: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Ts]
+Ed.T: folds 
+AcedePique: folds 
+a2roscoe: folds 
+HDRIDER777: folds 
+Sammy2212: folds 
+mjm1976m: raises $0.25 to $0.50
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: folds 
+Uncalled bet ($0.25) returned to mjm1976m
+mjm1976m collected $0.60 from pot
+mjm1976m: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m collected ($0.60)
+Seat 4: cowboymonkey (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 6: shaktale66 (big blind) folded before Flop
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951214363:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:38:19 (ET)
+Table 'Veteraniya' 9-max Seat #5 is the button
+Seat 1: HDRIDER777 ($16.20 in chips) 
+Seat 2: Sammy2212 ($8.90 in chips) 
+Seat 3: mjm1976m ($3.50 in chips) 
+Seat 4: cowboymonkey ($24.40 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.40 in chips) 
+Seat 7: Ed.T ($27.65 in chips) 
+Seat 8: AcedePique ($25.75 in chips) 
+Seat 9: a2roscoe ($21.80 in chips) 
+shaktale66: posts small blind $0.10
+Ed.T: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Th]
+AcedePique: folds 
+a2roscoe: calls $0.25
+HDRIDER777: folds 
+Sammy2212: folds 
+mjm1976m: folds 
+cowboymonkey: raises $0.75 to $1
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+a2roscoe: calls $0.75
+*** FLOP *** [Td Kc Js]
+a2roscoe: checks 
+cowboymonkey: bets $1.50
+a2roscoe: folds 
+Uncalled bet ($1.50) returned to cowboymonkey
+cowboymonkey collected $2.25 from pot
+cowboymonkey: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Td Kc Js]
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m folded before Flop (didn't bet)
+Seat 4: cowboymonkey collected ($2.25)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: shaktale66 (small blind) folded before Flop
+Seat 7: Ed.T (big blind) folded before Flop
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe folded on the Flop
+
+
+
+PokerStars Game #19951239267:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:39:24 (ET)
+Table 'Veteraniya' 9-max Seat #6 is the button
+Seat 1: HDRIDER777 ($16.20 in chips) 
+Seat 2: Sammy2212 ($8.90 in chips) 
+Seat 3: mjm1976m ($3.50 in chips) 
+Seat 4: cowboymonkey ($25.65 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.30 in chips) 
+Seat 7: Ed.T ($27.40 in chips) 
+Seat 8: AcedePique ($25.75 in chips) 
+Seat 9: a2roscoe ($20.80 in chips) 
+Ed.T: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 4h]
+a2roscoe: folds 
+HDRIDER777: folds 
+Sammy2212: folds 
+mjm1976m: folds 
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: calls $0.25
+Ed.T: folds 
+AcedePique: checks 
+*** FLOP *** [5s 8h 2d]
+AcedePique: checks 
+shaktale66: checks 
+*** TURN *** [5s 8h 2d] [5h]
+AcedePique: checks 
+shaktale66: checks 
+*** RIVER *** [5s 8h 2d 5h] [6h]
+AcedePique: checks 
+shaktale66: bets $4.50
+AcedePique: folds 
+Uncalled bet ($4.50) returned to shaktale66
+shaktale66 collected $0.60 from pot
+shaktale66: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [5s 8h 2d 5h 6h]
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m folded before Flop (didn't bet)
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 (button) collected ($0.60)
+Seat 7: Ed.T (small blind) folded before Flop
+Seat 8: AcedePique (big blind) folded on the River
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951265252:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:40:32 (ET)
+Table 'Veteraniya' 9-max Seat #7 is the button
+Seat 1: HDRIDER777 ($16.20 in chips) 
+Seat 2: Sammy2212 ($8.90 in chips) 
+Seat 3: mjm1976m ($3.50 in chips) 
+Seat 4: cowboymonkey ($25.65 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: Ed.T ($27.30 in chips) 
+Seat 8: AcedePique ($25.50 in chips) 
+Seat 9: a2roscoe ($20.80 in chips) 
+AcedePique: posts small blind $0.10
+a2roscoe: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 5c]
+HDRIDER777: calls $0.25
+Sammy2212: folds 
+mjm1976m: folds 
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+AcedePique: folds 
+a2roscoe: checks 
+*** FLOP *** [7d 5h 4h]
+a2roscoe: checks 
+HDRIDER777: bets $0.50
+a2roscoe: folds 
+Uncalled bet ($0.50) returned to HDRIDER777
+HDRIDER777 collected $0.60 from pot
+HDRIDER777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7d 5h 4h]
+Seat 1: HDRIDER777 collected ($0.60)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m folded before Flop (didn't bet)
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T (button) folded before Flop (didn't bet)
+Seat 8: AcedePique (small blind) folded before Flop
+Seat 9: a2roscoe (big blind) folded on the Flop
+
+
+
+PokerStars Game #19951279949:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:41:11 (ET)
+Table 'Veteraniya' 9-max Seat #8 is the button
+Seat 1: HDRIDER777 ($16.55 in chips) 
+Seat 2: Sammy2212 ($8.90 in chips) 
+Seat 3: mjm1976m ($3.50 in chips) 
+Seat 4: cowboymonkey ($25.65 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: Ed.T ($27.30 in chips) 
+Seat 8: AcedePique ($25.40 in chips) 
+Seat 9: a2roscoe ($20.55 in chips) 
+a2roscoe: posts small blind $0.10
+HDRIDER777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 2s]
+Sammy2212: folds 
+mjm1976m: calls $0.25
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+Ed.T is sitting out
+AcedePique: folds 
+a2roscoe: folds 
+HDRIDER777: checks 
+*** FLOP *** [Kc 6s Qc]
+HDRIDER777: bets $0.50
+mjm1976m: raises $0.50 to $1
+HDRIDER777: calls $0.50
+*** TURN *** [Kc 6s Qc] [2c]
+HDRIDER777: checks 
+mjm1976m: bets $1
+HDRIDER777: folds 
+Uncalled bet ($1) returned to mjm1976m
+mjm1976m collected $2.50 from pot
+mjm1976m: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Kc 6s Qc 2c]
+Seat 1: HDRIDER777 (big blind) folded on the Turn
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m collected ($2.50)
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: AcedePique (button) folded before Flop (didn't bet)
+Seat 9: a2roscoe (small blind) folded before Flop
+
+
+
+PokerStars Game #19951298572:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:41:57 (ET)
+Table 'Veteraniya' 9-max Seat #9 is the button
+Seat 1: HDRIDER777 ($15.30 in chips) 
+Seat 2: Sammy2212 ($8.90 in chips) 
+Seat 3: mjm1976m ($4.75 in chips) 
+Seat 4: cowboymonkey ($25.65 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 8: AcedePique ($25.40 in chips) 
+Seat 9: a2roscoe ($20.45 in chips) 
+HDRIDER777: posts small blind $0.10
+Sammy2212: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 4h]
+mjm1976m: calls $0.25
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: calls $0.25
+AcedePique: folds 
+a2roscoe: folds 
+HDRIDER777: folds 
+Sammy2212: checks 
+*** FLOP *** [Th 7c Ts]
+Sammy2212: checks 
+mjm1976m: checks 
+shaktale66: checks 
+*** TURN *** [Th 7c Ts] [3s]
+Sammy2212: checks 
+mjm1976m: checks 
+shaktale66: checks 
+*** RIVER *** [Th 7c Ts 3s] [Js]
+Sammy2212: checks 
+mjm1976m: bets $0.50
+shaktale66: folds 
+Sammy2212: folds 
+Uncalled bet ($0.50) returned to mjm1976m
+mjm1976m collected $0.85 from pot
+mjm1976m: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Th 7c Ts 3s Js]
+Seat 1: HDRIDER777 (small blind) folded before Flop
+Seat 2: Sammy2212 (big blind) folded on the River
+Seat 3: mjm1976m collected ($0.85)
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded on the River
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951323311:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:43:01 (ET)
+Table 'Veteraniya' 9-max Seat #1 is the button
+Seat 1: HDRIDER777 ($15.20 in chips) 
+Seat 2: Sammy2212 ($8.65 in chips) 
+Seat 3: mjm1976m ($5.35 in chips) 
+Seat 4: cowboymonkey ($25.65 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.40 in chips) 
+Seat 8: AcedePique ($25.40 in chips) 
+Seat 9: a2roscoe ($20.45 in chips) 
+Sammy2212: posts small blind $0.10
+mjm1976m: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Tc]
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: folds 
+AcedePique: folds 
+a2roscoe: folds 
+HDRIDER777: folds 
+Sammy2212: calls $0.15
+mjm1976m: raises $0.75 to $1
+Ed.T has returned
+Sammy2212: calls $0.75
+*** FLOP *** [5s 5h Kc]
+Sammy2212: checks 
+mjm1976m: bets $1
+Sammy2212: folds 
+Uncalled bet ($1) returned to mjm1976m
+mjm1976m collected $1.90 from pot
+mjm1976m: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [5s 5h Kc]
+Seat 1: HDRIDER777 (button) folded before Flop (didn't bet)
+Seat 2: Sammy2212 (small blind) folded on the Flop
+Seat 3: mjm1976m (big blind) collected ($1.90)
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951347651:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:44:04 (ET)
+Table 'Veteraniya' 9-max Seat #2 is the button
+Seat 1: HDRIDER777 ($15.20 in chips) 
+Seat 2: Sammy2212 ($7.65 in chips) 
+Seat 3: mjm1976m ($6.25 in chips) 
+Seat 4: cowboymonkey ($25.65 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.40 in chips) 
+Seat 7: Ed.T ($27.30 in chips) 
+Seat 8: AcedePique ($25.40 in chips) 
+Seat 9: a2roscoe ($20.45 in chips) 
+mjm1976m: posts small blind $0.10
+cowboymonkey: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 6h]
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+AcedePique: folds 
+a2roscoe: folds 
+HDRIDER777: folds 
+Sammy2212: calls $0.25
+mjm1976m: raises $1 to $1.25
+cowboymonkey: folds 
+Sammy2212: folds 
+Uncalled bet ($1) returned to mjm1976m
+mjm1976m collected $0.75 from pot
+mjm1976m: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 (button) folded before Flop
+Seat 3: mjm1976m (small blind) collected ($0.75)
+Seat 4: cowboymonkey (big blind) folded before Flop
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951371694:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:45:06 (ET)
+Table 'Veteraniya' 9-max Seat #3 is the button
+Seat 1: HDRIDER777 ($15.20 in chips) 
+Seat 2: Sammy2212 ($7.40 in chips) 
+Seat 3: mjm1976m ($6.75 in chips) 
+Seat 4: cowboymonkey ($25.40 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.40 in chips) 
+Seat 7: Ed.T ($27.30 in chips) 
+Seat 8: AcedePique ($25.40 in chips) 
+Seat 9: a2roscoe ($20.45 in chips) 
+cowboymonkey: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Th]
+shaktale66: folds 
+Ed.T: folds 
+AcedePique: folds 
+a2roscoe: folds 
+HDRIDER777: folds 
+Sammy2212: folds 
+mjm1976m: folds 
+cowboymonkey: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m (button) folded before Flop (didn't bet)
+Seat 4: cowboymonkey (small blind) folded before Flop
+Seat 5: Alameda22 (big blind) collected ($0.20)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951382706:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:45:34 (ET)
+Table 'Veteraniya' 9-max Seat #4 is the button
+Seat 1: HDRIDER777 ($15.20 in chips) 
+Seat 2: Sammy2212 ($7.40 in chips) 
+Seat 3: mjm1976m ($6.75 in chips) 
+Seat 4: cowboymonkey ($25.30 in chips) 
+Seat 5: Alameda22 ($25.90 in chips) 
+Seat 6: shaktale66 ($27.40 in chips) 
+Seat 7: Ed.T ($27.30 in chips) 
+Seat 8: AcedePique ($25.40 in chips) 
+Seat 9: a2roscoe ($20.45 in chips) 
+Alameda22: posts small blind $0.10
+shaktale66: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Qc]
+Ed.T: folds 
+AcedePique: folds 
+a2roscoe: folds 
+HDRIDER777: folds 
+Sammy2212: folds 
+mjm1976m: calls $0.25
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: checks 
+*** FLOP *** [9h 6d 2h]
+shaktale66: checks 
+mjm1976m: checks 
+*** TURN *** [9h 6d 2h] [4d]
+shaktale66: checks 
+mjm1976m: checks 
+*** RIVER *** [9h 6d 2h 4d] [4s]
+shaktale66: checks 
+mjm1976m: checks 
+*** SHOW DOWN ***
+shaktale66: shows [Ad 8c] (a pair of Fours)
+mjm1976m: mucks hand 
+shaktale66 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9h 6d 2h 4d 4s]
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m mucked [8d Ks]
+Seat 4: cowboymonkey (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 6: shaktale66 (big blind) showed [Ad 8c] and won ($0.60) with a pair of Fours
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951401123:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:46:22 (ET)
+Table 'Veteraniya' 9-max Seat #5 is the button
+Seat 1: HDRIDER777 ($15.20 in chips) 
+Seat 2: Sammy2212 ($7.40 in chips) 
+Seat 3: mjm1976m ($6.50 in chips) 
+Seat 4: cowboymonkey ($25.30 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.75 in chips) 
+Seat 7: Ed.T ($27.30 in chips) 
+Seat 8: AcedePique ($25.40 in chips) 
+Seat 9: a2roscoe ($20.45 in chips) 
+shaktale66: posts small blind $0.10
+Ed.T: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Ad]
+AcedePique: folds 
+a2roscoe: folds 
+AcedePique leaves the table
+HDRIDER777: folds 
+Sammy2212: calls $0.25
+mjm1976m: folds 
+cowboymonkey: raises $0.75 to $1
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+Sammy2212: calls $0.75
+*** FLOP *** [6d Jd 5c]
+Sammy2212: checks 
+cowboymonkey: bets $1.50
+Sammy2212: raises $1.50 to $3
+cowboymonkey: raises $5.75 to $8.75
+Sammy2212: calls $3.40 and is all-in
+Uncalled bet ($2.35) returned to cowboymonkey
+*** TURN *** [6d Jd 5c] [8c]
+*** RIVER *** [6d Jd 5c 8c] [2h]
+*** SHOW DOWN ***
+Sammy2212: shows [Js Jc] (three of a kind, Jacks)
+cowboymonkey: mucks hand 
+Sammy2212 collected $14.40 from pot
+*** SUMMARY ***
+Total pot $15.15 | Rake $0.75 
+Board [6d Jd 5c 8c 2h]
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 showed [Js Jc] and won ($14.40) with three of a kind, Jacks
+Seat 3: mjm1976m folded before Flop (didn't bet)
+Seat 4: cowboymonkey mucked [5h 6h]
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: shaktale66 (small blind) folded before Flop
+Seat 7: Ed.T (big blind) folded before Flop
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951430265:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:47:36 (ET)
+Table 'Veteraniya' 9-max Seat #6 is the button
+Seat 1: HDRIDER777 ($15.20 in chips) 
+Seat 2: Sammy2212 ($14.40 in chips) 
+Seat 3: mjm1976m ($6.50 in chips) 
+Seat 4: cowboymonkey ($17.90 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: Ed.T ($27.05 in chips) 
+Seat 9: a2roscoe ($20.45 in chips) 
+Ed.T: posts small blind $0.10
+a2roscoe: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 9s]
+HDRIDER777: calls $0.25
+Sammy2212: folds 
+mjm1976m: raises $0.75 to $1
+cowboymonkey: folds 
+slashbait joins the table at seat #8 
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: calls $0.90
+a2roscoe: folds 
+HDRIDER777: calls $0.75
+*** FLOP *** [2s Jh Qh]
+Ed.T: bets $3.10
+HDRIDER777: calls $3.10
+mjm1976m: folds 
+*** TURN *** [2s Jh Qh] [2d]
+Ed.T: checks 
+HDRIDER777: bets $4.75
+Ed.T: calls $4.75
+*** RIVER *** [2s Jh Qh 2d] [Jd]
+Ed.T: checks 
+HDRIDER777: checks 
+*** SHOW DOWN ***
+Ed.T: shows [Qc Ah] (two pair, Queens and Jacks)
+HDRIDER777: mucks hand 
+Ed.T collected $18.05 from pot
+*** SUMMARY ***
+Total pot $18.95 | Rake $0.90 
+Board [2s Jh Qh 2d Jd]
+Seat 1: HDRIDER777 mucked [Qs Kd]
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m folded on the Flop
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 (button) folded before Flop (didn't bet)
+Seat 7: Ed.T (small blind) showed [Qc Ah] and won ($18.05) with two pair, Queens and Jacks
+Seat 9: a2roscoe (big blind) folded before Flop
+
+
+
+PokerStars Game #19951463018:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:49:00 (ET)
+Table 'Veteraniya' 9-max Seat #7 is the button
+Seat 1: HDRIDER777 ($6.35 in chips) 
+Seat 2: Sammy2212 ($14.40 in chips) 
+Seat 3: mjm1976m ($5.50 in chips) 
+Seat 4: cowboymonkey ($17.90 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: Ed.T ($36.25 in chips) 
+Seat 9: a2roscoe ($20.20 in chips) 
+slashbait will be allowed to play after the button
+a2roscoe: posts small blind $0.10
+HDRIDER777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Jd]
+Sammy2212: folds 
+mjm1976m: folds 
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+a2roscoe: folds 
+Uncalled bet ($0.15) returned to HDRIDER777
+HDRIDER777 collected $0.20 from pot
+HDRIDER777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: HDRIDER777 (big blind) collected ($0.20)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m folded before Flop (didn't bet)
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T (button) folded before Flop (didn't bet)
+Seat 9: a2roscoe (small blind) folded before Flop
+
+
+
+PokerStars Game #19951476059:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:49:34 (ET)
+Table 'Veteraniya' 9-max Seat #9 is the button
+Seat 1: HDRIDER777 ($6.45 in chips) 
+Seat 2: Sammy2212 ($14.40 in chips) 
+Seat 3: mjm1976m ($5.50 in chips) 
+Seat 4: cowboymonkey ($17.90 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: Ed.T ($36.25 in chips) 
+Seat 8: slashbait ($15 in chips) 
+Seat 9: a2roscoe ($20.10 in chips) 
+HDRIDER777: posts small blind $0.10
+Sammy2212: posts big blind $0.25
+slashbait: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 7h]
+mjm1976m: folds 
+cowboymonkey: raises $0.75 to $1
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+slashbait: calls $0.75
+a2roscoe: folds 
+HDRIDER777: calls $0.90
+Sammy2212: folds 
+*** FLOP *** [8d 6s Qh]
+HDRIDER777: checks 
+cowboymonkey: bets $2.25
+slashbait: folds 
+HDRIDER777: folds 
+Uncalled bet ($2.25) returned to cowboymonkey
+cowboymonkey collected $3.10 from pot
+cowboymonkey: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [8d 6s Qh]
+Seat 1: HDRIDER777 (small blind) folded on the Flop
+Seat 2: Sammy2212 (big blind) folded before Flop
+Seat 3: mjm1976m folded before Flop (didn't bet)
+Seat 4: cowboymonkey collected ($3.10)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: slashbait folded on the Flop
+Seat 9: a2roscoe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951502226:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:50:42 (ET)
+Table 'Veteraniya' 9-max Seat #1 is the button
+Seat 1: HDRIDER777 ($5.45 in chips) 
+Seat 2: Sammy2212 ($14.15 in chips) 
+Seat 3: mjm1976m ($5.50 in chips) 
+Seat 4: cowboymonkey ($20 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: Ed.T ($36.25 in chips) 
+Seat 8: slashbait ($14 in chips) 
+Seat 9: a2roscoe ($20.10 in chips) 
+Sammy2212: posts small blind $0.10
+mjm1976m: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 9d]
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+slashbait: folds 
+a2roscoe: folds 
+HDRIDER777: raises $0.50 to $0.75
+Sammy2212: folds 
+mjm1976m: calls $0.50
+*** FLOP *** [As 4d Jc]
+mjm1976m: checks 
+HDRIDER777: bets $1
+mjm1976m: calls $1
+*** TURN *** [As 4d Jc] [Ad]
+mjm1976m: bets $2
+HDRIDER777: calls $2
+*** RIVER *** [As 4d Jc Ad] [Qs]
+mjm1976m: bets $1.75 and is all-in
+HDRIDER777: calls $1.70 and is all-in
+Uncalled bet ($0.05) returned to mjm1976m
+*** SHOW DOWN ***
+mjm1976m: shows [Ks Qh] (two pair, Aces and Queens)
+HDRIDER777: shows [Qd Kd] (two pair, Aces and Queens)
+mjm1976m collected $5.25 from pot
+HDRIDER777 collected $5.25 from pot
+mjm1976m said, ":-)"
+*** SUMMARY ***
+Total pot $11 | Rake $0.50 
+Board [As 4d Jc Ad Qs]
+Seat 1: HDRIDER777 (button) showed [Qd Kd] and won ($5.25) with two pair, Aces and Queens
+Seat 2: Sammy2212 (small blind) folded before Flop
+Seat 3: mjm1976m (big blind) showed [Ks Qh] and won ($5.25) with two pair, Aces and Queens
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: slashbait folded before Flop (didn't bet)
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951528585:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:51:50 (ET)
+Table 'Veteraniya' 9-max Seat #2 is the button
+Seat 1: HDRIDER777 ($5.25 in chips) 
+Seat 2: Sammy2212 ($14.05 in chips) 
+Seat 3: mjm1976m ($5.30 in chips) 
+Seat 4: cowboymonkey ($20 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: Ed.T ($36.25 in chips) 
+Seat 8: slashbait ($14 in chips) 
+Seat 9: a2roscoe ($20.10 in chips) 
+mjm1976m: posts small blind $0.10
+cowboymonkey: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Jd]
+Alameda22: folds 
+shaktale66: folds 
+Ed.T: folds 
+slashbait: folds 
+a2roscoe: folds 
+HDRIDER777: folds 
+Sammy2212: calls $0.25
+mjm1976m: calls $0.15
+cowboymonkey: checks 
+*** FLOP *** [2h Qc Ts]
+mjm1976m: checks 
+cowboymonkey: checks 
+Sammy2212: bets $0.75
+mjm1976m: folds 
+cowboymonkey: folds 
+Uncalled bet ($0.75) returned to Sammy2212
+Sammy2212 collected $0.75 from pot
+Sammy2212: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [2h Qc Ts]
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 (button) collected ($0.75)
+Seat 3: mjm1976m (small blind) folded on the Flop
+Seat 4: cowboymonkey (big blind) folded on the Flop
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: slashbait folded before Flop (didn't bet)
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951548118:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:52:41 (ET)
+Table 'Veteraniya' 9-max Seat #3 is the button
+Seat 1: HDRIDER777 ($5.25 in chips) 
+Seat 2: Sammy2212 ($14.55 in chips) 
+Seat 3: mjm1976m ($5.05 in chips) 
+Seat 4: cowboymonkey ($19.75 in chips) 
+Seat 5: Alameda22 ($25.80 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: Ed.T ($36.25 in chips) 
+Seat 8: slashbait ($14 in chips) 
+Seat 9: a2roscoe ($20.10 in chips) 
+cowboymonkey: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 3h]
+shaktale66: folds 
+Ed.T: folds 
+slashbait: folds 
+a2roscoe: raises $0.75 to $1
+HDRIDER777: folds 
+Sammy2212: folds 
+mjm1976m: folds 
+cowboymonkey: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to a2roscoe
+a2roscoe collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m (button) folded before Flop (didn't bet)
+Seat 4: cowboymonkey (small blind) folded before Flop
+Seat 5: Alameda22 (big blind) folded before Flop
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: slashbait folded before Flop (didn't bet)
+Seat 9: a2roscoe collected ($0.60)
+
+
+
+PokerStars Game #19951559221:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:53:09 (ET)
+Table 'Veteraniya' 9-max Seat #4 is the button
+Seat 1: HDRIDER777 ($8.85 in chips) 
+Seat 2: Sammy2212 ($14.55 in chips) 
+Seat 3: mjm1976m ($5.05 in chips) 
+Seat 4: cowboymonkey ($19.65 in chips) 
+Seat 5: Alameda22 ($25.55 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: Ed.T ($36.25 in chips) 
+Seat 8: slashbait ($14 in chips) 
+Seat 9: a2roscoe ($20.45 in chips) 
+Alameda22: posts small blind $0.10
+shaktale66: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 3d]
+Ed.T: folds 
+slashbait: folds 
+a2roscoe: folds 
+HDRIDER777: folds 
+Ed.T leaves the table
+Sammy2212: folds 
+mjm1976m: calls $0.25
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: checks 
+*** FLOP *** [8s 3s 8d]
+shaktale66: checks 
+mjm1976m: bets $0.50
+shaktale66: folds 
+Uncalled bet ($0.50) returned to mjm1976m
+mjm1976m collected $0.60 from pot
+mjm1976m: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8s 3s 8d]
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m collected ($0.60)
+Seat 4: cowboymonkey (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 6: shaktale66 (big blind) folded on the Flop
+Seat 7: Ed.T folded before Flop (didn't bet)
+Seat 8: slashbait folded before Flop (didn't bet)
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951575378:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:53:51 (ET)
+Table 'Veteraniya' 9-max Seat #5 is the button
+Seat 1: HDRIDER777 ($8.85 in chips) 
+Seat 2: Sammy2212 ($14.55 in chips) 
+Seat 3: mjm1976m ($5.40 in chips) 
+Seat 4: cowboymonkey ($19.65 in chips) 
+Seat 5: Alameda22 ($25.45 in chips) 
+Seat 6: shaktale66 ($27.40 in chips) 
+Seat 8: slashbait ($14 in chips) 
+Seat 9: a2roscoe ($20.45 in chips) 
+shaktale66: posts small blind $0.10
+slashbait: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 5h]
+a2roscoe: folds 
+HDRIDER777: folds 
+Sammy2212: folds 
+mjm1976m: calls $0.25
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: folds 
+slashbait: checks 
+*** FLOP *** [9c 4d 7h]
+slashbait: checks 
+mjm1976m: checks 
+*** TURN *** [9c 4d 7h] [Ad]
+slashbait: checks 
+mjm1976m: bets $0.50
+slashbait: folds 
+Uncalled bet ($0.50) returned to mjm1976m
+mjm1976m collected $0.60 from pot
+mjm1976m: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9c 4d 7h Ad]
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m collected ($0.60)
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: shaktale66 (small blind) folded before Flop
+Seat 8: slashbait (big blind) folded on the Turn
+Seat 9: a2roscoe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951589724:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:54:29 (ET)
+Table 'Veteraniya' 9-max Seat #6 is the button
+Seat 1: HDRIDER777 ($8.85 in chips) 
+Seat 2: Sammy2212 ($14.55 in chips) 
+Seat 3: mjm1976m ($5.75 in chips) 
+Seat 4: cowboymonkey ($19.65 in chips) 
+Seat 5: Alameda22 ($25.45 in chips) 
+Seat 6: shaktale66 ($27.30 in chips) 
+Seat 8: slashbait ($13.75 in chips) 
+slashbait: posts small blind $0.10
+a2roscoe: is sitting out 
+HDRIDER777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Kc]
+Sammy2212: folds 
+mjm1976m: calls $0.25
+cowboymonkey: folds 
+a2roscoe leaves the table
+Alameda22: folds 
+shaktale66: folds 
+slashbait: calls $0.15
+HDRIDER777: checks 
+*** FLOP *** [Js Ks 7h]
+slashbait: bets $0.75
+HDRIDER777: calls $0.75
+mjm1976m: calls $0.75
+*** TURN *** [Js Ks 7h] [Qd]
+slashbait: bets $3.50
+HDRIDER777: folds 
+mjm1976m: folds 
+Uncalled bet ($3.50) returned to slashbait
+slashbait collected $2.85 from pot
+slashbait: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Js Ks 7h Qd]
+Seat 1: HDRIDER777 (big blind) folded on the Turn
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m folded on the Turn
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 (button) folded before Flop (didn't bet)
+Seat 8: slashbait (small blind) collected ($2.85)
+
+
+
+PokerStars Game #19951610085:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:55:22 (ET)
+Table 'Veteraniya' 9-max Seat #8 is the button
+Seat 1: HDRIDER777 ($7.85 in chips) 
+Seat 2: Sammy2212 ($14.55 in chips) 
+Seat 3: mjm1976m ($4.75 in chips) 
+Seat 4: cowboymonkey ($19.65 in chips) 
+Seat 5: Alameda22 ($25.45 in chips) 
+Seat 6: shaktale66 ($27.30 in chips) 
+Seat 8: slashbait ($15.60 in chips) 
+HDRIDER777: posts small blind $0.10
+Sammy2212: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 6s]
+mjm1976m: calls $0.25
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: folds 
+slashbait: folds 
+HDRIDER777: calls $0.15
+Sammy2212: checks 
+*** FLOP *** [Qh 8d Ac]
+HDRIDER777: bets $0.75
+Sammy2212: folds 
+mjm1976m: folds 
+Uncalled bet ($0.75) returned to HDRIDER777
+HDRIDER777 collected $0.75 from pot
+HDRIDER777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Qh 8d Ac]
+Seat 1: HDRIDER777 (small blind) collected ($0.75)
+Seat 2: Sammy2212 (big blind) folded on the Flop
+Seat 3: mjm1976m folded on the Flop
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 8: slashbait (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951625043:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:56:01 (ET)
+Table 'Veteraniya' 9-max Seat #1 is the button
+Seat 1: HDRIDER777 ($8.35 in chips) 
+Seat 2: Sammy2212 ($14.30 in chips) 
+Seat 3: mjm1976m ($4.50 in chips) 
+Seat 4: cowboymonkey ($19.65 in chips) 
+Seat 5: Alameda22 ($25.45 in chips) 
+Seat 6: shaktale66 ($27.30 in chips) 
+Seat 8: slashbait ($15.60 in chips) 
+Sammy2212: posts small blind $0.10
+mjm1976m: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Ah]
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: folds 
+slashbait: folds 
+HDRIDER777: raises $0.50 to $0.75
+Sammy2212: folds 
+mjm1976m: raises $3.75 to $4.50 and is all-in
+HDRIDER777: calls $3.75
+*** FLOP *** [2c 7c As]
+*** TURN *** [2c 7c As] [Qd]
+*** RIVER *** [2c 7c As Qd] [5s]
+*** SHOW DOWN ***
+mjm1976m: shows [Ad Jd] (a pair of Aces)
+HDRIDER777: mucks hand 
+mjm1976m collected $8.65 from pot
+*** SUMMARY ***
+Total pot $9.10 | Rake $0.45 
+Board [2c 7c As Qd 5s]
+Seat 1: HDRIDER777 (button) mucked [Qh Kh]
+Seat 2: Sammy2212 (small blind) folded before Flop
+Seat 3: mjm1976m (big blind) showed [Ad Jd] and won ($8.65) with a pair of Aces
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 8: slashbait folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951646116:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:56:56 (ET)
+Table 'Veteraniya' 9-max Seat #2 is the button
+Seat 1: HDRIDER777 ($3.85 in chips) 
+Seat 2: Sammy2212 ($14.20 in chips) 
+Seat 3: mjm1976m ($8.65 in chips) 
+Seat 4: cowboymonkey ($19.65 in chips) 
+Seat 5: Alameda22 ($25.45 in chips) 
+Seat 6: shaktale66 ($27.30 in chips) 
+Seat 8: slashbait ($15.60 in chips) 
+mjm1976m: posts small blind $0.10
+cowboymonkey: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 9c]
+Alameda22: folds 
+shaktale66: folds 
+slashbait: folds 
+HDRIDER777: folds 
+Sammy2212: folds 
+mjm1976m: calls $0.15
+cowboymonkey: checks 
+*** FLOP *** [7d As Ts]
+mjm1976m: bets $0.50
+cowboymonkey: folds 
+Uncalled bet ($0.50) returned to mjm1976m
+mjm1976m collected $0.50 from pot
+mjm1976m: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [7d As Ts]
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 (button) folded before Flop (didn't bet)
+Seat 3: mjm1976m (small blind) collected ($0.50)
+Seat 4: cowboymonkey (big blind) folded on the Flop
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 8: slashbait folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951657628:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:57:26 (ET)
+Table 'Veteraniya' 9-max Seat #3 is the button
+Seat 1: HDRIDER777 ($3.85 in chips) 
+Seat 2: Sammy2212 ($14.20 in chips) 
+Seat 3: mjm1976m ($8.90 in chips) 
+Seat 4: cowboymonkey ($19.40 in chips) 
+Seat 5: Alameda22 ($25.45 in chips) 
+Seat 6: shaktale66 ($27.30 in chips) 
+Seat 8: slashbait ($15.60 in chips) 
+cowboymonkey: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 7h]
+shaktale66: folds 
+slashbait: calls $0.25
+HDRIDER777: folds 
+Sammy2212: folds 
+mjm1976m: raises $0.50 to $0.75
+cowboymonkey: folds 
+Alameda22: folds 
+slashbait: calls $0.50
+*** FLOP *** [9s Ts 8c]
+slashbait: checks 
+mjm1976m: checks 
+*** TURN *** [9s Ts 8c] [2c]
+slashbait: checks 
+mjm1976m: checks 
+*** RIVER *** [9s Ts 8c 2c] [4d]
+slashbait: checks 
+mjm1976m: checks 
+*** SHOW DOWN ***
+slashbait: shows [Ac Kh] (high card Ace)
+mjm1976m: mucks hand 
+slashbait collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [9s Ts 8c 2c 4d]
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m (button) mucked [5s Ad]
+Seat 4: cowboymonkey (small blind) folded before Flop
+Seat 5: Alameda22 (big blind) folded before Flop
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 8: slashbait showed [Ac Kh] and won ($1.80) with high card Ace
+
+
+
+PokerStars Game #19951677548:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:58:19 (ET)
+Table 'Veteraniya' 9-max Seat #4 is the button
+Seat 1: HDRIDER777 ($3.85 in chips) 
+Seat 2: Sammy2212 ($14.20 in chips) 
+Seat 3: mjm1976m ($8.15 in chips) 
+Seat 4: cowboymonkey ($19.30 in chips) 
+Seat 5: Alameda22 ($25.20 in chips) 
+Seat 6: shaktale66 ($27.30 in chips) 
+Seat 8: slashbait ($16.65 in chips) 
+Alameda22: posts small blind $0.10
+shaktale66: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Qc]
+slashbait: folds 
+HDRIDER777: folds 
+Sammy2212: folds 
+mjm1976m: calls $0.25
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: checks 
+*** FLOP *** [4d Ks Tc]
+shaktale66: checks 
+mjm1976m: checks 
+*** TURN *** [4d Ks Tc] [4s]
+shaktale66: checks 
+mjm1976m: checks 
+*** RIVER *** [4d Ks Tc 4s] [Ad]
+shaktale66: checks 
+mjm1976m: checks 
+*** SHOW DOWN ***
+shaktale66: shows [Qd 5c] (a pair of Fours)
+mjm1976m: mucks hand 
+shaktale66 collected $0.60 from pot
+casinokc11 joins the table at seat #7 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4d Ks Tc 4s Ad]
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m mucked [7d 9h]
+Seat 4: cowboymonkey (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 6: shaktale66 (big blind) showed [Qd 5c] and won ($0.60) with a pair of Fours
+Seat 8: slashbait folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951697164:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:59:10 (ET)
+Table 'Veteraniya' 9-max Seat #5 is the button
+Seat 1: HDRIDER777 ($3.85 in chips) 
+Seat 2: Sammy2212 ($14.20 in chips) 
+Seat 3: mjm1976m ($7.90 in chips) 
+Seat 4: cowboymonkey ($19.30 in chips) 
+Seat 5: Alameda22 ($25.10 in chips) 
+Seat 6: shaktale66 ($27.65 in chips) 
+Seat 7: casinokc11 ($16 in chips) 
+Seat 8: slashbait ($16.65 in chips) 
+shaktale66: posts small blind $0.10
+casinokc11: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 4d]
+slashbait: folds 
+HDRIDER777: folds 
+Sammy2212: folds 
+mjm1976m: calls $0.25
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: folds 
+casinokc11: checks 
+*** FLOP *** [Jh 8d Js]
+casinokc11: checks 
+mjm1976m: checks 
+*** TURN *** [Jh 8d Js] [Qs]
+casinokc11: checks 
+mjm1976m: bets $0.50
+casinokc11: calls $0.50
+*** RIVER *** [Jh 8d Js Qs] [Ac]
+casinokc11: checks 
+mjm1976m: checks 
+*** SHOW DOWN ***
+casinokc11: shows [Ks 7s] (a pair of Jacks)
+mjm1976m: shows [5h Kh] (a pair of Jacks)
+casinokc11 collected $0.80 from pot
+mjm1976m collected $0.75 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Jh 8d Js Qs Ac]
+Seat 1: HDRIDER777 folded before Flop (didn't bet)
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m showed [5h Kh] and won ($0.75) with a pair of Jacks
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: shaktale66 (small blind) folded before Flop
+Seat 7: casinokc11 (big blind) showed [Ks 7s] and won ($0.80) with a pair of Jacks
+Seat 8: slashbait folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951719073:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:00:06 (ET)
+Table 'Veteraniya' 9-max Seat #6 is the button
+Seat 1: HDRIDER777 ($3.85 in chips) 
+Seat 2: Sammy2212 ($14.20 in chips) 
+Seat 3: mjm1976m ($7.90 in chips) 
+Seat 4: cowboymonkey ($19.30 in chips) 
+Seat 5: Alameda22 ($25.10 in chips) 
+Seat 6: shaktale66 ($27.55 in chips) 
+Seat 7: casinokc11 ($16.05 in chips) 
+Seat 8: slashbait ($16.65 in chips) 
+casinokc11: posts small blind $0.10
+slashbait: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 6s]
+HDRIDER777: calls $0.25
+Sammy2212: folds 
+mjm1976m: calls $0.25
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: calls $0.25
+casinokc11: raises $1.75 to $2
+slashbait: folds 
+HDRIDER777: calls $1.75
+mjm1976m: folds 
+shaktale66: folds 
+*** FLOP *** [6h 7c 6d]
+casinokc11: bets $3
+HDRIDER777: calls $1.85 and is all-in
+Uncalled bet ($1.15) returned to casinokc11
+*** TURN *** [6h 7c 6d] [Qc]
+*** RIVER *** [6h 7c 6d Qc] [Kh]
+*** SHOW DOWN ***
+casinokc11: shows [Qd Qs] (a full house, Queens full of Sixes)
+HDRIDER777: mucks hand 
+casinokc11 collected $8.05 from pot
+HDRIDER777 leaves the table
+*** SUMMARY ***
+Total pot $8.45 | Rake $0.40 
+Board [6h 7c 6d Qc Kh]
+Seat 1: HDRIDER777 mucked [Qh Th]
+Seat 2: Sammy2212 folded before Flop (didn't bet)
+Seat 3: mjm1976m folded before Flop
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 (button) folded before Flop
+Seat 7: casinokc11 (small blind) showed [Qd Qs] and won ($8.05) with a full house, Queens full of Sixes
+Seat 8: slashbait (big blind) folded before Flop
+
+
+
+PokerStars Game #19951741617:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:01:06 (ET)
+Table 'Veteraniya' 9-max Seat #7 is the button
+Seat 3: mjm1976m ($7.65 in chips) 
+Seat 4: cowboymonkey ($19.30 in chips) 
+Seat 5: Alameda22 ($25.10 in chips) 
+Seat 6: shaktale66 ($27.30 in chips) 
+Seat 7: casinokc11 ($20.25 in chips) 
+Seat 8: slashbait ($16.40 in chips) 
+slashbait: posts small blind $0.10
+Sammy2212: is sitting out 
+mjm1976m: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 4h]
+Sammy2212 leaves the table
+cowboymonkey: folds 
+Alameda22: folds 
+shaktale66: folds 
+casinokc11: folds 
+slashbait: calls $0.15
+mjm1976m: raises $0.75 to $1
+slashbait: folds 
+Uncalled bet ($0.75) returned to mjm1976m
+mjm1976m collected $0.50 from pot
+mjm1976m: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: mjm1976m (big blind) collected ($0.50)
+Seat 4: cowboymonkey folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: casinokc11 (button) folded before Flop (didn't bet)
+Seat 8: slashbait (small blind) folded before Flop
+
+
+
+PokerStars Game #19951765128:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:02:08 (ET)
+Table 'Veteraniya' 9-max Seat #8 is the button
+Seat 3: mjm1976m ($7.90 in chips) 
+Seat 4: cowboymonkey ($19.30 in chips) 
+Seat 5: Alameda22 ($25.10 in chips) 
+Seat 6: shaktale66 ($27.30 in chips) 
+Seat 7: casinokc11 ($20.25 in chips) 
+Seat 8: slashbait ($16.15 in chips) 
+mjm1976m: posts small blind $0.10
+cowboymonkey: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 2c]
+Alameda22: folds 
+shaktale66: folds 
+casinokc11: folds 
+slashbait: folds 
+slashbait leaves the table
+mjm1976m: calls $0.15
+cowboymonkey: raises $0.75 to $1
+mjm1976m: calls $0.75
+*** FLOP *** [4c Jh 6d]
+mjm1976m: checks 
+cowboymonkey: bets $1.25
+mjm1976m: folds 
+Uncalled bet ($1.25) returned to cowboymonkey
+cowboymonkey collected $1.90 from pot
+cowboymonkey: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [4c Jh 6d]
+Seat 3: mjm1976m (small blind) folded on the Flop
+Seat 4: cowboymonkey (big blind) collected ($1.90)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: casinokc11 folded before Flop (didn't bet)
+Seat 8: slashbait (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951778022:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:02:42 (ET)
+Table 'Veteraniya' 9-max Seat #3 is the button
+Seat 3: mjm1976m ($6.90 in chips) 
+Seat 4: cowboymonkey ($20.20 in chips) 
+Seat 5: Alameda22 ($25.10 in chips) 
+Seat 6: shaktale66 ($27.30 in chips) 
+Seat 7: casinokc11 ($20.25 in chips) 
+cowboymonkey: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 6s]
+shaktale66: folds 
+casinokc11: calls $0.25
+mjm1976m: folds 
+cowboymonkey: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Ah 8d 9h]
+cowboymonkey: checks 
+Alameda22: checks 
+casinokc11: checks 
+*** TURN *** [Ah 8d 9h] [2h]
+cowboymonkey: checks 
+Alameda22: checks 
+casinokc11: checks 
+*** RIVER *** [Ah 8d 9h 2h] [5d]
+cowboymonkey: checks 
+Alameda22: checks 
+casinokc11: checks 
+*** SHOW DOWN ***
+cowboymonkey: shows [4s 2d] (a pair of Deuces)
+Alameda22: mucks hand 
+casinokc11: mucks hand 
+cowboymonkey collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Ah 8d 9h 2h 5d]
+Seat 3: mjm1976m (button) folded before Flop (didn't bet)
+Seat 4: cowboymonkey (small blind) showed [4s 2d] and won ($0.75) with a pair of Deuces
+Seat 5: Alameda22 (big blind) mucked [Qh 6s]
+Seat 6: shaktale66 folded before Flop (didn't bet)
+Seat 7: casinokc11 mucked [Ts Jd]
+
+
+
+PokerStars Game #19951799565:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:03:39 (ET)
+Table 'Veteraniya' 9-max Seat #4 is the button
+Seat 3: mjm1976m ($6.90 in chips) 
+Seat 4: cowboymonkey ($20.70 in chips) 
+Seat 5: Alameda22 ($24.85 in chips) 
+Seat 6: shaktale66 ($27.30 in chips) 
+Seat 7: casinokc11 ($20 in chips) 
+Alameda22: posts small blind $0.10
+shaktale66: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Kh]
+casinokc11: folds 
+mjm1976m: folds 
+cowboymonkey: folds 
+Alameda22: raises $0.50 to $0.75
+shaktale66: folds 
+Uncalled bet ($0.50) returned to Alameda22
+shaktale66 leaves the table
+Alameda22 collected $0.50 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: mjm1976m folded before Flop (didn't bet)
+Seat 4: cowboymonkey (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) collected ($0.50)
+Seat 6: shaktale66 (big blind) folded before Flop
+Seat 7: casinokc11 folded before Flop (didn't bet)
+
+
+

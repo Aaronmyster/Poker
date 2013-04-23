@@ -1,0 +1,4638 @@
+PokerStars Game #20153053854:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:24:12 ET
+Table 'Kuma V' 9-max Seat #4 is the button
+Seat 1: EnderFFX ($10 in chips) 
+Seat 2: mcdougal2 ($54.70 in chips) 
+Seat 3: PrepLogic ($47.75 in chips) 
+Seat 4: chazz007 ($27.65 in chips) 
+Seat 5: woohg ($30.75 in chips) 
+Seat 6: Alameda22 ($50 in chips) 
+Seat 7: drewbabez ($50 in chips) 
+Seat 8: cn_chayanne ($69.35 in chips) 
+Seat 9: helios25 ($57.35 in chips) 
+woohg: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 4h]
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+EnderFFX: folds 
+mcdougal2: calls $0.50
+PrepLogic: folds 
+chazz007: folds 
+woohg: calls $0.25
+Alameda22: checks 
+*** FLOP *** [Ks Js Jh]
+woohg: checks 
+Alameda22: checks 
+mcdougal2: checks 
+*** TURN *** [Ks Js Jh] [4d]
+woohg: bets $1
+Alameda22: folds 
+mcdougal2: folds 
+Uncalled bet ($1) returned to woohg
+woohg collected $1.45 from pot
+woohg: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Ks Js Jh 4d]
+Seat 1: EnderFFX folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded on the Turn
+Seat 3: PrepLogic folded before Flop (didn't bet)
+Seat 4: chazz007 (button) folded before Flop (didn't bet)
+Seat 5: woohg (small blind) collected ($1.45)
+Seat 6: Alameda22 (big blind) folded on the Turn
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153098844:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:26:14 ET
+Table 'Kuma V' 9-max Seat #5 is the button
+Seat 1: EnderFFX ($10 in chips) 
+Seat 2: mcdougal2 ($54.20 in chips) 
+Seat 3: PrepLogic ($47.75 in chips) 
+Seat 4: chazz007 ($27.65 in chips) 
+Seat 5: woohg ($31.70 in chips) 
+Seat 6: Alameda22 ($49.50 in chips) 
+Seat 7: drewbabez ($50 in chips) 
+Seat 8: cn_chayanne ($69.35 in chips) 
+Seat 9: helios25 ($57.35 in chips) 
+Alameda22: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Jh]
+cn_chayanne has timed out
+cn_chayanne: folds 
+cn_chayanne is sitting out
+helios25: folds 
+EnderFFX: folds 
+mcdougal2: folds 
+PrepLogic: folds 
+chazz007: calls $0.50
+woohg: calls $0.50
+Alameda22: calls $0.25
+drewbabez: checks 
+*** FLOP *** [6s 7d 3c]
+Alameda22: checks 
+drewbabez: checks 
+chazz007: checks 
+woohg: checks 
+*** TURN *** [6s 7d 3c] [Js]
+Alameda22: bets $1.50
+drewbabez: folds 
+chazz007: folds 
+woohg: calls $1.50
+*** RIVER *** [6s 7d 3c Js] [9c]
+Alameda22: checks 
+woohg: bets $1.50
+Alameda22: calls $1.50
+*** SHOW DOWN ***
+woohg: shows [Ah Jd] (a pair of Jacks)
+Alameda22: shows [As Jh] (a pair of Jacks)
+Alameda22 collected $3.85 from pot
+woohg collected $3.80 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.35 
+Board [6s 7d 3c Js 9c]
+Seat 1: EnderFFX folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: PrepLogic folded before Flop (didn't bet)
+Seat 4: chazz007 folded on the Turn
+Seat 5: woohg (button) showed [Ah Jd] and won ($3.80) with a pair of Jacks
+Seat 6: Alameda22 (small blind) showed [As Jh] and won ($3.85) with a pair of Jacks
+Seat 7: drewbabez (big blind) folded on the Turn
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153170616:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:29:31 ET
+Table 'Kuma V' 9-max Seat #6 is the button
+Seat 1: EnderFFX ($10 in chips) 
+Seat 2: mcdougal2 ($54.20 in chips) 
+Seat 3: PrepLogic ($47.75 in chips) 
+Seat 4: chazz007 ($27.15 in chips) 
+Seat 5: woohg ($32 in chips) 
+Seat 6: Alameda22 ($49.85 in chips) 
+Seat 7: drewbabez ($49.50 in chips) 
+Seat 9: helios25 ($57.35 in chips) 
+drewbabez: posts small blind $0.25
+helios25: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 5c]
+EnderFFX: folds 
+mcdougal2: folds 
+PrepLogic: folds 
+chazz007: folds 
+woohg: calls $0.50
+Alameda22: folds 
+drewbabez: calls $0.25
+helios25: checks 
+*** FLOP *** [3h 3d Qs]
+drewbabez: checks 
+helios25: checks 
+woohg: checks 
+*** TURN *** [3h 3d Qs] [2c]
+drewbabez: checks 
+helios25: checks 
+woohg: bets $1
+drewbabez: folds 
+helios25: folds 
+Uncalled bet ($1) returned to woohg
+woohg collected $1.45 from pot
+woohg: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [3h 3d Qs 2c]
+Seat 1: EnderFFX folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: PrepLogic folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg collected ($1.45)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: drewbabez (small blind) folded on the Turn
+Seat 9: helios25 (big blind) folded on the Turn
+
+
+
+PokerStars Game #20153205679:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:31:06 ET
+Table 'Kuma V' 9-max Seat #7 is the button
+Seat 1: EnderFFX ($10 in chips) 
+Seat 2: mcdougal2 ($54.20 in chips) 
+Seat 3: PrepLogic ($47.75 in chips) 
+Seat 4: chazz007 ($27.15 in chips) 
+Seat 5: woohg ($32.95 in chips) 
+Seat 6: Alameda22 ($49.85 in chips) 
+Seat 7: drewbabez ($49 in chips) 
+Seat 9: helios25 ($56.85 in chips) 
+helios25: posts small blind $0.25
+EnderFFX: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 4h]
+mcdougal2: calls $0.50
+PrepLogic: folds 
+chazz007: folds 
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+helios25: folds 
+EnderFFX: checks 
+*** FLOP *** [Ts Kd 4c]
+EnderFFX: checks 
+mcdougal2: checks 
+*** TURN *** [Ts Kd 4c] [Kh]
+EnderFFX: checks 
+mcdougal2: checks 
+*** RIVER *** [Ts Kd 4c Kh] [5s]
+EnderFFX: checks 
+mcdougal2: checks 
+*** SHOW DOWN ***
+EnderFFX: shows [6c 7d] (a pair of Kings)
+mcdougal2: shows [Th Qh] (two pair, Kings and Tens)
+mcdougal2 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Ts Kd 4c Kh 5s]
+Seat 1: EnderFFX (big blind) showed [6c 7d] and lost with a pair of Kings
+Seat 2: mcdougal2 showed [Th Qh] and won ($1.20) with two pair, Kings and Tens
+Seat 3: PrepLogic folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: helios25 (small blind) folded before Flop
+
+
+
+PokerStars Game #20153230723:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:32:14 ET
+Table 'Kuma V' 9-max Seat #9 is the button
+Seat 1: EnderFFX ($9.50 in chips) 
+Seat 2: mcdougal2 ($54.90 in chips) 
+Seat 3: PrepLogic ($47.75 in chips) 
+Seat 4: chazz007 ($27.15 in chips) 
+Seat 5: woohg ($32.95 in chips) 
+Seat 6: Alameda22 ($49.85 in chips) 
+Seat 7: drewbabez ($49 in chips) 
+Seat 9: helios25 ($56.60 in chips) 
+EnderFFX: posts small blind $0.25
+mcdougal2: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 3s]
+PrepLogic: folds 
+chazz007: folds 
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+helios25: folds 
+EnderFFX: folds 
+Uncalled bet ($0.25) returned to mcdougal2
+mcdougal2 collected $0.50 from pot
+mcdougal2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: EnderFFX (small blind) folded before Flop
+Seat 2: mcdougal2 (big blind) collected ($0.50)
+Seat 3: PrepLogic folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 9: helios25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153240665:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:32:41 ET
+Table 'Kuma V' 9-max Seat #1 is the button
+Seat 1: EnderFFX ($9.25 in chips) 
+Seat 2: mcdougal2 ($55.15 in chips) 
+Seat 3: PrepLogic ($47.75 in chips) 
+Seat 4: chazz007 ($27.15 in chips) 
+Seat 5: woohg ($32.95 in chips) 
+Seat 6: Alameda22 ($49.85 in chips) 
+Seat 7: drewbabez ($49 in chips) 
+Seat 9: helios25 ($56.60 in chips) 
+mcdougal2: posts small blind $0.25
+PrepLogic: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Jc]
+chazz007: calls $0.50
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+helios25: folds 
+EnderFFX: folds 
+mcdougal2: calls $0.25
+PrepLogic: checks 
+*** FLOP *** [Tc Qd 2c]
+mcdougal2: checks 
+PrepLogic: checks 
+chazz007: checks 
+*** TURN *** [Tc Qd 2c] [As]
+mcdougal2: checks 
+PrepLogic: checks 
+chazz007: checks 
+*** RIVER *** [Tc Qd 2c As] [7c]
+mcdougal2: checks 
+PrepLogic: bets $1
+chazz007: calls $1
+mcdougal2: folds 
+*** SHOW DOWN ***
+PrepLogic: shows [8h Jh] (high card Ace)
+chazz007: shows [7h 7d] (three of a kind, Sevens)
+chazz007 collected $3.35 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [Tc Qd 2c As 7c]
+Seat 1: EnderFFX (button) folded before Flop (didn't bet)
+Seat 2: mcdougal2 (small blind) folded on the River
+Seat 3: PrepLogic (big blind) showed [8h Jh] and lost with high card Ace
+Seat 4: chazz007 showed [7h 7d] and won ($3.35) with three of a kind, Sevens
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153286986:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:34:49 ET
+Table 'Kuma V' 9-max Seat #2 is the button
+Seat 1: EnderFFX ($9.25 in chips) 
+Seat 2: mcdougal2 ($54.65 in chips) 
+Seat 3: PrepLogic ($46.25 in chips) 
+Seat 4: chazz007 ($29 in chips) 
+Seat 5: woohg ($32.95 in chips) 
+Seat 6: Alameda22 ($49.85 in chips) 
+Seat 7: drewbabez ($49 in chips) 
+Seat 9: helios25 ($56.60 in chips) 
+PrepLogic: posts small blind $0.25
+chazz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 8c]
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+helios25: raises $1.50 to $2
+EnderFFX: folds 
+mcdougal2: folds 
+PrepLogic: folds 
+chazz007: folds 
+Uncalled bet ($1.50) returned to helios25
+cn_chayanne has returned
+helios25 collected $1.25 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: EnderFFX folded before Flop (didn't bet)
+Seat 2: mcdougal2 (button) folded before Flop (didn't bet)
+Seat 3: PrepLogic (small blind) folded before Flop
+Seat 4: chazz007 (big blind) folded before Flop
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 9: helios25 collected ($1.25)
+
+
+
+PokerStars Game #20153307162:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:35:45 ET
+Table 'Kuma V' 9-max Seat #3 is the button
+Seat 1: EnderFFX ($9.25 in chips) 
+Seat 2: mcdougal2 ($54.65 in chips) 
+Seat 3: PrepLogic ($46 in chips) 
+Seat 4: chazz007 ($28.50 in chips) 
+Seat 5: woohg ($32.95 in chips) 
+Seat 6: Alameda22 ($49.85 in chips) 
+Seat 7: drewbabez ($49 in chips) 
+Seat 9: helios25 ($57.35 in chips) 
+chazz007: posts small blind $0.25
+woohg: posts big blind $0.50
+cn_chayanne: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d As]
+Alameda22: folds 
+drewbabez: folds 
+helios25: folds 
+EnderFFX: folds 
+mcdougal2: raises $0.50 to $1
+PrepLogic: calls $1
+chazz007: folds 
+woohg: calls $0.50
+*** FLOP *** [6c 9d Ad]
+woohg: checks 
+mcdougal2: checks 
+PrepLogic: checks 
+*** TURN *** [6c 9d Ad] [3s]
+woohg: bets $1
+mcdougal2: folds 
+PrepLogic: calls $1
+*** RIVER *** [6c 9d Ad 3s] [Qd]
+woohg: checks 
+PrepLogic: checks 
+*** SHOW DOWN ***
+woohg: shows [7h 6h] (a pair of Sixes)
+PrepLogic: shows [6s Ts] (a pair of Sixes - Ace+Queen+Ten kicker)
+PrepLogic collected $5 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [6c 9d Ad 3s Qd]
+Seat 1: EnderFFX folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded on the Turn
+Seat 3: PrepLogic (button) showed [6s Ts] and won ($5) with a pair of Sixes
+Seat 4: chazz007 (small blind) folded before Flop
+Seat 5: woohg (big blind) showed [7h 6h] and lost with a pair of Sixes
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153346761:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:37:34 ET
+Table 'Kuma V' 9-max Seat #4 is the button
+Seat 1: EnderFFX ($9.25 in chips) 
+Seat 2: mcdougal2 ($53.65 in chips) 
+Seat 3: PrepLogic ($49 in chips) 
+Seat 4: chazz007 ($28.25 in chips) 
+Seat 5: woohg ($30.95 in chips) 
+Seat 6: Alameda22 ($49.85 in chips) 
+Seat 7: drewbabez ($49 in chips) 
+Seat 9: helios25 ($57.35 in chips) 
+woohg: posts small blind $0.25
+Alameda22: posts big blind $0.50
+cn_chayanne: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 3s]
+drewbabez: folds 
+helios25: folds 
+EnderFFX: folds 
+mcdougal2: folds 
+PrepLogic: raises $1 to $1.50
+chazz007: folds 
+woohg: calls $1.25
+Alameda22: folds 
+*** FLOP *** [2d 7h 8c]
+woohg: checks 
+PrepLogic: bets $2.50
+woohg: folds 
+Uncalled bet ($2.50) returned to PrepLogic
+PrepLogic collected $3.35 from pot
+PrepLogic: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [2d 7h 8c]
+Seat 1: EnderFFX folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: PrepLogic collected ($3.35)
+Seat 4: chazz007 (button) folded before Flop (didn't bet)
+Seat 5: woohg (small blind) folded on the Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153371444:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:38:43 ET
+Table 'Kuma V' 9-max Seat #5 is the button
+Seat 1: EnderFFX ($9.25 in chips) 
+Seat 2: mcdougal2 ($53.65 in chips) 
+Seat 3: PrepLogic ($50.85 in chips) 
+Seat 4: chazz007 ($28.25 in chips) 
+Seat 5: woohg ($29.45 in chips) 
+Seat 6: Alameda22 ($49.35 in chips) 
+Seat 7: drewbabez ($49 in chips) 
+Seat 9: helios25 ($57.35 in chips) 
+Alameda22: posts small blind $0.25
+drewbabez: posts big blind $0.50
+cn_chayanne: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 6h]
+helios25: folds 
+EnderFFX: folds 
+mcdougal2: folds 
+PrepLogic: folds 
+chazz007: folds 
+woohg: raises $1 to $1.50
+Alameda22: folds 
+drewbabez: folds 
+Uncalled bet ($1) returned to woohg
+woohg collected $1.25 from pot
+woohg: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: EnderFFX folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: PrepLogic folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg (button) collected ($1.25)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: drewbabez (big blind) folded before Flop
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153395018:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:39:48 ET
+Table 'Kuma V' 9-max Seat #6 is the button
+Seat 1: EnderFFX ($9.25 in chips) 
+Seat 2: mcdougal2 ($53.65 in chips) 
+Seat 3: PrepLogic ($50.85 in chips) 
+Seat 4: chazz007 ($28.25 in chips) 
+Seat 5: woohg ($30.20 in chips) 
+Seat 6: Alameda22 ($49.10 in chips) 
+Seat 7: drewbabez ($48.50 in chips) 
+Seat 8: cn_chayanne ($69.35 in chips) 
+Seat 9: helios25 ($57.35 in chips) 
+drewbabez: posts small blind $0.25
+cn_chayanne: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 9d]
+helios25: folds 
+EnderFFX: folds 
+mcdougal2: folds 
+PrepLogic: folds 
+chazz007: folds 
+woohg: calls $0.50
+Alameda22: folds 
+drewbabez is disconnected 
+drewbabez has timed out while disconnected
+drewbabez: folds 
+drewbabez is sitting out
+cn_chayanne: checks 
+*** FLOP *** [Jh 6h Kc]
+cn_chayanne: checks 
+woohg: bets $0.50
+cn_chayanne: folds 
+Uncalled bet ($0.50) returned to woohg
+woohg collected $1.20 from pot
+woohg: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Jh 6h Kc]
+Seat 1: EnderFFX folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: PrepLogic folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg collected ($1.20)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: drewbabez (small blind) folded before Flop
+Seat 8: cn_chayanne (big blind) folded on the Flop
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153443531:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:41:59 ET
+Table 'Kuma V' 9-max Seat #8 is the button
+Seat 1: EnderFFX ($9.25 in chips) 
+Seat 2: mcdougal2 ($53.65 in chips) 
+Seat 3: PrepLogic ($50.85 in chips) 
+Seat 4: chazz007 ($28.25 in chips) 
+Seat 5: woohg ($30.90 in chips) 
+Seat 6: Alameda22 ($49.10 in chips) 
+Seat 8: cn_chayanne ($68.85 in chips) 
+Seat 9: helios25 ($57.35 in chips) 
+helios25: posts small blind $0.25
+EnderFFX: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 9d]
+mcdougal2: calls $0.50
+PrepLogic: folds 
+chazz007: folds 
+woohg: folds 
+Alameda22: folds 
+cn_chayanne: folds 
+helios25: folds 
+EnderFFX: checks 
+*** FLOP *** [7c 7d 6h]
+EnderFFX: checks 
+mcdougal2: checks 
+*** TURN *** [7c 7d 6h] [Td]
+EnderFFX: checks 
+mcdougal2: checks 
+*** RIVER *** [7c 7d 6h Td] [Tc]
+EnderFFX: checks 
+mcdougal2: checks 
+*** SHOW DOWN ***
+EnderFFX: shows [8c Qh] (two pair, Tens and Sevens)
+mcdougal2: shows [9c Ac] (two pair, Tens and Sevens - Ace kicker)
+mcdougal2 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [7c 7d 6h Td Tc]
+Seat 1: EnderFFX (big blind) showed [8c Qh] and lost with two pair, Tens and Sevens
+Seat 2: mcdougal2 showed [9c Ac] and won ($1.20) with two pair, Tens and Sevens
+Seat 3: PrepLogic folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: cn_chayanne (button) folded before Flop (didn't bet)
+Seat 9: helios25 (small blind) folded before Flop
+
+
+
+PokerStars Game #20153470445:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:43:12 ET
+Table 'Kuma V' 9-max Seat #9 is the button
+Seat 1: EnderFFX ($8.75 in chips) 
+Seat 2: mcdougal2 ($54.35 in chips) 
+Seat 3: PrepLogic ($50.85 in chips) 
+Seat 4: chazz007 ($28.25 in chips) 
+Seat 5: woohg ($30.90 in chips) 
+Seat 6: Alameda22 ($49.10 in chips) 
+Seat 8: cn_chayanne ($68.85 in chips) 
+Seat 9: helios25 ($57.10 in chips) 
+EnderFFX: posts small blind $0.25
+mcdougal2: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Qs]
+PrepLogic: calls $0.50
+chazz007: calls $0.50
+woohg: calls $0.50
+drewbabez is connected 
+Alameda22: folds 
+cn_chayanne: folds 
+helios25: folds 
+EnderFFX: folds 
+mcdougal2: checks 
+*** FLOP *** [Ah 6h 4c]
+drewbabez has returned
+mcdougal2: checks 
+PrepLogic: checks 
+chazz007: checks 
+woohg: bets $1
+mcdougal2: folds 
+PrepLogic: folds 
+chazz007: folds 
+Uncalled bet ($1) returned to woohg
+woohg collected $2.15 from pot
+woohg: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Ah 6h 4c]
+Seat 1: EnderFFX (small blind) folded before Flop
+Seat 2: mcdougal2 (big blind) folded on the Flop
+Seat 3: PrepLogic folded on the Flop
+Seat 4: chazz007 folded on the Flop
+Seat 5: woohg collected ($2.15)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153503306:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:44:41 ET
+Table 'Kuma V' 9-max Seat #1 is the button
+Seat 1: EnderFFX ($8.50 in chips) 
+Seat 2: mcdougal2 ($53.85 in chips) 
+Seat 3: PrepLogic ($50.35 in chips) 
+Seat 4: chazz007 ($27.75 in chips) 
+Seat 5: woohg ($32.55 in chips) 
+Seat 6: Alameda22 ($49.10 in chips) 
+Seat 7: drewbabez ($48.25 in chips) 
+Seat 8: cn_chayanne ($68.85 in chips) 
+Seat 9: helios25 ($57.10 in chips) 
+mcdougal2: posts small blind $0.25
+PrepLogic: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Tc]
+chazz007: folds 
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: raises $1.50 to $2
+EnderFFX: folds 
+mcdougal2: folds 
+PrepLogic: calls $1.50
+*** FLOP *** [4s 2c 7h]
+PrepLogic: checks 
+helios25: bets $3
+PrepLogic: folds 
+Uncalled bet ($3) returned to helios25
+helios25 collected $4.05 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [4s 2c 7h]
+Seat 1: EnderFFX (button) folded before Flop (didn't bet)
+Seat 2: mcdougal2 (small blind) folded before Flop
+Seat 3: PrepLogic (big blind) folded on the Flop
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 collected ($4.05)
+
+
+
+PokerStars Game #20153535063:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:46:08 ET
+Table 'Kuma V' 9-max Seat #2 is the button
+Seat 1: EnderFFX ($8.50 in chips) 
+Seat 2: mcdougal2 ($53.60 in chips) 
+Seat 3: PrepLogic ($48.35 in chips) 
+Seat 4: chazz007 ($27.75 in chips) 
+Seat 5: woohg ($32.55 in chips) 
+Seat 6: Alameda22 ($49.10 in chips) 
+Seat 7: drewbabez ($48.25 in chips) 
+Seat 8: cn_chayanne ($68.85 in chips) 
+Seat 9: helios25 ($59.15 in chips) 
+PrepLogic: posts small blind $0.25
+chazz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 8d]
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+EnderFFX: folds 
+mcdougal2: folds 
+PrepLogic: raises $1 to $1.50
+chazz007: folds 
+Uncalled bet ($1) returned to PrepLogic
+PrepLogic collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: EnderFFX folded before Flop (didn't bet)
+Seat 2: mcdougal2 (button) folded before Flop (didn't bet)
+Seat 3: PrepLogic (small blind) collected ($1)
+Seat 4: chazz007 (big blind) folded before Flop
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153565072:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:47:28 ET
+Table 'Kuma V' 9-max Seat #3 is the button
+Seat 1: EnderFFX ($8.50 in chips) 
+Seat 2: mcdougal2 ($53.60 in chips) 
+Seat 3: PrepLogic ($48.85 in chips) 
+Seat 4: chazz007 ($27.25 in chips) 
+Seat 5: woohg ($32.55 in chips) 
+Seat 6: Alameda22 ($49.10 in chips) 
+Seat 7: drewbabez ($48.25 in chips) 
+Seat 8: cn_chayanne ($68.85 in chips) 
+Seat 9: helios25 ($59.15 in chips) 
+chazz007: posts small blind $0.25
+woohg: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Js]
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+EnderFFX: raises $1.50 to $2
+mcdougal2: folds 
+PrepLogic: folds 
+chazz007: folds 
+woohg: folds 
+Uncalled bet ($1.50) returned to EnderFFX
+EnderFFX collected $1.25 from pot
+EnderFFX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: EnderFFX collected ($1.25)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: PrepLogic (button) folded before Flop (didn't bet)
+Seat 4: chazz007 (small blind) folded before Flop
+Seat 5: woohg (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153587758:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:48:30 ET
+Table 'Kuma V' 9-max Seat #4 is the button
+Seat 1: EnderFFX ($9.25 in chips) 
+Seat 2: mcdougal2 ($53.60 in chips) 
+Seat 3: PrepLogic ($48.85 in chips) 
+Seat 4: chazz007 ($27 in chips) 
+Seat 5: woohg ($32.05 in chips) 
+Seat 6: Alameda22 ($49.10 in chips) 
+Seat 7: drewbabez ($48.25 in chips) 
+Seat 8: cn_chayanne ($68.85 in chips) 
+Seat 9: helios25 ($59.15 in chips) 
+woohg: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Kh]
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+EnderFFX: folds 
+mcdougal2: raises $0.50 to $1
+PrepLogic: folds 
+chazz007: folds 
+woohg: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to mcdougal2
+mcdougal2 collected $1.25 from pot
+mcdougal2: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: EnderFFX folded before Flop (didn't bet)
+Seat 2: mcdougal2 collected ($1.25)
+Seat 3: PrepLogic folded before Flop (didn't bet)
+Seat 4: chazz007 (button) folded before Flop (didn't bet)
+Seat 5: woohg (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153605278:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:49:18 ET
+Table 'Kuma V' 9-max Seat #5 is the button
+Seat 1: EnderFFX ($9.25 in chips) 
+Seat 2: mcdougal2 ($54.35 in chips) 
+Seat 3: PrepLogic ($48.85 in chips) 
+Seat 4: chazz007 ($27 in chips) 
+Seat 5: woohg ($31.80 in chips) 
+Seat 6: Alameda22 ($48.60 in chips) 
+Seat 7: drewbabez ($48.25 in chips) 
+Seat 8: cn_chayanne ($68.85 in chips) 
+Seat 9: helios25 ($59.15 in chips) 
+Alameda22: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Ts]
+cn_chayanne: folds 
+helios25: folds 
+EnderFFX: folds 
+mcdougal2: folds 
+PrepLogic: calls $0.50
+chazz007: raises $1.50 to $2
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+PrepLogic: folds 
+Uncalled bet ($1.50) returned to chazz007
+chazz007 collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: EnderFFX folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: PrepLogic folded before Flop
+Seat 4: chazz007 collected ($1.75)
+Seat 5: woohg (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: drewbabez (big blind) folded before Flop
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153626753:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:50:16 ET
+Table 'Kuma V' 9-max Seat #6 is the button
+Seat 1: EnderFFX ($9.25 in chips) 
+Seat 2: mcdougal2 ($54.35 in chips) 
+Seat 3: PrepLogic ($48.35 in chips) 
+Seat 4: chazz007 ($28.25 in chips) 
+Seat 5: woohg ($31.80 in chips) 
+Seat 6: Alameda22 ($48.35 in chips) 
+Seat 7: drewbabez ($47.75 in chips) 
+Seat 8: cn_chayanne ($68.85 in chips) 
+Seat 9: helios25 ($59.15 in chips) 
+drewbabez: posts small blind $0.25
+cn_chayanne: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 2d]
+helios25: folds 
+EnderFFX: folds 
+mcdougal2: folds 
+PrepLogic: folds 
+chazz007: folds 
+woohg: raises $1 to $1.50
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+Uncalled bet ($1) returned to woohg
+woohg collected $1.25 from pot
+woohg: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: EnderFFX folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: PrepLogic folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg collected ($1.25)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: drewbabez (small blind) folded before Flop
+Seat 8: cn_chayanne (big blind) folded before Flop
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153639291:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:50:51 ET
+Table 'Kuma V' 9-max Seat #7 is the button
+Seat 1: EnderFFX ($9.25 in chips) 
+Seat 2: mcdougal2 ($54.35 in chips) 
+Seat 3: PrepLogic ($48.35 in chips) 
+Seat 4: chazz007 ($28.25 in chips) 
+Seat 5: woohg ($32.55 in chips) 
+Seat 6: Alameda22 ($48.35 in chips) 
+Seat 7: drewbabez ($50 in chips) 
+Seat 8: cn_chayanne ($68.35 in chips) 
+Seat 9: helios25 ($59.15 in chips) 
+cn_chayanne: posts small blind $0.25
+helios25: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 9d]
+EnderFFX: folds 
+mcdougal2: folds 
+PrepLogic: folds 
+chazz007: raises $1.50 to $2
+woohg: calls $2
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+*** FLOP *** [Ac Qd 5s]
+chazz007: bets $2.50
+woohg: folds 
+Uncalled bet ($2.50) returned to chazz007
+chazz007 collected $4.55 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [Ac Qd 5s]
+Seat 1: EnderFFX folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: PrepLogic folded before Flop (didn't bet)
+Seat 4: chazz007 collected ($4.55)
+Seat 5: woohg folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez (button) folded before Flop (didn't bet)
+Seat 8: cn_chayanne (small blind) folded before Flop
+Seat 9: helios25 (big blind) folded before Flop
+
+
+
+PokerStars Game #20153667427:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:52:08 ET
+Table 'Kuma V' 9-max Seat #8 is the button
+Seat 1: EnderFFX ($9.25 in chips) 
+Seat 2: mcdougal2 ($54.35 in chips) 
+Seat 3: PrepLogic ($48.35 in chips) 
+Seat 4: chazz007 ($30.80 in chips) 
+Seat 5: woohg ($30.55 in chips) 
+Seat 6: Alameda22 ($48.35 in chips) 
+Seat 7: drewbabez ($50 in chips) 
+Seat 8: cn_chayanne ($68.10 in chips) 
+Seat 9: helios25 ($58.65 in chips) 
+helios25: posts small blind $0.25
+EnderFFX: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Qs]
+mcdougal2: folds 
+PrepLogic: folds 
+chazz007: folds 
+woohg: calls $0.50
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+EnderFFX: checks 
+*** FLOP *** [Qc 7h 4s]
+EnderFFX: checks 
+woohg: bets $0.50
+EnderFFX: raises $1.50 to $2
+woohg: calls $1.50
+*** TURN *** [Qc 7h 4s] [3h]
+EnderFFX: bets $3.50
+woohg: raises $3.50 to $7
+EnderFFX: calls $3.25 and is all-in
+Uncalled bet ($0.25) returned to woohg
+*** RIVER *** [Qc 7h 4s 3h] [3d]
+*** SHOW DOWN ***
+EnderFFX: shows [Qd Js] (two pair, Queens and Threes)
+woohg: mucks hand 
+EnderFFX collected $17.85 from pot
+*** SUMMARY ***
+Total pot $18.75 | Rake $0.90 
+Board [Qc 7h 4s 3h 3d]
+Seat 1: EnderFFX (big blind) showed [Qd Js] and won ($17.85) with two pair, Queens and Threes
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: PrepLogic folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg mucked [7s 9s]
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne (button) folded before Flop (didn't bet)
+Seat 9: helios25 (small blind) folded before Flop
+
+
+
+PokerStars Game #20153693371:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:53:19 ET
+Table 'Kuma V' 9-max Seat #9 is the button
+Seat 1: EnderFFX ($17.85 in chips) 
+Seat 2: mcdougal2 ($54.35 in chips) 
+Seat 3: PrepLogic ($48.35 in chips) 
+Seat 4: chazz007 ($30.80 in chips) 
+Seat 5: woohg ($21.30 in chips) 
+Seat 6: Alameda22 ($48.35 in chips) 
+Seat 7: drewbabez ($50 in chips) 
+Seat 8: cn_chayanne ($68.10 in chips) 
+Seat 9: helios25 ($58.40 in chips) 
+EnderFFX: posts small blind $0.25
+mcdougal2: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 3d]
+PrepLogic: folds 
+chazz007: folds 
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+EnderFFX: folds 
+Uncalled bet ($0.25) returned to mcdougal2
+EnderFFX leaves the table
+mcdougal2 collected $0.50 from pot
+mcdougal2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: EnderFFX (small blind) folded before Flop
+Seat 2: mcdougal2 (big blind) collected ($0.50)
+Seat 3: PrepLogic folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153711556:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:54:09 ET
+Table 'Kuma V' 9-max Seat #2 is the button
+Seat 2: mcdougal2 ($54.60 in chips) 
+Seat 3: PrepLogic ($48.35 in chips) 
+Seat 4: chazz007 ($30.80 in chips) 
+Seat 5: woohg ($21.30 in chips) 
+Seat 6: Alameda22 ($48.35 in chips) 
+Seat 7: drewbabez ($50 in chips) 
+Seat 8: cn_chayanne ($68.10 in chips) 
+Seat 9: helios25 ($58.40 in chips) 
+PrepLogic: posts small blind $0.25
+chazz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Qs]
+woohg: folds 
+Alameda22: raises $1.50 to $2
+drewbabez: calls $2
+cn_chayanne: folds 
+helios25: folds 
+mcdougal2: folds 
+PrepLogic: calls $1.75
+chazz007: folds 
+*** FLOP *** [Jc 7s 3c]
+PrepLogic: checks 
+Alameda22: bets $4.50
+drewbabez: folds 
+PrepLogic: calls $4.50
+*** TURN *** [Jc 7s 3c] [9d]
+PrepLogic: bets $7
+Alameda22: raises $14 to $21
+hamz007 joins the table at seat #1 
+PrepLogic: calls $14
+*** RIVER *** [Jc 7s 3c 9d] [8h]
+PrepLogic: checks 
+Alameda22: checks 
+*** SHOW DOWN ***
+PrepLogic: shows [Ac Jd] (a pair of Jacks)
+Alameda22: shows [Qc Qs] (a pair of Queens)
+Alameda22 collected $54.70 from pot
+*** SUMMARY ***
+Total pot $57.50 | Rake $2.80 
+Board [Jc 7s 3c 9d 8h]
+Seat 2: mcdougal2 (button) folded before Flop (didn't bet)
+Seat 3: PrepLogic (small blind) showed [Ac Jd] and lost with a pair of Jacks
+Seat 4: chazz007 (big blind) folded before Flop
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 showed [Qc Qs] and won ($54.70) with a pair of Queens
+Seat 7: drewbabez folded on the Flop
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153772086:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:56:55 ET
+Table 'Kuma V' 9-max Seat #3 is the button
+Seat 2: mcdougal2 ($54.60 in chips) 
+Seat 3: PrepLogic ($20.85 in chips) 
+Seat 4: chazz007 ($30.30 in chips) 
+Seat 5: woohg ($21.30 in chips) 
+Seat 6: Alameda22 ($75.55 in chips) 
+Seat 7: drewbabez ($48 in chips) 
+Seat 8: cn_chayanne ($68.10 in chips) 
+Seat 9: helios25 ($58.40 in chips) 
+chazz007: posts small blind $0.25
+woohg: posts big blind $0.50
+hamz007: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 9d]
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+mcdougal2: folds 
+PrepLogic: folds 
+chazz007: calls $0.25
+woohg: checks 
+*** FLOP *** [6s 5c 3s]
+chazz007: checks 
+woohg: checks 
+*** TURN *** [6s 5c 3s] [Qh]
+chazz007: bets $1
+woohg: raises $1 to $2
+chazz007: calls $1
+*** RIVER *** [6s 5c 3s Qh] [Ah]
+chazz007: checks 
+woohg: bets $9
+chazz007: folds 
+Uncalled bet ($9) returned to woohg
+woohg collected $4.80 from pot
+woohg: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.20 
+Board [6s 5c 3s Qh Ah]
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: PrepLogic (button) folded before Flop (didn't bet)
+Seat 4: chazz007 (small blind) folded on the River
+Seat 5: woohg (big blind) collected ($4.80)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153815150:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:58:54 ET
+Table 'Kuma V' 9-max Seat #4 is the button
+Seat 2: mcdougal2 ($54.60 in chips) 
+Seat 3: PrepLogic ($20.85 in chips) 
+Seat 4: chazz007 ($27.80 in chips) 
+Seat 5: woohg ($23.60 in chips) 
+Seat 6: Alameda22 ($75.55 in chips) 
+Seat 7: drewbabez ($48 in chips) 
+Seat 8: cn_chayanne ($68.10 in chips) 
+Seat 9: helios25 ($58.40 in chips) 
+woohg: posts small blind $0.25
+Alameda22: posts big blind $0.50
+hamz007: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 7c]
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+mcdougal2: folds 
+PrepLogic: raises $1 to $1.50
+chazz007: folds 
+woohg: folds 
+Alameda22: folds 
+Uncalled bet ($1) returned to PrepLogic
+PrepLogic collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: PrepLogic collected ($1.25)
+Seat 4: chazz007 (button) folded before Flop (didn't bet)
+Seat 5: woohg (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153844739:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:00:15 ET
+Table 'Kuma V' 9-max Seat #5 is the button
+Seat 2: mcdougal2 ($54.60 in chips) 
+Seat 3: PrepLogic ($21.60 in chips) 
+Seat 4: chazz007 ($27.80 in chips) 
+Seat 5: woohg ($23.35 in chips) 
+Seat 6: Alameda22 ($75.05 in chips) 
+Seat 7: drewbabez ($48 in chips) 
+Seat 8: cn_chayanne ($68.10 in chips) 
+Seat 9: helios25 ($58.40 in chips) 
+Alameda22: posts small blind $0.25
+drewbabez: posts big blind $0.50
+hamz007: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 2h]
+cn_chayanne: folds 
+helios25: folds 
+mcdougal2: folds 
+PrepLogic: calls $0.50
+chazz007: folds 
+woohg: folds 
+Alameda22: folds 
+drewbabez: checks 
+*** FLOP *** [Jc 5s 7s]
+drewbabez: bets $1
+PrepLogic: calls $1
+*** TURN *** [Jc 5s 7s] [Kd]
+drewbabez: bets $3
+PrepLogic: raises $4 to $7
+drewbabez: raises $31 to $38
+PrepLogic: calls $13.10 and is all-in
+Uncalled bet ($17.90) returned to drewbabez
+*** RIVER *** [Jc 5s 7s Kd] [3d]
+*** SHOW DOWN ***
+drewbabez: shows [Kc Jd] (two pair, Kings and Jacks)
+PrepLogic: mucks hand 
+drewbabez collected $41.30 from pot
+*** SUMMARY ***
+Total pot $43.45 | Rake $2.15 
+Board [Jc 5s 7s Kd 3d]
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: PrepLogic mucked [Ac As]
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: drewbabez (big blind) showed [Kc Jd] and won ($41.30) with two pair, Kings and Jacks
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153876422:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:01:42 ET
+Table 'Kuma V' 9-max Seat #6 is the button
+Seat 2: mcdougal2 ($54.60 in chips) 
+Seat 4: chazz007 ($27.80 in chips) 
+Seat 5: woohg ($23.35 in chips) 
+Seat 6: Alameda22 ($74.80 in chips) 
+Seat 7: drewbabez ($67.70 in chips) 
+Seat 8: cn_chayanne ($68.10 in chips) 
+Seat 9: helios25 ($58.40 in chips) 
+drewbabez: posts small blind $0.25
+cn_chayanne: posts big blind $0.50
+hamz007: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Qh]
+helios25: folds 
+mcdougal2: folds 
+chazz007: folds 
+woohg: folds 
+PrepLogic leaves the table
+Alameda22: folds 
+drewbabez: folds 
+Uncalled bet ($0.25) returned to cn_chayanne
+cn_chayanne collected $0.50 from pot
+cn_chayanne: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: drewbabez (small blind) folded before Flop
+Seat 8: cn_chayanne (big blind) collected ($0.50)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153888339:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:02:16 ET
+Table 'Kuma V' 9-max Seat #7 is the button
+Seat 2: mcdougal2 ($54.60 in chips) 
+Seat 4: chazz007 ($27.80 in chips) 
+Seat 5: woohg ($23.35 in chips) 
+Seat 6: Alameda22 ($74.80 in chips) 
+Seat 7: drewbabez ($67.45 in chips) 
+Seat 8: cn_chayanne ($68.35 in chips) 
+Seat 9: helios25 ($58.40 in chips) 
+cn_chayanne: posts small blind $0.25
+helios25: posts big blind $0.50
+hamz007: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 4h]
+mcdougal2: calls $0.50
+chazz007: calls $0.50
+woohg: folds 
+rc169 joins the table at seat #3 
+Alameda22: folds 
+drewbabez: calls $0.50
+cn_chayanne: calls $0.25
+helios25: checks 
+*** FLOP *** [5c 8c Kc]
+cn_chayanne: checks 
+helios25: checks 
+mcdougal2: checks 
+chazz007: checks 
+drewbabez: checks 
+*** TURN *** [5c 8c Kc] [3d]
+cn_chayanne: checks 
+helios25: checks 
+mcdougal2: bets $2
+chazz007: folds 
+drewbabez: folds 
+cn_chayanne: calls $2
+helios25: folds 
+*** RIVER *** [5c 8c Kc 3d] [8h]
+cn_chayanne: checks 
+mcdougal2: bets $3
+cn_chayanne: calls $3
+*** SHOW DOWN ***
+mcdougal2: shows [8d 8s] (four of a kind, Eights)
+cn_chayanne: mucks hand 
+mcdougal2 collected $11.90 from pot
+*** SUMMARY ***
+Total pot $12.50 | Rake $0.60 
+Board [5c 8c Kc 3d 8h]
+Seat 2: mcdougal2 showed [8d 8s] and won ($11.90) with four of a kind, Eights
+Seat 4: chazz007 folded on the Turn
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez (button) folded on the Turn
+Seat 8: cn_chayanne (small blind) mucked [Qh Ks]
+Seat 9: helios25 (big blind) folded on the Turn
+
+
+
+PokerStars Game #20153935623:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:04:27 ET
+Table 'Kuma V' 9-max Seat #8 is the button
+Seat 1: hamz007 ($30 in chips) 
+Seat 2: mcdougal2 ($61 in chips) 
+Seat 3: rc169 ($50 in chips) 
+Seat 4: chazz007 ($27.30 in chips) 
+Seat 5: woohg ($23.35 in chips) 
+Seat 6: Alameda22 ($74.80 in chips) 
+Seat 7: drewbabez ($66.95 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($57.90 in chips) 
+helios25: posts small blind $0.25
+hamz007: posts big blind $0.50
+rc169: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Qc]
+mcdougal2: folds 
+rc169: checks 
+chazz007: folds 
+woohg: folds 
+Alameda22: raises $2 to $2.50
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: folds 
+rc169: folds 
+Uncalled bet ($2) returned to Alameda22
+Alameda22 collected $1.75 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: hamz007 (big blind) folded before Flop
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 collected ($1.75)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne (button) folded before Flop (didn't bet)
+Seat 9: helios25 (small blind) folded before Flop
+
+
+
+PokerStars Game #20153958488:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:05:31 ET
+Table 'Kuma V' 9-max Seat #9 is the button
+Seat 1: hamz007 ($29.50 in chips) 
+Seat 2: mcdougal2 ($61 in chips) 
+Seat 3: rc169 ($49.50 in chips) 
+Seat 4: chazz007 ($27.30 in chips) 
+Seat 5: woohg ($23.35 in chips) 
+Seat 6: Alameda22 ($76.05 in chips) 
+Seat 7: drewbabez ($66.95 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($57.65 in chips) 
+hamz007: posts small blind $0.25
+mcdougal2: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Qd]
+rc169: folds 
+chazz007: folds 
+woohg: calls $0.50
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: raises $2 to $2.50
+hamz007: folds 
+mcdougal2: folds 
+woohg: folds 
+Uncalled bet ($2) returned to helios25
+helios25 collected $1.75 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: hamz007 (small blind) folded before Flop
+Seat 2: mcdougal2 (big blind) folded before Flop
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 (button) collected ($1.75)
+
+
+
+PokerStars Game #20153989649:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:06:57 ET
+Table 'Kuma V' 9-max Seat #1 is the button
+Seat 1: hamz007 ($29.25 in chips) 
+Seat 2: mcdougal2 ($60.50 in chips) 
+Seat 3: rc169 ($49.50 in chips) 
+Seat 4: chazz007 ($27.30 in chips) 
+Seat 5: woohg ($22.85 in chips) 
+Seat 6: Alameda22 ($76.05 in chips) 
+Seat 7: drewbabez ($66.95 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($58.90 in chips) 
+mcdougal2: posts small blind $0.25
+rc169: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Qd]
+chazz007: folds 
+woohg: calls $0.50
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: raises $0.50 to $1
+mcdougal2: folds 
+rc169: calls $0.50
+woohg: calls $0.50
+*** FLOP *** [Th Qs 4s]
+rc169: checks 
+woohg: checks 
+hamz007: bets $2
+rc169: folds 
+woohg: folds 
+Uncalled bet ($2) returned to hamz007
+hamz007 collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Th Qs 4s]
+Seat 1: hamz007 (button) collected ($3.10)
+Seat 2: mcdougal2 (small blind) folded before Flop
+Seat 3: rc169 (big blind) folded on the Flop
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154044412:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:09:29 ET
+Table 'Kuma V' 9-max Seat #2 is the button
+Seat 1: hamz007 ($31.35 in chips) 
+Seat 2: mcdougal2 ($60.25 in chips) 
+Seat 3: rc169 ($48.50 in chips) 
+Seat 4: chazz007 ($27.30 in chips) 
+Seat 5: woohg ($21.85 in chips) 
+Seat 6: Alameda22 ($76.05 in chips) 
+Seat 7: drewbabez ($66.95 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($58.90 in chips) 
+rc169: posts small blind $0.25
+chazz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 2c]
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: raises $1.50 to $2
+hamz007: folds 
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+Uncalled bet ($1.50) returned to helios25
+helios25 collected $1.25 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: mcdougal2 (button) folded before Flop (didn't bet)
+Seat 3: rc169 (small blind) folded before Flop
+Seat 4: chazz007 (big blind) folded before Flop
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 collected ($1.25)
+
+
+
+PokerStars Game #20154064701:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:10:26 ET
+Table 'Kuma V' 9-max Seat #3 is the button
+Seat 1: hamz007 ($31.35 in chips) 
+Seat 2: mcdougal2 ($60.25 in chips) 
+Seat 3: rc169 ($48.25 in chips) 
+Seat 4: chazz007 ($26.80 in chips) 
+Seat 5: woohg ($21.85 in chips) 
+Seat 6: Alameda22 ($76.05 in chips) 
+Seat 7: drewbabez ($66.95 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($59.65 in chips) 
+chazz007: posts small blind $0.25
+woohg: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 4d]
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: folds 
+mcdougal2: folds 
+rc169: calls $0.50
+chazz007: calls $0.25
+woohg: checks 
+*** FLOP *** [7s 6c 5h]
+chazz007: checks 
+woohg: checks 
+rc169: bets $1
+chazz007: folds 
+woohg: calls $1
+*** TURN *** [7s 6c 5h] [5c]
+woohg: checks 
+rc169: bets $3
+woohg: calls $3
+*** RIVER *** [7s 6c 5h 5c] [8c]
+woohg: checks 
+rc169: bets $7.50
+woohg: calls $7.50
+*** SHOW DOWN ***
+rc169: shows [7c 7d] (a full house, Sevens full of Fives)
+woohg: mucks hand 
+rc169 collected $23.30 from pot
+*** SUMMARY ***
+Total pot $24.50 | Rake $1.20 
+Board [7s 6c 5h 5c 8c]
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 (button) showed [7c 7d] and won ($23.30) with a full house, Sevens full of Fives
+Seat 4: chazz007 (small blind) folded on the Flop
+Seat 5: woohg (big blind) mucked [3c Ac]
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154111138:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:12:36 ET
+Table 'Kuma V' 9-max Seat #4 is the button
+Seat 1: hamz007 ($31.35 in chips) 
+Seat 2: mcdougal2 ($60.25 in chips) 
+Seat 3: rc169 ($59.55 in chips) 
+Seat 4: chazz007 ($26.30 in chips) 
+Seat 5: woohg ($9.85 in chips) 
+Seat 6: Alameda22 ($76.05 in chips) 
+Seat 7: drewbabez ($66.95 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($59.65 in chips) 
+woohg: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Ac]
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: raises $1.50 to $2
+hamz007: folds 
+mcdougal2: folds 
+rc169: folds 
+chazz007: calls $2
+woohg: calls $1.75
+Alameda22: calls $1.50
+*** FLOP *** [8d 6c As]
+woohg: checks 
+Alameda22: bets $5
+helios25: folds 
+chazz007: folds 
+woohg: folds 
+Uncalled bet ($5) returned to Alameda22
+Alameda22 collected $7.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [8d 6c As]
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 (button) folded on the Flop
+Seat 5: woohg (small blind) folded on the Flop
+Seat 6: Alameda22 (big blind) collected ($7.60)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded on the Flop
+
+
+
+PokerStars Game #20154139126:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:13:55 ET
+Table 'Kuma V' 9-max Seat #5 is the button
+Seat 1: hamz007 ($31.35 in chips) 
+Seat 2: mcdougal2 ($60.25 in chips) 
+Seat 3: rc169 ($59.55 in chips) 
+Seat 4: chazz007 ($24.30 in chips) 
+Seat 5: woohg ($7.85 in chips) 
+Seat 6: Alameda22 ($81.65 in chips) 
+Seat 7: drewbabez ($66.95 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($57.65 in chips) 
+Alameda22: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Kh]
+cn_chayanne: folds 
+helios25: folds 
+hamz007: calls $0.50
+mcdougal2: calls $0.50
+rc169: folds 
+chazz007: folds 
+woohg: folds 
+Alameda22: folds 
+drewbabez: checks 
+*** FLOP *** [3c 8d Qc]
+drewbabez: checks 
+hamz007: checks 
+mcdougal2: checks 
+*** TURN *** [3c 8d Qc] [Ks]
+drewbabez: bets $2
+hamz007: folds 
+mcdougal2: folds 
+Uncalled bet ($2) returned to drewbabez
+drewbabez collected $1.70 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [3c 8d Qc Ks]
+Seat 1: hamz007 folded on the Turn
+Seat 2: mcdougal2 folded on the Turn
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: drewbabez (big blind) collected ($1.70)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154174117:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:15:32 ET
+Table 'Kuma V' 9-max Seat #6 is the button
+Seat 1: hamz007 ($30.85 in chips) 
+Seat 2: mcdougal2 ($59.75 in chips) 
+Seat 3: rc169 ($59.55 in chips) 
+Seat 4: chazz007 ($24.30 in chips) 
+Seat 5: woohg ($7.85 in chips) 
+Seat 6: Alameda22 ($81.40 in chips) 
+Seat 7: drewbabez ($68.15 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($57.65 in chips) 
+drewbabez: posts small blind $0.25
+cn_chayanne: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 9h]
+helios25: folds 
+hamz007: calls $0.50
+mcdougal2: folds 
+rc169: folds 
+chazz007: calls $0.50
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: checks 
+*** FLOP *** [Qs 2h As]
+cn_chayanne: checks 
+hamz007: bets $2
+chazz007: folds 
+cn_chayanne: folds 
+Uncalled bet ($2) returned to hamz007
+hamz007 collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Qs 2h As]
+Seat 1: hamz007 collected ($1.70)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded on the Flop
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: drewbabez (small blind) folded before Flop
+Seat 8: cn_chayanne (big blind) folded on the Flop
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154213774:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:17:24 ET
+Table 'Kuma V' 9-max Seat #7 is the button
+Seat 1: hamz007 ($32.05 in chips) 
+Seat 2: mcdougal2 ($59.75 in chips) 
+Seat 3: rc169 ($59.55 in chips) 
+Seat 4: chazz007 ($23.80 in chips) 
+Seat 5: woohg ($7.85 in chips) 
+Seat 6: Alameda22 ($81.40 in chips) 
+Seat 7: drewbabez ($67.90 in chips) 
+Seat 8: cn_chayanne ($62.35 in chips) 
+Seat 9: helios25 ($57.65 in chips) 
+cn_chayanne: posts small blind $0.25
+helios25: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 9c]
+hamz007: folds 
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+woohg: raises $1 to $1.50
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+Uncalled bet ($1) returned to woohg
+woohg collected $1.25 from pot
+woohg: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg collected ($1.25)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez (button) folded before Flop (didn't bet)
+Seat 8: cn_chayanne (small blind) folded before Flop
+Seat 9: helios25 (big blind) folded before Flop
+
+
+
+PokerStars Game #20154237496:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:18:30 ET
+Table 'Kuma V' 9-max Seat #8 is the button
+Seat 1: hamz007 ($32.05 in chips) 
+Seat 2: mcdougal2 ($59.75 in chips) 
+Seat 3: rc169 ($59.55 in chips) 
+Seat 4: chazz007 ($23.80 in chips) 
+Seat 5: woohg ($8.60 in chips) 
+Seat 6: Alameda22 ($81.40 in chips) 
+Seat 7: drewbabez ($67.90 in chips) 
+Seat 8: cn_chayanne ($62.10 in chips) 
+Seat 9: helios25 ($57.15 in chips) 
+helios25: posts small blind $0.25
+hamz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Qs]
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+woohg: folds 
+Alameda22: raises $1.50 to $2
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: calls $1.75
+hamz007: folds 
+*** FLOP *** [5d Kh 6h]
+helios25: checks 
+Alameda22: checks 
+*** TURN *** [5d Kh 6h] [Js]
+helios25: checks 
+Alameda22: bets $3
+helios25: folds 
+Uncalled bet ($3) returned to Alameda22
+Alameda22 collected $4.30 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [5d Kh 6h Js]
+Seat 1: hamz007 (big blind) folded before Flop
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 collected ($4.30)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne (button) folded before Flop (didn't bet)
+Seat 9: helios25 (small blind) folded on the Turn
+
+
+
+PokerStars Game #20154265983:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:19:49 ET
+Table 'Kuma V' 9-max Seat #9 is the button
+Seat 1: hamz007 ($31.55 in chips) 
+Seat 2: mcdougal2 ($59.75 in chips) 
+Seat 3: rc169 ($59.55 in chips) 
+Seat 4: chazz007 ($23.80 in chips) 
+Seat 5: woohg ($8.60 in chips) 
+Seat 6: Alameda22 ($83.70 in chips) 
+Seat 7: drewbabez ($67.90 in chips) 
+Seat 8: cn_chayanne ($62.10 in chips) 
+Seat 9: helios25 ($55.15 in chips) 
+hamz007: posts small blind $0.25
+mcdougal2: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 3c]
+rc169: folds 
+chazz007: folds 
+woohg: raises $1 to $1.50
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: folds 
+mcdougal2: folds 
+Uncalled bet ($1) returned to woohg
+woohg collected $1.25 from pot
+woohg: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 (small blind) folded before Flop
+Seat 2: mcdougal2 (big blind) folded before Flop
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg collected ($1.25)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154284978:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:20:43 ET
+Table 'Kuma V' 9-max Seat #1 is the button
+Seat 1: hamz007 ($31.30 in chips) 
+Seat 2: mcdougal2 ($59.25 in chips) 
+Seat 3: rc169 ($59.55 in chips) 
+Seat 4: chazz007 ($23.80 in chips) 
+Seat 5: woohg ($9.35 in chips) 
+Seat 6: Alameda22 ($83.70 in chips) 
+Seat 7: drewbabez ($67.90 in chips) 
+Seat 8: cn_chayanne ($62.10 in chips) 
+Seat 9: helios25 ($55.15 in chips) 
+mcdougal2: posts small blind $0.25
+rc169: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Kh]
+chazz007: folds 
+woohg: folds 
+Alameda22: folds 
+drewbabez: raises $1 to $1.50
+cn_chayanne: folds 
+helios25: calls $1.50
+hamz007: folds 
+mcdougal2: folds 
+rc169: folds 
+*** FLOP *** [Kd 3s 2h]
+drewbabez: checks 
+helios25: checks 
+*** TURN *** [Kd 3s 2h] [6h]
+drewbabez: checks 
+helios25: checks 
+*** RIVER *** [Kd 3s 2h 6h] [Ah]
+drewbabez: checks 
+helios25: checks 
+*** SHOW DOWN ***
+drewbabez: shows [Td Ad] (a pair of Aces)
+helios25: mucks hand 
+drewbabez collected $3.60 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [Kd 3s 2h 6h Ah]
+Seat 1: hamz007 (button) folded before Flop (didn't bet)
+Seat 2: mcdougal2 (small blind) folded before Flop
+Seat 3: rc169 (big blind) folded before Flop
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez showed [Td Ad] and won ($3.60) with a pair of Aces
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 mucked [9c 9d]
+
+
+
+PokerStars Game #20154308075:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:21:47 ET
+Table 'Kuma V' 9-max Seat #2 is the button
+Seat 1: hamz007 ($31.30 in chips) 
+Seat 2: mcdougal2 ($59 in chips) 
+Seat 3: rc169 ($59.05 in chips) 
+Seat 4: chazz007 ($23.80 in chips) 
+Seat 5: woohg ($9.35 in chips) 
+Seat 6: Alameda22 ($83.70 in chips) 
+Seat 7: drewbabez ($70 in chips) 
+Seat 8: cn_chayanne ($62.10 in chips) 
+Seat 9: helios25 ($53.65 in chips) 
+rc169: posts small blind $0.25
+chazz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 9c]
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: raises $1.50 to $2
+helios25: folds 
+hamz007: folds 
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+Uncalled bet ($1.50) returned to cn_chayanne
+cn_chayanne collected $1.25 from pot
+cn_chayanne: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: mcdougal2 (button) folded before Flop (didn't bet)
+Seat 3: rc169 (small blind) folded before Flop
+Seat 4: chazz007 (big blind) folded before Flop
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne collected ($1.25)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154326501:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:22:39 ET
+Table 'Kuma V' 9-max Seat #3 is the button
+Seat 1: hamz007 ($31.30 in chips) 
+Seat 2: mcdougal2 ($59 in chips) 
+Seat 3: rc169 ($58.80 in chips) 
+Seat 4: chazz007 ($23.30 in chips) 
+Seat 5: woohg ($9.35 in chips) 
+Seat 6: Alameda22 ($83.70 in chips) 
+Seat 7: drewbabez ($70 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($53.65 in chips) 
+chazz007: posts small blind $0.25
+woohg: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Ad]
+Alameda22: folds 
+drewbabez: raises $1 to $1.50
+cn_chayanne: folds 
+helios25: folds 
+hamz007: calls $1.50
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+woohg: folds 
+*** FLOP *** [3c Kd Td]
+drewbabez: checks 
+hamz007: checks 
+*** TURN *** [3c Kd Td] [5d]
+drewbabez: checks 
+hamz007: checks 
+*** RIVER *** [3c Kd Td 5d] [Ts]
+drewbabez: checks 
+hamz007: checks 
+*** SHOW DOWN ***
+drewbabez: shows [9h 9d] (two pair, Tens and Nines)
+hamz007: mucks hand 
+drewbabez collected $3.60 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [3c Kd Td 5d Ts]
+Seat 1: hamz007 mucked [Qc 7c]
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 (button) folded before Flop (didn't bet)
+Seat 4: chazz007 (small blind) folded before Flop
+Seat 5: woohg (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez showed [9h 9d] and won ($3.60) with two pair, Tens and Nines
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154363654:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:24:25 ET
+Table 'Kuma V' 9-max Seat #4 is the button
+Seat 1: hamz007 ($29.80 in chips) 
+Seat 2: mcdougal2 ($59 in chips) 
+Seat 3: rc169 ($58.80 in chips) 
+Seat 4: chazz007 ($23.05 in chips) 
+Seat 5: woohg ($8.85 in chips) 
+Seat 6: Alameda22 ($83.70 in chips) 
+Seat 7: drewbabez ($72.10 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($53.65 in chips) 
+woohg: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Qs]
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: raises $1.50 to $2
+mcdougal2: folds 
+rc169: folds 
+chazz007: raises $21.05 to $23.05 and is all-in
+woohg: folds 
+Alameda22: folds 
+hamz007: calls $21.05
+*** FLOP *** [4h 5s Jc]
+*** TURN *** [4h 5s Jc] [Ah]
+*** RIVER *** [4h 5s Jc Ah] [4s]
+*** SHOW DOWN ***
+hamz007: shows [Jh Ac] (two pair, Aces and Jacks)
+chazz007: shows [Ks Kc] (two pair, Kings and Fours)
+hamz007 collected $44.55 from pot
+*** SUMMARY ***
+Total pot $46.85 | Rake $2.30 
+Board [4h 5s Jc Ah 4s]
+Seat 1: hamz007 showed [Jh Ac] and won ($44.55) with two pair, Aces and Jacks
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 (button) showed [Ks Kc] and lost with two pair, Kings and Fours
+Seat 5: woohg (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154385495:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:25:26 ET
+Table 'Kuma V' 9-max Seat #5 is the button
+Seat 1: hamz007 ($51.30 in chips) 
+Seat 2: mcdougal2 ($59 in chips) 
+Seat 3: rc169 ($58.80 in chips) 
+Seat 5: woohg ($8.60 in chips) 
+Seat 6: Alameda22 ($83.20 in chips) 
+Seat 7: drewbabez ($72.10 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($53.65 in chips) 
+Alameda22: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Ad]
+cn_chayanne: folds 
+chazz007 has returned
+helios25: folds 
+hamz007: calls $0.50
+mcdougal2: folds 
+rc169: folds 
+woohg: calls $0.50
+Alameda22: folds 
+drewbabez: checks 
+*** FLOP *** [4c Jd Kh]
+drewbabez: checks 
+hamz007: checks 
+woohg: bets $0.50
+drewbabez: folds 
+hamz007: folds 
+Uncalled bet ($0.50) returned to woohg
+woohg collected $1.70 from pot
+woohg: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [4c Jd Kh]
+Seat 1: hamz007 folded on the Flop
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 5: woohg (button) collected ($1.70)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: drewbabez (big blind) folded on the Flop
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154408983:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:26:33 ET
+Table 'Kuma V' 9-max Seat #6 is the button
+Seat 1: hamz007 ($50.80 in chips) 
+Seat 2: mcdougal2 ($59 in chips) 
+Seat 3: rc169 ($58.80 in chips) 
+Seat 4: chazz007 ($30 in chips) 
+Seat 5: woohg ($9.80 in chips) 
+Seat 6: Alameda22 ($82.95 in chips) 
+Seat 7: drewbabez ($71.60 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($53.65 in chips) 
+drewbabez: posts small blind $0.25
+cn_chayanne: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 9s]
+helios25: folds 
+hamz007: folds 
+mcdougal2: raises $0.50 to $1
+rc169: folds 
+chazz007: folds 
+woohg: calls $1
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+*** FLOP *** [9c Qd Ts]
+mcdougal2: bets $2
+woohg: folds 
+Uncalled bet ($2) returned to mcdougal2
+mcdougal2 collected $2.65 from pot
+mcdougal2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [9c Qd Ts]
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: mcdougal2 collected ($2.65)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded on the Flop
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: drewbabez (small blind) folded before Flop
+Seat 8: cn_chayanne (big blind) folded before Flop
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154439414:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:27:59 ET
+Table 'Kuma V' 9-max Seat #7 is the button
+Seat 1: hamz007 ($50.80 in chips) 
+Seat 2: mcdougal2 ($60.65 in chips) 
+Seat 3: rc169 ($58.80 in chips) 
+Seat 4: chazz007 ($30 in chips) 
+Seat 5: woohg ($8.80 in chips) 
+Seat 6: Alameda22 ($82.95 in chips) 
+Seat 7: drewbabez ($71.35 in chips) 
+Seat 8: cn_chayanne ($62.35 in chips) 
+Seat 9: helios25 ($53.65 in chips) 
+cn_chayanne: posts small blind $0.25
+helios25: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Ac]
+hamz007: folds 
+mcdougal2: calls $0.50
+rc169: folds 
+chazz007: folds 
+woohg: raises $1.50 to $2
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+mcdougal2: calls $1.50
+*** FLOP *** [Jd 4s 2h]
+mcdougal2: bets $3
+woohg: raises $3.80 to $6.80 and is all-in
+mcdougal2: calls $3.80
+*** TURN *** [Jd 4s 2h] [7s]
+*** RIVER *** [Jd 4s 2h 7s] [Ad]
+*** SHOW DOWN ***
+mcdougal2: shows [9c 9s] (a pair of Nines)
+woohg: shows [Jh Kh] (a pair of Jacks)
+woohg collected $17.45 from pot
+*** SUMMARY ***
+Total pot $18.35 | Rake $0.90 
+Board [Jd 4s 2h 7s Ad]
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: mcdougal2 showed [9c 9s] and lost with a pair of Nines
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg showed [Jh Kh] and won ($17.45) with a pair of Jacks
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez (button) folded before Flop (didn't bet)
+Seat 8: cn_chayanne (small blind) folded before Flop
+Seat 9: helios25 (big blind) folded before Flop
+
+
+
+PokerStars Game #20154468200:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:29:20 ET
+Table 'Kuma V' 9-max Seat #8 is the button
+Seat 1: hamz007 ($50.80 in chips) 
+Seat 2: mcdougal2 ($51.85 in chips) 
+Seat 3: rc169 ($58.80 in chips) 
+Seat 4: chazz007 ($30 in chips) 
+Seat 5: woohg ($17.45 in chips) 
+Seat 6: Alameda22 ($82.95 in chips) 
+Seat 7: drewbabez ($71.35 in chips) 
+Seat 8: cn_chayanne ($62.10 in chips) 
+Seat 9: helios25 ($53.15 in chips) 
+helios25: posts small blind $0.25
+hamz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 6h]
+mcdougal2: folds 
+rc169: folds 
+chazz007: raises $2 to $2.50
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: folds 
+Uncalled bet ($2) returned to chazz007
+chazz007 collected $1.25 from pot
+chazz007: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 (big blind) folded before Flop
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 collected ($1.25)
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne (button) folded before Flop (didn't bet)
+Seat 9: helios25 (small blind) folded before Flop
+
+
+
+PokerStars Game #20154487821:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:30:15 ET
+Table 'Kuma V' 9-max Seat #9 is the button
+Seat 1: hamz007 ($50.30 in chips) 
+Seat 2: mcdougal2 ($51.85 in chips) 
+Seat 3: rc169 ($58.80 in chips) 
+Seat 4: chazz007 ($30.75 in chips) 
+Seat 5: woohg ($17.45 in chips) 
+Seat 6: Alameda22 ($82.95 in chips) 
+Seat 7: drewbabez ($71.35 in chips) 
+Seat 8: cn_chayanne ($62.10 in chips) 
+Seat 9: helios25 ($52.90 in chips) 
+hamz007: posts small blind $0.25
+mcdougal2: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 5s]
+rc169: folds 
+chazz007: folds 
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: raises $1.50 to $2
+helios25: folds 
+hamz007: folds 
+mcdougal2: folds 
+Uncalled bet ($1.50) returned to cn_chayanne
+cn_chayanne collected $1.25 from pot
+cn_chayanne: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 (small blind) folded before Flop
+Seat 2: mcdougal2 (big blind) folded before Flop
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne collected ($1.25)
+Seat 9: helios25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154503504:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:30:58 ET
+Table 'Kuma V' 9-max Seat #1 is the button
+Seat 1: hamz007 ($50.05 in chips) 
+Seat 2: mcdougal2 ($51.35 in chips) 
+Seat 3: rc169 ($58.80 in chips) 
+Seat 4: chazz007 ($30.75 in chips) 
+Seat 5: woohg ($17.45 in chips) 
+Seat 6: Alameda22 ($82.95 in chips) 
+Seat 7: drewbabez ($71.35 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($52.90 in chips) 
+mcdougal2: posts small blind $0.25
+rc169: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Jh]
+chazz007: calls $0.50
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: calls $0.50
+hamz007: raises $2 to $2.50
+mcdougal2: calls $2.25
+rc169: folds 
+chazz007: calls $2
+helios25: calls $2
+*** FLOP *** [6s 3c 3s]
+mcdougal2: checks 
+chazz007: checks 
+helios25: checks 
+hamz007: bets $3
+mcdougal2: folds 
+chazz007: folds 
+helios25: folds 
+Uncalled bet ($3) returned to hamz007
+hamz007 collected $10 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.50 
+Board [6s 3c 3s]
+Seat 1: hamz007 (button) collected ($10)
+Seat 2: mcdougal2 (small blind) folded on the Flop
+Seat 3: rc169 (big blind) folded before Flop
+Seat 4: chazz007 folded on the Flop
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded on the Flop
+
+
+
+PokerStars Game #20154536247:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:32:25 ET
+Table 'Kuma V' 9-max Seat #2 is the button
+Seat 1: hamz007 ($57.55 in chips) 
+Seat 2: mcdougal2 ($48.85 in chips) 
+Seat 3: rc169 ($58.30 in chips) 
+Seat 4: chazz007 ($28.25 in chips) 
+Seat 5: woohg ($17.45 in chips) 
+Seat 6: Alameda22 ($82.95 in chips) 
+Seat 7: drewbabez ($71.35 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($50.40 in chips) 
+rc169: posts small blind $0.25
+chazz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 7c]
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: calls $0.50
+mcdougal2: raises $2 to $2.50
+rc169: folds 
+chazz007: folds 
+hamz007: calls $2
+*** FLOP *** [Th 4d 3c]
+hamz007: checks 
+mcdougal2: checks 
+*** TURN *** [Th 4d 3c] [Qh]
+hamz007: checks 
+mcdougal2: bets $3
+hamz007: folds 
+Uncalled bet ($3) returned to mcdougal2
+mcdougal2 collected $5.50 from pot
+mcdougal2: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.25 
+Board [Th 4d 3c Qh]
+Seat 1: hamz007 folded on the Turn
+Seat 2: mcdougal2 (button) collected ($5.50)
+Seat 3: rc169 (small blind) folded before Flop
+Seat 4: chazz007 (big blind) folded before Flop
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154564870:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:33:40 ET
+Table 'Kuma V' 9-max Seat #3 is the button
+Seat 1: hamz007 ($55.05 in chips) 
+Seat 2: mcdougal2 ($51.85 in chips) 
+Seat 3: rc169 ($58.05 in chips) 
+Seat 4: chazz007 ($27.75 in chips) 
+Seat 5: woohg ($17.45 in chips) 
+Seat 6: Alameda22 ($82.95 in chips) 
+Seat 7: drewbabez ($71.35 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($50.40 in chips) 
+chazz007: posts small blind $0.25
+woohg: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Kd]
+Alameda22: folds 
+drewbabez: calls $0.50
+cn_chayanne: folds 
+helios25: raises $2 to $2.50
+hamz007: raises $2 to $4.50
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+woohg: folds 
+drewbabez: folds 
+helios25: calls $2
+*** FLOP *** [Ah 9s Td]
+helios25: checks 
+hamz007: bets $5
+helios25: raises $5 to $10
+hamz007: calls $5
+*** TURN *** [Ah 9s Td] [Kc]
+helios25: checks 
+hamz007: bets $40.55 and is all-in
+helios25: folds 
+Uncalled bet ($40.55) returned to hamz007
+hamz007 collected $28.80 from pot
+*** SUMMARY ***
+Total pot $30.25 | Rake $1.45 
+Board [Ah 9s Td Kc]
+Seat 1: hamz007 collected ($28.80)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 (button) folded before Flop (didn't bet)
+Seat 4: chazz007 (small blind) folded before Flop
+Seat 5: woohg (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded on the Turn
+
+
+
+PokerStars Game #20154597158:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:35:07 ET
+Table 'Kuma V' 9-max Seat #4 is the button
+Seat 1: hamz007 ($69.35 in chips) 
+Seat 2: mcdougal2 ($51.85 in chips) 
+Seat 3: rc169 ($58.05 in chips) 
+Seat 4: chazz007 ($27.50 in chips) 
+Seat 5: woohg ($16.95 in chips) 
+Seat 6: Alameda22 ($82.95 in chips) 
+Seat 7: drewbabez ($70.85 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($50 in chips) 
+woohg: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 5h]
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: calls $0.50
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+woohg: calls $0.25
+Alameda22: checks 
+*** FLOP *** [Qs 7s 9h]
+woohg: checks 
+Alameda22: checks 
+hamz007: checks 
+*** TURN *** [Qs 7s 9h] [5s]
+woohg: checks 
+Alameda22: checks 
+hamz007: checks 
+*** RIVER *** [Qs 7s 9h 5s] [4s]
+woohg: checks 
+Alameda22: checks 
+hamz007: bets $6
+woohg: folds 
+Alameda22: folds 
+Uncalled bet ($6) returned to hamz007
+hamz007 collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Qs 7s 9h 5s 4s]
+Seat 1: hamz007 collected ($1.45)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 (button) folded before Flop (didn't bet)
+Seat 5: woohg (small blind) folded on the River
+Seat 6: Alameda22 (big blind) folded on the River
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154645773:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:37:18 ET
+Table 'Kuma V' 9-max Seat #5 is the button
+Seat 1: hamz007 ($70.30 in chips) 
+Seat 2: mcdougal2 ($51.85 in chips) 
+Seat 3: rc169 ($58.05 in chips) 
+Seat 4: chazz007 ($27.50 in chips) 
+Seat 5: woohg ($16.45 in chips) 
+Seat 6: Alameda22 ($82.45 in chips) 
+Seat 7: drewbabez ($70.85 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($50 in chips) 
+Alameda22: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 6h]
+cn_chayanne: folds 
+helios25: folds 
+hamz007: calls $0.50
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+woohg: folds 
+Alameda22: folds 
+drewbabez: checks 
+*** FLOP *** [Kd Ah Ac]
+drewbabez: checks 
+hamz007: checks 
+*** TURN *** [Kd Ah Ac] [9s]
+drewbabez: bets $1.50
+hamz007: folds 
+Uncalled bet ($1.50) returned to drewbabez
+drewbabez collected $1.20 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Kd Ah Ac 9s]
+Seat 1: hamz007 folded on the Turn
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: drewbabez (big blind) collected ($1.20)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154671109:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:38:26 ET
+Table 'Kuma V' 9-max Seat #6 is the button
+Seat 1: hamz007 ($69.80 in chips) 
+Seat 2: mcdougal2 ($51.85 in chips) 
+Seat 3: rc169 ($58.05 in chips) 
+Seat 4: chazz007 ($27.50 in chips) 
+Seat 5: woohg ($16.45 in chips) 
+Seat 6: Alameda22 ($82.20 in chips) 
+Seat 7: drewbabez ($71.55 in chips) 
+Seat 8: cn_chayanne ($62.85 in chips) 
+Seat 9: helios25 ($50 in chips) 
+drewbabez: posts small blind $0.25
+cn_chayanne: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 6c]
+helios25: folds 
+hamz007: calls $0.50
+mcdougal2: folds 
+rc169: folds 
+chazz007: raises $2 to $2.50
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+hamz007: folds 
+Uncalled bet ($2) returned to chazz007
+chazz007 collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: hamz007 folded before Flop
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 collected ($1.75)
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: drewbabez (small blind) folded before Flop
+Seat 8: cn_chayanne (big blind) folded before Flop
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154696914:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:39:43 ET
+Table 'Kuma V' 9-max Seat #7 is the button
+Seat 1: hamz007 ($69.30 in chips) 
+Seat 2: mcdougal2 ($51.85 in chips) 
+Seat 3: rc169 ($58.05 in chips) 
+Seat 4: chazz007 ($28.75 in chips) 
+Seat 5: woohg ($16.45 in chips) 
+Seat 6: Alameda22 ($82.20 in chips) 
+Seat 7: drewbabez ($71.30 in chips) 
+Seat 8: cn_chayanne ($62.35 in chips) 
+Seat 9: helios25 ($50 in chips) 
+cn_chayanne: posts small blind $0.25
+helios25: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 8h]
+hamz007: calls $0.50
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+woohg: folds 
+Alameda22: folds 
+drewbabez: raises $1.50 to $2
+cn_chayanne: folds 
+helios25: folds 
+hamz007: calls $1.50
+*** FLOP *** [6c 7c Td]
+hamz007: bets $3
+drewbabez: folds 
+Uncalled bet ($3) returned to hamz007
+hamz007 collected $4.55 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [6c 7c Td]
+Seat 1: hamz007 collected ($4.55)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez (button) folded on the Flop
+Seat 8: cn_chayanne (small blind) folded before Flop
+Seat 9: helios25 (big blind) folded before Flop
+
+
+
+PokerStars Game #20154721572:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:40:52 ET
+Table 'Kuma V' 9-max Seat #8 is the button
+Seat 1: hamz007 ($71.85 in chips) 
+Seat 2: mcdougal2 ($51.85 in chips) 
+Seat 3: rc169 ($58.05 in chips) 
+Seat 4: chazz007 ($28.75 in chips) 
+Seat 5: woohg ($16.45 in chips) 
+Seat 6: Alameda22 ($82.20 in chips) 
+Seat 7: drewbabez ($69.30 in chips) 
+Seat 8: cn_chayanne ($62.10 in chips) 
+Seat 9: helios25 ($49.50 in chips) 
+helios25: posts small blind $0.25
+hamz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Kc]
+mcdougal2: calls $0.50
+rc169: folds 
+chazz007: folds 
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: raises $2 to $2.50
+helios25: folds 
+hamz007: folds 
+mcdougal2: folds 
+Uncalled bet ($2) returned to cn_chayanne
+cn_chayanne collected $1.75 from pot
+cn_chayanne: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: hamz007 (big blind) folded before Flop
+Seat 2: mcdougal2 folded before Flop
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne (button) collected ($1.75)
+Seat 9: helios25 (small blind) folded before Flop
+
+
+
+PokerStars Game #20154745586:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:41:57 ET
+Table 'Kuma V' 9-max Seat #9 is the button
+Seat 1: hamz007 ($71.35 in chips) 
+Seat 2: mcdougal2 ($51.35 in chips) 
+Seat 3: rc169 ($58.05 in chips) 
+Seat 4: chazz007 ($28.75 in chips) 
+Seat 5: woohg ($16.45 in chips) 
+Seat 6: Alameda22 ($82.20 in chips) 
+Seat 7: drewbabez ($69.30 in chips) 
+Seat 8: cn_chayanne ($63.35 in chips) 
+Seat 9: helios25 ($49.25 in chips) 
+hamz007: posts small blind $0.25
+mcdougal2: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Ad]
+rc169: folds 
+chazz007: folds 
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: calls $0.25
+mcdougal2: raises $1.50 to $2
+hamz007: folds 
+Uncalled bet ($1.50) returned to mcdougal2
+mcdougal2 collected $1 from pot
+mcdougal2: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: hamz007 (small blind) folded before Flop
+Seat 2: mcdougal2 (big blind) collected ($1)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154767638:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:42:58 ET
+Table 'Kuma V' 9-max Seat #1 is the button
+Seat 1: hamz007 ($70.85 in chips) 
+Seat 2: mcdougal2 ($51.85 in chips) 
+Seat 3: rc169 ($58.05 in chips) 
+Seat 4: chazz007 ($28.75 in chips) 
+Seat 5: woohg ($16.45 in chips) 
+Seat 6: Alameda22 ($82.20 in chips) 
+Seat 7: drewbabez ($69.30 in chips) 
+Seat 8: cn_chayanne ($63.35 in chips) 
+Seat 9: helios25 ($49.25 in chips) 
+mcdougal2: posts small blind $0.25
+rc169: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Ad]
+chazz007: folds 
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: folds 
+mcdougal2: calls $0.25
+rc169: checks 
+*** FLOP *** [Jd 4d 3s]
+mcdougal2: checks 
+rc169: bets $2
+mcdougal2: folds 
+Uncalled bet ($2) returned to rc169
+rc169 collected $0.95 from pot
+rc169: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Jd 4d 3s]
+Seat 1: hamz007 (button) folded before Flop (didn't bet)
+Seat 2: mcdougal2 (small blind) folded on the Flop
+Seat 3: rc169 (big blind) collected ($0.95)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154795007:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:44:12 ET
+Table 'Kuma V' 9-max Seat #2 is the button
+Seat 1: hamz007 ($70.85 in chips) 
+Seat 2: mcdougal2 ($51.35 in chips) 
+Seat 3: rc169 ($58.50 in chips) 
+Seat 4: chazz007 ($28.75 in chips) 
+Seat 5: woohg ($16.45 in chips) 
+Seat 6: Alameda22 ($82.20 in chips) 
+Seat 7: drewbabez ($69.30 in chips) 
+Seat 8: cn_chayanne ($63.35 in chips) 
+Seat 9: helios25 ($49.25 in chips) 
+rc169: posts small blind $0.25
+chazz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h As]
+woohg: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: raises $2.50 to $3
+mcdougal2: folds 
+woohg leaves the table
+rc169: folds 
+chazz007: folds 
+Uncalled bet ($2.50) returned to hamz007
+hamz007 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 collected ($1.25)
+Seat 2: mcdougal2 (button) folded before Flop (didn't bet)
+Seat 3: rc169 (small blind) folded before Flop
+Seat 4: chazz007 (big blind) folded before Flop
+Seat 5: woohg folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154826396:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:45:39 ET
+Table 'Kuma V' 9-max Seat #3 is the button
+Seat 1: hamz007 ($71.60 in chips) 
+Seat 2: mcdougal2 ($51.35 in chips) 
+Seat 3: rc169 ($58.25 in chips) 
+Seat 4: chazz007 ($28.25 in chips) 
+Seat 6: Alameda22 ($82.20 in chips) 
+Seat 7: drewbabez ($69.30 in chips) 
+Seat 8: cn_chayanne ($63.35 in chips) 
+Seat 9: helios25 ($49.25 in chips) 
+chazz007: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 3s]
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: folds 
+mcdougal2: calls $0.50
+jakatax joins the table at seat #5 
+rc169: folds 
+chazz007: raises $1.50 to $2
+Alameda22: folds 
+mcdougal2: folds 
+Uncalled bet ($1.50) returned to chazz007
+chazz007 collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop
+Seat 3: rc169 (button) folded before Flop (didn't bet)
+Seat 4: chazz007 (small blind) collected ($1.50)
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154839940:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:46:16 ET
+Table 'Kuma V' 9-max Seat #4 is the button
+Seat 1: hamz007 ($71.60 in chips) 
+Seat 2: mcdougal2 ($50.85 in chips) 
+Seat 3: rc169 ($58.25 in chips) 
+Seat 4: chazz007 ($29.25 in chips) 
+Seat 6: Alameda22 ($81.70 in chips) 
+Seat 7: drewbabez ($69.30 in chips) 
+Seat 8: cn_chayanne ($63.35 in chips) 
+Seat 9: helios25 ($49.25 in chips) 
+jakatax will be allowed to play after the button
+Alameda22: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 8c]
+cn_chayanne: folds 
+helios25: folds 
+hamz007: calls $0.50
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+Alameda22: folds 
+drewbabez: checks 
+*** FLOP *** [9c 7s 5s]
+drewbabez: checks 
+hamz007: bets $2.50
+drewbabez: folds 
+Uncalled bet ($2.50) returned to hamz007
+hamz007 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [9c 7s 5s]
+Seat 1: hamz007 collected ($1.20)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: drewbabez (big blind) folded on the Flop
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154865613:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:47:28 ET
+Table 'Kuma V' 9-max Seat #6 is the button
+Seat 1: hamz007 ($72.30 in chips) 
+Seat 2: mcdougal2 ($50.85 in chips) 
+Seat 3: rc169 ($58.25 in chips) 
+Seat 4: chazz007 ($29.25 in chips) 
+Seat 5: jakatax ($50 in chips) 
+Seat 6: Alameda22 ($81.45 in chips) 
+Seat 7: drewbabez ($68.80 in chips) 
+Seat 8: cn_chayanne ($63.35 in chips) 
+Seat 9: helios25 ($49.25 in chips) 
+drewbabez: posts small blind $0.25
+cn_chayanne: posts big blind $0.50
+jakatax: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 5s]
+helios25: folds 
+hamz007: calls $0.50
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+jakatax: checks 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: checks 
+*** FLOP *** [3h 3d 8c]
+cn_chayanne: checks 
+hamz007: checks 
+jakatax: checks 
+*** TURN *** [3h 3d 8c] [Qc]
+cn_chayanne: checks 
+hamz007: checks 
+jakatax: checks 
+*** RIVER *** [3h 3d 8c Qc] [Kd]
+cn_chayanne: checks 
+hamz007: checks 
+jakatax: checks 
+*** SHOW DOWN ***
+cn_chayanne: shows [7s 8d] (two pair, Eights and Threes)
+hamz007: mucks hand 
+jakatax: mucks hand 
+cn_chayanne collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [3h 3d 8c Qc Kd]
+Seat 1: hamz007 mucked [Jh 7c]
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: jakatax mucked [6s Js]
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: drewbabez (small blind) folded before Flop
+Seat 8: cn_chayanne (big blind) showed [7s 8d] and won ($1.70) with two pair, Eights and Threes
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154921241:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:50:01 ET
+Table 'Kuma V' 9-max Seat #7 is the button
+Seat 1: hamz007 ($71.80 in chips) 
+Seat 2: mcdougal2 ($50.85 in chips) 
+Seat 3: rc169 ($58.25 in chips) 
+Seat 4: chazz007 ($29.25 in chips) 
+Seat 5: jakatax ($49.50 in chips) 
+Seat 6: Alameda22 ($81.45 in chips) 
+Seat 7: drewbabez ($68.55 in chips) 
+Seat 8: cn_chayanne ($64.55 in chips) 
+Seat 9: helios25 ($49.25 in chips) 
+cn_chayanne: posts small blind $0.25
+helios25: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Kc]
+hamz007: folds 
+mcdougal2: calls $0.50
+rc169: folds 
+chazz007: folds 
+jakatax: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: checks 
+*** FLOP *** [4s 7d 7s]
+helios25: checks 
+mcdougal2: checks 
+*** TURN *** [4s 7d 7s] [9h]
+helios25: checks 
+mcdougal2: checks 
+*** RIVER *** [4s 7d 7s 9h] [5c]
+helios25: bets $1
+mcdougal2: folds 
+Uncalled bet ($1) returned to helios25
+helios25 collected $1.20 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [4s 7d 7s 9h 5c]
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded on the River
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez (button) folded before Flop (didn't bet)
+Seat 8: cn_chayanne (small blind) folded before Flop
+Seat 9: helios25 (big blind) collected ($1.20)
+
+
+
+PokerStars Game #20154950811:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:51:23 ET
+Table 'Kuma V' 9-max Seat #8 is the button
+Seat 1: hamz007 ($71.80 in chips) 
+Seat 2: mcdougal2 ($50.35 in chips) 
+Seat 3: rc169 ($58.25 in chips) 
+Seat 4: chazz007 ($29.25 in chips) 
+Seat 5: jakatax ($49.50 in chips) 
+Seat 6: Alameda22 ($81.45 in chips) 
+Seat 7: drewbabez ($68.55 in chips) 
+Seat 8: cn_chayanne ($64.30 in chips) 
+Seat 9: helios25 ($50 in chips) 
+helios25: posts small blind $0.25
+hamz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 6h]
+mcdougal2: folds 
+rc169: calls $0.50
+chazz007: folds 
+jakatax: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: checks 
+*** FLOP *** [2s 8s Ad]
+hamz007: bets $2.50
+rc169: folds 
+Uncalled bet ($2.50) returned to hamz007
+hamz007 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [2s 8s Ad]
+Seat 1: hamz007 (big blind) collected ($1.20)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded on the Flop
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne (button) folded before Flop (didn't bet)
+Seat 9: helios25 (small blind) folded before Flop
+
+
+
+PokerStars Game #20154972124:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:52:22 ET
+Table 'Kuma V' 9-max Seat #9 is the button
+Seat 1: hamz007 ($72.50 in chips) 
+Seat 2: mcdougal2 ($50.35 in chips) 
+Seat 3: rc169 ($57.75 in chips) 
+Seat 4: chazz007 ($29.25 in chips) 
+Seat 5: jakatax ($49.50 in chips) 
+Seat 6: Alameda22 ($81.45 in chips) 
+Seat 7: drewbabez ($68.55 in chips) 
+Seat 8: cn_chayanne ($64.30 in chips) 
+Seat 9: helios25 ($49.75 in chips) 
+hamz007: posts small blind $0.25
+mcdougal2: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Ac]
+rc169: folds 
+chazz007: folds 
+jakatax: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: folds 
+Uncalled bet ($0.25) returned to mcdougal2
+mcdougal2 collected $0.50 from pot
+mcdougal2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: hamz007 (small blind) folded before Flop
+Seat 2: mcdougal2 (big blind) collected ($0.50)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154983783:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:52:54 ET
+Table 'Kuma V' 9-max Seat #1 is the button
+Seat 1: hamz007 ($72.25 in chips) 
+Seat 2: mcdougal2 ($50.60 in chips) 
+Seat 3: rc169 ($57.75 in chips) 
+Seat 4: chazz007 ($29.25 in chips) 
+Seat 5: jakatax ($49.50 in chips) 
+Seat 6: Alameda22 ($81.45 in chips) 
+Seat 7: drewbabez ($68.55 in chips) 
+Seat 8: cn_chayanne ($64.30 in chips) 
+Seat 9: helios25 ($49.75 in chips) 
+mcdougal2: posts small blind $0.25
+rc169: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 2h]
+chazz007: folds 
+jakatax: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: folds 
+mcdougal2: calls $0.25
+rc169: checks 
+*** FLOP *** [7h 2c Ks]
+mcdougal2: checks 
+rc169: checks 
+*** TURN *** [7h 2c Ks] [Tc]
+mcdougal2: checks 
+rc169: checks 
+*** RIVER *** [7h 2c Ks Tc] [8s]
+mcdougal2: checks 
+rc169: checks 
+*** SHOW DOWN ***
+mcdougal2: shows [8d 5c] (a pair of Eights)
+rc169: mucks hand 
+mcdougal2 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [7h 2c Ks Tc 8s]
+Seat 1: hamz007 (button) folded before Flop (didn't bet)
+Seat 2: mcdougal2 (small blind) showed [8d 5c] and won ($0.95) with a pair of Eights
+Seat 3: rc169 (big blind) mucked [4h 2s]
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155021075:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:54:37 ET
+Table 'Kuma V' 9-max Seat #2 is the button
+Seat 1: hamz007 ($72.25 in chips) 
+Seat 2: mcdougal2 ($51.05 in chips) 
+Seat 3: rc169 ($57.25 in chips) 
+Seat 4: chazz007 ($29.25 in chips) 
+Seat 5: jakatax ($49.50 in chips) 
+Seat 6: Alameda22 ($81.45 in chips) 
+Seat 7: drewbabez ($68.55 in chips) 
+Seat 8: cn_chayanne ($64.30 in chips) 
+Seat 9: helios25 ($49.75 in chips) 
+rc169: posts small blind $0.25
+chazz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Js]
+jakatax: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: raises $1.50 to $2
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+Uncalled bet ($1.50) returned to hamz007
+hamz007 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 collected ($1.25)
+Seat 2: mcdougal2 (button) folded before Flop (didn't bet)
+Seat 3: rc169 (small blind) folded before Flop
+Seat 4: chazz007 (big blind) folded before Flop
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155037001:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:55:21 ET
+Table 'Kuma V' 9-max Seat #3 is the button
+Seat 1: hamz007 ($73 in chips) 
+Seat 2: mcdougal2 ($51.05 in chips) 
+Seat 3: rc169 ($57 in chips) 
+Seat 4: chazz007 ($28.75 in chips) 
+Seat 5: jakatax ($49.50 in chips) 
+Seat 6: Alameda22 ($81.45 in chips) 
+Seat 7: drewbabez ($68.55 in chips) 
+Seat 8: cn_chayanne ($64.30 in chips) 
+Seat 9: helios25 ($49.75 in chips) 
+chazz007: posts small blind $0.25
+jakatax: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 9c]
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: calls $0.50
+mcdougal2: folds 
+rc169: folds 
+chazz007: calls $0.25
+jakatax: checks 
+*** FLOP *** [5h 7s Ts]
+chazz007: checks 
+jakatax: checks 
+hamz007: bets $2.50
+chazz007: folds 
+jakatax: folds 
+Uncalled bet ($2.50) returned to hamz007
+hamz007 collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [5h 7s Ts]
+Seat 1: hamz007 collected ($1.45)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 (button) folded before Flop (didn't bet)
+Seat 4: chazz007 (small blind) folded on the Flop
+Seat 5: jakatax (big blind) folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155065193:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:56:40 ET
+Table 'Kuma V' 9-max Seat #4 is the button
+Seat 1: hamz007 ($73.95 in chips) 
+Seat 2: mcdougal2 ($51.05 in chips) 
+Seat 3: rc169 ($57 in chips) 
+Seat 4: chazz007 ($28.25 in chips) 
+Seat 5: jakatax ($49 in chips) 
+Seat 6: Alameda22 ($81.45 in chips) 
+Seat 7: drewbabez ($68.55 in chips) 
+Seat 8: cn_chayanne ($64.30 in chips) 
+Seat 9: helios25 ($49.75 in chips) 
+jakatax: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Kc]
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: raises $1.50 to $2
+hamz007: folds 
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+jakatax: folds 
+Alameda22: folds 
+Uncalled bet ($1.50) returned to helios25
+helios25 collected $1.25 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 (button) folded before Flop (didn't bet)
+Seat 5: jakatax (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 collected ($1.25)
+
+
+
+PokerStars Game #20155083236:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:57:31 ET
+Table 'Kuma V' 9-max Seat #5 is the button
+Seat 1: hamz007 ($73.95 in chips) 
+Seat 2: mcdougal2 ($51.05 in chips) 
+Seat 3: rc169 ($57 in chips) 
+Seat 4: chazz007 ($28.25 in chips) 
+Seat 5: jakatax ($48.75 in chips) 
+Seat 6: Alameda22 ($80.95 in chips) 
+Seat 7: drewbabez ($68.55 in chips) 
+Seat 8: cn_chayanne ($64.30 in chips) 
+Seat 9: helios25 ($50.50 in chips) 
+Alameda22: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 8c]
+cn_chayanne: folds 
+helios25: folds 
+hamz007: folds 
+mcdougal2: folds 
+rc169: folds 
+chazz007: calls $0.50
+jakatax: calls $0.50
+Alameda22: folds 
+drewbabez: checks 
+*** FLOP *** [4h 5s 6c]
+drewbabez: checks 
+chazz007: checks 
+jakatax: bets $1.50
+drewbabez: calls $1.50
+chazz007: folds 
+*** TURN *** [4h 5s 6c] [4d]
+drewbabez: checks 
+jakatax: checks 
+*** RIVER *** [4h 5s 6c 4d] [Ac]
+drewbabez: checks 
+jakatax: checks 
+*** SHOW DOWN ***
+drewbabez: shows [7c 9c] (a pair of Fours)
+jakatax: shows [3s 3c] (two pair, Fours and Threes)
+jakatax collected $4.55 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [4h 5s 6c 4d Ac]
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded on the Flop
+Seat 5: jakatax (button) showed [3s 3c] and won ($4.55) with two pair, Fours and Threes
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: drewbabez (big blind) showed [7c 9c] and lost with a pair of Fours
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155121348:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:59:19 ET
+Table 'Kuma V' 9-max Seat #6 is the button
+Seat 1: hamz007 ($73.95 in chips) 
+Seat 2: mcdougal2 ($51.05 in chips) 
+Seat 3: rc169 ($57 in chips) 
+Seat 4: chazz007 ($27.75 in chips) 
+Seat 5: jakatax ($51.30 in chips) 
+Seat 6: Alameda22 ($80.70 in chips) 
+Seat 7: drewbabez ($66.55 in chips) 
+Seat 8: cn_chayanne ($64.30 in chips) 
+Seat 9: helios25 ($50.50 in chips) 
+drewbabez: posts small blind $0.25
+cn_chayanne: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Ac]
+helios25: folds 
+hamz007: calls $0.50
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+jakatax: folds 
+Alameda22: folds 
+drewbabez: calls $0.25
+cn_chayanne: checks 
+*** FLOP *** [Qs 3d Th]
+drewbabez: bets $1
+cn_chayanne: folds 
+hamz007: folds 
+Uncalled bet ($1) returned to drewbabez
+drewbabez collected $1.45 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Qs 3d Th]
+Seat 1: hamz007 folded on the Flop
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: drewbabez (small blind) collected ($1.45)
+Seat 8: cn_chayanne (big blind) folded on the Flop
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155153444:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:00:49 ET
+Table 'Kuma V' 9-max Seat #7 is the button
+Seat 1: hamz007 ($73.45 in chips) 
+Seat 2: mcdougal2 ($51.05 in chips) 
+Seat 3: rc169 ($57 in chips) 
+Seat 4: chazz007 ($27.75 in chips) 
+Seat 5: jakatax ($51.30 in chips) 
+Seat 6: Alameda22 ($80.70 in chips) 
+Seat 7: drewbabez ($67.50 in chips) 
+Seat 8: cn_chayanne ($63.80 in chips) 
+Seat 9: helios25 ($50.50 in chips) 
+cn_chayanne: posts small blind $0.25
+helios25: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Kc]
+hamz007: raises $2 to $2.50
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+jakatax: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+Uncalled bet ($2) returned to hamz007
+hamz007 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 collected ($1.25)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez (button) folded before Flop (didn't bet)
+Seat 8: cn_chayanne (small blind) folded before Flop
+Seat 9: helios25 (big blind) folded before Flop
+
+
+
+PokerStars Game #20155183284:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:02:14 ET
+Table 'Kuma V' 9-max Seat #8 is the button
+Seat 1: hamz007 ($74.20 in chips) 
+Seat 2: mcdougal2 ($51.05 in chips) 
+Seat 3: rc169 ($57 in chips) 
+Seat 4: chazz007 ($27.75 in chips) 
+Seat 5: jakatax ($51.30 in chips) 
+Seat 6: Alameda22 ($80.70 in chips) 
+Seat 7: drewbabez ($67.50 in chips) 
+Seat 8: cn_chayanne ($63.55 in chips) 
+Seat 9: helios25 ($50 in chips) 
+helios25: posts small blind $0.25
+hamz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 8s]
+mcdougal2: calls $0.50
+rc169: folds 
+chazz007: folds 
+jakatax: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+helios25: folds 
+hamz007: checks 
+*** FLOP *** [Jc 2d 6s]
+hamz007: checks 
+mcdougal2: checks 
+*** TURN *** [Jc 2d 6s] [3c]
+hamz007: checks 
+mcdougal2: checks 
+*** RIVER *** [Jc 2d 6s 3c] [Tc]
+hamz007: bets $4
+mcdougal2: folds 
+Uncalled bet ($4) returned to hamz007
+hamz007 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Jc 2d 6s 3c Tc]
+Seat 1: hamz007 (big blind) collected ($1.20)
+Seat 2: mcdougal2 folded on the River
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne (button) folded before Flop (didn't bet)
+Seat 9: helios25 (small blind) folded before Flop
+
+
+
+PokerStars Game #20155228056:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:04:25 ET
+Table 'Kuma V' 9-max Seat #9 is the button
+Seat 1: hamz007 ($74.90 in chips) 
+Seat 2: mcdougal2 ($50.55 in chips) 
+Seat 3: rc169 ($57 in chips) 
+Seat 4: chazz007 ($27.75 in chips) 
+Seat 5: jakatax ($51.30 in chips) 
+Seat 6: Alameda22 ($80.70 in chips) 
+Seat 7: drewbabez ($67.50 in chips) 
+Seat 8: cn_chayanne ($63.55 in chips) 
+Seat 9: helios25 ($49.75 in chips) 
+hamz007: posts small blind $0.25
+mcdougal2: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 6h]
+rc169: folds 
+chazz007: folds 
+jakatax: folds 
+Alameda22: folds 
+drewbabez: raises $1.50 to $2
+cn_chayanne: folds 
+helios25: folds 
+hamz007: folds 
+mcdougal2: folds 
+Uncalled bet ($1.50) returned to drewbabez
+drewbabez collected $1.25 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 (small blind) folded before Flop
+Seat 2: mcdougal2 (big blind) folded before Flop
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez collected ($1.25)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155245057:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:05:14 ET
+Table 'Kuma V' 9-max Seat #1 is the button
+Seat 1: hamz007 ($74.65 in chips) 
+Seat 2: mcdougal2 ($50.05 in chips) 
+Seat 3: rc169 ($57 in chips) 
+Seat 4: chazz007 ($27.75 in chips) 
+Seat 5: jakatax ($51.30 in chips) 
+Seat 6: Alameda22 ($80.70 in chips) 
+Seat 7: drewbabez ($68.25 in chips) 
+Seat 8: cn_chayanne ($63.55 in chips) 
+Seat 9: helios25 ($49.75 in chips) 
+mcdougal2: posts small blind $0.25
+rc169: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Ks]
+chazz007: folds 
+jakatax: folds 
+Alameda22: folds 
+drewbabez: raises $1 to $1.50
+cn_chayanne: folds 
+helios25: folds 
+hamz007: folds 
+mcdougal2: folds 
+rc169: folds 
+Uncalled bet ($1) returned to drewbabez
+drewbabez collected $1.25 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 (button) folded before Flop (didn't bet)
+Seat 2: mcdougal2 (small blind) folded before Flop
+Seat 3: rc169 (big blind) folded before Flop
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez collected ($1.25)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155263336:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:06:08 ET
+Table 'Kuma V' 9-max Seat #2 is the button
+Seat 1: hamz007 ($74.65 in chips) 
+Seat 2: mcdougal2 ($49.80 in chips) 
+Seat 3: rc169 ($56.50 in chips) 
+Seat 4: chazz007 ($27.75 in chips) 
+Seat 5: jakatax ($51.30 in chips) 
+Seat 6: Alameda22 ($80.70 in chips) 
+Seat 7: drewbabez ($69 in chips) 
+Seat 8: cn_chayanne ($63.55 in chips) 
+Seat 9: helios25 ($49.75 in chips) 
+rc169: posts small blind $0.25
+chazz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 7c]
+jakatax: folds 
+Alameda22: folds 
+drewbabez: folds 
+cn_chayanne: folds 
+cn_chayanne leaves the table
+helios25: raises $1.50 to $2
+hamz007: folds 
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+Uncalled bet ($1.50) returned to helios25
+helios25 collected $1.25 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: mcdougal2 (button) folded before Flop (didn't bet)
+Seat 3: rc169 (small blind) folded before Flop
+Seat 4: chazz007 (big blind) folded before Flop
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: cn_chayanne folded before Flop (didn't bet)
+Seat 9: helios25 collected ($1.25)
+
+
+
+PokerStars Game #20155289081:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:07:25 ET
+Table 'Kuma V' 9-max Seat #3 is the button
+Seat 1: hamz007 ($74.65 in chips) 
+Seat 2: mcdougal2 ($49.80 in chips) 
+Seat 3: rc169 ($56.25 in chips) 
+Seat 4: chazz007 ($27.25 in chips) 
+Seat 5: jakatax ($51.30 in chips) 
+Seat 6: Alameda22 ($80.70 in chips) 
+Seat 7: drewbabez ($69 in chips) 
+Seat 9: helios25 ($50.50 in chips) 
+chazz007: posts small blind $0.25
+jakatax: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Kh]
+Alameda22: folds 
+drewbabez: folds 
+helios25: raises $1.50 to $2
+hamz007: folds 
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+jakatax: folds 
+Uncalled bet ($1.50) returned to helios25
+helios25 collected $1.25 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 (button) folded before Flop (didn't bet)
+Seat 4: chazz007 (small blind) folded before Flop
+Seat 5: jakatax (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 9: helios25 collected ($1.25)
+
+
+
+PokerStars Game #20155304593:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:08:10 ET
+Table 'Kuma V' 9-max Seat #4 is the button
+Seat 1: hamz007 ($74.65 in chips) 
+Seat 2: mcdougal2 ($49.80 in chips) 
+Seat 3: rc169 ($56.25 in chips) 
+Seat 4: chazz007 ($27 in chips) 
+Seat 5: jakatax ($50.80 in chips) 
+Seat 6: Alameda22 ($80.70 in chips) 
+Seat 7: drewbabez ($69 in chips) 
+Seat 9: helios25 ($51.25 in chips) 
+jakatax: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 6d]
+drewbabez: folds 
+helios25: folds 
+hamz007: folds 
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+jakatax: calls $0.25
+Alameda22: checks 
+*** FLOP *** [9d Qd 7h]
+Vague1 joins the table at seat #8 
+jakatax: checks 
+Vague1 is sitting out
+Vague1 has returned
+Alameda22: checks 
+*** TURN *** [9d Qd 7h] [Qs]
+jakatax: checks 
+Vague1 is sitting out
+Alameda22: bets $1
+jakatax: folds 
+Uncalled bet ($1) returned to Alameda22
+Alameda22 collected $0.95 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [9d Qd 7h Qs]
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 (button) folded before Flop (didn't bet)
+Seat 5: jakatax (small blind) folded on the Turn
+Seat 6: Alameda22 (big blind) collected ($0.95)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155345341:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:10:11 ET
+Table 'Kuma V' 9-max Seat #5 is the button
+Seat 1: hamz007 ($74.65 in chips) 
+Seat 2: mcdougal2 ($49.80 in chips) 
+Seat 3: rc169 ($56.25 in chips) 
+Seat 4: chazz007 ($27 in chips) 
+Seat 5: jakatax ($50.30 in chips) 
+Seat 6: Alameda22 ($81.15 in chips) 
+Seat 7: drewbabez ($69 in chips) 
+Seat 9: helios25 ($51.25 in chips) 
+Alameda22: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Jh]
+helios25: folds 
+hamz007: folds 
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+jakatax: raises $1 to $1.50
+Alameda22: folds 
+drewbabez: folds 
+Uncalled bet ($1) returned to jakatax
+jakatax collected $1.25 from pot
+jakatax: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: jakatax (button) collected ($1.25)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: drewbabez (big blind) folded before Flop
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155363292:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:11:04 ET
+Table 'Kuma V' 9-max Seat #6 is the button
+Seat 1: hamz007 ($74.65 in chips) 
+Seat 2: mcdougal2 ($49.80 in chips) 
+Seat 3: rc169 ($56.25 in chips) 
+Seat 4: chazz007 ($27 in chips) 
+Seat 5: jakatax ($51.05 in chips) 
+Seat 6: Alameda22 ($80.90 in chips) 
+Seat 7: drewbabez ($68.50 in chips) 
+Seat 9: helios25 ($51.25 in chips) 
+drewbabez: posts small blind $0.25
+helios25: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Ts]
+hamz007: folds 
+mcdougal2: calls $0.50
+rc169: folds 
+chazz007: folds 
+jakatax: folds 
+Alameda22: folds 
+drewbabez: calls $0.25
+helios25: raises $2.50 to $3
+mcdougal2: folds 
+drewbabez: folds 
+Uncalled bet ($2.50) returned to helios25
+helios25 collected $1.50 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: mcdougal2 folded before Flop
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: drewbabez (small blind) folded before Flop
+Seat 9: helios25 (big blind) collected ($1.50)
+
+
+
+PokerStars Game #20155387982:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:12:18 ET
+Table 'Kuma V' 9-max Seat #7 is the button
+Seat 1: hamz007 ($74.65 in chips) 
+Seat 2: mcdougal2 ($49.30 in chips) 
+Seat 3: rc169 ($56.25 in chips) 
+Seat 4: chazz007 ($27 in chips) 
+Seat 5: jakatax ($51.05 in chips) 
+Seat 6: Alameda22 ($80.90 in chips) 
+Seat 7: drewbabez ($68 in chips) 
+Seat 9: helios25 ($52.25 in chips) 
+helios25: posts small blind $0.25
+hamz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 2c]
+mcdougal2: folds 
+rc169: folds 
+chazz007: folds 
+jakatax: calls $0.50
+Alameda22: folds 
+drewbabez: folds 
+helios25: folds 
+hamz007: checks 
+*** FLOP *** [Ks 2d 2s]
+Vague1 has returned
+hamz007: bets $1.50
+jakatax: folds 
+Uncalled bet ($1.50) returned to hamz007
+hamz007 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Ks 2d 2s]
+Seat 1: hamz007 (big blind) collected ($1.20)
+Seat 2: mcdougal2 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: jakatax folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: helios25 (small blind) folded before Flop
+
+
+
+PokerStars Game #20155414658:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:13:38 ET
+Table 'Kuma V' 9-max Seat #9 is the button
+Seat 1: hamz007 ($75.35 in chips) 
+Seat 2: mcdougal2 ($49.30 in chips) 
+Seat 3: rc169 ($56.25 in chips) 
+Seat 4: chazz007 ($27 in chips) 
+Seat 5: jakatax ($50.55 in chips) 
+Seat 6: Alameda22 ($80.90 in chips) 
+Seat 7: drewbabez ($68 in chips) 
+Seat 8: Vague1 ($50 in chips) 
+Seat 9: helios25 ($52 in chips) 
+hamz007: posts small blind $0.25
+mcdougal2: posts big blind $0.50
+Vague1: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 2c]
+rc169: folds 
+chazz007: folds 
+jakatax: folds 
+Alameda22: folds 
+drewbabez: folds 
+Vague1: checks 
+helios25: folds 
+hamz007: raises $0.50 to $1
+mcdougal2: calls $0.50
+Vague1: calls $0.50
+*** FLOP *** [6d Qd 8h]
+hamz007: bets $5.50
+jakatax is sitting out
+mcdougal2: folds 
+Vague1: folds 
+Uncalled bet ($5.50) returned to hamz007
+hamz007 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [6d Qd 8h]
+Seat 1: hamz007 (small blind) collected ($2.85)
+Seat 2: mcdougal2 (big blind) folded on the Flop
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: Vague1 folded on the Flop
+Seat 9: helios25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155445929:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:15:12 ET
+Table 'Kuma V' 9-max Seat #1 is the button
+Seat 1: hamz007 ($77.20 in chips) 
+Seat 3: rc169 ($56.25 in chips) 
+Seat 4: chazz007 ($27 in chips) 
+Seat 6: Alameda22 ($80.90 in chips) 
+Seat 7: drewbabez ($68 in chips) 
+Seat 8: Vague1 ($49 in chips) 
+Seat 9: helios25 ($52 in chips) 
+mcdougal2: is sitting out 
+mcdougal2 leaves the table
+rc169: posts small blind $0.25
+chazz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 7d]
+Alameda22: folds 
+drewbabez: folds 
+Vague1: calls $0.50
+helios25: folds 
+hamz007: calls $0.50
+rc169: folds 
+chazz007: checks 
+*** FLOP *** [9c 4d 7s]
+chazz007: checks 
+Vague1: checks 
+hamz007: checks 
+*** TURN *** [9c 4d 7s] [Ac]
+chazz007: checks 
+Vague1: checks 
+hamz007: checks 
+*** RIVER *** [9c 4d 7s Ac] [6s]
+chazz007: checks 
+Vague1: checks 
+hamz007: checks 
+*** SHOW DOWN ***
+chazz007: shows [7c Ks] (a pair of Sevens)
+Vague1: mucks hand 
+hamz007: mucks hand 
+chazz007 collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [9c 4d 7s Ac 6s]
+Seat 1: hamz007 (button) mucked [Tc 5s]
+Seat 3: rc169 (small blind) folded before Flop
+Seat 4: chazz007 (big blind) showed [7c Ks] and won ($1.70) with a pair of Sevens
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: Vague1 mucked [Kd 3c]
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155486344:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:17:15 ET
+Table 'Kuma V' 9-max Seat #3 is the button
+Seat 1: hamz007 ($76.70 in chips) 
+Seat 3: rc169 ($56 in chips) 
+Seat 4: chazz007 ($28.20 in chips) 
+Seat 6: Alameda22 ($80.90 in chips) 
+Seat 7: drewbabez ($68 in chips) 
+Seat 8: Vague1 ($48.50 in chips) 
+Seat 9: helios25 ($52 in chips) 
+chazz007: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Kc]
+drewbabez: folds 
+nickianthony joins the table at seat #2 
+Vague1: calls $0.50
+helios25: folds 
+hamz007: calls $0.50
+rc169: folds 
+chazz007: folds 
+Alameda22: checks 
+*** FLOP *** [Ad Kh 4c]
+Alameda22: checks 
+Vague1: checks 
+hamz007: bets $2
+Alameda22: folds 
+Vague1: folds 
+Uncalled bet ($2) returned to hamz007
+hamz007 collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Ad Kh 4c]
+Seat 1: hamz007 collected ($1.70)
+Seat 3: rc169 (button) folded before Flop (didn't bet)
+Seat 4: chazz007 (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: Vague1 folded on the Flop
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155511604:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:18:31 ET
+Table 'Kuma V' 9-max Seat #4 is the button
+Seat 1: hamz007 ($77.90 in chips) 
+Seat 3: rc169 ($56 in chips) 
+Seat 4: chazz007 ($27.95 in chips) 
+Seat 6: Alameda22 ($80.40 in chips) 
+Seat 7: drewbabez ($68 in chips) 
+Seat 8: Vague1 ($48 in chips) 
+Seat 9: helios25 ($52 in chips) 
+Alameda22: posts small blind $0.25
+drewbabez: posts big blind $0.50
+nickianthony: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Kh]
+Vague1: raises $0.50 to $1
+helios25: folds 
+hamz007: folds 
+rc169: folds 
+chazz007: folds 
+Alameda22: folds 
+drewbabez: folds 
+Uncalled bet ($0.50) returned to Vague1
+Vague1 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: drewbabez (big blind) folded before Flop
+Seat 8: Vague1 collected ($1.25)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155526546:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:19:16 ET
+Table 'Kuma V' 9-max Seat #6 is the button
+Seat 1: hamz007 ($77.90 in chips) 
+Seat 3: rc169 ($56 in chips) 
+Seat 4: chazz007 ($27.95 in chips) 
+Seat 6: Alameda22 ($80.15 in chips) 
+Seat 7: drewbabez ($67.50 in chips) 
+Seat 8: Vague1 ($48.75 in chips) 
+Seat 9: helios25 ($52 in chips) 
+drewbabez: posts small blind $0.25
+Vague1: posts big blind $0.50
+nickianthony: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 4c]
+helios25: folds 
+hamz007: calls $0.50
+rc169: folds 
+chazz007: folds 
+Alameda22: folds 
+drewbabez: calls $0.25
+Vague1: checks 
+*** FLOP *** [Qs 5h 9c]
+drewbabez: checks 
+Vague1: checks 
+hamz007: bets $2
+drewbabez: folds 
+Vague1: folds 
+Uncalled bet ($2) returned to hamz007
+hamz007 collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Qs 5h 9c]
+Seat 1: hamz007 collected ($1.45)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: drewbabez (small blind) folded on the Flop
+Seat 8: Vague1 (big blind) folded on the Flop
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155551265:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:20:32 ET
+Table 'Kuma V' 9-max Seat #7 is the button
+Seat 1: hamz007 ($78.85 in chips) 
+Seat 3: rc169 ($56 in chips) 
+Seat 4: chazz007 ($27.95 in chips) 
+Seat 6: Alameda22 ($80.15 in chips) 
+Seat 7: drewbabez ($67 in chips) 
+Seat 8: Vague1 ($48.25 in chips) 
+Seat 9: helios25 ($52 in chips) 
+Vague1: posts small blind $0.25
+helios25: posts big blind $0.50
+nickianthony: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Qh]
+hamz007: raises $0.50 to $1
+rc169: folds 
+chazz007: calls $1
+Alameda22: folds 
+drewbabez: folds 
+Vague1: folds 
+helios25: folds 
+*** FLOP *** [Js 6d 3s]
+hamz007: checks 
+chazz007: bets $2.50
+hamz007: calls $2.50
+*** TURN *** [Js 6d 3s] [Ac]
+hamz007: checks 
+chazz007: bets $8
+hamz007: calls $8
+*** RIVER *** [Js 6d 3s Ac] [5h]
+hamz007: bets $10
+chazz007: calls $10
+*** SHOW DOWN ***
+hamz007: shows [Qs Ah] (a pair of Aces)
+chazz007: shows [3h 3d] (three of a kind, Threes)
+chazz007 collected $41.65 from pot
+*** SUMMARY ***
+Total pot $43.75 | Rake $2.10 
+Board [Js 6d 3s Ac 5h]
+Seat 1: hamz007 showed [Qs Ah] and lost with a pair of Aces
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 showed [3h 3d] and won ($41.65) with three of a kind, Threes
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez (button) folded before Flop (didn't bet)
+Seat 8: Vague1 (small blind) folded before Flop
+Seat 9: helios25 (big blind) folded before Flop
+
+
+
+PokerStars Game #20155598552:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:22:57 ET
+Table 'Kuma V' 9-max Seat #8 is the button
+Seat 1: hamz007 ($57.35 in chips) 
+Seat 3: rc169 ($56 in chips) 
+Seat 4: chazz007 ($48.10 in chips) 
+Seat 6: Alameda22 ($80.15 in chips) 
+Seat 7: drewbabez ($67 in chips) 
+Seat 8: Vague1 ($48 in chips) 
+Seat 9: helios25 ($51.50 in chips) 
+helios25: posts small blind $0.25
+hamz007: posts big blind $0.50
+nickianthony: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Ad]
+rc169: folds 
+chazz007: folds 
+Alameda22: folds 
+drewbabez: folds 
+Vague1: folds 
+helios25: folds 
+Uncalled bet ($0.25) returned to hamz007
+hamz007 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: hamz007 (big blind) collected ($0.50)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: Vague1 (button) folded before Flop (didn't bet)
+Seat 9: helios25 (small blind) folded before Flop
+
+
+
+PokerStars Game #20155609853:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:23:32 ET
+Table 'Kuma V' 9-max Seat #9 is the button
+Seat 1: hamz007 ($57.60 in chips) 
+Seat 2: nickianthony ($32 in chips) 
+Seat 3: rc169 ($56 in chips) 
+Seat 4: chazz007 ($48.10 in chips) 
+Seat 6: Alameda22 ($80.15 in chips) 
+Seat 7: drewbabez ($67 in chips) 
+Seat 8: Vague1 ($48 in chips) 
+Seat 9: helios25 ($51.25 in chips) 
+hamz007: posts small blind $0.25
+nickianthony: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Ts]
+rc169: folds 
+chazz007: folds 
+Alameda22: calls $0.50
+drewbabez: folds 
+Vague1: raises $0.50 to $1
+helios25: folds 
+hamz007: calls $0.75
+nickianthony: folds 
+Alameda22: calls $0.50
+*** FLOP *** [2d 9d 5d]
+hamz007: checks 
+Alameda22: checks 
+Vague1: bets $1.50
+hamz007: folds 
+Alameda22: folds 
+Uncalled bet ($1.50) returned to Vague1
+Vague1 collected $3.35 from pot
+Vague1: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [2d 9d 5d]
+Seat 1: hamz007 (small blind) folded on the Flop
+Seat 2: nickianthony (big blind) folded before Flop
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded on the Flop
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: Vague1 collected ($3.35)
+Seat 9: helios25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155639794:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:25:07 ET
+Table 'Kuma V' 9-max Seat #1 is the button
+Seat 1: hamz007 ($56.60 in chips) 
+Seat 2: nickianthony ($31.50 in chips) 
+Seat 3: rc169 ($56 in chips) 
+Seat 4: chazz007 ($48.10 in chips) 
+Seat 6: Alameda22 ($79.15 in chips) 
+Seat 7: drewbabez ($67 in chips) 
+Seat 8: Vague1 ($50.35 in chips) 
+Seat 9: helios25 ($51.25 in chips) 
+nickianthony: posts small blind $0.25
+rc169: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 7h]
+chazz007: folds 
+Alameda22: folds 
+drewbabez: folds 
+Vague1: folds 
+helios25: raises $1.50 to $2
+hamz007: raises $1.50 to $3.50
+nickianthony: folds 
+rc169: folds 
+helios25: calls $1.50
+*** FLOP *** [Kh Qh 6c]
+helios25: checks 
+hamz007: bets $5
+helios25: folds 
+Uncalled bet ($5) returned to hamz007
+hamz007 collected $7.40 from pot
+*** SUMMARY ***
+Total pot $7.75 | Rake $0.35 
+Board [Kh Qh 6c]
+Seat 1: hamz007 (button) collected ($7.40)
+Seat 2: nickianthony (small blind) folded before Flop
+Seat 3: rc169 (big blind) folded before Flop
+Seat 4: chazz007 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: Vague1 folded before Flop (didn't bet)
+Seat 9: helios25 folded on the Flop
+
+
+
+PokerStars Game #20155660538:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:26:13 ET
+Table 'Kuma V' 9-max Seat #2 is the button
+Seat 1: hamz007 ($60.50 in chips) 
+Seat 2: nickianthony ($31.25 in chips) 
+Seat 3: rc169 ($55.50 in chips) 
+Seat 6: Alameda22 ($79.15 in chips) 
+Seat 7: drewbabez ($67 in chips) 
+Seat 8: Vague1 ($50.35 in chips) 
+Seat 9: helios25 ($50 in chips) 
+rc169: posts small blind $0.25
+chazz007: is sitting out 
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Qc]
+chazz007 leaves the table
+jakatax has returned
+drewbabez: folds 
+Vague1: folds 
+helios25: folds 
+hamz007: folds 
+nickianthony: raises $1.50 to $2
+rc169: folds 
+Alameda22: folds 
+Uncalled bet ($1.50) returned to nickianthony
+nickianthony collected $1.25 from pot
+nickianthony: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: nickianthony (button) collected ($1.25)
+Seat 3: rc169 (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: drewbabez folded before Flop (didn't bet)
+Seat 8: Vague1 folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155679021:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:27:12 ET
+Table 'Kuma V' 9-max Seat #3 is the button
+Seat 1: hamz007 ($60.50 in chips) 
+Seat 2: nickianthony ($32 in chips) 
+Seat 3: rc169 ($55.25 in chips) 
+Seat 6: Alameda22 ($78.65 in chips) 
+Seat 7: drewbabez ($67 in chips) 
+Seat 8: Vague1 ($50.35 in chips) 
+Seat 9: helios25 ($50 in chips) 
+jakatax will be allowed to play after the button
+Alameda22: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Qc]
+Vague1: calls $0.50
+helios25: folds 
+hamz007: folds 
+nickianthony: folds 
+rc169: folds 
+Alameda22: folds 
+drewbabez: checks 
+*** FLOP *** [9s Ks 5d]
+drewbabez: checks 
+Vague1: checks 
+*** TURN *** [9s Ks 5d] [Kc]
+drewbabez: checks 
+Vague1: checks 
+*** RIVER *** [9s Ks 5d Kc] [Qs]
+drewbabez: checks 
+Vague1: checks 
+*** SHOW DOWN ***
+drewbabez: shows [Ts Td] (two pair, Kings and Tens)
+Vague1: mucks hand 
+drewbabez collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [9s Ks 5d Kc Qs]
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: nickianthony folded before Flop (didn't bet)
+Seat 3: rc169 (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: drewbabez (big blind) showed [Ts Td] and won ($1.20) with two pair, Kings and Tens
+Seat 8: Vague1 mucked [Ah 9d]
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155695403:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:28:03 ET
+Table 'Kuma V' 9-max Seat #6 is the button
+Seat 1: hamz007 ($60.50 in chips) 
+Seat 2: nickianthony ($32 in chips) 
+Seat 3: rc169 ($55.25 in chips) 
+Seat 5: jakatax ($50.55 in chips) 
+Seat 6: Alameda22 ($78.40 in chips) 
+Seat 7: drewbabez ($67.70 in chips) 
+Seat 8: Vague1 ($49.85 in chips) 
+Seat 9: helios25 ($50 in chips) 
+drewbabez: posts small blind $0.25
+Vague1: posts big blind $0.50
+jakatax: posts small & big blinds $0.75
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 8s]
+helios25: raises $2.50 to $3
+hamz007: folds 
+nickianthony: folds 
+rc169: folds 
+jakatax: folds 
+Alameda22: folds 
+drewbabez: folds 
+Vague1: folds 
+Uncalled bet ($2.50) returned to helios25
+drewbabez leaves the table
+helios25 collected $2 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: nickianthony folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 5: jakatax folded before Flop
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: drewbabez (small blind) folded before Flop
+Seat 8: Vague1 (big blind) folded before Flop
+Seat 9: helios25 collected ($2)
+
+
+
+PokerStars Game #20155712342:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:28:57 ET
+Table 'Kuma V' 9-max Seat #8 is the button
+Seat 1: hamz007 ($60.50 in chips) 
+Seat 2: nickianthony ($32 in chips) 
+Seat 3: rc169 ($55.25 in chips) 
+Seat 5: jakatax ($49.80 in chips) 
+Seat 6: Alameda22 ($78.40 in chips) 
+Seat 8: Vague1 ($49.35 in chips) 
+Seat 9: helios25 ($51.50 in chips) 
+helios25: posts small blind $0.25
+hamz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 6d]
+nickianthony: folds 
+holynutz4me2 joins the table at seat #7 
+zeker58 joins the table at seat #4 
+rc169: folds 
+jakatax: folds 
+Alameda22: folds 
+Vague1: raises $0.50 to $1
+helios25: folds 
+hamz007: calls $0.50
+*** FLOP *** [4c Td Qs]
+hamz007: checks 
+Vague1: checks 
+*** TURN *** [4c Td Qs] [3c]
+hamz007: checks 
+Vague1: checks 
+*** RIVER *** [4c Td Qs 3c] [3s]
+hamz007: checks 
+Vague1: checks 
+*** SHOW DOWN ***
+hamz007: shows [Js 6h] (a pair of Threes)
+Vague1: shows [7s Ad] (a pair of Threes - Ace kicker)
+Vague1 collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [4c Td Qs 3c 3s]
+Seat 1: hamz007 (big blind) showed [Js 6h] and lost with a pair of Threes
+Seat 2: nickianthony folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: Vague1 (button) showed [7s Ad] and won ($2.15) with a pair of Threes
+Seat 9: helios25 (small blind) folded before Flop
+
+
+
+PokerStars Game #20155734541:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:30:07 ET
+Table 'Kuma V' 9-max Seat #9 is the button
+Seat 1: hamz007 ($59.50 in chips) 
+Seat 2: nickianthony ($32 in chips) 
+Seat 3: rc169 ($55.25 in chips) 
+Seat 4: zeker58 ($30 in chips) 
+Seat 5: jakatax ($49.80 in chips) 
+Seat 6: Alameda22 ($78.40 in chips) 
+Seat 7: holynutz4me2 ($25 in chips) 
+Seat 8: Vague1 ($50.50 in chips) 
+Seat 9: helios25 ($51.25 in chips) 
+hamz007: posts small blind $0.25
+nickianthony: posts big blind $0.50
+zeker58: posts big blind $0.50
+holynutz4me2: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Jc]
+rc169: folds 
+zeker58: checks 
+jakatax: folds 
+Alameda22: folds 
+holynutz4me2: checks 
+Vague1: folds 
+helios25: folds 
+hamz007: folds 
+nickianthony: checks 
+*** FLOP *** [9h 2d 2s]
+nickianthony: checks 
+zeker58: checks 
+holynutz4me2: checks 
+*** TURN *** [9h 2d 2s] [Ah]
+nickianthony: checks 
+zeker58: checks 
+holynutz4me2: checks 
+*** RIVER *** [9h 2d 2s Ah] [Qh]
+nickianthony: checks 
+zeker58: checks 
+holynutz4me2: bets $1
+nickianthony: folds 
+zeker58: folds 
+Uncalled bet ($1) returned to holynutz4me2
+holynutz4me2 collected $1.70 from pot
+holynutz4me2: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [9h 2d 2s Ah Qh]
+Seat 1: hamz007 (small blind) folded before Flop
+Seat 2: nickianthony (big blind) folded on the River
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: zeker58 folded on the River
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: holynutz4me2 collected ($1.70)
+Seat 8: Vague1 folded before Flop (didn't bet)
+Seat 9: helios25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155763541:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:31:38 ET
+Table 'Kuma V' 9-max Seat #1 is the button
+Seat 1: hamz007 ($59.25 in chips) 
+Seat 2: nickianthony ($31.50 in chips) 
+Seat 3: rc169 ($55.25 in chips) 
+Seat 4: zeker58 ($29.50 in chips) 
+Seat 5: jakatax ($49.80 in chips) 
+Seat 6: Alameda22 ($78.40 in chips) 
+Seat 7: holynutz4me2 ($26.20 in chips) 
+Seat 8: Vague1 ($50.50 in chips) 
+Seat 9: helios25 ($51.25 in chips) 
+nickianthony: posts small blind $0.25
+rc169: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 5d]
+zeker58: folds 
+jakatax: folds 
+Alameda22: folds 
+holynutz4me2: folds 
+Vague1: raises $0.50 to $1
+helios25: folds 
+hamz007: folds 
+nickianthony: folds 
+rc169: folds 
+Uncalled bet ($0.50) returned to Vague1
+Vague1 collected $1.25 from pot
+Vague1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 (button) folded before Flop (didn't bet)
+Seat 2: nickianthony (small blind) folded before Flop
+Seat 3: rc169 (big blind) folded before Flop
+Seat 4: zeker58 folded before Flop (didn't bet)
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: holynutz4me2 folded before Flop (didn't bet)
+Seat 8: Vague1 collected ($1.25)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155775815:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:32:16 ET
+Table 'Kuma V' 9-max Seat #2 is the button
+Seat 1: hamz007 ($59.25 in chips) 
+Seat 2: nickianthony ($31.25 in chips) 
+Seat 3: rc169 ($54.75 in chips) 
+Seat 4: zeker58 ($29.50 in chips) 
+Seat 5: jakatax ($49.80 in chips) 
+Seat 6: Alameda22 ($78.40 in chips) 
+Seat 7: holynutz4me2 ($26.20 in chips) 
+Seat 8: Vague1 ($51.25 in chips) 
+Seat 9: helios25 ($51.25 in chips) 
+rc169: posts small blind $0.25
+zeker58: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 2h]
+jakatax: folds 
+Alameda22: folds 
+holynutz4me2: calls $0.50
+Vague1: calls $0.50
+helios25: folds 
+hamz007: folds 
+nickianthony: folds 
+rc169: calls $0.25
+zeker58: checks 
+*** FLOP *** [4c 9h Tc]
+rc169: bets $1
+zeker58: calls $1
+holynutz4me2: calls $1
+Vague1: folds 
+*** TURN *** [4c 9h Tc] [Qs]
+Vague1 is sitting out
+rc169: checks 
+Vague1 leaves the table
+zeker58: checks 
+holynutz4me2: bets $2
+rc169: calls $2
+zeker58: folds 
+*** RIVER *** [4c 9h Tc Qs] [Jd]
+rc169: checks 
+holynutz4me2: checks 
+*** SHOW DOWN ***
+rc169: shows [Ac Jc] (a pair of Jacks)
+holynutz4me2: shows [9c 9d] (three of a kind, Nines)
+holynutz4me2 collected $8.60 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.40 
+Board [4c 9h Tc Qs Jd]
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: nickianthony (button) folded before Flop (didn't bet)
+Seat 3: rc169 (small blind) showed [Ac Jc] and lost with a pair of Jacks
+Seat 4: zeker58 (big blind) folded on the Turn
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: holynutz4me2 showed [9c 9d] and won ($8.60) with three of a kind, Nines
+Seat 8: Vague1 folded on the Flop
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155810483:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:34:04 ET
+Table 'Kuma V' 9-max Seat #3 is the button
+Seat 1: hamz007 ($59.25 in chips) 
+Seat 2: nickianthony ($31.25 in chips) 
+Seat 3: rc169 ($51.25 in chips) 
+Seat 4: zeker58 ($28 in chips) 
+Seat 5: jakatax ($49.80 in chips) 
+Seat 6: Alameda22 ($78.40 in chips) 
+Seat 7: holynutz4me2 ($31.30 in chips) 
+Seat 9: helios25 ($51.25 in chips) 
+zeker58: posts small blind $0.25
+jakatax: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Jh]
+Alameda22: folds 
+holynutz4me2: folds 
+helios25: folds 
+hamz007: folds 
+makojim joins the table at seat #8 
+nickianthony: folds 
+rc169: folds 
+zeker58: calls $0.25
+jakatax: checks 
+*** FLOP *** [2s 9d Jd]
+zeker58: checks 
+jakatax: bets $1
+zeker58: calls $1
+*** TURN *** [2s 9d Jd] [Qh]
+zeker58: checks 
+jakatax: checks 
+*** RIVER *** [2s 9d Jd Qh] [8s]
+zeker58: bets $2.50
+jakatax: folds 
+Uncalled bet ($2.50) returned to zeker58
+zeker58 collected $2.90 from pot
+zeker58: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.10 
+Board [2s 9d Jd Qh 8s]
+Seat 1: hamz007 folded before Flop (didn't bet)
+Seat 2: nickianthony folded before Flop (didn't bet)
+Seat 3: rc169 (button) folded before Flop (didn't bet)
+Seat 4: zeker58 (small blind) collected ($2.90)
+Seat 5: jakatax (big blind) folded on the River
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: holynutz4me2 folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155848546:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:36:05 ET
+Table 'Kuma V' 9-max Seat #4 is the button
+Seat 1: hamz007 ($59.25 in chips) 
+Seat 2: nickianthony ($31.25 in chips) 
+Seat 3: rc169 ($51.25 in chips) 
+Seat 4: zeker58 ($29.40 in chips) 
+Seat 5: jakatax ($48.30 in chips) 
+Seat 6: Alameda22 ($78.40 in chips) 
+Seat 7: holynutz4me2 ($31.30 in chips) 
+Seat 9: helios25 ($51.25 in chips) 
+jakatax: posts small blind $0.25
+Alameda22: posts big blind $0.50
+makojim: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Kh]
+holynutz4me2: folds 
+helios25: folds 
+holynutz4me2 leaves the table
+hamz007: raises $0.50 to $1
+nickianthony: folds 
+rc169: folds 
+zeker58: calls $1
+jakatax: folds 
+Alameda22: calls $0.50
+*** FLOP *** [3c Ks 2c]
+Alameda22: checks 
+hamz007: checks 
+zeker58: bets $2
+Alameda22: calls $2
+hamz007: raises $3 to $5
+zeker58: folds 
+Alameda22: folds 
+Uncalled bet ($3) returned to hamz007
+zeker58 leaves the table
+hamz007 collected $8.80 from pot
+*** SUMMARY ***
+Total pot $9.25 | Rake $0.45 
+Board [3c Ks 2c]
+Seat 1: hamz007 collected ($8.80)
+Seat 2: nickianthony folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 4: zeker58 (button) folded on the Flop
+Seat 5: jakatax (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: holynutz4me2 folded before Flop (didn't bet)
+Seat 9: helios25 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155896817:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:38:37 ET
+Table 'Kuma V' 9-max Seat #5 is the button
+Seat 1: hamz007 ($65.05 in chips) 
+Seat 2: nickianthony ($31.25 in chips) 
+Seat 3: rc169 ($51.25 in chips) 
+Seat 5: jakatax ($48.05 in chips) 
+Seat 6: Alameda22 ($75.40 in chips) 
+Seat 9: helios25 ($51.25 in chips) 
+Alameda22: posts small blind $0.25
+makojim: is sitting out 
+helios25: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 9d]
+makojim leaves the table
+hamz007: raises $0.50 to $1
+nickianthony: folds 
+rc169: folds 
+jakatax: folds 
+Alameda22: folds 
+helios25: folds 
+Uncalled bet ($0.50) returned to hamz007
+hamz007 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hamz007 collected ($1.25)
+Seat 2: nickianthony folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 5: jakatax (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 9: helios25 (big blind) folded before Flop
+
+
+
+PokerStars Game #20155908650:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:39:15 ET
+Table 'Kuma V' 9-max Seat #6 is the button
+Seat 1: hamz007 ($65.80 in chips) 
+Seat 2: nickianthony ($31.25 in chips) 
+Seat 3: rc169 ($51.25 in chips) 
+Seat 5: jakatax ($48.05 in chips) 
+Seat 6: Alameda22 ($75.15 in chips) 
+Seat 9: helios25 ($50.75 in chips) 
+helios25: posts small blind $0.25
+hamz007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 7c]
+nickianthony: folds 
+rc169: folds 
+jakatax: raises $1 to $1.50
+Alameda22: calls $1.50
+helios25: folds 
+hamz007: calls $1
+*** FLOP *** [Qh Jh Qs]
+hamz007: bets $2
+jakatax: folds 
+Alameda22: folds 
+Uncalled bet ($2) returned to hamz007
+hamz007 collected $4.55 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [Qh Jh Qs]
+Seat 1: hamz007 (big blind) collected ($4.55)
+Seat 2: nickianthony folded before Flop (didn't bet)
+Seat 3: rc169 folded before Flop (didn't bet)
+Seat 5: jakatax folded on the Flop
+Seat 6: Alameda22 (button) folded on the Flop
+Seat 9: helios25 (small blind) folded before Flop
+
+
+
+PokerStars Game #20155930343:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:40:23 ET
+Table 'Kuma V' 9-max Seat #9 is the button
+Seat 1: hamz007 ($68.85 in chips) 
+Seat 3: rc169 ($51.25 in chips) 
+Seat 5: jakatax ($46.55 in chips) 
+Seat 6: Alameda22 ($73.65 in chips) 
+Seat 9: helios25 ($50.50 in chips) 
+hamz007: posts small blind $0.25
+nickianthony: is sitting out 
+rc169: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 5c]
+nickianthony leaves the table
+jakatax: folds 
+jakatax leaves the table
+Alameda22: folds 
+helios25: folds 
+hamz007: calls $0.25
+rc169: checks 
+*** FLOP *** [3d Ad 4d]
+hamz007: checks 
+rc169: checks 
+*** TURN *** [3d Ad 4d] [3c]
+hamz007: checks 
+rc169: checks 
+*** RIVER *** [3d Ad 4d 3c] [6c]
+hamz007: checks 
+rc169: checks 
+*** SHOW DOWN ***
+hamz007: shows [9s Jc] (a pair of Threes)
+rc169: mucks hand 
+hamz007 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [3d Ad 4d 3c 6c]
+Seat 1: hamz007 (small blind) showed [9s Jc] and won ($0.95) with a pair of Threes
+Seat 3: rc169 (big blind) mucked [Js 5h]
+Seat 5: jakatax folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 9: helios25 (button) folded before Flop (didn't bet)
+
+
+

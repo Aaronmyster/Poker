@@ -1,0 +1,4015 @@
+PokerStars Game #20098896480:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:35:02 ET
+Table 'Appenzella II' 9-max Seat #7 is the button
+Seat 1: Ocean_13_777 ($62.30 in chips) 
+Seat 3: pablocjunior ($13.55 in chips) 
+Seat 4: MAGICCV24 ($20.95 in chips) 
+Seat 5: spencer15 ($15.55 in chips) 
+Seat 6: Alameda22 ($25 in chips) 
+Seat 7: Sick M ($57.40 in chips) 
+Seat 8: hsGabriel ($25.10 in chips) 
+Seat 9: surenoheaven ($25.75 in chips) 
+hsGabriel: posts small blind $0.10
+surenoheaven: posts big blind $0.25
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 2c]
+Ocean_13_777: folds 
+pablocjunior: calls $0.25
+MAGICCV24: calls $0.25
+spencer15: folds 
+Alameda22: checks 
+Sick M: folds 
+hsGabriel: calls $0.15
+surenoheaven: checks 
+*** FLOP *** [8s 5d 5h]
+hsGabriel: checks 
+surenoheaven: checks 
+pablocjunior: checks 
+MAGICCV24: bets $1
+Alameda22: calls $1
+hsGabriel: folds 
+surenoheaven: folds 
+pablocjunior: folds 
+*** TURN *** [8s 5d 5h] [Qs]
+MAGICCV24: checks 
+Alameda22: checks 
+*** RIVER *** [8s 5d 5h Qs] [7d]
+MAGICCV24: checks 
+Alameda22: bets $2
+MAGICCV24: folds 
+Uncalled bet ($2) returned to Alameda22
+Alameda22 collected $3.10 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [8s 5d 5h Qs 7d]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 3: pablocjunior folded on the Flop
+Seat 4: MAGICCV24 folded on the River
+Seat 5: spencer15 folded before Flop (didn't bet)
+Seat 6: Alameda22 collected ($3.10)
+Seat 7: Sick M (button) folded before Flop (didn't bet)
+Seat 8: hsGabriel (small blind) folded on the Flop
+Seat 9: surenoheaven (big blind) folded on the Flop
+
+
+
+PokerStars Game #20098937563:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:36:39 ET
+Table 'Appenzella II' 9-max Seat #8 is the button
+Seat 1: Ocean_13_777 ($62.30 in chips) 
+Seat 3: pablocjunior ($13.30 in chips) 
+Seat 4: MAGICCV24 ($19.70 in chips) 
+Seat 5: spencer15 ($15.55 in chips) 
+Seat 6: Alameda22 ($26.85 in chips) 
+Seat 7: Sick M ($57.40 in chips) 
+Seat 8: hsGabriel ($24.85 in chips) 
+Seat 9: surenoheaven ($25.50 in chips) 
+surenoheaven: posts small blind $0.10
+Ocean_13_777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 4d]
+pablocjunior: calls $0.25
+MAGICCV24: folds 
+spencer15: folds 
+Alameda22: folds 
+Sick M: folds 
+hsGabriel: calls $0.25
+surenoheaven: calls $0.15
+Ocean_13_777: checks 
+*** FLOP *** [2h Ad 5d]
+surenoheaven: checks 
+Ocean_13_777: checks 
+pablocjunior: checks 
+hsGabriel: checks 
+*** TURN *** [2h Ad 5d] [2s]
+surenoheaven: bets $0.50
+Ocean_13_777: folds 
+pablocjunior: folds 
+hsGabriel: folds 
+Uncalled bet ($0.50) returned to surenoheaven
+surenoheaven collected $0.95 from pot
+surenoheaven: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [2h Ad 5d 2s]
+Seat 1: Ocean_13_777 (big blind) folded on the Turn
+Seat 3: pablocjunior folded on the Turn
+Seat 4: MAGICCV24 folded before Flop (didn't bet)
+Seat 5: spencer15 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Sick M folded before Flop (didn't bet)
+Seat 8: hsGabriel (button) folded on the Turn
+Seat 9: surenoheaven (small blind) collected ($0.95)
+
+
+
+PokerStars Game #20098969447:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:37:55 ET
+Table 'Appenzella II' 9-max Seat #9 is the button
+Seat 1: Ocean_13_777 ($62.05 in chips) 
+Seat 3: pablocjunior ($13.05 in chips) 
+Seat 4: MAGICCV24 ($19.70 in chips) 
+Seat 5: spencer15 ($15.55 in chips) 
+Seat 6: Alameda22 ($26.85 in chips) 
+Seat 7: Sick M ($57.40 in chips) 
+Seat 8: hsGabriel ($24.60 in chips) 
+Seat 9: surenoheaven ($26.20 in chips) 
+Ocean_13_777: posts small blind $0.10
+pablocjunior: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 2c]
+MAGICCV24: folds 
+spencer15: folds 
+Alameda22: folds 
+Sick M: folds 
+hsGabriel: folds 
+surenoheaven: calls $0.25
+Ocean_13_777: folds 
+pablocjunior: checks 
+*** FLOP *** [8c 5h Ks]
+pablocjunior: checks 
+surenoheaven: checks 
+*** TURN *** [8c 5h Ks] [Ts]
+pablocjunior: checks 
+surenoheaven: bets $0.50
+pablocjunior: folds 
+Uncalled bet ($0.50) returned to surenoheaven
+surenoheaven collected $0.60 from pot
+surenoheaven: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8c 5h Ks Ts]
+Seat 1: Ocean_13_777 (small blind) folded before Flop
+Seat 3: pablocjunior (big blind) folded on the Turn
+Seat 4: MAGICCV24 folded before Flop (didn't bet)
+Seat 5: spencer15 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Sick M folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven (button) collected ($0.60)
+
+
+
+PokerStars Game #20098987980:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:38:39 ET
+Table 'Appenzella II' 9-max Seat #1 is the button
+Seat 1: Ocean_13_777 ($61.95 in chips) 
+Seat 3: pablocjunior ($12.80 in chips) 
+Seat 4: MAGICCV24 ($19.70 in chips) 
+Seat 5: spencer15 ($15.55 in chips) 
+Seat 6: Alameda22 ($26.85 in chips) 
+Seat 7: Sick M ($57.40 in chips) 
+Seat 8: hsGabriel ($24.60 in chips) 
+Seat 9: surenoheaven ($26.55 in chips) 
+pablocjunior: posts small blind $0.10
+MAGICCV24: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 9h]
+spencer15: folds 
+Alameda22: folds 
+Sick M: folds 
+hsGabriel: calls $0.25
+surenoheaven: folds 
+Ocean_13_777: folds 
+pablocjunior: calls $0.15
+MAGICCV24: raises $1.75 to $2
+hsGabriel: folds 
+pablocjunior: folds 
+Uncalled bet ($1.75) returned to MAGICCV24
+MAGICCV24 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Ocean_13_777 (button) folded before Flop (didn't bet)
+Seat 3: pablocjunior (small blind) folded before Flop
+Seat 4: MAGICCV24 (big blind) collected ($0.75)
+Seat 5: spencer15 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Sick M folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099002647:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:39:15 ET
+Table 'Appenzella II' 9-max Seat #3 is the button
+Seat 1: Ocean_13_777 ($61.95 in chips) 
+Seat 3: pablocjunior ($12.55 in chips) 
+Seat 4: MAGICCV24 ($20.20 in chips) 
+Seat 5: spencer15 ($15.55 in chips) 
+Seat 6: Alameda22 ($26.85 in chips) 
+Seat 7: Sick M ($57.40 in chips) 
+Seat 8: hsGabriel ($24.35 in chips) 
+Seat 9: surenoheaven ($26.55 in chips) 
+MAGICCV24: posts small blind $0.10
+spencer15: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 7h]
+Alameda22: folds 
+Sick M: folds 
+hsGabriel: folds 
+surenoheaven: raises $0.75 to $1
+Ocean_13_777: folds 
+pablocjunior: calls $1
+MAGICCV24: folds 
+spencer15: folds 
+*** FLOP *** [4s As 3s]
+surenoheaven: bets $1
+pablocjunior: folds 
+Uncalled bet ($1) returned to surenoheaven
+surenoheaven collected $2.25 from pot
+surenoheaven: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [4s As 3s]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 3: pablocjunior (button) folded on the Flop
+Seat 4: MAGICCV24 (small blind) folded before Flop
+Seat 5: spencer15 (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Sick M folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven collected ($2.25)
+
+
+
+PokerStars Game #20099021130:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:39:58 ET
+Table 'Appenzella II' 9-max Seat #4 is the button
+Seat 1: Ocean_13_777 ($61.95 in chips) 
+Seat 3: pablocjunior ($11.55 in chips) 
+Seat 4: MAGICCV24 ($20.10 in chips) 
+Seat 5: spencer15 ($15.30 in chips) 
+Seat 6: Alameda22 ($26.85 in chips) 
+Seat 7: Sick M ($57.40 in chips) 
+Seat 8: hsGabriel ($24.35 in chips) 
+Seat 9: surenoheaven ($27.80 in chips) 
+spencer15: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 7s]
+Sick M: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+pablocjunior: calls $0.25
+MAGICCV24: folds 
+spencer15: calls $0.15
+ryang421 has returned
+Alameda22: checks 
+*** FLOP *** [4c 8c 3d]
+spencer15: checks 
+Alameda22: checks 
+pablocjunior: checks 
+*** TURN *** [4c 8c 3d] [Jh]
+spencer15: checks 
+Alameda22: checks 
+pablocjunior: bets $0.25
+spencer15: folds 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to pablocjunior
+pablocjunior collected $0.75 from pot
+pablocjunior: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [4c 8c 3d Jh]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 3: pablocjunior collected ($0.75)
+Seat 4: MAGICCV24 (button) folded before Flop (didn't bet)
+Seat 5: spencer15 (small blind) folded on the Turn
+Seat 6: Alameda22 (big blind) folded on the Turn
+Seat 7: Sick M folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099048795:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:41:04 ET
+Table 'Appenzella II' 9-max Seat #5 is the button
+Seat 1: Ocean_13_777 ($61.95 in chips) 
+Seat 2: ryang421 ($30 in chips) 
+Seat 3: pablocjunior ($12.05 in chips) 
+Seat 4: MAGICCV24 ($20.10 in chips) 
+Seat 5: spencer15 ($15.05 in chips) 
+Seat 6: Alameda22 ($26.60 in chips) 
+Seat 8: hsGabriel ($24.35 in chips) 
+Seat 9: surenoheaven ($27.80 in chips) 
+Alameda22: posts small blind $0.10
+Sick M: is sitting out 
+Sick M leaves the table
+hsGabriel: posts big blind $0.25
+ryang421: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Td]
+surenoheaven: calls $0.25
+wolmar joins the table at seat #7 
+Ocean_13_777: folds 
+ryang421: checks 
+pablocjunior: calls $0.25
+MAGICCV24: folds 
+spencer15: folds 
+Alameda22: calls $0.15
+hsGabriel: checks 
+*** FLOP *** [Jh Qd 3h]
+Alameda22: checks 
+hsGabriel: checks 
+surenoheaven: checks 
+ryang421: checks 
+pablocjunior: checks 
+*** TURN *** [Jh Qd 3h] [3d]
+Alameda22: checks 
+hsGabriel: checks 
+surenoheaven: checks 
+ryang421: checks 
+pablocjunior: bets $0.50
+Alameda22: folds 
+hsGabriel: folds 
+surenoheaven: calls $0.50
+ryang421: folds 
+*** RIVER *** [Jh Qd 3h 3d] [Qs]
+surenoheaven: checks 
+pablocjunior: bets $1.25
+surenoheaven: calls $1.25
+*** SHOW DOWN ***
+pablocjunior: shows [Kc 6c] (two pair, Queens and Threes)
+surenoheaven: shows [Js As] (two pair, Queens and Jacks)
+surenoheaven collected $4.65 from pot
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [Jh Qd 3h 3d Qs]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: ryang421 folded on the Turn
+Seat 3: pablocjunior showed [Kc 6c] and lost with two pair, Queens and Threes
+Seat 4: MAGICCV24 folded before Flop (didn't bet)
+Seat 5: spencer15 (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded on the Turn
+Seat 8: hsGabriel (big blind) folded on the Turn
+Seat 9: surenoheaven showed [Js As] and won ($4.65) with two pair, Queens and Jacks
+
+
+
+PokerStars Game #20099104516:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:43:16 ET
+Table 'Appenzella II' 9-max Seat #6 is the button
+Seat 1: Ocean_13_777 ($61.95 in chips) 
+Seat 2: ryang421 ($29.65 in chips) 
+Seat 3: pablocjunior ($10.05 in chips) 
+Seat 4: MAGICCV24 ($20.10 in chips) 
+Seat 5: spencer15 ($15.05 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 8: hsGabriel ($24.10 in chips) 
+Seat 9: surenoheaven ($30.45 in chips) 
+wolmar will be allowed to play after the button
+hsGabriel: posts small blind $0.10
+surenoheaven: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Qc]
+Ocean_13_777: folds 
+ryang421: folds 
+pablocjunior: folds 
+MAGICCV24: folds 
+spencer15: folds 
+Alameda22: folds 
+hsGabriel: calls $0.15
+surenoheaven: checks 
+*** FLOP *** [8s 4c 5d]
+hsGabriel: checks 
+surenoheaven: checks 
+*** TURN *** [8s 4c 5d] [4d]
+hsGabriel: checks 
+surenoheaven: bets $0.25
+hsGabriel: folds 
+Uncalled bet ($0.25) returned to surenoheaven
+surenoheaven collected $0.50 from pot
+surenoheaven: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [8s 4c 5d 4d]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: ryang421 folded before Flop (didn't bet)
+Seat 3: pablocjunior folded before Flop (didn't bet)
+Seat 4: MAGICCV24 folded before Flop (didn't bet)
+Seat 5: spencer15 folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: hsGabriel (small blind) folded on the Turn
+Seat 9: surenoheaven (big blind) collected ($0.50)
+
+
+
+PokerStars Game #20099124843:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:44:04 ET
+Table 'Appenzella II' 9-max Seat #8 is the button
+Seat 1: Ocean_13_777 ($61.95 in chips) 
+Seat 2: ryang421 ($29.65 in chips) 
+Seat 3: pablocjunior ($10.05 in chips) 
+Seat 4: MAGICCV24 ($20.10 in chips) 
+Seat 5: spencer15 ($15.05 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 8: hsGabriel ($23.85 in chips) 
+Seat 9: surenoheaven ($30.70 in chips) 
+surenoheaven: posts small blind $0.10
+Ocean_13_777: posts big blind $0.25
+wolmar: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 5d]
+ryang421: folds 
+pablocjunior: folds 
+MAGICCV24: folds 
+spencer15: calls $0.25
+Alameda22: folds 
+hsGabriel: folds 
+surenoheaven: calls $0.15
+Ocean_13_777: raises $1 to $1.25
+spencer15: calls $1
+surenoheaven: folds 
+*** FLOP *** [4d 7c Kc]
+Ocean_13_777: bets $1.75
+spencer15: folds 
+Uncalled bet ($1.75) returned to Ocean_13_777
+Ocean_13_777 collected $2.65 from pot
+Ocean_13_777: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [4d 7c Kc]
+Seat 1: Ocean_13_777 (big blind) collected ($2.65)
+Seat 2: ryang421 folded before Flop (didn't bet)
+Seat 3: pablocjunior folded before Flop (didn't bet)
+Seat 4: MAGICCV24 folded before Flop (didn't bet)
+Seat 5: spencer15 folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: hsGabriel (button) folded before Flop (didn't bet)
+Seat 9: surenoheaven (small blind) folded before Flop
+
+
+
+PokerStars Game #20099146185:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:44:55 ET
+Table 'Appenzella II' 9-max Seat #9 is the button
+Seat 1: Ocean_13_777 ($63.35 in chips) 
+Seat 2: ryang421 ($29.65 in chips) 
+Seat 3: pablocjunior ($10.05 in chips) 
+Seat 4: MAGICCV24 ($20.10 in chips) 
+Seat 5: spencer15 ($13.80 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 8: hsGabriel ($23.85 in chips) 
+Seat 9: surenoheaven ($30.45 in chips) 
+Ocean_13_777: posts small blind $0.10
+ryang421: posts big blind $0.25
+wolmar: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 9s]
+pablocjunior: calls $0.25
+MAGICCV24: folds 
+spencer15: folds 
+Alameda22: folds 
+hsGabriel: folds 
+surenoheaven: calls $0.25
+Ocean_13_777: folds 
+ryang421: checks 
+*** FLOP *** [Kh 9c 3h]
+ryang421: bets $0.75
+pablocjunior: folds 
+surenoheaven: calls $0.75
+*** TURN *** [Kh 9c 3h] [7s]
+ryang421: bets $1.50
+surenoheaven: folds 
+Uncalled bet ($1.50) returned to ryang421
+ryang421 collected $2.25 from pot
+ryang421: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Kh 9c 3h 7s]
+Seat 1: Ocean_13_777 (small blind) folded before Flop
+Seat 2: ryang421 (big blind) collected ($2.25)
+Seat 3: pablocjunior folded on the Flop
+Seat 4: MAGICCV24 folded before Flop (didn't bet)
+Seat 5: spencer15 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven (button) folded on the Turn
+
+
+
+PokerStars Game #20099183386:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:46:25 ET
+Table 'Appenzella II' 9-max Seat #1 is the button
+Seat 1: Ocean_13_777 ($63.25 in chips) 
+Seat 2: ryang421 ($30.90 in chips) 
+Seat 3: pablocjunior ($9.80 in chips) 
+Seat 4: MAGICCV24 ($20.10 in chips) 
+Seat 5: spencer15 ($13.80 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 8: hsGabriel ($25 in chips) 
+Seat 9: surenoheaven ($29.45 in chips) 
+ryang421: posts small blind $0.10
+pablocjunior: posts big blind $0.25
+wolmar: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 7d]
+MAGICCV24: calls $0.25
+spencer15: calls $0.25
+Alameda22: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+ryang421: folds 
+pablocjunior: checks 
+*** FLOP *** [3s 7h Qh]
+pablocjunior: checks 
+MAGICCV24: bets $1
+spencer15: calls $1
+pablocjunior: folds 
+*** TURN *** [3s 7h Qh] [Jd]
+MAGICCV24: bets $3.75
+spencer15: calls $3.75
+*** RIVER *** [3s 7h Qh Jd] [Ac]
+MAGICCV24: bets $2
+spencer15: calls $2
+*** SHOW DOWN ***
+MAGICCV24: shows [6h Kh] (high card Ace)
+spencer15: shows [Ah Qs] (two pair, Aces and Queens)
+spencer15 collected $13.70 from pot
+*** SUMMARY ***
+Total pot $14.35 | Rake $0.65 
+Board [3s 7h Qh Jd Ac]
+Seat 1: Ocean_13_777 (button) folded before Flop (didn't bet)
+Seat 2: ryang421 (small blind) folded before Flop
+Seat 3: pablocjunior (big blind) folded on the Flop
+Seat 4: MAGICCV24 showed [6h Kh] and lost with high card Ace
+Seat 5: spencer15 showed [Ah Qs] and won ($13.70) with two pair, Aces and Queens
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099216104:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:47:43 ET
+Table 'Appenzella II' 9-max Seat #2 is the button
+Seat 1: Ocean_13_777 ($63.25 in chips) 
+Seat 2: ryang421 ($30.80 in chips) 
+Seat 3: pablocjunior ($9.55 in chips) 
+Seat 4: MAGICCV24 ($13.10 in chips) 
+Seat 5: spencer15 ($20.50 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 8: hsGabriel ($25 in chips) 
+Seat 9: surenoheaven ($29.45 in chips) 
+pablocjunior: posts small blind $0.10
+MAGICCV24: posts big blind $0.25
+wolmar: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Td]
+spencer15: folds 
+Alameda22: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: raises $0.75 to $1
+ryang421: folds 
+pablocjunior: calls $0.90
+MAGICCV24: calls $0.75
+*** FLOP *** [6h Js 8s]
+pablocjunior: checks 
+MAGICCV24: checks 
+Ocean_13_777: checks 
+*** TURN *** [6h Js 8s] [Ac]
+pablocjunior: checks 
+MAGICCV24: checks 
+Ocean_13_777: bets $2
+pablocjunior: folds 
+MAGICCV24: folds 
+Uncalled bet ($2) returned to Ocean_13_777
+Ocean_13_777 collected $2.85 from pot
+Ocean_13_777: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [6h Js 8s Ac]
+Seat 1: Ocean_13_777 collected ($2.85)
+Seat 2: ryang421 (button) folded before Flop (didn't bet)
+Seat 3: pablocjunior (small blind) folded on the Turn
+Seat 4: MAGICCV24 (big blind) folded on the Turn
+Seat 5: spencer15 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099244411:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:48:51 ET
+Table 'Appenzella II' 9-max Seat #3 is the button
+Seat 1: Ocean_13_777 ($65.10 in chips) 
+Seat 2: ryang421 ($30.80 in chips) 
+Seat 3: pablocjunior ($8.55 in chips) 
+Seat 4: MAGICCV24 ($12.10 in chips) 
+Seat 5: spencer15 ($20.50 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 8: hsGabriel ($25 in chips) 
+Seat 9: surenoheaven ($29.45 in chips) 
+MAGICCV24: posts small blind $0.10
+spencer15: posts big blind $0.25
+wolmar: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Jc]
+Alameda22: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+ryang421: folds 
+pablocjunior: calls $0.25
+MAGICCV24: folds 
+spencer15: checks 
+*** FLOP *** [5d 7s 8d]
+spencer15: checks 
+pablocjunior: checks 
+*** TURN *** [5d 7s 8d] [4s]
+spencer15: bets $0.25
+pablocjunior: calls $0.25
+*** RIVER *** [5d 7s 8d 4s] [Jd]
+spencer15: bets $0.25
+pablocjunior: folds 
+Uncalled bet ($0.25) returned to spencer15
+spencer15 collected $1.05 from pot
+spencer15: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [5d 7s 8d 4s Jd]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: ryang421 folded before Flop (didn't bet)
+Seat 3: pablocjunior (button) folded on the River
+Seat 4: MAGICCV24 (small blind) folded before Flop
+Seat 5: spencer15 (big blind) collected ($1.05)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099264654:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:49:40 ET
+Table 'Appenzella II' 9-max Seat #4 is the button
+Seat 1: Ocean_13_777 ($65.10 in chips) 
+Seat 2: ryang421 ($30.80 in chips) 
+Seat 3: pablocjunior ($8.05 in chips) 
+Seat 4: MAGICCV24 ($12 in chips) 
+Seat 5: spencer15 ($21.05 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 8: hsGabriel ($25 in chips) 
+Seat 9: surenoheaven ($29.45 in chips) 
+spencer15: posts small blind $0.10
+Alameda22: posts big blind $0.25
+wolmar: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Jh]
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+ryang421: folds 
+pablocjunior: folds 
+pablocjunior leaves the table
+MAGICCV24: folds 
+spencer15: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+flavius_90 joins the table at seat #3 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: ryang421 folded before Flop (didn't bet)
+Seat 3: pablocjunior folded before Flop (didn't bet)
+Seat 4: MAGICCV24 (button) folded before Flop (didn't bet)
+Seat 5: spencer15 (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) collected ($0.20)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099275651:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:50:06 ET
+Table 'Appenzella II' 9-max Seat #5 is the button
+Seat 1: Ocean_13_777 ($65.10 in chips) 
+Seat 2: ryang421 ($30.80 in chips) 
+Seat 3: flavius_90 ($25 in chips) 
+Seat 4: MAGICCV24 ($12 in chips) 
+Seat 5: spencer15 ($20.95 in chips) 
+Seat 6: Alameda22 ($26.45 in chips) 
+Seat 7: wolmar ($25 in chips) 
+Seat 8: hsGabriel ($25 in chips) 
+Seat 9: surenoheaven ($29.45 in chips) 
+Alameda22: posts small blind $0.10
+wolmar: posts big blind $0.25
+flavius_90: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 7d]
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+ryang421: folds 
+flavius_90: checks 
+MAGICCV24: raises $1 to $1.25
+spencer15: folds 
+Alameda22: folds 
+wolmar: folds 
+flavius_90: calls $1
+*** FLOP *** [Kc 8s Ts]
+flavius_90: bets $2
+MAGICCV24: calls $2
+*** TURN *** [Kc 8s Ts] [Ac]
+flavius_90: bets $3.75
+MAGICCV24: calls $3.75
+*** RIVER *** [Kc 8s Ts Ac] [6d]
+flavius_90: bets $5
+MAGICCV24: calls $5 and is all-in
+*** SHOW DOWN ***
+flavius_90: shows [3s Ad] (a pair of Aces)
+MAGICCV24: mucks hand 
+flavius_90 collected $23.20 from pot
+*** SUMMARY ***
+Total pot $24.35 | Rake $1.15 
+Board [Kc 8s Ts Ac 6d]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: ryang421 folded before Flop (didn't bet)
+Seat 3: flavius_90 showed [3s Ad] and won ($23.20) with a pair of Aces
+Seat 4: MAGICCV24 mucked [Kd Qd]
+Seat 5: spencer15 (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: wolmar (big blind) folded before Flop
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099309751:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:51:29 ET
+Table 'Appenzella II' 9-max Seat #6 is the button
+Seat 1: Ocean_13_777 ($65.10 in chips) 
+Seat 2: ryang421 ($30.80 in chips) 
+Seat 3: flavius_90 ($36.20 in chips) 
+Seat 5: spencer15 ($20.95 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 7: wolmar ($24.75 in chips) 
+Seat 8: hsGabriel ($25 in chips) 
+Seat 9: surenoheaven ($29.45 in chips) 
+wolmar: posts small blind $0.10
+hsGabriel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 8c]
+MAGICCV24 has returned
+surenoheaven: folds 
+Ocean_13_777: folds 
+ryang421: folds 
+flavius_90: folds 
+spencer15: calls $0.25
+Alameda22: folds 
+wolmar: folds 
+hsGabriel: raises $0.50 to $0.75
+spencer15: calls $0.50
+*** FLOP *** [7c 3s Qs]
+hsGabriel: bets $0.50
+spencer15: calls $0.50
+*** TURN *** [7c 3s Qs] [5s]
+hsGabriel: bets $0.75
+spencer15: calls $0.75
+*** RIVER *** [7c 3s Qs 5s] [9c]
+hsGabriel: checks 
+spencer15: bets $1.50
+hsGabriel: folds 
+Uncalled bet ($1.50) returned to spencer15
+spencer15 collected $3.90 from pot
+spencer15: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [7c 3s Qs 5s 9c]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: ryang421 folded before Flop (didn't bet)
+Seat 3: flavius_90 folded before Flop (didn't bet)
+Seat 5: spencer15 collected ($3.90)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: wolmar (small blind) folded before Flop
+Seat 8: hsGabriel (big blind) folded on the River
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099338132:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:52:38 ET
+Table 'Appenzella II' 9-max Seat #7 is the button
+Seat 1: Ocean_13_777 ($65.10 in chips) 
+Seat 2: ryang421 ($30.80 in chips) 
+Seat 3: flavius_90 ($36.20 in chips) 
+Seat 5: spencer15 ($22.85 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 7: wolmar ($24.65 in chips) 
+Seat 8: hsGabriel ($25 in chips) 
+Seat 9: surenoheaven ($29.45 in chips) 
+hsGabriel: posts small blind $0.10
+MAGICCV24 has returned
+surenoheaven: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Tc]
+MAGICCV24 leaves the table
+Ocean_13_777: folds 
+Ocean_13_777 is sitting out
+ryang421: folds 
+flavius_90: raises $0.75 to $1
+spencer15: folds 
+trzcinek joins the table at seat #4 
+Alameda22: folds 
+wolmar: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+Uncalled bet ($0.75) returned to flavius_90
+flavius_90 collected $0.60 from pot
+flavius_90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: ryang421 folded before Flop (didn't bet)
+Seat 3: flavius_90 collected ($0.60)
+Seat 5: spencer15 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: wolmar (button) folded before Flop (didn't bet)
+Seat 8: hsGabriel (small blind) folded before Flop
+Seat 9: surenoheaven (big blind) folded before Flop
+
+
+
+PokerStars Game #20099360516:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:53:33 ET
+Table 'Appenzella II' 9-max Seat #8 is the button
+Seat 2: ryang421 ($30.80 in chips) 
+Seat 3: flavius_90 ($36.55 in chips) 
+Seat 5: spencer15 ($22.85 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 7: wolmar ($24.65 in chips) 
+Seat 8: hsGabriel ($24.90 in chips) 
+Seat 9: surenoheaven ($29.20 in chips) 
+surenoheaven: posts small blind $0.10
+ryang421: posts big blind $0.25
+trzcinek: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 9c]
+flavius_90: folds 
+spencer15: folds 
+Alameda22: folds 
+wolmar: raises $0.75 to $1
+hsGabriel: folds 
+surenoheaven: folds 
+ryang421: folds 
+Uncalled bet ($0.75) returned to wolmar
+wolmar collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: ryang421 (big blind) folded before Flop
+Seat 3: flavius_90 folded before Flop (didn't bet)
+Seat 5: spencer15 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: wolmar collected ($0.60)
+Seat 8: hsGabriel (button) folded before Flop (didn't bet)
+Seat 9: surenoheaven (small blind) folded before Flop
+
+
+
+PokerStars Game #20099376938:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:54:13 ET
+Table 'Appenzella II' 9-max Seat #9 is the button
+Seat 2: ryang421 ($30.55 in chips) 
+Seat 3: flavius_90 ($36.55 in chips) 
+Seat 5: spencer15 ($22.85 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 7: wolmar ($25 in chips) 
+Seat 8: hsGabriel ($24.90 in chips) 
+Seat 9: surenoheaven ($29.10 in chips) 
+ryang421: posts small blind $0.10
+flavius_90: posts big blind $0.25
+trzcinek: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h As]
+spencer15: folds 
+Alameda22: folds 
+wolmar: folds 
+hsGabriel: calls $0.25
+surenoheaven: folds 
+ryang421: folds 
+flavius_90: checks 
+*** FLOP *** [3d Jh 3s]
+flavius_90: bets $0.50
+hsGabriel: folds 
+Uncalled bet ($0.50) returned to flavius_90
+flavius_90 collected $0.60 from pot
+flavius_90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3d Jh 3s]
+Seat 2: ryang421 (small blind) folded before Flop
+Seat 3: flavius_90 (big blind) collected ($0.60)
+Seat 5: spencer15 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: wolmar folded before Flop (didn't bet)
+Seat 8: hsGabriel folded on the Flop
+Seat 9: surenoheaven (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099394660:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:54:56 ET
+Table 'Appenzella II' 9-max Seat #2 is the button
+Seat 2: ryang421 ($30.45 in chips) 
+Seat 3: flavius_90 ($36.90 in chips) 
+Seat 4: trzcinek ($5 in chips) 
+Seat 5: spencer15 ($22.85 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 7: wolmar ($25 in chips) 
+Seat 8: hsGabriel ($24.65 in chips) 
+Seat 9: surenoheaven ($29.10 in chips) 
+flavius_90: posts small blind $0.10
+trzcinek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Qh]
+spencer15: folds 
+spencer15 leaves the table
+Alameda22: folds 
+wolmar: folds 
+hsGabriel: raises $0.50 to $0.75
+surenoheaven: folds 
+ryang421: calls $0.75
+flavius_90: calls $0.65
+trzcinek: folds 
+*** FLOP *** [Ad 5h 6d]
+flavius_90: checks 
+hsGabriel: bets $0.75
+ryang421: raises $1 to $1.75
+flavius_90: folds 
+hsGabriel: calls $1
+*** TURN *** [Ad 5h 6d] [6c]
+hsGabriel: checks 
+ryang421: bets $3.50
+hsGabriel: calls $3.50
+*** RIVER *** [Ad 5h 6d 6c] [Td]
+hsGabriel: checks 
+ryang421: bets $4.75
+hsGabriel: calls $4.75
+*** SHOW DOWN ***
+ryang421: shows [5d 5s] (a full house, Fives full of Sixes)
+hsGabriel: mucks hand 
+ryang421 collected $21.45 from pot
+*** SUMMARY ***
+Total pot $22.50 | Rake $1.05 
+Board [Ad 5h 6d 6c Td]
+Seat 2: ryang421 (button) showed [5d 5s] and won ($21.45) with a full house, Fives full of Sixes
+Seat 3: flavius_90 (small blind) folded on the Flop
+Seat 4: trzcinek (big blind) folded before Flop
+Seat 5: spencer15 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: wolmar folded before Flop (didn't bet)
+Seat 8: hsGabriel mucked [Jc As]
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099427698:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:56:17 ET
+Table 'Appenzella II' 9-max Seat #3 is the button
+Seat 2: ryang421 ($41.15 in chips) 
+Seat 3: flavius_90 ($36.15 in chips) 
+Seat 4: trzcinek ($4.75 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 7: wolmar ($25 in chips) 
+Seat 8: hsGabriel ($25 in chips) 
+Seat 9: surenoheaven ($29.10 in chips) 
+trzcinek: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 8s]
+wolmar: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+ryang421: folds 
+flavius_90: calls $0.25
+trzcinek: folds 
+Alameda22: checks 
+*** FLOP *** [Ac 3h 8h]
+Alameda22: checks 
+flavius_90: checks 
+*** TURN *** [Ac 3h 8h] [2d]
+Alameda22: checks 
+flavius_90: bets $0.75
+Alameda22: calls $0.75
+*** RIVER *** [Ac 3h 8h 2d] [3c]
+Alameda22: checks 
+flavius_90: checks 
+*** SHOW DOWN ***
+Alameda22: shows [2h 8s] (two pair, Eights and Threes)
+flavius_90: shows [Th Ah] (two pair, Aces and Threes)
+flavius_90 collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Ac 3h 8h 2d 3c]
+Seat 2: ryang421 folded before Flop (didn't bet)
+Seat 3: flavius_90 (button) showed [Th Ah] and won ($2) with two pair, Aces and Threes
+Seat 4: trzcinek (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) showed [2h 8s] and lost with two pair, Eights and Threes
+Seat 7: wolmar folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099459019:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:57:34 ET
+Table 'Appenzella II' 9-max Seat #4 is the button
+Seat 2: ryang421 ($41.15 in chips) 
+Seat 3: flavius_90 ($37.15 in chips) 
+Seat 4: trzcinek ($4.65 in chips) 
+Seat 6: Alameda22 ($25.35 in chips) 
+Seat 7: wolmar ($25 in chips) 
+Seat 8: hsGabriel ($25 in chips) 
+Seat 9: surenoheaven ($29.10 in chips) 
+Alameda22: posts small blind $0.10
+wolmar: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 4c]
+hsGabriel: calls $0.25
+surenoheaven: folds 
+ryang421: folds 
+flavius_90: calls $0.25
+trzcinek: folds 
+Alameda22: folds 
+wolmar: checks 
+*** FLOP *** [9d 4s 7h]
+wolmar: checks 
+bet_r_getout joins the table at seat #5 
+hsGabriel: checks 
+flavius_90: checks 
+*** TURN *** [9d 4s 7h] [Ts]
+wolmar: bets $0.75
+hsGabriel: folds 
+flavius_90: folds 
+Uncalled bet ($0.75) returned to wolmar
+wolmar collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [9d 4s 7h Ts]
+Seat 2: ryang421 folded before Flop (didn't bet)
+Seat 3: flavius_90 folded on the Turn
+Seat 4: trzcinek (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: wolmar (big blind) collected ($0.85)
+Seat 8: hsGabriel folded on the Turn
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099478043:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:58:21 ET
+Table 'Appenzella II' 9-max Seat #6 is the button
+Seat 2: ryang421 ($41.15 in chips) 
+Seat 3: flavius_90 ($36.90 in chips) 
+Seat 4: trzcinek ($4.65 in chips) 
+Seat 6: Alameda22 ($25.25 in chips) 
+Seat 7: wolmar ($25.60 in chips) 
+Seat 8: hsGabriel ($24.75 in chips) 
+Seat 9: surenoheaven ($29.10 in chips) 
+wolmar: posts small blind $0.10
+hsGabriel: posts big blind $0.25
+bet_r_getout: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh As]
+surenoheaven: folds 
+ryang421: folds 
+flavius_90: folds 
+trzcinek: folds 
+Alameda22: raises $0.75 to $1
+wolmar: folds 
+hsGabriel: folds 
+Uncalled bet ($0.75) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: ryang421 folded before Flop (didn't bet)
+Seat 3: flavius_90 folded before Flop (didn't bet)
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) collected ($0.60)
+Seat 7: wolmar (small blind) folded before Flop
+Seat 8: hsGabriel (big blind) folded before Flop
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099494446:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:59:01 ET
+Table 'Appenzella II' 9-max Seat #7 is the button
+Seat 2: ryang421 ($41.15 in chips) 
+Seat 3: flavius_90 ($36.90 in chips) 
+Seat 4: trzcinek ($4.65 in chips) 
+Seat 6: Alameda22 ($25.60 in chips) 
+Seat 7: wolmar ($25.50 in chips) 
+Seat 8: hsGabriel ($24.50 in chips) 
+Seat 9: surenoheaven ($29.10 in chips) 
+hsGabriel: posts small blind $0.10
+surenoheaven: posts big blind $0.25
+bet_r_getout: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 2s]
+ryang421: folds 
+flavius_90: folds 
+trzcinek: folds 
+Alameda22: folds 
+wolmar: folds 
+hsGabriel: raises $0.50 to $0.75
+surenoheaven: calls $0.50
+*** FLOP *** [3c 5c Kc]
+hsGabriel: bets $0.75
+surenoheaven: calls $0.75
+*** TURN *** [3c 5c Kc] [Kh]
+hsGabriel: checks 
+surenoheaven: checks 
+*** RIVER *** [3c 5c Kc Kh] [4d]
+hsGabriel: bets $1
+surenoheaven: calls $1
+*** SHOW DOWN ***
+hsGabriel: shows [As Ah] (two pair, Aces and Kings)
+surenoheaven: mucks hand 
+hsGabriel collected $4.80 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.20 
+Board [3c 5c Kc Kh 4d]
+Seat 2: ryang421 folded before Flop (didn't bet)
+Seat 3: flavius_90 folded before Flop (didn't bet)
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: wolmar (button) folded before Flop (didn't bet)
+Seat 8: hsGabriel (small blind) showed [As Ah] and won ($4.80) with two pair, Aces and Kings
+Seat 9: surenoheaven (big blind) mucked [Qs Qc]
+
+
+
+PokerStars Game #20099526896:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:00:21 ET
+Table 'Appenzella II' 9-max Seat #8 is the button
+Seat 2: ryang421 ($41.15 in chips) 
+Seat 3: flavius_90 ($36.90 in chips) 
+Seat 4: trzcinek ($4.65 in chips) 
+Seat 6: Alameda22 ($25.60 in chips) 
+Seat 7: wolmar ($25.50 in chips) 
+Seat 8: hsGabriel ($26.80 in chips) 
+Seat 9: surenoheaven ($26.60 in chips) 
+surenoheaven: posts small blind $0.10
+ryang421: posts big blind $0.25
+bet_r_getout: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 2c]
+flavius_90: raises $0.75 to $1
+trzcinek: folds 
+Alameda22: folds 
+wolmar: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+ryang421: folds 
+Uncalled bet ($0.75) returned to flavius_90
+flavius_90 collected $0.60 from pot
+flavius_90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: ryang421 (big blind) folded before Flop
+Seat 3: flavius_90 collected ($0.60)
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: wolmar folded before Flop (didn't bet)
+Seat 8: hsGabriel (button) folded before Flop (didn't bet)
+Seat 9: surenoheaven (small blind) folded before Flop
+
+
+
+PokerStars Game #20099538020:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:00:49 ET
+Table 'Appenzella II' 9-max Seat #9 is the button
+Seat 2: ryang421 ($40.90 in chips) 
+Seat 3: flavius_90 ($37.25 in chips) 
+Seat 4: trzcinek ($4.65 in chips) 
+Seat 6: Alameda22 ($25.60 in chips) 
+Seat 7: wolmar ($25.50 in chips) 
+Seat 8: hsGabriel ($26.80 in chips) 
+Seat 9: surenoheaven ($26.50 in chips) 
+ryang421: posts small blind $0.10
+flavius_90: posts big blind $0.25
+bet_r_getout: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 6s]
+trzcinek: folds 
+Alameda22: folds 
+wolmar: folds 
+hsGabriel: folds 
+surenoheaven: raises $0.50 to $0.75
+ryang421: folds 
+flavius_90: folds 
+Uncalled bet ($0.50) returned to surenoheaven
+surenoheaven collected $0.60 from pot
+surenoheaven: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: ryang421 (small blind) folded before Flop
+Seat 3: flavius_90 (big blind) folded before Flop
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: wolmar folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven (button) collected ($0.60)
+
+
+
+PokerStars Game #20099553969:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:01:29 ET
+Table 'Appenzella II' 9-max Seat #2 is the button
+Seat 2: ryang421 ($40.80 in chips) 
+Seat 3: flavius_90 ($37 in chips) 
+Seat 4: trzcinek ($4.65 in chips) 
+Seat 6: Alameda22 ($25.60 in chips) 
+Seat 7: wolmar ($25.50 in chips) 
+Seat 8: hsGabriel ($26.80 in chips) 
+Seat 9: surenoheaven ($26.85 in chips) 
+flavius_90: posts small blind $0.10
+trzcinek: posts big blind $0.25
+bet_r_getout: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 3c]
+Alameda22: folds 
+wolmar: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+ryang421: folds 
+flavius_90: folds 
+Uncalled bet ($0.15) returned to trzcinek
+trzcinek collected $0.20 from pot
+trzcinek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: ryang421 (button) folded before Flop (didn't bet)
+Seat 3: flavius_90 (small blind) folded before Flop
+Seat 4: trzcinek (big blind) collected ($0.20)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: wolmar folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099564577:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:01:55 ET
+Table 'Appenzella II' 9-max Seat #3 is the button
+Seat 2: ryang421 ($40.80 in chips) 
+Seat 3: flavius_90 ($36.90 in chips) 
+Seat 4: trzcinek ($4.75 in chips) 
+Seat 5: bet_r_getout ($15 in chips) 
+Seat 6: Alameda22 ($25.60 in chips) 
+Seat 7: wolmar ($25.50 in chips) 
+Seat 8: hsGabriel ($26.80 in chips) 
+Seat 9: surenoheaven ($26.85 in chips) 
+trzcinek: posts small blind $0.10
+bet_r_getout: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 6d]
+Alameda22: folds 
+wolmar: calls $0.25
+hsGabriel: calls $0.25
+surenoheaven: calls $0.25
+ryang421: folds 
+flavius_90: folds 
+trzcinek: folds 
+bet_r_getout: checks 
+*** FLOP *** [9d 5h Ts]
+bet_r_getout: checks 
+wolmar: checks 
+hsGabriel: checks 
+surenoheaven: checks 
+*** TURN *** [9d 5h Ts] [7c]
+bet_r_getout: checks 
+wolmar: bets $0.75
+hsGabriel: calls $0.75
+surenoheaven: folds 
+bet_r_getout: folds 
+*** RIVER *** [9d 5h Ts 7c] [4c]
+wolmar: bets $1.75
+hsGabriel: calls $1.75
+*** SHOW DOWN ***
+wolmar: shows [8s 8h] (a pair of Eights)
+hsGabriel: shows [Td Jh] (a pair of Tens)
+hsGabriel collected $5.80 from pot
+*** SUMMARY ***
+Total pot $6.10 | Rake $0.30 
+Board [9d 5h Ts 7c 4c]
+Seat 2: ryang421 folded before Flop (didn't bet)
+Seat 3: flavius_90 (button) folded before Flop (didn't bet)
+Seat 4: trzcinek (small blind) folded before Flop
+Seat 5: bet_r_getout (big blind) folded on the Turn
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: wolmar showed [8s 8h] and lost with a pair of Eights
+Seat 8: hsGabriel showed [Td Jh] and won ($5.80) with a pair of Tens
+Seat 9: surenoheaven folded on the Turn
+
+
+
+PokerStars Game #20099609468:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:03:51 ET
+Table 'Appenzella II' 9-max Seat #4 is the button
+Seat 2: ryang421 ($40.80 in chips) 
+Seat 3: flavius_90 ($36.90 in chips) 
+Seat 4: trzcinek ($4.65 in chips) 
+Seat 5: bet_r_getout ($14.75 in chips) 
+Seat 6: Alameda22 ($25.60 in chips) 
+Seat 7: wolmar ($22.75 in chips) 
+Seat 8: hsGabriel ($29.85 in chips) 
+Seat 9: surenoheaven ($26.60 in chips) 
+bet_r_getout: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 2d]
+wolmar: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+ryang421: folds 
+flavius_90: folds 
+trzcinek: raises $0.75 to $1
+bet_r_getout: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to trzcinek
+trzcinek collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: ryang421 folded before Flop (didn't bet)
+Seat 3: flavius_90 folded before Flop (didn't bet)
+Seat 4: trzcinek (button) collected ($0.60)
+Seat 5: bet_r_getout (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: wolmar folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099627961:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:04:37 ET
+Table 'Appenzella II' 9-max Seat #5 is the button
+Seat 2: ryang421 ($40.80 in chips) 
+Seat 3: flavius_90 ($36.90 in chips) 
+Seat 4: trzcinek ($5 in chips) 
+Seat 5: bet_r_getout ($14.65 in chips) 
+Seat 6: Alameda22 ($25.35 in chips) 
+Seat 7: wolmar ($22.75 in chips) 
+Seat 8: hsGabriel ($29.85 in chips) 
+Seat 9: surenoheaven ($26.60 in chips) 
+Alameda22: posts small blind $0.10
+wolmar: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Qs]
+hsGabriel: folds 
+surenoheaven: folds 
+ryang421: folds 
+flavius_90: raises $0.50 to $0.75
+trzcinek: folds 
+bet_r_getout: calls $0.75
+Alameda22: folds 
+wolmar: folds 
+*** FLOP *** [Kc Tc Qh]
+flavius_90: bets $1.50
+bet_r_getout: calls $1.50
+*** TURN *** [Kc Tc Qh] [8h]
+flavius_90: checks 
+bet_r_getout: checks 
+*** RIVER *** [Kc Tc Qh 8h] [4d]
+flavius_90: checks 
+bet_r_getout: checks 
+*** SHOW DOWN ***
+flavius_90: shows [8c 9d] (a pair of Eights)
+bet_r_getout: mucks hand 
+flavius_90 collected $4.65 from pot
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [Kc Tc Qh 8h 4d]
+Seat 2: ryang421 folded before Flop (didn't bet)
+Seat 3: flavius_90 showed [8c 9d] and won ($4.65) with a pair of Eights
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: bet_r_getout (button) mucked [7h Ah]
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: wolmar (big blind) folded before Flop
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099650279:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:05:33 ET
+Table 'Appenzella II' 9-max Seat #6 is the button
+Seat 2: ryang421 ($40.80 in chips) 
+Seat 3: flavius_90 ($39.30 in chips) 
+Seat 4: trzcinek ($5 in chips) 
+Seat 5: bet_r_getout ($12.40 in chips) 
+Seat 6: Alameda22 ($25.25 in chips) 
+Seat 7: wolmar ($22.50 in chips) 
+Seat 8: hsGabriel ($29.85 in chips) 
+Seat 9: surenoheaven ($26.60 in chips) 
+wolmar: posts small blind $0.10
+hsGabriel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 6h]
+surenoheaven: folds 
+ryang421: folds 
+flavius_90: calls $0.25
+trzcinek: folds 
+bet_r_getout: folds 
+Alameda22: folds 
+wolmar: calls $0.15
+hsGabriel: checks 
+*** FLOP *** [Ad Jc Jh]
+wolmar: checks 
+hsGabriel: checks 
+flavius_90: checks 
+*** TURN *** [Ad Jc Jh] [Jd]
+wolmar: checks 
+hsGabriel: checks 
+flavius_90: checks 
+*** RIVER *** [Ad Jc Jh Jd] [5h]
+wolmar: checks 
+hsGabriel: checks 
+flavius_90: checks 
+*** SHOW DOWN ***
+wolmar: shows [2d 4c] (three of a kind, Jacks)
+hsGabriel: shows [Qc 5c] (a full house, Jacks full of Fives)
+flavius_90: mucks hand 
+hsGabriel collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Ad Jc Jh Jd 5h]
+Seat 2: ryang421 folded before Flop (didn't bet)
+Seat 3: flavius_90 mucked [4d 9d]
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: bet_r_getout folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: wolmar (small blind) showed [2d 4c] and lost with three of a kind, Jacks
+Seat 8: hsGabriel (big blind) showed [Qc 5c] and won ($0.75) with a full house, Jacks full of Fives
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099689444:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:07:11 ET
+Table 'Appenzella II' 9-max Seat #7 is the button
+Seat 2: ryang421 ($40.80 in chips) 
+Seat 3: flavius_90 ($39.05 in chips) 
+Seat 4: trzcinek ($5 in chips) 
+Seat 5: bet_r_getout ($12.40 in chips) 
+Seat 6: Alameda22 ($25.25 in chips) 
+Seat 7: wolmar ($22.25 in chips) 
+Seat 8: hsGabriel ($30.35 in chips) 
+Seat 9: surenoheaven ($26.60 in chips) 
+hsGabriel: posts small blind $0.10
+surenoheaven: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 6d]
+ryang421: folds 
+ryang421 leaves the table
+flavius_90: folds 
+trzcinek: folds 
+bet_r_getout: calls $0.25
+Alameda22: folds 
+wolmar: folds 
+hsGabriel: calls $0.15
+surenoheaven: checks 
+*** FLOP *** [Qs 9h Kd]
+hsGabriel: checks 
+surenoheaven: checks 
+bet_r_getout: bets $0.50
+hsGabriel: folds 
+surenoheaven: folds 
+Uncalled bet ($0.50) returned to bet_r_getout
+bet_r_getout collected $0.75 from pot
+bet_r_getout: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Qs 9h Kd]
+Seat 2: ryang421 folded before Flop (didn't bet)
+Seat 3: flavius_90 folded before Flop (didn't bet)
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: bet_r_getout collected ($0.75)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: wolmar (button) folded before Flop (didn't bet)
+Seat 8: hsGabriel (small blind) folded on the Flop
+Seat 9: surenoheaven (big blind) folded on the Flop
+
+
+
+PokerStars Game #20099710182:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:08:03 ET
+Table 'Appenzella II' 9-max Seat #8 is the button
+Seat 3: flavius_90 ($39.05 in chips) 
+Seat 4: trzcinek ($5 in chips) 
+Seat 5: bet_r_getout ($12.90 in chips) 
+Seat 6: Alameda22 ($25.25 in chips) 
+Seat 7: wolmar ($22.25 in chips) 
+Seat 8: hsGabriel ($30.10 in chips) 
+Seat 9: surenoheaven ($26.35 in chips) 
+surenoheaven: posts small blind $0.10
+flavius_90: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Jd]
+trzcinek: folds 
+bet_r_getout: folds 
+Alameda22: folds 
+wolmar: folds 
+hsGabriel: calls $0.25
+surenoheaven: calls $0.15
+flavius_90: checks 
+*** FLOP *** [4c Ks Qc]
+surenoheaven: checks 
+flavius_90: checks 
+hsGabriel: checks 
+*** TURN *** [4c Ks Qc] [8s]
+surenoheaven: checks 
+flavius_90: checks 
+hsGabriel: bets $0.50
+surenoheaven: folds 
+flavius_90: folds 
+Uncalled bet ($0.50) returned to hsGabriel
+hsGabriel collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [4c Ks Qc 8s]
+Seat 3: flavius_90 (big blind) folded on the Turn
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: bet_r_getout folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: wolmar folded before Flop (didn't bet)
+Seat 8: hsGabriel (button) collected ($0.75)
+Seat 9: surenoheaven (small blind) folded on the Turn
+
+
+
+PokerStars Game #20099731692:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:08:58 ET
+Table 'Appenzella II' 9-max Seat #9 is the button
+Seat 3: flavius_90 ($38.80 in chips) 
+Seat 4: trzcinek ($5 in chips) 
+Seat 5: bet_r_getout ($12.90 in chips) 
+Seat 6: Alameda22 ($25.25 in chips) 
+Seat 7: wolmar ($22.25 in chips) 
+Seat 8: hsGabriel ($30.60 in chips) 
+Seat 9: surenoheaven ($26.10 in chips) 
+flavius_90: posts small blind $0.10
+trzcinek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Ks]
+bet_r_getout: folds 
+Alameda22: raises $0.75 to $1
+wolmar: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+miqu11 joins the table at seat #2 
+flavius_90: calls $0.90
+trzcinek: folds 
+*** FLOP *** [Qh Qc Kh]
+flavius_90: checks 
+Alameda22: bets $1.50
+flavius_90: calls $1.50
+*** TURN *** [Qh Qc Kh] [Th]
+flavius_90: checks 
+Alameda22: bets $3.25
+flavius_90: raises $3.25 to $6.50
+Alameda22: calls $3.25
+*** RIVER *** [Qh Qc Kh Th] [3h]
+flavius_90: bets $9.25
+Alameda22: raises $7 to $16.25 and is all-in
+flavius_90: calls $7
+*** SHOW DOWN ***
+Alameda22: shows [Ah Ks] (a flush, Ace high)
+flavius_90: shows [6c Qd] (three of a kind, Queens)
+Alameda22 collected $48.30 from pot
+*** SUMMARY ***
+Total pot $50.75 | Rake $2.45 
+Board [Qh Qc Kh Th 3h]
+Seat 3: flavius_90 (small blind) showed [6c Qd] and lost with three of a kind, Queens
+Seat 4: trzcinek (big blind) folded before Flop
+Seat 5: bet_r_getout folded before Flop (didn't bet)
+Seat 6: Alameda22 showed [Ah Ks] and won ($48.30) with a flush, Ace high
+Seat 7: wolmar folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099781732:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:11:04 ET
+Table 'Appenzella II' 9-max Seat #3 is the button
+Seat 3: flavius_90 ($13.55 in chips) 
+Seat 4: trzcinek ($4.75 in chips) 
+Seat 5: bet_r_getout ($12.90 in chips) 
+Seat 6: Alameda22 ($48.30 in chips) 
+Seat 7: wolmar ($22.25 in chips) 
+Seat 8: hsGabriel ($30.60 in chips) 
+Seat 9: surenoheaven ($26.10 in chips) 
+trzcinek: posts small blind $0.10
+bet_r_getout: posts big blind $0.25
+miqu11: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Tc]
+Alameda22: folds 
+wolmar: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+flavius_90: folds 
+trzcinek: calls $0.15
+bet_r_getout: checks 
+*** FLOP *** [Kd 9d 9s]
+trzcinek: checks 
+bet_r_getout: checks 
+*** TURN *** [Kd 9d 9s] [Ah]
+trzcinek: bets $0.25
+bet_r_getout: folds 
+Uncalled bet ($0.25) returned to trzcinek
+trzcinek collected $0.50 from pot
+trzcinek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Kd 9d 9s Ah]
+Seat 3: flavius_90 (button) folded before Flop (didn't bet)
+Seat 4: trzcinek (small blind) collected ($0.50)
+Seat 5: bet_r_getout (big blind) folded on the Turn
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: wolmar folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099800443:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:11:52 ET
+Table 'Appenzella II' 9-max Seat #4 is the button
+Seat 3: flavius_90 ($25 in chips) 
+Seat 4: trzcinek ($5 in chips) 
+Seat 5: bet_r_getout ($12.65 in chips) 
+Seat 6: Alameda22 ($48.30 in chips) 
+Seat 7: wolmar ($22.25 in chips) 
+Seat 8: hsGabriel ($30.60 in chips) 
+Seat 9: surenoheaven ($26.10 in chips) 
+bet_r_getout: posts small blind $0.10
+Alameda22: posts big blind $0.25
+miqu11: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 7h]
+Ocean_13_777 has returned
+wolmar: raises $0.75 to $1
+hsGabriel: folds 
+surenoheaven: folds 
+flavius_90: calls $1
+trzcinek: folds 
+bet_r_getout: folds 
+Alameda22: folds 
+*** FLOP *** [8d 2h 9c]
+wolmar: bets $1.25
+flavius_90: raises $3.75 to $5
+wolmar: folds 
+Uncalled bet ($3.75) returned to flavius_90
+flavius_90 collected $4.65 from pot
+flavius_90: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [8d 2h 9c]
+Seat 3: flavius_90 collected ($4.65)
+Seat 4: trzcinek (button) folded before Flop (didn't bet)
+Seat 5: bet_r_getout (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: wolmar folded on the Flop
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099821866:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:12:47 ET
+Table 'Appenzella II' 9-max Seat #5 is the button
+Seat 3: flavius_90 ($27.40 in chips) 
+Seat 4: trzcinek ($5 in chips) 
+Seat 5: bet_r_getout ($12.55 in chips) 
+Seat 6: Alameda22 ($48.05 in chips) 
+Seat 8: hsGabriel ($30.60 in chips) 
+Seat 9: surenoheaven ($26.10 in chips) 
+Alameda22: posts small blind $0.10
+wolmar: is sitting out 
+hsGabriel: posts big blind $0.25
+Ocean_13_777: sits out 
+miqu11: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 2s]
+wolmar leaves the table
+surenoheaven: folds 
+flavius_90: folds 
+trzcinek: folds 
+bet_r_getout: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to hsGabriel
+hsGabriel collected $0.20 from pot
+hsGabriel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: flavius_90 folded before Flop (didn't bet)
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: bet_r_getout (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 8: hsGabriel (big blind) collected ($0.20)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099832574:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:13:14 ET
+Table 'Appenzella II' 9-max Seat #6 is the button
+Seat 3: flavius_90 ($27.40 in chips) 
+Seat 4: trzcinek ($5 in chips) 
+Seat 5: bet_r_getout ($12.55 in chips) 
+Seat 6: Alameda22 ($47.95 in chips) 
+Seat 8: hsGabriel ($30.70 in chips) 
+Seat 9: surenoheaven ($26.10 in chips) 
+hsGabriel: posts small blind $0.10
+surenoheaven: posts big blind $0.25
+Ocean_13_777: sits out 
+miqu11: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Ac]
+flavius_90: calls $0.25
+trzcinek: folds 
+bet_r_getout: folds 
+Alameda22: raises $1 to $1.25
+hsGabriel: folds 
+surenoheaven: folds 
+flavius_90: calls $1
+*** FLOP *** [5d 9d Tc]
+flavius_90: checks 
+Alameda22: bets $1.75
+flavius_90: raises $1.75 to $3.50
+Alameda22: calls $1.75
+*** TURN *** [5d 9d Tc] [5s]
+flavius_90: bets $6.50
+Alameda22: folds 
+Uncalled bet ($6.50) returned to flavius_90
+flavius_90 collected $9.40 from pot
+flavius_90: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.85 | Rake $0.45 
+Board [5d 9d Tc 5s]
+Seat 3: flavius_90 collected ($9.40)
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: bet_r_getout folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded on the Turn
+Seat 8: hsGabriel (small blind) folded before Flop
+Seat 9: surenoheaven (big blind) folded before Flop
+
+
+
+PokerStars Game #20099860724:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:14:26 ET
+Table 'Appenzella II' 9-max Seat #8 is the button
+Seat 1: Ocean_13_777 ($65.10 in chips) 
+Seat 3: flavius_90 ($32.05 in chips) 
+Seat 4: trzcinek ($5 in chips) 
+Seat 5: bet_r_getout ($12.55 in chips) 
+Seat 6: Alameda22 ($43.20 in chips) 
+Seat 8: hsGabriel ($30.60 in chips) 
+Seat 9: surenoheaven ($25.85 in chips) 
+dennis_suri joins the table at seat #7 
+surenoheaven: posts small blind $0.10
+Ocean_13_777: posts big blind $0.25
+miqu11: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 3h]
+flavius_90: calls $0.25
+trzcinek: folds 
+bet_r_getout: folds 
+Alameda22: folds 
+hsGabriel: folds 
+surenoheaven: raises $0.75 to $1
+Ocean_13_777: folds 
+flavius_90: calls $0.75
+*** FLOP *** [4h 6s Qc]
+surenoheaven: bets $1
+flavius_90: folds 
+Uncalled bet ($1) returned to surenoheaven
+surenoheaven collected $2.15 from pot
+surenoheaven: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [4h 6s Qc]
+Seat 1: Ocean_13_777 (big blind) folded before Flop
+Seat 3: flavius_90 folded on the Flop
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: bet_r_getout folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: hsGabriel (button) folded before Flop (didn't bet)
+Seat 9: surenoheaven (small blind) collected ($2.15)
+
+
+
+PokerStars Game #20099888378:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:15:37 ET
+Table 'Appenzella II' 9-max Seat #9 is the button
+Seat 1: Ocean_13_777 ($64.85 in chips) 
+Seat 2: miqu11 ($5 in chips) 
+Seat 3: flavius_90 ($31.05 in chips) 
+Seat 4: trzcinek ($5 in chips) 
+Seat 5: bet_r_getout ($12.55 in chips) 
+Seat 6: Alameda22 ($43.20 in chips) 
+Seat 7: dennis_suri ($25 in chips) 
+Seat 8: hsGabriel ($30.60 in chips) 
+Seat 9: surenoheaven ($27 in chips) 
+Ocean_13_777: posts small blind $0.10
+miqu11: posts big blind $0.25
+dennis_suri: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Ad]
+flavius_90: folds 
+trzcinek: folds 
+bet_r_getout: raises $0.25 to $0.50
+Alameda22: folds 
+dennis_suri: calls $0.25
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: calls $0.40
+miqu11: folds 
+*** FLOP *** [5c 3h Js]
+Ocean_13_777: bets $1.25
+bet_r_getout: folds 
+dennis_suri: calls $1.25
+*** TURN *** [5c 3h Js] [2h]
+Ocean_13_777: bets $2.50
+dennis_suri: calls $2.50
+*** RIVER *** [5c 3h Js 2h] [8c]
+Ocean_13_777: checks 
+dennis_suri: bets $5
+Ocean_13_777: folds 
+Uncalled bet ($5) returned to dennis_suri
+dennis_suri collected $8.80 from pot
+dennis_suri: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.25 | Rake $0.45 
+Board [5c 3h Js 2h 8c]
+Seat 1: Ocean_13_777 (small blind) folded on the River
+Seat 2: miqu11 (big blind) folded before Flop
+Seat 3: flavius_90 folded before Flop (didn't bet)
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: bet_r_getout folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dennis_suri collected ($8.80)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099932724:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:17:30 ET
+Table 'Appenzella II' 9-max Seat #1 is the button
+Seat 1: Ocean_13_777 ($60.60 in chips) 
+Seat 2: miqu11 ($4.75 in chips) 
+Seat 3: flavius_90 ($31.05 in chips) 
+Seat 4: trzcinek ($5 in chips) 
+Seat 5: bet_r_getout ($12.05 in chips) 
+Seat 6: Alameda22 ($43.20 in chips) 
+Seat 7: dennis_suri ($29.55 in chips) 
+Seat 8: hsGabriel ($30.60 in chips) 
+Seat 9: surenoheaven ($27 in chips) 
+miqu11: posts small blind $0.10
+flavius_90: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 3c]
+trzcinek: folds 
+bet_r_getout: calls $0.25
+Alameda22: folds 
+dennis_suri: folds 
+hsGabriel: calls $0.25
+surenoheaven: calls $0.25
+Ocean_13_777: folds 
+miqu11: calls $0.15
+flavius_90: checks 
+*** FLOP *** [8c 4d 4c]
+miqu11: checks 
+flavius_90: bets $1
+bet_r_getout: calls $1
+hsGabriel: folds 
+surenoheaven: folds 
+miqu11: folds 
+*** TURN *** [8c 4d 4c] [Qh]
+flavius_90: bets $2.50
+bet_r_getout: calls $2.50
+*** RIVER *** [8c 4d 4c Qh] [7d]
+flavius_90: bets $2.25
+bet_r_getout: folds 
+Uncalled bet ($2.25) returned to flavius_90
+flavius_90 collected $7.85 from pot
+flavius_90: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.40 
+Board [8c 4d 4c Qh 7d]
+Seat 1: Ocean_13_777 (button) folded before Flop (didn't bet)
+Seat 2: miqu11 (small blind) folded on the Flop
+Seat 3: flavius_90 (big blind) collected ($7.85)
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: bet_r_getout folded on the River
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dennis_suri folded before Flop (didn't bet)
+Seat 8: hsGabriel folded on the Flop
+Seat 9: surenoheaven folded on the Flop
+
+
+
+PokerStars Game #20099969860:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:19:04 ET
+Table 'Appenzella II' 9-max Seat #2 is the button
+Seat 1: Ocean_13_777 ($60.60 in chips) 
+Seat 2: miqu11 ($4.50 in chips) 
+Seat 3: flavius_90 ($35.15 in chips) 
+Seat 4: trzcinek ($5 in chips) 
+Seat 5: bet_r_getout ($8.30 in chips) 
+Seat 6: Alameda22 ($43.20 in chips) 
+Seat 7: dennis_suri ($29.55 in chips) 
+Seat 8: hsGabriel ($30.35 in chips) 
+Seat 9: surenoheaven ($26.75 in chips) 
+flavius_90: posts small blind $0.10
+trzcinek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 8d]
+bet_r_getout: folds 
+bet_r_getout is sitting out
+bet_r_getout leaves the table
+Alameda22: folds 
+dennis_suri: calls $0.25
+LastNLine joins the table at seat #5 
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+miqu11: raises $1 to $1.25
+flavius_90: folds 
+trzcinek: folds 
+dennis_suri: calls $1
+*** FLOP *** [2s Js 9h]
+dennis_suri: bets $1
+miqu11: raises $2 to $3
+dennis_suri: raises $2 to $5
+miqu11: calls $0.25 and is all-in
+Uncalled bet ($1.75) returned to dennis_suri
+*** TURN *** [2s Js 9h] [Ks]
+*** RIVER *** [2s Js 9h Ks] [3d]
+*** SHOW DOWN ***
+dennis_suri: shows [8c Jd] (a pair of Jacks)
+miqu11: mucks hand 
+dennis_suri collected $8.90 from pot
+*** SUMMARY ***
+Total pot $9.35 | Rake $0.45 
+Board [2s Js 9h Ks 3d]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: miqu11 (button) mucked [Th Td]
+Seat 3: flavius_90 (small blind) folded before Flop
+Seat 4: trzcinek (big blind) folded before Flop
+Seat 5: bet_r_getout folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dennis_suri showed [8c Jd] and won ($8.90) with a pair of Jacks
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100004268:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:20:32 ET
+Table 'Appenzella II' 9-max Seat #3 is the button
+Seat 1: Ocean_13_777 ($60.60 in chips) 
+Seat 3: flavius_90 ($35.05 in chips) 
+Seat 4: trzcinek ($4.75 in chips) 
+Seat 5: LastNLine ($20 in chips) 
+Seat 6: Alameda22 ($43.20 in chips) 
+Seat 7: dennis_suri ($33.95 in chips) 
+Seat 8: hsGabriel ($30.35 in chips) 
+Seat 9: surenoheaven ($26.75 in chips) 
+trzcinek: posts small blind $0.10
+LastNLine: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 3d]
+Alameda22: folds 
+dennis_suri: calls $0.25
+hsGabriel: folds 
+surenoheaven: raises $0.75 to $1
+Ocean_13_777: folds 
+flavius_90: folds 
+trzcinek: folds 
+LastNLine: calls $0.75
+dennis_suri: calls $0.75
+*** FLOP *** [Ts 2s 9d]
+LastNLine: checks 
+dennis_suri: checks 
+surenoheaven: bets $1
+miqu11 has returned
+LastNLine: folds 
+dennis_suri: calls $1
+*** TURN *** [Ts 2s 9d] [Qc]
+dennis_suri: checks 
+surenoheaven: bets $3.75
+dennis_suri: folds 
+Uncalled bet ($3.75) returned to surenoheaven
+surenoheaven collected $4.90 from pot
+surenoheaven: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.20 
+Board [Ts 2s 9d Qc]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 3: flavius_90 (button) folded before Flop (didn't bet)
+Seat 4: trzcinek (small blind) folded before Flop
+Seat 5: LastNLine (big blind) folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dennis_suri folded on the Turn
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven collected ($4.90)
+
+
+
+PokerStars Game #20100047857:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:22:24 ET
+Table 'Appenzella II' 9-max Seat #4 is the button
+Seat 1: Ocean_13_777 ($60.60 in chips) 
+Seat 2: miqu11 ($5 in chips) 
+Seat 3: flavius_90 ($35.05 in chips) 
+Seat 4: trzcinek ($4.65 in chips) 
+Seat 5: LastNLine ($19 in chips) 
+Seat 6: Alameda22 ($43.20 in chips) 
+Seat 7: dennis_suri ($31.95 in chips) 
+Seat 8: hsGabriel ($30.35 in chips) 
+Seat 9: surenoheaven ($29.65 in chips) 
+LastNLine: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 6d]
+dennis_suri: calls $0.25
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+miqu11: folds 
+flavius_90: folds 
+trzcinek: folds 
+LastNLine: folds 
+Alameda22: checks 
+*** FLOP *** [4s 2s 9h]
+Alameda22: checks 
+dennis_suri: checks 
+*** TURN *** [4s 2s 9h] [Kh]
+Alameda22: checks 
+dennis_suri: checks 
+*** RIVER *** [4s 2s 9h Kh] [Js]
+Alameda22: checks 
+dennis_suri: bets $1
+Alameda22: folds 
+Uncalled bet ($1) returned to dennis_suri
+dennis_suri collected $0.60 from pot
+dennis_suri: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4s 2s 9h Kh Js]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: miqu11 folded before Flop (didn't bet)
+Seat 3: flavius_90 folded before Flop (didn't bet)
+Seat 4: trzcinek (button) folded before Flop (didn't bet)
+Seat 5: LastNLine (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded on the River
+Seat 7: dennis_suri collected ($0.60)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100082190:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:23:53 ET
+Table 'Appenzella II' 9-max Seat #5 is the button
+Seat 1: Ocean_13_777 ($60.60 in chips) 
+Seat 2: miqu11 ($5 in chips) 
+Seat 3: flavius_90 ($35.05 in chips) 
+Seat 4: trzcinek ($4.65 in chips) 
+Seat 5: LastNLine ($18.90 in chips) 
+Seat 6: Alameda22 ($42.95 in chips) 
+Seat 7: dennis_suri ($32.30 in chips) 
+Seat 8: hsGabriel ($30.35 in chips) 
+Seat 9: surenoheaven ($29.65 in chips) 
+Alameda22: posts small blind $0.10
+dennis_suri: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Qd]
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+miqu11: folds 
+flavius_90: folds 
+trzcinek: raises $0.75 to $1
+LastNLine: folds 
+Alameda22: raises $2 to $3
+dennis_suri: folds 
+trzcinek: raises $1.65 to $4.65 and is all-in
+Alameda22: calls $1.65
+*** FLOP *** [7h 8s 4h]
+*** TURN *** [7h 8s 4h] [5d]
+*** RIVER *** [7h 8s 4h 5d] [6s]
+*** SHOW DOWN ***
+Alameda22: shows [Qh Qd] (a straight, Four to Eight)
+trzcinek: shows [Ah Jd] (a straight, Four to Eight)
+Alameda22 collected $4.55 from pot
+trzcinek collected $4.55 from pot
+*** SUMMARY ***
+Total pot $9.55 | Rake $0.45 
+Board [7h 8s 4h 5d 6s]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: miqu11 folded before Flop (didn't bet)
+Seat 3: flavius_90 folded before Flop (didn't bet)
+Seat 4: trzcinek showed [Ah Jd] and won ($4.55) with a straight, Four to Eight
+Seat 5: LastNLine (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) showed [Qh Qd] and won ($4.55) with a straight, Four to Eight
+Seat 7: dennis_suri (big blind) folded before Flop
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100108397:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:25:00 ET
+Table 'Appenzella II' 9-max Seat #6 is the button
+Seat 1: Ocean_13_777 ($60.60 in chips) 
+Seat 2: miqu11 ($5 in chips) 
+Seat 3: flavius_90 ($35.05 in chips) 
+Seat 4: trzcinek ($4.55 in chips) 
+Seat 5: LastNLine ($18.90 in chips) 
+Seat 6: Alameda22 ($42.85 in chips) 
+Seat 7: dennis_suri ($32.05 in chips) 
+Seat 8: hsGabriel ($30.35 in chips) 
+Seat 9: surenoheaven ($29.65 in chips) 
+dennis_suri: posts small blind $0.10
+hsGabriel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Kh]
+surenoheaven: raises $0.50 to $0.75
+Ocean_13_777: folds 
+miqu11: folds 
+flavius_90: calls $0.75
+trzcinek: folds 
+LastNLine: folds 
+Alameda22: folds 
+dennis_suri: calls $0.65
+hsGabriel: folds 
+*** FLOP *** [4c Qd 4h]
+dennis_suri: checks 
+surenoheaven: checks 
+flavius_90: bets $1.75
+dennis_suri: calls $1.75
+surenoheaven: folds 
+*** TURN *** [4c Qd 4h] [9d]
+dennis_suri: checks 
+flavius_90: bets $5.50
+dennis_suri: raises $24.05 to $29.55 and is all-in
+flavius_90: folds 
+Uncalled bet ($24.05) returned to dennis_suri
+dennis_suri collected $16.20 from pot
+dennis_suri: doesn't show hand 
+*** SUMMARY ***
+Total pot $17 | Rake $0.80 
+Board [4c Qd 4h 9d]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: miqu11 folded before Flop (didn't bet)
+Seat 3: flavius_90 folded on the Turn
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: dennis_suri (small blind) collected ($16.20)
+Seat 8: hsGabriel (big blind) folded before Flop
+Seat 9: surenoheaven folded on the Flop
+
+
+
+PokerStars Game #20100154579:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:27:00 ET
+Table 'Appenzella II' 9-max Seat #7 is the button
+Seat 1: Ocean_13_777 ($60.60 in chips) 
+Seat 2: miqu11 ($5 in chips) 
+Seat 3: flavius_90 ($27.05 in chips) 
+Seat 4: trzcinek ($4.55 in chips) 
+Seat 5: LastNLine ($18.90 in chips) 
+Seat 6: Alameda22 ($42.85 in chips) 
+Seat 7: dennis_suri ($40.25 in chips) 
+Seat 8: hsGabriel ($30.10 in chips) 
+Seat 9: surenoheaven ($28.90 in chips) 
+hsGabriel: posts small blind $0.10
+surenoheaven: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 6d]
+Ocean_13_777: folds 
+miqu11: folds 
+flavius_90: calls $0.25
+trzcinek: raises $0.75 to $1
+LastNLine: folds 
+Alameda22: folds 
+dennis_suri: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+flavius_90: calls $0.75
+*** FLOP *** [Qs 3s 9d]
+flavius_90: bets $2
+trzcinek: raises $1.55 to $3.55 and is all-in
+flavius_90: calls $1.55
+*** TURN *** [Qs 3s 9d] [2s]
+*** RIVER *** [Qs 3s 9d 2s] [Qd]
+*** SHOW DOWN ***
+flavius_90: shows [Ah 4h] (a pair of Queens)
+trzcinek: shows [Jd Jc] (two pair, Queens and Jacks)
+trzcinek collected $9 from pot
+*** SUMMARY ***
+Total pot $9.45 | Rake $0.45 
+Board [Qs 3s 9d 2s Qd]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: miqu11 folded before Flop (didn't bet)
+Seat 3: flavius_90 showed [Ah 4h] and lost with a pair of Queens
+Seat 4: trzcinek showed [Jd Jc] and won ($9) with two pair, Queens and Jacks
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dennis_suri (button) folded before Flop (didn't bet)
+Seat 8: hsGabriel (small blind) folded before Flop
+Seat 9: surenoheaven (big blind) folded before Flop
+
+
+
+PokerStars Game #20100178729:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:28:03 ET
+Table 'Appenzella II' 9-max Seat #8 is the button
+Seat 1: Ocean_13_777 ($60.60 in chips) 
+Seat 2: miqu11 ($5 in chips) 
+Seat 3: flavius_90 ($22.50 in chips) 
+Seat 4: trzcinek ($9 in chips) 
+Seat 5: LastNLine ($18.90 in chips) 
+Seat 6: Alameda22 ($42.85 in chips) 
+Seat 7: dennis_suri ($40.25 in chips) 
+Seat 8: hsGabriel ($30 in chips) 
+Seat 9: surenoheaven ($28.65 in chips) 
+surenoheaven: posts small blind $0.10
+Ocean_13_777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Ks]
+miqu11: folds 
+flavius_90: calls $0.25
+trzcinek: folds 
+LastNLine: folds 
+Alameda22: raises $1 to $1.25
+dennis_suri: calls $1.25
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+flavius_90: calls $1
+*** FLOP *** [6c 2s 4c]
+flavius_90: bets $3
+Alameda22: raises $6 to $9
+dennis_suri: folds 
+flavius_90: calls $6
+*** TURN *** [6c 2s 4c] [Js]
+flavius_90: checks 
+Alameda22: bets $13
+flavius_90: folds 
+Uncalled bet ($13) returned to Alameda22
+Alameda22 collected $21.05 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.10 | Rake $1.05 
+Board [6c 2s 4c Js]
+Seat 1: Ocean_13_777 (big blind) folded before Flop
+Seat 2: miqu11 folded before Flop (didn't bet)
+Seat 3: flavius_90 folded on the Turn
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 collected ($21.05)
+Seat 7: dennis_suri folded on the Flop
+Seat 8: hsGabriel (button) folded before Flop (didn't bet)
+Seat 9: surenoheaven (small blind) folded before Flop
+
+
+
+PokerStars Game #20100216331:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:29:41 ET
+Table 'Appenzella II' 9-max Seat #9 is the button
+Seat 1: Ocean_13_777 ($60.35 in chips) 
+Seat 2: miqu11 ($5 in chips) 
+Seat 3: flavius_90 ($12.25 in chips) 
+Seat 4: trzcinek ($9 in chips) 
+Seat 5: LastNLine ($18.90 in chips) 
+Seat 6: Alameda22 ($53.65 in chips) 
+Seat 7: dennis_suri ($39 in chips) 
+Seat 8: hsGabriel ($30 in chips) 
+Seat 9: surenoheaven ($28.55 in chips) 
+Ocean_13_777: posts small blind $0.10
+miqu11: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Jh]
+flavius_90 is disconnected 
+flavius_90 has timed out while disconnected
+flavius_90: folds 
+flavius_90 is sitting out
+trzcinek: folds 
+LastNLine: folds 
+Alameda22: folds 
+dennis_suri: calls $0.25
+hsGabriel: folds 
+surenoheaven: calls $0.25
+Ocean_13_777: folds 
+miqu11: checks 
+*** FLOP *** [9h 6h Qc]
+miqu11: checks 
+dennis_suri: checks 
+surenoheaven: checks 
+*** TURN *** [9h 6h Qc] [6s]
+miqu11: checks 
+dennis_suri: checks 
+surenoheaven: checks 
+*** RIVER *** [9h 6h Qc 6s] [5h]
+miqu11: bets $0.50
+dennis_suri: folds 
+surenoheaven: folds 
+Uncalled bet ($0.50) returned to miqu11
+miqu11 collected $0.85 from pot
+miqu11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [9h 6h Qc 6s 5h]
+Seat 1: Ocean_13_777 (small blind) folded before Flop
+Seat 2: miqu11 (big blind) collected ($0.85)
+Seat 3: flavius_90 folded before Flop (didn't bet)
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dennis_suri folded on the River
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven (button) folded on the River
+
+
+
+PokerStars Game #20100269619:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:32:01 ET
+Table 'Appenzella II' 9-max Seat #1 is the button
+Seat 1: Ocean_13_777 ($60.25 in chips) 
+Seat 2: miqu11 ($5.60 in chips) 
+Seat 4: trzcinek ($9 in chips) 
+Seat 5: LastNLine ($18.90 in chips) 
+Seat 6: Alameda22 ($53.65 in chips) 
+Seat 7: dennis_suri ($38.75 in chips) 
+Seat 8: hsGabriel ($30 in chips) 
+Seat 9: surenoheaven ($28.30 in chips) 
+miqu11: posts small blind $0.10
+trzcinek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 6d]
+LastNLine: folds 
+Alameda22: folds 
+dennis_suri: calls $0.25
+hsGabriel: raises $0.25 to $0.50
+surenoheaven: calls $0.50
+Ocean_13_777: folds 
+miqu11: raises $1.50 to $2
+trzcinek: folds 
+dennis_suri: calls $1.75
+hsGabriel: folds 
+surenoheaven: folds 
+*** FLOP *** [8h Jh Ah]
+miqu11: bets $1.50
+dennis_suri: folds 
+Uncalled bet ($1.50) returned to miqu11
+miqu11 collected $5 from pot
+miqu11: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [8h Jh Ah]
+Seat 1: Ocean_13_777 (button) folded before Flop (didn't bet)
+Seat 2: miqu11 (small blind) collected ($5)
+Seat 4: trzcinek (big blind) folded before Flop
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dennis_suri folded on the Flop
+Seat 8: hsGabriel folded before Flop
+Seat 9: surenoheaven folded before Flop
+
+
+
+PokerStars Game #20100297254:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:33:15 ET
+Table 'Appenzella II' 9-max Seat #2 is the button
+Seat 1: Ocean_13_777 ($60.25 in chips) 
+Seat 2: miqu11 ($8.60 in chips) 
+Seat 4: trzcinek ($8.75 in chips) 
+Seat 5: LastNLine ($18.90 in chips) 
+Seat 6: Alameda22 ($53.65 in chips) 
+Seat 7: dennis_suri ($36.75 in chips) 
+Seat 8: hsGabriel ($29.50 in chips) 
+Seat 9: surenoheaven ($27.80 in chips) 
+trzcinek: posts small blind $0.10
+LastNLine: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Js]
+Alameda22: folds 
+dennis_suri: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: raises $0.75 to $1
+miqu11: folds 
+trzcinek: folds 
+LastNLine: folds 
+Uncalled bet ($0.75) returned to Ocean_13_777
+Ocean_13_777 collected $0.60 from pot
+Ocean_13_777: doesn't show hand 
+flavius_90 is connected 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Ocean_13_777 collected ($0.60)
+Seat 2: miqu11 (button) folded before Flop (didn't bet)
+Seat 4: trzcinek (small blind) folded before Flop
+Seat 5: LastNLine (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dennis_suri folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100309998:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:33:49 ET
+Table 'Appenzella II' 9-max Seat #4 is the button
+Seat 1: Ocean_13_777 ($60.60 in chips) 
+Seat 2: miqu11 ($8.60 in chips) 
+Seat 4: trzcinek ($8.65 in chips) 
+Seat 5: LastNLine ($18.65 in chips) 
+Seat 6: Alameda22 ($53.65 in chips) 
+Seat 7: dennis_suri ($36.75 in chips) 
+Seat 8: hsGabriel ($29.50 in chips) 
+Seat 9: surenoheaven ($27.80 in chips) 
+LastNLine: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Ah]
+dennis_suri: calls $0.25
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+miqu11: folds 
+trzcinek: folds 
+LastNLine: folds 
+flavius_90 has returned
+Alameda22: checks 
+*** FLOP *** [Qh 3d 6s]
+Alameda22: checks 
+dennis_suri: checks 
+*** TURN *** [Qh 3d 6s] [6d]
+Alameda22: checks 
+dennis_suri: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to dennis_suri
+dennis_suri collected $0.60 from pot
+dennis_suri: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qh 3d 6s 6d]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: miqu11 folded before Flop (didn't bet)
+Seat 4: trzcinek (button) folded before Flop (didn't bet)
+Seat 5: LastNLine (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded on the Turn
+Seat 7: dennis_suri collected ($0.60)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100346305:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:35:27 ET
+Table 'Appenzella II' 9-max Seat #5 is the button
+Seat 1: Ocean_13_777 ($60.60 in chips) 
+Seat 2: miqu11 ($8.60 in chips) 
+Seat 3: flavius_90 ($12.25 in chips) 
+Seat 4: trzcinek ($8.65 in chips) 
+Seat 5: LastNLine ($18.55 in chips) 
+Seat 6: Alameda22 ($53.40 in chips) 
+Seat 7: dennis_suri ($37.10 in chips) 
+Seat 8: hsGabriel ($29.50 in chips) 
+Seat 9: surenoheaven ($27.80 in chips) 
+Alameda22: posts small blind $0.10
+dennis_suri: posts big blind $0.25
+flavius_90: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 3h]
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+miqu11: folds 
+flavius_90: raises $0.50 to $0.75
+trzcinek: folds 
+LastNLine: folds 
+Alameda22: folds 
+dennis_suri: folds 
+Uncalled bet ($0.50) returned to flavius_90
+flavius_90 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: miqu11 folded before Flop (didn't bet)
+Seat 3: flavius_90 collected ($0.70)
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: LastNLine (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: dennis_suri (big blind) folded before Flop
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100364794:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:36:17 ET
+Table 'Appenzella II' 9-max Seat #6 is the button
+Seat 1: Ocean_13_777 ($60.60 in chips) 
+Seat 2: miqu11 ($8.60 in chips) 
+Seat 3: flavius_90 ($12.60 in chips) 
+Seat 4: trzcinek ($8.65 in chips) 
+Seat 5: LastNLine ($18.55 in chips) 
+Seat 6: Alameda22 ($53.30 in chips) 
+Seat 7: dennis_suri ($36.85 in chips) 
+Seat 8: hsGabriel ($29.50 in chips) 
+Seat 9: surenoheaven ($27.80 in chips) 
+dennis_suri: posts small blind $0.10
+hsGabriel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 2c]
+surenoheaven: folds 
+Ocean_13_777: folds 
+miqu11: folds 
+flavius_90: calls $0.25
+trzcinek: folds 
+LastNLine: calls $0.25
+Alameda22: folds 
+dennis_suri: calls $0.15
+hsGabriel: checks 
+*** FLOP *** [Qh 9h Th]
+dennis_suri: bets $0.75
+hsGabriel: folds 
+flavius_90: folds 
+LastNLine: folds 
+Uncalled bet ($0.75) returned to dennis_suri
+dennis_suri collected $0.95 from pot
+dennis_suri: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Qh 9h Th]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: miqu11 folded before Flop (didn't bet)
+Seat 3: flavius_90 folded on the Flop
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: LastNLine folded on the Flop
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: dennis_suri (small blind) collected ($0.95)
+Seat 8: hsGabriel (big blind) folded on the Flop
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100386496:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:37:15 ET
+Table 'Appenzella II' 9-max Seat #7 is the button
+Seat 1: Ocean_13_777 ($60.60 in chips) 
+Seat 2: miqu11 ($8.60 in chips) 
+Seat 3: flavius_90 ($12.35 in chips) 
+Seat 4: trzcinek ($8.65 in chips) 
+Seat 5: LastNLine ($18.30 in chips) 
+Seat 6: Alameda22 ($53.30 in chips) 
+Seat 7: dennis_suri ($37.55 in chips) 
+Seat 8: hsGabriel ($29.25 in chips) 
+Seat 9: surenoheaven ($27.80 in chips) 
+hsGabriel: posts small blind $0.10
+surenoheaven: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 5c]
+Ocean_13_777: folds 
+miqu11: folds 
+flavius_90: folds 
+trzcinek: folds 
+LastNLine: folds 
+Alameda22: folds 
+dennis_suri: calls $0.25
+hsGabriel: calls $0.15
+surenoheaven: checks 
+*** FLOP *** [Qc 8c Kd]
+hsGabriel: checks 
+surenoheaven: checks 
+dennis_suri: checks 
+*** TURN *** [Qc 8c Kd] [8s]
+hsGabriel: checks 
+surenoheaven: bets $0.50
+dennis_suri: folds 
+hsGabriel: folds 
+Uncalled bet ($0.50) returned to surenoheaven
+surenoheaven collected $0.75 from pot
+surenoheaven: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Qc 8c Kd 8s]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: miqu11 folded before Flop (didn't bet)
+Seat 3: flavius_90 folded before Flop (didn't bet)
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dennis_suri (button) folded on the Turn
+Seat 8: hsGabriel (small blind) folded on the Turn
+Seat 9: surenoheaven (big blind) collected ($0.75)
+
+
+
+PokerStars Game #20100429368:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:39:10 ET
+Table 'Appenzella II' 9-max Seat #8 is the button
+Seat 1: Ocean_13_777 ($60.60 in chips) 
+Seat 2: miqu11 ($8.60 in chips) 
+Seat 3: flavius_90 ($12.35 in chips) 
+Seat 4: trzcinek ($8.65 in chips) 
+Seat 5: LastNLine ($18.30 in chips) 
+Seat 6: Alameda22 ($53.30 in chips) 
+Seat 7: dennis_suri ($37.30 in chips) 
+Seat 8: hsGabriel ($29 in chips) 
+Seat 9: surenoheaven ($28.30 in chips) 
+surenoheaven: posts small blind $0.10
+Ocean_13_777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 2d]
+miqu11: folds 
+miqu11 leaves the table
+LyolikBY joins the table at seat #2 
+flavius_90: calls $0.25
+trzcinek: folds 
+LastNLine: folds 
+Alameda22: folds 
+dennis_suri: calls $0.25
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: checks 
+*** FLOP *** [9c 6c 6d]
+Ocean_13_777: bets $0.75
+flavius_90: folds 
+dennis_suri: folds 
+Uncalled bet ($0.75) returned to Ocean_13_777
+Ocean_13_777 collected $0.85 from pot
+Ocean_13_777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [9c 6c 6d]
+Seat 1: Ocean_13_777 (big blind) collected ($0.85)
+Seat 2: miqu11 folded before Flop (didn't bet)
+Seat 3: flavius_90 folded on the Flop
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dennis_suri folded on the Flop
+Seat 8: hsGabriel (button) folded before Flop (didn't bet)
+Seat 9: surenoheaven (small blind) folded before Flop
+
+
+
+PokerStars Game #20100456419:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:40:23 ET
+Table 'Appenzella II' 9-max Seat #9 is the button
+Seat 1: Ocean_13_777 ($61.20 in chips) 
+Seat 2: LyolikBY ($5 in chips) 
+Seat 3: flavius_90 ($12.10 in chips) 
+Seat 4: trzcinek ($8.65 in chips) 
+Seat 5: LastNLine ($18.30 in chips) 
+Seat 6: Alameda22 ($53.30 in chips) 
+Seat 7: dennis_suri ($37.05 in chips) 
+Seat 8: hsGabriel ($29 in chips) 
+Seat 9: surenoheaven ($28.20 in chips) 
+Ocean_13_777: posts small blind $0.10
+LyolikBY: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 7s]
+flavius_90: folds 
+trzcinek: folds 
+LastNLine: folds 
+Alameda22: folds 
+dennis_suri: calls $0.25
+hsGabriel: raises $0.50 to $0.75
+surenoheaven: calls $0.75
+Ocean_13_777: folds 
+LyolikBY: folds 
+dennis_suri: calls $0.50
+*** FLOP *** [8s Jh Th]
+dennis_suri: checks 
+hsGabriel: bets $1
+surenoheaven: folds 
+dennis_suri: calls $1
+*** TURN *** [8s Jh Th] [Ts]
+dennis_suri: checks 
+hsGabriel: bets $1
+dennis_suri: calls $1
+*** RIVER *** [8s Jh Th Ts] [Td]
+dennis_suri: bets $1
+hsGabriel: calls $1
+*** SHOW DOWN ***
+dennis_suri: shows [8h Qs] (a full house, Tens full of Eights)
+hsGabriel: shows [Ah Js] (a full house, Tens full of Jacks)
+trzcinek leaves the table
+hsGabriel collected $8.20 from pot
+*** SUMMARY ***
+Total pot $8.60 | Rake $0.40 
+Board [8s Jh Th Ts Td]
+Seat 1: Ocean_13_777 (small blind) folded before Flop
+Seat 2: LyolikBY (big blind) folded before Flop
+Seat 3: flavius_90 folded before Flop (didn't bet)
+Seat 4: trzcinek folded before Flop (didn't bet)
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dennis_suri showed [8h Qs] and lost with a full house, Tens full of Eights
+Seat 8: hsGabriel showed [Ah Js] and won ($8.20) with a full house, Tens full of Jacks
+Seat 9: surenoheaven (button) folded on the Flop
+
+
+
+PokerStars Game #20100504926:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:42:34 ET
+Table 'Appenzella II' 9-max Seat #1 is the button
+Seat 1: Ocean_13_777 ($61.10 in chips) 
+Seat 2: LyolikBY ($4.75 in chips) 
+Seat 3: flavius_90 ($12.10 in chips) 
+Seat 5: LastNLine ($18.30 in chips) 
+Seat 6: Alameda22 ($53.30 in chips) 
+Seat 7: dennis_suri ($33.30 in chips) 
+Seat 8: hsGabriel ($33.45 in chips) 
+Seat 9: surenoheaven ($27.45 in chips) 
+LyolikBY: posts small blind $0.10
+brain31 joins the table at seat #4 
+flavius_90: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Jh]
+LastNLine: folds 
+Alameda22: folds 
+dennis_suri: calls $0.25
+hsGabriel: folds 
+surenoheaven: calls $0.25
+Ocean_13_777: calls $0.25
+LyolikBY: folds 
+flavius_90: checks 
+*** FLOP *** [2s Qs 7h]
+flavius_90: checks 
+dennis_suri: checks 
+surenoheaven: checks 
+Ocean_13_777: checks 
+*** TURN *** [2s Qs 7h] [Ac]
+flavius_90: checks 
+dennis_suri: checks 
+surenoheaven: checks 
+Ocean_13_777: checks 
+*** RIVER *** [2s Qs 7h Ac] [9s]
+flavius_90: bets $1
+dennis_suri: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+Uncalled bet ($1) returned to flavius_90
+flavius_90 collected $1.05 from pot
+flavius_90: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [2s Qs 7h Ac 9s]
+Seat 1: Ocean_13_777 (button) folded on the River
+Seat 2: LyolikBY (small blind) folded before Flop
+Seat 3: flavius_90 (big blind) collected ($1.05)
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dennis_suri folded on the River
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded on the River
+
+
+
+PokerStars Game #20100556108:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:44:52 ET
+Table 'Appenzella II' 9-max Seat #2 is the button
+Seat 1: Ocean_13_777 ($60.85 in chips) 
+Seat 2: LyolikBY ($4.65 in chips) 
+Seat 3: flavius_90 ($12.90 in chips) 
+Seat 5: LastNLine ($18.30 in chips) 
+Seat 6: Alameda22 ($53.30 in chips) 
+Seat 7: dennis_suri ($33.05 in chips) 
+Seat 8: hsGabriel ($33.45 in chips) 
+Seat 9: surenoheaven ($27.20 in chips) 
+flavius_90: posts small blind $0.10
+brain31: is sitting out 
+LastNLine: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Jc]
+Alameda22: folds 
+dennis_suri: calls $0.25
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+brain31 leaves the table
+LyolikBY: folds 
+flavius_90: calls $0.15
+LastNLine: checks 
+*** FLOP *** [5h 3h Kd]
+flavius_90: checks 
+LastNLine: checks 
+dennis_suri: checks 
+*** TURN *** [5h 3h Kd] [6c]
+flavius_90: bets $0.75
+LastNLine: folds 
+dennis_suri: calls $0.75
+*** RIVER *** [5h 3h Kd 6c] [6d]
+flavius_90: checks 
+dennis_suri: bets $1
+Musa_Cavus joins the table at seat #4 
+flavius_90: calls $1
+*** SHOW DOWN ***
+dennis_suri: shows [5d Kc] (two pair, Kings and Sixes)
+flavius_90: shows [Jd Ks] (two pair, Kings and Sixes - Jack kicker)
+flavius_90 collected $4.05 from pot
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [5h 3h Kd 6c 6d]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: LyolikBY (button) folded before Flop (didn't bet)
+Seat 3: flavius_90 (small blind) showed [Jd Ks] and won ($4.05) with two pair, Kings and Sixes
+Seat 5: LastNLine (big blind) folded on the Turn
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dennis_suri showed [5d Kc] and lost with two pair, Kings and Sixes
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100591482:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:46:29 ET
+Table 'Appenzella II' 9-max Seat #3 is the button
+Seat 1: Ocean_13_777 ($60.85 in chips) 
+Seat 2: LyolikBY ($4.65 in chips) 
+Seat 3: flavius_90 ($14.95 in chips) 
+Seat 5: LastNLine ($18.05 in chips) 
+Seat 6: Alameda22 ($53.30 in chips) 
+Seat 7: dennis_suri ($31.05 in chips) 
+Seat 8: hsGabriel ($33.45 in chips) 
+Seat 9: surenoheaven ($27.20 in chips) 
+Musa_Cavus will be allowed to play after the button
+LastNLine: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 5d]
+dennis_suri: folds 
+dennis_suri leaves the table
+hsGabriel: raises $0.50 to $0.75
+surenoheaven: folds 
+Ocean_13_777: raises $1.50 to $2.25
+LyolikBY: folds 
+flavius_90: folds 
+LastNLine: folds 
+Alameda22: folds 
+hsGabriel: calls $1.50
+*** FLOP *** [Jc 7c 8c]
+hsGabriel: checks 
+Ocean_13_777: bets $3.50
+hsGabriel: folds 
+Uncalled bet ($3.50) returned to Ocean_13_777
+Ocean_13_777 collected $4.65 from pot
+Ocean_13_777: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [Jc 7c 8c]
+Seat 1: Ocean_13_777 collected ($4.65)
+Seat 2: LyolikBY folded before Flop (didn't bet)
+Seat 3: flavius_90 (button) folded before Flop (didn't bet)
+Seat 5: LastNLine (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: dennis_suri folded before Flop (didn't bet)
+Seat 8: hsGabriel folded on the Flop
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100609611:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:47:18 ET
+Table 'Appenzella II' 9-max Seat #5 is the button
+Seat 1: Ocean_13_777 ($63.25 in chips) 
+Seat 2: LyolikBY ($4.65 in chips) 
+Seat 3: flavius_90 ($14.95 in chips) 
+Seat 4: Musa_Cavus ($5 in chips) 
+Seat 5: LastNLine ($17.95 in chips) 
+Seat 6: Alameda22 ($53.05 in chips) 
+Seat 8: hsGabriel ($31.20 in chips) 
+Seat 9: surenoheaven ($27.20 in chips) 
+Alameda22: posts small blind $0.10
+hsGabriel: posts big blind $0.25
+Musa_Cavus: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 3s]
+surenoheaven: folds 
+jstrev222 joins the table at seat #7 
+Ocean_13_777: folds 
+LyolikBY: folds 
+flavius_90: folds 
+Musa_Cavus: checks 
+LastNLine: folds 
+Alameda22: folds 
+hsGabriel: checks 
+*** FLOP *** [As Jh 8s]
+hsGabriel: checks 
+Musa_Cavus: checks 
+*** TURN *** [As Jh 8s] [Tc]
+hsGabriel: checks 
+Musa_Cavus: bets $0.25
+hsGabriel: folds 
+Uncalled bet ($0.25) returned to Musa_Cavus
+Musa_Cavus collected $0.60 from pot
+Musa_Cavus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [As Jh 8s Tc]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: LyolikBY folded before Flop (didn't bet)
+Seat 3: flavius_90 folded before Flop (didn't bet)
+Seat 4: Musa_Cavus collected ($0.60)
+Seat 5: LastNLine (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 8: hsGabriel (big blind) folded on the Turn
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100626651:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:48:04 ET
+Table 'Appenzella II' 9-max Seat #6 is the button
+Seat 1: Ocean_13_777 ($63.25 in chips) 
+Seat 2: LyolikBY ($4.65 in chips) 
+Seat 3: flavius_90 ($14.95 in chips) 
+Seat 4: Musa_Cavus ($5.35 in chips) 
+Seat 5: LastNLine ($17.95 in chips) 
+Seat 6: Alameda22 ($52.95 in chips) 
+Seat 8: hsGabriel ($30.95 in chips) 
+Seat 9: surenoheaven ($27.20 in chips) 
+jstrev222 will be allowed to play after the button
+hsGabriel: posts small blind $0.10
+surenoheaven: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Kc]
+Ocean_13_777: folds 
+LyolikBY: folds 
+flavius_90: calls $0.25
+Musa_Cavus: raises $0.25 to $0.50
+LastNLine: folds 
+Alameda22: folds 
+hsGabriel: calls $0.40
+surenoheaven: calls $0.25
+flavius_90: calls $0.25
+*** FLOP *** [7c 4c Jh]
+hsGabriel: bets $0.50
+surenoheaven: folds 
+flavius_90: calls $0.50
+Musa_Cavus: raises $1 to $1.50
+hsGabriel: folds 
+flavius_90: calls $1
+*** TURN *** [7c 4c Jh] [7d]
+flavius_90: checks 
+Musa_Cavus: bets $2
+flavius_90: calls $2
+*** RIVER *** [7c 4c Jh 7d] [2h]
+flavius_90: checks 
+Musa_Cavus: bets $1.35 and is all-in
+flavius_90: folds 
+Uncalled bet ($1.35) returned to Musa_Cavus
+Musa_Cavus collected $9.05 from pot
+Musa_Cavus: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.45 
+Board [7c 4c Jh 7d 2h]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: LyolikBY folded before Flop (didn't bet)
+Seat 3: flavius_90 folded on the River
+Seat 4: Musa_Cavus collected ($9.05)
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: hsGabriel (small blind) folded on the Flop
+Seat 9: surenoheaven (big blind) folded on the Flop
+
+
+
+PokerStars Game #20100666077:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:49:50 ET
+Table 'Appenzella II' 9-max Seat #8 is the button
+Seat 1: Ocean_13_777 ($63.25 in chips) 
+Seat 2: LyolikBY ($4.65 in chips) 
+Seat 3: flavius_90 ($10.95 in chips) 
+Seat 4: Musa_Cavus ($10.40 in chips) 
+Seat 5: LastNLine ($17.95 in chips) 
+Seat 6: Alameda22 ($52.95 in chips) 
+Seat 8: hsGabriel ($29.95 in chips) 
+Seat 9: surenoheaven ($26.70 in chips) 
+surenoheaven: posts small blind $0.10
+Ocean_13_777: posts big blind $0.25
+jstrev222: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Kd]
+LyolikBY: folds 
+flavius_90: calls $0.25
+Musa_Cavus: folds 
+LastNLine: folds 
+Alameda22: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: checks 
+*** FLOP *** [3h 6h 3c]
+Ocean_13_777: bets $0.50
+flavius_90: calls $0.50
+*** TURN *** [3h 6h 3c] [Ad]
+Ocean_13_777: bets $0.75
+flavius_90: folds 
+Uncalled bet ($0.75) returned to Ocean_13_777
+Ocean_13_777 collected $1.55 from pot
+Ocean_13_777: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [3h 6h 3c Ad]
+Seat 1: Ocean_13_777 (big blind) collected ($1.55)
+Seat 2: LyolikBY folded before Flop (didn't bet)
+Seat 3: flavius_90 folded on the Turn
+Seat 4: Musa_Cavus folded before Flop (didn't bet)
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: hsGabriel (button) folded before Flop (didn't bet)
+Seat 9: surenoheaven (small blind) folded before Flop
+
+
+
+PokerStars Game #20100690457:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:50:56 ET
+Table 'Appenzella II' 9-max Seat #9 is the button
+Seat 1: Ocean_13_777 ($64.05 in chips) 
+Seat 2: LyolikBY ($4.65 in chips) 
+Seat 3: flavius_90 ($10.20 in chips) 
+Seat 4: Musa_Cavus ($10.40 in chips) 
+Seat 5: LastNLine ($17.95 in chips) 
+Seat 6: Alameda22 ($52.95 in chips) 
+Seat 8: hsGabriel ($29.95 in chips) 
+Seat 9: surenoheaven ($26.60 in chips) 
+Ocean_13_777: posts small blind $0.10
+LyolikBY: posts big blind $0.25
+jstrev222: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 3h]
+flavius_90: raises $0.75 to $1
+Musa_Cavus: folds 
+LastNLine: folds 
+Alameda22: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+LyolikBY: folds 
+Uncalled bet ($0.75) returned to flavius_90
+flavius_90 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Ocean_13_777 (small blind) folded before Flop
+Seat 2: LyolikBY (big blind) folded before Flop
+Seat 3: flavius_90 collected ($0.60)
+Seat 4: Musa_Cavus folded before Flop (didn't bet)
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100706070:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:51:39 ET
+Table 'Appenzella II' 9-max Seat #1 is the button
+Seat 1: Ocean_13_777 ($63.95 in chips) 
+Seat 2: LyolikBY ($4.40 in chips) 
+Seat 3: flavius_90 ($10.55 in chips) 
+Seat 4: Musa_Cavus ($10.40 in chips) 
+Seat 5: LastNLine ($17.95 in chips) 
+Seat 6: Alameda22 ($52.95 in chips) 
+Seat 8: hsGabriel ($29.95 in chips) 
+Seat 9: surenoheaven ($26.60 in chips) 
+LyolikBY: posts small blind $0.10
+flavius_90: posts big blind $0.25
+jstrev222: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 7h]
+Musa_Cavus: folds 
+LastNLine: raises $0.50 to $0.75
+Alameda22: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+LyolikBY: raises $1.50 to $2.25
+flavius_90: folds 
+LastNLine: calls $1.50
+*** FLOP *** [Jh 8c 7s]
+LyolikBY: bets $2.15 and is all-in
+LastNLine: calls $2.15
+*** TURN *** [Jh 8c 7s] [8h]
+*** RIVER *** [Jh 8c 7s 8h] [5s]
+*** SHOW DOWN ***
+LyolikBY: shows [Ad Ks] (a pair of Eights)
+LastNLine: mucks hand 
+LyolikBY collected $8.65 from pot
+*** SUMMARY ***
+Total pot $9.05 | Rake $0.40 
+Board [Jh 8c 7s 8h 5s]
+Seat 1: Ocean_13_777 (button) folded before Flop (didn't bet)
+Seat 2: LyolikBY (small blind) showed [Ad Ks] and won ($8.65) with a pair of Eights
+Seat 3: flavius_90 (big blind) folded before Flop
+Seat 4: Musa_Cavus folded before Flop (didn't bet)
+Seat 5: LastNLine mucked [Ah Tc]
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100743556:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:53:22 ET
+Table 'Appenzella II' 9-max Seat #2 is the button
+Seat 1: Ocean_13_777 ($63.95 in chips) 
+Seat 2: LyolikBY ($8.65 in chips) 
+Seat 3: flavius_90 ($10.30 in chips) 
+Seat 4: Musa_Cavus ($10.40 in chips) 
+Seat 5: LastNLine ($13.55 in chips) 
+Seat 6: Alameda22 ($52.95 in chips) 
+Seat 8: hsGabriel ($29.95 in chips) 
+Seat 9: surenoheaven ($26.60 in chips) 
+flavius_90: posts small blind $0.10
+Musa_Cavus: posts big blind $0.25
+jstrev222: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Ad]
+LastNLine: folds 
+Alameda22: folds 
+hsGabriel: folds 
+surenoheaven: raises $0.50 to $0.75
+Ocean_13_777: folds 
+LyolikBY: folds 
+flavius_90: folds 
+Musa_Cavus: calls $0.50
+*** FLOP *** [5h 4h Jh]
+Musa_Cavus: checks 
+surenoheaven: bets $2
+Musa_Cavus: folds 
+Uncalled bet ($2) returned to surenoheaven
+surenoheaven collected $1.55 from pot
+surenoheaven: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [5h 4h Jh]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: LyolikBY (button) folded before Flop (didn't bet)
+Seat 3: flavius_90 (small blind) folded before Flop
+Seat 4: Musa_Cavus (big blind) folded on the Flop
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven collected ($1.55)
+
+
+
+PokerStars Game #20100760142:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:54:07 ET
+Table 'Appenzella II' 9-max Seat #3 is the button
+Seat 1: Ocean_13_777 ($63.95 in chips) 
+Seat 2: LyolikBY ($8.65 in chips) 
+Seat 3: flavius_90 ($10.20 in chips) 
+Seat 4: Musa_Cavus ($9.65 in chips) 
+Seat 5: LastNLine ($13.55 in chips) 
+Seat 6: Alameda22 ($52.95 in chips) 
+Seat 8: hsGabriel ($29.95 in chips) 
+Seat 9: surenoheaven ($27.40 in chips) 
+Musa_Cavus: posts small blind $0.10
+LastNLine: posts big blind $0.25
+jstrev222: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 2s]
+Alameda22: folds 
+hsGabriel: calls $0.25
+surenoheaven: folds 
+Ocean_13_777: folds 
+LyolikBY: folds 
+flavius_90: raises $0.75 to $1
+Musa_Cavus: folds 
+LastNLine: folds 
+hsGabriel: calls $0.75
+*** FLOP *** [Th 7h Tc]
+hsGabriel: checks 
+flavius_90: bets $2.75
+hsGabriel: calls $2.75
+*** TURN *** [Th 7h Tc] [3h]
+hsGabriel: checks 
+flavius_90: bets $6.45 and is all-in
+hsGabriel: calls $6.45
+*** RIVER *** [Th 7h Tc 3h] [Kc]
+*** SHOW DOWN ***
+hsGabriel: shows [7d 7s] (a full house, Sevens full of Tens)
+flavius_90: shows [Kh 4h] (a flush, King high)
+hsGabriel collected $19.75 from pot
+flavius_90 leaves the table
+*** SUMMARY ***
+Total pot $20.75 | Rake $1 
+Board [Th 7h Tc 3h Kc]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: LyolikBY folded before Flop (didn't bet)
+Seat 3: flavius_90 (button) showed [Kh 4h] and lost with a flush, King high
+Seat 4: Musa_Cavus (small blind) folded before Flop
+Seat 5: LastNLine (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: hsGabriel showed [7d 7s] and won ($19.75) with a full house, Sevens full of Tens
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100790702:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:55:31 ET
+Table 'Appenzella II' 9-max Seat #4 is the button
+Seat 1: Ocean_13_777 ($63.95 in chips) 
+Seat 2: LyolikBY ($8.65 in chips) 
+Seat 4: Musa_Cavus ($9.55 in chips) 
+Seat 5: LastNLine ($13.30 in chips) 
+Seat 6: Alameda22 ($52.95 in chips) 
+Seat 8: hsGabriel ($39.50 in chips) 
+Seat 9: surenoheaven ($27.40 in chips) 
+LastNLine: posts small blind $0.10
+Alameda22: posts big blind $0.25
+jstrev222: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 2d]
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+LyolikBY: folds 
+Musa_Cavus: folds 
+LastNLine: calls $0.15
+Alameda22: checks 
+*** FLOP *** [9d Ts As]
+LastNLine: checks 
+Alameda22: checks 
+*** TURN *** [9d Ts As] [Jc]
+LastNLine: checks 
+Alameda22: checks 
+*** RIVER *** [9d Ts As Jc] [8d]
+LastNLine: checks 
+Alameda22: checks 
+*** SHOW DOWN ***
+LastNLine: shows [Tc 8c] (two pair, Tens and Eights)
+Alameda22: shows [7d 2d] (a straight, Seven to Jack)
+Alameda22 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [9d Ts As Jc 8d]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: LyolikBY folded before Flop (didn't bet)
+Seat 4: Musa_Cavus (button) folded before Flop (didn't bet)
+Seat 5: LastNLine (small blind) showed [Tc 8c] and lost with two pair, Tens and Eights
+Seat 6: Alameda22 (big blind) showed [7d 2d] and won ($0.50) with a straight, Seven to Jack
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100813891:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:56:35 ET
+Table 'Appenzella II' 9-max Seat #5 is the button
+Seat 1: Ocean_13_777 ($63.95 in chips) 
+Seat 2: LyolikBY ($8.65 in chips) 
+Seat 4: Musa_Cavus ($9.55 in chips) 
+Seat 5: LastNLine ($13.05 in chips) 
+Seat 6: Alameda22 ($53.20 in chips) 
+Seat 7: jstrev222 ($15 in chips) 
+Seat 8: hsGabriel ($39.50 in chips) 
+Seat 9: surenoheaven ($27.40 in chips) 
+Alameda22: posts small blind $0.10
+jstrev222: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 4c]
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+LyolikBY: folds 
+Musa_Cavus: folds 
+LastNLine: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to jstrev222
+jstrev222 collected $0.20 from pot
+jstrev222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: LyolikBY folded before Flop (didn't bet)
+Seat 4: Musa_Cavus folded before Flop (didn't bet)
+Seat 5: LastNLine (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: jstrev222 (big blind) collected ($0.20)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100824341:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:57:03 ET
+Table 'Appenzella II' 9-max Seat #6 is the button
+Seat 1: Ocean_13_777 ($63.95 in chips) 
+Seat 2: LyolikBY ($8.65 in chips) 
+Seat 4: Musa_Cavus ($9.55 in chips) 
+Seat 5: LastNLine ($13.05 in chips) 
+Seat 6: Alameda22 ($53.10 in chips) 
+Seat 7: jstrev222 ($15.10 in chips) 
+Seat 8: hsGabriel ($39.50 in chips) 
+Seat 9: surenoheaven ($27.40 in chips) 
+jstrev222: posts small blind $0.10
+hsGabriel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Ac]
+surenoheaven: raises $0.50 to $0.75
+Ocean_13_777: folds 
+LyolikBY: folds 
+Musa_Cavus: folds 
+LastNLine: folds 
+Alameda22: calls $0.75
+jstrev222: folds 
+hsGabriel: folds 
+*** FLOP *** [9c Ks 3c]
+surenoheaven: bets $1
+Alameda22: raises $2.50 to $3.50
+surenoheaven: folds 
+Uncalled bet ($2.50) returned to Alameda22
+Alameda22 collected $3.70 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [9c Ks 3c]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: LyolikBY folded before Flop (didn't bet)
+Seat 4: Musa_Cavus folded before Flop (didn't bet)
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) collected ($3.70)
+Seat 7: jstrev222 (small blind) folded before Flop
+Seat 8: hsGabriel (big blind) folded before Flop
+Seat 9: surenoheaven folded on the Flop
+
+
+
+PokerStars Game #20100858201:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:58:37 ET
+Table 'Appenzella II' 9-max Seat #7 is the button
+Seat 1: Ocean_13_777 ($63.95 in chips) 
+Seat 2: LyolikBY ($8.65 in chips) 
+Seat 4: Musa_Cavus ($9.55 in chips) 
+Seat 5: LastNLine ($13.05 in chips) 
+Seat 6: Alameda22 ($55.05 in chips) 
+Seat 7: jstrev222 ($15 in chips) 
+Seat 8: hsGabriel ($39.25 in chips) 
+Seat 9: surenoheaven ($25.65 in chips) 
+hsGabriel: posts small blind $0.10
+surenoheaven: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Qs]
+Ocean_13_777: folds 
+LyolikBY: folds 
+Musa_Cavus: calls $0.25
+LastNLine: folds 
+Alameda22: folds 
+jstrev222: folds 
+hsGabriel: calls $0.15
+surenoheaven: checks 
+*** FLOP *** [Jc Ad 7c]
+hsGabriel: checks 
+surenoheaven: checks 
+Musa_Cavus: bets $0.25
+hsGabriel: folds 
+surenoheaven: calls $0.25
+*** TURN *** [Jc Ad 7c] [9d]
+surenoheaven: checks 
+Musa_Cavus: bets $0.50
+surenoheaven: calls $0.50
+*** RIVER *** [Jc Ad 7c 9d] [Jd]
+surenoheaven: checks 
+Musa_Cavus: checks 
+*** SHOW DOWN ***
+surenoheaven: shows [5d Js] (three of a kind, Jacks)
+Musa_Cavus: mucks hand 
+surenoheaven collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Jc Ad 7c 9d Jd]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 2: LyolikBY folded before Flop (didn't bet)
+Seat 4: Musa_Cavus mucked [Ac Qd]
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jstrev222 (button) folded before Flop (didn't bet)
+Seat 8: hsGabriel (small blind) folded on the Flop
+Seat 9: surenoheaven (big blind) showed [5d Js] and won ($2.15) with three of a kind, Jacks
+
+
+
+PokerStars Game #20100890598:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:00:05 ET
+Table 'Appenzella II' 9-max Seat #8 is the button
+Seat 1: Ocean_13_777 ($63.95 in chips) 
+Seat 2: LyolikBY ($8.65 in chips) 
+Seat 4: Musa_Cavus ($8.55 in chips) 
+Seat 5: LastNLine ($13.05 in chips) 
+Seat 6: Alameda22 ($55.05 in chips) 
+Seat 7: jstrev222 ($15 in chips) 
+Seat 8: hsGabriel ($39 in chips) 
+Seat 9: surenoheaven ($26.80 in chips) 
+surenoheaven: posts small blind $0.10
+Ocean_13_777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 8h]
+LyolikBY: folds 
+Musa_Cavus: calls $0.25
+LastNLine: folds 
+Alameda22: folds 
+jstrev222: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: checks 
+*** FLOP *** [Js Kd Ad]
+Ocean_13_777: checks 
+Musa_Cavus: bets $0.25
+Ocean_13_777: folds 
+Uncalled bet ($0.25) returned to Musa_Cavus
+Musa_Cavus collected $0.60 from pot
+Musa_Cavus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Js Kd Ad]
+Seat 1: Ocean_13_777 (big blind) folded on the Flop
+Seat 2: LyolikBY folded before Flop (didn't bet)
+Seat 4: Musa_Cavus collected ($0.60)
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jstrev222 folded before Flop (didn't bet)
+Seat 8: hsGabriel (button) folded before Flop (didn't bet)
+Seat 9: surenoheaven (small blind) folded before Flop
+
+
+
+PokerStars Game #20100907725:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:00:53 ET
+Table 'Appenzella II' 9-max Seat #9 is the button
+Seat 1: Ocean_13_777 ($63.70 in chips) 
+Seat 4: Musa_Cavus ($8.90 in chips) 
+Seat 5: LastNLine ($13.05 in chips) 
+Seat 6: Alameda22 ($55.05 in chips) 
+Seat 7: jstrev222 ($15 in chips) 
+Seat 8: hsGabriel ($39 in chips) 
+Seat 9: surenoheaven ($26.70 in chips) 
+Ocean_13_777: posts small blind $0.10
+LyolikBY: is sitting out 
+LyolikBY leaves the table
+Musa_Cavus: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Ts]
+LastNLine: folds 
+Alameda22: folds 
+jstrev222: folds 
+hsGabriel: folds 
+surenoheaven: calls $0.25
+bassakk joins the table at seat #3 
+Ocean_13_777: folds 
+Musa_Cavus: checks 
+*** FLOP *** [Qh 9c 2h]
+Musa_Cavus: bets $0.25
+surenoheaven: calls $0.25
+*** TURN *** [Qh 9c 2h] [Qc]
+Musa_Cavus: bets $0.25
+surenoheaven: calls $0.25
+*** RIVER *** [Qh 9c 2h Qc] [Ad]
+Musa_Cavus: bets $0.25
+Tim-Taylor5 joins the table at seat #2 
+surenoheaven: calls $0.25
+*** SHOW DOWN ***
+Musa_Cavus: shows [2c As] (two pair, Aces and Queens)
+surenoheaven: mucks hand 
+Musa_Cavus collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Qh 9c 2h Qc Ad]
+Seat 1: Ocean_13_777 (small blind) folded before Flop
+Seat 4: Musa_Cavus (big blind) showed [2c As] and won ($2) with two pair, Aces and Queens
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jstrev222 folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven (button) mucked [6d 6h]
+
+
+
+PokerStars Game #20100935031:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:02:06 ET
+Table 'Appenzella II' 9-max Seat #1 is the button
+Seat 1: Ocean_13_777 ($63.60 in chips) 
+Seat 4: Musa_Cavus ($9.90 in chips) 
+Seat 5: LastNLine ($13.05 in chips) 
+Seat 6: Alameda22 ($55.05 in chips) 
+Seat 7: jstrev222 ($15 in chips) 
+Seat 8: hsGabriel ($39 in chips) 
+Seat 9: surenoheaven ($25.70 in chips) 
+Tim-Taylor5 will be allowed to play after the button
+bassakk will be allowed to play after the button
+Musa_Cavus: posts small blind $0.10
+LastNLine: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 6h]
+Tim-Taylor5 leaves the table
+Alameda22: folds 
+jstrev222: folds 
+hsGabriel: folds 
+surenoheaven: folds 
+Ocean_13_777: folds 
+Musa_Cavus: calls $0.15
+LastNLine: checks 
+*** FLOP *** [Ah 2s 8h]
+Musa_Cavus: bets $0.25
+LastNLine: folds 
+Uncalled bet ($0.25) returned to Musa_Cavus
+Musa_Cavus collected $0.50 from pot
+Musa_Cavus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Ah 2s 8h]
+Seat 1: Ocean_13_777 (button) folded before Flop (didn't bet)
+Seat 4: Musa_Cavus (small blind) collected ($0.50)
+Seat 5: LastNLine (big blind) folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jstrev222 folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100952676:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:02:53 ET
+Table 'Appenzella II' 9-max Seat #4 is the button
+Seat 1: Ocean_13_777 ($63.60 in chips) 
+Seat 3: bassakk ($5 in chips) 
+Seat 4: Musa_Cavus ($10.15 in chips) 
+Seat 5: LastNLine ($12.80 in chips) 
+Seat 6: Alameda22 ($55.05 in chips) 
+Seat 7: jstrev222 ($15 in chips) 
+Seat 8: hsGabriel ($39 in chips) 
+Seat 9: surenoheaven ($25.70 in chips) 
+LastNLine: posts small blind $0.10
+Alameda22: posts big blind $0.25
+bassakk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Ah]
+jstrev222: folds 
+hsGabriel: folds 
+surenoheaven: calls $0.25
+Ocean_13_777: raises $1.25 to $1.50
+bassakk: folds 
+Musa_Cavus: folds 
+LastNLine: folds 
+Alameda22: folds 
+surenoheaven: folds 
+Uncalled bet ($1.25) returned to Ocean_13_777
+Ocean_13_777 collected $1.10 from pot
+Ocean_13_777: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: Ocean_13_777 collected ($1.10)
+Seat 3: bassakk folded before Flop
+Seat 4: Musa_Cavus (button) folded before Flop (didn't bet)
+Seat 5: LastNLine (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: jstrev222 folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven folded before Flop
+
+
+
+PokerStars Game #20100968408:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:03:36 ET
+Table 'Appenzella II' 9-max Seat #5 is the button
+Seat 1: Ocean_13_777 ($64.45 in chips) 
+Seat 3: bassakk ($4.75 in chips) 
+Seat 4: Musa_Cavus ($10.15 in chips) 
+Seat 5: LastNLine ($12.70 in chips) 
+Seat 6: Alameda22 ($54.80 in chips) 
+Seat 7: jstrev222 ($15 in chips) 
+Seat 8: hsGabriel ($39 in chips) 
+Seat 9: surenoheaven ($25.45 in chips) 
+Alameda22: posts small blind $0.10
+jstrev222: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 5d]
+hsGabriel: folds 
+surenoheaven: raises $0.50 to $0.75
+Ocean_13_777: folds 
+bassakk: folds 
+Musa_Cavus: folds 
+LastNLine: folds 
+Alameda22: folds 
+jstrev222: folds 
+Uncalled bet ($0.50) returned to surenoheaven
+surenoheaven collected $0.60 from pot
+surenoheaven: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 3: bassakk folded before Flop (didn't bet)
+Seat 4: Musa_Cavus folded before Flop (didn't bet)
+Seat 5: LastNLine (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: jstrev222 (big blind) folded before Flop
+Seat 8: hsGabriel folded before Flop (didn't bet)
+Seat 9: surenoheaven collected ($0.60)
+
+
+
+PokerStars Game #20100983249:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:04:15 ET
+Table 'Appenzella II' 9-max Seat #6 is the button
+Seat 1: Ocean_13_777 ($64.45 in chips) 
+Seat 3: bassakk ($4.75 in chips) 
+Seat 4: Musa_Cavus ($10.15 in chips) 
+Seat 5: LastNLine ($12.70 in chips) 
+Seat 6: Alameda22 ($54.70 in chips) 
+Seat 7: jstrev222 ($14.75 in chips) 
+Seat 8: hsGabriel ($39 in chips) 
+Seat 9: surenoheaven ($25.80 in chips) 
+jstrev222: posts small blind $0.10
+hsGabriel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 8h]
+surenoheaven: folds 
+surenoheaven leaves the table
+Ocean_13_777: folds 
+bassakk: folds 
+Musa_Cavus: folds 
+LastNLine: folds 
+Alameda22: folds 
+jstrev222: folds 
+Uncalled bet ($0.15) returned to hsGabriel
+hsGabriel collected $0.20 from pot
+hsGabriel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 3: bassakk folded before Flop (didn't bet)
+Seat 4: Musa_Cavus folded before Flop (didn't bet)
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: jstrev222 (small blind) folded before Flop
+Seat 8: hsGabriel (big blind) collected ($0.20)
+Seat 9: surenoheaven folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100994725:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:04:47 ET
+Table 'Appenzella II' 9-max Seat #7 is the button
+Seat 1: Ocean_13_777 ($64.45 in chips) 
+Seat 3: bassakk ($4.75 in chips) 
+Seat 4: Musa_Cavus ($10.15 in chips) 
+Seat 5: LastNLine ($12.70 in chips) 
+Seat 6: Alameda22 ($54.70 in chips) 
+Seat 7: jstrev222 ($14.65 in chips) 
+Seat 8: hsGabriel ($39.10 in chips) 
+hsGabriel: posts small blind $0.10
+Ocean_13_777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Jh]
+bassakk: folds 
+Musa_Cavus: folds 
+LastNLine: folds 
+Alameda22: folds 
+jstrev222: folds 
+hsGabriel: calls $0.15
+Ocean_13_777: checks 
+*** FLOP *** [8c 2c 5c]
+hsGabriel: checks 
+Ocean_13_777: checks 
+*** TURN *** [8c 2c 5c] [6c]
+hsGabriel: checks 
+Ocean_13_777: bets $0.50
+hsGabriel: calls $0.50
+*** RIVER *** [8c 2c 5c 6c] [Qs]
+hsGabriel: checks 
+Ocean_13_777: checks 
+*** SHOW DOWN ***
+hsGabriel: shows [3d 4d] (a straight, Deuce to Six)
+Ocean_13_777: shows [4c 9h] (a flush, Eight high)
+Ocean_13_777 collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [8c 2c 5c 6c Qs]
+Seat 1: Ocean_13_777 (big blind) showed [4c 9h] and won ($1.45) with a flush, Eight high
+Seat 3: bassakk folded before Flop (didn't bet)
+Seat 4: Musa_Cavus folded before Flop (didn't bet)
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jstrev222 (button) folded before Flop (didn't bet)
+Seat 8: hsGabriel (small blind) showed [3d 4d] and lost with a straight, Deuce to Six
+
+
+
+PokerStars Game #20101023982:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:06:06 ET
+Table 'Appenzella II' 9-max Seat #8 is the button
+Seat 1: Ocean_13_777 ($65.15 in chips) 
+Seat 3: bassakk ($4.75 in chips) 
+Seat 4: Musa_Cavus ($10.15 in chips) 
+Seat 5: LastNLine ($12.70 in chips) 
+Seat 6: Alameda22 ($54.70 in chips) 
+Seat 7: jstrev222 ($14.65 in chips) 
+Seat 8: hsGabriel ($38.35 in chips) 
+Ocean_13_777: posts small blind $0.10
+bassakk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Th]
+Musa_Cavus: calls $0.25
+LastNLine: folds 
+Alameda22: folds 
+jstrev222: folds 
+hsGabriel: folds 
+Ocean_13_777: folds 
+bassakk: checks 
+*** FLOP *** [7d 8d 5c]
+bassakk: bets $0.25
+Musa_Cavus: calls $0.25
+*** TURN *** [7d 8d 5c] [2s]
+bassakk: bets $0.50
+Musa_Cavus: calls $0.50
+*** RIVER *** [7d 8d 5c 2s] [9c]
+bassakk: bets $1
+Musa_Cavus: calls $1
+*** SHOW DOWN ***
+bassakk: shows [Tc 4c] (high card Ten)
+Musa_Cavus: shows [8s Qs] (a pair of Eights)
+Musa_Cavus collected $3.90 from pot
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [7d 8d 5c 2s 9c]
+Seat 1: Ocean_13_777 (small blind) folded before Flop
+Seat 3: bassakk (big blind) showed [Tc 4c] and lost with high card Ten
+Seat 4: Musa_Cavus showed [8s Qs] and won ($3.90) with a pair of Eights
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jstrev222 folded before Flop (didn't bet)
+Seat 8: hsGabriel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101046083:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:07:07 ET
+Table 'Appenzella II' 9-max Seat #1 is the button
+Seat 1: Ocean_13_777 ($65.05 in chips) 
+Seat 3: bassakk ($2.75 in chips) 
+Seat 4: Musa_Cavus ($12.05 in chips) 
+Seat 5: LastNLine ($12.70 in chips) 
+Seat 6: Alameda22 ($54.70 in chips) 
+Seat 7: jstrev222 ($14.65 in chips) 
+Seat 8: hsGabriel ($38.35 in chips) 
+bassakk: posts small blind $0.10
+Musa_Cavus: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 9h]
+LastNLine: folds 
+Alameda22: folds 
+jstrev222: folds 
+hsGabriel: folds 
+Ocean_13_777: folds 
+bassakk: raises $1 to $1.25
+Musa_Cavus: folds 
+Uncalled bet ($1) returned to bassakk
+bassakk collected $0.50 from pot
+bassakk: shows [6h 4h] (high card Six)
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Ocean_13_777 (button) folded before Flop (didn't bet)
+Seat 3: bassakk (small blind) collected ($0.50)
+Seat 4: Musa_Cavus (big blind) folded before Flop
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jstrev222 folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101065722:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:08:00 ET
+Table 'Appenzella II' 9-max Seat #3 is the button
+Seat 1: Ocean_13_777 ($65.05 in chips) 
+Seat 3: bassakk ($3 in chips) 
+Seat 4: Musa_Cavus ($11.80 in chips) 
+Seat 5: LastNLine ($12.70 in chips) 
+Seat 6: Alameda22 ($54.70 in chips) 
+Seat 7: jstrev222 ($14.65 in chips) 
+Seat 8: hsGabriel ($38.35 in chips) 
+Musa_Cavus: posts small blind $0.10
+LastNLine: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 5d]
+Alameda22: folds 
+jstrev222: folds 
+hsGabriel: folds 
+Ocean_13_777: folds 
+bassakk: calls $0.25
+Musa_Cavus: calls $0.15
+LastNLine: checks 
+*** FLOP *** [6d 6c 2s]
+Musa_Cavus: checks 
+LastNLine: checks 
+bassakk: checks 
+*** TURN *** [6d 6c 2s] [Ts]
+Musa_Cavus: checks 
+LastNLine: checks 
+bassakk: bets $0.75
+Musa_Cavus: folds 
+LastNLine: folds 
+Uncalled bet ($0.75) returned to bassakk
+bassakk collected $0.75 from pot
+bassakk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [6d 6c 2s Ts]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 3: bassakk (button) collected ($0.75)
+Seat 4: Musa_Cavus (small blind) folded on the Turn
+Seat 5: LastNLine (big blind) folded on the Turn
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jstrev222 folded before Flop (didn't bet)
+Seat 8: hsGabriel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101080567:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:08:40 ET
+Table 'Appenzella II' 9-max Seat #4 is the button
+Seat 1: Ocean_13_777 ($65.05 in chips) 
+Seat 3: bassakk ($3.50 in chips) 
+Seat 4: Musa_Cavus ($11.55 in chips) 
+Seat 5: LastNLine ($12.45 in chips) 
+Seat 6: Alameda22 ($54.70 in chips) 
+Seat 7: jstrev222 ($14.65 in chips) 
+Seat 8: hsGabriel ($38.35 in chips) 
+LastNLine: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 8h]
+jstrev222: folds 
+hsGabriel: raises $0.50 to $0.75
+Ocean_13_777: folds 
+bassakk: folds 
+Musa_Cavus: folds 
+LastNLine: folds 
+Alameda22: calls $0.50
+*** FLOP *** [Jh Jd 3h]
+Alameda22: checks 
+hsGabriel: checks 
+*** TURN *** [Jh Jd 3h] [7c]
+Alameda22: checks 
+hsGabriel: checks 
+*** RIVER *** [Jh Jd 3h 7c] [4h]
+Alameda22: checks 
+hsGabriel: checks 
+*** SHOW DOWN ***
+Alameda22: shows [8d 8h] (two pair, Jacks and Eights)
+hsGabriel: mucks hand 
+Alameda22 collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Jh Jd 3h 7c 4h]
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 3: bassakk folded before Flop (didn't bet)
+Seat 4: Musa_Cavus (button) folded before Flop (didn't bet)
+Seat 5: LastNLine (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) showed [8d 8h] and won ($1.55) with two pair, Jacks and Eights
+Seat 7: jstrev222 folded before Flop (didn't bet)
+Seat 8: hsGabriel mucked [Qc Ah]
+
+
+
+PokerStars Game #20101123040:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:10:36 ET
+Table 'Appenzella II' 9-max Seat #5 is the button
+Seat 1: Ocean_13_777 ($65.05 in chips) 
+Seat 3: bassakk ($3.50 in chips) 
+Seat 4: Musa_Cavus ($11.55 in chips) 
+Seat 5: LastNLine ($12.35 in chips) 
+Seat 6: Alameda22 ($55.50 in chips) 
+Seat 7: jstrev222 ($14.65 in chips) 
+Seat 8: hsGabriel ($37.60 in chips) 
+Alameda22: posts small blind $0.10
+jstrev222: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Jh]
+hsGabriel: folds 
+Ocean_13_777: raises $0.75 to $1
+bassakk: folds 
+Musa_Cavus: folds 
+LastNLine: folds 
+Alameda22: folds 
+jstrev222: folds 
+Uncalled bet ($0.75) returned to Ocean_13_777
+Ocean_13_777 collected $0.60 from pot
+Ocean_13_777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Ocean_13_777 collected ($0.60)
+Seat 3: bassakk folded before Flop (didn't bet)
+Seat 4: Musa_Cavus folded before Flop (didn't bet)
+Seat 5: LastNLine (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: jstrev222 (big blind) folded before Flop
+Seat 8: hsGabriel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101138312:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:11:18 ET
+Table 'Appenzella II' 9-max Seat #6 is the button
+Seat 1: Ocean_13_777 ($65.40 in chips) 
+Seat 3: bassakk ($3.50 in chips) 
+Seat 4: Musa_Cavus ($11.55 in chips) 
+Seat 5: LastNLine ($12.35 in chips) 
+Seat 6: Alameda22 ($55.40 in chips) 
+Seat 7: jstrev222 ($14.40 in chips) 
+jstrev222: posts small blind $0.10
+hsGabriel: is sitting out 
+hsGabriel leaves the table
+Ocean_13_777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Qh]
+bassakk: calls $0.25
+Musa_Cavus: calls $0.25
+LastNLine: folds 
+Alameda22: folds 
+jstrev222: calls $0.15
+Ocean_13_777: checks 
+*** FLOP *** [5h Ah 8s]
+jstrev222: checks 
+Ocean_13_777: checks 
+bassakk: bets $0.50
+Musa_Cavus: raises $1 to $1.50
+jstrev222: folds 
+Ocean_13_777: folds 
+bassakk: raises $1.75 to $3.25 and is all-in
+Musa_Cavus: calls $1.75
+*** TURN *** [5h Ah 8s] [7s]
+*** RIVER *** [5h Ah 8s 7s] [7h]
+*** SHOW DOWN ***
+bassakk: shows [Jh 6h] (a flush, Ace high)
+Musa_Cavus: mucks hand 
+bassakk collected $7.15 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.35 
+Board [5h Ah 8s 7s 7h]
+Seat 1: Ocean_13_777 (big blind) folded on the Flop
+Seat 3: bassakk showed [Jh 6h] and won ($7.15) with a flush, Ace high
+Seat 4: Musa_Cavus mucked [5d Ac]
+Seat 5: LastNLine folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: jstrev222 (small blind) folded on the Flop
+
+
+
+PokerStars Game #20101172181:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:12:50 ET
+Table 'Appenzella II' 9-max Seat #7 is the button
+Seat 1: Ocean_13_777 ($65.15 in chips) 
+Seat 3: bassakk ($7.15 in chips) 
+Seat 4: Musa_Cavus ($8.05 in chips) 
+Seat 5: LastNLine ($12.35 in chips) 
+Seat 6: Alameda22 ($55.40 in chips) 
+Seat 7: jstrev222 ($14.15 in chips) 
+Ocean_13_777: posts small blind $0.10
+bassakk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 8s]
+Musa_Cavus: folds 
+Musa_Cavus leaves the table
+LastNLine: raises $0.50 to $0.75
+Alameda22: folds 
+jstrev222: folds 
+Ocean_13_777: folds 
+bassakk: folds 
+Uncalled bet ($0.50) returned to LastNLine
+LastNLine collected $0.60 from pot
+LastNLine: doesn't show hand 
+bassakk leaves the table
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Ocean_13_777 (small blind) folded before Flop
+Seat 3: bassakk (big blind) folded before Flop
+Seat 4: Musa_Cavus folded before Flop (didn't bet)
+Seat 5: LastNLine collected ($0.60)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jstrev222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101188151:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:13:36 ET
+Table 'Appenzella II' 9-max Seat #1 is the button
+Seat 1: Ocean_13_777 ($65.05 in chips) 
+Seat 5: LastNLine ($12.70 in chips) 
+Seat 6: Alameda22 ($55.40 in chips) 
+Seat 7: jstrev222 ($14.15 in chips) 
+LastNLine: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Tc]
+jstrev222: folds 
+Ocean_13_777: folds 
+LastNLine: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Pocket AK joins the table at seat #8 
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Ocean_13_777 (button) folded before Flop (didn't bet)
+Seat 5: LastNLine (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) collected ($0.20)
+Seat 7: jstrev222 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101194000:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:13:52 ET
+Table 'Appenzella II' 9-max Seat #5 is the button
+Seat 1: Ocean_13_777 ($65.05 in chips) 
+Seat 5: LastNLine ($12.60 in chips) 
+Seat 6: Alameda22 ($55.50 in chips) 
+Seat 8: Pocket AK ($15 in chips) 
+Alameda22: posts small blind $0.10
+jstrev222: is sitting out 
+jstrev222 leaves the table
+Pocket AK: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 8h]
+Ocean_13_777: folds 
+LastNLine: raises $0.50 to $0.75
+Alameda22: folds 
+Pocket AK: folds 
+Uncalled bet ($0.50) returned to LastNLine
+LastNLine collected $0.60 from pot
+LastNLine: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Ocean_13_777 folded before Flop (didn't bet)
+Seat 5: LastNLine (button) collected ($0.60)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 8: Pocket AK (big blind) folded before Flop
+
+
+
+PokerStars Game #20101202914:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:14:16 ET
+Table 'Appenzella II' 9-max Seat #8 is the button
+Seat 6: Alameda22 ($55.40 in chips) 
+Seat 8: Pocket AK ($14.75 in chips) 
+Pocket AK: posts small blind $0.10
+Ocean_13_777: is sitting out 
+LastNLine: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 5c]
+LastNLine leaves the table
+Pocket AK: calls $0.15
+Ocean_13_777 leaves the table
+Alameda22: checks 
+*** FLOP *** [Ks Th Qc]
+Alameda22: checks 
+Pocket AK: bets $0.25
+Alameda22: folds 
+Uncalled bet ($0.25) returned to Pocket AK
+Pocket AK collected $0.50 from pot
+Pocket AK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Ks Th Qc]
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 8: Pocket AK (button) (small blind) collected ($0.50)
+
+
+

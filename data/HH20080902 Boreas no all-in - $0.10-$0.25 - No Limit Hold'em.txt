@@ -1,0 +1,1862 @@
+PokerStars Game #20082563701:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:00:14 (ET)
+Table 'Boreas' 9-max Seat #2 is the button
+Seat 1: Luring You ($5.65 in chips) 
+Seat 2: Nordbergo ($11.50 in chips) 
+Seat 3: Alameda22 ($21.75 in chips) 
+Seat 4: abizet ($24.65 in chips) 
+Seat 5: TucQua ($11.65 in chips) 
+Seat 6: JakobsLadder ($26 in chips) 
+Seat 7: ladyluck1124 ($20.30 in chips) 
+Seat 8: slugger155 ($14.30 in chips) 
+Alameda22: posts small blind $0.10
+abizet: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 5s]
+TucQua: folds 
+JakobsLadder: folds 
+ladyluck1124: raises $0.75 to $1
+slugger155: calls $1
+Luring You: folds 
+Nordbergo: folds 
+pjm20002000 joins the table at seat #9 
+Alameda22: folds 
+abizet is disconnected 
+abizet is connected 
+abizet: folds 
+*** FLOP *** [Ts 7h 8h]
+ladyluck1124: checks 
+slugger155: checks 
+*** TURN *** [Ts 7h 8h] [Kc]
+ladyluck1124: checks 
+slugger155: bets $1
+ladyluck1124: folds 
+Uncalled bet ($1) returned to slugger155
+slugger155 collected $2.25 from pot
+slugger155: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Ts 7h 8h Kc]
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: abizet (big blind) folded before Flop
+Seat 5: TucQua folded before Flop (didn't bet)
+Seat 6: JakobsLadder folded before Flop (didn't bet)
+Seat 7: ladyluck1124 folded on the Turn
+Seat 8: slugger155 collected ($2.25)
+
+
+
+PokerStars Game #20082601824:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:02:30 (ET)
+Table 'Boreas' 9-max Seat #3 is the button
+Seat 1: Luring You ($5.65 in chips) 
+Seat 2: Nordbergo ($11.50 in chips) 
+Seat 3: Alameda22 ($21.65 in chips) 
+Seat 4: abizet ($24.40 in chips) 
+Seat 5: TucQua ($11.65 in chips) 
+Seat 6: JakobsLadder ($26 in chips) 
+Seat 7: ladyluck1124 ($19.30 in chips) 
+Seat 8: slugger155 ($15.55 in chips) 
+abizet: posts small blind $0.10
+TucQua: posts big blind $0.25
+pjm20002000: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 8d]
+JakobsLadder: folds 
+ladyluck1124: folds 
+slugger155: folds 
+slugger155 leaves the table
+Luring You: folds 
+Nordbergo: raises $0.50 to $0.75
+Alameda22: folds 
+abizet: folds 
+TucQua: folds 
+Uncalled bet ($0.50) returned to Nordbergo
+Nordbergo collected $0.60 from pot
+Nordbergo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo collected ($0.60)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: abizet (small blind) folded before Flop
+Seat 5: TucQua (big blind) folded before Flop
+Seat 6: JakobsLadder folded before Flop (didn't bet)
+Seat 7: ladyluck1124 folded before Flop (didn't bet)
+Seat 8: slugger155 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082615908:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:03:20 (ET)
+Table 'Boreas' 9-max Seat #4 is the button
+Seat 1: Luring You ($5.65 in chips) 
+Seat 2: Nordbergo ($11.85 in chips) 
+Seat 3: Alameda22 ($21.65 in chips) 
+Seat 4: abizet ($24.30 in chips) 
+Seat 5: TucQua ($11.40 in chips) 
+Seat 6: JakobsLadder ($26 in chips) 
+Seat 7: ladyluck1124 ($19.30 in chips) 
+TucQua: posts small blind $0.10
+JakobsLadder: posts big blind $0.25
+pjm20002000: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 9d]
+ladyluck1124: folds 
+Luring You: raises $0.50 to $0.75
+Nordbergo: folds 
+Alameda22: folds 
+abizet: folds 
+TucQua: raises $5.50 to $6.25
+JakobsLadder: folds 
+Luring You: calls $4.90 and is all-in
+Uncalled bet ($0.60) returned to TucQua
+*** FLOP *** [Ac 7d Qh]
+*** TURN *** [Ac 7d Qh] [8d]
+*** RIVER *** [Ac 7d Qh 8d] [6d]
+*** SHOW DOWN ***
+TucQua: shows [Jd Jc] (a pair of Jacks)
+Luring You: shows [Kd Qd] (a flush, King high)
+Luring You collected $11 from pot
+*** SUMMARY ***
+Total pot $11.55 | Rake $0.55 
+Board [Ac 7d Qh 8d 6d]
+Seat 1: Luring You showed [Kd Qd] and won ($11) with a flush, King high
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: abizet (button) folded before Flop (didn't bet)
+Seat 5: TucQua (small blind) showed [Jd Jc] and lost with a pair of Jacks
+Seat 6: JakobsLadder (big blind) folded before Flop
+Seat 7: ladyluck1124 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082630068:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:04:11 (ET)
+Table 'Boreas' 9-max Seat #5 is the button
+Seat 1: Luring You ($11 in chips) 
+Seat 2: Nordbergo ($11.85 in chips) 
+Seat 3: Alameda22 ($21.65 in chips) 
+Seat 4: abizet ($24.30 in chips) 
+Seat 5: TucQua ($5.75 in chips) 
+Seat 6: JakobsLadder ($25.75 in chips) 
+Seat 7: ladyluck1124 ($19.30 in chips) 
+JakobsLadder: posts small blind $0.10
+ladyluck1124: posts big blind $0.25
+pjm20002000: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 3h]
+Luring You: folds 
+Nordbergo: raises $0.50 to $0.75
+Alameda22: folds 
+abizet: folds 
+TucQua: folds 
+JakobsLadder: folds 
+ladyluck1124: folds 
+Uncalled bet ($0.50) returned to Nordbergo
+Nordbergo collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo collected ($0.60)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: abizet folded before Flop (didn't bet)
+Seat 5: TucQua (button) folded before Flop (didn't bet)
+Seat 6: JakobsLadder (small blind) folded before Flop
+Seat 7: ladyluck1124 (big blind) folded before Flop
+
+
+
+PokerStars Game #20082641830:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:04:53 (ET)
+Table 'Boreas' 9-max Seat #6 is the button
+Seat 1: Luring You ($11 in chips) 
+Seat 2: Nordbergo ($12.20 in chips) 
+Seat 3: Alameda22 ($21.65 in chips) 
+Seat 4: abizet ($24.30 in chips) 
+Seat 5: TucQua ($5.75 in chips) 
+Seat 6: JakobsLadder ($25.65 in chips) 
+Seat 7: ladyluck1124 ($19.05 in chips) 
+Seat 9: pjm20002000 ($14.15 in chips) 
+ladyluck1124: posts small blind $0.10
+pjm20002000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 2h]
+Luring You: folds 
+Nordbergo: folds 
+Alameda22: folds 
+abizet: folds 
+TucQua: folds 
+JakobsLadder: folds 
+ladyluck1124: folds 
+Uncalled bet ($0.15) returned to pjm20002000
+pjm20002000 collected $0.20 from pot
+pjm20002000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: abizet folded before Flop (didn't bet)
+Seat 5: TucQua folded before Flop (didn't bet)
+Seat 6: JakobsLadder (button) folded before Flop (didn't bet)
+Seat 7: ladyluck1124 (small blind) folded before Flop
+Seat 9: pjm20002000 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #20082652184:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:05:30 (ET)
+Table 'Boreas' 9-max Seat #7 is the button
+Seat 1: Luring You ($11 in chips) 
+Seat 2: Nordbergo ($12.20 in chips) 
+Seat 3: Alameda22 ($21.65 in chips) 
+Seat 4: abizet ($24.30 in chips) 
+Seat 5: TucQua ($5.75 in chips) 
+Seat 6: JakobsLadder ($25.65 in chips) 
+Seat 7: ladyluck1124 ($18.95 in chips) 
+Seat 9: pjm20002000 ($14.25 in chips) 
+pjm20002000: posts small blind $0.10
+Luring You: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 5h]
+Nordbergo: raises $0.25 to $0.50
+Alameda22: folds 
+abizet: folds 
+TucQua: folds 
+JakobsLadder: folds 
+ladyluck1124: folds 
+pjm20002000: folds 
+Luring You: folds 
+Uncalled bet ($0.25) returned to Nordbergo
+Nordbergo collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Luring You (big blind) folded before Flop
+Seat 2: Nordbergo collected ($0.60)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: abizet folded before Flop (didn't bet)
+Seat 5: TucQua folded before Flop (didn't bet)
+Seat 6: JakobsLadder folded before Flop (didn't bet)
+Seat 7: ladyluck1124 (button) folded before Flop (didn't bet)
+Seat 9: pjm20002000 (small blind) folded before Flop
+
+
+
+PokerStars Game #20082659899:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:05:57 (ET)
+Table 'Boreas' 9-max Seat #9 is the button
+Seat 1: Luring You ($10.75 in chips) 
+Seat 2: Nordbergo ($12.55 in chips) 
+Seat 3: Alameda22 ($21.65 in chips) 
+Seat 4: abizet ($24.30 in chips) 
+Seat 5: TucQua ($5.75 in chips) 
+Seat 6: JakobsLadder ($25.65 in chips) 
+Seat 7: ladyluck1124 ($18.95 in chips) 
+Seat 9: pjm20002000 ($14.15 in chips) 
+Luring You: posts small blind $0.10
+Nordbergo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 6c]
+Alameda22: folds 
+abizet: calls $0.25
+TucQua: calls $0.25
+JakobsLadder: folds 
+ladyluck1124: folds 
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: checks 
+*** FLOP *** [9d 4d 9c]
+Nordbergo: checks 
+abizet: checks 
+TucQua: bets $0.50
+Nordbergo: folds 
+abizet: folds 
+Uncalled bet ($0.50) returned to TucQua
+TucQua collected $0.85 from pot
+TucQua: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [9d 4d 9c]
+Seat 1: Luring You (small blind) folded before Flop
+Seat 2: Nordbergo (big blind) folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: abizet folded on the Flop
+Seat 5: TucQua collected ($0.85)
+Seat 6: JakobsLadder folded before Flop (didn't bet)
+Seat 7: ladyluck1124 folded before Flop (didn't bet)
+Seat 9: pjm20002000 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082673423:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:06:46 (ET)
+Table 'Boreas' 9-max Seat #1 is the button
+Seat 1: Luring You ($10.65 in chips) 
+Seat 2: Nordbergo ($12.30 in chips) 
+Seat 3: Alameda22 ($21.65 in chips) 
+Seat 4: abizet ($24.05 in chips) 
+Seat 5: TucQua ($6.35 in chips) 
+Seat 6: JakobsLadder ($25.65 in chips) 
+Seat 7: ladyluck1124 ($18.95 in chips) 
+Seat 9: pjm20002000 ($14.15 in chips) 
+Nordbergo: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 7d]
+abizet: folds 
+TucQua: calls $0.25
+JakobsLadder: folds 
+ladyluck1124: calls $0.25
+pjm20002000: calls $0.25
+Luring You: calls $0.25
+Nordbergo: calls $0.15
+Alameda22: checks 
+*** FLOP *** [6d Qd Qs]
+Nordbergo: checks 
+Pockets3187 joins the table at seat #8 
+Alameda22: checks 
+TucQua: checks 
+ladyluck1124: checks 
+pjm20002000: bets $0.75
+Luring You: folds 
+Nordbergo: calls $0.75
+Alameda22: folds 
+TucQua: raises $0.75 to $1.50
+ladyluck1124: folds 
+pjm20002000: calls $0.75
+Nordbergo: calls $0.75
+*** TURN *** [6d Qd Qs] [Jh]
+Nordbergo: checks 
+TucQua: checks 
+pjm20002000: checks 
+*** RIVER *** [6d Qd Qs Jh] [8s]
+Nordbergo: bets $2
+TucQua: raises $2.60 to $4.60 and is all-in
+pjm20002000: calls $4.60
+Nordbergo: calls $2.60
+*** SHOW DOWN ***
+TucQua: shows [Jc Qh] (a full house, Queens full of Jacks)
+pjm20002000: mucks hand 
+Nordbergo: mucks hand 
+TucQua collected $18.85 from pot
+*** SUMMARY ***
+Total pot $19.80 | Rake $0.95 
+Board [6d Qd Qs Jh 8s]
+Seat 1: Luring You (button) folded on the Flop
+Seat 2: Nordbergo (small blind) mucked [7h Qc]
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 4: abizet folded before Flop (didn't bet)
+Seat 5: TucQua showed [Jc Qh] and won ($18.85) with a full house, Queens full of Jacks
+Seat 6: JakobsLadder folded before Flop (didn't bet)
+Seat 7: ladyluck1124 folded on the Flop
+Seat 9: pjm20002000 mucked [8d 8h]
+
+
+
+PokerStars Game #20082703873:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:08:36 (ET)
+Table 'Boreas' 9-max Seat #2 is the button
+Seat 1: Luring You ($10.40 in chips) 
+Seat 2: Nordbergo ($5.95 in chips) 
+Seat 3: Alameda22 ($21.40 in chips) 
+Seat 4: abizet ($24.05 in chips) 
+Seat 5: TucQua ($18.85 in chips) 
+Seat 6: JakobsLadder ($25.65 in chips) 
+Seat 7: ladyluck1124 ($18.70 in chips) 
+Seat 8: Pockets3187 ($25 in chips) 
+Seat 9: pjm20002000 ($7.80 in chips) 
+Alameda22: posts small blind $0.10
+abizet: posts big blind $0.25
+Pockets3187: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 3d]
+TucQua: folds 
+JakobsLadder: folds 
+ladyluck1124: folds 
+Pockets3187: checks 
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: folds 
+Alameda22: folds 
+abizet: checks 
+*** FLOP *** [Jh 9s 9h]
+abizet: bets $0.50
+Pockets3187: folds 
+Uncalled bet ($0.50) returned to abizet
+abizet collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Jh 9s 9h]
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: abizet (big blind) collected ($0.60)
+Seat 5: TucQua folded before Flop (didn't bet)
+Seat 6: JakobsLadder folded before Flop (didn't bet)
+Seat 7: ladyluck1124 folded before Flop (didn't bet)
+Seat 8: Pockets3187 folded on the Flop
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082723191:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:09:47 (ET)
+Table 'Boreas' 9-max Seat #3 is the button
+Seat 1: Luring You ($10.40 in chips) 
+Seat 2: Nordbergo ($5.95 in chips) 
+Seat 3: Alameda22 ($21.30 in chips) 
+Seat 4: abizet ($24.40 in chips) 
+Seat 5: TucQua ($18.85 in chips) 
+Seat 6: JakobsLadder ($25.65 in chips) 
+Seat 7: ladyluck1124 ($18.70 in chips) 
+Seat 8: Pockets3187 ($24.75 in chips) 
+Seat 9: pjm20002000 ($7.80 in chips) 
+abizet: posts small blind $0.10
+TucQua: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Ac]
+JakobsLadder: raises $0.75 to $1
+ladyluck1124: folds 
+Pockets3187: folds 
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: folds 
+Alameda22: folds 
+abizet: folds 
+TucQua: folds 
+Uncalled bet ($0.75) returned to JakobsLadder
+JakobsLadder collected $0.60 from pot
+JakobsLadder: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: abizet (small blind) folded before Flop
+Seat 5: TucQua (big blind) folded before Flop
+Seat 6: JakobsLadder collected ($0.60)
+Seat 7: ladyluck1124 folded before Flop (didn't bet)
+Seat 8: Pockets3187 folded before Flop (didn't bet)
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082733071:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:10:23 (ET)
+Table 'Boreas' 9-max Seat #4 is the button
+Seat 1: Luring You ($10.40 in chips) 
+Seat 2: Nordbergo ($5.95 in chips) 
+Seat 3: Alameda22 ($21.30 in chips) 
+Seat 4: abizet ($24.30 in chips) 
+Seat 5: TucQua ($18.60 in chips) 
+Seat 6: JakobsLadder ($26 in chips) 
+Seat 7: ladyluck1124 ($18.70 in chips) 
+Seat 8: Pockets3187 ($24.75 in chips) 
+Seat 9: pjm20002000 ($7.80 in chips) 
+TucQua: posts small blind $0.10
+JakobsLadder: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Kh]
+ladyluck1124: calls $0.25
+Pockets3187: folds 
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: folds 
+Alameda22: folds 
+abizet: calls $0.25
+TucQua: calls $0.15
+JakobsLadder: checks 
+*** FLOP *** [Qs Jd Jc]
+TucQua: checks 
+JakobsLadder: checks 
+ladyluck1124: checks 
+abizet: checks 
+*** TURN *** [Qs Jd Jc] [2d]
+TucQua: bets $0.25
+JakobsLadder: folds 
+ladyluck1124: calls $0.25
+abizet: raises $0.50 to $0.75
+TucQua: folds 
+ladyluck1124: raises $2 to $2.75
+abizet: raises $21.30 to $24.05 and is all-in
+ladyluck1124: calls $15.70 and is all-in
+Uncalled bet ($5.60) returned to abizet
+*** RIVER *** [Qs Jd Jc 2d] [5d]
+*** SHOW DOWN ***
+ladyluck1124: shows [Js Qd] (a full house, Jacks full of Queens)
+abizet: mucks hand 
+ladyluck1124 collected $36.25 from pot
+*** SUMMARY ***
+Total pot $38.15 | Rake $1.90 
+Board [Qs Jd Jc 2d 5d]
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: abizet (button) mucked [2h 2c]
+Seat 5: TucQua (small blind) folded on the Turn
+Seat 6: JakobsLadder (big blind) folded on the Turn
+Seat 7: ladyluck1124 showed [Js Qd] and won ($36.25) with a full house, Jacks full of Queens
+Seat 8: Pockets3187 folded before Flop (didn't bet)
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082762529:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:12:11 (ET)
+Table 'Boreas' 9-max Seat #5 is the button
+Seat 1: Luring You ($10.40 in chips) 
+Seat 2: Nordbergo ($5.95 in chips) 
+Seat 3: Alameda22 ($21.30 in chips) 
+Seat 4: abizet ($5.60 in chips) 
+Seat 5: TucQua ($18.10 in chips) 
+Seat 6: JakobsLadder ($25.75 in chips) 
+Seat 7: ladyluck1124 ($36.25 in chips) 
+Seat 8: Pockets3187 ($24.75 in chips) 
+Seat 9: pjm20002000 ($7.80 in chips) 
+JakobsLadder: posts small blind $0.10
+ladyluck1124: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 6h]
+Pockets3187: folds 
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: folds 
+Alameda22: folds 
+abizet: folds 
+TucQua: raises $0.25 to $0.50
+JakobsLadder: folds 
+ladyluck1124: folds 
+Uncalled bet ($0.25) returned to TucQua
+TucQua collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: abizet folded before Flop (didn't bet)
+Seat 5: TucQua (button) collected ($0.60)
+Seat 6: JakobsLadder (small blind) folded before Flop
+Seat 7: ladyluck1124 (big blind) folded before Flop
+Seat 8: Pockets3187 folded before Flop (didn't bet)
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082770049:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:12:39 (ET)
+Table 'Boreas' 9-max Seat #6 is the button
+Seat 1: Luring You ($10.40 in chips) 
+Seat 2: Nordbergo ($5.95 in chips) 
+Seat 3: Alameda22 ($21.30 in chips) 
+Seat 4: abizet ($5.60 in chips) 
+Seat 5: TucQua ($18.45 in chips) 
+Seat 6: JakobsLadder ($25.65 in chips) 
+Seat 7: ladyluck1124 ($36 in chips) 
+Seat 8: Pockets3187 ($24.75 in chips) 
+Seat 9: pjm20002000 ($7.80 in chips) 
+ladyluck1124: posts small blind $0.10
+Pockets3187: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 2h]
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: folds 
+Alameda22: folds 
+abizet: calls $0.25
+TucQua: raises $0.50 to $0.75
+JakobsLadder: folds 
+ladyluck1124: folds 
+Pockets3187: folds 
+abizet: folds 
+Uncalled bet ($0.50) returned to TucQua
+TucQua collected $0.85 from pot
+TucQua: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: abizet folded before Flop
+Seat 5: TucQua collected ($0.85)
+Seat 6: JakobsLadder (button) folded before Flop (didn't bet)
+Seat 7: ladyluck1124 (small blind) folded before Flop
+Seat 8: Pockets3187 (big blind) folded before Flop
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082779863:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:13:15 (ET)
+Table 'Boreas' 9-max Seat #7 is the button
+Seat 1: Luring You ($10.40 in chips) 
+Seat 2: Nordbergo ($5.95 in chips) 
+Seat 3: Alameda22 ($21.30 in chips) 
+Seat 4: abizet ($5.35 in chips) 
+Seat 5: TucQua ($19.05 in chips) 
+Seat 6: JakobsLadder ($25.65 in chips) 
+Seat 7: ladyluck1124 ($35.90 in chips) 
+Seat 8: Pockets3187 ($24.50 in chips) 
+Seat 9: pjm20002000 ($7.80 in chips) 
+Pockets3187: posts small blind $0.10
+pjm20002000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Kd]
+Luring You: folds 
+Nordbergo: folds 
+Alameda22: folds 
+abizet: folds 
+TucQua: folds 
+JakobsLadder: folds 
+ladyluck1124: raises $0.50 to $0.75
+Pockets3187: folds 
+pjm20002000: calls $0.50
+*** FLOP *** [5h 9c Jc]
+pjm20002000: checks 
+ladyluck1124: checks 
+*** TURN *** [5h 9c Jc] [3d]
+pjm20002000: checks 
+ladyluck1124: checks 
+*** RIVER *** [5h 9c Jc 3d] [4s]
+pjm20002000: checks 
+ladyluck1124: checks 
+*** SHOW DOWN ***
+pjm20002000: shows [8d Qd] (high card Queen)
+ladyluck1124: shows [Ah Ts] (high card Ace)
+ladyluck1124 collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [5h 9c Jc 3d 4s]
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: abizet folded before Flop (didn't bet)
+Seat 5: TucQua folded before Flop (didn't bet)
+Seat 6: JakobsLadder folded before Flop (didn't bet)
+Seat 7: ladyluck1124 (button) showed [Ah Ts] and won ($1.55) with high card Ace
+Seat 8: Pockets3187 (small blind) folded before Flop
+Seat 9: pjm20002000 (big blind) showed [8d Qd] and lost with high card Queen
+
+
+
+PokerStars Game #20082794035:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:14:08 (ET)
+Table 'Boreas' 9-max Seat #8 is the button
+Seat 1: Luring You ($10.40 in chips) 
+Seat 2: Nordbergo ($5.95 in chips) 
+Seat 3: Alameda22 ($21.30 in chips) 
+Seat 4: abizet ($5.35 in chips) 
+Seat 5: TucQua ($19.05 in chips) 
+Seat 6: JakobsLadder ($25.65 in chips) 
+Seat 7: ladyluck1124 ($36.70 in chips) 
+Seat 8: Pockets3187 ($24.40 in chips) 
+Seat 9: pjm20002000 ($7.05 in chips) 
+pjm20002000: posts small blind $0.10
+Luring You: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 7c]
+Nordbergo: folds 
+Alameda22: folds 
+abizet: folds 
+TucQua: calls $0.25
+JakobsLadder: folds 
+ladyluck1124: calls $0.25
+Pockets3187: folds 
+pjm20002000: folds 
+Luring You: checks 
+*** FLOP *** [8c 2h 4c]
+Luring You: bets $0.25
+TucQua: raises $0.50 to $0.75
+ladyluck1124: folds 
+Luring You: folds 
+Uncalled bet ($0.50) returned to TucQua
+TucQua collected $1.30 from pot
+TucQua: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [8c 2h 4c]
+Seat 1: Luring You (big blind) folded on the Flop
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: abizet folded before Flop (didn't bet)
+Seat 5: TucQua collected ($1.30)
+Seat 6: JakobsLadder folded before Flop (didn't bet)
+Seat 7: ladyluck1124 folded on the Flop
+Seat 8: Pockets3187 (button) folded before Flop (didn't bet)
+Seat 9: pjm20002000 (small blind) folded before Flop
+
+
+
+PokerStars Game #20082805414:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:14:51 (ET)
+Table 'Boreas' 9-max Seat #9 is the button
+Seat 1: Luring You ($9.90 in chips) 
+Seat 2: Nordbergo ($5.95 in chips) 
+Seat 3: Alameda22 ($21.30 in chips) 
+Seat 4: abizet ($5.35 in chips) 
+Seat 5: TucQua ($19.85 in chips) 
+Seat 6: JakobsLadder ($25.65 in chips) 
+Seat 7: ladyluck1124 ($36.45 in chips) 
+Seat 8: Pockets3187 ($24.40 in chips) 
+Seat 9: pjm20002000 ($6.95 in chips) 
+Luring You: posts small blind $0.10
+Nordbergo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac As]
+Alameda22: raises $0.75 to $1
+abizet: folds 
+TucQua: folds 
+JakobsLadder: folds 
+ladyluck1124: folds 
+Pockets3187: folds 
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: folds 
+Uncalled bet ($0.75) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Luring You (small blind) folded before Flop
+Seat 2: Nordbergo (big blind) folded before Flop
+Seat 3: Alameda22 collected ($0.60)
+Seat 4: abizet folded before Flop (didn't bet)
+Seat 5: TucQua folded before Flop (didn't bet)
+Seat 6: JakobsLadder folded before Flop (didn't bet)
+Seat 7: ladyluck1124 folded before Flop (didn't bet)
+Seat 8: Pockets3187 folded before Flop (didn't bet)
+Seat 9: pjm20002000 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082812133:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:15:16 (ET)
+Table 'Boreas' 9-max Seat #1 is the button
+Seat 1: Luring You ($9.80 in chips) 
+Seat 2: Nordbergo ($5.70 in chips) 
+Seat 3: Alameda22 ($21.65 in chips) 
+Seat 4: abizet ($5.35 in chips) 
+Seat 5: TucQua ($19.85 in chips) 
+Seat 6: JakobsLadder ($25.65 in chips) 
+Seat 7: ladyluck1124 ($36.45 in chips) 
+Seat 8: Pockets3187 ($24.40 in chips) 
+Seat 9: pjm20002000 ($6.95 in chips) 
+Nordbergo: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 8d]
+abizet: calls $0.25
+TucQua: folds 
+JakobsLadder: raises $1 to $1.25
+ladyluck1124: folds 
+Pockets3187: folds 
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: folds 
+Alameda22: folds 
+abizet: folds 
+Uncalled bet ($1) returned to JakobsLadder
+abizet leaves the table
+JakobsLadder collected $0.85 from pot
+JakobsLadder: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Luring You (button) folded before Flop (didn't bet)
+Seat 2: Nordbergo (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: abizet folded before Flop
+Seat 5: TucQua folded before Flop (didn't bet)
+Seat 6: JakobsLadder collected ($0.85)
+Seat 7: ladyluck1124 folded before Flop (didn't bet)
+Seat 8: Pockets3187 folded before Flop (didn't bet)
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082824347:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:16:02 (ET)
+Table 'Boreas' 9-max Seat #2 is the button
+Seat 1: Luring You ($9.80 in chips) 
+Seat 2: Nordbergo ($5.60 in chips) 
+Seat 3: Alameda22 ($21.40 in chips) 
+Seat 5: TucQua ($19.85 in chips) 
+Seat 6: JakobsLadder ($26.25 in chips) 
+Seat 7: ladyluck1124 ($36.45 in chips) 
+Seat 8: Pockets3187 ($24.40 in chips) 
+Seat 9: pjm20002000 ($6.95 in chips) 
+Alameda22: posts small blind $0.10
+TucQua: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 7h]
+JakobsLadder: folds 
+JakobsLadder leaves the table
+ladyluck1124: folds 
+Pockets3187: folds 
+pjm20002000: folds 
+Luring You: calls $0.25
+Nordbergo: calls $0.25
+Alameda22: folds 
+TucQua: raises $0.75 to $1
+Luring You: folds 
+Nordbergo: calls $0.75
+*** FLOP *** [Tc 4h 2h]
+TucQua: checks 
+Nordbergo: checks 
+*** TURN *** [Tc 4h 2h] [9s]
+TucQua: checks 
+Nordbergo: checks 
+*** RIVER *** [Tc 4h 2h 9s] [6c]
+TucQua: bets $0.75
+Nordbergo: folds 
+Uncalled bet ($0.75) returned to TucQua
+TucQua collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Tc 4h 2h 9s 6c]
+Seat 1: Luring You folded before Flop
+Seat 2: Nordbergo (button) folded on the River
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 5: TucQua (big blind) collected ($2.25)
+Seat 6: JakobsLadder folded before Flop (didn't bet)
+Seat 7: ladyluck1124 folded before Flop (didn't bet)
+Seat 8: Pockets3187 folded before Flop (didn't bet)
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082842127:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:17:09 (ET)
+Table 'Boreas' 9-max Seat #3 is the button
+Seat 1: Luring You ($9.55 in chips) 
+Seat 2: Nordbergo ($4.60 in chips) 
+Seat 3: Alameda22 ($21.30 in chips) 
+Seat 7: ladyluck1124 ($36.45 in chips) 
+Seat 8: Pockets3187 ($24.40 in chips) 
+Seat 9: pjm20002000 ($6.95 in chips) 
+TucQua: is sitting out 
+ladyluck1124: posts small blind $0.10
+Pockets3187: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 3d]
+TucQua has returned
+pjm20002000: folds 
+Luring You: raises $0.50 to $0.75
+Nordbergo: folds 
+Alameda22: folds 
+ladyluck1124: folds 
+Pockets3187: folds 
+Uncalled bet ($0.50) returned to Luring You
+Luring You collected $0.60 from pot
+Luring You: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Luring You collected ($0.60)
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: ladyluck1124 (small blind) folded before Flop
+Seat 8: Pockets3187 (big blind) folded before Flop
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082847755:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:17:30 (ET)
+Table 'Boreas' 9-max Seat #7 is the button
+Seat 1: Luring You ($9.90 in chips) 
+Seat 2: Nordbergo ($4.60 in chips) 
+Seat 3: Alameda22 ($21.30 in chips) 
+Seat 5: TucQua ($21.10 in chips) 
+Seat 7: ladyluck1124 ($36.35 in chips) 
+Seat 8: Pockets3187 ($24.15 in chips) 
+Seat 9: pjm20002000 ($6.95 in chips) 
+Pockets3187: posts small blind $0.10
+pjm20002000: posts big blind $0.25
+TucQua: posts small blind $0.10
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 9h]
+Luring You: folds 
+Nordbergo: raises $0.50 to $0.75
+Alameda22: folds 
+TucQua: folds 
+meathead68 joins the table at seat #6 
+ladyluck1124: folds 
+Pockets3187: folds 
+pjm20002000: calls $0.50
+*** FLOP *** [2s 5s 3h]
+pjm20002000: checks 
+Nordbergo: bets $1
+horob joins the table at seat #4 
+pjm20002000: folds 
+Uncalled bet ($1) returned to Nordbergo
+Nordbergo collected $1.65 from pot
+*** SUMMARY ***
+Total pot $1.70 | Rake $0.05 
+Board [2s 5s 3h]
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo collected ($1.65)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 5: TucQua folded before Flop
+Seat 7: ladyluck1124 (button) folded before Flop (didn't bet)
+Seat 8: Pockets3187 (small blind) folded before Flop
+Seat 9: pjm20002000 (big blind) folded on the Flop
+
+
+
+PokerStars Game #20082859699:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:18:15 (ET)
+Table 'Boreas' 9-max Seat #8 is the button
+Seat 1: Luring You ($9.90 in chips) 
+Seat 2: Nordbergo ($5.50 in chips) 
+Seat 3: Alameda22 ($21.30 in chips) 
+Seat 5: TucQua ($21 in chips) 
+Seat 6: meathead68 ($15 in chips) 
+Seat 7: ladyluck1124 ($36.35 in chips) 
+Seat 8: Pockets3187 ($24.05 in chips) 
+Seat 9: pjm20002000 ($6.20 in chips) 
+pjm20002000: posts small blind $0.10
+Luring You: posts big blind $0.25
+horob: sits out 
+meathead68: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 9c]
+Nordbergo: raises $1 to $1.25
+Alameda22: folds 
+TucQua: folds 
+meathead68: folds 
+ladyluck1124: folds 
+Pockets3187: folds 
+pjm20002000: folds 
+Luring You: folds 
+Uncalled bet ($1) returned to Nordbergo
+Nordbergo collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Luring You (big blind) folded before Flop
+Seat 2: Nordbergo collected ($0.85)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 5: TucQua folded before Flop (didn't bet)
+Seat 6: meathead68 folded before Flop
+Seat 7: ladyluck1124 folded before Flop (didn't bet)
+Seat 8: Pockets3187 (button) folded before Flop (didn't bet)
+Seat 9: pjm20002000 (small blind) folded before Flop
+
+
+
+PokerStars Game #20082867423:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:18:44 (ET)
+Table 'Boreas' 9-max Seat #9 is the button
+Seat 1: Luring You ($9.65 in chips) 
+Seat 2: Nordbergo ($6.10 in chips) 
+Seat 3: Alameda22 ($21.30 in chips) 
+Seat 5: TucQua ($21 in chips) 
+Seat 6: meathead68 ($14.75 in chips) 
+Seat 7: ladyluck1124 ($36.35 in chips) 
+Seat 8: Pockets3187 ($24.05 in chips) 
+Seat 9: pjm20002000 ($6.10 in chips) 
+Luring You: posts small blind $0.10
+Nordbergo: posts big blind $0.25
+horob: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 3d]
+Alameda22: folds 
+TucQua: calls $0.25
+meathead68: folds 
+ladyluck1124: calls $0.25
+Pockets3187: folds 
+pjm20002000: raises $0.75 to $1
+Luring You: folds 
+Nordbergo: folds 
+TucQua: calls $0.75
+ladyluck1124: folds 
+*** FLOP *** [Qs 2d Ac]
+TucQua: bets $1
+pjm20002000: raises $1.50 to $2.50
+TucQua: folds 
+Uncalled bet ($1.50) returned to pjm20002000
+pjm20002000 collected $4.40 from pot
+pjm20002000: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.20 
+Board [Qs 2d Ac]
+Seat 1: Luring You (small blind) folded before Flop
+Seat 2: Nordbergo (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 5: TucQua folded on the Flop
+Seat 6: meathead68 folded before Flop (didn't bet)
+Seat 7: ladyluck1124 folded before Flop
+Seat 8: Pockets3187 folded before Flop (didn't bet)
+Seat 9: pjm20002000 (button) collected ($4.40)
+
+
+
+PokerStars Game #20082883814:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:19:46 (ET)
+Table 'Boreas' 9-max Seat #1 is the button
+Seat 1: Luring You ($9.55 in chips) 
+Seat 2: Nordbergo ($5.85 in chips) 
+Seat 3: Alameda22 ($21.30 in chips) 
+Seat 5: TucQua ($19 in chips) 
+Seat 6: meathead68 ($14.75 in chips) 
+Seat 7: ladyluck1124 ($36.10 in chips) 
+Seat 8: Pockets3187 ($24.05 in chips) 
+Seat 9: pjm20002000 ($8.50 in chips) 
+Nordbergo: posts small blind $0.10
+Alameda22: posts big blind $0.25
+horob: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Qh]
+TucQua: folds 
+meathead68: folds 
+ladyluck1124: folds 
+Pockets3187: folds 
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Js Jc 7c]
+Nordbergo: checks 
+Alameda22: checks 
+*** TURN *** [Js Jc 7c] [9d]
+Nordbergo: checks 
+Alameda22: checks 
+*** RIVER *** [Js Jc 7c 9d] [Ah]
+Nordbergo: checks 
+Alameda22: checks 
+*** SHOW DOWN ***
+Nordbergo: shows [8s Kd] (a pair of Jacks)
+Alameda22: mucks hand 
+Nordbergo collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Js Jc 7c 9d Ah]
+Seat 1: Luring You (button) folded before Flop (didn't bet)
+Seat 2: Nordbergo (small blind) showed [8s Kd] and won ($0.50) with a pair of Jacks
+Seat 3: Alameda22 (big blind) mucked [Td Qh]
+Seat 5: TucQua folded before Flop (didn't bet)
+Seat 6: meathead68 folded before Flop (didn't bet)
+Seat 7: ladyluck1124 folded before Flop (didn't bet)
+Seat 8: Pockets3187 folded before Flop (didn't bet)
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082897270:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:20:37 (ET)
+Table 'Boreas' 9-max Seat #2 is the button
+Seat 1: Luring You ($9.55 in chips) 
+Seat 2: Nordbergo ($6.10 in chips) 
+Seat 3: Alameda22 ($21.05 in chips) 
+Seat 4: horob ($15 in chips) 
+Seat 5: TucQua ($19 in chips) 
+Seat 6: meathead68 ($14.75 in chips) 
+Seat 7: ladyluck1124 ($36.10 in chips) 
+Seat 8: Pockets3187 ($24.05 in chips) 
+Seat 9: pjm20002000 ($8.50 in chips) 
+Alameda22: posts small blind $0.10
+horob: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Kd]
+TucQua: raises $0.25 to $0.50
+meathead68: folds 
+ladyluck1124: folds 
+Pockets3187: folds 
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: calls $0.50
+Alameda22: calls $0.40
+horob: folds 
+*** FLOP *** [4h Js Ad]
+Alameda22: checks 
+TucQua: bets $0.25
+Nordbergo: raises $0.50 to $0.75
+Alameda22: folds 
+TucQua: raises $0.50 to $1.25
+Nordbergo: calls $0.50
+*** TURN *** [4h Js Ad] [4s]
+TucQua: bets $0.25
+Nordbergo: calls $0.25
+*** RIVER *** [4h Js Ad 4s] [Qh]
+TucQua: bets $1.25
+Nordbergo: calls $1.25
+*** SHOW DOWN ***
+TucQua: shows [7s 5s] (a pair of Fours)
+Nordbergo: shows [8s As] (two pair, Aces and Fours)
+Nordbergo collected $6.90 from pot
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [4h Js Ad 4s Qh]
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo (button) showed [8s As] and won ($6.90) with two pair, Aces and Fours
+Seat 3: Alameda22 (small blind) folded on the Flop
+Seat 4: horob (big blind) folded before Flop
+Seat 5: TucQua showed [7s 5s] and lost with a pair of Fours
+Seat 6: meathead68 folded before Flop (didn't bet)
+Seat 7: ladyluck1124 folded before Flop (didn't bet)
+Seat 8: Pockets3187 folded before Flop (didn't bet)
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082925089:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:22:25 (ET)
+Table 'Boreas' 9-max Seat #3 is the button
+Seat 1: Luring You ($9.55 in chips) 
+Seat 2: Nordbergo ($9.75 in chips) 
+Seat 3: Alameda22 ($20.55 in chips) 
+Seat 4: horob ($14.75 in chips) 
+Seat 5: TucQua ($15.75 in chips) 
+Seat 6: meathead68 ($14.75 in chips) 
+Seat 7: ladyluck1124 ($36.10 in chips) 
+Seat 8: Pockets3187 ($24.05 in chips) 
+Seat 9: pjm20002000 ($8.50 in chips) 
+horob: posts small blind $0.10
+TucQua: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Tc]
+meathead68: folds 
+ladyluck1124: folds 
+Pockets3187: raises $0.50 to $0.75
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: folds 
+Alameda22: folds 
+horob: folds 
+TucQua: raises $0.50 to $1.25
+Pockets3187: calls $0.50
+*** FLOP *** [9d Ah 2c]
+TucQua: checks 
+Pockets3187: bets $2
+TucQua: calls $2
+*** TURN *** [9d Ah 2c] [4c]
+TucQua: checks 
+Pockets3187: checks 
+*** RIVER *** [9d Ah 2c 4c] [8d]
+TucQua: bets $1.25
+Pockets3187: calls $1.25
+*** SHOW DOWN ***
+TucQua: shows [Ac Qc] (a pair of Aces)
+Pockets3187: mucks hand 
+TucQua collected $8.70 from pot
+*** SUMMARY ***
+Total pot $9.10 | Rake $0.40 
+Board [9d Ah 2c 4c 8d]
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: horob (small blind) folded before Flop
+Seat 5: TucQua (big blind) showed [Ac Qc] and won ($8.70) with a pair of Aces
+Seat 6: meathead68 folded before Flop (didn't bet)
+Seat 7: ladyluck1124 folded before Flop (didn't bet)
+Seat 8: Pockets3187 mucked [7s As]
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082944847:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:23:40 (ET)
+Table 'Boreas' 9-max Seat #4 is the button
+Seat 1: Luring You ($9.55 in chips) 
+Seat 2: Nordbergo ($9.75 in chips) 
+Seat 3: Alameda22 ($20.55 in chips) 
+Seat 4: horob ($14.65 in chips) 
+Seat 5: TucQua ($19.95 in chips) 
+Seat 6: meathead68 ($14.75 in chips) 
+Seat 7: ladyluck1124 ($36.10 in chips) 
+Seat 8: Pockets3187 ($19.55 in chips) 
+Seat 9: pjm20002000 ($8.50 in chips) 
+TucQua: posts small blind $0.10
+meathead68: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 4h]
+ladyluck1124: folds 
+Pockets3187: folds 
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: raises $0.50 to $0.75
+Alameda22: folds 
+horob: folds 
+TucQua: folds 
+meathead68: folds 
+Uncalled bet ($0.50) returned to Nordbergo
+Nordbergo collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo collected ($0.60)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: horob (button) folded before Flop (didn't bet)
+Seat 5: TucQua (small blind) folded before Flop
+Seat 6: meathead68 (big blind) folded before Flop
+Seat 7: ladyluck1124 folded before Flop (didn't bet)
+Seat 8: Pockets3187 folded before Flop (didn't bet)
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082951947:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:24:08 (ET)
+Table 'Boreas' 9-max Seat #5 is the button
+Seat 1: Luring You ($9.55 in chips) 
+Seat 2: Nordbergo ($10.10 in chips) 
+Seat 3: Alameda22 ($20.55 in chips) 
+Seat 4: horob ($14.65 in chips) 
+Seat 5: TucQua ($19.85 in chips) 
+Seat 6: meathead68 ($14.50 in chips) 
+Seat 7: ladyluck1124 ($36.10 in chips) 
+Seat 8: Pockets3187 ($19.55 in chips) 
+Seat 9: pjm20002000 ($8.50 in chips) 
+meathead68: posts small blind $0.10
+ladyluck1124: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Jd]
+Pockets3187: folds 
+pjm20002000: folds 
+Luring You: calls $0.25
+Nordbergo: folds 
+Alameda22: folds 
+horob: folds 
+TucQua: calls $0.25
+meathead68: calls $0.15
+ladyluck1124: checks 
+*** FLOP *** [6d Tc Qc]
+meathead68: checks 
+ladyluck1124: bets $0.75
+Luring You: folds 
+TucQua: raises $1 to $1.75
+meathead68: folds 
+ladyluck1124: calls $1
+*** TURN *** [6d Tc Qc] [4s]
+ladyluck1124: checks 
+TucQua: bets $2.50
+ladyluck1124: calls $2.50
+*** RIVER *** [6d Tc Qc 4s] [2h]
+ladyluck1124: checks 
+TucQua: bets $4
+ladyluck1124: folds 
+Uncalled bet ($4) returned to TucQua
+TucQua collected $9.05 from pot
+TucQua: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.45 
+Board [6d Tc Qc 4s 2h]
+Seat 1: Luring You folded on the Flop
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: horob folded before Flop (didn't bet)
+Seat 5: TucQua (button) collected ($9.05)
+Seat 6: meathead68 (small blind) folded on the Flop
+Seat 7: ladyluck1124 (big blind) folded on the River
+Seat 8: Pockets3187 folded before Flop (didn't bet)
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082969423:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:25:15 (ET)
+Table 'Boreas' 9-max Seat #6 is the button
+Seat 1: Luring You ($9.30 in chips) 
+Seat 2: Nordbergo ($10.10 in chips) 
+Seat 3: Alameda22 ($20.55 in chips) 
+Seat 4: horob ($14.65 in chips) 
+Seat 5: TucQua ($24.40 in chips) 
+Seat 6: meathead68 ($14.25 in chips) 
+Seat 7: ladyluck1124 ($31.60 in chips) 
+Seat 8: Pockets3187 ($19.55 in chips) 
+Seat 9: pjm20002000 ($8.50 in chips) 
+ladyluck1124: posts small blind $0.10
+Pockets3187: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 8s]
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: folds 
+Alameda22: folds 
+horob: folds 
+TucQua: folds 
+meathead68: folds 
+ladyluck1124: calls $0.15
+Pockets3187: checks 
+*** FLOP *** [Qs 4d 6h]
+ladyluck1124: checks 
+Pockets3187: checks 
+*** TURN *** [Qs 4d 6h] [Ac]
+ladyluck1124: bets $1
+Pockets3187: folds 
+Uncalled bet ($1) returned to ladyluck1124
+ladyluck1124 collected $0.50 from pot
+ladyluck1124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Qs 4d 6h Ac]
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: horob folded before Flop (didn't bet)
+Seat 5: TucQua folded before Flop (didn't bet)
+Seat 6: meathead68 (button) folded before Flop (didn't bet)
+Seat 7: ladyluck1124 (small blind) collected ($0.50)
+Seat 8: Pockets3187 (big blind) folded on the Turn
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082980297:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:25:56 (ET)
+Table 'Boreas' 9-max Seat #7 is the button
+Seat 1: Luring You ($9.30 in chips) 
+Seat 2: Nordbergo ($10.10 in chips) 
+Seat 3: Alameda22 ($20.55 in chips) 
+Seat 4: horob ($14.65 in chips) 
+Seat 5: TucQua ($24.40 in chips) 
+Seat 6: meathead68 ($14.25 in chips) 
+Seat 7: ladyluck1124 ($31.85 in chips) 
+Seat 8: Pockets3187 ($19.30 in chips) 
+Seat 9: pjm20002000 ($8.50 in chips) 
+Pockets3187: posts small blind $0.10
+pjm20002000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 2c]
+Luring You: folds 
+Nordbergo: folds 
+Alameda22: folds 
+horob: folds 
+TucQua: calls $0.25
+meathead68: folds 
+ladyluck1124: folds 
+Pockets3187: folds 
+pjm20002000: checks 
+*** FLOP *** [Qc Th Kc]
+pjm20002000: checks 
+ladyluck1124 leaves the table
+TucQua: checks 
+*** TURN *** [Qc Th Kc] [8s]
+pjm20002000: checks 
+TucQua: bets $0.25
+pjm20002000: calls $0.25
+*** RIVER *** [Qc Th Kc 8s] [5d]
+pjm20002000: checks 
+TucQua: bets $0.50
+pjm20002000: calls $0.50
+*** SHOW DOWN ***
+TucQua: shows [2s Ts] (a pair of Tens)
+pjm20002000: shows [Qh 7d] (a pair of Queens)
+pjm20002000 collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Qc Th Kc 8s 5d]
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: horob folded before Flop (didn't bet)
+Seat 5: TucQua showed [2s Ts] and lost with a pair of Tens
+Seat 6: meathead68 folded before Flop (didn't bet)
+Seat 7: ladyluck1124 (button) folded before Flop (didn't bet)
+Seat 8: Pockets3187 (small blind) folded before Flop
+Seat 9: pjm20002000 (big blind) showed [Qh 7d] and won ($2) with a pair of Queens
+
+
+
+PokerStars Game #20082997274:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:27:01 (ET)
+Table 'Boreas' 9-max Seat #8 is the button
+Seat 1: Luring You ($9.30 in chips) 
+Seat 2: Nordbergo ($10.10 in chips) 
+Seat 3: Alameda22 ($20.55 in chips) 
+Seat 4: horob ($14.65 in chips) 
+Seat 5: TucQua ($23.40 in chips) 
+Seat 6: meathead68 ($14.25 in chips) 
+Seat 8: Pockets3187 ($19.20 in chips) 
+Seat 9: pjm20002000 ($9.50 in chips) 
+pjm20002000: posts small blind $0.10
+Luring You: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Ad]
+Nordbergo: raises $0.25 to $0.50
+Alameda22: folds 
+horob: folds 
+TucQua: folds 
+meathead68: folds 
+Pockets3187: raises $1.50 to $2
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: folds 
+Uncalled bet ($1.50) returned to Pockets3187
+Pockets3187 collected $1.35 from pot
+Pockets3187: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0 
+Seat 1: Luring You (big blind) folded before Flop
+Seat 2: Nordbergo folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: horob folded before Flop (didn't bet)
+Seat 5: TucQua folded before Flop (didn't bet)
+Seat 6: meathead68 folded before Flop (didn't bet)
+Seat 8: Pockets3187 (button) collected ($1.35)
+Seat 9: pjm20002000 (small blind) folded before Flop
+
+
+
+PokerStars Game #20083004255:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:27:28 (ET)
+Table 'Boreas' 9-max Seat #9 is the button
+Seat 1: Luring You ($9.05 in chips) 
+Seat 2: Nordbergo ($9.60 in chips) 
+Seat 3: Alameda22 ($20.55 in chips) 
+Seat 4: horob ($14.65 in chips) 
+Seat 5: TucQua ($23.40 in chips) 
+Seat 6: meathead68 ($14.25 in chips) 
+Seat 8: Pockets3187 ($20.05 in chips) 
+Seat 9: pjm20002000 ($9.40 in chips) 
+Luring You: posts small blind $0.10
+Nordbergo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Td]
+Alameda22: folds 
+horob: folds 
+TucQua: folds 
+meathead68: folds 
+Pockets3187: folds 
+pjm20002000: calls $0.25
+Luring You: calls $0.15
+Nordbergo: checks 
+*** FLOP *** [8h 6s Ad]
+Luring You: checks 
+Nordbergo: checks 
+pjm20002000: checks 
+*** TURN *** [8h 6s Ad] [Ts]
+Luring You: bets $0.25
+Nordbergo: folds 
+pjm20002000: calls $0.25
+*** RIVER *** [8h 6s Ad Ts] [Th]
+Luring You: bets $0.25
+pjm20002000: calls $0.25
+*** SHOW DOWN ***
+Luring You: shows [Ac 2d] (two pair, Aces and Tens)
+pjm20002000: mucks hand 
+Luring You collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [8h 6s Ad Ts Th]
+Seat 1: Luring You (small blind) showed [Ac 2d] and won ($1.70) with two pair, Aces and Tens
+Seat 2: Nordbergo (big blind) folded on the Turn
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: horob folded before Flop (didn't bet)
+Seat 5: TucQua folded before Flop (didn't bet)
+Seat 6: meathead68 folded before Flop (didn't bet)
+Seat 8: Pockets3187 folded before Flop (didn't bet)
+Seat 9: pjm20002000 (button) mucked [7d 8d]
+
+
+
+PokerStars Game #20083018072:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:28:22 (ET)
+Table 'Boreas' 9-max Seat #1 is the button
+Seat 1: Luring You ($10 in chips) 
+Seat 2: Nordbergo ($9.35 in chips) 
+Seat 3: Alameda22 ($20.55 in chips) 
+Seat 4: horob ($14.65 in chips) 
+Seat 5: TucQua ($23.40 in chips) 
+Seat 6: meathead68 ($14.25 in chips) 
+Seat 8: Pockets3187 ($20.05 in chips) 
+Seat 9: pjm20002000 ($8.65 in chips) 
+Nordbergo: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Qd]
+horob: calls $0.25
+TucQua: calls $0.25
+meathead68: folds 
+Pockets3187: folds 
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Th 2d Td]
+Nordbergo: checks 
+Alameda22: checks 
+horob: checks 
+TucQua: bets $0.25
+Nordbergo: calls $0.25
+Alameda22: calls $0.25
+horob: folds 
+*** TURN *** [Th 2d Td] [5h]
+Nordbergo: checks 
+Alameda22: checks 
+TucQua: checks 
+*** RIVER *** [Th 2d Td 5h] [5c]
+Nordbergo: checks 
+Alameda22: checks 
+TucQua: checks 
+*** SHOW DOWN ***
+Nordbergo: shows [6s 8d] (two pair, Tens and Fives)
+Alameda22: shows [3d Qd] (two pair, Tens and Fives - Queen kicker)
+TucQua: shows [As 9d] (two pair, Tens and Fives - Ace kicker)
+TucQua collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Th 2d Td 5h 5c]
+Seat 1: Luring You (button) folded before Flop (didn't bet)
+Seat 2: Nordbergo (small blind) showed [6s 8d] and lost with two pair, Tens and Fives
+Seat 3: Alameda22 (big blind) showed [3d Qd] and lost with two pair, Tens and Fives
+Seat 4: horob folded on the Flop
+Seat 5: TucQua showed [As 9d] and won ($1.70) with two pair, Tens and Fives
+Seat 6: meathead68 folded before Flop (didn't bet)
+Seat 8: Pockets3187 folded before Flop (didn't bet)
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083039795:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:29:47 (ET)
+Table 'Boreas' 9-max Seat #2 is the button
+Seat 1: Luring You ($10 in chips) 
+Seat 2: Nordbergo ($8.85 in chips) 
+Seat 3: Alameda22 ($20.05 in chips) 
+Seat 4: horob ($14.40 in chips) 
+Seat 5: TucQua ($24.60 in chips) 
+Seat 6: meathead68 ($14.25 in chips) 
+Seat 8: Pockets3187 ($20.05 in chips) 
+Seat 9: pjm20002000 ($8.65 in chips) 
+Alameda22: posts small blind $0.10
+horob: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Ts]
+TucQua: calls $0.25
+meathead68: calls $0.25
+Pockets3187: calls $0.25
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: folds 
+Alameda22: folds 
+horob: checks 
+*** FLOP *** [Jc 7s Kh]
+horob: checks 
+TucQua: checks 
+meathead68: checks 
+Pockets3187: checks 
+*** TURN *** [Jc 7s Kh] [9d]
+horob: checks 
+TucQua: bets $0.50
+meathead68: folds 
+Pockets3187: folds 
+horob: calls $0.50
+*** RIVER *** [Jc 7s Kh 9d] [Jh]
+horob: bets $1.25
+TucQua: folds 
+Uncalled bet ($1.25) returned to horob
+horob collected $2 from pot
+horob: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Jc 7s Kh 9d Jh]
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: horob (big blind) collected ($2)
+Seat 5: TucQua folded on the River
+Seat 6: meathead68 folded on the Turn
+Seat 8: Pockets3187 folded on the Turn
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083057155:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:30:55 (ET)
+Table 'Boreas' 9-max Seat #3 is the button
+Seat 1: Luring You ($10 in chips) 
+Seat 2: Nordbergo ($8.85 in chips) 
+Seat 3: Alameda22 ($19.95 in chips) 
+Seat 4: horob ($15.65 in chips) 
+Seat 5: TucQua ($23.85 in chips) 
+Seat 6: meathead68 ($14 in chips) 
+Seat 8: Pockets3187 ($19.80 in chips) 
+Seat 9: pjm20002000 ($8.65 in chips) 
+horob: posts small blind $0.10
+TucQua: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Ks]
+meathead68: calls $0.25
+Pockets3187: folds 
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: calls $0.25
+Alameda22: raises $1.25 to $1.50
+horob: folds 
+TucQua: folds 
+meathead68: folds 
+Nordbergo: folds 
+Uncalled bet ($1.25) returned to Alameda22
+Alameda22 collected $1.10 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo folded before Flop
+Seat 3: Alameda22 (button) collected ($1.10)
+Seat 4: horob (small blind) folded before Flop
+Seat 5: TucQua (big blind) folded before Flop
+Seat 6: meathead68 folded before Flop
+Seat 8: Pockets3187 folded before Flop (didn't bet)
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083069064:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:31:36 (ET)
+Table 'Boreas' 9-max Seat #4 is the button
+Seat 1: Luring You ($10 in chips) 
+Seat 2: Nordbergo ($8.60 in chips) 
+Seat 3: Alameda22 ($20.80 in chips) 
+Seat 4: horob ($15.55 in chips) 
+Seat 5: TucQua ($23.60 in chips) 
+Seat 6: meathead68 ($13.75 in chips) 
+Seat 8: Pockets3187 ($19.80 in chips) 
+Seat 9: pjm20002000 ($8.65 in chips) 
+TucQua: posts small blind $0.10
+meathead68: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Qc]
+Pockets3187: calls $0.25
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: folds 
+Alameda22: folds 
+horob: folds 
+TucQua: raises $0.25 to $0.50
+meathead68: calls $0.25
+Pockets3187: calls $0.25
+*** FLOP *** [Qd 6s 6c]
+TucQua: bets $0.50
+meathead68: folds 
+Pockets3187: raises $0.75 to $1.25
+TucQua: calls $0.75
+*** TURN *** [Qd 6s 6c] [3d]
+TucQua: checks 
+BLUEJAY1015 joins the table at seat #7 
+Pockets3187: bets $2.15
+TucQua: calls $2.15
+*** RIVER *** [Qd 6s 6c 3d] [5d]
+TucQua: bets $1
+Pockets3187: raises $2.25 to $3.25
+TucQua: calls $2.25
+*** SHOW DOWN ***
+Pockets3187: shows [5c 5s] (a full house, Fives full of Sixes)
+TucQua: mucks hand 
+Pockets3187 collected $14.10 from pot
+*** SUMMARY ***
+Total pot $14.80 | Rake $0.70 
+Board [Qd 6s 6c 3d 5d]
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: horob (button) folded before Flop (didn't bet)
+Seat 5: TucQua (small blind) mucked [7s Qs]
+Seat 6: meathead68 (big blind) folded on the Flop
+Seat 8: Pockets3187 showed [5c 5s] and won ($14.10) with a full house, Fives full of Sixes
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083095283:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:33:12 (ET)
+Table 'Boreas' 9-max Seat #5 is the button
+Seat 1: Luring You ($10 in chips) 
+Seat 2: Nordbergo ($8.60 in chips) 
+Seat 3: Alameda22 ($20.80 in chips) 
+Seat 4: horob ($15.55 in chips) 
+Seat 5: TucQua ($16.45 in chips) 
+Seat 6: meathead68 ($13.25 in chips) 
+Seat 7: BLUEJAY1015 ($6 in chips) 
+Seat 8: Pockets3187 ($26.75 in chips) 
+Seat 9: pjm20002000 ($8.65 in chips) 
+meathead68: posts small blind $0.10
+BLUEJAY1015: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Ad]
+Pockets3187: folds 
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: raises $0.50 to $0.75
+Alameda22: folds 
+horob: folds 
+TucQua: calls $0.75
+meathead68: folds 
+BLUEJAY1015: folds 
+*** FLOP *** [Kh Kd 8d]
+Nordbergo: bets $0.75
+TucQua: calls $0.75
+*** TURN *** [Kh Kd 8d] [6c]
+Nordbergo: bets $2
+TucQua: raises $2.50 to $4.50
+Nordbergo: raises $2.60 to $7.10 and is all-in
+TucQua: calls $2.60
+*** RIVER *** [Kh Kd 8d 6c] [Jh]
+*** SHOW DOWN ***
+Nordbergo: shows [Ts Kc] (three of a kind, Kings)
+TucQua: shows [Ks 2h] (three of a kind, Kings - lower kicker)
+Nordbergo collected $16.70 from pot
+*** SUMMARY ***
+Total pot $17.55 | Rake $0.85 
+Board [Kh Kd 8d 6c Jh]
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo showed [Ts Kc] and won ($16.70) with three of a kind, Kings
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: horob folded before Flop (didn't bet)
+Seat 5: TucQua (button) showed [Ks 2h] and lost with three of a kind, Kings
+Seat 6: meathead68 (small blind) folded before Flop
+Seat 7: BLUEJAY1015 (big blind) folded before Flop
+Seat 8: Pockets3187 folded before Flop (didn't bet)
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083112255:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:34:14 (ET)
+Table 'Boreas' 9-max Seat #6 is the button
+Seat 1: Luring You ($10 in chips) 
+Seat 2: Nordbergo ($16.70 in chips) 
+Seat 3: Alameda22 ($20.80 in chips) 
+Seat 4: horob ($15.55 in chips) 
+Seat 5: TucQua ($7.85 in chips) 
+Seat 6: meathead68 ($13.15 in chips) 
+Seat 7: BLUEJAY1015 ($5.75 in chips) 
+Seat 8: Pockets3187 ($26.75 in chips) 
+Seat 9: pjm20002000 ($8.65 in chips) 
+BLUEJAY1015: posts small blind $0.10
+Pockets3187: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 5d]
+pjm20002000: folds 
+Luring You: folds 
+Nordbergo: folds 
+Alameda22: folds 
+horob: folds 
+TucQua: raises $0.50 to $0.75
+meathead68: folds 
+BLUEJAY1015: folds 
+Pockets3187: folds 
+Uncalled bet ($0.50) returned to TucQua
+TucQua collected $0.60 from pot
+TucQua: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: horob folded before Flop (didn't bet)
+Seat 5: TucQua collected ($0.60)
+Seat 6: meathead68 (button) folded before Flop (didn't bet)
+Seat 7: BLUEJAY1015 (small blind) folded before Flop
+Seat 8: Pockets3187 (big blind) folded before Flop
+Seat 9: pjm20002000 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083119792:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:34:42 (ET)
+Table 'Boreas' 9-max Seat #7 is the button
+Seat 1: Luring You ($10 in chips) 
+Seat 2: Nordbergo ($16.70 in chips) 
+Seat 3: Alameda22 ($20.80 in chips) 
+Seat 4: horob ($15.55 in chips) 
+Seat 5: TucQua ($8.20 in chips) 
+Seat 6: meathead68 ($13.15 in chips) 
+Seat 7: BLUEJAY1015 ($5.65 in chips) 
+Seat 8: Pockets3187 ($26.50 in chips) 
+Seat 9: pjm20002000 ($8.65 in chips) 
+Pockets3187: posts small blind $0.10
+pjm20002000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 4h]
+Luring You: folds 
+Nordbergo: folds 
+Alameda22: folds 
+horob: calls $0.25
+TucQua: raises $0.50 to $0.75
+meathead68: folds 
+BLUEJAY1015: folds 
+Pockets3187: folds 
+pjm20002000: folds 
+horob: folds 
+Uncalled bet ($0.50) returned to TucQua
+TucQua collected $0.85 from pot
+TucQua: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Luring You folded before Flop (didn't bet)
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: horob folded before Flop
+Seat 5: TucQua collected ($0.85)
+Seat 6: meathead68 folded before Flop (didn't bet)
+Seat 7: BLUEJAY1015 (button) folded before Flop (didn't bet)
+Seat 8: Pockets3187 (small blind) folded before Flop
+Seat 9: pjm20002000 (big blind) folded before Flop
+
+
+
+PokerStars Game #20083133275:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:35:32 (ET)
+Table 'Boreas' 9-max Seat #8 is the button
+Seat 1: Luring You ($10 in chips) 
+Seat 2: Nordbergo ($16.70 in chips) 
+Seat 3: Alameda22 ($20.80 in chips) 
+Seat 4: horob ($15.30 in chips) 
+Seat 5: TucQua ($8.80 in chips) 
+Seat 6: meathead68 ($13.15 in chips) 
+Seat 7: BLUEJAY1015 ($5.65 in chips) 
+Seat 8: Pockets3187 ($26.40 in chips) 
+Seat 9: pjm20002000 ($8.40 in chips) 
+pjm20002000: posts small blind $0.10
+Luring You: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 6c]
+Nordbergo: folds 
+Alameda22: folds 
+horob: folds 
+TucQua: folds 
+meathead68: folds 
+BLUEJAY1015: folds 
+Pockets3187: folds 
+pjm20002000: calls $0.15
+Luring You: checks 
+*** FLOP *** [Kd Qd Js]
+pjm20002000: bets $0.50
+Luring You: folds 
+Uncalled bet ($0.50) returned to pjm20002000
+pjm20002000 collected $0.50 from pot
+pjm20002000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Kd Qd Js]
+Seat 1: Luring You (big blind) folded on the Flop
+Seat 2: Nordbergo folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: horob folded before Flop (didn't bet)
+Seat 5: TucQua folded before Flop (didn't bet)
+Seat 6: meathead68 folded before Flop (didn't bet)
+Seat 7: BLUEJAY1015 folded before Flop (didn't bet)
+Seat 8: Pockets3187 (button) folded before Flop (didn't bet)
+Seat 9: pjm20002000 (small blind) collected ($0.50)
+
+
+
+PokerStars Game #20083145456:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:36:18 (ET)
+Table 'Boreas' 9-max Seat #9 is the button
+Seat 1: Luring You ($9.75 in chips) 
+Seat 2: Nordbergo ($16.70 in chips) 
+Seat 3: Alameda22 ($20.80 in chips) 
+Seat 4: horob ($15.30 in chips) 
+Seat 5: TucQua ($8.80 in chips) 
+Seat 6: meathead68 ($13.15 in chips) 
+Seat 7: BLUEJAY1015 ($5.65 in chips) 
+Seat 8: Pockets3187 ($26.40 in chips) 
+Seat 9: pjm20002000 ($8.65 in chips) 
+Luring You: posts small blind $0.10
+Nordbergo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 3d]
+Alameda22: folds 
+horob: folds 
+TucQua: raises $0.25 to $0.50
+meathead68: folds 
+BLUEJAY1015: calls $0.50
+Pockets3187: folds 
+pjm20002000: calls $0.50
+Luring You: folds 
+Nordbergo: calls $0.25
+*** FLOP *** [6h 8s 8c]
+Nordbergo: checks 
+TucQua: bets $0.50
+BLUEJAY1015: calls $0.50
+pjm20002000: raises $1 to $1.50
+Nordbergo: folds 
+TucQua: calls $1
+BLUEJAY1015: calls $1
+*** TURN *** [6h 8s 8c] [Ad]
+TucQua: checks 
+BLUEJAY1015: checks 
+pjm20002000: bets $2.50
+TucQua: folds 
+BLUEJAY1015: folds 
+Uncalled bet ($2.50) returned to pjm20002000
+pjm20002000 collected $6.30 from pot
+pjm20002000: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.60 | Rake $0.30 
+Board [6h 8s 8c Ad]
+Seat 1: Luring You (small blind) folded before Flop
+Seat 2: Nordbergo (big blind) folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: horob folded before Flop (didn't bet)
+Seat 5: TucQua folded on the Turn
+Seat 6: meathead68 folded before Flop (didn't bet)
+Seat 7: BLUEJAY1015 folded on the Turn
+Seat 8: Pockets3187 folded before Flop (didn't bet)
+Seat 9: pjm20002000 (button) collected ($6.30)
+
+
+

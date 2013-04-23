@@ -1,0 +1,4758 @@
+PokerStars Game #20098779769:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:30:29 ET
+Table 'Retsina III' 9-max Seat #5 is the button
+Seat 1: rastyrasty ($14.40 in chips) 
+Seat 2: losoap30 ($10.05 in chips) 
+Seat 3: axel1010 ($12 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 5: ghostrider27 ($17.45 in chips) 
+Seat 6: yipyapsap ($24.70 in chips) 
+Seat 7: grondinjf ($29.75 in chips) 
+Seat 8: WakedJake ($25.25 in chips) 
+Seat 9: silver2871 ($39.80 in chips) 
+yipyapsap: posts small blind $0.10
+grondinjf: posts big blind $0.25
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 2c]
+WakedJake: folds 
+silver2871: calls $0.25
+rastyrasty: folds 
+losoap30: folds 
+axel1010: calls $0.25
+Alameda22: checks 
+ghostrider27: calls $0.25
+yipyapsap: folds 
+grondinjf: checks 
+*** FLOP *** [7h 9d 2h]
+grondinjf: checks 
+silver2871: checks 
+axel1010: bets $0.25
+Alameda22: folds 
+ghostrider27: calls $0.25
+grondinjf: folds 
+silver2871: folds 
+*** TURN *** [7h 9d 2h] [Qh]
+axel1010: bets $0.75
+ghostrider27: folds 
+Uncalled bet ($0.75) returned to axel1010
+axel1010 collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [7h 9d 2h Qh]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: losoap30 folded before Flop (didn't bet)
+Seat 3: axel1010 collected ($1.80)
+Seat 4: Alameda22 folded on the Flop
+Seat 5: ghostrider27 (button) folded on the Turn
+Seat 6: yipyapsap (small blind) folded before Flop
+Seat 7: grondinjf (big blind) folded on the Flop
+Seat 8: WakedJake folded before Flop (didn't bet)
+Seat 9: silver2871 folded on the Flop
+
+
+
+PokerStars Game #20098831322:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:32:29 ET
+Table 'Retsina III' 9-max Seat #6 is the button
+Seat 1: rastyrasty ($14.40 in chips) 
+Seat 2: losoap30 ($10.05 in chips) 
+Seat 3: axel1010 ($13.30 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: ghostrider27 ($16.95 in chips) 
+Seat 6: yipyapsap ($25 in chips) 
+Seat 7: grondinjf ($29.50 in chips) 
+Seat 8: WakedJake ($25.25 in chips) 
+Seat 9: silver2871 ($39.55 in chips) 
+grondinjf: posts small blind $0.10
+WakedJake: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Js]
+silver2871: calls $0.25
+rastyrasty: folds 
+losoap30: folds 
+axel1010: calls $0.25
+Alameda22: folds 
+ghostrider27: raises $0.50 to $0.75
+yipyapsap: folds 
+grondinjf: folds 
+WakedJake: folds 
+silver2871: calls $0.50
+axel1010: calls $0.50
+*** FLOP *** [Ad 6d 2h]
+silver2871: checks 
+axel1010: checks 
+ghostrider27: bets $1
+silver2871: calls $1
+axel1010: folds 
+*** TURN *** [Ad 6d 2h] [3d]
+silver2871: checks 
+ghostrider27: bets $2
+silver2871: raises $2.75 to $4.75
+ghostrider27: folds 
+Uncalled bet ($2.75) returned to silver2871
+silver2871 collected $8.20 from pot
+*** SUMMARY ***
+Total pot $8.60 | Rake $0.40 
+Board [Ad 6d 2h 3d]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: losoap30 folded before Flop (didn't bet)
+Seat 3: axel1010 folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded on the Turn
+Seat 6: yipyapsap (button) folded before Flop (didn't bet)
+Seat 7: grondinjf (small blind) folded before Flop
+Seat 8: WakedJake (big blind) folded before Flop
+Seat 9: silver2871 collected ($8.20)
+
+
+
+PokerStars Game #20098873768:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:34:09 ET
+Table 'Retsina III' 9-max Seat #7 is the button
+Seat 1: rastyrasty ($14.40 in chips) 
+Seat 2: losoap30 ($10.05 in chips) 
+Seat 3: axel1010 ($12.55 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: ghostrider27 ($13.20 in chips) 
+Seat 6: yipyapsap ($25 in chips) 
+Seat 7: grondinjf ($29.40 in chips) 
+Seat 8: WakedJake ($25 in chips) 
+Seat 9: silver2871 ($44 in chips) 
+WakedJake: posts small blind $0.10
+silver2871: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 6s]
+rastyrasty: folds 
+losoap30: folds 
+axel1010: folds 
+Alameda22: folds 
+ghostrider27: raises $0.50 to $0.75
+yipyapsap: folds 
+grondinjf: folds 
+WakedJake: folds 
+silver2871: folds 
+Uncalled bet ($0.50) returned to ghostrider27
+ghostrider27 collected $0.60 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: losoap30 folded before Flop (didn't bet)
+Seat 3: axel1010 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 collected ($0.60)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: grondinjf (button) folded before Flop (didn't bet)
+Seat 8: WakedJake (small blind) folded before Flop
+Seat 9: silver2871 (big blind) folded before Flop
+
+
+
+PokerStars Game #20098886863:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:34:40 ET
+Table 'Retsina III' 9-max Seat #8 is the button
+Seat 1: rastyrasty ($14.40 in chips) 
+Seat 2: losoap30 ($10.05 in chips) 
+Seat 3: axel1010 ($12.55 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: ghostrider27 ($13.55 in chips) 
+Seat 6: yipyapsap ($25 in chips) 
+Seat 7: grondinjf ($29.40 in chips) 
+Seat 8: WakedJake ($24.90 in chips) 
+Seat 9: silver2871 ($43.75 in chips) 
+silver2871: posts small blind $0.10
+rastyrasty: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Jd]
+losoap30: folds 
+axel1010: calls $0.25
+losoap30 leaves the table
+Alameda22: folds 
+ghostrider27: raises $0.75 to $1
+yipyapsap: folds 
+grondinjf: folds 
+coopb16 joins the table at seat #2 
+WakedJake: folds 
+silver2871: folds 
+rastyrasty: folds 
+axel1010: folds 
+Uncalled bet ($0.75) returned to ghostrider27
+ghostrider27 collected $0.85 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: rastyrasty (big blind) folded before Flop
+Seat 2: losoap30 folded before Flop (didn't bet)
+Seat 3: axel1010 folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 collected ($0.85)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: grondinjf folded before Flop (didn't bet)
+Seat 8: WakedJake (button) folded before Flop (didn't bet)
+Seat 9: silver2871 (small blind) folded before Flop
+
+
+
+PokerStars Game #20098914416:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:35:44 ET
+Table 'Retsina III' 9-max Seat #9 is the button
+Seat 3: axel1010 ($12.30 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: ghostrider27 ($14.15 in chips) 
+Seat 6: yipyapsap ($25 in chips) 
+Seat 7: grondinjf ($29.40 in chips) 
+Seat 8: WakedJake ($24.90 in chips) 
+Seat 9: silver2871 ($43.65 in chips) 
+ghostrider27 said, "see grondin"
+ghostrider27 said, "no money for good starters"
+ghostrider27 said, "limp with em and get run over lol"
+grondinjf said, "nh, gotta go, gl all"
+rastyrasty has timed out
+rastyrasty: is sitting out 
+coopb16 will be allowed to play after the button
+axel1010: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 7c]
+rastyrasty has returned
+ghostrider27: folds 
+yipyapsap: folds 
+grondinjf: folds 
+grondinjf is sitting out
+WakedJake: folds 
+silver2871: folds 
+axel1010: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Ah 7h 9d]
+axel1010: checks 
+Alameda22: checks 
+*** TURN *** [Ah 7h 9d] [6h]
+axel1010: checks 
+Alameda22: checks 
+*** RIVER *** [Ah 7h 9d 6h] [Qs]
+axel1010: checks 
+Alameda22: checks 
+*** SHOW DOWN ***
+axel1010: shows [Tc 5c] (high card Ace)
+Alameda22: shows [4s 7c] (a pair of Sevens)
+Alameda22 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Ah 7h 9d 6h Qs]
+Seat 3: axel1010 (small blind) showed [Tc 5c] and lost with high card Ace
+Seat 4: Alameda22 (big blind) showed [4s 7c] and won ($0.50) with a pair of Sevens
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: grondinjf folded before Flop (didn't bet)
+Seat 8: WakedJake folded before Flop (didn't bet)
+Seat 9: silver2871 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20098961231:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:37:35 ET
+Table 'Retsina III' 9-max Seat #3 is the button
+Seat 3: axel1010 ($12.05 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 5: ghostrider27 ($14.15 in chips) 
+Seat 6: yipyapsap ($25 in chips) 
+Seat 8: WakedJake ($24.90 in chips) 
+Seat 9: silver2871 ($43.65 in chips) 
+Alameda22: posts small blind $0.10
+ghostrider27: posts big blind $0.25
+rastyrasty: sits out 
+coopb16: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Kd]
+yipyapsap: folds 
+WakedJake: folds 
+silver2871: folds 
+axel1010: folds 
+axel1010 leaves the table
+Alameda22: folds 
+Uncalled bet ($0.15) returned to ghostrider27
+ghostrider27 collected $0.20 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: axel1010 (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: ghostrider27 (big blind) collected ($0.20)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: WakedJake folded before Flop (didn't bet)
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20098976067:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:38:11 ET
+Table 'Retsina III' 9-max Seat #4 is the button
+Seat 4: Alameda22 ($24.90 in chips) 
+Seat 5: ghostrider27 ($14.25 in chips) 
+Seat 6: yipyapsap ($25 in chips) 
+Seat 8: WakedJake ($24.90 in chips) 
+Seat 9: silver2871 ($43.65 in chips) 
+ghostrider27: posts small blind $0.10
+yipyapsap: posts big blind $0.25
+rastyrasty: sits out 
+coopb16: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 3h]
+WakedJake: folds 
+sjask joins the table at seat #3 
+silver2871: folds 
+Alameda22: folds 
+ghostrider27: calls $0.15
+yipyapsap: checks 
+*** FLOP *** [6c 2h Ts]
+ghostrider27: bets $0.25
+yipyapsap: raises $0.75 to $1
+ghostrider27: calls $0.75
+*** TURN *** [6c 2h Ts] [6d]
+ghostrider27: checks 
+yipyapsap: checks 
+*** RIVER *** [6c 2h Ts 6d] [4s]
+ghostrider27: bets $1
+yipyapsap: calls $1
+*** SHOW DOWN ***
+ghostrider27: shows [Qh 2c] (two pair, Sixes and Deuces)
+yipyapsap: shows [4h Th] (two pair, Tens and Sixes)
+yipyapsap collected $4.30 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [6c 2h Ts 6d 4s]
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: ghostrider27 (small blind) showed [Qh 2c] and lost with two pair, Sixes and Deuces
+Seat 6: yipyapsap (big blind) showed [4h Th] and won ($4.30) with two pair, Tens and Sixes
+Seat 8: WakedJake folded before Flop (didn't bet)
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20098998802:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:39:05 ET
+Table 'Retsina III' 9-max Seat #5 is the button
+Seat 3: sjask ($7 in chips) 
+Seat 4: Alameda22 ($24.90 in chips) 
+Seat 5: ghostrider27 ($12 in chips) 
+Seat 6: yipyapsap ($27.05 in chips) 
+Seat 8: WakedJake ($24.90 in chips) 
+Seat 9: silver2871 ($43.65 in chips) 
+yipyapsap: posts small blind $0.10
+WakedJake: posts big blind $0.25
+rastyrasty: sits out 
+coopb16: sits out 
+sjask: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Ks]
+silver2871: folds 
+sjask: checks 
+Alameda22: folds 
+ghostrider27: calls $0.25
+yipyapsap: folds 
+WakedJake: checks 
+*** FLOP *** [3d 4c Td]
+WakedJake: checks 
+sjask: checks 
+ghostrider27: bets $0.25
+WakedJake: folds 
+sjask: folds 
+Uncalled bet ($0.25) returned to ghostrider27
+ghostrider27 collected $0.85 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [3d 4c Td]
+Seat 3: sjask folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 (button) collected ($0.85)
+Seat 6: yipyapsap (small blind) folded before Flop
+Seat 8: WakedJake (big blind) folded on the Flop
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099021089:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:39:58 ET
+Table 'Retsina III' 9-max Seat #6 is the button
+Seat 3: sjask ($6.75 in chips) 
+Seat 4: Alameda22 ($24.90 in chips) 
+Seat 5: ghostrider27 ($12.60 in chips) 
+Seat 6: yipyapsap ($26.95 in chips) 
+Seat 8: WakedJake ($24.65 in chips) 
+Seat 9: silver2871 ($43.65 in chips) 
+WakedJake: posts small blind $0.10
+silver2871: posts big blind $0.25
+rastyrasty: sits out 
+coopb16: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 8d]
+sjask: folds 
+Alameda22: folds 
+ghostrider27: raises $0.50 to $0.75
+yipyapsap: folds 
+WakedJake: folds 
+silver2871: folds 
+Uncalled bet ($0.50) returned to ghostrider27
+ghostrider27 collected $0.60 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 3: sjask folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 collected ($0.60)
+Seat 6: yipyapsap (button) folded before Flop (didn't bet)
+Seat 8: WakedJake (small blind) folded before Flop
+Seat 9: silver2871 (big blind) folded before Flop
+
+
+
+PokerStars Game #20099034889:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:40:31 ET
+Table 'Retsina III' 9-max Seat #8 is the button
+Seat 1: rastyrasty ($14.15 in chips) 
+Seat 3: sjask ($6.75 in chips) 
+Seat 4: Alameda22 ($24.90 in chips) 
+Seat 5: ghostrider27 ($12.95 in chips) 
+Seat 6: yipyapsap ($26.95 in chips) 
+Seat 8: WakedJake ($24.55 in chips) 
+Seat 9: silver2871 ($43.40 in chips) 
+silver2871: posts small blind $0.10
+rastyrasty: posts big blind $0.25
+coopb16: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 5h]
+sjask: folds 
+Alameda22: folds 
+ghostrider27: calls $0.25
+yipyapsap: folds 
+WakedJake: folds 
+silver2871: folds 
+rastyrasty: checks 
+*** FLOP *** [2s 3h 9s]
+rastyrasty: bets $1.25
+ghostrider27: raises $1.25 to $2.50
+rastyrasty: calls $1.25
+*** TURN *** [2s 3h 9s] [Ad]
+rastyrasty: checks 
+ghostrider27: checks 
+*** RIVER *** [2s 3h 9s Ad] [6s]
+rastyrasty: bets $1
+ghostrider27: calls $1
+*** SHOW DOWN ***
+rastyrasty: shows [Ts 3s] (a flush, Ten high)
+ghostrider27: mucks hand 
+rastyrasty collected $7.25 from pot
+*** SUMMARY ***
+Total pot $7.60 | Rake $0.35 
+Board [2s 3h 9s Ad 6s]
+Seat 1: rastyrasty (big blind) showed [Ts 3s] and won ($7.25) with a flush, Ten high
+Seat 3: sjask folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 mucked [9c Qd]
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: WakedJake (button) folded before Flop (didn't bet)
+Seat 9: silver2871 (small blind) folded before Flop
+
+
+
+PokerStars Game #20099073873:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:42:03 ET
+Table 'Retsina III' 9-max Seat #9 is the button
+Seat 1: rastyrasty ($17.65 in chips) 
+Seat 2: coopb16 ($25 in chips) 
+Seat 3: sjask ($6.75 in chips) 
+Seat 4: Alameda22 ($24.90 in chips) 
+Seat 5: ghostrider27 ($9.20 in chips) 
+Seat 6: yipyapsap ($26.95 in chips) 
+Seat 8: WakedJake ($24.55 in chips) 
+Seat 9: silver2871 ($43.30 in chips) 
+rastyrasty: posts small blind $0.10
+coopb16: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Td]
+sjask: folds 
+Alameda22: folds 
+ghostrider27: calls $0.25
+yipyapsap: folds 
+WakedJake: folds 
+silver2871: raises $1 to $1.25
+rastyrasty: folds 
+coopb16: folds 
+ghostrider27: raises $1.25 to $2.50
+silver2871: calls $1.25
+*** FLOP *** [6c Kh 7h]
+ghostrider27: checks 
+silver2871: checks 
+*** TURN *** [6c Kh 7h] [2d]
+ghostrider27: bets $0.25
+silver2871: calls $0.25
+*** RIVER *** [6c Kh 7h 2d] [6s]
+ghostrider27: bets $0.25
+silver2871: calls $0.25
+*** SHOW DOWN ***
+ghostrider27: shows [Qd Qs] (two pair, Queens and Sixes)
+silver2871: mucks hand 
+ghostrider27 collected $6.05 from pot
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.30 
+Board [6c Kh 7h 2d 6s]
+Seat 1: rastyrasty (small blind) folded before Flop
+Seat 2: coopb16 (big blind) folded before Flop
+Seat 3: sjask folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 showed [Qd Qs] and won ($6.05) with two pair, Queens and Sixes
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: WakedJake folded before Flop (didn't bet)
+Seat 9: silver2871 (button) mucked [Ac Qh]
+
+
+
+PokerStars Game #20099112141:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:43:34 ET
+Table 'Retsina III' 9-max Seat #1 is the button
+Seat 1: rastyrasty ($17.55 in chips) 
+Seat 2: coopb16 ($24.75 in chips) 
+Seat 3: sjask ($6.75 in chips) 
+Seat 4: Alameda22 ($24.90 in chips) 
+Seat 5: ghostrider27 ($12.25 in chips) 
+Seat 6: yipyapsap ($26.95 in chips) 
+Seat 8: WakedJake ($24.55 in chips) 
+Seat 9: silver2871 ($40.30 in chips) 
+coopb16: posts small blind $0.10
+sjask: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 5d]
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+WakedJake: folds 
+silver2871: raises $0.50 to $0.75
+rastyrasty: folds 
+coopb16: folds 
+sjask: folds 
+Uncalled bet ($0.50) returned to silver2871
+silver2871 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rastyrasty (button) folded before Flop (didn't bet)
+Seat 2: coopb16 (small blind) folded before Flop
+Seat 3: sjask (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: WakedJake folded before Flop (didn't bet)
+Seat 9: silver2871 collected ($0.60)
+
+
+
+PokerStars Game #20099135263:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:44:29 ET
+Table 'Retsina III' 9-max Seat #2 is the button
+Seat 1: rastyrasty ($17.55 in chips) 
+Seat 2: coopb16 ($24.65 in chips) 
+Seat 3: sjask ($6.50 in chips) 
+Seat 4: Alameda22 ($24.90 in chips) 
+Seat 5: ghostrider27 ($12.25 in chips) 
+Seat 6: yipyapsap ($26.95 in chips) 
+Seat 8: WakedJake ($24.55 in chips) 
+Seat 9: silver2871 ($40.65 in chips) 
+sjask: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Kc]
+ghostrider27: folds 
+yipyapsap: folds 
+WakedJake: folds 
+silver2871: folds 
+rastyrasty: folds 
+coopb16: folds 
+sjask: raises $0.50 to $0.75
+Alameda22: folds 
+Uncalled bet ($0.50) returned to sjask
+sjask collected $0.50 from pot
+sjask: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: coopb16 (button) folded before Flop (didn't bet)
+Seat 3: sjask (small blind) collected ($0.50)
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: WakedJake folded before Flop (didn't bet)
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099152634:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:45:11 ET
+Table 'Retsina III' 9-max Seat #3 is the button
+Seat 1: rastyrasty ($17.55 in chips) 
+Seat 2: coopb16 ($24.65 in chips) 
+Seat 3: sjask ($6.75 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: ghostrider27 ($12.25 in chips) 
+Seat 6: yipyapsap ($26.95 in chips) 
+Seat 8: WakedJake ($24.55 in chips) 
+Seat 9: silver2871 ($40.65 in chips) 
+Alameda22: posts small blind $0.10
+ghostrider27: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Ts]
+yipyapsap: raises $1 to $1.25
+WakedJake: folds 
+silver2871: folds 
+rastyrasty: calls $1.25
+coopb16: folds 
+sjask: folds 
+Alameda22: folds 
+ghostrider27: calls $1
+*** FLOP *** [3d Qc 2s]
+ghostrider27: checks 
+yipyapsap: checks 
+rastyrasty: checks 
+*** TURN *** [3d Qc 2s] [4c]
+ghostrider27: checks 
+WakedJake leaves the table
+yipyapsap: checks 
+rastyrasty: checks 
+*** RIVER *** [3d Qc 2s 4c] [2d]
+ghostrider27: checks 
+yipyapsap: checks 
+rastyrasty: checks 
+*** SHOW DOWN ***
+ghostrider27: shows [Kh 8h] (a pair of Deuces)
+yipyapsap: shows [Kc As] (a pair of Deuces - Ace kicker)
+rastyrasty: shows [6s 6h] (two pair, Sixes and Deuces)
+rastyrasty collected $3.70 from pot
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [3d Qc 2s 4c 2d]
+Seat 1: rastyrasty showed [6s 6h] and won ($3.70) with two pair, Sixes and Deuces
+Seat 2: coopb16 folded before Flop (didn't bet)
+Seat 3: sjask (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: ghostrider27 (big blind) showed [Kh 8h] and lost with a pair of Deuces
+Seat 6: yipyapsap showed [Kc As] and lost with a pair of Deuces
+Seat 8: WakedJake folded before Flop (didn't bet)
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099186871:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:46:33 ET
+Table 'Retsina III' 9-max Seat #4 is the button
+Seat 1: rastyrasty ($20 in chips) 
+Seat 2: coopb16 ($24.65 in chips) 
+Seat 3: sjask ($6.75 in chips) 
+Seat 4: Alameda22 ($24.55 in chips) 
+Seat 5: ghostrider27 ($11 in chips) 
+Seat 6: yipyapsap ($25.70 in chips) 
+Seat 9: silver2871 ($40.65 in chips) 
+ghostrider27: posts small blind $0.10
+yipyapsap: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 2h]
+zubeerek joins the table at seat #8 
+silver2871: folds 
+rastyrasty: folds 
+coopb16: folds 
+sjask: folds 
+Alameda22: folds 
+ghostrider27: calls $0.15
+yipyapsap: checks 
+*** FLOP *** [Ad Qc 8s]
+ghostrider27: checks 
+yipyapsap: checks 
+*** TURN *** [Ad Qc 8s] [Ts]
+ghostrider27: checks 
+yipyapsap: checks 
+*** RIVER *** [Ad Qc 8s Ts] [5h]
+ghostrider27: checks 
+yipyapsap: checks 
+*** SHOW DOWN ***
+ghostrider27: shows [Ah 8d] (two pair, Aces and Eights)
+yipyapsap: mucks hand 
+ghostrider27 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Ad Qc 8s Ts 5h]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: coopb16 folded before Flop (didn't bet)
+Seat 3: sjask folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: ghostrider27 (small blind) showed [Ah 8d] and won ($0.50) with two pair, Aces and Eights
+Seat 6: yipyapsap (big blind) mucked [3d 4h]
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099211034:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:47:31 ET
+Table 'Retsina III' 9-max Seat #5 is the button
+Seat 1: rastyrasty ($20 in chips) 
+Seat 2: coopb16 ($24.65 in chips) 
+Seat 3: sjask ($6.75 in chips) 
+Seat 4: Alameda22 ($24.55 in chips) 
+Seat 5: ghostrider27 ($11.25 in chips) 
+Seat 6: yipyapsap ($25.45 in chips) 
+Seat 8: zubeerek ($6 in chips) 
+Seat 9: silver2871 ($40.65 in chips) 
+yipyapsap: posts small blind $0.10
+zubeerek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 7h]
+silver2871: folds 
+rastyrasty: raises $0.75 to $1
+coopb16: folds 
+sjask: raises $1 to $2
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+zubeerek: folds 
+rastyrasty: folds 
+Uncalled bet ($1) returned to sjask
+sjask collected $2.35 from pot
+sjask: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0 
+Seat 1: rastyrasty folded before Flop
+Seat 2: coopb16 folded before Flop (didn't bet)
+Seat 3: sjask collected ($2.35)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 (button) folded before Flop (didn't bet)
+Seat 6: yipyapsap (small blind) folded before Flop
+Seat 8: zubeerek (big blind) folded before Flop
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099231885:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:48:21 ET
+Table 'Retsina III' 9-max Seat #6 is the button
+Seat 1: rastyrasty ($19 in chips) 
+Seat 2: coopb16 ($24.65 in chips) 
+Seat 3: sjask ($8.10 in chips) 
+Seat 4: Alameda22 ($24.55 in chips) 
+Seat 5: ghostrider27 ($11.25 in chips) 
+Seat 6: yipyapsap ($25.35 in chips) 
+Seat 8: zubeerek ($5.75 in chips) 
+Seat 9: silver2871 ($40.65 in chips) 
+zubeerek: posts small blind $0.10
+silver2871: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 3s]
+rastyrasty: folds 
+coopb16: folds 
+sjask: calls $0.25
+Alameda22: folds 
+ghostrider27: calls $0.25
+yipyapsap: folds 
+zubeerek: calls $0.15
+silver2871: checks 
+*** FLOP *** [7c 6s 3c]
+zubeerek: checks 
+silver2871: checks 
+sjask: bets $1
+ghostrider27: folds 
+zubeerek: folds 
+silver2871: folds 
+Uncalled bet ($1) returned to sjask
+sjask collected $0.95 from pot
+sjask: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [7c 6s 3c]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: coopb16 folded before Flop (didn't bet)
+Seat 3: sjask collected ($0.95)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded on the Flop
+Seat 6: yipyapsap (button) folded before Flop (didn't bet)
+Seat 8: zubeerek (small blind) folded on the Flop
+Seat 9: silver2871 (big blind) folded on the Flop
+
+
+
+PokerStars Game #20099262535:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:49:35 ET
+Table 'Retsina III' 9-max Seat #8 is the button
+Seat 1: rastyrasty ($19 in chips) 
+Seat 2: coopb16 ($24.65 in chips) 
+Seat 3: sjask ($8.80 in chips) 
+Seat 4: Alameda22 ($24.55 in chips) 
+Seat 5: ghostrider27 ($11 in chips) 
+Seat 6: yipyapsap ($25.35 in chips) 
+Seat 8: zubeerek ($5.50 in chips) 
+Seat 9: silver2871 ($40.40 in chips) 
+silver2871: posts small blind $0.10
+rastyrasty: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 4c]
+coopb16: folds 
+sjask: folds 
+Alameda22: folds 
+ghostrider27: calls $0.25
+yipyapsap: folds 
+zubeerek: folds 
+silver2871: folds 
+rastyrasty: raises $0.75 to $1
+ghostrider27: folds 
+Uncalled bet ($0.75) returned to rastyrasty
+rastyrasty collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rastyrasty (big blind) collected ($0.60)
+Seat 2: coopb16 folded before Flop (didn't bet)
+Seat 3: sjask folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: zubeerek (button) folded before Flop (didn't bet)
+Seat 9: silver2871 (small blind) folded before Flop
+
+
+
+PokerStars Game #20099292008:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:50:46 ET
+Table 'Retsina III' 9-max Seat #9 is the button
+Seat 1: rastyrasty ($19.35 in chips) 
+Seat 2: coopb16 ($24.65 in chips) 
+Seat 3: sjask ($8.80 in chips) 
+Seat 4: Alameda22 ($24.55 in chips) 
+Seat 5: ghostrider27 ($10.75 in chips) 
+Seat 6: yipyapsap ($25.35 in chips) 
+Seat 8: zubeerek ($5.50 in chips) 
+Seat 9: silver2871 ($40.30 in chips) 
+rastyrasty: posts small blind $0.10
+coopb16: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 8s]
+sjask: folds 
+Alameda22: folds 
+ghostrider27: calls $0.25
+yipyapsap: folds 
+zubeerek: calls $0.25
+sjask leaves the table
+silver2871: calls $0.25
+rastyrasty: calls $0.15
+coopb16: checks 
+*** FLOP *** [Kd 8h Th]
+Fokkus77 joins the table at seat #3 
+rastyrasty: checks 
+coopb16: checks 
+ghostrider27: bets $0.50
+zubeerek: folds 
+silver2871: folds 
+rastyrasty: folds 
+coopb16: folds 
+Uncalled bet ($0.50) returned to ghostrider27
+ghostrider27 collected $1.20 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Kd 8h Th]
+Seat 1: rastyrasty (small blind) folded on the Flop
+Seat 2: coopb16 (big blind) folded on the Flop
+Seat 3: sjask folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 collected ($1.20)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: zubeerek folded on the Flop
+Seat 9: silver2871 (button) folded on the Flop
+
+
+
+PokerStars Game #20099339770:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:52:42 ET
+Table 'Retsina III' 9-max Seat #1 is the button
+Seat 1: rastyrasty ($19.10 in chips) 
+Seat 2: coopb16 ($24.40 in chips) 
+Seat 3: Fokkus77 ($5 in chips) 
+Seat 4: Alameda22 ($24.55 in chips) 
+Seat 5: ghostrider27 ($11.70 in chips) 
+Seat 6: yipyapsap ($25.35 in chips) 
+Seat 8: zubeerek ($5.25 in chips) 
+Seat 9: silver2871 ($40.05 in chips) 
+coopb16: posts small blind $0.10
+Fokkus77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Ad]
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+zubeerek: folds 
+silver2871: raises $0.50 to $0.75
+rastyrasty: folds 
+coopb16: folds 
+Fokkus77: folds 
+Uncalled bet ($0.50) returned to silver2871
+silver2871 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rastyrasty (button) folded before Flop (didn't bet)
+Seat 2: coopb16 (small blind) folded before Flop
+Seat 3: Fokkus77 (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: silver2871 collected ($0.60)
+
+
+
+PokerStars Game #20099356800:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:53:24 ET
+Table 'Retsina III' 9-max Seat #2 is the button
+Seat 1: rastyrasty ($19.10 in chips) 
+Seat 2: coopb16 ($24.30 in chips) 
+Seat 3: Fokkus77 ($4.75 in chips) 
+Seat 4: Alameda22 ($24.55 in chips) 
+Seat 5: ghostrider27 ($11.70 in chips) 
+Seat 6: yipyapsap ($25.35 in chips) 
+Seat 8: zubeerek ($5.25 in chips) 
+Seat 9: silver2871 ($40.40 in chips) 
+Fokkus77: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Tc]
+ghostrider27: calls $0.25
+yipyapsap: calls $0.25
+zubeerek: calls $0.25
+silver2871: folds 
+rastyrasty has timed out
+rastyrasty: folds 
+rastyrasty is sitting out
+coopb16: folds 
+rastyrasty has returned
+Fokkus77: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Kc Ks 5h]
+Fokkus77: checks 
+Alameda22: checks 
+ghostrider27: checks 
+yipyapsap: checks 
+zubeerek: checks 
+*** TURN *** [Kc Ks 5h] [2h]
+Fokkus77: checks 
+Alameda22: checks 
+ghostrider27: bets $1
+yipyapsap: folds 
+zubeerek: folds 
+Fokkus77: folds 
+Alameda22: folds 
+Uncalled bet ($1) returned to ghostrider27
+ghostrider27 collected $1.20 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Kc Ks 5h 2h]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: coopb16 (button) folded before Flop (didn't bet)
+Seat 3: Fokkus77 (small blind) folded on the Turn
+Seat 4: Alameda22 (big blind) folded on the Turn
+Seat 5: ghostrider27 collected ($1.20)
+Seat 6: yipyapsap folded on the Turn
+Seat 8: zubeerek folded on the Turn
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099411965:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:55:39 ET
+Table 'Retsina III' 9-max Seat #3 is the button
+Seat 1: rastyrasty ($19.10 in chips) 
+Seat 2: coopb16 ($24.30 in chips) 
+Seat 3: Fokkus77 ($4.50 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: ghostrider27 ($12.65 in chips) 
+Seat 6: yipyapsap ($25.10 in chips) 
+Seat 8: zubeerek ($5 in chips) 
+Seat 9: silver2871 ($40.40 in chips) 
+Alameda22: posts small blind $0.10
+ghostrider27: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 3s]
+yipyapsap: folds 
+zubeerek: calls $0.25
+silver2871: folds 
+rastyrasty: folds 
+coopb16: folds 
+Fokkus77: calls $0.25
+Alameda22: folds 
+ghostrider27: checks 
+*** FLOP *** [As 5c Qc]
+ghostrider27: checks 
+zubeerek: checks 
+Fokkus77: bets $0.25
+ghostrider27: folds 
+zubeerek: calls $0.25
+*** TURN *** [As 5c Qc] [7s]
+zubeerek: checks 
+Fokkus77: bets $1
+zubeerek: folds 
+Uncalled bet ($1) returned to Fokkus77
+Fokkus77 collected $1.30 from pot
+Fokkus77: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [As 5c Qc 7s]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: coopb16 folded before Flop (didn't bet)
+Seat 3: Fokkus77 (button) collected ($1.30)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: ghostrider27 (big blind) folded on the Flop
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: zubeerek folded on the Turn
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099441334:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:56:51 ET
+Table 'Retsina III' 9-max Seat #4 is the button
+Seat 1: rastyrasty ($19.10 in chips) 
+Seat 2: coopb16 ($24.30 in chips) 
+Seat 3: Fokkus77 ($5.30 in chips) 
+Seat 4: Alameda22 ($24.20 in chips) 
+Seat 5: ghostrider27 ($12.40 in chips) 
+Seat 6: yipyapsap ($25.10 in chips) 
+Seat 8: zubeerek ($4.50 in chips) 
+Seat 9: silver2871 ($40.40 in chips) 
+ghostrider27: posts small blind $0.10
+yipyapsap: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 6s]
+zubeerek: calls $0.25
+silver2871: folds 
+rastyrasty: folds 
+coopb16: folds 
+Fokkus77: folds 
+Alameda22: folds 
+ghostrider27: calls $0.15
+yipyapsap: checks 
+*** FLOP *** [4s 5d 6d]
+ghostrider27: bets $0.25
+yipyapsap: folds 
+zubeerek: raises $0.75 to $1
+ghostrider27: calls $0.75
+*** TURN *** [4s 5d 6d] [5h]
+ghostrider27: checks 
+zubeerek: checks 
+*** RIVER *** [4s 5d 6d 5h] [7d]
+ghostrider27: checks 
+zubeerek: bets $0.50
+ghostrider27: calls $0.50
+*** SHOW DOWN ***
+zubeerek: shows [6h 5s] (a full house, Fives full of Sixes)
+ghostrider27: mucks hand 
+zubeerek collected $3.60 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [4s 5d 6d 5h 7d]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: coopb16 folded before Flop (didn't bet)
+Seat 3: Fokkus77 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: ghostrider27 (small blind) mucked [Kh 3d]
+Seat 6: yipyapsap (big blind) folded on the Flop
+Seat 8: zubeerek showed [6h 5s] and won ($3.60) with a full house, Fives full of Sixes
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099489821:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:58:50 ET
+Table 'Retsina III' 9-max Seat #5 is the button
+Seat 1: rastyrasty ($19.10 in chips) 
+Seat 2: coopb16 ($24.30 in chips) 
+Seat 3: Fokkus77 ($5.30 in chips) 
+Seat 4: Alameda22 ($24.20 in chips) 
+Seat 5: ghostrider27 ($10.65 in chips) 
+Seat 6: yipyapsap ($24.85 in chips) 
+Seat 8: zubeerek ($6.35 in chips) 
+Seat 9: silver2871 ($40.40 in chips) 
+yipyapsap: posts small blind $0.10
+zubeerek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 2c]
+ghostrider27 said, "nh"
+grondinjf leaves the table
+silver2871: folds 
+rastyrasty: folds 
+coopb16: raises $0.50 to $0.75
+Fokkus77: folds 
+Fokkus77 leaves the table
+Alameda22: folds 
+ghostrider27: calls $0.75
+yipyapsap: folds 
+zubeerek: folds 
+*** FLOP *** [2h Qs 5s]
+coopb16: checks 
+ghostrider27: bets $1.50
+coopb16: folds 
+Uncalled bet ($1.50) returned to ghostrider27
+ghostrider27 collected $1.80 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [2h Qs 5s]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: coopb16 folded on the Flop
+Seat 3: Fokkus77 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 (button) collected ($1.80)
+Seat 6: yipyapsap (small blind) folded before Flop
+Seat 8: zubeerek (big blind) folded before Flop
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099518912:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:00:01 ET
+Table 'Retsina III' 9-max Seat #6 is the button
+Seat 1: rastyrasty ($19.10 in chips) 
+Seat 2: coopb16 ($25 in chips) 
+Seat 4: Alameda22 ($24.20 in chips) 
+Seat 5: ghostrider27 ($11.70 in chips) 
+Seat 6: yipyapsap ($24.75 in chips) 
+Seat 8: zubeerek ($6.10 in chips) 
+Seat 9: silver2871 ($40.40 in chips) 
+zubeerek: posts small blind $0.10
+silver2871: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 6h]
+rastyrasty: folds 
+coopb16: folds 
+Alameda22: folds 
+ghostrider27: calls $0.25
+yipyapsap: folds 
+zubeerek: calls $0.15
+silver2871: checks 
+*** FLOP *** [Qd 3d 7h]
+zubeerek: checks 
+silver2871: checks 
+ghostrider27: bets $0.75
+zubeerek: folds 
+silver2871: folds 
+Uncalled bet ($0.75) returned to ghostrider27
+ghostrider27 collected $0.75 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Qd 3d 7h]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: coopb16 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 collected ($0.75)
+Seat 6: yipyapsap (button) folded before Flop (didn't bet)
+Seat 8: zubeerek (small blind) folded on the Flop
+Seat 9: silver2871 (big blind) folded on the Flop
+
+
+
+PokerStars Game #20099549649:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:01:18 ET
+Table 'Retsina III' 9-max Seat #8 is the button
+Seat 1: rastyrasty ($19.10 in chips) 
+Seat 2: coopb16 ($25 in chips) 
+Seat 4: Alameda22 ($24.20 in chips) 
+Seat 5: ghostrider27 ($12.20 in chips) 
+Seat 6: yipyapsap ($24.75 in chips) 
+Seat 8: zubeerek ($5.85 in chips) 
+Seat 9: silver2871 ($40.15 in chips) 
+silver2871: posts small blind $0.10
+rastyrasty: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 4h]
+coopb16: folds 
+Alameda22: folds 
+ghostrider27: folds 
+coopb16 leaves the table
+yipyapsap: folds 
+zubeerek: calls $0.25
+silver2871: folds 
+rastyrasty: checks 
+*** FLOP *** [As 9c 4c]
+rastyrasty: checks 
+zubeerek: checks 
+*** TURN *** [As 9c 4c] [Tc]
+rastyrasty: checks 
+zubeerek: bets $0.25
+rastyrasty: calls $0.25
+*** RIVER *** [As 9c 4c Tc] [9h]
+rastyrasty: checks 
+zubeerek: bets $0.75
+rastyrasty: calls $0.75
+*** SHOW DOWN ***
+zubeerek: shows [9d 8c] (three of a kind, Nines)
+rastyrasty: mucks hand 
+zubeerek collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [As 9c 4c Tc 9h]
+Seat 1: rastyrasty (big blind) mucked [2s Th]
+Seat 2: coopb16 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: zubeerek (button) showed [9d 8c] and won ($2.50) with three of a kind, Nines
+Seat 9: silver2871 (small blind) folded before Flop
+
+
+
+PokerStars Game #20099586569:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:02:52 ET
+Table 'Retsina III' 9-max Seat #9 is the button
+Seat 1: rastyrasty ($17.85 in chips) 
+Seat 4: Alameda22 ($24.20 in chips) 
+Seat 5: ghostrider27 ($12.20 in chips) 
+Seat 6: yipyapsap ($24.75 in chips) 
+Seat 8: zubeerek ($7.10 in chips) 
+Seat 9: silver2871 ($40.05 in chips) 
+rastyrasty: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 3h]
+ghostrider27: folds 
+yipyapsap: folds 
+zubeerek: folds 
+silver2871: folds 
+rastyrasty: calls $0.15
+Alameda22: checks 
+*** FLOP *** [6c Js 5c]
+rastyrasty: checks 
+Alameda22: checks 
+*** TURN *** [6c Js 5c] [Jc]
+rastyrasty: checks 
+Alameda22: checks 
+*** RIVER *** [6c Js 5c Jc] [Th]
+rastyrasty: checks 
+Alameda22: checks 
+*** SHOW DOWN ***
+rastyrasty: shows [7s 7h] (two pair, Jacks and Sevens)
+Alameda22: mucks hand 
+rastyrasty collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [6c Js 5c Jc Th]
+Seat 1: rastyrasty (small blind) showed [7s 7h] and won ($0.50) with two pair, Jacks and Sevens
+Seat 4: Alameda22 (big blind) mucked [2c 3h]
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: silver2871 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099621225:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:04:20 ET
+Table 'Retsina III' 9-max Seat #1 is the button
+Seat 1: rastyrasty ($18.10 in chips) 
+Seat 4: Alameda22 ($23.95 in chips) 
+Seat 5: ghostrider27 ($12.20 in chips) 
+Seat 6: yipyapsap ($24.75 in chips) 
+Seat 8: zubeerek ($7.10 in chips) 
+Seat 9: silver2871 ($40.05 in chips) 
+Alameda22: posts small blind $0.10
+ghostrider27: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 5c]
+yipyapsap: folds 
+zubeerek: folds 
+silver2871: raises $0.50 to $0.75
+rastyrasty: folds 
+Alameda22: folds 
+ghostrider27: calls $0.50
+*** FLOP *** [Jc 6h Ad]
+ghostrider27: checks 
+silver2871: bets $1.25
+ghostrider27: folds 
+Uncalled bet ($1.25) returned to silver2871
+silver2871 collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Jc 6h Ad]
+Seat 1: rastyrasty (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: ghostrider27 (big blind) folded on the Flop
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: silver2871 collected ($1.55)
+
+
+
+PokerStars Game #20099636355:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:04:58 ET
+Table 'Retsina III' 9-max Seat #4 is the button
+Seat 1: rastyrasty ($18.10 in chips) 
+Seat 4: Alameda22 ($23.85 in chips) 
+Seat 5: ghostrider27 ($11.45 in chips) 
+Seat 6: yipyapsap ($24.75 in chips) 
+Seat 8: zubeerek ($7.10 in chips) 
+Seat 9: silver2871 ($40.85 in chips) 
+ghostrider27: posts small blind $0.10
+yipyapsap: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Jd]
+zubeerek: folds 
+silver2871: folds 
+rastyrasty: folds 
+Alameda22: folds 
+ghostrider27: calls $0.15
+yipyapsap: checks 
+*** FLOP *** [5s 3s 3h]
+ghostrider27: checks 
+yipyapsap: checks 
+*** TURN *** [5s 3s 3h] [Kc]
+ghostrider27: checks 
+yipyapsap: bets $0.75
+ghostrider27: folds 
+Uncalled bet ($0.75) returned to yipyapsap
+yipyapsap collected $0.50 from pot
+yipyapsap: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [5s 3s 3h Kc]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: ghostrider27 (small blind) folded on the Turn
+Seat 6: yipyapsap (big blind) collected ($0.50)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099655716:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:05:47 ET
+Table 'Retsina III' 9-max Seat #5 is the button
+Seat 1: rastyrasty ($18.10 in chips) 
+Seat 4: Alameda22 ($23.85 in chips) 
+Seat 5: ghostrider27 ($11.20 in chips) 
+Seat 6: yipyapsap ($25 in chips) 
+Seat 8: zubeerek ($7.10 in chips) 
+Seat 9: silver2871 ($40.85 in chips) 
+yipyapsap: posts small blind $0.10
+zubeerek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Td]
+silver2871: folds 
+rastyrasty: folds 
+Alameda22: folds 
+ghostrider27: calls $0.25
+yipyapsap: folds 
+zubeerek: checks 
+*** FLOP *** [8c 2d 8s]
+zubeerek: checks 
+ghostrider27: bets $0.50
+zubeerek: folds 
+Uncalled bet ($0.50) returned to ghostrider27
+ghostrider27 collected $0.60 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8c 2d 8s]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 (button) collected ($0.60)
+Seat 6: yipyapsap (small blind) folded before Flop
+Seat 8: zubeerek (big blind) folded on the Flop
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099675707:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:06:37 ET
+Table 'Retsina III' 9-max Seat #6 is the button
+Seat 1: rastyrasty ($18.10 in chips) 
+Seat 4: Alameda22 ($23.85 in chips) 
+Seat 5: ghostrider27 ($11.55 in chips) 
+Seat 6: yipyapsap ($24.90 in chips) 
+Seat 8: zubeerek ($6.85 in chips) 
+zubeerek: posts small blind $0.10
+silver2871: is sitting out 
+rastyrasty: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 7h]
+Alameda22: folds 
+ghostrider27: calls $0.25
+yipyapsap: folds 
+zubeerek: calls $0.15
+rastyrasty: checks 
+*** FLOP *** [3c 4s 5c]
+zubeerek: checks 
+rastyrasty: checks 
+ghostrider27: checks 
+*** TURN *** [3c 4s 5c] [2s]
+zubeerek: bets $0.25
+rastyrasty: folds 
+ghostrider27: calls $0.25
+*** RIVER *** [3c 4s 5c 2s] [8d]
+zubeerek: bets $0.50
+ghostrider27: calls $0.50
+*** SHOW DOWN ***
+zubeerek: shows [6c Kd] (a straight, Deuce to Six)
+ghostrider27: mucks hand 
+zubeerek collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [3c 4s 5c 2s 8d]
+Seat 1: rastyrasty (big blind) folded on the Turn
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 mucked [3h 3d]
+Seat 6: yipyapsap (button) folded before Flop (didn't bet)
+Seat 8: zubeerek (small blind) showed [6c Kd] and won ($2.15) with a straight, Deuce to Six
+
+
+
+PokerStars Game #20099732230:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:08:59 ET
+Table 'Retsina III' 9-max Seat #8 is the button
+Seat 1: rastyrasty ($17.85 in chips) 
+Seat 4: Alameda22 ($23.85 in chips) 
+Seat 5: ghostrider27 ($10.55 in chips) 
+Seat 6: yipyapsap ($24.90 in chips) 
+Seat 8: zubeerek ($8 in chips) 
+rastyrasty: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Qs]
+ghostrider27: calls $0.25
+yipyapsap: folds 
+zubeerek: folds 
+rastyrasty: folds 
+silver2871 leaves the table
+Alameda22: raises $1 to $1.25
+ghostrider27: calls $1
+*** FLOP *** [Kh 2s 4c]
+Alameda22: checks 
+ghostrider27: checks 
+*** TURN *** [Kh 2s 4c] [8c]
+Alameda22: checks 
+ghostrider27: checks 
+*** RIVER *** [Kh 2s 4c 8c] [8d]
+Alameda22: bets $1.50
+stasb joins the table at seat #3 
+ghostrider27: calls $1.50
+*** SHOW DOWN ***
+Alameda22: shows [Qc Qs] (two pair, Queens and Eights)
+ghostrider27: mucks hand 
+Alameda22 collected $5.35 from pot
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.25 
+Board [Kh 2s 4c 8c 8d]
+Seat 1: rastyrasty (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) showed [Qc Qs] and won ($5.35) with two pair, Queens and Eights
+Seat 5: ghostrider27 mucked [7d 7s]
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: zubeerek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099768001:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:10:29 ET
+Table 'Retsina III' 9-max Seat #1 is the button
+Seat 1: rastyrasty ($17.75 in chips) 
+Seat 4: Alameda22 ($26.45 in chips) 
+Seat 5: ghostrider27 ($7.80 in chips) 
+Seat 6: yipyapsap ($24.90 in chips) 
+Seat 8: zubeerek ($8 in chips) 
+stasb will be allowed to play after the button
+Alameda22: posts small blind $0.10
+ghostrider27: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Jd]
+yipyapsap: folds 
+zubeerek: calls $0.25
+rastyrasty: folds 
+Alameda22: folds 
+ghostrider27: checks 
+*** FLOP *** [3c 8d 3d]
+ghostrider27: checks 
+zubeerek: checks 
+*** TURN *** [3c 8d 3d] [Th]
+ghostrider27: checks 
+zubeerek: checks 
+*** RIVER *** [3c 8d 3d Th] [Js]
+ghostrider27: checks 
+zubeerek: bets $0.50
+ghostrider27: folds 
+Uncalled bet ($0.50) returned to zubeerek
+zubeerek collected $0.60 from pot
+zubeerek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3c 8d 3d Th Js]
+Seat 1: rastyrasty (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: ghostrider27 (big blind) folded on the River
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: zubeerek collected ($0.60)
+
+
+
+PokerStars Game #20099795159:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:11:39 ET
+Table 'Retsina III' 9-max Seat #4 is the button
+Seat 1: rastyrasty ($17.75 in chips) 
+Seat 3: stasb ($15 in chips) 
+Seat 4: Alameda22 ($26.35 in chips) 
+Seat 5: ghostrider27 ($7.55 in chips) 
+Seat 6: yipyapsap ($24.90 in chips) 
+Seat 8: zubeerek ($8.35 in chips) 
+ghostrider27: posts small blind $0.10
+yipyapsap: posts big blind $0.25
+stasb: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Kc]
+zubeerek: folds 
+rastyrasty: folds 
+stasb: raises $0.50 to $0.75
+Alameda22: folds 
+ghostrider27: calls $0.65
+yipyapsap: folds 
+*** FLOP *** [8s 4s Td]
+ghostrider27: checks 
+stasb: bets $0.75
+ghostrider27: calls $0.75
+*** TURN *** [8s 4s Td] [Qh]
+ghostrider27: checks 
+stasb: bets $0.75
+ghostrider27: calls $0.75
+*** RIVER *** [8s 4s Td Qh] [2d]
+ghostrider27: checks 
+stasb: checks 
+*** SHOW DOWN ***
+ghostrider27: shows [8h 9c] (a pair of Eights)
+stasb: mucks hand 
+ghostrider27 collected $4.55 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [8s 4s Td Qh 2d]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 3: stasb mucked [9s Ad]
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: ghostrider27 (small blind) showed [8h 9c] and won ($4.55) with a pair of Eights
+Seat 6: yipyapsap (big blind) folded before Flop
+Seat 8: zubeerek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099818934:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:12:40 ET
+Table 'Retsina III' 9-max Seat #5 is the button
+Seat 1: rastyrasty ($17.75 in chips) 
+Seat 3: stasb ($12.75 in chips) 
+Seat 4: Alameda22 ($26.35 in chips) 
+Seat 5: ghostrider27 ($9.85 in chips) 
+Seat 6: yipyapsap ($24.65 in chips) 
+Seat 8: zubeerek ($8.35 in chips) 
+yipyapsap: posts small blind $0.10
+zubeerek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 5d]
+rastyrasty: folds 
+stasb: calls $0.25
+Alameda22: folds 
+ghostrider27: calls $0.25
+yipyapsap: folds 
+zubeerek: checks 
+*** FLOP *** [Kd 3h Js]
+zubeerek: checks 
+stasb: checks 
+ghostrider27: bets $0.50
+zubeerek: folds 
+stasb: folds 
+Uncalled bet ($0.50) returned to ghostrider27
+ghostrider27 collected $0.85 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Kd 3h Js]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 3: stasb folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 (button) collected ($0.85)
+Seat 6: yipyapsap (small blind) folded before Flop
+Seat 8: zubeerek (big blind) folded on the Flop
+
+
+
+PokerStars Game #20099841813:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:13:38 ET
+Table 'Retsina III' 9-max Seat #6 is the button
+Seat 1: rastyrasty ($17.75 in chips) 
+Seat 3: stasb ($12.50 in chips) 
+Seat 4: Alameda22 ($26.35 in chips) 
+Seat 5: ghostrider27 ($10.45 in chips) 
+Seat 6: yipyapsap ($24.55 in chips) 
+Seat 8: zubeerek ($8.10 in chips) 
+zubeerek: posts small blind $0.10
+rastyrasty: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 7s]
+stasb: calls $0.25
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+zubeerek: folds 
+rastyrasty: raises $0.75 to $1
+stasb: folds 
+Uncalled bet ($0.75) returned to rastyrasty
+rastyrasty collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rastyrasty (big blind) collected ($0.60)
+Seat 3: stasb folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap (button) folded before Flop (didn't bet)
+Seat 8: zubeerek (small blind) folded before Flop
+
+
+
+PokerStars Game #20099862270:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:14:30 ET
+Table 'Retsina III' 9-max Seat #8 is the button
+Seat 1: rastyrasty ($18.10 in chips) 
+Seat 3: stasb ($12.25 in chips) 
+Seat 4: Alameda22 ($26.35 in chips) 
+Seat 5: ghostrider27 ($10.45 in chips) 
+Seat 6: yipyapsap ($25 in chips) 
+Seat 8: zubeerek ($8 in chips) 
+rastyrasty: posts small blind $0.10
+stasb: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Td]
+Alameda22: folds 
+ghostrider27: calls $0.25
+yipyapsap: folds 
+zubeerek: folds 
+rastyrasty: folds 
+stasb: checks 
+*** FLOP *** [7c 2h Ts]
+stasb: checks 
+ghostrider27: bets $0.50
+stasb: folds 
+Uncalled bet ($0.50) returned to ghostrider27
+ghostrider27 collected $0.60 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7c 2h Ts]
+Seat 1: rastyrasty (small blind) folded before Flop
+Seat 3: stasb (big blind) folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 collected ($0.60)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: zubeerek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099887439:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:15:34 ET
+Table 'Retsina III' 9-max Seat #1 is the button
+Seat 1: rastyrasty ($18 in chips) 
+Seat 3: stasb ($12 in chips) 
+Seat 4: Alameda22 ($26.35 in chips) 
+Seat 5: ghostrider27 ($10.80 in chips) 
+Seat 6: yipyapsap ($25 in chips) 
+Seat 8: zubeerek ($8 in chips) 
+stasb: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 6h]
+ghostrider27: calls $0.25
+yipyapsap: folds 
+zubeerek: folds 
+rastyrasty: folds 
+stasb: folds 
+Alameda22: checks 
+*** FLOP *** [Kc Ac Kd]
+Alameda22: checks 
+ghostrider27: checks 
+*** TURN *** [Kc Ac Kd] [4h]
+Alameda22: checks 
+ghostrider27: checks 
+*** RIVER *** [Kc Ac Kd 4h] [Ks]
+Alameda22: checks 
+ghostrider27: checks 
+*** SHOW DOWN ***
+Alameda22: shows [9h 6h] (three of a kind, Kings)
+ghostrider27: mucks hand 
+Alameda22 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kc Ac Kd 4h Ks]
+Seat 1: rastyrasty (button) folded before Flop (didn't bet)
+Seat 3: stasb (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) showed [9h 6h] and won ($0.60) with three of a kind, Kings
+Seat 5: ghostrider27 mucked [5s 6c]
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099924775:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:17:09 ET
+Table 'Retsina III' 9-max Seat #3 is the button
+Seat 1: rastyrasty ($18 in chips) 
+Seat 3: stasb ($11.90 in chips) 
+Seat 4: Alameda22 ($26.70 in chips) 
+Seat 5: ghostrider27 ($10.55 in chips) 
+Seat 6: yipyapsap ($25 in chips) 
+Seat 8: zubeerek ($8 in chips) 
+Alameda22: posts small blind $0.10
+ghostrider27: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Jh]
+yipyapsap: folds 
+zubeerek: calls $0.25
+rastyrasty: raises $0.75 to $1
+stasb: folds 
+Alameda22: calls $0.90
+Bad Idea joins the table at seat #2 
+ghostrider27: folds 
+zubeerek: folds 
+*** FLOP *** [5s 4c Th]
+Alameda22: bets $1.50
+rastyrasty: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $2.40 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [5s 4c Th]
+Seat 1: rastyrasty folded on the Flop
+Seat 3: stasb (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) collected ($2.40)
+Seat 5: ghostrider27 (big blind) folded before Flop
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop
+
+
+
+PokerStars Game #20099951828:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:18:18 ET
+Table 'Retsina III' 9-max Seat #4 is the button
+Seat 1: rastyrasty ($17 in chips) 
+Seat 2: Bad Idea ($15 in chips) 
+Seat 3: stasb ($11.90 in chips) 
+Seat 4: Alameda22 ($28.10 in chips) 
+Seat 5: ghostrider27 ($10.30 in chips) 
+Seat 6: yipyapsap ($25 in chips) 
+Seat 8: zubeerek ($7.75 in chips) 
+ghostrider27: posts small blind $0.10
+yipyapsap: posts big blind $0.25
+Bad Idea: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 4h]
+zubeerek: folds 
+rastyrasty: calls $0.25
+Bad Idea: checks 
+stasb: calls $0.25
+Alameda22: folds 
+ghostrider27: calls $0.15
+yipyapsap: checks 
+*** FLOP *** [9h 5c 7d]
+Aligter joins the table at seat #9 
+ghostrider27: checks 
+yipyapsap: checks 
+rastyrasty: checks 
+Bad Idea: bets $1
+stasb: folds 
+ghostrider27: folds 
+yipyapsap: raises $1.75 to $2.75
+rastyrasty: folds 
+Bad Idea: folds 
+Uncalled bet ($1.75) returned to yipyapsap
+yipyapsap collected $3.10 from pot
+yipyapsap: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [9h 5c 7d]
+Seat 1: rastyrasty folded on the Flop
+Seat 2: Bad Idea folded on the Flop
+Seat 3: stasb folded on the Flop
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: ghostrider27 (small blind) folded on the Flop
+Seat 6: yipyapsap (big blind) collected ($3.10)
+Seat 8: zubeerek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099976060:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:19:20 ET
+Table 'Retsina III' 9-max Seat #5 is the button
+Seat 1: rastyrasty ($16.75 in chips) 
+Seat 2: Bad Idea ($13.75 in chips) 
+Seat 3: stasb ($11.65 in chips) 
+Seat 4: Alameda22 ($28.10 in chips) 
+Seat 5: ghostrider27 ($10.05 in chips) 
+Seat 6: yipyapsap ($26.85 in chips) 
+Seat 8: zubeerek ($7.75 in chips) 
+yipyapsap: posts small blind $0.10
+zubeerek: posts big blind $0.25
+Aligter: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Th]
+rastyrasty: folds 
+Cashmandt joins the table at seat #7 
+Bad Idea: folds 
+stasb: folds 
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: raises $0.75 to $1
+zubeerek: folds 
+Uncalled bet ($0.75) returned to yipyapsap
+yipyapsap collected $0.50 from pot
+yipyapsap: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: stasb folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 (button) folded before Flop (didn't bet)
+Seat 6: yipyapsap (small blind) collected ($0.50)
+Seat 8: zubeerek (big blind) folded before Flop
+
+
+
+PokerStars Game #20099994426:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:20:07 ET
+Table 'Retsina III' 9-max Seat #6 is the button
+Seat 1: rastyrasty ($16.75 in chips) 
+Seat 2: Bad Idea ($13.75 in chips) 
+Seat 3: stasb ($11.65 in chips) 
+Seat 4: Alameda22 ($28.10 in chips) 
+Seat 5: ghostrider27 ($10.05 in chips) 
+Seat 6: yipyapsap ($27.10 in chips) 
+Seat 8: zubeerek ($7.50 in chips) 
+Seat 9: Aligter ($5 in chips) 
+Cashmandt will be allowed to play after the button
+zubeerek: posts small blind $0.10
+Aligter: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Qs]
+rastyrasty: folds 
+Bad Idea: folds 
+stasb: folds 
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+zubeerek: raises $0.25 to $0.50
+Aligter: folds 
+Uncalled bet ($0.25) returned to zubeerek
+zubeerek collected $0.50 from pot
+zubeerek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: stasb folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap (button) folded before Flop (didn't bet)
+Seat 8: zubeerek (small blind) collected ($0.50)
+Seat 9: Aligter (big blind) folded before Flop
+
+
+
+PokerStars Game #20100007944:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:20:41 ET
+Table 'Retsina III' 9-max Seat #8 is the button
+Seat 1: rastyrasty ($16.75 in chips) 
+Seat 2: Bad Idea ($13.75 in chips) 
+Seat 3: stasb ($11.65 in chips) 
+Seat 4: Alameda22 ($28.10 in chips) 
+Seat 5: ghostrider27 ($10.05 in chips) 
+Seat 6: yipyapsap ($27.10 in chips) 
+Seat 8: zubeerek ($7.75 in chips) 
+Seat 9: Aligter ($4.75 in chips) 
+Aligter: posts small blind $0.10
+rastyrasty: posts big blind $0.25
+Cashmandt: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 4h]
+Bad Idea: folds 
+stasb: raises $0.50 to $0.75
+Alameda22: folds 
+ghostrider27: calls $0.75
+yipyapsap: folds 
+zubeerek: folds 
+Aligter: folds 
+rastyrasty: folds 
+*** FLOP *** [9c 8h Jd]
+stasb: checks 
+ghostrider27: checks 
+*** TURN *** [9c 8h Jd] [Qh]
+stasb: bets $0.50
+ghostrider27: calls $0.50
+*** RIVER *** [9c 8h Jd Qh] [Ts]
+stasb: bets $1.75
+ghostrider27: calls $1.75
+*** SHOW DOWN ***
+stasb: shows [Qc Ks] (a straight, Nine to King)
+ghostrider27: mucks hand 
+stasb collected $6.05 from pot
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.30 
+Board [9c 8h Jd Qh Ts]
+Seat 1: rastyrasty (big blind) folded before Flop
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: stasb showed [Qc Ks] and won ($6.05) with a straight, Nine to King
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 mucked [7h 8d]
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: zubeerek (button) folded before Flop (didn't bet)
+Seat 9: Aligter (small blind) folded before Flop
+
+
+
+PokerStars Game #20100041923:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:22:08 ET
+Table 'Retsina III' 9-max Seat #9 is the button
+Seat 1: rastyrasty ($16.50 in chips) 
+Seat 2: Bad Idea ($13.75 in chips) 
+Seat 3: stasb ($14.70 in chips) 
+Seat 4: Alameda22 ($28.10 in chips) 
+Seat 5: ghostrider27 ($7.05 in chips) 
+Seat 6: yipyapsap ($27.10 in chips) 
+Seat 8: zubeerek ($7.75 in chips) 
+Seat 9: Aligter ($4.65 in chips) 
+rastyrasty: posts small blind $0.10
+Bad Idea: posts big blind $0.25
+Cashmandt: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Ah]
+stasb: folds 
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+zubeerek: folds 
+Aligter: folds 
+rastyrasty: folds 
+Uncalled bet ($0.15) returned to Bad Idea
+Bad Idea collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: rastyrasty (small blind) folded before Flop
+Seat 2: Bad Idea (big blind) collected ($0.20)
+Seat 3: stasb folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: Aligter (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100061059:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:22:58 ET
+Table 'Retsina III' 9-max Seat #1 is the button
+Seat 1: rastyrasty ($16.40 in chips) 
+Seat 2: Bad Idea ($13.85 in chips) 
+Seat 3: stasb ($14.70 in chips) 
+Seat 4: Alameda22 ($28.10 in chips) 
+Seat 5: ghostrider27 ($7.05 in chips) 
+Seat 6: yipyapsap ($27.10 in chips) 
+Seat 8: zubeerek ($7.75 in chips) 
+Seat 9: Aligter ($4.65 in chips) 
+Bad Idea: posts small blind $0.10
+stasb: posts big blind $0.25
+Cashmandt: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 2h]
+Alameda22: folds 
+ghostrider27: calls $0.25
+yipyapsap: folds 
+zubeerek: folds 
+Aligter: folds 
+rastyrasty: folds 
+Bad Idea: folds 
+stasb: checks 
+*** FLOP *** [5d 7s Jh]
+stasb: bets $0.50
+ghostrider27: calls $0.50
+*** TURN *** [5d 7s Jh] [2d]
+stasb: bets $0.50
+ghostrider27: raises $5.80 to $6.30 and is all-in
+stasb: folds 
+Uncalled bet ($5.80) returned to ghostrider27
+ghostrider27 collected $2.50 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [5d 7s Jh 2d]
+Seat 1: rastyrasty (button) folded before Flop (didn't bet)
+Seat 2: Bad Idea (small blind) folded before Flop
+Seat 3: stasb (big blind) folded on the Turn
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 collected ($2.50)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: Aligter folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100094206:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:24:24 ET
+Table 'Retsina III' 9-max Seat #2 is the button
+Seat 1: rastyrasty ($16.40 in chips) 
+Seat 2: Bad Idea ($13.75 in chips) 
+Seat 3: stasb ($13.45 in chips) 
+Seat 4: Alameda22 ($28.10 in chips) 
+Seat 5: ghostrider27 ($8.30 in chips) 
+Seat 6: yipyapsap ($27.10 in chips) 
+Seat 8: zubeerek ($7.75 in chips) 
+Seat 9: Aligter ($4.65 in chips) 
+stasb: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Cashmandt: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Jh]
+ghostrider27: folds 
+yipyapsap: folds 
+zubeerek: folds 
+Aligter: raises $0.75 to $1
+ghostrider27 is sitting out
+rastyrasty: folds 
+Bad Idea: calls $1
+stasb: calls $0.90
+Alameda22: folds 
+*** FLOP *** [Jc 4d Ts]
+stasb: checks 
+Aligter: bets $1
+Bad Idea: folds 
+stasb: folds 
+Uncalled bet ($1) returned to Aligter
+Aligter collected $3.10 from pot
+Aligter: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Jc 4d Ts]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea (button) folded on the Flop
+Seat 3: stasb (small blind) folded on the Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: Aligter collected ($3.10)
+
+
+
+PokerStars Game #20100120306:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:25:32 ET
+Table 'Retsina III' 9-max Seat #3 is the button
+Seat 1: rastyrasty ($16.40 in chips) 
+Seat 2: Bad Idea ($12.75 in chips) 
+Seat 3: stasb ($12.45 in chips) 
+Seat 4: Alameda22 ($27.85 in chips) 
+Seat 6: yipyapsap ($27.10 in chips) 
+Seat 8: zubeerek ($7.75 in chips) 
+Seat 9: Aligter ($6.75 in chips) 
+Alameda22: posts small blind $0.10
+yipyapsap: posts big blind $0.25
+Cashmandt: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 3d]
+zubeerek: folds 
+Aligter: folds 
+rastyrasty: folds 
+Bad Idea: raises $0.25 to $0.50
+stasb: folds 
+Alameda22: folds 
+yipyapsap: folds 
+Uncalled bet ($0.25) returned to Bad Idea
+Bad Idea collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea collected ($0.60)
+Seat 3: stasb (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 6: yipyapsap (big blind) folded before Flop
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: Aligter folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100130734:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:25:58 ET
+Table 'Retsina III' 9-max Seat #4 is the button
+Seat 1: rastyrasty ($16.40 in chips) 
+Seat 2: Bad Idea ($13.10 in chips) 
+Seat 3: stasb ($12.45 in chips) 
+Seat 4: Alameda22 ($27.75 in chips) 
+Seat 6: yipyapsap ($26.85 in chips) 
+Seat 7: Cashmandt ($25 in chips) 
+Seat 8: zubeerek ($7.75 in chips) 
+Seat 9: Aligter ($6.75 in chips) 
+yipyapsap: posts small blind $0.10
+Cashmandt: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 8c]
+zubeerek: folds 
+Aligter: folds 
+rastyrasty: folds 
+Bad Idea: folds 
+stasb: calls $0.25
+Alameda22: folds 
+yipyapsap: folds 
+Cashmandt: checks 
+*** FLOP *** [6c 6d 8h]
+Cashmandt: checks 
+stasb: bets $0.75
+Cashmandt: folds 
+Uncalled bet ($0.75) returned to stasb
+stasb collected $0.60 from pot
+stasb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6c 6d 8h]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: stasb collected ($0.60)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: yipyapsap (small blind) folded before Flop
+Seat 7: Cashmandt (big blind) folded on the Flop
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: Aligter folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100148873:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:26:46 ET
+Table 'Retsina III' 9-max Seat #6 is the button
+Seat 1: rastyrasty ($16.40 in chips) 
+Seat 2: Bad Idea ($13.10 in chips) 
+Seat 3: stasb ($12.80 in chips) 
+Seat 4: Alameda22 ($27.75 in chips) 
+Seat 6: yipyapsap ($26.75 in chips) 
+Seat 7: Cashmandt ($24.75 in chips) 
+Seat 8: zubeerek ($7.75 in chips) 
+Seat 9: Aligter ($6.75 in chips) 
+Cashmandt: posts small blind $0.10
+zubeerek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Th]
+Aligter: folds 
+rastyrasty: folds 
+Aligter leaves the table
+Bad Idea: folds 
+stasb: calls $0.25
+Alameda22: folds 
+yipyapsap: calls $0.25
+Cashmandt: calls $0.15
+zubeerek: checks 
+*** FLOP *** [Td Ks 5s]
+Cashmandt: bets $0.25
+zubeerek: folds 
+waltermarre joins the table at seat #9 
+stasb: raises $0.75 to $1
+yipyapsap: folds 
+Cashmandt: folds 
+Uncalled bet ($0.75) returned to stasb
+stasb collected $1.45 from pot
+stasb: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Td Ks 5s]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: stasb collected ($1.45)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: yipyapsap (button) folded on the Flop
+Seat 7: Cashmandt (small blind) folded on the Flop
+Seat 8: zubeerek (big blind) folded on the Flop
+Seat 9: Aligter folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100174742:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:27:53 ET
+Table 'Retsina III' 9-max Seat #7 is the button
+Seat 1: rastyrasty ($16.40 in chips) 
+Seat 2: Bad Idea ($13.10 in chips) 
+Seat 3: stasb ($13.75 in chips) 
+Seat 4: Alameda22 ($27.75 in chips) 
+Seat 6: yipyapsap ($26.50 in chips) 
+Seat 7: Cashmandt ($24.25 in chips) 
+Seat 8: zubeerek ($7.50 in chips) 
+Seat 9: waltermarre ($6 in chips) 
+zubeerek: posts small blind $0.10
+waltermarre: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 3s]
+rastyrasty: folds 
+Bad Idea: raises $0.25 to $0.50
+stasb: calls $0.50
+Alameda22: folds 
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: folds 
+waltermarre: calls $0.25
+*** FLOP *** [7s Tc 6h]
+waltermarre: checks 
+Bad Idea: bets $0.75
+stasb: calls $0.75
+waltermarre: calls $0.75
+*** TURN *** [7s Tc 6h] [Qc]
+waltermarre: checks 
+Bad Idea: bets $1
+stasb: folds 
+waltermarre: calls $1
+*** RIVER *** [7s Tc 6h Qc] [3c]
+waltermarre: checks 
+Bad Idea: bets $2.50
+waltermarre: folds 
+Uncalled bet ($2.50) returned to Bad Idea
+Bad Idea collected $5.60 from pot
+*** SUMMARY ***
+Total pot $5.85 | Rake $0.25 
+Board [7s Tc 6h Qc 3c]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea collected ($5.60)
+Seat 3: stasb folded on the Turn
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt (button) folded before Flop (didn't bet)
+Seat 8: zubeerek (small blind) folded before Flop
+Seat 9: waltermarre (big blind) folded on the River
+
+
+
+PokerStars Game #20100211605:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:29:29 ET
+Table 'Retsina III' 9-max Seat #8 is the button
+Seat 1: rastyrasty ($16.40 in chips) 
+Seat 2: Bad Idea ($16.45 in chips) 
+Seat 3: stasb ($12.50 in chips) 
+Seat 4: Alameda22 ($27.75 in chips) 
+Seat 6: yipyapsap ($26.50 in chips) 
+Seat 7: Cashmandt ($24.25 in chips) 
+Seat 8: zubeerek ($7.40 in chips) 
+Seat 9: waltermarre ($3.75 in chips) 
+waltermarre: posts small blind $0.10
+rastyrasty: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Ac]
+Bad Idea: folds 
+stasb: folds 
+Alameda22: raises $0.75 to $1
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: folds 
+waltermarre: folds 
+rastyrasty: calls $0.75
+*** FLOP *** [6d Qc 4s]
+rastyrasty: checks 
+Alameda22: bets $1.25
+rastyrasty: folds 
+Uncalled bet ($1.25) returned to Alameda22
+Alameda22 collected $2 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [6d Qc 4s]
+Seat 1: rastyrasty (big blind) folded on the Flop
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: stasb folded before Flop (didn't bet)
+Seat 4: Alameda22 collected ($2)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek (button) folded before Flop (didn't bet)
+Seat 9: waltermarre (small blind) folded before Flop
+
+
+
+PokerStars Game #20100248324:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:31:05 ET
+Table 'Retsina III' 9-max Seat #9 is the button
+Seat 1: rastyrasty ($15.40 in chips) 
+Seat 2: Bad Idea ($16.45 in chips) 
+Seat 3: stasb ($12.50 in chips) 
+Seat 4: Alameda22 ($28.75 in chips) 
+Seat 6: yipyapsap ($26.50 in chips) 
+Seat 7: Cashmandt ($24.25 in chips) 
+Seat 8: zubeerek ($7.40 in chips) 
+Seat 9: waltermarre ($3.65 in chips) 
+rastyrasty: posts small blind $0.10
+Bad Idea: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 4s]
+stasb: folds 
+Alameda22: folds 
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: raises $0.25 to $0.50
+waltermarre: calls $0.50
+rastyrasty: folds 
+Bad Idea: calls $0.25
+*** FLOP *** [6d Jh 8d]
+Bad Idea: checks 
+zubeerek: bets $0.25
+waltermarre: calls $0.25
+Bad Idea: calls $0.25
+*** TURN *** [6d Jh 8d] [7h]
+Bad Idea: checks 
+zubeerek: bets $0.25
+waltermarre: calls $0.25
+Bad Idea: calls $0.25
+*** RIVER *** [6d Jh 8d 7h] [5c]
+Bad Idea: checks 
+zubeerek: bets $0.75
+waltermarre: folds 
+Bad Idea: folds 
+Uncalled bet ($0.75) returned to zubeerek
+zubeerek collected $2.95 from pot
+zubeerek: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [6d Jh 8d 7h 5c]
+Seat 1: rastyrasty (small blind) folded before Flop
+Seat 2: Bad Idea (big blind) folded on the River
+Seat 3: stasb folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek collected ($2.95)
+Seat 9: waltermarre (button) folded on the River
+
+
+
+PokerStars Game #20100288993:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:32:53 ET
+Table 'Retsina III' 9-max Seat #1 is the button
+Seat 1: rastyrasty ($15.30 in chips) 
+Seat 2: Bad Idea ($15.45 in chips) 
+Seat 3: stasb ($12.50 in chips) 
+Seat 4: Alameda22 ($28.75 in chips) 
+Seat 6: yipyapsap ($26.50 in chips) 
+Seat 7: Cashmandt ($24.25 in chips) 
+Seat 8: zubeerek ($9.35 in chips) 
+Seat 9: waltermarre ($2.65 in chips) 
+Bad Idea: posts small blind $0.10
+stasb: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 9h]
+Alameda22: folds 
+yipyapsap: folds 
+Cashmandt: calls $0.25
+zubeerek: calls $0.25
+waltermarre: calls $0.25
+rastyrasty: folds 
+Bad Idea: folds 
+stasb: raises $2.75 to $3
+Cashmandt: folds 
+zubeerek: folds 
+waltermarre: calls $2.40 and is all-in
+Uncalled bet ($0.35) returned to stasb
+*** FLOP *** [Ks 3d 4s]
+*** TURN *** [Ks 3d 4s] [2c]
+*** RIVER *** [Ks 3d 4s 2c] [8c]
+*** SHOW DOWN ***
+stasb: shows [As Ah] (a pair of Aces)
+waltermarre: mucks hand 
+stasb collected $5.65 from pot
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.25 
+Board [Ks 3d 4s 2c 8c]
+Seat 1: rastyrasty (button) folded before Flop (didn't bet)
+Seat 2: Bad Idea (small blind) folded before Flop
+Seat 3: stasb (big blind) showed [As Ah] and won ($5.65) with a pair of Aces
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop
+Seat 8: zubeerek folded before Flop
+Seat 9: waltermarre mucked [Kh 6d]
+
+
+
+PokerStars Game #20100315532:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:34:04 ET
+Table 'Retsina III' 9-max Seat #2 is the button
+Seat 1: rastyrasty ($15.30 in chips) 
+Seat 2: Bad Idea ($15.35 in chips) 
+Seat 3: stasb ($15.50 in chips) 
+Seat 4: Alameda22 ($28.75 in chips) 
+Seat 6: yipyapsap ($26.50 in chips) 
+Seat 7: Cashmandt ($24 in chips) 
+Seat 8: zubeerek ($9.10 in chips) 
+stasb: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 8d]
+waltermarre has returned
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: calls $0.25
+rastyrasty: calls $0.25
+Bad Idea: folds 
+waltermarre said, "nh bien tano"
+stasb: folds 
+Alameda22: checks 
+*** FLOP *** [Qs 4s Js]
+Alameda22: checks 
+zubeerek: bets $0.25
+rastyrasty: folds 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to zubeerek
+zubeerek collected $0.85 from pot
+zubeerek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Qs 4s Js]
+Seat 1: rastyrasty folded on the Flop
+Seat 2: Bad Idea (button) folded before Flop (didn't bet)
+Seat 3: stasb (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek collected ($0.85)
+
+
+
+PokerStars Game #20100347080:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:35:29 ET
+Table 'Retsina III' 9-max Seat #3 is the button
+Seat 1: rastyrasty ($15.05 in chips) 
+Seat 2: Bad Idea ($15.35 in chips) 
+Seat 3: stasb ($15.40 in chips) 
+Seat 4: Alameda22 ($28.50 in chips) 
+Seat 6: yipyapsap ($26.50 in chips) 
+Seat 7: Cashmandt ($24 in chips) 
+Seat 8: zubeerek ($9.70 in chips) 
+Seat 9: waltermarre ($6 in chips) 
+Alameda22: posts small blind $0.10
+yipyapsap: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 7h]
+Cashmandt: folds 
+zubeerek: folds 
+waltermarre: calls $0.25
+rastyrasty: folds 
+Bad Idea: calls $0.25
+stasb: folds 
+ghostrider27 has returned
+Alameda22: folds 
+yipyapsap: raises $1.75 to $2
+waltermarre: folds 
+Bad Idea: folds 
+Uncalled bet ($1.75) returned to yipyapsap
+yipyapsap collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop
+Seat 3: stasb (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 6: yipyapsap (big blind) collected ($0.85)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: waltermarre folded before Flop
+
+
+
+PokerStars Game #20100370395:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:36:31 ET
+Table 'Retsina III' 9-max Seat #4 is the button
+Seat 1: rastyrasty ($15.05 in chips) 
+Seat 2: Bad Idea ($15.10 in chips) 
+Seat 3: stasb ($15.40 in chips) 
+Seat 4: Alameda22 ($28.40 in chips) 
+Seat 6: yipyapsap ($27.10 in chips) 
+Seat 7: Cashmandt ($24 in chips) 
+Seat 8: zubeerek ($9.70 in chips) 
+Seat 9: waltermarre ($5.75 in chips) 
+ghostrider27 will be allowed to play after the button
+yipyapsap: posts small blind $0.10
+Cashmandt: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts As]
+zubeerek: calls $0.25
+waltermarre: calls $0.25
+rastyrasty: folds 
+Bad Idea: folds 
+stasb: raises $0.75 to $1
+Alameda22: folds 
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: calls $0.75
+waltermarre: calls $0.75
+*** FLOP *** [5s Qd Th]
+zubeerek: checks 
+waltermarre: checks 
+stasb: checks 
+*** TURN *** [5s Qd Th] [3s]
+zubeerek: checks 
+waltermarre: checks 
+stasb: checks 
+*** RIVER *** [5s Qd Th 3s] [2d]
+zubeerek: checks 
+waltermarre: checks 
+stasb: bets $1
+zubeerek: folds 
+waltermarre: folds 
+Uncalled bet ($1) returned to stasb
+stasb collected $3.20 from pot
+stasb: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [5s Qd Th 3s 2d]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: stasb collected ($3.20)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: yipyapsap (small blind) folded before Flop
+Seat 7: Cashmandt (big blind) folded before Flop
+Seat 8: zubeerek folded on the River
+Seat 9: waltermarre folded on the River
+
+
+
+PokerStars Game #20100406455:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:38:08 ET
+Table 'Retsina III' 9-max Seat #6 is the button
+Seat 1: rastyrasty ($15.05 in chips) 
+Seat 2: Bad Idea ($15.10 in chips) 
+Seat 3: stasb ($17.60 in chips) 
+Seat 4: Alameda22 ($28.40 in chips) 
+Seat 6: yipyapsap ($27 in chips) 
+Seat 7: Cashmandt ($23.75 in chips) 
+Seat 8: zubeerek ($8.70 in chips) 
+Seat 9: waltermarre ($4.75 in chips) 
+Cashmandt: posts small blind $0.10
+zubeerek: posts big blind $0.25
+ghostrider27: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Ah]
+waltermarre: calls $0.25
+rastyrasty: folds 
+Bad Idea: folds 
+stasb: calls $0.25
+Alameda22: folds 
+yipyapsap: folds 
+Cashmandt: calls $0.15
+zubeerek: raises $0.75 to $1
+waltermarre: calls $0.75
+stasb: calls $0.75
+Cashmandt: folds 
+*** FLOP *** [5s 3c Tc]
+zubeerek: checks 
+waltermarre: checks 
+stasb: bets $2
+zubeerek: raises $5.70 to $7.70 and is all-in
+waltermarre: folds 
+stasb: calls $5.70
+*** TURN *** [5s 3c Tc] [Kh]
+*** RIVER *** [5s 3c Tc Kh] [Td]
+*** SHOW DOWN ***
+zubeerek: shows [Th Ts] (four of a kind, Tens)
+stasb: mucks hand 
+zubeerek collected $17.75 from pot
+*** SUMMARY ***
+Total pot $18.65 | Rake $0.90 
+Board [5s 3c Tc Kh Td]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: stasb mucked [Jd Jh]
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: yipyapsap (button) folded before Flop (didn't bet)
+Seat 7: Cashmandt (small blind) folded before Flop
+Seat 8: zubeerek (big blind) showed [Th Ts] and won ($17.75) with four of a kind, Tens
+Seat 9: waltermarre folded on the Flop
+
+
+
+PokerStars Game #20100441717:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:39:43 ET
+Table 'Retsina III' 9-max Seat #7 is the button
+Seat 1: rastyrasty ($15.05 in chips) 
+Seat 2: Bad Idea ($15.10 in chips) 
+Seat 3: stasb ($8.90 in chips) 
+Seat 4: Alameda22 ($28.40 in chips) 
+Seat 6: yipyapsap ($27 in chips) 
+Seat 7: Cashmandt ($23.50 in chips) 
+Seat 8: zubeerek ($17.75 in chips) 
+Seat 9: waltermarre ($3.75 in chips) 
+zubeerek: posts small blind $0.10
+ghostrider27 said, "nh"
+waltermarre: posts big blind $0.25
+ghostrider27: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 7d]
+rastyrasty: folds 
+zubeerek said, "th"
+Bad Idea: folds 
+stasb: folds 
+Alameda22: folds 
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: calls $0.15
+waltermarre: checks 
+*** FLOP *** [Kh Jc 7h]
+zubeerek: checks 
+waltermarre: checks 
+*** TURN *** [Kh Jc 7h] [4d]
+zubeerek: checks 
+waltermarre: checks 
+*** RIVER *** [Kh Jc 7h 4d] [6h]
+zubeerek: checks 
+waltermarre: checks 
+*** SHOW DOWN ***
+zubeerek: shows [Qh 9d] (high card King)
+waltermarre: mucks hand 
+zubeerek collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Kh Jc 7h 4d 6h]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: stasb folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt (button) folded before Flop (didn't bet)
+Seat 8: zubeerek (small blind) showed [Qh 9d] and won ($0.50) with high card King
+Seat 9: waltermarre (big blind) mucked [3d Qs]
+
+
+
+PokerStars Game #20100469386:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:40:58 ET
+Table 'Retsina III' 9-max Seat #8 is the button
+Seat 1: rastyrasty ($15.05 in chips) 
+Seat 2: Bad Idea ($15.10 in chips) 
+Seat 3: stasb ($8.90 in chips) 
+Seat 4: Alameda22 ($28.40 in chips) 
+Seat 6: yipyapsap ($27 in chips) 
+Seat 7: Cashmandt ($23.50 in chips) 
+Seat 8: zubeerek ($18 in chips) 
+Seat 9: waltermarre ($3.50 in chips) 
+waltermarre: posts small blind $0.10
+rastyrasty: posts big blind $0.25
+ghostrider27: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 9s]
+Bad Idea: folds 
+stasb: folds 
+Alameda22: folds 
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: folds 
+waltermarre: calls $0.15
+rastyrasty: raises $0.75 to $1
+waltermarre: folds 
+Uncalled bet ($0.75) returned to rastyrasty
+rastyrasty collected $0.50 from pot
+rastyrasty: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: rastyrasty (big blind) collected ($0.50)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: stasb folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek (button) folded before Flop (didn't bet)
+Seat 9: waltermarre (small blind) folded before Flop
+
+
+
+PokerStars Game #20100482090:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:41:32 ET
+Table 'Retsina III' 9-max Seat #9 is the button
+Seat 1: rastyrasty ($15.30 in chips) 
+Seat 2: Bad Idea ($15.10 in chips) 
+Seat 3: stasb ($8.90 in chips) 
+Seat 4: Alameda22 ($28.40 in chips) 
+Seat 6: yipyapsap ($27 in chips) 
+Seat 7: Cashmandt ($23.50 in chips) 
+Seat 8: zubeerek ($18 in chips) 
+Seat 9: waltermarre ($3.25 in chips) 
+rastyrasty: posts small blind $0.10
+Bad Idea: posts big blind $0.25
+ghostrider27: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 4s]
+stasb: folds 
+Alameda22: folds 
+yipyapsap: folds 
+Cashmandt: calls $0.25
+zubeerek: folds 
+waltermarre: folds 
+rastyrasty: folds 
+Bad Idea: checks 
+*** FLOP *** [Ah Ad 4c]
+Bad Idea: checks 
+Cashmandt: checks 
+*** TURN *** [Ah Ad 4c] [Kh]
+Bad Idea: checks 
+Cashmandt: checks 
+*** RIVER *** [Ah Ad 4c Kh] [7d]
+Bad Idea: checks 
+Cashmandt: checks 
+*** SHOW DOWN ***
+Bad Idea: shows [Qs 3d] (a pair of Aces)
+Cashmandt: shows [8h 8s] (two pair, Aces and Eights)
+Cashmandt collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ah Ad 4c Kh 7d]
+Seat 1: rastyrasty (small blind) folded before Flop
+Seat 2: Bad Idea (big blind) showed [Qs 3d] and lost with a pair of Aces
+Seat 3: stasb folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt showed [8h 8s] and won ($0.60) with two pair, Aces and Eights
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: waltermarre (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100503289:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:42:30 ET
+Table 'Retsina III' 9-max Seat #1 is the button
+Seat 1: rastyrasty ($15.20 in chips) 
+Seat 2: Bad Idea ($14.85 in chips) 
+Seat 3: stasb ($8.90 in chips) 
+Seat 4: Alameda22 ($28.40 in chips) 
+Seat 6: yipyapsap ($27 in chips) 
+Seat 7: Cashmandt ($23.85 in chips) 
+Seat 8: zubeerek ($18 in chips) 
+Seat 9: waltermarre ($3.25 in chips) 
+Bad Idea: posts small blind $0.10
+stasb: posts big blind $0.25
+ghostrider27: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 2d]
+Alameda22: folds 
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: folds 
+waltermarre: calls $0.25
+rastyrasty: folds 
+Bad Idea: calls $0.15
+stasb: checks 
+*** FLOP *** [Js Ks 4c]
+Bad Idea: bets $0.50
+stasb: folds 
+waltermarre: calls $0.50
+*** TURN *** [Js Ks 4c] [8s]
+Bad Idea: checks 
+waltermarre: checks 
+*** RIVER *** [Js Ks 4c 8s] [2s]
+Bad Idea: bets $0.25
+waltermarre: calls $0.25
+*** SHOW DOWN ***
+Bad Idea: shows [5d 4h] (a pair of Fours)
+waltermarre: shows [5s Ad] (a flush, King high)
+waltermarre collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Js Ks 4c 8s 2s]
+Seat 1: rastyrasty (button) folded before Flop (didn't bet)
+Seat 2: Bad Idea (small blind) showed [5d 4h] and lost with a pair of Fours
+Seat 3: stasb (big blind) folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: waltermarre showed [5s Ad] and won ($2.15) with a flush, King high
+
+
+
+PokerStars Game #20100527898:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:43:36 ET
+Table 'Retsina III' 9-max Seat #2 is the button
+Seat 1: rastyrasty ($15.20 in chips) 
+Seat 2: Bad Idea ($13.85 in chips) 
+Seat 3: stasb ($8.65 in chips) 
+Seat 4: Alameda22 ($28.40 in chips) 
+Seat 6: yipyapsap ($27 in chips) 
+Seat 7: Cashmandt ($23.85 in chips) 
+Seat 8: zubeerek ($18 in chips) 
+Seat 9: waltermarre ($4.40 in chips) 
+stasb: posts small blind $0.10
+Alameda22: posts big blind $0.25
+ghostrider27: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h As]
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: folds 
+waltermarre: calls $0.25
+rastyrasty: folds 
+Bad Idea: folds 
+stasb: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Kc 9d Jc]
+stasb: checks 
+Alameda22: checks 
+waltermarre: bets $0.25
+stasb: calls $0.25
+Alameda22: folds 
+*** TURN *** [Kc 9d Jc] [Ks]
+stasb: checks 
+waltermarre: bets $0.25
+stasb: calls $0.25
+*** RIVER *** [Kc 9d Jc Ks] [Js]
+stasb: checks 
+waltermarre: bets $2.75
+stasb: folds 
+Uncalled bet ($2.75) returned to waltermarre
+waltermarre collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Kc 9d Jc Ks Js]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea (button) folded before Flop (didn't bet)
+Seat 3: stasb (small blind) folded on the River
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: waltermarre collected ($1.70)
+
+
+
+PokerStars Game #20100561571:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:45:08 ET
+Table 'Retsina III' 9-max Seat #3 is the button
+Seat 1: rastyrasty ($15.20 in chips) 
+Seat 2: Bad Idea ($13.85 in chips) 
+Seat 3: stasb ($7.90 in chips) 
+Seat 4: Alameda22 ($28.15 in chips) 
+Seat 5: ghostrider27 ($8.30 in chips) 
+Seat 6: yipyapsap ($27 in chips) 
+Seat 7: Cashmandt ($23.85 in chips) 
+Seat 8: zubeerek ($18 in chips) 
+Seat 9: waltermarre ($5.35 in chips) 
+Alameda22: posts small blind $0.10
+ghostrider27: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 6h]
+yipyapsap: raises $1.50 to $1.75
+Cashmandt: folds 
+zubeerek: folds 
+waltermarre: folds 
+rastyrasty: folds 
+Bad Idea: folds 
+stasb: folds 
+Alameda22: folds 
+ghostrider27: folds 
+Uncalled bet ($1.50) returned to yipyapsap
+yipyapsap collected $0.60 from pot
+yipyapsap: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: stasb (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: ghostrider27 (big blind) folded before Flop
+Seat 6: yipyapsap collected ($0.60)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: waltermarre folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100575732:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:45:46 ET
+Table 'Retsina III' 9-max Seat #4 is the button
+Seat 1: rastyrasty ($15.20 in chips) 
+Seat 2: Bad Idea ($13.85 in chips) 
+Seat 3: stasb ($7.90 in chips) 
+Seat 4: Alameda22 ($28.05 in chips) 
+Seat 5: ghostrider27 ($8.05 in chips) 
+Seat 6: yipyapsap ($27.35 in chips) 
+Seat 7: Cashmandt ($23.85 in chips) 
+Seat 8: zubeerek ($18 in chips) 
+Seat 9: waltermarre ($5.35 in chips) 
+ghostrider27: posts small blind $0.10
+yipyapsap: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 7d]
+Cashmandt: folds 
+zubeerek: calls $0.25
+waltermarre: folds 
+rastyrasty: folds 
+Bad Idea: folds 
+stasb: folds 
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: checks 
+*** FLOP *** [Ks Qs 5c]
+yipyapsap: checks 
+zubeerek: checks 
+*** TURN *** [Ks Qs 5c] [Kh]
+yipyapsap: checks 
+zubeerek: checks 
+*** RIVER *** [Ks Qs 5c Kh] [Td]
+yipyapsap: checks 
+zubeerek: checks 
+*** SHOW DOWN ***
+yipyapsap: shows [Jh 4s] (a pair of Kings)
+zubeerek: mucks hand 
+yipyapsap collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ks Qs 5c Kh Td]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: stasb folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: ghostrider27 (small blind) folded before Flop
+Seat 6: yipyapsap (big blind) showed [Jh 4s] and won ($0.60) with a pair of Kings
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek mucked [8c 2c]
+Seat 9: waltermarre folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100612674:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:47:26 ET
+Table 'Retsina III' 9-max Seat #5 is the button
+Seat 1: rastyrasty ($15.20 in chips) 
+Seat 2: Bad Idea ($13.85 in chips) 
+Seat 3: stasb ($7.90 in chips) 
+Seat 4: Alameda22 ($28.05 in chips) 
+Seat 5: ghostrider27 ($7.95 in chips) 
+Seat 6: yipyapsap ($27.70 in chips) 
+Seat 7: Cashmandt ($23.85 in chips) 
+Seat 8: zubeerek ($17.75 in chips) 
+Seat 9: waltermarre ($5.35 in chips) 
+yipyapsap: posts small blind $0.10
+Cashmandt: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Qd]
+zubeerek: folds 
+waltermarre: calls $0.25
+rastyrasty: folds 
+Bad Idea: raises $0.25 to $0.50
+stasb: calls $0.50
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+Cashmandt: folds 
+waltermarre: calls $0.25
+*** FLOP *** [Qs 6d 3d]
+waltermarre: checks 
+Bad Idea: bets $1
+stasb: folds 
+waltermarre: calls $1
+*** TURN *** [Qs 6d 3d] [7h]
+waltermarre: checks 
+Bad Idea: bets $2.25
+waltermarre: folds 
+Uncalled bet ($2.25) returned to Bad Idea
+Bad Idea collected $3.70 from pot
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [Qs 6d 3d 7h]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea collected ($3.70)
+Seat 3: stasb folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 (button) folded before Flop (didn't bet)
+Seat 6: yipyapsap (small blind) folded before Flop
+Seat 7: Cashmandt (big blind) folded before Flop
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: waltermarre folded on the Turn
+
+
+
+PokerStars Game #20100646817:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:48:58 ET
+Table 'Retsina III' 9-max Seat #6 is the button
+Seat 1: rastyrasty ($15.20 in chips) 
+Seat 2: Bad Idea ($16.05 in chips) 
+Seat 3: stasb ($7.40 in chips) 
+Seat 4: Alameda22 ($28.05 in chips) 
+Seat 5: ghostrider27 ($7.95 in chips) 
+Seat 6: yipyapsap ($27.60 in chips) 
+Seat 7: Cashmandt ($23.60 in chips) 
+Seat 8: zubeerek ($17.75 in chips) 
+Seat 9: waltermarre ($3.85 in chips) 
+Cashmandt: posts small blind $0.10
+zubeerek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 3d]
+waltermarre: folds 
+rastyrasty: folds 
+Bad Idea: raises $0.25 to $0.50
+stasb: raises $0.50 to $1
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: folds 
+Bad Idea: calls $0.50
+*** FLOP *** [4s Tc 8h]
+Bad Idea: checks 
+stasb: bets $2.25
+Bad Idea: folds 
+Uncalled bet ($2.25) returned to stasb
+stasb collected $2.25 from pot
+stasb: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [4s Tc 8h]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea folded on the Flop
+Seat 3: stasb collected ($2.25)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap (button) folded before Flop (didn't bet)
+Seat 7: Cashmandt (small blind) folded before Flop
+Seat 8: zubeerek (big blind) folded before Flop
+Seat 9: waltermarre folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100664227:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:49:45 ET
+Table 'Retsina III' 9-max Seat #7 is the button
+Seat 1: rastyrasty ($15.20 in chips) 
+Seat 2: Bad Idea ($15.05 in chips) 
+Seat 3: stasb ($8.65 in chips) 
+Seat 4: Alameda22 ($28.05 in chips) 
+Seat 5: ghostrider27 ($7.95 in chips) 
+Seat 6: yipyapsap ($27.60 in chips) 
+Seat 7: Cashmandt ($23.50 in chips) 
+Seat 8: zubeerek ($17.50 in chips) 
+Seat 9: waltermarre ($3.85 in chips) 
+zubeerek: posts small blind $0.10
+waltermarre: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 4d]
+rastyrasty: folds 
+Bad Idea: calls $0.25
+stasb: calls $0.25
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+Cashmandt: calls $0.25
+zubeerek: calls $0.15
+waltermarre: checks 
+*** FLOP *** [6h Jc 8d]
+zubeerek: checks 
+waltermarre: checks 
+Bad Idea: checks 
+stasb: bets $0.75
+Cashmandt: folds 
+zubeerek: folds 
+waltermarre: folds 
+Bad Idea: folds 
+Uncalled bet ($0.75) returned to stasb
+stasb collected $1.20 from pot
+stasb: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [6h Jc 8d]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea folded on the Flop
+Seat 3: stasb collected ($1.20)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt (button) folded on the Flop
+Seat 8: zubeerek (small blind) folded on the Flop
+Seat 9: waltermarre (big blind) folded on the Flop
+
+
+
+PokerStars Game #20100694430:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:51:07 ET
+Table 'Retsina III' 9-max Seat #8 is the button
+Seat 1: rastyrasty ($15.20 in chips) 
+Seat 2: Bad Idea ($14.80 in chips) 
+Seat 3: stasb ($9.60 in chips) 
+Seat 4: Alameda22 ($28.05 in chips) 
+Seat 5: ghostrider27 ($7.95 in chips) 
+Seat 6: yipyapsap ($27.60 in chips) 
+Seat 7: Cashmandt ($23.25 in chips) 
+Seat 8: zubeerek ($17.25 in chips) 
+Seat 9: waltermarre ($3.60 in chips) 
+waltermarre: posts small blind $0.10
+rastyrasty: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 8s]
+Bad Idea: raises $0.25 to $0.50
+stasb: calls $0.50
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: folds 
+waltermarre: calls $0.40
+rastyrasty: folds 
+*** FLOP *** [7c 6c Th]
+waltermarre: checks 
+Bad Idea: bets $1
+stasb: raises $1.50 to $2.50
+waltermarre: calls $2.50
+Bad Idea: calls $1.50
+*** TURN *** [7c 6c Th] [8c]
+waltermarre: bets $0.25
+Bad Idea: calls $0.25
+stasb: calls $0.25
+*** RIVER *** [7c 6c Th 8c] [Js]
+waltermarre: bets $0.25
+Bad Idea: raises $3.25 to $3.50
+stasb: folds 
+waltermarre: calls $0.10 and is all-in
+Uncalled bet ($3.15) returned to Bad Idea
+*** SHOW DOWN ***
+Bad Idea: shows [Ac 3c] (a flush, Ace high)
+waltermarre: mucks hand 
+Bad Idea collected $10.20 from pot
+*** SUMMARY ***
+Total pot $10.70 | Rake $0.50 
+Board [7c 6c Th 8c Js]
+Seat 1: rastyrasty (big blind) folded before Flop
+Seat 2: Bad Idea showed [Ac 3c] and won ($10.20) with a flush, Ace high
+Seat 3: stasb folded on the River
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek (button) folded before Flop (didn't bet)
+Seat 9: waltermarre (small blind) mucked [Kh 6h]
+
+
+
+PokerStars Game #20100734440:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:52:57 ET
+Table 'Retsina III' 9-max Seat #1 is the button
+Seat 1: rastyrasty ($14.95 in chips) 
+Seat 2: Bad Idea ($21.40 in chips) 
+Seat 3: stasb ($6.35 in chips) 
+Seat 4: Alameda22 ($28.05 in chips) 
+Seat 5: ghostrider27 ($7.95 in chips) 
+Seat 6: yipyapsap ($27.60 in chips) 
+Seat 7: Cashmandt ($23.25 in chips) 
+Seat 8: zubeerek ($17.25 in chips) 
+Bad Idea: posts small blind $0.10
+stasb: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 7d]
+Alameda22: folds 
+ghostrider27: folds 
+waltermarre leaves the table
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: raises $0.25 to $0.50
+rastyrasty: folds 
+Bad Idea: folds 
+stasb: calls $0.25
+*** FLOP *** [Qd 6s 9d]
+stasb: checks 
+zubeerek: bets $0.25
+stasb: calls $0.25
+*** TURN *** [Qd 6s 9d] [8c]
+stasb: checks 
+zubeerek: bets $0.25
+stasb: calls $0.25
+*** RIVER *** [Qd 6s 9d 8c] [3d]
+stasb: checks 
+zubeerek: bets $0.75
+stasb: raises $0.75 to $1.50
+zubeerek: calls $0.75
+*** SHOW DOWN ***
+stasb: shows [4d 6d] (a flush, Queen high)
+zubeerek: mucks hand 
+stasb collected $4.85 from pot
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.25 
+Board [Qd 6s 9d 8c 3d]
+Seat 1: rastyrasty (button) folded before Flop (didn't bet)
+Seat 2: Bad Idea (small blind) folded before Flop
+Seat 3: stasb (big blind) showed [4d 6d] and won ($4.85) with a flush, Queen high
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek mucked [Qc Qh]
+
+
+
+PokerStars Game #20100753597:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:53:49 ET
+Table 'Retsina III' 9-max Seat #2 is the button
+Seat 1: rastyrasty ($14.95 in chips) 
+Seat 2: Bad Idea ($21.30 in chips) 
+Seat 3: stasb ($8.70 in chips) 
+Seat 4: Alameda22 ($28.05 in chips) 
+Seat 5: ghostrider27 ($7.95 in chips) 
+Seat 6: yipyapsap ($27.60 in chips) 
+Seat 7: Cashmandt ($23.25 in chips) 
+Seat 8: zubeerek ($14.75 in chips) 
+stasb: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 9c]
+ghostrider27: folds 
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: folds 
+rastyrasty: folds 
+Bad Idea: folds 
+stasb: calls $0.15
+Alameda22: checks 
+*** FLOP *** [7h Ah As]
+stasb: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to stasb
+stasb collected $0.50 from pot
+stasb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [7h Ah As]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea (button) folded before Flop (didn't bet)
+Seat 3: stasb (small blind) collected ($0.50)
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100768766:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:54:31 ET
+Table 'Retsina III' 9-max Seat #3 is the button
+Seat 1: rastyrasty ($14.95 in chips) 
+Seat 2: Bad Idea ($21.30 in chips) 
+Seat 3: stasb ($8.95 in chips) 
+Seat 4: Alameda22 ($27.80 in chips) 
+Seat 5: ghostrider27 ($7.95 in chips) 
+Seat 6: yipyapsap ($27.60 in chips) 
+Seat 7: Cashmandt ($23.25 in chips) 
+Seat 8: zubeerek ($14.75 in chips) 
+Alameda22: posts small blind $0.10
+ghostrider27: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Qs]
+yipyapsap: folds 
+Cashmandt: calls $0.25
+zubeerek: folds 
+rastyrasty: folds 
+Bad Idea: raises $0.25 to $0.50
+stasb: folds 
+stasb leaves the table
+Alameda22: folds 
+ghostrider27: folds 
+Cashmandt: calls $0.25
+*** FLOP *** [5s Kh 9d]
+Cashmandt: checks 
+Bad Idea: bets $0.75
+Cashmandt: calls $0.75
+*** TURN *** [5s Kh 9d] [2h]
+Cashmandt: checks 
+Bad Idea: bets $0.75
+Cashmandt: folds 
+Uncalled bet ($0.75) returned to Bad Idea
+Bad Idea collected $2.75 from pot
+jasper_fetch joins the table at seat #9 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [5s Kh 9d 2h]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea collected ($2.75)
+Seat 3: stasb (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: ghostrider27 (big blind) folded before Flop
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded on the Turn
+Seat 8: zubeerek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100795918:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:55:45 ET
+Table 'Retsina III' 9-max Seat #4 is the button
+Seat 1: rastyrasty ($14.95 in chips) 
+Seat 2: Bad Idea ($22.80 in chips) 
+Seat 4: Alameda22 ($27.70 in chips) 
+Seat 5: ghostrider27 ($7.70 in chips) 
+Seat 6: yipyapsap ($27.60 in chips) 
+Seat 7: Cashmandt ($22 in chips) 
+Seat 8: zubeerek ($14.75 in chips) 
+Seat 9: jasper_fetch ($25 in chips) 
+ghostrider27: posts small blind $0.10
+yipyapsap: posts big blind $0.25
+jasper_fetch: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 4d]
+Cashmandt: folds 
+zubeerek: calls $0.25
+jasper_fetch: checks 
+rastyrasty: folds 
+Bad Idea: calls $0.25
+Alameda22: folds 
+ghostrider27: calls $0.15
+yipyapsap: checks 
+*** FLOP *** [9d Kd 6c]
+ghostrider27: checks 
+yipyapsap: bets $1
+zubeerek: folds 
+jasper_fetch: folds 
+Bad Idea: folds 
+ghostrider27: raises $2.50 to $3.50
+yipyapsap: folds 
+Uncalled bet ($2.50) returned to ghostrider27
+ghostrider27 collected $3.10 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [9d Kd 6c]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea folded on the Flop
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: ghostrider27 (small blind) collected ($3.10)
+Seat 6: yipyapsap (big blind) folded on the Flop
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek folded on the Flop
+Seat 9: jasper_fetch folded on the Flop
+
+
+
+PokerStars Game #20100822336:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:56:58 ET
+Table 'Retsina III' 9-max Seat #5 is the button
+Seat 1: rastyrasty ($14.95 in chips) 
+Seat 2: Bad Idea ($22.55 in chips) 
+Seat 4: Alameda22 ($27.70 in chips) 
+Seat 5: ghostrider27 ($9.55 in chips) 
+Seat 6: yipyapsap ($26.35 in chips) 
+Seat 7: Cashmandt ($22 in chips) 
+Seat 8: zubeerek ($14.50 in chips) 
+Seat 9: jasper_fetch ($24.75 in chips) 
+yipyapsap: posts small blind $0.10
+Cashmandt: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 2d]
+zubeerek: calls $0.25
+jasper_fetch: folds 
+rastyrasty: folds 
+Bad Idea: folds 
+$-Twackle-$ joins the table at seat #3 
+Alameda22: folds 
+ghostrider27: folds 
+$-Twackle-$ is sitting out
+yipyapsap: folds 
+Cashmandt: checks 
+*** FLOP *** [Kc 9h 4d]
+Cashmandt: bets $0.50
+zubeerek: folds 
+Uncalled bet ($0.50) returned to Cashmandt
+Cashmandt collected $0.60 from pot
+Cashmandt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kc 9h 4d]
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 (button) folded before Flop (didn't bet)
+Seat 6: yipyapsap (small blind) folded before Flop
+Seat 7: Cashmandt (big blind) collected ($0.60)
+Seat 8: zubeerek folded on the Flop
+Seat 9: jasper_fetch folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100841332:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:57:50 ET
+Table 'Retsina III' 9-max Seat #6 is the button
+Seat 1: rastyrasty ($14.95 in chips) 
+Seat 2: Bad Idea ($22.55 in chips) 
+Seat 4: Alameda22 ($27.70 in chips) 
+Seat 5: ghostrider27 ($9.55 in chips) 
+Seat 6: yipyapsap ($26.25 in chips) 
+Seat 7: Cashmandt ($22.35 in chips) 
+Seat 8: zubeerek ($14.25 in chips) 
+Seat 9: jasper_fetch ($24.75 in chips) 
+Cashmandt: posts small blind $0.10
+zubeerek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Tc]
+jasper_fetch: folds 
+rastyrasty: calls $0.25
+Bad Idea: folds 
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+Cashmandt: calls $0.15
+zubeerek: checks 
+*** FLOP *** [2h 7h 2d]
+Cashmandt: checks 
+zubeerek: checks 
+rastyrasty: checks 
+*** TURN *** [2h 7h 2d] [6c]
+Cashmandt: checks 
+$-Twackle-$ has returned
+zubeerek: checks 
+rastyrasty: bets $0.75
+Cashmandt: folds 
+zubeerek: folds 
+Uncalled bet ($0.75) returned to rastyrasty
+rastyrasty collected $0.75 from pot
+rastyrasty: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [2h 7h 2d 6c]
+Seat 1: rastyrasty collected ($0.75)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap (button) folded before Flop (didn't bet)
+Seat 7: Cashmandt (small blind) folded on the Turn
+Seat 8: zubeerek (big blind) folded on the Turn
+Seat 9: jasper_fetch folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100866342:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:58:59 ET
+Table 'Retsina III' 9-max Seat #7 is the button
+Seat 1: rastyrasty ($15.45 in chips) 
+Seat 2: Bad Idea ($22.55 in chips) 
+Seat 4: Alameda22 ($27.70 in chips) 
+Seat 5: ghostrider27 ($9.55 in chips) 
+Seat 6: yipyapsap ($26.25 in chips) 
+Seat 7: Cashmandt ($22.10 in chips) 
+Seat 8: zubeerek ($14 in chips) 
+Seat 9: jasper_fetch ($24.75 in chips) 
+zubeerek: posts small blind $0.10
+jasper_fetch: posts big blind $0.25
+$-Twackle-$: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 4c]
+rastyrasty: folds 
+Bad Idea: folds 
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+Cashmandt: raises $0.75 to $1
+zubeerek: folds 
+jasper_fetch: folds 
+Uncalled bet ($0.75) returned to Cashmandt
+Cashmandt collected $0.60 from pot
+Cashmandt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rastyrasty folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt (button) collected ($0.60)
+Seat 8: zubeerek (small blind) folded before Flop
+Seat 9: jasper_fetch (big blind) folded before Flop
+
+
+
+PokerStars Game #20100883464:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:59:47 ET
+Table 'Retsina III' 9-max Seat #8 is the button
+Seat 2: Bad Idea ($22.55 in chips) 
+Seat 4: Alameda22 ($27.70 in chips) 
+Seat 5: ghostrider27 ($9.55 in chips) 
+Seat 6: yipyapsap ($26.25 in chips) 
+Seat 7: Cashmandt ($22.45 in chips) 
+Seat 8: zubeerek ($13.90 in chips) 
+Seat 9: jasper_fetch ($24.50 in chips) 
+jasper_fetch: posts small blind $0.10
+rastyrasty: is sitting out 
+Bad Idea: posts big blind $0.25
+$-Twackle-$: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 6s]
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: folds 
+jasper_fetch: folds 
+Uncalled bet ($0.15) returned to Bad Idea
+Bad Idea collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Bad Idea (big blind) collected ($0.20)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek (button) folded before Flop (didn't bet)
+Seat 9: jasper_fetch (small blind) folded before Flop
+
+
+
+PokerStars Game #20100893939:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:00:14 ET
+Table 'Retsina III' 9-max Seat #9 is the button
+Seat 2: Bad Idea ($22.65 in chips) 
+Seat 3: $-Twackle-$ ($25 in chips) 
+Seat 4: Alameda22 ($27.70 in chips) 
+Seat 5: ghostrider27 ($9.55 in chips) 
+Seat 6: yipyapsap ($26.25 in chips) 
+Seat 7: Cashmandt ($22.45 in chips) 
+Seat 8: zubeerek ($13.90 in chips) 
+Seat 9: jasper_fetch ($24.40 in chips) 
+Bad Idea: posts small blind $0.10
+$-Twackle-$: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 6d]
+Alameda22: folds 
+ghostrider27: calls $0.25
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: folds 
+jasper_fetch: folds 
+Bad Idea: calls $0.15
+$-Twackle-$: checks 
+*** FLOP *** [Ad 9c 9s]
+Bad Idea: checks 
+$-Twackle-$: checks 
+ghostrider27: checks 
+*** TURN *** [Ad 9c 9s] [Td]
+Bad Idea: bets $0.50
+$-Twackle-$: folds 
+ghostrider27: folds 
+Uncalled bet ($0.50) returned to Bad Idea
+Bad Idea collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Ad 9c 9s Td]
+Seat 2: Bad Idea (small blind) collected ($0.75)
+Seat 3: $-Twackle-$ (big blind) folded on the Turn
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded on the Turn
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: jasper_fetch (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100910115:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:00:59 ET
+Table 'Retsina III' 9-max Seat #2 is the button
+Seat 2: Bad Idea ($23.15 in chips) 
+Seat 3: $-Twackle-$ ($24.75 in chips) 
+Seat 4: Alameda22 ($27.70 in chips) 
+Seat 5: ghostrider27 ($9.30 in chips) 
+Seat 6: yipyapsap ($26.25 in chips) 
+Seat 7: Cashmandt ($22.45 in chips) 
+Seat 8: zubeerek ($13.90 in chips) 
+Seat 9: jasper_fetch ($24.40 in chips) 
+$-Twackle-$: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Ac]
+ghostrider27: calls $0.25
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: folds 
+jasper_fetch: calls $0.25
+Bad Idea: folds 
+$-Twackle-$: folds 
+Alameda22: checks 
+*** FLOP *** [8c Ah 9c]
+Alameda22: checks 
+ghostrider27: checks 
+jasper_fetch: checks 
+*** TURN *** [8c Ah 9c] [As]
+Alameda22: bets $0.50
+ghostrider27: folds 
+jasper_fetch: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.85 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [8c Ah 9c As]
+Seat 2: Bad Idea (button) folded before Flop (didn't bet)
+Seat 3: $-Twackle-$ (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) collected ($0.85)
+Seat 5: ghostrider27 folded on the Turn
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: jasper_fetch folded on the Turn
+
+
+
+PokerStars Game #20100929081:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:01:50 ET
+Table 'Retsina III' 9-max Seat #3 is the button
+Seat 2: Bad Idea ($23.15 in chips) 
+Seat 3: $-Twackle-$ ($24.65 in chips) 
+Seat 4: Alameda22 ($28.30 in chips) 
+Seat 5: ghostrider27 ($9.05 in chips) 
+Seat 6: yipyapsap ($26.25 in chips) 
+Seat 7: Cashmandt ($22.45 in chips) 
+Seat 8: zubeerek ($13.90 in chips) 
+Seat 9: jasper_fetch ($24.15 in chips) 
+Alameda22: posts small blind $0.10
+ghostrider27: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 3c]
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: folds 
+jasper_fetch: folds 
+Bad Idea: folds 
+$-Twackle-$: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to ghostrider27
+ghostrider27 collected $0.20 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: $-Twackle-$ (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: ghostrider27 (big blind) collected ($0.20)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: jasper_fetch folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100942331:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:02:25 ET
+Table 'Retsina III' 9-max Seat #4 is the button
+Seat 2: Bad Idea ($23.15 in chips) 
+Seat 3: $-Twackle-$ ($24.65 in chips) 
+Seat 4: Alameda22 ($28.20 in chips) 
+Seat 5: ghostrider27 ($9.15 in chips) 
+Seat 6: yipyapsap ($26.25 in chips) 
+Seat 7: Cashmandt ($22.45 in chips) 
+Seat 8: zubeerek ($13.90 in chips) 
+Seat 9: jasper_fetch ($24.15 in chips) 
+ghostrider27: posts small blind $0.10
+yipyapsap: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 2h]
+Cashmandt: folds 
+zubeerek: folds 
+jasper_fetch: folds 
+Bad Idea: folds 
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: calls $0.15
+yipyapsap: checks 
+*** FLOP *** [Qd As 9d]
+ghostrider27: checks 
+yipyapsap: checks 
+*** TURN *** [Qd As 9d] [5c]
+ghostrider27: checks 
+yipyapsap: bets $0.50
+rastyrasty leaves the table
+ghostrider27: folds 
+Uncalled bet ($0.50) returned to yipyapsap
+yipyapsap collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Qd As 9d 5c]
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: $-Twackle-$ folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: ghostrider27 (small blind) folded on the Turn
+Seat 6: yipyapsap (big blind) collected ($0.50)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: jasper_fetch folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100963018:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:03:21 ET
+Table 'Retsina III' 9-max Seat #5 is the button
+Seat 2: Bad Idea ($23.15 in chips) 
+Seat 3: $-Twackle-$ ($24.65 in chips) 
+Seat 4: Alameda22 ($28.20 in chips) 
+Seat 5: ghostrider27 ($8.90 in chips) 
+Seat 6: yipyapsap ($26.50 in chips) 
+Seat 7: Cashmandt ($22.45 in chips) 
+Seat 8: zubeerek ($13.90 in chips) 
+Seat 9: jasper_fetch ($24.15 in chips) 
+yipyapsap: posts small blind $0.10
+Cashmandt: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 8d]
+zubeerek: folds 
+jasper_fetch: calls $0.25
+Bad Idea: folds 
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+Cashmandt: checks 
+*** FLOP *** [7s Tc 4d]
+Cashmandt: checks 
+jasper_fetch: checks 
+*** TURN *** [7s Tc 4d] [As]
+Cashmandt: checks 
+jasper_fetch: checks 
+*** RIVER *** [7s Tc 4d As] [9c]
+Cashmandt: checks 
+jasper_fetch: checks 
+*** SHOW DOWN ***
+Cashmandt: shows [3c 4c] (a pair of Fours)
+jasper_fetch: shows [Jc 7c] (a pair of Sevens)
+jasper_fetch collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7s Tc 4d As 9c]
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: $-Twackle-$ folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 (button) folded before Flop (didn't bet)
+Seat 6: yipyapsap (small blind) folded before Flop
+Seat 7: Cashmandt (big blind) showed [3c 4c] and lost with a pair of Fours
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: jasper_fetch showed [Jc 7c] and won ($0.60) with a pair of Sevens
+
+
+
+PokerStars Game #20100980105:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:04:07 ET
+Table 'Retsina III' 9-max Seat #6 is the button
+Seat 2: Bad Idea ($23.15 in chips) 
+Seat 3: $-Twackle-$ ($24.65 in chips) 
+Seat 4: Alameda22 ($28.20 in chips) 
+Seat 5: ghostrider27 ($8.90 in chips) 
+Seat 6: yipyapsap ($26.40 in chips) 
+Seat 7: Cashmandt ($22.20 in chips) 
+Seat 8: zubeerek ($13.90 in chips) 
+Seat 9: jasper_fetch ($24.50 in chips) 
+Cashmandt: posts small blind $0.10
+zubeerek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s As]
+jasper_fetch: folds 
+Bad Idea: folds 
+$-Twackle-$: folds 
+tommy!1986 joins the table at seat #1 
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+Cashmandt: folds 
+Uncalled bet ($0.15) returned to zubeerek
+zubeerek collected $0.20 from pot
+zubeerek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: $-Twackle-$ folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap (button) folded before Flop (didn't bet)
+Seat 7: Cashmandt (small blind) folded before Flop
+Seat 8: zubeerek (big blind) collected ($0.20)
+Seat 9: jasper_fetch folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100989813:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:04:33 ET
+Table 'Retsina III' 9-max Seat #7 is the button
+Seat 1: tommy!1986 ($25 in chips) 
+Seat 2: Bad Idea ($23.15 in chips) 
+Seat 3: $-Twackle-$ ($24.65 in chips) 
+Seat 4: Alameda22 ($28.20 in chips) 
+Seat 5: ghostrider27 ($8.90 in chips) 
+Seat 6: yipyapsap ($26.40 in chips) 
+Seat 7: Cashmandt ($22.10 in chips) 
+Seat 8: zubeerek ($14 in chips) 
+Seat 9: jasper_fetch ($24.50 in chips) 
+zubeerek: posts small blind $0.10
+jasper_fetch: posts big blind $0.25
+tommy!1986: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 9h]
+tommy!1986: checks 
+Bad Idea: calls $0.25
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: raises $0.50 to $0.75
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: folds 
+jasper_fetch: folds 
+tommy!1986: folds 
+Bad Idea: calls $0.50
+*** FLOP *** [8c 2c 6s]
+Bad Idea: checks 
+ghostrider27: bets $2
+Bad Idea: folds 
+Uncalled bet ($2) returned to ghostrider27
+ghostrider27 collected $2 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [8c 2c 6s]
+Seat 1: tommy!1986 folded before Flop
+Seat 2: Bad Idea folded on the Flop
+Seat 3: $-Twackle-$ folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 collected ($2)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt (button) folded before Flop (didn't bet)
+Seat 8: zubeerek (small blind) folded before Flop
+Seat 9: jasper_fetch (big blind) folded before Flop
+
+
+
+PokerStars Game #20101012683:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:05:35 ET
+Table 'Retsina III' 9-max Seat #8 is the button
+Seat 1: tommy!1986 ($24.75 in chips) 
+Seat 2: Bad Idea ($22.40 in chips) 
+Seat 3: $-Twackle-$ ($24.65 in chips) 
+Seat 4: Alameda22 ($28.20 in chips) 
+Seat 5: ghostrider27 ($10.15 in chips) 
+Seat 6: yipyapsap ($26.40 in chips) 
+Seat 7: Cashmandt ($22.10 in chips) 
+Seat 8: zubeerek ($13.90 in chips) 
+Seat 9: jasper_fetch ($24.25 in chips) 
+jasper_fetch: posts small blind $0.10
+tommy!1986: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Th]
+Bad Idea: folds 
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: folds 
+jasper_fetch: calls $0.15
+tommy!1986: checks 
+*** FLOP *** [Kd 2s 6s]
+jasper_fetch: bets $0.50
+tommy!1986: folds 
+Uncalled bet ($0.50) returned to jasper_fetch
+jasper_fetch collected $0.50 from pot
+jasper_fetch: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Kd 2s 6s]
+Seat 1: tommy!1986 (big blind) folded on the Flop
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: $-Twackle-$ folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek (button) folded before Flop (didn't bet)
+Seat 9: jasper_fetch (small blind) collected ($0.50)
+
+
+
+PokerStars Game #20101031412:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:06:27 ET
+Table 'Retsina III' 9-max Seat #9 is the button
+Seat 1: tommy!1986 ($24.50 in chips) 
+Seat 2: Bad Idea ($22.40 in chips) 
+Seat 3: $-Twackle-$ ($24.65 in chips) 
+Seat 4: Alameda22 ($28.20 in chips) 
+Seat 5: ghostrider27 ($10.15 in chips) 
+Seat 6: yipyapsap ($26.40 in chips) 
+Seat 7: Cashmandt ($22.10 in chips) 
+Seat 8: zubeerek ($13.90 in chips) 
+Seat 9: jasper_fetch ($24.50 in chips) 
+tommy!1986: posts small blind $0.10
+Bad Idea: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 5d]
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: raises $0.25 to $0.50
+jasper_fetch: folds 
+tommy!1986: folds 
+Bad Idea: calls $0.25
+*** FLOP *** [Th 6c Js]
+Bad Idea: checks 
+zubeerek: bets $0.50
+Bad Idea: folds 
+Uncalled bet ($0.50) returned to zubeerek
+zubeerek collected $1.05 from pot
+zubeerek: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Th 6c Js]
+Seat 1: tommy!1986 (small blind) folded before Flop
+Seat 2: Bad Idea (big blind) folded on the Flop
+Seat 3: $-Twackle-$ folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek collected ($1.05)
+Seat 9: jasper_fetch (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101050164:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:07:18 ET
+Table 'Retsina III' 9-max Seat #1 is the button
+Seat 1: tommy!1986 ($24.40 in chips) 
+Seat 2: Bad Idea ($21.90 in chips) 
+Seat 3: $-Twackle-$ ($24.65 in chips) 
+Seat 4: Alameda22 ($28.20 in chips) 
+Seat 5: ghostrider27 ($10.15 in chips) 
+Seat 6: yipyapsap ($26.40 in chips) 
+Seat 7: Cashmandt ($22.10 in chips) 
+Seat 8: zubeerek ($14.45 in chips) 
+Seat 9: jasper_fetch ($24.50 in chips) 
+Bad Idea: posts small blind $0.10
+$-Twackle-$: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 7c]
+Alameda22: folds 
+ghostrider27: folds 
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: calls $0.25
+jasper_fetch: folds 
+tommy!1986: folds 
+Bad Idea: calls $0.15
+$-Twackle-$: checks 
+*** FLOP *** [6s Jc 2d]
+Bad Idea: checks 
+$-Twackle-$: checks 
+zubeerek: bets $0.50
+Bad Idea: folds 
+$-Twackle-$: folds 
+Uncalled bet ($0.50) returned to zubeerek
+zubeerek collected $0.75 from pot
+zubeerek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [6s Jc 2d]
+Seat 1: tommy!1986 (button) folded before Flop (didn't bet)
+Seat 2: Bad Idea (small blind) folded on the Flop
+Seat 3: $-Twackle-$ (big blind) folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek collected ($0.75)
+Seat 9: jasper_fetch folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101072558:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:08:18 ET
+Table 'Retsina III' 9-max Seat #2 is the button
+Seat 1: tommy!1986 ($24.40 in chips) 
+Seat 2: Bad Idea ($21.65 in chips) 
+Seat 3: $-Twackle-$ ($24.40 in chips) 
+Seat 4: Alameda22 ($28.20 in chips) 
+Seat 5: ghostrider27 ($10.15 in chips) 
+Seat 6: yipyapsap ($26.40 in chips) 
+Seat 7: Cashmandt ($22.10 in chips) 
+Seat 8: zubeerek ($14.95 in chips) 
+Seat 9: jasper_fetch ($24.50 in chips) 
+$-Twackle-$: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Kd]
+ghostrider27: folds 
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: folds 
+jasper_fetch: folds 
+tommy!1986: folds 
+Bad Idea: folds 
+$-Twackle-$: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: tommy!1986 folded before Flop (didn't bet)
+Seat 2: Bad Idea (button) folded before Flop (didn't bet)
+Seat 3: $-Twackle-$ (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) collected ($0.20)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: jasper_fetch folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101087200:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:08:58 ET
+Table 'Retsina III' 9-max Seat #3 is the button
+Seat 1: tommy!1986 ($24.40 in chips) 
+Seat 2: Bad Idea ($21.65 in chips) 
+Seat 3: $-Twackle-$ ($24.30 in chips) 
+Seat 4: Alameda22 ($28.30 in chips) 
+Seat 5: ghostrider27 ($10.15 in chips) 
+Seat 6: yipyapsap ($26.40 in chips) 
+Seat 7: Cashmandt ($22.10 in chips) 
+Seat 8: zubeerek ($14.95 in chips) 
+Seat 9: jasper_fetch ($24.50 in chips) 
+Alameda22: posts small blind $0.10
+ghostrider27: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Js]
+yipyapsap: folds 
+Cashmandt: folds 
+zubeerek: folds 
+jasper_fetch: folds 
+tommy!1986: folds 
+Bad Idea: folds 
+$-Twackle-$: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to ghostrider27
+ghostrider27 collected $0.20 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: tommy!1986 folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: $-Twackle-$ (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: ghostrider27 (big blind) collected ($0.20)
+Seat 6: yipyapsap folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: jasper_fetch folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101106103:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:09:49 ET
+Table 'Retsina III' 9-max Seat #4 is the button
+Seat 1: tommy!1986 ($24.40 in chips) 
+Seat 2: Bad Idea ($21.65 in chips) 
+Seat 3: $-Twackle-$ ($24.30 in chips) 
+Seat 4: Alameda22 ($28.20 in chips) 
+Seat 5: ghostrider27 ($10.25 in chips) 
+Seat 7: Cashmandt ($22.10 in chips) 
+Seat 8: zubeerek ($14.95 in chips) 
+Seat 9: jasper_fetch ($24.50 in chips) 
+ghostrider27: posts small blind $0.10
+yipyapsap: is sitting out 
+Cashmandt: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 4s]
+yipyapsap leaves the table
+zubeerek: folds 
+jasper_fetch: folds 
+tommy!1986: folds 
+Bad Idea: calls $0.25
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: calls $0.15
+Cashmandt: checks 
+*** FLOP *** [2h Jh Tc]
+ghostrider27: checks 
+Cashmandt: checks 
+Bad Idea: checks 
+*** TURN *** [2h Jh Tc] [Ts]
+ghostrider27: checks 
+jasons0147 joins the table at seat #6 
+Cashmandt: checks 
+Bad Idea: checks 
+*** RIVER *** [2h Jh Tc Ts] [5h]
+ghostrider27: checks 
+Cashmandt: checks 
+Bad Idea: checks 
+*** SHOW DOWN ***
+ghostrider27: shows [Kd 2s] (two pair, Tens and Deuces)
+Cashmandt: shows [2c Ac] (two pair, Tens and Deuces - Ace kicker)
+Bad Idea: mucks hand 
+Cashmandt collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [2h Jh Tc Ts 5h]
+Seat 1: tommy!1986 folded before Flop (didn't bet)
+Seat 2: Bad Idea mucked [6c 7c]
+Seat 3: $-Twackle-$ folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: ghostrider27 (small blind) showed [Kd 2s] and lost with two pair, Tens and Deuces
+Seat 7: Cashmandt (big blind) showed [2c Ac] and won ($0.75) with two pair, Tens and Deuces
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: jasper_fetch folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101133429:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:11:05 ET
+Table 'Retsina III' 9-max Seat #5 is the button
+Seat 1: tommy!1986 ($24.40 in chips) 
+Seat 2: Bad Idea ($21.40 in chips) 
+Seat 3: $-Twackle-$ ($24.30 in chips) 
+Seat 4: Alameda22 ($28.20 in chips) 
+Seat 5: ghostrider27 ($10 in chips) 
+Seat 7: Cashmandt ($22.60 in chips) 
+Seat 8: zubeerek ($14.95 in chips) 
+Seat 9: jasper_fetch ($24.50 in chips) 
+jasons0147 will be allowed to play after the button
+Cashmandt: posts small blind $0.10
+zubeerek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 4h]
+jasper_fetch: folds 
+tommy!1986: folds 
+Bad Idea: raises $0.25 to $0.50
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: folds 
+Cashmandt: folds 
+zubeerek: calls $0.25
+*** FLOP *** [3h 5s 7h]
+zubeerek: checks 
+Bad Idea: bets $0.75
+zubeerek: folds 
+Uncalled bet ($0.75) returned to Bad Idea
+Bad Idea collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [3h 5s 7h]
+Seat 1: tommy!1986 folded before Flop (didn't bet)
+Seat 2: Bad Idea collected ($1.05)
+Seat 3: $-Twackle-$ folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 (button) folded before Flop (didn't bet)
+Seat 7: Cashmandt (small blind) folded before Flop
+Seat 8: zubeerek (big blind) folded on the Flop
+Seat 9: jasper_fetch folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101151380:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:11:53 ET
+Table 'Retsina III' 9-max Seat #7 is the button
+Seat 1: tommy!1986 ($24.40 in chips) 
+Seat 2: Bad Idea ($21.95 in chips) 
+Seat 3: $-Twackle-$ ($24.30 in chips) 
+Seat 4: Alameda22 ($28.20 in chips) 
+Seat 5: ghostrider27 ($10 in chips) 
+Seat 7: Cashmandt ($22.50 in chips) 
+Seat 8: zubeerek ($14.45 in chips) 
+Seat 9: jasper_fetch ($24.50 in chips) 
+zubeerek: posts small blind $0.10
+jasper_fetch: posts big blind $0.25
+jasons0147: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 5h]
+tommy!1986: folds 
+Bad Idea: folds 
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: folds 
+Cashmandt: folds 
+zubeerek: calls $0.15
+jasper_fetch: checks 
+*** FLOP *** [6h Ac 6d]
+zubeerek: checks 
+jasper_fetch: checks 
+*** TURN *** [6h Ac 6d] [4h]
+zubeerek: checks 
+jasper_fetch: checks 
+*** RIVER *** [6h Ac 6d 4h] [5d]
+zubeerek: bets $0.75
+jasper_fetch: folds 
+Uncalled bet ($0.75) returned to zubeerek
+zubeerek collected $0.50 from pot
+zubeerek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [6h Ac 6d 4h 5d]
+Seat 1: tommy!1986 folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: $-Twackle-$ folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 7: Cashmandt (button) folded before Flop (didn't bet)
+Seat 8: zubeerek (small blind) collected ($0.50)
+Seat 9: jasper_fetch (big blind) folded on the River
+
+
+
+PokerStars Game #20101169450:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:12:43 ET
+Table 'Retsina III' 9-max Seat #8 is the button
+Seat 1: tommy!1986 ($24.40 in chips) 
+Seat 2: Bad Idea ($21.95 in chips) 
+Seat 3: $-Twackle-$ ($24.30 in chips) 
+Seat 4: Alameda22 ($28.20 in chips) 
+Seat 5: ghostrider27 ($10 in chips) 
+Seat 7: Cashmandt ($22.50 in chips) 
+Seat 8: zubeerek ($14.70 in chips) 
+Seat 9: jasper_fetch ($24.25 in chips) 
+jasper_fetch: posts small blind $0.10
+tommy!1986: posts big blind $0.25
+jasons0147: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 2d]
+Bad Idea: raises $0.25 to $0.50
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: folds 
+Cashmandt: folds 
+zubeerek: folds 
+jasper_fetch: calls $0.40
+tommy!1986: folds 
+*** FLOP *** [4d Jc Kc]
+jasper_fetch: checks 
+Bad Idea: bets $1
+jasper_fetch: folds 
+Uncalled bet ($1) returned to Bad Idea
+Bad Idea collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [4d Jc Kc]
+Seat 1: tommy!1986 (big blind) folded before Flop
+Seat 2: Bad Idea collected ($1.20)
+Seat 3: $-Twackle-$ folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek (button) folded before Flop (didn't bet)
+Seat 9: jasper_fetch (small blind) folded on the Flop
+
+
+
+PokerStars Game #20101183624:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:13:22 ET
+Table 'Retsina III' 9-max Seat #9 is the button
+Seat 1: tommy!1986 ($24.15 in chips) 
+Seat 2: Bad Idea ($22.65 in chips) 
+Seat 3: $-Twackle-$ ($24.30 in chips) 
+Seat 4: Alameda22 ($28.20 in chips) 
+Seat 5: ghostrider27 ($10 in chips) 
+Seat 7: Cashmandt ($22.50 in chips) 
+Seat 8: zubeerek ($14.70 in chips) 
+Seat 9: jasper_fetch ($23.75 in chips) 
+tommy!1986: posts small blind $0.10
+Bad Idea: posts big blind $0.25
+jasons0147: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 9h]
+$-Twackle-$: calls $0.25
+Alameda22: folds 
+ghostrider27: folds 
+Cashmandt: folds 
+zubeerek: raises $0.25 to $0.50
+jasper_fetch: folds 
+tommy!1986: folds 
+Bad Idea: calls $0.25
+$-Twackle-$: calls $0.25
+*** FLOP *** [Ks Th 4h]
+Bad Idea: checks 
+$-Twackle-$: checks 
+zubeerek: bets $0.75
+Bad Idea: folds 
+$-Twackle-$: raises $1.25 to $2
+zubeerek: calls $1.25
+*** TURN *** [Ks Th 4h] [Qs]
+$-Twackle-$: bets $4
+zubeerek: folds 
+Uncalled bet ($4) returned to $-Twackle-$
+$-Twackle-$ collected $5.35 from pot
+$-Twackle-$: doesn't show hand 
+zubeerek said, "what??"
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.25 
+Board [Ks Th 4h Qs]
+Seat 1: tommy!1986 (small blind) folded before Flop
+Seat 2: Bad Idea (big blind) folded on the Flop
+Seat 3: $-Twackle-$ collected ($5.35)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek folded on the Turn
+Seat 9: jasper_fetch (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101211713:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:14:40 ET
+Table 'Retsina III' 9-max Seat #1 is the button
+Seat 1: tommy!1986 ($24.05 in chips) 
+Seat 2: Bad Idea ($22.15 in chips) 
+Seat 3: $-Twackle-$ ($27.15 in chips) 
+Seat 4: Alameda22 ($28.20 in chips) 
+Seat 5: ghostrider27 ($10 in chips) 
+Seat 7: Cashmandt ($22.50 in chips) 
+Seat 8: zubeerek ($12.20 in chips) 
+Seat 9: jasper_fetch ($23.75 in chips) 
+Bad Idea: posts small blind $0.10
+$-Twackle-$: posts big blind $0.25
+jasons0147: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Qs]
+Alameda22: folds 
+ghostrider27: folds 
+Cashmandt: folds 
+zubeerek: folds 
+jasper_fetch: folds 
+zubeerek said, "...."
+tommy!1986: calls $0.25
+Bad Idea: calls $0.15
+$-Twackle-$: checks 
+*** FLOP *** [7h 9c 7d]
+Bad Idea: bets $0.50
+$-Twackle-$: calls $0.50
+tommy!1986: folds 
+*** TURN *** [7h 9c 7d] [Jd]
+Bad Idea: bets $0.50
+$-Twackle-$: calls $0.50
+*** RIVER *** [7h 9c 7d Jd] [Jh]
+Bad Idea: bets $2.50
+$-Twackle-$: calls $2.50
+*** SHOW DOWN ***
+Bad Idea: shows [Ac Td] (two pair, Jacks and Sevens)
+$-Twackle-$: shows [Kd 9s] (two pair, Jacks and Nines)
+$-Twackle-$ collected $7.40 from pot
+*** SUMMARY ***
+Total pot $7.75 | Rake $0.35 
+Board [7h 9c 7d Jd Jh]
+Seat 1: tommy!1986 (button) folded on the Flop
+Seat 2: Bad Idea (small blind) showed [Ac Td] and lost with two pair, Jacks and Sevens
+Seat 3: $-Twackle-$ (big blind) showed [Kd 9s] and won ($7.40) with two pair, Jacks and Nines
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: jasper_fetch folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101239391:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:15:59 ET
+Table 'Retsina III' 9-max Seat #2 is the button
+Seat 1: tommy!1986 ($23.80 in chips) 
+Seat 2: Bad Idea ($18.40 in chips) 
+Seat 3: $-Twackle-$ ($30.80 in chips) 
+Seat 4: Alameda22 ($28.20 in chips) 
+Seat 5: ghostrider27 ($10 in chips) 
+Seat 7: Cashmandt ($22.50 in chips) 
+Seat 8: zubeerek ($12.20 in chips) 
+Seat 9: jasper_fetch ($23.75 in chips) 
+$-Twackle-$: posts small blind $0.10
+Alameda22: posts big blind $0.25
+jasons0147: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Jd]
+ghostrider27: calls $0.25
+Cashmandt: folds 
+zubeerek: folds 
+jasper_fetch: raises $1 to $1.25
+tommy!1986: folds 
+Bad Idea: folds 
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: folds 
+Uncalled bet ($1) returned to jasper_fetch
+jasper_fetch collected $0.85 from pot
+jasper_fetch: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: tommy!1986 folded before Flop (didn't bet)
+Seat 2: Bad Idea (button) folded before Flop (didn't bet)
+Seat 3: $-Twackle-$ (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: ghostrider27 folded before Flop
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: jasper_fetch collected ($0.85)
+
+
+
+PokerStars Game #20101254711:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:16:42 ET
+Table 'Retsina III' 9-max Seat #3 is the button
+Seat 1: tommy!1986 ($23.80 in chips) 
+Seat 2: Bad Idea ($18.40 in chips) 
+Seat 3: $-Twackle-$ ($30.70 in chips) 
+Seat 4: Alameda22 ($27.95 in chips) 
+Seat 5: ghostrider27 ($9.75 in chips) 
+Seat 7: Cashmandt ($22.50 in chips) 
+Seat 8: zubeerek ($12.20 in chips) 
+Seat 9: jasper_fetch ($24.35 in chips) 
+Alameda22: posts small blind $0.10
+ghostrider27: posts big blind $0.25
+jasons0147: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 5c]
+Cashmandt: folds 
+zubeerek: raises $0.25 to $0.50
+jasper_fetch: folds 
+tommy!1986: folds 
+Bad Idea: folds 
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: folds 
+Uncalled bet ($0.25) returned to zubeerek
+zubeerek collected $0.60 from pot
+zubeerek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: tommy!1986 folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: $-Twackle-$ (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: ghostrider27 (big blind) folded before Flop
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek collected ($0.60)
+Seat 9: jasper_fetch folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101273850:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:17:34 ET
+Table 'Retsina III' 9-max Seat #4 is the button
+Seat 1: tommy!1986 ($23.80 in chips) 
+Seat 2: Bad Idea ($18.40 in chips) 
+Seat 3: $-Twackle-$ ($30.70 in chips) 
+Seat 4: Alameda22 ($27.85 in chips) 
+Seat 5: ghostrider27 ($9.50 in chips) 
+Seat 6: jasons0147 ($25 in chips) 
+Seat 7: Cashmandt ($22.50 in chips) 
+Seat 8: zubeerek ($12.55 in chips) 
+Seat 9: jasper_fetch ($24.35 in chips) 
+ghostrider27: posts small blind $0.10
+jasons0147: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Qc]
+Cashmandt: folds 
+Cashmandt is sitting out
+zubeerek: folds 
+jasper_fetch: raises $0.75 to $1
+tommy!1986: folds 
+Bad Idea: folds 
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: folds 
+jasons0147: folds 
+Uncalled bet ($0.75) returned to jasper_fetch
+jasper_fetch collected $0.60 from pot
+jasper_fetch: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: tommy!1986 folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: $-Twackle-$ folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: ghostrider27 (small blind) folded before Flop
+Seat 6: jasons0147 (big blind) folded before Flop
+Seat 7: Cashmandt folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: jasper_fetch collected ($0.60)
+
+
+
+PokerStars Game #20101291789:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:18:25 ET
+Table 'Retsina III' 9-max Seat #5 is the button
+Seat 1: tommy!1986 ($23.80 in chips) 
+Seat 2: Bad Idea ($18.40 in chips) 
+Seat 3: $-Twackle-$ ($30.70 in chips) 
+Seat 4: Alameda22 ($27.85 in chips) 
+Seat 5: ghostrider27 ($9.40 in chips) 
+Seat 6: jasons0147 ($25 in chips) 
+Seat 8: zubeerek ($12.55 in chips) 
+Seat 9: jasper_fetch ($24.70 in chips) 
+jasons0147: posts small blind $0.10
+zubeerek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 8h]
+Cashmandt leaves the table
+jasper_fetch: folds 
+tommy!1986: folds 
+Bad Idea: folds 
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: folds 
+jasons0147: raises $0.75 to $1
+zubeerek: folds 
+Uncalled bet ($0.75) returned to jasons0147
+jasons0147 collected $0.50 from pot
+jasons0147: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: tommy!1986 folded before Flop (didn't bet)
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: $-Twackle-$ folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 (button) folded before Flop (didn't bet)
+Seat 6: jasons0147 (small blind) collected ($0.50)
+Seat 8: zubeerek (big blind) folded before Flop
+Seat 9: jasper_fetch folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101313696:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:19:25 ET
+Table 'Retsina III' 9-max Seat #6 is the button
+Seat 1: tommy!1986 ($23.80 in chips) 
+Seat 2: Bad Idea ($18.40 in chips) 
+Seat 3: $-Twackle-$ ($30.70 in chips) 
+Seat 4: Alameda22 ($27.85 in chips) 
+Seat 5: ghostrider27 ($9.40 in chips) 
+Seat 6: jasons0147 ($25.25 in chips) 
+Seat 8: zubeerek ($12.30 in chips) 
+Seat 9: jasper_fetch ($24.70 in chips) 
+zubeerek: posts small blind $0.10
+jasper_fetch: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 6c]
+tommy!1986: folds 
+tommy!1986 leaves the table
+Bad Idea: raises $0.25 to $0.50
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: folds 
+jasons0147: folds 
+zubeerek: folds 
+jasper_fetch: calls $0.25
+*** FLOP *** [Ad Qh 4h]
+jasper_fetch: checks 
+Bad Idea: bets $0.75
+jasper_fetch: folds 
+Uncalled bet ($0.75) returned to Bad Idea
+Bad Idea collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Ad Qh 4h]
+Seat 1: tommy!1986 folded before Flop (didn't bet)
+Seat 2: Bad Idea collected ($1.05)
+Seat 3: $-Twackle-$ folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: jasons0147 (button) folded before Flop (didn't bet)
+Seat 8: zubeerek (small blind) folded before Flop
+Seat 9: jasper_fetch (big blind) folded on the Flop
+
+
+
+PokerStars Game #20101332993:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:20:18 ET
+Table 'Retsina III' 9-max Seat #8 is the button
+Seat 2: Bad Idea ($18.95 in chips) 
+Seat 3: $-Twackle-$ ($30.70 in chips) 
+Seat 4: Alameda22 ($27.85 in chips) 
+Seat 5: ghostrider27 ($9.40 in chips) 
+Seat 6: jasons0147 ($25.25 in chips) 
+Seat 8: zubeerek ($12.20 in chips) 
+Seat 9: jasper_fetch ($24.20 in chips) 
+jasper_fetch: posts small blind $0.10
+Bad Idea: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 7s]
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: folds 
+jasons0147: raises $0.50 to $0.75
+zubeerek: folds 
+jasper_fetch: calls $0.65
+Bad Idea: calls $0.50
+*** FLOP *** [7d Qs Kc]
+jasper_fetch: checks 
+Bad Idea: checks 
+jasons0147: bets $1.75
+jasper_fetch: folds 
+Bad Idea: folds 
+Uncalled bet ($1.75) returned to jasons0147
+jasons0147 collected $2.15 from pot
+jasons0147: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [7d Qs Kc]
+Seat 2: Bad Idea (big blind) folded on the Flop
+Seat 3: $-Twackle-$ folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: jasons0147 collected ($2.15)
+Seat 8: zubeerek (button) folded before Flop (didn't bet)
+Seat 9: jasper_fetch (small blind) folded on the Flop
+
+
+
+PokerStars Game #20101358258:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:21:28 ET
+Table 'Retsina III' 9-max Seat #9 is the button
+Seat 2: Bad Idea ($18.20 in chips) 
+Seat 3: $-Twackle-$ ($30.70 in chips) 
+Seat 4: Alameda22 ($27.85 in chips) 
+Seat 5: ghostrider27 ($9.40 in chips) 
+Seat 6: jasons0147 ($26.65 in chips) 
+Seat 8: zubeerek ($12.20 in chips) 
+Seat 9: jasper_fetch ($23.45 in chips) 
+Bad Idea: posts small blind $0.10
+$-Twackle-$: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 5c]
+Alameda22: folds 
+ghostrider27: calls $0.25
+jasons0147: folds 
+zubeerek: raises $0.25 to $0.50
+jasper_fetch: folds 
+Bad Idea: folds 
+$-Twackle-$: calls $0.25
+ghostrider27: folds 
+*** FLOP *** [7d 5d 6h]
+$-Twackle-$: checks 
+zubeerek: checks 
+*** TURN *** [7d 5d 6h] [Kh]
+$-Twackle-$: checks 
+zubeerek: checks 
+*** RIVER *** [7d 5d 6h Kh] [Ac]
+$-Twackle-$: bets $0.75
+zubeerek: folds 
+Uncalled bet ($0.75) returned to $-Twackle-$
+$-Twackle-$ collected $1.30 from pot
+$-Twackle-$: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [7d 5d 6h Kh Ac]
+Seat 2: Bad Idea (small blind) folded before Flop
+Seat 3: $-Twackle-$ (big blind) collected ($1.30)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 folded before Flop
+Seat 6: jasons0147 folded before Flop (didn't bet)
+Seat 8: zubeerek folded on the River
+Seat 9: jasper_fetch (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101383844:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:22:38 ET
+Table 'Retsina III' 9-max Seat #2 is the button
+Seat 2: Bad Idea ($18.10 in chips) 
+Seat 3: $-Twackle-$ ($31.50 in chips) 
+Seat 4: Alameda22 ($27.85 in chips) 
+Seat 5: ghostrider27 ($9.15 in chips) 
+Seat 6: jasons0147 ($26.65 in chips) 
+Seat 8: zubeerek ($11.70 in chips) 
+Seat 9: jasper_fetch ($23.45 in chips) 
+$-Twackle-$: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 7d]
+ghostrider27: folds 
+jasons0147: raises $0.75 to $1
+zubeerek: folds 
+jasper_fetch: calls $1
+Bad Idea: calls $1
+$-Twackle-$: folds 
+Alameda22: folds 
+*** FLOP *** [3h Js 4h]
+jasons0147: bets $2.25
+jasper_fetch: folds 
+Bad Idea: raises $4.75 to $7
+jasons0147: folds 
+Uncalled bet ($4.75) returned to Bad Idea
+Bad Idea collected $7.50 from pot
+*** SUMMARY ***
+Total pot $7.85 | Rake $0.35 
+Board [3h Js 4h]
+Seat 2: Bad Idea (button) collected ($7.50)
+Seat 3: $-Twackle-$ (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 6: jasons0147 folded on the Flop
+Seat 8: zubeerek folded before Flop (didn't bet)
+Seat 9: jasper_fetch folded on the Flop
+
+
+
+PokerStars Game #20101417707:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:24:10 ET
+Table 'Retsina III' 9-max Seat #3 is the button
+Seat 2: Bad Idea ($22.35 in chips) 
+Seat 3: $-Twackle-$ ($31.40 in chips) 
+Seat 4: Alameda22 ($27.60 in chips) 
+Seat 5: ghostrider27 ($9.15 in chips) 
+Seat 6: jasons0147 ($25 in chips) 
+Seat 8: zubeerek ($11.70 in chips) 
+Seat 9: jasper_fetch ($22.45 in chips) 
+Alameda22: posts small blind $0.10
+ghostrider27: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Ad]
+jasons0147: folds 
+jasons0147 leaves the table
+zubeerek: calls $0.25
+jasper_fetch: raises $1.25 to $1.50
+Bad Idea: folds 
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: folds 
+zubeerek: folds 
+Uncalled bet ($1.25) returned to jasper_fetch
+jasper_fetch collected $0.85 from pot
+jasper_fetch: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: $-Twackle-$ (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: ghostrider27 (big blind) folded before Flop
+Seat 6: jasons0147 folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop
+Seat 9: jasper_fetch collected ($0.85)
+
+
+
+PokerStars Game #20101429352:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:24:42 ET
+Table 'Retsina III' 9-max Seat #4 is the button
+Seat 2: Bad Idea ($22.35 in chips) 
+Seat 3: $-Twackle-$ ($31.40 in chips) 
+Seat 4: Alameda22 ($27.50 in chips) 
+Seat 5: ghostrider27 ($8.90 in chips) 
+Seat 8: zubeerek ($11.45 in chips) 
+Seat 9: jasper_fetch ($23.05 in chips) 
+ghostrider27: posts small blind $0.10
+zubeerek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 9h]
+jasper_fetch: folds 
+Bad Idea: folds 
+$-Twackle-$: folds 
+Alameda22: folds 
+ghostrider27: calls $0.15
+zubeerek: checks 
+*** FLOP *** [9c 4d Th]
+ghostrider27: checks 
+zubeerek: checks 
+*** TURN *** [9c 4d Th] [Qh]
+ghostrider27: checks 
+zubeerek: checks 
+*** RIVER *** [9c 4d Th Qh] [9d]
+ghostrider27: checks 
+zubeerek: checks 
+*** SHOW DOWN ***
+ghostrider27: shows [3d As] (a pair of Nines)
+zubeerek: mucks hand 
+ghostrider27 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [9c 4d Th Qh 9d]
+Seat 2: Bad Idea folded before Flop (didn't bet)
+Seat 3: $-Twackle-$ folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: ghostrider27 (small blind) showed [3d As] and won ($0.50) with a pair of Nines
+Seat 8: zubeerek (big blind) mucked [2s Kc]
+Seat 9: jasper_fetch folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101442394:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:25:17 ET
+Table 'Retsina III' 9-max Seat #5 is the button
+Seat 2: Bad Idea ($22.35 in chips) 
+Seat 3: $-Twackle-$ ($31.40 in chips) 
+Seat 4: Alameda22 ($27.50 in chips) 
+Seat 5: ghostrider27 ($9.15 in chips) 
+Seat 8: zubeerek ($11.20 in chips) 
+zubeerek: posts small blind $0.10
+jasper_fetch: is sitting out 
+Bad Idea: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 7s]
+$-Twackle-$: folds 
+Alameda22: folds 
+jasper_fetch leaves the table
+ghostrider27: folds 
+zubeerek: raises $0.50 to $0.75
+Bad Idea: calls $0.50
+*** FLOP *** [Ts 4c Qs]
+zubeerek: bets $0.75
+Bad Idea: folds 
+Uncalled bet ($0.75) returned to zubeerek
+zubeerek collected $1.45 from pot
+zubeerek: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Ts 4c Qs]
+Seat 2: Bad Idea (big blind) folded on the Flop
+Seat 3: $-Twackle-$ folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 (button) folded before Flop (didn't bet)
+Seat 8: zubeerek (small blind) collected ($1.45)
+
+
+
+PokerStars Game #20101460799:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:26:08 ET
+Table 'Retsina III' 9-max Seat #8 is the button
+Seat 2: Bad Idea ($21.60 in chips) 
+Seat 3: $-Twackle-$ ($31.40 in chips) 
+Seat 4: Alameda22 ($27.50 in chips) 
+Seat 5: ghostrider27 ($9.15 in chips) 
+Seat 8: zubeerek ($11.90 in chips) 
+Bad Idea: posts small blind $0.10
+$-Twackle-$: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 9d]
+Alameda22: folds 
+ghostrider27: calls $0.25
+zubeerek: folds 
+Bad Idea: calls $0.15
+$-Twackle-$: checks 
+*** FLOP *** [Kc 9h 3c]
+Bad Idea: checks 
+$-Twackle-$: checks 
+ghostrider27: bets $0.25
+Bad Idea: folds 
+$-Twackle-$: folds 
+Uncalled bet ($0.25) returned to ghostrider27
+ghostrider27 collected $0.75 from pot
+ghostrider27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Kc 9h 3c]
+Seat 2: Bad Idea (small blind) folded on the Flop
+Seat 3: $-Twackle-$ (big blind) folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: ghostrider27 collected ($0.75)
+Seat 8: zubeerek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101474901:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:26:46 ET
+Table 'Retsina III' 9-max Seat #2 is the button
+Seat 2: Bad Idea ($21.35 in chips) 
+Seat 3: $-Twackle-$ ($31.15 in chips) 
+Seat 4: Alameda22 ($27.50 in chips) 
+Seat 5: ghostrider27 ($9.65 in chips) 
+Seat 8: zubeerek ($11.90 in chips) 
+$-Twackle-$: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 3c]
+ghostrider27: folds 
+zubeerek: folds 
+Bad Idea: raises $0.25 to $0.50
+$-Twackle-$: folds 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to Bad Idea
+Bad Idea collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Bad Idea (button) collected ($0.60)
+Seat 3: $-Twackle-$ (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: ghostrider27 folded before Flop (didn't bet)
+Seat 8: zubeerek folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,2316 @@
+PokerStars Game #19273624208:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:08:04 (ET)
+Table 'Michela III' 9-max Seat #9 is the button
+Seat 1: Simcic1983 ($5 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: KK1114 ($11.60 in chips) 
+Seat 4: monsealb5678 ($25.45 in chips) 
+Seat 6: k030101 ($39.95 in chips) 
+Seat 7: eggsurplus ($33.95 in chips) 
+Seat 8: EinWombat ($5.15 in chips) 
+Seat 9: Troelg ($24.65 in chips) 
+Simcic1983: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Schafblufft: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 8h]
+KK1114: calls $0.25
+monsealb5678: calls $0.25
+k030101: folds 
+eggsurplus: folds 
+EinWombat: calls $0.25
+Troelg: folds 
+Simcic1983: folds 
+Alameda22: checks 
+*** FLOP *** [9d 6s 2s]
+Alameda22: checks 
+KK1114: checks 
+monsealb5678: bets $0.50
+EinWombat: folds 
+Alameda22: folds 
+KK1114: folds 
+Uncalled bet ($0.50) returned to monsealb5678
+monsealb5678 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [9d 6s 2s]
+Seat 1: Simcic1983 (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded on the Flop
+Seat 3: KK1114 folded on the Flop
+Seat 4: monsealb5678 collected ($1.05)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: eggsurplus folded before Flop (didn't bet)
+Seat 8: EinWombat folded on the Flop
+Seat 9: Troelg (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273634800:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:08:35 (ET)
+Table 'Michela III' 9-max Seat #1 is the button
+Seat 1: Simcic1983 ($4.90 in chips) 
+Seat 2: Alameda22 ($24.75 in chips) 
+Seat 3: KK1114 ($11.35 in chips) 
+Seat 4: monsealb5678 ($26.25 in chips) 
+Seat 6: k030101 ($39.95 in chips) 
+Seat 7: eggsurplus ($33.95 in chips) 
+Seat 8: EinWombat ($4.90 in chips) 
+Seat 9: Troelg ($24.65 in chips) 
+Alameda22: posts small blind $0.10
+KK1114: posts big blind $0.25
+Schafblufft: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 3c]
+monsealb5678: calls $0.25
+k030101: folds 
+eggsurplus: calls $0.25
+EinWombat: calls $0.25
+Troelg: folds 
+Simcic1983: folds 
+Alameda22: folds 
+KK1114: checks 
+*** FLOP *** [4c Ad 3h]
+KK1114: checks 
+monsealb5678: bets $0.50
+eggsurplus: folds 
+EinWombat: folds 
+KK1114: folds 
+Uncalled bet ($0.50) returned to monsealb5678
+monsealb5678 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [4c Ad 3h]
+Seat 1: Simcic1983 (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: KK1114 (big blind) folded on the Flop
+Seat 4: monsealb5678 collected ($1.05)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: eggsurplus folded on the Flop
+Seat 8: EinWombat folded on the Flop
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273653685:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:09:32 (ET)
+Table 'Michela III' 9-max Seat #2 is the button
+Seat 1: Simcic1983 ($4.90 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: KK1114 ($11.10 in chips) 
+Seat 4: monsealb5678 ($27.05 in chips) 
+Seat 6: k030101 ($39.95 in chips) 
+Seat 7: eggsurplus ($33.70 in chips) 
+Seat 8: EinWombat ($4.65 in chips) 
+Seat 9: Troelg ($24.65 in chips) 
+KK1114: posts small blind $0.10
+monsealb5678: posts big blind $0.25
+Schafblufft: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Ad]
+k030101: folds 
+eggsurplus: calls $0.25
+EinWombat: folds 
+Troelg: folds 
+Simcic1983: folds 
+Alameda22: folds 
+KK1114: calls $0.15
+monsealb5678: checks 
+*** FLOP *** [Th 2d 8s]
+KK1114: bets $0.75
+monsealb5678: calls $0.75
+eggsurplus: folds 
+*** TURN *** [Th 2d 8s] [Tc]
+KK1114: bets $1.25
+monsealb5678: raises $1.25 to $2.50
+KK1114: calls $1.25
+*** RIVER *** [Th 2d 8s Tc] [7s]
+KK1114: checks 
+monsealb5678: checks 
+*** SHOW DOWN ***
+KK1114: shows [7c 9s] (two pair, Tens and Sevens)
+monsealb5678: mucks hand 
+KK1114 collected $6.90 from pot
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [Th 2d 8s Tc 7s]
+Seat 1: Simcic1983 folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: KK1114 (small blind) showed [7c 9s] and won ($6.90) with two pair, Tens and Sevens
+Seat 4: monsealb5678 (big blind) mucked [2s Jc]
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: eggsurplus folded on the Flop
+Seat 8: EinWombat folded before Flop (didn't bet)
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273674591:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:10:33 (ET)
+Table 'Michela III' 9-max Seat #3 is the button
+Seat 1: Simcic1983 ($4.90 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: KK1114 ($14.50 in chips) 
+Seat 4: monsealb5678 ($23.55 in chips) 
+Seat 5: Schafblufft ($25 in chips) 
+Seat 6: k030101 ($39.95 in chips) 
+Seat 7: eggsurplus ($33.45 in chips) 
+Seat 8: EinWombat ($4.65 in chips) 
+Seat 9: Troelg ($24.65 in chips) 
+monsealb5678: posts small blind $0.10
+Schafblufft: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 2d]
+k030101: raises $1.25 to $1.50
+eggsurplus: folds 
+EinWombat: calls $1.50
+Troelg: folds 
+Simcic1983: folds 
+Alameda22: folds 
+KK1114: folds 
+monsealb5678: calls $1.40
+Schafblufft: folds 
+*** FLOP *** [Jc 4h 7c]
+monsealb5678: checks 
+k030101: checks 
+EinWombat: bets $3.15 and is all-in
+monsealb5678: calls $3.15
+k030101: folds 
+*** TURN *** [Jc 4h 7c] [7s]
+*** RIVER *** [Jc 4h 7c 7s] [6h]
+*** SHOW DOWN ***
+monsealb5678: shows [Ac 9h] (a pair of Sevens)
+EinWombat: shows [5d Jd] (two pair, Jacks and Sevens)
+EinWombat collected $10.55 from pot
+*** SUMMARY ***
+Total pot $11.05 | Rake $0.50 
+Board [Jc 4h 7c 7s 6h]
+Seat 1: Simcic1983 folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: KK1114 (button) folded before Flop (didn't bet)
+Seat 4: monsealb5678 (small blind) showed [Ac 9h] and lost with a pair of Sevens
+Seat 5: Schafblufft (big blind) folded before Flop
+Seat 6: k030101 folded on the Flop
+Seat 7: eggsurplus folded before Flop (didn't bet)
+Seat 8: EinWombat showed [5d Jd] and won ($10.55) with two pair, Jacks and Sevens
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273692538:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:11:26 (ET)
+Table 'Michela III' 9-max Seat #4 is the button
+Seat 1: Simcic1983 ($4.90 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: KK1114 ($14.50 in chips) 
+Seat 4: monsealb5678 ($18.90 in chips) 
+Seat 5: Schafblufft ($24.75 in chips) 
+Seat 6: k030101 ($38.45 in chips) 
+Seat 7: eggsurplus ($33.45 in chips) 
+Seat 8: EinWombat ($10.55 in chips) 
+Seat 9: Troelg ($24.65 in chips) 
+Schafblufft: posts small blind $0.10
+k030101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 3c]
+eggsurplus: calls $0.25
+EinWombat: calls $0.25
+Troelg: folds 
+Simcic1983: folds 
+Alameda22: folds 
+KK1114: calls $0.25
+monsealb5678: raises $0.25 to $0.50
+Schafblufft: folds 
+k030101: folds 
+eggsurplus: calls $0.25
+EinWombat: calls $0.25
+KK1114: calls $0.25
+*** FLOP *** [9h Tc 8c]
+eggsurplus: checks 
+EinWombat: checks 
+KK1114: bets $1.75
+monsealb5678: folds 
+eggsurplus: calls $1.75
+EinWombat: folds 
+*** TURN *** [9h Tc 8c] [3d]
+eggsurplus: checks 
+KK1114: bets $2.75
+eggsurplus: calls $2.75
+*** RIVER *** [9h Tc 8c 3d] [2d]
+eggsurplus: checks 
+KK1114: checks 
+*** SHOW DOWN ***
+eggsurplus: shows [7s 9c] (a pair of Nines)
+KK1114: shows [Jd Jh] (a pair of Jacks)
+KK1114 collected $10.80 from pot
+*** SUMMARY ***
+Total pot $11.35 | Rake $0.55 
+Board [9h Tc 8c 3d 2d]
+Seat 1: Simcic1983 folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: KK1114 showed [Jd Jh] and won ($10.80) with a pair of Jacks
+Seat 4: monsealb5678 (button) folded on the Flop
+Seat 5: Schafblufft (small blind) folded before Flop
+Seat 6: k030101 (big blind) folded before Flop
+Seat 7: eggsurplus showed [7s 9c] and lost with a pair of Nines
+Seat 8: EinWombat folded on the Flop
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273716403:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:12:37 (ET)
+Table 'Michela III' 9-max Seat #5 is the button
+Seat 1: Simcic1983 ($4.90 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: KK1114 ($20.30 in chips) 
+Seat 4: monsealb5678 ($18.40 in chips) 
+Seat 5: Schafblufft ($24.65 in chips) 
+Seat 6: k030101 ($38.20 in chips) 
+Seat 7: eggsurplus ($28.45 in chips) 
+Seat 8: EinWombat ($10.05 in chips) 
+Seat 9: Troelg ($24.65 in chips) 
+k030101: posts small blind $0.10
+eggsurplus: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 8c]
+EinWombat: calls $0.25
+Troelg: raises $1 to $1.25
+Simcic1983: folds 
+Alameda22: folds 
+KK1114: folds 
+monsealb5678: calls $1.25
+Schafblufft: folds 
+k030101: folds 
+eggsurplus: folds 
+EinWombat: calls $1
+*** FLOP *** [Ks 4s Qh]
+EinWombat: bets $0.50
+Troelg: raises $2.50 to $3
+monsealb5678: raises $2.50 to $5.50
+EinWombat: calls $5
+Troelg: folds 
+*** TURN *** [Ks 4s Qh] [7s]
+EinWombat: bets $3.30 and is all-in
+monsealb5678: calls $3.30
+*** RIVER *** [Ks 4s Qh 7s] [Tc]
+*** SHOW DOWN ***
+EinWombat: shows [9s Ts] (a flush, King high)
+monsealb5678: mucks hand 
+EinWombat collected $23.55 from pot
+*** SUMMARY ***
+Total pot $24.70 | Rake $1.15 
+Board [Ks 4s Qh 7s Tc]
+Seat 1: Simcic1983 folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: KK1114 folded before Flop (didn't bet)
+Seat 4: monsealb5678 mucked [Kh 6s]
+Seat 5: Schafblufft (button) folded before Flop (didn't bet)
+Seat 6: k030101 (small blind) folded before Flop
+Seat 7: eggsurplus (big blind) folded before Flop
+Seat 8: EinWombat showed [9s Ts] and won ($23.55) with a flush, King high
+Seat 9: Troelg folded on the Flop
+
+
+
+PokerStars Game #19273737675:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:13:40 (ET)
+Table 'Michela III' 9-max Seat #6 is the button
+Seat 1: Simcic1983 ($4.90 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: KK1114 ($20.30 in chips) 
+Seat 4: monsealb5678 ($8.35 in chips) 
+Seat 5: Schafblufft ($24.65 in chips) 
+Seat 6: k030101 ($38.10 in chips) 
+Seat 7: eggsurplus ($28.20 in chips) 
+Seat 8: EinWombat ($23.55 in chips) 
+Seat 9: Troelg ($25 in chips) 
+eggsurplus: posts small blind $0.10
+EinWombat: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Ks]
+EinWombat said, "uff"
+Troelg: folds 
+Simcic1983: folds 
+Alameda22: folds 
+KK1114: folds 
+monsealb5678: calls $0.25
+Schafblufft: calls $0.25
+k030101: folds 
+eggsurplus: calls $0.15
+EinWombat: checks 
+*** FLOP *** [2d 9h 5d]
+eggsurplus: checks 
+EinWombat: checks 
+monsealb5678: bets $0.50
+Schafblufft: calls $0.50
+eggsurplus: folds 
+EinWombat: folds 
+*** TURN *** [2d 9h 5d] [3h]
+EinWombat is sitting out
+monsealb5678: checks 
+EinWombat leaves the table
+Schafblufft: bets $1.50
+monsealb5678: folds 
+Uncalled bet ($1.50) returned to Schafblufft
+Schafblufft collected $1.95 from pot
+Schafblufft: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [2d 9h 5d 3h]
+Seat 1: Simcic1983 folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: KK1114 folded before Flop (didn't bet)
+Seat 4: monsealb5678 folded on the Turn
+Seat 5: Schafblufft collected ($1.95)
+Seat 6: k030101 (button) folded before Flop (didn't bet)
+Seat 7: eggsurplus (small blind) folded on the Flop
+Seat 8: EinWombat (big blind) folded on the Flop
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273761627:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:14:51 (ET)
+Table 'Michela III' 9-max Seat #7 is the button
+Seat 1: Simcic1983 ($4.90 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: KK1114 ($20.30 in chips) 
+Seat 4: monsealb5678 ($7.60 in chips) 
+Seat 5: Schafblufft ($25.85 in chips) 
+Seat 6: k030101 ($38.10 in chips) 
+Seat 7: eggsurplus ($27.95 in chips) 
+Seat 9: Troelg ($25 in chips) 
+Troelg: posts small blind $0.10
+Simcic1983: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Ts]
+Alameda22: calls $0.25
+stationbc joins the table at seat #8 
+KK1114: folds 
+monsealb5678 has timed out
+monsealb5678: folds 
+monsealb5678 is sitting out
+Schafblufft: folds 
+k030101: folds 
+eggsurplus: calls $0.25
+Troelg: folds 
+Simcic1983: checks 
+*** FLOP *** [Jh 4h 7s]
+Simcic1983: checks 
+Alameda22: bets $0.50
+eggsurplus: calls $0.50
+Simcic1983: folds 
+*** TURN *** [Jh 4h 7s] [2c]
+Alameda22: bets $1.25
+eggsurplus: folds 
+Uncalled bet ($1.25) returned to Alameda22
+Alameda22 collected $1.80 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [Jh 4h 7s 2c]
+Seat 1: Simcic1983 (big blind) folded on the Flop
+Seat 2: Alameda22 collected ($1.80)
+Seat 3: KK1114 folded before Flop (didn't bet)
+Seat 4: monsealb5678 folded before Flop (didn't bet)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: eggsurplus (button) folded on the Turn
+Seat 9: Troelg (small blind) folded before Flop
+
+
+
+PokerStars Game #19273783479:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:15:55 (ET)
+Table 'Michela III' 9-max Seat #9 is the button
+Seat 1: Simcic1983 ($4.65 in chips) 
+Seat 2: Alameda22 ($25.70 in chips) 
+Seat 3: KK1114 ($20.30 in chips) 
+Seat 5: Schafblufft ($25.85 in chips) 
+Seat 6: k030101 ($38.10 in chips) 
+Seat 7: eggsurplus ($27.20 in chips) 
+Seat 9: Troelg ($24.90 in chips) 
+Simcic1983: posts small blind $0.10
+Alameda22: posts big blind $0.25
+stationbc: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 2h]
+KK1114: folds 
+Schafblufft: folds 
+k030101: folds 
+eggsurplus: calls $0.25
+Troelg: folds 
+Simcic1983: folds 
+Alameda22: checks 
+*** FLOP *** [Ts 4h Kd]
+Alameda22: checks 
+eggsurplus: checks 
+*** TURN *** [Ts 4h Kd] [6d]
+Alameda22: bets $0.25
+eggsurplus: raises $0.50 to $0.75
+Alameda22: calls $0.50
+*** RIVER *** [Ts 4h Kd 6d] [2c]
+Alameda22: bets $1.25
+eggsurplus: folds 
+Uncalled bet ($1.25) returned to Alameda22
+Alameda22 collected $2 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Ts 4h Kd 6d 2c]
+Seat 1: Simcic1983 (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) collected ($2)
+Seat 3: KK1114 folded before Flop (didn't bet)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: eggsurplus folded on the River
+Seat 9: Troelg (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273798386:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:16:38 (ET)
+Table 'Michela III' 9-max Seat #1 is the button
+Seat 1: Simcic1983 ($4.55 in chips) 
+Seat 2: Alameda22 ($26.70 in chips) 
+Seat 3: KK1114 ($20.30 in chips) 
+Seat 5: Schafblufft ($25.85 in chips) 
+Seat 6: k030101 ($38.10 in chips) 
+Seat 7: eggsurplus ($26.20 in chips) 
+Seat 9: Troelg ($24.90 in chips) 
+Alameda22: posts small blind $0.10
+KK1114: posts big blind $0.25
+stationbc: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Ac]
+Schafblufft: folds 
+k030101: folds 
+eggsurplus: folds 
+Troelg: raises $0.75 to $1
+Simcic1983: folds 
+Alameda22: folds 
+KK1114: folds 
+Uncalled bet ($0.75) returned to Troelg
+Troelg collected $0.60 from pot
+Troelg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Simcic1983 (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: KK1114 (big blind) folded before Flop
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: eggsurplus folded before Flop (didn't bet)
+Seat 9: Troelg collected ($0.60)
+
+
+
+PokerStars Game #19273808174:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:17:07 (ET)
+Table 'Michela III' 9-max Seat #2 is the button
+Seat 1: Simcic1983 ($4.55 in chips) 
+Seat 2: Alameda22 ($26.60 in chips) 
+Seat 3: KK1114 ($20.05 in chips) 
+Seat 5: Schafblufft ($25.85 in chips) 
+Seat 6: k030101 ($38.10 in chips) 
+Seat 7: eggsurplus ($26.20 in chips) 
+Seat 9: Troelg ($25.25 in chips) 
+KK1114: posts small blind $0.10
+Schafblufft: posts big blind $0.25
+stationbc: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 3h]
+k030101: folds 
+eggsurplus: folds 
+Troelg: folds 
+Simcic1983: folds 
+Alameda22: folds 
+KK1114: folds 
+Uncalled bet ($0.15) returned to Schafblufft
+Schafblufft collected $0.20 from pot
+Schafblufft: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Simcic1983 folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: KK1114 (small blind) folded before Flop
+Seat 5: Schafblufft (big blind) collected ($0.20)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: eggsurplus folded before Flop (didn't bet)
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273812951:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:17:21 (ET)
+Table 'Michela III' 9-max Seat #3 is the button
+Seat 1: Simcic1983 ($4.55 in chips) 
+Seat 2: Alameda22 ($26.60 in chips) 
+Seat 3: KK1114 ($19.95 in chips) 
+Seat 5: Schafblufft ($25.95 in chips) 
+Seat 6: k030101 ($38.10 in chips) 
+Seat 7: eggsurplus ($26.20 in chips) 
+Seat 9: Troelg ($25.25 in chips) 
+Schafblufft: posts small blind $0.10
+k030101: posts big blind $0.25
+stationbc: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 4h]
+eggsurplus: folds 
+eggsurplus is sitting out
+eggsurplus leaves the table
+Troelg: raises $0.75 to $1
+Simcic1983: folds 
+TimStone joins the table at seat #7 
+Alameda22: folds 
+KK1114: folds 
+Schafblufft: folds 
+k030101: folds 
+Uncalled bet ($0.75) returned to Troelg
+Troelg collected $0.60 from pot
+Troelg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Simcic1983 folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: KK1114 (button) folded before Flop (didn't bet)
+Seat 5: Schafblufft (small blind) folded before Flop
+Seat 6: k030101 (big blind) folded before Flop
+Seat 7: eggsurplus folded before Flop (didn't bet)
+Seat 9: Troelg collected ($0.60)
+
+
+
+PokerStars Game #19273823096:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:17:51 (ET)
+Table 'Michela III' 9-max Seat #5 is the button
+Seat 1: Simcic1983 ($4.55 in chips) 
+Seat 2: Alameda22 ($26.60 in chips) 
+Seat 3: KK1114 ($19.95 in chips) 
+Seat 5: Schafblufft ($25.85 in chips) 
+Seat 6: k030101 ($37.85 in chips) 
+Seat 7: TimStone ($25 in chips) 
+Seat 9: Troelg ($25.60 in chips) 
+k030101: posts small blind $0.10
+TimStone: posts big blind $0.25
+stationbc: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Qs]
+Troelg: folds 
+Simcic1983: folds 
+Alameda22: folds 
+KK1114: folds 
+Schafblufft: folds 
+k030101: raises $1 to $1.25
+TimStone: calls $1
+*** FLOP *** [6c Js 3h]
+k030101: bets $1.25
+TimStone: calls $1.25
+*** TURN *** [6c Js 3h] [Tc]
+k030101: bets $2
+TimStone: calls $2
+*** RIVER *** [6c Js 3h Tc] [3d]
+k030101: bets $2
+TimStone: calls $2
+*** SHOW DOWN ***
+k030101: shows [As Jc] (two pair, Jacks and Threes)
+TimStone: shows [Qh Qc] (two pair, Queens and Threes)
+TimStone collected $12.40 from pot
+*** SUMMARY ***
+Total pot $13 | Rake $0.60 
+Board [6c Js 3h Tc 3d]
+Seat 1: Simcic1983 folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: KK1114 folded before Flop (didn't bet)
+Seat 5: Schafblufft (button) folded before Flop (didn't bet)
+Seat 6: k030101 (small blind) showed [As Jc] and lost with two pair, Jacks and Threes
+Seat 7: TimStone (big blind) showed [Qh Qc] and won ($12.40) with two pair, Queens and Threes
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273837257:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:18:31 (ET)
+Table 'Michela III' 9-max Seat #6 is the button
+Seat 1: Simcic1983 ($4.55 in chips) 
+Seat 2: Alameda22 ($26.60 in chips) 
+Seat 3: KK1114 ($19.95 in chips) 
+Seat 5: Schafblufft ($25.85 in chips) 
+Seat 6: k030101 ($31.35 in chips) 
+Seat 7: TimStone ($30.90 in chips) 
+Seat 8: stationbc ($25 in chips) 
+Seat 9: Troelg ($25.60 in chips) 
+TimStone: posts small blind $0.10
+stationbc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 3h]
+Troelg: folds 
+Simcic1983: folds 
+Alameda22: folds 
+KK1114: folds 
+Schafblufft: raises $0.75 to $1
+k030101: folds 
+TimStone: folds 
+stationbc: folds 
+Uncalled bet ($0.75) returned to Schafblufft
+Schafblufft collected $0.60 from pot
+Schafblufft: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Simcic1983 folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: KK1114 folded before Flop (didn't bet)
+Seat 5: Schafblufft collected ($0.60)
+Seat 6: k030101 (button) folded before Flop (didn't bet)
+Seat 7: TimStone (small blind) folded before Flop
+Seat 8: stationbc (big blind) folded before Flop
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273847410:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:18:59 (ET)
+Table 'Michela III' 9-max Seat #7 is the button
+Seat 1: Simcic1983 ($4.55 in chips) 
+Seat 2: Alameda22 ($26.60 in chips) 
+Seat 3: KK1114 ($19.95 in chips) 
+Seat 5: Schafblufft ($26.20 in chips) 
+Seat 6: k030101 ($31.35 in chips) 
+Seat 7: TimStone ($30.80 in chips) 
+Seat 8: stationbc ($24.75 in chips) 
+Seat 9: Troelg ($25.60 in chips) 
+stationbc: posts small blind $0.10
+Troelg: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Tc]
+Simcic1983: folds 
+Alameda22: folds 
+KK1114: calls $0.25
+Schafblufft: folds 
+k030101: folds 
+TimStone: raises $1 to $1.25
+stationbc: folds 
+Troelg: folds 
+KK1114: calls $1
+*** FLOP *** [Kd 9s Th]
+KK1114: checks 
+TimStone: bets $1.75
+KK1114: folds 
+Uncalled bet ($1.75) returned to TimStone
+TimStone collected $2.75 from pot
+TimStone: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [Kd 9s Th]
+Seat 1: Simcic1983 folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: KK1114 folded on the Flop
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone (button) collected ($2.75)
+Seat 8: stationbc (small blind) folded before Flop
+Seat 9: Troelg (big blind) folded before Flop
+
+
+
+PokerStars Game #19273862979:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:19:41 (ET)
+Table 'Michela III' 9-max Seat #8 is the button
+Seat 1: Simcic1983 ($4.55 in chips) 
+Seat 2: Alameda22 ($26.60 in chips) 
+Seat 3: KK1114 ($18.70 in chips) 
+Seat 5: Schafblufft ($26.20 in chips) 
+Seat 6: k030101 ($31.35 in chips) 
+Seat 7: TimStone ($32.30 in chips) 
+Seat 8: stationbc ($24.65 in chips) 
+Seat 9: Troelg ($25.35 in chips) 
+Troelg: posts small blind $0.10
+Simcic1983: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 6s]
+Alameda22: folds 
+KK1114: folds 
+Schafblufft: folds 
+k030101: folds 
+TimStone: raises $0.75 to $1
+stationbc: folds 
+Troelg: folds 
+Simcic1983: folds 
+Uncalled bet ($0.75) returned to TimStone
+TimStone collected $0.60 from pot
+TimStone: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Simcic1983 (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: KK1114 folded before Flop (didn't bet)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone collected ($0.60)
+Seat 8: stationbc (button) folded before Flop (didn't bet)
+Seat 9: Troelg (small blind) folded before Flop
+
+
+
+PokerStars Game #19273870664:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:20:01 (ET)
+Table 'Michela III' 9-max Seat #9 is the button
+Seat 1: Simcic1983 ($4.30 in chips) 
+Seat 2: Alameda22 ($26.60 in chips) 
+Seat 3: KK1114 ($18.70 in chips) 
+Seat 5: Schafblufft ($26.20 in chips) 
+Seat 6: k030101 ($31.35 in chips) 
+Seat 7: TimStone ($32.65 in chips) 
+Seat 8: stationbc ($24.65 in chips) 
+Seat 9: Troelg ($25.25 in chips) 
+Simcic1983: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 3h]
+KK1114: folds 
+Schafblufft: folds 
+k030101: folds 
+TimStone: raises $0.25 to $0.50
+KK1114 leaves the table
+stationbc: calls $0.50
+Troelg: folds 
+Simcic1983: folds 
+Alameda22: folds 
+*** FLOP *** [Ad 8d Qs]
+TimStone: checks 
+stationbc: checks 
+*** TURN *** [Ad 8d Qs] [3s]
+TimStone: checks 
+Jujiii joins the table at seat #3 
+stationbc: bets $1
+TimStone: calls $1
+*** RIVER *** [Ad 8d Qs 3s] [5s]
+TimStone: checks 
+stationbc: checks 
+*** SHOW DOWN ***
+TimStone: shows [Jd Qh] (a pair of Queens)
+stationbc: mucks hand 
+TimStone collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [Ad 8d Qs 3s 5s]
+Seat 1: Simcic1983 (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: KK1114 folded before Flop (didn't bet)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone showed [Jd Qh] and won ($3.20) with a pair of Queens
+Seat 8: stationbc mucked [Th Td]
+Seat 9: Troelg (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273891975:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:20:58 (ET)
+Table 'Michela III' 9-max Seat #1 is the button
+Seat 1: Simcic1983 ($4.20 in chips) 
+Seat 2: Alameda22 ($26.35 in chips) 
+Seat 3: Jujiii ($5 in chips) 
+Seat 5: Schafblufft ($26.20 in chips) 
+Seat 6: k030101 ($31.35 in chips) 
+Seat 7: TimStone ($34.35 in chips) 
+Seat 8: stationbc ($23.15 in chips) 
+Seat 9: Troelg ($25.25 in chips) 
+Alameda22: posts small blind $0.10
+Jujiii: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Qd]
+Schafblufft: folds 
+k030101: folds 
+TimStone: folds 
+stationbc: folds 
+Troelg: folds 
+Simcic1983: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to Jujiii
+Jujiii collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Simcic1983 (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Jujiii (big blind) collected ($0.20)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273900070:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:21:19 (ET)
+Table 'Michela III' 9-max Seat #2 is the button
+Seat 1: Simcic1983 ($4.20 in chips) 
+Seat 2: Alameda22 ($26.25 in chips) 
+Seat 3: Jujiii ($5.10 in chips) 
+Seat 5: Schafblufft ($26.20 in chips) 
+Seat 6: k030101 ($31.35 in chips) 
+Seat 7: TimStone ($34.35 in chips) 
+Seat 8: stationbc ($23.15 in chips) 
+Seat 9: Troelg ($25.25 in chips) 
+Jujiii: posts small blind $0.10
+Schafblufft: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 4d]
+k030101: folds 
+TimStone: folds 
+stationbc: folds 
+Troelg: folds 
+Simcic1983: folds 
+Alameda22: folds 
+Jujiii: folds 
+Uncalled bet ($0.15) returned to Schafblufft
+Schafblufft collected $0.20 from pot
+Schafblufft: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Simcic1983 folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Jujiii (small blind) folded before Flop
+Seat 5: Schafblufft (big blind) collected ($0.20)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273908917:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:21:43 (ET)
+Table 'Michela III' 9-max Seat #3 is the button
+Seat 1: Simcic1983 ($4.20 in chips) 
+Seat 2: Alameda22 ($26.25 in chips) 
+Seat 3: Jujiii ($5 in chips) 
+Seat 5: Schafblufft ($26.30 in chips) 
+Seat 6: k030101 ($31.35 in chips) 
+Seat 7: TimStone ($34.35 in chips) 
+Seat 8: stationbc ($23.15 in chips) 
+Seat 9: Troelg ($25.25 in chips) 
+Schafblufft: posts small blind $0.10
+k030101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 3s]
+TimStone: folds 
+stationbc: folds 
+Troelg: raises $0.75 to $1
+Simcic1983: folds 
+Alameda22: folds 
+Jujiii: folds 
+Schafblufft: calls $0.90
+k030101: folds 
+*** FLOP *** [Jd Jc 5d]
+Schafblufft: bets $1.75
+Troelg: folds 
+Uncalled bet ($1.75) returned to Schafblufft
+Schafblufft collected $2.15 from pot
+Schafblufft: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Jd Jc 5d]
+Seat 1: Simcic1983 folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Jujiii (button) folded before Flop (didn't bet)
+Seat 5: Schafblufft (small blind) collected ($2.15)
+Seat 6: k030101 (big blind) folded before Flop
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg folded on the Flop
+
+
+
+PokerStars Game #19273921420:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:22:16 (ET)
+Table 'Michela III' 9-max Seat #5 is the button
+Seat 1: Simcic1983 ($4.20 in chips) 
+Seat 2: Alameda22 ($26.25 in chips) 
+Seat 3: Jujiii ($5 in chips) 
+Seat 5: Schafblufft ($27.45 in chips) 
+Seat 6: k030101 ($31.10 in chips) 
+Seat 7: TimStone ($34.35 in chips) 
+Seat 8: stationbc ($23.15 in chips) 
+Seat 9: Troelg ($24.25 in chips) 
+k030101: posts small blind $0.10
+TimStone: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Kd]
+stationbc: folds 
+Troelg: folds 
+Simcic1983: folds 
+Alameda22: folds 
+Jujiii: raises $0.75 to $1
+Schafblufft: folds 
+k030101: folds 
+TimStone: folds 
+Uncalled bet ($0.75) returned to Jujiii
+monsealb5678 has returned
+Jujiii collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Simcic1983 folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Jujiii collected ($0.60)
+Seat 5: Schafblufft (button) folded before Flop (didn't bet)
+Seat 6: k030101 (small blind) folded before Flop
+Seat 7: TimStone (big blind) folded before Flop
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273930329:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:22:40 (ET)
+Table 'Michela III' 9-max Seat #6 is the button
+Seat 1: Simcic1983 ($4.20 in chips) 
+Seat 2: Alameda22 ($26.25 in chips) 
+Seat 3: Jujiii ($5.35 in chips) 
+Seat 4: monsealb5678 ($7.60 in chips) 
+Seat 5: Schafblufft ($27.45 in chips) 
+Seat 6: k030101 ($31 in chips) 
+Seat 7: TimStone ($34.10 in chips) 
+Seat 8: stationbc ($23.15 in chips) 
+Seat 9: Troelg ($24.25 in chips) 
+TimStone: posts small blind $0.10
+stationbc: posts big blind $0.25
+monsealb5678: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Kh]
+Troelg: folds 
+Simcic1983: calls $0.25
+Alameda22: folds 
+Jujiii: folds 
+monsealb5678: checks 
+Schafblufft: folds 
+k030101: folds 
+TimStone: folds 
+stationbc: checks 
+*** FLOP *** [Th Qd 7s]
+stationbc: checks 
+Simcic1983: checks 
+monsealb5678: bets $0.75
+stationbc: folds 
+Simcic1983: folds 
+Uncalled bet ($0.75) returned to monsealb5678
+monsealb5678 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0 
+Board [Th Qd 7s]
+Seat 1: Simcic1983 folded on the Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Jujiii folded before Flop (didn't bet)
+Seat 4: monsealb5678 collected ($0.95)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 (button) folded before Flop (didn't bet)
+Seat 7: TimStone (small blind) folded before Flop
+Seat 8: stationbc (big blind) folded on the Flop
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273945503:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:23:22 (ET)
+Table 'Michela III' 9-max Seat #7 is the button
+Seat 1: Simcic1983 ($3.95 in chips) 
+Seat 2: Alameda22 ($26.25 in chips) 
+Seat 3: Jujiii ($5.35 in chips) 
+Seat 4: monsealb5678 ($8.20 in chips) 
+Seat 5: Schafblufft ($27.45 in chips) 
+Seat 6: k030101 ($31 in chips) 
+Seat 7: TimStone ($34 in chips) 
+Seat 8: stationbc ($22.90 in chips) 
+Seat 9: Troelg ($24.25 in chips) 
+stationbc: posts small blind $0.10
+Troelg: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 9h]
+Simcic1983: folds 
+Alameda22: folds 
+Jujiii: folds 
+monsealb5678: folds 
+Simcic1983 leaves the table
+Schafblufft: folds 
+k030101: folds 
+TimStone: folds 
+AACrazyProAA joins the table at seat #1 
+stationbc: folds 
+Uncalled bet ($0.15) returned to Troelg
+Troelg collected $0.20 from pot
+Troelg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Simcic1983 folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Jujiii folded before Flop (didn't bet)
+Seat 4: monsealb5678 folded before Flop (didn't bet)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone (button) folded before Flop (didn't bet)
+Seat 8: stationbc (small blind) folded before Flop
+Seat 9: Troelg (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19273954338:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:23:46 (ET)
+Table 'Michela III' 9-max Seat #8 is the button
+Seat 1: AACrazyProAA ($25 in chips) 
+Seat 2: Alameda22 ($26.25 in chips) 
+Seat 3: Jujiii ($5.35 in chips) 
+Seat 4: monsealb5678 ($8.20 in chips) 
+Seat 5: Schafblufft ($27.45 in chips) 
+Seat 6: k030101 ($31 in chips) 
+Seat 7: TimStone ($34 in chips) 
+Seat 8: stationbc ($22.80 in chips) 
+Seat 9: Troelg ($24.35 in chips) 
+Troelg: posts small blind $0.10
+AACrazyProAA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 3s]
+Alameda22: folds 
+Jujiii: folds 
+monsealb5678: calls $0.25
+Schafblufft: folds 
+k030101: folds 
+TimStone: folds 
+stationbc: folds 
+Troelg: folds 
+AACrazyProAA: checks 
+*** FLOP *** [Qc 5s Ac]
+AACrazyProAA: checks 
+monsealb5678: checks 
+*** TURN *** [Qc 5s Ac] [Kh]
+AACrazyProAA: bets $0.25
+monsealb5678: calls $0.25
+*** RIVER *** [Qc 5s Ac Kh] [Qh]
+AACrazyProAA: bets $0.25
+monsealb5678: calls $0.25
+*** SHOW DOWN ***
+AACrazyProAA: shows [8h As] (two pair, Aces and Queens)
+monsealb5678: mucks hand 
+AACrazyProAA collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Qc 5s Ac Kh Qh]
+Seat 1: AACrazyProAA (big blind) showed [8h As] and won ($1.55) with two pair, Aces and Queens
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Jujiii folded before Flop (didn't bet)
+Seat 4: monsealb5678 mucked [Kc 4d]
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc (button) folded before Flop (didn't bet)
+Seat 9: Troelg (small blind) folded before Flop
+
+
+
+PokerStars Game #19273975116:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:24:42 (ET)
+Table 'Michela III' 9-max Seat #9 is the button
+Seat 1: AACrazyProAA ($25.80 in chips) 
+Seat 2: Alameda22 ($26.25 in chips) 
+Seat 3: Jujiii ($5.35 in chips) 
+Seat 4: monsealb5678 ($7.45 in chips) 
+Seat 5: Schafblufft ($27.45 in chips) 
+Seat 6: k030101 ($31 in chips) 
+Seat 7: TimStone ($34 in chips) 
+Seat 8: stationbc ($22.80 in chips) 
+Seat 9: Troelg ($24.25 in chips) 
+AACrazyProAA: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Ts]
+Jujiii: folds 
+monsealb5678: calls $0.25
+Schafblufft: folds 
+k030101: folds 
+TimStone: folds 
+stationbc: folds 
+Troelg: folds 
+AACrazyProAA: folds 
+Alameda22: checks 
+*** FLOP *** [3d 3s 7d]
+Alameda22: checks 
+monsealb5678: checks 
+*** TURN *** [3d 3s 7d] [4d]
+Alameda22: checks 
+monsealb5678: checks 
+*** RIVER *** [3d 3s 7d 4d] [Jc]
+Alameda22: checks 
+monsealb5678: checks 
+*** SHOW DOWN ***
+Alameda22: shows [Kh Ts] (a pair of Threes)
+monsealb5678: mucks hand 
+Alameda22 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3d 3s 7d 4d Jc]
+Seat 1: AACrazyProAA (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) showed [Kh Ts] and won ($0.60) with a pair of Threes
+Seat 3: Jujiii folded before Flop (didn't bet)
+Seat 4: monsealb5678 mucked [9h 6c]
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273997132:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:25:44 (ET)
+Table 'Michela III' 9-max Seat #1 is the button
+Seat 1: AACrazyProAA ($25.70 in chips) 
+Seat 2: Alameda22 ($26.60 in chips) 
+Seat 3: Jujiii ($5.35 in chips) 
+Seat 4: monsealb5678 ($7.20 in chips) 
+Seat 5: Schafblufft ($27.45 in chips) 
+Seat 6: k030101 ($31 in chips) 
+Seat 7: TimStone ($34 in chips) 
+Seat 8: stationbc ($22.80 in chips) 
+Seat 9: Troelg ($24.25 in chips) 
+Alameda22: posts small blind $0.10
+Jujiii: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 4c]
+monsealb5678: calls $0.25
+Schafblufft: folds 
+k030101: folds 
+TimStone: folds 
+stationbc: folds 
+Troelg: folds 
+AACrazyProAA: folds 
+Alameda22: folds 
+Jujiii: checks 
+*** FLOP *** [Jh 2d 9h]
+Jujiii: checks 
+monsealb5678: bets $0.50
+Jujiii: folds 
+Uncalled bet ($0.50) returned to monsealb5678
+monsealb5678 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Jh 2d 9h]
+Seat 1: AACrazyProAA (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Jujiii (big blind) folded on the Flop
+Seat 4: monsealb5678 collected ($0.60)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274008831:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:26:18 (ET)
+Table 'Michela III' 9-max Seat #2 is the button
+Seat 1: AACrazyProAA ($25.70 in chips) 
+Seat 2: Alameda22 ($26.50 in chips) 
+Seat 3: Jujiii ($5.10 in chips) 
+Seat 4: monsealb5678 ($7.55 in chips) 
+Seat 5: Schafblufft ($27.45 in chips) 
+Seat 6: k030101 ($31 in chips) 
+Seat 7: TimStone ($34 in chips) 
+Seat 8: stationbc ($22.80 in chips) 
+Seat 9: Troelg ($24.25 in chips) 
+Jujiii: posts small blind $0.10
+monsealb5678: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 5s]
+Schafblufft: folds 
+k030101: folds 
+TimStone: folds 
+stationbc: folds 
+Troelg: raises $0.75 to $1
+AACrazyProAA: folds 
+Alameda22: folds 
+Jujiii: folds 
+monsealb5678: calls $0.75
+*** FLOP *** [7d Ad Qc]
+monsealb5678: checks 
+Troelg: bets $1.50
+monsealb5678: folds 
+Uncalled bet ($1.50) returned to Troelg
+Troelg collected $2 from pot
+Troelg: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [7d Ad Qc]
+Seat 1: AACrazyProAA folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Jujiii (small blind) folded before Flop
+Seat 4: monsealb5678 (big blind) folded on the Flop
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg collected ($2)
+
+
+
+PokerStars Game #19274029016:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:27:15 (ET)
+Table 'Michela III' 9-max Seat #3 is the button
+Seat 1: AACrazyProAA ($25.70 in chips) 
+Seat 2: Alameda22 ($26.50 in chips) 
+Seat 3: Jujiii ($5 in chips) 
+Seat 4: monsealb5678 ($6.55 in chips) 
+Seat 5: Schafblufft ($27.45 in chips) 
+Seat 6: k030101 ($31 in chips) 
+Seat 7: TimStone ($34 in chips) 
+Seat 8: stationbc ($25 in chips) 
+Seat 9: Troelg ($25.25 in chips) 
+monsealb5678: posts small blind $0.10
+Schafblufft: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Qd]
+k030101: folds 
+TimStone: raises $0.25 to $0.50
+stationbc: folds 
+Troelg: folds 
+AACrazyProAA: folds 
+Alameda22: folds 
+Jujiii: folds 
+monsealb5678: calls $0.40
+Schafblufft: folds 
+*** FLOP *** [Js 4h 8s]
+monsealb5678: checks 
+TimStone: checks 
+*** TURN *** [Js 4h 8s] [Jc]
+monsealb5678: bets $0.75
+TimStone: folds 
+Uncalled bet ($0.75) returned to monsealb5678
+monsealb5678 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Js 4h 8s Jc]
+Seat 1: AACrazyProAA folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Jujiii (button) folded before Flop (didn't bet)
+Seat 4: monsealb5678 (small blind) collected ($1.20)
+Seat 5: Schafblufft (big blind) folded before Flop
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded on the Turn
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274050658:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:28:18 (ET)
+Table 'Michela III' 9-max Seat #4 is the button
+Seat 1: AACrazyProAA ($25.70 in chips) 
+Seat 2: Alameda22 ($26.50 in chips) 
+Seat 3: Jujiii ($5 in chips) 
+Seat 4: monsealb5678 ($7.25 in chips) 
+Seat 5: Schafblufft ($27.20 in chips) 
+Seat 6: k030101 ($31 in chips) 
+Seat 7: TimStone ($33.50 in chips) 
+Seat 8: stationbc ($25 in chips) 
+Seat 9: Troelg ($25.25 in chips) 
+Schafblufft: posts small blind $0.10
+k030101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 6s]
+TimStone: folds 
+stationbc: folds 
+Troelg: folds 
+AACrazyProAA: folds 
+Alameda22: folds 
+Jujiii: folds 
+monsealb5678: calls $0.25
+Schafblufft: raises $1.25 to $1.50
+k030101: calls $1.25
+monsealb5678: calls $1.25
+*** FLOP *** [Jc Kc Jd]
+Schafblufft: bets $3.25
+k030101: raises $3.25 to $6.50
+monsealb5678: folds 
+Schafblufft: folds 
+Uncalled bet ($3.25) returned to k030101
+k030101 collected $10.50 from pot
+k030101: doesn't show hand 
+*** SUMMARY ***
+Total pot $11 | Rake $0.50 
+Board [Jc Kc Jd]
+Seat 1: AACrazyProAA folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Jujiii folded before Flop (didn't bet)
+Seat 4: monsealb5678 (button) folded on the Flop
+Seat 5: Schafblufft (small blind) folded on the Flop
+Seat 6: k030101 (big blind) collected ($10.50)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274071146:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:29:17 (ET)
+Table 'Michela III' 9-max Seat #5 is the button
+Seat 1: AACrazyProAA ($25.70 in chips) 
+Seat 2: Alameda22 ($26.50 in chips) 
+Seat 3: Jujiii ($5 in chips) 
+Seat 4: monsealb5678 ($5.75 in chips) 
+Seat 5: Schafblufft ($25 in chips) 
+Seat 6: k030101 ($36.75 in chips) 
+Seat 7: TimStone ($33.50 in chips) 
+Seat 8: stationbc ($25 in chips) 
+Seat 9: Troelg ($25.25 in chips) 
+k030101: posts small blind $0.10
+TimStone: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 7s]
+stationbc: folds 
+Troelg: folds 
+Schafblufft said, "queens xD"
+AACrazyProAA: folds 
+Alameda22: folds 
+Jujiii: folds 
+monsealb5678: calls $0.25
+Schafblufft: folds 
+k030101: folds 
+TimStone: checks 
+*** FLOP *** [4d As Ah]
+TimStone: checks 
+monsealb5678: bets $0.25
+TimStone: calls $0.25
+*** TURN *** [4d As Ah] [2c]
+TimStone: checks 
+monsealb5678: bets $0.25
+TimStone: calls $0.25
+*** RIVER *** [4d As Ah 2c] [2h]
+TimStone: checks 
+monsealb5678: bets $0.25
+TimStone: calls $0.25
+*** SHOW DOWN ***
+monsealb5678: shows [4s Kd] (two pair, Aces and Fours)
+TimStone: shows [9h 9d] (two pair, Aces and Nines)
+TimStone collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [4d As Ah 2c 2h]
+Seat 1: AACrazyProAA folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Jujiii folded before Flop (didn't bet)
+Seat 4: monsealb5678 showed [4s Kd] and lost with two pair, Aces and Fours
+Seat 5: Schafblufft (button) folded before Flop (didn't bet)
+Seat 6: k030101 (small blind) folded before Flop
+Seat 7: TimStone (big blind) showed [9h 9d] and won ($2) with two pair, Aces and Nines
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274085618:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:29:59 (ET)
+Table 'Michela III' 9-max Seat #6 is the button
+Seat 1: AACrazyProAA ($25.70 in chips) 
+Seat 2: Alameda22 ($26.50 in chips) 
+Seat 3: Jujiii ($5 in chips) 
+Seat 4: monsealb5678 ($4.75 in chips) 
+Seat 5: Schafblufft ($25 in chips) 
+Seat 6: k030101 ($36.65 in chips) 
+Seat 7: TimStone ($34.50 in chips) 
+Seat 8: stationbc ($25 in chips) 
+Seat 9: Troelg ($25.25 in chips) 
+TimStone: posts small blind $0.10
+stationbc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 6d]
+Troelg: folds 
+AACrazyProAA: folds 
+Alameda22: folds 
+Jujiii: folds 
+monsealb5678: calls $0.25
+Schafblufft: folds 
+k030101: calls $0.25
+TimStone: calls $0.15
+stationbc: checks 
+*** FLOP *** [Jc 9s Js]
+TimStone: checks 
+stationbc: checks 
+monsealb5678: bets $0.50
+k030101: folds 
+TimStone: raises $0.75 to $1.25
+stationbc: folds 
+monsealb5678: folds 
+Uncalled bet ($0.75) returned to TimStone
+TimStone collected $1.95 from pot
+TimStone: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [Jc 9s Js]
+Seat 1: AACrazyProAA folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Jujiii folded before Flop (didn't bet)
+Seat 4: monsealb5678 folded on the Flop
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 (button) folded on the Flop
+Seat 7: TimStone (small blind) collected ($1.95)
+Seat 8: stationbc (big blind) folded on the Flop
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274108410:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:31:02 (ET)
+Table 'Michela III' 9-max Seat #7 is the button
+Seat 1: AACrazyProAA ($25.70 in chips) 
+Seat 2: Alameda22 ($26.50 in chips) 
+Seat 3: Jujiii ($5 in chips) 
+Seat 4: monsealb5678 ($4 in chips) 
+Seat 5: Schafblufft ($25 in chips) 
+Seat 6: k030101 ($36.40 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($24.75 in chips) 
+Seat 9: Troelg ($25.25 in chips) 
+stationbc: posts small blind $0.10
+Troelg: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 2s]
+AACrazyProAA: folds 
+Alameda22: folds 
+Jujiii: folds 
+monsealb5678: raises $0.50 to $0.75
+Schafblufft: folds 
+k030101: folds 
+TimStone: folds 
+stationbc: folds 
+Troelg: folds 
+Uncalled bet ($0.50) returned to monsealb5678
+monsealb5678 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: AACrazyProAA folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Jujiii folded before Flop (didn't bet)
+Seat 4: monsealb5678 collected ($0.60)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone (button) folded before Flop (didn't bet)
+Seat 8: stationbc (small blind) folded before Flop
+Seat 9: Troelg (big blind) folded before Flop
+
+
+
+PokerStars Game #19274117515:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:31:28 (ET)
+Table 'Michela III' 9-max Seat #8 is the button
+Seat 1: AACrazyProAA ($25.70 in chips) 
+Seat 2: Alameda22 ($26.50 in chips) 
+Seat 3: Jujiii ($5 in chips) 
+Seat 4: monsealb5678 ($4.35 in chips) 
+Seat 5: Schafblufft ($25 in chips) 
+Seat 6: k030101 ($36.40 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($24.65 in chips) 
+Seat 9: Troelg ($25 in chips) 
+Troelg: posts small blind $0.10
+AACrazyProAA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Td]
+Alameda22: folds 
+Jujiii: raises $0.75 to $1
+monsealb5678: folds 
+Schafblufft: folds 
+k030101: folds 
+TimStone: folds 
+stationbc: calls $1
+Troelg: folds 
+AACrazyProAA: folds 
+*** FLOP *** [2d Kc 6s]
+Jujiii: bets $1
+stationbc: calls $1
+*** TURN *** [2d Kc 6s] [3c]
+Jujiii: bets $3 and is all-in
+stationbc: calls $3
+*** RIVER *** [2d Kc 6s 3c] [5h]
+*** SHOW DOWN ***
+Jujiii: shows [8c 8s] (a pair of Eights)
+stationbc: shows [Ks Kd] (three of a kind, Kings)
+stationbc collected $9.85 from pot
+*** SUMMARY ***
+Total pot $10.35 | Rake $0.50 
+Board [2d Kc 6s 3c 5h]
+Seat 1: AACrazyProAA (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Jujiii showed [8c 8s] and lost with a pair of Eights
+Seat 4: monsealb5678 folded before Flop (didn't bet)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc (button) showed [Ks Kd] and won ($9.85) with three of a kind, Kings
+Seat 9: Troelg (small blind) folded before Flop
+
+
+
+PokerStars Game #19274138968:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:32:29 (ET)
+Table 'Michela III' 9-max Seat #9 is the button
+Seat 1: AACrazyProAA ($25.45 in chips) 
+Seat 2: Alameda22 ($26.50 in chips) 
+Seat 4: monsealb5678 ($4.35 in chips) 
+Seat 5: Schafblufft ($25 in chips) 
+Seat 6: k030101 ($36.40 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($29.50 in chips) 
+Seat 9: Troelg ($24.90 in chips) 
+Jujiii leaves the table
+AACrazyProAA: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd As]
+monsealb5678: folds 
+Schafblufft: folds 
+k030101: folds 
+TimStone: folds 
+stationbc: folds 
+Troelg: folds 
+AACrazyProAA: raises $0.50 to $0.75
+Alameda22: raises $1.50 to $2.25
+AACrazyProAA: calls $1.50
+*** FLOP *** [Jc Qh Td]
+AACrazyProAA: checks 
+Alameda22: bets $3
+AACrazyProAA: folds 
+Uncalled bet ($3) returned to Alameda22
+Alameda22 collected $4.30 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [Jc Qh Td]
+Seat 1: AACrazyProAA (small blind) folded on the Flop
+Seat 2: Alameda22 (big blind) collected ($4.30)
+Seat 4: monsealb5678 folded before Flop (didn't bet)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274159722:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:33:27 (ET)
+Table 'Michela III' 9-max Seat #1 is the button
+Seat 1: AACrazyProAA ($23.20 in chips) 
+Seat 2: Alameda22 ($28.55 in chips) 
+Seat 4: monsealb5678 ($4.35 in chips) 
+Seat 5: Schafblufft ($25 in chips) 
+Seat 6: k030101 ($36.40 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($29.50 in chips) 
+Seat 9: Troelg ($24.90 in chips) 
+Alameda22: posts small blind $0.10
+monsealb5678: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 4h]
+Schafblufft: folds 
+k030101: folds 
+dorgelo85 joins the table at seat #3 
+TimStone: folds 
+stationbc: folds 
+Troelg: folds 
+AACrazyProAA: raises $0.50 to $0.75
+Alameda22: folds 
+monsealb5678: calls $0.50
+*** FLOP *** [9h 4s 8c]
+monsealb5678: checks 
+AACrazyProAA: checks 
+*** TURN *** [9h 4s 8c] [3c]
+monsealb5678: bets $0.50
+AACrazyProAA: calls $0.50
+*** RIVER *** [9h 4s 8c 3c] [Kc]
+monsealb5678: checks 
+AACrazyProAA: checks 
+*** SHOW DOWN ***
+monsealb5678: shows [Td 5h] (high card King)
+AACrazyProAA: mucks hand 
+monsealb5678 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [9h 4s 8c 3c Kc]
+Seat 1: AACrazyProAA (button) mucked [6d 5s]
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 4: monsealb5678 (big blind) showed [Td 5h] and won ($2.50) with high card King
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274181451:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:34:29 (ET)
+Table 'Michela III' 9-max Seat #2 is the button
+Seat 1: AACrazyProAA ($21.95 in chips) 
+Seat 2: Alameda22 ($28.45 in chips) 
+Seat 4: monsealb5678 ($5.60 in chips) 
+Seat 5: Schafblufft ($25 in chips) 
+Seat 6: k030101 ($36.40 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($29.50 in chips) 
+Seat 9: Troelg ($24.90 in chips) 
+dorgelo85 will be allowed to play after the button
+monsealb5678: posts small blind $0.10
+Schafblufft: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 4d]
+k030101: folds 
+TimStone: folds 
+stationbc: folds 
+Troelg: folds 
+AACrazyProAA: folds 
+Alameda22: folds 
+monsealb5678: calls $0.15
+Schafblufft: checks 
+*** FLOP *** [Kc 7h 5s]
+monsealb5678: checks 
+Schafblufft: checks 
+*** TURN *** [Kc 7h 5s] [Ts]
+monsealb5678: checks 
+Schafblufft: checks 
+*** RIVER *** [Kc 7h 5s Ts] [Js]
+monsealb5678: bets $0.75
+Schafblufft: raises $24 to $24.75 and is all-in
+monsealb5678: calls $4.60 and is all-in
+Uncalled bet ($19.40) returned to Schafblufft
+*** SHOW DOWN ***
+Schafblufft: shows [Qd 9d] (a straight, Nine to King)
+monsealb5678: mucks hand 
+Schafblufft collected $10.65 from pot
+*** SUMMARY ***
+Total pot $11.20 | Rake $0.55 
+Board [Kc 7h 5s Ts Js]
+Seat 1: AACrazyProAA folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: monsealb5678 (small blind) mucked [7d 5h]
+Seat 5: Schafblufft (big blind) showed [Qd 9d] and won ($10.65) with a straight, Nine to King
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274202470:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:35:21 (ET)
+Table 'Michela III' 9-max Seat #5 is the button
+Seat 1: AACrazyProAA ($21.95 in chips) 
+Seat 2: Alameda22 ($28.45 in chips) 
+Seat 3: dorgelo85 ($16.90 in chips) 
+Seat 5: Schafblufft ($30.05 in chips) 
+Seat 6: k030101 ($36.40 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($29.50 in chips) 
+Seat 9: Troelg ($24.90 in chips) 
+k030101: posts small blind $0.10
+TimStone: posts big blind $0.25
+dorgelo85: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 9s]
+monsealb5678 leaves the table
+stationbc: folds 
+Troelg: raises $1 to $1.25
+AACrazyProAA: calls $1.25
+Alameda22: folds 
+dorgelo85: folds 
+Schafblufft: folds 
+k030101: folds 
+TimStone: folds 
+*** FLOP *** [Ks Qh 2c]
+Troelg: bets $2.50
+AACrazyProAA: folds 
+Uncalled bet ($2.50) returned to Troelg
+Troelg collected $2.95 from pot
+Troelg: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [Ks Qh 2c]
+Seat 1: AACrazyProAA folded on the Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: dorgelo85 folded before Flop
+Seat 5: Schafblufft (button) folded before Flop (didn't bet)
+Seat 6: k030101 (small blind) folded before Flop
+Seat 7: TimStone (big blind) folded before Flop
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg collected ($2.95)
+
+
+
+PokerStars Game #19274214911:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:35:54 (ET)
+Table 'Michela III' 9-max Seat #6 is the button
+Seat 1: AACrazyProAA ($20.70 in chips) 
+Seat 2: Alameda22 ($28.45 in chips) 
+Seat 3: dorgelo85 ($16.65 in chips) 
+Seat 5: Schafblufft ($30.05 in chips) 
+Seat 6: k030101 ($36.30 in chips) 
+Seat 7: TimStone ($35.45 in chips) 
+Seat 8: stationbc ($29.50 in chips) 
+Seat 9: Troelg ($26.60 in chips) 
+TimStone: posts small blind $0.10
+stationbc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Ad]
+Troelg: folds 
+AACrazyProAA: folds 
+Alameda22: folds 
+dorgelo85: folds 
+Schafblufft: folds 
+k030101: folds 
+TimStone: raises $0.50 to $0.75
+stationbc: folds 
+Uncalled bet ($0.50) returned to TimStone
+TimStone collected $0.50 from pot
+TimStone: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: AACrazyProAA folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: dorgelo85 folded before Flop (didn't bet)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 (button) folded before Flop (didn't bet)
+Seat 7: TimStone (small blind) collected ($0.50)
+Seat 8: stationbc (big blind) folded before Flop
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274224789:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:36:19 (ET)
+Table 'Michela III' 9-max Seat #7 is the button
+Seat 1: AACrazyProAA ($25 in chips) 
+Seat 2: Alameda22 ($28.45 in chips) 
+Seat 3: dorgelo85 ($16.65 in chips) 
+Seat 5: Schafblufft ($30.05 in chips) 
+Seat 6: k030101 ($36.30 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($29.25 in chips) 
+Seat 9: Troelg ($26.60 in chips) 
+stationbc: posts small blind $0.10
+Troelg: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 6c]
+AACrazyProAA: folds 
+swt.N.incent joins the table at seat #4 
+Alameda22 has timed out
+Alameda22: folds 
+Alameda22 is sitting out
+dorgelo85: folds 
+Schafblufft: folds 
+k030101: folds 
+Alameda22 has returned
+TimStone: folds 
+stationbc: raises $0.75 to $1
+Troelg: folds 
+Uncalled bet ($0.75) returned to stationbc
+stationbc collected $0.50 from pot
+stationbc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: AACrazyProAA folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: dorgelo85 folded before Flop (didn't bet)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone (button) folded before Flop (didn't bet)
+Seat 8: stationbc (small blind) collected ($0.50)
+Seat 9: Troelg (big blind) folded before Flop
+
+
+
+PokerStars Game #19274239840:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:36:57 (ET)
+Table 'Michela III' 9-max Seat #8 is the button
+Seat 1: AACrazyProAA ($25 in chips) 
+Seat 2: Alameda22 ($28.45 in chips) 
+Seat 3: dorgelo85 ($16.65 in chips) 
+Seat 5: Schafblufft ($30.05 in chips) 
+Seat 6: k030101 ($36.30 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($29.50 in chips) 
+Seat 9: Troelg ($26.35 in chips) 
+Troelg: posts small blind $0.10
+AACrazyProAA: posts big blind $0.25
+swt.N.incent: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 7d]
+Alameda22: folds 
+dorgelo85: folds 
+Schafblufft: folds 
+k030101: folds 
+TimStone: folds 
+stationbc: folds 
+Troelg: folds 
+Uncalled bet ($0.15) returned to AACrazyProAA
+AACrazyProAA collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: AACrazyProAA (big blind) collected ($0.20)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: dorgelo85 folded before Flop (didn't bet)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc (button) folded before Flop (didn't bet)
+Seat 9: Troelg (small blind) folded before Flop
+
+
+
+PokerStars Game #19274252212:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:37:29 (ET)
+Table 'Michela III' 9-max Seat #9 is the button
+Seat 1: AACrazyProAA ($25.10 in chips) 
+Seat 2: Alameda22 ($28.45 in chips) 
+Seat 3: dorgelo85 ($16.65 in chips) 
+Seat 5: Schafblufft ($30.05 in chips) 
+Seat 6: k030101 ($36.30 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($29.50 in chips) 
+Seat 9: Troelg ($26.25 in chips) 
+AACrazyProAA: posts small blind $0.10
+Alameda22: posts big blind $0.25
+swt.N.incent: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 4s]
+dorgelo85: folds 
+Schafblufft: folds 
+swt.N.incent leaves the table
+k030101: folds 
+TimStone: folds 
+stationbc: folds 
+Troelg: folds 
+AACrazyProAA: raises $0.25 to $0.50
+Alameda22: calls $0.25
+*** FLOP *** [Qs 3s Jd]
+AACrazyProAA: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to AACrazyProAA
+AACrazyProAA collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Qs 3s Jd]
+Seat 1: AACrazyProAA (small blind) collected ($0.95)
+Seat 2: Alameda22 (big blind) folded on the Flop
+Seat 3: dorgelo85 folded before Flop (didn't bet)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274273885:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:38:24 (ET)
+Table 'Michela III' 9-max Seat #1 is the button
+Seat 1: AACrazyProAA ($25.55 in chips) 
+Seat 2: Alameda22 ($27.95 in chips) 
+Seat 3: dorgelo85 ($16.65 in chips) 
+Seat 5: Schafblufft ($30.05 in chips) 
+Seat 6: k030101 ($36.30 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($29.50 in chips) 
+Seat 9: Troelg ($26.25 in chips) 
+Alameda22: posts small blind $0.10
+dorgelo85: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Ad]
+Schafblufft: folds 
+pippo014 joins the table at seat #4 
+k030101: folds 
+TimStone: folds 
+stationbc: folds 
+Troelg: folds 
+AACrazyProAA: folds 
+Alameda22: raises $0.75 to $1
+dorgelo85: folds 
+Uncalled bet ($0.75) returned to Alameda22
+Alameda22 collected $0.50 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: AACrazyProAA (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) collected ($0.50)
+Seat 3: dorgelo85 (big blind) folded before Flop
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274287320:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:38:59 (ET)
+Table 'Michela III' 9-max Seat #2 is the button
+Seat 1: AACrazyProAA ($25.55 in chips) 
+Seat 2: Alameda22 ($28.20 in chips) 
+Seat 3: dorgelo85 ($16.40 in chips) 
+Seat 4: pippo014 ($5 in chips) 
+Seat 5: Schafblufft ($30.05 in chips) 
+Seat 6: k030101 ($36.30 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($29.50 in chips) 
+Seat 9: Troelg ($26.25 in chips) 
+dorgelo85: posts small blind $0.10
+pippo014: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 5d]
+Schafblufft: folds 
+k030101: raises $1.25 to $1.50
+TimStone: folds 
+stationbc: folds 
+Troelg: folds 
+AACrazyProAA: folds 
+Alameda22: folds 
+dorgelo85: folds 
+pippo014: folds 
+Uncalled bet ($1.25) returned to k030101
+k030101 collected $0.60 from pot
+k030101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: AACrazyProAA folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: dorgelo85 (small blind) folded before Flop
+Seat 4: pippo014 (big blind) folded before Flop
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 collected ($0.60)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274298002:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:39:27 (ET)
+Table 'Michela III' 9-max Seat #3 is the button
+Seat 1: AACrazyProAA ($25.55 in chips) 
+Seat 2: Alameda22 ($28.20 in chips) 
+Seat 3: dorgelo85 ($16.30 in chips) 
+Seat 4: pippo014 ($4.75 in chips) 
+Seat 5: Schafblufft ($30.05 in chips) 
+Seat 6: k030101 ($36.65 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($29.50 in chips) 
+Seat 9: Troelg ($26.25 in chips) 
+pippo014: posts small blind $0.10
+Schafblufft: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Jc]
+k030101: folds 
+TimStone: folds 
+stationbc: folds 
+Troelg: folds 
+Troelg leaves the table
+AACrazyProAA: raises $0.50 to $0.75
+Alameda22: folds 
+dorgelo85: folds 
+pippo014: raises $0.50 to $1.25
+Schafblufft: folds 
+AACrazyProAA: calls $0.50
+*** FLOP *** [3h Ad 9c]
+pippo014: checks 
+AACrazyProAA: bets $1.50
+pippo014: calls $1.50
+*** TURN *** [3h Ad 9c] [Jd]
+pippo014: bets $2 and is all-in
+AACrazyProAA: calls $2
+*** RIVER *** [3h Ad 9c Jd] [3c]
+*** SHOW DOWN ***
+pippo014: shows [Kh Ks] (two pair, Kings and Threes)
+AACrazyProAA: mucks hand 
+pippo014 collected $9.30 from pot
+*** SUMMARY ***
+Total pot $9.75 | Rake $0.45 
+Board [3h Ad 9c Jd 3c]
+Seat 1: AACrazyProAA mucked [Qd Kd]
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: dorgelo85 (button) folded before Flop (didn't bet)
+Seat 4: pippo014 (small blind) showed [Kh Ks] and won ($9.30) with two pair, Kings and Threes
+Seat 5: Schafblufft (big blind) folded before Flop
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Troelg folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274320401:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:40:25 (ET)
+Table 'Michela III' 9-max Seat #4 is the button
+Seat 1: AACrazyProAA ($20.80 in chips) 
+Seat 2: Alameda22 ($28.20 in chips) 
+Seat 3: dorgelo85 ($16.30 in chips) 
+Seat 4: pippo014 ($9.30 in chips) 
+Seat 5: Schafblufft ($29.80 in chips) 
+Seat 6: k030101 ($36.65 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($29.50 in chips) 
+Schafblufft: posts small blind $0.10
+k030101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Ts]
+TimStone: folds 
+stationbc: folds 
+AACrazyProAA: folds 
+AACrazyProAA leaves the table
+Alameda22: folds 
+dorgelo85: folds 
+pippo014: folds 
+Schafblufft: folds 
+Uncalled bet ($0.15) returned to k030101
+k030101 collected $0.20 from pot
+k030101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: AACrazyProAA folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: dorgelo85 folded before Flop (didn't bet)
+Seat 4: pippo014 (button) folded before Flop (didn't bet)
+Seat 5: Schafblufft (small blind) folded before Flop
+Seat 6: k030101 (big blind) collected ($0.20)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274329264:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:40:49 (ET)
+Table 'Michela III' 9-max Seat #5 is the button
+Seat 2: Alameda22 ($28.20 in chips) 
+Seat 3: dorgelo85 ($16.30 in chips) 
+Seat 4: pippo014 ($9.30 in chips) 
+Seat 5: Schafblufft ($29.70 in chips) 
+Seat 6: k030101 ($36.75 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($29.50 in chips) 
+k030101: posts small blind $0.10
+TimStone: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Th]
+stationbc: folds 
+Alameda22: folds 
+dorgelo85: folds 
+pippo014: folds 
+Schafblufft: raises $0.75 to $1
+k030101: folds 
+TimStone: folds 
+Uncalled bet ($0.75) returned to Schafblufft
+Schafblufft collected $0.60 from pot
+Schafblufft: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: dorgelo85 folded before Flop (didn't bet)
+Seat 4: pippo014 folded before Flop (didn't bet)
+Seat 5: Schafblufft (button) collected ($0.60)
+Seat 6: k030101 (small blind) folded before Flop
+Seat 7: TimStone (big blind) folded before Flop
+Seat 8: stationbc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274342980:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:41:24 (ET)
+Table 'Michela III' 9-max Seat #6 is the button
+Seat 2: Alameda22 ($28.20 in chips) 
+Seat 3: dorgelo85 ($16.30 in chips) 
+Seat 4: pippo014 ($9.30 in chips) 
+Seat 5: Schafblufft ($30.05 in chips) 
+Seat 6: k030101 ($36.65 in chips) 
+Seat 7: TimStone ($35.45 in chips) 
+Seat 8: stationbc ($29.50 in chips) 
+TimStone: posts small blind $0.10
+stationbc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 8s]
+Alameda22: folds 
+dorgelo85: folds 
+pippo014: folds 
+Schafblufft: folds 
+k030101: raises $1.25 to $1.50
+TimStone: folds 
+stationbc: folds 
+Uncalled bet ($1.25) returned to k030101
+k030101 collected $0.60 from pot
+k030101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: dorgelo85 folded before Flop (didn't bet)
+Seat 4: pippo014 folded before Flop (didn't bet)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 (button) collected ($0.60)
+Seat 7: TimStone (small blind) folded before Flop
+Seat 8: stationbc (big blind) folded before Flop
+
+
+
+PokerStars Game #19274351833:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:41:47 (ET)
+Table 'Michela III' 9-max Seat #7 is the button
+Seat 2: Alameda22 ($28.20 in chips) 
+Seat 3: dorgelo85 ($16.30 in chips) 
+Seat 4: pippo014 ($9.30 in chips) 
+Seat 5: Schafblufft ($30.05 in chips) 
+Seat 6: k030101 ($37 in chips) 
+Seat 7: TimStone ($35.35 in chips) 
+Seat 8: stationbc ($29.25 in chips) 
+stationbc: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Qs]
+dorgelo85: folds 
+pippo014: folds 
+Schafblufft: folds 
+k030101: folds 
+TimStone: raises $0.50 to $0.75
+stationbc: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to TimStone
+TimStone collected $0.60 from pot
+TimStone: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: dorgelo85 folded before Flop (didn't bet)
+Seat 4: pippo014 folded before Flop (didn't bet)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone (button) collected ($0.60)
+Seat 8: stationbc (small blind) folded before Flop
+
+
+
+PokerStars Game #19274361269:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:42:12 (ET)
+Table 'Michela III' 9-max Seat #8 is the button
+Seat 2: Alameda22 ($27.95 in chips) 
+Seat 3: dorgelo85 ($16.30 in chips) 
+Seat 4: pippo014 ($9.30 in chips) 
+Seat 5: Schafblufft ($30.05 in chips) 
+Seat 6: k030101 ($37 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($29.15 in chips) 
+Alameda22: posts small blind $0.10
+dorgelo85: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 4c]
+pippo014: folds 
+Schafblufft: folds 
+pippo014 leaves the table
+k030101: folds 
+TimStone: folds 
+stationbc: calls $0.25
+Alameda22: folds 
+dorgelo85: checks 
+*** FLOP *** [3d 5c 6h]
+dorgelo85: checks 
+stationbc: bets $0.50
+dorgelo85: calls $0.50
+*** TURN *** [3d 5c 6h] [2d]
+dorgelo85: checks 
+stationbc: checks 
+*** RIVER *** [3d 5c 6h 2d] [2c]
+dorgelo85: bets $0.50
+Magic72111 joins the table at seat #4 
+stationbc: calls $0.50
+*** SHOW DOWN ***
+dorgelo85: shows [Kd 6d] (two pair, Sixes and Deuces)
+stationbc: shows [7h 7d] (two pair, Sevens and Deuces)
+stationbc collected $2.50 from pot
+Blue_Ice1986 joins the table at seat #9 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [3d 5c 6h 2d 2c]
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: dorgelo85 (big blind) showed [Kd 6d] and lost with two pair, Sixes and Deuces
+Seat 4: pippo014 folded before Flop (didn't bet)
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc (button) showed [7h 7d] and won ($2.50) with two pair, Sevens and Deuces
+
+
+
+PokerStars Game #19274376942:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:42:53 (ET)
+Table 'Michela III' 9-max Seat #2 is the button
+Seat 2: Alameda22 ($27.85 in chips) 
+Seat 3: dorgelo85 ($15.05 in chips) 
+Seat 4: Magic72111 ($10 in chips) 
+Seat 5: Schafblufft ($30.05 in chips) 
+Seat 6: k030101 ($37 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($30.40 in chips) 
+dorgelo85: posts small blind $0.10
+Magic72111: posts big blind $0.25
+Blue_Ice1986: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Ks]
+Schafblufft: folds 
+k030101: calls $0.25
+TimStone: folds 
+stationbc: folds 
+Alameda22: raises $0.75 to $1
+dorgelo85: folds 
+Magic72111: calls $0.75
+k030101: calls $0.75
+*** FLOP *** [Ah 8h 3h]
+Magic72111: checks 
+k030101: checks 
+Alameda22: bets $2.50
+Magic72111: folds 
+k030101: raises $3.50 to $6
+Alameda22: folds 
+Uncalled bet ($3.50) returned to k030101
+k030101 collected $7.75 from pot
+k030101: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.10 | Rake $0.35 
+Board [Ah 8h 3h]
+Seat 2: Alameda22 (button) folded on the Flop
+Seat 3: dorgelo85 (small blind) folded before Flop
+Seat 4: Magic72111 (big blind) folded on the Flop
+Seat 5: Schafblufft folded before Flop (didn't bet)
+Seat 6: k030101 collected ($7.75)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274394912:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:43:41 (ET)
+Table 'Michela III' 9-max Seat #3 is the button
+Seat 2: Alameda22 ($24.35 in chips) 
+Seat 3: dorgelo85 ($14.95 in chips) 
+Seat 4: Magic72111 ($9 in chips) 
+Seat 5: Schafblufft ($30.05 in chips) 
+Seat 6: k030101 ($41.25 in chips) 
+Seat 7: TimStone ($35.70 in chips) 
+Seat 8: stationbc ($30.40 in chips) 
+Seat 9: Blue_Ice1986 ($5 in chips) 
+Magic72111: posts small blind $0.10
+Schafblufft: posts big blind $0.25
+Blue_Ice1986: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 5d]
+k030101: folds 
+TimStone: folds 
+stationbc: folds 
+Blue_Ice1986: checks 
+Alameda22: folds 
+dorgelo85: folds 
+Magic72111: folds 
+Schafblufft: raises $1 to $1.25
+Blue_Ice1986: folds 
+Uncalled bet ($1) returned to Schafblufft
+Schafblufft collected $0.60 from pot
+Schafblufft: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: dorgelo85 (button) folded before Flop (didn't bet)
+Seat 4: Magic72111 (small blind) folded before Flop
+Seat 5: Schafblufft (big blind) collected ($0.60)
+Seat 6: k030101 folded before Flop (didn't bet)
+Seat 7: TimStone folded before Flop (didn't bet)
+Seat 8: stationbc folded before Flop (didn't bet)
+Seat 9: Blue_Ice1986 folded before Flop
+
+
+
+PokerStars Game #19274402810:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:44:02 (ET)
+Table 'Michela III' 9-max Seat #4 is the button
+Seat 2: Alameda22 ($24.35 in chips) 
+Seat 3: dorgelo85 ($14.95 in chips) 
+Seat 4: Magic72111 ($8.90 in chips) 
+Seat 5: Schafblufft ($30.40 in chips) 
+Seat 8: stationbc ($30.40 in chips) 
+Seat 9: Blue_Ice1986 ($4.75 in chips) 
+Schafblufft: posts small blind $0.10
+k030101: is sitting out 
+TimStone: is sitting out 
+stationbc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Qc]
+Blue_Ice1986: folds 
+TimStone leaves the table
+k030101 leaves the table
+Alameda22: folds 
+dorgelo85: folds 
+Magic72111: folds 
+Schafblufft: folds 
+Uncalled bet ($0.15) returned to stationbc
+stationbc collected $0.20 from pot
+stationbc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: dorgelo85 folded before Flop (didn't bet)
+Seat 4: Magic72111 (button) folded before Flop (didn't bet)
+Seat 5: Schafblufft (small blind) folded before Flop
+Seat 8: stationbc (big blind) collected ($0.20)
+Seat 9: Blue_Ice1986 folded before Flop (didn't bet)
+
+
+

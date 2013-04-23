@@ -1,0 +1,619 @@
+PokerStars Game #19903500228:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:44:26 (ET)
+Table 'Bok III' 9-max Seat #6 is the button
+Seat 1: m.al-mahdi ($16 in chips) 
+Seat 2: Nino4504 ($18.20 in chips) 
+Seat 3: Farva500 ($14.20 in chips) 
+Seat 4: homerus1 ($22.35 in chips) 
+Seat 5: Païtabière ($34.75 in chips) 
+Seat 6: mr_patriko ($35 in chips) 
+Seat 7: Deltan ($15.50 in chips) 
+Seat 8: Alameda22 ($25 in chips) 
+Seat 9: Chem-Dry ($3.80 in chips) 
+Deltan: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 7h]
+Chem-Dry: calls $0.25
+m.al-mahdi: calls $0.25
+Nino4504: folds 
+Farva500: folds 
+homerus1: calls $0.25
+Païtabière: calls $0.25
+mr_patriko: calls $0.25
+Deltan: folds 
+Alameda22: checks 
+*** FLOP *** [8h 9c Ad]
+Alameda22: checks 
+Chem-Dry: checks 
+m.al-mahdi: checks 
+homerus1: checks 
+Païtabière: checks 
+mr_patriko: checks 
+*** TURN *** [8h 9c Ad] [Jc]
+Alameda22: checks 
+Chem-Dry: checks 
+m.al-mahdi: checks 
+homerus1: checks 
+Païtabière: checks 
+mr_patriko: checks 
+*** RIVER *** [8h 9c Ad Jc] [4h]
+Alameda22: checks 
+Chem-Dry: checks 
+m.al-mahdi: checks 
+homerus1: checks 
+Païtabière: checks 
+mr_patriko: checks 
+*** SHOW DOWN ***
+Alameda22: shows [9d 7h] (a pair of Nines)
+Chem-Dry: mucks hand 
+m.al-mahdi: mucks hand 
+homerus1: shows [6s 9h] (a pair of Nines)
+Païtabière: mucks hand 
+mr_patriko: mucks hand 
+Alameda22 collected $0.80 from pot
+homerus1 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [8h 9c Ad Jc 4h]
+Seat 1: m.al-mahdi mucked [3s 3h]
+Seat 2: Nino4504 folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: homerus1 showed [6s 9h] and won ($0.75) with a pair of Nines
+Seat 5: Païtabière mucked [2c 2s]
+Seat 6: mr_patriko (button) mucked [Qs Ks]
+Seat 7: Deltan (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) showed [9d 7h] and won ($0.80) with a pair of Nines
+Seat 9: Chem-Dry mucked [7d Qc]
+
+
+
+PokerStars Game #19903533401:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:46:08 (ET)
+Table 'Bok III' 9-max Seat #7 is the button
+Seat 1: m.al-mahdi ($15.75 in chips) 
+Seat 2: Nino4504 ($18.20 in chips) 
+Seat 3: Farva500 ($14.20 in chips) 
+Seat 4: homerus1 ($22.85 in chips) 
+Seat 5: Païtabière ($34.50 in chips) 
+Seat 6: mr_patriko ($34.75 in chips) 
+Seat 7: Deltan ($15.40 in chips) 
+Seat 8: Alameda22 ($25.55 in chips) 
+Seat 9: Chem-Dry ($3.55 in chips) 
+Alameda22: posts small blind $0.10
+Chem-Dry: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Ac]
+m.al-mahdi: folds 
+Nino4504: folds 
+Farva500: folds 
+homerus1: folds 
+Païtabière: raises $0.75 to $1
+mr_patriko: folds 
+m.al-mahdi leaves the table
+Deltan: folds 
+Alameda22: folds 
+Chem-Dry: calls $0.75
+*** FLOP *** [Jd 8h 8s]
+Chem-Dry: bets $2.55 and is all-in
+silver2871 joins the table at seat #1 
+Païtabière: calls $2.55
+*** TURN *** [Jd 8h 8s] [Jh]
+*** RIVER *** [Jd 8h 8s Jh] [5c]
+*** SHOW DOWN ***
+Chem-Dry: shows [Jc 7d] (a full house, Jacks full of Eights)
+Païtabière: shows [Qs Js] (a full house, Jacks full of Eights)
+Chem-Dry collected $3.45 from pot
+Païtabière collected $3.40 from pot
+*** SUMMARY ***
+Total pot $7.20 | Rake $0.35 
+Board [Jd 8h 8s Jh 5c]
+Seat 1: m.al-mahdi folded before Flop (didn't bet)
+Seat 2: Nino4504 folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: homerus1 folded before Flop (didn't bet)
+Seat 5: Païtabière showed [Qs Js] and won ($3.40) with a full house, Jacks full of Eights
+Seat 6: mr_patriko folded before Flop (didn't bet)
+Seat 7: Deltan (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: Chem-Dry (big blind) showed [Jc 7d] and won ($3.45) with a full house, Jacks full of Eights
+
+
+
+PokerStars Game #19903548797:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:46:55 (ET)
+Table 'Bok III' 9-max Seat #8 is the button
+Seat 1: silver2871 ($25 in chips) 
+Seat 2: Nino4504 ($18.20 in chips) 
+Seat 3: Farva500 ($14.20 in chips) 
+Seat 4: homerus1 ($22.85 in chips) 
+Seat 5: Païtabière ($34.35 in chips) 
+Seat 6: mr_patriko ($34.75 in chips) 
+Seat 7: Deltan ($15.40 in chips) 
+Seat 8: Alameda22 ($25.45 in chips) 
+Seat 9: Chem-Dry ($3.45 in chips) 
+Chem-Dry: posts small blind $0.10
+silver2871: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 3c]
+Nino4504: folds 
+Farva500: folds 
+homerus1: folds 
+Païtabière: folds 
+mr_patriko: folds 
+Deltan: folds 
+Alameda22: folds 
+Chem-Dry: calls $0.15
+silver2871: raises $0.75 to $1
+Chem-Dry: calls $0.75
+*** FLOP *** [Jh Td 2d]
+Chem-Dry: bets $2.45 and is all-in
+silver2871: calls $2.45
+*** TURN *** [Jh Td 2d] [8s]
+*** RIVER *** [Jh Td 2d 8s] [Ks]
+*** SHOW DOWN ***
+Chem-Dry: shows [Tc 7h] (a pair of Tens)
+silver2871: shows [Th Ts] (three of a kind, Tens)
+silver2871 collected $6.60 from pot
+Chem-Dry leaves the table
+*** SUMMARY ***
+Total pot $6.90 | Rake $0.30 
+Board [Jh Td 2d 8s Ks]
+Seat 1: silver2871 (big blind) showed [Th Ts] and won ($6.60) with three of a kind, Tens
+Seat 2: Nino4504 folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: homerus1 folded before Flop (didn't bet)
+Seat 5: Païtabière folded before Flop (didn't bet)
+Seat 6: mr_patriko folded before Flop (didn't bet)
+Seat 7: Deltan folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: Chem-Dry (small blind) showed [Tc 7h] and lost with a pair of Tens
+
+
+
+PokerStars Game #19903575160:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:48:17 (ET)
+Table 'Bok III' 9-max Seat #1 is the button
+Seat 1: silver2871 ($28.15 in chips) 
+Seat 2: Nino4504 ($18.20 in chips) 
+Seat 3: Farva500 ($14.20 in chips) 
+Seat 4: homerus1 ($22.85 in chips) 
+Seat 5: Païtabière ($34.35 in chips) 
+Seat 6: mr_patriko ($34.75 in chips) 
+Seat 7: Deltan ($15.40 in chips) 
+Seat 8: Alameda22 ($25.45 in chips) 
+Nino4504: posts small blind $0.10
+Farva500: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 3c]
+homerus1 said, "ciao biffin"
+homerus1: calls $0.25
+Païtabière: folds 
+mr_patriko: folds 
+Deltan: folds 
+Alameda22: folds 
+silver2871: folds 
+Nino4504: calls $0.15
+Farva500: checks 
+*** FLOP *** [Ah 3s Kh]
+Nino4504: checks 
+Farva500: checks 
+da big crank joins the table at seat #9 
+homerus1: checks 
+*** TURN *** [Ah 3s Kh] [As]
+Nino4504: bets $0.50
+Farva500: folds 
+homerus1: folds 
+Uncalled bet ($0.50) returned to Nino4504
+Nino4504 collected $0.75 from pot
+Nino4504: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Ah 3s Kh As]
+Seat 1: silver2871 (button) folded before Flop (didn't bet)
+Seat 2: Nino4504 (small blind) collected ($0.75)
+Seat 3: Farva500 (big blind) folded on the Turn
+Seat 4: homerus1 folded on the Turn
+Seat 5: Païtabière folded before Flop (didn't bet)
+Seat 6: mr_patriko folded before Flop (didn't bet)
+Seat 7: Deltan folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903604908:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:49:50 (ET)
+Table 'Bok III' 9-max Seat #2 is the button
+Seat 1: silver2871 ($28.15 in chips) 
+Seat 2: Nino4504 ($18.70 in chips) 
+Seat 3: Farva500 ($13.95 in chips) 
+Seat 4: homerus1 ($22.60 in chips) 
+Seat 5: Païtabière ($34.35 in chips) 
+Seat 6: mr_patriko ($34.75 in chips) 
+Seat 7: Deltan ($15.40 in chips) 
+Seat 8: Alameda22 ($25.45 in chips) 
+Farva500: posts small blind $0.10
+homerus1: posts big blind $0.25
+da big crank: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 9d]
+Païtabière: folds 
+mr_patriko: folds 
+Deltan: folds 
+Alameda22: folds 
+silver2871: raises $0.75 to $1
+Nino4504: folds 
+Farva500: folds 
+homerus1: folds 
+Uncalled bet ($0.75) returned to silver2871
+silver2871 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: silver2871 collected ($0.60)
+Seat 2: Nino4504 (button) folded before Flop (didn't bet)
+Seat 3: Farva500 (small blind) folded before Flop
+Seat 4: homerus1 (big blind) folded before Flop
+Seat 5: Païtabière folded before Flop (didn't bet)
+Seat 6: mr_patriko folded before Flop (didn't bet)
+Seat 7: Deltan folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903615365:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:50:22 (ET)
+Table 'Bok III' 9-max Seat #3 is the button
+Seat 1: silver2871 ($28.50 in chips) 
+Seat 2: Nino4504 ($18.70 in chips) 
+Seat 3: Farva500 ($13.85 in chips) 
+Seat 4: homerus1 ($22.35 in chips) 
+Seat 5: Païtabière ($34.35 in chips) 
+Seat 6: mr_patriko ($34.75 in chips) 
+Seat 7: Deltan ($15.40 in chips) 
+Seat 8: Alameda22 ($25.45 in chips) 
+homerus1: posts small blind $0.10
+Païtabière: posts big blind $0.25
+da big crank: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 2s]
+mr_patriko: folds 
+Deltan: calls $0.25
+Alameda22: folds 
+silver2871: calls $0.25
+Nino4504: calls $0.25
+Farva500: folds 
+homerus1: calls $0.15
+Païtabière: checks 
+*** FLOP *** [As 9d 6s]
+homerus1: checks 
+Païtabière: checks 
+Deltan: checks 
+silver2871: checks 
+Nino4504: checks 
+*** TURN *** [As 9d 6s] [Tc]
+homerus1: bets $0.25
+Païtabière: folds 
+Deltan: folds 
+silver2871: folds 
+Nino4504: raises $0.50 to $0.75
+homerus1: calls $0.50
+*** RIVER *** [As 9d 6s Tc] [Qc]
+homerus1: bets $2.50
+Nino4504: calls $2.50
+*** SHOW DOWN ***
+homerus1: shows [8d 7c] (a straight, Six to Ten)
+Nino4504: mucks hand 
+homerus1 collected $7.40 from pot
+*** SUMMARY ***
+Total pot $7.75 | Rake $0.35 
+Board [As 9d 6s Tc Qc]
+Seat 1: silver2871 folded on the Turn
+Seat 2: Nino4504 mucked [Td 6d]
+Seat 3: Farva500 (button) folded before Flop (didn't bet)
+Seat 4: homerus1 (small blind) showed [8d 7c] and won ($7.40) with a straight, Six to Ten
+Seat 5: Païtabière (big blind) folded on the Turn
+Seat 6: mr_patriko folded before Flop (didn't bet)
+Seat 7: Deltan folded on the Turn
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903643968:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:51:53 (ET)
+Table 'Bok III' 9-max Seat #4 is the button
+Seat 1: silver2871 ($28.25 in chips) 
+Seat 2: Nino4504 ($15.20 in chips) 
+Seat 3: Farva500 ($13.85 in chips) 
+Seat 4: homerus1 ($26.25 in chips) 
+Seat 5: Païtabière ($34.10 in chips) 
+Seat 6: mr_patriko ($34.75 in chips) 
+Seat 7: Deltan ($15.15 in chips) 
+Seat 8: Alameda22 ($25.45 in chips) 
+Païtabière: posts small blind $0.10
+mr_patriko: posts big blind $0.25
+da big crank: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 4h]
+Deltan: folds 
+Alameda22: folds 
+silver2871: raises $0.50 to $0.75
+Nino4504: folds 
+Farva500: folds 
+homerus1: folds 
+Païtabière: calls $0.65
+mr_patriko: folds 
+*** FLOP *** [Jd Js 9h]
+Païtabière: checks 
+silver2871: bets $1
+Païtabière: raises $1.50 to $2.50
+silver2871: calls $1.50
+*** TURN *** [Jd Js 9h] [5c]
+Païtabière: checks 
+silver2871: checks 
+*** RIVER *** [Jd Js 9h 5c] [As]
+Païtabière: checks 
+silver2871: checks 
+*** SHOW DOWN ***
+Païtabière: shows [2s 2d] (two pair, Jacks and Deuces)
+silver2871: shows [Th Ts] (two pair, Jacks and Tens)
+silver2871 collected $6.45 from pot
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.30 
+Board [Jd Js 9h 5c As]
+Seat 1: silver2871 showed [Th Ts] and won ($6.45) with two pair, Jacks and Tens
+Seat 2: Nino4504 folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: homerus1 (button) folded before Flop (didn't bet)
+Seat 5: Païtabière (small blind) showed [2s 2d] and lost with two pair, Jacks and Deuces
+Seat 6: mr_patriko (big blind) folded before Flop
+Seat 7: Deltan folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903671055:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:53:18 (ET)
+Table 'Bok III' 9-max Seat #5 is the button
+Seat 1: silver2871 ($31.45 in chips) 
+Seat 2: Nino4504 ($15.20 in chips) 
+Seat 3: Farva500 ($13.85 in chips) 
+Seat 4: homerus1 ($26.25 in chips) 
+Seat 5: Païtabière ($30.85 in chips) 
+Seat 6: mr_patriko ($34.50 in chips) 
+Seat 7: Deltan ($15.15 in chips) 
+Seat 8: Alameda22 ($25.45 in chips) 
+mr_patriko: posts small blind $0.10
+Deltan: posts big blind $0.25
+da big crank: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 2d]
+Alameda22: folds 
+silver2871: folds 
+Nino4504: folds 
+Farva500: raises $0.50 to $0.75
+homerus1: folds 
+Païtabière: folds 
+mr_patriko: folds 
+Deltan: calls $0.50
+*** FLOP *** [Qd 8h 7h]
+Deltan: checks 
+Farva500: checks 
+*** TURN *** [Qd 8h 7h] [4c]
+Deltan: checks 
+Farva500: bets $1
+Deltan: folds 
+Uncalled bet ($1) returned to Farva500
+Farva500 collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Qd 8h 7h 4c]
+Seat 1: silver2871 folded before Flop (didn't bet)
+Seat 2: Nino4504 folded before Flop (didn't bet)
+Seat 3: Farva500 collected ($1.55)
+Seat 4: homerus1 folded before Flop (didn't bet)
+Seat 5: Païtabière (button) folded before Flop (didn't bet)
+Seat 6: mr_patriko (small blind) folded before Flop
+Seat 7: Deltan (big blind) folded on the Turn
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903692523:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:54:26 (ET)
+Table 'Bok III' 9-max Seat #6 is the button
+Seat 1: silver2871 ($31.45 in chips) 
+Seat 2: Nino4504 ($15.20 in chips) 
+Seat 3: Farva500 ($14.65 in chips) 
+Seat 4: homerus1 ($26.25 in chips) 
+Seat 5: Païtabière ($30.85 in chips) 
+Seat 6: mr_patriko ($34.40 in chips) 
+Seat 7: Deltan ($14.40 in chips) 
+Seat 8: Alameda22 ($25.45 in chips) 
+Deltan: posts small blind $0.10
+Alameda22: posts big blind $0.25
+da big crank: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 9s]
+silver2871: raises $0.50 to $0.75
+Nino4504: calls $0.75
+Farva500: folds 
+homerus1: folds 
+Païtabière: folds 
+mr_patriko: calls $0.75
+Deltan: calls $0.65
+Alameda22: calls $0.50
+*** FLOP *** [Jc 6h Kh]
+Deltan: checks 
+Alameda22: checks 
+silver2871: bets $1.25
+Nino4504: calls $1.25
+mr_patriko: folds 
+Deltan: folds 
+Alameda22: folds 
+*** TURN *** [Jc 6h Kh] [8h]
+silver2871: bets $2.50
+Nino4504: folds 
+Uncalled bet ($2.50) returned to silver2871
+silver2871 collected $5.95 from pot
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.30 
+Board [Jc 6h Kh 8h]
+Seat 1: silver2871 collected ($5.95)
+Seat 2: Nino4504 folded on the Turn
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: homerus1 folded before Flop (didn't bet)
+Seat 5: Païtabière folded before Flop (didn't bet)
+Seat 6: mr_patriko (button) folded on the Flop
+Seat 7: Deltan (small blind) folded on the Flop
+Seat 8: Alameda22 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19903718385:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:55:49 (ET)
+Table 'Bok III' 9-max Seat #7 is the button
+Seat 1: silver2871 ($35.40 in chips) 
+Seat 2: Nino4504 ($13.20 in chips) 
+Seat 3: Farva500 ($14.65 in chips) 
+Seat 4: homerus1 ($26.25 in chips) 
+Seat 5: Païtabière ($30.85 in chips) 
+Seat 6: mr_patriko ($33.65 in chips) 
+Seat 7: Deltan ($13.65 in chips) 
+Seat 8: Alameda22 ($24.70 in chips) 
+Seat 9: da big crank ($15 in chips) 
+Alameda22: posts small blind $0.10
+da big crank: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 6s]
+silver2871: calls $0.25
+Nino4504: calls $0.25
+Farva500: folds 
+homerus1: folds 
+Païtabière: folds 
+mr_patriko: folds 
+Deltan: folds 
+Alameda22: folds 
+da big crank: checks 
+*** FLOP *** [Jh Ac Qc]
+da big crank: checks 
+silver2871: checks 
+Nino4504: checks 
+*** TURN *** [Jh Ac Qc] [9c]
+da big crank: bets $0.25
+silver2871: folds 
+Nino4504: calls $0.25
+*** RIVER *** [Jh Ac Qc 9c] [8h]
+da big crank: bets $0.50
+Nino4504: raises $6 to $6.50
+da big crank: folds 
+Uncalled bet ($6) returned to Nino4504
+Nino4504 collected $2.25 from pot
+Nino4504: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Jh Ac Qc 9c 8h]
+Seat 1: silver2871 folded on the Turn
+Seat 2: Nino4504 collected ($2.25)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: homerus1 folded before Flop (didn't bet)
+Seat 5: Païtabière folded before Flop (didn't bet)
+Seat 6: mr_patriko folded before Flop (didn't bet)
+Seat 7: Deltan (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: da big crank (big blind) folded on the River
+
+
+
+PokerStars Game #19903743309:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:57:09 (ET)
+Table 'Bok III' 9-max Seat #8 is the button
+Seat 1: silver2871 ($35.15 in chips) 
+Seat 2: Nino4504 ($14.45 in chips) 
+Seat 3: Farva500 ($14.65 in chips) 
+Seat 4: homerus1 ($26.25 in chips) 
+Seat 5: Païtabière ($30.85 in chips) 
+Seat 6: mr_patriko ($33.65 in chips) 
+Seat 7: Deltan ($13.65 in chips) 
+Seat 8: Alameda22 ($24.60 in chips) 
+Seat 9: da big crank ($14 in chips) 
+da big crank: posts small blind $0.10
+silver2871: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Kd]
+Nino4504: folds 
+Farva500: calls $0.25
+homerus1: calls $0.25
+Païtabière: folds 
+mr_patriko: folds 
+Deltan: folds 
+Alameda22: folds 
+da big crank: calls $0.15
+silver2871: checks 
+*** FLOP *** [4c 5d 5c]
+da big crank: checks 
+silver2871: checks 
+Farva500: checks 
+homerus1: checks 
+*** TURN *** [4c 5d 5c] [7h]
+da big crank: checks 
+silver2871: bets $0.75
+Farva500: folds 
+homerus1: folds 
+da big crank: folds 
+Uncalled bet ($0.75) returned to silver2871
+silver2871 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [4c 5d 5c 7h]
+Seat 1: silver2871 (big blind) collected ($0.95)
+Seat 2: Nino4504 folded before Flop (didn't bet)
+Seat 3: Farva500 folded on the Turn
+Seat 4: homerus1 folded on the Turn
+Seat 5: Païtabière folded before Flop (didn't bet)
+Seat 6: mr_patriko folded before Flop (didn't bet)
+Seat 7: Deltan folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: da big crank (small blind) folded on the Turn
+
+
+
+PokerStars Game #19903787619:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:59:32 (ET)
+Table 'Bok III' 9-max Seat #9 is the button
+Seat 1: silver2871 ($35.85 in chips) 
+Seat 2: Nino4504 ($14.45 in chips) 
+Seat 3: Farva500 ($14.40 in chips) 
+Seat 4: homerus1 ($26 in chips) 
+Seat 5: Païtabière ($30.85 in chips) 
+Seat 6: mr_patriko ($33.65 in chips) 
+Seat 7: Deltan ($13.65 in chips) 
+Seat 8: Alameda22 ($24.60 in chips) 
+Seat 9: da big crank ($13.75 in chips) 
+silver2871: posts small blind $0.10
+Nino4504: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 6h]
+Farva500: folds 
+homerus1: calls $0.25
+Païtabière: folds 
+mr_patriko: folds 
+Deltan: folds 
+Alameda22: folds 
+da big crank: calls $0.25
+silver2871: folds 
+Nino4504: checks 
+*** FLOP *** [6d Tc 8s]
+Nino4504: checks 
+homerus1: checks 
+da big crank: checks 
+*** TURN *** [6d Tc 8s] [2c]
+Nino4504: checks 
+homerus1: bets $0.75
+da big crank: folds 
+Nino4504: folds 
+Uncalled bet ($0.75) returned to homerus1
+homerus1 collected $0.85 from pot
+homerus1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [6d Tc 8s 2c]
+Seat 1: silver2871 (small blind) folded before Flop
+Seat 2: Nino4504 (big blind) folded on the Turn
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: homerus1 collected ($0.85)
+Seat 5: Païtabière folded before Flop (didn't bet)
+Seat 6: mr_patriko folded before Flop (didn't bet)
+Seat 7: Deltan folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: da big crank (button) folded on the Turn
+
+
+

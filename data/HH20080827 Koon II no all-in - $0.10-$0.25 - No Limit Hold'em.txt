@@ -1,0 +1,2390 @@
+PokerStars Game #19950940452:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:26:23 (ET)
+Table 'Koon II' 9-max Seat #4 is the button
+Seat 1: yjqian23 ($24.65 in chips) 
+Seat 2: mauricemuis ($5.55 in chips) 
+Seat 3: weakmeat ($4.40 in chips) 
+Seat 4: crusader1006 ($24.40 in chips) 
+Seat 5: jjwtay ($30.65 in chips) 
+Seat 6: Alameda22 ($25 in chips) 
+Seat 7: M0RE=C0WBELL ($24.80 in chips) 
+Seat 8: stephanapy ($29.05 in chips) 
+Seat 9: phrogman123 ($23.65 in chips) 
+jjwtay: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 4s]
+M0RE=C0WBELL: folds 
+stephanapy: raises $0.25 to $0.50
+phrogman123: folds 
+yjqian23: folds 
+mauricemuis: folds 
+weakmeat: folds 
+crusader1006: folds 
+jjwtay: raises $1.25 to $1.75
+Alameda22: folds 
+stephanapy: calls $1.25
+*** FLOP *** [3d 8s Jc]
+jjwtay: bets $2
+stephanapy: raises $2 to $4
+jjwtay: folds 
+Uncalled bet ($2) returned to stephanapy
+stephanapy collected $7.40 from pot
+stephanapy: shows [Tc Ac] (high card Ace)
+*** SUMMARY ***
+Total pot $7.75 | Rake $0.35 
+Board [3d 8s Jc]
+Seat 1: yjqian23 folded before Flop (didn't bet)
+Seat 2: mauricemuis folded before Flop (didn't bet)
+Seat 3: weakmeat folded before Flop (didn't bet)
+Seat 4: crusader1006 (button) folded before Flop (didn't bet)
+Seat 5: jjwtay (small blind) folded on the Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 8: stephanapy collected ($7.40)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19950970190:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:27:40 (ET)
+Table 'Koon II' 9-max Seat #5 is the button
+Seat 1: yjqian23 ($24.65 in chips) 
+Seat 2: mauricemuis ($5.55 in chips) 
+Seat 3: weakmeat ($4.40 in chips) 
+Seat 4: crusader1006 ($24.40 in chips) 
+Seat 5: jjwtay ($26.90 in chips) 
+Seat 6: Alameda22 ($24.75 in chips) 
+Seat 7: M0RE=C0WBELL ($24.80 in chips) 
+Seat 8: stephanapy ($32.70 in chips) 
+Seat 9: phrogman123 ($23.65 in chips) 
+Alameda22: posts small blind $0.10
+M0RE=C0WBELL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 2h]
+stephanapy: calls $0.25
+phrogman123: folds 
+yjqian23: raises $0.25 to $0.50
+mauricemuis: folds 
+weakmeat: calls $0.50
+crusader1006: folds 
+jjwtay: folds 
+Alameda22: folds 
+M0RE=C0WBELL: calls $0.25
+stephanapy: calls $0.25
+*** FLOP *** [5d 8c 3h]
+M0RE=C0WBELL: checks 
+stephanapy: checks 
+yjqian23: bets $2
+weakmeat: raises $1.90 to $3.90 and is all-in
+M0RE=C0WBELL: folds 
+stephanapy: folds 
+yjqian23: calls $1.90
+*** TURN *** [5d 8c 3h] [Qd]
+*** RIVER *** [5d 8c 3h Qd] [Kd]
+*** SHOW DOWN ***
+yjqian23: shows [Kc Kh] (three of a kind, Kings)
+weakmeat: mucks hand 
+yjqian23 collected $9.45 from pot
+*** SUMMARY ***
+Total pot $9.90 | Rake $0.45 
+Board [5d 8c 3h Qd Kd]
+Seat 1: yjqian23 showed [Kc Kh] and won ($9.45) with three of a kind, Kings
+Seat 2: mauricemuis folded before Flop (didn't bet)
+Seat 3: weakmeat mucked [Ts Tc]
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: jjwtay (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: M0RE=C0WBELL (big blind) folded on the Flop
+Seat 8: stephanapy folded on the Flop
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951002795:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:29:04 (ET)
+Table 'Koon II' 9-max Seat #6 is the button
+Seat 1: yjqian23 ($29.70 in chips) 
+Seat 2: mauricemuis ($5.55 in chips) 
+Seat 3: weakmeat ($5 in chips) 
+Seat 4: crusader1006 ($24.40 in chips) 
+Seat 5: jjwtay ($26.90 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 7: M0RE=C0WBELL ($24.30 in chips) 
+Seat 8: stephanapy ($32.20 in chips) 
+Seat 9: phrogman123 ($23.65 in chips) 
+M0RE=C0WBELL: posts small blind $0.10
+stephanapy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Ah]
+phrogman123: folds 
+yjqian23: folds 
+mauricemuis: raises $1 to $1.25
+weakmeat: folds 
+crusader1006: folds 
+jjwtay: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+stephanapy: raises $3.25 to $4.50
+weakmeat said, "nh"
+mauricemuis: raises $1.05 to $5.55 and is all-in
+stephanapy: calls $1.05
+*** FLOP *** [5d 9h 3c]
+*** TURN *** [5d 9h 3c] [8h]
+*** RIVER *** [5d 9h 3c 8h] [6d]
+*** SHOW DOWN ***
+stephanapy: shows [7h 7d] (a straight, Five to Nine)
+mauricemuis: mucks hand 
+stephanapy collected $10.65 from pot
+*** SUMMARY ***
+Total pot $11.20 | Rake $0.55 
+Board [5d 9h 3c 8h 6d]
+Seat 1: yjqian23 folded before Flop (didn't bet)
+Seat 2: mauricemuis mucked [Qd Qs]
+Seat 3: weakmeat folded before Flop (didn't bet)
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: jjwtay folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL (small blind) folded before Flop
+Seat 8: stephanapy (big blind) showed [7h 7d] and won ($10.65) with a straight, Five to Nine
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951027554:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:30:08 (ET)
+Table 'Koon II' 9-max Seat #7 is the button
+Seat 1: yjqian23 ($29.70 in chips) 
+Seat 3: weakmeat ($5 in chips) 
+Seat 4: crusader1006 ($24.40 in chips) 
+Seat 5: jjwtay ($26.90 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 7: M0RE=C0WBELL ($24.20 in chips) 
+Seat 8: stephanapy ($37.30 in chips) 
+Seat 9: phrogman123 ($23.65 in chips) 
+stephanapy: posts small blind $0.10
+phrogman123: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 7h]
+yjqian23: folds 
+weakmeat: folds 
+crusader1006: folds 
+mauricemuis leaves the table
+jjwtay: folds 
+Alameda22: calls $0.25
+Yenohammer joins the table at seat #2 
+M0RE=C0WBELL: folds 
+stephanapy: calls $0.15
+phrogman123: checks 
+*** FLOP *** [Kh 7s Jd]
+stephanapy: checks 
+phrogman123: checks 
+Alameda22: bets $0.50
+stephanapy: calls $0.50
+phrogman123: folds 
+*** TURN *** [Kh 7s Jd] [2c]
+stephanapy: bets $0.25
+Alameda22: raises $1.25 to $1.50
+stephanapy: calls $1.25
+*** RIVER *** [Kh 7s Jd 2c] [Ac]
+stephanapy: bets $1.25
+Alameda22: raises $3 to $4.25
+stephanapy: folds 
+Uncalled bet ($3) returned to Alameda22
+Alameda22 collected $6.90 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [Kh 7s Jd 2c Ac]
+Seat 1: yjqian23 folded before Flop (didn't bet)
+Seat 3: weakmeat folded before Flop (didn't bet)
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: jjwtay folded before Flop (didn't bet)
+Seat 6: Alameda22 collected ($6.90)
+Seat 7: M0RE=C0WBELL (button) folded before Flop (didn't bet)
+Seat 8: stephanapy (small blind) folded on the River
+Seat 9: phrogman123 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19951078603:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:32:21 (ET)
+Table 'Koon II' 9-max Seat #8 is the button
+Seat 2: Yenohammer ($15 in chips) 
+Seat 3: weakmeat ($5 in chips) 
+Seat 4: crusader1006 ($24.40 in chips) 
+Seat 5: jjwtay ($26.90 in chips) 
+Seat 6: Alameda22 ($28.05 in chips) 
+Seat 7: M0RE=C0WBELL ($24.20 in chips) 
+Seat 8: stephanapy ($33.80 in chips) 
+Seat 9: phrogman123 ($23.40 in chips) 
+phrogman123: posts small blind $0.10
+yjqian23: is sitting out 
+yjqian23 leaves the table
+Yenohammer: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 4h]
+Klansman8 joins the table at seat #1 
+weakmeat: folds 
+crusader1006: calls $0.25
+jjwtay: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+stephanapy: calls $0.25
+Klansman8 leaves the table
+phrogman123: folds 
+Yenohammer: checks 
+*** FLOP *** [7c 4s 9d]
+hmk-4 joins the table at seat #1 
+Yenohammer: bets $0.25
+crusader1006: folds 
+stephanapy: calls $0.25
+*** TURN *** [7c 4s 9d] [9c]
+Yenohammer: bets $0.25
+stephanapy: raises $1 to $1.25
+Yenohammer: calls $1
+*** RIVER *** [7c 4s 9d 9c] [Td]
+Yenohammer: checks 
+stephanapy: bets $2
+Yenohammer: calls $2
+*** SHOW DOWN ***
+stephanapy: shows [6d 9s] (three of a kind, Nines)
+Yenohammer: mucks hand 
+stephanapy collected $7.50 from pot
+*** SUMMARY ***
+Total pot $7.85 | Rake $0.35 
+Board [7c 4s 9d 9c Td]
+Seat 2: Yenohammer (big blind) mucked [Th 4c]
+Seat 3: weakmeat folded before Flop (didn't bet)
+Seat 4: crusader1006 folded on the Flop
+Seat 5: jjwtay folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 8: stephanapy (button) showed [6d 9s] and won ($7.50) with three of a kind, Nines
+Seat 9: phrogman123 (small blind) folded before Flop
+
+
+
+PokerStars Game #19951124152:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:34:20 (ET)
+Table 'Koon II' 9-max Seat #9 is the button
+Seat 2: Yenohammer ($11.25 in chips) 
+Seat 3: weakmeat ($5 in chips) 
+Seat 4: crusader1006 ($24.15 in chips) 
+Seat 5: jjwtay ($26.90 in chips) 
+Seat 6: Alameda22 ($28.05 in chips) 
+Seat 7: M0RE=C0WBELL ($24.20 in chips) 
+Seat 8: stephanapy ($37.55 in chips) 
+Seat 9: phrogman123 ($23.30 in chips) 
+hmk-4 will be allowed to play after the button
+Yenohammer: posts small blind $0.10
+weakmeat: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 5s]
+crusader1006: folds 
+jjwtay: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+stephanapy: calls $0.25
+phrogman123: calls $0.25
+Yenohammer: calls $0.15
+weakmeat: checks 
+*** FLOP *** [2c 5d Ad]
+Yenohammer: checks 
+weakmeat: checks 
+stephanapy: bets $0.25
+phrogman123: folds 
+Yenohammer: folds 
+weakmeat: folds 
+Uncalled bet ($0.25) returned to stephanapy
+stephanapy collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [2c 5d Ad]
+Seat 2: Yenohammer (small blind) folded on the Flop
+Seat 3: weakmeat (big blind) folded on the Flop
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: jjwtay folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 8: stephanapy collected ($0.95)
+Seat 9: phrogman123 (button) folded on the Flop
+
+
+
+PokerStars Game #19951141599:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:35:07 (ET)
+Table 'Koon II' 9-max Seat #2 is the button
+Seat 2: Yenohammer ($11 in chips) 
+Seat 3: weakmeat ($4.75 in chips) 
+Seat 4: crusader1006 ($24.15 in chips) 
+Seat 5: jjwtay ($26.90 in chips) 
+Seat 6: Alameda22 ($28.05 in chips) 
+Seat 7: M0RE=C0WBELL ($24.20 in chips) 
+Seat 8: stephanapy ($38.25 in chips) 
+Seat 9: phrogman123 ($23.05 in chips) 
+weakmeat: posts small blind $0.10
+crusader1006: posts big blind $0.25
+hmk-4: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 9h]
+jjwtay: calls $0.25
+Alameda22: folds 
+M0RE=C0WBELL: raises $0.50 to $0.75
+stephanapy: calls $0.75
+phrogman123: folds 
+Yenohammer: calls $0.75
+weakmeat: folds 
+crusader1006: folds 
+jjwtay: calls $0.50
+*** FLOP *** [4s 7c Qh]
+jjwtay: checks 
+M0RE=C0WBELL: checks 
+stephanapy: bets $0.75
+Yenohammer: folds 
+jjwtay: folds 
+M0RE=C0WBELL: folds 
+Uncalled bet ($0.75) returned to stephanapy
+stephanapy collected $3.20 from pot
+stephanapy: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [4s 7c Qh]
+Seat 2: Yenohammer (button) folded on the Flop
+Seat 3: weakmeat (small blind) folded before Flop
+Seat 4: crusader1006 (big blind) folded before Flop
+Seat 5: jjwtay folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL folded on the Flop
+Seat 8: stephanapy collected ($3.20)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951175323:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:36:36 (ET)
+Table 'Koon II' 9-max Seat #3 is the button
+Seat 2: Yenohammer ($10.25 in chips) 
+Seat 3: weakmeat ($4.65 in chips) 
+Seat 4: crusader1006 ($23.90 in chips) 
+Seat 5: jjwtay ($26.15 in chips) 
+Seat 6: Alameda22 ($28.05 in chips) 
+Seat 7: M0RE=C0WBELL ($23.45 in chips) 
+Seat 8: stephanapy ($40.70 in chips) 
+Seat 9: phrogman123 ($23.05 in chips) 
+crusader1006: posts small blind $0.10
+jjwtay: posts big blind $0.25
+hmk-4: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Ah]
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+stephanapy: calls $0.25
+phrogman123: calls $0.25
+Yenohammer: folds 
+weakmeat: folds 
+crusader1006: calls $0.15
+jjwtay: checks 
+*** FLOP *** [Ts Th Ks]
+crusader1006: checks 
+jjwtay: checks 
+stephanapy: checks 
+phrogman123: checks 
+*** TURN *** [Ts Th Ks] [2s]
+crusader1006: checks 
+jjwtay: checks 
+stephanapy: bets $1
+phrogman123: folds 
+crusader1006: folds 
+jjwtay: folds 
+Uncalled bet ($1) returned to stephanapy
+stephanapy collected $0.95 from pot
+stephanapy: shows [7h 4c] (a pair of Tens)
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Ts Th Ks 2s]
+Seat 2: Yenohammer folded before Flop (didn't bet)
+Seat 3: weakmeat (button) folded before Flop (didn't bet)
+Seat 4: crusader1006 (small blind) folded on the Turn
+Seat 5: jjwtay (big blind) folded on the Turn
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 8: stephanapy collected ($0.95)
+Seat 9: phrogman123 folded on the Turn
+
+
+
+PokerStars Game #19951207537:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:38:01 (ET)
+Table 'Koon II' 9-max Seat #4 is the button
+Seat 2: Yenohammer ($10.25 in chips) 
+Seat 3: weakmeat ($4.65 in chips) 
+Seat 4: crusader1006 ($23.65 in chips) 
+Seat 5: jjwtay ($25.90 in chips) 
+Seat 6: Alameda22 ($28.05 in chips) 
+Seat 7: M0RE=C0WBELL ($23.45 in chips) 
+Seat 8: stephanapy ($41.40 in chips) 
+Seat 9: phrogman123 ($22.80 in chips) 
+jjwtay: posts small blind $0.10
+Alameda22: posts big blind $0.25
+hmk-4: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Ac]
+M0RE=C0WBELL: raises $0.50 to $0.75
+stephanapy: folds 
+phrogman123: folds 
+Yenohammer: folds 
+weakmeat: folds 
+crusader1006: calls $0.75
+jjwtay: folds 
+Alameda22: calls $0.50
+*** FLOP *** [5c 9c 5d]
+Alameda22: checks 
+M0RE=C0WBELL: checks 
+crusader1006: bets $1
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+Uncalled bet ($1) returned to crusader1006
+crusader1006 collected $2.25 from pot
+crusader1006: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [5c 9c 5d]
+Seat 2: Yenohammer folded before Flop (didn't bet)
+Seat 3: weakmeat folded before Flop (didn't bet)
+Seat 4: crusader1006 (button) collected ($2.25)
+Seat 5: jjwtay (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: M0RE=C0WBELL folded on the Flop
+Seat 8: stephanapy folded before Flop (didn't bet)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951239043:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:39:23 (ET)
+Table 'Koon II' 9-max Seat #5 is the button
+Seat 2: Yenohammer ($10.25 in chips) 
+Seat 3: weakmeat ($4.65 in chips) 
+Seat 4: crusader1006 ($25.15 in chips) 
+Seat 5: jjwtay ($25.80 in chips) 
+Seat 6: Alameda22 ($27.30 in chips) 
+Seat 7: M0RE=C0WBELL ($22.70 in chips) 
+Seat 8: stephanapy ($41.40 in chips) 
+Seat 9: phrogman123 ($22.80 in chips) 
+Alameda22: posts small blind $0.10
+M0RE=C0WBELL: posts big blind $0.25
+hmk-4: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Ks]
+stephanapy: raises $0.25 to $0.50
+phrogman123: folds 
+Yenohammer: folds 
+weakmeat: folds 
+crusader1006: folds 
+jjwtay: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+Uncalled bet ($0.25) returned to stephanapy
+stephanapy collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Yenohammer folded before Flop (didn't bet)
+Seat 3: weakmeat folded before Flop (didn't bet)
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: jjwtay (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: M0RE=C0WBELL (big blind) folded before Flop
+Seat 8: stephanapy collected ($0.60)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951250076:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:39:52 (ET)
+Table 'Koon II' 9-max Seat #6 is the button
+Seat 2: Yenohammer ($10.25 in chips) 
+Seat 3: weakmeat ($4.65 in chips) 
+Seat 4: crusader1006 ($25.15 in chips) 
+Seat 5: jjwtay ($25.80 in chips) 
+Seat 6: Alameda22 ($27.20 in chips) 
+Seat 7: M0RE=C0WBELL ($25 in chips) 
+Seat 8: stephanapy ($41.75 in chips) 
+Seat 9: phrogman123 ($22.80 in chips) 
+M0RE=C0WBELL: posts small blind $0.10
+stephanapy: posts big blind $0.25
+hmk-4: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 8c]
+phrogman123: folds 
+Yenohammer: calls $0.25
+weakmeat: folds 
+crusader1006: folds 
+jjwtay: raises $1 to $1.25
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+stephanapy: folds 
+Yenohammer: folds 
+Uncalled bet ($1) returned to jjwtay
+jjwtay collected $0.85 from pot
+jjwtay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 2: Yenohammer folded before Flop
+Seat 3: weakmeat folded before Flop (didn't bet)
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: jjwtay collected ($0.85)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL (small blind) folded before Flop
+Seat 8: stephanapy (big blind) folded before Flop
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951267630:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:40:38 (ET)
+Table 'Koon II' 9-max Seat #7 is the button
+Seat 2: Yenohammer ($10 in chips) 
+Seat 3: weakmeat ($4.65 in chips) 
+Seat 4: crusader1006 ($25.15 in chips) 
+Seat 5: jjwtay ($26.40 in chips) 
+Seat 6: Alameda22 ($27.20 in chips) 
+Seat 7: M0RE=C0WBELL ($24.90 in chips) 
+Seat 8: stephanapy ($41.50 in chips) 
+Seat 9: phrogman123 ($22.80 in chips) 
+stephanapy: posts small blind $0.10
+phrogman123: posts big blind $0.25
+hmk-4: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 5s]
+Yenohammer: raises $0.25 to $0.50
+weakmeat: raises $4.15 to $4.65 and is all-in
+crusader1006: folds 
+jjwtay: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+stephanapy: folds 
+phrogman123: calls $4.40
+Yenohammer: folds 
+*** FLOP *** [Tc 5h Ks]
+*** TURN *** [Tc 5h Ks] [Qc]
+*** RIVER *** [Tc 5h Ks Qc] [Qd]
+*** SHOW DOWN ***
+phrogman123: shows [Ac Kc] (two pair, Kings and Queens)
+weakmeat: mucks hand 
+phrogman123 collected $9.45 from pot
+*** SUMMARY ***
+Total pot $9.90 | Rake $0.45 
+Board [Tc 5h Ks Qc Qd]
+Seat 2: Yenohammer folded before Flop
+Seat 3: weakmeat mucked [7d 7c]
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: jjwtay folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL (button) folded before Flop (didn't bet)
+Seat 8: stephanapy (small blind) folded before Flop
+Seat 9: phrogman123 (big blind) showed [Ac Kc] and won ($9.45) with two pair, Kings and Queens
+
+
+
+PokerStars Game #19951292065:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:41:40 (ET)
+Table 'Koon II' 9-max Seat #8 is the button
+Seat 1: hmk-4 ($25 in chips) 
+Seat 2: Yenohammer ($9.50 in chips) 
+Seat 4: crusader1006 ($25.15 in chips) 
+Seat 5: jjwtay ($26.40 in chips) 
+Seat 6: Alameda22 ($27.20 in chips) 
+Seat 7: M0RE=C0WBELL ($24.90 in chips) 
+Seat 8: stephanapy ($41.40 in chips) 
+Seat 9: phrogman123 ($27.60 in chips) 
+weakmeat leaves the table
+phrogman123: posts small blind $0.10
+hmk-4: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 5c]
+Yenohammer: raises $0.25 to $0.50
+crusader1006: folds 
+jjwtay: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+stephanapy: folds 
+wezvidzz joins the table at seat #3 
+phrogman123: folds 
+hmk-4: folds 
+Uncalled bet ($0.25) returned to Yenohammer
+Yenohammer collected $0.60 from pot
+Yenohammer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: hmk-4 (big blind) folded before Flop
+Seat 2: Yenohammer collected ($0.60)
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: jjwtay folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 8: stephanapy (button) folded before Flop (didn't bet)
+Seat 9: phrogman123 (small blind) folded before Flop
+
+
+
+PokerStars Game #19951303522:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:42:10 (ET)
+Table 'Koon II' 9-max Seat #9 is the button
+Seat 1: hmk-4 ($24.75 in chips) 
+Seat 2: Yenohammer ($9.85 in chips) 
+Seat 4: crusader1006 ($25.15 in chips) 
+Seat 5: jjwtay ($26.40 in chips) 
+Seat 6: Alameda22 ($27.20 in chips) 
+Seat 7: M0RE=C0WBELL ($24.90 in chips) 
+Seat 8: stephanapy ($41.40 in chips) 
+Seat 9: phrogman123 ($27.50 in chips) 
+hmk-4: posts small blind $0.10
+Yenohammer: posts big blind $0.25
+wezvidzz: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 6d]
+crusader1006: folds 
+jjwtay: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+stephanapy: folds 
+stephanapy leaves the table
+phrogman123: calls $0.25
+hmk-4: folds 
+Yenohammer: checks 
+*** FLOP *** [2d Jd 4c]
+Yenohammer: checks 
+phrogman123: checks 
+*** TURN *** [2d Jd 4c] [2c]
+Yenohammer: checks 
+phrogman123: checks 
+*** RIVER *** [2d Jd 4c 2c] [Kc]
+Yenohammer: checks 
+jjwtay is disconnected 
+phrogman123: checks 
+*** SHOW DOWN ***
+Yenohammer: shows [6h 8d] (a pair of Deuces)
+phrogman123: shows [7s As] (a pair of Deuces - Ace kicker)
+phrogman123 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [2d Jd 4c 2c Kc]
+Seat 1: hmk-4 (small blind) folded before Flop
+Seat 2: Yenohammer (big blind) showed [6h 8d] and lost with a pair of Deuces
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: jjwtay folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 8: stephanapy folded before Flop (didn't bet)
+Seat 9: phrogman123 (button) showed [7s As] and won ($0.60) with a pair of Deuces
+
+
+
+PokerStars Game #19951326705:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:43:10 (ET)
+Table 'Koon II' 9-max Seat #1 is the button
+Seat 1: hmk-4 ($24.65 in chips) 
+Seat 2: Yenohammer ($9.60 in chips) 
+Seat 3: wezvidzz ($12 in chips) 
+Seat 4: crusader1006 ($25.15 in chips) 
+Seat 5: jjwtay ($26.40 in chips) 
+Seat 6: Alameda22 ($27.20 in chips) 
+Seat 7: M0RE=C0WBELL ($24.90 in chips) 
+Seat 9: phrogman123 ($27.85 in chips) 
+Yenohammer: posts small blind $0.10
+wezvidzz: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 9s]
+crusader1006: calls $0.25
+jjwtay has timed out while disconnected
+jjwtay: folds 
+jjwtay is sitting out
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+phrogman123: folds 
+hmk-4: folds 
+Yenohammer: raises $0.25 to $0.50
+wezvidzz: folds 
+crusader1006: calls $0.25
+*** FLOP *** [8h Ah Kd]
+Yenohammer: bets $0.25
+crusader1006: raises $0.75 to $1
+Yenohammer: calls $0.75
+*** TURN *** [8h Ah Kd] [Jc]
+Yenohammer: checks 
+jjwtay is connected 
+crusader1006: bets $1.25
+jjwtay has returned
+Yenohammer: calls $1.25
+*** RIVER *** [8h Ah Kd Jc] [Qd]
+Yenohammer: bets $2
+crusader1006 said, "you hit something there?"
+crusader1006: calls $2
+*** SHOW DOWN ***
+Yenohammer: shows [Ad Js] (two pair, Aces and Jacks)
+crusader1006: mucks hand 
+Yenohammer collected $9.30 from pot
+*** SUMMARY ***
+Total pot $9.75 | Rake $0.45 
+Board [8h Ah Kd Jc Qd]
+Seat 1: hmk-4 (button) folded before Flop (didn't bet)
+Seat 2: Yenohammer (small blind) showed [Ad Js] and won ($9.30) with two pair, Aces and Jacks
+Seat 3: wezvidzz (big blind) folded before Flop
+Seat 4: crusader1006 mucked [Ac 8c]
+Seat 5: jjwtay folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951385717:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:45:42 (ET)
+Table 'Koon II' 9-max Seat #2 is the button
+Seat 1: hmk-4 ($24.65 in chips) 
+Seat 2: Yenohammer ($14.15 in chips) 
+Seat 3: wezvidzz ($11.75 in chips) 
+Seat 4: crusader1006 ($20.40 in chips) 
+Seat 5: jjwtay ($26.40 in chips) 
+Seat 6: Alameda22 ($27.20 in chips) 
+Seat 7: M0RE=C0WBELL ($24.90 in chips) 
+Seat 9: phrogman123 ($27.85 in chips) 
+wezvidzz: posts small blind $0.10
+crusader1006: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 2c]
+jjwtay: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+phrogman123: calls $0.25
+hmk-4: folds 
+Yenohammer: calls $0.25
+wezvidzz: folds 
+crusader1006: checks 
+*** FLOP *** [Tc Qd 8s]
+crusader1006: checks 
+phrogman123: checks 
+Yenohammer: checks 
+*** TURN *** [Tc Qd 8s] [6s]
+crusader1006: checks 
+phrogman123: checks 
+Yenohammer: checks 
+*** RIVER *** [Tc Qd 8s 6s] [9c]
+crusader1006: checks 
+phrogman123: bets $0.75
+Yenohammer: folds 
+crusader1006: folds 
+Uncalled bet ($0.75) returned to phrogman123
+phrogman123 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Tc Qd 8s 6s 9c]
+Seat 1: hmk-4 folded before Flop (didn't bet)
+Seat 2: Yenohammer (button) folded on the River
+Seat 3: wezvidzz (small blind) folded before Flop
+Seat 4: crusader1006 (big blind) folded on the River
+Seat 5: jjwtay folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 9: phrogman123 collected ($0.85)
+
+
+
+PokerStars Game #19951413465:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:46:53 (ET)
+Table 'Koon II' 9-max Seat #3 is the button
+Seat 1: hmk-4 ($24.65 in chips) 
+Seat 2: Yenohammer ($13.90 in chips) 
+Seat 3: wezvidzz ($11.65 in chips) 
+Seat 4: crusader1006 ($20.15 in chips) 
+Seat 5: jjwtay ($26.40 in chips) 
+Seat 6: Alameda22 ($27.20 in chips) 
+Seat 7: M0RE=C0WBELL ($24.90 in chips) 
+Seat 9: phrogman123 ($28.45 in chips) 
+crusader1006: posts small blind $0.10
+jjwtay: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Qh]
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+phrogman123: folds 
+hmk-4: folds 
+Yenohammer: calls $0.25
+wezvidzz: folds 
+crusader1006: folds 
+jjwtay: checks 
+*** FLOP *** [Qs Td 9h]
+jjwtay: checks 
+Yenohammer: checks 
+*** TURN *** [Qs Td 9h] [Kd]
+jjwtay: bets $0.50
+Yenohammer: folds 
+Uncalled bet ($0.50) returned to jjwtay
+jjwtay collected $0.60 from pot
+jjwtay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qs Td 9h Kd]
+Seat 1: hmk-4 folded before Flop (didn't bet)
+Seat 2: Yenohammer folded on the Turn
+Seat 3: wezvidzz (button) folded before Flop (didn't bet)
+Seat 4: crusader1006 (small blind) folded before Flop
+Seat 5: jjwtay (big blind) collected ($0.60)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951436204:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:47:52 (ET)
+Table 'Koon II' 9-max Seat #4 is the button
+Seat 1: hmk-4 ($24.65 in chips) 
+Seat 2: Yenohammer ($13.65 in chips) 
+Seat 3: wezvidzz ($11.65 in chips) 
+Seat 4: crusader1006 ($20.05 in chips) 
+Seat 5: jjwtay ($26.75 in chips) 
+Seat 6: Alameda22 ($27.20 in chips) 
+Seat 7: M0RE=C0WBELL ($24.90 in chips) 
+Seat 9: phrogman123 ($28.45 in chips) 
+jjwtay: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 2d]
+M0RE=C0WBELL: raises $0.50 to $0.75
+phrogman123: folds 
+hmk-4: folds 
+Yenohammer: folds 
+wezvidzz: folds 
+crusader1006: folds 
+jjwtay: calls $0.65
+Alameda22: calls $0.50
+*** FLOP *** [5c 4h Js]
+jjwtay: bets $1.25
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+Uncalled bet ($1.25) returned to jjwtay
+jjwtay collected $2.15 from pot
+jjwtay: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [5c 4h Js]
+Seat 1: hmk-4 folded before Flop (didn't bet)
+Seat 2: Yenohammer folded before Flop (didn't bet)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: crusader1006 (button) folded before Flop (didn't bet)
+Seat 5: jjwtay (small blind) collected ($2.15)
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: M0RE=C0WBELL folded on the Flop
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951460231:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:48:53 (ET)
+Table 'Koon II' 9-max Seat #5 is the button
+Seat 1: hmk-4 ($24.65 in chips) 
+Seat 2: Yenohammer ($13.65 in chips) 
+Seat 3: wezvidzz ($11.65 in chips) 
+Seat 4: crusader1006 ($20.05 in chips) 
+Seat 5: jjwtay ($28.15 in chips) 
+Seat 6: Alameda22 ($26.45 in chips) 
+Seat 7: M0RE=C0WBELL ($24.15 in chips) 
+Seat 9: phrogman123 ($28.45 in chips) 
+Alameda22: posts small blind $0.10
+M0RE=C0WBELL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Jc]
+slashbait joins the table at seat #8 
+phrogman123: folds 
+hmk-4: raises $0.75 to $1
+Yenohammer: folds 
+wezvidzz: folds 
+crusader1006: folds 
+jjwtay: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+Uncalled bet ($0.75) returned to hmk-4
+hmk-4 collected $0.60 from pot
+hmk-4: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: hmk-4 collected ($0.60)
+Seat 2: Yenohammer folded before Flop (didn't bet)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: jjwtay (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: M0RE=C0WBELL (big blind) folded before Flop
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951470981:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:49:21 (ET)
+Table 'Koon II' 9-max Seat #6 is the button
+Seat 1: hmk-4 ($25 in chips) 
+Seat 2: Yenohammer ($13.65 in chips) 
+Seat 3: wezvidzz ($11.65 in chips) 
+Seat 4: crusader1006 ($20.05 in chips) 
+Seat 5: jjwtay ($28.15 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 7: M0RE=C0WBELL ($23.90 in chips) 
+Seat 8: slashbait ($15 in chips) 
+Seat 9: phrogman123 ($28.45 in chips) 
+M0RE=C0WBELL: posts small blind $0.10
+slashbait: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 4h]
+phrogman123: folds 
+hmk-4: folds 
+Yenohammer: folds 
+wezvidzz: folds 
+crusader1006: folds 
+jjwtay: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+Uncalled bet ($0.15) returned to slashbait
+slashbait collected $0.20 from pot
+slashbait: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: hmk-4 folded before Flop (didn't bet)
+Seat 2: Yenohammer folded before Flop (didn't bet)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: jjwtay folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL (small blind) folded before Flop
+Seat 8: slashbait (big blind) collected ($0.20)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951486380:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:50:01 (ET)
+Table 'Koon II' 9-max Seat #7 is the button
+Seat 1: hmk-4 ($25 in chips) 
+Seat 2: Yenohammer ($13.65 in chips) 
+Seat 3: wezvidzz ($11.65 in chips) 
+Seat 4: crusader1006 ($20.05 in chips) 
+Seat 5: jjwtay ($28.15 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 7: M0RE=C0WBELL ($23.80 in chips) 
+Seat 8: slashbait ($15.10 in chips) 
+Seat 9: phrogman123 ($28.45 in chips) 
+slashbait: posts small blind $0.10
+phrogman123: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Jc]
+hmk-4: folds 
+Yenohammer: calls $0.25
+wezvidzz: folds 
+crusader1006: folds 
+jjwtay: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+slashbait: folds 
+phrogman123: checks 
+*** FLOP *** [5s 4h Qh]
+phrogman123: checks 
+Yenohammer: bets $0.25
+phrogman123: folds 
+Uncalled bet ($0.25) returned to Yenohammer
+Yenohammer collected $0.60 from pot
+Yenohammer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [5s 4h Qh]
+Seat 1: hmk-4 folded before Flop (didn't bet)
+Seat 2: Yenohammer collected ($0.60)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: jjwtay folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL (button) folded before Flop (didn't bet)
+Seat 8: slashbait (small blind) folded before Flop
+Seat 9: phrogman123 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19951502074:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:50:41 (ET)
+Table 'Koon II' 9-max Seat #8 is the button
+Seat 1: hmk-4 ($25 in chips) 
+Seat 2: Yenohammer ($14 in chips) 
+Seat 3: wezvidzz ($11.65 in chips) 
+Seat 4: crusader1006 ($20.05 in chips) 
+Seat 5: jjwtay ($28.15 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 7: M0RE=C0WBELL ($23.80 in chips) 
+Seat 8: slashbait ($15 in chips) 
+Seat 9: phrogman123 ($28.20 in chips) 
+phrogman123: posts small blind $0.10
+hmk-4: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Js]
+Yenohammer: raises $0.25 to $0.50
+wezvidzz: folds 
+crusader1006: folds 
+jjwtay: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+slashbait: folds 
+phrogman123: folds 
+hmk-4: calls $0.25
+*** FLOP *** [8c 3h 7h]
+hmk-4: checks 
+Yenohammer: bets $1
+hmk-4: raises $2.50 to $3.50
+Yenohammer: folds 
+Uncalled bet ($2.50) returned to hmk-4
+hmk-4 collected $2.95 from pot
+hmk-4: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [8c 3h 7h]
+Seat 1: hmk-4 (big blind) collected ($2.95)
+Seat 2: Yenohammer folded on the Flop
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: jjwtay folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 8: slashbait (button) folded before Flop (didn't bet)
+Seat 9: phrogman123 (small blind) folded before Flop
+
+
+
+PokerStars Game #19951530539:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:51:55 (ET)
+Table 'Koon II' 9-max Seat #9 is the button
+Seat 1: hmk-4 ($26.45 in chips) 
+Seat 2: Yenohammer ($12.50 in chips) 
+Seat 3: wezvidzz ($11.65 in chips) 
+Seat 4: crusader1006 ($20.05 in chips) 
+Seat 5: jjwtay ($28.15 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 7: M0RE=C0WBELL ($23.80 in chips) 
+Seat 8: slashbait ($15 in chips) 
+Seat 9: phrogman123 ($28.10 in chips) 
+hmk-4: posts small blind $0.10
+Yenohammer: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Jd]
+wezvidzz: folds 
+crusader1006: calls $0.25
+jjwtay: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+slashbait: folds 
+phrogman123: folds 
+hmk-4: folds 
+Yenohammer: raises $1 to $1.25
+crusader1006: calls $1
+*** FLOP *** [8c Kh 6c]
+Yenohammer: bets $1.25
+crusader1006: folds 
+Uncalled bet ($1.25) returned to Yenohammer
+Yenohammer collected $2.50 from pot
+Yenohammer: shows [Td Th] (a pair of Tens)
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [8c Kh 6c]
+Seat 1: hmk-4 (small blind) folded before Flop
+Seat 2: Yenohammer (big blind) collected ($2.50)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: crusader1006 folded on the Flop
+Seat 5: jjwtay folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 8: slashbait folded before Flop (didn't bet)
+Seat 9: phrogman123 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951554567:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:52:57 (ET)
+Table 'Koon II' 9-max Seat #1 is the button
+Seat 1: hmk-4 ($26.35 in chips) 
+Seat 2: Yenohammer ($13.75 in chips) 
+Seat 3: wezvidzz ($11.65 in chips) 
+Seat 4: crusader1006 ($18.80 in chips) 
+Seat 5: jjwtay ($28.15 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 7: M0RE=C0WBELL ($23.80 in chips) 
+Seat 8: slashbait ($15 in chips) 
+Seat 9: phrogman123 ($28.10 in chips) 
+Yenohammer: posts small blind $0.10
+wezvidzz: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Th]
+crusader1006: folds 
+jjwtay: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+slashbait: folds 
+phrogman123: folds 
+hmk-4: folds 
+Yenohammer: calls $0.15
+wezvidzz: checks 
+*** FLOP *** [6s Jd 9c]
+Yenohammer: bets $0.25
+wezvidzz: folds 
+Uncalled bet ($0.25) returned to Yenohammer
+Yenohammer collected $0.50 from pot
+Yenohammer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [6s Jd 9c]
+Seat 1: hmk-4 (button) folded before Flop (didn't bet)
+Seat 2: Yenohammer (small blind) collected ($0.50)
+Seat 3: wezvidzz (big blind) folded on the Flop
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: jjwtay folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 8: slashbait folded before Flop (didn't bet)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951568026:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:53:32 (ET)
+Table 'Koon II' 9-max Seat #2 is the button
+Seat 1: hmk-4 ($26.35 in chips) 
+Seat 2: Yenohammer ($14 in chips) 
+Seat 3: wezvidzz ($11.40 in chips) 
+Seat 4: crusader1006 ($18.80 in chips) 
+Seat 5: jjwtay ($28.15 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 7: M0RE=C0WBELL ($23.80 in chips) 
+Seat 8: slashbait ($15 in chips) 
+Seat 9: phrogman123 ($28.10 in chips) 
+wezvidzz: posts small blind $0.10
+crusader1006: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 3s]
+jjwtay: folds 
+Alameda22: folds 
+M0RE=C0WBELL: raises $0.50 to $0.75
+slashbait: folds 
+phrogman123: folds 
+hmk-4: folds 
+Yenohammer: calls $0.75
+wezvidzz: folds 
+crusader1006: folds 
+*** FLOP *** [2c 8c 3d]
+M0RE=C0WBELL: checks 
+Yenohammer: checks 
+*** TURN *** [2c 8c 3d] [7s]
+M0RE=C0WBELL: checks 
+Yenohammer: bets $0.50
+M0RE=C0WBELL: folds 
+Uncalled bet ($0.50) returned to Yenohammer
+Yenohammer collected $1.80 from pot
+Yenohammer: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [2c 8c 3d 7s]
+Seat 1: hmk-4 folded before Flop (didn't bet)
+Seat 2: Yenohammer (button) collected ($1.80)
+Seat 3: wezvidzz (small blind) folded before Flop
+Seat 4: crusader1006 (big blind) folded before Flop
+Seat 5: jjwtay folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL folded on the Turn
+Seat 8: slashbait folded before Flop (didn't bet)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951593085:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:54:37 (ET)
+Table 'Koon II' 9-max Seat #3 is the button
+Seat 1: hmk-4 ($26.35 in chips) 
+Seat 2: Yenohammer ($15.05 in chips) 
+Seat 3: wezvidzz ($11.30 in chips) 
+Seat 4: crusader1006 ($18.55 in chips) 
+Seat 5: jjwtay ($28.15 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 7: M0RE=C0WBELL ($23.05 in chips) 
+Seat 8: slashbait ($15 in chips) 
+Seat 9: phrogman123 ($28.10 in chips) 
+crusader1006: posts small blind $0.10
+jjwtay: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Tc]
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+slashbait: folds 
+phrogman123: folds 
+M0RE=C0WBELL leaves the table
+hmk-4: folds 
+Yenohammer: folds 
+wezvidzz: folds 
+crusader1006: calls $0.15
+jjwtay: checks 
+*** FLOP *** [9c 6c Ad]
+crusader1006: checks 
+jjwtay: checks 
+*** TURN *** [9c 6c Ad] [5d]
+crusader1006: checks 
+MaNLaF joins the table at seat #7 
+jjwtay: checks 
+*** RIVER *** [9c 6c Ad 5d] [5s]
+crusader1006: checks 
+jjwtay: checks 
+*** SHOW DOWN ***
+crusader1006: shows [Js 7h] (a pair of Fives)
+jjwtay: mucks hand 
+crusader1006 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [9c 6c Ad 5d 5s]
+Seat 1: hmk-4 folded before Flop (didn't bet)
+Seat 2: Yenohammer folded before Flop (didn't bet)
+Seat 3: wezvidzz (button) folded before Flop (didn't bet)
+Seat 4: crusader1006 (small blind) showed [Js 7h] and won ($0.50) with a pair of Fives
+Seat 5: jjwtay (big blind) mucked [3h 2c]
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 8: slashbait folded before Flop (didn't bet)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951620999:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:55:50 (ET)
+Table 'Koon II' 9-max Seat #4 is the button
+Seat 1: hmk-4 ($26.35 in chips) 
+Seat 2: Yenohammer ($15.05 in chips) 
+Seat 3: wezvidzz ($11.30 in chips) 
+Seat 4: crusader1006 ($18.80 in chips) 
+Seat 5: jjwtay ($27.90 in chips) 
+Seat 6: Alameda22 ($26.35 in chips) 
+Seat 7: MaNLaF ($25 in chips) 
+Seat 8: slashbait ($15 in chips) 
+Seat 9: phrogman123 ($28.10 in chips) 
+jjwtay: posts small blind $0.10
+Alameda22: posts big blind $0.25
+MaNLaF: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 7d]
+MaNLaF: checks 
+slashbait: calls $0.25
+phrogman123: folds 
+hmk-4: folds 
+Yenohammer: folds 
+wezvidzz: folds 
+crusader1006: folds 
+jjwtay: calls $0.15
+Alameda22: checks 
+*** FLOP *** [8c As Th]
+jjwtay: checks 
+Alameda22: checks 
+MaNLaF: checks 
+slashbait: bets $1
+jjwtay: folds 
+jjwtay is sitting out
+Alameda22: folds 
+jjwtay leaves the table
+MaNLaF: folds 
+Uncalled bet ($1) returned to slashbait
+slashbait collected $0.95 from pot
+slashbait: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [8c As Th]
+Seat 1: hmk-4 folded before Flop (didn't bet)
+Seat 2: Yenohammer folded before Flop (didn't bet)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: crusader1006 (button) folded before Flop (didn't bet)
+Seat 5: jjwtay (small blind) folded on the Flop
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: MaNLaF folded on the Flop
+Seat 8: slashbait collected ($0.95)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951648114:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:57:01 (ET)
+Table 'Koon II' 9-max Seat #6 is the button
+Seat 1: hmk-4 ($26.35 in chips) 
+Seat 2: Yenohammer ($15.05 in chips) 
+Seat 3: wezvidzz ($11.30 in chips) 
+Seat 4: crusader1006 ($18.80 in chips) 
+Seat 6: Alameda22 ($26.10 in chips) 
+Seat 7: MaNLaF ($24.75 in chips) 
+Seat 8: slashbait ($15.70 in chips) 
+Seat 9: phrogman123 ($28.10 in chips) 
+MaNLaF: posts small blind $0.10
+slashbait: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Ad]
+phrogman123: folds 
+hmk-4: raises $0.75 to $1
+Yenohammer: folds 
+wezvidzz: folds 
+crusader1006: calls $1
+Alameda22: folds 
+MaNLaF: folds 
+slashbait: folds 
+*** FLOP *** [Tc Qc Qd]
+hmk-4: checks 
+crusader1006: bets $2
+hmk-4: calls $2
+*** TURN *** [Tc Qc Qd] [Jd]
+hmk-4: bets $4
+crusader1006: folds 
+Uncalled bet ($4) returned to hmk-4
+hmk-4 collected $6.05 from pot
+hmk-4: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.30 
+Board [Tc Qc Qd Jd]
+Seat 1: hmk-4 collected ($6.05)
+Seat 2: Yenohammer folded before Flop (didn't bet)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: crusader1006 folded on the Turn
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: MaNLaF (small blind) folded before Flop
+Seat 8: slashbait (big blind) folded before Flop
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951673003:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:58:07 (ET)
+Table 'Koon II' 9-max Seat #7 is the button
+Seat 1: hmk-4 ($29.40 in chips) 
+Seat 2: Yenohammer ($15.05 in chips) 
+Seat 3: wezvidzz ($11.30 in chips) 
+Seat 4: crusader1006 ($15.80 in chips) 
+Seat 6: Alameda22 ($26.10 in chips) 
+Seat 7: MaNLaF ($24.65 in chips) 
+Seat 8: slashbait ($15.45 in chips) 
+Seat 9: phrogman123 ($28.10 in chips) 
+slashbait: posts small blind $0.10
+phrogman123: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Qc]
+hmk-4: folds 
+Yenohammer: calls $0.25
+wezvidzz: folds 
+crusader1006: folds 
+Alameda22: folds 
+MaNLaF: folds 
+slashbait: folds 
+phrogman123: checks 
+*** FLOP *** [3h Ks 8d]
+phrogman123: checks 
+Yenohammer: checks 
+*** TURN *** [3h Ks 8d] [6s]
+phrogman123: checks 
+Yenohammer: bets $0.25
+phrogman123: folds 
+Uncalled bet ($0.25) returned to Yenohammer
+Yenohammer collected $0.60 from pot
+Yenohammer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3h Ks 8d 6s]
+Seat 1: hmk-4 folded before Flop (didn't bet)
+Seat 2: Yenohammer collected ($0.60)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: MaNLaF (button) folded before Flop (didn't bet)
+Seat 8: slashbait (small blind) folded before Flop
+Seat 9: phrogman123 (big blind) folded on the Turn
+
+
+
+PokerStars Game #19951691672:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:58:56 (ET)
+Table 'Koon II' 9-max Seat #8 is the button
+Seat 1: hmk-4 ($29.40 in chips) 
+Seat 2: Yenohammer ($15.40 in chips) 
+Seat 3: wezvidzz ($11.30 in chips) 
+Seat 4: crusader1006 ($15.80 in chips) 
+Seat 6: Alameda22 ($26.10 in chips) 
+Seat 7: MaNLaF ($24.65 in chips) 
+Seat 8: slashbait ($15.35 in chips) 
+Seat 9: phrogman123 ($27.85 in chips) 
+phrogman123: posts small blind $0.10
+hmk-4: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 2h]
+Yenohammer: calls $0.25
+wezvidzz: calls $0.25
+crusader1006: folds 
+Alameda22: folds 
+MaNLaF: folds 
+slashbait: folds 
+phrogman123: calls $0.15
+hmk-4: checks 
+*** FLOP *** [Ah 8d 3h]
+phrogman123: checks 
+Dmun joins the table at seat #5 
+hmk-4: checks 
+Yenohammer: checks 
+wezvidzz: checks 
+*** TURN *** [Ah 8d 3h] [Qh]
+phrogman123: checks 
+hmk-4: checks 
+Yenohammer: checks 
+wezvidzz: checks 
+*** RIVER *** [Ah 8d 3h Qh] [8c]
+phrogman123: checks 
+hmk-4: checks 
+Yenohammer: bets $1.25
+wezvidzz: folds 
+phrogman123: folds 
+hmk-4: folds 
+Uncalled bet ($1.25) returned to Yenohammer
+Yenohammer collected $0.95 from pot
+Yenohammer: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Ah 8d 3h Qh 8c]
+Seat 1: hmk-4 (big blind) folded on the River
+Seat 2: Yenohammer collected ($0.95)
+Seat 3: wezvidzz folded on the River
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: MaNLaF folded before Flop (didn't bet)
+Seat 8: slashbait (button) folded before Flop (didn't bet)
+Seat 9: phrogman123 (small blind) folded on the River
+
+
+
+PokerStars Game #19951734726:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:00:48 (ET)
+Table 'Koon II' 9-max Seat #9 is the button
+Seat 1: hmk-4 ($29.15 in chips) 
+Seat 2: Yenohammer ($16.10 in chips) 
+Seat 3: wezvidzz ($11.05 in chips) 
+Seat 4: crusader1006 ($15.80 in chips) 
+Seat 6: Alameda22 ($26.10 in chips) 
+Seat 7: MaNLaF ($24.65 in chips) 
+Seat 8: slashbait ($15.35 in chips) 
+Seat 9: phrogman123 ($27.60 in chips) 
+hmk-4: posts small blind $0.10
+Yenohammer: posts big blind $0.25
+Dmun: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 4c]
+wezvidzz: folds 
+crusader1006: folds 
+Alameda22: folds 
+MaNLaF: calls $0.25
+slashbait: folds 
+phrogman123: folds 
+hmk-4: folds 
+Yenohammer: checks 
+*** FLOP *** [Th 7c 5h]
+Yenohammer: checks 
+MaNLaF: checks 
+*** TURN *** [Th 7c 5h] [2c]
+Yenohammer: checks 
+MaNLaF: bets $0.50
+slashbait leaves the table
+Yenohammer: calls $0.50
+*** RIVER *** [Th 7c 5h 2c] [Qs]
+Yenohammer: checks 
+MaNLaF: checks 
+*** SHOW DOWN ***
+Yenohammer: shows [8d 9s] (high card Queen)
+MaNLaF: shows [Jh 7h] (a pair of Sevens)
+MaNLaF collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Th 7c 5h 2c Qs]
+Seat 1: hmk-4 (small blind) folded before Flop
+Seat 2: Yenohammer (big blind) showed [8d 9s] and lost with high card Queen
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: MaNLaF showed [Jh 7h] and won ($1.55) with a pair of Sevens
+Seat 8: slashbait folded before Flop (didn't bet)
+Seat 9: phrogman123 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951756893:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:01:46 (ET)
+Table 'Koon II' 9-max Seat #1 is the button
+Seat 1: hmk-4 ($29.05 in chips) 
+Seat 2: Yenohammer ($15.35 in chips) 
+Seat 3: wezvidzz ($11.05 in chips) 
+Seat 4: crusader1006 ($15.80 in chips) 
+Seat 6: Alameda22 ($26.10 in chips) 
+Seat 7: MaNLaF ($25.45 in chips) 
+Seat 9: phrogman123 ($27.60 in chips) 
+Yenohammer: posts small blind $0.10
+wezvidzz: posts big blind $0.25
+Dmun: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 7s]
+crusader1006: folds 
+Alameda22: folds 
+MaNLaF: folds 
+phrogman123: folds 
+hmk-4: folds 
+Yenohammer: calls $0.15
+wezvidzz: checks 
+*** FLOP *** [5h 8c Kc]
+Yenohammer: bets $0.25
+wezvidzz: folds 
+Uncalled bet ($0.25) returned to Yenohammer
+Yenohammer collected $0.50 from pot
+Yenohammer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [5h 8c Kc]
+Seat 1: hmk-4 (button) folded before Flop (didn't bet)
+Seat 2: Yenohammer (small blind) collected ($0.50)
+Seat 3: wezvidzz (big blind) folded on the Flop
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: MaNLaF folded before Flop (didn't bet)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951770499:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:02:22 (ET)
+Table 'Koon II' 9-max Seat #2 is the button
+Seat 1: hmk-4 ($29.05 in chips) 
+Seat 2: Yenohammer ($15.60 in chips) 
+Seat 3: wezvidzz ($10.80 in chips) 
+Seat 4: crusader1006 ($15.80 in chips) 
+Seat 6: Alameda22 ($26.10 in chips) 
+Seat 7: MaNLaF ($25.45 in chips) 
+Seat 9: phrogman123 ($27.60 in chips) 
+wezvidzz: posts small blind $0.10
+crusader1006: posts big blind $0.25
+Dmun: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 6d]
+Alameda22: folds 
+ItsOnTheTurn joins the table at seat #8 
+MaNLaF: folds 
+phrogman123: folds 
+hmk-4: folds 
+Yenohammer: folds 
+wezvidzz: folds 
+Uncalled bet ($0.15) returned to crusader1006
+crusader1006 collected $0.20 from pot
+crusader1006: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: hmk-4 folded before Flop (didn't bet)
+Seat 2: Yenohammer (button) folded before Flop (didn't bet)
+Seat 3: wezvidzz (small blind) folded before Flop
+Seat 4: crusader1006 (big blind) collected ($0.20)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: MaNLaF folded before Flop (didn't bet)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951782207:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:02:53 (ET)
+Table 'Koon II' 9-max Seat #3 is the button
+Seat 1: hmk-4 ($29.05 in chips) 
+Seat 2: Yenohammer ($15.60 in chips) 
+Seat 3: wezvidzz ($10.70 in chips) 
+Seat 4: crusader1006 ($15.90 in chips) 
+Seat 5: Dmun ($25 in chips) 
+Seat 6: Alameda22 ($26.10 in chips) 
+Seat 7: MaNLaF ($25.45 in chips) 
+Seat 9: phrogman123 ($27.60 in chips) 
+crusader1006: posts small blind $0.10
+Dmun: posts big blind $0.25
+ItsOnTheTurn: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Kc]
+Alameda22: folds 
+MaNLaF: folds 
+phrogman123: folds 
+hmk-4: folds 
+Yenohammer: folds 
+wezvidzz: folds 
+crusader1006: calls $0.15
+Dmun: checks 
+*** FLOP *** [5c Ks 7h]
+crusader1006: checks 
+Dmun: bets $0.80
+crusader1006: folds 
+Uncalled bet ($0.80) returned to Dmun
+Dmun collected $0.50 from pot
+Dmun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [5c Ks 7h]
+Seat 1: hmk-4 folded before Flop (didn't bet)
+Seat 2: Yenohammer folded before Flop (didn't bet)
+Seat 3: wezvidzz (button) folded before Flop (didn't bet)
+Seat 4: crusader1006 (small blind) folded on the Flop
+Seat 5: Dmun (big blind) collected ($0.50)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: MaNLaF folded before Flop (didn't bet)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951802074:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:03:46 (ET)
+Table 'Koon II' 9-max Seat #4 is the button
+Seat 1: hmk-4 ($29.05 in chips) 
+Seat 2: Yenohammer ($15.60 in chips) 
+Seat 3: wezvidzz ($10.70 in chips) 
+Seat 4: crusader1006 ($15.65 in chips) 
+Seat 5: Dmun ($25.25 in chips) 
+Seat 6: Alameda22 ($26.10 in chips) 
+Seat 7: MaNLaF ($25.45 in chips) 
+Seat 9: phrogman123 ($27.60 in chips) 
+Dmun: posts small blind $0.10
+Alameda22: posts big blind $0.25
+ItsOnTheTurn: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 2s]
+MaNLaF: folds 
+phrogman123: folds 
+hmk-4: folds 
+Yenohammer: folds 
+wezvidzz: folds 
+crusader1006: folds 
+Dmun: raises $0.25 to $0.50
+Alameda22: folds 
+Uncalled bet ($0.25) returned to Dmun
+Dmun collected $0.50 from pot
+Dmun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: hmk-4 folded before Flop (didn't bet)
+Seat 2: Yenohammer folded before Flop (didn't bet)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: crusader1006 (button) folded before Flop (didn't bet)
+Seat 5: Dmun (small blind) collected ($0.50)
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: MaNLaF folded before Flop (didn't bet)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951816403:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:04:24 (ET)
+Table 'Koon II' 9-max Seat #5 is the button
+Seat 1: hmk-4 ($29.05 in chips) 
+Seat 2: Yenohammer ($15.60 in chips) 
+Seat 3: wezvidzz ($10.70 in chips) 
+Seat 4: crusader1006 ($15.65 in chips) 
+Seat 5: Dmun ($25.50 in chips) 
+Seat 6: Alameda22 ($25.85 in chips) 
+Seat 7: MaNLaF ($25.45 in chips) 
+Seat 9: phrogman123 ($27.60 in chips) 
+Alameda22: posts small blind $0.10
+MaNLaF: posts big blind $0.25
+ItsOnTheTurn: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Td]
+phrogman123: folds 
+hmk-4: folds 
+Yenohammer: folds 
+wezvidzz: folds 
+crusader1006: folds 
+Dmun: raises $0.25 to $0.50
+Alameda22: folds 
+MaNLaF: folds 
+Uncalled bet ($0.25) returned to Dmun
+Dmun collected $0.60 from pot
+Dmun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: hmk-4 folded before Flop (didn't bet)
+Seat 2: Yenohammer folded before Flop (didn't bet)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: Dmun (button) collected ($0.60)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: MaNLaF (big blind) folded before Flop
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951828139:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:04:55 (ET)
+Table 'Koon II' 9-max Seat #6 is the button
+Seat 1: hmk-4 ($29.05 in chips) 
+Seat 2: Yenohammer ($15.60 in chips) 
+Seat 3: wezvidzz ($10.70 in chips) 
+Seat 4: crusader1006 ($15.65 in chips) 
+Seat 5: Dmun ($25.85 in chips) 
+Seat 6: Alameda22 ($25.75 in chips) 
+Seat 7: MaNLaF ($25.20 in chips) 
+Seat 8: ItsOnTheTurn ($25 in chips) 
+Seat 9: phrogman123 ($27.60 in chips) 
+MaNLaF: posts small blind $0.10
+ItsOnTheTurn: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Ad]
+phrogman123: folds 
+hmk-4: folds 
+Yenohammer: folds 
+wezvidzz: folds 
+crusader1006: calls $0.25
+Dmun: folds 
+Alameda22: folds 
+MaNLaF: calls $0.15
+ItsOnTheTurn: checks 
+*** FLOP *** [Kd Jc Kc]
+MaNLaF: checks 
+ItsOnTheTurn: checks 
+crusader1006: checks 
+*** TURN *** [Kd Jc Kc] [Jd]
+MaNLaF: checks 
+ItsOnTheTurn: checks 
+crusader1006: checks 
+*** RIVER *** [Kd Jc Kc Jd] [4h]
+MaNLaF: checks 
+ItsOnTheTurn: checks 
+crusader1006: checks 
+*** SHOW DOWN ***
+MaNLaF: shows [Qh Tc] (two pair, Kings and Jacks)
+ItsOnTheTurn: mucks hand 
+crusader1006: mucks hand 
+hmk-4 leaves the table
+MaNLaF collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Kd Jc Kc Jd 4h]
+Seat 1: hmk-4 folded before Flop (didn't bet)
+Seat 2: Yenohammer folded before Flop (didn't bet)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: crusader1006 mucked [6d Td]
+Seat 5: Dmun folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: MaNLaF (small blind) showed [Qh Tc] and won ($0.75) with two pair, Kings and Jacks
+Seat 8: ItsOnTheTurn (big blind) mucked [6c 4s]
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951853403:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:06:02 (ET)
+Table 'Koon II' 9-max Seat #7 is the button
+Seat 2: Yenohammer ($15.60 in chips) 
+Seat 3: wezvidzz ($10.70 in chips) 
+Seat 4: crusader1006 ($15.40 in chips) 
+Seat 5: Dmun ($25.85 in chips) 
+Seat 6: Alameda22 ($25.75 in chips) 
+Seat 7: MaNLaF ($25.70 in chips) 
+Seat 8: ItsOnTheTurn ($24.75 in chips) 
+Seat 9: phrogman123 ($27.60 in chips) 
+ItsOnTheTurn: posts small blind $0.10
+phrogman123: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 9s]
+Yenohammer: folds 
+wezvidzz: folds 
+crusader1006: calls $0.25
+Dmun: folds 
+Alameda22: folds 
+MaNLaF: calls $0.25
+ItsOnTheTurn: calls $0.15
+yjqian23 joins the table at seat #1 
+phrogman123: checks 
+*** FLOP *** [3d Jc 7h]
+ItsOnTheTurn: checks 
+phrogman123: checks 
+crusader1006: checks 
+MaNLaF: checks 
+*** TURN *** [3d Jc 7h] [Ac]
+ItsOnTheTurn: checks 
+phrogman123: checks 
+crusader1006: checks 
+MaNLaF: bets $0.50
+ItsOnTheTurn: folds 
+phrogman123: calls $0.50
+crusader1006: folds 
+*** RIVER *** [3d Jc 7h Ac] [8h]
+phrogman123: checks 
+MaNLaF: bets $0.75
+phrogman123: folds 
+Uncalled bet ($0.75) returned to MaNLaF
+MaNLaF collected $1.95 from pot
+MaNLaF: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [3d Jc 7h Ac 8h]
+Seat 2: Yenohammer folded before Flop (didn't bet)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: crusader1006 folded on the Turn
+Seat 5: Dmun folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: MaNLaF (button) collected ($1.95)
+Seat 8: ItsOnTheTurn (small blind) folded on the Turn
+Seat 9: phrogman123 (big blind) folded on the River
+
+
+
+PokerStars Game #19951886493:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:07:30 (ET)
+Table 'Koon II' 9-max Seat #8 is the button
+Seat 1: yjqian23 ($25 in chips) 
+Seat 2: Yenohammer ($15.60 in chips) 
+Seat 3: wezvidzz ($10.70 in chips) 
+Seat 4: crusader1006 ($15.15 in chips) 
+Seat 5: Dmun ($25.85 in chips) 
+Seat 6: Alameda22 ($25.75 in chips) 
+Seat 7: MaNLaF ($26.90 in chips) 
+Seat 8: ItsOnTheTurn ($24.50 in chips) 
+Seat 9: phrogman123 ($26.85 in chips) 
+phrogman123: posts small blind $0.10
+yjqian23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Ad]
+Yenohammer: calls $0.25
+wezvidzz: folds 
+crusader1006: folds 
+Dmun: folds 
+Alameda22: raises $0.75 to $1
+MaNLaF: folds 
+ItsOnTheTurn: folds 
+phrogman123: folds 
+yjqian23: folds 
+Yenohammer: calls $0.75
+*** FLOP *** [2s Ac 8c]
+Yenohammer: bets $1.75
+Alameda22: raises $2.75 to $4.50
+Yenohammer: folds 
+Uncalled bet ($2.75) returned to Alameda22
+Alameda22 collected $5.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.85 | Rake $0.25 
+Board [2s Ac 8c]
+Seat 1: yjqian23 (big blind) folded before Flop
+Seat 2: Yenohammer folded on the Flop
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: Dmun folded before Flop (didn't bet)
+Seat 6: Alameda22 collected ($5.60)
+Seat 7: MaNLaF folded before Flop (didn't bet)
+Seat 8: ItsOnTheTurn (button) folded before Flop (didn't bet)
+Seat 9: phrogman123 (small blind) folded before Flop
+
+
+
+PokerStars Game #19951935713:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:09:40 (ET)
+Table 'Koon II' 9-max Seat #9 is the button
+Seat 1: yjqian23 ($24.75 in chips) 
+Seat 2: Yenohammer ($12.85 in chips) 
+Seat 3: wezvidzz ($10.70 in chips) 
+Seat 4: crusader1006 ($15.15 in chips) 
+Seat 5: Dmun ($25.85 in chips) 
+Seat 6: Alameda22 ($28.60 in chips) 
+Seat 7: MaNLaF ($26.90 in chips) 
+Seat 8: ItsOnTheTurn ($25 in chips) 
+Seat 9: phrogman123 ($26.75 in chips) 
+yjqian23: posts small blind $0.10
+Yenohammer: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 3c]
+wezvidzz: calls $0.25
+crusader1006: folds 
+Dmun: folds 
+Alameda22: folds 
+MaNLaF: folds 
+ItsOnTheTurn: folds 
+phrogman123 is disconnected 
+phrogman123 is connected 
+phrogman123: folds 
+yjqian23: calls $0.15
+Yenohammer: checks 
+*** FLOP *** [8c Kd Ac]
+yjqian23: bets $0.25
+Yenohammer: folds 
+wezvidzz: folds 
+Uncalled bet ($0.25) returned to yjqian23
+yjqian23 collected $0.75 from pot
+yjqian23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [8c Kd Ac]
+Seat 1: yjqian23 (small blind) collected ($0.75)
+Seat 2: Yenohammer (big blind) folded on the Flop
+Seat 3: wezvidzz folded on the Flop
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: Dmun folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: MaNLaF folded before Flop (didn't bet)
+Seat 8: ItsOnTheTurn folded before Flop (didn't bet)
+Seat 9: phrogman123 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951968048:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:11:06 (ET)
+Table 'Koon II' 9-max Seat #1 is the button
+Seat 1: yjqian23 ($25.25 in chips) 
+Seat 2: Yenohammer ($12.60 in chips) 
+Seat 4: crusader1006 ($15.15 in chips) 
+Seat 5: Dmun ($25.85 in chips) 
+Seat 6: Alameda22 ($28.60 in chips) 
+Seat 7: MaNLaF ($26.90 in chips) 
+Seat 8: ItsOnTheTurn ($25 in chips) 
+Seat 9: phrogman123 ($26.75 in chips) 
+Yenohammer: posts small blind $0.10
+wezvidzz: is sitting out 
+wezvidzz leaves the table
+crusader1006: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Qc]
+Dmun: raises $0.25 to $0.50
+Alameda22: folds 
+MaNLaF: calls $0.50
+ItsOnTheTurn: folds 
+phrogman123: folds 
+yjqian23: folds 
+Yenohammer: calls $0.40
+crusader1006: folds 
+*** FLOP *** [Js 3d Jc]
+Yenohammer: checks 
+Dmun: bets $2
+MaNLaF: folds 
+Yenohammer: folds 
+Uncalled bet ($2) returned to Dmun
+Dmun collected $1.70 from pot
+Dmun: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Js 3d Jc]
+Seat 1: yjqian23 (button) folded before Flop (didn't bet)
+Seat 2: Yenohammer (small blind) folded on the Flop
+Seat 4: crusader1006 (big blind) folded before Flop
+Seat 5: Dmun collected ($1.70)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: MaNLaF folded on the Flop
+Seat 8: ItsOnTheTurn folded before Flop (didn't bet)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951996360:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:12:20 (ET)
+Table 'Koon II' 9-max Seat #2 is the button
+Seat 1: yjqian23 ($25.25 in chips) 
+Seat 2: Yenohammer ($12.10 in chips) 
+Seat 4: crusader1006 ($14.90 in chips) 
+Seat 5: Dmun ($27.05 in chips) 
+Seat 6: Alameda22 ($28.60 in chips) 
+Seat 7: MaNLaF ($26.40 in chips) 
+Seat 8: ItsOnTheTurn ($25 in chips) 
+Seat 9: phrogman123 ($26.75 in chips) 
+crusader1006: posts small blind $0.10
+Dmun: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 4h]
+Alameda22: folds 
+MaNLaF: calls $0.25
+ItsOnTheTurn: folds 
+phrogman123: folds 
+yjqian23: folds 
+Yenohammer: calls $0.25
+crusader1006: calls $0.15
+cambell1974 joins the table at seat #3 
+Dmun: raises $1 to $1.25
+MaNLaF: folds 
+Yenohammer: folds 
+crusader1006: folds 
+Uncalled bet ($1) returned to Dmun
+Dmun collected $1 from pot
+Dmun: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: yjqian23 folded before Flop (didn't bet)
+Seat 2: Yenohammer (button) folded before Flop
+Seat 4: crusader1006 (small blind) folded before Flop
+Seat 5: Dmun (big blind) collected ($1)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: MaNLaF folded before Flop
+Seat 8: ItsOnTheTurn folded before Flop (didn't bet)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952009982:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:12:57 (ET)
+Table 'Koon II' 9-max Seat #4 is the button
+Seat 1: yjqian23 ($25.25 in chips) 
+Seat 2: Yenohammer ($11.85 in chips) 
+Seat 3: cambell1974 ($25 in chips) 
+Seat 4: crusader1006 ($14.65 in chips) 
+Seat 5: Dmun ($27.80 in chips) 
+Seat 6: Alameda22 ($28.60 in chips) 
+Seat 7: MaNLaF ($26.15 in chips) 
+Seat 8: ItsOnTheTurn ($25 in chips) 
+Seat 9: phrogman123 ($26.75 in chips) 
+Dmun: posts small blind $0.10
+Alameda22: posts big blind $0.25
+cambell1974: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 3d]
+MaNLaF: folds 
+ItsOnTheTurn: folds 
+phrogman123: folds 
+yjqian23: folds 
+Yenohammer: folds 
+cambell1974: checks 
+crusader1006: calls $0.25
+Dmun: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Qd 3s Ad]
+Dmun: bets $0.75
+Alameda22: calls $0.75
+cambell1974: folds 
+crusader1006: calls $0.75
+*** TURN *** [Qd 3s Ad] [Jc]
+Dmun: bets $2
+Alameda22: calls $2
+crusader1006: folds 
+*** RIVER *** [Qd 3s Ad Jc] [Kc]
+Dmun: bets $4
+Alameda22: folds 
+Uncalled bet ($4) returned to Dmun
+Dmun collected $6.90 from pot
+Dmun: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [Qd 3s Ad Jc Kc]
+Seat 1: yjqian23 folded before Flop (didn't bet)
+Seat 2: Yenohammer folded before Flop (didn't bet)
+Seat 3: cambell1974 folded on the Flop
+Seat 4: crusader1006 (button) folded on the Turn
+Seat 5: Dmun (small blind) collected ($6.90)
+Seat 6: Alameda22 (big blind) folded on the River
+Seat 7: MaNLaF folded before Flop (didn't bet)
+Seat 8: ItsOnTheTurn folded before Flop (didn't bet)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952049963:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:14:43 (ET)
+Table 'Koon II' 9-max Seat #5 is the button
+Seat 1: yjqian23 ($25.25 in chips) 
+Seat 2: Yenohammer ($11.85 in chips) 
+Seat 3: cambell1974 ($24.75 in chips) 
+Seat 4: crusader1006 ($13.65 in chips) 
+Seat 5: Dmun ($31.70 in chips) 
+Seat 6: Alameda22 ($25.60 in chips) 
+Seat 7: MaNLaF ($26.15 in chips) 
+Seat 8: ItsOnTheTurn ($25 in chips) 
+Seat 9: phrogman123 ($26.75 in chips) 
+Alameda22: posts small blind $0.10
+MaNLaF: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Th]
+ItsOnTheTurn: folds 
+phrogman123: folds 
+yjqian23: folds 
+Yenohammer: raises $0.25 to $0.50
+cambell1974: folds 
+crusader1006: folds 
+Dmun: folds 
+Alameda22: folds 
+MaNLaF: calls $0.25
+*** FLOP *** [Ad 8c 4d]
+MaNLaF: checks 
+Yenohammer: bets $0.50
+MaNLaF: folds 
+Uncalled bet ($0.50) returned to Yenohammer
+Yenohammer collected $1.05 from pot
+Yenohammer: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Ad 8c 4d]
+Seat 1: yjqian23 folded before Flop (didn't bet)
+Seat 2: Yenohammer collected ($1.05)
+Seat 3: cambell1974 folded before Flop (didn't bet)
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: Dmun (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: MaNLaF (big blind) folded on the Flop
+Seat 8: ItsOnTheTurn folded before Flop (didn't bet)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952073687:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:15:46 (ET)
+Table 'Koon II' 9-max Seat #6 is the button
+Seat 1: yjqian23 ($25.25 in chips) 
+Seat 2: Yenohammer ($12.40 in chips) 
+Seat 3: cambell1974 ($24.75 in chips) 
+Seat 4: crusader1006 ($13.65 in chips) 
+Seat 5: Dmun ($31.70 in chips) 
+Seat 6: Alameda22 ($25.50 in chips) 
+Seat 7: MaNLaF ($25.65 in chips) 
+Seat 8: ItsOnTheTurn ($25 in chips) 
+Seat 9: phrogman123 ($26.75 in chips) 
+MaNLaF: posts small blind $0.10
+ItsOnTheTurn: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 6h]
+phrogman123: folds 
+yjqian23: folds 
+Yenohammer: calls $0.25
+cambell1974: folds 
+crusader1006: folds 
+Dmun: folds 
+Alameda22: folds 
+MaNLaF: calls $0.15
+ItsOnTheTurn: checks 
+*** FLOP *** [2h 8d As]
+MaNLaF: checks 
+ItsOnTheTurn: checks 
+Yenohammer: bets $0.25
+MaNLaF: folds 
+ItsOnTheTurn: folds 
+Uncalled bet ($0.25) returned to Yenohammer
+Yenohammer collected $0.75 from pot
+Yenohammer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [2h 8d As]
+Seat 1: yjqian23 folded before Flop (didn't bet)
+Seat 2: Yenohammer collected ($0.75)
+Seat 3: cambell1974 folded before Flop (didn't bet)
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: Dmun folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: MaNLaF (small blind) folded on the Flop
+Seat 8: ItsOnTheTurn (big blind) folded on the Flop
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952090921:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:16:31 (ET)
+Table 'Koon II' 9-max Seat #7 is the button
+Seat 1: yjqian23 ($25.25 in chips) 
+Seat 2: Yenohammer ($12.90 in chips) 
+Seat 3: cambell1974 ($24.75 in chips) 
+Seat 4: crusader1006 ($13.65 in chips) 
+Seat 5: Dmun ($31.70 in chips) 
+Seat 6: Alameda22 ($25.50 in chips) 
+Seat 7: MaNLaF ($25.40 in chips) 
+Seat 8: ItsOnTheTurn ($24.75 in chips) 
+Seat 9: phrogman123 ($26.75 in chips) 
+ItsOnTheTurn: posts small blind $0.10
+phrogman123: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Jd]
+yjqian23: folds 
+Yenohammer: folds 
+cambell1974: calls $0.25
+crusader1006: folds 
+Dmun: folds 
+Alameda22: folds 
+MaNLaF: folds 
+ItsOnTheTurn: folds 
+phrogman123: checks 
+*** FLOP *** [Ac 6d 9h]
+phrogman123: checks 
+cambell1974: checks 
+*** TURN *** [Ac 6d 9h] [2s]
+phrogman123: checks 
+cambell1974: checks 
+*** RIVER *** [Ac 6d 9h 2s] [Td]
+phrogman123: checks 
+cambell1974: checks 
+*** SHOW DOWN ***
+phrogman123: shows [8c Qs] (high card Ace)
+cambell1974: mucks hand 
+phrogman123 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ac 6d 9h 2s Td]
+Seat 1: yjqian23 folded before Flop (didn't bet)
+Seat 2: Yenohammer folded before Flop (didn't bet)
+Seat 3: cambell1974 mucked [4d 7d]
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: Dmun folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: MaNLaF (button) folded before Flop (didn't bet)
+Seat 8: ItsOnTheTurn (small blind) folded before Flop
+Seat 9: phrogman123 (big blind) showed [8c Qs] and won ($0.60) with high card Ace
+
+
+
+PokerStars Game #19952116513:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:17:39 (ET)
+Table 'Koon II' 9-max Seat #8 is the button
+Seat 3: cambell1974 ($24.50 in chips) 
+Seat 4: crusader1006 ($13.65 in chips) 
+Seat 5: Dmun ($31.70 in chips) 
+Seat 6: Alameda22 ($25.50 in chips) 
+Seat 7: MaNLaF ($25.40 in chips) 
+Seat 8: ItsOnTheTurn ($24.65 in chips) 
+Seat 9: phrogman123 ($27.10 in chips) 
+phrogman123: posts small blind $0.10
+yjqian23: is sitting out 
+yjqian23 leaves the table
+Yenohammer: is sitting out 
+cambell1974: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Ac]
+Yenohammer leaves the table
+crusader1006: folds 
+Dmun: folds 
+Alameda22: folds 
+MaNLaF: calls $0.25
+ItsOnTheTurn: folds 
+ItsOnTheTurn leaves the table
+phrogman123: raises $0.75 to $1
+cambell1974: folds 
+MaNLaF: calls $0.75
+*** FLOP *** [9d 6c 6d]
+phrogman123: bets $2
+MaNLaF: folds 
+Uncalled bet ($2) returned to phrogman123
+phrogman123 collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [9d 6c 6d]
+Seat 3: cambell1974 (big blind) folded before Flop
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: Dmun folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: MaNLaF folded on the Flop
+Seat 8: ItsOnTheTurn (button) folded before Flop (didn't bet)
+Seat 9: phrogman123 (small blind) collected ($2.15)
+
+
+
+PokerStars Game #19952133284:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:18:24 (ET)
+Table 'Koon II' 9-max Seat #9 is the button
+Seat 3: cambell1974 ($24.25 in chips) 
+Seat 4: crusader1006 ($13.65 in chips) 
+Seat 5: Dmun ($31.70 in chips) 
+Seat 6: Alameda22 ($25.50 in chips) 
+Seat 7: MaNLaF ($24.40 in chips) 
+Seat 9: phrogman123 ($28.25 in chips) 
+cambell1974: posts small blind $0.10
+crusader1006: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 3h]
+Dmun: folds 
+Alameda22: folds 
+MaNLaF: folds 
+phrogman123: calls $0.25
+cambell1974: folds 
+crusader1006: raises $1.25 to $1.50
+phrogman123: folds 
+Uncalled bet ($1.25) returned to crusader1006
+cambell1974 leaves the table
+crusader1006 collected $0.60 from pot
+crusader1006: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 3: cambell1974 (small blind) folded before Flop
+Seat 4: crusader1006 (big blind) collected ($0.60)
+Seat 5: Dmun folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: MaNLaF folded before Flop (didn't bet)
+Seat 9: phrogman123 (button) folded before Flop
+
+
+
+PokerStars Game #19952143264:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:18:50 (ET)
+Table 'Koon II' 9-max Seat #4 is the button
+Seat 4: crusader1006 ($14 in chips) 
+Seat 5: Dmun ($31.70 in chips) 
+Seat 6: Alameda22 ($25.50 in chips) 
+Seat 7: MaNLaF ($24.40 in chips) 
+Seat 9: phrogman123 ($28 in chips) 
+Dmun: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Ah]
+MaNLaF: folds 
+phrogman123: folds 
+crusader1006: calls $0.25
+Dmun: folds 
+Alameda22: raises $0.75 to $1
+crusader1006: calls $0.75
+*** FLOP *** [Tc 4s 3h]
+Alameda22: bets $1.25
+crusader1006: folds 
+Uncalled bet ($1.25) returned to Alameda22
+Alameda22 collected $2 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Tc 4s 3h]
+Seat 4: crusader1006 (button) folded on the Flop
+Seat 5: Dmun (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) collected ($2)
+Seat 7: MaNLaF folded before Flop (didn't bet)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952161702:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:19:39 (ET)
+Table 'Koon II' 9-max Seat #5 is the button
+Seat 4: crusader1006 ($13 in chips) 
+Seat 5: Dmun ($31.60 in chips) 
+Seat 6: Alameda22 ($26.50 in chips) 
+Seat 7: MaNLaF ($24.40 in chips) 
+Seat 9: phrogman123 ($28 in chips) 
+Alameda22: posts small blind $0.10
+MaNLaF: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 3s]
+phrogman123: folds 
+crusader1006: folds 
+Dmun: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to MaNLaF
+MaNLaF collected $0.20 from pot
+MaNLaF: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: Dmun (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: MaNLaF (big blind) collected ($0.20)
+Seat 9: phrogman123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952171017:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:20:03 (ET)
+Table 'Koon II' 9-max Seat #6 is the button
+Seat 4: crusader1006 ($13 in chips) 
+Seat 5: Dmun ($31.60 in chips) 
+Seat 6: Alameda22 ($26.40 in chips) 
+Seat 7: MaNLaF ($24.50 in chips) 
+Seat 9: phrogman123 ($28 in chips) 
+MaNLaF: posts small blind $0.10
+phrogman123: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 9d]
+crusader1006: folds 
+Dmun: folds 
+Alameda22: folds 
+MaNLaF: calls $0.15
+phrogman123: checks 
+*** FLOP *** [7d Ad 2c]
+MaNLaF: bets $0.50
+phrogman123: calls $0.50
+*** TURN *** [7d Ad 2c] [8s]
+MaNLaF: checks 
+phrogman123: checks 
+*** RIVER *** [7d Ad 2c 8s] [9s]
+MaNLaF: checks 
+phrogman123: checks 
+*** SHOW DOWN ***
+MaNLaF: shows [Th 8c] (a pair of Eights)
+phrogman123: shows [As 5d] (a pair of Aces)
+phrogman123 collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [7d Ad 2c 8s 9s]
+Seat 4: crusader1006 folded before Flop (didn't bet)
+Seat 5: Dmun folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: MaNLaF (small blind) showed [Th 8c] and lost with a pair of Eights
+Seat 9: phrogman123 (big blind) showed [As 5d] and won ($1.45) with a pair of Aces
+
+
+
+PokerStars Game #19952191000:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:20:56 (ET)
+Table 'Koon II' 9-max Seat #7 is the button
+Seat 4: crusader1006 ($13 in chips) 
+Seat 5: Dmun ($31.60 in chips) 
+Seat 6: Alameda22 ($26.40 in chips) 
+Seat 7: MaNLaF ($23.75 in chips) 
+Seat 9: phrogman123 ($28.70 in chips) 
+phrogman123: posts small blind $0.10
+crusader1006: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Qc]
+Dmun: folds 
+Alameda22: raises $0.50 to $0.75
+MaNLaF: folds 
+phrogman123: folds 
+crusader1006: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 4: crusader1006 (big blind) folded before Flop
+Seat 5: Dmun folded before Flop (didn't bet)
+Seat 6: Alameda22 collected ($0.60)
+Seat 7: MaNLaF (button) folded before Flop (didn't bet)
+Seat 9: phrogman123 (small blind) folded before Flop
+
+
+

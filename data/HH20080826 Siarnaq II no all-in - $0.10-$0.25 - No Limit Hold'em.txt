@@ -1,0 +1,1012 @@
+PokerStars Game #19903814005:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:00:58 (ET)
+Table 'Siarnaq II' 9-max Seat #8 is the button
+Seat 1: CHESSTROUBLE ($15.05 in chips) 
+Seat 2: cauterize55 ($13.80 in chips) 
+Seat 3: KIDNIC ($27 in chips) 
+Seat 4: klumpsta523 ($11.85 in chips) 
+Seat 5: PLEIF70 ($9.25 in chips) 
+Seat 6: Alameda22 ($24.30 in chips) 
+Seat 7: shaktale66 ($3.05 in chips) 
+Seat 8: mr_patriko ($57.40 in chips) 
+Seat 9: ehbowen21 ($8 in chips) 
+ehbowen21: posts small blind $0.10
+CHESSTROUBLE: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Ks]
+cauterize55: folds 
+KIDNIC: folds 
+klumpsta523: calls $0.25
+PLEIF70: folds 
+Alameda22: folds 
+shaktale66: folds 
+mr_patriko: folds 
+shaktale66 leaves the table
+ehbowen21: calls $0.15
+CHESSTROUBLE: checks 
+*** FLOP *** [Td 9s 7c]
+ehbowen21: checks 
+CHESSTROUBLE: checks 
+klumpsta523: checks 
+*** TURN *** [Td 9s 7c] [Js]
+ehbowen21: checks 
+FARPCOL joins the table at seat #7 
+CHESSTROUBLE: bets $0.75
+FARPCOL is sitting out
+klumpsta523: folds 
+ehbowen21: calls $0.75
+*** RIVER *** [Td 9s 7c Js] [5h]
+ehbowen21: bets $2
+CHESSTROUBLE: calls $2
+*** SHOW DOWN ***
+ehbowen21: shows [Ah As] (a pair of Aces)
+CHESSTROUBLE: shows [Jh 5s] (two pair, Jacks and Fives)
+CHESSTROUBLE collected $5.95 from pot
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.30 
+Board [Td 9s 7c Js 5h]
+Seat 1: CHESSTROUBLE (big blind) showed [Jh 5s] and won ($5.95) with two pair, Jacks and Fives
+Seat 2: cauterize55 folded before Flop (didn't bet)
+Seat 3: KIDNIC folded before Flop (didn't bet)
+Seat 4: klumpsta523 folded on the Turn
+Seat 5: PLEIF70 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: shaktale66 folded before Flop (didn't bet)
+Seat 8: mr_patriko (button) folded before Flop (didn't bet)
+Seat 9: ehbowen21 (small blind) showed [Ah As] and lost with a pair of Aces
+
+
+
+PokerStars Game #19903838042:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:02:16 (ET)
+Table 'Siarnaq II' 9-max Seat #9 is the button
+Seat 1: CHESSTROUBLE ($18 in chips) 
+Seat 2: cauterize55 ($13.80 in chips) 
+Seat 3: KIDNIC ($27 in chips) 
+Seat 4: klumpsta523 ($11.60 in chips) 
+Seat 5: PLEIF70 ($9.25 in chips) 
+Seat 6: Alameda22 ($24.30 in chips) 
+Seat 8: mr_patriko ($57.40 in chips) 
+Seat 9: ehbowen21 ($5 in chips) 
+CHESSTROUBLE: posts small blind $0.10
+cauterize55: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 7c]
+KIDNIC: folds 
+klumpsta523: folds 
+PLEIF70: folds 
+Alameda22: folds 
+mr_patriko: folds 
+ehbowen21: calls $0.25
+CHESSTROUBLE: calls $0.15
+cauterize55: checks 
+*** FLOP *** [6c 2c 3h]
+CHESSTROUBLE: bets $1
+cauterize55: folds 
+ehbowen21: folds 
+Uncalled bet ($1) returned to CHESSTROUBLE
+CHESSTROUBLE collected $0.75 from pot
+CHESSTROUBLE: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [6c 2c 3h]
+Seat 1: CHESSTROUBLE (small blind) collected ($0.75)
+Seat 2: cauterize55 (big blind) folded on the Flop
+Seat 3: KIDNIC folded before Flop (didn't bet)
+Seat 4: klumpsta523 folded before Flop (didn't bet)
+Seat 5: PLEIF70 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: mr_patriko folded before Flop (didn't bet)
+Seat 9: ehbowen21 (button) folded on the Flop
+
+
+
+PokerStars Game #19903853138:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:03:05 (ET)
+Table 'Siarnaq II' 9-max Seat #1 is the button
+Seat 1: CHESSTROUBLE ($18.50 in chips) 
+Seat 2: cauterize55 ($13.55 in chips) 
+Seat 3: KIDNIC ($27 in chips) 
+Seat 4: klumpsta523 ($11.60 in chips) 
+Seat 5: PLEIF70 ($9.25 in chips) 
+Seat 6: Alameda22 ($24.30 in chips) 
+Seat 8: mr_patriko ($57.40 in chips) 
+Seat 9: ehbowen21 ($4.75 in chips) 
+cauterize55: posts small blind $0.10
+KIDNIC: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 5d]
+FARPCOL has returned
+klumpsta523: calls $0.25
+PLEIF70: folds 
+Alameda22: folds 
+mr_patriko: calls $0.25
+ehbowen21: raises $0.75 to $1
+CHESSTROUBLE: calls $1
+cauterize55: folds 
+KIDNIC: folds 
+klumpsta523: raises $2.75 to $3.75
+mr_patriko: folds 
+ehbowen21: calls $2.75
+CHESSTROUBLE: calls $2.75
+*** FLOP *** [Qc Ks Td]
+klumpsta523: checks 
+ehbowen21: bets $1 and is all-in
+CHESSTROUBLE: calls $1
+klumpsta523: calls $1
+*** TURN *** [Qc Ks Td] [2s]
+klumpsta523: checks 
+CHESSTROUBLE: checks 
+*** RIVER *** [Qc Ks Td 2s] [2d]
+klumpsta523: checks 
+CHESSTROUBLE: checks 
+*** SHOW DOWN ***
+klumpsta523: shows [Jd Jc] (two pair, Jacks and Deuces)
+ehbowen21: mucks hand 
+CHESSTROUBLE: mucks hand 
+klumpsta523 collected $14.15 from pot
+*** SUMMARY ***
+Total pot $14.85 | Rake $0.70 
+Board [Qc Ks Td 2s 2d]
+Seat 1: CHESSTROUBLE (button) mucked [7s As]
+Seat 2: cauterize55 (small blind) folded before Flop
+Seat 3: KIDNIC (big blind) folded before Flop
+Seat 4: klumpsta523 showed [Jd Jc] and won ($14.15) with two pair, Jacks and Deuces
+Seat 5: PLEIF70 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: mr_patriko folded before Flop
+Seat 9: ehbowen21 mucked [Ac 9s]
+
+
+
+PokerStars Game #19903881744:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:04:39 (ET)
+Table 'Siarnaq II' 9-max Seat #2 is the button
+Seat 1: CHESSTROUBLE ($13.75 in chips) 
+Seat 2: cauterize55 ($13.45 in chips) 
+Seat 3: KIDNIC ($26.75 in chips) 
+Seat 4: klumpsta523 ($21 in chips) 
+Seat 5: PLEIF70 ($9.25 in chips) 
+Seat 6: Alameda22 ($24.30 in chips) 
+Seat 7: FARPCOL ($34.75 in chips) 
+Seat 8: mr_patriko ($57.15 in chips) 
+Seat 9: ehbowen21 ($9.25 in chips) 
+KIDNIC: posts small blind $0.10
+klumpsta523: posts big blind $0.25
+FARPCOL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 5s]
+PLEIF70: folds 
+Alameda22: folds 
+FARPCOL: checks 
+mr_patriko: folds 
+ehbowen21: folds 
+CHESSTROUBLE: raises $0.25 to $0.50
+cauterize55: calls $0.50
+KIDNIC: folds 
+klumpsta523: calls $0.25
+FARPCOL: folds 
+*** FLOP *** [Th 4d Ts]
+klumpsta523: checks 
+CHESSTROUBLE: bets $1
+cauterize55: folds 
+klumpsta523: folds 
+Uncalled bet ($1) returned to CHESSTROUBLE
+CHESSTROUBLE collected $1.80 from pot
+CHESSTROUBLE: shows [As Ac] (two pair, Aces and Tens)
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [Th 4d Ts]
+Seat 1: CHESSTROUBLE collected ($1.80)
+Seat 2: cauterize55 (button) folded on the Flop
+Seat 3: KIDNIC (small blind) folded before Flop
+Seat 4: klumpsta523 (big blind) folded on the Flop
+Seat 5: PLEIF70 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: FARPCOL folded before Flop
+Seat 8: mr_patriko folded before Flop (didn't bet)
+Seat 9: ehbowen21 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903904956:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:05:56 (ET)
+Table 'Siarnaq II' 9-max Seat #3 is the button
+Seat 1: CHESSTROUBLE ($15.05 in chips) 
+Seat 2: cauterize55 ($12.95 in chips) 
+Seat 3: KIDNIC ($26.65 in chips) 
+Seat 4: klumpsta523 ($20.50 in chips) 
+Seat 5: PLEIF70 ($9.25 in chips) 
+Seat 6: Alameda22 ($24.30 in chips) 
+Seat 7: FARPCOL ($34.50 in chips) 
+Seat 8: mr_patriko ($57.15 in chips) 
+Seat 9: ehbowen21 ($9.25 in chips) 
+klumpsta523: posts small blind $0.10
+PLEIF70: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 9d]
+Alameda22: folds 
+FARPCOL: calls $0.25
+mr_patriko: folds 
+ehbowen21: calls $0.25
+CHESSTROUBLE: folds 
+cauterize55: folds 
+KIDNIC: calls $0.25
+klumpsta523: calls $0.15
+PLEIF70: checks 
+*** FLOP *** [9h Kh 9c]
+klumpsta523: checks 
+PLEIF70: checks 
+FARPCOL: checks 
+ehbowen21: checks 
+KIDNIC: checks 
+*** TURN *** [9h Kh 9c] [Jc]
+klumpsta523: checks 
+PLEIF70: checks 
+FARPCOL: checks 
+ehbowen21: checks 
+KIDNIC: bets $0.50
+klumpsta523: calls $0.50
+PLEIF70: folds 
+FARPCOL: folds 
+ehbowen21: folds 
+*** RIVER *** [9h Kh 9c Jc] [Ah]
+klumpsta523: checks 
+KIDNIC: checks 
+*** SHOW DOWN ***
+klumpsta523: shows [3h 6h] (a flush, Ace high)
+KIDNIC: mucks hand 
+klumpsta523 collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [9h Kh 9c Jc Ah]
+Seat 1: CHESSTROUBLE folded before Flop (didn't bet)
+Seat 2: cauterize55 folded before Flop (didn't bet)
+Seat 3: KIDNIC (button) mucked [Td Jd]
+Seat 4: klumpsta523 (small blind) showed [3h 6h] and won ($2.15) with a flush, Ace high
+Seat 5: PLEIF70 (big blind) folded on the Turn
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: FARPCOL folded on the Turn
+Seat 8: mr_patriko folded before Flop (didn't bet)
+Seat 9: ehbowen21 folded on the Turn
+
+
+
+PokerStars Game #19903928323:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:07:14 (ET)
+Table 'Siarnaq II' 9-max Seat #4 is the button
+Seat 1: CHESSTROUBLE ($15.05 in chips) 
+Seat 2: cauterize55 ($12.95 in chips) 
+Seat 3: KIDNIC ($25.90 in chips) 
+Seat 4: klumpsta523 ($21.90 in chips) 
+Seat 5: PLEIF70 ($9 in chips) 
+Seat 6: Alameda22 ($24.30 in chips) 
+Seat 7: FARPCOL ($34.25 in chips) 
+Seat 8: mr_patriko ($57.15 in chips) 
+Seat 9: ehbowen21 ($9 in chips) 
+PLEIF70: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Ts]
+FARPCOL: folds 
+mr_patriko: folds 
+ehbowen21: raises $0.50 to $0.75
+CHESSTROUBLE: folds 
+cauterize55: folds 
+KIDNIC: folds 
+klumpsta523: folds 
+PLEIF70: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to ehbowen21
+ehbowen21 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CHESSTROUBLE folded before Flop (didn't bet)
+Seat 2: cauterize55 folded before Flop (didn't bet)
+Seat 3: KIDNIC folded before Flop (didn't bet)
+Seat 4: klumpsta523 (button) folded before Flop (didn't bet)
+Seat 5: PLEIF70 (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: FARPCOL folded before Flop (didn't bet)
+Seat 8: mr_patriko folded before Flop (didn't bet)
+Seat 9: ehbowen21 collected ($0.60)
+
+
+
+PokerStars Game #19903941288:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:07:57 (ET)
+Table 'Siarnaq II' 9-max Seat #5 is the button
+Seat 1: CHESSTROUBLE ($15.05 in chips) 
+Seat 2: cauterize55 ($12.95 in chips) 
+Seat 3: KIDNIC ($25.90 in chips) 
+Seat 4: klumpsta523 ($21.90 in chips) 
+Seat 5: PLEIF70 ($8.90 in chips) 
+Seat 6: Alameda22 ($24.05 in chips) 
+Seat 7: FARPCOL ($34.25 in chips) 
+Seat 8: mr_patriko ($57.15 in chips) 
+Seat 9: ehbowen21 ($9.35 in chips) 
+Alameda22: posts small blind $0.10
+FARPCOL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 8d]
+mr_patriko: folds 
+ehbowen21: calls $0.25
+CHESSTROUBLE: folds 
+cauterize55: folds 
+KIDNIC: folds 
+klumpsta523: folds 
+klumpsta523 leaves the table
+PLEIF70: folds 
+Alameda22: folds 
+FARPCOL: checks 
+*** FLOP *** [7d Ts 4h]
+FARPCOL: checks 
+ehbowen21: checks 
+*** TURN *** [7d Ts 4h] [2d]
+FARPCOL: checks 
+ehbowen21: checks 
+*** RIVER *** [7d Ts 4h 2d] [7h]
+FARPCOL: checks 
+ehbowen21: checks 
+*** SHOW DOWN ***
+FARPCOL: shows [5s Jh] (a pair of Sevens)
+ehbowen21: shows [Kc Ac] (a pair of Sevens - Ace kicker)
+ehbowen21 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7d Ts 4h 2d 7h]
+Seat 1: CHESSTROUBLE folded before Flop (didn't bet)
+Seat 2: cauterize55 folded before Flop (didn't bet)
+Seat 3: KIDNIC folded before Flop (didn't bet)
+Seat 4: klumpsta523 folded before Flop (didn't bet)
+Seat 5: PLEIF70 (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: FARPCOL (big blind) showed [5s Jh] and lost with a pair of Sevens
+Seat 8: mr_patriko folded before Flop (didn't bet)
+Seat 9: ehbowen21 showed [Kc Ac] and won ($0.60) with a pair of Sevens
+
+
+
+PokerStars Game #19903958819:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:08:55 (ET)
+Table 'Siarnaq II' 9-max Seat #6 is the button
+Seat 1: CHESSTROUBLE ($15.05 in chips) 
+Seat 2: cauterize55 ($12.95 in chips) 
+Seat 3: KIDNIC ($25.90 in chips) 
+Seat 5: PLEIF70 ($8.90 in chips) 
+Seat 6: Alameda22 ($23.95 in chips) 
+Seat 7: FARPCOL ($34 in chips) 
+Seat 8: mr_patriko ($57.15 in chips) 
+Seat 9: ehbowen21 ($9.70 in chips) 
+FARPCOL: posts small blind $0.10
+mr_patriko: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 2h]
+ehbowen21: calls $0.25
+CHESSTROUBLE: calls $0.25
+cauterize55: folds 
+KIDNIC: folds 
+PLEIF70: folds 
+Alameda22: folds 
+FARPCOL: calls $0.15
+TedVegas joins the table at seat #4 
+mr_patriko: raises $0.75 to $1
+ehbowen21: calls $0.75
+CHESSTROUBLE: calls $0.75
+FARPCOL: folds 
+*** FLOP *** [Kd Qs Ts]
+mr_patriko: bets $2
+ehbowen21: calls $2
+CHESSTROUBLE: folds 
+*** TURN *** [Kd Qs Ts] [Kc]
+mr_patriko: bets $54.15 and is all-in
+ehbowen21: folds 
+Uncalled bet ($54.15) returned to mr_patriko
+mr_patriko collected $6.90 from pot
+mr_patriko: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [Kd Qs Ts Kc]
+Seat 1: CHESSTROUBLE folded on the Flop
+Seat 2: cauterize55 folded before Flop (didn't bet)
+Seat 3: KIDNIC folded before Flop (didn't bet)
+Seat 5: PLEIF70 folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: FARPCOL (small blind) folded before Flop
+Seat 8: mr_patriko (big blind) collected ($6.90)
+Seat 9: ehbowen21 folded on the Turn
+
+
+
+PokerStars Game #19903985072:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:10:23 (ET)
+Table 'Siarnaq II' 9-max Seat #7 is the button
+Seat 1: CHESSTROUBLE ($14.05 in chips) 
+Seat 2: cauterize55 ($12.95 in chips) 
+Seat 3: KIDNIC ($25.90 in chips) 
+Seat 4: TedVegas ($7 in chips) 
+Seat 5: PLEIF70 ($8.90 in chips) 
+Seat 6: Alameda22 ($23.95 in chips) 
+Seat 7: FARPCOL ($33.75 in chips) 
+Seat 8: mr_patriko ($61.05 in chips) 
+Seat 9: ehbowen21 ($6.70 in chips) 
+mr_patriko: posts small blind $0.10
+ehbowen21: posts big blind $0.25
+TedVegas: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Js]
+CHESSTROUBLE: calls $0.25
+cauterize55: raises $0.75 to $1
+KIDNIC: folds 
+TedVegas: folds 
+PLEIF70: folds 
+Alameda22: folds 
+FARPCOL: folds 
+mr_patriko: folds 
+ehbowen21: calls $0.75
+CHESSTROUBLE: calls $0.75
+*** FLOP *** [3h 6s 2c]
+ehbowen21: checks 
+CHESSTROUBLE: bets $0.75
+cauterize55: raises $4.25 to $5
+ehbowen21: folds 
+CHESSTROUBLE: raises $8.05 to $13.05 and is all-in
+cauterize55: calls $6.95 and is all-in
+Uncalled bet ($1.10) returned to CHESSTROUBLE
+*** TURN *** [3h 6s 2c] [2d]
+*** RIVER *** [3h 6s 2c 2d] [Kc]
+*** SHOW DOWN ***
+CHESSTROUBLE: shows [6h Jh] (two pair, Sixes and Deuces)
+cauterize55: shows [Ah Ad] (two pair, Aces and Deuces)
+cauterize55 collected $25.90 from pot
+*** SUMMARY ***
+Total pot $27.25 | Rake $1.35 
+Board [3h 6s 2c 2d Kc]
+Seat 1: CHESSTROUBLE showed [6h Jh] and lost with two pair, Sixes and Deuces
+Seat 2: cauterize55 showed [Ah Ad] and won ($25.90) with two pair, Aces and Deuces
+Seat 3: KIDNIC folded before Flop (didn't bet)
+Seat 4: TedVegas folded before Flop
+Seat 5: PLEIF70 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: FARPCOL (button) folded before Flop (didn't bet)
+Seat 8: mr_patriko (small blind) folded before Flop
+Seat 9: ehbowen21 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19904015582:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:12:05 (ET)
+Table 'Siarnaq II' 9-max Seat #8 is the button
+Seat 1: CHESSTROUBLE ($1.10 in chips) 
+Seat 2: cauterize55 ($25.90 in chips) 
+Seat 3: KIDNIC ($25.90 in chips) 
+Seat 4: TedVegas ($6.75 in chips) 
+Seat 5: PLEIF70 ($8.90 in chips) 
+Seat 6: Alameda22 ($23.95 in chips) 
+Seat 7: FARPCOL ($33.75 in chips) 
+Seat 8: mr_patriko ($60.95 in chips) 
+Seat 9: ehbowen21 ($5.70 in chips) 
+ehbowen21: posts small blind $0.10
+CHESSTROUBLE: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 6h]
+cauterize55: calls $0.25
+KIDNIC: folds 
+TedVegas: folds 
+PLEIF70: folds 
+Alameda22: folds 
+FARPCOL: folds 
+mr_patriko: folds 
+ehbowen21: raises $0.50 to $0.75
+CHESSTROUBLE: raises $0.35 to $1.10 and is all-in
+cauterize55: calls $0.85
+ehbowen21: calls $0.35
+*** FLOP *** [Kh Jc Qc]
+ehbowen21: checks 
+cauterize55: bets $5
+ehbowen21: calls $4.60 and is all-in
+Uncalled bet ($0.40) returned to cauterize55
+*** TURN *** [Kh Jc Qc] [Qh]
+*** RIVER *** [Kh Jc Qc Qh] [3d]
+*** SHOW DOWN ***
+ehbowen21: shows [Kc 8c] (two pair, Kings and Queens)
+cauterize55: shows [Kd Jh] (two pair, Kings and Queens)
+ehbowen21 collected $4.40 from side pot
+cauterize55 collected $4.35 from side pot
+CHESSTROUBLE: mucks hand 
+ehbowen21 collected $1.60 from main pot
+cauterize55 collected $1.55 from main pot
+*** SUMMARY ***
+Total pot $12.50 Main pot $3.15. Side pot $8.75. | Rake $0.60 
+Board [Kh Jc Qc Qh 3d]
+Seat 1: CHESSTROUBLE (big blind) mucked [4d 4h]
+Seat 2: cauterize55 showed [Kd Jh] and won ($5.90) with two pair, Kings and Queens
+Seat 3: KIDNIC folded before Flop (didn't bet)
+Seat 4: TedVegas folded before Flop (didn't bet)
+Seat 5: PLEIF70 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: FARPCOL folded before Flop (didn't bet)
+Seat 8: mr_patriko (button) folded before Flop (didn't bet)
+Seat 9: ehbowen21 (small blind) showed [Kc 8c] and won ($6) with two pair, Kings and Queens
+
+
+
+PokerStars Game #19904042585:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:13:36 (ET)
+Table 'Siarnaq II' 9-max Seat #9 is the button
+Seat 2: cauterize55 ($26.10 in chips) 
+Seat 3: KIDNIC ($25.90 in chips) 
+Seat 4: TedVegas ($6.75 in chips) 
+Seat 5: PLEIF70 ($8.90 in chips) 
+Seat 6: Alameda22 ($23.95 in chips) 
+Seat 7: FARPCOL ($33.75 in chips) 
+Seat 8: mr_patriko ($60.95 in chips) 
+Seat 9: ehbowen21 ($6 in chips) 
+cauterize55: posts small blind $0.10
+KIDNIC: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 6d]
+TedVegas: folds 
+PLEIF70: folds 
+Alameda22: folds 
+FARPCOL: folds 
+mr_patriko: folds 
+ehbowen21: folds 
+cauterize55: folds 
+Uncalled bet ($0.15) returned to KIDNIC
+KIDNIC collected $0.20 from pot
+KIDNIC: shows [As 9h] (high card Ace)
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: cauterize55 (small blind) folded before Flop
+Seat 3: KIDNIC (big blind) collected ($0.20)
+Seat 4: TedVegas folded before Flop (didn't bet)
+Seat 5: PLEIF70 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: FARPCOL folded before Flop (didn't bet)
+Seat 8: mr_patriko folded before Flop (didn't bet)
+Seat 9: ehbowen21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904050161:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:14:02 (ET)
+Table 'Siarnaq II' 9-max Seat #2 is the button
+Seat 2: cauterize55 ($26 in chips) 
+Seat 3: KIDNIC ($26 in chips) 
+Seat 4: TedVegas ($6.75 in chips) 
+Seat 5: PLEIF70 ($8.90 in chips) 
+Seat 6: Alameda22 ($23.95 in chips) 
+Seat 7: FARPCOL ($33.75 in chips) 
+Seat 8: mr_patriko ($60.95 in chips) 
+Seat 9: ehbowen21 ($6 in chips) 
+KIDNIC: posts small blind $0.10
+TedVegas: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 3h]
+PLEIF70: folds 
+Alameda22: folds 
+FARPCOL: calls $0.25
+mr_patriko: folds 
+ehbowen21: folds 
+cauterize55: folds 
+KIDNIC: folds 
+TedVegas: checks 
+*** FLOP *** [7d 7c Kd]
+TedVegas: checks 
+FARPCOL: checks 
+*** TURN *** [7d 7c Kd] [Tc]
+TedVegas: bets $0.25
+FARPCOL: folds 
+Uncalled bet ($0.25) returned to TedVegas
+TedVegas collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7d 7c Kd Tc]
+Seat 2: cauterize55 (button) folded before Flop (didn't bet)
+Seat 3: KIDNIC (small blind) folded before Flop
+Seat 4: TedVegas (big blind) collected ($0.60)
+Seat 5: PLEIF70 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: FARPCOL folded on the Turn
+Seat 8: mr_patriko folded before Flop (didn't bet)
+Seat 9: ehbowen21 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904061379:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:14:40 (ET)
+Table 'Siarnaq II' 9-max Seat #3 is the button
+Seat 2: cauterize55 ($26 in chips) 
+Seat 3: KIDNIC ($25.90 in chips) 
+Seat 4: TedVegas ($7.10 in chips) 
+Seat 5: PLEIF70 ($8.90 in chips) 
+Seat 6: Alameda22 ($23.95 in chips) 
+Seat 7: FARPCOL ($33.50 in chips) 
+Seat 8: mr_patriko ($60.95 in chips) 
+Seat 9: ehbowen21 ($6 in chips) 
+TedVegas: posts small blind $0.10
+PLEIF70: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Jh]
+Alameda22: folds 
+FARPCOL: folds 
+mr_patriko: folds 
+ehbowen21: calls $0.25
+cauterize55: folds 
+KIDNIC: raises $0.50 to $0.75
+TedVegas: folds 
+PLEIF70: folds 
+ehbowen21: calls $0.50
+*** FLOP *** [4d 9d 7d]
+ehbowen21: checks 
+KIDNIC: bets $0.75
+ehbowen21: folds 
+Uncalled bet ($0.75) returned to KIDNIC
+KIDNIC collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [4d 9d 7d]
+Seat 2: cauterize55 folded before Flop (didn't bet)
+Seat 3: KIDNIC (button) collected ($1.80)
+Seat 4: TedVegas (small blind) folded before Flop
+Seat 5: PLEIF70 (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: FARPCOL folded before Flop (didn't bet)
+Seat 8: mr_patriko folded before Flop (didn't bet)
+Seat 9: ehbowen21 folded on the Flop
+
+
+
+PokerStars Game #19904079505:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:15:42 (ET)
+Table 'Siarnaq II' 9-max Seat #4 is the button
+Seat 2: cauterize55 ($26 in chips) 
+Seat 3: KIDNIC ($26.95 in chips) 
+Seat 4: TedVegas ($7 in chips) 
+Seat 5: PLEIF70 ($8.65 in chips) 
+Seat 6: Alameda22 ($23.95 in chips) 
+Seat 7: FARPCOL ($33.50 in chips) 
+Seat 8: mr_patriko ($60.95 in chips) 
+Seat 9: ehbowen21 ($5.25 in chips) 
+PLEIF70: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 7s]
+FARPCOL: folds 
+mr_patriko: folds 
+ehbowen21: calls $0.25
+cauterize55: folds 
+KIDNIC: calls $0.25
+TedVegas: folds 
+PLEIF70: calls $0.15
+Alameda22: checks 
+*** FLOP *** [9s Qd 7d]
+PLEIF70: bets $0.25
+Alameda22: folds 
+ehbowen21: calls $0.25
+KIDNIC: raises $0.50 to $0.75
+PLEIF70: calls $0.50
+ehbowen21: calls $0.50
+*** TURN *** [9s Qd 7d] [Kh]
+PLEIF70: checks 
+ehbowen21: checks 
+KIDNIC: checks 
+*** RIVER *** [9s Qd 7d Kh] [2c]
+PLEIF70: checks 
+ehbowen21: bets $2
+KIDNIC: folds 
+PLEIF70: folds 
+Uncalled bet ($2) returned to ehbowen21
+ehbowen21 collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [9s Qd 7d Kh 2c]
+Seat 2: cauterize55 folded before Flop (didn't bet)
+Seat 3: KIDNIC folded on the River
+Seat 4: TedVegas (button) folded before Flop (didn't bet)
+Seat 5: PLEIF70 (small blind) folded on the River
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: FARPCOL folded before Flop (didn't bet)
+Seat 8: mr_patriko folded before Flop (didn't bet)
+Seat 9: ehbowen21 collected ($3.10)
+
+
+
+PokerStars Game #19904104444:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:17:08 (ET)
+Table 'Siarnaq II' 9-max Seat #5 is the button
+Seat 2: cauterize55 ($26 in chips) 
+Seat 3: KIDNIC ($25.95 in chips) 
+Seat 4: TedVegas ($7 in chips) 
+Seat 5: PLEIF70 ($7.65 in chips) 
+Seat 6: Alameda22 ($23.70 in chips) 
+Seat 7: FARPCOL ($33.50 in chips) 
+Seat 8: mr_patriko ($60.95 in chips) 
+Seat 9: ehbowen21 ($7.35 in chips) 
+Alameda22: posts small blind $0.10
+FARPCOL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 2c]
+mr_patriko: folds 
+ehbowen21: raises $0.50 to $0.75
+cauterize55: folds 
+KIDNIC: folds 
+TedVegas: calls $0.75
+PLEIF70: calls $0.75
+Alameda22: folds 
+FARPCOL: folds 
+*** FLOP *** [5d 4h 6d]
+ehbowen21: checks 
+TedVegas: bets $1
+PLEIF70: folds 
+ehbowen21: folds 
+Uncalled bet ($1) returned to TedVegas
+TedVegas collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [5d 4h 6d]
+Seat 2: cauterize55 folded before Flop (didn't bet)
+Seat 3: KIDNIC folded before Flop (didn't bet)
+Seat 4: TedVegas collected ($2.50)
+Seat 5: PLEIF70 (button) folded on the Flop
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: FARPCOL (big blind) folded before Flop
+Seat 8: mr_patriko folded before Flop (didn't bet)
+Seat 9: ehbowen21 folded on the Flop
+
+
+
+PokerStars Game #19904122589:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:18:11 (ET)
+Table 'Siarnaq II' 9-max Seat #6 is the button
+Seat 2: cauterize55 ($26 in chips) 
+Seat 3: KIDNIC ($25.95 in chips) 
+Seat 4: TedVegas ($8.75 in chips) 
+Seat 5: PLEIF70 ($6.90 in chips) 
+Seat 6: Alameda22 ($23.60 in chips) 
+Seat 7: FARPCOL ($33.25 in chips) 
+Seat 9: ehbowen21 ($6.60 in chips) 
+FARPCOL: posts small blind $0.10
+mr_patriko: is sitting out 
+ehbowen21: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 3h]
+mr_patriko leaves the table
+cauterize55: folds 
+KIDNIC: folds 
+TedVegas: folds 
+PLEIF70: folds 
+Alameda22: folds 
+FARPCOL: folds 
+Uncalled bet ($0.15) returned to ehbowen21
+cauterize55 leaves the table
+ehbowen21 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: cauterize55 folded before Flop (didn't bet)
+Seat 3: KIDNIC folded before Flop (didn't bet)
+Seat 4: TedVegas folded before Flop (didn't bet)
+Seat 5: PLEIF70 folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: FARPCOL (small blind) folded before Flop
+Seat 9: ehbowen21 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19904128721:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:18:32 (ET)
+Table 'Siarnaq II' 9-max Seat #7 is the button
+Seat 3: KIDNIC ($25.95 in chips) 
+Seat 4: TedVegas ($8.75 in chips) 
+Seat 5: PLEIF70 ($6.90 in chips) 
+Seat 6: Alameda22 ($23.60 in chips) 
+Seat 7: FARPCOL ($33.15 in chips) 
+Seat 9: ehbowen21 ($6.70 in chips) 
+ehbowen21: posts small blind $0.10
+KIDNIC: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Ks]
+TedVegas: folds 
+PLEIF70: folds 
+Alameda22: folds 
+FARPCOL: folds 
+ehbowen21: calls $0.15
+KIDNIC: checks 
+*** FLOP *** [3d 5h Kd]
+ehbowen21: checks 
+KIDNIC: bets $0.50
+ehbowen21: folds 
+Uncalled bet ($0.50) returned to KIDNIC
+KIDNIC collected $0.50 from pot
+KIDNIC: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [3d 5h Kd]
+Seat 3: KIDNIC (big blind) collected ($0.50)
+Seat 4: TedVegas folded before Flop (didn't bet)
+Seat 5: PLEIF70 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: FARPCOL (button) folded before Flop (didn't bet)
+Seat 9: ehbowen21 (small blind) folded on the Flop
+
+
+
+PokerStars Game #19904141126:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:19:15 (ET)
+Table 'Siarnaq II' 9-max Seat #9 is the button
+Seat 3: KIDNIC ($26.20 in chips) 
+Seat 4: TedVegas ($8.75 in chips) 
+Seat 5: PLEIF70 ($6.90 in chips) 
+Seat 6: Alameda22 ($23.60 in chips) 
+Seat 7: FARPCOL ($33.15 in chips) 
+Seat 9: ehbowen21 ($6.45 in chips) 
+KIDNIC: posts small blind $0.10
+TedVegas: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Kd]
+PLEIF70: folds 
+Alameda22: folds 
+FARPCOL: folds 
+ehbowen21: calls $0.25
+KIDNIC: raises $0.50 to $0.75
+TedVegas: calls $0.50
+ehbowen21: calls $0.50
+*** FLOP *** [6d 3h 6s]
+KIDNIC: bets $0.75
+TedVegas: folds 
+ehbowen21: calls $0.75
+*** TURN *** [6d 3h 6s] [2d]
+KIDNIC: bets $0.75
+ehbowen21: folds 
+Uncalled bet ($0.75) returned to KIDNIC
+KIDNIC collected $3.60 from pot
+KIDNIC is sitting out
+KIDNIC: shows [Ah Qc] (a pair of Sixes)
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [6d 3h 6s 2d]
+Seat 3: KIDNIC (small blind) collected ($3.60)
+Seat 4: TedVegas (big blind) folded on the Flop
+Seat 5: PLEIF70 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: FARPCOL folded before Flop (didn't bet)
+Seat 9: ehbowen21 (button) folded on the Turn
+
+
+
+PokerStars Game #19904159755:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:20:20 (ET)
+Table 'Siarnaq II' 9-max Seat #4 is the button
+Seat 4: TedVegas ($8 in chips) 
+Seat 5: PLEIF70 ($6.90 in chips) 
+Seat 6: Alameda22 ($23.60 in chips) 
+Seat 7: FARPCOL ($33.15 in chips) 
+Seat 9: ehbowen21 ($4.95 in chips) 
+PLEIF70: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 7c]
+KIDNIC leaves the table
+FARPCOL: folds 
+ehbowen21: raises $0.25 to $0.50
+TedVegas: folds 
+PLEIF70: folds 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to ehbowen21
+ehbowen21 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 4: TedVegas (button) folded before Flop (didn't bet)
+Seat 5: PLEIF70 (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: FARPCOL folded before Flop (didn't bet)
+Seat 9: ehbowen21 collected ($0.60)
+
+
+
+PokerStars Game #19904167643:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:20:48 (ET)
+Table 'Siarnaq II' 9-max Seat #5 is the button
+Seat 4: TedVegas ($8 in chips) 
+Seat 5: PLEIF70 ($6.80 in chips) 
+Seat 6: Alameda22 ($23.35 in chips) 
+Seat 7: FARPCOL ($33.15 in chips) 
+Seat 9: ehbowen21 ($5.30 in chips) 
+Alameda22: posts small blind $0.10
+FARPCOL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 7h]
+ehbowen21: calls $0.25
+TedVegas: folds 
+PLEIF70: calls $0.25
+Alameda22: calls $0.15
+FARPCOL: checks 
+*** FLOP *** [2h 6s 2s]
+Alameda22: bets $0.50
+FARPCOL: folds 
+ehbowen21: folds 
+PLEIF70: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.95 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [2h 6s 2s]
+Seat 4: TedVegas folded before Flop (didn't bet)
+Seat 5: PLEIF70 (button) folded on the Flop
+Seat 6: Alameda22 (small blind) collected ($0.95)
+Seat 7: FARPCOL (big blind) folded on the Flop
+Seat 9: ehbowen21 folded on the Flop
+
+
+
+PokerStars Game #19904177410:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:21:22 (ET)
+Table 'Siarnaq II' 9-max Seat #6 is the button
+Seat 4: TedVegas ($8 in chips) 
+Seat 5: PLEIF70 ($6.55 in chips) 
+Seat 6: Alameda22 ($24.05 in chips) 
+Seat 7: FARPCOL ($32.90 in chips) 
+Seat 9: ehbowen21 ($5.05 in chips) 
+FARPCOL: posts small blind $0.10
+ehbowen21: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 9d]
+TedVegas: folds 
+PLEIF70: folds 
+Alameda22: folds 
+FARPCOL: raises $0.75 to $1
+ehbowen21: raises $4.05 to $5.05 and is all-in
+FARPCOL: calls $4.05
+*** FLOP *** [7c 4h Kh]
+*** TURN *** [7c 4h Kh] [Ad]
+*** RIVER *** [7c 4h Kh Ad] [As]
+*** SHOW DOWN ***
+FARPCOL: shows [Jc Jd] (two pair, Aces and Jacks)
+ehbowen21: mucks hand 
+FARPCOL collected $9.60 from pot
+ehbowen21 leaves the table
+*** SUMMARY ***
+Total pot $10.10 | Rake $0.50 
+Board [7c 4h Kh Ad As]
+Seat 4: TedVegas folded before Flop (didn't bet)
+Seat 5: PLEIF70 folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: FARPCOL (small blind) showed [Jc Jd] and won ($9.60) with two pair, Aces and Jacks
+Seat 9: ehbowen21 (big blind) mucked [5s 5h]
+
+
+
+PokerStars Game #19904186738:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:21:55 (ET)
+Table 'Siarnaq II' 9-max Seat #7 is the button
+Seat 4: TedVegas ($8 in chips) 
+Seat 5: PLEIF70 ($6.55 in chips) 
+Seat 6: Alameda22 ($24.05 in chips) 
+Seat 7: FARPCOL ($37.45 in chips) 
+TedVegas: posts small blind $0.10
+PLEIF70: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 2d]
+Alameda22: folds 
+FARPCOL: folds 
+TedVegas: folds 
+Uncalled bet ($0.15) returned to PLEIF70
+FARPCOL leaves the table
+PLEIF70 collected $0.20 from pot
+PLEIF70: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 4: TedVegas (small blind) folded before Flop
+Seat 5: PLEIF70 (big blind) collected ($0.20)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: FARPCOL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904193490:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:22:19 (ET)
+Table 'Siarnaq II' 9-max Seat #4 is the button
+Seat 4: TedVegas ($7.90 in chips) 
+Seat 5: PLEIF70 ($6.65 in chips) 
+Seat 6: Alameda22 ($24.05 in chips) 
+PLEIF70: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 5s]
+TedVegas: folds 
+PLEIF70: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Ts 2c Kd]
+PLEIF70: bets $0.25
+Alameda22: folds 
+Uncalled bet ($0.25) returned to PLEIF70
+PLEIF70 collected $0.50 from pot
+PLEIF70: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Ts 2c Kd]
+Seat 4: TedVegas (button) folded before Flop (didn't bet)
+Seat 5: PLEIF70 (small blind) collected ($0.50)
+Seat 6: Alameda22 (big blind) folded on the Flop
+
+
+

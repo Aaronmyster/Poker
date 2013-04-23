@@ -1,0 +1,1490 @@
+PokerStars Game #20148178653:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 17:43:55 ET
+Table 'Ivar' 9-max Seat #9 is the button
+Seat 1: jakatax ($48.75 in chips) 
+Seat 2: Alameda22 ($50 in chips) 
+Seat 3: coryh74 ($35.50 in chips) 
+Seat 4: magic_maniac ($116.35 in chips) 
+Seat 5: Wayne0412 ($45.40 in chips) 
+Seat 6: FanofRedSox ($11.50 in chips) 
+Seat 7: xFRIDAY13THx ($45.15 in chips) 
+Seat 8: johnny_nasch ($12.90 in chips) 
+Seat 9: korazn ($120.55 in chips) 
+jakatax: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Jd]
+coryh74: calls $0.50
+magic_maniac: folds 
+Wayne0412: calls $0.50
+FanofRedSox: folds 
+xFRIDAY13THx: raises $1.50 to $2
+johnny_nasch: folds 
+korazn: folds 
+jakatax: folds 
+Alameda22: folds 
+coryh74: calls $1.50
+Wayne0412: folds 
+*** FLOP *** [7s 8d 3s]
+coryh74: bets $1
+xFRIDAY13THx: calls $1
+*** TURN *** [7s 8d 3s] [2s]
+coryh74: bets $1
+xFRIDAY13THx: calls $1
+*** RIVER *** [7s 8d 3s 2s] [9d]
+coryh74: bets $1
+xFRIDAY13THx: folds 
+Uncalled bet ($1) returned to coryh74
+coryh74 collected $8.85 from pot
+coryh74: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.25 | Rake $0.40 
+Board [7s 8d 3s 2s 9d]
+Seat 1: jakatax (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: coryh74 collected ($8.85)
+Seat 4: magic_maniac folded before Flop (didn't bet)
+Seat 5: Wayne0412 folded before Flop
+Seat 6: FanofRedSox folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx folded on the River
+Seat 8: johnny_nasch folded before Flop (didn't bet)
+Seat 9: korazn (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148215239:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 17:45:25 ET
+Table 'Ivar' 9-max Seat #1 is the button
+Seat 1: jakatax ($48.50 in chips) 
+Seat 2: Alameda22 ($49.50 in chips) 
+Seat 3: coryh74 ($40.35 in chips) 
+Seat 4: magic_maniac ($116.35 in chips) 
+Seat 5: Wayne0412 ($44.90 in chips) 
+Seat 6: FanofRedSox ($11.50 in chips) 
+Seat 7: xFRIDAY13THx ($41.15 in chips) 
+Seat 8: johnny_nasch ($12.90 in chips) 
+Seat 9: korazn ($120.55 in chips) 
+Alameda22: posts small blind $0.25
+coryh74: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 4c]
+magic_maniac: folds 
+Wayne0412: folds 
+FanofRedSox: folds 
+xFRIDAY13THx: folds 
+johnny_nasch: folds 
+korazn: raises $1.25 to $1.75
+jakatax: folds 
+Alameda22: folds 
+coryh74: folds 
+Uncalled bet ($1.25) returned to korazn
+korazn collected $1.25 from pot
+korazn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: jakatax (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: coryh74 (big blind) folded before Flop
+Seat 4: magic_maniac folded before Flop (didn't bet)
+Seat 5: Wayne0412 folded before Flop (didn't bet)
+Seat 6: FanofRedSox folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx folded before Flop (didn't bet)
+Seat 8: johnny_nasch folded before Flop (didn't bet)
+Seat 9: korazn collected ($1.25)
+
+
+
+PokerStars Game #20148245008:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 17:46:38 ET
+Table 'Ivar' 9-max Seat #2 is the button
+Seat 1: jakatax ($48.50 in chips) 
+Seat 2: Alameda22 ($49.25 in chips) 
+Seat 3: coryh74 ($39.85 in chips) 
+Seat 4: magic_maniac ($116.35 in chips) 
+Seat 5: Wayne0412 ($44.90 in chips) 
+Seat 6: FanofRedSox ($11.50 in chips) 
+Seat 7: xFRIDAY13THx ($41.15 in chips) 
+Seat 8: johnny_nasch ($12.90 in chips) 
+Seat 9: korazn ($121.30 in chips) 
+coryh74: posts small blind $0.25
+magic_maniac: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 5c]
+Wayne0412: folds 
+FanofRedSox: folds 
+xFRIDAY13THx: raises $1 to $1.50
+johnny_nasch: folds 
+korazn: folds 
+jakatax: folds 
+Alameda22: folds 
+coryh74: folds 
+magic_maniac: calls $1
+*** FLOP *** [8h 7h Th]
+magic_maniac: checks 
+xFRIDAY13THx: bets $2
+magic_maniac: raises $7.10 to $9.10
+xFRIDAY13THx has timed out
+xFRIDAY13THx: folds 
+Uncalled bet ($7.10) returned to magic_maniac
+xFRIDAY13THx is sitting out
+magic_maniac collected $6.90 from pot
+magic_maniac: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [8h 7h Th]
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: coryh74 (small blind) folded before Flop
+Seat 4: magic_maniac (big blind) collected ($6.90)
+Seat 5: Wayne0412 folded before Flop (didn't bet)
+Seat 6: FanofRedSox folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx folded on the Flop
+Seat 8: johnny_nasch folded before Flop (didn't bet)
+Seat 9: korazn folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148303714:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 17:49:02 ET
+Table 'Ivar' 9-max Seat #3 is the button
+Seat 1: jakatax ($48.50 in chips) 
+Seat 2: Alameda22 ($49.25 in chips) 
+Seat 3: coryh74 ($39.60 in chips) 
+Seat 4: magic_maniac ($119.75 in chips) 
+Seat 5: Wayne0412 ($44.90 in chips) 
+Seat 6: FanofRedSox ($11.50 in chips) 
+Seat 8: johnny_nasch ($12.90 in chips) 
+Seat 9: korazn ($121.30 in chips) 
+magic_maniac: posts small blind $0.25
+Wayne0412: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Kd]
+FanofRedSox: folds 
+johnny_nasch: folds 
+korazn: folds 
+jakatax: raises $1 to $1.50
+Alameda22: raises $3.50 to $5
+coryh74: folds 
+magic_maniac: folds 
+Wayne0412: folds 
+jakatax: folds 
+Uncalled bet ($3.50) returned to Alameda22
+Alameda22 collected $3.75 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0 
+Seat 1: jakatax folded before Flop
+Seat 2: Alameda22 collected ($3.75)
+Seat 3: coryh74 (button) folded before Flop (didn't bet)
+Seat 4: magic_maniac (small blind) folded before Flop
+Seat 5: Wayne0412 (big blind) folded before Flop
+Seat 6: FanofRedSox folded before Flop (didn't bet)
+Seat 8: johnny_nasch folded before Flop (didn't bet)
+Seat 9: korazn folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148327733:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 17:50:02 ET
+Table 'Ivar' 9-max Seat #4 is the button
+Seat 1: jakatax ($47 in chips) 
+Seat 2: Alameda22 ($51.50 in chips) 
+Seat 3: coryh74 ($39.60 in chips) 
+Seat 4: magic_maniac ($119.50 in chips) 
+Seat 5: Wayne0412 ($44.40 in chips) 
+Seat 6: FanofRedSox ($11.50 in chips) 
+Seat 8: johnny_nasch ($12.90 in chips) 
+Seat 9: korazn ($121.30 in chips) 
+Wayne0412: posts small blind $0.25
+FanofRedSox: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 4d]
+johnny_nasch: folds 
+korazn: folds 
+jakatax: folds 
+xFRIDAY13THx has returned
+Alameda22: folds 
+coryh74: calls $0.50
+magic_maniac: folds 
+Wayne0412: raises $0.50 to $1
+FanofRedSox: calls $0.50
+coryh74: calls $0.50
+*** FLOP *** [Kd 4s 9c]
+Wayne0412: checks 
+FanofRedSox: checks 
+coryh74: checks 
+*** TURN *** [Kd 4s 9c] [5c]
+Wayne0412: checks 
+FanofRedSox: checks 
+coryh74: checks 
+*** RIVER *** [Kd 4s 9c 5c] [Qd]
+Wayne0412: checks 
+FanofRedSox: checks 
+coryh74: checks 
+*** SHOW DOWN ***
+Wayne0412: shows [Td Ad] (high card Ace)
+FanofRedSox: shows [Jh 9h] (a pair of Nines)
+coryh74: shows [Ac 2d] (high card Ace)
+FanofRedSox collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Kd 4s 9c 5c Qd]
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 showed [Ac 2d] and lost with high card Ace
+Seat 4: magic_maniac (button) folded before Flop (didn't bet)
+Seat 5: Wayne0412 (small blind) showed [Td Ad] and lost with high card Ace
+Seat 6: FanofRedSox (big blind) showed [Jh 9h] and won ($2.85) with a pair of Nines
+Seat 8: johnny_nasch folded before Flop (didn't bet)
+Seat 9: korazn folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148363557:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 17:51:31 ET
+Table 'Ivar' 9-max Seat #5 is the button
+Seat 1: jakatax ($47 in chips) 
+Seat 2: Alameda22 ($51.50 in chips) 
+Seat 3: coryh74 ($38.60 in chips) 
+Seat 4: magic_maniac ($119.50 in chips) 
+Seat 5: Wayne0412 ($43.40 in chips) 
+Seat 6: FanofRedSox ($13.35 in chips) 
+Seat 7: xFRIDAY13THx ($37.65 in chips) 
+Seat 8: johnny_nasch ($12.90 in chips) 
+Seat 9: korazn ($121.30 in chips) 
+FanofRedSox: posts small blind $0.25
+xFRIDAY13THx: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 9s]
+johnny_nasch: folds 
+korazn: folds 
+jakatax: folds 
+Alameda22: folds 
+coryh74: folds 
+magic_maniac: raises $1.25 to $1.75
+Wayne0412: folds 
+FanofRedSox: folds 
+xFRIDAY13THx: folds 
+Uncalled bet ($1.25) returned to magic_maniac
+magic_maniac collected $1.25 from pot
+magic_maniac: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 folded before Flop (didn't bet)
+Seat 4: magic_maniac collected ($1.25)
+Seat 5: Wayne0412 (button) folded before Flop (didn't bet)
+Seat 6: FanofRedSox (small blind) folded before Flop
+Seat 7: xFRIDAY13THx (big blind) folded before Flop
+Seat 8: johnny_nasch folded before Flop (didn't bet)
+Seat 9: korazn folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148390017:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 17:52:36 ET
+Table 'Ivar' 9-max Seat #6 is the button
+Seat 1: jakatax ($47 in chips) 
+Seat 2: Alameda22 ($51.50 in chips) 
+Seat 3: coryh74 ($38.60 in chips) 
+Seat 4: magic_maniac ($120.25 in chips) 
+Seat 5: Wayne0412 ($43.40 in chips) 
+Seat 6: FanofRedSox ($13.10 in chips) 
+Seat 7: xFRIDAY13THx ($37.15 in chips) 
+Seat 8: johnny_nasch ($12.90 in chips) 
+Seat 9: korazn ($121.30 in chips) 
+xFRIDAY13THx: posts small blind $0.25
+johnny_nasch: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 9s]
+korazn: folds 
+jakatax: folds 
+Alameda22: folds 
+coryh74: calls $0.50
+magic_maniac: calls $0.50
+Wayne0412: calls $0.50
+FanofRedSox: calls $0.50
+xFRIDAY13THx: calls $0.25
+johnny_nasch: checks 
+*** FLOP *** [9h 5d Js]
+xFRIDAY13THx: checks 
+johnny_nasch: checks 
+coryh74: checks 
+magic_maniac: checks 
+Wayne0412: bets $1.50
+FanofRedSox: calls $1.50
+xFRIDAY13THx: raises $2.50 to $4
+johnny_nasch: folds 
+coryh74: folds 
+magic_maniac: folds 
+Wayne0412: raises $2.50 to $6.50
+FanofRedSox: folds 
+xFRIDAY13THx: calls $2.50
+*** TURN *** [9h 5d Js] [2h]
+xFRIDAY13THx: checks 
+Wayne0412: bets $4.50
+xFRIDAY13THx: calls $4.50
+*** RIVER *** [9h 5d Js 2h] [5s]
+xFRIDAY13THx: checks 
+Wayne0412: bets $25.25
+xFRIDAY13THx: folds 
+Uncalled bet ($25.25) returned to Wayne0412
+Wayne0412 collected $25.25 from pot
+Wayne0412: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.50 | Rake $1.25 
+Board [9h 5d Js 2h 5s]
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 folded on the Flop
+Seat 4: magic_maniac folded on the Flop
+Seat 5: Wayne0412 collected ($25.25)
+Seat 6: FanofRedSox (button) folded on the Flop
+Seat 7: xFRIDAY13THx (small blind) folded on the River
+Seat 8: johnny_nasch (big blind) folded on the Flop
+Seat 9: korazn folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148429663:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 17:54:15 ET
+Table 'Ivar' 9-max Seat #7 is the button
+Seat 1: jakatax ($47 in chips) 
+Seat 2: Alameda22 ($51.50 in chips) 
+Seat 3: coryh74 ($38.10 in chips) 
+Seat 4: magic_maniac ($119.75 in chips) 
+Seat 5: Wayne0412 ($57.15 in chips) 
+Seat 6: FanofRedSox ($11.10 in chips) 
+Seat 7: xFRIDAY13THx ($25.65 in chips) 
+Seat 8: johnny_nasch ($12.40 in chips) 
+Seat 9: korazn ($121.30 in chips) 
+johnny_nasch: posts small blind $0.25
+korazn: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Jc]
+jakatax: folds 
+Alameda22: folds 
+coryh74: calls $0.50
+magic_maniac: folds 
+Wayne0412: calls $0.50
+FanofRedSox: folds 
+xFRIDAY13THx: calls $0.50
+johnny_nasch: calls $0.25
+korazn: checks 
+*** FLOP *** [6d 2h 3s]
+johnny_nasch: checks 
+korazn: checks 
+coryh74: checks 
+Wayne0412: bets $0.50
+xFRIDAY13THx: calls $0.50
+johnny_nasch: folds 
+korazn: calls $0.50
+coryh74: calls $0.50
+*** TURN *** [6d 2h 3s] [Qh]
+korazn: checks 
+coryh74: checks 
+Wayne0412: bets $2.50
+xFRIDAY13THx: folds 
+korazn: folds 
+coryh74: calls $2.50
+*** RIVER *** [6d 2h 3s Qh] [8s]
+coryh74: checks 
+Wayne0412: bets $3
+coryh74: folds 
+Uncalled bet ($3) returned to Wayne0412
+Wayne0412 collected $9.05 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.45 
+Board [6d 2h 3s Qh 8s]
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 folded on the River
+Seat 4: magic_maniac folded before Flop (didn't bet)
+Seat 5: Wayne0412 collected ($9.05)
+Seat 6: FanofRedSox folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx (button) folded on the Turn
+Seat 8: johnny_nasch (small blind) folded on the Flop
+Seat 9: korazn (big blind) folded on the Turn
+
+
+
+PokerStars Game #20148466262:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 17:55:46 ET
+Table 'Ivar' 9-max Seat #8 is the button
+Seat 1: jakatax ($47 in chips) 
+Seat 2: Alameda22 ($51.50 in chips) 
+Seat 3: coryh74 ($34.60 in chips) 
+Seat 4: magic_maniac ($119.75 in chips) 
+Seat 5: Wayne0412 ($62.70 in chips) 
+Seat 6: FanofRedSox ($11.10 in chips) 
+Seat 7: xFRIDAY13THx ($24.65 in chips) 
+Seat 8: johnny_nasch ($11.90 in chips) 
+Seat 9: korazn ($120.30 in chips) 
+korazn: posts small blind $0.25
+jakatax: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Ks]
+Alameda22: folds 
+coryh74: folds 
+magic_maniac: folds 
+Wayne0412: folds 
+FanofRedSox: raises $1 to $1.50
+xFRIDAY13THx: folds 
+johnny_nasch: folds 
+korazn: folds 
+jakatax: folds 
+Uncalled bet ($1) returned to FanofRedSox
+FanofRedSox collected $1.25 from pot
+FanofRedSox: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: jakatax (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 folded before Flop (didn't bet)
+Seat 4: magic_maniac folded before Flop (didn't bet)
+Seat 5: Wayne0412 folded before Flop (didn't bet)
+Seat 6: FanofRedSox collected ($1.25)
+Seat 7: xFRIDAY13THx folded before Flop (didn't bet)
+Seat 8: johnny_nasch (button) folded before Flop (didn't bet)
+Seat 9: korazn (small blind) folded before Flop
+
+
+
+PokerStars Game #20148484990:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 17:56:33 ET
+Table 'Ivar' 9-max Seat #9 is the button
+Seat 1: jakatax ($46.50 in chips) 
+Seat 2: Alameda22 ($51.50 in chips) 
+Seat 3: coryh74 ($34.60 in chips) 
+Seat 4: magic_maniac ($119.75 in chips) 
+Seat 5: Wayne0412 ($62.70 in chips) 
+Seat 6: FanofRedSox ($15.75 in chips) 
+Seat 7: xFRIDAY13THx ($24.65 in chips) 
+Seat 8: johnny_nasch ($11.90 in chips) 
+Seat 9: korazn ($120.05 in chips) 
+jakatax: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Td]
+coryh74: folds 
+magic_maniac: folds 
+Wayne0412: raises $0.50 to $1
+FanofRedSox: folds 
+xFRIDAY13THx: folds 
+johnny_nasch: folds 
+korazn: folds 
+jakatax: folds 
+Alameda22: calls $0.50
+*** FLOP *** [8h Qc 4h]
+Alameda22: checks 
+Wayne0412: bets $1.50
+Alameda22: folds 
+Uncalled bet ($1.50) returned to Wayne0412
+Wayne0412 collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [8h Qc 4h]
+Seat 1: jakatax (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded on the Flop
+Seat 3: coryh74 folded before Flop (didn't bet)
+Seat 4: magic_maniac folded before Flop (didn't bet)
+Seat 5: Wayne0412 collected ($2.15)
+Seat 6: FanofRedSox folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx folded before Flop (didn't bet)
+Seat 8: johnny_nasch folded before Flop (didn't bet)
+Seat 9: korazn (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148509166:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 17:57:34 ET
+Table 'Ivar' 9-max Seat #1 is the button
+Seat 1: jakatax ($46.25 in chips) 
+Seat 2: Alameda22 ($50.50 in chips) 
+Seat 3: coryh74 ($34.60 in chips) 
+Seat 4: magic_maniac ($119.75 in chips) 
+Seat 5: Wayne0412 ($63.85 in chips) 
+Seat 6: FanofRedSox ($15.75 in chips) 
+Seat 7: xFRIDAY13THx ($24.65 in chips) 
+Seat 8: johnny_nasch ($11.90 in chips) 
+Seat 9: korazn ($120.05 in chips) 
+Alameda22: posts small blind $0.25
+coryh74: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 9d]
+magic_maniac: folds 
+Wayne0412: folds 
+FanofRedSox: raises $1 to $1.50
+xFRIDAY13THx: raises $3 to $4.50
+johnny_nasch: folds 
+korazn: folds 
+jakatax: folds 
+Alameda22: folds 
+coryh74: folds 
+FanofRedSox: folds 
+Uncalled bet ($3) returned to xFRIDAY13THx
+xFRIDAY13THx collected $3.75 from pot
+xFRIDAY13THx: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0 
+Seat 1: jakatax (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: coryh74 (big blind) folded before Flop
+Seat 4: magic_maniac folded before Flop (didn't bet)
+Seat 5: Wayne0412 folded before Flop (didn't bet)
+Seat 6: FanofRedSox folded before Flop
+Seat 7: xFRIDAY13THx collected ($3.75)
+Seat 8: johnny_nasch folded before Flop (didn't bet)
+Seat 9: korazn folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148525833:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 17:58:16 ET
+Table 'Ivar' 9-max Seat #2 is the button
+Seat 1: jakatax ($46.25 in chips) 
+Seat 2: Alameda22 ($50.25 in chips) 
+Seat 3: coryh74 ($34.10 in chips) 
+Seat 4: magic_maniac ($119.75 in chips) 
+Seat 5: Wayne0412 ($63.85 in chips) 
+Seat 6: FanofRedSox ($14.25 in chips) 
+Seat 7: xFRIDAY13THx ($26.90 in chips) 
+Seat 8: johnny_nasch ($11.90 in chips) 
+Seat 9: korazn ($120.05 in chips) 
+coryh74: posts small blind $0.25
+magic_maniac: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 4s]
+Wayne0412: folds 
+FanofRedSox: folds 
+xFRIDAY13THx: folds 
+johnny_nasch: folds 
+korazn: folds 
+jakatax: folds 
+Alameda22: folds 
+coryh74: calls $0.25
+magic_maniac: checks 
+*** FLOP *** [Jc Ks 2s]
+coryh74: bets $0.50
+magic_maniac: raises $1.50 to $2
+coryh74: calls $1.50
+*** TURN *** [Jc Ks 2s] [2d]
+coryh74: bets $1
+magic_maniac: raises $5 to $6
+coryh74: folds 
+Uncalled bet ($5) returned to magic_maniac
+magic_maniac collected $6.70 from pot
+magic_maniac: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.30 
+Board [Jc Ks 2s 2d]
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: coryh74 (small blind) folded on the Turn
+Seat 4: magic_maniac (big blind) collected ($6.70)
+Seat 5: Wayne0412 folded before Flop (didn't bet)
+Seat 6: FanofRedSox folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx folded before Flop (didn't bet)
+Seat 8: johnny_nasch folded before Flop (didn't bet)
+Seat 9: korazn folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148545250:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 17:59:06 ET
+Table 'Ivar' 9-max Seat #3 is the button
+Seat 1: jakatax ($46.25 in chips) 
+Seat 2: Alameda22 ($50.25 in chips) 
+Seat 3: coryh74 ($30.60 in chips) 
+Seat 4: magic_maniac ($122.95 in chips) 
+Seat 5: Wayne0412 ($63.85 in chips) 
+Seat 6: FanofRedSox ($14.25 in chips) 
+Seat 7: xFRIDAY13THx ($26.90 in chips) 
+Seat 8: johnny_nasch ($11.90 in chips) 
+Seat 9: korazn ($120.05 in chips) 
+magic_maniac: posts small blind $0.25
+Wayne0412: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Qs]
+FanofRedSox: folds 
+xFRIDAY13THx: folds 
+johnny_nasch: folds 
+korazn: folds 
+jakatax: raises $1 to $1.50
+Alameda22: folds 
+coryh74: folds 
+magic_maniac: folds 
+Wayne0412: folds 
+Uncalled bet ($1) returned to jakatax
+jakatax collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: jakatax collected ($1.25)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 (button) folded before Flop (didn't bet)
+Seat 4: magic_maniac (small blind) folded before Flop
+Seat 5: Wayne0412 (big blind) folded before Flop
+Seat 6: FanofRedSox folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx folded before Flop (didn't bet)
+Seat 8: johnny_nasch folded before Flop (didn't bet)
+Seat 9: korazn folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148565397:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 17:59:57 ET
+Table 'Ivar' 9-max Seat #4 is the button
+Seat 1: jakatax ($47 in chips) 
+Seat 2: Alameda22 ($50.25 in chips) 
+Seat 3: coryh74 ($30.60 in chips) 
+Seat 4: magic_maniac ($122.70 in chips) 
+Seat 5: Wayne0412 ($63.35 in chips) 
+Seat 6: FanofRedSox ($14.25 in chips) 
+Seat 7: xFRIDAY13THx ($26.90 in chips) 
+Seat 8: johnny_nasch ($11.90 in chips) 
+Seat 9: korazn ($120.05 in chips) 
+Wayne0412: posts small blind $0.25
+FanofRedSox: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Tc]
+xFRIDAY13THx: calls $0.50
+johnny_nasch: folds 
+korazn: calls $0.50
+jakatax: folds 
+Alameda22: folds 
+coryh74: calls $0.50
+magic_maniac: folds 
+Wayne0412: calls $0.25
+FanofRedSox: checks 
+*** FLOP *** [Kc 4h 5h]
+Wayne0412: checks 
+FanofRedSox: checks 
+xFRIDAY13THx: checks 
+korazn: bets $1.50
+coryh74: folds 
+Wayne0412: folds 
+FanofRedSox: folds 
+xFRIDAY13THx: folds 
+Uncalled bet ($1.50) returned to korazn
+korazn collected $2.40 from pot
+korazn: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Kc 4h 5h]
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 folded on the Flop
+Seat 4: magic_maniac (button) folded before Flop (didn't bet)
+Seat 5: Wayne0412 (small blind) folded on the Flop
+Seat 6: FanofRedSox (big blind) folded on the Flop
+Seat 7: xFRIDAY13THx folded on the Flop
+Seat 8: johnny_nasch folded before Flop (didn't bet)
+Seat 9: korazn collected ($2.40)
+
+
+
+PokerStars Game #20148593576:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:01:09 ET
+Table 'Ivar' 9-max Seat #5 is the button
+Seat 1: jakatax ($47 in chips) 
+Seat 2: Alameda22 ($50.25 in chips) 
+Seat 3: coryh74 ($30.10 in chips) 
+Seat 4: magic_maniac ($122.70 in chips) 
+Seat 5: Wayne0412 ($62.85 in chips) 
+Seat 6: FanofRedSox ($13.75 in chips) 
+Seat 7: xFRIDAY13THx ($26.40 in chips) 
+Seat 8: johnny_nasch ($11.90 in chips) 
+Seat 9: korazn ($121.95 in chips) 
+FanofRedSox: posts small blind $0.25
+xFRIDAY13THx: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 2c]
+johnny_nasch: raises $1.25 to $1.75
+korazn: folds 
+jakatax: folds 
+Alameda22: folds 
+coryh74: folds 
+magic_maniac: calls $1.75
+Wayne0412: calls $1.75
+FanofRedSox: folds 
+xFRIDAY13THx: folds 
+*** FLOP *** [Qc 9s Th]
+johnny_nasch: bets $2
+magic_maniac: calls $2
+Wayne0412: raises $5.50 to $7.50
+johnny_nasch: raises $2.65 to $10.15 and is all-in
+magic_maniac: folds 
+Wayne0412: calls $2.65
+*** TURN *** [Qc 9s Th] [Jc]
+*** RIVER *** [Qc 9s Th Jc] [4s]
+*** SHOW DOWN ***
+johnny_nasch: shows [Ts Td] (three of a kind, Tens)
+Wayne0412: mucks hand 
+johnny_nasch collected $26.90 from pot
+*** SUMMARY ***
+Total pot $28.30 | Rake $1.40 
+Board [Qc 9s Th Jc 4s]
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 folded before Flop (didn't bet)
+Seat 4: magic_maniac folded on the Flop
+Seat 5: Wayne0412 (button) mucked [Qh Tc]
+Seat 6: FanofRedSox (small blind) folded before Flop
+Seat 7: xFRIDAY13THx (big blind) folded before Flop
+Seat 8: johnny_nasch showed [Ts Td] and won ($26.90) with three of a kind, Tens
+Seat 9: korazn folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148628275:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:02:39 ET
+Table 'Ivar' 9-max Seat #6 is the button
+Seat 1: jakatax ($47 in chips) 
+Seat 2: Alameda22 ($50.25 in chips) 
+Seat 3: coryh74 ($30.10 in chips) 
+Seat 4: magic_maniac ($118.95 in chips) 
+Seat 5: Wayne0412 ($50.95 in chips) 
+Seat 6: FanofRedSox ($13.50 in chips) 
+Seat 7: xFRIDAY13THx ($25.90 in chips) 
+Seat 8: johnny_nasch ($26.90 in chips) 
+Seat 9: korazn ($121.95 in chips) 
+xFRIDAY13THx: posts small blind $0.25
+johnny_nasch: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 3s]
+korazn: folds 
+jakatax: folds 
+Alameda22: folds 
+coryh74: raises $0.50 to $1
+magic_maniac: folds 
+Wayne0412: calls $1
+FanofRedSox: folds 
+xFRIDAY13THx: calls $0.75
+johnny_nasch: folds 
+*** FLOP *** [7h Ks Ah]
+xFRIDAY13THx: checks 
+coryh74: checks 
+Wayne0412: bets $2.50
+xFRIDAY13THx: folds 
+coryh74: folds 
+Uncalled bet ($2.50) returned to Wayne0412
+Wayne0412 collected $3.35 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [7h Ks Ah]
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 folded on the Flop
+Seat 4: magic_maniac folded before Flop (didn't bet)
+Seat 5: Wayne0412 collected ($3.35)
+Seat 6: FanofRedSox (button) folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx (small blind) folded on the Flop
+Seat 8: johnny_nasch (big blind) folded before Flop
+Seat 9: korazn folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148652256:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:03:41 ET
+Table 'Ivar' 9-max Seat #7 is the button
+Seat 1: jakatax ($47 in chips) 
+Seat 2: Alameda22 ($50.25 in chips) 
+Seat 3: coryh74 ($29.10 in chips) 
+Seat 4: magic_maniac ($118.95 in chips) 
+Seat 5: Wayne0412 ($53.30 in chips) 
+Seat 6: FanofRedSox ($13.50 in chips) 
+Seat 7: xFRIDAY13THx ($24.90 in chips) 
+Seat 8: johnny_nasch ($26.40 in chips) 
+Seat 9: korazn ($121.95 in chips) 
+johnny_nasch: posts small blind $0.25
+korazn: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 4h]
+jakatax: folds 
+Alameda22: folds 
+coryh74: folds 
+magic_maniac: calls $0.50
+Wayne0412: calls $0.50
+FanofRedSox: calls $0.50
+xFRIDAY13THx: calls $0.50
+johnny_nasch: folds 
+korazn: checks 
+*** FLOP *** [5s 5h 8h]
+korazn: checks 
+magic_maniac: checks 
+Wayne0412: checks 
+FanofRedSox: checks 
+xFRIDAY13THx: bets $1.50
+korazn: folds 
+magic_maniac: calls $1.50
+Wayne0412: folds 
+FanofRedSox: folds 
+*** TURN *** [5s 5h 8h] [6c]
+magic_maniac: checks 
+xFRIDAY13THx: checks 
+*** RIVER *** [5s 5h 8h 6c] [3d]
+magic_maniac: bets $2.50
+xFRIDAY13THx: calls $2.50
+*** SHOW DOWN ***
+magic_maniac: shows [8s As] (two pair, Eights and Fives)
+xFRIDAY13THx: mucks hand 
+magic_maniac collected $10.25 from pot
+*** SUMMARY ***
+Total pot $10.75 | Rake $0.50 
+Board [5s 5h 8h 6c 3d]
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 folded before Flop (didn't bet)
+Seat 4: magic_maniac showed [8s As] and won ($10.25) with two pair, Eights and Fives
+Seat 5: Wayne0412 folded on the Flop
+Seat 6: FanofRedSox folded on the Flop
+Seat 7: xFRIDAY13THx (button) mucked [8d 9h]
+Seat 8: johnny_nasch (small blind) folded before Flop
+Seat 9: korazn (big blind) folded on the Flop
+
+
+
+PokerStars Game #20148693419:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:05:27 ET
+Table 'Ivar' 9-max Seat #8 is the button
+Seat 1: jakatax ($47 in chips) 
+Seat 2: Alameda22 ($50.25 in chips) 
+Seat 3: coryh74 ($29.10 in chips) 
+Seat 4: magic_maniac ($124.70 in chips) 
+Seat 5: Wayne0412 ($52.80 in chips) 
+Seat 6: FanofRedSox ($13 in chips) 
+Seat 7: xFRIDAY13THx ($20.40 in chips) 
+Seat 8: johnny_nasch ($26.15 in chips) 
+Seat 9: korazn ($121.45 in chips) 
+korazn: posts small blind $0.25
+jakatax: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 2s]
+Alameda22: folds 
+coryh74: folds 
+magic_maniac: calls $0.50
+Wayne0412: folds 
+FanofRedSox: calls $0.50
+xFRIDAY13THx: raises $1.50 to $2
+johnny_nasch: folds 
+korazn: folds 
+jakatax: folds 
+magic_maniac: calls $1.50
+FanofRedSox: calls $1.50
+*** FLOP *** [6s 3s 8h]
+magic_maniac: checks 
+FanofRedSox: checks 
+xFRIDAY13THx: checks 
+*** TURN *** [6s 3s 8h] [5h]
+magic_maniac: bets $0.50
+FanofRedSox: folds 
+xFRIDAY13THx: calls $0.50
+*** RIVER *** [6s 3s 8h 5h] [Jd]
+magic_maniac: bets $0.50
+xFRIDAY13THx: calls $0.50
+*** SHOW DOWN ***
+magic_maniac: shows [5c 4c] (a pair of Fives)
+xFRIDAY13THx: mucks hand 
+magic_maniac collected $8.35 from pot
+*** SUMMARY ***
+Total pot $8.75 | Rake $0.40 
+Board [6s 3s 8h 5h Jd]
+Seat 1: jakatax (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 folded before Flop (didn't bet)
+Seat 4: magic_maniac showed [5c 4c] and won ($8.35) with a pair of Fives
+Seat 5: Wayne0412 folded before Flop (didn't bet)
+Seat 6: FanofRedSox folded on the Turn
+Seat 7: xFRIDAY13THx mucked [Kd Td]
+Seat 8: johnny_nasch (button) folded before Flop (didn't bet)
+Seat 9: korazn (small blind) folded before Flop
+
+
+
+PokerStars Game #20148720487:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:06:37 ET
+Table 'Ivar' 9-max Seat #9 is the button
+Seat 1: jakatax ($46.50 in chips) 
+Seat 2: Alameda22 ($50.25 in chips) 
+Seat 3: coryh74 ($29.10 in chips) 
+Seat 4: magic_maniac ($130.05 in chips) 
+Seat 5: Wayne0412 ($52.80 in chips) 
+Seat 6: FanofRedSox ($11 in chips) 
+Seat 7: xFRIDAY13THx ($17.40 in chips) 
+Seat 8: johnny_nasch ($26.15 in chips) 
+Seat 9: korazn ($121.20 in chips) 
+jakatax: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 7h]
+coryh74: raises $0.50 to $1
+magic_maniac: raises $2 to $3
+Wayne0412: folds 
+FanofRedSox: folds 
+xFRIDAY13THx: folds 
+johnny_nasch: calls $3
+korazn: folds 
+jakatax: folds 
+Alameda22: folds 
+coryh74: calls $2
+*** FLOP *** [Ac 2d 5s]
+coryh74: checks 
+magic_maniac: bets $5.50
+johnny_nasch: folds 
+coryh74: folds 
+Uncalled bet ($5.50) returned to magic_maniac
+magic_maniac collected $9.30 from pot
+magic_maniac: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.75 | Rake $0.45 
+Board [Ac 2d 5s]
+Seat 1: jakatax (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: coryh74 folded on the Flop
+Seat 4: magic_maniac collected ($9.30)
+Seat 5: Wayne0412 folded before Flop (didn't bet)
+Seat 6: FanofRedSox folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx folded before Flop (didn't bet)
+Seat 8: johnny_nasch folded on the Flop
+Seat 9: korazn (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148747723:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:07:46 ET
+Table 'Ivar' 9-max Seat #1 is the button
+Seat 1: jakatax ($46.25 in chips) 
+Seat 2: Alameda22 ($49.75 in chips) 
+Seat 3: coryh74 ($26.10 in chips) 
+Seat 4: magic_maniac ($136.35 in chips) 
+Seat 5: Wayne0412 ($52.80 in chips) 
+Seat 6: FanofRedSox ($11 in chips) 
+Seat 7: xFRIDAY13THx ($17.40 in chips) 
+Seat 8: johnny_nasch ($23.15 in chips) 
+Seat 9: korazn ($121.20 in chips) 
+Alameda22: posts small blind $0.25
+coryh74: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 6s]
+magic_maniac: raises $1.25 to $1.75
+Wayne0412: folds 
+FanofRedSox: folds 
+xFRIDAY13THx: folds 
+johnny_nasch: folds 
+korazn: folds 
+jakatax: calls $1.75
+Alameda22: folds 
+coryh74: folds 
+*** FLOP *** [4d 9s 9d]
+magic_maniac: bets $3
+jakatax: folds 
+Uncalled bet ($3) returned to magic_maniac
+magic_maniac collected $4.05 from pot
+magic_maniac: shows [8d 2h] (a pair of Nines)
+magic_maniac is sitting out
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [4d 9s 9d]
+Seat 1: jakatax (button) folded on the Flop
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: coryh74 (big blind) folded before Flop
+Seat 4: magic_maniac collected ($4.05)
+Seat 5: Wayne0412 folded before Flop (didn't bet)
+Seat 6: FanofRedSox folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx folded before Flop (didn't bet)
+Seat 8: johnny_nasch folded before Flop (didn't bet)
+Seat 9: korazn folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148770185:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:08:44 ET
+Table 'Ivar' 9-max Seat #2 is the button
+Seat 1: jakatax ($44.50 in chips) 
+Seat 2: Alameda22 ($49.50 in chips) 
+Seat 3: coryh74 ($25.60 in chips) 
+Seat 5: Wayne0412 ($52.80 in chips) 
+Seat 6: FanofRedSox ($11 in chips) 
+Seat 7: xFRIDAY13THx ($17.40 in chips) 
+Seat 8: johnny_nasch ($23.15 in chips) 
+Seat 9: korazn ($121.20 in chips) 
+coryh74: posts small blind $0.25
+Wayne0412: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Kh]
+FanofRedSox: folds 
+xFRIDAY13THx: folds 
+johnny_nasch: folds 
+magic_maniac leaves the table
+korazn: folds 
+jakatax: folds 
+Menegay joins the table at seat #4 
+Alameda22: folds 
+coryh74: calls $0.25
+Wayne0412: checks 
+*** FLOP *** [Ts 4c 2d]
+coryh74: bets $0.95
+Wayne0412: calls $0.95
+*** TURN *** [Ts 4c 2d] [Ad]
+coryh74: bets $1
+Wayne0412: raises $1 to $2
+coryh74: calls $1
+*** RIVER *** [Ts 4c 2d Ad] [6d]
+coryh74: bets $1
+Wayne0412: raises $3.50 to $4.50
+coryh74: folds 
+Uncalled bet ($3.50) returned to Wayne0412
+Wayne0412 collected $8.50 from pot
+*** SUMMARY ***
+Total pot $8.90 | Rake $0.40 
+Board [Ts 4c 2d Ad 6d]
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: coryh74 (small blind) folded on the River
+Seat 5: Wayne0412 (big blind) collected ($8.50)
+Seat 6: FanofRedSox folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx folded before Flop (didn't bet)
+Seat 8: johnny_nasch folded before Flop (didn't bet)
+Seat 9: korazn folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148797298:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:09:54 ET
+Table 'Ivar' 9-max Seat #3 is the button
+Seat 1: jakatax ($44.50 in chips) 
+Seat 2: Alameda22 ($49.50 in chips) 
+Seat 3: coryh74 ($21.15 in chips) 
+Seat 5: Wayne0412 ($56.85 in chips) 
+Seat 6: FanofRedSox ($11 in chips) 
+Seat 7: xFRIDAY13THx ($17.40 in chips) 
+Seat 8: johnny_nasch ($23.15 in chips) 
+Seat 9: korazn ($121.20 in chips) 
+Menegay will be allowed to play after the button
+Wayne0412: posts small blind $0.25
+FanofRedSox: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Td]
+xFRIDAY13THx: folds 
+johnny_nasch: raises $1.25 to $1.75
+korazn: folds 
+jakatax: folds 
+Alameda22: folds 
+coryh74: folds 
+Wayne0412: folds 
+FanofRedSox: calls $1.25
+*** FLOP *** [2c 6h 9d]
+FanofRedSox: checks 
+johnny_nasch: checks 
+*** TURN *** [2c 6h 9d] [As]
+FanofRedSox: checks 
+johnny_nasch: bets $2
+FanofRedSox: folds 
+Uncalled bet ($2) returned to johnny_nasch
+johnny_nasch collected $3.60 from pot
+johnny_nasch: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [2c 6h 9d As]
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 (button) folded before Flop (didn't bet)
+Seat 5: Wayne0412 (small blind) folded before Flop
+Seat 6: FanofRedSox (big blind) folded on the Turn
+Seat 7: xFRIDAY13THx folded before Flop (didn't bet)
+Seat 8: johnny_nasch collected ($3.60)
+Seat 9: korazn folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148832234:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:11:24 ET
+Table 'Ivar' 9-max Seat #5 is the button
+Seat 1: jakatax ($44.50 in chips) 
+Seat 2: Alameda22 ($49.50 in chips) 
+Seat 3: coryh74 ($21.15 in chips) 
+Seat 4: Menegay ($50 in chips) 
+Seat 5: Wayne0412 ($56.60 in chips) 
+Seat 6: FanofRedSox ($9.25 in chips) 
+Seat 7: xFRIDAY13THx ($17.40 in chips) 
+Seat 8: johnny_nasch ($25 in chips) 
+Seat 9: korazn ($121.20 in chips) 
+FanofRedSox: posts small blind $0.25
+xFRIDAY13THx: posts big blind $0.50
+Menegay: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 2c]
+johnny_nasch: folds 
+korazn: calls $0.50
+jakatax: folds 
+Alameda22: folds 
+coryh74: folds 
+Menegay: checks 
+Wayne0412: calls $0.50
+FanofRedSox: folds 
+xFRIDAY13THx: checks 
+*** FLOP *** [2d 9c Qs]
+xFRIDAY13THx: checks 
+korazn: checks 
+Menegay: checks 
+Wayne0412: bets $0.50
+xFRIDAY13THx: calls $0.50
+korazn: folds 
+Menegay: folds 
+*** TURN *** [2d 9c Qs] [6s]
+xFRIDAY13THx: checks 
+Wayne0412: bets $2
+xFRIDAY13THx: calls $2
+*** RIVER *** [2d 9c Qs 6s] [3s]
+xFRIDAY13THx: bets $3
+Wayne0412: folds 
+Uncalled bet ($3) returned to xFRIDAY13THx
+Wayne0412 is sitting out
+xFRIDAY13THx collected $6.90 from pot
+xFRIDAY13THx: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [2d 9c Qs 6s 3s]
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 folded before Flop (didn't bet)
+Seat 4: Menegay folded on the Flop
+Seat 5: Wayne0412 (button) folded on the River
+Seat 6: FanofRedSox (small blind) folded before Flop
+Seat 7: xFRIDAY13THx (big blind) collected ($6.90)
+Seat 8: johnny_nasch folded before Flop (didn't bet)
+Seat 9: korazn folded on the Flop
+
+
+
+PokerStars Game #20148873547:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:13:11 ET
+Table 'Ivar' 9-max Seat #6 is the button
+Seat 1: jakatax ($44.50 in chips) 
+Seat 2: Alameda22 ($49.50 in chips) 
+Seat 3: coryh74 ($21.15 in chips) 
+Seat 4: Menegay ($50 in chips) 
+Seat 6: FanofRedSox ($9 in chips) 
+Seat 7: xFRIDAY13THx ($21.30 in chips) 
+xFRIDAY13THx: posts small blind $0.25
+johnny_nasch: is sitting out 
+korazn: is sitting out 
+jakatax: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 3h]
+korazn leaves the table
+Alameda22: folds 
+coryh74: folds 
+johnny_nasch leaves the table
+Menegay: raises $1.25 to $1.75
+FanofRedSox: folds 
+xFRIDAY13THx: folds 
+jakatax: folds 
+Uncalled bet ($1.25) returned to Menegay
+Menegay collected $1.25 from pot
+Menegay: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: jakatax (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 folded before Flop (didn't bet)
+Seat 4: Menegay collected ($1.25)
+Seat 6: FanofRedSox (button) folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx (small blind) folded before Flop
+
+
+
+PokerStars Game #20148892210:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:13:59 ET
+Table 'Ivar' 9-max Seat #7 is the button
+Seat 1: jakatax ($44 in chips) 
+Seat 2: Alameda22 ($49.50 in chips) 
+Seat 3: coryh74 ($21.15 in chips) 
+Seat 4: Menegay ($50.75 in chips) 
+Seat 6: FanofRedSox ($9 in chips) 
+Seat 7: xFRIDAY13THx ($21.05 in chips) 
+jakatax: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 4h]
+coryh74: folds 
+Menegay: folds 
+FanofRedSox: folds 
+xFRIDAY13THx: raises $1 to $1.50
+jakatax: folds 
+Alameda22: folds 
+Uncalled bet ($1) returned to xFRIDAY13THx
+xFRIDAY13THx collected $1.25 from pot
+xFRIDAY13THx: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: jakatax (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: coryh74 folded before Flop (didn't bet)
+Seat 4: Menegay folded before Flop (didn't bet)
+Seat 6: FanofRedSox folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx (button) collected ($1.25)
+
+
+
+PokerStars Game #20148901819:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:14:24 ET
+Table 'Ivar' 9-max Seat #1 is the button
+Seat 1: jakatax ($43.75 in chips) 
+Seat 2: Alameda22 ($49 in chips) 
+Seat 3: coryh74 ($21.15 in chips) 
+Seat 4: Menegay ($50.75 in chips) 
+Seat 6: FanofRedSox ($9 in chips) 
+Seat 7: xFRIDAY13THx ($21.80 in chips) 
+Alameda22: posts small blind $0.25
+coryh74: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 4c]
+Menegay: folds 
+FanofRedSox: folds 
+xFRIDAY13THx: raises $1.25 to $1.75
+jakatax: folds 
+Alameda22: folds 
+coryh74: folds 
+Uncalled bet ($1.25) returned to xFRIDAY13THx
+xFRIDAY13THx collected $1.25 from pot
+xFRIDAY13THx: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: jakatax (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: coryh74 (big blind) folded before Flop
+Seat 4: Menegay folded before Flop (didn't bet)
+Seat 6: FanofRedSox folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx collected ($1.25)
+
+
+
+PokerStars Game #20148922144:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:15:17 ET
+Table 'Ivar' 9-max Seat #2 is the button
+Seat 1: jakatax ($43.75 in chips) 
+Seat 2: Alameda22 ($48.75 in chips) 
+Seat 3: coryh74 ($20.65 in chips) 
+Seat 4: Menegay ($50.75 in chips) 
+Seat 6: FanofRedSox ($9 in chips) 
+Seat 7: xFRIDAY13THx ($22.55 in chips) 
+coryh74: posts small blind $0.25
+Menegay: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 7c]
+FanofRedSox: raises $1 to $1.50
+xFRIDAY13THx: raises $3 to $4.50
+jakatax: folds 
+Alameda22: folds 
+coryh74: folds 
+Menegay: folds 
+FanofRedSox: raises $4.50 to $9 and is all-in
+xFRIDAY13THx: calls $4.50
+*** FLOP *** [2h 5s 4h]
+*** TURN *** [2h 5s 4h] [2d]
+*** RIVER *** [2h 5s 4h 2d] [4c]
+*** SHOW DOWN ***
+FanofRedSox: shows [Ks Ad] (two pair, Fours and Deuces)
+xFRIDAY13THx: shows [Qd Ac] (two pair, Fours and Deuces)
+FanofRedSox collected $8.95 from pot
+xFRIDAY13THx collected $8.90 from pot
+*** SUMMARY ***
+Total pot $18.75 | Rake $0.90 
+Board [2h 5s 4h 2d 4c]
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: coryh74 (small blind) folded before Flop
+Seat 4: Menegay (big blind) folded before Flop
+Seat 6: FanofRedSox showed [Ks Ad] and won ($8.95) with two pair, Fours and Deuces
+Seat 7: xFRIDAY13THx showed [Qd Ac] and won ($8.90) with two pair, Fours and Deuces
+
+
+
+PokerStars Game #20148938251:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:15:58 ET
+Table 'Ivar' 9-max Seat #3 is the button
+Seat 1: jakatax ($43.75 in chips) 
+Seat 2: Alameda22 ($48.75 in chips) 
+Seat 3: coryh74 ($20.40 in chips) 
+Seat 4: Menegay ($50.25 in chips) 
+Seat 6: FanofRedSox ($8.95 in chips) 
+Seat 7: xFRIDAY13THx ($22.45 in chips) 
+Menegay: posts small blind $0.25
+FanofRedSox: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 6s]
+xFRIDAY13THx: folds 
+jakatax: folds 
+Alameda22: folds 
+coryh74: raises $0.50 to $1
+Menegay: folds 
+FanofRedSox: raises $2.25 to $3.25
+coryh74: calls $2.25
+*** FLOP *** [7d Kd Qs]
+FanofRedSox: bets $2.50
+coryh74: raises $4.50 to $7
+FanofRedSox: calls $3.20 and is all-in
+Uncalled bet ($1.30) returned to coryh74
+*** TURN *** [7d Kd Qs] [Jc]
+*** RIVER *** [7d Kd Qs Jc] [3c]
+*** SHOW DOWN ***
+FanofRedSox: shows [9s 9h] (a pair of Nines)
+coryh74: shows [Kc Qd] (two pair, Kings and Queens)
+coryh74 collected $17.30 from pot
+*** SUMMARY ***
+Total pot $18.15 | Rake $0.85 
+Board [7d Kd Qs Jc 3c]
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 (button) showed [Kc Qd] and won ($17.30) with two pair, Kings and Queens
+Seat 4: Menegay (small blind) folded before Flop
+Seat 6: FanofRedSox (big blind) showed [9s 9h] and lost with a pair of Nines
+Seat 7: xFRIDAY13THx folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148953677:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:16:38 ET
+Table 'Ivar' 9-max Seat #4 is the button
+Seat 1: jakatax ($43.75 in chips) 
+Seat 2: Alameda22 ($48.75 in chips) 
+Seat 3: coryh74 ($28.75 in chips) 
+Seat 4: Menegay ($50 in chips) 
+Seat 7: xFRIDAY13THx ($22.45 in chips) 
+xFRIDAY13THx: posts small blind $0.25
+jakatax: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 8d]
+FanofRedSox leaves the table
+Alameda22: folds 
+coryh74: folds 
+Menegay: folds 
+xFRIDAY13THx: folds 
+Uncalled bet ($0.25) returned to jakatax
+jakatax collected $0.50 from pot
+jakatax: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: jakatax (big blind) collected ($0.50)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 folded before Flop (didn't bet)
+Seat 4: Menegay (button) folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx (small blind) folded before Flop
+
+
+
+PokerStars Game #20148964144:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:17:05 ET
+Table 'Ivar' 9-max Seat #7 is the button
+Seat 1: jakatax ($44 in chips) 
+Seat 2: Alameda22 ($48.75 in chips) 
+Seat 3: coryh74 ($28.75 in chips) 
+Seat 4: Menegay ($50 in chips) 
+Seat 7: xFRIDAY13THx ($22.20 in chips) 
+jakatax: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 8c]
+coryh74: folds 
+Menegay: folds 
+xFRIDAY13THx: raises $1 to $1.50
+jakatax: folds 
+Alameda22: folds 
+Uncalled bet ($1) returned to xFRIDAY13THx
+xFRIDAY13THx collected $1.25 from pot
+xFRIDAY13THx: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: jakatax (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: coryh74 folded before Flop (didn't bet)
+Seat 4: Menegay folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx (button) collected ($1.25)
+
+
+
+PokerStars Game #20148973813:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:17:31 ET
+Table 'Ivar' 9-max Seat #1 is the button
+Seat 1: jakatax ($43.75 in chips) 
+Seat 2: Alameda22 ($48.25 in chips) 
+Seat 3: coryh74 ($28.75 in chips) 
+Seat 4: Menegay ($50 in chips) 
+Seat 7: xFRIDAY13THx ($22.95 in chips) 
+Alameda22: posts small blind $0.25
+coryh74: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 5s]
+Menegay: folds 
+xFRIDAY13THx: raises $1 to $1.50
+FoCal00 joins the table at seat #8 
+Wayne0412 has returned
+jakatax: folds 
+Alameda22: folds 
+coryh74: folds 
+Uncalled bet ($1) returned to xFRIDAY13THx
+xFRIDAY13THx collected $1.25 from pot
+xFRIDAY13THx: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: jakatax (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: coryh74 (big blind) folded before Flop
+Seat 4: Menegay folded before Flop (didn't bet)
+Seat 7: xFRIDAY13THx collected ($1.25)
+
+
+
+PokerStars Game #20148992392:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:18:19 ET
+Table 'Ivar' 9-max Seat #2 is the button
+Seat 1: jakatax ($43.75 in chips) 
+Seat 2: Alameda22 ($48 in chips) 
+Seat 3: coryh74 ($28.25 in chips) 
+Seat 5: Wayne0412 ($53.60 in chips) 
+Seat 7: xFRIDAY13THx ($23.70 in chips) 
+Seat 8: FoCal00 ($30 in chips) 
+coryh74: posts small blind $0.25
+Menegay: is sitting out 
+Wayne0412: posts big blind $0.50
+FoCal00: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Jc]
+xFRIDAY13THx: folds 
+FoCal00: checks 
+xFRIDAY13THx leaves the table
+jakatax: folds 
+Alameda22: folds 
+coryh74: calls $0.25
+Wayne0412: checks 
+*** FLOP *** [6d 2h 6h]
+coryh74: checks 
+Wayne0412: checks 
+FoCal00: bets $1
+coryh74: folds 
+Wayne0412: folds 
+Uncalled bet ($1) returned to FoCal00
+FoCal00 collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [6d 2h 6h]
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: coryh74 (small blind) folded on the Flop
+Seat 5: Wayne0412 (big blind) folded on the Flop
+Seat 7: xFRIDAY13THx folded before Flop (didn't bet)
+Seat 8: FoCal00 collected ($1.45)
+
+
+
+PokerStars Game #20149014497:  Hold'em Pot Limit ($0.25/$0.50) - 2008/09/04 18:19:16 ET
+Table 'Ivar' 9-max Seat #3 is the button
+Seat 1: jakatax ($43.75 in chips) 
+Seat 2: Alameda22 ($48 in chips) 
+Seat 3: coryh74 ($27.75 in chips) 
+Seat 5: Wayne0412 ($53.10 in chips) 
+Seat 8: FoCal00 ($30.95 in chips) 
+Wayne0412: posts small blind $0.25
+FoCal00: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Jd]
+Menegay leaves the table
+jakatax: folds 
+Alameda22: folds 
+coryh74: raises $0.50 to $1
+Wayne0412: folds 
+FoCal00: calls $0.50
+*** FLOP *** [4c Ad 3h]
+FoCal00: bets $1
+coryh74: calls $1
+*** TURN *** [4c Ad 3h] [Js]
+FoCal00: bets $1.50
+coryh74: calls $1.50
+*** RIVER *** [4c Ad 3h Js] [Kh]
+FoCal00: checks 
+coryh74: bets $3
+FoCal00: folds 
+Uncalled bet ($3) returned to coryh74
+coryh74 collected $6.90 from pot
+coryh74: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [4c Ad 3h Js Kh]
+Seat 1: jakatax folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: coryh74 (button) collected ($6.90)
+Seat 5: Wayne0412 (small blind) folded before Flop
+Seat 8: FoCal00 (big blind) folded on the River
+
+
+

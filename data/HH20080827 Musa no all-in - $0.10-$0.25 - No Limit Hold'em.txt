@@ -1,0 +1,1602 @@
+PokerStars Game #19950903608:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:24:48 (ET)
+Table 'Musa' 9-max Seat #9 is the button
+Seat 1: Bubbagump ($31.30 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: M0RE=C0WBELL ($33.10 in chips) 
+Seat 4: nedhardly ($14.65 in chips) 
+Seat 5: holloricsi ($29.85 in chips) 
+Seat 6: yjqian23 ($26.75 in chips) 
+Seat 7: Haagse Gnoom ($13.75 in chips) 
+Seat 9: outos ($26.30 in chips) 
+Bubbagump: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 5s]
+M0RE=C0WBELL: folds 
+unevrno joins the table at seat #8 
+nedhardly: folds 
+holloricsi: calls $0.25
+yjqian23: folds 
+Haagse Gnoom: folds 
+outos: calls $0.25
+Bubbagump: calls $0.15
+Alameda22: checks 
+*** FLOP *** [9d 7h Ad]
+Bubbagump: bets $0.75
+Alameda22: folds 
+holloricsi: folds 
+outos: calls $0.75
+*** TURN *** [9d 7h Ad] [Qh]
+Bubbagump: bets $2
+outos: calls $2
+*** RIVER *** [9d 7h Ad Qh] [Kd]
+Bubbagump: checks 
+outos: checks 
+*** SHOW DOWN ***
+Bubbagump: shows [9c Ac] (two pair, Aces and Nines)
+outos: mucks hand 
+Bubbagump collected $6.20 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.30 
+Board [9d 7h Ad Qh Kd]
+Seat 1: Bubbagump (small blind) showed [9c Ac] and won ($6.20) with two pair, Aces and Nines
+Seat 2: Alameda22 (big blind) folded on the Flop
+Seat 3: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 4: nedhardly folded before Flop (didn't bet)
+Seat 5: holloricsi folded on the Flop
+Seat 6: yjqian23 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 9: outos (button) mucked [8s 6h]
+
+
+
+PokerStars Game #19950943888:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:26:32 (ET)
+Table 'Musa' 9-max Seat #1 is the button
+Seat 1: Bubbagump ($34.50 in chips) 
+Seat 2: Alameda22 ($24.75 in chips) 
+Seat 3: M0RE=C0WBELL ($33.10 in chips) 
+Seat 4: nedhardly ($14.65 in chips) 
+Seat 5: holloricsi ($29.60 in chips) 
+Seat 6: yjqian23 ($26.75 in chips) 
+Seat 7: Haagse Gnoom ($13.75 in chips) 
+Seat 9: outos ($23.30 in chips) 
+Alameda22: posts small blind $0.10
+M0RE=C0WBELL: posts big blind $0.25
+unevrno: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 8h]
+nedhardly: folds 
+holloricsi: calls $0.25
+yjqian23: folds 
+Haagse Gnoom: folds 
+outos: raises $0.75 to $1
+Bubbagump: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+holloricsi: calls $0.75
+*** FLOP *** [6c 8s 7c]
+holloricsi: checks 
+outos: bets $1.25
+holloricsi: folds 
+Uncalled bet ($1.25) returned to outos
+outos collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [6c 8s 7c]
+Seat 1: Bubbagump (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: M0RE=C0WBELL (big blind) folded before Flop
+Seat 4: nedhardly folded before Flop (didn't bet)
+Seat 5: holloricsi folded on the Flop
+Seat 6: yjqian23 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 9: outos collected ($2.25)
+
+
+
+PokerStars Game #19950973939:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:27:50 (ET)
+Table 'Musa' 9-max Seat #2 is the button
+Seat 1: Bubbagump ($34.50 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: M0RE=C0WBELL ($32.85 in chips) 
+Seat 4: nedhardly ($14.65 in chips) 
+Seat 5: holloricsi ($28.60 in chips) 
+Seat 6: yjqian23 ($26.75 in chips) 
+Seat 7: Haagse Gnoom ($13.75 in chips) 
+Seat 9: outos ($24.55 in chips) 
+M0RE=C0WBELL: posts small blind $0.10
+nedhardly: posts big blind $0.25
+unevrno: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 6c]
+holloricsi: folds 
+holloricsi leaves the table
+yjqian23: folds 
+Haagse Gnoom: folds 
+outos: folds 
+Bubbagump: folds 
+Alameda22: folds 
+sullmark543 joins the table at seat #5 
+M0RE=C0WBELL: folds 
+Uncalled bet ($0.15) returned to nedhardly
+nedhardly collected $0.20 from pot
+nedhardly: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: M0RE=C0WBELL (small blind) folded before Flop
+Seat 4: nedhardly (big blind) collected ($0.20)
+Seat 5: holloricsi folded before Flop (didn't bet)
+Seat 6: yjqian23 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19950994437:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:28:43 (ET)
+Table 'Musa' 9-max Seat #3 is the button
+Seat 1: Bubbagump ($34.50 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: M0RE=C0WBELL ($32.75 in chips) 
+Seat 4: nedhardly ($14.75 in chips) 
+Seat 5: sullmark543 ($25 in chips) 
+Seat 6: yjqian23 ($26.75 in chips) 
+Seat 7: Haagse Gnoom ($13.75 in chips) 
+Seat 9: outos ($24.55 in chips) 
+nedhardly: posts small blind $0.10
+sullmark543: posts big blind $0.25
+unevrno: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 2h]
+yjqian23: folds 
+Haagse Gnoom: folds 
+outos: calls $0.25
+Bubbagump: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+nedhardly: calls $0.15
+sullmark543: checks 
+*** FLOP *** [5s 7s 9d]
+nedhardly: checks 
+sullmark543: checks 
+outos: bets $0.75
+nedhardly: folds 
+sullmark543: calls $0.75
+*** TURN *** [5s 7s 9d] [Kd]
+sullmark543: checks 
+outos: bets $1.50
+sullmark543: folds 
+Uncalled bet ($1.50) returned to outos
+outos collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [5s 7s 9d Kd]
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: M0RE=C0WBELL (button) folded before Flop (didn't bet)
+Seat 4: nedhardly (small blind) folded on the Flop
+Seat 5: sullmark543 (big blind) folded on the Turn
+Seat 6: yjqian23 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 9: outos collected ($2.15)
+
+
+
+PokerStars Game #19951025786:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:30:03 (ET)
+Table 'Musa' 9-max Seat #4 is the button
+Seat 1: Bubbagump ($34.50 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: M0RE=C0WBELL ($32.75 in chips) 
+Seat 4: nedhardly ($14.50 in chips) 
+Seat 5: sullmark543 ($24 in chips) 
+Seat 7: Haagse Gnoom ($13.75 in chips) 
+Seat 9: outos ($25.70 in chips) 
+sullmark543: posts small blind $0.10
+yjqian23: is sitting out 
+yjqian23 leaves the table
+Haagse Gnoom: posts big blind $0.25
+unevrno: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 8s]
+outos: folds 
+Bubbagump: folds 
+Alameda22: folds 
+EnjoyLife73 joins the table at seat #6 
+M0RE=C0WBELL: folds 
+nedhardly: folds 
+sullmark543: calls $0.15
+Haagse Gnoom: checks 
+*** FLOP *** [Ks 4s 7h]
+sullmark543: checks 
+Haagse Gnoom: checks 
+*** TURN *** [Ks 4s 7h] [2s]
+sullmark543: checks 
+Haagse Gnoom: checks 
+*** RIVER *** [Ks 4s 7h 2s] [Jd]
+sullmark543: checks 
+Haagse Gnoom: checks 
+*** SHOW DOWN ***
+sullmark543: shows [3c Ac] (high card Ace)
+Haagse Gnoom: mucks hand 
+sullmark543 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Ks 4s 7h 2s Jd]
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 4: nedhardly (button) folded before Flop (didn't bet)
+Seat 5: sullmark543 (small blind) showed [3c Ac] and won ($0.50) with high card Ace
+Seat 7: Haagse Gnoom (big blind) mucked [9c Th]
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951050839:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:31:08 (ET)
+Table 'Musa' 9-max Seat #5 is the button
+Seat 1: Bubbagump ($34.50 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: M0RE=C0WBELL ($32.75 in chips) 
+Seat 4: nedhardly ($14.50 in chips) 
+Seat 5: sullmark543 ($24.25 in chips) 
+Seat 7: Haagse Gnoom ($13.50 in chips) 
+Seat 8: unevrno ($15 in chips) 
+Seat 9: outos ($25.70 in chips) 
+EnjoyLife73 will be allowed to play after the button
+Haagse Gnoom: posts small blind $0.10
+unevrno: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 6h]
+outos: folds 
+Bubbagump: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+nedhardly: folds 
+sullmark543: folds 
+Haagse Gnoom: calls $0.15
+unevrno: checks 
+*** FLOP *** [2c 8d Qd]
+Haagse Gnoom: checks 
+unevrno: checks 
+*** TURN *** [2c 8d Qd] [4h]
+Haagse Gnoom: checks 
+unevrno: checks 
+*** RIVER *** [2c 8d Qd 4h] [6c]
+Haagse Gnoom: checks 
+unevrno: checks 
+*** SHOW DOWN ***
+Haagse Gnoom: shows [9c 3s] (high card Queen)
+unevrno: shows [7s Kh] (high card King)
+unevrno collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [2c 8d Qd 4h 6c]
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 4: nedhardly folded before Flop (didn't bet)
+Seat 5: sullmark543 (button) folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom (small blind) showed [9c 3s] and lost with high card Queen
+Seat 8: unevrno (big blind) showed [7s Kh] and won ($0.50) with high card King
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951073854:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:32:08 (ET)
+Table 'Musa' 9-max Seat #7 is the button
+Seat 1: Bubbagump ($34.50 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: M0RE=C0WBELL ($32.75 in chips) 
+Seat 4: nedhardly ($14.50 in chips) 
+Seat 5: sullmark543 ($24.25 in chips) 
+Seat 7: Haagse Gnoom ($13.25 in chips) 
+Seat 8: unevrno ($15.25 in chips) 
+Seat 9: outos ($25.70 in chips) 
+unevrno: posts small blind $0.10
+outos: posts big blind $0.25
+EnjoyLife73: is sitting out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 9d]
+Bubbagump: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+nedhardly: folds 
+sullmark543: folds 
+Haagse Gnoom: folds 
+unevrno: folds 
+Uncalled bet ($0.15) returned to outos
+outos collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 4: nedhardly folded before Flop (didn't bet)
+Seat 5: sullmark543 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom (button) folded before Flop (didn't bet)
+Seat 8: unevrno (small blind) folded before Flop
+Seat 9: outos (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19951088060:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:32:45 (ET)
+Table 'Musa' 9-max Seat #8 is the button
+Seat 1: Bubbagump ($34.50 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: M0RE=C0WBELL ($32.75 in chips) 
+Seat 4: nedhardly ($14.50 in chips) 
+Seat 5: sullmark543 ($24.25 in chips) 
+Seat 7: Haagse Gnoom ($13.25 in chips) 
+Seat 8: unevrno ($15.15 in chips) 
+Seat 9: outos ($25.80 in chips) 
+outos: posts small blind $0.10
+Bubbagump: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 3d]
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+nedhardly: raises $0.75 to $1
+sullmark543: folds 
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: folds 
+Bubbagump: folds 
+Uncalled bet ($0.75) returned to nedhardly
+nedhardly collected $0.60 from pot
+nedhardly: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Bubbagump (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 4: nedhardly collected ($0.60)
+Seat 5: sullmark543 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno (button) folded before Flop (didn't bet)
+Seat 9: outos (small blind) folded before Flop
+
+
+
+PokerStars Game #19951101099:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:33:20 (ET)
+Table 'Musa' 9-max Seat #9 is the button
+Seat 1: Bubbagump ($34.25 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: M0RE=C0WBELL ($32.75 in chips) 
+Seat 4: nedhardly ($14.85 in chips) 
+Seat 5: sullmark543 ($24.25 in chips) 
+Seat 7: Haagse Gnoom ($13.25 in chips) 
+Seat 8: unevrno ($15.15 in chips) 
+Seat 9: outos ($25.70 in chips) 
+Bubbagump: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 3c]
+M0RE=C0WBELL: folds 
+nedhardly: folds 
+sullmark543: raises $0.25 to $0.50
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: folds 
+Bubbagump: raises $1 to $1.50
+Alameda22: folds 
+sullmark543: calls $1
+*** FLOP *** [Qs 6d Kh]
+Bubbagump: checks 
+sullmark543: bets $1.50
+Bubbagump: calls $1.50
+*** TURN *** [Qs 6d Kh] [2c]
+Bubbagump: checks 
+sullmark543: bets $2.50
+Bubbagump: raises $5.50 to $8
+sullmark543: calls $5.50
+*** RIVER *** [Qs 6d Kh 2c] [5c]
+Bubbagump: bets $13.50
+sullmark543: calls $13.25 and is all-in
+Uncalled bet ($0.25) returned to Bubbagump
+*** SHOW DOWN ***
+Bubbagump: shows [Kc Kd] (three of a kind, Kings)
+sullmark543: mucks hand 
+Bubbagump collected $46.40 from pot
+*** SUMMARY ***
+Total pot $48.75 | Rake $2.35 
+Board [Qs 6d Kh 2c 5c]
+Seat 1: Bubbagump (small blind) showed [Kc Kd] and won ($46.40) with three of a kind, Kings
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 4: nedhardly folded before Flop (didn't bet)
+Seat 5: sullmark543 mucked [Ks Js]
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno folded before Flop (didn't bet)
+Seat 9: outos (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951131728:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:34:41 (ET)
+Table 'Musa' 9-max Seat #1 is the button
+Seat 1: Bubbagump ($56.40 in chips) 
+Seat 2: Alameda22 ($24.40 in chips) 
+Seat 3: M0RE=C0WBELL ($32.75 in chips) 
+Seat 4: nedhardly ($14.85 in chips) 
+Seat 7: Haagse Gnoom ($13.25 in chips) 
+Seat 8: unevrno ($15.15 in chips) 
+Seat 9: outos ($25.70 in chips) 
+Alameda22: posts small blind $0.10
+M0RE=C0WBELL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Qd]
+nedhardly: folds 
+Haagse Gnoom: folds 
+sullmark543 leaves the table
+unevrno: folds 
+outos: folds 
+Bubbagump: folds 
+memento04 joins the table at seat #5 
+Alameda22: raises $0.50 to $0.75
+M0RE=C0WBELL: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.50 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Bubbagump (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) collected ($0.50)
+Seat 3: M0RE=C0WBELL (big blind) folded before Flop
+Seat 4: nedhardly folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno folded before Flop (didn't bet)
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951144739:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:35:15 (ET)
+Table 'Musa' 9-max Seat #2 is the button
+Seat 1: Bubbagump ($56.40 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: M0RE=C0WBELL ($32.50 in chips) 
+Seat 4: nedhardly ($14.85 in chips) 
+Seat 7: Haagse Gnoom ($13.25 in chips) 
+Seat 8: unevrno ($15.15 in chips) 
+Seat 9: outos ($25.70 in chips) 
+M0RE=C0WBELL: posts small blind $0.10
+nedhardly: posts big blind $0.25
+memento04: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Th]
+Haagse Gnoom: folds 
+unevrno: calls $0.25
+outos: folds 
+Bubbagump: folds 
+Alameda22: calls $0.25
+M0RE=C0WBELL: calls $0.15
+nedhardly: checks 
+*** FLOP *** [Td Tc Qh]
+M0RE=C0WBELL: checks 
+nedhardly: checks 
+unevrno: checks 
+Alameda22: bets $0.50
+M0RE=C0WBELL: folds 
+nedhardly: folds 
+unevrno: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.95 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Td Tc Qh]
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) collected ($0.95)
+Seat 3: M0RE=C0WBELL (small blind) folded on the Flop
+Seat 4: nedhardly (big blind) folded on the Flop
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno folded on the Flop
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951175658:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:36:37 (ET)
+Table 'Musa' 9-max Seat #3 is the button
+Seat 1: Bubbagump ($56.40 in chips) 
+Seat 2: Alameda22 ($25.35 in chips) 
+Seat 3: M0RE=C0WBELL ($32.25 in chips) 
+Seat 4: nedhardly ($14.60 in chips) 
+Seat 5: memento04 ($15 in chips) 
+Seat 7: Haagse Gnoom ($13.25 in chips) 
+Seat 8: unevrno ($14.90 in chips) 
+Seat 9: outos ($25.70 in chips) 
+nedhardly: posts small blind $0.10
+memento04: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 9h]
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: folds 
+Bubbagump: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+nedhardly: calls $0.15
+memento04: checks 
+*** FLOP *** [Qd 9c Kh]
+nedhardly: checks 
+memento04: checks 
+*** TURN *** [Qd 9c Kh] [2d]
+nedhardly: bets $0.50
+memento04: calls $0.50
+*** RIVER *** [Qd 9c Kh 2d] [5s]
+nedhardly: checks 
+memento04: checks 
+*** SHOW DOWN ***
+nedhardly: shows [4d 4c] (a pair of Fours)
+memento04: shows [Qc 8d] (a pair of Queens)
+memento04 collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Qd 9c Kh 2d 5s]
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: M0RE=C0WBELL (button) folded before Flop (didn't bet)
+Seat 4: nedhardly (small blind) showed [4d 4c] and lost with a pair of Fours
+Seat 5: memento04 (big blind) showed [Qc 8d] and won ($1.45) with a pair of Queens
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno folded before Flop (didn't bet)
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951197565:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:37:35 (ET)
+Table 'Musa' 9-max Seat #4 is the button
+Seat 1: Bubbagump ($56.40 in chips) 
+Seat 2: Alameda22 ($25.35 in chips) 
+Seat 3: M0RE=C0WBELL ($32.25 in chips) 
+Seat 4: nedhardly ($13.85 in chips) 
+Seat 5: memento04 ($15.70 in chips) 
+Seat 7: Haagse Gnoom ($13.25 in chips) 
+Seat 8: unevrno ($14.90 in chips) 
+Seat 9: outos ($25.70 in chips) 
+memento04: posts small blind $0.10
+Haagse Gnoom: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 4s]
+unevrno: folds 
+outos: folds 
+Bubbagump: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+nedhardly: raises $0.50 to $0.75
+memento04: raises $1 to $1.75
+Haagse Gnoom: folds 
+nedhardly: calls $1
+*** FLOP *** [Qh 5h 5s]
+memento04: bets $1.50
+nedhardly: folds 
+Uncalled bet ($1.50) returned to memento04
+memento04 collected $3.60 from pot
+memento04: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [Qh 5h 5s]
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 4: nedhardly (button) folded on the Flop
+Seat 5: memento04 (small blind) collected ($3.60)
+Seat 7: Haagse Gnoom (big blind) folded before Flop
+Seat 8: unevrno folded before Flop (didn't bet)
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951225339:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:38:47 (ET)
+Table 'Musa' 9-max Seat #5 is the button
+Seat 1: Bubbagump ($56.40 in chips) 
+Seat 2: Alameda22 ($25.35 in chips) 
+Seat 3: M0RE=C0WBELL ($32.25 in chips) 
+Seat 4: nedhardly ($12.10 in chips) 
+Seat 5: memento04 ($17.55 in chips) 
+Seat 7: Haagse Gnoom ($13 in chips) 
+Seat 8: unevrno ($14.90 in chips) 
+Seat 9: outos ($25.70 in chips) 
+Haagse Gnoom: posts small blind $0.10
+unevrno: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Qh]
+outos: folds 
+Bubbagump: folds 
+Alameda22: raises $0.50 to $0.75
+M0RE=C0WBELL: folds 
+nedhardly: folds 
+memento04: folds 
+Haagse Gnoom: folds 
+unevrno: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 collected ($0.60)
+Seat 3: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 4: nedhardly folded before Flop (didn't bet)
+Seat 5: memento04 (button) folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom (small blind) folded before Flop
+Seat 8: unevrno (big blind) folded before Flop
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951238531:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:39:22 (ET)
+Table 'Musa' 9-max Seat #7 is the button
+Seat 1: Bubbagump ($56.40 in chips) 
+Seat 2: Alameda22 ($25.70 in chips) 
+Seat 3: M0RE=C0WBELL ($32.25 in chips) 
+Seat 4: nedhardly ($12.10 in chips) 
+Seat 5: memento04 ($17.55 in chips) 
+Seat 7: Haagse Gnoom ($12.90 in chips) 
+Seat 8: unevrno ($14.65 in chips) 
+Seat 9: outos ($25.70 in chips) 
+unevrno: posts small blind $0.10
+outos: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 8d]
+Bubbagump: folds 
+Alameda22: folds 
+M0RE=C0WBELL: calls $0.25
+nedhardly: calls $0.25
+memento04: folds 
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: checks 
+*** FLOP *** [6d Qd 2d]
+outos: checks 
+M0RE=C0WBELL: checks 
+nedhardly: bets $0.75
+outos: folds 
+M0RE=C0WBELL: folds 
+Uncalled bet ($0.75) returned to nedhardly
+nedhardly collected $0.85 from pot
+nedhardly: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [6d Qd 2d]
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: M0RE=C0WBELL folded on the Flop
+Seat 4: nedhardly collected ($0.85)
+Seat 5: memento04 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom (button) folded before Flop (didn't bet)
+Seat 8: unevrno (small blind) folded before Flop
+Seat 9: outos (big blind) folded on the Flop
+
+
+
+PokerStars Game #19951256963:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:40:10 (ET)
+Table 'Musa' 9-max Seat #8 is the button
+Seat 1: Bubbagump ($56.40 in chips) 
+Seat 2: Alameda22 ($25.70 in chips) 
+Seat 3: M0RE=C0WBELL ($32 in chips) 
+Seat 4: nedhardly ($12.70 in chips) 
+Seat 5: memento04 ($17.55 in chips) 
+Seat 7: Haagse Gnoom ($12.90 in chips) 
+Seat 8: unevrno ($14.55 in chips) 
+Seat 9: outos ($25.45 in chips) 
+outos: posts small blind $0.10
+Bubbagump: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Ah]
+EnjoyLife73 leaves the table
+bmadison89 joins the table at seat #6 
+Alameda22: raises $0.50 to $0.75
+M0RE=C0WBELL: folds 
+nedhardly: folds 
+memento04: folds 
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: folds 
+Bubbagump: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Bubbagump (big blind) folded before Flop
+Seat 2: Alameda22 collected ($0.60)
+Seat 3: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 4: nedhardly folded before Flop (didn't bet)
+Seat 5: memento04 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno (button) folded before Flop (didn't bet)
+Seat 9: outos (small blind) folded before Flop
+
+
+
+PokerStars Game #19951270731:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:40:46 (ET)
+Table 'Musa' 9-max Seat #9 is the button
+Seat 1: Bubbagump ($56.15 in chips) 
+Seat 2: Alameda22 ($26.05 in chips) 
+Seat 3: M0RE=C0WBELL ($32 in chips) 
+Seat 4: nedhardly ($12.70 in chips) 
+Seat 5: memento04 ($17.55 in chips) 
+Seat 6: bmadison89 ($5.05 in chips) 
+Seat 7: Haagse Gnoom ($12.90 in chips) 
+Seat 8: unevrno ($14.55 in chips) 
+Seat 9: outos ($25.35 in chips) 
+Bubbagump: posts small blind $0.10
+Alameda22: posts big blind $0.25
+bmadison89: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 2s]
+M0RE=C0WBELL: folds 
+nedhardly: folds 
+memento04: calls $0.25
+bmadison89: checks 
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: folds 
+Bubbagump: folds 
+Alameda22: checks 
+*** FLOP *** [Th Ad 6s]
+Alameda22: checks 
+memento04: checks 
+bmadison89: checks 
+*** TURN *** [Th Ad 6s] [2h]
+Alameda22: checks 
+memento04: checks 
+bmadison89: checks 
+*** RIVER *** [Th Ad 6s 2h] [Jd]
+Alameda22: checks 
+memento04: checks 
+bmadison89: checks 
+*** SHOW DOWN ***
+Alameda22: shows [5h 2s] (a pair of Deuces)
+memento04: mucks hand 
+bmadison89: mucks hand 
+Alameda22 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Th Ad 6s 2h Jd]
+Seat 1: Bubbagump (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) showed [5h 2s] and won ($0.85) with a pair of Deuces
+Seat 3: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 4: nedhardly folded before Flop (didn't bet)
+Seat 5: memento04 mucked [Kh 4h]
+Seat 6: bmadison89 mucked [9d 7c]
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno folded before Flop (didn't bet)
+Seat 9: outos (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951298866:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:41:58 (ET)
+Table 'Musa' 9-max Seat #1 is the button
+Seat 1: Bubbagump ($56.05 in chips) 
+Seat 2: Alameda22 ($26.65 in chips) 
+Seat 3: M0RE=C0WBELL ($32 in chips) 
+Seat 4: nedhardly ($12.70 in chips) 
+Seat 5: memento04 ($17.30 in chips) 
+Seat 6: bmadison89 ($4.80 in chips) 
+Seat 7: Haagse Gnoom ($12.90 in chips) 
+Seat 8: unevrno ($14.55 in chips) 
+Seat 9: outos ($25.35 in chips) 
+Alameda22: posts small blind $0.10
+M0RE=C0WBELL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s As]
+nedhardly: calls $0.25
+memento04: calls $0.25
+bmadison89: folds 
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: folds 
+Bubbagump: folds 
+Alameda22: calls $0.15
+M0RE=C0WBELL: checks 
+*** FLOP *** [Td 3s Kc]
+Alameda22: checks 
+M0RE=C0WBELL: checks 
+nedhardly: bets $0.50
+memento04: raises $1.25 to $1.75
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+nedhardly: calls $1.25
+*** TURN *** [Td 3s Kc] [6d]
+nedhardly: bets $3
+memento04: raises $12.30 to $15.30 and is all-in
+nedhardly said, "set of 3's?"
+nedhardly: calls $7.70 and is all-in
+Uncalled bet ($4.60) returned to memento04
+*** RIVER *** [Td 3s Kc 6d] [Js]
+*** SHOW DOWN ***
+nedhardly: shows [Th Kh] (two pair, Kings and Tens)
+memento04: mucks hand 
+nedhardly collected $24.65 from pot
+*** SUMMARY ***
+Total pot $25.90 | Rake $1.25 
+Board [Td 3s Kc 6d Js]
+Seat 1: Bubbagump (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded on the Flop
+Seat 3: M0RE=C0WBELL (big blind) folded on the Flop
+Seat 4: nedhardly showed [Th Kh] and won ($24.65) with two pair, Kings and Tens
+Seat 5: memento04 mucked [Qs Ks]
+Seat 6: bmadison89 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno folded before Flop (didn't bet)
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951346856:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:44:02 (ET)
+Table 'Musa' 9-max Seat #2 is the button
+Seat 1: Bubbagump ($56.05 in chips) 
+Seat 2: Alameda22 ($26.40 in chips) 
+Seat 3: M0RE=C0WBELL ($31.75 in chips) 
+Seat 4: nedhardly ($25 in chips) 
+Seat 5: memento04 ($4.60 in chips) 
+Seat 6: bmadison89 ($4.80 in chips) 
+Seat 7: Haagse Gnoom ($12.90 in chips) 
+Seat 8: unevrno ($14.55 in chips) 
+Seat 9: outos ($25.35 in chips) 
+M0RE=C0WBELL: posts small blind $0.10
+nedhardly: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 3d]
+memento04: calls $0.25
+bmadison89: calls $0.25
+Haagse Gnoom: folds 
+unevrno: raises $1.25 to $1.50
+outos: folds 
+Bubbagump: calls $1.50
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+nedhardly: folds 
+memento04: folds 
+bmadison89: folds 
+*** FLOP *** [5h 4c Th]
+unevrno: bets $3.50
+Bubbagump: folds 
+Uncalled bet ($3.50) returned to unevrno
+unevrno collected $3.70 from pot
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [5h 4c Th]
+Seat 1: Bubbagump folded on the Flop
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: M0RE=C0WBELL (small blind) folded before Flop
+Seat 4: nedhardly (big blind) folded before Flop
+Seat 5: memento04 folded before Flop
+Seat 6: bmadison89 folded before Flop
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno collected ($3.70)
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951372886:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:45:09 (ET)
+Table 'Musa' 9-max Seat #3 is the button
+Seat 1: Bubbagump ($54.55 in chips) 
+Seat 2: Alameda22 ($26.40 in chips) 
+Seat 3: M0RE=C0WBELL ($31.65 in chips) 
+Seat 4: nedhardly ($24.75 in chips) 
+Seat 5: memento04 ($4.35 in chips) 
+Seat 6: bmadison89 ($4.55 in chips) 
+Seat 7: Haagse Gnoom ($12.90 in chips) 
+Seat 8: unevrno ($16.75 in chips) 
+Seat 9: outos ($25.35 in chips) 
+nedhardly: posts small blind $0.10
+memento04: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Kc]
+bmadison89: folds 
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: folds 
+Bubbagump: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+nedhardly: folds 
+Uncalled bet ($0.15) returned to memento04
+memento04 collected $0.20 from pot
+memento04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: M0RE=C0WBELL (button) folded before Flop (didn't bet)
+Seat 4: nedhardly (small blind) folded before Flop
+Seat 5: memento04 (big blind) collected ($0.20)
+Seat 6: bmadison89 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno folded before Flop (didn't bet)
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951384147:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:45:38 (ET)
+Table 'Musa' 9-max Seat #4 is the button
+Seat 1: Bubbagump ($54.55 in chips) 
+Seat 2: Alameda22 ($26.40 in chips) 
+Seat 3: M0RE=C0WBELL ($31.65 in chips) 
+Seat 4: nedhardly ($24.65 in chips) 
+Seat 5: memento04 ($4.45 in chips) 
+Seat 6: bmadison89 ($4.55 in chips) 
+Seat 7: Haagse Gnoom ($12.90 in chips) 
+Seat 8: unevrno ($16.75 in chips) 
+Seat 9: outos ($25.35 in chips) 
+memento04: posts small blind $0.10
+bmadison89: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 8d]
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: calls $0.25
+Bubbagump: raises $1 to $1.25
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+nedhardly: folds 
+memento04: folds 
+bmadison89: calls $1
+outos: calls $1
+*** FLOP *** [4d 4c Ah]
+bmadison89: checks 
+outos: checks 
+Bubbagump: bets $2
+bmadison89: folds 
+outos: folds 
+Uncalled bet ($2) returned to Bubbagump
+Bubbagump collected $3.70 from pot
+Bubbagump: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [4d 4c Ah]
+Seat 1: Bubbagump collected ($3.70)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 4: nedhardly (button) folded before Flop (didn't bet)
+Seat 5: memento04 (small blind) folded before Flop
+Seat 6: bmadison89 (big blind) folded on the Flop
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno folded before Flop (didn't bet)
+Seat 9: outos folded on the Flop
+
+
+
+PokerStars Game #19951406540:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:46:36 (ET)
+Table 'Musa' 9-max Seat #5 is the button
+Seat 1: Bubbagump ($57 in chips) 
+Seat 2: Alameda22 ($26.40 in chips) 
+Seat 3: M0RE=C0WBELL ($31.65 in chips) 
+Seat 4: nedhardly ($24.65 in chips) 
+Seat 5: memento04 ($4.35 in chips) 
+Seat 6: bmadison89 ($3.30 in chips) 
+Seat 7: Haagse Gnoom ($12.90 in chips) 
+Seat 8: unevrno ($16.75 in chips) 
+Seat 9: outos ($24.10 in chips) 
+bmadison89: posts small blind $0.10
+Haagse Gnoom: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 8d]
+unevrno: folds 
+outos: folds 
+Bubbagump: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+nedhardly: folds 
+memento04: folds 
+bmadison89: calls $0.15
+Haagse Gnoom: checks 
+*** FLOP *** [4h 9d 7c]
+bmadison89: checks 
+Haagse Gnoom: checks 
+*** TURN *** [4h 9d 7c] [5h]
+bmadison89: checks 
+Haagse Gnoom: checks 
+*** RIVER *** [4h 9d 7c 5h] [Kc]
+bmadison89: checks 
+Haagse Gnoom: checks 
+*** SHOW DOWN ***
+bmadison89: shows [Qs 8s] (high card King)
+Haagse Gnoom: mucks hand 
+bmadison89 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [4h 9d 7c 5h Kc]
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 4: nedhardly folded before Flop (didn't bet)
+Seat 5: memento04 (button) folded before Flop (didn't bet)
+Seat 6: bmadison89 (small blind) showed [Qs 8s] and won ($0.50) with high card King
+Seat 7: Haagse Gnoom (big blind) mucked [3c 2c]
+Seat 8: unevrno folded before Flop (didn't bet)
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951428581:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:47:32 (ET)
+Table 'Musa' 9-max Seat #6 is the button
+Seat 1: Bubbagump ($57 in chips) 
+Seat 2: Alameda22 ($26.40 in chips) 
+Seat 3: M0RE=C0WBELL ($31.65 in chips) 
+Seat 4: nedhardly ($24.65 in chips) 
+Seat 5: memento04 ($4.35 in chips) 
+Seat 6: bmadison89 ($3.55 in chips) 
+Seat 7: Haagse Gnoom ($12.65 in chips) 
+Seat 8: unevrno ($16.75 in chips) 
+Seat 9: outos ($24.10 in chips) 
+Haagse Gnoom: posts small blind $0.10
+unevrno: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Kc]
+outos: folds 
+Bubbagump: folds 
+Alameda22: folds 
+M0RE=C0WBELL: calls $0.25
+nedhardly: calls $0.25
+memento04: folds 
+bmadison89: calls $0.25
+Haagse Gnoom: calls $0.15
+unevrno: checks 
+*** FLOP *** [Tc 3h Th]
+Haagse Gnoom: checks 
+unevrno: checks 
+M0RE=C0WBELL: checks 
+nedhardly: bets $1
+bmadison89: folds 
+Haagse Gnoom: folds 
+unevrno: raises $2.50 to $3.50
+M0RE=C0WBELL: folds 
+nedhardly: folds 
+Uncalled bet ($2.50) returned to unevrno
+unevrno collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Tc 3h Th]
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: M0RE=C0WBELL folded on the Flop
+Seat 4: nedhardly folded on the Flop
+Seat 5: memento04 folded before Flop (didn't bet)
+Seat 6: bmadison89 (button) folded on the Flop
+Seat 7: Haagse Gnoom (small blind) folded on the Flop
+Seat 8: unevrno (big blind) collected ($3.10)
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951461827:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:48:57 (ET)
+Table 'Musa' 9-max Seat #7 is the button
+Seat 1: Bubbagump ($57 in chips) 
+Seat 2: Alameda22 ($26.40 in chips) 
+Seat 3: M0RE=C0WBELL ($31.40 in chips) 
+Seat 4: nedhardly ($23.40 in chips) 
+Seat 5: memento04 ($4.35 in chips) 
+Seat 6: bmadison89 ($3.30 in chips) 
+Seat 7: Haagse Gnoom ($12.40 in chips) 
+Seat 8: unevrno ($18.60 in chips) 
+Seat 9: outos ($24.10 in chips) 
+unevrno: posts small blind $0.10
+outos: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 8h]
+Bubbagump: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+nedhardly: folds 
+memento04: calls $0.25
+bmadison89: folds 
+Haagse Gnoom: folds 
+unevrno: calls $0.15
+outos: checks 
+*** FLOP *** [7d 7c Qs]
+unevrno: checks 
+outos: checks 
+memento04: bets $0.75
+unevrno: folds 
+outos: folds 
+Uncalled bet ($0.75) returned to memento04
+memento04 collected $0.75 from pot
+memento04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [7d 7c Qs]
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 4: nedhardly folded before Flop (didn't bet)
+Seat 5: memento04 collected ($0.75)
+Seat 6: bmadison89 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom (button) folded before Flop (didn't bet)
+Seat 8: unevrno (small blind) folded on the Flop
+Seat 9: outos (big blind) folded on the Flop
+
+
+
+PokerStars Game #19951483491:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:49:53 (ET)
+Table 'Musa' 9-max Seat #8 is the button
+Seat 1: Bubbagump ($57 in chips) 
+Seat 2: Alameda22 ($26.40 in chips) 
+Seat 3: M0RE=C0WBELL ($31.40 in chips) 
+Seat 4: nedhardly ($23.40 in chips) 
+Seat 5: memento04 ($4.85 in chips) 
+Seat 6: bmadison89 ($3.30 in chips) 
+Seat 7: Haagse Gnoom ($12.40 in chips) 
+Seat 8: unevrno ($18.35 in chips) 
+Seat 9: outos ($23.85 in chips) 
+outos: posts small blind $0.10
+Bubbagump: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 8c]
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+nedhardly: raises $0.50 to $0.75
+memento04: folds 
+bmadison89: folds 
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: folds 
+Bubbagump: folds 
+Uncalled bet ($0.50) returned to nedhardly
+nedhardly collected $0.60 from pot
+nedhardly: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Bubbagump (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 4: nedhardly collected ($0.60)
+Seat 5: memento04 folded before Flop (didn't bet)
+Seat 6: bmadison89 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno (button) folded before Flop (didn't bet)
+Seat 9: outos (small blind) folded before Flop
+
+
+
+PokerStars Game #19951499467:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:50:35 (ET)
+Table 'Musa' 9-max Seat #9 is the button
+Seat 1: Bubbagump ($56.75 in chips) 
+Seat 2: Alameda22 ($26.40 in chips) 
+Seat 3: M0RE=C0WBELL ($31.40 in chips) 
+Seat 4: nedhardly ($23.75 in chips) 
+Seat 5: memento04 ($4.85 in chips) 
+Seat 6: bmadison89 ($3.30 in chips) 
+Seat 7: Haagse Gnoom ($12.40 in chips) 
+Seat 8: unevrno ($18.35 in chips) 
+Seat 9: outos ($23.75 in chips) 
+Bubbagump: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 3c]
+M0RE=C0WBELL: calls $0.25
+nedhardly: folds 
+memento04: calls $0.25
+bmadison89: folds 
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: folds 
+Bubbagump: calls $0.15
+Alameda22: checks 
+*** FLOP *** [4c Jd Th]
+Bubbagump: checks 
+Alameda22: checks 
+M0RE=C0WBELL: checks 
+memento04: bets $0.75
+Bubbagump: folds 
+Alameda22: folds 
+M0RE=C0WBELL: folds 
+Uncalled bet ($0.75) returned to memento04
+M0RE=C0WBELL leaves the table
+memento04 collected $0.95 from pot
+memento04: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [4c Jd Th]
+Seat 1: Bubbagump (small blind) folded on the Flop
+Seat 2: Alameda22 (big blind) folded on the Flop
+Seat 3: M0RE=C0WBELL folded on the Flop
+Seat 4: nedhardly folded before Flop (didn't bet)
+Seat 5: memento04 collected ($0.95)
+Seat 6: bmadison89 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno folded before Flop (didn't bet)
+Seat 9: outos (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951528850:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:51:50 (ET)
+Table 'Musa' 9-max Seat #1 is the button
+Seat 1: Bubbagump ($56.50 in chips) 
+Seat 2: Alameda22 ($26.15 in chips) 
+Seat 4: nedhardly ($23.75 in chips) 
+Seat 5: memento04 ($5.55 in chips) 
+Seat 6: bmadison89 ($3.30 in chips) 
+Seat 7: Haagse Gnoom ($12.40 in chips) 
+Seat 8: unevrno ($18.35 in chips) 
+Seat 9: outos ($23.75 in chips) 
+Alameda22: posts small blind $0.10
+nedhardly: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 5s]
+memento04: calls $0.25
+bmadison89: folds 
+Haagse Gnoom: raises $0.50 to $0.75
+unevrno: folds 
+outos: calls $0.75
+Bubbagump: folds 
+Alameda22: folds 
+nedhardly: folds 
+memento04: calls $0.50
+*** FLOP *** [5h 3h 8h]
+memento04: checks 
+Haagse Gnoom: bets $0.75
+outos: folds 
+memento04: folds 
+Uncalled bet ($0.75) returned to Haagse Gnoom
+Haagse Gnoom collected $2.50 from pot
+Haagse Gnoom: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [5h 3h 8h]
+Seat 1: Bubbagump (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 4: nedhardly (big blind) folded before Flop
+Seat 5: memento04 folded on the Flop
+Seat 6: bmadison89 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom collected ($2.50)
+Seat 8: unevrno folded before Flop (didn't bet)
+Seat 9: outos folded on the Flop
+
+
+
+PokerStars Game #19951548313:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:52:41 (ET)
+Table 'Musa' 9-max Seat #2 is the button
+Seat 1: Bubbagump ($56.50 in chips) 
+Seat 2: Alameda22 ($26.05 in chips) 
+Seat 4: nedhardly ($23.50 in chips) 
+Seat 5: memento04 ($4.80 in chips) 
+Seat 6: bmadison89 ($3.30 in chips) 
+Seat 7: Haagse Gnoom ($14.15 in chips) 
+Seat 8: unevrno ($18.35 in chips) 
+Seat 9: outos ($23 in chips) 
+nedhardly: posts small blind $0.10
+memento04: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 3d]
+bmadison89: folds 
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: folds 
+Bubbagump: folds 
+Alameda22: folds 
+nedhardly: folds 
+Uncalled bet ($0.15) returned to memento04
+memento04 collected $0.20 from pot
+memento04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: nedhardly (small blind) folded before Flop
+Seat 5: memento04 (big blind) collected ($0.20)
+Seat 6: bmadison89 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno folded before Flop (didn't bet)
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951558303:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:53:07 (ET)
+Table 'Musa' 9-max Seat #4 is the button
+Seat 1: Bubbagump ($56.50 in chips) 
+Seat 2: Alameda22 ($26.05 in chips) 
+Seat 4: nedhardly ($23.40 in chips) 
+Seat 5: memento04 ($4.90 in chips) 
+Seat 6: bmadison89 ($3.30 in chips) 
+Seat 7: Haagse Gnoom ($14.15 in chips) 
+Seat 8: unevrno ($18.35 in chips) 
+Seat 9: outos ($23 in chips) 
+memento04: posts small blind $0.10
+bmadison89: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 2s]
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: folds 
+Bubbagump: folds 
+Alameda22: folds 
+nedhardly: folds 
+memento04: calls $0.15
+bmadison89: checks 
+*** FLOP *** [As 8h Js]
+memento04: checks 
+bmadison89: checks 
+*** TURN *** [As 8h Js] [4s]
+memento04: checks 
+bmadison89: checks 
+*** RIVER *** [As 8h Js 4s] [Qc]
+memento04: checks 
+bmadison89: checks 
+*** SHOW DOWN ***
+memento04: shows [Kh 8d] (a pair of Eights)
+bmadison89: mucks hand 
+memento04 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [As 8h Js 4s Qc]
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: nedhardly (button) folded before Flop (didn't bet)
+Seat 5: memento04 (small blind) showed [Kh 8d] and won ($0.50) with a pair of Eights
+Seat 6: bmadison89 (big blind) mucked [9d 5c]
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno folded before Flop (didn't bet)
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951584608:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:54:15 (ET)
+Table 'Musa' 9-max Seat #5 is the button
+Seat 1: Bubbagump ($56.50 in chips) 
+Seat 2: Alameda22 ($26.05 in chips) 
+Seat 4: nedhardly ($23.40 in chips) 
+Seat 5: memento04 ($5.15 in chips) 
+Seat 6: bmadison89 ($3.05 in chips) 
+Seat 7: Haagse Gnoom ($14.15 in chips) 
+Seat 8: unevrno ($18.35 in chips) 
+Seat 9: outos ($23 in chips) 
+bmadison89: posts small blind $0.10
+Haagse Gnoom: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Th]
+unevrno: folds 
+outos: calls $0.25
+Bubbagump: folds 
+Alameda22: folds 
+nedhardly: calls $0.25
+memento04: folds 
+bmadison89: calls $0.15
+Haagse Gnoom: checks 
+*** FLOP *** [4h Tc 9h]
+bmadison89: checks 
+Haagse Gnoom: bets $0.75
+outos: folds 
+nedhardly: folds 
+bmadison89: folds 
+Uncalled bet ($0.75) returned to Haagse Gnoom
+Haagse Gnoom collected $0.95 from pot
+Haagse Gnoom: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [4h Tc 9h]
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: nedhardly folded on the Flop
+Seat 5: memento04 (button) folded before Flop (didn't bet)
+Seat 6: bmadison89 (small blind) folded on the Flop
+Seat 7: Haagse Gnoom (big blind) collected ($0.95)
+Seat 8: unevrno folded before Flop (didn't bet)
+Seat 9: outos folded on the Flop
+
+
+
+PokerStars Game #19951605680:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:55:10 (ET)
+Table 'Musa' 9-max Seat #6 is the button
+Seat 1: Bubbagump ($56.50 in chips) 
+Seat 2: Alameda22 ($26.05 in chips) 
+Seat 4: nedhardly ($23.15 in chips) 
+Seat 5: memento04 ($5.15 in chips) 
+Seat 6: bmadison89 ($2.80 in chips) 
+Seat 7: Haagse Gnoom ($14.85 in chips) 
+Seat 8: unevrno ($18.35 in chips) 
+Seat 9: outos ($22.75 in chips) 
+Haagse Gnoom: posts small blind $0.10
+unevrno: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 9d]
+outos: folds 
+Bubbagump: folds 
+Alameda22: folds 
+nedhardly: folds 
+memento04: folds 
+bmadison89: folds 
+Haagse Gnoom: calls $0.15
+unevrno: checks 
+*** FLOP *** [Qs 4d Jh]
+Haagse Gnoom: checks 
+unevrno: checks 
+*** TURN *** [Qs 4d Jh] [3d]
+Haagse Gnoom: bets $0.50
+unevrno: folds 
+Uncalled bet ($0.50) returned to Haagse Gnoom
+Haagse Gnoom collected $0.50 from pot
+Haagse Gnoom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Qs 4d Jh 3d]
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: nedhardly folded before Flop (didn't bet)
+Seat 5: memento04 folded before Flop (didn't bet)
+Seat 6: bmadison89 (button) folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom (small blind) collected ($0.50)
+Seat 8: unevrno (big blind) folded on the Turn
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951630306:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:56:14 (ET)
+Table 'Musa' 9-max Seat #7 is the button
+Seat 1: Bubbagump ($56.50 in chips) 
+Seat 2: Alameda22 ($26.05 in chips) 
+Seat 4: nedhardly ($23.15 in chips) 
+Seat 5: memento04 ($5.15 in chips) 
+Seat 6: bmadison89 ($2.80 in chips) 
+Seat 7: Haagse Gnoom ($15.10 in chips) 
+Seat 8: unevrno ($18.10 in chips) 
+Seat 9: outos ($22.75 in chips) 
+unevrno: posts small blind $0.10
+outos: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 9h]
+Bubbagump: folds 
+Alameda22: folds 
+nedhardly: folds 
+memento04: raises $0.50 to $0.75
+bmadison89: folds 
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: folds 
+Uncalled bet ($0.50) returned to memento04
+memento04 collected $0.60 from pot
+memento04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Bubbagump folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: nedhardly folded before Flop (didn't bet)
+Seat 5: memento04 collected ($0.60)
+Seat 6: bmadison89 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom (button) folded before Flop (didn't bet)
+Seat 8: unevrno (small blind) folded before Flop
+Seat 9: outos (big blind) folded before Flop
+
+
+
+PokerStars Game #19951644202:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:56:51 (ET)
+Table 'Musa' 9-max Seat #8 is the button
+Seat 2: Alameda22 ($26.05 in chips) 
+Seat 4: nedhardly ($23.15 in chips) 
+Seat 5: memento04 ($5.50 in chips) 
+Seat 6: bmadison89 ($2.80 in chips) 
+Seat 7: Haagse Gnoom ($15.10 in chips) 
+Seat 8: unevrno ($18 in chips) 
+Seat 9: outos ($22.50 in chips) 
+outos: posts small blind $0.10
+Bubbagump: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Qd]
+Bubbagump leaves the table
+nedhardly: folds 
+memento04: folds 
+bmadison89: raises $0.50 to $0.75
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to bmadison89
+bmadison89 collected $0.60 from pot
+bmadison89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 4: nedhardly folded before Flop (didn't bet)
+Seat 5: memento04 folded before Flop (didn't bet)
+Seat 6: bmadison89 collected ($0.60)
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno (button) folded before Flop (didn't bet)
+Seat 9: outos (small blind) folded before Flop
+
+
+
+PokerStars Game #19951660955:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:57:35 (ET)
+Table 'Musa' 9-max Seat #9 is the button
+Seat 2: Alameda22 ($25.80 in chips) 
+Seat 5: memento04 ($5.50 in chips) 
+Seat 6: bmadison89 ($3.15 in chips) 
+Seat 7: Haagse Gnoom ($15.10 in chips) 
+Seat 8: unevrno ($18 in chips) 
+Seat 9: outos ($22.40 in chips) 
+Alameda22: posts small blind $0.10
+nedhardly: is sitting out 
+memento04: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 3s]
+nedhardly leaves the table
+bmadison89: folds 
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to memento04
+memento04 collected $0.20 from pot
+memento04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 5: memento04 (big blind) collected ($0.20)
+Seat 6: bmadison89 folded before Flop (didn't bet)
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno folded before Flop (didn't bet)
+Seat 9: outos (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951670997:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:58:01 (ET)
+Table 'Musa' 9-max Seat #2 is the button
+Seat 2: Alameda22 ($25.70 in chips) 
+Seat 5: memento04 ($5.60 in chips) 
+Seat 6: bmadison89 ($3.15 in chips) 
+Seat 7: Haagse Gnoom ($15.10 in chips) 
+Seat 8: unevrno ($18 in chips) 
+Seat 9: outos ($22.40 in chips) 
+memento04: posts small blind $0.10
+bmadison89: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 9c]
+Haagse Gnoom: folds 
+unevrno: folds 
+outos: folds 
+Alameda22: folds 
+memento04: folds 
+Uncalled bet ($0.15) returned to bmadison89
+bmadison89 collected $0.20 from pot
+Haagse Gnoom is sitting out
+bmadison89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: memento04 (small blind) folded before Flop
+Seat 6: bmadison89 (big blind) collected ($0.20)
+Seat 7: Haagse Gnoom folded before Flop (didn't bet)
+Seat 8: unevrno folded before Flop (didn't bet)
+Seat 9: outos folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951681742:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:58:30 (ET)
+Table 'Musa' 9-max Seat #5 is the button
+Seat 2: Alameda22 ($25.70 in chips) 
+Seat 5: memento04 ($5.50 in chips) 
+Seat 6: bmadison89 ($3.25 in chips) 
+Haagse Gnoom leaves the table
+bmadison89: posts small blind $0.10
+unevrno: is sitting out 
+unevrno leaves the table
+outos: is sitting out 
+outos leaves the table
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Jh]
+memento04: folds 
+bmadison89: raises $0.75 to $1
+Alameda22: raises $3 to $4
+bmadison89: calls $2.25 and is all-in
+Uncalled bet ($0.75) returned to Alameda22
+*** FLOP *** [Jd 9d 7h]
+*** TURN *** [Jd 9d 7h] [9h]
+memento04 is sitting out
+*** RIVER *** [Jd 9d 7h 9h] [Ac]
+*** SHOW DOWN ***
+bmadison89: shows [6s 6d] (two pair, Nines and Sixes)
+Alameda22: shows [Jc Jh] (a full house, Jacks full of Nines)
+Alameda22 collected $6.20 from pot
+memento04 leaves the table
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.30 
+Board [Jd 9d 7h 9h Ac]
+Seat 2: Alameda22 (big blind) showed [Jc Jh] and won ($6.20) with a full house, Jacks full of Nines
+Seat 5: memento04 (button) folded before Flop (didn't bet)
+Seat 6: bmadison89 (small blind) showed [6s 6d] and lost with two pair, Nines and Sixes
+
+
+

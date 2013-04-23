@@ -1,0 +1,142 @@
+PokerStars Game #19954514005:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 00:00:08 (ET)
+Table 'Geographos' 9-max Seat #3 is the button
+Seat 1: JE Electric ($21 in chips) 
+Seat 2: Kojikabuto ($9.65 in chips) 
+Seat 3: Païtabière ($24.25 in chips) 
+Seat 4: rainbow_J ($22 in chips) 
+Seat 5: ullr49 ($12.25 in chips) 
+Seat 6: DBLEE ($18.55 in chips) 
+Seat 7: e@pop77 ($15.30 in chips) 
+Seat 8: robbg58 ($33.15 in chips) 
+Seat 9: Alameda22 ($46.95 in chips) 
+rainbow_J: posts small blind $0.10
+ullr49: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 9c]
+DBLEE: raises $0.75 to $1
+e@pop77: folds 
+robbg58: folds 
+Alameda22: folds 
+JE Electric: calls $1
+Kojikabuto: folds 
+Païtabière: folds 
+rainbow_J: folds 
+ullr49: folds 
+*** FLOP *** [Kh 4d 8d]
+DBLEE: checks 
+JE Electric: bets $2
+DBLEE: folds 
+Uncalled bet ($2) returned to JE Electric
+JE Electric collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Kh 4d 8d]
+Seat 1: JE Electric collected ($2.25)
+Seat 2: Kojikabuto folded before Flop (didn't bet)
+Seat 3: Païtabière (button) folded before Flop (didn't bet)
+Seat 4: rainbow_J (small blind) folded before Flop
+Seat 5: ullr49 (big blind) folded before Flop
+Seat 6: DBLEE folded on the Flop
+Seat 7: e@pop77 folded before Flop (didn't bet)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954529700:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 00:00:55 (ET)
+Table 'Geographos' 9-max Seat #4 is the button
+Seat 1: JE Electric ($22.25 in chips) 
+Seat 2: Kojikabuto ($9.65 in chips) 
+Seat 3: Païtabière ($25 in chips) 
+Seat 4: rainbow_J ($21.90 in chips) 
+Seat 5: ullr49 ($12 in chips) 
+Seat 6: DBLEE ($17.55 in chips) 
+Seat 7: e@pop77 ($15.30 in chips) 
+Seat 8: robbg58 ($33.15 in chips) 
+Seat 9: Alameda22 ($46.95 in chips) 
+ullr49: posts small blind $0.10
+DBLEE: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 7c]
+e@pop77: folds 
+robbg58: folds 
+Alameda22: folds 
+JE Electric: folds 
+Kojikabuto: calls $0.25
+Païtabière: folds 
+rainbow_J: folds 
+ullr49: calls $0.15
+DBLEE: checks 
+*** FLOP *** [Ts 7d Th]
+ullr49: checks 
+DBLEE: checks 
+Kojikabuto: checks 
+*** TURN *** [Ts 7d Th] [4c]
+ullr49: checks 
+DBLEE: checks 
+Kojikabuto: checks 
+*** RIVER *** [Ts 7d Th 4c] [9s]
+ullr49: bets $0.50
+DBLEE: calls $0.50
+Kojikabuto: folds 
+*** SHOW DOWN ***
+ullr49: shows [Td Jh] (three of a kind, Tens)
+DBLEE: mucks hand 
+ullr49 collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Ts 7d Th 4c 9s]
+Seat 1: JE Electric folded before Flop (didn't bet)
+Seat 2: Kojikabuto folded on the River
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J (button) folded before Flop (didn't bet)
+Seat 5: ullr49 (small blind) showed [Td Jh] and won ($1.70) with three of a kind, Tens
+Seat 6: DBLEE (big blind) mucked [Kh 9d]
+Seat 7: e@pop77 folded before Flop (didn't bet)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954563849:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 00:02:38 (ET)
+Table 'Geographos' 9-max Seat #5 is the button
+Seat 1: JE Electric ($22.25 in chips) 
+Seat 2: Kojikabuto ($9.40 in chips) 
+Seat 3: Païtabière ($25 in chips) 
+Seat 4: rainbow_J ($21.90 in chips) 
+Seat 5: ullr49 ($12.95 in chips) 
+Seat 6: DBLEE ($16.80 in chips) 
+Seat 7: e@pop77 ($15.30 in chips) 
+Seat 8: robbg58 ($33.15 in chips) 
+Seat 9: Alameda22 ($46.95 in chips) 
+DBLEE: posts small blind $0.10
+e@pop77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac As]
+robbg58: folds 
+Alameda22: raises $0.50 to $0.75
+JE Electric: folds 
+Kojikabuto: folds 
+Païtabière: folds 
+rainbow_J: folds 
+JE Electric leaves the table
+ullr49: folds 
+DBLEE: folds 
+e@pop77: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: JE Electric folded before Flop (didn't bet)
+Seat 2: Kojikabuto folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: ullr49 (button) folded before Flop (didn't bet)
+Seat 6: DBLEE (small blind) folded before Flop
+Seat 7: e@pop77 (big blind) folded before Flop
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 collected ($0.60)
+
+
+

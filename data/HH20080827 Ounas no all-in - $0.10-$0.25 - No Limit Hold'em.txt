@@ -1,0 +1,988 @@
+PokerStars Game #19950863142:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:23:04 (ET)
+Table 'Ounas' 9-max Seat #8 is the button
+Seat 1: ralerjak ($23.15 in chips) 
+Seat 2: Kukoc69 ($25 in chips) 
+Seat 3: Chris_Rdam ($25.35 in chips) 
+Seat 4: hands10 ($21.30 in chips) 
+Seat 5: xGCEx ($24.65 in chips) 
+Seat 6: le lagon 83 ($26.50 in chips) 
+Seat 7: Alameda22 ($25 in chips) 
+Seat 8: AcedePique ($45.05 in chips) 
+Seat 9: mehlhorn87 ($11.95 in chips) 
+mehlhorn87: posts small blind $0.10
+ralerjak: posts big blind $0.25
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 9c]
+Kukoc69: raises $0.75 to $1
+Chris_Rdam: folds 
+hands10: folds 
+xGCEx: folds 
+le lagon 83: calls $1
+Alameda22: folds 
+AcedePique: folds 
+mehlhorn87: folds 
+ralerjak: folds 
+*** FLOP *** [8s 5d Kc]
+Kukoc69: bets $1.50
+le lagon 83: folds 
+Uncalled bet ($1.50) returned to Kukoc69
+Kukoc69 collected $2.50 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [8s 5d Kc]
+Seat 1: ralerjak (big blind) folded before Flop
+Seat 2: Kukoc69 collected ($2.50)
+Seat 3: Chris_Rdam folded before Flop (didn't bet)
+Seat 4: hands10 folded before Flop (didn't bet)
+Seat 5: xGCEx folded before Flop (didn't bet)
+Seat 6: le lagon 83 folded on the Flop
+Seat 7: Alameda22 folded before Flop
+Seat 8: AcedePique (button) folded before Flop (didn't bet)
+Seat 9: mehlhorn87 (small blind) folded before Flop
+
+
+
+PokerStars Game #19950890856:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:24:15 (ET)
+Table 'Ounas' 9-max Seat #9 is the button
+Seat 1: ralerjak ($22.90 in chips) 
+Seat 2: Kukoc69 ($26.50 in chips) 
+Seat 3: Chris_Rdam ($25.35 in chips) 
+Seat 4: hands10 ($21.30 in chips) 
+Seat 5: xGCEx ($24.65 in chips) 
+Seat 6: le lagon 83 ($25.50 in chips) 
+Seat 7: Alameda22 ($24.75 in chips) 
+Seat 8: AcedePique ($45.05 in chips) 
+Seat 9: mehlhorn87 ($11.85 in chips) 
+ralerjak: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 7s]
+Chris_Rdam: folds 
+hands10: calls $0.25
+Chris_Rdam leaves the table
+xGCEx: folds 
+le lagon 83: folds 
+Alameda22: folds 
+AcedePique: folds 
+mehlhorn87: calls $0.25
+ralerjak: calls $0.15
+Kukoc69: checks 
+*** FLOP *** [9c 3c Qd]
+ralerjak: bets $0.75
+Kukoc69: folds 
+hands10: folds 
+mehlhorn87: folds 
+Uncalled bet ($0.75) returned to ralerjak
+ralerjak collected $0.95 from pot
+ralerjak: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [9c 3c Qd]
+Seat 1: ralerjak (small blind) collected ($0.95)
+Seat 2: Kukoc69 (big blind) folded on the Flop
+Seat 3: Chris_Rdam folded before Flop (didn't bet)
+Seat 4: hands10 folded on the Flop
+Seat 5: xGCEx folded before Flop (didn't bet)
+Seat 6: le lagon 83 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: mehlhorn87 (button) folded on the Flop
+
+
+
+PokerStars Game #19950917030:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:25:22 (ET)
+Table 'Ounas' 9-max Seat #1 is the button
+Seat 1: ralerjak ($23.60 in chips) 
+Seat 2: Kukoc69 ($26.25 in chips) 
+Seat 4: hands10 ($21.05 in chips) 
+Seat 5: xGCEx ($24.65 in chips) 
+Seat 6: le lagon 83 ($25.50 in chips) 
+Seat 7: Alameda22 ($24.75 in chips) 
+Seat 8: AcedePique ($45.05 in chips) 
+Seat 9: mehlhorn87 ($11.60 in chips) 
+Kukoc69: posts small blind $0.10
+hands10: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 8c]
+xGCEx: raises $0.75 to $1
+le lagon 83: folds 
+Alameda22: folds 
+AcedePique: calls $1
+mehlhorn87: folds 
+ralerjak: folds 
+JE Electric joins the table at seat #3 
+Kukoc69: calls $0.90
+hands10: folds 
+*** FLOP *** [8d 4s Ad]
+Kukoc69: checks 
+xGCEx: bets $2
+AcedePique: calls $2
+Kukoc69: folds 
+*** TURN *** [8d 4s Ad] [4d]
+xGCEx: bets $2.50
+AcedePique: calls $2.50
+*** RIVER *** [8d 4s Ad 4d] [7s]
+xGCEx: checks 
+AcedePique: bets $1
+xGCEx: calls $1
+*** SHOW DOWN ***
+AcedePique: shows [Ah Qh] (two pair, Aces and Fours)
+xGCEx: mucks hand 
+AcedePique collected $13.60 from pot
+*** SUMMARY ***
+Total pot $14.25 | Rake $0.65 
+Board [8d 4s Ad 4d 7s]
+Seat 1: ralerjak (button) folded before Flop (didn't bet)
+Seat 2: Kukoc69 (small blind) folded on the Flop
+Seat 4: hands10 (big blind) folded before Flop
+Seat 5: xGCEx mucked [Kd Ks]
+Seat 6: le lagon 83 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: AcedePique showed [Ah Qh] and won ($13.60) with two pair, Aces and Fours
+Seat 9: mehlhorn87 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19950963612:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:27:23 (ET)
+Table 'Ounas' 9-max Seat #2 is the button
+Seat 1: ralerjak ($23.60 in chips) 
+Seat 2: Kukoc69 ($25.25 in chips) 
+Seat 4: hands10 ($20.80 in chips) 
+Seat 5: xGCEx ($25 in chips) 
+Seat 6: le lagon 83 ($25.50 in chips) 
+Seat 7: Alameda22 ($24.75 in chips) 
+Seat 8: AcedePique ($52.15 in chips) 
+Seat 9: mehlhorn87 ($11.60 in chips) 
+JE Electric will be allowed to play after the button
+hands10: posts small blind $0.10
+xGCEx: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Qs]
+le lagon 83: folds 
+Alameda22: folds 
+AcedePique: folds 
+mehlhorn87: folds 
+ralerjak: folds 
+Kukoc69: raises $0.75 to $1
+hands10: folds 
+xGCEx: folds 
+Uncalled bet ($0.75) returned to Kukoc69
+Kukoc69 collected $0.60 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ralerjak folded before Flop (didn't bet)
+Seat 2: Kukoc69 (button) collected ($0.60)
+Seat 4: hands10 (small blind) folded before Flop
+Seat 5: xGCEx (big blind) folded before Flop
+Seat 6: le lagon 83 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: mehlhorn87 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19950977993:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:28:00 (ET)
+Table 'Ounas' 9-max Seat #4 is the button
+Seat 1: ralerjak ($23.60 in chips) 
+Seat 2: Kukoc69 ($25.60 in chips) 
+Seat 3: JE Electric ($25 in chips) 
+Seat 4: hands10 ($20.70 in chips) 
+Seat 5: xGCEx ($24.75 in chips) 
+Seat 6: le lagon 83 ($25.50 in chips) 
+Seat 7: Alameda22 ($24.75 in chips) 
+Seat 8: AcedePique ($52.15 in chips) 
+Seat 9: mehlhorn87 ($11.60 in chips) 
+xGCEx: posts small blind $0.10
+le lagon 83: posts big blind $0.25
+JE Electric: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 6c]
+Alameda22: folds 
+AcedePique: folds 
+mehlhorn87: folds 
+ralerjak: folds 
+Kukoc69: folds 
+JE Electric: checks 
+hands10: folds 
+xGCEx: folds 
+le lagon 83: checks 
+*** FLOP *** [As Ah 3c]
+le lagon 83: checks 
+JE Electric: checks 
+*** TURN *** [As Ah 3c] [2h]
+le lagon 83: checks 
+JE Electric: checks 
+*** RIVER *** [As Ah 3c 2h] [6s]
+le lagon 83: checks 
+JE Electric: checks 
+*** SHOW DOWN ***
+le lagon 83: shows [Th 5c] (a pair of Aces)
+JE Electric: mucks hand 
+le lagon 83 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [As Ah 3c 2h 6s]
+Seat 1: ralerjak folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: JE Electric mucked [7h 9c]
+Seat 4: hands10 (button) folded before Flop (didn't bet)
+Seat 5: xGCEx (small blind) folded before Flop
+Seat 6: le lagon 83 (big blind) showed [Th 5c] and won ($0.60) with a pair of Aces
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: mehlhorn87 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951010363:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:29:24 (ET)
+Table 'Ounas' 9-max Seat #5 is the button
+Seat 1: ralerjak ($23.60 in chips) 
+Seat 2: Kukoc69 ($25.60 in chips) 
+Seat 3: JE Electric ($24.75 in chips) 
+Seat 4: hands10 ($20.70 in chips) 
+Seat 5: xGCEx ($24.65 in chips) 
+Seat 6: le lagon 83 ($25.85 in chips) 
+Seat 7: Alameda22 ($24.75 in chips) 
+Seat 8: AcedePique ($52.15 in chips) 
+Seat 9: mehlhorn87 ($11.60 in chips) 
+le lagon 83: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 2h]
+AcedePique: folds 
+mehlhorn87: folds 
+ralerjak: folds 
+Kukoc69: folds 
+JE Electric: folds 
+hands10: folds 
+xGCEx: raises $0.75 to $1
+le lagon 83: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to xGCEx
+xGCEx collected $0.60 from pot
+xGCEx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ralerjak folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: JE Electric folded before Flop (didn't bet)
+Seat 4: hands10 folded before Flop (didn't bet)
+Seat 5: xGCEx (button) collected ($0.60)
+Seat 6: le lagon 83 (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: mehlhorn87 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951026999:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:30:06 (ET)
+Table 'Ounas' 9-max Seat #6 is the button
+Seat 1: ralerjak ($23.60 in chips) 
+Seat 2: Kukoc69 ($25.60 in chips) 
+Seat 3: JE Electric ($24.75 in chips) 
+Seat 4: hands10 ($20.70 in chips) 
+Seat 5: xGCEx ($25 in chips) 
+Seat 6: le lagon 83 ($25.75 in chips) 
+Seat 7: Alameda22 ($24.50 in chips) 
+Seat 8: AcedePique ($52.15 in chips) 
+Seat 9: mehlhorn87 ($11.60 in chips) 
+Alameda22: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 6d]
+mehlhorn87: raises $0.25 to $0.50
+ralerjak: folds 
+Kukoc69: folds 
+JE Electric: folds 
+hands10: calls $0.50
+xGCEx: folds 
+le lagon 83: folds 
+Alameda22: folds 
+AcedePique: folds 
+*** FLOP *** [9s Jd Jh]
+mehlhorn87: bets $0.50
+hands10: calls $0.50
+*** TURN *** [9s Jd Jh] [9d]
+mehlhorn87: checks 
+hands10: bets $1.25
+mehlhorn87: folds 
+Uncalled bet ($1.25) returned to hands10
+hands10 collected $2.25 from pot
+hands10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [9s Jd Jh 9d]
+Seat 1: ralerjak folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: JE Electric folded before Flop (didn't bet)
+Seat 4: hands10 collected ($2.25)
+Seat 5: xGCEx folded before Flop (didn't bet)
+Seat 6: le lagon 83 (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: AcedePique (big blind) folded before Flop
+Seat 9: mehlhorn87 folded on the Turn
+
+
+
+PokerStars Game #19951055878:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:31:21 (ET)
+Table 'Ounas' 9-max Seat #7 is the button
+Seat 1: ralerjak ($23.60 in chips) 
+Seat 2: Kukoc69 ($25.60 in chips) 
+Seat 3: JE Electric ($24.75 in chips) 
+Seat 4: hands10 ($21.95 in chips) 
+Seat 5: xGCEx ($25 in chips) 
+Seat 6: le lagon 83 ($25.75 in chips) 
+Seat 7: Alameda22 ($24.40 in chips) 
+Seat 8: AcedePique ($51.90 in chips) 
+Seat 9: mehlhorn87 ($10.60 in chips) 
+AcedePique: posts small blind $0.10
+mehlhorn87: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 6c]
+ralerjak: folds 
+Kukoc69: folds 
+JE Electric: calls $0.25
+hands10: calls $0.25
+xGCEx: folds 
+le lagon 83: calls $0.25
+Alameda22: folds 
+AcedePique: folds 
+mehlhorn87: checks 
+*** FLOP *** [3h Jd 9s]
+mehlhorn87: checks 
+JE Electric: checks 
+hands10: bets $0.80
+le lagon 83: calls $0.80
+mehlhorn87: folds 
+JE Electric: folds 
+*** TURN *** [3h Jd 9s] [2s]
+hands10: bets $1.35
+le lagon 83: folds 
+Uncalled bet ($1.35) returned to hands10
+hands10 collected $2.60 from pot
+hands10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.70 | Rake $0.10 
+Board [3h Jd 9s 2s]
+Seat 1: ralerjak folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: JE Electric folded on the Flop
+Seat 4: hands10 collected ($2.60)
+Seat 5: xGCEx folded before Flop (didn't bet)
+Seat 6: le lagon 83 folded on the Turn
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: AcedePique (small blind) folded before Flop
+Seat 9: mehlhorn87 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19951100424:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:33:18 (ET)
+Table 'Ounas' 9-max Seat #8 is the button
+Seat 1: ralerjak ($23.60 in chips) 
+Seat 2: Kukoc69 ($25.60 in chips) 
+Seat 3: JE Electric ($24.50 in chips) 
+Seat 4: hands10 ($23.50 in chips) 
+Seat 5: xGCEx ($25 in chips) 
+Seat 6: le lagon 83 ($24.70 in chips) 
+Seat 7: Alameda22 ($24.40 in chips) 
+Seat 8: AcedePique ($51.80 in chips) 
+Seat 9: mehlhorn87 ($10.35 in chips) 
+mehlhorn87: posts small blind $0.10
+ralerjak: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Qc]
+Kukoc69: raises $0.75 to $1
+JE Electric: folds 
+hands10: folds 
+xGCEx: folds 
+le lagon 83: folds 
+le lagon 83 leaves the table
+Alameda22: raises $2 to $3
+AcedePique: folds 
+mehlhorn87: folds 
+ralerjak: folds 
+Kukoc69: folds 
+Uncalled bet ($2) returned to Alameda22
+Alameda22 collected $2.35 from pot
+Alameda22: doesn't show hand 
+EnjoyLife73 joins the table at seat #6 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0 
+Seat 1: ralerjak (big blind) folded before Flop
+Seat 2: Kukoc69 folded before Flop
+Seat 3: JE Electric folded before Flop (didn't bet)
+Seat 4: hands10 folded before Flop (didn't bet)
+Seat 5: xGCEx folded before Flop (didn't bet)
+Seat 6: le lagon 83 folded before Flop (didn't bet)
+Seat 7: Alameda22 collected ($2.35)
+Seat 8: AcedePique (button) folded before Flop (didn't bet)
+Seat 9: mehlhorn87 (small blind) folded before Flop
+
+
+
+PokerStars Game #19951120693:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:34:11 (ET)
+Table 'Ounas' 9-max Seat #9 is the button
+Seat 1: ralerjak ($23.35 in chips) 
+Seat 2: Kukoc69 ($24.60 in chips) 
+Seat 3: JE Electric ($24.50 in chips) 
+Seat 4: hands10 ($23.50 in chips) 
+Seat 5: xGCEx ($25 in chips) 
+Seat 7: Alameda22 ($25.75 in chips) 
+Seat 8: AcedePique ($51.80 in chips) 
+Seat 9: mehlhorn87 ($10.25 in chips) 
+ralerjak: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+EnjoyLife73: is sitting out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 5d]
+JE Electric: folds 
+hands10: folds 
+xGCEx: raises $0.75 to $1
+Alameda22: folds 
+AcedePique: folds 
+mehlhorn87: folds 
+ralerjak: folds 
+Kukoc69: folds 
+Uncalled bet ($0.75) returned to xGCEx
+xGCEx collected $0.60 from pot
+xGCEx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ralerjak (small blind) folded before Flop
+Seat 2: Kukoc69 (big blind) folded before Flop
+Seat 3: JE Electric folded before Flop (didn't bet)
+Seat 4: hands10 folded before Flop (didn't bet)
+Seat 5: xGCEx collected ($0.60)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: mehlhorn87 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951135273:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:34:50 (ET)
+Table 'Ounas' 9-max Seat #1 is the button
+Seat 1: ralerjak ($23.25 in chips) 
+Seat 2: Kukoc69 ($24.35 in chips) 
+Seat 3: JE Electric ($24.50 in chips) 
+Seat 4: hands10 ($23.50 in chips) 
+Seat 5: xGCEx ($25.35 in chips) 
+Seat 7: Alameda22 ($25.75 in chips) 
+Seat 8: AcedePique ($51.80 in chips) 
+Seat 9: mehlhorn87 ($10.25 in chips) 
+Kukoc69: posts small blind $0.10
+JE Electric: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 7s]
+hands10: folds 
+xGCEx: folds 
+Alameda22: folds 
+AcedePique: folds 
+mehlhorn87: folds 
+ralerjak: calls $0.25
+Kukoc69: calls $0.15
+JE Electric: checks 
+*** FLOP *** [5h Ah 3h]
+Kukoc69: bets $0.50
+JE Electric: folds 
+ralerjak: folds 
+Uncalled bet ($0.50) returned to Kukoc69
+Kukoc69 collected $0.75 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [5h Ah 3h]
+Seat 1: ralerjak (button) folded on the Flop
+Seat 2: Kukoc69 (small blind) collected ($0.75)
+Seat 3: JE Electric (big blind) folded on the Flop
+Seat 4: hands10 folded before Flop (didn't bet)
+Seat 5: xGCEx folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: mehlhorn87 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951157960:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:35:50 (ET)
+Table 'Ounas' 9-max Seat #2 is the button
+Seat 1: ralerjak ($23 in chips) 
+Seat 2: Kukoc69 ($24.85 in chips) 
+Seat 3: JE Electric ($24.25 in chips) 
+Seat 4: hands10 ($23.50 in chips) 
+Seat 5: xGCEx ($25.35 in chips) 
+Seat 7: Alameda22 ($25.75 in chips) 
+Seat 8: AcedePique ($51.80 in chips) 
+Seat 9: mehlhorn87 ($10.25 in chips) 
+JE Electric: posts small blind $0.10
+hands10: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 6d]
+xGCEx: folds 
+Alameda22: folds 
+AcedePique: folds 
+mehlhorn87: folds 
+ralerjak: folds 
+Kukoc69: folds 
+JE Electric: calls $0.15
+hands10: checks 
+*** FLOP *** [Qd 3s Qc]
+JE Electric: bets $0.50
+hands10: calls $0.50
+*** TURN *** [Qd 3s Qc] [2c]
+JE Electric: checks 
+hands10: bets $0.75
+JE Electric: calls $0.75
+*** RIVER *** [Qd 3s Qc 2c] [3d]
+JE Electric: checks 
+hands10: bets $2
+JE Electric said, "wow that s sick if you got a queen"
+JE Electric: calls $2
+*** SHOW DOWN ***
+hands10: shows [Td 7d] (two pair, Queens and Threes)
+JE Electric: shows [3h 7h] (a full house, Threes full of Queens)
+JE Electric collected $6.70 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.30 
+Board [Qd 3s Qc 2c 3d]
+Seat 1: ralerjak folded before Flop (didn't bet)
+Seat 2: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 3: JE Electric (small blind) showed [3h 7h] and won ($6.70) with a full house, Threes full of Queens
+Seat 4: hands10 (big blind) showed [Td 7d] and lost with two pair, Queens and Threes
+Seat 5: xGCEx folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: mehlhorn87 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951193268:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:37:23 (ET)
+Table 'Ounas' 9-max Seat #3 is the button
+Seat 1: ralerjak ($23 in chips) 
+Seat 2: Kukoc69 ($24.85 in chips) 
+Seat 3: JE Electric ($27.45 in chips) 
+Seat 4: hands10 ($20 in chips) 
+Seat 5: xGCEx ($25.35 in chips) 
+Seat 7: Alameda22 ($25.75 in chips) 
+Seat 8: AcedePique ($51.80 in chips) 
+Seat 9: mehlhorn87 ($10.25 in chips) 
+hands10: posts small blind $0.10
+xGCEx: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 2h]
+JE Electric said, "good try"
+Alameda22: folds 
+AcedePique: folds 
+mehlhorn87: calls $0.25
+ralerjak: folds 
+hands10 said, "yeah had you if the 3 didn't hit"
+Kukoc69: folds 
+JE Electric: folds 
+hands10: calls $0.15
+xGCEx: raises $1 to $1.25
+mehlhorn87: calls $1
+hands10: folds 
+*** FLOP *** [3s 6d 4s]
+xGCEx: bets $2.25
+mehlhorn87: folds 
+Uncalled bet ($2.25) returned to xGCEx
+xGCEx collected $2.65 from pot
+xGCEx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [3s 6d 4s]
+Seat 1: ralerjak folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: JE Electric (button) folded before Flop (didn't bet)
+Seat 4: hands10 (small blind) folded before Flop
+Seat 5: xGCEx (big blind) collected ($2.65)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: mehlhorn87 folded on the Flop
+
+
+
+PokerStars Game #19951222912:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:38:41 (ET)
+Table 'Ounas' 9-max Seat #4 is the button
+Seat 1: ralerjak ($23 in chips) 
+Seat 2: Kukoc69 ($24.85 in chips) 
+Seat 3: JE Electric ($27.45 in chips) 
+Seat 4: hands10 ($19.75 in chips) 
+Seat 5: xGCEx ($26.75 in chips) 
+Seat 7: Alameda22 ($25.75 in chips) 
+Seat 8: AcedePique ($51.80 in chips) 
+Seat 9: mehlhorn87 ($9 in chips) 
+xGCEx: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Qh]
+AcedePique: folds 
+mehlhorn87: calls $0.25
+ralerjak has timed out
+ralerjak: folds 
+ralerjak is sitting out
+Kukoc69: folds 
+JE Electric: folds 
+hands10: folds 
+xGCEx: folds 
+Alameda22: checks 
+*** FLOP *** [6d 6s 3d]
+Alameda22: checks 
+EnjoyLife73 leaves the table
+mehlhorn87: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to mehlhorn87
+mehlhorn87 collected $0.60 from pot
+mehlhorn87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6d 6s 3d]
+Seat 1: ralerjak folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: JE Electric folded before Flop (didn't bet)
+Seat 4: hands10 (button) folded before Flop (didn't bet)
+Seat 5: xGCEx (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded on the Flop
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: mehlhorn87 collected ($0.60)
+
+
+
+PokerStars Game #19951264949:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:40:31 (ET)
+Table 'Ounas' 9-max Seat #5 is the button
+Seat 2: Kukoc69 ($24.85 in chips) 
+Seat 3: JE Electric ($27.45 in chips) 
+Seat 4: hands10 ($19.75 in chips) 
+Seat 5: xGCEx ($26.65 in chips) 
+Seat 7: Alameda22 ($25.50 in chips) 
+Seat 8: AcedePique ($51.80 in chips) 
+Seat 9: mehlhorn87 ($9.35 in chips) 
+Alameda22: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 7c]
+mehlhorn87: folds 
+Kukoc69: folds 
+JE Electric: folds 
+hands10: raises $1 to $1.25
+xGCEx: folds 
+Alameda22: folds 
+AcedePique: folds 
+Uncalled bet ($1) returned to hands10
+hands10 collected $0.60 from pot
+hands10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: JE Electric folded before Flop (didn't bet)
+Seat 4: hands10 collected ($0.60)
+Seat 5: xGCEx (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: AcedePique (big blind) folded before Flop
+Seat 9: mehlhorn87 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951296223:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:41:51 (ET)
+Table 'Ounas' 9-max Seat #7 is the button
+Seat 2: Kukoc69 ($24.85 in chips) 
+Seat 3: JE Electric ($27.45 in chips) 
+Seat 4: hands10 ($20.10 in chips) 
+Seat 5: xGCEx ($26.65 in chips) 
+Seat 7: Alameda22 ($25.40 in chips) 
+Seat 8: AcedePique ($51.55 in chips) 
+Seat 9: mehlhorn87 ($9.35 in chips) 
+AcedePique: posts small blind $0.10
+mehlhorn87: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 5h]
+Kukoc69: folds 
+JE Electric: calls $0.25
+hands10: folds 
+xGCEx: folds 
+Alameda22: folds 
+AcedePique: raises $0.75 to $1
+mehlhorn87: folds 
+JE Electric: calls $0.75
+*** FLOP *** [4d Qd 3h]
+AcedePique: checks 
+JE Electric: bets $1
+AcedePique: calls $1
+*** TURN *** [4d Qd 3h] [9d]
+AcedePique: checks 
+JE Electric: checks 
+*** RIVER *** [4d Qd 3h 9d] [Ah]
+AcedePique: bets $1.25
+JE Electric said, "**** hit the ace eh ?"
+JE Electric: folds 
+Uncalled bet ($1.25) returned to AcedePique
+AcedePique collected $4.05 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [4d Qd 3h 9d Ah]
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: JE Electric folded on the River
+Seat 4: hands10 folded before Flop (didn't bet)
+Seat 5: xGCEx folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: AcedePique (small blind) collected ($4.05)
+Seat 9: mehlhorn87 (big blind) folded before Flop
+
+
+
+PokerStars Game #19951332839:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:43:26 (ET)
+Table 'Ounas' 9-max Seat #8 is the button
+Seat 2: Kukoc69 ($24.85 in chips) 
+Seat 3: JE Electric ($25.45 in chips) 
+Seat 4: hands10 ($20.10 in chips) 
+Seat 5: xGCEx ($26.65 in chips) 
+Seat 7: Alameda22 ($25.40 in chips) 
+Seat 8: AcedePique ($53.60 in chips) 
+Seat 9: mehlhorn87 ($9.10 in chips) 
+mehlhorn87: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 6s]
+JE Electric: folds 
+hands10: folds 
+JE Electric leaves the table
+xGCEx: raises $0.75 to $1
+Alameda22: folds 
+AcedePique: folds 
+mehlhorn87: folds 
+Kukoc69: folds 
+Uncalled bet ($0.75) returned to xGCEx
+xGCEx collected $0.60 from pot
+xGCEx: doesn't show hand 
+straight111 joins the table at seat #6 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Kukoc69 (big blind) folded before Flop
+Seat 3: JE Electric folded before Flop (didn't bet)
+Seat 4: hands10 folded before Flop (didn't bet)
+Seat 5: xGCEx collected ($0.60)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: AcedePique (button) folded before Flop (didn't bet)
+Seat 9: mehlhorn87 (small blind) folded before Flop
+
+
+
+PokerStars Game #19951350138:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:44:11 (ET)
+Table 'Ounas' 9-max Seat #9 is the button
+Seat 2: Kukoc69 ($24.60 in chips) 
+Seat 4: hands10 ($20.10 in chips) 
+Seat 5: xGCEx ($27 in chips) 
+Seat 7: Alameda22 ($25.40 in chips) 
+Seat 8: AcedePique ($53.60 in chips) 
+Seat 9: mehlhorn87 ($9 in chips) 
+Kukoc69: posts small blind $0.10
+hands10: posts big blind $0.25
+straight111: is sitting out 
+straight111 leaves the table
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 5c]
+jaf_punk joins the table at seat #3 
+xGCEx: folds 
+Alameda22: folds 
+yjqian23 joins the table at seat #6 
+AcedePique: folds 
+mehlhorn87: calls $0.25
+Kukoc69: calls $0.15
+hands10: checks 
+*** FLOP *** [Js Qh Th]
+Kukoc69: bets $0.50
+yjqian23 is disconnected 
+hands10: folds 
+mehlhorn87: calls $0.50
+*** TURN *** [Js Qh Th] [Kh]
+yjqian23 is connected 
+Kukoc69: bets $1
+mehlhorn87: calls $1
+*** RIVER *** [Js Qh Th Kh] [2c]
+Kukoc69: bets $1.25
+mehlhorn87: raises $6 to $7.25 and is all-in
+Kukoc69: calls $6
+*** SHOW DOWN ***
+mehlhorn87: shows [9c Jh] (a straight, Nine to King)
+Kukoc69: shows [3c Ac] (a straight, Ten to Ace)
+Kukoc69 collected $17.35 from pot
+mehlhorn87 leaves the table
+*** SUMMARY ***
+Total pot $18.25 | Rake $0.90 
+Board [Js Qh Th Kh 2c]
+Seat 2: Kukoc69 (small blind) showed [3c Ac] and won ($17.35) with a straight, Ten to Ace
+Seat 4: hands10 (big blind) folded on the Flop
+Seat 5: xGCEx folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: AcedePique folded before Flop (didn't bet)
+Seat 9: mehlhorn87 (button) showed [9c Jh] and lost with a straight, Nine to King
+
+
+
+PokerStars Game #19951398610:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:46:15 (ET)
+Table 'Ounas' 9-max Seat #2 is the button
+Seat 2: Kukoc69 ($32.95 in chips) 
+Seat 4: hands10 ($19.85 in chips) 
+Seat 6: yjqian23 ($25 in chips) 
+Seat 7: Alameda22 ($25.40 in chips) 
+Seat 8: AcedePique ($53.60 in chips) 
+jaf_punk will be allowed to play after the button
+hands10: posts small blind $0.10
+xGCEx: is sitting out 
+xGCEx leaves the table
+yjqian23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Kd]
+Alameda22: raises $0.50 to $0.75
+AcedePique: folds 
+Kukoc69: folds 
+hands10: folds 
+yjqian23: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 4: hands10 (small blind) folded before Flop
+Seat 6: yjqian23 (big blind) folded before Flop
+Seat 7: Alameda22 collected ($0.60)
+Seat 8: AcedePique folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951423568:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:47:19 (ET)
+Table 'Ounas' 9-max Seat #4 is the button
+Seat 2: Kukoc69 ($32.95 in chips) 
+Seat 3: jaf_punk ($25 in chips) 
+Seat 4: hands10 ($19.75 in chips) 
+Seat 6: yjqian23 ($24.75 in chips) 
+Seat 7: Alameda22 ($25.75 in chips) 
+Seat 8: AcedePique ($53.60 in chips) 
+yjqian23: posts small blind $0.10
+Alameda22: posts big blind $0.25
+jaf_punk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Tc]
+AcedePique: folds 
+Kukoc69: folds 
+jaf_punk: checks 
+hands10: raises $1.25 to $1.50
+yjqian23: folds 
+Alameda22: folds 
+jaf_punk: folds 
+Uncalled bet ($1.25) returned to hands10
+hands10 collected $0.85 from pot
+hands10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: jaf_punk folded before Flop
+Seat 4: hands10 (button) collected ($0.85)
+Seat 6: yjqian23 (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 8: AcedePique folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951440069:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:48:01 (ET)
+Table 'Ounas' 9-max Seat #6 is the button
+Seat 2: Kukoc69 ($32.95 in chips) 
+Seat 3: jaf_punk ($24.75 in chips) 
+Seat 4: hands10 ($20.35 in chips) 
+Seat 6: yjqian23 ($24.65 in chips) 
+Seat 7: Alameda22 ($25.50 in chips) 
+Alameda22: posts small blind $0.10
+AcedePique: is sitting out 
+Kukoc69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 6h]
+AcedePique leaves the table
+jaf_punk: folds 
+hands10: folds 
+yjqian23: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to Kukoc69
+Kukoc69 collected $0.20 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Kukoc69 (big blind) collected ($0.20)
+Seat 3: jaf_punk folded before Flop (didn't bet)
+Seat 4: hands10 folded before Flop (didn't bet)
+Seat 6: yjqian23 (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19951453892:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:48:37 (ET)
+Table 'Ounas' 9-max Seat #7 is the button
+Seat 2: Kukoc69 ($33.05 in chips) 
+Seat 3: jaf_punk ($24.75 in chips) 
+Seat 4: hands10 ($20.35 in chips) 
+Seat 6: yjqian23 ($24.65 in chips) 
+Seat 7: Alameda22 ($25.40 in chips) 
+Kukoc69: posts small blind $0.10
+jaf_punk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Jh]
+hands10: folds 
+yjqian23: folds 
+Alameda22: folds 
+Kukoc69: raises $0.50 to $0.75
+jaf_punk: calls $0.50
+*** FLOP *** [8d Qh Th]
+Kukoc69: bets $1
+jaf_punk: calls $1
+*** TURN *** [8d Qh Th] [7c]
+Kukoc69: checks 
+jaf_punk: checks 
+*** RIVER *** [8d Qh Th 7c] [As]
+Kukoc69: checks 
+jaf_punk: bets $2
+Kukoc69: folds 
+Uncalled bet ($2) returned to jaf_punk
+jaf_punk collected $3.35 from pot
+jaf_punk: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [8d Qh Th 7c As]
+Seat 2: Kukoc69 (small blind) folded on the River
+Seat 3: jaf_punk (big blind) collected ($3.35)
+Seat 4: hands10 folded before Flop (didn't bet)
+Seat 6: yjqian23 folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951487213:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:50:03 (ET)
+Table 'Ounas' 9-max Seat #2 is the button
+Seat 2: Kukoc69 ($31.30 in chips) 
+Seat 3: jaf_punk ($26.35 in chips) 
+Seat 4: hands10 ($20.35 in chips) 
+Seat 6: yjqian23 ($24.65 in chips) 
+Seat 7: Alameda22 ($25.40 in chips) 
+jaf_punk: posts small blind $0.10
+hands10: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 2c]
+yjqian23: folds 
+Alameda22: folds 
+Kukoc69: folds 
+jaf_punk: folds 
+Uncalled bet ($0.15) returned to hands10
+Kukoc69 leaves the table
+hands10 collected $0.20 from pot
+hands10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 3: jaf_punk (small blind) folded before Flop
+Seat 4: hands10 (big blind) collected ($0.20)
+Seat 6: yjqian23 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+
+
+

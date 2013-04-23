@@ -1,0 +1,2204 @@
+PokerStars Game #19922913440:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:16:48 (ET)
+Table 'Neith' 9-max Seat #4 is the button
+Seat 1: chase2chase ($22.90 in chips) 
+Seat 3: ThannTheOne ($12.20 in chips) 
+Seat 4: Salty_Dog101 ($25.80 in chips) 
+Seat 5: wheel ($25.70 in chips) 
+Seat 6: Alameda22 ($25 in chips) 
+Seat 7: tiburonbig ($18.15 in chips) 
+Seat 9: newgenre ($3.15 in chips) 
+wheel: posts small blind $0.10
+Alameda22: posts big blind $0.25
+TheTurk80: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 2h]
+tiburonbig: folds 
+newgenre: raises $0.75 to $1
+chase2chase: folds 
+ThannTheOne: folds 
+Salty_Dog101: calls $1
+wheel: folds 
+Alameda22: folds 
+*** FLOP *** [Ks 8d Jc]
+newgenre: checks 
+Salty_Dog101: bets $0.50
+newgenre: calls $0.50
+*** TURN *** [Ks 8d Jc] [7s]
+newgenre: bets $0.75
+Salty_Dog101: calls $0.75
+*** RIVER *** [Ks 8d Jc 7s] [7h]
+newgenre: checks 
+Salty_Dog101: bets $5
+newgenre: folds 
+Uncalled bet ($5) returned to Salty_Dog101
+Salty_Dog101 collected $4.65 from pot
+Salty_Dog101: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [Ks 8d Jc 7s 7h]
+Seat 1: chase2chase folded before Flop (didn't bet)
+Seat 3: ThannTheOne folded before Flop (didn't bet)
+Seat 4: Salty_Dog101 (button) collected ($4.65)
+Seat 5: wheel (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 9: newgenre folded on the River
+
+
+
+PokerStars Game #19922949528:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:18:26 (ET)
+Table 'Neith' 9-max Seat #5 is the button
+Seat 1: chase2chase ($22.90 in chips) 
+Seat 3: ThannTheOne ($12.20 in chips) 
+Seat 4: Salty_Dog101 ($28.20 in chips) 
+Seat 5: wheel ($25.60 in chips) 
+Seat 6: Alameda22 ($24.75 in chips) 
+Seat 7: tiburonbig ($18.15 in chips) 
+Seat 9: newgenre ($0.90 in chips) 
+Alameda22: posts small blind $0.10
+tiburonbig: posts big blind $0.25
+TheTurk80: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Ah]
+newgenre: folds 
+chase2chase: calls $0.25
+ThannTheOne: folds 
+Salty_Dog101: folds 
+wheel: folds 
+Alameda22: raises $0.75 to $1
+tiburonbig: folds 
+chase2chase: calls $0.75
+*** FLOP *** [Kd Kc 5s]
+Alameda22: bets $1.50
+chase2chase: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $2.15 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Kd Kc 5s]
+Seat 1: chase2chase folded on the Flop
+Seat 3: ThannTheOne folded before Flop (didn't bet)
+Seat 4: Salty_Dog101 folded before Flop (didn't bet)
+Seat 5: wheel (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) collected ($2.15)
+Seat 7: tiburonbig (big blind) folded before Flop
+Seat 9: newgenre folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922976014:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:19:39 (ET)
+Table 'Neith' 9-max Seat #6 is the button
+Seat 1: chase2chase ($21.90 in chips) 
+Seat 3: ThannTheOne ($12.20 in chips) 
+Seat 4: Salty_Dog101 ($28.20 in chips) 
+Seat 5: wheel ($25.60 in chips) 
+Seat 6: Alameda22 ($25.90 in chips) 
+Seat 7: tiburonbig ($17.90 in chips) 
+Seat 8: TheTurk80 ($25 in chips) 
+Seat 9: newgenre ($0.90 in chips) 
+tiburonbig: posts small blind $0.10
+TheTurk80: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 9h]
+newgenre: raises $0.65 to $0.90 and is all-in
+chase2chase: folds 
+ThannTheOne: folds 
+Salty_Dog101: calls $0.90
+wheel: folds 
+Alameda22: folds 
+tiburonbig: folds 
+TheTurk80: folds 
+*** FLOP *** [6h Ac 7s]
+*** TURN *** [6h Ac 7s] [8c]
+*** RIVER *** [6h Ac 7s 8c] [5h]
+*** SHOW DOWN ***
+newgenre: shows [Ts 9s] (a straight, Six to Ten)
+Salty_Dog101: mucks hand 
+newgenre collected $2.05 from pot
+*** SUMMARY ***
+Total pot $2.15 | Rake $0.10 
+Board [6h Ac 7s 8c 5h]
+Seat 1: chase2chase folded before Flop (didn't bet)
+Seat 3: ThannTheOne folded before Flop (didn't bet)
+Seat 4: Salty_Dog101 mucked [6s 6d]
+Seat 5: wheel folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: tiburonbig (small blind) folded before Flop
+Seat 8: TheTurk80 (big blind) folded before Flop
+Seat 9: newgenre showed [Ts 9s] and won ($2.05) with a straight, Six to Ten
+
+
+
+PokerStars Game #19923005861:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:21:00 (ET)
+Table 'Neith' 9-max Seat #7 is the button
+Seat 1: chase2chase ($21.90 in chips) 
+Seat 3: ThannTheOne ($12.20 in chips) 
+Seat 4: Salty_Dog101 ($27.30 in chips) 
+Seat 5: wheel ($25.60 in chips) 
+Seat 6: Alameda22 ($25.90 in chips) 
+Seat 7: tiburonbig ($17.80 in chips) 
+Seat 8: TheTurk80 ($24.75 in chips) 
+Seat 9: newgenre ($2.05 in chips) 
+TheTurk80: posts small blind $0.10
+newgenre: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Kc]
+chase2chase: folds 
+ThannTheOne: raises $0.75 to $1
+Salty_Dog101: folds 
+wheel: folds 
+Alameda22: folds 
+tiburonbig: folds 
+TheTurk80: folds 
+newgenre: folds 
+Uncalled bet ($0.75) returned to ThannTheOne
+ThannTheOne collected $0.60 from pot
+ThannTheOne: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: chase2chase folded before Flop (didn't bet)
+Seat 3: ThannTheOne collected ($0.60)
+Seat 4: Salty_Dog101 folded before Flop (didn't bet)
+Seat 5: wheel folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig (button) folded before Flop (didn't bet)
+Seat 8: TheTurk80 (small blind) folded before Flop
+Seat 9: newgenre (big blind) folded before Flop
+
+
+
+PokerStars Game #19923018135:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:21:34 (ET)
+Table 'Neith' 9-max Seat #8 is the button
+Seat 1: chase2chase ($21.90 in chips) 
+Seat 3: ThannTheOne ($12.55 in chips) 
+Seat 4: Salty_Dog101 ($27.30 in chips) 
+Seat 5: wheel ($25.60 in chips) 
+Seat 6: Alameda22 ($25.90 in chips) 
+Seat 7: tiburonbig ($17.80 in chips) 
+Seat 8: TheTurk80 ($24.65 in chips) 
+Seat 9: newgenre ($1.80 in chips) 
+newgenre: posts small blind $0.10
+chase2chase: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Tc]
+ThannTheOne: folds 
+Salty_Dog101: calls $0.25
+wheel: folds 
+Alameda22: folds 
+tiburonbig: folds 
+TheTurk80: raises $0.55 to $0.80
+newgenre: folds 
+chase2chase: calls $0.55
+Salty_Dog101: calls $0.55
+*** FLOP *** [Qd 2s Qs]
+chase2chase: checks 
+Salty_Dog101: checks 
+TheTurk80: bets $2
+chase2chase: folds 
+Salty_Dog101: folds 
+Uncalled bet ($2) returned to TheTurk80
+Salty_Dog101 is sitting out
+TheTurk80 collected $2.40 from pot
+TheTurk80: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Qd 2s Qs]
+Seat 1: chase2chase (big blind) folded on the Flop
+Seat 3: ThannTheOne folded before Flop (didn't bet)
+Seat 4: Salty_Dog101 folded on the Flop
+Seat 5: wheel folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: TheTurk80 (button) collected ($2.40)
+Seat 9: newgenre (small blind) folded before Flop
+
+
+
+PokerStars Game #19923049007:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:22:58 (ET)
+Table 'Neith' 9-max Seat #9 is the button
+Seat 1: chase2chase ($21.10 in chips) 
+Seat 5: wheel ($25.60 in chips) 
+Seat 6: Alameda22 ($25.90 in chips) 
+Seat 7: tiburonbig ($17.80 in chips) 
+Seat 8: TheTurk80 ($26.25 in chips) 
+Seat 9: newgenre ($1.70 in chips) 
+chase2chase: posts small blind $0.10
+ThannTheOne: is sitting out 
+wheel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Ad]
+ThannTheOne leaves the table
+Bubbagump joins the table at seat #3 
+Salty_Dog101 leaves the table
+Alameda22: raises $0.50 to $0.75
+tiburonbig: folds 
+TheTurk80: folds 
+newgenre: folds 
+chase2chase: calls $0.65
+wheel: folds 
+*** FLOP *** [3c 7h 5h]
+jonhamm88 was removed from the table for failing to post
+chase2chase: bets $0.75
+Alameda22: raises $1.50 to $2.25
+chase2chase: calls $1.50
+*** TURN *** [3c 7h 5h] [Js]
+chase2chase: checks 
+CardHockey15 joins the table at seat #4 
+Alameda22: bets $4
+chase2chase: calls $4
+*** RIVER *** [3c 7h 5h Js] [Jc]
+chase2chase: checks 
+Alameda22: checks 
+*** SHOW DOWN ***
+chase2chase: shows [2h 4h] (a pair of Jacks)
+Alameda22: shows [Qd Ad] (a pair of Jacks - Ace kicker)
+Alameda22 collected $13.60 from pot
+*** SUMMARY ***
+Total pot $14.25 | Rake $0.65 
+Board [3c 7h 5h Js Jc]
+Seat 1: chase2chase (small blind) showed [2h 4h] and lost with a pair of Jacks
+Seat 5: wheel (big blind) folded before Flop
+Seat 6: Alameda22 showed [Qd Ad] and won ($13.60) with a pair of Jacks
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: TheTurk80 folded before Flop (didn't bet)
+Seat 9: newgenre (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923095645:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:25:06 (ET)
+Table 'Neith' 9-max Seat #1 is the button
+Seat 1: chase2chase ($14.10 in chips) 
+Seat 5: wheel ($25.35 in chips) 
+Seat 6: Alameda22 ($32.50 in chips) 
+Seat 7: tiburonbig ($17.80 in chips) 
+Seat 8: TheTurk80 ($26.25 in chips) 
+Seat 9: newgenre ($1.70 in chips) 
+Bubbagump will be allowed to play after the button
+CardHockey15 will be allowed to play after the button
+wheel: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 6s]
+tiburonbig: folds 
+TheTurk80: folds 
+newgenre: folds 
+chase2chase: folds 
+wheel: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+Valezius joins the table at seat #2 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: chase2chase (button) folded before Flop (didn't bet)
+Seat 5: wheel (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) collected ($0.20)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: TheTurk80 folded before Flop (didn't bet)
+Seat 9: newgenre folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923109641:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:25:44 (ET)
+Table 'Neith' 9-max Seat #5 is the button
+Seat 1: chase2chase ($14.10 in chips) 
+Seat 4: CardHockey15 ($12.35 in chips) 
+Seat 5: wheel ($25.25 in chips) 
+Seat 6: Alameda22 ($32.60 in chips) 
+Seat 7: tiburonbig ($17.80 in chips) 
+Seat 8: TheTurk80 ($26.25 in chips) 
+Seat 9: newgenre ($1.70 in chips) 
+Alameda22: posts small blind $0.10
+tiburonbig: posts big blind $0.25
+Valezius: sits out 
+Bubbagump: sits out 
+CardHockey15: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Jd]
+TheTurk80: folds 
+newgenre: folds 
+chase2chase: calls $0.25
+CardHockey15: checks 
+wheel: folds 
+Alameda22: calls $0.15
+tiburonbig: checks 
+*** FLOP *** [5d Ts Kc]
+Alameda22: bets $0.50
+tiburonbig: calls $0.50
+chase2chase: calls $0.50
+CardHockey15: raises $11.60 to $12.10 and is all-in
+Alameda22: folds 
+tiburonbig: folds 
+chase2chase: folds 
+Uncalled bet ($11.60) returned to CardHockey15
+CardHockey15 collected $2.90 from pot
+CardHockey15: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.10 
+Board [5d Ts Kc]
+Seat 1: chase2chase folded on the Flop
+Seat 4: CardHockey15 collected ($2.90)
+Seat 5: wheel (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded on the Flop
+Seat 7: tiburonbig (big blind) folded on the Flop
+Seat 8: TheTurk80 folded before Flop (didn't bet)
+Seat 9: newgenre folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923138589:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:27:04 (ET)
+Table 'Neith' 9-max Seat #6 is the button
+Seat 1: chase2chase ($13.35 in chips) 
+Seat 4: CardHockey15 ($14.50 in chips) 
+Seat 5: wheel ($25.25 in chips) 
+Seat 6: Alameda22 ($31.85 in chips) 
+Seat 7: tiburonbig ($17.05 in chips) 
+Seat 8: TheTurk80 ($26.25 in chips) 
+Seat 9: newgenre ($1.70 in chips) 
+tiburonbig: posts small blind $0.10
+TheTurk80: posts big blind $0.25
+Valezius: sits out 
+Bubbagump: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Jd]
+newgenre: folds 
+chase2chase: folds 
+CardHockey15: raises $0.50 to $0.75
+wheel: folds 
+Alameda22: folds 
+tiburonbig: raises $1.25 to $2
+TheTurk80: folds 
+CardHockey15: calls $1.25
+*** FLOP *** [8h Ad 3c]
+tiburonbig: bets $1
+CardHockey15: calls $1
+*** TURN *** [8h Ad 3c] [Qh]
+tiburonbig: checks 
+CardHockey15: checks 
+*** RIVER *** [8h Ad 3c Qh] [Qs]
+tiburonbig: checks 
+CardHockey15: bets $2
+tiburonbig: calls $2
+*** SHOW DOWN ***
+CardHockey15: shows [4c 4h] (two pair, Queens and Fours)
+tiburonbig: shows [Ts Tc] (two pair, Queens and Tens)
+tiburonbig collected $9.80 from pot
+*** SUMMARY ***
+Total pot $10.25 | Rake $0.45 
+Board [8h Ad 3c Qh Qs]
+Seat 1: chase2chase folded before Flop (didn't bet)
+Seat 4: CardHockey15 showed [4c 4h] and lost with two pair, Queens and Fours
+Seat 5: wheel folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: tiburonbig (small blind) showed [Ts Tc] and won ($9.80) with two pair, Queens and Tens
+Seat 8: TheTurk80 (big blind) folded before Flop
+Seat 9: newgenre folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923164734:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:28:16 (ET)
+Table 'Neith' 9-max Seat #7 is the button
+Seat 1: chase2chase ($13.35 in chips) 
+Seat 4: CardHockey15 ($9.50 in chips) 
+Seat 5: wheel ($25.25 in chips) 
+Seat 6: Alameda22 ($31.85 in chips) 
+Seat 7: tiburonbig ($21.85 in chips) 
+Seat 8: TheTurk80 ($26 in chips) 
+Seat 9: newgenre ($1.70 in chips) 
+TheTurk80: posts small blind $0.10
+newgenre: posts big blind $0.25
+Valezius: sits out 
+Bubbagump: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 6s]
+chase2chase: calls $0.25
+CardHockey15: calls $0.25
+wheel: folds 
+Alameda22: folds 
+tiburonbig: folds 
+TheTurk80: calls $0.15
+newgenre: checks 
+*** FLOP *** [Qh 2c 4h]
+TheTurk80: bets $0.60
+newgenre: folds 
+chase2chase: folds 
+CardHockey15: folds 
+Uncalled bet ($0.60) returned to TheTurk80
+TheTurk80 collected $0.95 from pot
+TheTurk80: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Qh 2c 4h]
+Seat 1: chase2chase folded on the Flop
+Seat 4: CardHockey15 folded on the Flop
+Seat 5: wheel folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig (button) folded before Flop (didn't bet)
+Seat 8: TheTurk80 (small blind) collected ($0.95)
+Seat 9: newgenre (big blind) folded on the Flop
+
+
+
+PokerStars Game #19923189459:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:29:23 (ET)
+Table 'Neith' 9-max Seat #8 is the button
+Seat 1: chase2chase ($13.10 in chips) 
+Seat 4: CardHockey15 ($9.25 in chips) 
+Seat 5: wheel ($25.25 in chips) 
+Seat 6: Alameda22 ($31.85 in chips) 
+Seat 7: tiburonbig ($21.85 in chips) 
+Seat 8: TheTurk80 ($26.70 in chips) 
+Seat 9: newgenre ($1.45 in chips) 
+newgenre: posts small blind $0.10
+chase2chase: posts big blind $0.25
+Valezius: sits out 
+Bubbagump: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 6h]
+CardHockey15: folds 
+wheel: folds 
+Alameda22: folds 
+tiburonbig: folds 
+TheTurk80: raises $0.60 to $0.85
+newgenre: raises $0.60 to $1.45 and is all-in
+chase2chase: calls $1.20
+TheTurk80: calls $0.60
+*** FLOP *** [3s Jc 2s]
+chase2chase: checks 
+TheTurk80: checks 
+*** TURN *** [3s Jc 2s] [7h]
+chase2chase: bets $0.75
+TheTurk80: raises $1.50 to $2.25
+chase2chase: calls $1.50
+*** RIVER *** [3s Jc 2s 7h] [Kc]
+chase2chase: checks 
+TheTurk80: bets $5
+chase2chase: folds 
+Uncalled bet ($5) returned to TheTurk80
+*** SHOW DOWN ***
+TheTurk80: shows [Js Jd] (three of a kind, Jacks)
+TheTurk80 collected $4.30 from side pot
+newgenre: mucks hand 
+TheTurk80 collected $4.15 from main pot
+*** SUMMARY ***
+Total pot $8.85 Main pot $4.15. Side pot $4.30. | Rake $0.40 
+Board [3s Jc 2s 7h Kc]
+Seat 1: chase2chase (big blind) folded on the River
+Seat 4: CardHockey15 folded before Flop (didn't bet)
+Seat 5: wheel folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: TheTurk80 (button) showed [Js Jd] and won ($8.45) with three of a kind, Jacks
+Seat 9: newgenre (small blind) mucked [4d 4h]
+
+
+
+PokerStars Game #19923238941:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:31:37 (ET)
+Table 'Neith' 9-max Seat #1 is the button
+Seat 1: chase2chase ($9.40 in chips) 
+Seat 4: CardHockey15 ($9.25 in chips) 
+Seat 5: wheel ($25.25 in chips) 
+Seat 6: Alameda22 ($31.85 in chips) 
+Seat 7: tiburonbig ($21.85 in chips) 
+Seat 8: TheTurk80 ($31.45 in chips) 
+Valezius will be allowed to play after the button
+Bubbagump will be allowed to play after the button
+CardHockey15: posts small blind $0.10
+wheel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 3d]
+Alameda22: folds 
+newgenre leaves the table
+dt6913 joins the table at seat #9 
+tiburonbig: folds 
+TheTurk80: raises $0.60 to $0.85
+chase2chase: folds 
+CardHockey15: calls $0.75
+wheel: folds 
+*** FLOP *** [3c 5d 6d]
+CardHockey15: checks 
+TheTurk80: bets $1.30
+CardHockey15: calls $1.30
+*** TURN *** [3c 5d 6d] [Th]
+CardHockey15: checks 
+TheTurk80: checks 
+*** RIVER *** [3c 5d 6d Th] [Jd]
+CardHockey15: bets $2.50
+TheTurk80: folds 
+Uncalled bet ($2.50) returned to CardHockey15
+CardHockey15 collected $4.35 from pot
+CardHockey15: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.55 | Rake $0.20 
+Board [3c 5d 6d Th Jd]
+Seat 1: chase2chase (button) folded before Flop (didn't bet)
+Seat 4: CardHockey15 (small blind) collected ($4.35)
+Seat 5: wheel (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: TheTurk80 folded on the River
+
+
+
+PokerStars Game #19923260635:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:32:36 (ET)
+Table 'Neith' 9-max Seat #4 is the button
+Seat 1: chase2chase ($9.40 in chips) 
+Seat 4: CardHockey15 ($11.45 in chips) 
+Seat 5: wheel ($25 in chips) 
+Seat 6: Alameda22 ($31.85 in chips) 
+Seat 7: tiburonbig ($21.85 in chips) 
+Seat 8: TheTurk80 ($29.30 in chips) 
+wheel: posts small blind $0.10
+Alameda22: posts big blind $0.25
+dt6913: sits out 
+Valezius: sits out 
+Bubbagump: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 6s]
+tiburonbig: folds 
+TheTurk80: folds 
+chase2chase: folds 
+CardHockey15: calls $0.25
+wheel: folds 
+Alameda22: checks 
+*** FLOP *** [9d 8d 5d]
+Alameda22: checks 
+CardHockey15: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to CardHockey15
+CardHockey15 collected $0.60 from pot
+CardHockey15: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9d 8d 5d]
+Seat 1: chase2chase folded before Flop (didn't bet)
+Seat 4: CardHockey15 (button) collected ($0.60)
+Seat 5: wheel (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: TheTurk80 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923298514:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:34:18 (ET)
+Table 'Neith' 9-max Seat #5 is the button
+Seat 1: chase2chase ($9.40 in chips) 
+Seat 4: CardHockey15 ($11.80 in chips) 
+Seat 5: wheel ($24.90 in chips) 
+Seat 6: Alameda22 ($31.60 in chips) 
+Seat 7: tiburonbig ($21.85 in chips) 
+Seat 8: TheTurk80 ($29.30 in chips) 
+Alameda22: posts small blind $0.10
+tiburonbig: posts big blind $0.25
+dt6913: sits out 
+Valezius: sits out 
+Bubbagump: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd As]
+TheTurk80: folds 
+chase2chase: folds 
+CardHockey15: folds 
+wheel: folds 
+Alameda22: calls $0.15
+tiburonbig: checks 
+*** FLOP *** [Th 8h Jh]
+Alameda22: bets $0.25
+TheTurk80 leaves the table
+tiburonbig: raises $0.25 to $0.50
+Alameda22: calls $0.25
+*** TURN *** [Th 8h Jh] [2d]
+Alameda22: checks 
+tiburonbig: checks 
+*** RIVER *** [Th 8h Jh 2d] [3h]
+kaos147 joins the table at seat #8 
+Alameda22: checks 
+tiburonbig: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to tiburonbig
+tiburonbig collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Th 8h Jh 2d 3h]
+Seat 1: chase2chase folded before Flop (didn't bet)
+Seat 4: CardHockey15 folded before Flop (didn't bet)
+Seat 5: wheel (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded on the River
+Seat 7: tiburonbig (big blind) collected ($1.45)
+Seat 8: TheTurk80 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923324124:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:35:27 (ET)
+Table 'Neith' 9-max Seat #6 is the button
+Seat 1: chase2chase ($9.40 in chips) 
+Seat 4: CardHockey15 ($11.80 in chips) 
+Seat 5: wheel ($24.90 in chips) 
+Seat 6: Alameda22 ($30.85 in chips) 
+Seat 7: tiburonbig ($22.55 in chips) 
+Seat 8: kaos147 ($5 in chips) 
+tiburonbig: posts small blind $0.10
+kaos147: posts big blind $0.25
+dt6913: sits out 
+Valezius: sits out 
+Bubbagump: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 3h]
+chase2chase: folds 
+CardHockey15: calls $0.25
+wheel: folds 
+Alameda22: folds 
+tiburonbig: folds 
+kaos147: checks 
+*** FLOP *** [Kd 6h 6c]
+kaos147: bets $1
+CardHockey15: folds 
+Uncalled bet ($1) returned to kaos147
+kaos147 collected $0.60 from pot
+kaos147: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kd 6h 6c]
+Seat 1: chase2chase folded before Flop (didn't bet)
+Seat 4: CardHockey15 folded on the Flop
+Seat 5: wheel folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: tiburonbig (small blind) folded before Flop
+Seat 8: kaos147 (big blind) collected ($0.60)
+
+
+
+PokerStars Game #19923334657:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:35:56 (ET)
+Table 'Neith' 9-max Seat #7 is the button
+Seat 1: chase2chase ($9.40 in chips) 
+Seat 4: CardHockey15 ($11.55 in chips) 
+Seat 5: wheel ($24.90 in chips) 
+Seat 6: Alameda22 ($30.85 in chips) 
+Seat 7: tiburonbig ($22.45 in chips) 
+Seat 8: kaos147 ($5.35 in chips) 
+Seat 9: dt6913 ($25 in chips) 
+kaos147: posts small blind $0.10
+dt6913: posts big blind $0.25
+Valezius: sits out 
+Bubbagump: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 9s]
+chase2chase: folds 
+CardHockey15: raises $0.50 to $0.75
+wheel: folds 
+Alameda22: folds 
+tiburonbig: folds 
+kaos147: folds 
+dt6913: folds 
+Uncalled bet ($0.50) returned to CardHockey15
+CardHockey15 collected $0.60 from pot
+CardHockey15: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: chase2chase folded before Flop (didn't bet)
+Seat 4: CardHockey15 collected ($0.60)
+Seat 5: wheel folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig (button) folded before Flop (didn't bet)
+Seat 8: kaos147 (small blind) folded before Flop
+Seat 9: dt6913 (big blind) folded before Flop
+
+
+
+PokerStars Game #19923344091:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:36:22 (ET)
+Table 'Neith' 9-max Seat #8 is the button
+Seat 1: chase2chase ($9.40 in chips) 
+Seat 4: CardHockey15 ($11.90 in chips) 
+Seat 5: wheel ($24.90 in chips) 
+Seat 6: Alameda22 ($30.85 in chips) 
+Seat 7: tiburonbig ($22.45 in chips) 
+Seat 8: kaos147 ($5.25 in chips) 
+Seat 9: dt6913 ($24.75 in chips) 
+dt6913: posts small blind $0.10
+chase2chase: posts big blind $0.25
+Valezius: sits out 
+Bubbagump: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 2s]
+CardHockey15: raises $1.25 to $1.50
+wheel: folds 
+Alameda22: folds 
+tiburonbig: folds 
+kaos147: folds 
+dt6913: folds 
+chase2chase: folds 
+Uncalled bet ($1.25) returned to CardHockey15
+CardHockey15 collected $0.60 from pot
+CardHockey15: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: chase2chase (big blind) folded before Flop
+Seat 4: CardHockey15 collected ($0.60)
+Seat 5: wheel folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: kaos147 (button) folded before Flop (didn't bet)
+Seat 9: dt6913 (small blind) folded before Flop
+
+
+
+PokerStars Game #19923356405:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:36:55 (ET)
+Table 'Neith' 9-max Seat #9 is the button
+Seat 1: chase2chase ($9.15 in chips) 
+Seat 2: Valezius ($5 in chips) 
+Seat 4: CardHockey15 ($12.25 in chips) 
+Seat 5: wheel ($24.90 in chips) 
+Seat 6: Alameda22 ($30.85 in chips) 
+Seat 7: tiburonbig ($22.45 in chips) 
+Seat 8: kaos147 ($5.25 in chips) 
+Seat 9: dt6913 ($24.65 in chips) 
+chase2chase: posts small blind $0.10
+Valezius: posts big blind $0.25
+Bubbagump: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 5c]
+CardHockey15: raises $0.75 to $1
+wheel: folds 
+Alameda22: folds 
+tiburonbig: folds 
+kaos147: folds 
+dt6913: folds 
+chase2chase: calls $0.90
+Valezius: folds 
+*** FLOP *** [8c Qh 3c]
+chase2chase: checks 
+CardHockey15: bets $2.50
+chase2chase: folds 
+Uncalled bet ($2.50) returned to CardHockey15
+CardHockey15 collected $2.15 from pot
+CardHockey15: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [8c Qh 3c]
+Seat 1: chase2chase (small blind) folded on the Flop
+Seat 2: Valezius (big blind) folded before Flop
+Seat 4: CardHockey15 collected ($2.15)
+Seat 5: wheel folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: kaos147 folded before Flop (didn't bet)
+Seat 9: dt6913 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923374101:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:37:44 (ET)
+Table 'Neith' 9-max Seat #1 is the button
+Seat 1: chase2chase ($8.15 in chips) 
+Seat 2: Valezius ($4.75 in chips) 
+Seat 3: Bubbagump ($25 in chips) 
+Seat 4: CardHockey15 ($13.40 in chips) 
+Seat 5: wheel ($24.90 in chips) 
+Seat 6: Alameda22 ($30.85 in chips) 
+Seat 7: tiburonbig ($22.45 in chips) 
+Seat 8: kaos147 ($5.25 in chips) 
+Seat 9: dt6913 ($24.65 in chips) 
+Valezius: posts small blind $0.10
+Bubbagump: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Kh]
+CardHockey15: folds 
+wheel: raises $0.50 to $0.75
+Alameda22: folds 
+tiburonbig: folds 
+kaos147: calls $0.75
+dt6913: folds 
+chase2chase: calls $0.75
+Valezius: folds 
+Bubbagump: folds 
+*** FLOP *** [Jh 8c Ad]
+wheel: bets $2
+kaos147: folds 
+chase2chase: calls $2
+*** TURN *** [Jh 8c Ad] [7d]
+wheel: bets $4
+chase2chase: raises $1.40 to $5.40 and is all-in
+wheel: calls $1.40
+*** RIVER *** [Jh 8c Ad 7d] [3h]
+*** SHOW DOWN ***
+wheel: shows [Qs Ac] (a pair of Aces)
+chase2chase: mucks hand 
+wheel collected $16.55 from pot
+*** SUMMARY ***
+Total pot $17.40 | Rake $0.85 
+Board [Jh 8c Ad 7d 3h]
+Seat 1: chase2chase (button) mucked [Tc Qd]
+Seat 2: Valezius (small blind) folded before Flop
+Seat 3: Bubbagump (big blind) folded before Flop
+Seat 4: CardHockey15 folded before Flop (didn't bet)
+Seat 5: wheel showed [Qs Ac] and won ($16.55) with a pair of Aces
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: kaos147 folded on the Flop
+Seat 9: dt6913 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923405498:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:39:10 (ET)
+Table 'Neith' 9-max Seat #2 is the button
+Seat 2: Valezius ($4.65 in chips) 
+Seat 3: Bubbagump ($24.75 in chips) 
+Seat 4: CardHockey15 ($13.40 in chips) 
+Seat 5: wheel ($33.30 in chips) 
+Seat 6: Alameda22 ($30.85 in chips) 
+Seat 7: tiburonbig ($22.45 in chips) 
+Seat 8: kaos147 ($4.50 in chips) 
+Seat 9: dt6913 ($24.65 in chips) 
+Bubbagump: posts small blind $0.10
+CardHockey15: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Js]
+wheel: folds 
+chase2chase leaves the table
+Alameda22: folds 
+tiburonbig: folds 
+kaos147: folds 
+dt6913: folds 
+Valezius: folds 
+Bubbagump: calls $0.15
+CardHockey15: checks 
+*** FLOP *** [Kd Qd 4h]
+fabolous86 joins the table at seat #1 
+Bubbagump: checks 
+CardHockey15: checks 
+*** TURN *** [Kd Qd 4h] [9d]
+Bubbagump: checks 
+CardHockey15: checks 
+*** RIVER *** [Kd Qd 4h 9d] [4s]
+Bubbagump: checks 
+CardHockey15: bets $0.75
+Bubbagump: folds 
+Uncalled bet ($0.75) returned to CardHockey15
+CardHockey15 collected $0.50 from pot
+CardHockey15: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Kd Qd 4h 9d 4s]
+Seat 2: Valezius (button) folded before Flop (didn't bet)
+Seat 3: Bubbagump (small blind) folded on the River
+Seat 4: CardHockey15 (big blind) collected ($0.50)
+Seat 5: wheel folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: kaos147 folded before Flop (didn't bet)
+Seat 9: dt6913 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923436680:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:40:33 (ET)
+Table 'Neith' 9-max Seat #3 is the button
+Seat 2: Valezius ($4.65 in chips) 
+Seat 3: Bubbagump ($24.50 in chips) 
+Seat 4: CardHockey15 ($13.65 in chips) 
+Seat 5: wheel ($33.30 in chips) 
+Seat 6: Alameda22 ($30.85 in chips) 
+Seat 7: tiburonbig ($22.45 in chips) 
+Seat 8: kaos147 ($4.50 in chips) 
+Seat 9: dt6913 ($24.65 in chips) 
+CardHockey15: posts small blind $0.10
+wheel: posts big blind $0.25
+fabolous86: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Qs]
+Alameda22: folds 
+tiburonbig: folds 
+kaos147: calls $0.25
+dt6913: folds 
+Valezius: folds 
+Bubbagump: folds 
+CardHockey15: calls $0.15
+wheel: checks 
+*** FLOP *** [4h Qh 3h]
+CardHockey15: checks 
+wheel: checks 
+kaos147: checks 
+*** TURN *** [4h Qh 3h] [Qd]
+CardHockey15: checks 
+wheel: checks 
+kaos147: checks 
+*** RIVER *** [4h Qh 3h Qd] [Qc]
+CardHockey15: checks 
+wheel: checks 
+kaos147: checks 
+*** SHOW DOWN ***
+CardHockey15: shows [Ts 9d] (three of a kind, Queens)
+wheel: mucks hand 
+kaos147: shows [Ks Jh] (three of a kind, Queens - King kicker)
+kaos147 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [4h Qh 3h Qd Qc]
+Seat 2: Valezius folded before Flop (didn't bet)
+Seat 3: Bubbagump (button) folded before Flop (didn't bet)
+Seat 4: CardHockey15 (small blind) showed [Ts 9d] and lost with three of a kind, Queens
+Seat 5: wheel (big blind) mucked [8s 9h]
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: kaos147 showed [Ks Jh] and won ($0.75) with three of a kind, Queens
+Seat 9: dt6913 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923456252:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:41:26 (ET)
+Table 'Neith' 9-max Seat #4 is the button
+Seat 2: Valezius ($4.65 in chips) 
+Seat 3: Bubbagump ($24.50 in chips) 
+Seat 4: CardHockey15 ($13.40 in chips) 
+Seat 5: wheel ($33.05 in chips) 
+Seat 6: Alameda22 ($30.85 in chips) 
+Seat 7: tiburonbig ($22.45 in chips) 
+Seat 8: kaos147 ($5 in chips) 
+Seat 9: dt6913 ($24.65 in chips) 
+wheel: posts small blind $0.10
+Alameda22: posts big blind $0.25
+fabolous86: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 5h]
+tiburonbig: folds 
+kaos147: folds 
+dt6913: folds 
+Valezius: folds 
+Bubbagump: raises $0.75 to $1
+CardHockey15: calls $1
+wheel: folds 
+Alameda22: folds 
+*** FLOP *** [9d 7c Ts]
+Bubbagump: bets $1.50
+CardHockey15: calls $1.50
+*** TURN *** [9d 7c Ts] [6s]
+Bubbagump: bets $2.50
+CardHockey15: raises $3.50 to $6
+Bubbagump: raises $6 to $12
+CardHockey15: calls $4.90 and is all-in
+Uncalled bet ($1.10) returned to Bubbagump
+*** RIVER *** [9d 7c Ts 6s] [7h]
+*** SHOW DOWN ***
+Bubbagump: shows [7d 7s] (four of a kind, Sevens)
+CardHockey15: mucks hand 
+Bubbagump collected $25.85 from pot
+*** SUMMARY ***
+Total pot $27.15 | Rake $1.30 
+Board [9d 7c Ts 6s 7h]
+Seat 2: Valezius folded before Flop (didn't bet)
+Seat 3: Bubbagump showed [7d 7s] and won ($25.85) with four of a kind, Sevens
+Seat 4: CardHockey15 (button) mucked [8h Th]
+Seat 5: wheel (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: kaos147 folded before Flop (didn't bet)
+Seat 9: dt6913 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923482081:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:42:35 (ET)
+Table 'Neith' 9-max Seat #5 is the button
+Seat 2: Valezius ($4.65 in chips) 
+Seat 3: Bubbagump ($36.95 in chips) 
+Seat 5: wheel ($32.95 in chips) 
+Seat 6: Alameda22 ($30.60 in chips) 
+Seat 7: tiburonbig ($22.45 in chips) 
+Seat 8: kaos147 ($5 in chips) 
+Seat 9: dt6913 ($24.65 in chips) 
+Alameda22: posts small blind $0.10
+CardHockey15 said, " thats sick"
+tiburonbig: posts big blind $0.25
+fabolous86: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 5d]
+kaos147: folds 
+dt6913: folds 
+Valezius: folds 
+Bubbagump: folds 
+wheel: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to tiburonbig
+tiburonbig collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Valezius folded before Flop (didn't bet)
+Seat 3: Bubbagump folded before Flop (didn't bet)
+Seat 5: wheel (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: tiburonbig (big blind) collected ($0.20)
+Seat 8: kaos147 folded before Flop (didn't bet)
+Seat 9: dt6913 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923494007:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:43:07 (ET)
+Table 'Neith' 9-max Seat #6 is the button
+Seat 2: Valezius ($4.65 in chips) 
+Seat 3: Bubbagump ($36.95 in chips) 
+Seat 5: wheel ($32.95 in chips) 
+Seat 6: Alameda22 ($30.50 in chips) 
+Seat 7: tiburonbig ($22.55 in chips) 
+Seat 8: kaos147 ($5 in chips) 
+Seat 9: dt6913 ($24.65 in chips) 
+tiburonbig: posts small blind $0.10
+CardHockey15 said, "flopped top pair that went good but then a straight"
+kaos147: posts big blind $0.25
+fabolous86: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Ts]
+dt6913: calls $0.25
+Valezius: folds 
+Bubbagump: folds 
+wheel: calls $0.25
+Alameda22: folds 
+tiburonbig: calls $0.15
+kaos147: checks 
+*** FLOP *** [Ad 2c Jd]
+tiburonbig: checks 
+kaos147: checks 
+dt6913: checks 
+wheel: checks 
+*** TURN *** [Ad 2c Jd] [Ks]
+Bubbagump said, "can't protect with a $10 stack"
+tiburonbig: checks 
+kaos147: checks 
+dt6913: bets $1
+wheel: folds 
+tiburonbig: folds 
+kaos147: folds 
+Uncalled bet ($1) returned to dt6913
+dt6913 collected $0.95 from pot
+dt6913: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Ad 2c Jd Ks]
+Seat 2: Valezius folded before Flop (didn't bet)
+Seat 3: Bubbagump folded before Flop (didn't bet)
+Seat 5: wheel folded on the Turn
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: tiburonbig (small blind) folded on the Turn
+Seat 8: kaos147 (big blind) folded on the Turn
+Seat 9: dt6913 collected ($0.95)
+
+
+
+PokerStars Game #19923518571:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:44:13 (ET)
+Table 'Neith' 9-max Seat #7 is the button
+Seat 2: Valezius ($4.65 in chips) 
+Seat 3: Bubbagump ($36.95 in chips) 
+Seat 5: wheel ($32.70 in chips) 
+Seat 6: Alameda22 ($30.50 in chips) 
+Seat 7: tiburonbig ($22.30 in chips) 
+Seat 8: kaos147 ($4.75 in chips) 
+Seat 9: dt6913 ($25.35 in chips) 
+kaos147: posts small blind $0.10
+dt6913: posts big blind $0.25
+fabolous86: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 2s]
+Valezius: folds 
+Bubbagump: folds 
+wheel: raises $0.50 to $0.75
+Alameda22: folds 
+tiburonbig: folds 
+kaos147: folds 
+dt6913: calls $0.50
+*** FLOP *** [7h 8c 3c]
+dt6913: checks 
+wheel: bets $1.25
+dt6913: folds 
+Uncalled bet ($1.25) returned to wheel
+wheel collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [7h 8c 3c]
+Seat 2: Valezius folded before Flop (didn't bet)
+Seat 3: Bubbagump folded before Flop (didn't bet)
+Seat 5: wheel collected ($1.55)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig (button) folded before Flop (didn't bet)
+Seat 8: kaos147 (small blind) folded before Flop
+Seat 9: dt6913 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19923536870:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:45:03 (ET)
+Table 'Neith' 9-max Seat #8 is the button
+Seat 1: fabolous86 ($6 in chips) 
+Seat 2: Valezius ($4.65 in chips) 
+Seat 3: Bubbagump ($36.95 in chips) 
+Seat 5: wheel ($33.50 in chips) 
+Seat 6: Alameda22 ($30.50 in chips) 
+Seat 7: tiburonbig ($22.30 in chips) 
+Seat 8: kaos147 ($4.65 in chips) 
+Seat 9: dt6913 ($24.60 in chips) 
+dt6913: posts small blind $0.10
+fabolous86: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 8c]
+Valezius: folds 
+Bubbagump: folds 
+wheel: folds 
+Alameda22: folds 
+tiburonbig: folds 
+kaos147: calls $0.25
+dt6913: calls $0.15
+fabolous86: checks 
+*** FLOP *** [5s Tc 5d]
+dt6913: checks 
+fabolous86: checks 
+kaos147: checks 
+*** TURN *** [5s Tc 5d] [9s]
+dt6913: bets $0.75
+fabolous86: calls $0.75
+kaos147: folds 
+*** RIVER *** [5s Tc 5d 9s] [Ts]
+dt6913: checks 
+fabolous86: bets $1
+dt6913: calls $1
+*** SHOW DOWN ***
+fabolous86: shows [As 6s] (a flush, Ace high)
+dt6913: mucks hand 
+fabolous86 collected $4.05 from pot
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [5s Tc 5d 9s Ts]
+Seat 1: fabolous86 (big blind) showed [As 6s] and won ($4.05) with a flush, Ace high
+Seat 2: Valezius folded before Flop (didn't bet)
+Seat 3: Bubbagump folded before Flop (didn't bet)
+Seat 5: wheel folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: kaos147 (button) folded on the Turn
+Seat 9: dt6913 (small blind) mucked [Ad 9c]
+
+
+
+PokerStars Game #19923571838:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:46:36 (ET)
+Table 'Neith' 9-max Seat #9 is the button
+Seat 1: fabolous86 ($8.05 in chips) 
+Seat 2: Valezius ($4.65 in chips) 
+Seat 3: Bubbagump ($36.95 in chips) 
+Seat 5: wheel ($33.50 in chips) 
+Seat 6: Alameda22 ($30.50 in chips) 
+Seat 7: tiburonbig ($22.30 in chips) 
+Seat 8: kaos147 ($4.40 in chips) 
+Seat 9: dt6913 ($22.60 in chips) 
+CardHockey15 said, "you had a 20 stack wow"
+fabolous86: posts small blind $0.10
+Valezius: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Qs]
+CardHockey15 said, "so much more"
+Bubbagump: folds 
+wheel: folds 
+Alameda22: folds 
+tiburonbig: folds 
+kaos147: calls $0.25
+dt6913: folds 
+fabolous86: calls $0.15
+Valezius: raises $1.25 to $1.50
+kaos147: calls $1.25
+fabolous86: folds 
+*** FLOP *** [As Ks 6s]
+Valezius: checks 
+kaos147: checks 
+*** TURN *** [As Ks 6s] [6d]
+Valezius: checks 
+kaos147: checks 
+*** RIVER *** [As Ks 6s 6d] [2c]
+Valezius: checks 
+kaos147: checks 
+*** SHOW DOWN ***
+Valezius: shows [7s 7d] (two pair, Sevens and Sixes)
+kaos147: shows [9h 9c] (two pair, Nines and Sixes)
+kaos147 collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [As Ks 6s 6d 2c]
+Seat 1: fabolous86 (small blind) folded before Flop
+Seat 2: Valezius (big blind) showed [7s 7d] and lost with two pair, Sevens and Sixes
+Seat 3: Bubbagump folded before Flop (didn't bet)
+Seat 5: wheel folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: kaos147 showed [9h 9c] and won ($3.10) with two pair, Nines and Sixes
+Seat 9: dt6913 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923598488:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:47:47 (ET)
+Table 'Neith' 9-max Seat #1 is the button
+Seat 1: fabolous86 ($7.80 in chips) 
+Seat 2: Valezius ($3.15 in chips) 
+Seat 3: Bubbagump ($36.95 in chips) 
+Seat 5: wheel ($33.50 in chips) 
+Seat 6: Alameda22 ($30.50 in chips) 
+Seat 7: tiburonbig ($22.30 in chips) 
+Seat 8: kaos147 ($6 in chips) 
+Seat 9: dt6913 ($22.60 in chips) 
+Valezius: posts small blind $0.10
+Bubbagump: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s As]
+Bubbagump said, "Dude I wasnt' folding a set to your raise when you only had $4 behind."
+wheel: folds 
+Alameda22: folds 
+tiburonbig: folds 
+kaos147: folds 
+dt6913: folds 
+fabolous86: folds 
+Valezius: raises $2.90 to $3.15 and is all-in
+Bubbagump: folds 
+Uncalled bet ($2.90) returned to Valezius
+Valezius collected $0.50 from pot
+Valezius: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: fabolous86 (button) folded before Flop (didn't bet)
+Seat 2: Valezius (small blind) collected ($0.50)
+Seat 3: Bubbagump (big blind) folded before Flop
+Seat 5: wheel folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: kaos147 folded before Flop (didn't bet)
+Seat 9: dt6913 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923612889:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:48:25 (ET)
+Table 'Neith' 9-max Seat #2 is the button
+Seat 1: fabolous86 ($7.80 in chips) 
+Seat 2: Valezius ($3.40 in chips) 
+Seat 3: Bubbagump ($36.70 in chips) 
+Seat 6: Alameda22 ($30.50 in chips) 
+Seat 7: tiburonbig ($22.30 in chips) 
+Seat 8: kaos147 ($6 in chips) 
+Seat 9: dt6913 ($22.60 in chips) 
+Bubbagump: posts small blind $0.10
+wheel: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 4h]
+wheel leaves the table
+tiburonbig: folds 
+kaos147: calls $0.25
+dt6913: folds 
+fabolous86: folds 
+Valezius: folds 
+Bubbagump: folds 
+Alameda22: checks 
+*** FLOP *** [3h 7s Jh]
+Alameda22: checks 
+kaos147: checks 
+*** TURN *** [3h 7s Jh] [As]
+Alameda22: checks 
+kaos147: checks 
+*** RIVER *** [3h 7s Jh As] [Tc]
+Alameda22: checks 
+kaos147: checks 
+*** SHOW DOWN ***
+Alameda22: shows [8c 4h] (high card Ace)
+kaos147: shows [Js Qh] (a pair of Jacks)
+cardcooker66 joins the table at seat #5 
+kaos147 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3h 7s Jh As Tc]
+Seat 1: fabolous86 folded before Flop (didn't bet)
+Seat 2: Valezius (button) folded before Flop (didn't bet)
+Seat 3: Bubbagump (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) showed [8c 4h] and lost with high card Ace
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: kaos147 showed [Js Qh] and won ($0.60) with a pair of Jacks
+Seat 9: dt6913 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923627988:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:49:06 (ET)
+Table 'Neith' 9-max Seat #3 is the button
+Seat 1: fabolous86 ($7.80 in chips) 
+Seat 2: Valezius ($3.40 in chips) 
+Seat 3: Bubbagump ($36.60 in chips) 
+Seat 6: Alameda22 ($30.25 in chips) 
+Seat 8: kaos147 ($6.35 in chips) 
+Seat 9: dt6913 ($22.60 in chips) 
+cardcooker66 will be allowed to play after the button
+Alameda22: posts small blind $0.10
+tiburonbig: is sitting out 
+kaos147: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 5d]
+dt6913: folds 
+fabolous86: folds 
+cardcooker66 leaves the table
+Valezius: folds 
+tiburonbig leaves the table
+Bubbagump: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to kaos147
+CardHockey15 leaves the table
+kaos147 collected $0.20 from pot
+kaos147: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: fabolous86 folded before Flop (didn't bet)
+Seat 2: Valezius folded before Flop (didn't bet)
+Seat 3: Bubbagump (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 8: kaos147 (big blind) collected ($0.20)
+Seat 9: dt6913 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923636111:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:49:27 (ET)
+Table 'Neith' 9-max Seat #6 is the button
+Seat 1: fabolous86 ($7.80 in chips) 
+Seat 2: Valezius ($3.40 in chips) 
+Seat 3: Bubbagump ($36.60 in chips) 
+Seat 6: Alameda22 ($30.15 in chips) 
+Seat 8: kaos147 ($6.45 in chips) 
+Seat 9: dt6913 ($22.60 in chips) 
+kaos147: posts small blind $0.10
+dt6913: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 4h]
+fabolous86: folds 
+fabolous86 leaves the table
+Valezius: folds 
+Bubbagump: folds 
+Alameda22: folds 
+kaos147: folds 
+Uncalled bet ($0.15) returned to dt6913
+dt6913 collected $0.20 from pot
+dt6913: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: fabolous86 folded before Flop (didn't bet)
+Seat 2: Valezius folded before Flop (didn't bet)
+Seat 3: Bubbagump folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: kaos147 (small blind) folded before Flop
+Seat 9: dt6913 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19923647692:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:49:59 (ET)
+Table 'Neith' 9-max Seat #8 is the button
+Seat 2: Valezius ($3.40 in chips) 
+Seat 3: Bubbagump ($36.60 in chips) 
+Seat 6: Alameda22 ($30.15 in chips) 
+Seat 8: kaos147 ($6.35 in chips) 
+Seat 9: dt6913 ($22.70 in chips) 
+dt6913: posts small blind $0.10
+Valezius: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 8c]
+Bubbagump: folds 
+Alameda22: folds 
+kaos147: folds 
+dt6913: raises $0.50 to $0.75
+Valezius: folds 
+Uncalled bet ($0.50) returned to dt6913
+dt6913 collected $0.50 from pot
+dt6913: doesn't show hand 
+Sonasatan joins the table at seat #4 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Valezius (big blind) folded before Flop
+Seat 3: Bubbagump folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: kaos147 (button) folded before Flop (didn't bet)
+Seat 9: dt6913 (small blind) collected ($0.50)
+
+
+
+PokerStars Game #19923657038:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:50:24 (ET)
+Table 'Neith' 9-max Seat #9 is the button
+Seat 2: Valezius ($3.15 in chips) 
+Seat 4: Sonasatan ($15 in chips) 
+Seat 6: Alameda22 ($30.15 in chips) 
+Seat 8: kaos147 ($6.35 in chips) 
+Seat 9: dt6913 ($22.95 in chips) 
+Valezius: posts small blind $0.10
+Bubbagump: is sitting out 
+Sonasatan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Qc]
+Alameda22: folds 
+kaos147: calls $0.25
+dt6913: raises $1.25 to $1.50
+Valezius: folds 
+Sonasatan: folds 
+kaos147: folds 
+Uncalled bet ($1.25) returned to dt6913
+dt6913 collected $0.85 from pot
+dt6913: doesn't show hand 
+Toni-Cut joins the table at seat #1 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 2: Valezius (small blind) folded before Flop
+Seat 4: Sonasatan (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: kaos147 folded before Flop
+Seat 9: dt6913 (button) collected ($0.85)
+
+
+
+PokerStars Game #19923676536:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:51:16 (ET)
+Table 'Neith' 9-max Seat #2 is the button
+Seat 1: Toni-Cut ($10 in chips) 
+Seat 2: Valezius ($3.05 in chips) 
+Seat 4: Sonasatan ($14.75 in chips) 
+Seat 6: Alameda22 ($30.15 in chips) 
+Seat 8: kaos147 ($6.10 in chips) 
+Seat 9: dt6913 ($23.55 in chips) 
+Sonasatan: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Toni-Cut: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 4c]
+kaos147: folds 
+dt6913: calls $0.25
+asiegel joins the table at seat #5 
+Toni-Cut: checks 
+Valezius: folds 
+Sonasatan: folds 
+Alameda22: checks 
+*** FLOP *** [2s Jh 9d]
+Alameda22: checks 
+dt6913: checks 
+Toni-Cut: bets $0.50
+Alameda22: folds 
+dt6913: folds 
+Uncalled bet ($0.50) returned to Toni-Cut
+Toni-Cut collected $0.85 from pot
+Toni-Cut: doesn't show hand 
+Bubbagump has returned
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [2s Jh 9d]
+Seat 1: Toni-Cut collected ($0.85)
+Seat 2: Valezius (button) folded before Flop (didn't bet)
+Seat 4: Sonasatan (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 8: kaos147 folded before Flop (didn't bet)
+Seat 9: dt6913 folded on the Flop
+
+
+
+PokerStars Game #19923694781:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:52:05 (ET)
+Table 'Neith' 9-max Seat #4 is the button
+Seat 1: Toni-Cut ($10.60 in chips) 
+Seat 2: Valezius ($3.05 in chips) 
+Seat 3: Bubbagump ($36.60 in chips) 
+Seat 4: Sonasatan ($14.65 in chips) 
+Seat 6: Alameda22 ($29.90 in chips) 
+Seat 8: kaos147 ($6.10 in chips) 
+Seat 9: dt6913 ($23.30 in chips) 
+asiegel will be allowed to play after the button
+Alameda22: posts small blind $0.10
+kaos147: posts big blind $0.25
+Bubbagump: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 8c]
+dt6913: folds 
+Toni-Cut: folds 
+Valezius: folds 
+Bubbagump: checks 
+Sonasatan: calls $0.25
+Alameda22: folds 
+kaos147: checks 
+*** FLOP *** [6s 2c 7h]
+kaos147: checks 
+Bubbagump: checks 
+Sonasatan: checks 
+*** TURN *** [6s 2c 7h] [9c]
+kaos147: checks 
+Bubbagump: checks 
+Sonasatan: checks 
+*** RIVER *** [6s 2c 7h 9c] [3s]
+kaos147: bets $0.50
+Bubbagump: folds 
+Sonasatan: folds 
+Uncalled bet ($0.50) returned to kaos147
+kaos147 collected $0.95 from pot
+kaos147 is sitting out
+kaos147: shows [2h 3c] (two pair, Threes and Deuces)
+*** SUMMARY ***
+Total pot $0.95 | Rake $0 
+Board [6s 2c 7h 9c 3s]
+Seat 1: Toni-Cut folded before Flop (didn't bet)
+Seat 2: Valezius folded before Flop (didn't bet)
+Seat 3: Bubbagump folded on the River
+Seat 4: Sonasatan (button) folded on the River
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 8: kaos147 (big blind) collected ($0.95)
+Seat 9: dt6913 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923733867:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:53:50 (ET)
+Table 'Neith' 9-max Seat #6 is the button
+Seat 1: Toni-Cut ($10.60 in chips) 
+Seat 2: Valezius ($3.05 in chips) 
+Seat 3: Bubbagump ($36.25 in chips) 
+Seat 4: Sonasatan ($14.40 in chips) 
+Seat 6: Alameda22 ($29.80 in chips) 
+Seat 9: dt6913 ($23.30 in chips) 
+dt6913: posts small blind $0.10
+Toni-Cut: posts big blind $0.25
+asiegel: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 6c]
+Valezius: folds 
+Bubbagump: folds 
+Sonasatan: folds 
+Alameda22: folds 
+dt6913: folds 
+Uncalled bet ($0.15) returned to Toni-Cut
+Toni-Cut collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Toni-Cut (big blind) collected ($0.20)
+Seat 2: Valezius folded before Flop (didn't bet)
+Seat 3: Bubbagump folded before Flop (didn't bet)
+Seat 4: Sonasatan folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: dt6913 (small blind) folded before Flop
+
+
+
+PokerStars Game #19923746989:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:54:25 (ET)
+Table 'Neith' 9-max Seat #9 is the button
+Seat 1: Toni-Cut ($10.70 in chips) 
+Seat 3: Bubbagump ($36.25 in chips) 
+Seat 4: Sonasatan ($14.40 in chips) 
+Seat 6: Alameda22 ($29.80 in chips) 
+Seat 9: dt6913 ($23.20 in chips) 
+Toni-Cut: posts small blind $0.10
+Valezius: is sitting out 
+Valezius leaves the table
+Bubbagump: posts big blind $0.25
+asiegel: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Th]
+Sonasatan: folds 
+Alameda22: folds 
+kaos147 has returned
+dt6913: folds 
+Toni-Cut: calls $0.15
+Bubbagump: checks 
+*** FLOP *** [Ad Td 4h]
+Toni-Cut: bets $0.50
+Bubbagump: folds 
+Uncalled bet ($0.50) returned to Toni-Cut
+Toni-Cut collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Ad Td 4h]
+Seat 1: Toni-Cut (small blind) collected ($0.50)
+Seat 3: Bubbagump (big blind) folded on the Flop
+Seat 4: Sonasatan folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 9: dt6913 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923768293:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:55:23 (ET)
+Table 'Neith' 9-max Seat #1 is the button
+Seat 1: Toni-Cut ($10.95 in chips) 
+Seat 3: Bubbagump ($36 in chips) 
+Seat 4: Sonasatan ($14.40 in chips) 
+Seat 6: Alameda22 ($29.80 in chips) 
+Seat 8: kaos147 ($6.80 in chips) 
+Seat 9: dt6913 ($23.20 in chips) 
+Bubbagump: posts small blind $0.10
+Sonasatan: posts big blind $0.25
+asiegel: sits out 
+kaos147: posts small blind $0.10
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 7h]
+Alameda22: folds 
+kaos147: folds 
+dt6913: folds 
+Toni-Cut: raises $0.75 to $1
+Bubbagump: folds 
+Sonasatan: folds 
+Uncalled bet ($0.75) returned to Toni-Cut
+Toni-Cut collected $0.70 from pot
+Toni-Cut: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: Toni-Cut (button) collected ($0.70)
+Seat 3: Bubbagump (small blind) folded before Flop
+Seat 4: Sonasatan (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: kaos147 folded before Flop
+Seat 9: dt6913 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923779868:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:55:54 (ET)
+Table 'Neith' 9-max Seat #3 is the button
+Seat 1: Toni-Cut ($11.40 in chips) 
+Seat 3: Bubbagump ($35.90 in chips) 
+Seat 4: Sonasatan ($14.15 in chips) 
+Seat 5: asiegel ($25 in chips) 
+Seat 6: Alameda22 ($29.80 in chips) 
+Seat 8: kaos147 ($6.70 in chips) 
+Seat 9: dt6913 ($23.20 in chips) 
+Sonasatan: posts small blind $0.10
+asiegel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Kh]
+Alameda22: folds 
+kaos147: folds 
+dt6913: folds 
+Toni-Cut: calls $0.25
+Bubbagump: raises $1 to $1.25
+Sonasatan: folds 
+asiegel: folds 
+Toni-Cut: calls $1
+*** FLOP *** [Ts 9c 5c]
+Toni-Cut: bets $1
+Bubbagump: folds 
+Uncalled bet ($1) returned to Toni-Cut
+Toni-Cut collected $2.75 from pot
+Toni-Cut: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [Ts 9c 5c]
+Seat 1: Toni-Cut collected ($2.75)
+Seat 3: Bubbagump (button) folded on the Flop
+Seat 4: Sonasatan (small blind) folded before Flop
+Seat 5: asiegel (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: kaos147 folded before Flop (didn't bet)
+Seat 9: dt6913 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923805851:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:57:05 (ET)
+Table 'Neith' 9-max Seat #4 is the button
+Seat 1: Toni-Cut ($12.90 in chips) 
+Seat 3: Bubbagump ($34.65 in chips) 
+Seat 4: Sonasatan ($14.05 in chips) 
+Seat 5: asiegel ($24.75 in chips) 
+Seat 6: Alameda22 ($29.80 in chips) 
+Seat 8: kaos147 ($6.70 in chips) 
+Seat 9: dt6913 ($23.20 in chips) 
+asiegel: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Th]
+kaos147: folds 
+dt6913: calls $0.25
+Toni-Cut: folds 
+Bubbagump: folds 
+Sonasatan: raises $0.75 to $1
+asiegel: folds 
+Alameda22: folds 
+dt6913: calls $0.75
+*** FLOP *** [Ts 8d 8h]
+dt6913: bets $1.50
+Sonasatan: calls $1.50
+*** TURN *** [Ts 8d 8h] [Ah]
+dt6913: bets $3
+Sonasatan: raises $8.55 to $11.55 and is all-in
+dt6913: folds 
+Uncalled bet ($8.55) returned to Sonasatan
+Sonasatan collected $10.80 from pot
+*** SUMMARY ***
+Total pot $11.35 | Rake $0.55 
+Board [Ts 8d 8h Ah]
+Seat 1: Toni-Cut folded before Flop (didn't bet)
+Seat 3: Bubbagump folded before Flop (didn't bet)
+Seat 4: Sonasatan (button) collected ($10.80)
+Seat 5: asiegel (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 8: kaos147 folded before Flop (didn't bet)
+Seat 9: dt6913 folded on the Turn
+
+
+
+PokerStars Game #19923843674:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:58:47 (ET)
+Table 'Neith' 9-max Seat #5 is the button
+Seat 1: Toni-Cut ($12.90 in chips) 
+Seat 3: Bubbagump ($34.65 in chips) 
+Seat 4: Sonasatan ($19.35 in chips) 
+Seat 5: asiegel ($24.65 in chips) 
+Seat 6: Alameda22 ($29.55 in chips) 
+Seat 8: kaos147 ($6.70 in chips) 
+Seat 9: dt6913 ($25 in chips) 
+Alameda22: posts small blind $0.10
+kaos147: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 9d]
+dt6913: folds 
+Toni-Cut: folds 
+Bubbagump: folds 
+Sonasatan: raises $0.75 to $1
+asiegel: folds 
+Alameda22: folds 
+kaos147: folds 
+Uncalled bet ($0.75) returned to Sonasatan
+Sonasatan collected $0.60 from pot
+Sonasatan: shows [Ac Ks] (high card Ace)
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Toni-Cut folded before Flop (didn't bet)
+Seat 3: Bubbagump folded before Flop (didn't bet)
+Seat 4: Sonasatan collected ($0.60)
+Seat 5: asiegel (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 8: kaos147 (big blind) folded before Flop
+Seat 9: dt6913 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923857347:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:59:24 (ET)
+Table 'Neith' 9-max Seat #6 is the button
+Seat 1: Toni-Cut ($12.90 in chips) 
+Seat 3: Bubbagump ($34.65 in chips) 
+Seat 4: Sonasatan ($19.70 in chips) 
+Seat 5: asiegel ($24.65 in chips) 
+Seat 6: Alameda22 ($29.45 in chips) 
+Seat 8: kaos147 ($6.45 in chips) 
+Seat 9: dt6913 ($25 in chips) 
+kaos147: posts small blind $0.10
+dt6913: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 7c]
+Toni-Cut: folds 
+Bubbagump: folds 
+Sonasatan: folds 
+asiegel: folds 
+Alameda22: folds 
+kaos147: calls $0.15
+dt6913: checks 
+*** FLOP *** [6s 8c Jc]
+kaos147: checks 
+dt6913: bets $0.50
+kaos147: folds 
+Uncalled bet ($0.50) returned to dt6913
+dt6913 collected $0.50 from pot
+dt6913: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [6s 8c Jc]
+Seat 1: Toni-Cut folded before Flop (didn't bet)
+Seat 3: Bubbagump folded before Flop (didn't bet)
+Seat 4: Sonasatan folded before Flop (didn't bet)
+Seat 5: asiegel folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: kaos147 (small blind) folded on the Flop
+Seat 9: dt6913 (big blind) collected ($0.50)
+
+
+
+PokerStars Game #19923877367:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 20:00:17 (ET)
+Table 'Neith' 9-max Seat #8 is the button
+Seat 1: Toni-Cut ($12.90 in chips) 
+Seat 3: Bubbagump ($34.65 in chips) 
+Seat 4: Sonasatan ($19.70 in chips) 
+Seat 5: asiegel ($24.65 in chips) 
+Seat 6: Alameda22 ($29.45 in chips) 
+Seat 8: kaos147 ($6.20 in chips) 
+Seat 9: dt6913 ($25.25 in chips) 
+dt6913: posts small blind $0.10
+Toni-Cut: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s As]
+Bubbagump: folds 
+Sonasatan: folds 
+asiegel: folds 
+Alameda22: folds 
+kaos147: folds 
+dt6913: raises $0.75 to $1
+Toni-Cut: calls $0.75
+*** FLOP *** [Ah 6d 9h]
+dt6913: bets $1.25
+Toni-Cut: folds 
+Uncalled bet ($1.25) returned to dt6913
+dt6913 collected $1.90 from pot
+dt6913: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Ah 6d 9h]
+Seat 1: Toni-Cut (big blind) folded on the Flop
+Seat 3: Bubbagump folded before Flop (didn't bet)
+Seat 4: Sonasatan folded before Flop (didn't bet)
+Seat 5: asiegel folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: kaos147 (button) folded before Flop (didn't bet)
+Seat 9: dt6913 (small blind) collected ($1.90)
+
+
+
+PokerStars Game #19923896653:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 20:01:09 (ET)
+Table 'Neith' 9-max Seat #9 is the button
+Seat 1: Toni-Cut ($11.90 in chips) 
+Seat 3: Bubbagump ($34.65 in chips) 
+Seat 4: Sonasatan ($19.70 in chips) 
+Seat 5: asiegel ($24.65 in chips) 
+Seat 6: Alameda22 ($29.45 in chips) 
+Seat 8: kaos147 ($6.20 in chips) 
+Seat 9: dt6913 ($26.15 in chips) 
+Toni-Cut: posts small blind $0.10
+Bubbagump: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 4d]
+Sonasatan: folds 
+asiegel: folds 
+Alameda22: folds 
+kaos147: folds 
+kaos147 is sitting out
+dt6913: folds 
+Toni-Cut: folds 
+Uncalled bet ($0.15) returned to Bubbagump
+kaos147 leaves the table
+Bubbagump collected $0.20 from pot
+Bubbagump: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Toni-Cut (small blind) folded before Flop
+Seat 3: Bubbagump (big blind) collected ($0.20)
+Seat 4: Sonasatan folded before Flop (didn't bet)
+Seat 5: asiegel folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: kaos147 folded before Flop (didn't bet)
+Seat 9: dt6913 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923904612:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 20:01:30 (ET)
+Table 'Neith' 9-max Seat #1 is the button
+Seat 1: Toni-Cut ($11.80 in chips) 
+Seat 3: Bubbagump ($34.75 in chips) 
+Seat 4: Sonasatan ($19.70 in chips) 
+Seat 5: asiegel ($24.65 in chips) 
+Seat 6: Alameda22 ($29.45 in chips) 
+Seat 9: dt6913 ($26.15 in chips) 
+Bubbagump: posts small blind $0.10
+Sonasatan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 7c]
+asiegel: folds 
+Alameda22: folds 
+dt6913: folds 
+Toni-Cut: raises $0.50 to $0.75
+Bubbagump: folds 
+Sonasatan: folds 
+Uncalled bet ($0.50) returned to Toni-Cut
+Toni-Cut collected $0.60 from pot
+Toni-Cut: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Toni-Cut (button) collected ($0.60)
+Seat 3: Bubbagump (small blind) folded before Flop
+Seat 4: Sonasatan (big blind) folded before Flop
+Seat 5: asiegel folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 9: dt6913 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923923751:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 20:02:21 (ET)
+Table 'Neith' 9-max Seat #3 is the button
+Seat 1: Toni-Cut ($12.15 in chips) 
+Seat 3: Bubbagump ($34.65 in chips) 
+Seat 4: Sonasatan ($19.45 in chips) 
+Seat 5: asiegel ($24.65 in chips) 
+Seat 6: Alameda22 ($29.45 in chips) 
+Seat 9: dt6913 ($26.15 in chips) 
+Sonasatan: posts small blind $0.10
+asiegel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Tc]
+Alameda22: folds 
+dt6913: raises $0.75 to $1
+Toni-Cut: folds 
+Bubbagump: calls $1
+Sonasatan: folds 
+asiegel: folds 
+*** FLOP *** [3d 8h Qs]
+dt6913: bets $1.50
+Bubbagump: folds 
+Uncalled bet ($1.50) returned to dt6913
+dt6913 collected $2.25 from pot
+dt6913: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [3d 8h Qs]
+Seat 1: Toni-Cut folded before Flop (didn't bet)
+Seat 3: Bubbagump (button) folded on the Flop
+Seat 4: Sonasatan (small blind) folded before Flop
+Seat 5: asiegel (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 9: dt6913 collected ($2.25)
+
+
+
+PokerStars Game #19923951614:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 20:03:35 (ET)
+Table 'Neith' 9-max Seat #4 is the button
+Seat 1: Toni-Cut ($12.15 in chips) 
+Seat 3: Bubbagump ($33.65 in chips) 
+Seat 4: Sonasatan ($19.35 in chips) 
+Seat 5: asiegel ($24.40 in chips) 
+Seat 6: Alameda22 ($29.45 in chips) 
+Seat 9: dt6913 ($27.40 in chips) 
+asiegel: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 5d]
+dt6913: folds 
+Toni-Cut: folds 
+Bubbagump: folds 
+Sonasatan: folds 
+asiegel: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Toni-Cut folded before Flop (didn't bet)
+Seat 3: Bubbagump folded before Flop (didn't bet)
+Seat 4: Sonasatan (button) folded before Flop (didn't bet)
+Seat 5: asiegel (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) collected ($0.20)
+Seat 9: dt6913 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923962160:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 20:04:03 (ET)
+Table 'Neith' 9-max Seat #5 is the button
+Seat 1: Toni-Cut ($12.15 in chips) 
+Seat 3: Bubbagump ($33.65 in chips) 
+Seat 4: Sonasatan ($19.35 in chips) 
+Seat 5: asiegel ($24.30 in chips) 
+Seat 6: Alameda22 ($29.55 in chips) 
+Seat 9: dt6913 ($27.40 in chips) 
+Alameda22: posts small blind $0.10
+dt6913: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 8d]
+Toni-Cut: raises $0.50 to $0.75
+Bubbagump: folds 
+Sonasatan: folds 
+asiegel: folds 
+Alameda22: folds 
+dt6913: folds 
+Uncalled bet ($0.50) returned to Toni-Cut
+Toni-Cut collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Toni-Cut collected ($0.60)
+Seat 3: Bubbagump folded before Flop (didn't bet)
+Seat 4: Sonasatan folded before Flop (didn't bet)
+Seat 5: asiegel (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 9: dt6913 (big blind) folded before Flop
+
+
+
+PokerStars Game #19923971455:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 20:04:28 (ET)
+Table 'Neith' 9-max Seat #6 is the button
+Seat 1: Toni-Cut ($12.50 in chips) 
+Seat 3: Bubbagump ($33.65 in chips) 
+Seat 4: Sonasatan ($19.35 in chips) 
+Seat 5: asiegel ($24.30 in chips) 
+Seat 6: Alameda22 ($29.45 in chips) 
+Seat 9: dt6913 ($27.15 in chips) 
+dt6913: posts small blind $0.10
+Toni-Cut: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 4d]
+Bubbagump: folds 
+Sonasatan: folds 
+Sonasatan is sitting out
+asiegel: folds 
+Alameda22: folds 
+dt6913: folds 
+Uncalled bet ($0.15) returned to Toni-Cut
+Toni-Cut collected $0.20 from pot
+Toni-Cut: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Toni-Cut (big blind) collected ($0.20)
+Seat 3: Bubbagump folded before Flop (didn't bet)
+Seat 4: Sonasatan folded before Flop (didn't bet)
+Seat 5: asiegel folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: dt6913 (small blind) folded before Flop
+
+
+
+PokerStars Game #19923983247:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 20:04:59 (ET)
+Table 'Neith' 9-max Seat #9 is the button
+Seat 1: Toni-Cut ($12.60 in chips) 
+Seat 3: Bubbagump ($33.65 in chips) 
+Seat 5: asiegel ($24.30 in chips) 
+Seat 6: Alameda22 ($29.45 in chips) 
+Seat 9: dt6913 ($27.05 in chips) 
+Toni-Cut: posts small blind $0.10
+Bubbagump: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 5c]
+asiegel: raises $0.75 to $1
+Alameda22: folds 
+dt6913: folds 
+Toni-Cut: folds 
+Bubbagump: folds 
+Uncalled bet ($0.75) returned to asiegel
+asiegel collected $0.60 from pot
+asiegel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Toni-Cut (small blind) folded before Flop
+Seat 3: Bubbagump (big blind) folded before Flop
+Seat 5: asiegel collected ($0.60)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 9: dt6913 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923996252:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 20:05:34 (ET)
+Table 'Neith' 9-max Seat #1 is the button
+Seat 1: Toni-Cut ($12.50 in chips) 
+Seat 3: Bubbagump ($33.40 in chips) 
+Seat 5: asiegel ($24.65 in chips) 
+Seat 6: Alameda22 ($29.45 in chips) 
+Seat 9: dt6913 ($27.05 in chips) 
+Bubbagump: posts small blind $0.10
+asiegel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 5s]
+Alameda22: calls $0.25
+dt6913: folds 
+Sonasatan has returned
+Toni-Cut: folds 
+Bubbagump: folds 
+asiegel: checks 
+*** FLOP *** [8c Ks Ad]
+asiegel: checks 
+Alameda22: bets $0.50
+asiegel: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8c Ks Ad]
+Seat 1: Toni-Cut (button) folded before Flop (didn't bet)
+Seat 3: Bubbagump (small blind) folded before Flop
+Seat 5: asiegel (big blind) folded on the Flop
+Seat 6: Alameda22 collected ($0.60)
+Seat 9: dt6913 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19924017405:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 20:06:31 (ET)
+Table 'Neith' 9-max Seat #3 is the button
+Seat 1: Toni-Cut ($12.50 in chips) 
+Seat 3: Bubbagump ($33.30 in chips) 
+Seat 5: asiegel ($24.40 in chips) 
+Seat 6: Alameda22 ($29.80 in chips) 
+Seat 9: dt6913 ($27.05 in chips) 
+Sonasatan will be allowed to play after the button
+asiegel: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc As]
+dt6913: raises $0.75 to $1
+Toni-Cut: folds 
+Bubbagump: folds 
+asiegel: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to dt6913
+dt6913 collected $0.60 from pot
+dt6913: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Toni-Cut folded before Flop (didn't bet)
+Seat 3: Bubbagump (button) folded before Flop (didn't bet)
+Seat 5: asiegel (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 9: dt6913 collected ($0.60)
+
+
+
+PokerStars Game #19924028891:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 20:07:02 (ET)
+Table 'Neith' 9-max Seat #5 is the button
+Seat 1: Toni-Cut ($12.50 in chips) 
+Seat 3: Bubbagump ($33.30 in chips) 
+Seat 4: Sonasatan ($19.35 in chips) 
+Seat 5: asiegel ($24.30 in chips) 
+Seat 6: Alameda22 ($29.55 in chips) 
+Seat 9: dt6913 ($27.40 in chips) 
+Alameda22: posts small blind $0.10
+dt6913: posts big blind $0.25
+Sonasatan: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Qc]
+Toni-Cut: raises $0.50 to $0.75
+Bubbagump: folds 
+Sonasatan: calls $0.50
+asiegel: calls $0.75
+Alameda22: folds 
+dt6913: folds 
+*** FLOP *** [8c 3d 7h]
+Toni-Cut: checks 
+Sonasatan: checks 
+asiegel: bets $1.75
+Toni-Cut: folds 
+Sonasatan: folds 
+Uncalled bet ($1.75) returned to asiegel
+asiegel collected $2.60 from pot
+asiegel: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.70 | Rake $0.10 
+Board [8c 3d 7h]
+Seat 1: Toni-Cut folded on the Flop
+Seat 3: Bubbagump folded before Flop (didn't bet)
+Seat 4: Sonasatan folded on the Flop
+Seat 5: asiegel (button) collected ($2.60)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 9: dt6913 (big blind) folded before Flop
+
+
+
+PokerStars Game #19924052317:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 20:08:04 (ET)
+Table 'Neith' 9-max Seat #6 is the button
+Seat 1: Toni-Cut ($11.75 in chips) 
+Seat 3: Bubbagump ($33.30 in chips) 
+Seat 4: Sonasatan ($18.50 in chips) 
+Seat 5: asiegel ($26.15 in chips) 
+Seat 6: Alameda22 ($29.45 in chips) 
+Seat 9: dt6913 ($27.15 in chips) 
+dt6913: posts small blind $0.10
+Toni-Cut: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 9h]
+Bubbagump: raises $0.75 to $1
+Sonasatan: folds 
+asiegel: folds 
+Alameda22: folds 
+dt6913: folds 
+Toni-Cut: calls $0.75
+*** FLOP *** [4c 8h Kc]
+Toni-Cut: checks 
+Bubbagump: bets $1.50
+Toni-Cut: folds 
+Uncalled bet ($1.50) returned to Bubbagump
+Bubbagump collected $2 from pot
+Bubbagump: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [4c 8h Kc]
+Seat 1: Toni-Cut (big blind) folded on the Flop
+Seat 3: Bubbagump collected ($2)
+Seat 4: Sonasatan folded before Flop (didn't bet)
+Seat 5: asiegel folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: dt6913 (small blind) folded before Flop
+
+
+

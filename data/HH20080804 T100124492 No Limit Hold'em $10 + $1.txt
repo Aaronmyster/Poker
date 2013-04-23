@@ -1,0 +1,3298 @@
+PokerStars Game #19363667134: Tournament #100124492, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/08/04 - 19:32:41 (ET)
+Table '100124492 14' 9-max Seat #1 is the button
+Seat 1: superfamous (1500 in chips) 
+Seat 2: Alameda22 (1500 in chips) 
+Seat 3: ezbob99 (1500 in chips) 
+Seat 4: whitecoatPA (1500 in chips) 
+Seat 5: donnyz (1500 in chips) 
+Seat 6: midas001 (1500 in chips) 
+Seat 7: 79Spartans (1500 in chips) 
+Seat 8: wklemensAA (1500 in chips) 
+Seat 9: syrus2 (1500 in chips) 
+Alameda22: posts small blind 10
+ezbob99: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 9d]
+whitecoatPA: folds 
+donnyz: folds 
+midas001: calls 20
+79Spartans: folds 
+wklemensAA: folds 
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+ezbob99: checks 
+*** FLOP *** [9s 2h 7h]
+ezbob99: checks 
+midas001: checks 
+*** TURN *** [9s 2h 7h] [Qh]
+ezbob99: checks 
+midas001: checks 
+*** RIVER *** [9s 2h 7h Qh] [4s]
+ezbob99: checks 
+midas001: checks 
+*** SHOW DOWN ***
+ezbob99: shows [6s 7d] (a pair of Sevens)
+midas001: mucks hand 
+ezbob99 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [9s 2h 7h Qh 4s]
+Seat 1: superfamous (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: ezbob99 (big blind) showed [6s 7d] and won (50) with a pair of Sevens
+Seat 4: whitecoatPA folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 mucked [As 8h]
+Seat 7: 79Spartans folded before Flop (didn't bet)
+Seat 8: wklemensAA folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19363688009: Tournament #100124492, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/08/04 - 19:33:32 (ET)
+Table '100124492 14' 9-max Seat #2 is the button
+Seat 1: superfamous (1500 in chips) 
+Seat 2: Alameda22 (1490 in chips) 
+Seat 3: ezbob99 (1530 in chips) 
+Seat 4: whitecoatPA (1500 in chips) 
+Seat 5: donnyz (1500 in chips) 
+Seat 6: midas001 (1480 in chips) 
+Seat 7: 79Spartans (1500 in chips) 
+Seat 8: wklemensAA (1500 in chips) 
+Seat 9: syrus2 (1500 in chips) 
+ezbob99: posts small blind 10
+whitecoatPA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 3d]
+donnyz: folds 
+midas001: folds 
+79Spartans: calls 20
+wklemensAA: raises 50 to 70
+syrus2: folds 
+superfamous: raises 170 to 240
+Alameda22: folds 
+ezbob99: folds 
+whitecoatPA: folds 
+79Spartans: calls 220
+wklemensAA: calls 170
+*** FLOP *** [Qc Kh Qh]
+79Spartans: checks 
+wklemensAA: checks 
+superfamous: checks 
+*** TURN *** [Qc Kh Qh] [Jc]
+79Spartans: checks 
+wklemensAA: checks 
+superfamous: bets 250
+79Spartans: calls 250
+wklemensAA: calls 250
+*** RIVER *** [Qc Kh Qh Jc] [4d]
+79Spartans: checks 
+wklemensAA: checks 
+superfamous: bets 650
+79Spartans: folds 
+wklemensAA: folds 
+Uncalled bet (650) returned to superfamous
+superfamous collected 1500 from pot
+superfamous: doesn't show hand 
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [Qc Kh Qh Jc 4d]
+Seat 1: superfamous collected (1500)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: ezbob99 (small blind) folded before Flop
+Seat 4: whitecoatPA (big blind) folded before Flop
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: 79Spartans folded on the River
+Seat 8: wklemensAA folded on the River
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19363729893: Tournament #100124492, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/08/04 - 19:35:15 (ET)
+Table '100124492 14' 9-max Seat #3 is the button
+Seat 1: superfamous (2510 in chips) 
+Seat 2: Alameda22 (1490 in chips) 
+Seat 3: ezbob99 (1520 in chips) 
+Seat 4: whitecoatPA (1480 in chips) 
+Seat 5: donnyz (1500 in chips) 
+Seat 6: midas001 (1480 in chips) 
+Seat 7: 79Spartans (1010 in chips) 
+Seat 8: wklemensAA (1010 in chips) 
+Seat 9: syrus2 (1500 in chips) 
+whitecoatPA: posts small blind 10
+donnyz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Tc]
+midas001: folds 
+79Spartans: folds 
+wklemensAA: folds 
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+ezbob99: calls 20
+whitecoatPA: folds 
+donnyz: checks 
+*** FLOP *** [2s Jh 9h]
+donnyz: bets 60
+ezbob99: folds 
+Uncalled bet (60) returned to donnyz
+donnyz collected 50 from pot
+donnyz: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [2s Jh 9h]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: ezbob99 (button) folded on the Flop
+Seat 4: whitecoatPA (small blind) folded before Flop
+Seat 5: donnyz (big blind) collected (50)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: 79Spartans folded before Flop (didn't bet)
+Seat 8: wklemensAA folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19363749889: Tournament #100124492, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/08/04 - 19:36:04 (ET)
+Table '100124492 14' 9-max Seat #4 is the button
+Seat 1: superfamous (2510 in chips) 
+Seat 2: Alameda22 (1490 in chips) 
+Seat 3: ezbob99 (1500 in chips) 
+Seat 4: whitecoatPA (1470 in chips) 
+Seat 5: donnyz (1530 in chips) 
+Seat 6: midas001 (1480 in chips) 
+Seat 7: 79Spartans (1010 in chips) 
+Seat 8: wklemensAA (1010 in chips) 
+Seat 9: syrus2 (1500 in chips) 
+donnyz: posts small blind 10
+midas001: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 8d]
+79Spartans: folds 
+wklemensAA: folds 
+syrus2: folds 
+superfamous: raises 40 to 60
+Alameda22: folds 
+ezbob99: calls 60
+whitecoatPA: folds 
+donnyz: folds 
+midas001: calls 40
+*** FLOP *** [9s Tc 2h]
+midas001: checks 
+superfamous: bets 100
+ezbob99: calls 100
+midas001: calls 100
+*** TURN *** [9s Tc 2h] [Kh]
+midas001: checks 
+superfamous: bets 250
+ezbob99: calls 250
+midas001: calls 250
+*** RIVER *** [9s Tc 2h Kh] [7h]
+midas001: checks 
+superfamous: bets 250
+ezbob99: raises 840 to 1090 and is all-in
+midas001: folds 
+superfamous: calls 840
+*** SHOW DOWN ***
+ezbob99: shows [Qh Qd] (a pair of Queens)
+superfamous: shows [Ks Ts] (two pair, Kings and Tens)
+superfamous collected 3420 from pot
+*** SUMMARY ***
+Total pot 3420 | Rake 0 
+Board [9s Tc 2h Kh 7h]
+Seat 1: superfamous showed [Ks Ts] and won (3420) with two pair, Kings and Tens
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: ezbob99 showed [Qh Qd] and lost with a pair of Queens
+Seat 4: whitecoatPA (button) folded before Flop (didn't bet)
+Seat 5: donnyz (small blind) folded before Flop
+Seat 6: midas001 (big blind) folded on the River
+Seat 7: 79Spartans folded before Flop (didn't bet)
+Seat 8: wklemensAA folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19363782156: Tournament #100124492, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/08/04 - 19:37:23 (ET)
+Table '100124492 14' 9-max Seat #5 is the button
+Seat 1: superfamous (4430 in chips) 
+Seat 2: Alameda22 (1490 in chips) 
+Seat 4: whitecoatPA (1470 in chips) 
+Seat 5: donnyz (1520 in chips) 
+Seat 6: midas001 (1070 in chips) 
+Seat 7: 79Spartans (1010 in chips) 
+Seat 8: wklemensAA (1010 in chips) 
+Seat 9: syrus2 (1500 in chips) 
+midas001: posts small blind 10
+79Spartans: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 9d]
+wklemensAA: raises 50 to 70
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+whitecoatPA: folds 
+donnyz: folds 
+midas001: folds 
+79Spartans: calls 50
+*** FLOP *** [4c Qc Th]
+79Spartans: checks 
+wklemensAA: checks 
+*** TURN *** [4c Qc Th] [As]
+79Spartans: bets 20
+wklemensAA: calls 20
+*** RIVER *** [4c Qc Th As] [Qh]
+79Spartans: bets 20
+wklemensAA: raises 220 to 240
+79Spartans: calls 220
+*** SHOW DOWN ***
+wklemensAA: shows [Jh Kh] (a straight, Ten to Ace)
+79Spartans: mucks hand 
+wklemensAA collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [4c Qc Th As Qh]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: whitecoatPA folded before Flop (didn't bet)
+Seat 5: donnyz (button) folded before Flop (didn't bet)
+Seat 6: midas001 (small blind) folded before Flop
+Seat 7: 79Spartans (big blind) mucked [Ac 7s]
+Seat 8: wklemensAA showed [Jh Kh] and won (670) with a straight, Ten to Ace
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19363808495: Tournament #100124492, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/08/04 - 19:38:27 (ET)
+Table '100124492 14' 9-max Seat #6 is the button
+Seat 1: superfamous (4430 in chips) 
+Seat 2: Alameda22 (1490 in chips) 
+Seat 4: whitecoatPA (1470 in chips) 
+Seat 5: donnyz (1520 in chips) 
+Seat 6: midas001 (1060 in chips) 
+Seat 7: 79Spartans (680 in chips) 
+Seat 8: wklemensAA (1350 in chips) 
+Seat 9: syrus2 (1500 in chips) 
+79Spartans: posts small blind 10
+wklemensAA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 4c]
+syrus2: raises 40 to 60
+superfamous: folds 
+Alameda22: folds 
+whitecoatPA: folds 
+donnyz: folds 
+midas001: calls 60
+79Spartans: calls 50
+wklemensAA: folds 
+*** FLOP *** [3h Td 8h]
+79Spartans: checks 
+syrus2: checks 
+midas001: checks 
+*** TURN *** [3h Td 8h] [7c]
+79Spartans: checks 
+syrus2: bets 60
+midas001: calls 60
+79Spartans: calls 60
+*** RIVER *** [3h Td 8h 7c] [9s]
+79Spartans: checks 
+syrus2: checks 
+midas001: checks 
+*** SHOW DOWN ***
+79Spartans: shows [6c 6h] (a straight, Six to Ten)
+syrus2: mucks hand 
+midas001: mucks hand 
+79Spartans collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [3h Td 8h 7c 9s]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: whitecoatPA folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 (button) mucked [9d As]
+Seat 7: 79Spartans (small blind) showed [6c 6h] and won (380) with a straight, Six to Ten
+Seat 8: wklemensAA (big blind) folded before Flop
+Seat 9: syrus2 mucked [Ad Qh]
+
+
+
+PokerStars Game #19363836148: Tournament #100124492, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/08/04 - 19:39:36 (ET)
+Table '100124492 14' 9-max Seat #7 is the button
+Seat 1: superfamous (4430 in chips) 
+Seat 2: Alameda22 (1490 in chips) 
+Seat 4: whitecoatPA (1470 in chips) 
+Seat 5: donnyz (1520 in chips) 
+Seat 6: midas001 (940 in chips) 
+Seat 7: 79Spartans (940 in chips) 
+Seat 8: wklemensAA (1330 in chips) 
+Seat 9: syrus2 (1380 in chips) 
+wklemensAA: posts small blind 10
+syrus2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Qc]
+superfamous: folds 
+Alameda22: raises 40 to 60
+whitecoatPA: folds 
+donnyz: folds 
+midas001: raises 60 to 120
+79Spartans: folds 
+wklemensAA: calls 110
+syrus2: folds 
+Alameda22: calls 60
+*** FLOP *** [Qh 8s 4c]
+wklemensAA: checks 
+Alameda22: bets 260
+midas001: calls 260
+wklemensAA: raises 950 to 1210 and is all-in
+Alameda22: raises 160 to 1370 and is all-in
+midas001: calls 560 and is all-in
+Uncalled bet (160) returned to Alameda22
+*** TURN *** [Qh 8s 4c] [9s]
+*** RIVER *** [Qh 8s 4c 9s] [2h]
+*** SHOW DOWN ***
+wklemensAA: shows [Qd Ac] (a pair of Queens)
+Alameda22: shows [Ad Qc] (a pair of Queens)
+wklemensAA collected 390 from side pot
+Alameda22 collected 390 from side pot
+midas001: shows [Kc Kh] (a pair of Kings)
+midas001 collected 2840 from main pot
+*** SUMMARY ***
+Total pot 3620 Main pot 2840. Side pot 780. | Rake 0 
+Board [Qh 8s 4c 9s 2h]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 showed [Ad Qc] and won (390) with a pair of Queens
+Seat 4: whitecoatPA folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 showed [Kc Kh] and won (2840) with a pair of Kings
+Seat 7: 79Spartans (button) folded before Flop (didn't bet)
+Seat 8: wklemensAA (small blind) showed [Qd Ac] and won (390) with a pair of Queens
+Seat 9: syrus2 (big blind) folded before Flop
+
+
+
+PokerStars Game #19363876367: Tournament #100124492, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/08/04 - 19:41:14 (ET)
+Table '100124492 14' 9-max Seat #8 is the button
+Seat 1: superfamous (4430 in chips) 
+Seat 2: Alameda22 (550 in chips) 
+Seat 4: whitecoatPA (1470 in chips) 
+Seat 5: donnyz (1520 in chips) 
+Seat 6: midas001 (2840 in chips) 
+Seat 7: 79Spartans (940 in chips) 
+Seat 8: wklemensAA (390 in chips) 
+Seat 9: syrus2 (1360 in chips) 
+syrus2: posts small blind 10
+superfamous: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 9c]
+Alameda22: folds 
+whitecoatPA: folds 
+donnyz: raises 60 to 80
+midas001: folds 
+79Spartans: folds 
+wklemensAA: calls 80
+syrus2: folds 
+superfamous: calls 60
+*** FLOP *** [5d 6c 4c]
+superfamous: checks 
+LDOG7 is connected 
+donnyz: bets 200
+wklemensAA: folds 
+superfamous: folds 
+Uncalled bet (200) returned to donnyz
+donnyz collected 250 from pot
+donnyz: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [5d 6c 4c]
+Seat 1: superfamous (big blind) folded on the Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: whitecoatPA folded before Flop (didn't bet)
+Seat 5: donnyz collected (250)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: 79Spartans folded before Flop (didn't bet)
+Seat 8: wklemensAA (button) folded on the Flop
+Seat 9: syrus2 (small blind) folded before Flop
+
+
+
+PokerStars Game #19363904753: Tournament #100124492, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/08/04 - 19:42:24 (ET)
+Table '100124492 14' 9-max Seat #9 is the button
+Seat 1: superfamous (4350 in chips) 
+Seat 2: Alameda22 (550 in chips) 
+Seat 3: LDOG7 (1480 in chips) 
+Seat 4: whitecoatPA (1470 in chips) 
+Seat 5: donnyz (1690 in chips) 
+Seat 6: midas001 (2840 in chips) 
+Seat 7: 79Spartans (940 in chips) 
+Seat 8: wklemensAA (310 in chips) 
+Seat 9: syrus2 (1350 in chips) 
+superfamous: posts small blind 10
+Alameda22: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 9c]
+LDOG7: folds 
+whitecoatPA: folds 
+donnyz: calls 20
+midas001: folds 
+79Spartans: folds 
+wklemensAA: raises 80 to 100
+syrus2: folds 
+superfamous: raises 300 to 400
+Alameda22: folds 
+donnyz: folds 
+wklemensAA: calls 210 and is all-in
+Uncalled bet (90) returned to superfamous
+*** FLOP *** [5d 6c 7d]
+*** TURN *** [5d 6c 7d] [5h]
+*** RIVER *** [5d 6c 7d 5h] [Js]
+*** SHOW DOWN ***
+superfamous: shows [Ac Jd] (two pair, Jacks and Fives)
+wklemensAA: shows [Ts As] (a pair of Fives)
+superfamous collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [5d 6c 7d 5h Js]
+Seat 1: superfamous (small blind) showed [Ac Jd] and won (660) with two pair, Jacks and Fives
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: LDOG7 folded before Flop (didn't bet)
+Seat 4: whitecoatPA folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: 79Spartans folded before Flop (didn't bet)
+Seat 8: wklemensAA showed [Ts As] and lost with a pair of Fives
+Seat 9: syrus2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19363923663: Tournament #100124492, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/08/04 - 19:43:10 (ET)
+Table '100124492 14' 9-max Seat #1 is the button
+Seat 1: superfamous (4700 in chips) 
+Seat 2: Alameda22 (530 in chips) 
+Seat 3: LDOG7 (1480 in chips) 
+Seat 4: whitecoatPA (1470 in chips) 
+Seat 5: donnyz (1670 in chips) 
+Seat 6: midas001 (2840 in chips) 
+Seat 7: 79Spartans (940 in chips) 
+Seat 9: syrus2 (1350 in chips) 
+Alameda22: posts small blind 10
+LDOG7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Qs]
+whitecoatPA: folds 
+donnyz: calls 20
+midas001: raises 60 to 80
+79Spartans: folds 
+syrus2: folds 
+superfamous: calls 80
+Alameda22: folds 
+LDOG7: folds 
+donnyz: calls 60
+*** FLOP *** [4d Jh 9d]
+donnyz: checks 
+midas001: bets 220
+Eliwhaaa is connected 
+superfamous: folds 
+donnyz: folds 
+Uncalled bet (220) returned to midas001
+midas001 collected 270 from pot
+midas001: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [4d Jh 9d]
+Seat 1: superfamous (button) folded on the Flop
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: LDOG7 (big blind) folded before Flop
+Seat 4: whitecoatPA folded before Flop (didn't bet)
+Seat 5: donnyz folded on the Flop
+Seat 6: midas001 collected (270)
+Seat 7: 79Spartans folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19363949320: Tournament #100124492, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/08/04 - 19:44:14 (ET)
+Table '100124492 14' 9-max Seat #2 is the button
+Seat 1: superfamous (4620 in chips) 
+Seat 2: Alameda22 (520 in chips) 
+Seat 3: LDOG7 (1460 in chips) 
+Seat 4: whitecoatPA (1470 in chips) 
+Seat 5: donnyz (1590 in chips) 
+Seat 6: midas001 (3030 in chips) 
+Seat 7: 79Spartans (940 in chips) 
+Seat 8: Eliwhaaa (1515 in chips) 
+Seat 9: syrus2 (1350 in chips) 
+LDOG7: posts small blind 10
+whitecoatPA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 9s]
+donnyz: folds 
+midas001: calls 20
+79Spartans: calls 20
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: folds 
+Alameda22: calls 20
+LDOG7: calls 10
+whitecoatPA: checks 
+*** FLOP *** [Jc Qh 8s]
+LDOG7: bets 40
+whitecoatPA: calls 40
+midas001: folds 
+79Spartans: calls 40
+Alameda22: raises 120 to 160
+LDOG7: folds 
+whitecoatPA: folds 
+79Spartans: folds 
+Uncalled bet (120) returned to Alameda22
+Alameda22 collected 260 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [Jc Qh 8s]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) collected (260)
+Seat 3: LDOG7 (small blind) folded on the Flop
+Seat 4: whitecoatPA (big blind) folded on the Flop
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded on the Flop
+Seat 7: 79Spartans folded on the Flop
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19363972870: Tournament #100124492, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/08/04 - 19:45:12 (ET)
+Table '100124492 14' 9-max Seat #3 is the button
+Seat 1: superfamous (4620 in chips) 
+Seat 2: Alameda22 (720 in chips) 
+Seat 3: LDOG7 (1400 in chips) 
+Seat 4: whitecoatPA (1410 in chips) 
+Seat 5: donnyz (1590 in chips) 
+Seat 6: midas001 (3010 in chips) 
+Seat 7: 79Spartans (880 in chips) 
+Seat 8: Eliwhaaa (1515 in chips) 
+Seat 9: syrus2 (1350 in chips) 
+whitecoatPA: posts small blind 10
+donnyz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 4c]
+midas001: folds 
+79Spartans: calls 20
+Eliwhaaa: folds 
+syrus2: raises 60 to 80
+superfamous: folds 
+Alameda22: folds 
+LDOG7: raises 120 to 200
+whitecoatPA: folds 
+donnyz: folds 
+79Spartans: calls 180
+syrus2: raises 1150 to 1350 and is all-in
+LDOG7: raises 50 to 1400 and is all-in
+79Spartans: folds 
+Uncalled bet (50) returned to LDOG7
+*** FLOP *** [3d 9d 3s]
+*** TURN *** [3d 9d 3s] [As]
+*** RIVER *** [3d 9d 3s As] [8d]
+*** SHOW DOWN ***
+syrus2: shows [Ks Ac] (two pair, Aces and Threes)
+LDOG7: shows [Qd Qc] (two pair, Queens and Threes)
+syrus2 collected 2930 from pot
+*** SUMMARY ***
+Total pot 2930 | Rake 0 
+Board [3d 9d 3s As 8d]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: LDOG7 (button) showed [Qd Qc] and lost with two pair, Queens and Threes
+Seat 4: whitecoatPA (small blind) folded before Flop
+Seat 5: donnyz (big blind) folded before Flop
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: 79Spartans folded before Flop
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 showed [Ks Ac] and won (2930) with two pair, Aces and Threes
+
+
+
+PokerStars Game #19364003780: Tournament #100124492, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/08/04 - 19:46:28 (ET)
+Table '100124492 14' 9-max Seat #4 is the button
+Seat 1: superfamous (4620 in chips) 
+Seat 2: Alameda22 (720 in chips) 
+Seat 3: LDOG7 (50 in chips) 
+Seat 4: whitecoatPA (1400 in chips) 
+Seat 5: donnyz (1570 in chips) 
+Seat 6: midas001 (3010 in chips) 
+Seat 7: 79Spartans (680 in chips) 
+Seat 8: Eliwhaaa (1515 in chips) 
+Seat 9: syrus2 (2930 in chips) 
+donnyz: posts small blind 10
+midas001: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 2h]
+79Spartans: folds 
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+LDOG7: raises 30 to 50 and is all-in
+whitecoatPA: folds 
+donnyz: calls 40
+midas001: calls 30
+*** FLOP *** [5h Jd Jc]
+donnyz: checks 
+midas001: checks 
+*** TURN *** [5h Jd Jc] [Kc]
+donnyz: checks 
+midas001: checks 
+*** RIVER *** [5h Jd Jc Kc] [2s]
+donnyz: checks 
+midas001: checks 
+*** SHOW DOWN ***
+donnyz: shows [Qd Tc] (a pair of Jacks)
+midas001: mucks hand 
+LDOG7: mucks hand 
+donnyz collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [5h Jd Jc Kc 2s]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: LDOG7 mucked [9c 7h]
+Seat 4: whitecoatPA (button) folded before Flop (didn't bet)
+Seat 5: donnyz (small blind) showed [Qd Tc] and won (150) with a pair of Jacks
+Seat 6: midas001 (big blind) mucked [7d 3h]
+Seat 7: 79Spartans folded before Flop (didn't bet)
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364019027: Tournament #100124492, $10+$1 Hold'em No Limit - Level I (10/20) - 2008/08/04 - 19:47:06 (ET)
+Table '100124492 14' 9-max Seat #5 is the button
+Seat 1: superfamous (4620 in chips) 
+Seat 2: Alameda22 (720 in chips) 
+Seat 4: whitecoatPA (1400 in chips) 
+Seat 5: donnyz (1670 in chips) 
+Seat 6: midas001 (2960 in chips) 
+Seat 7: 79Spartans (680 in chips) 
+Seat 8: Eliwhaaa (1515 in chips) 
+Seat 9: syrus2 (2930 in chips) 
+midas001: posts small blind 10
+79Spartans: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Ad]
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: raises 80 to 100
+Alameda22: folds 
+whitecoatPA: calls 100
+donnyz: calls 100
+midas001: folds 
+79Spartans: folds 
+*** FLOP *** [5h 4d 6c]
+superfamous: bets 250
+whitecoatPA: folds 
+donnyz: folds 
+Uncalled bet (250) returned to superfamous
+superfamous collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [5h 4d 6c]
+Seat 1: superfamous collected (330)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: whitecoatPA folded on the Flop
+Seat 5: donnyz (button) folded on the Flop
+Seat 6: midas001 (small blind) folded before Flop
+Seat 7: 79Spartans (big blind) folded before Flop
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364050380: Tournament #100124492, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/08/04 - 19:48:24 (ET)
+Table '100124492 14' 9-max Seat #6 is the button
+Seat 1: superfamous (4850 in chips) 
+Seat 2: Alameda22 (720 in chips) 
+Seat 4: whitecoatPA (1300 in chips) 
+Seat 5: donnyz (1570 in chips) 
+Seat 6: midas001 (2950 in chips) 
+Seat 7: 79Spartans (660 in chips) 
+Seat 8: Eliwhaaa (1515 in chips) 
+Seat 9: syrus2 (2930 in chips) 
+79Spartans: posts small blind 15
+Eliwhaaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 9h]
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+whitecoatPA: folds 
+donnyz: calls 30
+midas001: folds 
+79Spartans: calls 15
+Eliwhaaa: checks 
+*** FLOP *** [Ks Js Kh]
+79Spartans: checks 
+Eliwhaaa: checks 
+donnyz: bets 90
+79Spartans: folds 
+Eliwhaaa: folds 
+Uncalled bet (90) returned to donnyz
+donnyz collected 90 from pot
+donnyz: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ks Js Kh]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: whitecoatPA folded before Flop (didn't bet)
+Seat 5: donnyz collected (90)
+Seat 6: midas001 (button) folded before Flop (didn't bet)
+Seat 7: 79Spartans (small blind) folded on the Flop
+Seat 8: Eliwhaaa (big blind) folded on the Flop
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364070493: Tournament #100124492, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/08/04 - 19:49:14 (ET)
+Table '100124492 14' 9-max Seat #7 is the button
+Seat 1: superfamous (4850 in chips) 
+Seat 2: Alameda22 (720 in chips) 
+Seat 4: whitecoatPA (1300 in chips) 
+Seat 5: donnyz (1630 in chips) 
+Seat 6: midas001 (2950 in chips) 
+Seat 7: 79Spartans (630 in chips) 
+Seat 8: Eliwhaaa (1485 in chips) 
+Seat 9: syrus2 (2930 in chips) 
+Eliwhaaa: posts small blind 15
+syrus2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Jd]
+superfamous: folds 
+Alameda22: raises 60 to 90
+whitecoatPA: folds 
+donnyz: folds 
+donnyz is sitting out
+midas001: calls 90
+79Spartans: folds 
+Eliwhaaa: folds 
+syrus2: calls 60
+*** FLOP *** [7c 6d Ac]
+syrus2: checks 
+Alameda22: bets 200
+midas001: folds 
+syrus2: folds 
+Uncalled bet (200) returned to Alameda22
+Alameda22 collected 285 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot 285 | Rake 0 
+Board [7c 6d Ac]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 collected (285)
+Seat 4: whitecoatPA folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded on the Flop
+Seat 7: 79Spartans (button) folded before Flop (didn't bet)
+Seat 8: Eliwhaaa (small blind) folded before Flop
+Seat 9: syrus2 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19364088538: Tournament #100124492, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/08/04 - 19:49:59 (ET)
+Table '100124492 14' 9-max Seat #8 is the button
+Seat 1: superfamous (4850 in chips) 
+Seat 2: Alameda22 (915 in chips) 
+Seat 4: whitecoatPA (1300 in chips) 
+Seat 5: donnyz (1630 in chips) is sitting out
+Seat 6: midas001 (2860 in chips) 
+Seat 7: 79Spartans (630 in chips) 
+Seat 8: Eliwhaaa (1470 in chips) 
+Seat 9: syrus2 (2840 in chips) 
+syrus2: posts small blind 15
+superfamous: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 4s]
+Alameda22: folds 
+whitecoatPA: folds 
+donnyz: folds 
+midas001: folds 
+79Spartans: folds 
+Eliwhaaa: raises 60 to 90
+syrus2: folds 
+superfamous: folds 
+Uncalled bet (60) returned to Eliwhaaa
+Eliwhaaa collected 75 from pot
+Eliwhaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: superfamous (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: whitecoatPA folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: 79Spartans folded before Flop (didn't bet)
+Seat 8: Eliwhaaa (button) collected (75)
+Seat 9: syrus2 (small blind) folded before Flop
+
+
+
+PokerStars Game #19364097203: Tournament #100124492, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/08/04 - 19:50:21 (ET)
+Table '100124492 14' 9-max Seat #9 is the button
+Seat 1: superfamous (4820 in chips) 
+Seat 2: Alameda22 (915 in chips) 
+Seat 4: whitecoatPA (1300 in chips) 
+Seat 5: donnyz (1630 in chips) is sitting out
+Seat 6: midas001 (2860 in chips) 
+Seat 7: 79Spartans (630 in chips) 
+Seat 8: Eliwhaaa (1515 in chips) 
+Seat 9: syrus2 (2825 in chips) 
+superfamous: posts small blind 15
+Alameda22: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Qs]
+Raeggy is connected 
+whitecoatPA: folds 
+donnyz: folds 
+midas001: folds 
+79Spartans: folds 
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: raises 90 to 120
+Alameda22: folds 
+Uncalled bet (90) returned to superfamous
+superfamous collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: superfamous (small blind) collected (60)
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 4: whitecoatPA folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: 79Spartans folded before Flop (didn't bet)
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364109365: Tournament #100124492, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/08/04 - 19:50:51 (ET)
+Table '100124492 14' 9-max Seat #1 is the button
+Seat 1: superfamous (4850 in chips) 
+Seat 2: Alameda22 (885 in chips) 
+Seat 3: Raeggy (1900 in chips) 
+Seat 4: whitecoatPA (1300 in chips) 
+Seat 5: donnyz (1630 in chips) is sitting out
+Seat 6: midas001 (2860 in chips) 
+Seat 7: 79Spartans (630 in chips) 
+Seat 8: Eliwhaaa (1515 in chips) 
+Seat 9: syrus2 (2825 in chips) 
+Alameda22: posts small blind 15
+Raeggy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 4d]
+whitecoatPA: folds 
+donnyz: folds 
+midas001: folds 
+79Spartans: calls 30
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: raises 120 to 150
+Alameda22: folds 
+Raeggy: folds 
+79Spartans: calls 120
+*** FLOP *** [9d 2d Td]
+79Spartans: checks 
+superfamous: bets 120
+79Spartans: folds 
+Uncalled bet (120) returned to superfamous
+superfamous collected 345 from pot
+*** SUMMARY ***
+Total pot 345 | Rake 0 
+Board [9d 2d Td]
+Seat 1: superfamous (button) collected (345)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Raeggy (big blind) folded before Flop
+Seat 4: whitecoatPA folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: 79Spartans folded on the Flop
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364122150: Tournament #100124492, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/08/04 - 19:51:23 (ET)
+Table '100124492 14' 9-max Seat #2 is the button
+Seat 1: superfamous (5045 in chips) 
+Seat 2: Alameda22 (870 in chips) 
+Seat 3: Raeggy (1870 in chips) 
+Seat 4: whitecoatPA (1300 in chips) 
+Seat 5: donnyz (1630 in chips) is sitting out
+Seat 6: midas001 (2860 in chips) 
+Seat 7: 79Spartans (480 in chips) 
+Seat 8: Eliwhaaa (1515 in chips) 
+Seat 9: syrus2 (2825 in chips) 
+Raeggy: posts small blind 15
+whitecoatPA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Jd]
+donnyz: folds 
+midas001: folds 
+79Spartans: calls 30
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: calls 15
+whitecoatPA: checks 
+*** FLOP *** [9h 3s Ad]
+Raeggy: bets 90
+whitecoatPA: raises 180 to 270
+79Spartans: raises 180 to 450 and is all-in
+Raeggy: folds 
+whitecoatPA: calls 180
+*** TURN *** [9h 3s Ad] [6d]
+*** RIVER *** [9h 3s Ad 6d] [Jc]
+*** SHOW DOWN ***
+whitecoatPA: shows [3c 9d] (two pair, Nines and Threes)
+79Spartans: shows [9s Ah] (two pair, Aces and Nines)
+79Spartans collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [9h 3s Ad 6d Jc]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Raeggy (small blind) folded on the Flop
+Seat 4: whitecoatPA (big blind) showed [3c 9d] and lost with two pair, Nines and Threes
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: 79Spartans showed [9s Ah] and won (1080) with two pair, Aces and Nines
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364147780: Tournament #100124492, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/08/04 - 19:52:27 (ET)
+Table '100124492 14' 9-max Seat #3 is the button
+Seat 1: superfamous (5045 in chips) 
+Seat 2: Alameda22 (870 in chips) 
+Seat 3: Raeggy (1750 in chips) 
+Seat 4: whitecoatPA (820 in chips) 
+Seat 5: donnyz (1630 in chips) is sitting out
+Seat 6: midas001 (2860 in chips) 
+Seat 7: 79Spartans (1080 in chips) 
+Seat 8: Eliwhaaa (1515 in chips) 
+Seat 9: syrus2 (2825 in chips) 
+whitecoatPA: posts small blind 15
+donnyz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 6h]
+midas001: folds 
+79Spartans: calls 30
+Eliwhaaa: raises 60 to 90
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: folds 
+whitecoatPA: folds 
+donnyz: folds 
+79Spartans: calls 60
+*** FLOP *** [7d 3d 8s]
+79Spartans: bets 60
+Eliwhaaa: calls 60
+*** TURN *** [7d 3d 8s] [Kd]
+79Spartans: bets 60
+Eliwhaaa: calls 60
+*** RIVER *** [7d 3d 8s Kd] [Qs]
+79Spartans: checks 
+Eliwhaaa: bets 180
+79Spartans: calls 180
+*** SHOW DOWN ***
+Eliwhaaa: shows [Jd Ac] (high card Ace)
+79Spartans: shows [2h 2s] (a pair of Deuces)
+79Spartans collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Board [7d 3d 8s Kd Qs]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy (button) folded before Flop (didn't bet)
+Seat 4: whitecoatPA (small blind) folded before Flop
+Seat 5: donnyz (big blind) folded before Flop
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: 79Spartans showed [2h 2s] and won (825) with a pair of Deuces
+Seat 8: Eliwhaaa showed [Jd Ac] and lost with high card Ace
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364164838: Tournament #100124492, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/08/04 - 19:53:09 (ET)
+Table '100124492 14' 9-max Seat #4 is the button
+Seat 1: superfamous (5045 in chips) 
+Seat 2: Alameda22 (870 in chips) 
+Seat 3: Raeggy (1750 in chips) 
+Seat 4: whitecoatPA (805 in chips) 
+Seat 5: donnyz (1600 in chips) is sitting out
+Seat 6: midas001 (2860 in chips) 
+Seat 7: 79Spartans (1515 in chips) 
+Seat 8: Eliwhaaa (1125 in chips) 
+Seat 9: syrus2 (2825 in chips) 
+donnyz: posts small blind 15
+midas001: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Qs]
+donnyz has returned
+79Spartans: folds 
+Eliwhaaa: calls 30
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: folds 
+whitecoatPA: folds 
+donnyz: calls 15
+midas001: checks 
+*** FLOP *** [As Tc 8c]
+donnyz: checks 
+midas001: checks 
+Eliwhaaa: checks 
+*** TURN *** [As Tc 8c] [2c]
+donnyz: checks 
+midas001: checks 
+Eliwhaaa: checks 
+*** RIVER *** [As Tc 8c 2c] [2s]
+donnyz: bets 90
+midas001: folds 
+Eliwhaaa: folds 
+Uncalled bet (90) returned to donnyz
+donnyz collected 90 from pot
+donnyz: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [As Tc 8c 2c 2s]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy folded before Flop (didn't bet)
+Seat 4: whitecoatPA (button) folded before Flop (didn't bet)
+Seat 5: donnyz (small blind) collected (90)
+Seat 6: midas001 (big blind) folded on the River
+Seat 7: 79Spartans folded before Flop (didn't bet)
+Seat 8: Eliwhaaa folded on the River
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364190155: Tournament #100124492, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/08/04 - 19:54:12 (ET)
+Table '100124492 14' 9-max Seat #5 is the button
+Seat 1: superfamous (5045 in chips) 
+Seat 2: Alameda22 (870 in chips) 
+Seat 3: Raeggy (1750 in chips) 
+Seat 4: whitecoatPA (805 in chips) 
+Seat 5: donnyz (1660 in chips) 
+Seat 6: midas001 (2830 in chips) 
+Seat 7: 79Spartans (1515 in chips) 
+Seat 8: Eliwhaaa (1095 in chips) 
+Seat 9: syrus2 (2825 in chips) 
+midas001: posts small blind 15
+79Spartans: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 4c]
+Eliwhaaa: folds 
+syrus2: raises 60 to 90
+superfamous: folds 
+Alameda22: folds 
+Raeggy: folds 
+whitecoatPA: folds 
+donnyz: folds 
+midas001: calls 75
+79Spartans: calls 60
+*** FLOP *** [5s Ah Kc]
+midas001: checks 
+79Spartans: checks 
+syrus2: bets 210
+midas001: folds 
+79Spartans: calls 210
+*** TURN *** [5s Ah Kc] [Ts]
+79Spartans: checks 
+syrus2: bets 1260
+79Spartans: calls 1215 and is all-in
+Uncalled bet (45) returned to syrus2
+*** RIVER *** [5s Ah Kc Ts] [5c]
+*** SHOW DOWN ***
+79Spartans: shows [Ac Ks] (two pair, Aces and Kings)
+syrus2: shows [As Kh] (two pair, Aces and Kings)
+79Spartans collected 1560 from pot
+syrus2 collected 1560 from pot
+*** SUMMARY ***
+Total pot 3120 | Rake 0 
+Board [5s Ah Kc Ts 5c]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy folded before Flop (didn't bet)
+Seat 4: whitecoatPA folded before Flop (didn't bet)
+Seat 5: donnyz (button) folded before Flop (didn't bet)
+Seat 6: midas001 (small blind) folded on the Flop
+Seat 7: 79Spartans (big blind) showed [Ac Ks] and won (1560) with two pair, Aces and Kings
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 showed [As Kh] and won (1560) with two pair, Aces and Kings
+
+
+
+PokerStars Game #19364218179: Tournament #100124492, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/08/04 - 19:55:22 (ET)
+Table '100124492 14' 9-max Seat #6 is the button
+Seat 1: superfamous (5045 in chips) 
+Seat 2: Alameda22 (870 in chips) 
+Seat 3: Raeggy (1750 in chips) 
+Seat 4: whitecoatPA (805 in chips) 
+Seat 5: donnyz (1660 in chips) 
+Seat 6: midas001 (2740 in chips) 
+Seat 7: 79Spartans (1560 in chips) 
+Seat 8: Eliwhaaa (1095 in chips) 
+Seat 9: syrus2 (2870 in chips) 
+79Spartans: posts small blind 15
+Eliwhaaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Ts]
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: raises 60 to 90
+whitecoatPA: calls 90
+donnyz: folds 
+midas001: folds 
+79Spartans: calls 75
+Eliwhaaa: calls 60
+*** FLOP *** [As 8s 6c]
+79Spartans: checks 
+Eliwhaaa: checks 
+Raeggy: bets 150
+whitecoatPA: folds 
+79Spartans: folds 
+Eliwhaaa: raises 150 to 300
+Raeggy: calls 150
+*** TURN *** [As 8s 6c] [5s]
+Eliwhaaa: bets 180
+Raeggy: raises 1180 to 1360 and is all-in
+Eliwhaaa: calls 525 and is all-in
+Uncalled bet (655) returned to Raeggy
+*** RIVER *** [As 8s 6c 5s] [Jc]
+*** SHOW DOWN ***
+Eliwhaaa: shows [6h 6s] (three of a kind, Sixes)
+Raeggy: shows [9s 9c] (a pair of Nines)
+Eliwhaaa collected 2370 from pot
+*** SUMMARY ***
+Total pot 2370 | Rake 0 
+Board [As 8s 6c 5s Jc]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy showed [9s 9c] and lost with a pair of Nines
+Seat 4: whitecoatPA folded on the Flop
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 (button) folded before Flop (didn't bet)
+Seat 7: 79Spartans (small blind) folded on the Flop
+Seat 8: Eliwhaaa (big blind) showed [6h 6s] and won (2370) with three of a kind, Sixes
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364248787: Tournament #100124492, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/08/04 - 19:56:40 (ET)
+Table '100124492 14' 9-max Seat #7 is the button
+Seat 1: superfamous (5045 in chips) 
+Seat 2: Alameda22 (870 in chips) 
+Seat 3: Raeggy (655 in chips) 
+Seat 4: whitecoatPA (715 in chips) 
+Seat 5: donnyz (1660 in chips) 
+Seat 6: midas001 (2740 in chips) 
+Seat 7: 79Spartans (1470 in chips) 
+Seat 8: Eliwhaaa (2370 in chips) 
+Seat 9: syrus2 (2870 in chips) 
+Eliwhaaa: posts small blind 15
+syrus2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 2h]
+superfamous: folds 
+Alameda22: folds 
+Raeggy: folds 
+whitecoatPA: folds 
+donnyz: folds 
+midas001: folds 
+79Spartans: calls 30
+Eliwhaaa: calls 15
+syrus2: checks 
+*** FLOP *** [Ks Qs 3h]
+Eliwhaaa: checks 
+syrus2: checks 
+79Spartans: bets 120
+Eliwhaaa: folds 
+syrus2: folds 
+Uncalled bet (120) returned to 79Spartans
+79Spartans collected 90 from pot
+79Spartans: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ks Qs 3h]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy folded before Flop (didn't bet)
+Seat 4: whitecoatPA folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: 79Spartans (button) collected (90)
+Seat 8: Eliwhaaa (small blind) folded on the Flop
+Seat 9: syrus2 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19364270254: Tournament #100124492, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/08/04 - 19:57:34 (ET)
+Table '100124492 14' 9-max Seat #8 is the button
+Seat 1: superfamous (5045 in chips) 
+Seat 2: Alameda22 (870 in chips) 
+Seat 3: Raeggy (655 in chips) 
+Seat 4: whitecoatPA (715 in chips) 
+Seat 5: donnyz (1660 in chips) 
+Seat 6: midas001 (2740 in chips) 
+Seat 7: 79Spartans (1530 in chips) 
+Seat 8: Eliwhaaa (2340 in chips) 
+Seat 9: syrus2 (2840 in chips) 
+syrus2: posts small blind 15
+superfamous: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 4d]
+Alameda22: folds 
+Raeggy: calls 30
+whitecoatPA: folds 
+donnyz: calls 30
+midas001: folds 
+79Spartans: folds 
+Eliwhaaa: calls 30
+syrus2: calls 15
+superfamous: checks 
+*** FLOP *** [5d 2s 2h]
+syrus2: checks 
+superfamous: checks 
+Raeggy: checks 
+donnyz: bets 120
+Eliwhaaa: calls 120
+syrus2: calls 120
+superfamous: folds 
+Raeggy: folds 
+*** TURN *** [5d 2s 2h] [8s]
+syrus2: checks 
+donnyz: bets 210
+Eliwhaaa: folds 
+syrus2: calls 210
+*** RIVER *** [5d 2s 2h 8s] [7d]
+syrus2: checks 
+donnyz: bets 300
+syrus2: folds 
+Uncalled bet (300) returned to donnyz
+donnyz collected 930 from pot
+donnyz: doesn't show hand 
+*** SUMMARY ***
+Total pot 930 | Rake 0 
+Board [5d 2s 2h 8s 7d]
+Seat 1: superfamous (big blind) folded on the Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy folded on the Flop
+Seat 4: whitecoatPA folded before Flop (didn't bet)
+Seat 5: donnyz collected (930)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: 79Spartans folded before Flop (didn't bet)
+Seat 8: Eliwhaaa (button) folded on the Turn
+Seat 9: syrus2 (small blind) folded on the River
+
+
+
+PokerStars Game #19364306095: Tournament #100124492, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/08/04 - 19:59:05 (ET)
+Table '100124492 14' 9-max Seat #9 is the button
+Seat 1: superfamous (5015 in chips) 
+Seat 2: Alameda22 (870 in chips) 
+Seat 3: Raeggy (625 in chips) 
+Seat 4: whitecoatPA (715 in chips) 
+Seat 5: donnyz (2230 in chips) 
+Seat 6: midas001 (2740 in chips) 
+Seat 7: 79Spartans (1530 in chips) 
+Seat 8: Eliwhaaa (2190 in chips) 
+Seat 9: syrus2 (2480 in chips) 
+superfamous: posts small blind 15
+Alameda22: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 2c]
+Raeggy: folds 
+whitecoatPA: raises 60 to 90
+donnyz: folds 
+midas001: folds 
+79Spartans: calls 90
+Eliwhaaa: calls 90
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+*** FLOP *** [Kh 9s Qh]
+whitecoatPA: bets 90
+79Spartans: folds 
+Eliwhaaa: calls 90
+*** TURN *** [Kh 9s Qh] [Ah]
+whitecoatPA: bets 120
+Eliwhaaa: calls 120
+*** RIVER *** [Kh 9s Qh Ah] [6c]
+whitecoatPA: bets 415 and is all-in
+Eliwhaaa: calls 415
+*** SHOW DOWN ***
+whitecoatPA: shows [8d Kd] (a pair of Kings)
+Eliwhaaa: shows [Ac 9c] (two pair, Aces and Nines)
+Eliwhaaa collected 1565 from pot
+*** SUMMARY ***
+Total pot 1565 | Rake 0 
+Board [Kh 9s Qh Ah 6c]
+Seat 1: superfamous (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: Raeggy folded before Flop (didn't bet)
+Seat 4: whitecoatPA showed [8d Kd] and lost with a pair of Kings
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: 79Spartans folded on the Flop
+Seat 8: Eliwhaaa showed [Ac 9c] and won (1565) with two pair, Aces and Nines
+Seat 9: syrus2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364335913: Tournament #100124492, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/08/04 - 20:00:21 (ET)
+Table '100124492 14' 9-max Seat #1 is the button
+Seat 1: superfamous (5000 in chips) 
+Seat 2: Alameda22 (840 in chips) 
+Seat 3: Raeggy (625 in chips) 
+Seat 5: donnyz (2230 in chips) 
+Seat 6: midas001 (2740 in chips) 
+Seat 7: 79Spartans (1440 in chips) 
+Seat 8: Eliwhaaa (3040 in chips) 
+Seat 9: syrus2 (2480 in chips) 
+Alameda22: posts small blind 15
+Raeggy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Td]
+donnyz: folds 
+midas001: raises 60 to 90
+79Spartans: calls 90
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: folds 
+*** FLOP *** [5c 2s 2h]
+midas001: bets 150
+79Spartans: calls 150
+*** TURN *** [5c 2s 2h] [Qd]
+midas001: checks 
+79Spartans: checks 
+*** RIVER *** [5c 2s 2h Qd] [Kh]
+midas001: bets 230
+79Spartans: folds 
+Uncalled bet (230) returned to midas001
+midas001 collected 525 from pot
+midas001: shows [Js Jd] (two pair, Jacks and Deuces)
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Board [5c 2s 2h Qd Kh]
+Seat 1: superfamous (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Raeggy (big blind) folded before Flop
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 collected (525)
+Seat 7: 79Spartans folded on the River
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364361284: Tournament #100124492, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/08/04 - 20:01:23 (ET)
+Table '100124492 14' 9-max Seat #2 is the button
+Seat 1: superfamous (5000 in chips) 
+Seat 2: Alameda22 (825 in chips) 
+Seat 3: Raeggy (595 in chips) 
+Seat 5: donnyz (2230 in chips) 
+Seat 6: midas001 (3025 in chips) 
+Seat 7: 79Spartans (1200 in chips) 
+Seat 8: Eliwhaaa (3040 in chips) 
+Seat 9: syrus2 (2480 in chips) 
+Raeggy: posts small blind 15
+donnyz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 6d]
+midas001: folds 
+79Spartans: raises 60 to 90
+Eliwhaaa: folds 
+syrus2: calls 90
+superfamous: folds 
+Alameda22: folds 
+Raeggy: folds 
+donnyz: folds 
+*** FLOP *** [6s Jh 2c]
+79Spartans: checks 
+syrus2: bets 30
+79Spartans: calls 30
+*** TURN *** [6s Jh 2c] [6c]
+79Spartans: checks 
+syrus2: bets 60
+79Spartans: calls 60
+*** RIVER *** [6s Jh 2c 6c] [5s]
+79Spartans: checks 
+syrus2: bets 420
+79Spartans: folds 
+Uncalled bet (420) returned to syrus2
+syrus2 collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Board [6s Jh 2c 6c 5s]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Raeggy (small blind) folded before Flop
+Seat 5: donnyz (big blind) folded before Flop
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: 79Spartans folded on the River
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 collected (405)
+
+
+
+PokerStars Game #19364381269: Tournament #100124492, $10+$1 Hold'em No Limit - Level II (15/30) - 2008/08/04 - 20:02:13 (ET)
+Table '100124492 14' 9-max Seat #3 is the button
+Seat 1: superfamous (5000 in chips) 
+Seat 2: Alameda22 (825 in chips) 
+Seat 3: Raeggy (580 in chips) 
+Seat 5: donnyz (2200 in chips) 
+Seat 6: midas001 (3025 in chips) 
+Seat 7: 79Spartans (1020 in chips) 
+Seat 8: Eliwhaaa (3040 in chips) 
+Seat 9: syrus2 (2705 in chips) 
+donnyz: posts small blind 15
+midas001: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 6d]
+79Spartans: calls 30
+Eliwhaaa: calls 30
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: calls 30
+donnyz: calls 15
+midas001: checks 
+*** FLOP *** [Qs 3h 5h]
+donnyz: checks 
+midas001: checks 
+79Spartans: checks 
+Eliwhaaa: checks 
+Raeggy: bets 90
+donnyz: folds 
+midas001: folds 
+79Spartans: calls 90
+Eliwhaaa: folds 
+*** TURN *** [Qs 3h 5h] [6s]
+79Spartans: bets 900 and is all-in
+Raeggy: calls 460 and is all-in
+Uncalled bet (440) returned to 79Spartans
+*** RIVER *** [Qs 3h 5h 6s] [8h]
+*** SHOW DOWN ***
+79Spartans: shows [5s 5d] (three of a kind, Fives)
+Raeggy: shows [Kh 7h] (a flush, King high)
+Raeggy collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [Qs 3h 5h 6s 8h]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy (button) showed [Kh 7h] and won (1250) with a flush, King high
+Seat 5: donnyz (small blind) folded on the Flop
+Seat 6: midas001 (big blind) folded on the Flop
+Seat 7: 79Spartans showed [5s 5d] and lost with three of a kind, Fives
+Seat 8: Eliwhaaa folded on the Flop
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364412120: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:03:30 (ET)
+Table '100124492 14' 9-max Seat #5 is the button
+Seat 1: superfamous (5000 in chips) 
+Seat 2: Alameda22 (825 in chips) 
+Seat 3: Raeggy (1250 in chips) 
+Seat 5: donnyz (2170 in chips) 
+Seat 6: midas001 (2995 in chips) 
+Seat 7: 79Spartans (440 in chips) 
+Seat 8: Eliwhaaa (3010 in chips) 
+Seat 9: syrus2 (2705 in chips) 
+midas001: posts small blind 25
+79Spartans: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Qh]
+Eliwhaaa: calls 50
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: folds 
+donnyz: folds 
+midas001: calls 25
+79Spartans: checks 
+*** FLOP *** [6c Jc Th]
+midas001: checks 
+79Spartans: checks 
+Eliwhaaa: bets 100
+midas001: folds 
+79Spartans: folds 
+Uncalled bet (100) returned to Eliwhaaa
+Eliwhaaa collected 150 from pot
+Eliwhaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [6c Jc Th]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy folded before Flop (didn't bet)
+Seat 5: donnyz (button) folded before Flop (didn't bet)
+Seat 6: midas001 (small blind) folded on the Flop
+Seat 7: 79Spartans (big blind) folded on the Flop
+Seat 8: Eliwhaaa collected (150)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364429693: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:04:14 (ET)
+Table '100124492 14' 9-max Seat #6 is the button
+Seat 1: superfamous (5000 in chips) 
+Seat 2: Alameda22 (825 in chips) 
+Seat 3: Raeggy (1250 in chips) 
+Seat 5: donnyz (2170 in chips) 
+Seat 6: midas001 (2945 in chips) 
+Seat 7: 79Spartans (390 in chips) 
+Seat 8: Eliwhaaa (3110 in chips) 
+Seat 9: syrus2 (2705 in chips) 
+79Spartans: posts small blind 25
+Eliwhaaa: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 9s]
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: folds 
+donnyz: folds 
+midas001: folds 
+79Spartans: calls 25
+Eliwhaaa: checks 
+*** FLOP *** [4c 3d Kc]
+79Spartans: checks 
+Eliwhaaa: checks 
+*** TURN *** [4c 3d Kc] [Ts]
+79Spartans: checks 
+Eliwhaaa: checks 
+*** RIVER *** [4c 3d Kc Ts] [Td]
+79Spartans: checks 
+Eliwhaaa: checks 
+*** SHOW DOWN ***
+79Spartans: shows [5h Ac] (a pair of Tens)
+Eliwhaaa: shows [3s 8h] (two pair, Tens and Threes)
+Eliwhaaa collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [4c 3d Kc Ts Td]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 (button) folded before Flop (didn't bet)
+Seat 7: 79Spartans (small blind) showed [5h Ac] and lost with a pair of Tens
+Seat 8: Eliwhaaa (big blind) showed [3s 8h] and won (100) with two pair, Tens and Threes
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364448269: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:05:00 (ET)
+Table '100124492 14' 9-max Seat #7 is the button
+Seat 1: superfamous (5000 in chips) 
+Seat 2: Alameda22 (825 in chips) 
+Seat 3: Raeggy (1250 in chips) 
+Seat 5: donnyz (2170 in chips) 
+Seat 6: midas001 (2945 in chips) 
+Seat 7: 79Spartans (340 in chips) 
+Seat 8: Eliwhaaa (3160 in chips) 
+Seat 9: syrus2 (2705 in chips) 
+Eliwhaaa: posts small blind 25
+syrus2: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Qc]
+superfamous: folds 
+Alameda22: folds 
+Raeggy: folds 
+donnyz: folds 
+midas001: raises 100 to 150
+79Spartans: folds 
+rage4dorder is connected 
+Eliwhaaa: folds 
+syrus2: folds 
+Uncalled bet (100) returned to midas001
+midas001 collected 125 from pot
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 collected (125)
+Seat 7: 79Spartans (button) folded before Flop (didn't bet)
+Seat 8: Eliwhaaa (small blind) folded before Flop
+Seat 9: syrus2 (big blind) folded before Flop
+
+
+
+PokerStars Game #19364461376: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:05:33 (ET)
+Table '100124492 14' 9-max Seat #8 is the button
+Seat 1: superfamous (5000 in chips) 
+Seat 2: Alameda22 (825 in chips) 
+Seat 3: Raeggy (1250 in chips) 
+Seat 4: rage4dorder (1580 in chips) 
+Seat 5: donnyz (2170 in chips) 
+Seat 6: midas001 (3020 in chips) 
+Seat 7: 79Spartans (340 in chips) 
+Seat 8: Eliwhaaa (3135 in chips) 
+Seat 9: syrus2 (2655 in chips) 
+syrus2: posts small blind 25
+superfamous: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 9d]
+Alameda22: folds 
+Raeggy: raises 100 to 150
+rage4dorder: folds 
+donnyz: folds 
+midas001: calls 150
+79Spartans: folds 
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: folds 
+*** FLOP *** [6h 5c 4d]
+Raeggy: checks 
+midas001: checks 
+*** TURN *** [6h 5c 4d] [4h]
+Raeggy: bets 150
+midas001: folds 
+Uncalled bet (150) returned to Raeggy
+Raeggy collected 375 from pot
+Raeggy: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [6h 5c 4d 4h]
+Seat 1: superfamous (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy collected (375)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded on the Turn
+Seat 7: 79Spartans folded before Flop (didn't bet)
+Seat 8: Eliwhaaa (button) folded before Flop (didn't bet)
+Seat 9: syrus2 (small blind) folded before Flop
+
+
+
+PokerStars Game #19364482875: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:06:27 (ET)
+Table '100124492 14' 9-max Seat #9 is the button
+Seat 1: superfamous (4950 in chips) 
+Seat 2: Alameda22 (825 in chips) 
+Seat 3: Raeggy (1475 in chips) 
+Seat 4: rage4dorder (1580 in chips) 
+Seat 5: donnyz (2170 in chips) 
+Seat 6: midas001 (2870 in chips) 
+Seat 7: 79Spartans (340 in chips) 
+Seat 8: Eliwhaaa (3135 in chips) 
+Seat 9: syrus2 (2630 in chips) 
+superfamous: posts small blind 25
+Alameda22: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 4d]
+Raeggy: folds 
+rage4dorder: folds 
+donnyz: folds 
+midas001: folds 
+79Spartans: raises 290 to 340 and is all-in
+Eliwhaaa: calls 340
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+*** FLOP *** [6h Qs 7h]
+*** TURN *** [6h Qs 7h] [Kd]
+*** RIVER *** [6h Qs 7h Kd] [7c]
+*** SHOW DOWN ***
+79Spartans: shows [5c 5d] (two pair, Sevens and Fives)
+Eliwhaaa: shows [Qd Kh] (two pair, Kings and Queens)
+Eliwhaaa collected 755 from pot
+*** SUMMARY ***
+Total pot 755 | Rake 0 
+Board [6h Qs 7h Kd 7c]
+Seat 1: superfamous (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: Raeggy folded before Flop (didn't bet)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: 79Spartans showed [5c 5d] and lost with two pair, Sevens and Fives
+Seat 8: Eliwhaaa showed [Qd Kh] and won (755) with two pair, Kings and Queens
+Seat 9: syrus2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364505158: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:07:22 (ET)
+Table '100124492 14' 9-max Seat #1 is the button
+Seat 1: superfamous (4925 in chips) 
+Seat 2: Alameda22 (775 in chips) 
+Seat 3: Raeggy (1475 in chips) 
+Seat 4: rage4dorder (1580 in chips) 
+Seat 5: donnyz (2170 in chips) 
+Seat 6: midas001 (2870 in chips) 
+Seat 8: Eliwhaaa (3550 in chips) 
+Seat 9: syrus2 (2630 in chips) 
+Alameda22: posts small blind 25
+Raeggy: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Ks]
+rage4dorder: folds 
+donnyz: folds 
+midas001: raises 100 to 150
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: raises 300 to 450
+midas001: calls 300
+*** FLOP *** [5s 4c 5h]
+Raeggy: bets 1025 and is all-in
+midas001: folds 
+Uncalled bet (1025) returned to Raeggy
+Raeggy collected 925 from pot
+Raeggy: doesn't show hand 
+*** SUMMARY ***
+Total pot 925 | Rake 0 
+Board [5s 4c 5h]
+Seat 1: superfamous (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Raeggy (big blind) collected (925)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded on the Flop
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364529450: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:08:24 (ET)
+Table '100124492 14' 9-max Seat #2 is the button
+Seat 1: superfamous (4925 in chips) 
+Seat 2: Alameda22 (750 in chips) 
+Seat 3: Raeggy (1950 in chips) 
+Seat 4: rage4dorder (1580 in chips) 
+Seat 5: donnyz (2170 in chips) 
+Seat 6: midas001 (2420 in chips) 
+Seat 8: Eliwhaaa (3550 in chips) 
+Seat 9: syrus2 (2630 in chips) 
+Raeggy: posts small blind 25
+rage4dorder: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Jc]
+donnyz: folds 
+midas001: folds 
+Eliwhaaa: calls 50
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: calls 25
+rage4dorder: checks 
+*** FLOP *** [Qd 6c Qs]
+Raeggy: checks 
+rage4dorder: checks 
+Eliwhaaa: checks 
+*** TURN *** [Qd 6c Qs] [3h]
+Raeggy: checks 
+rage4dorder: checks 
+Eliwhaaa: bets 100
+Raeggy: folds 
+rage4dorder: folds 
+Uncalled bet (100) returned to Eliwhaaa
+Eliwhaaa collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Qd 6c Qs 3h]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Raeggy (small blind) folded on the Turn
+Seat 4: rage4dorder (big blind) folded on the Turn
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 8: Eliwhaaa collected (150)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364555300: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:09:28 (ET)
+Table '100124492 14' 9-max Seat #3 is the button
+Seat 1: superfamous (4925 in chips) 
+Seat 2: Alameda22 (750 in chips) 
+Seat 3: Raeggy (1900 in chips) 
+Seat 4: rage4dorder (1530 in chips) 
+Seat 5: donnyz (2170 in chips) 
+Seat 6: midas001 (2420 in chips) 
+Seat 8: Eliwhaaa (3650 in chips) 
+Seat 9: syrus2 (2630 in chips) 
+rage4dorder: posts small blind 25
+donnyz: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 7c]
+midas001: calls 50
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: folds 
+rage4dorder: folds 
+donnyz: checks 
+*** FLOP *** [2c 6c Th]
+donnyz: checks 
+midas001: checks 
+*** TURN *** [2c 6c Th] [Tc]
+donnyz: checks 
+midas001: bets 150
+donnyz: folds 
+Uncalled bet (150) returned to midas001
+midas001 collected 125 from pot
+midas001: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Board [2c 6c Th Tc]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy (button) folded before Flop (didn't bet)
+Seat 4: rage4dorder (small blind) folded before Flop
+Seat 5: donnyz (big blind) folded on the Turn
+Seat 6: midas001 collected (125)
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364571594: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:10:08 (ET)
+Table '100124492 14' 9-max Seat #4 is the button
+Seat 1: superfamous (4925 in chips) 
+Seat 2: Alameda22 (750 in chips) 
+Seat 3: Raeggy (1900 in chips) 
+Seat 4: rage4dorder (1505 in chips) 
+Seat 5: donnyz (2120 in chips) 
+Seat 6: midas001 (2495 in chips) 
+Seat 8: Eliwhaaa (3650 in chips) 
+Seat 9: syrus2 (2630 in chips) 
+donnyz: posts small blind 25
+midas001: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 4c]
+Eliwhaaa: calls 50
+syrus2: folds 
+superfamous: calls 50
+Alameda22: folds 
+catrick is connected 
+Raeggy: raises 100 to 150
+rage4dorder: folds 
+donnyz: folds 
+midas001: calls 100
+Eliwhaaa: folds 
+superfamous: calls 100
+*** FLOP *** [7s Td 6d]
+midas001: checks 
+superfamous: checks 
+Raeggy: bets 300
+midas001: folds 
+superfamous: folds 
+Uncalled bet (300) returned to Raeggy
+Raeggy collected 525 from pot
+Raeggy: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Board [7s Td 6d]
+Seat 1: superfamous folded on the Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy collected (525)
+Seat 4: rage4dorder (button) folded before Flop (didn't bet)
+Seat 5: donnyz (small blind) folded before Flop
+Seat 6: midas001 (big blind) folded on the Flop
+Seat 8: Eliwhaaa folded before Flop
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364595052: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:11:07 (ET)
+Table '100124492 14' 9-max Seat #5 is the button
+Seat 1: superfamous (4775 in chips) 
+Seat 2: Alameda22 (750 in chips) 
+Seat 3: Raeggy (2275 in chips) 
+Seat 4: rage4dorder (1505 in chips) 
+Seat 5: donnyz (2095 in chips) 
+Seat 6: midas001 (2345 in chips) 
+Seat 7: catrick (1180 in chips) 
+Seat 8: Eliwhaaa (3600 in chips) 
+Seat 9: syrus2 (2630 in chips) 
+midas001: posts small blind 25
+catrick: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 7d]
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: raises 150 to 200
+Alameda22: folds 
+Raeggy: folds 
+rage4dorder: folds 
+donnyz: folds 
+midas001: folds 
+catrick: folds 
+Uncalled bet (150) returned to superfamous
+superfamous collected 125 from pot
+superfamous: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: superfamous collected (125)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy folded before Flop (didn't bet)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz (button) folded before Flop (didn't bet)
+Seat 6: midas001 (small blind) folded before Flop
+Seat 7: catrick (big blind) folded before Flop
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364607349: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:11:38 (ET)
+Table '100124492 14' 9-max Seat #6 is the button
+Seat 1: superfamous (4850 in chips) 
+Seat 2: Alameda22 (750 in chips) 
+Seat 3: Raeggy (2275 in chips) 
+Seat 4: rage4dorder (1505 in chips) 
+Seat 5: donnyz (2095 in chips) 
+Seat 6: midas001 (2320 in chips) 
+Seat 7: catrick (1130 in chips) 
+Seat 8: Eliwhaaa (3600 in chips) 
+Seat 9: syrus2 (2630 in chips) 
+catrick: posts small blind 25
+Eliwhaaa: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 8c]
+syrus2: folds 
+superfamous: raises 100 to 150
+Alameda22: folds 
+Raeggy: raises 150 to 300
+rage4dorder: folds 
+donnyz: folds 
+midas001: folds 
+catrick: folds 
+Eliwhaaa: calls 250
+superfamous: calls 150
+*** FLOP *** [8s Jh Ah]
+Eliwhaaa: checks 
+superfamous: checks 
+Raeggy: checks 
+*** TURN *** [8s Jh Ah] [4h]
+Eliwhaaa: checks 
+superfamous: checks 
+Raeggy: bets 450
+Eliwhaaa: folds 
+superfamous: folds 
+Uncalled bet (450) returned to Raeggy
+Raeggy collected 925 from pot
+Raeggy: doesn't show hand 
+*** SUMMARY ***
+Total pot 925 | Rake 0 
+Board [8s Jh Ah 4h]
+Seat 1: superfamous folded on the Turn
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy collected (925)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 (button) folded before Flop (didn't bet)
+Seat 7: catrick (small blind) folded before Flop
+Seat 8: Eliwhaaa (big blind) folded on the Turn
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364636521: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:12:51 (ET)
+Table '100124492 14' 9-max Seat #7 is the button
+Seat 1: superfamous (4550 in chips) 
+Seat 2: Alameda22 (750 in chips) 
+Seat 3: Raeggy (2900 in chips) 
+Seat 4: rage4dorder (1505 in chips) 
+Seat 5: donnyz (2095 in chips) 
+Seat 6: midas001 (2320 in chips) 
+Seat 7: catrick (1105 in chips) 
+Seat 8: Eliwhaaa (3300 in chips) 
+Seat 9: syrus2 (2630 in chips) 
+Eliwhaaa: posts small blind 25
+syrus2: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 6h]
+superfamous: folds 
+Alameda22: folds 
+Raeggy: calls 50
+rage4dorder: folds 
+donnyz: folds 
+midas001: calls 50
+catrick: raises 650 to 700
+Eliwhaaa: raises 650 to 1350
+syrus2: folds 
+Raeggy: folds 
+midas001: folds 
+catrick: calls 405 and is all-in
+Uncalled bet (245) returned to Eliwhaaa
+*** FLOP *** [2c 9s 4s]
+*** TURN *** [2c 9s 4s] [Kd]
+*** RIVER *** [2c 9s 4s Kd] [Qh]
+*** SHOW DOWN ***
+Eliwhaaa: shows [As Qc] (a pair of Queens)
+catrick: shows [9c 9h] (three of a kind, Nines)
+Eliwhaaa said, "nh"
+catrick collected 2360 from pot
+*** SUMMARY ***
+Total pot 2360 | Rake 0 
+Board [2c 9s 4s Kd Qh]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy folded before Flop
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop
+Seat 7: catrick (button) showed [9c 9h] and won (2360) with three of a kind, Nines
+Seat 8: Eliwhaaa (small blind) showed [As Qc] and lost with a pair of Queens
+Seat 9: syrus2 (big blind) folded before Flop
+
+
+
+PokerStars Game #19364661061: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:13:54 (ET)
+Table '100124492 14' 9-max Seat #8 is the button
+Seat 1: superfamous (4550 in chips) 
+Seat 2: Alameda22 (750 in chips) 
+Seat 3: Raeggy (2850 in chips) 
+Seat 4: rage4dorder (1505 in chips) 
+Seat 5: donnyz (2095 in chips) 
+Seat 6: midas001 (2270 in chips) 
+Seat 7: catrick (2360 in chips) 
+Seat 8: Eliwhaaa (2195 in chips) 
+Seat 9: syrus2 (2580 in chips) 
+syrus2: posts small blind 25
+superfamous: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 2c]
+Alameda22: folds 
+Raeggy: folds 
+rage4dorder: folds 
+donnyz: folds 
+donnyz is sitting out
+midas001: raises 100 to 150
+catrick: folds 
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: folds 
+Uncalled bet (100) returned to midas001
+midas001 collected 125 from pot
+midas001: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: superfamous (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy folded before Flop (didn't bet)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 collected (125)
+Seat 7: catrick folded before Flop (didn't bet)
+Seat 8: Eliwhaaa (button) folded before Flop (didn't bet)
+Seat 9: syrus2 (small blind) folded before Flop
+
+
+
+PokerStars Game #19364671825: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:14:20 (ET)
+Table '100124492 14' 9-max Seat #9 is the button
+Seat 1: superfamous (4500 in chips) 
+Seat 2: Alameda22 (750 in chips) 
+Seat 3: Raeggy (2850 in chips) 
+Seat 4: rage4dorder (1505 in chips) 
+Seat 5: donnyz (2095 in chips) is sitting out
+Seat 6: midas001 (2345 in chips) 
+Seat 7: catrick (2360 in chips) 
+Seat 8: Eliwhaaa (2195 in chips) 
+Seat 9: syrus2 (2555 in chips) 
+superfamous: posts small blind 25
+Alameda22: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 4c]
+Raeggy: calls 50
+rage4dorder: folds 
+donnyz: folds 
+midas001: folds 
+catrick: folds 
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: folds 
+Alameda22: checks 
+*** FLOP *** [As Td 9c]
+Alameda22: checks 
+Raeggy: checks 
+*** TURN *** [As Td 9c] [Kc]
+Alameda22: checks 
+Raeggy: bets 100
+Alameda22: folds 
+Uncalled bet (100) returned to Raeggy
+Raeggy collected 125 from pot
+Raeggy: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Board [As Td 9c Kc]
+Seat 1: superfamous (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded on the Turn
+Seat 3: Raeggy collected (125)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: catrick folded before Flop (didn't bet)
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364693137: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:15:14 (ET)
+Table '100124492 14' 9-max Seat #1 is the button
+Seat 1: superfamous (4475 in chips) 
+Seat 2: Alameda22 (700 in chips) 
+Seat 3: Raeggy (2925 in chips) 
+Seat 4: rage4dorder (1505 in chips) 
+Seat 5: donnyz (2095 in chips) is sitting out
+Seat 6: midas001 (2345 in chips) 
+Seat 7: catrick (2360 in chips) 
+Seat 8: Eliwhaaa (2195 in chips) 
+Seat 9: syrus2 (2555 in chips) 
+Alameda22: posts small blind 25
+Raeggy: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Td]
+rage4dorder: raises 100 to 150
+donnyz: folds 
+midas001: folds 
+catrick: folds 
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: calls 100
+*** FLOP *** [Jd 8s 7d]
+Raeggy: checks 
+rage4dorder: bets 250
+Raeggy: raises 500 to 750
+rage4dorder: raises 605 to 1355 and is all-in
+Raeggy: calls 605
+*** TURN *** [Jd 8s 7d] [Qd]
+*** RIVER *** [Jd 8s 7d Qd] [Tc]
+*** SHOW DOWN ***
+Raeggy: shows [7h 8h] (two pair, Eights and Sevens)
+rage4dorder: shows [Qs Qc] (three of a kind, Queens)
+rage4dorder collected 3035 from pot
+*** SUMMARY ***
+Total pot 3035 | Rake 0 
+Board [Jd 8s 7d Qd Tc]
+Seat 1: superfamous (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Raeggy (big blind) showed [7h 8h] and lost with two pair, Eights and Sevens
+Seat 4: rage4dorder showed [Qs Qc] and won (3035) with three of a kind, Queens
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: catrick folded before Flop (didn't bet)
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364720323: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:16:22 (ET)
+Table '100124492 14' 9-max Seat #2 is the button
+Seat 1: superfamous (4475 in chips) 
+Seat 2: Alameda22 (675 in chips) 
+Seat 3: Raeggy (1420 in chips) 
+Seat 4: rage4dorder (3035 in chips) 
+Seat 5: donnyz (2095 in chips) is sitting out
+Seat 6: midas001 (2345 in chips) 
+Seat 7: catrick (2360 in chips) 
+Seat 8: Eliwhaaa (2195 in chips) 
+Seat 9: syrus2 (2555 in chips) 
+Raeggy: posts small blind 25
+rage4dorder: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Th]
+donnyz: folds 
+midas001: raises 100 to 150
+catrick: calls 150
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: folds 
+rage4dorder: folds 
+*** FLOP *** [4c 3h 5s]
+midas001: checks 
+catrick: checks 
+*** TURN *** [4c 3h 5s] [5c]
+midas001: bets 250
+catrick: raises 400 to 650
+midas001: calls 400
+*** RIVER *** [4c 3h 5s 5c] [2d]
+midas001: bets 550
+catrick: calls 550
+*** SHOW DOWN ***
+midas001: shows [Ah Qh] (a straight, Ace to Five)
+catrick: shows [Qc Ac] (a straight, Ace to Five)
+midas001 collected 1388 from pot
+catrick collected 1387 from pot
+*** SUMMARY ***
+Total pot 2775 | Rake 0 
+Board [4c 3h 5s 5c 2d]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Raeggy (small blind) folded before Flop
+Seat 4: rage4dorder (big blind) folded before Flop
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 showed [Ah Qh] and won (1388) with a straight, Ace to Five
+Seat 7: catrick showed [Qc Ac] and won (1387) with a straight, Ace to Five
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364748475: Tournament #100124492, $10+$1 Hold'em No Limit - Level III (25/50) - 2008/08/04 - 20:17:31 (ET)
+Table '100124492 14' 9-max Seat #3 is the button
+Seat 1: superfamous (4475 in chips) 
+Seat 2: Alameda22 (675 in chips) 
+Seat 3: Raeggy (1395 in chips) 
+Seat 4: rage4dorder (2985 in chips) 
+Seat 5: donnyz (2095 in chips) is sitting out
+Seat 6: midas001 (2383 in chips) 
+Seat 7: catrick (2397 in chips) 
+Seat 8: Eliwhaaa (2195 in chips) 
+Seat 9: syrus2 (2555 in chips) 
+rage4dorder: posts small blind 25
+donnyz: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Ac]
+midas001: folds 
+catrick: folds 
+Eliwhaaa: raises 100 to 150
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: folds 
+rage4dorder: folds 
+donnyz: folds 
+Uncalled bet (100) returned to Eliwhaaa
+Eliwhaaa collected 125 from pot
+Eliwhaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy (button) folded before Flop (didn't bet)
+Seat 4: rage4dorder (small blind) folded before Flop
+Seat 5: donnyz (big blind) folded before Flop
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: catrick folded before Flop (didn't bet)
+Seat 8: Eliwhaaa collected (125)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364767394: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:18:17 (ET)
+Table '100124492 14' 9-max Seat #4 is the button
+Seat 1: superfamous (4475 in chips) 
+Seat 2: Alameda22 (675 in chips) 
+Seat 3: Raeggy (1395 in chips) 
+Seat 4: rage4dorder (2960 in chips) 
+Seat 5: donnyz (2045 in chips) is sitting out
+Seat 6: midas001 (2383 in chips) 
+Seat 7: catrick (2397 in chips) 
+Seat 8: Eliwhaaa (2270 in chips) 
+Seat 9: syrus2 (2555 in chips) 
+donnyz: posts small blind 50
+midas001: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Qs]
+catrick has timed out
+catrick: folds 
+catrick is sitting out
+catrick has returned
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: folds 
+Alameda22: raises 200 to 300
+Raeggy: folds 
+rage4dorder: folds 
+donnyz: folds 
+midas001: calls 200
+*** FLOP *** [3h 2h 2s]
+midas001: checks 
+Alameda22: bets 375 and is all-in
+midas001: calls 375
+*** TURN *** [3h 2h 2s] [6h]
+*** RIVER *** [3h 2h 2s 6h] [Ad]
+*** SHOW DOWN ***
+midas001: shows [Js As] (two pair, Aces and Deuces)
+Alameda22: shows [Ac Qs] (two pair, Aces and Deuces - Queen kicker)
+Alameda22 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Board [3h 2h 2s 6h Ad]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 showed [Ac Qs] and won (1400) with two pair, Aces and Deuces
+Seat 3: Raeggy folded before Flop (didn't bet)
+Seat 4: rage4dorder (button) folded before Flop (didn't bet)
+Seat 5: donnyz (small blind) folded before Flop
+Seat 6: midas001 (big blind) showed [Js As] and lost with two pair, Aces and Deuces
+Seat 7: catrick folded before Flop (didn't bet)
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364795842: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:19:28 (ET)
+Table '100124492 14' 9-max Seat #5 is the button
+Seat 1: superfamous (4475 in chips) 
+Seat 2: Alameda22 (1400 in chips) 
+Seat 3: Raeggy (1395 in chips) 
+Seat 4: rage4dorder (2960 in chips) 
+Seat 5: donnyz (1995 in chips) is sitting out
+Seat 6: midas001 (1708 in chips) 
+Seat 7: catrick (2397 in chips) 
+Seat 8: Eliwhaaa (2270 in chips) 
+Seat 9: syrus2 (2555 in chips) 
+midas001: posts small blind 50
+catrick: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 9c]
+Eliwhaaa: folds 
+syrus2: raises 300 to 400
+superfamous: folds 
+Alameda22: folds 
+Raeggy: folds 
+rage4dorder: folds 
+donnyz: folds 
+midas001: folds 
+catrick: folds 
+Uncalled bet (300) returned to syrus2
+syrus2 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy folded before Flop (didn't bet)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz (button) folded before Flop (didn't bet)
+Seat 6: midas001 (small blind) folded before Flop
+Seat 7: catrick (big blind) folded before Flop
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 collected (250)
+
+
+
+PokerStars Game #19364806119: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:19:53 (ET)
+Table '100124492 14' 9-max Seat #6 is the button
+Seat 1: superfamous (4475 in chips) 
+Seat 2: Alameda22 (1400 in chips) 
+Seat 3: Raeggy (1395 in chips) 
+Seat 4: rage4dorder (2960 in chips) 
+Seat 5: donnyz (1995 in chips) is sitting out
+Seat 6: midas001 (1658 in chips) 
+Seat 7: catrick (2297 in chips) 
+Seat 8: Eliwhaaa (2270 in chips) 
+Seat 9: syrus2 (2705 in chips) 
+catrick: posts small blind 50
+Eliwhaaa: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Kc]
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: folds 
+rage4dorder: folds 
+donnyz: folds 
+midas001: folds 
+catrick: calls 50
+Eliwhaaa: checks 
+*** FLOP *** [Ks Ah Ad]
+catrick: checks 
+Eliwhaaa: checks 
+*** TURN *** [Ks Ah Ad] [5d]
+catrick: bets 100
+Eliwhaaa: calls 100
+*** RIVER *** [Ks Ah Ad 5d] [8c]
+catrick: bets 100
+Eliwhaaa: raises 200 to 300
+catrick: raises 200 to 500
+Eliwhaaa: calls 200
+*** SHOW DOWN ***
+catrick: shows [7c As] (three of a kind, Aces)
+Eliwhaaa: shows [Ac Qh] (three of a kind, Aces - King+Queen kicker)
+Eliwhaaa collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Board [Ks Ah Ad 5d 8c]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy folded before Flop (didn't bet)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 (button) folded before Flop (didn't bet)
+Seat 7: catrick (small blind) showed [7c As] and lost with three of a kind, Aces
+Seat 8: Eliwhaaa (big blind) showed [Ac Qh] and won (1400) with three of a kind, Aces
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364821924: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:20:32 (ET)
+Table '100124492 14' 9-max Seat #7 is the button
+Seat 1: superfamous (4475 in chips) 
+Seat 2: Alameda22 (1400 in chips) 
+Seat 3: Raeggy (1395 in chips) 
+Seat 4: rage4dorder (2960 in chips) 
+Seat 5: donnyz (1995 in chips) is sitting out
+Seat 6: midas001 (1658 in chips) 
+Seat 7: catrick (1597 in chips) 
+Seat 8: Eliwhaaa (2970 in chips) 
+Seat 9: syrus2 (2705 in chips) 
+Eliwhaaa: posts small blind 50
+syrus2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 5c]
+superfamous: folds 
+Alameda22: folds 
+Raeggy: calls 100
+rage4dorder: folds 
+donnyz: folds 
+midas001: calls 100
+catrick: calls 100
+Eliwhaaa: calls 50
+syrus2: checks 
+*** FLOP *** [8c 2h 3d]
+Eliwhaaa: bets 200
+syrus2: calls 200
+Raeggy: folds 
+midas001: folds 
+catrick: folds 
+*** TURN *** [8c 2h 3d] [Ks]
+Eliwhaaa: checks 
+syrus2: bets 300
+Eliwhaaa: calls 300
+*** RIVER *** [8c 2h 3d Ks] [7h]
+Eliwhaaa: checks 
+syrus2: bets 2105 and is all-in
+Eliwhaaa: folds 
+Uncalled bet (2105) returned to syrus2
+syrus2 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [8c 2h 3d Ks 7h]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy folded on the Flop
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded on the Flop
+Seat 7: catrick (button) folded on the Flop
+Seat 8: Eliwhaaa (small blind) folded on the River
+Seat 9: syrus2 (big blind) collected (1500)
+
+
+
+PokerStars Game #19364853319: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:21:50 (ET)
+Table '100124492 14' 9-max Seat #8 is the button
+Seat 1: superfamous (4475 in chips) 
+Seat 2: Alameda22 (1400 in chips) 
+Seat 3: Raeggy (1295 in chips) 
+Seat 4: rage4dorder (2960 in chips) 
+Seat 5: donnyz (1995 in chips) is sitting out
+Seat 6: midas001 (1558 in chips) 
+Seat 7: catrick (1497 in chips) 
+Seat 8: Eliwhaaa (2370 in chips) 
+Seat 9: syrus2 (3605 in chips) 
+syrus2: posts small blind 50
+superfamous: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Jh]
+Alameda22: folds 
+Raeggy: folds 
+rage4dorder: folds 
+donnyz: folds 
+midas001: raises 200 to 300
+catrick: folds 
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: folds 
+Uncalled bet (200) returned to midas001
+midas001 collected 250 from pot
+midas001: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: superfamous (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy folded before Flop (didn't bet)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 collected (250)
+Seat 7: catrick folded before Flop (didn't bet)
+Seat 8: Eliwhaaa (button) folded before Flop (didn't bet)
+Seat 9: syrus2 (small blind) folded before Flop
+
+
+
+PokerStars Game #19364871773: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:22:36 (ET)
+Table '100124492 14' 9-max Seat #9 is the button
+Seat 1: superfamous (4375 in chips) 
+Seat 2: Alameda22 (1400 in chips) 
+Seat 3: Raeggy (1295 in chips) 
+Seat 4: rage4dorder (2960 in chips) 
+Seat 5: donnyz (1995 in chips) is sitting out
+Seat 6: midas001 (1708 in chips) 
+Seat 7: catrick (1497 in chips) 
+Seat 8: Eliwhaaa (2370 in chips) 
+Seat 9: syrus2 (3555 in chips) 
+superfamous: posts small blind 50
+Alameda22: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 5c]
+donnyz has returned
+Raeggy: calls 100
+rage4dorder: folds 
+donnyz: folds 
+midas001: folds 
+catrick: calls 100
+Eliwhaaa: raises 200 to 300
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: calls 200
+catrick: folds 
+*** FLOP *** [9c 9d 7d]
+Raeggy: checks 
+Eliwhaaa: bets 500
+Raeggy: folds 
+Uncalled bet (500) returned to Eliwhaaa
+Eliwhaaa collected 850 from pot
+Eliwhaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [9c 9d 7d]
+Seat 1: superfamous (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: Raeggy folded on the Flop
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: catrick folded before Flop
+Seat 8: Eliwhaaa collected (850)
+Seat 9: syrus2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364912627: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:24:17 (ET)
+Table '100124492 14' 9-max Seat #1 is the button
+Seat 1: superfamous (4325 in chips) 
+Seat 2: Alameda22 (1300 in chips) 
+Seat 3: Raeggy (995 in chips) 
+Seat 4: rage4dorder (2960 in chips) 
+Seat 5: donnyz (1995 in chips) 
+Seat 6: midas001 (1708 in chips) 
+Seat 7: catrick (1397 in chips) 
+Seat 8: Eliwhaaa (2920 in chips) 
+Seat 9: syrus2 (3555 in chips) 
+Alameda22: posts small blind 50
+Raeggy: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Qd]
+rage4dorder: folds 
+donnyz: folds 
+midas001: folds 
+catrick: folds 
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: folds 
+Alameda22: raises 1200 to 1300 and is all-in
+Raeggy: folds 
+Uncalled bet (1200) returned to Alameda22
+Alameda22 collected 200 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: superfamous (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) collected (200)
+Seat 3: Raeggy (big blind) folded before Flop
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: catrick folded before Flop (didn't bet)
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364924214: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:24:45 (ET)
+Table '100124492 14' 9-max Seat #2 is the button
+Seat 1: superfamous (4325 in chips) 
+Seat 2: Alameda22 (1400 in chips) 
+Seat 3: Raeggy (895 in chips) 
+Seat 4: rage4dorder (2960 in chips) 
+Seat 5: donnyz (1995 in chips) 
+Seat 6: midas001 (1708 in chips) 
+Seat 7: catrick (1397 in chips) 
+Seat 8: Eliwhaaa (2920 in chips) 
+Seat 9: syrus2 (3555 in chips) 
+Raeggy: posts small blind 50
+rage4dorder: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Tc]
+donnyz: folds 
+midas001: folds 
+catrick: folds 
+Eliwhaaa: calls 100
+syrus2: folds 
+superfamous: raises 300 to 400
+Alameda22: folds 
+Raeggy: folds 
+rage4dorder: folds 
+Eliwhaaa: folds 
+Uncalled bet (300) returned to superfamous
+superfamous collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 1: superfamous collected (350)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Raeggy (small blind) folded before Flop
+Seat 4: rage4dorder (big blind) folded before Flop
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: catrick folded before Flop (didn't bet)
+Seat 8: Eliwhaaa folded before Flop
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364943625: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:25:34 (ET)
+Table '100124492 14' 9-max Seat #3 is the button
+Seat 1: superfamous (4575 in chips) 
+Seat 2: Alameda22 (1400 in chips) 
+Seat 3: Raeggy (845 in chips) 
+Seat 4: rage4dorder (2860 in chips) 
+Seat 5: donnyz (1995 in chips) 
+Seat 6: midas001 (1708 in chips) 
+Seat 7: catrick (1397 in chips) 
+Seat 8: Eliwhaaa (2820 in chips) 
+Seat 9: syrus2 (3555 in chips) 
+rage4dorder: posts small blind 50
+donnyz: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 3d]
+midas001: raises 100 to 200
+catrick: folds 
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+Raeggy: raises 645 to 845 and is all-in
+rage4dorder: folds 
+donnyz: folds 
+midas001: calls 645
+*** FLOP *** [Ts 3h Jd]
+*** TURN *** [Ts 3h Jd] [6c]
+*** RIVER *** [Ts 3h Jd 6c] [Ah]
+*** SHOW DOWN ***
+midas001: shows [Ks Ad] (a pair of Aces)
+Raeggy: shows [4c 4d] (a pair of Fours)
+midas001 collected 1840 from pot
+*** SUMMARY ***
+Total pot 1840 | Rake 0 
+Board [Ts 3h Jd 6c Ah]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Raeggy (button) showed [4c 4d] and lost with a pair of Fours
+Seat 4: rage4dorder (small blind) folded before Flop
+Seat 5: donnyz (big blind) folded before Flop
+Seat 6: midas001 showed [Ks Ad] and won (1840) with a pair of Aces
+Seat 7: catrick folded before Flop (didn't bet)
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364962461: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:26:21 (ET)
+Table '100124492 14' 9-max Seat #4 is the button
+Seat 1: superfamous (4575 in chips) 
+Seat 2: Alameda22 (1400 in chips) 
+Seat 4: rage4dorder (2810 in chips) 
+Seat 5: donnyz (1895 in chips) 
+Seat 6: midas001 (2703 in chips) 
+Seat 7: catrick (1397 in chips) 
+Seat 8: Eliwhaaa (2820 in chips) 
+Seat 9: syrus2 (3555 in chips) 
+donnyz: posts small blind 50
+midas001: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 6d]
+catrick: folds 
+Eliwhaaa: raises 200 to 300
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+rage4dorder: folds 
+donnyz: folds 
+midas001: folds 
+Uncalled bet (200) returned to Eliwhaaa
+Eliwhaaa collected 250 from pot
+Eliwhaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: rage4dorder (button) folded before Flop (didn't bet)
+Seat 5: donnyz (small blind) folded before Flop
+Seat 6: midas001 (big blind) folded before Flop
+Seat 7: catrick folded before Flop (didn't bet)
+Seat 8: Eliwhaaa collected (250)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364974558: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:26:51 (ET)
+Table '100124492 14' 9-max Seat #5 is the button
+Seat 1: superfamous (4575 in chips) 
+Seat 2: Alameda22 (1400 in chips) 
+Seat 4: rage4dorder (2810 in chips) 
+Seat 5: donnyz (1845 in chips) 
+Seat 6: midas001 (2603 in chips) 
+Seat 7: catrick (1397 in chips) 
+Seat 8: Eliwhaaa (2970 in chips) 
+Seat 9: syrus2 (3555 in chips) 
+midas001: posts small blind 50
+catrick: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h As]
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+rage4dorder: folds 
+donnyz: calls 100
+midas001: calls 50
+catrick: checks 
+*** FLOP *** [Th 6h 6c]
+midas001: checks 
+catrick: checks 
+donnyz: checks 
+*** TURN *** [Th 6h 6c] [4h]
+midas001: bets 300
+catrick: folds 
+donnyz: folds 
+Uncalled bet (300) returned to midas001
+midas001 collected 300 from pot
+midas001: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Th 6h 6c 4h]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz (button) folded on the Turn
+Seat 6: midas001 (small blind) collected (300)
+Seat 7: catrick (big blind) folded on the Turn
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19364999112: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:27:51 (ET)
+Table '100124492 14' 9-max Seat #6 is the button
+Seat 1: superfamous (4575 in chips) 
+Seat 2: Alameda22 (1400 in chips) 
+Seat 4: rage4dorder (2810 in chips) 
+Seat 5: donnyz (1745 in chips) 
+Seat 6: midas001 (2803 in chips) 
+Seat 7: catrick (1297 in chips) 
+Seat 8: Eliwhaaa (2970 in chips) 
+Seat 9: syrus2 (3555 in chips) 
+catrick: posts small blind 50
+Eliwhaaa: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Td]
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+rage4dorder: folds 
+donnyz: folds 
+midas001: folds 
+catrick: calls 50
+Eliwhaaa: checks 
+*** FLOP *** [7d Ad Jd]
+catrick: checks 
+Eliwhaaa: bets 100
+catrick: folds 
+Uncalled bet (100) returned to Eliwhaaa
+Eliwhaaa collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [7d Ad Jd]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 (button) folded before Flop (didn't bet)
+Seat 7: catrick (small blind) folded on the Flop
+Seat 8: Eliwhaaa (big blind) collected (200)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19365019080: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:28:40 (ET)
+Table '100124492 14' 9-max Seat #7 is the button
+Seat 1: superfamous (4575 in chips) 
+Seat 2: Alameda22 (1400 in chips) 
+Seat 4: rage4dorder (2810 in chips) 
+Seat 5: donnyz (1745 in chips) 
+Seat 6: midas001 (2803 in chips) 
+Seat 7: catrick (1197 in chips) 
+Seat 8: Eliwhaaa (3070 in chips) 
+Seat 9: syrus2 (3555 in chips) 
+Eliwhaaa: posts small blind 50
+syrus2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 2s]
+superfamous: folds 
+Alameda22: folds 
+rage4dorder: folds 
+donnyz: folds 
+midas001: calls 100
+catrick: calls 100
+Eliwhaaa: calls 50
+syrus2: checks 
+*** FLOP *** [Js 6c 4d]
+Eliwhaaa: checks 
+syrus2: checks 
+midas001: checks 
+catrick: bets 400
+Eliwhaaa: folds 
+syrus2: raises 800 to 1200
+midas001: folds 
+catrick: folds 
+Uncalled bet (800) returned to syrus2
+syrus2 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [Js 6c 4d]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded on the Flop
+Seat 7: catrick (button) folded on the Flop
+Seat 8: Eliwhaaa (small blind) folded on the Flop
+Seat 9: syrus2 (big blind) collected (1200)
+
+
+
+PokerStars Game #19365042720: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:29:39 (ET)
+Table '100124492 14' 9-max Seat #8 is the button
+Seat 1: superfamous (4575 in chips) 
+Seat 2: Alameda22 (1400 in chips) 
+Seat 4: rage4dorder (2810 in chips) 
+Seat 5: donnyz (1745 in chips) 
+Seat 6: midas001 (2703 in chips) 
+Seat 7: catrick (697 in chips) 
+Seat 8: Eliwhaaa (2970 in chips) 
+Seat 9: syrus2 (4255 in chips) 
+syrus2: posts small blind 50
+superfamous: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 2d]
+Alameda22: folds 
+rage4dorder: folds 
+donnyz: folds 
+midas001: folds 
+catrick: raises 597 to 697 and is all-in
+Eliwhaaa: calls 697
+syrus2: calls 647
+superfamous: folds 
+*** FLOP *** [Jc 9d As]
+syrus2: checks 
+Eliwhaaa: checks 
+*** TURN *** [Jc 9d As] [4c]
+syrus2: checks 
+Eliwhaaa: checks 
+*** RIVER *** [Jc 9d As 4c] [Tc]
+syrus2: checks 
+Eliwhaaa: checks 
+*** SHOW DOWN ***
+syrus2: shows [Ac Qs] (a pair of Aces)
+catrick: shows [9h Ad] (two pair, Aces and Nines)
+Eliwhaaa: shows [6d 6s] (a pair of Sixes)
+catrick collected 2191 from pot
+*** SUMMARY ***
+Total pot 2191 | Rake 0 
+Board [Jc 9d As 4c Tc]
+Seat 1: superfamous (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: catrick showed [9h Ad] and won (2191) with two pair, Aces and Nines
+Seat 8: Eliwhaaa (button) showed [6d 6s] and lost with a pair of Sixes
+Seat 9: syrus2 (small blind) showed [Ac Qs] and lost with a pair of Aces
+
+
+
+PokerStars Game #19365065165: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:30:35 (ET)
+Table '100124492 14' 9-max Seat #9 is the button
+Seat 1: superfamous (4475 in chips) 
+Seat 2: Alameda22 (1400 in chips) 
+Seat 4: rage4dorder (2810 in chips) 
+Seat 5: donnyz (1745 in chips) 
+Seat 6: midas001 (2703 in chips) 
+Seat 7: catrick (2191 in chips) 
+Seat 8: Eliwhaaa (2273 in chips) 
+Seat 9: syrus2 (3558 in chips) 
+superfamous: posts small blind 50
+Alameda22: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Kd]
+rage4dorder: folds 
+donnyz: folds 
+midas001: folds 
+catrick: folds 
+Eliwhaaa: folds 
+syrus2: folds 
+superfamous: raises 400 to 500
+Alameda22: raises 900 to 1400 and is all-in
+superfamous: calls 900
+*** FLOP *** [4c Qs Jd]
+*** TURN *** [4c Qs Jd] [Th]
+*** RIVER *** [4c Qs Jd Th] [2d]
+*** SHOW DOWN ***
+superfamous: shows [8h Ad] (high card Ace)
+Alameda22: shows [Qh Kd] (a pair of Queens)
+Alameda22 collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Board [4c Qs Jd Th 2d]
+Seat 1: superfamous (small blind) showed [8h Ad] and lost with high card Ace
+Seat 2: Alameda22 (big blind) showed [Qh Kd] and won (2800) with a pair of Queens
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: catrick folded before Flop (didn't bet)
+Seat 8: Eliwhaaa folded before Flop (didn't bet)
+Seat 9: syrus2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19365079382: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:31:10 (ET)
+Table '100124492 14' 9-max Seat #1 is the button
+Seat 1: superfamous (3075 in chips) 
+Seat 2: Alameda22 (2800 in chips) 
+Seat 4: rage4dorder (2810 in chips) 
+Seat 5: donnyz (1745 in chips) 
+Seat 6: midas001 (2703 in chips) 
+Seat 7: catrick (2191 in chips) 
+Seat 8: Eliwhaaa (2273 in chips) 
+Seat 9: syrus2 (3558 in chips) 
+Alameda22: posts small blind 50
+rage4dorder: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 6s]
+donnyz: folds 
+midas001: folds 
+catrick: folds 
+Eliwhaaa: raises 200 to 300
+syrus2: folds 
+demute is connected 
+superfamous: raises 2775 to 3075 and is all-in
+Alameda22: folds 
+rage4dorder: folds 
+Eliwhaaa: calls 1973 and is all-in
+Uncalled bet (802) returned to superfamous
+*** FLOP *** [Tc 8s 4s]
+*** TURN *** [Tc 8s 4s] [Qs]
+*** RIVER *** [Tc 8s 4s Qs] [3h]
+*** SHOW DOWN ***
+Eliwhaaa: shows [Jc As] (high card Ace)
+superfamous: shows [Qc Kd] (a pair of Queens)
+superfamous collected 4696 from pot
+*** SUMMARY ***
+Total pot 4696 | Rake 0 
+Board [Tc 8s 4s Qs 3h]
+Seat 1: superfamous (button) showed [Qc Kd] and won (4696) with a pair of Queens
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 4: rage4dorder (big blind) folded before Flop
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: catrick folded before Flop (didn't bet)
+Seat 8: Eliwhaaa showed [Jc As] and lost with high card Ace
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19365099574: Tournament #100124492, $10+$1 Hold'em No Limit - Level IV (50/100) - 2008/08/04 - 20:31:58 (ET)
+Table '100124492 14' 9-max Seat #2 is the button
+Seat 1: superfamous (5498 in chips) 
+Seat 2: Alameda22 (2750 in chips) 
+Seat 3: demute (1955 in chips) out of hand (moved from another table into small blind)
+Seat 4: rage4dorder (2710 in chips) 
+Seat 5: donnyz (1745 in chips) 
+Seat 6: midas001 (2703 in chips) 
+Seat 7: catrick (2191 in chips) 
+Seat 9: syrus2 (3558 in chips) 
+rage4dorder: posts small blind 50
+donnyz: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Jd]
+midas001: folds 
+catrick: calls 100
+syrus2: folds 
+superfamous: folds 
+Alameda22: folds 
+rage4dorder: folds 
+donnyz: checks 
+*** FLOP *** [6c 3d Kc]
+donnyz: checks 
+catrick: checks 
+*** TURN *** [6c 3d Kc] [Ah]
+donnyz: checks 
+catrick: bets 100
+donnyz: folds 
+Uncalled bet (100) returned to catrick
+catrick collected 250 from pot
+catrick: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [6c 3d Kc Ah]
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: rage4dorder (small blind) folded before Flop
+Seat 5: donnyz (big blind) folded on the Turn
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: catrick collected (250)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19365279749: Tournament #100124492, $10+$1 Hold'em No Limit - Level V (75/150) - 2008/08/04 - 20:39:15 (ET)
+Table '100124492 14' 9-max Seat #4 is the button
+Seat 1: superfamous (5498 in chips) 
+Seat 2: Alameda22 (2750 in chips) 
+Seat 3: demute (1955 in chips) 
+Seat 4: rage4dorder (2660 in chips) 
+Seat 5: donnyz (1645 in chips) is sitting out
+Seat 6: midas001 (2703 in chips) 
+Seat 7: catrick (2341 in chips) 
+Seat 9: syrus2 (3558 in chips) 
+donnyz: posts small blind 75
+midas001: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 9c]
+catrick: folds 
+syrus2: folds 
+superfamous: raises 238 to 388
+Alameda22: folds 
+demute: folds 
+rage4dorder: folds 
+donnyz: folds 
+midas001: calls 238
+*** FLOP *** [2c Qs As]
+midas001: checks 
+superfamous: bets 450
+midas001: calls 450
+*** TURN *** [2c Qs As] [4h]
+midas001: bets 750
+superfamous: raises 3000 to 3750
+midas001: calls 1115 and is all-in
+Uncalled bet (1885) returned to superfamous
+*** RIVER *** [2c Qs As 4h] [6s]
+*** SHOW DOWN ***
+midas001: shows [Ah Jc] (a pair of Aces)
+superfamous: shows [Jh Ad] (a pair of Aces)
+midas001 collected 2741 from pot
+superfamous collected 2740 from pot
+*** SUMMARY ***
+Total pot 5481 | Rake 0 
+Board [2c Qs As 4h 6s]
+Seat 1: superfamous showed [Jh Ad] and won (2740) with a pair of Aces
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: demute folded before Flop (didn't bet)
+Seat 4: rage4dorder (button) folded before Flop (didn't bet)
+Seat 5: donnyz (small blind) folded before Flop
+Seat 6: midas001 (big blind) showed [Ah Jc] and won (2741) with a pair of Aces
+Seat 7: catrick folded before Flop (didn't bet)
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19365306904: Tournament #100124492, $10+$1 Hold'em No Limit - Level V (75/150) - 2008/08/04 - 20:40:21 (ET)
+Table '100124492 14' 9-max Seat #5 is the button
+Seat 1: superfamous (5535 in chips) 
+Seat 2: Alameda22 (2750 in chips) 
+Seat 3: demute (1955 in chips) 
+Seat 4: rage4dorder (2660 in chips) 
+Seat 5: donnyz (1570 in chips) is sitting out
+Seat 6: midas001 (2741 in chips) 
+Seat 7: catrick (2341 in chips) 
+Seat 9: syrus2 (3558 in chips) 
+midas001: posts small blind 75
+catrick: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 9d]
+syrus2: folds 
+superfamous: raises 250 to 400
+Alameda22: folds 
+donnyz has returned
+demute: folds 
+rage4dorder: folds 
+donnyz: folds 
+midas001: folds 
+catrick: folds 
+Uncalled bet (250) returned to superfamous
+superfamous collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: superfamous collected (375)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: demute folded before Flop (didn't bet)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz (button) folded before Flop (didn't bet)
+Seat 6: midas001 (small blind) folded before Flop
+Seat 7: catrick (big blind) folded before Flop
+Seat 9: syrus2 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19365320353: Tournament #100124492, $10+$1 Hold'em No Limit - Level V (75/150) - 2008/08/04 - 20:40:54 (ET)
+Table '100124492 14' 9-max Seat #6 is the button
+Seat 1: superfamous (5760 in chips) 
+Seat 2: Alameda22 (2750 in chips) 
+Seat 3: demute (1955 in chips) 
+Seat 4: rage4dorder (2660 in chips) 
+Seat 5: donnyz (1570 in chips) 
+Seat 6: midas001 (2666 in chips) 
+Seat 7: catrick (2191 in chips) 
+Seat 9: syrus2 (3558 in chips) 
+catrick: posts small blind 75
+syrus2: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Qh]
+superfamous: folds 
+Alameda22: folds 
+demute: folds 
+rage4dorder: folds 
+donnyz: folds 
+midas001: folds 
+catrick: folds 
+Uncalled bet (75) returned to syrus2
+syrus2 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: superfamous folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: demute folded before Flop (didn't bet)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz folded before Flop (didn't bet)
+Seat 6: midas001 (button) folded before Flop (didn't bet)
+Seat 7: catrick (small blind) folded before Flop
+Seat 9: syrus2 (big blind) collected (150)
+
+
+
+PokerStars Game #19365334232: Tournament #100124492, $10+$1 Hold'em No Limit - Level V (75/150) - 2008/08/04 - 20:41:28 (ET)
+Table '100124492 14' 9-max Seat #7 is the button
+Seat 1: superfamous (5760 in chips) 
+Seat 2: Alameda22 (2750 in chips) 
+Seat 3: demute (1955 in chips) 
+Seat 4: rage4dorder (2660 in chips) 
+Seat 5: donnyz (1570 in chips) 
+Seat 6: midas001 (2666 in chips) 
+Seat 7: catrick (2116 in chips) 
+Seat 9: syrus2 (3633 in chips) 
+syrus2: posts small blind 75
+superfamous: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 8s]
+Alameda22: folds 
+demute: calls 150
+rage4dorder: folds 
+donnyz: raises 450 to 600
+midas001: folds 
+catrick: folds 
+syrus2: folds 
+superfamous: folds 
+demute: calls 450
+*** FLOP *** [9h 2s 2d]
+demute: checks 
+donnyz: bets 450
+demute: raises 905 to 1355 and is all-in
+donnyz: calls 520 and is all-in
+Uncalled bet (385) returned to demute
+*** TURN *** [9h 2s 2d] [Ac]
+*** RIVER *** [9h 2s 2d Ac] [9s]
+*** SHOW DOWN ***
+demute: shows [Ah Qs] (two pair, Aces and Nines)
+donnyz: shows [Ks Kd] (two pair, Kings and Nines)
+demute collected 3365 from pot
+*** SUMMARY ***
+Total pot 3365 | Rake 0 
+Board [9h 2s 2d Ac 9s]
+Seat 1: superfamous (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: demute showed [Ah Qs] and won (3365) with two pair, Aces and Nines
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 5: donnyz showed [Ks Kd] and lost with two pair, Kings and Nines
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: catrick (button) folded before Flop (didn't bet)
+Seat 9: syrus2 (small blind) folded before Flop
+
+
+
+PokerStars Game #19365371228: Tournament #100124492, $10+$1 Hold'em No Limit - Level V (75/150) - 2008/08/04 - 20:42:58 (ET)
+Table '100124492 14' 9-max Seat #9 is the button
+Seat 1: superfamous (5610 in chips) 
+Seat 2: Alameda22 (2750 in chips) 
+Seat 3: demute (3750 in chips) 
+Seat 4: rage4dorder (2660 in chips) 
+Seat 6: midas001 (2666 in chips) 
+Seat 7: catrick (2116 in chips) 
+Seat 9: syrus2 (3558 in chips) 
+superfamous: posts small blind 75
+Alameda22: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Js]
+demute: folds 
+rage4dorder: folds 
+midas001: folds 
+catrick: folds 
+syrus2: folds 
+superfamous: raises 300 to 450
+Alameda22: calls 300
+*** FLOP *** [9d 8d Kh]
+superfamous: bets 750
+Alameda22: raises 1550 to 2300 and is all-in
+superfamous: calls 1550
+*** TURN *** [9d 8d Kh] [9c]
+*** RIVER *** [9d 8d Kh 9c] [7s]
+*** SHOW DOWN ***
+superfamous: shows [Kd Jc] (two pair, Kings and Nines)
+Alameda22: shows [8h Js] (two pair, Nines and Eights)
+superfamous collected 5500 from pot
+*** SUMMARY ***
+Total pot 5500 | Rake 0 
+Board [9d 8d Kh 9c 7s]
+Seat 1: superfamous (small blind) showed [Kd Jc] and won (5500) with two pair, Kings and Nines
+Seat 2: Alameda22 (big blind) showed [8h Js] and lost with two pair, Nines and Eights
+Seat 3: demute folded before Flop (didn't bet)
+Seat 4: rage4dorder folded before Flop (didn't bet)
+Seat 6: midas001 folded before Flop (didn't bet)
+Seat 7: catrick folded before Flop (didn't bet)
+Seat 9: syrus2 (button) folded before Flop (didn't bet)
+
+
+

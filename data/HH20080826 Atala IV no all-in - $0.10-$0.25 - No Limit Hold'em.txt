@@ -1,0 +1,3670 @@
+PokerStars Game #19922129228:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:42:15 (ET)
+Table 'Atala IV' 9-max Seat #3 is the button
+Seat 1: Joele48 ($3.15 in chips) 
+Seat 2: austexpoker ($15 in chips) 
+Seat 3: kayeekuan ($13.45 in chips) 
+Seat 4: AcedePique ($25.55 in chips) 
+Seat 5: Alameda22 ($25 in chips) 
+Seat 6: Dufresne_36 ($15.90 in chips) 
+Seat 7: ALDantes ($12.95 in chips) 
+Seat 8: justDgmt ($26.60 in chips) 
+Seat 9: EREDAYHUSLIN ($10.65 in chips) 
+AcedePique: posts small blind $0.10
+Alameda22: posts big blind $0.25
+austexpoker: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Jd]
+Dufresne_36: folds 
+ALDantes: folds 
+justDgmt: folds 
+EREDAYHUSLIN: folds 
+Joele48: calls $0.25
+austexpoker: checks 
+kayeekuan: folds 
+AcedePique: calls $0.15
+Alameda22: checks 
+*** FLOP *** [9d 6c Tc]
+AcedePique: bets $1
+Alameda22: folds 
+Joele48: raises $1.90 to $2.90 and is all-in
+austexpoker: folds 
+AcedePique: calls $1.90
+*** TURN *** [9d 6c Tc] [3h]
+*** RIVER *** [9d 6c Tc 3h] [7h]
+*** SHOW DOWN ***
+AcedePique: shows [6h 6s] (three of a kind, Sixes)
+Joele48: mucks hand 
+AcedePique collected $6.50 from pot
+*** SUMMARY ***
+Total pot $6.80 | Rake $0.30 
+Board [9d 6c Tc 3h 7h]
+Seat 1: Joele48 mucked [9s Js]
+Seat 2: austexpoker folded on the Flop
+Seat 3: kayeekuan (button) folded before Flop (didn't bet)
+Seat 4: AcedePique (small blind) showed [6h 6s] and won ($6.50) with three of a kind, Sixes
+Seat 5: Alameda22 (big blind) folded on the Flop
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 7: ALDantes folded before Flop (didn't bet)
+Seat 8: justDgmt folded before Flop (didn't bet)
+Seat 9: EREDAYHUSLIN folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922151901:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:43:14 (ET)
+Table 'Atala IV' 9-max Seat #4 is the button
+Seat 2: austexpoker ($14.75 in chips) 
+Seat 3: kayeekuan ($13.45 in chips) 
+Seat 4: AcedePique ($28.90 in chips) 
+Seat 5: Alameda22 ($24.75 in chips) 
+Seat 6: Dufresne_36 ($15.90 in chips) 
+Seat 7: ALDantes ($12.95 in chips) 
+Seat 8: justDgmt ($26.60 in chips) 
+Seat 9: EREDAYHUSLIN ($10.65 in chips) 
+Alameda22: posts small blind $0.10
+Dufresne_36: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 5s]
+Joele48 leaves the table
+ALDantes: calls $0.25
+justDgmt: folds 
+EREDAYHUSLIN: raises $1 to $1.25
+austexpoker: folds 
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+ALDantes: calls $1
+*** FLOP *** [2h Tc Ac]
+ceppo61 joins the table at seat #1 
+ALDantes: checks 
+EREDAYHUSLIN: bets $1.50
+ALDantes: raises $10.20 to $11.70 and is all-in
+EREDAYHUSLIN: calls $7.90 and is all-in
+Uncalled bet ($2.30) returned to ALDantes
+*** TURN *** [2h Tc Ac] [4d]
+*** RIVER *** [2h Tc Ac 4d] [Td]
+*** SHOW DOWN ***
+ALDantes: shows [2d 2c] (a full house, Deuces full of Tens)
+EREDAYHUSLIN: mucks hand 
+ALDantes collected $20.60 from pot
+*** SUMMARY ***
+Total pot $21.65 | Rake $1.05 
+Board [2h Tc Ac 4d Td]
+Seat 2: austexpoker folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 6: Dufresne_36 (big blind) folded before Flop
+Seat 7: ALDantes showed [2d 2c] and won ($20.60) with a full house, Deuces full of Tens
+Seat 8: justDgmt folded before Flop (didn't bet)
+Seat 9: EREDAYHUSLIN mucked [Qc As]
+
+
+
+PokerStars Game #19922189997:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:44:54 (ET)
+Table 'Atala IV' 9-max Seat #5 is the button
+Seat 2: austexpoker ($14.75 in chips) 
+Seat 3: kayeekuan ($13.45 in chips) 
+Seat 4: AcedePique ($28.90 in chips) 
+Seat 5: Alameda22 ($24.65 in chips) 
+Seat 6: Dufresne_36 ($15.65 in chips) 
+Seat 7: ALDantes ($22.90 in chips) 
+Seat 8: justDgmt ($26.60 in chips) 
+Dufresne_36: posts small blind $0.10
+ALDantes: posts big blind $0.25
+EREDAYHUSLIN has returned
+ceppo61: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 2h]
+justDgmt: folds 
+austexpoker: folds 
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: calls $0.15
+ALDantes: checks 
+*** FLOP *** [2s 4s 9c]
+Dufresne_36: bets $0.25
+ALDantes: folds 
+Uncalled bet ($0.25) returned to Dufresne_36
+Dufresne_36 collected $0.50 from pot
+Dufresne_36: doesn't show hand 
+ALDantes leaves the table
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [2s 4s 9c]
+Seat 2: austexpoker folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: Dufresne_36 (small blind) collected ($0.50)
+Seat 7: ALDantes (big blind) folded on the Flop
+Seat 8: justDgmt folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922216435:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:46:03 (ET)
+Table 'Atala IV' 9-max Seat #6 is the button
+Seat 2: austexpoker ($14.75 in chips) 
+Seat 3: kayeekuan ($13.45 in chips) 
+Seat 4: AcedePique ($28.90 in chips) 
+Seat 5: Alameda22 ($24.65 in chips) 
+Seat 6: Dufresne_36 ($15.90 in chips) 
+Seat 8: justDgmt ($26.60 in chips) 
+Seat 9: EREDAYHUSLIN ($15 in chips) 
+justDgmt: posts small blind $0.10
+EREDAYHUSLIN: posts big blind $0.25
+ceppo61: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 6h]
+austexpoker: calls $0.25
+deuitchyboy joins the table at seat #7 
+kayeekuan: raises $1 to $1.25
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+justDgmt: folds 
+EREDAYHUSLIN: folds 
+austexpoker: folds 
+Uncalled bet ($1) returned to kayeekuan
+kayeekuan collected $0.85 from pot
+kayeekuan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 2: austexpoker folded before Flop
+Seat 3: kayeekuan collected ($0.85)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 (button) folded before Flop (didn't bet)
+Seat 8: justDgmt (small blind) folded before Flop
+Seat 9: EREDAYHUSLIN (big blind) folded before Flop
+
+
+
+PokerStars Game #19922231617:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:46:44 (ET)
+Table 'Atala IV' 9-max Seat #8 is the button
+Seat 1: ceppo61 ($5 in chips) 
+Seat 2: austexpoker ($14.50 in chips) 
+Seat 3: kayeekuan ($14.05 in chips) 
+Seat 4: AcedePique ($28.90 in chips) 
+Seat 5: Alameda22 ($24.65 in chips) 
+Seat 6: Dufresne_36 ($15.90 in chips) 
+Seat 7: deuitchyboy ($15 in chips) 
+Seat 8: justDgmt ($26.50 in chips) 
+Seat 9: EREDAYHUSLIN ($14.75 in chips) 
+EREDAYHUSLIN: posts small blind $0.10
+ceppo61: posts big blind $0.25
+deuitchyboy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 7c]
+austexpoker: folds 
+kayeekuan: folds 
+AcedePique: raises $0.75 to $1
+Alameda22: folds 
+Dufresne_36: folds 
+deuitchyboy: folds 
+justDgmt: raises $2.75 to $3.75
+EREDAYHUSLIN: folds 
+ceppo61: folds 
+AcedePique: folds 
+Uncalled bet ($2.75) returned to justDgmt
+justDgmt collected $2.60 from pot
+justDgmt: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0 
+Seat 1: ceppo61 (big blind) folded before Flop
+Seat 2: austexpoker folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 7: deuitchyboy folded before Flop
+Seat 8: justDgmt (button) collected ($2.60)
+Seat 9: EREDAYHUSLIN (small blind) folded before Flop
+
+
+
+PokerStars Game #19922251165:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:47:35 (ET)
+Table 'Atala IV' 9-max Seat #9 is the button
+Seat 1: ceppo61 ($4.75 in chips) 
+Seat 2: austexpoker ($14.50 in chips) 
+Seat 3: kayeekuan ($14.05 in chips) 
+Seat 4: AcedePique ($27.90 in chips) 
+Seat 5: Alameda22 ($24.65 in chips) 
+Seat 6: Dufresne_36 ($15.90 in chips) 
+Seat 7: deuitchyboy ($14.75 in chips) 
+Seat 8: justDgmt ($28.10 in chips) 
+Seat 9: EREDAYHUSLIN ($14.65 in chips) 
+ceppo61: posts small blind $0.10
+austexpoker: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 2s]
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+deuitchyboy: folds 
+justDgmt: folds 
+EREDAYHUSLIN: folds 
+ceppo61: folds 
+Uncalled bet ($0.15) returned to austexpoker
+austexpoker collected $0.20 from pot
+austexpoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ceppo61 (small blind) folded before Flop
+Seat 2: austexpoker (big blind) collected ($0.20)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 7: deuitchyboy folded before Flop (didn't bet)
+Seat 8: justDgmt folded before Flop (didn't bet)
+Seat 9: EREDAYHUSLIN (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922274577:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:48:36 (ET)
+Table 'Atala IV' 9-max Seat #1 is the button
+Seat 1: ceppo61 ($4.65 in chips) 
+Seat 2: austexpoker ($14.60 in chips) 
+Seat 3: kayeekuan ($14.05 in chips) 
+Seat 4: AcedePique ($27.90 in chips) 
+Seat 5: Alameda22 ($24.65 in chips) 
+Seat 6: Dufresne_36 ($15.90 in chips) 
+Seat 7: deuitchyboy ($14.75 in chips) 
+Seat 8: justDgmt ($28.10 in chips) 
+Seat 9: EREDAYHUSLIN ($14.65 in chips) 
+austexpoker: posts small blind $0.10
+kayeekuan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Kh]
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+deuitchyboy: calls $0.25
+justDgmt: folds 
+EREDAYHUSLIN: folds 
+ceppo61: folds 
+austexpoker: calls $0.15
+kayeekuan: checks 
+*** FLOP *** [Qc Js Jc]
+austexpoker: checks 
+kayeekuan: checks 
+deuitchyboy: checks 
+*** TURN *** [Qc Js Jc] [Tc]
+austexpoker: bets $0.50
+kayeekuan: raises $1 to $1.50
+deuitchyboy: folds 
+austexpoker: calls $1
+*** RIVER *** [Qc Js Jc Tc] [3s]
+austexpoker: checks 
+kayeekuan: checks 
+*** SHOW DOWN ***
+austexpoker: shows [3c 2c] (a flush, Queen high)
+kayeekuan: mucks hand 
+austexpoker collected $3.60 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [Qc Js Jc Tc 3s]
+Seat 1: ceppo61 (button) folded before Flop (didn't bet)
+Seat 2: austexpoker (small blind) showed [3c 2c] and won ($3.60) with a flush, Queen high
+Seat 3: kayeekuan (big blind) mucked [7s Jd]
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 7: deuitchyboy folded on the Turn
+Seat 8: justDgmt folded before Flop (didn't bet)
+Seat 9: EREDAYHUSLIN folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922297192:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:49:35 (ET)
+Table 'Atala IV' 9-max Seat #2 is the button
+Seat 1: ceppo61 ($4.65 in chips) 
+Seat 2: austexpoker ($16.45 in chips) 
+Seat 3: kayeekuan ($12.30 in chips) 
+Seat 4: AcedePique ($27.90 in chips) 
+Seat 5: Alameda22 ($24.65 in chips) 
+Seat 6: Dufresne_36 ($15.90 in chips) 
+Seat 7: deuitchyboy ($14.50 in chips) 
+Seat 8: justDgmt ($28.10 in chips) 
+Seat 9: EREDAYHUSLIN ($14.65 in chips) 
+kayeekuan: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Qh]
+Alameda22: folds 
+Dufresne_36: folds 
+deuitchyboy: folds 
+justDgmt: folds 
+EREDAYHUSLIN: folds 
+ceppo61: folds 
+austexpoker: folds 
+kayeekuan: calls $0.15
+AcedePique: checks 
+*** FLOP *** [8s 9c Kh]
+kayeekuan: checks 
+AcedePique: bets $0.50
+kayeekuan: folds 
+Uncalled bet ($0.50) returned to AcedePique
+AcedePique collected $0.50 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [8s 9c Kh]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: austexpoker (button) folded before Flop (didn't bet)
+Seat 3: kayeekuan (small blind) folded on the Flop
+Seat 4: AcedePique (big blind) collected ($0.50)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 7: deuitchyboy folded before Flop (didn't bet)
+Seat 8: justDgmt folded before Flop (didn't bet)
+Seat 9: EREDAYHUSLIN folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922314343:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:50:20 (ET)
+Table 'Atala IV' 9-max Seat #3 is the button
+Seat 1: ceppo61 ($4.65 in chips) 
+Seat 2: austexpoker ($16.45 in chips) 
+Seat 3: kayeekuan ($12.05 in chips) 
+Seat 4: AcedePique ($28.15 in chips) 
+Seat 5: Alameda22 ($24.65 in chips) 
+Seat 6: Dufresne_36 ($15.90 in chips) 
+Seat 7: deuitchyboy ($14.50 in chips) 
+Seat 8: justDgmt ($28.10 in chips) 
+Seat 9: EREDAYHUSLIN ($14.65 in chips) 
+AcedePique: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 4d]
+Dufresne_36: folds 
+deuitchyboy: folds 
+justDgmt: folds 
+EREDAYHUSLIN: raises $0.50 to $0.75
+ceppo61: folds 
+austexpoker: folds 
+kayeekuan: calls $0.75
+AcedePique: folds 
+Alameda22: folds 
+*** FLOP *** [8h 4s 4c]
+EREDAYHUSLIN: bets $1
+kayeekuan: folds 
+Uncalled bet ($1) returned to EREDAYHUSLIN
+EREDAYHUSLIN collected $1.80 from pot
+EREDAYHUSLIN: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [8h 4s 4c]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: austexpoker folded before Flop (didn't bet)
+Seat 3: kayeekuan (button) folded on the Flop
+Seat 4: AcedePique (small blind) folded before Flop
+Seat 5: Alameda22 (big blind) folded before Flop
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 7: deuitchyboy folded before Flop (didn't bet)
+Seat 8: justDgmt folded before Flop (didn't bet)
+Seat 9: EREDAYHUSLIN collected ($1.80)
+
+
+
+PokerStars Game #19922337352:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:51:21 (ET)
+Table 'Atala IV' 9-max Seat #4 is the button
+Seat 1: ceppo61 ($4.65 in chips) 
+Seat 2: austexpoker ($16.45 in chips) 
+Seat 3: kayeekuan ($11.30 in chips) 
+Seat 4: AcedePique ($28.05 in chips) 
+Seat 5: Alameda22 ($24.40 in chips) 
+Seat 6: Dufresne_36 ($15.90 in chips) 
+Seat 7: deuitchyboy ($14.50 in chips) 
+Seat 8: justDgmt ($28.10 in chips) 
+Seat 9: EREDAYHUSLIN ($15.70 in chips) 
+Alameda22: posts small blind $0.10
+Dufresne_36: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 2d]
+deuitchyboy: folds 
+justDgmt: folds 
+EREDAYHUSLIN: folds 
+ceppo61: folds 
+austexpoker: folds 
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to Dufresne_36
+Dufresne_36 collected $0.20 from pot
+Dufresne_36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: austexpoker folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 6: Dufresne_36 (big blind) collected ($0.20)
+Seat 7: deuitchyboy folded before Flop (didn't bet)
+Seat 8: justDgmt folded before Flop (didn't bet)
+Seat 9: EREDAYHUSLIN folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922359537:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:52:19 (ET)
+Table 'Atala IV' 9-max Seat #5 is the button
+Seat 1: ceppo61 ($4.65 in chips) 
+Seat 2: austexpoker ($16.45 in chips) 
+Seat 3: kayeekuan ($11.30 in chips) 
+Seat 4: AcedePique ($28.05 in chips) 
+Seat 5: Alameda22 ($24.30 in chips) 
+Seat 6: Dufresne_36 ($16 in chips) 
+Seat 7: deuitchyboy ($14.50 in chips) 
+Seat 8: justDgmt ($28.10 in chips) 
+Seat 9: EREDAYHUSLIN ($15.70 in chips) 
+Dufresne_36: posts small blind $0.10
+deuitchyboy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Th]
+justDgmt: folds 
+EREDAYHUSLIN: calls $0.25
+ceppo61: folds 
+austexpoker: folds 
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+deuitchyboy: checks 
+*** FLOP *** [2s 3c 6d]
+deuitchyboy: checks 
+EREDAYHUSLIN: bets $0.75
+deuitchyboy: folds 
+Uncalled bet ($0.75) returned to EREDAYHUSLIN
+EREDAYHUSLIN collected $0.60 from pot
+EREDAYHUSLIN: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [2s 3c 6d]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: austexpoker folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: Dufresne_36 (small blind) folded before Flop
+Seat 7: deuitchyboy (big blind) folded on the Flop
+Seat 8: justDgmt folded before Flop (didn't bet)
+Seat 9: EREDAYHUSLIN collected ($0.60)
+
+
+
+PokerStars Game #19922388757:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:53:36 (ET)
+Table 'Atala IV' 9-max Seat #6 is the button
+Seat 1: ceppo61 ($4.65 in chips) 
+Seat 2: austexpoker ($16.45 in chips) 
+Seat 3: kayeekuan ($11.30 in chips) 
+Seat 4: AcedePique ($28.05 in chips) 
+Seat 5: Alameda22 ($24.30 in chips) 
+Seat 6: Dufresne_36 ($15.90 in chips) 
+Seat 7: deuitchyboy ($14.25 in chips) 
+Seat 8: justDgmt ($28.10 in chips) 
+Seat 9: EREDAYHUSLIN ($16.05 in chips) 
+deuitchyboy: posts small blind $0.10
+justDgmt: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Qs]
+EREDAYHUSLIN: folds 
+ceppo61: folds 
+austexpoker: folds 
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+EREDAYHUSLIN leaves the table
+deuitchyboy: folds 
+Uncalled bet ($0.15) returned to justDgmt
+justDgmt collected $0.20 from pot
+justDgmt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: austexpoker folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 (button) folded before Flop (didn't bet)
+Seat 7: deuitchyboy (small blind) folded before Flop
+Seat 8: justDgmt (big blind) collected ($0.20)
+Seat 9: EREDAYHUSLIN folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922402345:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:54:12 (ET)
+Table 'Atala IV' 9-max Seat #7 is the button
+Seat 1: ceppo61 ($4.65 in chips) 
+Seat 2: austexpoker ($16.45 in chips) 
+Seat 3: kayeekuan ($11.30 in chips) 
+Seat 4: AcedePique ($28.05 in chips) 
+Seat 5: Alameda22 ($24.30 in chips) 
+Seat 6: Dufresne_36 ($15.90 in chips) 
+Seat 7: deuitchyboy ($14.15 in chips) 
+Seat 8: justDgmt ($28.20 in chips) 
+justDgmt: posts small blind $0.10
+ceppo61: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 9c]
+austexpoker: calls $0.25
+kayeekuan: folds 
+AcedePique: folds 
+PiS.AA joins the table at seat #9 
+Alameda22: folds 
+Dufresne_36: folds 
+deuitchyboy: folds 
+justDgmt: folds 
+ceppo61: checks 
+*** FLOP *** [Jc Td Qc]
+ceppo61: checks 
+austexpoker: checks 
+*** TURN *** [Jc Td Qc] [Kd]
+ceppo61: checks 
+austexpoker: bets $0.25
+ceppo61: calls $0.25
+*** RIVER *** [Jc Td Qc Kd] [5s]
+ceppo61: bets $0.50
+austexpoker: calls $0.50
+*** SHOW DOWN ***
+ceppo61: shows [Qs Jd] (two pair, Queens and Jacks)
+austexpoker: shows [Kh Th] (two pair, Kings and Tens)
+austexpoker collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Jc Td Qc Kd 5s]
+Seat 1: ceppo61 (big blind) showed [Qs Jd] and lost with two pair, Queens and Jacks
+Seat 2: austexpoker showed [Kh Th] and won ($2) with two pair, Kings and Tens
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 7: deuitchyboy (button) folded before Flop (didn't bet)
+Seat 8: justDgmt (small blind) folded before Flop
+
+
+
+PokerStars Game #19922423897:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:55:09 (ET)
+Table 'Atala IV' 9-max Seat #8 is the button
+Seat 1: ceppo61 ($3.65 in chips) 
+Seat 2: austexpoker ($17.45 in chips) 
+Seat 3: kayeekuan ($11.30 in chips) 
+Seat 4: AcedePique ($28.05 in chips) 
+Seat 5: Alameda22 ($24.30 in chips) 
+Seat 6: Dufresne_36 ($15.90 in chips) 
+Seat 7: deuitchyboy ($14.15 in chips) 
+Seat 8: justDgmt ($28.10 in chips) 
+PiS.AA will be allowed to play after the button
+ceppo61: posts small blind $0.10
+austexpoker: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 2c]
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: calls $0.25
+deuitchyboy: raises $0.75 to $1
+justDgmt: folds 
+ceppo61: folds 
+austexpoker: folds 
+Dufresne_36: calls $0.75
+*** FLOP *** [Ah 5h 5d]
+Dufresne_36: checks 
+deuitchyboy: checks 
+*** TURN *** [Ah 5h 5d] [2s]
+Dufresne_36: bets $1
+deuitchyboy: calls $1
+*** RIVER *** [Ah 5h 5d 2s] [Td]
+Dufresne_36: bets $1.25
+deuitchyboy: calls $1.25
+*** SHOW DOWN ***
+Dufresne_36: shows [As Js] (two pair, Aces and Fives)
+deuitchyboy: mucks hand 
+Dufresne_36 collected $6.55 from pot
+*** SUMMARY ***
+Total pot $6.85 | Rake $0.30 
+Board [Ah 5h 5d 2s Td]
+Seat 1: ceppo61 (small blind) folded before Flop
+Seat 2: austexpoker (big blind) folded before Flop
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 showed [As Js] and won ($6.55) with two pair, Aces and Fives
+Seat 7: deuitchyboy mucked [Qh Qs]
+Seat 8: justDgmt (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922456273:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:56:34 (ET)
+Table 'Atala IV' 9-max Seat #1 is the button
+Seat 1: ceppo61 ($3.55 in chips) 
+Seat 2: austexpoker ($17.20 in chips) 
+Seat 3: kayeekuan ($11.30 in chips) 
+Seat 4: AcedePique ($28.05 in chips) 
+Seat 5: Alameda22 ($24.30 in chips) 
+Seat 6: Dufresne_36 ($19.20 in chips) 
+Seat 7: deuitchyboy ($10.90 in chips) 
+Seat 8: justDgmt ($28.10 in chips) 
+austexpoker: posts small blind $0.10
+kayeekuan: posts big blind $0.25
+PiS.AA: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Ts]
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: calls $0.25
+deuitchyboy: calls $0.25
+justDgmt: raises $1.25 to $1.50
+ceppo61: folds 
+austexpoker: folds 
+kayeekuan: folds 
+Dufresne_36: calls $1.25
+deuitchyboy: calls $1.25
+*** FLOP *** [9d 3h 4s]
+Dufresne_36: checks 
+deuitchyboy: checks 
+justDgmt: bets $3.75
+Dufresne_36: folds 
+deuitchyboy: folds 
+Uncalled bet ($3.75) returned to justDgmt
+justDgmt collected $4.65 from pot
+justDgmt: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [9d 3h 4s]
+Seat 1: ceppo61 (button) folded before Flop (didn't bet)
+Seat 2: austexpoker (small blind) folded before Flop
+Seat 3: kayeekuan (big blind) folded before Flop
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 folded on the Flop
+Seat 7: deuitchyboy folded on the Flop
+Seat 8: justDgmt collected ($4.65)
+
+
+
+PokerStars Game #19922486583:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:57:54 (ET)
+Table 'Atala IV' 9-max Seat #2 is the button
+Seat 1: ceppo61 ($3.55 in chips) 
+Seat 2: austexpoker ($17.10 in chips) 
+Seat 3: kayeekuan ($11.05 in chips) 
+Seat 4: AcedePique ($28.05 in chips) 
+Seat 5: Alameda22 ($24.30 in chips) 
+Seat 6: Dufresne_36 ($17.70 in chips) 
+Seat 7: deuitchyboy ($9.40 in chips) 
+Seat 8: justDgmt ($31.25 in chips) 
+kayeekuan: posts small blind $0.10
+AcedePique: posts big blind $0.25
+PiS.AA: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 5s]
+Alameda22: folds 
+Dufresne_36: folds 
+deuitchyboy: raises $0.75 to $1
+justDgmt: folds 
+ceppo61: calls $1
+austexpoker: folds 
+kayeekuan: folds 
+AcedePique: folds 
+*** FLOP *** [6h 7c Qd]
+deuitchyboy: checks 
+ceppo61: bets $2.55 and is all-in
+deuitchyboy: calls $2.55
+*** TURN *** [6h 7c Qd] [9c]
+*** RIVER *** [6h 7c Qd 9c] [7s]
+*** SHOW DOWN ***
+deuitchyboy: shows [Jc Jh] (two pair, Jacks and Sevens)
+ceppo61: shows [Js Qs] (two pair, Queens and Sevens)
+ceppo61 collected $7.10 from pot
+*** SUMMARY ***
+Total pot $7.45 | Rake $0.35 
+Board [6h 7c Qd 9c 7s]
+Seat 1: ceppo61 showed [Js Qs] and won ($7.10) with two pair, Queens and Sevens
+Seat 2: austexpoker (button) folded before Flop (didn't bet)
+Seat 3: kayeekuan (small blind) folded before Flop
+Seat 4: AcedePique (big blind) folded before Flop
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 7: deuitchyboy showed [Jc Jh] and lost with two pair, Jacks and Sevens
+Seat 8: justDgmt folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922509093:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:58:54 (ET)
+Table 'Atala IV' 9-max Seat #3 is the button
+Seat 1: ceppo61 ($7.10 in chips) 
+Seat 2: austexpoker ($17.10 in chips) 
+Seat 3: kayeekuan ($10.95 in chips) 
+Seat 4: AcedePique ($27.80 in chips) 
+Seat 5: Alameda22 ($24.30 in chips) 
+Seat 6: Dufresne_36 ($17.70 in chips) 
+Seat 7: deuitchyboy ($5.85 in chips) 
+Seat 8: justDgmt ($31.25 in chips) 
+AcedePique: posts small blind $0.10
+Alameda22: posts big blind $0.25
+PiS.AA: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 2c]
+Dufresne_36: folds 
+deuitchyboy: folds 
+justDgmt: raises $0.75 to $1
+ceppo61: folds 
+austexpoker: folds 
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: calls $0.75
+*** FLOP *** [3c 8s Qs]
+Alameda22: checks 
+justDgmt: bets $1.80
+Alameda22: folds 
+Uncalled bet ($1.80) returned to justDgmt
+justDgmt collected $2 from pot
+justDgmt: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [3c 8s Qs]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: austexpoker folded before Flop (didn't bet)
+Seat 3: kayeekuan (button) folded before Flop (didn't bet)
+Seat 4: AcedePique (small blind) folded before Flop
+Seat 5: Alameda22 (big blind) folded on the Flop
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 7: deuitchyboy folded before Flop (didn't bet)
+Seat 8: justDgmt collected ($2)
+
+
+
+PokerStars Game #19922533094:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:59:58 (ET)
+Table 'Atala IV' 9-max Seat #4 is the button
+Seat 1: ceppo61 ($7.10 in chips) 
+Seat 2: austexpoker ($17.10 in chips) 
+Seat 3: kayeekuan ($10.95 in chips) 
+Seat 4: AcedePique ($27.70 in chips) 
+Seat 5: Alameda22 ($23.30 in chips) 
+Seat 6: Dufresne_36 ($17.70 in chips) 
+Seat 7: deuitchyboy ($5.85 in chips) 
+Seat 8: justDgmt ($32.25 in chips) 
+Alameda22: posts small blind $0.10
+Dufresne_36: posts big blind $0.25
+PiS.AA: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Kd]
+deuitchyboy: folds 
+justDgmt: folds 
+ceppo61: folds 
+austexpoker: folds 
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to Dufresne_36
+Dufresne_36 collected $0.20 from pot
+Dufresne_36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: austexpoker folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 6: Dufresne_36 (big blind) collected ($0.20)
+Seat 7: deuitchyboy folded before Flop (didn't bet)
+Seat 8: justDgmt folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922545143:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:00:30 (ET)
+Table 'Atala IV' 9-max Seat #5 is the button
+Seat 1: ceppo61 ($7.10 in chips) 
+Seat 2: austexpoker ($17.10 in chips) 
+Seat 3: kayeekuan ($10.95 in chips) 
+Seat 4: AcedePique ($27.70 in chips) 
+Seat 5: Alameda22 ($23.20 in chips) 
+Seat 6: Dufresne_36 ($17.80 in chips) 
+Seat 7: deuitchyboy ($5.85 in chips) 
+Seat 8: justDgmt ($32.25 in chips) 
+Dufresne_36: posts small blind $0.10
+deuitchyboy: posts big blind $0.25
+PiS.AA: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Jc]
+justDgmt: folds 
+justDgmt leaves the table
+ceppo61: folds 
+austexpoker: folds 
+kayeekuan: folds 
+AcedePique: raises $0.75 to $1
+Alameda22: folds 
+Dufresne_36: folds 
+deuitchyboy: folds 
+Uncalled bet ($0.75) returned to AcedePique
+AcedePique collected $0.60 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: austexpoker folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique collected ($0.60)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: Dufresne_36 (small blind) folded before Flop
+Seat 7: deuitchyboy (big blind) folded before Flop
+Seat 8: justDgmt folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922561562:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:01:13 (ET)
+Table 'Atala IV' 9-max Seat #6 is the button
+Seat 1: ceppo61 ($7.10 in chips) 
+Seat 2: austexpoker ($17.10 in chips) 
+Seat 3: kayeekuan ($10.95 in chips) 
+Seat 4: AcedePique ($28.05 in chips) 
+Seat 5: Alameda22 ($23.20 in chips) 
+Seat 6: Dufresne_36 ($17.70 in chips) 
+Seat 7: deuitchyboy ($5.60 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+deuitchyboy: posts small blind $0.10
+PiS.AA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 9d]
+ceppo61: folds 
+austexpoker: calls $0.25
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+deuitchyboy: folds 
+PiS.AA: checks 
+*** FLOP *** [Kh 6s Jc]
+PiS.AA: checks 
+austexpoker: checks 
+*** TURN *** [Kh 6s Jc] [2h]
+PiS.AA: checks 
+austexpoker: checks 
+*** RIVER *** [Kh 6s Jc 2h] [Qh]
+PiS.AA: checks 
+austexpoker: checks 
+*** SHOW DOWN ***
+PiS.AA: shows [8c 6c] (a pair of Sixes)
+austexpoker: mucks hand 
+PiS.AA collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kh 6s Jc 2h Qh]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: austexpoker mucked [4s 4h]
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 (button) folded before Flop (didn't bet)
+Seat 7: deuitchyboy (small blind) folded before Flop
+Seat 9: PiS.AA (big blind) showed [8c 6c] and won ($0.60) with a pair of Sixes
+
+
+
+PokerStars Game #19922583778:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:02:11 (ET)
+Table 'Atala IV' 9-max Seat #7 is the button
+Seat 1: ceppo61 ($7.10 in chips) 
+Seat 2: austexpoker ($16.85 in chips) 
+Seat 3: kayeekuan ($10.95 in chips) 
+Seat 4: AcedePique ($28.05 in chips) 
+Seat 5: Alameda22 ($23.20 in chips) 
+Seat 6: Dufresne_36 ($17.70 in chips) 
+Seat 7: deuitchyboy ($5.50 in chips) 
+Seat 9: PiS.AA ($25.35 in chips) 
+PiS.AA: posts small blind $0.10
+ceppo61: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Th]
+austexpoker: folds 
+kayeekuan: folds 
+AcedePique: calls $0.25
+Alameda22: folds 
+Dufresne_36: folds 
+deuitchyboy: folds 
+PiS.AA: folds 
+ceppo61: checks 
+*** FLOP *** [Js 3d 9d]
+HoleHeart joins the table at seat #8 
+ceppo61: checks 
+AcedePique: bets $0.75
+ceppo61: folds 
+Uncalled bet ($0.75) returned to AcedePique
+AcedePique collected $0.60 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Js 3d 9d]
+Seat 1: ceppo61 (big blind) folded on the Flop
+Seat 2: austexpoker folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique collected ($0.60)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 7: deuitchyboy (button) folded before Flop (didn't bet)
+Seat 9: PiS.AA (small blind) folded before Flop
+
+
+
+PokerStars Game #19922597261:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:02:47 (ET)
+Table 'Atala IV' 9-max Seat #9 is the button
+Seat 1: ceppo61 ($6.85 in chips) 
+Seat 2: austexpoker ($16.85 in chips) 
+Seat 3: kayeekuan ($10.95 in chips) 
+Seat 4: AcedePique ($28.40 in chips) 
+Seat 5: Alameda22 ($23.20 in chips) 
+Seat 6: Dufresne_36 ($17.70 in chips) 
+Seat 7: deuitchyboy ($5.50 in chips) 
+Seat 8: HoleHeart ($5 in chips) 
+Seat 9: PiS.AA ($25.25 in chips) 
+ceppo61: posts small blind $0.10
+austexpoker: posts big blind $0.25
+HoleHeart: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Js]
+kayeekuan: raises $1 to $1.25
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+deuitchyboy: folds 
+HoleHeart: calls $1
+PiS.AA: folds 
+ceppo61: folds 
+austexpoker: folds 
+*** FLOP *** [8h 9s As]
+kayeekuan: bets $1.50
+HoleHeart: folds 
+Uncalled bet ($1.50) returned to kayeekuan
+kayeekuan collected $2.75 from pot
+kayeekuan: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [8h 9s As]
+Seat 1: ceppo61 (small blind) folded before Flop
+Seat 2: austexpoker (big blind) folded before Flop
+Seat 3: kayeekuan collected ($2.75)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 7: deuitchyboy folded before Flop (didn't bet)
+Seat 8: HoleHeart folded on the Flop
+Seat 9: PiS.AA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922619344:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:03:45 (ET)
+Table 'Atala IV' 9-max Seat #1 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: austexpoker ($16.60 in chips) 
+Seat 3: kayeekuan ($12.45 in chips) 
+Seat 4: AcedePique ($28.40 in chips) 
+Seat 5: Alameda22 ($23.20 in chips) 
+Seat 6: Dufresne_36 ($17.70 in chips) 
+Seat 7: deuitchyboy ($5.50 in chips) 
+Seat 8: HoleHeart ($3.75 in chips) 
+Seat 9: PiS.AA ($25.25 in chips) 
+austexpoker: posts small blind $0.10
+kayeekuan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 7d]
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+deuitchyboy: folds 
+HoleHeart: raises $0.50 to $0.75
+PiS.AA: folds 
+ceppo61: folds 
+austexpoker: folds 
+kayeekuan: folds 
+Uncalled bet ($0.50) returned to HoleHeart
+HoleHeart collected $0.60 from pot
+HoleHeart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ceppo61 (button) folded before Flop (didn't bet)
+Seat 2: austexpoker (small blind) folded before Flop
+Seat 3: kayeekuan (big blind) folded before Flop
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 7: deuitchyboy folded before Flop (didn't bet)
+Seat 8: HoleHeart collected ($0.60)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922634171:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:04:24 (ET)
+Table 'Atala IV' 9-max Seat #2 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: austexpoker ($16.50 in chips) 
+Seat 3: kayeekuan ($12.20 in chips) 
+Seat 4: AcedePique ($28.40 in chips) 
+Seat 5: Alameda22 ($23.20 in chips) 
+Seat 6: Dufresne_36 ($17.70 in chips) 
+Seat 7: deuitchyboy ($5.50 in chips) 
+Seat 8: HoleHeart ($4.10 in chips) 
+Seat 9: PiS.AA ($25.25 in chips) 
+kayeekuan: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 8c]
+Alameda22: folds 
+Dufresne_36: folds 
+deuitchyboy: folds 
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+austexpoker: folds 
+kayeekuan: raises $0.50 to $0.75
+AcedePique: calls $0.50
+*** FLOP *** [Ad 6c Ac]
+kayeekuan: bets $0.75
+AcedePique: folds 
+Uncalled bet ($0.75) returned to kayeekuan
+kayeekuan collected $1.45 from pot
+kayeekuan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Ad 6c Ac]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: austexpoker (button) folded before Flop (didn't bet)
+Seat 3: kayeekuan (small blind) collected ($1.45)
+Seat 4: AcedePique (big blind) folded on the Flop
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 7: deuitchyboy folded before Flop (didn't bet)
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922654287:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:05:17 (ET)
+Table 'Atala IV' 9-max Seat #3 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: austexpoker ($16.50 in chips) 
+Seat 3: kayeekuan ($12.90 in chips) 
+Seat 4: AcedePique ($27.65 in chips) 
+Seat 5: Alameda22 ($23.20 in chips) 
+Seat 6: Dufresne_36 ($17.70 in chips) 
+Seat 7: deuitchyboy ($5.50 in chips) 
+Seat 8: HoleHeart ($4.10 in chips) 
+Seat 9: PiS.AA ($25.25 in chips) 
+AcedePique: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Jd]
+Dufresne_36: folds 
+deuitchyboy: folds 
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+austexpoker: calls $0.25
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: checks 
+*** FLOP *** [2h 5d 4d]
+Alameda22: checks 
+austexpoker: checks 
+*** TURN *** [2h 5d 4d] [As]
+Alameda22: checks 
+austexpoker: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to austexpoker
+austexpoker collected $0.60 from pot
+austexpoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [2h 5d 4d As]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: austexpoker collected ($0.60)
+Seat 3: kayeekuan (button) folded before Flop (didn't bet)
+Seat 4: AcedePique (small blind) folded before Flop
+Seat 5: Alameda22 (big blind) folded on the Turn
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 7: deuitchyboy folded before Flop (didn't bet)
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922675182:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:06:13 (ET)
+Table 'Atala IV' 9-max Seat #4 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: austexpoker ($16.85 in chips) 
+Seat 3: kayeekuan ($12.90 in chips) 
+Seat 4: AcedePique ($27.55 in chips) 
+Seat 5: Alameda22 ($22.95 in chips) 
+Seat 6: Dufresne_36 ($17.70 in chips) 
+Seat 7: deuitchyboy ($5.50 in chips) 
+Seat 8: HoleHeart ($4.10 in chips) 
+Seat 9: PiS.AA ($25.25 in chips) 
+Alameda22: posts small blind $0.10
+Dufresne_36: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 6s]
+deuitchyboy: folds 
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+austexpoker: folds 
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to Dufresne_36
+Dufresne_36 collected $0.20 from pot
+Dufresne_36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: austexpoker folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 6: Dufresne_36 (big blind) collected ($0.20)
+Seat 7: deuitchyboy folded before Flop (didn't bet)
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922691597:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:06:56 (ET)
+Table 'Atala IV' 9-max Seat #5 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: austexpoker ($16.85 in chips) 
+Seat 3: kayeekuan ($12.90 in chips) 
+Seat 4: AcedePique ($27.55 in chips) 
+Seat 5: Alameda22 ($22.85 in chips) 
+Seat 6: Dufresne_36 ($17.80 in chips) 
+Seat 7: deuitchyboy ($5.50 in chips) 
+Seat 8: HoleHeart ($4.10 in chips) 
+Seat 9: PiS.AA ($25.25 in chips) 
+Dufresne_36: posts small blind $0.10
+deuitchyboy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 4d]
+HoleHeart: calls $0.25
+PiS.AA: folds 
+ceppo61: folds 
+austexpoker: folds 
+austexpoker leaves the table
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+deuitchyboy: checks 
+*** FLOP *** [Qc 7s Kd]
+deuitchyboy: checks 
+HoleHeart: bets $0.75
+deuitchyboy: folds 
+Uncalled bet ($0.75) returned to HoleHeart
+HoleHeart collected $0.60 from pot
+HoleHeart: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qc 7s Kd]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: austexpoker folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: Dufresne_36 (small blind) folded before Flop
+Seat 7: deuitchyboy (big blind) folded on the Flop
+Seat 8: HoleHeart collected ($0.60)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922716507:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:08:02 (ET)
+Table 'Atala IV' 9-max Seat #6 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 3: kayeekuan ($12.90 in chips) 
+Seat 4: AcedePique ($27.55 in chips) 
+Seat 5: Alameda22 ($22.85 in chips) 
+Seat 6: Dufresne_36 ($17.70 in chips) 
+Seat 7: deuitchyboy ($5.25 in chips) 
+Seat 8: HoleHeart ($4.45 in chips) 
+Seat 9: PiS.AA ($25.25 in chips) 
+deuitchyboy: posts small blind $0.10
+HoleHeart: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Jh]
+PiS.AA: folds 
+ceppo61: folds 
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: raises $0.75 to $1
+deuitchyboy: raises $4.25 to $5.25 and is all-in
+marlin250 joins the table at seat #2 
+HoleHeart: folds 
+Dufresne_36: calls $4.25
+*** FLOP *** [Kh 4c Ac]
+*** TURN *** [Kh 4c Ac] [9d]
+*** RIVER *** [Kh 4c Ac 9d] [8c]
+*** SHOW DOWN ***
+deuitchyboy: shows [Td Th] (a pair of Tens)
+Dufresne_36: shows [Qd Qc] (a pair of Queens)
+Dufresne_36 collected $10.25 from pot
+*** SUMMARY ***
+Total pot $10.75 | Rake $0.50 
+Board [Kh 4c Ac 9d 8c]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 (button) showed [Qd Qc] and won ($10.25) with a pair of Queens
+Seat 7: deuitchyboy (small blind) showed [Td Th] and lost with a pair of Tens
+Seat 8: HoleHeart (big blind) folded before Flop
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922740151:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:09:04 (ET)
+Table 'Atala IV' 9-max Seat #8 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 3: kayeekuan ($12.90 in chips) 
+Seat 4: AcedePique ($27.55 in chips) 
+Seat 5: Alameda22 ($22.85 in chips) 
+Seat 6: Dufresne_36 ($22.70 in chips) 
+Seat 8: HoleHeart ($4.20 in chips) 
+Seat 9: PiS.AA ($25.25 in chips) 
+PiS.AA: posts small blind $0.10
+ceppo61: posts big blind $0.25
+marlin250: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Js]
+kayeekuan: folds 
+deuitchyboy leaves the table
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+HoleHeart: folds 
+PiS.AA: folds 
+Uncalled bet ($0.15) returned to ceppo61
+ceppo61 collected $0.20 from pot
+ceppo61: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ceppo61 (big blind) collected ($0.20)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: HoleHeart (button) folded before Flop (didn't bet)
+Seat 9: PiS.AA (small blind) folded before Flop
+
+
+
+PokerStars Game #19922749936:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:09:30 (ET)
+Table 'Atala IV' 9-max Seat #9 is the button
+Seat 1: ceppo61 ($6.85 in chips) 
+Seat 2: marlin250 ($25 in chips) 
+Seat 3: kayeekuan ($12.90 in chips) 
+Seat 4: AcedePique ($27.55 in chips) 
+Seat 5: Alameda22 ($22.85 in chips) 
+Seat 6: Dufresne_36 ($22.70 in chips) 
+Seat 8: HoleHeart ($4.20 in chips) 
+Seat 9: PiS.AA ($25.15 in chips) 
+ceppo61: posts small blind $0.10
+tiburonbig joins the table at seat #7 
+marlin250: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Qs]
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+Uncalled bet ($0.15) returned to marlin250
+marlin250 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ceppo61 (small blind) folded before Flop
+Seat 2: marlin250 (big blind) collected ($0.20)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922763185:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:10:06 (ET)
+Table 'Atala IV' 9-max Seat #1 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: marlin250 ($25.10 in chips) 
+Seat 3: kayeekuan ($12.90 in chips) 
+Seat 4: AcedePique ($27.55 in chips) 
+Seat 5: Alameda22 ($22.85 in chips) 
+Seat 6: Dufresne_36 ($22.70 in chips) 
+Seat 8: HoleHeart ($4.20 in chips) 
+Seat 9: PiS.AA ($25.15 in chips) 
+marlin250: posts small blind $0.10
+kayeekuan: posts big blind $0.25
+tiburonbig: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Qh]
+AcedePique: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: calls $0.15
+kayeekuan: checks 
+*** FLOP *** [Kc Qc 4d]
+marlin250: checks 
+kayeekuan: bets $0.50
+marlin250: folds 
+Uncalled bet ($0.50) returned to kayeekuan
+kayeekuan collected $0.50 from pot
+kayeekuan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Kc Qc 4d]
+Seat 1: ceppo61 (button) folded before Flop (didn't bet)
+Seat 2: marlin250 (small blind) folded on the Flop
+Seat 3: kayeekuan (big blind) collected ($0.50)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922781311:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:10:53 (ET)
+Table 'Atala IV' 9-max Seat #2 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: marlin250 ($24.85 in chips) 
+Seat 3: kayeekuan ($13.15 in chips) 
+Seat 4: AcedePique ($27.55 in chips) 
+Seat 5: Alameda22 ($22.85 in chips) 
+Seat 6: Dufresne_36 ($22.70 in chips) 
+Seat 8: HoleHeart ($4.20 in chips) 
+Seat 9: PiS.AA ($25.15 in chips) 
+kayeekuan: posts small blind $0.10
+AcedePique: posts big blind $0.25
+tiburonbig: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Kc]
+Alameda22: folds 
+Dufresne_36: folds 
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+kayeekuan: folds 
+Uncalled bet ($0.15) returned to AcedePique
+AcedePique collected $0.20 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 (button) folded before Flop (didn't bet)
+Seat 3: kayeekuan (small blind) folded before Flop
+Seat 4: AcedePique (big blind) collected ($0.20)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922795589:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:11:31 (ET)
+Table 'Atala IV' 9-max Seat #3 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: marlin250 ($24.85 in chips) 
+Seat 3: kayeekuan ($13.05 in chips) 
+Seat 4: AcedePique ($27.65 in chips) 
+Seat 5: Alameda22 ($22.85 in chips) 
+Seat 6: Dufresne_36 ($22.70 in chips) 
+Seat 8: HoleHeart ($4.20 in chips) 
+Seat 9: PiS.AA ($25.15 in chips) 
+AcedePique: posts small blind $0.10
+Alameda22: posts big blind $0.25
+tiburonbig: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 2h]
+Dufresne_36: folds 
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+Dufresne_36 is sitting out
+marlin250: folds 
+kayeekuan: raises $0.50 to $0.75
+AcedePique: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to kayeekuan
+kayeekuan collected $0.60 from pot
+kayeekuan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: kayeekuan (button) collected ($0.60)
+Seat 4: AcedePique (small blind) folded before Flop
+Seat 5: Alameda22 (big blind) folded before Flop
+Seat 6: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922811921:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:12:15 (ET)
+Table 'Atala IV' 9-max Seat #4 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: marlin250 ($24.85 in chips) 
+Seat 3: kayeekuan ($13.40 in chips) 
+Seat 4: AcedePique ($27.55 in chips) 
+Seat 5: Alameda22 ($22.60 in chips) 
+Seat 7: tiburonbig ($20 in chips) 
+Seat 8: HoleHeart ($4.20 in chips) 
+Seat 9: PiS.AA ($25.15 in chips) 
+Alameda22: posts small blind $0.10
+Dufresne_36 leaves the table
+tiburonbig: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 4c]
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+kayeekuan: raises $0.50 to $0.75
+AcedePique: folds 
+Alameda22: folds 
+tiburonbig: folds 
+Uncalled bet ($0.50) returned to kayeekuan
+kayeekuan collected $0.60 from pot
+kayeekuan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: kayeekuan collected ($0.60)
+Seat 4: AcedePique (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 7: tiburonbig (big blind) folded before Flop
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922831882:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:13:08 (ET)
+Table 'Atala IV' 9-max Seat #5 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: marlin250 ($24.85 in chips) 
+Seat 3: kayeekuan ($13.75 in chips) 
+Seat 4: AcedePique ($27.55 in chips) 
+Seat 5: Alameda22 ($22.50 in chips) 
+Seat 7: tiburonbig ($19.75 in chips) 
+Seat 8: HoleHeart ($4.20 in chips) 
+Seat 9: PiS.AA ($25.15 in chips) 
+tiburonbig: posts small blind $0.10
+HoleHeart: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 8d]
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+tiburonbig: folds 
+Uncalled bet ($0.15) returned to HoleHeart
+HoleHeart collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: tiburonbig (small blind) folded before Flop
+Seat 8: HoleHeart (big blind) collected ($0.20)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922846800:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:13:48 (ET)
+Table 'Atala IV' 9-max Seat #7 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: marlin250 ($24.85 in chips) 
+Seat 3: kayeekuan ($13.75 in chips) 
+Seat 4: AcedePique ($27.55 in chips) 
+Seat 5: Alameda22 ($22.50 in chips) 
+Seat 7: tiburonbig ($19.65 in chips) 
+Seat 8: HoleHeart ($4.30 in chips) 
+Seat 9: PiS.AA ($25.15 in chips) 
+HoleHeart: posts small blind $0.10
+PiS.AA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Ad]
+ceppo61: folds 
+marlin250: folds 
+kayeekuan: raises $1 to $1.25
+AcedePique: folds 
+Alameda22: folds 
+tiburonbig: folds 
+HoleHeart: folds 
+PiS.AA: folds 
+Uncalled bet ($1) returned to kayeekuan
+kayeekuan collected $0.60 from pot
+kayeekuan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: kayeekuan collected ($0.60)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig (button) folded before Flop (didn't bet)
+Seat 8: HoleHeart (small blind) folded before Flop
+Seat 9: PiS.AA (big blind) folded before Flop
+
+
+
+PokerStars Game #19922866488:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:14:41 (ET)
+Table 'Atala IV' 9-max Seat #8 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: marlin250 ($24.85 in chips) 
+Seat 3: kayeekuan ($14.10 in chips) 
+Seat 4: AcedePique ($27.55 in chips) 
+Seat 5: Alameda22 ($22.50 in chips) 
+Seat 7: tiburonbig ($19.65 in chips) 
+Seat 8: HoleHeart ($4.20 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+PiS.AA: posts small blind $0.10
+ceppo61: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 6h]
+marlin250: folds 
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+tiburonbig: folds 
+On L9 Cay9 joins the table at seat #6 
+HoleHeart: folds 
+PiS.AA: folds 
+Uncalled bet ($0.15) returned to ceppo61
+ceppo61 collected $0.20 from pot
+ceppo61: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ceppo61 (big blind) collected ($0.20)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: HoleHeart (button) folded before Flop (didn't bet)
+Seat 9: PiS.AA (small blind) folded before Flop
+
+
+
+PokerStars Game #19922879506:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:15:16 (ET)
+Table 'Atala IV' 9-max Seat #9 is the button
+Seat 1: ceppo61 ($6.85 in chips) 
+Seat 2: marlin250 ($24.85 in chips) 
+Seat 3: kayeekuan ($14.10 in chips) 
+Seat 4: AcedePique ($27.55 in chips) 
+Seat 5: Alameda22 ($22.50 in chips) 
+Seat 6: On L9 Cay9 ($5 in chips) 
+Seat 7: tiburonbig ($19.65 in chips) 
+Seat 8: HoleHeart ($4.20 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+ceppo61: posts small blind $0.10
+marlin250: posts big blind $0.25
+On L9 Cay9: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 3c]
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+On L9 Cay9: checks 
+tiburonbig: folds 
+HoleHeart: calls $0.25
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: checks 
+*** FLOP *** [8d 7s 4s]
+marlin250: checks 
+On L9 Cay9: checks 
+HoleHeart: checks 
+*** TURN *** [8d 7s 4s] [9c]
+marlin250: checks 
+On L9 Cay9: bets $0.25
+HoleHeart: calls $0.25
+marlin250: folds 
+*** RIVER *** [8d 7s 4s 9c] [8c]
+On L9 Cay9: bets $0.50
+HoleHeart: calls $0.50
+*** SHOW DOWN ***
+On L9 Cay9: shows [Th 4h] (two pair, Eights and Fours)
+HoleHeart: shows [As 4c] (two pair, Eights and Fours - Ace kicker)
+HoleHeart collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [8d 7s 4s 9c 8c]
+Seat 1: ceppo61 (small blind) folded before Flop
+Seat 2: marlin250 (big blind) folded on the Turn
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: On L9 Cay9 showed [Th 4h] and lost with two pair, Eights and Fours
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: HoleHeart showed [As 4c] and won ($2.25) with two pair, Eights and Fours
+Seat 9: PiS.AA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922910117:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:16:39 (ET)
+Table 'Atala IV' 9-max Seat #1 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: marlin250 ($24.60 in chips) 
+Seat 3: kayeekuan ($14.10 in chips) 
+Seat 4: AcedePique ($27.55 in chips) 
+Seat 5: Alameda22 ($22.50 in chips) 
+Seat 6: On L9 Cay9 ($4 in chips) 
+Seat 7: tiburonbig ($19.65 in chips) 
+Seat 8: HoleHeart ($5.45 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+marlin250: posts small blind $0.10
+kayeekuan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Qd]
+AcedePique: folds 
+Alameda22: raises $0.50 to $0.75
+On L9 Cay9: folds 
+tiburonbig: folds 
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+kayeekuan: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ceppo61 (button) folded before Flop (didn't bet)
+Seat 2: marlin250 (small blind) folded before Flop
+Seat 3: kayeekuan (big blind) folded before Flop
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 collected ($0.60)
+Seat 6: On L9 Cay9 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922929918:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:17:33 (ET)
+Table 'Atala IV' 9-max Seat #2 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: marlin250 ($24.50 in chips) 
+Seat 3: kayeekuan ($13.85 in chips) 
+Seat 4: AcedePique ($27.55 in chips) 
+Seat 5: Alameda22 ($22.85 in chips) 
+Seat 6: On L9 Cay9 ($4 in chips) 
+Seat 7: tiburonbig ($19.65 in chips) 
+Seat 8: HoleHeart ($5.45 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+kayeekuan: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Ac]
+Alameda22: raises $0.50 to $0.75
+On L9 Cay9: folds 
+tiburonbig: calls $0.75
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: calls $0.75
+kayeekuan: folds 
+AcedePique: folds 
+*** FLOP *** [Jd As Tc]
+Alameda22: bets $1.75
+tiburonbig: folds 
+marlin250: folds 
+Uncalled bet ($1.75) returned to Alameda22
+Alameda22 collected $2.50 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Jd As Tc]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 (button) folded on the Flop
+Seat 3: kayeekuan (small blind) folded before Flop
+Seat 4: AcedePique (big blind) folded before Flop
+Seat 5: Alameda22 collected ($2.50)
+Seat 6: On L9 Cay9 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded on the Flop
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922952277:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:18:34 (ET)
+Table 'Atala IV' 9-max Seat #3 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: marlin250 ($23.75 in chips) 
+Seat 3: kayeekuan ($13.75 in chips) 
+Seat 4: AcedePique ($27.30 in chips) 
+Seat 5: Alameda22 ($24.60 in chips) 
+Seat 6: On L9 Cay9 ($4 in chips) 
+Seat 7: tiburonbig ($18.90 in chips) 
+Seat 8: HoleHeart ($5.45 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+AcedePique: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 9c]
+On L9 Cay9: folds 
+tiburonbig: raises $1 to $1.25
+HoleHeart: calls $1.25
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+kayeekuan: folds 
+AcedePique: calls $1.15
+Alameda22: folds 
+*** FLOP *** [7s 9h 3c]
+AcedePique: checks 
+tiburonbig: bets $1.25
+HoleHeart: folds 
+AcedePique: calls $1.25
+*** TURN *** [7s 9h 3c] [2d]
+AcedePique: checks 
+tiburonbig: bets $3.50
+AcedePique: folds 
+Uncalled bet ($3.50) returned to tiburonbig
+tiburonbig collected $6.20 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.30 
+Board [7s 9h 3c 2d]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: kayeekuan (button) folded before Flop (didn't bet)
+Seat 4: AcedePique (small blind) folded on the Turn
+Seat 5: Alameda22 (big blind) folded before Flop
+Seat 6: On L9 Cay9 folded before Flop (didn't bet)
+Seat 7: tiburonbig collected ($6.20)
+Seat 8: HoleHeart folded on the Flop
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922984625:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:20:02 (ET)
+Table 'Atala IV' 9-max Seat #4 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: marlin250 ($23.75 in chips) 
+Seat 3: kayeekuan ($13.75 in chips) 
+Seat 4: AcedePique ($24.80 in chips) 
+Seat 5: Alameda22 ($24.35 in chips) 
+Seat 6: On L9 Cay9 ($4 in chips) 
+Seat 7: tiburonbig ($22.60 in chips) 
+Seat 8: HoleHeart ($4.20 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+Alameda22: posts small blind $0.10
+On L9 Cay9: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 4h]
+tiburonbig: calls $0.25
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+On L9 Cay9: checks 
+*** FLOP *** [7c Th 9d]
+On L9 Cay9: bets $0.50
+tiburonbig: folds 
+Uncalled bet ($0.50) returned to On L9 Cay9
+On L9 Cay9 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7c Th 9d]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 6: On L9 Cay9 (big blind) collected ($0.60)
+Seat 7: tiburonbig folded on the Flop
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923013174:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:21:20 (ET)
+Table 'Atala IV' 9-max Seat #5 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: marlin250 ($23.75 in chips) 
+Seat 3: kayeekuan ($13.75 in chips) 
+Seat 4: AcedePique ($24.80 in chips) 
+Seat 5: Alameda22 ($24.25 in chips) 
+Seat 6: On L9 Cay9 ($4.35 in chips) 
+Seat 7: tiburonbig ($22.35 in chips) 
+Seat 8: HoleHeart ($4.20 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+On L9 Cay9: posts small blind $0.10
+tiburonbig: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Kh]
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: raises $0.50 to $0.75
+On L9 Cay9: folds 
+tiburonbig: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) collected ($0.60)
+Seat 6: On L9 Cay9 (small blind) folded before Flop
+Seat 7: tiburonbig (big blind) folded before Flop
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923033302:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:22:15 (ET)
+Table 'Atala IV' 9-max Seat #6 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: marlin250 ($23.75 in chips) 
+Seat 3: kayeekuan ($13.75 in chips) 
+Seat 4: AcedePique ($24.80 in chips) 
+Seat 5: Alameda22 ($24.60 in chips) 
+Seat 6: On L9 Cay9 ($4.25 in chips) 
+Seat 7: tiburonbig ($22.10 in chips) 
+Seat 8: HoleHeart ($4.20 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+tiburonbig: posts small blind $0.10
+HoleHeart: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Qc]
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: raises $0.50 to $0.75
+On L9 Cay9: folds 
+tiburonbig: folds 
+HoleHeart: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 collected ($0.60)
+Seat 6: On L9 Cay9 (button) folded before Flop (didn't bet)
+Seat 7: tiburonbig (small blind) folded before Flop
+Seat 8: HoleHeart (big blind) folded before Flop
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923049269:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:22:59 (ET)
+Table 'Atala IV' 9-max Seat #7 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: marlin250 ($23.75 in chips) 
+Seat 3: kayeekuan ($13.75 in chips) 
+Seat 4: AcedePique ($24.80 in chips) 
+Seat 5: Alameda22 ($24.95 in chips) 
+Seat 6: On L9 Cay9 ($4.25 in chips) 
+Seat 7: tiburonbig ($22 in chips) 
+Seat 8: HoleHeart ($3.95 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+HoleHeart: posts small blind $0.10
+PiS.AA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 8s]
+ceppo61: folds 
+marlin250: folds 
+kayeekuan: folds 
+AcedePique: folds 
+Alameda22: folds 
+On L9 Cay9: folds 
+tiburonbig: raises $0.25 to $0.50
+HoleHeart: folds 
+PiS.AA: folds 
+Uncalled bet ($0.25) returned to tiburonbig
+tiburonbig collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: On L9 Cay9 folded before Flop (didn't bet)
+Seat 7: tiburonbig (button) collected ($0.60)
+Seat 8: HoleHeart (small blind) folded before Flop
+Seat 9: PiS.AA (big blind) folded before Flop
+
+
+
+PokerStars Game #19923066365:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:23:46 (ET)
+Table 'Atala IV' 9-max Seat #8 is the button
+Seat 1: ceppo61 ($6.75 in chips) 
+Seat 2: marlin250 ($23.75 in chips) 
+Seat 3: kayeekuan ($13.75 in chips) 
+Seat 4: AcedePique ($24.80 in chips) 
+Seat 5: Alameda22 ($24.95 in chips) 
+Seat 6: On L9 Cay9 ($4.25 in chips) 
+Seat 7: tiburonbig ($22.35 in chips) 
+Seat 8: HoleHeart ($3.85 in chips) 
+Seat 9: PiS.AA ($24.75 in chips) 
+PiS.AA: posts small blind $0.10
+ceppo61: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Tc]
+marlin250: folds 
+kayeekuan: folds 
+AcedePique: raises $0.50 to $0.75
+Alameda22: folds 
+On L9 Cay9: folds 
+tiburonbig: folds 
+HoleHeart: calls $0.75
+PiS.AA: folds 
+ceppo61: calls $0.50
+*** FLOP *** [5d 7h 5h]
+ceppo61: checks 
+AcedePique: bets $0.75
+HoleHeart: calls $0.75
+ceppo61: folds 
+*** TURN *** [5d 7h 5h] [Ad]
+AcedePique: checks 
+HoleHeart: checks 
+*** RIVER *** [5d 7h 5h Ad] [2c]
+AcedePique: bets $0.50
+HoleHeart: folds 
+Uncalled bet ($0.50) returned to AcedePique
+AcedePique collected $3.70 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [5d 7h 5h Ad 2c]
+Seat 1: ceppo61 (big blind) folded on the Flop
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique collected ($3.70)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: On L9 Cay9 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: HoleHeart (button) folded on the River
+Seat 9: PiS.AA (small blind) folded before Flop
+
+
+
+PokerStars Game #19923099996:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:25:18 (ET)
+Table 'Atala IV' 9-max Seat #9 is the button
+Seat 1: ceppo61 ($6 in chips) 
+Seat 2: marlin250 ($23.75 in chips) 
+Seat 3: kayeekuan ($13.75 in chips) 
+Seat 4: AcedePique ($27 in chips) 
+Seat 5: Alameda22 ($24.95 in chips) 
+Seat 6: On L9 Cay9 ($4.25 in chips) 
+Seat 7: tiburonbig ($22.35 in chips) 
+Seat 8: HoleHeart ($2.35 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+ceppo61: posts small blind $0.10
+marlin250: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Qh]
+kayeekuan: folds 
+AcedePique: folds 
+kayeekuan leaves the table
+Alameda22: raises $0.50 to $0.75
+On L9 Cay9: folds 
+tiburonbig: folds 
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ceppo61 (small blind) folded before Flop
+Seat 2: marlin250 (big blind) folded before Flop
+Seat 3: kayeekuan folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 collected ($0.60)
+Seat 6: On L9 Cay9 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923116694:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:26:05 (ET)
+Table 'Atala IV' 9-max Seat #1 is the button
+Seat 1: ceppo61 ($5.90 in chips) 
+Seat 2: marlin250 ($23.50 in chips) 
+Seat 4: AcedePique ($27 in chips) 
+Seat 5: Alameda22 ($25.30 in chips) 
+Seat 6: On L9 Cay9 ($4.25 in chips) 
+Seat 7: tiburonbig ($22.35 in chips) 
+Seat 8: HoleHeart ($2.35 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+marlin250: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Kc]
+Alameda22: folds 
+On L9 Cay9: folds 
+tiburonbig: calls $0.25
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: calls $0.15
+SNU83 joins the table at seat #3 
+AcedePique: checks 
+*** FLOP *** [3s 3h 8h]
+marlin250: checks 
+AcedePique: checks 
+tiburonbig: checks 
+*** TURN *** [3s 3h 8h] [Ac]
+marlin250: checks 
+AcedePique: checks 
+tiburonbig: bets $0.50
+marlin250: folds 
+AcedePique: folds 
+Uncalled bet ($0.50) returned to tiburonbig
+tiburonbig collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [3s 3h 8h Ac]
+Seat 1: ceppo61 (button) folded before Flop (didn't bet)
+Seat 2: marlin250 (small blind) folded on the Turn
+Seat 4: AcedePique (big blind) folded on the Turn
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: On L9 Cay9 folded before Flop (didn't bet)
+Seat 7: tiburonbig collected ($0.75)
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923145391:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:27:22 (ET)
+Table 'Atala IV' 9-max Seat #2 is the button
+Seat 1: ceppo61 ($5.90 in chips) 
+Seat 2: marlin250 ($23.25 in chips) 
+Seat 4: AcedePique ($26.75 in chips) 
+Seat 5: Alameda22 ($25.30 in chips) 
+Seat 6: On L9 Cay9 ($4.25 in chips) 
+Seat 7: tiburonbig ($22.85 in chips) 
+Seat 8: HoleHeart ($2.35 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+SNU83 will be allowed to play after the button
+AcedePique: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 3c]
+On L9 Cay9: folds 
+tiburonbig: folds 
+HoleHeart: calls $0.25
+PiS.AA: folds 
+ceppo61: raises $0.75 to $1
+marlin250: folds 
+AcedePique: folds 
+Alameda22: folds 
+HoleHeart: calls $0.75
+*** FLOP *** [5s 7c 2h]
+HoleHeart: checks 
+ceppo61: bets $1.50
+HoleHeart: calls $1.35 and is all-in
+Uncalled bet ($0.15) returned to ceppo61
+*** TURN *** [5s 7c 2h] [8c]
+*** RIVER *** [5s 7c 2h 8c] [8d]
+*** SHOW DOWN ***
+HoleHeart: shows [7h 8h] (a full house, Eights full of Sevens)
+ceppo61: shows [6h 6c] (two pair, Eights and Sixes)
+HoleHeart collected $4.85 from pot
+*** SUMMARY ***
+Total pot $5.05 | Rake $0.20 
+Board [5s 7c 2h 8c 8d]
+Seat 1: ceppo61 showed [6h 6c] and lost with two pair, Eights and Sixes
+Seat 2: marlin250 (button) folded before Flop (didn't bet)
+Seat 4: AcedePique (small blind) folded before Flop
+Seat 5: Alameda22 (big blind) folded before Flop
+Seat 6: On L9 Cay9 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: HoleHeart showed [7h 8h] and won ($4.85) with a full house, Eights full of Sevens
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923172942:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:28:38 (ET)
+Table 'Atala IV' 9-max Seat #4 is the button
+Seat 1: ceppo61 ($3.55 in chips) 
+Seat 2: marlin250 ($23.25 in chips) 
+Seat 3: SNU83 ($15 in chips) 
+Seat 4: AcedePique ($26.65 in chips) 
+Seat 5: Alameda22 ($25.05 in chips) 
+Seat 6: On L9 Cay9 ($4.25 in chips) 
+Seat 7: tiburonbig ($22.85 in chips) 
+Seat 8: HoleHeart ($4.85 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+Alameda22: posts small blind $0.10
+On L9 Cay9: posts big blind $0.25
+SNU83: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Jc]
+tiburonbig: calls $0.25
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+SNU83: raises $0.25 to $0.50
+AcedePique: raises $0.75 to $1.25
+Alameda22: folds 
+On L9 Cay9: folds 
+tiburonbig: folds 
+SNU83: calls $0.75
+*** FLOP *** [4c 5s Th]
+SNU83: checks 
+AcedePique: bets $1.25
+SNU83: calls $1.25
+*** TURN *** [4c 5s Th] [5d]
+SNU83: bets $2.25
+AcedePique: folds 
+Uncalled bet ($2.25) returned to SNU83
+SNU83 collected $5.35 from pot
+SNU83: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.25 
+Board [4c 5s Th 5d]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: SNU83 collected ($5.35)
+Seat 4: AcedePique (button) folded on the Turn
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 6: On L9 Cay9 (big blind) folded before Flop
+Seat 7: tiburonbig folded before Flop
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923204138:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:30:03 (ET)
+Table 'Atala IV' 9-max Seat #5 is the button
+Seat 1: ceppo61 ($3.55 in chips) 
+Seat 2: marlin250 ($23.25 in chips) 
+Seat 3: SNU83 ($17.85 in chips) 
+Seat 4: AcedePique ($24.15 in chips) 
+Seat 5: Alameda22 ($24.95 in chips) 
+Seat 6: On L9 Cay9 ($4 in chips) 
+Seat 7: tiburonbig ($22.60 in chips) 
+Seat 8: HoleHeart ($4.85 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+On L9 Cay9: posts small blind $0.10
+tiburonbig: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 6h]
+HoleHeart: folds 
+PiS.AA: raises $0.50 to $0.75
+ceppo61: folds 
+marlin250: folds 
+SNU83: folds 
+AcedePique: folds 
+Alameda22: folds 
+On L9 Cay9: folds 
+tiburonbig: folds 
+Uncalled bet ($0.50) returned to PiS.AA
+PiS.AA collected $0.60 from pot
+PiS.AA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: SNU83 folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: On L9 Cay9 (small blind) folded before Flop
+Seat 7: tiburonbig (big blind) folded before Flop
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA collected ($0.60)
+
+
+
+PokerStars Game #19923219124:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:30:45 (ET)
+Table 'Atala IV' 9-max Seat #6 is the button
+Seat 1: ceppo61 ($3.55 in chips) 
+Seat 2: marlin250 ($23.25 in chips) 
+Seat 3: SNU83 ($17.85 in chips) 
+Seat 4: AcedePique ($24.15 in chips) 
+Seat 5: Alameda22 ($24.95 in chips) 
+Seat 6: On L9 Cay9 ($3.90 in chips) 
+Seat 7: tiburonbig ($22.35 in chips) 
+Seat 8: HoleHeart ($4.85 in chips) 
+Seat 9: PiS.AA ($25.35 in chips) 
+tiburonbig: posts small blind $0.10
+HoleHeart: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Jc]
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+SNU83: folds 
+AcedePique: folds 
+Alameda22: folds 
+On L9 Cay9: folds 
+tiburonbig: calls $0.15
+HoleHeart: raises $0.75 to $1
+tiburonbig: calls $0.75
+*** FLOP *** [2s Th Js]
+tiburonbig: checks 
+HoleHeart: bets $1
+tiburonbig: raises $1 to $2
+HoleHeart: calls $1
+*** TURN *** [2s Th Js] [2c]
+tiburonbig: bets $1.50
+HoleHeart: raises $0.35 to $1.85 and is all-in
+tiburonbig: calls $0.35
+*** RIVER *** [2s Th Js 2c] [9d]
+*** SHOW DOWN ***
+tiburonbig: shows [Ks Jh] (two pair, Jacks and Deuces)
+HoleHeart: shows [Qh Qd] (two pair, Queens and Deuces)
+HoleHeart collected $9.25 from pot
+*** SUMMARY ***
+Total pot $9.70 | Rake $0.45 
+Board [2s Th Js 2c 9d]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: SNU83 folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: On L9 Cay9 (button) folded before Flop (didn't bet)
+Seat 7: tiburonbig (small blind) showed [Ks Jh] and lost with two pair, Jacks and Deuces
+Seat 8: HoleHeart (big blind) showed [Qh Qd] and won ($9.25) with two pair, Queens and Deuces
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923256648:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:32:25 (ET)
+Table 'Atala IV' 9-max Seat #7 is the button
+Seat 1: ceppo61 ($3.55 in chips) 
+Seat 2: marlin250 ($23.25 in chips) 
+Seat 3: SNU83 ($17.85 in chips) 
+Seat 4: AcedePique ($25 in chips) 
+Seat 5: Alameda22 ($24.95 in chips) 
+Seat 6: On L9 Cay9 ($3.90 in chips) 
+Seat 7: tiburonbig ($17.50 in chips) 
+Seat 8: HoleHeart ($9.25 in chips) 
+Seat 9: PiS.AA ($25.35 in chips) 
+HoleHeart: posts small blind $0.10
+PiS.AA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Qc]
+ceppo61: folds 
+marlin250: folds 
+SNU83: folds 
+AcedePique: folds 
+Alameda22: raises $0.50 to $0.75
+On L9 Cay9: folds 
+tiburonbig: calls $0.75
+HoleHeart: folds 
+PiS.AA: folds 
+*** FLOP *** [7d 7h As]
+Alameda22: bets $1
+tiburonbig: calls $1
+*** TURN *** [7d 7h As] [Td]
+Alameda22: checks 
+tiburonbig: checks 
+*** RIVER *** [7d 7h As Td] [Jc]
+Alameda22: checks 
+tiburonbig: bets $0.50
+Alameda22: calls $0.50
+*** SHOW DOWN ***
+tiburonbig: shows [Ac 4c] (two pair, Aces and Sevens)
+Alameda22: mucks hand 
+tiburonbig collected $4.65 from pot
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [7d 7h As Td Jc]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: SNU83 folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 mucked [Qs Qc]
+Seat 6: On L9 Cay9 folded before Flop (didn't bet)
+Seat 7: tiburonbig (button) showed [Ac 4c] and won ($4.65) with two pair, Aces and Sevens
+Seat 8: HoleHeart (small blind) folded before Flop
+Seat 9: PiS.AA (big blind) folded before Flop
+
+
+
+PokerStars Game #19923308113:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:34:44 (ET)
+Table 'Atala IV' 9-max Seat #8 is the button
+Seat 1: ceppo61 ($3.55 in chips) 
+Seat 2: marlin250 ($23.25 in chips) 
+Seat 3: SNU83 ($17.85 in chips) 
+Seat 4: AcedePique ($25 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: On L9 Cay9 ($3.90 in chips) 
+Seat 7: tiburonbig ($19.90 in chips) 
+Seat 8: HoleHeart ($9.15 in chips) 
+Seat 9: PiS.AA ($25.10 in chips) 
+PiS.AA: posts small blind $0.10
+ceppo61: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 7d]
+marlin250: folds 
+SNU83: folds 
+AcedePique: folds 
+Alameda22: folds 
+On L9 Cay9: calls $0.25
+tiburonbig: folds 
+HoleHeart: calls $0.25
+PiS.AA: folds 
+ceppo61: checks 
+*** FLOP *** [Jd Jc Kh]
+ceppo61: bets $3.30 and is all-in
+On L9 Cay9: folds 
+HoleHeart: folds 
+Uncalled bet ($3.30) returned to ceppo61
+ceppo61 collected $0.85 from pot
+ceppo61: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Jd Jc Kh]
+Seat 1: ceppo61 (big blind) collected ($0.85)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: SNU83 folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: On L9 Cay9 folded on the Flop
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: HoleHeart (button) folded on the Flop
+Seat 9: PiS.AA (small blind) folded before Flop
+
+
+
+PokerStars Game #19923331652:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:35:48 (ET)
+Table 'Atala IV' 9-max Seat #9 is the button
+Seat 1: ceppo61 ($4.15 in chips) 
+Seat 2: marlin250 ($23.25 in chips) 
+Seat 3: SNU83 ($17.85 in chips) 
+Seat 4: AcedePique ($25 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: On L9 Cay9 ($3.65 in chips) 
+Seat 7: tiburonbig ($19.90 in chips) 
+Seat 8: HoleHeart ($8.90 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+ceppo61: posts small blind $0.10
+marlin250: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 7d]
+SNU83: folds 
+AcedePique: raises $0.75 to $1
+Alameda22: folds 
+On L9 Cay9: folds 
+tiburonbig: folds 
+HoleHeart: calls $1
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+*** FLOP *** [7c 6h Jd]
+AcedePique: bets $2
+HoleHeart: folds 
+Uncalled bet ($2) returned to AcedePique
+AcedePique collected $2.25 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [7c 6h Jd]
+Seat 1: ceppo61 (small blind) folded before Flop
+Seat 2: marlin250 (big blind) folded before Flop
+Seat 3: SNU83 folded before Flop (didn't bet)
+Seat 4: AcedePique collected ($2.25)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: On L9 Cay9 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: HoleHeart folded on the Flop
+Seat 9: PiS.AA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923355137:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:36:52 (ET)
+Table 'Atala IV' 9-max Seat #1 is the button
+Seat 1: ceppo61 ($4.05 in chips) 
+Seat 2: marlin250 ($23 in chips) 
+Seat 3: SNU83 ($17.85 in chips) 
+Seat 4: AcedePique ($26.25 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: On L9 Cay9 ($3.65 in chips) 
+Seat 7: tiburonbig ($19.90 in chips) 
+Seat 8: HoleHeart ($7.90 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+marlin250: posts small blind $0.10
+SNU83: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Kd]
+AcedePique: folds 
+Alameda22: folds 
+On L9 Cay9: raises $1 to $1.25
+tiburonbig: raises $1.75 to $3
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+SNU83: folds 
+On L9 Cay9: calls $1.75
+*** FLOP *** [Th 5s 2d]
+On L9 Cay9: bets $0.65 and is all-in
+tiburonbig: calls $0.65
+*** TURN *** [Th 5s 2d] [7s]
+*** RIVER *** [Th 5s 2d 7s] [Kc]
+*** SHOW DOWN ***
+On L9 Cay9: shows [Ah Ks] (a pair of Kings)
+tiburonbig: mucks hand 
+On L9 Cay9 collected $7.30 from pot
+*** SUMMARY ***
+Total pot $7.65 | Rake $0.35 
+Board [Th 5s 2d 7s Kc]
+Seat 1: ceppo61 (button) folded before Flop (didn't bet)
+Seat 2: marlin250 (small blind) folded before Flop
+Seat 3: SNU83 (big blind) folded before Flop
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: On L9 Cay9 showed [Ah Ks] and won ($7.30) with a pair of Kings
+Seat 7: tiburonbig mucked [Qd Qh]
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923380727:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:38:02 (ET)
+Table 'Atala IV' 9-max Seat #2 is the button
+Seat 1: ceppo61 ($4.05 in chips) 
+Seat 2: marlin250 ($22.90 in chips) 
+Seat 3: SNU83 ($17.60 in chips) 
+Seat 4: AcedePique ($26.25 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: On L9 Cay9 ($7.30 in chips) 
+Seat 7: tiburonbig ($16.25 in chips) 
+Seat 8: HoleHeart ($7.90 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+SNU83: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Ks]
+Alameda22: folds 
+On L9 Cay9: folds 
+tiburonbig: folds 
+HoleHeart: calls $0.25
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: calls $0.25
+SNU83: calls $0.15
+AcedePique: checks 
+*** FLOP *** [7d 7h 7c]
+SNU83: checks 
+AcedePique: checks 
+HoleHeart: checks 
+marlin250: checks 
+*** TURN *** [7d 7h 7c] [5c]
+SNU83: bets $0.25
+AcedePique: calls $0.25
+HoleHeart: calls $0.25
+marlin250: calls $0.25
+*** RIVER *** [7d 7h 7c 5c] [Ah]
+SNU83: checks 
+AcedePique: checks 
+HoleHeart: checks 
+marlin250: checks 
+*** SHOW DOWN ***
+SNU83: shows [Jd Qh] (three of a kind, Sevens)
+AcedePique: shows [Qc 2c] (three of a kind, Sevens)
+HoleHeart: shows [9c Kc] (three of a kind, Sevens - Ace+King kicker)
+marlin250: mucks hand 
+HoleHeart collected $1.95 from pot
+tiburonbig said, "k7"
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [7d 7h 7c 5c Ah]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 (button) mucked [Th Qd]
+Seat 3: SNU83 (small blind) showed [Jd Qh] and lost with three of a kind, Sevens
+Seat 4: AcedePique (big blind) showed [Qc 2c] and lost with three of a kind, Sevens
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: On L9 Cay9 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: HoleHeart showed [9c Kc] and won ($1.95) with three of a kind, Sevens
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923411297:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:39:26 (ET)
+Table 'Atala IV' 9-max Seat #3 is the button
+Seat 1: ceppo61 ($4.05 in chips) 
+Seat 2: marlin250 ($22.40 in chips) 
+Seat 3: SNU83 ($17.10 in chips) 
+Seat 4: AcedePique ($25.75 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: On L9 Cay9 ($7.30 in chips) 
+Seat 7: tiburonbig ($16.25 in chips) 
+Seat 8: HoleHeart ($9.35 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+AcedePique: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 8c]
+On L9 Cay9: folds 
+On L9 Cay9 leaves the table
+tiburonbig: calls $0.25
+HoleHeart: calls $0.25
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+SNU83: calls $0.25
+jglsd1 joins the table at seat #6 
+AcedePique: calls $0.15
+Alameda22: checks 
+*** FLOP *** [4c 2c 6h]
+AcedePique: checks 
+Alameda22: checks 
+tiburonbig: checks 
+HoleHeart: bets $0.75
+SNU83: calls $0.75
+AcedePique: folds 
+Alameda22: folds 
+tiburonbig: calls $0.75
+*** TURN *** [4c 2c 6h] [Ac]
+tiburonbig: checks 
+HoleHeart: checks 
+SNU83: bets $1.50
+tiburonbig: folds 
+HoleHeart: calls $1.50
+*** RIVER *** [4c 2c 6h Ac] [Qs]
+HoleHeart: checks 
+SNU83: bets $1.50
+HoleHeart: calls $1.50
+*** SHOW DOWN ***
+SNU83: shows [6s 6d] (three of a kind, Sixes)
+HoleHeart: mucks hand 
+SNU83 collected $9.05 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.45 
+Board [4c 2c 6h Ac Qs]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: SNU83 (button) showed [6s 6d] and won ($9.05) with three of a kind, Sixes
+Seat 4: AcedePique (small blind) folded on the Flop
+Seat 5: Alameda22 (big blind) folded on the Flop
+Seat 6: On L9 Cay9 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded on the Turn
+Seat 8: HoleHeart mucked [8s 8d]
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923456033:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:41:25 (ET)
+Table 'Atala IV' 9-max Seat #4 is the button
+Seat 1: ceppo61 ($4.05 in chips) 
+Seat 2: marlin250 ($22.40 in chips) 
+Seat 3: SNU83 ($22.15 in chips) 
+Seat 4: AcedePique ($25.50 in chips) 
+Seat 5: Alameda22 ($22.45 in chips) 
+Seat 7: tiburonbig ($15.25 in chips) 
+Seat 8: HoleHeart ($5.35 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+Alameda22: posts small blind $0.10
+jglsd1 is disconnected 
+jglsd1 has timed out while disconnected
+jglsd1: is sitting out 
+tiburonbig: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 8c]
+jglsd1 is connected 
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+jglsd1 has returned
+marlin250: folds 
+SNU83: folds 
+AcedePique: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to tiburonbig
+tiburonbig collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: SNU83 folded before Flop (didn't bet)
+Seat 4: AcedePique (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 7: tiburonbig (big blind) collected ($0.20)
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923482839:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:42:37 (ET)
+Table 'Atala IV' 9-max Seat #5 is the button
+Seat 1: ceppo61 ($4.05 in chips) 
+Seat 2: marlin250 ($22.40 in chips) 
+Seat 3: SNU83 ($22.15 in chips) 
+Seat 4: AcedePique ($25.50 in chips) 
+Seat 5: Alameda22 ($22.35 in chips) 
+Seat 7: tiburonbig ($15.35 in chips) 
+Seat 8: HoleHeart ($5.35 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+jglsd1 will be allowed to play after the button
+tiburonbig: posts small blind $0.10
+HoleHeart: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Js]
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+SNU83: folds 
+jglsd1 is connected 
+AcedePique: folds 
+Alameda22: raises $0.50 to $0.75
+tiburonbig: folds 
+HoleHeart: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: SNU83 folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) collected ($0.60)
+Seat 7: tiburonbig (small blind) folded before Flop
+Seat 8: HoleHeart (big blind) folded before Flop
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923502966:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:43:32 (ET)
+Table 'Atala IV' 9-max Seat #7 is the button
+Seat 1: ceppo61 ($4.05 in chips) 
+Seat 2: marlin250 ($22.40 in chips) 
+Seat 3: SNU83 ($22.15 in chips) 
+Seat 4: AcedePique ($25.50 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 7: tiburonbig ($15.25 in chips) 
+Seat 8: HoleHeart ($5.10 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+HoleHeart: posts small blind $0.10
+PiS.AA: posts big blind $0.25
+jglsd1: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Jh]
+ceppo61: folds 
+marlin250: folds 
+SNU83: calls $0.25
+AcedePique: folds 
+Alameda22: folds 
+tiburonbig: folds 
+HoleHeart: calls $0.15
+PiS.AA: checks 
+*** FLOP *** [Ad Qh 4s]
+HoleHeart: checks 
+PiS.AA: checks 
+SNU83: checks 
+*** TURN *** [Ad Qh 4s] [6d]
+HoleHeart: checks 
+PiS.AA: checks 
+SNU83: bets $0.25
+HoleHeart: folds 
+PiS.AA: folds 
+Uncalled bet ($0.25) returned to SNU83
+SNU83 collected $0.75 from pot
+SNU83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Ad Qh 4s 6d]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: SNU83 collected ($0.75)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig (button) folded before Flop (didn't bet)
+Seat 8: HoleHeart (small blind) folded on the Turn
+Seat 9: PiS.AA (big blind) folded on the Turn
+
+
+
+PokerStars Game #19923536956:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:45:03 (ET)
+Table 'Atala IV' 9-max Seat #8 is the button
+Seat 1: ceppo61 ($4.05 in chips) 
+Seat 2: marlin250 ($22.40 in chips) 
+Seat 3: SNU83 ($22.65 in chips) 
+Seat 4: AcedePique ($25.50 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 7: tiburonbig ($15.25 in chips) 
+Seat 8: HoleHeart ($4.85 in chips) 
+Seat 9: PiS.AA ($24.75 in chips) 
+PiS.AA: posts small blind $0.10
+ceppo61: posts big blind $0.25
+jglsd1: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 2s]
+marlin250: folds 
+SNU83: folds 
+AcedePique: folds 
+Alameda22: folds 
+tiburonbig: folds 
+HoleHeart: calls $0.25
+PiS.AA: folds 
+ceppo61: checks 
+*** FLOP *** [9d 9s Jh]
+ceppo61: checks 
+HoleHeart: checks 
+*** TURN *** [9d 9s Jh] [Th]
+ceppo61: checks 
+HoleHeart: checks 
+*** RIVER *** [9d 9s Jh Th] [Kh]
+ceppo61: bets $1
+HoleHeart: calls $1
+*** SHOW DOWN ***
+ceppo61: shows [Qh 7c] (a straight, Nine to King)
+HoleHeart: mucks hand 
+ceppo61 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [9d 9s Jh Th Kh]
+Seat 1: ceppo61 (big blind) showed [Qh 7c] and won ($2.50) with a straight, Nine to King
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: SNU83 folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: HoleHeart (button) mucked [3c Kc]
+Seat 9: PiS.AA (small blind) folded before Flop
+
+
+
+PokerStars Game #19923558644:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:46:01 (ET)
+Table 'Atala IV' 9-max Seat #9 is the button
+Seat 1: ceppo61 ($5.30 in chips) 
+Seat 2: marlin250 ($22.40 in chips) 
+Seat 3: SNU83 ($22.65 in chips) 
+Seat 4: AcedePique ($25.50 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 7: tiburonbig ($15.25 in chips) 
+Seat 8: HoleHeart ($3.60 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+ceppo61: posts small blind $0.10
+marlin250: posts big blind $0.25
+jglsd1: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 4s]
+SNU83: folds 
+AcedePique: folds 
+Alameda22: folds 
+tiburonbig: folds 
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+Uncalled bet ($0.15) returned to marlin250
+marlin250 collected $0.20 from pot
+SNU83 leaves the table
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ceppo61 (small blind) folded before Flop
+Seat 2: marlin250 (big blind) collected ($0.20)
+Seat 3: SNU83 folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923569652:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:46:30 (ET)
+Table 'Atala IV' 9-max Seat #1 is the button
+Seat 1: ceppo61 ($5.20 in chips) 
+Seat 2: marlin250 ($22.50 in chips) 
+Seat 4: AcedePique ($25.50 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 7: tiburonbig ($15.25 in chips) 
+Seat 8: HoleHeart ($3.60 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+marlin250: posts small blind $0.10
+AcedePique: posts big blind $0.25
+jglsd1: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 4d]
+Alameda22: folds 
+tiburonbig: calls $0.25
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: calls $0.15
+AcedePique: checks 
+*** FLOP *** [Kd 3c 7h]
+marlin250: checks 
+AcedePique: bets $0.75
+tiburonbig: folds 
+marlin250: folds 
+Uncalled bet ($0.75) returned to AcedePique
+AcedePique collected $0.75 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Kd 3c 7h]
+Seat 1: ceppo61 (button) folded before Flop (didn't bet)
+Seat 2: marlin250 (small blind) folded on the Flop
+Seat 4: AcedePique (big blind) collected ($0.75)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 7: tiburonbig folded on the Flop
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923589735:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:47:24 (ET)
+Table 'Atala IV' 9-max Seat #2 is the button
+Seat 1: ceppo61 ($5.20 in chips) 
+Seat 2: marlin250 ($22.25 in chips) 
+Seat 4: AcedePique ($26 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 7: tiburonbig ($15 in chips) 
+Seat 8: HoleHeart ($3.60 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+AcedePique: posts small blind $0.10
+Alameda22: posts big blind $0.25
+jglsd1: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 2h]
+tiburonbig: folds 
+HoleHeart: calls $0.25
+PiS.AA: folds 
+ceppo61: raises $0.75 to $1
+OdhinnV joins the table at seat #3 
+marlin250: folds 
+AcedePique: folds 
+Alameda22: folds 
+HoleHeart: calls $0.75
+*** FLOP *** [6d Ah Qh]
+HoleHeart: checks 
+ceppo61: bets $1
+HoleHeart: calls $1
+*** TURN *** [6d Ah Qh] [Ks]
+HoleHeart: checks 
+ceppo61: checks 
+*** RIVER *** [6d Ah Qh Ks] [4h]
+HoleHeart: bets $1.60 and is all-in
+ceppo61: calls $1.60
+*** SHOW DOWN ***
+HoleHeart: shows [Jd Ad] (a pair of Aces)
+ceppo61: mucks hand 
+HoleHeart collected $7.20 from pot
+*** SUMMARY ***
+Total pot $7.55 | Rake $0.35 
+Board [6d Ah Qh Ks 4h]
+Seat 1: ceppo61 mucked [Td Kd]
+Seat 2: marlin250 (button) folded before Flop (didn't bet)
+Seat 4: AcedePique (small blind) folded before Flop
+Seat 5: Alameda22 (big blind) folded before Flop
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: HoleHeart showed [Jd Ad] and won ($7.20) with a pair of Aces
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923611793:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:48:22 (ET)
+Table 'Atala IV' 9-max Seat #4 is the button
+Seat 1: ceppo61 ($1.60 in chips) 
+Seat 2: marlin250 ($22.25 in chips) 
+Seat 3: OdhinnV ($15 in chips) 
+Seat 4: AcedePique ($25.90 in chips) 
+Seat 5: Alameda22 ($22.45 in chips) 
+Seat 6: jglsd1 ($5 in chips) 
+Seat 7: tiburonbig ($15 in chips) 
+Seat 8: HoleHeart ($7.20 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+Alameda22: posts small blind $0.10
+jglsd1: posts big blind $0.25
+OdhinnV: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 3h]
+tiburonbig: folds 
+HoleHeart: folds 
+PiS.AA: raises $1 to $1.25
+ceppo61: folds 
+marlin250: folds 
+OdhinnV: folds 
+AcedePique: folds 
+Alameda22: folds 
+jglsd1: folds 
+Uncalled bet ($1) returned to PiS.AA
+PiS.AA collected $0.85 from pot
+PiS.AA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: OdhinnV folded before Flop
+Seat 4: AcedePique (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 6: jglsd1 (big blind) folded before Flop
+Seat 7: tiburonbig folded before Flop (didn't bet)
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA collected ($0.85)
+
+
+
+PokerStars Game #19923625805:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:49:00 (ET)
+Table 'Atala IV' 9-max Seat #5 is the button
+Seat 1: ceppo61 ($1.60 in chips) 
+Seat 2: marlin250 ($22.25 in chips) 
+Seat 3: OdhinnV ($14.75 in chips) 
+Seat 4: AcedePique ($25.90 in chips) 
+Seat 5: Alameda22 ($22.35 in chips) 
+Seat 6: jglsd1 ($4.75 in chips) 
+Seat 8: HoleHeart ($7.20 in chips) 
+Seat 9: PiS.AA ($25.60 in chips) 
+jglsd1: posts small blind $0.10
+tiburonbig: is sitting out 
+tiburonbig leaves the table
+HoleHeart: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Ks]
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+OdhinnV: folds 
+AcedePique: folds 
+Alameda22: raises $0.50 to $0.75
+jglsd1: folds 
+HoleHeart: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: OdhinnV folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) collected ($0.60)
+Seat 6: jglsd1 (small blind) folded before Flop
+Seat 8: HoleHeart (big blind) folded before Flop
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923639608:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:49:37 (ET)
+Table 'Atala IV' 9-max Seat #6 is the button
+Seat 1: ceppo61 ($1.60 in chips) 
+Seat 2: marlin250 ($22.25 in chips) 
+Seat 3: OdhinnV ($14.75 in chips) 
+Seat 4: AcedePique ($25.90 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: jglsd1 ($4.65 in chips) 
+Seat 8: HoleHeart ($6.95 in chips) 
+Seat 9: PiS.AA ($25.60 in chips) 
+HoleHeart: posts small blind $0.10
+PiS.AA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 6h]
+ceppo61: folds 
+marlin250: folds 
+OdhinnV: folds 
+AcedePique: folds 
+Alameda22: folds 
+jglsd1: folds 
+HoleHeart: folds 
+Uncalled bet ($0.15) returned to PiS.AA
+PiS.AA collected $0.20 from pot
+PiS.AA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: OdhinnV folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: jglsd1 (button) folded before Flop (didn't bet)
+Seat 8: HoleHeart (small blind) folded before Flop
+Seat 9: PiS.AA (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19923650854:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:50:07 (ET)
+Table 'Atala IV' 9-max Seat #8 is the button
+Seat 1: ceppo61 ($1.60 in chips) 
+Seat 2: marlin250 ($22.25 in chips) 
+Seat 3: OdhinnV ($14.75 in chips) 
+Seat 4: AcedePique ($25.90 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: jglsd1 ($4.65 in chips) 
+Seat 8: HoleHeart ($6.85 in chips) 
+Seat 9: PiS.AA ($25.70 in chips) 
+PiS.AA: posts small blind $0.10
+ceppo61: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Td]
+Manitouwadge joins the table at seat #7 
+marlin250: folds 
+OdhinnV: folds 
+AcedePique: folds 
+Alameda22: folds 
+jglsd1: folds 
+HoleHeart: calls $0.25
+PiS.AA: folds 
+ceppo61: checks 
+*** FLOP *** [9s 8d Th]
+ceppo61: checks 
+HoleHeart: checks 
+*** TURN *** [9s 8d Th] [Qs]
+ceppo61: checks 
+HoleHeart: checks 
+*** RIVER *** [9s 8d Th Qs] [Qc]
+ceppo61: checks 
+HoleHeart: checks 
+*** SHOW DOWN ***
+ceppo61: shows [4s 5h] (a pair of Queens)
+HoleHeart: shows [7h Ah] (a pair of Queens - Ace kicker)
+HoleHeart collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9s 8d Th Qs Qc]
+Seat 1: ceppo61 (big blind) showed [4s 5h] and lost with a pair of Queens
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: OdhinnV folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: jglsd1 folded before Flop (didn't bet)
+Seat 8: HoleHeart (button) showed [7h Ah] and won ($0.60) with a pair of Queens
+Seat 9: PiS.AA (small blind) folded before Flop
+
+
+
+PokerStars Game #19923672084:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:51:04 (ET)
+Table 'Atala IV' 9-max Seat #9 is the button
+Seat 1: ceppo61 ($1.35 in chips) 
+Seat 2: marlin250 ($22.25 in chips) 
+Seat 3: OdhinnV ($14.75 in chips) 
+Seat 4: AcedePique ($25.90 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: jglsd1 ($4.65 in chips) 
+Seat 7: Manitouwadge ($25 in chips) 
+Seat 8: HoleHeart ($7.20 in chips) 
+Seat 9: PiS.AA ($25.60 in chips) 
+ceppo61: posts small blind $0.10
+marlin250: posts big blind $0.25
+Manitouwadge: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c As]
+OdhinnV: folds 
+AcedePique: folds 
+Alameda22: folds 
+jglsd1: folds 
+Manitouwadge: checks 
+HoleHeart: folds 
+PiS.AA: folds 
+ceppo61: raises $1.10 to $1.35 and is all-in
+marlin250: folds 
+Manitouwadge: calls $1.10
+*** FLOP *** [7h 2s 5s]
+HoleHeart leaves the table
+*** TURN *** [7h 2s 5s] [Ac]
+*** RIVER *** [7h 2s 5s Ac] [9d]
+*** SHOW DOWN ***
+ceppo61: shows [Tc Kd] (high card Ace)
+Manitouwadge: mucks hand 
+ceppo61 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $2.95 | Rake $0.10 
+Board [7h 2s 5s Ac 9d]
+Seat 1: ceppo61 (small blind) showed [Tc Kd] and won ($2.85) with high card Ace
+Seat 2: marlin250 (big blind) folded before Flop
+Seat 3: OdhinnV folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: jglsd1 folded before Flop (didn't bet)
+Seat 7: Manitouwadge mucked [Qc 8h]
+Seat 8: HoleHeart folded before Flop (didn't bet)
+Seat 9: PiS.AA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923691331:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:51:56 (ET)
+Table 'Atala IV' 9-max Seat #1 is the button
+Seat 1: ceppo61 ($2.85 in chips) 
+Seat 2: marlin250 ($22 in chips) 
+Seat 3: OdhinnV ($14.75 in chips) 
+Seat 4: AcedePique ($25.90 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: jglsd1 ($4.65 in chips) 
+Seat 7: Manitouwadge ($23.65 in chips) 
+Seat 9: PiS.AA ($25.60 in chips) 
+marlin250: posts small blind $0.10
+OdhinnV: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 7d]
+AcedePique: folds 
+Alameda22: folds 
+jglsd1: folds 
+Manitouwadge: folds 
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+Uncalled bet ($0.15) returned to OdhinnV
+OdhinnV collected $0.20 from pot
+OdhinnV: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ceppo61 (button) folded before Flop (didn't bet)
+Seat 2: marlin250 (small blind) folded before Flop
+Seat 3: OdhinnV (big blind) collected ($0.20)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: jglsd1 folded before Flop (didn't bet)
+Seat 7: Manitouwadge folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923701735:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:52:24 (ET)
+Table 'Atala IV' 9-max Seat #2 is the button
+Seat 1: ceppo61 ($2.85 in chips) 
+Seat 2: marlin250 ($21.90 in chips) 
+Seat 3: OdhinnV ($14.85 in chips) 
+Seat 4: AcedePique ($25.90 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: jglsd1 ($4.65 in chips) 
+Seat 7: Manitouwadge ($23.65 in chips) 
+Seat 9: PiS.AA ($25.60 in chips) 
+OdhinnV: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Kd]
+ilovesomuchh joins the table at seat #8 
+Alameda22: folds 
+jglsd1: folds 
+Manitouwadge: folds 
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+OdhinnV: folds 
+Uncalled bet ($0.15) returned to AcedePique
+AcedePique collected $0.20 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 (button) folded before Flop (didn't bet)
+Seat 3: OdhinnV (small blind) folded before Flop
+Seat 4: AcedePique (big blind) collected ($0.20)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: jglsd1 folded before Flop (didn't bet)
+Seat 7: Manitouwadge folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923721641:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:53:17 (ET)
+Table 'Atala IV' 9-max Seat #3 is the button
+Seat 1: ceppo61 ($2.85 in chips) 
+Seat 2: marlin250 ($21.90 in chips) 
+Seat 3: OdhinnV ($14.75 in chips) 
+Seat 4: AcedePique ($26 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: jglsd1 ($4.65 in chips) 
+Seat 7: Manitouwadge ($23.65 in chips) 
+Seat 9: PiS.AA ($25.60 in chips) 
+AcedePique: posts small blind $0.10
+Alameda22: posts big blind $0.25
+ilovesomuchh: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 3s]
+jglsd1: folds 
+Manitouwadge: folds 
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+OdhinnV: raises $0.75 to $1
+AcedePique: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to OdhinnV
+OdhinnV collected $0.60 from pot
+OdhinnV: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: OdhinnV (button) collected ($0.60)
+Seat 4: AcedePique (small blind) folded before Flop
+Seat 5: Alameda22 (big blind) folded before Flop
+Seat 6: jglsd1 folded before Flop (didn't bet)
+Seat 7: Manitouwadge folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923740551:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:54:08 (ET)
+Table 'Atala IV' 9-max Seat #4 is the button
+Seat 1: ceppo61 ($2.85 in chips) 
+Seat 2: marlin250 ($21.90 in chips) 
+Seat 3: OdhinnV ($15.10 in chips) 
+Seat 4: AcedePique ($25.90 in chips) 
+Seat 5: Alameda22 ($22.45 in chips) 
+Seat 6: jglsd1 ($4.65 in chips) 
+Seat 7: Manitouwadge ($23.65 in chips) 
+Seat 9: PiS.AA ($25.60 in chips) 
+Alameda22: posts small blind $0.10
+jglsd1: posts big blind $0.25
+ilovesomuchh: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Ts]
+Manitouwadge: folds 
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+OdhinnV: folds 
+AcedePique: folds 
+Alameda22: raises $8.50 to $8.75
+jglsd1: folds 
+Uncalled bet ($8.50) returned to Alameda22
+Alameda22 collected $0.50 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: OdhinnV folded before Flop (didn't bet)
+Seat 4: AcedePique (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) collected ($0.50)
+Seat 6: jglsd1 (big blind) folded before Flop
+Seat 7: Manitouwadge folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923760195:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:55:01 (ET)
+Table 'Atala IV' 9-max Seat #5 is the button
+Seat 1: ceppo61 ($2.85 in chips) 
+Seat 2: marlin250 ($21.90 in chips) 
+Seat 3: OdhinnV ($15.10 in chips) 
+Seat 4: AcedePique ($25.90 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: jglsd1 ($4.40 in chips) 
+Seat 7: Manitouwadge ($23.65 in chips) 
+Seat 9: PiS.AA ($25.60 in chips) 
+jglsd1: posts small blind $0.10
+Manitouwadge: posts big blind $0.25
+ilovesomuchh: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Jc]
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+AcedePique is disconnected 
+OdhinnV: raises $0.60 to $0.85
+AcedePique is connected 
+AcedePique: raises $0.65 to $1.50
+Alameda22: folds 
+jglsd1: folds 
+Manitouwadge: folds 
+OdhinnV: folds 
+Uncalled bet ($0.65) returned to AcedePique
+AcedePique collected $2.05 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0 
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: OdhinnV folded before Flop
+Seat 4: AcedePique collected ($2.05)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: jglsd1 (small blind) folded before Flop
+Seat 7: Manitouwadge (big blind) folded before Flop
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923800099:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:56:49 (ET)
+Table 'Atala IV' 9-max Seat #6 is the button
+Seat 1: ceppo61 ($2.85 in chips) 
+Seat 2: marlin250 ($21.90 in chips) 
+Seat 3: OdhinnV ($14.25 in chips) 
+Seat 4: AcedePique ($27.10 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: jglsd1 ($4.30 in chips) 
+Seat 7: Manitouwadge ($23.40 in chips) 
+Seat 8: ilovesomuchh ($25 in chips) 
+Seat 9: PiS.AA ($25.60 in chips) 
+Manitouwadge: posts small blind $0.10
+ilovesomuchh: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 3h]
+PiS.AA: folds 
+ceppo61: folds 
+marlin250: folds 
+OdhinnV: folds 
+AcedePique: folds 
+Alameda22: folds 
+jglsd1: folds 
+Manitouwadge: raises $0.50 to $0.75
+ilovesomuchh: calls $0.50
+*** FLOP *** [Kh Ks 6d]
+Manitouwadge: bets $0.75
+ilovesomuchh: calls $0.75
+*** TURN *** [Kh Ks 6d] [6h]
+Manitouwadge: checks 
+ilovesomuchh: bets $2
+Manitouwadge: raises $2 to $4
+ilovesomuchh: folds 
+Uncalled bet ($2) returned to Manitouwadge
+Manitouwadge collected $6.70 from pot
+Manitouwadge: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.30 
+Board [Kh Ks 6d 6h]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: OdhinnV folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: jglsd1 (button) folded before Flop (didn't bet)
+Seat 7: Manitouwadge (small blind) collected ($6.70)
+Seat 8: ilovesomuchh (big blind) folded on the Turn
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923832562:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:58:17 (ET)
+Table 'Atala IV' 9-max Seat #7 is the button
+Seat 1: ceppo61 ($2.85 in chips) 
+Seat 2: marlin250 ($21.90 in chips) 
+Seat 3: OdhinnV ($14.25 in chips) 
+Seat 4: AcedePique ($27.10 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: jglsd1 ($4.30 in chips) 
+Seat 7: Manitouwadge ($26.60 in chips) 
+Seat 8: ilovesomuchh ($25 in chips) 
+Seat 9: PiS.AA ($25.60 in chips) 
+ilovesomuchh: posts small blind $0.10
+PiS.AA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Ac]
+ceppo61: folds 
+marlin250: folds 
+OdhinnV: folds 
+AcedePique: folds 
+Alameda22: folds 
+jglsd1: folds 
+Manitouwadge: calls $0.25
+ilovesomuchh: calls $0.15
+PiS.AA: checks 
+*** FLOP *** [Qh 8c 7s]
+ilovesomuchh: checks 
+PiS.AA: checks 
+Manitouwadge: checks 
+*** TURN *** [Qh 8c 7s] [3h]
+ilovesomuchh: checks 
+PiS.AA: checks 
+Manitouwadge: bets $0.25
+ilovesomuchh: folds 
+PiS.AA: folds 
+Uncalled bet ($0.25) returned to Manitouwadge
+Manitouwadge collected $0.75 from pot
+Manitouwadge: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Qh 8c 7s 3h]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 2: marlin250 folded before Flop (didn't bet)
+Seat 3: OdhinnV folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: jglsd1 folded before Flop (didn't bet)
+Seat 7: Manitouwadge (button) collected ($0.75)
+Seat 8: ilovesomuchh (small blind) folded on the Turn
+Seat 9: PiS.AA (big blind) folded on the Turn
+
+
+
+PokerStars Game #19923868009:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 19:59:54 (ET)
+Table 'Atala IV' 9-max Seat #8 is the button
+Seat 1: ceppo61 ($2.85 in chips) 
+Seat 2: marlin250 ($21.90 in chips) 
+Seat 3: OdhinnV ($14.25 in chips) 
+Seat 4: AcedePique ($27.10 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: jglsd1 ($4.30 in chips) 
+Seat 7: Manitouwadge ($27.10 in chips) 
+Seat 8: ilovesomuchh ($24.75 in chips) 
+Seat 9: PiS.AA ($25.35 in chips) 
+PiS.AA: posts small blind $0.10
+ceppo61: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Ts]
+marlin250: calls $0.25
+OdhinnV: folds 
+AcedePique: folds 
+Alameda22: folds 
+jglsd1: folds 
+Manitouwadge: calls $0.25
+ilovesomuchh: folds 
+PiS.AA: folds 
+ceppo61: checks 
+*** FLOP *** [Ad 8c 6d]
+ceppo61: checks 
+marlin250: checks 
+Manitouwadge: checks 
+*** TURN *** [Ad 8c 6d] [5d]
+ceppo61: checks 
+marlin250: checks 
+Manitouwadge: checks 
+*** RIVER *** [Ad 8c 6d 5d] [2s]
+ceppo61: checks 
+marlin250: bets $0.50
+Manitouwadge: folds 
+ceppo61: folds 
+Uncalled bet ($0.50) returned to marlin250
+marlin250 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Ad 8c 6d 5d 2s]
+Seat 1: ceppo61 (big blind) folded on the River
+Seat 2: marlin250 collected ($0.85)
+Seat 3: OdhinnV folded before Flop (didn't bet)
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: jglsd1 folded before Flop (didn't bet)
+Seat 7: Manitouwadge folded on the River
+Seat 8: ilovesomuchh (button) folded before Flop (didn't bet)
+Seat 9: PiS.AA (small blind) folded before Flop
+
+
+
+PokerStars Game #19923896069:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 20:01:08 (ET)
+Table 'Atala IV' 9-max Seat #9 is the button
+Seat 1: ceppo61 ($2.60 in chips) 
+Seat 4: AcedePique ($27.10 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: jglsd1 ($4.30 in chips) 
+Seat 7: Manitouwadge ($26.85 in chips) 
+Seat 8: ilovesomuchh ($24.75 in chips) 
+Seat 9: PiS.AA ($25.25 in chips) 
+ceppo61: posts small blind $0.10
+marlin250: is sitting out 
+marlin250 leaves the table
+OdhinnV: is sitting out 
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Js]
+OdhinnV has returned
+Alameda22: folds 
+OdhinnV leaves the table
+jglsd1: folds 
+Manitouwadge: raises $0.50 to $0.75
+ilovesomuchh: folds 
+PiS.AA: folds 
+ceppo61: folds 
+AcedePique: folds 
+Uncalled bet ($0.50) returned to Manitouwadge
+Manitouwadge collected $0.60 from pot
+Manitouwadge: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ceppo61 (small blind) folded before Flop
+Seat 4: AcedePique (big blind) folded before Flop
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: jglsd1 folded before Flop (didn't bet)
+Seat 7: Manitouwadge collected ($0.60)
+Seat 8: ilovesomuchh folded before Flop (didn't bet)
+Seat 9: PiS.AA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923911975:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 20:01:50 (ET)
+Table 'Atala IV' 9-max Seat #1 is the button
+Seat 1: ceppo61 ($2.50 in chips) 
+Seat 4: AcedePique ($26.85 in chips) 
+Seat 5: Alameda22 ($22.70 in chips) 
+Seat 6: jglsd1 ($4.30 in chips) 
+Seat 7: Manitouwadge ($27.20 in chips) 
+Seat 8: ilovesomuchh ($24.75 in chips) 
+Seat 9: PiS.AA ($25.25 in chips) 
+AcedePique: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Ts]
+jglsd1: folds 
+Manitouwadge: folds 
+ilovesomuchh: folds 
+PiS.AA: folds 
+ceppo61: raises $0.75 to $1
+AcedePique: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to ceppo61
+ceppo61 collected $0.60 from pot
+ceppo61: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ceppo61 (button) collected ($0.60)
+Seat 4: AcedePique (small blind) folded before Flop
+Seat 5: Alameda22 (big blind) folded before Flop
+Seat 6: jglsd1 folded before Flop (didn't bet)
+Seat 7: Manitouwadge folded before Flop (didn't bet)
+Seat 8: ilovesomuchh folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923929467:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 20:02:36 (ET)
+Table 'Atala IV' 9-max Seat #4 is the button
+Seat 1: ceppo61 ($2.85 in chips) 
+Seat 4: AcedePique ($26.75 in chips) 
+Seat 5: Alameda22 ($22.45 in chips) 
+Seat 6: jglsd1 ($4.30 in chips) 
+Seat 7: Manitouwadge ($27.20 in chips) 
+Seat 8: ilovesomuchh ($24.75 in chips) 
+Seat 9: PiS.AA ($25.25 in chips) 
+Alameda22: posts small blind $0.10
+jglsd1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 8c]
+Manitouwadge: calls $0.25
+ilovesomuchh: calls $0.25
+PiS.AA: folds 
+ceppo61: folds 
+ceppo61 leaves the table
+AcedePique: folds 
+Alameda22: folds 
+jglsd1: checks 
+*** FLOP *** [Qc 7d 7h]
+jglsd1: bets $0.25
+Manitouwadge: calls $0.25
+ilovesomuchh: folds 
+*** TURN *** [Qc 7d 7h] [5d]
+AcedePique is disconnected 
+jglsd1: bets $0.25
+AcedePique is connected 
+Manitouwadge: raises $0.75 to $1
+jglsd1: calls $0.75
+*** RIVER *** [Qc 7d 7h 5d] [Kc]
+jglsd1: bets $2.80 and is all-in
+Manitouwadge: calls $2.80
+*** SHOW DOWN ***
+jglsd1: shows [7c 9h] (three of a kind, Sevens)
+Manitouwadge: shows [7s 6s] (three of a kind, Sevens)
+jglsd1 collected $4.30 from pot
+Manitouwadge collected $4.25 from pot
+*** SUMMARY ***
+Total pot $8.95 | Rake $0.40 
+Board [Qc 7d 7h 5d Kc]
+Seat 1: ceppo61 folded before Flop (didn't bet)
+Seat 4: AcedePique (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 6: jglsd1 (big blind) showed [7c 9h] and won ($4.30) with three of a kind, Sevens
+Seat 7: Manitouwadge showed [7s 6s] and won ($4.25) with three of a kind, Sevens
+Seat 8: ilovesomuchh folded on the Flop
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19923958412:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 20:03:53 (ET)
+Table 'Atala IV' 9-max Seat #5 is the button
+Seat 4: AcedePique ($26.75 in chips) 
+Seat 5: Alameda22 ($22.35 in chips) 
+Seat 6: jglsd1 ($4.30 in chips) 
+Seat 7: Manitouwadge ($27.15 in chips) 
+Seat 8: ilovesomuchh ($24.50 in chips) 
+Seat 9: PiS.AA ($25.25 in chips) 
+jglsd1: posts small blind $0.10
+Manitouwadge: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 4h]
+AcedePique is disconnected 
+ilovesomuchh: folds 
+AcedePique is connected 
+ilovesomuchh leaves the table
+PiS.AA: folds 
+PiS.AA leaves the table
+AcedePique: folds 
+Alameda22: raises $0.50 to $0.75
+jglsd1: folds 
+Manitouwadge: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 4: AcedePique folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) collected ($0.60)
+Seat 6: jglsd1 (small blind) folded before Flop
+Seat 7: Manitouwadge (big blind) folded before Flop
+Seat 8: ilovesomuchh folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+

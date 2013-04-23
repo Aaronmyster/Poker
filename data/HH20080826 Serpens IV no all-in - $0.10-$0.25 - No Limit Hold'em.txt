@@ -1,0 +1,572 @@
+PokerStars Game #19921953455:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:34:37 (ET)
+Table 'Serpens IV' 9-max Seat #9 is the button
+Seat 1: temmikongi ($24.40 in chips) 
+Seat 2: tbv84 ($25 in chips) 
+Seat 3: misternice8 ($7.25 in chips) 
+Seat 4: Kukoc69 ($24.75 in chips) 
+Seat 5: 69beavis ($31.25 in chips) 
+Seat 6: Joesen One ($22.80 in chips) 
+Seat 7: Alameda22 ($25 in chips) 
+Seat 8: wheel ($25 in chips) 
+Seat 9: ritchy99 ($63.55 in chips) 
+temmikongi: posts small blind $0.10
+tbv84: posts big blind $0.25
+Alameda22: posts big blind $0.25
+wheel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Qd]
+misternice8: folds 
+Kukoc69: folds 
+69beavis: calls $0.25
+Joesen One: folds 
+Alameda22: checks 
+wheel: checks 
+ritchy99: calls $0.25
+temmikongi: folds 
+tbv84: checks 
+*** FLOP *** [Ad Ac 5c]
+tbv84: checks 
+69beavis: checks 
+Alameda22: checks 
+wheel: checks 
+ritchy99: bets $0.50
+tbv84: folds 
+69beavis: folds 
+Alameda22: folds 
+wheel: folds 
+Uncalled bet ($0.50) returned to ritchy99
+ritchy99 collected $1.30 from pot
+ritchy99: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [Ad Ac 5c]
+Seat 1: temmikongi (small blind) folded before Flop
+Seat 2: tbv84 (big blind) folded on the Flop
+Seat 3: misternice8 folded before Flop (didn't bet)
+Seat 4: Kukoc69 folded before Flop (didn't bet)
+Seat 5: 69beavis folded on the Flop
+Seat 6: Joesen One folded before Flop (didn't bet)
+Seat 7: Alameda22 folded on the Flop
+Seat 8: wheel folded on the Flop
+Seat 9: ritchy99 (button) collected ($1.30)
+
+
+
+PokerStars Game #19921991299:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:36:16 (ET)
+Table 'Serpens IV' 9-max Seat #1 is the button
+Seat 1: temmikongi ($24.30 in chips) 
+Seat 2: tbv84 ($24.75 in chips) 
+Seat 3: misternice8 ($7.25 in chips) 
+Seat 4: Kukoc69 ($24.75 in chips) 
+Seat 5: 69beavis ($31 in chips) 
+Seat 6: Joesen One ($22.80 in chips) 
+Seat 7: Alameda22 ($24.75 in chips) 
+Seat 8: wheel ($24.75 in chips) 
+Seat 9: ritchy99 ($64.60 in chips) 
+tbv84: posts small blind $0.10
+misternice8: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 9h]
+Kukoc69: folds 
+69beavis: calls $0.25
+Joesen One: folds 
+Alameda22: folds 
+wheel: folds 
+ritchy99: calls $0.25
+temmikongi: folds 
+tbv84: folds 
+misternice8: checks 
+*** FLOP *** [8c 2d Kc]
+misternice8: checks 
+69beavis: checks 
+ritchy99: bets $0.25
+misternice8: folds 
+69beavis: calls $0.25
+*** TURN *** [8c 2d Kc] [4d]
+69beavis: checks 
+ritchy99: bets $1.25
+69beavis: calls $1.25
+*** RIVER *** [8c 2d Kc 4d] [5s]
+69beavis: checks 
+ritchy99: bets $2.50
+69beavis: calls $2.50
+*** SHOW DOWN ***
+ritchy99: shows [2s 4s] (two pair, Fours and Deuces)
+69beavis: mucks hand 
+ritchy99 collected $8.45 from pot
+*** SUMMARY ***
+Total pot $8.85 | Rake $0.40 
+Board [8c 2d Kc 4d 5s]
+Seat 1: temmikongi (button) folded before Flop (didn't bet)
+Seat 2: tbv84 (small blind) folded before Flop
+Seat 3: misternice8 (big blind) folded on the Flop
+Seat 4: Kukoc69 folded before Flop (didn't bet)
+Seat 5: 69beavis mucked [6c 4c]
+Seat 6: Joesen One folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: wheel folded before Flop (didn't bet)
+Seat 9: ritchy99 showed [2s 4s] and won ($8.45) with two pair, Fours and Deuces
+
+
+
+PokerStars Game #19922026142:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:37:48 (ET)
+Table 'Serpens IV' 9-max Seat #2 is the button
+Seat 1: temmikongi ($24.30 in chips) 
+Seat 2: tbv84 ($25 in chips) 
+Seat 3: misternice8 ($7 in chips) 
+Seat 4: Kukoc69 ($24.75 in chips) 
+Seat 5: 69beavis ($26.75 in chips) 
+Seat 6: Joesen One ($22.80 in chips) 
+Seat 7: Alameda22 ($24.75 in chips) 
+Seat 8: wheel ($24.75 in chips) 
+Seat 9: ritchy99 ($68.80 in chips) 
+misternice8: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 4s]
+69beavis: folds 
+Joesen One: folds 
+Alameda22: folds 
+wheel: folds 
+ritchy99: calls $0.25
+temmikongi: folds 
+tbv84: folds 
+misternice8: raises $0.50 to $0.75
+Kukoc69: folds 
+ritchy99: calls $0.50
+*** FLOP *** [8d 8c 8h]
+misternice8: bets $0.75
+ritchy99: calls $0.75
+*** TURN *** [8d 8c 8h] [3d]
+misternice8: checks 
+ritchy99: checks 
+*** RIVER *** [8d 8c 8h 3d] [9d]
+misternice8: bets $1.25
+ritchy99: folds 
+Uncalled bet ($1.25) returned to misternice8
+misternice8 collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [8d 8c 8h 3d 9d]
+Seat 1: temmikongi folded before Flop (didn't bet)
+Seat 2: tbv84 (button) folded before Flop (didn't bet)
+Seat 3: misternice8 (small blind) collected ($3.10)
+Seat 4: Kukoc69 (big blind) folded before Flop
+Seat 5: 69beavis folded before Flop (didn't bet)
+Seat 6: Joesen One folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: wheel folded before Flop (didn't bet)
+Seat 9: ritchy99 folded on the River
+
+
+
+PokerStars Game #19922052377:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:38:56 (ET)
+Table 'Serpens IV' 9-max Seat #3 is the button
+Seat 1: temmikongi ($24.30 in chips) 
+Seat 2: tbv84 ($25 in chips) 
+Seat 3: misternice8 ($8.60 in chips) 
+Seat 4: Kukoc69 ($24.50 in chips) 
+Seat 5: 69beavis ($26.75 in chips) 
+Seat 6: Joesen One ($22.80 in chips) 
+Seat 7: Alameda22 ($24.75 in chips) 
+Seat 8: wheel ($24.75 in chips) 
+Seat 9: ritchy99 ($67.30 in chips) 
+Kukoc69: posts small blind $0.10
+69beavis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 3d]
+Joesen One: folds 
+Alameda22: folds 
+wheel: folds 
+ritchy99: calls $0.25
+temmikongi: raises $0.75 to $1
+tbv84: folds 
+misternice8: folds 
+Kukoc69: folds 
+69beavis: folds 
+ritchy99: folds 
+Uncalled bet ($0.75) returned to temmikongi
+temmikongi collected $0.85 from pot
+temmikongi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: temmikongi collected ($0.85)
+Seat 2: tbv84 folded before Flop (didn't bet)
+Seat 3: misternice8 (button) folded before Flop (didn't bet)
+Seat 4: Kukoc69 (small blind) folded before Flop
+Seat 5: 69beavis (big blind) folded before Flop
+Seat 6: Joesen One folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: wheel folded before Flop (didn't bet)
+Seat 9: ritchy99 folded before Flop
+
+
+
+PokerStars Game #19922074849:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:39:54 (ET)
+Table 'Serpens IV' 9-max Seat #4 is the button
+Seat 1: temmikongi ($24.90 in chips) 
+Seat 2: tbv84 ($25 in chips) 
+Seat 3: misternice8 ($8.60 in chips) 
+Seat 4: Kukoc69 ($24.40 in chips) 
+Seat 5: 69beavis ($26.50 in chips) 
+Seat 6: Joesen One ($22.80 in chips) 
+Seat 7: Alameda22 ($24.75 in chips) 
+Seat 8: wheel ($24.75 in chips) 
+Seat 9: ritchy99 ($67.05 in chips) 
+69beavis: posts small blind $0.10
+Joesen One: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Kd]
+Alameda22: folds 
+wheel: folds 
+ritchy99: calls $0.25
+temmikongi: folds 
+tbv84: folds 
+misternice8: folds 
+Kukoc69: folds 
+69beavis: folds 
+Joesen One: checks 
+*** FLOP *** [8s 9c Ks]
+Joesen One: checks 
+ritchy99: bets $0.75
+Joesen One: folds 
+Uncalled bet ($0.75) returned to ritchy99
+ritchy99 collected $0.60 from pot
+ritchy99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8s 9c Ks]
+Seat 1: temmikongi folded before Flop (didn't bet)
+Seat 2: tbv84 folded before Flop (didn't bet)
+Seat 3: misternice8 folded before Flop (didn't bet)
+Seat 4: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 5: 69beavis (small blind) folded before Flop
+Seat 6: Joesen One (big blind) folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: wheel folded before Flop (didn't bet)
+Seat 9: ritchy99 collected ($0.60)
+
+
+
+PokerStars Game #19922096708:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:40:50 (ET)
+Table 'Serpens IV' 9-max Seat #5 is the button
+Seat 1: temmikongi ($24.90 in chips) 
+Seat 2: tbv84 ($25 in chips) 
+Seat 3: misternice8 ($8.60 in chips) 
+Seat 4: Kukoc69 ($24.40 in chips) 
+Seat 5: 69beavis ($26.40 in chips) 
+Seat 6: Joesen One ($22.55 in chips) 
+Seat 7: Alameda22 ($24.75 in chips) 
+Seat 8: wheel ($24.75 in chips) 
+Seat 9: ritchy99 ($67.40 in chips) 
+Joesen One: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 6d]
+wheel: folds 
+ritchy99: calls $0.25
+temmikongi: folds 
+tbv84: folds 
+misternice8: folds 
+Kukoc69: folds 
+69beavis: raises $1.50 to $1.75
+Joesen One: folds 
+Alameda22: folds 
+ritchy99: calls $1.50
+*** FLOP *** [9h 3s 6h]
+ritchy99: checks 
+69beavis: bets $5
+ritchy99: folds 
+Uncalled bet ($5) returned to 69beavis
+69beavis collected $3.70 from pot
+69beavis: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [9h 3s 6h]
+Seat 1: temmikongi folded before Flop (didn't bet)
+Seat 2: tbv84 folded before Flop (didn't bet)
+Seat 3: misternice8 folded before Flop (didn't bet)
+Seat 4: Kukoc69 folded before Flop (didn't bet)
+Seat 5: 69beavis (button) collected ($3.70)
+Seat 6: Joesen One (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 8: wheel folded before Flop (didn't bet)
+Seat 9: ritchy99 folded on the Flop
+
+
+
+PokerStars Game #19922119315:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:41:49 (ET)
+Table 'Serpens IV' 9-max Seat #6 is the button
+Seat 1: temmikongi ($24.90 in chips) 
+Seat 2: tbv84 ($25 in chips) 
+Seat 3: misternice8 ($8.60 in chips) 
+Seat 4: Kukoc69 ($24.40 in chips) 
+Seat 5: 69beavis ($28.35 in chips) 
+Seat 6: Joesen One ($22.45 in chips) 
+Seat 7: Alameda22 ($24.50 in chips) 
+Seat 8: wheel ($24.75 in chips) 
+Seat 9: ritchy99 ($65.65 in chips) 
+Alameda22: posts small blind $0.10
+wheel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Jc]
+ritchy99: calls $0.25
+temmikongi: folds 
+tbv84: folds 
+misternice8: raises $0.50 to $0.75
+Kukoc69: calls $0.75
+69beavis: folds 
+Joesen One: folds 
+Alameda22: folds 
+wheel: folds 
+ritchy99: calls $0.50
+*** FLOP *** [9d Td 5c]
+ritchy99: checks 
+misternice8: checks 
+Kukoc69: bets $1.50
+ritchy99: folds 
+misternice8: folds 
+Uncalled bet ($1.50) returned to Kukoc69
+Kukoc69 collected $2.50 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [9d Td 5c]
+Seat 1: temmikongi folded before Flop (didn't bet)
+Seat 2: tbv84 folded before Flop (didn't bet)
+Seat 3: misternice8 folded on the Flop
+Seat 4: Kukoc69 collected ($2.50)
+Seat 5: 69beavis folded before Flop (didn't bet)
+Seat 6: Joesen One (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: wheel (big blind) folded before Flop
+Seat 9: ritchy99 folded on the Flop
+
+
+
+PokerStars Game #19922150098:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:43:09 (ET)
+Table 'Serpens IV' 9-max Seat #7 is the button
+Seat 1: temmikongi ($24.90 in chips) 
+Seat 2: tbv84 ($25 in chips) 
+Seat 3: misternice8 ($7.85 in chips) 
+Seat 4: Kukoc69 ($26.15 in chips) 
+Seat 5: 69beavis ($28.35 in chips) 
+Seat 6: Joesen One ($22.45 in chips) 
+Seat 7: Alameda22 ($24.40 in chips) 
+Seat 8: wheel ($24.50 in chips) 
+wheel: posts small blind $0.10
+ritchy99: is sitting out 
+ritchy99 leaves the table
+temmikongi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Th]
+tbv84: folds 
+misternice8: folds 
+Kukoc69: folds 
+misternice8 leaves the table
+69beavis: folds 
+419MOFO joins the table at seat #9 
+Joesen One: folds 
+Alameda22: raises $0.50 to $0.75
+wheel: folds 
+deuitchyboy joins the table at seat #3 
+temmikongi: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: temmikongi (big blind) folded before Flop
+Seat 2: tbv84 folded before Flop (didn't bet)
+Seat 3: misternice8 folded before Flop (didn't bet)
+Seat 4: Kukoc69 folded before Flop (didn't bet)
+Seat 5: 69beavis folded before Flop (didn't bet)
+Seat 6: Joesen One folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) collected ($0.60)
+Seat 8: wheel (small blind) folded before Flop
+
+
+
+PokerStars Game #19922169703:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:44:01 (ET)
+Table 'Serpens IV' 9-max Seat #8 is the button
+Seat 1: temmikongi ($24.65 in chips) 
+Seat 2: tbv84 ($25 in chips) 
+Seat 4: Kukoc69 ($26.15 in chips) 
+Seat 5: 69beavis ($28.35 in chips) 
+Seat 6: Joesen One ($22.45 in chips) 
+Seat 7: Alameda22 ($24.75 in chips) 
+Seat 8: wheel ($24.40 in chips) 
+419MOFO will be allowed to play after the button
+temmikongi: posts small blind $0.10
+tbv84: posts big blind $0.25
+deuitchyboy: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Kc]
+419MOFO leaves the table
+Kukoc69: folds 
+69beavis: folds 
+Joesen One: raises $0.75 to $1
+69beavis leaves the table
+Alameda22: folds 
+wheel: folds 
+temmikongi: folds 
+tbv84: folds 
+Uncalled bet ($0.75) returned to Joesen One
+Joesen One collected $0.60 from pot
+Joesen One: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: temmikongi (small blind) folded before Flop
+Seat 2: tbv84 (big blind) folded before Flop
+Seat 4: Kukoc69 folded before Flop (didn't bet)
+Seat 5: 69beavis folded before Flop (didn't bet)
+Seat 6: Joesen One collected ($0.60)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: wheel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922187631:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:44:48 (ET)
+Table 'Serpens IV' 9-max Seat #1 is the button
+Seat 1: temmikongi ($24.55 in chips) 
+Seat 2: tbv84 ($24.75 in chips) 
+Seat 3: deuitchyboy ($15 in chips) 
+Seat 4: Kukoc69 ($26.15 in chips) 
+Seat 6: Joesen One ($22.80 in chips) 
+Seat 7: Alameda22 ($24.75 in chips) 
+Seat 8: wheel ($24.40 in chips) 
+tbv84: posts small blind $0.10
+deuitchyboy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 7c]
+Kukoc69: folds 
+Joesen One: folds 
+PabloValdez joins the table at seat #5 
+Alameda22: calls $0.25
+wheel: calls $0.25
+temmikongi: raises $1.25 to $1.50
+tbv84: folds 
+deuitchyboy: folds 
+Alameda22: calls $1.25
+wheel: folds 
+*** FLOP *** [2d 2h 7h]
+tbv84 leaves the table
+Alameda22: checks 
+temmikongi: bets $2.75
+Alameda22: calls $2.75
+*** TURN *** [2d 2h 7h] [8c]
+Alameda22: checks 
+temmikongi: bets $4
+Alameda22: raises $8 to $12
+temmikongi: folds 
+Uncalled bet ($8) returned to Alameda22
+Alameda22 collected $16.30 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.10 | Rake $0.80 
+Board [2d 2h 7h 8c]
+Seat 1: temmikongi (button) folded on the Turn
+Seat 2: tbv84 (small blind) folded before Flop
+Seat 3: deuitchyboy (big blind) folded before Flop
+Seat 4: Kukoc69 folded before Flop (didn't bet)
+Seat 6: Joesen One folded before Flop (didn't bet)
+Seat 7: Alameda22 collected ($16.30)
+Seat 8: wheel folded before Flop
+
+
+
+PokerStars Game #19922226633:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:46:30 (ET)
+Table 'Serpens IV' 9-max Seat #3 is the button
+Seat 1: temmikongi ($25 in chips) 
+Seat 3: deuitchyboy ($14.75 in chips) 
+Seat 4: Kukoc69 ($26.15 in chips) 
+Seat 5: PabloValdez ($5 in chips) 
+Seat 6: Joesen One ($22.80 in chips) 
+Seat 7: Alameda22 ($32.80 in chips) 
+Seat 8: wheel ($24.15 in chips) 
+Kukoc69: posts small blind $0.10
+PabloValdez: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Qd]
+Joesen One: folds 
+Alameda22: folds 
+wheel: folds 
+temmikongi: raises $0.75 to $1
+deuitchyboy: folds 
+Kukoc69: folds 
+PabloValdez: folds 
+Uncalled bet ($0.75) returned to temmikongi
+temmikongi collected $0.60 from pot
+temmikongi: doesn't show hand 
+Kukoc69 leaves the table
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: temmikongi collected ($0.60)
+Seat 3: deuitchyboy (button) folded before Flop (didn't bet)
+Seat 4: Kukoc69 (small blind) folded before Flop
+Seat 5: PabloValdez (big blind) folded before Flop
+Seat 6: Joesen One folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: wheel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922239384:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:47:04 (ET)
+Table 'Serpens IV' 9-max Seat #5 is the button
+Seat 1: temmikongi ($25.35 in chips) 
+Seat 3: deuitchyboy ($14.75 in chips) 
+Seat 5: PabloValdez ($4.75 in chips) 
+Seat 6: Joesen One ($22.80 in chips) 
+Seat 7: Alameda22 ($32.80 in chips) 
+Seat 8: wheel ($24.15 in chips) 
+Joesen One: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 2d]
+wheel: folds 
+wheel leaves the table
+temmikongi: folds 
+deuitchyboy: folds 
+PabloValdez: folds 
+Joesen One: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: temmikongi folded before Flop (didn't bet)
+Seat 3: deuitchyboy folded before Flop (didn't bet)
+Seat 5: PabloValdez (button) folded before Flop (didn't bet)
+Seat 6: Joesen One (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) collected ($0.20)
+Seat 8: wheel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19922250951:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 18:47:34 (ET)
+Table 'Serpens IV' 9-max Seat #6 is the button
+Seat 3: deuitchyboy ($14.75 in chips) 
+Seat 5: PabloValdez ($4.75 in chips) 
+Seat 6: Joesen One ($22.70 in chips) 
+Seat 7: Alameda22 ($32.90 in chips) 
+Alameda22: posts small blind $0.10
+temmikongi: is sitting out 
+temmikongi leaves the table
+deuitchyboy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Th]
+PabloValdez: raises $0.50 to $0.75
+Joesen One: folds 
+Alameda22: folds 
+deuitchyboy: folds 
+Uncalled bet ($0.50) returned to PabloValdez
+PabloValdez collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 3: deuitchyboy (big blind) folded before Flop
+Seat 5: PabloValdez collected ($0.60)
+Seat 6: Joesen One (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+
+
+

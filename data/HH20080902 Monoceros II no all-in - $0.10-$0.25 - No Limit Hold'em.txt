@@ -1,0 +1,1520 @@
+PokerStars Game #20082578258:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:01:05 (ET)
+Table 'Monoceros II' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($38.55 in chips) 
+Seat 2: master_juan ($10.75 in chips) 
+Seat 3: bagnus ($33.60 in chips) 
+Seat 4: de captain ($27.75 in chips) 
+Seat 5: zigzag man57 ($7.60 in chips) 
+Seat 6: omar_braves ($23.75 in chips) 
+Seat 7: marbru7 ($24.50 in chips) 
+Seat 8: joshil3 ($24.90 in chips) 
+Seat 9: Apost92837 ($15 in chips) 
+bagnus: posts small blind $0.10
+de captain: posts big blind $0.25
+Apost92837: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 2c]
+zigzag man57: folds 
+omar_braves: folds 
+marbru7: folds 
+joshil3: folds 
+Apost92837: checks 
+Alameda22: folds 
+master_juan: folds 
+bagnus: folds 
+de captain: checks 
+*** FLOP *** [9c 2s 7s]
+de captain: checks 
+Apost92837: checks 
+*** TURN *** [9c 2s 7s] [3c]
+de captain: bets $0.50
+Apost92837: folds 
+Uncalled bet ($0.50) returned to de captain
+de captain collected $0.60 from pot
+de captain: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9c 2s 7s 3c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan (button) folded before Flop (didn't bet)
+Seat 3: bagnus (small blind) folded before Flop
+Seat 4: de captain (big blind) collected ($0.60)
+Seat 5: zigzag man57 folded before Flop (didn't bet)
+Seat 6: omar_braves folded before Flop (didn't bet)
+Seat 7: marbru7 folded before Flop (didn't bet)
+Seat 8: joshil3 folded before Flop (didn't bet)
+Seat 9: Apost92837 folded on the Turn
+
+
+
+PokerStars Game #20082608763:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:02:54 (ET)
+Table 'Monoceros II' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($38.55 in chips) 
+Seat 2: master_juan ($10.75 in chips) 
+Seat 3: bagnus ($33.50 in chips) 
+Seat 4: de captain ($28.10 in chips) 
+Seat 5: zigzag man57 ($7.60 in chips) 
+Seat 6: omar_braves ($23.75 in chips) 
+Seat 7: marbru7 ($24.50 in chips) 
+Seat 8: joshil3 ($24.90 in chips) 
+Seat 9: Apost92837 ($14.75 in chips) 
+de captain: posts small blind $0.10
+zigzag man57: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Ts]
+omar_braves: folds 
+marbru7: folds 
+joshil3: raises $0.75 to $1
+Apost92837: folds 
+Alameda22: folds 
+master_juan: folds 
+bagnus: folds 
+de captain: folds 
+zigzag man57: folds 
+Uncalled bet ($0.75) returned to joshil3
+joshil3 collected $0.60 from pot
+joshil3: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: bagnus (button) folded before Flop (didn't bet)
+Seat 4: de captain (small blind) folded before Flop
+Seat 5: zigzag man57 (big blind) folded before Flop
+Seat 6: omar_braves folded before Flop (didn't bet)
+Seat 7: marbru7 folded before Flop (didn't bet)
+Seat 8: joshil3 collected ($0.60)
+Seat 9: Apost92837 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082621542:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:03:40 (ET)
+Table 'Monoceros II' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($38.55 in chips) 
+Seat 2: master_juan ($10.75 in chips) 
+Seat 3: bagnus ($33.50 in chips) 
+Seat 4: de captain ($28 in chips) 
+Seat 5: zigzag man57 ($7.35 in chips) 
+Seat 6: omar_braves ($23.75 in chips) 
+Seat 7: marbru7 ($24.50 in chips) 
+Seat 8: joshil3 ($25.25 in chips) 
+Seat 9: Apost92837 ($14.75 in chips) 
+zigzag man57: posts small blind $0.10
+omar_braves: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Ks]
+marbru7: calls $0.25
+joshil3: folds 
+Apost92837: folds 
+Alameda22: folds 
+master_juan: folds 
+bagnus: folds 
+de captain: folds 
+zigzag man57: calls $0.15
+omar_braves: checks 
+*** FLOP *** [Qs 6h 6d]
+zigzag man57: checks 
+omar_braves: checks 
+marbru7: checks 
+*** TURN *** [Qs 6h 6d] [7s]
+zigzag man57: bets $0.25
+omar_braves: folds 
+marbru7: folds 
+Uncalled bet ($0.25) returned to zigzag man57
+zigzag man57 collected $0.75 from pot
+zigzag man57: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Qs 6h 6d 7s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: bagnus folded before Flop (didn't bet)
+Seat 4: de captain (button) folded before Flop (didn't bet)
+Seat 5: zigzag man57 (small blind) collected ($0.75)
+Seat 6: omar_braves (big blind) folded on the Turn
+Seat 7: marbru7 folded on the Turn
+Seat 8: joshil3 folded before Flop (didn't bet)
+Seat 9: Apost92837 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082639191:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:04:44 (ET)
+Table 'Monoceros II' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($38.55 in chips) 
+Seat 2: master_juan ($10.75 in chips) 
+Seat 3: bagnus ($33.50 in chips) 
+Seat 4: de captain ($28 in chips) 
+Seat 5: zigzag man57 ($7.85 in chips) 
+Seat 6: omar_braves ($23.50 in chips) 
+Seat 7: marbru7 ($24.25 in chips) 
+Seat 8: joshil3 ($25.25 in chips) 
+Seat 9: Apost92837 ($14.75 in chips) 
+omar_braves: posts small blind $0.10
+marbru7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 4d]
+joshil3: folds 
+Apost92837: calls $0.25
+Alameda22: folds 
+master_juan: folds 
+bagnus: folds 
+de captain: folds 
+zigzag man57: calls $0.25
+omar_braves: folds 
+marbru7: checks 
+*** FLOP *** [Ts Kd Ks]
+marbru7: checks 
+Apost92837: checks 
+zigzag man57: checks 
+*** TURN *** [Ts Kd Ks] [Kh]
+marbru7: checks 
+Apost92837: checks 
+zigzag man57: checks 
+*** RIVER *** [Ts Kd Ks Kh] [As]
+marbru7: checks 
+Apost92837: checks 
+zigzag man57: checks 
+*** SHOW DOWN ***
+marbru7: shows [4s 8h] (three of a kind, Kings)
+Apost92837: shows [7c 6s] (three of a kind, Kings)
+zigzag man57: shows [3s Qs] (a flush, Ace high)
+zigzag man57 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Ts Kd Ks Kh As]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: bagnus folded before Flop (didn't bet)
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: zigzag man57 (button) showed [3s Qs] and won ($0.85) with a flush, Ace high
+Seat 6: omar_braves (small blind) folded before Flop
+Seat 7: marbru7 (big blind) showed [4s 8h] and lost with three of a kind, Kings
+Seat 8: joshil3 folded before Flop (didn't bet)
+Seat 9: Apost92837 showed [7c 6s] and lost with three of a kind, Kings
+
+
+
+PokerStars Game #20082658073:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:05:51 (ET)
+Table 'Monoceros II' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($38.55 in chips) 
+Seat 2: master_juan ($10.75 in chips) 
+Seat 3: bagnus ($33.50 in chips) 
+Seat 4: de captain ($28 in chips) 
+Seat 5: zigzag man57 ($8.45 in chips) 
+Seat 6: omar_braves ($23.40 in chips) 
+Seat 7: marbru7 ($24 in chips) 
+Seat 8: joshil3 ($25.25 in chips) 
+Seat 9: Apost92837 ($14.50 in chips) 
+marbru7: posts small blind $0.10
+joshil3: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 9s]
+Apost92837: folds 
+Alameda22: folds 
+master_juan: folds 
+bagnus: folds 
+de captain: raises $0.75 to $1
+zigzag man57: folds 
+omar_braves: folds 
+marbru7: folds 
+joshil3: folds 
+Uncalled bet ($0.75) returned to de captain
+de captain collected $0.60 from pot
+de captain: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: bagnus folded before Flop (didn't bet)
+Seat 4: de captain collected ($0.60)
+Seat 5: zigzag man57 folded before Flop (didn't bet)
+Seat 6: omar_braves (button) folded before Flop (didn't bet)
+Seat 7: marbru7 (small blind) folded before Flop
+Seat 8: joshil3 (big blind) folded before Flop
+Seat 9: Apost92837 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082672061:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:06:41 (ET)
+Table 'Monoceros II' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($38.55 in chips) 
+Seat 2: master_juan ($10.75 in chips) 
+Seat 3: bagnus ($33.50 in chips) 
+Seat 4: de captain ($28.35 in chips) 
+Seat 5: zigzag man57 ($8.45 in chips) 
+Seat 6: omar_braves ($23.40 in chips) 
+Seat 7: marbru7 ($23.90 in chips) 
+Seat 8: joshil3 ($25 in chips) 
+Seat 9: Apost92837 ($14.50 in chips) 
+joshil3: posts small blind $0.10
+Apost92837: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 2s]
+Alameda22: folds 
+master_juan: folds 
+bagnus: folds 
+de captain: folds 
+zigzag man57: calls $0.25
+omar_braves: folds 
+marbru7: calls $0.25
+joshil3: folds 
+Apost92837: checks 
+*** FLOP *** [3d 2c Qh]
+Apost92837: checks 
+zigzag man57: checks 
+marbru7: checks 
+*** TURN *** [3d 2c Qh] [8c]
+Apost92837: bets $0.75
+zigzag man57: folds 
+marbru7: folds 
+Uncalled bet ($0.75) returned to Apost92837
+Apost92837 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [3d 2c Qh 8c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: bagnus folded before Flop (didn't bet)
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: zigzag man57 folded on the Turn
+Seat 6: omar_braves folded before Flop (didn't bet)
+Seat 7: marbru7 (button) folded on the Turn
+Seat 8: joshil3 (small blind) folded before Flop
+Seat 9: Apost92837 (big blind) collected ($0.85)
+
+
+
+PokerStars Game #20082688744:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:07:42 (ET)
+Table 'Monoceros II' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($38.55 in chips) 
+Seat 2: master_juan ($10.75 in chips) 
+Seat 3: bagnus ($33.50 in chips) 
+Seat 4: de captain ($28.35 in chips) 
+Seat 5: zigzag man57 ($8.20 in chips) 
+Seat 6: omar_braves ($23.40 in chips) 
+Seat 7: marbru7 ($23.65 in chips) 
+Seat 8: joshil3 ($24.90 in chips) 
+Seat 9: Apost92837 ($15.10 in chips) 
+Apost92837: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 2c]
+master_juan: folds 
+bagnus: folds 
+de captain: folds 
+zigzag man57: folds 
+omar_braves: folds 
+marbru7: folds 
+joshil3: folds 
+Apost92837: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Tc 6s 8c]
+Apost92837: bets $0.25
+Alameda22: folds 
+Uncalled bet ($0.25) returned to Apost92837
+Apost92837 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Tc 6s 8c]
+Seat 1: Alameda22 (big blind) folded on the Flop
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: bagnus folded before Flop (didn't bet)
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: zigzag man57 folded before Flop (didn't bet)
+Seat 6: omar_braves folded before Flop (didn't bet)
+Seat 7: marbru7 folded before Flop (didn't bet)
+Seat 8: joshil3 (button) folded before Flop (didn't bet)
+Seat 9: Apost92837 (small blind) collected ($0.50)
+
+
+
+PokerStars Game #20082700997:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:08:26 (ET)
+Table 'Monoceros II' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($38.30 in chips) 
+Seat 2: master_juan ($10.75 in chips) 
+Seat 3: bagnus ($33.50 in chips) 
+Seat 4: de captain ($28.35 in chips) 
+Seat 5: zigzag man57 ($8.20 in chips) 
+Seat 6: omar_braves ($23.40 in chips) 
+Seat 7: marbru7 ($23.65 in chips) 
+Seat 8: joshil3 ($24.90 in chips) 
+Seat 9: Apost92837 ($15.35 in chips) 
+Alameda22: posts small blind $0.10
+master_juan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Kd]
+bagnus: folds 
+de captain: folds 
+zigzag man57: folds 
+omar_braves: folds 
+marbru7: folds 
+joshil3: folds 
+Apost92837: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to master_juan
+master_juan collected $0.20 from pot
+master_juan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: master_juan (big blind) collected ($0.20)
+Seat 3: bagnus folded before Flop (didn't bet)
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: zigzag man57 folded before Flop (didn't bet)
+Seat 6: omar_braves folded before Flop (didn't bet)
+Seat 7: marbru7 folded before Flop (didn't bet)
+Seat 8: joshil3 folded before Flop (didn't bet)
+Seat 9: Apost92837 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082712077:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:09:06 (ET)
+Table 'Monoceros II' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($38.20 in chips) 
+Seat 2: master_juan ($10.85 in chips) 
+Seat 4: de captain ($28.35 in chips) 
+Seat 5: zigzag man57 ($8.20 in chips) 
+Seat 6: omar_braves ($23.40 in chips) 
+Seat 7: marbru7 ($23.65 in chips) 
+Seat 8: joshil3 ($24.90 in chips) 
+Seat 9: Apost92837 ($15.35 in chips) 
+master_juan: posts small blind $0.10
+bagnus: is sitting out 
+bagnus leaves the table
+de captain: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Qh]
+zigzag man57: folds 
+omar_braves: folds 
+marbru7: folds 
+joshil3: folds 
+Apost92837: folds 
+Alameda22: folds 
+Triton1956 joins the table at seat #3 
+master_juan: folds 
+Uncalled bet ($0.15) returned to de captain
+de captain collected $0.20 from pot
+de captain: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: master_juan (small blind) folded before Flop
+Seat 4: de captain (big blind) collected ($0.20)
+Seat 5: zigzag man57 folded before Flop (didn't bet)
+Seat 6: omar_braves folded before Flop (didn't bet)
+Seat 7: marbru7 folded before Flop (didn't bet)
+Seat 8: joshil3 folded before Flop (didn't bet)
+Seat 9: Apost92837 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082723071:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:09:46 (ET)
+Table 'Monoceros II' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($38.20 in chips) 
+Seat 2: master_juan ($10.75 in chips) 
+Seat 4: de captain ($28.45 in chips) 
+Seat 5: zigzag man57 ($8.20 in chips) 
+Seat 6: omar_braves ($23.40 in chips) 
+Seat 7: marbru7 ($23.65 in chips) 
+Seat 8: joshil3 ($24.90 in chips) 
+Seat 9: Apost92837 ($15.35 in chips) 
+Triton1956 will be allowed to play after the button
+de captain: posts small blind $0.10
+zigzag man57: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 4h]
+omar_braves: folds 
+marbru7: folds 
+joshil3: folds 
+Apost92837: folds 
+Alameda22: folds 
+master_juan: calls $0.25
+de captain: folds 
+zigzag man57: checks 
+*** FLOP *** [8c 4d As]
+zigzag man57: bets $0.25
+master_juan: calls $0.25
+*** TURN *** [8c 4d As] [Qh]
+zigzag man57: bets $0.25
+master_juan: calls $0.25
+*** RIVER *** [8c 4d As Qh] [6h]
+zigzag man57: bets $0.50
+master_juan: folds 
+Uncalled bet ($0.50) returned to zigzag man57
+zigzag man57 collected $1.55 from pot
+zigzag man57: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [8c 4d As Qh 6h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan (button) folded on the River
+Seat 4: de captain (small blind) folded before Flop
+Seat 5: zigzag man57 (big blind) collected ($1.55)
+Seat 6: omar_braves folded before Flop (didn't bet)
+Seat 7: marbru7 folded before Flop (didn't bet)
+Seat 8: joshil3 folded before Flop (didn't bet)
+Seat 9: Apost92837 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082741374:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:10:53 (ET)
+Table 'Monoceros II' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($38.20 in chips) 
+Seat 2: master_juan ($10 in chips) 
+Seat 3: Triton1956 ($14.50 in chips) 
+Seat 4: de captain ($28.35 in chips) 
+Seat 5: zigzag man57 ($9 in chips) 
+Seat 6: omar_braves ($23.40 in chips) 
+Seat 7: marbru7 ($23.65 in chips) 
+Seat 8: joshil3 ($24.90 in chips) 
+Seat 9: Apost92837 ($15.35 in chips) 
+zigzag man57: posts small blind $0.10
+omar_braves: posts big blind $0.25
+Triton1956: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Kh]
+marbru7: calls $0.25
+joshil3: folds 
+Apost92837: calls $0.25
+Alameda22: folds 
+master_juan: folds 
+Triton1956: checks 
+de captain: folds 
+zigzag man57: raises $0.50 to $0.75
+omar_braves: calls $0.50
+marbru7: calls $0.50
+Apost92837: calls $0.50
+Triton1956: calls $0.50
+*** FLOP *** [4s Ac Ks]
+zigzag man57: checks 
+omar_braves: checks 
+marbru7: checks 
+Apost92837: checks 
+Triton1956: checks 
+*** TURN *** [4s Ac Ks] [5s]
+zigzag man57: bets $0.25
+omar_braves: folds 
+marbru7: calls $0.25
+Apost92837: calls $0.25
+Triton1956: folds 
+*** RIVER *** [4s Ac Ks 5s] [8h]
+zigzag man57: checks 
+marbru7: bets $2.25
+Apost92837: folds 
+zigzag man57: folds 
+Uncalled bet ($2.25) returned to marbru7
+marbru7 collected $4.30 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [4s Ac Ks 5s 8h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: Triton1956 folded on the Turn
+Seat 4: de captain (button) folded before Flop (didn't bet)
+Seat 5: zigzag man57 (small blind) folded on the River
+Seat 6: omar_braves (big blind) folded on the Turn
+Seat 7: marbru7 collected ($4.30)
+Seat 8: joshil3 folded before Flop (didn't bet)
+Seat 9: Apost92837 folded on the River
+
+
+
+PokerStars Game #20082769456:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:12:36 (ET)
+Table 'Monoceros II' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($38.20 in chips) 
+Seat 2: master_juan ($10 in chips) 
+Seat 3: Triton1956 ($13.75 in chips) 
+Seat 4: de captain ($28.35 in chips) 
+Seat 5: zigzag man57 ($8 in chips) 
+Seat 6: omar_braves ($22.65 in chips) 
+Seat 7: marbru7 ($26.95 in chips) 
+Seat 8: joshil3 ($24.90 in chips) 
+Seat 9: Apost92837 ($14.35 in chips) 
+omar_braves: posts small blind $0.10
+marbru7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 4c]
+joshil3: folds 
+Apost92837: folds 
+Alameda22: folds 
+master_juan: folds 
+Triton1956: folds 
+de captain: folds 
+zigzag man57: folds 
+omar_braves: raises $0.75 to $1
+marbru7: folds 
+Uncalled bet ($0.75) returned to omar_braves
+omar_braves collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: Triton1956 folded before Flop (didn't bet)
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: zigzag man57 (button) folded before Flop (didn't bet)
+Seat 6: omar_braves (small blind) collected ($0.50)
+Seat 7: marbru7 (big blind) folded before Flop
+Seat 8: joshil3 folded before Flop (didn't bet)
+Seat 9: Apost92837 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082784061:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:13:31 (ET)
+Table 'Monoceros II' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($38.20 in chips) 
+Seat 2: master_juan ($10 in chips) 
+Seat 3: Triton1956 ($13.75 in chips) 
+Seat 4: de captain ($28.35 in chips) 
+Seat 5: zigzag man57 ($8 in chips) 
+Seat 6: omar_braves ($22.90 in chips) 
+Seat 7: marbru7 ($26.70 in chips) 
+Seat 8: joshil3 ($24.90 in chips) 
+Seat 9: Apost92837 ($14.35 in chips) 
+marbru7: posts small blind $0.10
+joshil3: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Jd]
+Apost92837: folds 
+Alameda22: folds 
+master_juan: calls $0.25
+Triton1956: calls $0.25
+de captain: folds 
+zigzag man57: folds 
+omar_braves: folds 
+omar_braves leaves the table
+marbru7: calls $0.15
+joshil3: checks 
+*** FLOP *** [6d 4c 4s]
+marbru7: checks 
+joshil3: checks 
+master_juan: checks 
+Triton1956: checks 
+*** TURN *** [6d 4c 4s] [Ah]
+marbru7: checks 
+joshil3: checks 
+master_juan: checks 
+Triton1956: checks 
+*** RIVER *** [6d 4c 4s Ah] [Kc]
+marbru7: checks 
+joshil3: bets $0.50
+master_juan: calls $0.50
+Triton1956: folds 
+marbru7: folds 
+*** SHOW DOWN ***
+joshil3: shows [Ad Js] (two pair, Aces and Fours)
+master_juan: mucks hand 
+joshil3 collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [6d 4c 4s Ah Kc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan mucked [Qc Kh]
+Seat 3: Triton1956 folded on the River
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: zigzag man57 folded before Flop (didn't bet)
+Seat 6: omar_braves (button) folded before Flop (didn't bet)
+Seat 7: marbru7 (small blind) folded on the River
+Seat 8: joshil3 (big blind) showed [Ad Js] and won ($1.95) with two pair, Aces and Fours
+Seat 9: Apost92837 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082805589:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:14:51 (ET)
+Table 'Monoceros II' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($38.20 in chips) 
+Seat 2: master_juan ($9.25 in chips) 
+Seat 3: Triton1956 ($13.50 in chips) 
+Seat 4: de captain ($28.35 in chips) 
+Seat 5: zigzag man57 ($8 in chips) 
+Seat 7: marbru7 ($26.45 in chips) 
+Seat 8: joshil3 ($26.10 in chips) 
+Seat 9: Apost92837 ($14.35 in chips) 
+joshil3: posts small blind $0.10
+Apost92837: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 5h]
+Alameda22: folds 
+master_juan: folds 
+Triton1956: calls $0.25
+de captain: folds 
+zigzag man57: folds 
+marbru7: raises $1.25 to $1.50
+joshil3: folds 
+Apost92837: folds 
+Triton1956: folds 
+Uncalled bet ($1.25) returned to marbru7
+marbru7 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: Triton1956 folded before Flop
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: zigzag man57 folded before Flop (didn't bet)
+Seat 7: marbru7 (button) collected ($0.85)
+Seat 8: joshil3 (small blind) folded before Flop
+Seat 9: Apost92837 (big blind) folded before Flop
+
+
+
+PokerStars Game #20082817082:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:15:34 (ET)
+Table 'Monoceros II' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($38.20 in chips) 
+Seat 2: master_juan ($9.25 in chips) 
+Seat 3: Triton1956 ($13.25 in chips) 
+Seat 4: de captain ($28.35 in chips) 
+Seat 5: zigzag man57 ($8 in chips) 
+Seat 7: marbru7 ($27.05 in chips) 
+Seat 8: joshil3 ($26 in chips) 
+Seat 9: Apost92837 ($14.10 in chips) 
+Apost92837: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 5c]
+master_juan: calls $0.25
+Triton1956: folds 
+de captain: folds 
+zigzag man57: raises $0.75 to $1
+marbru7: folds 
+joshil3: folds 
+Apost92837: calls $0.90
+Alameda22: folds 
+master_juan: folds 
+*** FLOP *** [5h Ac 5d]
+Apost92837: bets $0.50
+zigzag man57: calls $0.50
+*** TURN *** [5h Ac 5d] [Kd]
+Apost92837: checks 
+zigzag man57: bets $0.50
+Apost92837: calls $0.50
+*** RIVER *** [5h Ac 5d Kd] [3c]
+Apost92837: checks 
+zigzag man57: bets $2
+Apost92837: folds 
+Uncalled bet ($2) returned to zigzag man57
+zigzag man57 collected $4.30 from pot
+zigzag man57: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [5h Ac 5d Kd 3c]
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: master_juan folded before Flop
+Seat 3: Triton1956 folded before Flop (didn't bet)
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: zigzag man57 collected ($4.30)
+Seat 7: marbru7 folded before Flop (didn't bet)
+Seat 8: joshil3 (button) folded before Flop (didn't bet)
+Seat 9: Apost92837 (small blind) folded on the River
+
+
+
+PokerStars Game #20082838229:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:16:54 (ET)
+Table 'Monoceros II' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($37.95 in chips) 
+Seat 2: master_juan ($9 in chips) 
+Seat 3: Triton1956 ($13.25 in chips) 
+Seat 4: de captain ($28.35 in chips) 
+Seat 5: zigzag man57 ($10.30 in chips) 
+Seat 7: marbru7 ($27.05 in chips) 
+Seat 8: joshil3 ($26 in chips) 
+Seat 9: Apost92837 ($12.10 in chips) 
+Alameda22: posts small blind $0.10
+master_juan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 9s]
+Triton1956: calls $0.25
+de captain: folds 
+zigzag man57: calls $0.25
+marbru7: folds 
+kev-m-10 joins the table at seat #6 
+joshil3: calls $0.25
+Apost92837: calls $0.25
+Alameda22: calls $0.15
+master_juan: checks 
+*** FLOP *** [8s 7c 8h]
+Alameda22: checks 
+master_juan: checks 
+Triton1956: checks 
+zigzag man57: checks 
+joshil3: checks 
+Apost92837: checks 
+*** TURN *** [8s 7c 8h] [5d]
+Alameda22: bets $0.75
+master_juan: raises $0.75 to $1.50
+Triton1956: folds 
+zigzag man57: folds 
+joshil3: folds 
+Apost92837: folds 
+Alameda22: calls $0.75
+*** RIVER *** [8s 7c 8h 5d] [Qh]
+Alameda22: bets $3
+master_juan: raises $4.25 to $7.25 and is all-in
+Alameda22: calls $4.25
+*** SHOW DOWN ***
+master_juan: shows [5s 5c] (a full house, Fives full of Eights)
+Alameda22: mucks hand 
+master_juan collected $18.10 from pot
+*** SUMMARY ***
+Total pot $19 | Rake $0.90 
+Board [8s 7c 8h 5d Qh]
+Seat 1: Alameda22 (small blind) mucked [6d 9s]
+Seat 2: master_juan (big blind) showed [5s 5c] and won ($18.10) with a full house, Fives full of Eights
+Seat 3: Triton1956 folded on the Turn
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: zigzag man57 folded on the Turn
+Seat 7: marbru7 folded before Flop (didn't bet)
+Seat 8: joshil3 folded on the Turn
+Seat 9: Apost92837 (button) folded on the Turn
+
+
+
+PokerStars Game #20082879793:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:19:31 (ET)
+Table 'Monoceros II' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($28.95 in chips) 
+Seat 2: master_juan ($18.10 in chips) 
+Seat 3: Triton1956 ($13 in chips) 
+Seat 4: de captain ($28.35 in chips) 
+Seat 5: zigzag man57 ($10.05 in chips) 
+Seat 7: marbru7 ($27.05 in chips) 
+Seat 8: joshil3 ($25.75 in chips) 
+Seat 9: Apost92837 ($11.85 in chips) 
+master_juan: posts small blind $0.10
+Triton1956: posts big blind $0.25
+kev-m-10: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 3c]
+de captain: folds 
+zigzag man57: calls $0.25
+marbru7: calls $0.25
+joshil3: folds 
+Apost92837: folds 
+Apost92837 leaves the table
+Alameda22: folds 
+master_juan: calls $0.15
+Triton1956: checks 
+*** FLOP *** [5h 9c 6h]
+master_juan: checks 
+Triton1956: checks 
+zigzag man57: checks 
+marbru7: checks 
+*** TURN *** [5h 9c 6h] [7s]
+master_juan: checks 
+Triton1956: checks 
+zigzag man57: bets $0.25
+marbru7: calls $0.25
+master_juan: folds 
+Triton1956: folds 
+*** RIVER *** [5h 9c 6h 7s] [Jd]
+zigzag man57: checks 
+marbru7: checks 
+*** SHOW DOWN ***
+zigzag man57: shows [7c As] (a pair of Sevens)
+marbru7: mucks hand 
+zigzag man57 collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [5h 9c 6h 7s Jd]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: master_juan (small blind) folded on the Turn
+Seat 3: Triton1956 (big blind) folded on the Turn
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: zigzag man57 showed [7c As] and won ($1.45) with a pair of Sevens
+Seat 7: marbru7 mucked [4h 4d]
+Seat 8: joshil3 folded before Flop (didn't bet)
+Seat 9: Apost92837 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082901454:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:20:53 (ET)
+Table 'Monoceros II' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($28.95 in chips) 
+Seat 2: master_juan ($17.85 in chips) 
+Seat 3: Triton1956 ($12.75 in chips) 
+Seat 4: de captain ($28.35 in chips) 
+Seat 5: zigzag man57 ($11 in chips) 
+Seat 7: marbru7 ($26.55 in chips) 
+Seat 8: joshil3 ($25.75 in chips) 
+Triton1956: posts small blind $0.10
+de captain: posts big blind $0.25
+kev-m-10: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Jc]
+zigzag man57: calls $0.25
+marbru7: calls $0.25
+joshil3: folds 
+Alameda22: folds 
+master_juan: folds 
+Triton1956: calls $0.15
+de captain: checks 
+*** FLOP *** [8c Qc 2s]
+Triton1956: bets $0.25
+de captain: folds 
+zigzag man57: folds 
+marbru7: calls $0.25
+*** TURN *** [8c Qc 2s] [Ad]
+Triton1956: bets $0.25
+marbru7: raises $0.25 to $0.50
+Triton1956: calls $0.25
+*** RIVER *** [8c Qc 2s Ad] [Qd]
+Triton1956: checks 
+marbru7: checks 
+*** SHOW DOWN ***
+Triton1956: shows [5s Qh] (three of a kind, Queens)
+marbru7: mucks hand 
+Triton1956 collected $2.40 from pot
+fireman1760 joins the table at seat #9 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [8c Qc 2s Ad Qd]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan (button) folded before Flop (didn't bet)
+Seat 3: Triton1956 (small blind) showed [5s Qh] and won ($2.40) with three of a kind, Queens
+Seat 4: de captain (big blind) folded on the Flop
+Seat 5: zigzag man57 folded on the Flop
+Seat 7: marbru7 mucked [4s As]
+Seat 8: joshil3 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082915812:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:21:49 (ET)
+Table 'Monoceros II' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($28.95 in chips) 
+Seat 2: master_juan ($17.85 in chips) 
+Seat 3: Triton1956 ($14.15 in chips) 
+Seat 4: de captain ($28.10 in chips) 
+Seat 5: zigzag man57 ($10.75 in chips) 
+Seat 7: marbru7 ($25.55 in chips) 
+Seat 8: joshil3 ($25.75 in chips) 
+de captain: posts small blind $0.10
+zigzag man57: posts big blind $0.25
+kev-m-10: sits out 
+fireman1760: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Qc]
+marbru7: raises $0.25 to $0.50
+joshil3: folds 
+Alameda22: folds 
+master_juan: folds 
+Triton1956: folds 
+de captain: folds 
+zigzag man57: calls $0.25
+*** FLOP *** [Jc Ac As]
+zigzag man57: bets $0.25
+marbru7: calls $0.25
+*** TURN *** [Jc Ac As] [4s]
+zigzag man57: bets $0.25
+marbru7: raises $0.25 to $0.50
+zigzag man57: calls $0.25
+*** RIVER *** [Jc Ac As 4s] [5h]
+zigzag man57: checks 
+marbru7: bets $3.25
+zigzag man57: folds 
+Uncalled bet ($3.25) returned to marbru7
+marbru7 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Jc Ac As 4s 5h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: Triton1956 (button) folded before Flop (didn't bet)
+Seat 4: de captain (small blind) folded before Flop
+Seat 5: zigzag man57 (big blind) folded on the River
+Seat 7: marbru7 collected ($2.50)
+Seat 8: joshil3 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082936090:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:23:07 (ET)
+Table 'Monoceros II' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($28.95 in chips) 
+Seat 2: master_juan ($17.85 in chips) 
+Seat 3: Triton1956 ($14.15 in chips) 
+Seat 4: de captain ($28 in chips) 
+Seat 5: zigzag man57 ($9.50 in chips) 
+Seat 6: kev-m-10 ($21.45 in chips) 
+Seat 7: marbru7 ($26.80 in chips) 
+Seat 8: joshil3 ($25.75 in chips) 
+zigzag man57: posts small blind $0.10
+kev-m-10: posts big blind $0.25
+fireman1760: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 7d]
+marbru7: raises $0.25 to $0.50
+joshil3: folds 
+Alameda22: folds 
+master_juan: folds 
+Triton1956: raises $0.25 to $0.75
+de captain: folds 
+zigzag man57: folds 
+kev-m-10: folds 
+marbru7: calls $0.25
+*** FLOP *** [2s Qh Ac]
+marbru7: checks 
+Triton1956: bets $0.75
+marbru7: folds 
+Uncalled bet ($0.75) returned to Triton1956
+Triton1956 collected $1.80 from pot
+Triton1956: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [2s Qh Ac]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: Triton1956 collected ($1.80)
+Seat 4: de captain (button) folded before Flop (didn't bet)
+Seat 5: zigzag man57 (small blind) folded before Flop
+Seat 6: kev-m-10 (big blind) folded before Flop
+Seat 7: marbru7 folded on the Flop
+Seat 8: joshil3 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082950655:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:24:03 (ET)
+Table 'Monoceros II' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($28.95 in chips) 
+Seat 2: master_juan ($17.85 in chips) 
+Seat 3: Triton1956 ($15.20 in chips) 
+Seat 4: de captain ($28 in chips) 
+Seat 5: zigzag man57 ($9.40 in chips) 
+Seat 6: kev-m-10 ($21.20 in chips) 
+Seat 7: marbru7 ($26.05 in chips) 
+Seat 8: joshil3 ($25.75 in chips) 
+kev-m-10: posts small blind $0.10
+marbru7: posts big blind $0.25
+fireman1760: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Jh]
+joshil3: folds 
+Alameda22: folds 
+master_juan: folds 
+Triton1956: folds 
+de captain: folds 
+zigzag man57: calls $0.25
+kev-m-10: calls $0.15
+marbru7: checks 
+*** FLOP *** [4c Ks 3h]
+kev-m-10: checks 
+marbru7: checks 
+zigzag man57: checks 
+*** TURN *** [4c Ks 3h] [Tc]
+kev-m-10: bets $0.25
+marbru7: folds 
+zigzag man57: folds 
+Uncalled bet ($0.25) returned to kev-m-10
+kev-m-10 collected $0.75 from pot
+kev-m-10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [4c Ks 3h Tc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: Triton1956 folded before Flop (didn't bet)
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: zigzag man57 (button) folded on the Turn
+Seat 6: kev-m-10 (small blind) collected ($0.75)
+Seat 7: marbru7 (big blind) folded on the Turn
+Seat 8: joshil3 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082963443:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:24:51 (ET)
+Table 'Monoceros II' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($28.95 in chips) 
+Seat 2: master_juan ($17.85 in chips) 
+Seat 3: Triton1956 ($15.20 in chips) 
+Seat 4: de captain ($28 in chips) 
+Seat 5: zigzag man57 ($9.15 in chips) 
+Seat 6: kev-m-10 ($21.70 in chips) 
+Seat 7: marbru7 ($25.80 in chips) 
+Seat 8: joshil3 ($25.75 in chips) 
+marbru7: posts small blind $0.10
+joshil3: posts big blind $0.25
+fireman1760: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 7h]
+Alameda22: folds 
+master_juan: folds 
+Triton1956: folds 
+de captain: folds 
+zigzag man57: folds 
+kev-m-10: folds 
+marbru7: raises $0.50 to $0.75
+joshil3: raises $2 to $2.75
+marbru7: calls $2
+*** FLOP *** [4h Jh Qd]
+marbru7: checks 
+joshil3: bets $3.75
+marbru7: folds 
+Uncalled bet ($3.75) returned to joshil3
+joshil3 collected $5.25 from pot
+joshil3: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25 
+Board [4h Jh Qd]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: Triton1956 folded before Flop (didn't bet)
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: zigzag man57 folded before Flop (didn't bet)
+Seat 6: kev-m-10 (button) folded before Flop (didn't bet)
+Seat 7: marbru7 (small blind) folded on the Flop
+Seat 8: joshil3 (big blind) collected ($5.25)
+
+
+
+PokerStars Game #20082978214:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:25:48 (ET)
+Table 'Monoceros II' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($28.95 in chips) 
+Seat 2: master_juan ($17.85 in chips) 
+Seat 3: Triton1956 ($15.20 in chips) 
+Seat 4: de captain ($28 in chips) 
+Seat 5: zigzag man57 ($9.15 in chips) 
+Seat 6: kev-m-10 ($21.70 in chips) 
+Seat 7: marbru7 ($23.05 in chips) 
+Seat 8: joshil3 ($28.25 in chips) 
+Seat 9: fireman1760 ($13.90 in chips) 
+joshil3: posts small blind $0.10
+fireman1760: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 5s]
+Alameda22: folds 
+master_juan: folds 
+Triton1956: folds 
+de captain: folds 
+zigzag man57: folds 
+kev-m-10: folds 
+marbru7: calls $0.25
+joshil3: folds 
+fireman1760: checks 
+*** FLOP *** [7c 2d 2s]
+fireman1760: checks 
+marbru7: checks 
+*** TURN *** [7c 2d 2s] [Qc]
+fireman1760: bets $0.75
+marbru7: folds 
+Uncalled bet ($0.75) returned to fireman1760
+fireman1760 collected $0.60 from pot
+fireman1760: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7c 2d 2s Qc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: Triton1956 folded before Flop (didn't bet)
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: zigzag man57 folded before Flop (didn't bet)
+Seat 6: kev-m-10 folded before Flop (didn't bet)
+Seat 7: marbru7 (button) folded on the Turn
+Seat 8: joshil3 (small blind) folded before Flop
+Seat 9: fireman1760 (big blind) collected ($0.60)
+
+
+
+PokerStars Game #20082993749:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:26:47 (ET)
+Table 'Monoceros II' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($28.95 in chips) 
+Seat 2: master_juan ($17.85 in chips) 
+Seat 3: Triton1956 ($15.20 in chips) 
+Seat 4: de captain ($28 in chips) 
+Seat 5: zigzag man57 ($9.15 in chips) 
+Seat 6: kev-m-10 ($21.70 in chips) 
+Seat 7: marbru7 ($22.80 in chips) 
+Seat 8: joshil3 ($28.15 in chips) 
+Seat 9: fireman1760 ($14.25 in chips) 
+fireman1760: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Ad]
+master_juan: folds 
+Triton1956: folds 
+de captain: folds 
+zigzag man57: folds 
+kev-m-10: folds 
+marbru7: folds 
+joshil3: folds 
+fireman1760: calls $0.15
+Alameda22: checks 
+*** FLOP *** [3h 7s 5c]
+fireman1760: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to fireman1760
+fireman1760 collected $0.50 from pot
+fireman1760: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [3h 7s 5c]
+Seat 1: Alameda22 (big blind) folded on the Flop
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: Triton1956 folded before Flop (didn't bet)
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: zigzag man57 folded before Flop (didn't bet)
+Seat 6: kev-m-10 folded before Flop (didn't bet)
+Seat 7: marbru7 folded before Flop (didn't bet)
+Seat 8: joshil3 (button) folded before Flop (didn't bet)
+Seat 9: fireman1760 (small blind) collected ($0.50)
+
+
+
+PokerStars Game #20083009942:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:27:50 (ET)
+Table 'Monoceros II' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($28.70 in chips) 
+Seat 2: master_juan ($17.85 in chips) 
+Seat 3: Triton1956 ($15.20 in chips) 
+Seat 4: de captain ($28 in chips) 
+Seat 5: zigzag man57 ($9.15 in chips) 
+Seat 6: kev-m-10 ($21.70 in chips) 
+Seat 7: marbru7 ($22.80 in chips) 
+Seat 8: joshil3 ($28.15 in chips) 
+Seat 9: fireman1760 ($14.50 in chips) 
+Alameda22: posts small blind $0.10
+master_juan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Ad]
+Triton1956: folds 
+de captain: folds 
+zigzag man57: folds 
+kev-m-10: folds 
+marbru7: calls $0.25
+joshil3: raises $1 to $1.25
+fireman1760: calls $1.25
+Alameda22: folds 
+master_juan: folds 
+marbru7: calls $1
+*** FLOP *** [3d Th 4h]
+marbru7: checks 
+joshil3: bets $2.75
+fireman1760: folds 
+marbru7: folds 
+Uncalled bet ($2.75) returned to joshil3
+joshil3 collected $3.90 from pot
+joshil3: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [3d Th 4h]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: master_juan (big blind) folded before Flop
+Seat 3: Triton1956 folded before Flop (didn't bet)
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: zigzag man57 folded before Flop (didn't bet)
+Seat 6: kev-m-10 folded before Flop (didn't bet)
+Seat 7: marbru7 folded on the Flop
+Seat 8: joshil3 collected ($3.90)
+Seat 9: fireman1760 (button) folded on the Flop
+
+
+
+PokerStars Game #20083029241:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:29:05 (ET)
+Table 'Monoceros II' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($28.60 in chips) 
+Seat 2: master_juan ($17.60 in chips) 
+Seat 3: Triton1956 ($15.20 in chips) 
+Seat 4: de captain ($28 in chips) 
+Seat 5: zigzag man57 ($9.15 in chips) 
+Seat 6: kev-m-10 ($21.70 in chips) 
+Seat 7: marbru7 ($25 in chips) 
+Seat 8: joshil3 ($30.80 in chips) 
+Seat 9: fireman1760 ($13.25 in chips) 
+master_juan: posts small blind $0.10
+Triton1956: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 2h]
+de captain: folds 
+zigzag man57: folds 
+kev-m-10: folds 
+marbru7: calls $0.25
+joshil3: folds 
+fireman1760: folds 
+Alameda22: folds 
+master_juan: calls $0.15
+Triton1956: checks 
+*** FLOP *** [8c Kc 3c]
+master_juan: checks 
+Triton1956: bets $0.25
+marbru7: folds 
+master_juan: calls $0.25
+*** TURN *** [8c Kc 3c] [2c]
+master_juan: checks 
+Triton1956: bets $0.25
+master_juan: calls $0.25
+*** RIVER *** [8c Kc 3c 2c] [Ad]
+master_juan: checks 
+Triton1956: bets $0.75
+master_juan: folds 
+Uncalled bet ($0.75) returned to Triton1956
+Triton1956 collected $1.70 from pot
+Triton1956: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [8c Kc 3c 2c Ad]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: master_juan (small blind) folded on the River
+Seat 3: Triton1956 (big blind) collected ($1.70)
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: zigzag man57 folded before Flop (didn't bet)
+Seat 6: kev-m-10 folded before Flop (didn't bet)
+Seat 7: marbru7 folded on the Flop
+Seat 8: joshil3 folded before Flop (didn't bet)
+Seat 9: fireman1760 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083053574:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:30:41 (ET)
+Table 'Monoceros II' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($28.60 in chips) 
+Seat 2: master_juan ($16.85 in chips) 
+Seat 3: Triton1956 ($16.15 in chips) 
+Seat 4: de captain ($28 in chips) 
+Seat 5: zigzag man57 ($9.15 in chips) 
+Seat 6: kev-m-10 ($21.70 in chips) 
+Seat 7: marbru7 ($24.75 in chips) 
+Seat 8: joshil3 ($30.80 in chips) 
+Seat 9: fireman1760 ($13.25 in chips) 
+Triton1956: posts small blind $0.10
+de captain: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Qc]
+zigzag man57: folds 
+kev-m-10: calls $0.25
+zigzag man57 leaves the table
+marbru7: folds 
+joshil3: folds 
+fireman1760: folds 
+Alameda22: folds 
+master_juan: folds 
+Triton1956: calls $0.15
+kingsley87 joins the table at seat #5 
+de captain: checks 
+*** FLOP *** [Qh 9c Qs]
+Triton1956: checks 
+de captain: checks 
+kev-m-10: checks 
+*** TURN *** [Qh 9c Qs] [5s]
+Triton1956: checks 
+de captain: checks 
+kev-m-10: checks 
+*** RIVER *** [Qh 9c Qs 5s] [As]
+Triton1956: checks 
+de captain: checks 
+kev-m-10: bets $0.50
+Triton1956: folds 
+de captain: calls $0.50
+*** SHOW DOWN ***
+kev-m-10: shows [Qd 9h] (a full house, Queens full of Nines)
+de captain: mucks hand 
+kev-m-10 collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Qh 9c Qs 5s As]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan (button) folded before Flop (didn't bet)
+Seat 3: Triton1956 (small blind) folded on the River
+Seat 4: de captain (big blind) mucked [9d Ad]
+Seat 5: zigzag man57 folded before Flop (didn't bet)
+Seat 6: kev-m-10 showed [Qd 9h] and won ($1.70) with a full house, Queens full of Nines
+Seat 7: marbru7 folded before Flop (didn't bet)
+Seat 8: joshil3 folded before Flop (didn't bet)
+Seat 9: fireman1760 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083082395:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:32:25 (ET)
+Table 'Monoceros II' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($28.60 in chips) 
+Seat 2: master_juan ($16.85 in chips) 
+Seat 3: Triton1956 ($15.90 in chips) 
+Seat 4: de captain ($27.25 in chips) 
+Seat 5: kingsley87 ($25 in chips) 
+Seat 6: kev-m-10 ($22.65 in chips) 
+Seat 7: marbru7 ($24.75 in chips) 
+Seat 8: joshil3 ($30.80 in chips) 
+Seat 9: fireman1760 ($13.25 in chips) 
+de captain: posts small blind $0.10
+kingsley87: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Kh]
+kev-m-10: calls $0.25
+marbru7: calls $0.25
+joshil3: folds 
+fireman1760: folds 
+Alameda22: folds 
+master_juan: folds 
+Triton1956: folds 
+de captain: folds 
+kingsley87: checks 
+*** FLOP *** [8d 7h 5h]
+kingsley87: bets $0.70
+kev-m-10: calls $0.70
+marbru7: folds 
+*** TURN *** [8d 7h 5h] [Kc]
+kingsley87: checks 
+kev-m-10: checks 
+*** RIVER *** [8d 7h 5h Kc] [4d]
+kingsley87: checks 
+kev-m-10: checks 
+*** SHOW DOWN ***
+kingsley87: shows [Qc 8h] (a pair of Eights)
+kev-m-10: shows [9h 8s] (a pair of Eights - lower kicker)
+kingsley87 collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [8d 7h 5h Kc 4d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: Triton1956 (button) folded before Flop (didn't bet)
+Seat 4: de captain (small blind) folded before Flop
+Seat 5: kingsley87 (big blind) showed [Qc 8h] and won ($2.15) with a pair of Eights
+Seat 6: kev-m-10 showed [9h 8s] and lost with a pair of Eights
+Seat 7: marbru7 folded on the Flop
+Seat 8: joshil3 folded before Flop (didn't bet)
+Seat 9: fireman1760 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083100784:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:33:32 (ET)
+Table 'Monoceros II' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($28.60 in chips) 
+Seat 2: master_juan ($16.85 in chips) 
+Seat 3: Triton1956 ($15.90 in chips) 
+Seat 4: de captain ($27.15 in chips) 
+Seat 5: kingsley87 ($26.20 in chips) 
+Seat 6: kev-m-10 ($21.70 in chips) 
+Seat 7: marbru7 ($24.50 in chips) 
+Seat 8: joshil3 ($30.80 in chips) 
+Seat 9: fireman1760 ($13.25 in chips) 
+kingsley87: posts small blind $0.10
+kev-m-10: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 2s]
+marbru7: folds 
+joshil3: folds 
+fireman1760: raises $0.50 to $0.75
+Alameda22: folds 
+master_juan: folds 
+Triton1956: folds 
+de captain: folds 
+kingsley87: calls $0.65
+kev-m-10: folds 
+*** FLOP *** [Th 9d 4h]
+kingsley87: checks 
+fireman1760: bets $1
+kingsley87: folds 
+Uncalled bet ($1) returned to fireman1760
+fireman1760 collected $1.70 from pot
+fireman1760: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Th 9d 4h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: Triton1956 folded before Flop (didn't bet)
+Seat 4: de captain (button) folded before Flop (didn't bet)
+Seat 5: kingsley87 (small blind) folded on the Flop
+Seat 6: kev-m-10 (big blind) folded before Flop
+Seat 7: marbru7 folded before Flop (didn't bet)
+Seat 8: joshil3 folded before Flop (didn't bet)
+Seat 9: fireman1760 collected ($1.70)
+
+
+
+PokerStars Game #20083113895:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:34:21 (ET)
+Table 'Monoceros II' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($28.60 in chips) 
+Seat 2: master_juan ($16.85 in chips) 
+Seat 3: Triton1956 ($15.90 in chips) 
+Seat 4: de captain ($27.15 in chips) 
+Seat 5: kingsley87 ($25.45 in chips) 
+Seat 6: kev-m-10 ($21.45 in chips) 
+Seat 7: marbru7 ($24.50 in chips) 
+Seat 8: joshil3 ($30.80 in chips) 
+Seat 9: fireman1760 ($14.20 in chips) 
+kev-m-10: posts small blind $0.10
+marbru7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 9c]
+joshil3: folds 
+fireman1760: folds 
+Alameda22: folds 
+master_juan: folds 
+Triton1956: folds 
+de captain: folds 
+kingsley87: folds 
+kev-m-10: folds 
+Uncalled bet ($0.15) returned to marbru7
+marbru7 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: Triton1956 folded before Flop (didn't bet)
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: kingsley87 (button) folded before Flop (didn't bet)
+Seat 6: kev-m-10 (small blind) folded before Flop
+Seat 7: marbru7 (big blind) collected ($0.20)
+Seat 8: joshil3 folded before Flop (didn't bet)
+Seat 9: fireman1760 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083127799:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:35:12 (ET)
+Table 'Monoceros II' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($28.60 in chips) 
+Seat 2: master_juan ($16.85 in chips) 
+Seat 3: Triton1956 ($15.90 in chips) 
+Seat 4: de captain ($27.15 in chips) 
+Seat 5: kingsley87 ($25.45 in chips) 
+Seat 6: kev-m-10 ($21.35 in chips) 
+Seat 7: marbru7 ($24.60 in chips) 
+Seat 8: joshil3 ($30.80 in chips) 
+Seat 9: fireman1760 ($14.20 in chips) 
+marbru7: posts small blind $0.10
+joshil3: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 3h]
+fireman1760: calls $0.25
+Alameda22: folds 
+master_juan: folds 
+Triton1956: calls $0.25
+de captain: folds 
+kingsley87: folds 
+kev-m-10: calls $0.25
+marbru7: raises $0.50 to $0.75
+joshil3: folds 
+fireman1760: calls $0.50
+Triton1956: calls $0.50
+kev-m-10: calls $0.50
+*** FLOP *** [Ks Js 2c]
+marbru7: checks 
+fireman1760: checks 
+Triton1956: checks 
+kev-m-10: checks 
+*** TURN *** [Ks Js 2c] [7c]
+marbru7: checks 
+fireman1760: checks 
+Triton1956: checks 
+kev-m-10: checks 
+*** RIVER *** [Ks Js 2c 7c] [3d]
+marbru7: checks 
+fireman1760: checks 
+Triton1956: checks 
+kev-m-10: checks 
+*** SHOW DOWN ***
+marbru7: shows [Ad Qs] (high card Ace)
+fireman1760: shows [8s 8h] (a pair of Eights)
+Triton1956: mucks hand 
+kev-m-10: mucks hand 
+fireman1760 collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Ks Js 2c 7c 3d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: master_juan folded before Flop (didn't bet)
+Seat 3: Triton1956 mucked [6h Th]
+Seat 4: de captain folded before Flop (didn't bet)
+Seat 5: kingsley87 folded before Flop (didn't bet)
+Seat 6: kev-m-10 (button) mucked [Ts 5s]
+Seat 7: marbru7 (small blind) showed [Ad Qs] and lost with high card Ace
+Seat 8: joshil3 (big blind) folded before Flop
+Seat 9: fireman1760 showed [8s 8h] and won ($3.10) with a pair of Eights
+
+
+

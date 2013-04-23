@@ -1,0 +1,2485 @@
+PokerStars Game #19273777638:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:15:38 (ET)
+Table 'Taurus IV' 9-max Seat #1 is the button
+Seat 1: xxwendy_oxx ($21.55 in chips) 
+Seat 2: MaPiec ($61.95 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: jdinhou ($19.15 in chips) 
+Seat 5: Urvile ($23.15 in chips) 
+Seat 6: Zippi 1965 ($5.90 in chips) 
+Seat 7: Troelg ($23.40 in chips) 
+Seat 8: Boot Hill ($2.75 in chips) 
+Seat 9: crowsen ($5.50 in chips) 
+MaPiec: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 5d]
+jdinhou: folds 
+Urvile: folds 
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: raises $0.25 to $0.50
+crowsen: folds 
+xxwendy_oxx: calls $0.50
+MaPiec: folds 
+Alameda22: folds 
+*** FLOP *** [7c Ah Jc]
+Boot Hill: bets $0.75
+xxwendy_oxx: folds 
+Uncalled bet ($0.75) returned to Boot Hill
+Boot Hill collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [7c Ah Jc]
+Seat 1: xxwendy_oxx (button) folded on the Flop
+Seat 2: MaPiec (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: jdinhou folded before Flop (didn't bet)
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: Zippi 1965 folded before Flop (didn't bet)
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill collected ($1.30)
+Seat 9: crowsen folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273792463:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:16:21 (ET)
+Table 'Taurus IV' 9-max Seat #2 is the button
+Seat 1: xxwendy_oxx ($21.05 in chips) 
+Seat 2: MaPiec ($61.85 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: jdinhou ($19.15 in chips) 
+Seat 5: Urvile ($23.15 in chips) 
+Seat 6: Zippi 1965 ($5.90 in chips) 
+Seat 7: Troelg ($23.40 in chips) 
+Seat 8: Boot Hill ($3.55 in chips) 
+Seat 9: crowsen ($5.50 in chips) 
+Alameda22: posts small blind $0.10
+jdinhou: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 5c]
+Urvile: folds 
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: raises $0.25 to $0.50
+crowsen: folds 
+xxwendy_oxx: calls $0.50
+MaPiec: calls $0.50
+Alameda22: folds 
+jdinhou: calls $0.25
+*** FLOP *** [9c 7s 4c]
+jdinhou: checks 
+Boot Hill: bets $0.75
+xxwendy_oxx: folds 
+MaPiec: folds 
+jdinhou: calls $0.75
+*** TURN *** [9c 7s 4c] [4s]
+jdinhou: checks 
+Boot Hill: bets $1
+jdinhou: raises $1 to $2
+Boot Hill: raises $0.30 to $2.30 and is all-in
+jdinhou: calls $0.30
+*** RIVER *** [9c 7s 4c 4s] [Qs]
+*** SHOW DOWN ***
+jdinhou: shows [9h Th] (two pair, Nines and Fours)
+Boot Hill: shows [7h 7d] (a full house, Sevens full of Fours)
+Boot Hill collected $7.80 from pot
+*** SUMMARY ***
+Total pot $8.20 | Rake $0.40 
+Board [9c 7s 4c 4s Qs]
+Seat 1: xxwendy_oxx folded on the Flop
+Seat 2: MaPiec (button) folded on the Flop
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: jdinhou (big blind) showed [9h Th] and lost with two pair, Nines and Fours
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: Zippi 1965 folded before Flop (didn't bet)
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill showed [7h 7d] and won ($7.80) with a full house, Sevens full of Fours
+Seat 9: crowsen folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273820578:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:17:43 (ET)
+Table 'Taurus IV' 9-max Seat #3 is the button
+Seat 1: xxwendy_oxx ($20.55 in chips) 
+Seat 2: MaPiec ($61.35 in chips) 
+Seat 3: Alameda22 ($24.65 in chips) 
+Seat 4: jdinhou ($15.60 in chips) 
+Seat 5: Urvile ($25 in chips) 
+Seat 6: Zippi 1965 ($5.90 in chips) 
+Seat 7: Troelg ($23.40 in chips) 
+Seat 8: Boot Hill ($7.80 in chips) 
+Seat 9: crowsen ($5.50 in chips) 
+jdinhou: posts small blind $0.10
+Urvile: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 7c]
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: raises $0.25 to $0.50
+crowsen: folds 
+xxwendy_oxx: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: folds 
+Urvile: calls $0.25
+*** FLOP *** [Th Kc Ts]
+Urvile: checks 
+Boot Hill: bets $0.75
+Urvile: folds 
+Uncalled bet ($0.75) returned to Boot Hill
+Boot Hill collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Th Kc Ts]
+Seat 1: xxwendy_oxx folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: jdinhou (small blind) folded before Flop
+Seat 5: Urvile (big blind) folded on the Flop
+Seat 6: Zippi 1965 folded before Flop (didn't bet)
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill collected ($1.05)
+Seat 9: crowsen folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273829549:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:18:10 (ET)
+Table 'Taurus IV' 9-max Seat #4 is the button
+Seat 1: xxwendy_oxx ($20.55 in chips) 
+Seat 2: MaPiec ($61.35 in chips) 
+Seat 3: Alameda22 ($24.65 in chips) 
+Seat 4: jdinhou ($15.50 in chips) 
+Seat 5: Urvile ($24.50 in chips) 
+Seat 6: Zippi 1965 ($5.90 in chips) 
+Seat 7: Troelg ($23.40 in chips) 
+Seat 8: Boot Hill ($8.35 in chips) 
+Seat 9: crowsen ($5.50 in chips) 
+Urvile: posts small blind $0.10
+Zippi 1965: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 7s]
+Troelg: folds 
+Boot Hill: raises $0.25 to $0.50
+crowsen: folds 
+xxwendy_oxx: raises $1 to $1.50
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: folds 
+Urvile: raises $2.75 to $4.25
+Zippi 1965: folds 
+Boot Hill: folds 
+xxwendy_oxx: calls $2.75
+*** FLOP *** [Ks 2c 8d]
+Urvile: bets $3.50
+xxwendy_oxx: raises $3.50 to $7
+Urvile: raises $8.75 to $15.75
+xxwendy_oxx: folds 
+Uncalled bet ($8.75) returned to Urvile
+Urvile collected $22.15 from pot
+Urvile: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.25 | Rake $1.10 
+Board [Ks 2c 8d]
+Seat 1: xxwendy_oxx folded on the Flop
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou (button) folded before Flop (didn't bet)
+Seat 5: Urvile (small blind) collected ($22.15)
+Seat 6: Zippi 1965 (big blind) folded before Flop
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill folded before Flop
+Seat 9: crowsen folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273862295:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:19:40 (ET)
+Table 'Taurus IV' 9-max Seat #5 is the button
+Seat 1: xxwendy_oxx ($9.30 in chips) 
+Seat 2: MaPiec ($61.35 in chips) 
+Seat 3: Alameda22 ($24.65 in chips) 
+Seat 4: jdinhou ($15.50 in chips) 
+Seat 5: Urvile ($35.40 in chips) 
+Seat 6: Zippi 1965 ($5.65 in chips) 
+Seat 7: Troelg ($23.40 in chips) 
+Seat 8: Boot Hill ($7.85 in chips) 
+Seat 9: crowsen ($5.50 in chips) 
+Zippi 1965: posts small blind $0.10
+Troelg: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 8s]
+Boot Hill: folds 
+crowsen: folds 
+xxwendy_oxx: folds 
+MaPiec: folds 
+xxwendy_oxx said, "qq"
+Alameda22: folds 
+jdinhou: calls $0.25
+Urvile: folds 
+Zippi 1965: folds 
+xxwendy_oxx said, "nh"
+Troelg: checks 
+*** FLOP *** [Qc Tc 6s]
+Troelg: checks 
+jdinhou: bets $0.50
+Troelg: folds 
+Uncalled bet ($0.50) returned to jdinhou
+jdinhou collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qc Tc 6s]
+Seat 1: xxwendy_oxx folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou collected ($0.60)
+Seat 5: Urvile (button) folded before Flop (didn't bet)
+Seat 6: Zippi 1965 (small blind) folded before Flop
+Seat 7: Troelg (big blind) folded on the Flop
+Seat 8: Boot Hill folded before Flop (didn't bet)
+Seat 9: crowsen folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273884939:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:20:40 (ET)
+Table 'Taurus IV' 9-max Seat #6 is the button
+Seat 1: xxwendy_oxx ($19.30 in chips) 
+Seat 2: MaPiec ($61.35 in chips) 
+Seat 3: Alameda22 ($24.65 in chips) 
+Seat 4: jdinhou ($15.85 in chips) 
+Seat 5: Urvile ($35.40 in chips) 
+Seat 6: Zippi 1965 ($5.55 in chips) 
+Seat 7: Troelg ($23.15 in chips) 
+Seat 8: Boot Hill ($7.85 in chips) 
+Seat 9: crowsen ($5.50 in chips) 
+Troelg: posts small blind $0.10
+Boot Hill: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 5s]
+crowsen: folds 
+xxwendy_oxx: folds 
+crowsen leaves the table
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: raises $0.50 to $0.75
+Urvile: folds 
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: folds 
+Uncalled bet ($0.50) returned to jdinhou
+jdinhou collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: xxwendy_oxx folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou collected ($0.60)
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: Zippi 1965 (button) folded before Flop (didn't bet)
+Seat 7: Troelg (small blind) folded before Flop
+Seat 8: Boot Hill (big blind) folded before Flop
+Seat 9: crowsen folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273891965:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:20:58 (ET)
+Table 'Taurus IV' 9-max Seat #7 is the button
+Seat 1: xxwendy_oxx ($19.30 in chips) 
+Seat 2: MaPiec ($61.35 in chips) 
+Seat 3: Alameda22 ($24.65 in chips) 
+Seat 4: jdinhou ($16.20 in chips) 
+Seat 5: Urvile ($35.40 in chips) 
+Seat 6: Zippi 1965 ($5.55 in chips) 
+Seat 7: Troelg ($23.05 in chips) 
+Seat 8: Boot Hill ($7.60 in chips) 
+Boot Hill: posts small blind $0.10
+xxwendy_oxx: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 7h]
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: calls $0.25
+Urvile: folds 
+Zippi 1965: folds 
+Troelg: folds 
+jinuwine23 joins the table at seat #9 
+Boot Hill: calls $0.15
+xxwendy_oxx: checks 
+*** FLOP *** [Ts 7d 9s]
+Boot Hill: bets $0.75
+xxwendy_oxx: calls $0.75
+jdinhou: raises $0.75 to $1.50
+Boot Hill: folds 
+xxwendy_oxx: calls $0.75
+*** TURN *** [Ts 7d 9s] [Kh]
+xxwendy_oxx: checks 
+jdinhou: bets $4
+xxwendy_oxx: folds 
+Uncalled bet ($4) returned to jdinhou
+jdinhou collected $4.30 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [Ts 7d 9s Kh]
+Seat 1: xxwendy_oxx (big blind) folded on the Turn
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou collected ($4.30)
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: Zippi 1965 folded before Flop (didn't bet)
+Seat 7: Troelg (button) folded before Flop (didn't bet)
+Seat 8: Boot Hill (small blind) folded on the Flop
+
+
+
+PokerStars Game #19273930809:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:22:42 (ET)
+Table 'Taurus IV' 9-max Seat #8 is the button
+Seat 1: xxwendy_oxx ($17.55 in chips) 
+Seat 2: MaPiec ($61.35 in chips) 
+Seat 3: Alameda22 ($24.65 in chips) 
+Seat 4: jdinhou ($18.75 in chips) 
+Seat 5: Urvile ($35.40 in chips) 
+Seat 6: Zippi 1965 ($5.55 in chips) 
+Seat 7: Troelg ($23.05 in chips) 
+Seat 8: Boot Hill ($6.60 in chips) 
+jinuwine23 will be allowed to play after the button
+xxwendy_oxx: posts small blind $0.10
+MaPiec: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 6d]
+Alameda22: folds 
+jdinhou: raises $0.50 to $0.75
+Urvile: calls $0.75
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: calls $0.75
+xxwendy_oxx: folds 
+MaPiec: folds 
+*** FLOP *** [7s 5h 9s]
+jdinhou: checks 
+Urvile: checks 
+Boot Hill: bets $0.75
+jdinhou: folds 
+Urvile: folds 
+Uncalled bet ($0.75) returned to Boot Hill
+Boot Hill collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [7s 5h 9s]
+Seat 1: xxwendy_oxx (small blind) folded before Flop
+Seat 2: MaPiec (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou folded on the Flop
+Seat 5: Urvile folded on the Flop
+Seat 6: Zippi 1965 folded before Flop (didn't bet)
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill (button) collected ($2.50)
+
+
+
+PokerStars Game #19273946443:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:23:24 (ET)
+Table 'Taurus IV' 9-max Seat #1 is the button
+Seat 1: xxwendy_oxx ($17.45 in chips) 
+Seat 2: MaPiec ($61.10 in chips) 
+Seat 3: Alameda22 ($24.65 in chips) 
+Seat 4: jdinhou ($18 in chips) 
+Seat 5: Urvile ($34.65 in chips) 
+Seat 6: Zippi 1965 ($5.55 in chips) 
+Seat 7: Troelg ($23.05 in chips) 
+Seat 8: Boot Hill ($8.35 in chips) 
+Seat 9: jinuwine23 ($5 in chips) 
+MaPiec: posts small blind $0.10
+Alameda22: posts big blind $0.25
+jinuwine23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 9h]
+jdinhou: folds 
+Urvile: folds 
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: raises $0.25 to $0.50
+jinuwine23: folds 
+xxwendy_oxx: folds 
+MaPiec: raises $1 to $1.50
+Alameda22: folds 
+Boot Hill: folds 
+Uncalled bet ($1) returned to MaPiec
+MaPiec collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: xxwendy_oxx (button) folded before Flop (didn't bet)
+Seat 2: MaPiec (small blind) collected ($1.50)
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: jdinhou folded before Flop (didn't bet)
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: Zippi 1965 folded before Flop (didn't bet)
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill folded before Flop
+Seat 9: jinuwine23 folded before Flop
+
+
+
+PokerStars Game #19273960961:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:24:03 (ET)
+Table 'Taurus IV' 9-max Seat #2 is the button
+Seat 1: xxwendy_oxx ($17.45 in chips) 
+Seat 2: MaPiec ($62.10 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: jdinhou ($18 in chips) 
+Seat 5: Urvile ($34.65 in chips) 
+Seat 6: Zippi 1965 ($5.55 in chips) 
+Seat 7: Troelg ($23.05 in chips) 
+Seat 8: Boot Hill ($7.85 in chips) 
+Seat 9: jinuwine23 ($4.75 in chips) 
+Alameda22: posts small blind $0.10
+jdinhou: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Qh]
+Urvile: folds 
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: folds 
+jinuwine23: folds 
+xxwendy_oxx: folds 
+MaPiec: folds 
+Alameda22: calls $0.15
+jdinhou: checks 
+*** FLOP *** [7d 2h As]
+Alameda22: checks 
+jdinhou: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to jdinhou
+jdinhou collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [7d 2h As]
+Seat 1: xxwendy_oxx folded before Flop (didn't bet)
+Seat 2: MaPiec (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded on the Flop
+Seat 4: jdinhou (big blind) collected ($0.50)
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: Zippi 1965 folded before Flop (didn't bet)
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill folded before Flop (didn't bet)
+Seat 9: jinuwine23 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273972075:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:24:34 (ET)
+Table 'Taurus IV' 9-max Seat #3 is the button
+Seat 1: xxwendy_oxx ($17.45 in chips) 
+Seat 2: MaPiec ($62.10 in chips) 
+Seat 3: Alameda22 ($24.15 in chips) 
+Seat 4: jdinhou ($18.25 in chips) 
+Seat 5: Urvile ($34.65 in chips) 
+Seat 6: Zippi 1965 ($5.55 in chips) 
+Seat 7: Troelg ($23.05 in chips) 
+Seat 8: Boot Hill ($7.85 in chips) 
+Seat 9: jinuwine23 ($4.75 in chips) 
+jdinhou: posts small blind $0.10
+Urvile: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Js]
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: raises $0.25 to $0.50
+jinuwine23: folds 
+xxwendy_oxx: folds 
+MaPiec: folds 
+Alameda22: calls $0.50
+jdinhou: folds 
+Urvile: folds 
+*** FLOP *** [3c 3d 9c]
+Boot Hill: bets $0.75
+Alameda22: calls $0.75
+*** TURN *** [3c 3d 9c] [Th]
+Boot Hill: checks 
+Alameda22: bets $2
+Boot Hill: folds 
+Uncalled bet ($2) returned to Alameda22
+Alameda22 collected $2.75 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [3c 3d 9c Th]
+Seat 1: xxwendy_oxx folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) collected ($2.75)
+Seat 4: jdinhou (small blind) folded before Flop
+Seat 5: Urvile (big blind) folded before Flop
+Seat 6: Zippi 1965 folded before Flop (didn't bet)
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill folded on the Turn
+Seat 9: jinuwine23 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273988794:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:25:21 (ET)
+Table 'Taurus IV' 9-max Seat #4 is the button
+Seat 1: xxwendy_oxx ($17.45 in chips) 
+Seat 2: MaPiec ($62.10 in chips) 
+Seat 3: Alameda22 ($25.65 in chips) 
+Seat 4: jdinhou ($18.15 in chips) 
+Seat 5: Urvile ($34.40 in chips) 
+Seat 6: Zippi 1965 ($5.55 in chips) 
+Seat 7: Troelg ($23.05 in chips) 
+Seat 8: Boot Hill ($6.60 in chips) 
+Seat 9: jinuwine23 ($4.75 in chips) 
+Urvile: posts small blind $0.10
+Zippi 1965: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Kc]
+Troelg: folds 
+Boot Hill: raises $0.25 to $0.50
+jinuwine23: folds 
+xxwendy_oxx: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: calls $0.50
+Urvile: folds 
+Zippi 1965: folds 
+*** FLOP *** [Ts 2d Kd]
+Boot Hill: bets $0.75
+jdinhou: folds 
+Uncalled bet ($0.75) returned to Boot Hill
+Boot Hill collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [Ts 2d Kd]
+Seat 1: xxwendy_oxx folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou (button) folded on the Flop
+Seat 5: Urvile (small blind) folded before Flop
+Seat 6: Zippi 1965 (big blind) folded before Flop
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill collected ($1.30)
+Seat 9: jinuwine23 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274001413:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:25:57 (ET)
+Table 'Taurus IV' 9-max Seat #5 is the button
+Seat 1: xxwendy_oxx ($17.45 in chips) 
+Seat 2: MaPiec ($62.10 in chips) 
+Seat 3: Alameda22 ($25.65 in chips) 
+Seat 4: jdinhou ($17.65 in chips) 
+Seat 5: Urvile ($34.30 in chips) 
+Seat 6: Zippi 1965 ($5.30 in chips) 
+Seat 7: Troelg ($23.05 in chips) 
+Seat 8: Boot Hill ($7.40 in chips) 
+Seat 9: jinuwine23 ($4.75 in chips) 
+Zippi 1965: posts small blind $0.10
+Troelg: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Ac]
+Boot Hill: raises $0.25 to $0.50
+jinuwine23: raises $1 to $1.50
+xxwendy_oxx: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: calls $1.50
+Urvile: folds 
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: folds 
+*** FLOP *** [Kd 9c 6d]
+jinuwine23: bets $2.50
+jdinhou: raises $2.50 to $5
+jinuwine23: calls $0.75 and is all-in
+Uncalled bet ($1.75) returned to jdinhou
+*** TURN *** [Kd 9c 6d] [Qc]
+*** RIVER *** [Kd 9c 6d Qc] [8c]
+*** SHOW DOWN ***
+jinuwine23: shows [Td As] (high card Ace)
+jdinhou: shows [8s 7s] (a pair of Eights)
+jdinhou collected $9.85 from pot
+*** SUMMARY ***
+Total pot $10.35 | Rake $0.50 
+Board [Kd 9c 6d Qc 8c]
+Seat 1: xxwendy_oxx folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou showed [8s 7s] and won ($9.85) with a pair of Eights
+Seat 5: Urvile (button) folded before Flop (didn't bet)
+Seat 6: Zippi 1965 (small blind) folded before Flop
+Seat 7: Troelg (big blind) folded before Flop
+Seat 8: Boot Hill folded before Flop
+Seat 9: jinuwine23 showed [Td As] and lost with high card Ace
+
+
+
+PokerStars Game #19274016121:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:26:39 (ET)
+Table 'Taurus IV' 9-max Seat #6 is the button
+Seat 1: xxwendy_oxx ($17.45 in chips) 
+Seat 2: MaPiec ($62.10 in chips) 
+Seat 3: Alameda22 ($25.65 in chips) 
+Seat 4: jdinhou ($22.75 in chips) 
+Seat 5: Urvile ($34.30 in chips) 
+Seat 6: Zippi 1965 ($5.20 in chips) 
+Seat 7: Troelg ($22.80 in chips) 
+Seat 8: Boot Hill ($6.90 in chips) 
+Troelg: posts small blind $0.10
+Boot Hill: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 7h]
+xxwendy_oxx: folds 
+MaPiec: folds 
+jinuwine23 leaves the table
+Alameda22: folds 
+jdinhou: calls $0.25
+Urvile: folds 
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: checks 
+*** FLOP *** [9h Jh 5h]
+Boot Hill: bets $0.75
+TrIpPiN_bDc joins the table at seat #9 
+jdinhou: folds 
+Uncalled bet ($0.75) returned to Boot Hill
+Boot Hill collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9h Jh 5h]
+Seat 1: xxwendy_oxx folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou folded on the Flop
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: Zippi 1965 (button) folded before Flop (didn't bet)
+Seat 7: Troelg (small blind) folded before Flop
+Seat 8: Boot Hill (big blind) collected ($0.60)
+
+
+
+PokerStars Game #19274032316:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:27:25 (ET)
+Table 'Taurus IV' 9-max Seat #7 is the button
+Seat 1: xxwendy_oxx ($17.45 in chips) 
+Seat 2: MaPiec ($62.10 in chips) 
+Seat 3: Alameda22 ($25.65 in chips) 
+Seat 4: jdinhou ($22.50 in chips) 
+Seat 5: Urvile ($34.30 in chips) 
+Seat 6: Zippi 1965 ($5.20 in chips) 
+Seat 7: Troelg ($22.70 in chips) 
+Seat 8: Boot Hill ($7.25 in chips) 
+Seat 9: TrIpPiN_bDc ($25 in chips) 
+Boot Hill: posts small blind $0.10
+TrIpPiN_bDc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 3h]
+xxwendy_oxx: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: raises $0.50 to $0.75
+xxwendy_oxx leaves the table
+Urvile: folds 
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: calls $0.65
+TrIpPiN_bDc: folds 
+*** FLOP *** [8d As Td]
+Boot Hill: bets $0.75
+jdinhou: raises $0.75 to $1.50
+Boot Hill: calls $0.75
+*** TURN *** [8d As Td] [Jh]
+Boot Hill: bets $5 and is all-in
+jdinhou: calls $5
+*** RIVER *** [8d As Td Jh] [2h]
+*** SHOW DOWN ***
+Boot Hill: shows [Jd 9s] (a pair of Jacks)
+jdinhou: shows [Ad Kc] (a pair of Aces)
+jdinhou collected $14.05 from pot
+*** SUMMARY ***
+Total pot $14.75 | Rake $0.70 
+Board [8d As Td Jh 2h]
+Seat 1: xxwendy_oxx folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou showed [Ad Kc] and won ($14.05) with a pair of Aces
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: Zippi 1965 folded before Flop (didn't bet)
+Seat 7: Troelg (button) folded before Flop (didn't bet)
+Seat 8: Boot Hill (small blind) showed [Jd 9s] and lost with a pair of Jacks
+Seat 9: TrIpPiN_bDc (big blind) folded before Flop
+
+
+
+PokerStars Game #19274048656:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:28:12 (ET)
+Table 'Taurus IV' 9-max Seat #9 is the button
+Seat 2: MaPiec ($62.10 in chips) 
+Seat 3: Alameda22 ($25.65 in chips) 
+Seat 4: jdinhou ($29.30 in chips) 
+Seat 5: Urvile ($34.30 in chips) 
+Seat 6: Zippi 1965 ($5.20 in chips) 
+Seat 7: Troelg ($22.70 in chips) 
+Seat 9: TrIpPiN_bDc ($24.75 in chips) 
+MaPiec: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 9c]
+jdinhou: raises $0.25 to $0.50
+Urvile: folds 
+Zippi 1965: calls $0.50
+Troelg: calls $0.50
+TrIpPiN_bDc: calls $0.50
+MaPiec: folds 
+Konsumfabrik joins the table at seat #1 
+Alameda22: calls $0.25
+*** FLOP *** [6d 7s Td]
+Alameda22: checks 
+jdinhou: checks 
+Zippi 1965: checks 
+Troelg: checks 
+TrIpPiN_bDc: checks 
+*** TURN *** [6d 7s Td] [Js]
+Boot Hill has returned
+Alameda22: checks 
+jdinhou: checks 
+Zippi 1965: bets $1.50
+Troelg: folds 
+TrIpPiN_bDc: folds 
+Alameda22: folds 
+jdinhou: folds 
+Uncalled bet ($1.50) returned to Zippi 1965
+Zippi 1965 collected $2.50 from pot
+Zippi 1965: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [6d 7s Td Js]
+Seat 2: MaPiec (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded on the Turn
+Seat 4: jdinhou folded on the Turn
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: Zippi 1965 collected ($2.50)
+Seat 7: Troelg folded on the Turn
+Seat 9: TrIpPiN_bDc (button) folded on the Turn
+
+
+
+PokerStars Game #19274068509:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:29:09 (ET)
+Table 'Taurus IV' 9-max Seat #2 is the button
+Seat 2: MaPiec ($62 in chips) 
+Seat 3: Alameda22 ($25.15 in chips) 
+Seat 4: jdinhou ($28.80 in chips) 
+Seat 5: Urvile ($34.30 in chips) 
+Seat 6: Zippi 1965 ($7.20 in chips) 
+Seat 7: Troelg ($22.20 in chips) 
+Seat 8: Boot Hill ($25 in chips) 
+Seat 9: TrIpPiN_bDc ($24.25 in chips) 
+Alameda22: posts small blind $0.10
+jdinhou: posts big blind $0.25
+Konsumfabrik: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 3d]
+Urvile: folds 
+Zippi 1965: raises $0.75 to $1
+Troelg: folds 
+Boot Hill: folds 
+TrIpPiN_bDc: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: folds 
+Uncalled bet ($0.75) returned to Zippi 1965
+Zippi 1965 collected $0.60 from pot
+Zippi 1965: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: MaPiec (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: jdinhou (big blind) folded before Flop
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: Zippi 1965 collected ($0.60)
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill folded before Flop (didn't bet)
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274073540:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:29:24 (ET)
+Table 'Taurus IV' 9-max Seat #3 is the button
+Seat 2: MaPiec ($62 in chips) 
+Seat 3: Alameda22 ($25.05 in chips) 
+Seat 4: jdinhou ($28.55 in chips) 
+Seat 5: Urvile ($34.30 in chips) 
+Seat 6: Zippi 1965 ($7.55 in chips) 
+Seat 7: Troelg ($22.20 in chips) 
+Seat 8: Boot Hill ($25 in chips) 
+Seat 9: TrIpPiN_bDc ($24.25 in chips) 
+jdinhou: posts small blind $0.10
+Urvile: posts big blind $0.25
+Konsumfabrik: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 6c]
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: raises $0.25 to $0.50
+TrIpPiN_bDc: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: folds 
+Urvile: folds 
+Uncalled bet ($0.25) returned to Boot Hill
+Boot Hill collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: jdinhou (small blind) folded before Flop
+Seat 5: Urvile (big blind) folded before Flop
+Seat 6: Zippi 1965 folded before Flop (didn't bet)
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill collected ($0.60)
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274079744:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:29:42 (ET)
+Table 'Taurus IV' 9-max Seat #4 is the button
+Seat 2: MaPiec ($62 in chips) 
+Seat 3: Alameda22 ($25.05 in chips) 
+Seat 4: jdinhou ($28.45 in chips) 
+Seat 5: Urvile ($34.05 in chips) 
+Seat 6: Zippi 1965 ($7.55 in chips) 
+Seat 7: Troelg ($22.20 in chips) 
+Seat 8: Boot Hill ($25.35 in chips) 
+Seat 9: TrIpPiN_bDc ($24.25 in chips) 
+Urvile: posts small blind $0.10
+Zippi 1965: posts big blind $0.25
+Konsumfabrik: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Kc]
+Troelg: folds 
+Boot Hill: folds 
+TrIpPiN_bDc: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: raises $0.50 to $0.75
+Urvile: folds 
+Zippi 1965: folds 
+Uncalled bet ($0.50) returned to jdinhou
+jdinhou collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou (button) collected ($0.60)
+Seat 5: Urvile (small blind) folded before Flop
+Seat 6: Zippi 1965 (big blind) folded before Flop
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill folded before Flop (didn't bet)
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274086246:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:30:01 (ET)
+Table 'Taurus IV' 9-max Seat #5 is the button
+Seat 2: MaPiec ($62 in chips) 
+Seat 3: Alameda22 ($25.05 in chips) 
+Seat 4: jdinhou ($28.80 in chips) 
+Seat 5: Urvile ($33.95 in chips) 
+Seat 6: Zippi 1965 ($7.30 in chips) 
+Seat 7: Troelg ($22.20 in chips) 
+Seat 8: Boot Hill ($25.35 in chips) 
+Seat 9: TrIpPiN_bDc ($24.25 in chips) 
+Zippi 1965: posts small blind $0.10
+Troelg: posts big blind $0.25
+Konsumfabrik: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 9c]
+Boot Hill: folds 
+TrIpPiN_bDc: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: folds 
+Urvile: folds 
+Zippi 1965: folds 
+Uncalled bet ($0.15) returned to Troelg
+Troelg collected $0.20 from pot
+Troelg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou folded before Flop (didn't bet)
+Seat 5: Urvile (button) folded before Flop (didn't bet)
+Seat 6: Zippi 1965 (small blind) folded before Flop
+Seat 7: Troelg (big blind) collected ($0.20)
+Seat 8: Boot Hill folded before Flop (didn't bet)
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274094089:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:30:24 (ET)
+Table 'Taurus IV' 9-max Seat #6 is the button
+Seat 2: MaPiec ($62 in chips) 
+Seat 3: Alameda22 ($25.05 in chips) 
+Seat 4: jdinhou ($28.80 in chips) 
+Seat 5: Urvile ($33.95 in chips) 
+Seat 6: Zippi 1965 ($7.20 in chips) 
+Seat 7: Troelg ($22.30 in chips) 
+Seat 8: Boot Hill ($25.35 in chips) 
+Seat 9: TrIpPiN_bDc ($24.25 in chips) 
+Troelg: posts small blind $0.10
+Boot Hill: posts big blind $0.25
+Konsumfabrik: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 4c]
+TrIpPiN_bDc: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: folds 
+Urvile: folds 
+Zippi 1965: folds 
+Troelg: folds 
+Uncalled bet ($0.15) returned to Boot Hill
+Boot Hill collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou folded before Flop (didn't bet)
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: Zippi 1965 (button) folded before Flop (didn't bet)
+Seat 7: Troelg (small blind) folded before Flop
+Seat 8: Boot Hill (big blind) collected ($0.20)
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274098573:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:30:37 (ET)
+Table 'Taurus IV' 9-max Seat #7 is the button
+Seat 2: MaPiec ($62 in chips) 
+Seat 3: Alameda22 ($25.05 in chips) 
+Seat 4: jdinhou ($28.80 in chips) 
+Seat 5: Urvile ($33.95 in chips) 
+Seat 6: Zippi 1965 ($7.20 in chips) 
+Seat 7: Troelg ($22.20 in chips) 
+Seat 8: Boot Hill ($25.45 in chips) 
+Seat 9: TrIpPiN_bDc ($24.25 in chips) 
+Boot Hill: posts small blind $0.10
+TrIpPiN_bDc: posts big blind $0.25
+Konsumfabrik: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Kd]
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: folds 
+Urvile: folds 
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: raises $0.25 to $0.50
+TrIpPiN_bDc: folds 
+Uncalled bet ($0.25) returned to Boot Hill
+Boot Hill collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou folded before Flop (didn't bet)
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: Zippi 1965 folded before Flop (didn't bet)
+Seat 7: Troelg (button) folded before Flop (didn't bet)
+Seat 8: Boot Hill (small blind) collected ($0.50)
+Seat 9: TrIpPiN_bDc (big blind) folded before Flop
+
+
+
+PokerStars Game #19274110101:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:31:07 (ET)
+Table 'Taurus IV' 9-max Seat #8 is the button
+Seat 1: Konsumfabrik ($5 in chips) 
+Seat 2: MaPiec ($62 in chips) 
+Seat 3: Alameda22 ($25.05 in chips) 
+Seat 4: jdinhou ($28.80 in chips) 
+Seat 5: Urvile ($33.95 in chips) 
+Seat 6: Zippi 1965 ($7.20 in chips) 
+Seat 7: Troelg ($22.20 in chips) 
+Seat 8: Boot Hill ($25.70 in chips) 
+Seat 9: TrIpPiN_bDc ($24 in chips) 
+TrIpPiN_bDc: posts small blind $0.10
+Konsumfabrik: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 2c]
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: folds 
+Urvile: folds 
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: raises $0.25 to $0.50
+TrIpPiN_bDc: folds 
+Konsumfabrik: calls $0.25
+*** FLOP *** [Qd 4c Qs]
+Konsumfabrik: bets $1.25
+Boot Hill: folds 
+Uncalled bet ($1.25) returned to Konsumfabrik
+Konsumfabrik collected $1.05 from pot
+Konsumfabrik: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Qd 4c Qs]
+Seat 1: Konsumfabrik (big blind) collected ($1.05)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou folded before Flop (didn't bet)
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: Zippi 1965 folded before Flop (didn't bet)
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill (button) folded on the Flop
+Seat 9: TrIpPiN_bDc (small blind) folded before Flop
+
+
+
+PokerStars Game #19274123773:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:31:47 (ET)
+Table 'Taurus IV' 9-max Seat #9 is the button
+Seat 1: Konsumfabrik ($5.55 in chips) 
+Seat 2: MaPiec ($62 in chips) 
+Seat 3: Alameda22 ($25.05 in chips) 
+Seat 4: jdinhou ($28.80 in chips) 
+Seat 5: Urvile ($33.95 in chips) 
+Seat 6: Zippi 1965 ($7.20 in chips) 
+Seat 7: Troelg ($22.20 in chips) 
+Seat 8: Boot Hill ($25.20 in chips) 
+Seat 9: TrIpPiN_bDc ($23.90 in chips) 
+Konsumfabrik: posts small blind $0.10
+MaPiec: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 6s]
+Alameda22: folds 
+jdinhou: raises $0.25 to $0.50
+Urvile: folds 
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: calls $0.50
+TrIpPiN_bDc: folds 
+Konsumfabrik: raises $1 to $1.50
+MaPiec: folds 
+jdinhou: calls $1
+Boot Hill: raises $23.70 to $25.20 and is all-in
+Konsumfabrik: calls $4.05 and is all-in
+jdinhou: folds 
+Uncalled bet ($19.65) returned to Boot Hill
+*** FLOP *** [7s Qh 9c]
+*** TURN *** [7s Qh 9c] [Jh]
+*** RIVER *** [7s Qh 9c Jh] [Tc]
+*** SHOW DOWN ***
+Konsumfabrik: shows [Ah Kd] (a straight, Ten to Ace)
+Boot Hill: mucks hand 
+Konsumfabrik collected $12.25 from pot
+*** SUMMARY ***
+Total pot $12.85 | Rake $0.60 
+Board [7s Qh 9c Jh Tc]
+Seat 1: Konsumfabrik (small blind) showed [Ah Kd] and won ($12.25) with a straight, Ten to Ace
+Seat 2: MaPiec (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou folded before Flop
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: Zippi 1965 folded before Flop (didn't bet)
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill mucked [Td Th]
+Seat 9: TrIpPiN_bDc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274143081:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:32:41 (ET)
+Table 'Taurus IV' 9-max Seat #1 is the button
+Seat 1: Konsumfabrik ($12.25 in chips) 
+Seat 2: MaPiec ($61.75 in chips) 
+Seat 3: Alameda22 ($25.05 in chips) 
+Seat 4: jdinhou ($27.30 in chips) 
+Seat 5: Urvile ($33.95 in chips) 
+Seat 6: Zippi 1965 ($7.20 in chips) 
+Seat 7: Troelg ($22.20 in chips) 
+Seat 8: Boot Hill ($19.65 in chips) 
+Seat 9: TrIpPiN_bDc ($23.90 in chips) 
+MaPiec: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 7d]
+jdinhou: raises $0.25 to $0.50
+Urvile: folds 
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: calls $0.50
+TrIpPiN_bDc: folds 
+Konsumfabrik: folds 
+MaPiec: folds 
+Alameda22: folds 
+*** FLOP *** [9d Qc 9c]
+jdinhou: bets $1
+Boot Hill: folds 
+Uncalled bet ($1) returned to jdinhou
+jdinhou collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [9d Qc 9c]
+Seat 1: Konsumfabrik (button) folded before Flop (didn't bet)
+Seat 2: MaPiec (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: jdinhou collected ($1.30)
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: Zippi 1965 folded before Flop (didn't bet)
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill folded on the Flop
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274156680:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:33:18 (ET)
+Table 'Taurus IV' 9-max Seat #2 is the button
+Seat 1: Konsumfabrik ($12.25 in chips) 
+Seat 2: MaPiec ($61.65 in chips) 
+Seat 3: Alameda22 ($24.80 in chips) 
+Seat 4: jdinhou ($28.10 in chips) 
+Seat 5: Urvile ($33.95 in chips) 
+Seat 6: Zippi 1965 ($7.20 in chips) 
+Seat 7: Troelg ($22.20 in chips) 
+Seat 8: Boot Hill ($25 in chips) 
+Seat 9: TrIpPiN_bDc ($23.90 in chips) 
+Alameda22: posts small blind $0.10
+jdinhou: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Qd]
+Urvile: folds 
+Zippi 1965: folds 
+Troelg: folds 
+Boot Hill: raises $0.25 to $0.50
+TrIpPiN_bDc: folds 
+Konsumfabrik: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: folds 
+Uncalled bet ($0.25) returned to Boot Hill
+Boot Hill collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Konsumfabrik folded before Flop (didn't bet)
+Seat 2: MaPiec (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: jdinhou (big blind) folded before Flop
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: Zippi 1965 folded before Flop (didn't bet)
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill collected ($0.60)
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274163871:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:33:39 (ET)
+Table 'Taurus IV' 9-max Seat #3 is the button
+Seat 1: Konsumfabrik ($12.25 in chips) 
+Seat 2: MaPiec ($61.65 in chips) 
+Seat 3: Alameda22 ($24.70 in chips) 
+Seat 4: jdinhou ($27.85 in chips) 
+Seat 5: Urvile ($33.95 in chips) 
+Seat 6: Zippi 1965 ($7.20 in chips) 
+Seat 7: Troelg ($22.20 in chips) 
+Seat 8: Boot Hill ($25.35 in chips) 
+Seat 9: TrIpPiN_bDc ($23.90 in chips) 
+jdinhou: posts small blind $0.10
+Urvile: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 8d]
+Zippi 1965: folds 
+Zippi 1965 leaves the table
+Troelg: folds 
+Boot Hill: folds 
+TrIpPiN_bDc: calls $0.25
+Konsumfabrik: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: calls $0.15
+Urvile: checks 
+*** FLOP *** [4d 3c Kd]
+huntski123 joins the table at seat #6 
+jdinhou: checks 
+Urvile: checks 
+TrIpPiN_bDc: checks 
+*** TURN *** [4d 3c Kd] [Jd]
+jdinhou: checks 
+Urvile: checks 
+TrIpPiN_bDc: checks 
+*** RIVER *** [4d 3c Kd Jd] [9h]
+jdinhou: checks 
+Urvile: checks 
+TrIpPiN_bDc: checks 
+*** SHOW DOWN ***
+jdinhou: shows [Tc Jh] (a pair of Jacks)
+Urvile: mucks hand 
+TrIpPiN_bDc: mucks hand 
+jdinhou collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [4d 3c Kd Jd 9h]
+Seat 1: Konsumfabrik folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: jdinhou (small blind) showed [Tc Jh] and won ($0.75) with a pair of Jacks
+Seat 5: Urvile (big blind) mucked [2c 3h]
+Seat 6: Zippi 1965 folded before Flop (didn't bet)
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill folded before Flop (didn't bet)
+Seat 9: TrIpPiN_bDc mucked [5h Ah]
+
+
+
+PokerStars Game #19274186304:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:34:42 (ET)
+Table 'Taurus IV' 9-max Seat #4 is the button
+Seat 1: Konsumfabrik ($12.25 in chips) 
+Seat 2: MaPiec ($61.65 in chips) 
+Seat 3: Alameda22 ($24.70 in chips) 
+Seat 4: jdinhou ($28.35 in chips) 
+Seat 5: Urvile ($33.70 in chips) 
+Seat 6: huntski123 ($5 in chips) 
+Seat 7: Troelg ($22.20 in chips) 
+Seat 8: Boot Hill ($25.35 in chips) 
+Seat 9: TrIpPiN_bDc ($23.65 in chips) 
+Urvile: posts small blind $0.10
+huntski123: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 9c]
+Troelg: folds 
+Boot Hill: raises $0.25 to $0.50
+TrIpPiN_bDc: folds 
+Konsumfabrik: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: folds 
+Urvile: folds 
+huntski123: calls $0.25
+*** FLOP *** [8d 4s 8s]
+huntski123: checks 
+Boot Hill: bets $0.75
+huntski123: calls $0.75
+*** TURN *** [8d 4s 8s] [5c]
+huntski123: checks 
+Boot Hill: checks 
+*** RIVER *** [8d 4s 8s 5c] [Ad]
+huntski123: checks 
+Boot Hill: checks 
+*** SHOW DOWN ***
+huntski123: shows [6s 9s] (a pair of Eights)
+Boot Hill: shows [Ts Qd] (a pair of Eights - Ace+Queen kicker)
+Boot Hill collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [8d 4s 8s 5c Ad]
+Seat 1: Konsumfabrik folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou (button) folded before Flop (didn't bet)
+Seat 5: Urvile (small blind) folded before Flop
+Seat 6: huntski123 (big blind) showed [6s 9s] and lost with a pair of Eights
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill showed [Ts Qd] and won ($2.50) with a pair of Eights
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274213772:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:35:51 (ET)
+Table 'Taurus IV' 9-max Seat #5 is the button
+Seat 1: Konsumfabrik ($12.25 in chips) 
+Seat 2: MaPiec ($61.65 in chips) 
+Seat 3: Alameda22 ($24.70 in chips) 
+Seat 4: jdinhou ($28.35 in chips) 
+Seat 5: Urvile ($33.60 in chips) 
+Seat 6: huntski123 ($3.75 in chips) 
+Seat 7: Troelg ($22.20 in chips) 
+Seat 8: Boot Hill ($26.60 in chips) 
+Seat 9: TrIpPiN_bDc ($23.65 in chips) 
+huntski123: posts small blind $0.10
+Troelg: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 7h]
+Boot Hill: folds 
+TrIpPiN_bDc: folds 
+Konsumfabrik: calls $0.25
+MaPiec: folds 
+Alameda22: folds 
+jdinhou has timed out
+jdinhou: folds 
+jdinhou is sitting out
+Urvile: folds 
+jdinhou has returned
+Boot Hill said, "sory konsumfabrik I was talking to my wife and forgot to say nh   NH"
+huntski123: folds 
+Troelg: checks 
+*** FLOP *** [3d 4s 3h]
+Troelg: checks 
+Konsumfabrik: bets $0.75
+Troelg: folds 
+Uncalled bet ($0.75) returned to Konsumfabrik
+Konsumfabrik collected $0.60 from pot
+Konsumfabrik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3d 4s 3h]
+Seat 1: Konsumfabrik collected ($0.60)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou folded before Flop (didn't bet)
+Seat 5: Urvile (button) folded before Flop (didn't bet)
+Seat 6: huntski123 (small blind) folded before Flop
+Seat 7: Troelg (big blind) folded on the Flop
+Seat 8: Boot Hill folded before Flop (didn't bet)
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274239443:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:36:56 (ET)
+Table 'Taurus IV' 9-max Seat #6 is the button
+Seat 1: Konsumfabrik ($12.60 in chips) 
+Seat 2: MaPiec ($61.65 in chips) 
+Seat 3: Alameda22 ($24.70 in chips) 
+Seat 4: jdinhou ($28.35 in chips) 
+Seat 5: Urvile ($33.60 in chips) 
+Seat 6: huntski123 ($3.65 in chips) 
+Seat 7: Troelg ($21.95 in chips) 
+Seat 8: Boot Hill ($26.60 in chips) 
+Seat 9: TrIpPiN_bDc ($23.65 in chips) 
+Troelg: posts small blind $0.10
+Boot Hill: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 5c]
+TrIpPiN_bDc: folds 
+Konsumfabrik: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: raises $0.75 to $1
+Urvile: folds 
+huntski123: folds 
+Troelg: folds 
+Boot Hill: folds 
+Uncalled bet ($0.75) returned to jdinhou
+jdinhou collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Konsumfabrik folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou collected ($0.60)
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: huntski123 (button) folded before Flop (didn't bet)
+Seat 7: Troelg (small blind) folded before Flop
+Seat 8: Boot Hill (big blind) folded before Flop
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274253751:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:37:33 (ET)
+Table 'Taurus IV' 9-max Seat #7 is the button
+Seat 1: Konsumfabrik ($12.60 in chips) 
+Seat 2: MaPiec ($61.65 in chips) 
+Seat 3: Alameda22 ($24.70 in chips) 
+Seat 4: jdinhou ($28.70 in chips) 
+Seat 5: Urvile ($33.60 in chips) 
+Seat 6: huntski123 ($3.65 in chips) 
+Seat 7: Troelg ($21.85 in chips) 
+Seat 8: Boot Hill ($26.35 in chips) 
+Seat 9: TrIpPiN_bDc ($23.65 in chips) 
+Boot Hill: posts small blind $0.10
+TrIpPiN_bDc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 6c]
+Konsumfabrik: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: folds 
+Konsumfabrik leaves the table
+Urvile: folds 
+huntski123: folds 
+Troelg: raises $0.75 to $1
+Boot Hill: folds 
+Marco296 joins the table at seat #1 
+TrIpPiN_bDc: folds 
+Uncalled bet ($0.75) returned to Troelg
+Troelg collected $0.60 from pot
+Troelg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Konsumfabrik folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou folded before Flop (didn't bet)
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: huntski123 folded before Flop (didn't bet)
+Seat 7: Troelg (button) collected ($0.60)
+Seat 8: Boot Hill (small blind) folded before Flop
+Seat 9: TrIpPiN_bDc (big blind) folded before Flop
+
+
+
+PokerStars Game #19274267575:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:38:08 (ET)
+Table 'Taurus IV' 9-max Seat #8 is the button
+Seat 1: Marco296 ($5 in chips) 
+Seat 2: MaPiec ($61.65 in chips) 
+Seat 3: Alameda22 ($24.70 in chips) 
+Seat 4: jdinhou ($28.70 in chips) 
+Seat 5: Urvile ($33.60 in chips) 
+Seat 6: huntski123 ($3.65 in chips) 
+Seat 7: Troelg ($22.20 in chips) 
+Seat 8: Boot Hill ($26.25 in chips) 
+Seat 9: TrIpPiN_bDc ($23.40 in chips) 
+TrIpPiN_bDc: posts small blind $0.10
+Marco296: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Ks]
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: raises $0.25 to $0.50
+Urvile: folds 
+huntski123: folds 
+Troelg: folds 
+Boot Hill: calls $0.50
+TrIpPiN_bDc: calls $0.40
+Marco296: folds 
+*** FLOP *** [Tc Ac Jh]
+TrIpPiN_bDc: checks 
+jdinhou: bets $1
+Boot Hill: calls $1
+TrIpPiN_bDc: calls $1
+*** TURN *** [Tc Ac Jh] [Qd]
+TrIpPiN_bDc: checks 
+jdinhou: checks 
+Boot Hill: bets $8.75
+TrIpPiN_bDc: calls $8.75
+jdinhou: raises $18.45 to $27.20 and is all-in
+Boot Hill: folds 
+TrIpPiN_bDc: calls $13.15 and is all-in
+Uncalled bet ($5.30) returned to jdinhou
+*** RIVER *** [Tc Ac Jh Qd] [3c]
+*** SHOW DOWN ***
+TrIpPiN_bDc: shows [Jd Kd] (a straight, Ten to Ace)
+jdinhou: shows [Js Kh] (a straight, Ten to Ace)
+TrIpPiN_bDc collected $27.25 from pot
+jdinhou collected $27.20 from pot
+*** SUMMARY ***
+Total pot $57.30 | Rake $2.85 
+Board [Tc Ac Jh Qd 3c]
+Seat 1: Marco296 (big blind) folded before Flop
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou showed [Js Kh] and won ($27.20) with a straight, Ten to Ace
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: huntski123 folded before Flop (didn't bet)
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill (button) folded on the Turn
+Seat 9: TrIpPiN_bDc (small blind) showed [Jd Kd] and won ($27.25) with a straight, Ten to Ace
+
+
+
+PokerStars Game #19274298946:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:39:30 (ET)
+Table 'Taurus IV' 9-max Seat #9 is the button
+Seat 1: Marco296 ($4.75 in chips) 
+Seat 2: MaPiec ($61.65 in chips) 
+Seat 3: Alameda22 ($24.70 in chips) 
+Seat 4: jdinhou ($32.50 in chips) 
+Seat 5: Urvile ($33.60 in chips) 
+Seat 6: huntski123 ($3.65 in chips) 
+Seat 7: Troelg ($22.20 in chips) 
+Seat 8: Boot Hill ($16 in chips) 
+Seat 9: TrIpPiN_bDc ($27.25 in chips) 
+Marco296: posts small blind $0.10
+MaPiec: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 2h]
+Alameda22: folds 
+jdinhou: folds 
+Urvile: raises $0.75 to $1
+huntski123: folds 
+Troelg: folds 
+Troelg leaves the table
+Boot Hill: calls $1
+TrIpPiN_bDc: folds 
+Marco296: folds 
+MaPiec: folds 
+*** FLOP *** [Jd Qc 5d]
+Urvile: bets $0.50
+Boot Hill: calls $0.50
+*** TURN *** [Jd Qc 5d] [8s]
+Urvile: bets $0.75
+Boot Hill: raises $13.75 to $14.50 and is all-in
+Urvile: folds 
+Uncalled bet ($13.75) returned to Boot Hill
+Boot Hill collected $4.65 from pot
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [Jd Qc 5d 8s]
+Seat 1: Marco296 (small blind) folded before Flop
+Seat 2: MaPiec (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou folded before Flop (didn't bet)
+Seat 5: Urvile folded on the Turn
+Seat 6: huntski123 folded before Flop (didn't bet)
+Seat 7: Troelg folded before Flop (didn't bet)
+Seat 8: Boot Hill collected ($4.65)
+Seat 9: TrIpPiN_bDc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274315098:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:40:12 (ET)
+Table 'Taurus IV' 9-max Seat #1 is the button
+Seat 1: Marco296 ($4.65 in chips) 
+Seat 2: MaPiec ($61.40 in chips) 
+Seat 3: Alameda22 ($24.70 in chips) 
+Seat 4: jdinhou ($32.50 in chips) 
+Seat 5: Urvile ($31.35 in chips) 
+Seat 6: huntski123 ($3.65 in chips) 
+Seat 8: Boot Hill ($25 in chips) 
+Seat 9: TrIpPiN_bDc ($27.25 in chips) 
+MaPiec: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Ts]
+jdinhou: folds 
+Urvile: folds 
+huntski123: folds 
+Boot Hill: raises $0.25 to $0.50
+Urvile leaves the table
+TrIpPiN_bDc: folds 
+Marco296: folds 
+MaPiec: folds 
+jaibox joins the table at seat #7 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to Boot Hill
+Boot Hill collected $0.60 from pot
+charlieml joins the table at seat #5 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Marco296 (button) folded before Flop (didn't bet)
+Seat 2: MaPiec (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: jdinhou folded before Flop (didn't bet)
+Seat 5: Urvile folded before Flop (didn't bet)
+Seat 6: huntski123 folded before Flop (didn't bet)
+Seat 8: Boot Hill collected ($0.60)
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274328792:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:40:47 (ET)
+Table 'Taurus IV' 9-max Seat #2 is the button
+Seat 1: Marco296 ($4.65 in chips) 
+Seat 2: MaPiec ($61.30 in chips) 
+Seat 3: Alameda22 ($24.45 in chips) 
+Seat 4: jdinhou ($32.50 in chips) 
+Seat 6: huntski123 ($3.65 in chips) 
+Seat 8: Boot Hill ($25.35 in chips) 
+Seat 9: TrIpPiN_bDc ($27.25 in chips) 
+Alameda22: posts small blind $0.10
+jdinhou: posts big blind $0.25
+charlieml: sits out 
+jaibox: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Qs]
+huntski123: folds 
+Boot Hill: raises $0.25 to $0.50
+TrIpPiN_bDc: calls $0.50
+Marco296: folds 
+MaPiec: raises $2 to $2.50
+Alameda22: folds 
+jdinhou: folds 
+Boot Hill: calls $2
+TrIpPiN_bDc: folds 
+*** FLOP *** [8c Ac 4h]
+Boot Hill: bets $0.75
+MaPiec: raises $2.75 to $3.50
+Boot Hill: folds 
+Uncalled bet ($2.75) returned to MaPiec
+MaPiec collected $7 from pot
+*** SUMMARY ***
+Total pot $7.35 | Rake $0.35 
+Board [8c Ac 4h]
+Seat 1: Marco296 folded before Flop (didn't bet)
+Seat 2: MaPiec (button) collected ($7)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: jdinhou (big blind) folded before Flop
+Seat 6: huntski123 folded before Flop (didn't bet)
+Seat 8: Boot Hill folded on the Flop
+Seat 9: TrIpPiN_bDc folded before Flop
+
+
+
+PokerStars Game #19274356030:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:41:58 (ET)
+Table 'Taurus IV' 9-max Seat #3 is the button
+Seat 1: Marco296 ($4.65 in chips) 
+Seat 2: MaPiec ($65.05 in chips) 
+Seat 3: Alameda22 ($24.35 in chips) 
+Seat 4: jdinhou ($32.25 in chips) 
+Seat 5: charlieml ($15 in chips) 
+Seat 6: huntski123 ($3.65 in chips) 
+Seat 8: Boot Hill ($22.10 in chips) 
+Seat 9: TrIpPiN_bDc ($26.75 in chips) 
+jdinhou: posts small blind $0.10
+charlieml: posts big blind $0.25
+jaibox: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Th]
+huntski123: folds 
+Boot Hill: raises $0.25 to $0.50
+TrIpPiN_bDc: folds 
+Marco296: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: folds 
+charlieml: calls $0.25
+*** FLOP *** [Jd Ts Tc]
+charlieml: checks 
+Boot Hill: bets $0.75
+charlieml: folds 
+Uncalled bet ($0.75) returned to Boot Hill
+Boot Hill collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Jd Ts Tc]
+Seat 1: Marco296 folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: jdinhou (small blind) folded before Flop
+Seat 5: charlieml (big blind) folded on the Flop
+Seat 6: huntski123 folded before Flop (didn't bet)
+Seat 8: Boot Hill collected ($1.05)
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274375031:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:42:48 (ET)
+Table 'Taurus IV' 9-max Seat #4 is the button
+Seat 1: Marco296 ($4.65 in chips) 
+Seat 2: MaPiec ($65.05 in chips) 
+Seat 3: Alameda22 ($24.35 in chips) 
+Seat 4: jdinhou ($32.15 in chips) 
+Seat 5: charlieml ($14.50 in chips) 
+Seat 6: huntski123 ($3.65 in chips) 
+Seat 8: Boot Hill ($22.65 in chips) 
+Seat 9: TrIpPiN_bDc ($26.75 in chips) 
+charlieml: posts small blind $0.10
+huntski123: posts big blind $0.25
+jaibox: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 2s]
+Boot Hill: raises $0.25 to $0.50
+TrIpPiN_bDc: folds 
+Marco296: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: folds 
+charlieml: folds 
+huntski123: folds 
+Uncalled bet ($0.25) returned to Boot Hill
+Boot Hill collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Marco296 folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou (button) folded before Flop (didn't bet)
+Seat 5: charlieml (small blind) folded before Flop
+Seat 6: huntski123 (big blind) folded before Flop
+Seat 8: Boot Hill collected ($0.60)
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274385404:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:43:15 (ET)
+Table 'Taurus IV' 9-max Seat #5 is the button
+Seat 1: Marco296 ($4.65 in chips) 
+Seat 2: MaPiec ($65.05 in chips) 
+Seat 3: Alameda22 ($24.35 in chips) 
+Seat 4: jdinhou ($32.15 in chips) 
+Seat 5: charlieml ($14.40 in chips) 
+Seat 6: huntski123 ($3.40 in chips) 
+Seat 7: jaibox ($15.45 in chips) 
+Seat 8: Boot Hill ($23 in chips) 
+Seat 9: TrIpPiN_bDc ($26.75 in chips) 
+huntski123: posts small blind $0.10
+jaibox: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Th]
+Boot Hill: folds 
+TrIpPiN_bDc: calls $0.25
+Marco296: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: folds 
+charlieml: folds 
+huntski123: raises $0.50 to $0.75
+jaibox: calls $0.50
+TrIpPiN_bDc: calls $0.50
+*** FLOP *** [Jd 7c 5d]
+huntski123: checks 
+jaibox: checks 
+TrIpPiN_bDc: checks 
+*** TURN *** [Jd 7c 5d] [Tc]
+huntski123: checks 
+jaibox: bets $0.75
+TrIpPiN_bDc: folds 
+huntski123: folds 
+Uncalled bet ($0.75) returned to jaibox
+jaibox collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Jd 7c 5d Tc]
+Seat 1: Marco296 folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou folded before Flop (didn't bet)
+Seat 5: charlieml (button) folded before Flop (didn't bet)
+Seat 6: huntski123 (small blind) folded on the Turn
+Seat 7: jaibox (big blind) collected ($2.15)
+Seat 8: Boot Hill folded before Flop (didn't bet)
+Seat 9: TrIpPiN_bDc folded on the Turn
+
+
+
+PokerStars Game #19274415944:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:44:37 (ET)
+Table 'Taurus IV' 9-max Seat #6 is the button
+Seat 1: Marco296 ($4.65 in chips) 
+Seat 2: MaPiec ($65.05 in chips) 
+Seat 3: Alameda22 ($24.35 in chips) 
+Seat 4: jdinhou ($32.15 in chips) 
+Seat 5: charlieml ($14.40 in chips) 
+Seat 6: huntski123 ($2.65 in chips) 
+Seat 7: jaibox ($16.85 in chips) 
+Seat 8: Boot Hill ($23 in chips) 
+Seat 9: TrIpPiN_bDc ($26 in chips) 
+jaibox: posts small blind $0.10
+Boot Hill: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 2c]
+TrIpPiN_bDc: folds 
+Marco296: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: raises $0.25 to $0.50
+charlieml: calls $0.50
+huntski123: calls $0.50
+jaibox: calls $0.40
+Boot Hill: calls $0.25
+*** FLOP *** [4s Ac 3d]
+jaibox: checks 
+Boot Hill: checks 
+jdinhou: checks 
+charlieml: checks 
+huntski123: checks 
+*** TURN *** [4s Ac 3d] [Td]
+jaibox: checks 
+Boot Hill: checks 
+jdinhou: bets $1.50
+charlieml: folds 
+huntski123: folds 
+jaibox: folds 
+Boot Hill: folds 
+Uncalled bet ($1.50) returned to jdinhou
+jdinhou collected $2.40 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [4s Ac 3d Td]
+Seat 1: Marco296 folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou collected ($2.40)
+Seat 5: charlieml folded on the Turn
+Seat 6: huntski123 (button) folded on the Turn
+Seat 7: jaibox (small blind) folded on the Turn
+Seat 8: Boot Hill (big blind) folded on the Turn
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274451391:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:46:08 (ET)
+Table 'Taurus IV' 9-max Seat #7 is the button
+Seat 1: Marco296 ($4.65 in chips) 
+Seat 2: MaPiec ($65.05 in chips) 
+Seat 3: Alameda22 ($24.35 in chips) 
+Seat 4: jdinhou ($34.05 in chips) 
+Seat 5: charlieml ($13.90 in chips) 
+Seat 6: huntski123 ($2.15 in chips) 
+Seat 7: jaibox ($16.35 in chips) 
+Seat 8: Boot Hill ($25 in chips) 
+Seat 9: TrIpPiN_bDc ($26 in chips) 
+Boot Hill: posts small blind $0.10
+TrIpPiN_bDc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 3c]
+Marco296: folds 
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: folds 
+charlieml: folds 
+charlieml is sitting out
+huntski123: raises $1.75 to $2
+jaibox: folds 
+Boot Hill: folds 
+TrIpPiN_bDc: folds 
+Uncalled bet ($1.75) returned to huntski123
+huntski123 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Marco296 folded before Flop (didn't bet)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou folded before Flop (didn't bet)
+Seat 5: charlieml folded before Flop (didn't bet)
+Seat 6: huntski123 collected ($0.60)
+Seat 7: jaibox (button) folded before Flop (didn't bet)
+Seat 8: Boot Hill (small blind) folded before Flop
+Seat 9: TrIpPiN_bDc (big blind) folded before Flop
+
+
+
+PokerStars Game #19274472945:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:47:04 (ET)
+Table 'Taurus IV' 9-max Seat #8 is the button
+Seat 1: Marco296 ($4.65 in chips) 
+Seat 2: MaPiec ($65.05 in chips) 
+Seat 3: Alameda22 ($24.35 in chips) 
+Seat 4: jdinhou ($34.05 in chips) 
+Seat 6: huntski123 ($2.50 in chips) 
+Seat 7: jaibox ($16.35 in chips) 
+Seat 8: Boot Hill ($24.90 in chips) 
+Seat 9: TrIpPiN_bDc ($25.75 in chips) 
+TrIpPiN_bDc: posts small blind $0.10
+Marco296: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Ad]
+MaPiec: folds 
+Alameda22: folds 
+jdinhou: folds 
+huntski123: folds 
+jaibox: folds 
+Boot Hill: folds 
+TrIpPiN_bDc: calls $0.15
+Marco296: checks 
+*** FLOP *** [6d Qc 7s]
+TrIpPiN_bDc: checks 
+Marco296: checks 
+*** TURN *** [6d Qc 7s] [7c]
+TrIpPiN_bDc: checks 
+Marco296: checks 
+*** RIVER *** [6d Qc 7s 7c] [2s]
+TrIpPiN_bDc: checks 
+Marco296: bets $0.25
+TrIpPiN_bDc: folds 
+Uncalled bet ($0.25) returned to Marco296
+Marco296 collected $0.50 from pot
+Marco296: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [6d Qc 7s 7c 2s]
+Seat 1: Marco296 (big blind) collected ($0.50)
+Seat 2: MaPiec folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou folded before Flop (didn't bet)
+Seat 6: huntski123 folded before Flop (didn't bet)
+Seat 7: jaibox folded before Flop (didn't bet)
+Seat 8: Boot Hill (button) folded before Flop (didn't bet)
+Seat 9: TrIpPiN_bDc (small blind) folded on the River
+
+
+
+PokerStars Game #19274497272:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:48:07 (ET)
+Table 'Taurus IV' 9-max Seat #9 is the button
+Seat 1: Marco296 ($4.90 in chips) 
+Seat 3: Alameda22 ($24.35 in chips) 
+Seat 4: jdinhou ($34.05 in chips) 
+Seat 6: huntski123 ($2.50 in chips) 
+Seat 7: jaibox ($16.35 in chips) 
+Seat 8: Boot Hill ($24.90 in chips) 
+Seat 9: TrIpPiN_bDc ($25.50 in chips) 
+Marco296: posts small blind $0.10
+MaPiec: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 4d]
+MaPiec has returned
+jdinhou: folds 
+MaPiec leaves the table
+huntski123: folds 
+jaibox: folds 
+Boot Hill: folds 
+TrIpPiN_bDc: folds 
+Marco296: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Marco296 (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) collected ($0.20)
+Seat 4: jdinhou folded before Flop (didn't bet)
+Seat 6: huntski123 folded before Flop (didn't bet)
+Seat 7: jaibox folded before Flop (didn't bet)
+Seat 8: Boot Hill folded before Flop (didn't bet)
+Seat 9: TrIpPiN_bDc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274504290:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:48:25 (ET)
+Table 'Taurus IV' 9-max Seat #1 is the button
+Seat 1: Marco296 ($4.80 in chips) 
+Seat 3: Alameda22 ($24.45 in chips) 
+Seat 4: jdinhou ($34.05 in chips) 
+Seat 6: huntski123 ($2.50 in chips) 
+Seat 7: jaibox ($16.35 in chips) 
+Seat 8: Boot Hill ($24.90 in chips) 
+Seat 9: TrIpPiN_bDc ($25.50 in chips) 
+Alameda22: posts small blind $0.10
+jdinhou: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h As]
+huntski123: raises $0.75 to $1
+jaibox: folds 
+Boot Hill: calls $1
+TrIpPiN_bDc: folds 
+Marco296: folds 
+Alameda22: folds 
+jdinhou: folds 
+*** FLOP *** [4h Ks Kh]
+huntski123: checks 
+Boot Hill: bets $0.75
+huntski123: calls $0.75
+*** TURN *** [4h Ks Kh] [Jh]
+huntski123: checks 
+Boot Hill: bets $23.15 and is all-in
+huntski123: calls $0.75 and is all-in
+Uncalled bet ($22.40) returned to Boot Hill
+*** RIVER *** [4h Ks Kh Jh] [5s]
+xQQQQx joins the table at seat #2 
+*** SHOW DOWN ***
+huntski123: shows [Ts Kc] (three of a kind, Kings)
+Boot Hill: shows [2c 4c] (two pair, Kings and Fours)
+huntski123 collected $5.10 from pot
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [4h Ks Kh Jh 5s]
+Seat 1: Marco296 (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: jdinhou (big blind) folded before Flop
+Seat 6: huntski123 showed [Ts Kc] and won ($5.10) with three of a kind, Kings
+Seat 7: jaibox folded before Flop (didn't bet)
+Seat 8: Boot Hill showed [2c 4c] and lost with two pair, Kings and Fours
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274526895:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:49:25 (ET)
+Table 'Taurus IV' 9-max Seat #3 is the button
+Seat 1: Marco296 ($4.80 in chips) 
+Seat 2: xQQQQx ($15 in chips) 
+Seat 3: Alameda22 ($24.35 in chips) 
+Seat 4: jdinhou ($33.80 in chips) 
+Seat 6: huntski123 ($5.10 in chips) 
+Seat 7: jaibox ($16.35 in chips) 
+Seat 8: Boot Hill ($22.40 in chips) 
+Seat 9: TrIpPiN_bDc ($25.50 in chips) 
+jdinhou: posts small blind $0.10
+huntski123: posts big blind $0.25
+xQQQQx: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 6d]
+Boot Hill said, "nh"
+jaibox: folds 
+Boot Hill: raises $0.25 to $0.50
+TrIpPiN_bDc: calls $0.50
+Marco296: folds 
+huntski123 said, "ty"
+xQQQQx: calls $0.25
+Alameda22: folds 
+jdinhou: folds 
+huntski123: folds 
+*** FLOP *** [3d 6h Jc]
+Boot Hill: bets $0.75
+TrIpPiN_bDc: folds 
+xQQQQx: calls $0.75
+*** TURN *** [3d 6h Jc] [8c]
+Boot Hill: checks 
+xQQQQx: bets $1.50
+Boot Hill: folds 
+Uncalled bet ($1.50) returned to xQQQQx
+xQQQQx collected $3.20 from pot
+xQQQQx: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [3d 6h Jc 8c]
+Seat 1: Marco296 folded before Flop (didn't bet)
+Seat 2: xQQQQx collected ($3.20)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: jdinhou (small blind) folded before Flop
+Seat 6: huntski123 (big blind) folded before Flop
+Seat 7: jaibox folded before Flop (didn't bet)
+Seat 8: Boot Hill folded on the Turn
+Seat 9: TrIpPiN_bDc folded on the Flop
+
+
+
+PokerStars Game #19274550534:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:50:28 (ET)
+Table 'Taurus IV' 9-max Seat #4 is the button
+Seat 1: Marco296 ($4.80 in chips) 
+Seat 2: xQQQQx ($16.95 in chips) 
+Seat 3: Alameda22 ($24.35 in chips) 
+Seat 4: jdinhou ($33.70 in chips) 
+Seat 6: huntski123 ($4.85 in chips) 
+Seat 7: jaibox ($16.35 in chips) 
+Seat 8: Boot Hill ($21.15 in chips) 
+Seat 9: TrIpPiN_bDc ($25 in chips) 
+huntski123: posts small blind $0.10
+jaibox: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Kd]
+Boot Hill: folds 
+TrIpPiN_bDc: folds 
+Marco296: folds 
+xQQQQx: folds 
+Alameda22: folds 
+jdinhou: raises $0.50 to $0.75
+charlieml has returned
+huntski123: folds 
+jaibox: folds 
+Uncalled bet ($0.50) returned to jdinhou
+jdinhou collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Marco296 folded before Flop (didn't bet)
+Seat 2: xQQQQx folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou (button) collected ($0.60)
+Seat 6: huntski123 (small blind) folded before Flop
+Seat 7: jaibox (big blind) folded before Flop
+Seat 8: Boot Hill folded before Flop (didn't bet)
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274566257:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:51:09 (ET)
+Table 'Taurus IV' 9-max Seat #6 is the button
+Seat 1: Marco296 ($4.80 in chips) 
+Seat 2: xQQQQx ($16.95 in chips) 
+Seat 3: Alameda22 ($24.35 in chips) 
+Seat 4: jdinhou ($34.05 in chips) 
+Seat 5: charlieml ($13.90 in chips) 
+Seat 6: huntski123 ($4.75 in chips) 
+Seat 7: jaibox ($16.10 in chips) 
+Seat 8: Boot Hill ($21.15 in chips) 
+Seat 9: TrIpPiN_bDc ($25 in chips) 
+jaibox: posts small blind $0.10
+Boot Hill: posts big blind $0.25
+charlieml: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 4c]
+TrIpPiN_bDc: folds 
+Marco296: folds 
+xQQQQx: folds 
+Alameda22: folds 
+jdinhou: folds 
+charlieml: checks 
+huntski123: folds 
+jaibox: calls $0.15
+Boot Hill: checks 
+*** FLOP *** [9d As 7s]
+jdinhou leaves the table
+jaibox: checks 
+Boot Hill: checks 
+charlieml: bets $0.50
+jaibox: folds 
+Boot Hill: folds 
+Uncalled bet ($0.50) returned to charlieml
+charlieml collected $0.85 from pot
+EUG123 joins the table at seat #4 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [9d As 7s]
+Seat 1: Marco296 folded before Flop (didn't bet)
+Seat 2: xQQQQx folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: jdinhou folded before Flop (didn't bet)
+Seat 5: charlieml collected ($0.85)
+Seat 6: huntski123 (button) folded before Flop (didn't bet)
+Seat 7: jaibox (small blind) folded on the Flop
+Seat 8: Boot Hill (big blind) folded on the Flop
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274583821:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:51:56 (ET)
+Table 'Taurus IV' 9-max Seat #7 is the button
+Seat 1: Marco296 ($4.80 in chips) 
+Seat 2: xQQQQx ($16.95 in chips) 
+Seat 3: Alameda22 ($24.35 in chips) 
+Seat 4: EUG123 ($5 in chips) 
+Seat 5: charlieml ($14.40 in chips) 
+Seat 6: huntski123 ($4.75 in chips) 
+Seat 7: jaibox ($15.85 in chips) 
+Seat 8: Boot Hill ($20.90 in chips) 
+Seat 9: TrIpPiN_bDc ($25 in chips) 
+Boot Hill: posts small blind $0.10
+TrIpPiN_bDc: posts big blind $0.25
+EUG123: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 3s]
+Marco296: folds 
+xQQQQx: folds 
+Alameda22: folds 
+EUG123: checks 
+charlieml: raises $0.25 to $0.50
+huntski123: folds 
+jaibox: folds 
+Boot Hill: folds 
+TrIpPiN_bDc: calls $0.25
+EUG123: calls $0.25
+*** FLOP *** [7h 2c Js]
+TrIpPiN_bDc: checks 
+EUG123: checks 
+charlieml: bets $0.50
+TrIpPiN_bDc: folds 
+EUG123: folds 
+Uncalled bet ($0.50) returned to charlieml
+charlieml collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [7h 2c Js]
+Seat 1: Marco296 folded before Flop (didn't bet)
+Seat 2: xQQQQx folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: EUG123 folded on the Flop
+Seat 5: charlieml collected ($1.55)
+Seat 6: huntski123 folded before Flop (didn't bet)
+Seat 7: jaibox (button) folded before Flop (didn't bet)
+Seat 8: Boot Hill (small blind) folded before Flop
+Seat 9: TrIpPiN_bDc (big blind) folded on the Flop
+
+
+
+PokerStars Game #19274611344:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:53:09 (ET)
+Table 'Taurus IV' 9-max Seat #8 is the button
+Seat 1: Marco296 ($4.80 in chips) 
+Seat 2: xQQQQx ($16.95 in chips) 
+Seat 3: Alameda22 ($24.35 in chips) 
+Seat 4: EUG123 ($4.50 in chips) 
+Seat 5: charlieml ($15.45 in chips) 
+Seat 6: huntski123 ($4.75 in chips) 
+Seat 7: jaibox ($15.85 in chips) 
+Seat 8: Boot Hill ($25 in chips) 
+Seat 9: TrIpPiN_bDc ($24.50 in chips) 
+TrIpPiN_bDc: posts small blind $0.10
+Marco296: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 7c]
+xQQQQx: folds 
+Alameda22: folds 
+EUG123: folds 
+charlieml: raises $0.25 to $0.50
+huntski123: folds 
+jaibox: folds 
+Boot Hill has timed out
+Boot Hill: folds 
+Boot Hill is sitting out
+TrIpPiN_bDc: folds 
+Boot Hill has returned
+Marco296: folds 
+Uncalled bet ($0.25) returned to charlieml
+charlieml collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Marco296 (big blind) folded before Flop
+Seat 2: xQQQQx folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: EUG123 folded before Flop (didn't bet)
+Seat 5: charlieml collected ($0.60)
+Seat 6: huntski123 folded before Flop (didn't bet)
+Seat 7: jaibox folded before Flop (didn't bet)
+Seat 8: Boot Hill (button) folded before Flop (didn't bet)
+Seat 9: TrIpPiN_bDc (small blind) folded before Flop
+
+
+
+PokerStars Game #19274625651:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:53:47 (ET)
+Table 'Taurus IV' 9-max Seat #9 is the button
+Seat 1: Marco296 ($4.55 in chips) 
+Seat 2: xQQQQx ($16.95 in chips) 
+Seat 3: Alameda22 ($24.35 in chips) 
+Seat 4: EUG123 ($4.50 in chips) 
+Seat 5: charlieml ($15.80 in chips) 
+Seat 6: huntski123 ($4.75 in chips) 
+Seat 7: jaibox ($15.85 in chips) 
+Seat 8: Boot Hill ($25 in chips) 
+Seat 9: TrIpPiN_bDc ($24.40 in chips) 
+Marco296: posts small blind $0.10
+xQQQQx: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 4d]
+Alameda22: folds 
+EUG123: raises $0.75 to $1
+charlieml: folds 
+huntski123: folds 
+jaibox: folds 
+Boot Hill: calls $1
+TrIpPiN_bDc: folds 
+Marco296: folds 
+xQQQQx: folds 
+*** FLOP *** [2d Jh Js]
+EUG123: checks 
+Boot Hill: bets $0.75
+EUG123: calls $0.75
+*** TURN *** [2d Jh Js] [4h]
+EUG123: checks 
+Boot Hill: bets $1.25
+EUG123: calls $1.25
+*** RIVER *** [2d Jh Js 4h] [9h]
+EUG123: checks 
+Boot Hill: bets $7.75
+EUG123: calls $1.50 and is all-in
+Uncalled bet ($6.25) returned to Boot Hill
+*** SHOW DOWN ***
+Boot Hill: shows [8h Kh] (a flush, King high)
+EUG123: mucks hand 
+Boot Hill collected $8.90 from pot
+*** SUMMARY ***
+Total pot $9.35 | Rake $0.45 
+Board [2d Jh Js 4h 9h]
+Seat 1: Marco296 (small blind) folded before Flop
+Seat 2: xQQQQx (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: EUG123 mucked [Ah Kd]
+Seat 5: charlieml folded before Flop (didn't bet)
+Seat 6: huntski123 folded before Flop (didn't bet)
+Seat 7: jaibox folded before Flop (didn't bet)
+Seat 8: Boot Hill showed [8h Kh] and won ($8.90) with a flush, King high
+Seat 9: TrIpPiN_bDc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274645049:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:54:40 (ET)
+Table 'Taurus IV' 9-max Seat #1 is the button
+Seat 1: Marco296 ($4.45 in chips) 
+Seat 2: xQQQQx ($16.70 in chips) 
+Seat 3: Alameda22 ($24.35 in chips) 
+Seat 4: EUG123 ($5 in chips) 
+Seat 5: charlieml ($15.80 in chips) 
+Seat 6: huntski123 ($4.75 in chips) 
+Seat 7: jaibox ($15.85 in chips) 
+Seat 8: Boot Hill ($29.40 in chips) 
+Seat 9: TrIpPiN_bDc ($24.40 in chips) 
+xQQQQx: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Ah]
+EUG123: folds 
+charlieml: calls $0.25
+huntski123: folds 
+jaibox: folds 
+Boot Hill: raises $0.25 to $0.50
+TrIpPiN_bDc: folds 
+Marco296: folds 
+xQQQQx: folds 
+Alameda22: folds 
+charlieml: calls $0.25
+*** FLOP *** [Qd 4d 6c]
+charlieml: checks 
+Boot Hill: bets $0.75
+charlieml: folds 
+Uncalled bet ($0.75) returned to Boot Hill
+Boot Hill collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [Qd 4d 6c]
+Seat 1: Marco296 (button) folded before Flop (didn't bet)
+Seat 2: xQQQQx (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: EUG123 folded before Flop (didn't bet)
+Seat 5: charlieml folded on the Flop
+Seat 6: huntski123 folded before Flop (didn't bet)
+Seat 7: jaibox folded before Flop (didn't bet)
+Seat 8: Boot Hill collected ($1.30)
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274662347:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:55:28 (ET)
+Table 'Taurus IV' 9-max Seat #2 is the button
+Seat 1: Marco296 ($4.45 in chips) 
+Seat 2: xQQQQx ($16.60 in chips) 
+Seat 3: Alameda22 ($24.10 in chips) 
+Seat 4: EUG123 ($5 in chips) 
+Seat 5: charlieml ($15.30 in chips) 
+Seat 6: huntski123 ($4.75 in chips) 
+Seat 7: jaibox ($15.85 in chips) 
+Seat 8: Boot Hill ($30.20 in chips) 
+Seat 9: TrIpPiN_bDc ($24.40 in chips) 
+Alameda22: posts small blind $0.10
+EUG123: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Kh]
+charlieml: calls $0.25
+huntski123: folds 
+jaibox: folds 
+Boot Hill: raises $0.25 to $0.50
+TrIpPiN_bDc: folds 
+Marco296: folds 
+xQQQQx: calls $0.50
+Alameda22: raises $1.50 to $2
+EUG123: folds 
+charlieml: folds 
+Boot Hill: folds 
+xQQQQx: calls $1.50
+*** FLOP *** [Tc 2s 2c]
+Alameda22: bets $3.25
+xQQQQx: raises $3.25 to $6.50
+Alameda22: raises $15 to $21.50
+xQQQQx: calls $8.10 and is all-in
+Uncalled bet ($6.90) returned to Alameda22
+*** TURN *** [Tc 2s 2c] [2h]
+*** RIVER *** [Tc 2s 2c 2h] [Td]
+*** SHOW DOWN ***
+Alameda22: shows [Kd Kh] (a full house, Deuces full of Kings)
+xQQQQx: shows [2d Ad] (four of a kind, Deuces)
+xQQQQx collected $32.55 from pot
+*** SUMMARY ***
+Total pot $34.20 | Rake $1.65 
+Board [Tc 2s 2c 2h Td]
+Seat 1: Marco296 folded before Flop (didn't bet)
+Seat 2: xQQQQx (button) showed [2d Ad] and won ($32.55) with four of a kind, Deuces
+Seat 3: Alameda22 (small blind) showed [Kd Kh] and lost with a full house, Deuces full of Kings
+Seat 4: EUG123 (big blind) folded before Flop
+Seat 5: charlieml folded before Flop
+Seat 6: huntski123 folded before Flop (didn't bet)
+Seat 7: jaibox folded before Flop (didn't bet)
+Seat 8: Boot Hill folded before Flop
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274688878:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:56:39 (ET)
+Table 'Taurus IV' 9-max Seat #3 is the button
+Seat 1: Marco296 ($4.45 in chips) 
+Seat 2: xQQQQx ($32.55 in chips) 
+Seat 3: Alameda22 ($7.50 in chips) 
+Seat 4: EUG123 ($4.75 in chips) 
+Seat 5: charlieml ($15.05 in chips) 
+Seat 6: huntski123 ($4.75 in chips) 
+Seat 7: jaibox ($15.85 in chips) 
+Seat 8: Boot Hill ($29.70 in chips) 
+Seat 9: TrIpPiN_bDc ($24.40 in chips) 
+EUG123: posts small blind $0.10
+charlieml: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 2d]
+huntski123: folds 
+jaibox: folds 
+Boot Hill: raises $0.25 to $0.50
+TrIpPiN_bDc: folds 
+Marco296: folds 
+xQQQQx: folds 
+Alameda22: folds 
+EUG123: calls $0.40
+charlieml: calls $0.25
+*** FLOP *** [Kh 4h Td]
+EUG123: bets $0.50
+charlieml: raises $3 to $3.50
+Boot Hill: folds 
+EUG123: raises $0.75 to $4.25 and is all-in
+charlieml: calls $0.75
+*** TURN *** [Kh 4h Td] [8c]
+*** RIVER *** [Kh 4h Td 8c] [9s]
+*** SHOW DOWN ***
+EUG123: shows [Ks Jc] (a pair of Kings)
+charlieml: shows [Kc 4s] (two pair, Kings and Fours)
+charlieml collected $9.55 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.45 
+Board [Kh 4h Td 8c 9s]
+Seat 1: Marco296 folded before Flop (didn't bet)
+Seat 2: xQQQQx folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: EUG123 (small blind) showed [Ks Jc] and lost with a pair of Kings
+Seat 5: charlieml (big blind) showed [Kc 4s] and won ($9.55) with two pair, Kings and Fours
+Seat 6: huntski123 folded before Flop (didn't bet)
+Seat 7: jaibox folded before Flop (didn't bet)
+Seat 8: Boot Hill folded on the Flop
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274713841:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:57:48 (ET)
+Table 'Taurus IV' 9-max Seat #4 is the button
+Seat 1: Marco296 ($4.45 in chips) 
+Seat 2: xQQQQx ($32.55 in chips) 
+Seat 3: Alameda22 ($7.50 in chips) 
+Seat 4: EUG123 ($5 in chips) 
+Seat 5: charlieml ($19.85 in chips) 
+Seat 6: huntski123 ($4.75 in chips) 
+Seat 7: jaibox ($15.85 in chips) 
+Seat 8: Boot Hill ($29.20 in chips) 
+Seat 9: TrIpPiN_bDc ($24.40 in chips) 
+charlieml: posts small blind $0.10
+huntski123: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h As]
+jaibox: folds 
+Boot Hill: raises $0.25 to $0.50
+TrIpPiN_bDc: folds 
+Marco296: folds 
+xQQQQx: folds 
+Alameda22: folds 
+EUG123: calls $0.50
+charlieml: calls $0.40
+huntski123: calls $0.25
+*** FLOP *** [3h Qs 5d]
+charlieml: checks 
+huntski123: checks 
+Boot Hill: bets $0.75
+EUG123: folds 
+charlieml: folds 
+huntski123: raises $3.50 to $4.25 and is all-in
+Boot Hill: calls $3.50
+*** TURN *** [3h Qs 5d] [3s]
+*** RIVER *** [3h Qs 5d 3s] [7s]
+*** SHOW DOWN ***
+huntski123: shows [6s 6d] (two pair, Sixes and Threes)
+Boot Hill: shows [Qc 7c] (two pair, Queens and Sevens)
+Boot Hill collected $10 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.50 
+Board [3h Qs 5d 3s 7s]
+Seat 1: Marco296 folded before Flop (didn't bet)
+Seat 2: xQQQQx folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: EUG123 (button) folded on the Flop
+Seat 5: charlieml (small blind) folded on the Flop
+Seat 6: huntski123 (big blind) showed [6s 6d] and lost with two pair, Sixes and Threes
+Seat 7: jaibox folded before Flop (didn't bet)
+Seat 8: Boot Hill showed [Qc 7c] and won ($10) with two pair, Queens and Sevens
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274746430:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:59:18 (ET)
+Table 'Taurus IV' 9-max Seat #5 is the button
+Seat 1: Marco296 ($4.45 in chips) 
+Seat 2: xQQQQx ($32.55 in chips) 
+Seat 3: Alameda22 ($7.50 in chips) 
+Seat 4: EUG123 ($4.50 in chips) 
+Seat 5: charlieml ($19.35 in chips) 
+Seat 7: jaibox ($15.85 in chips) 
+Seat 8: Boot Hill ($34.45 in chips) 
+Seat 9: TrIpPiN_bDc ($24.40 in chips) 
+jaibox: posts small blind $0.10
+Boot Hill: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 5s]
+TrIpPiN_bDc: folds 
+Marco296: folds 
+xQQQQx: folds 
+Alameda22: folds 
+EUG123: folds 
+charlieml: folds 
+jaibox: folds 
+Uncalled bet ($0.15) returned to Boot Hill
+Boot Hill collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Marco296 folded before Flop (didn't bet)
+Seat 2: xQQQQx folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: EUG123 folded before Flop (didn't bet)
+Seat 5: charlieml (button) folded before Flop (didn't bet)
+Seat 7: jaibox (small blind) folded before Flop
+Seat 8: Boot Hill (big blind) collected ($0.20)
+Seat 9: TrIpPiN_bDc folded before Flop (didn't bet)
+
+
+

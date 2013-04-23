@@ -1,0 +1,4201 @@
+PokerStars Game #19897583100:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:24:57 (ET)
+Table 'Bok' 9-max Seat #1 is the button
+Seat 1: LVCJarrett ($24.55 in chips) 
+Seat 2: 468blazer ($16.40 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: Balzouman ($24.75 in chips) 
+Seat 5: robwildsc ($14.75 in chips) 
+Seat 6: JDOUUGLAS ($28.30 in chips) 
+Seat 8: rodlaver ($15.70 in chips) 
+Seat 9: X112311X ($12.90 in chips) 
+468blazer: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Frazzo1984: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 7h]
+Balzouman: folds 
+robwildsc: folds 
+JDOUUGLAS: calls $0.25
+rodlaver: raises $0.50 to $0.75
+X112311X: calls $0.75
+LVCJarrett: folds 
+468blazer: calls $0.65
+Alameda22: folds 
+JDOUUGLAS: calls $0.50
+*** FLOP *** [Ad 2h 8c]
+468blazer: checks 
+JDOUUGLAS: checks 
+rodlaver: bets $1.75
+X112311X: folds 
+468blazer: folds 
+JDOUUGLAS: folds 
+Uncalled bet ($1.75) returned to rodlaver
+rodlaver collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Ad 2h 8c]
+Seat 1: LVCJarrett (button) folded before Flop (didn't bet)
+Seat 2: 468blazer (small blind) folded on the Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: JDOUUGLAS folded on the Flop
+Seat 8: rodlaver collected ($3.10)
+Seat 9: X112311X folded on the Flop
+
+
+
+PokerStars Game #19897599398:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:25:40 (ET)
+Table 'Bok' 9-max Seat #2 is the button
+Seat 1: LVCJarrett ($24.55 in chips) 
+Seat 2: 468blazer ($15.65 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: Balzouman ($24.75 in chips) 
+Seat 5: robwildsc ($14.75 in chips) 
+Seat 6: JDOUUGLAS ($27.55 in chips) 
+Seat 8: rodlaver ($18.05 in chips) 
+Seat 9: X112311X ($12.15 in chips) 
+Alameda22: posts small blind $0.10
+Balzouman: posts big blind $0.25
+Frazzo1984: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 5c]
+robwildsc: calls $0.25
+JDOUUGLAS: folds 
+rodlaver: calls $0.25
+X112311X: folds 
+LVCJarrett: calls $0.25
+468blazer: calls $0.25
+Alameda22: folds 
+Balzouman: checks 
+*** FLOP *** [2d 9h 9d]
+Balzouman: checks 
+robwildsc: checks 
+rodlaver: checks 
+LVCJarrett: checks 
+468blazer: checks 
+*** TURN *** [2d 9h 9d] [3s]
+Balzouman: checks 
+robwildsc: checks 
+rodlaver: bets $0.50
+LVCJarrett: folds 
+468blazer: calls $0.50
+Balzouman: folds 
+robwildsc: folds 
+*** RIVER *** [2d 9h 9d 3s] [Th]
+rodlaver: bets $0.50
+468blazer: folds 
+Uncalled bet ($0.50) returned to rodlaver
+rodlaver collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [2d 9h 9d 3s Th]
+Seat 1: LVCJarrett folded on the Turn
+Seat 2: 468blazer (button) folded on the River
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Balzouman (big blind) folded on the Turn
+Seat 5: robwildsc folded on the Turn
+Seat 6: JDOUUGLAS folded before Flop (didn't bet)
+Seat 8: rodlaver collected ($2.25)
+Seat 9: X112311X folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19897625037:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:26:48 (ET)
+Table 'Bok' 9-max Seat #3 is the button
+Seat 1: LVCJarrett ($24.30 in chips) 
+Seat 2: 468blazer ($14.90 in chips) 
+Seat 3: Alameda22 ($24.65 in chips) 
+Seat 4: Balzouman ($24.50 in chips) 
+Seat 5: robwildsc ($14.50 in chips) 
+Seat 6: JDOUUGLAS ($27.55 in chips) 
+Seat 8: rodlaver ($19.55 in chips) 
+Seat 9: X112311X ($12.15 in chips) 
+Balzouman: posts small blind $0.10
+robwildsc: posts big blind $0.25
+Frazzo1984: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 4s]
+JDOUUGLAS: folds 
+rodlaver: folds 
+X112311X: calls $0.25
+LVCJarrett: folds 
+468blazer: calls $0.25
+Alameda22: folds 
+Balzouman: calls $0.15
+robwildsc: raises $0.75 to $1
+X112311X: calls $0.75
+468blazer: calls $0.75
+Balzouman: folds 
+*** FLOP *** [Kd 2d 5s]
+robwildsc: bets $1
+X112311X: calls $1
+468blazer: calls $1
+*** TURN *** [Kd 2d 5s] [9h]
+robwildsc: bets $1
+X112311X: calls $1
+JDOUUGLAS leaves the table
+468blazer: folds 
+*** RIVER *** [Kd 2d 5s 9h] [Qd]
+robwildsc: bets $1
+X112311X: folds 
+Uncalled bet ($1) returned to robwildsc
+Earlharbo joins the table at seat #6 
+robwildsc collected $7.90 from pot
+robwildsc: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.35 
+Board [Kd 2d 5s 9h Qd]
+Seat 1: LVCJarrett folded before Flop (didn't bet)
+Seat 2: 468blazer folded on the Turn
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Balzouman (small blind) folded before Flop
+Seat 5: robwildsc (big blind) collected ($7.90)
+Seat 6: JDOUUGLAS folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: X112311X folded on the River
+
+
+
+PokerStars Game #19897651016:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:27:58 (ET)
+Table 'Bok' 9-max Seat #4 is the button
+Seat 1: LVCJarrett ($24.30 in chips) 
+Seat 2: 468blazer ($12.90 in chips) 
+Seat 3: Alameda22 ($24.65 in chips) 
+Seat 4: Balzouman ($24.25 in chips) 
+Seat 5: robwildsc ($19.40 in chips) 
+Seat 6: Earlharbo ($25 in chips) 
+Seat 8: rodlaver ($19.55 in chips) 
+Seat 9: X112311X ($9.15 in chips) 
+robwildsc: posts small blind $0.10
+Earlharbo: posts big blind $0.25
+Frazzo1984: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Td]
+rodlaver: folds 
+X112311X: calls $0.25
+LVCJarrett: folds 
+468blazer: calls $0.25
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: calls $0.15
+Earlharbo: checks 
+*** FLOP *** [Ks Qh 3s]
+robwildsc: checks 
+Earlharbo: checks 
+X112311X: checks 
+468blazer: checks 
+*** TURN *** [Ks Qh 3s] [Kh]
+robwildsc: checks 
+Earlharbo: checks 
+X112311X: checks 
+468blazer: checks 
+*** RIVER *** [Ks Qh 3s Kh] [Ad]
+robwildsc: bets $0.50
+Earlharbo: folds 
+X112311X: folds 
+468blazer: folds 
+Uncalled bet ($0.50) returned to robwildsc
+robwildsc collected $0.95 from pot
+robwildsc: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Ks Qh 3s Kh Ad]
+Seat 1: LVCJarrett folded before Flop (didn't bet)
+Seat 2: 468blazer folded on the River
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman (button) folded before Flop (didn't bet)
+Seat 5: robwildsc (small blind) collected ($0.95)
+Seat 6: Earlharbo (big blind) folded on the River
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: X112311X folded on the River
+
+
+
+PokerStars Game #19897677272:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:29:08 (ET)
+Table 'Bok' 9-max Seat #5 is the button
+Seat 1: LVCJarrett ($24.30 in chips) 
+Seat 2: 468blazer ($12.65 in chips) 
+Seat 3: Alameda22 ($24.65 in chips) 
+Seat 4: Balzouman ($24.25 in chips) 
+Seat 5: robwildsc ($20.10 in chips) 
+Seat 6: Earlharbo ($24.75 in chips) 
+Seat 7: Frazzo1984 ($15 in chips) 
+Seat 8: rodlaver ($19.55 in chips) 
+Seat 9: X112311X ($8.90 in chips) 
+Earlharbo: posts small blind $0.10
+Frazzo1984: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 4c]
+rodlaver: folds 
+X112311X: folds 
+LVCJarrett: calls $0.25
+468blazer: calls $0.25
+Alameda22: calls $0.25
+Balzouman: calls $0.25
+robwildsc: folds 
+Earlharbo: folds 
+Frazzo1984: checks 
+*** FLOP *** [3d 5c 7s]
+Frazzo1984: checks 
+LVCJarrett: checks 
+468blazer: bets $0.75
+Alameda22: folds 
+Balzouman: folds 
+Frazzo1984: folds 
+LVCJarrett: folds 
+Uncalled bet ($0.75) returned to 468blazer
+468blazer collected $1.30 from pot
+468blazer: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [3d 5c 7s]
+Seat 1: LVCJarrett folded on the Flop
+Seat 2: 468blazer collected ($1.30)
+Seat 3: Alameda22 folded on the Flop
+Seat 4: Balzouman folded on the Flop
+Seat 5: robwildsc (button) folded before Flop (didn't bet)
+Seat 6: Earlharbo (small blind) folded before Flop
+Seat 7: Frazzo1984 (big blind) folded on the Flop
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: X112311X folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19897701861:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:30:14 (ET)
+Table 'Bok' 9-max Seat #6 is the button
+Seat 1: LVCJarrett ($24.05 in chips) 
+Seat 2: 468blazer ($13.70 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: Balzouman ($24 in chips) 
+Seat 5: robwildsc ($20.10 in chips) 
+Seat 6: Earlharbo ($24.65 in chips) 
+Seat 7: Frazzo1984 ($14.75 in chips) 
+Seat 8: rodlaver ($19.55 in chips) 
+Seat 9: X112311X ($8.90 in chips) 
+Frazzo1984: posts small blind $0.10
+rodlaver: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Kc]
+X112311X: calls $0.25
+LVCJarrett: folds 
+468blazer: calls $0.25
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: folds 
+Earlharbo: folds 
+Frazzo1984: calls $0.15
+rodlaver: checks 
+*** FLOP *** [Ts 7s Qh]
+Frazzo1984: checks 
+rodlaver: checks 
+X112311X: checks 
+468blazer: checks 
+*** TURN *** [Ts 7s Qh] [2h]
+Frazzo1984: checks 
+rodlaver: checks 
+X112311X: checks 
+468blazer: bets $0.75
+Frazzo1984: folds 
+rodlaver: folds 
+X112311X: calls $0.75
+*** RIVER *** [Ts 7s Qh 2h] [2s]
+X112311X: checks 
+468blazer: bets $1
+X112311X: raises $1 to $2
+468blazer: calls $1
+*** SHOW DOWN ***
+X112311X: shows [2c 5c] (three of a kind, Deuces)
+468blazer: shows [As 3s] (a flush, Ace high)
+468blazer collected $6.20 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.30 
+Board [Ts 7s Qh 2h 2s]
+Seat 1: LVCJarrett folded before Flop (didn't bet)
+Seat 2: 468blazer showed [As 3s] and won ($6.20) with a flush, Ace high
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: Earlharbo (button) folded before Flop (didn't bet)
+Seat 7: Frazzo1984 (small blind) folded on the Turn
+Seat 8: rodlaver (big blind) folded on the Turn
+Seat 9: X112311X showed [2c 5c] and lost with three of a kind, Deuces
+
+
+
+PokerStars Game #19897732250:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:31:33 (ET)
+Table 'Bok' 9-max Seat #7 is the button
+Seat 1: LVCJarrett ($24.05 in chips) 
+Seat 2: 468blazer ($16.90 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: Balzouman ($24 in chips) 
+Seat 5: robwildsc ($20.10 in chips) 
+Seat 6: Earlharbo ($24.65 in chips) 
+Seat 7: Frazzo1984 ($14.50 in chips) 
+Seat 8: rodlaver ($19.30 in chips) 
+Seat 9: X112311X ($5.90 in chips) 
+rodlaver: posts small blind $0.10
+X112311X: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 2d]
+LVCJarrett: folds 
+468blazer: calls $0.25
+Alameda22: folds 
+Balzouman: folds 
+LVCJarrett leaves the table
+robwildsc: folds 
+Earlharbo: folds 
+Frazzo1984: folds 
+davkan joins the table at seat #1 
+rodlaver: raises $0.75 to $1
+X112311X: folds 
+468blazer: calls $0.75
+*** FLOP *** [Qd 2h Qs]
+rodlaver: bets $1.50
+468blazer: calls $1.50
+*** TURN *** [Qd 2h Qs] [5d]
+rodlaver: bets $3
+468blazer: folds 
+Uncalled bet ($3) returned to rodlaver
+rodlaver collected $5 from pot
+rodlaver: shows [As Ac] (two pair, Aces and Queens)
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [Qd 2h Qs 5d]
+Seat 1: LVCJarrett folded before Flop (didn't bet)
+Seat 2: 468blazer folded on the Turn
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: Earlharbo folded before Flop (didn't bet)
+Seat 7: Frazzo1984 (button) folded before Flop (didn't bet)
+Seat 8: rodlaver (small blind) collected ($5)
+Seat 9: X112311X (big blind) folded before Flop
+
+
+
+PokerStars Game #19897746456:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:32:11 (ET)
+Table 'Bok' 9-max Seat #8 is the button
+Seat 1: davkan ($25 in chips) 
+Seat 2: 468blazer ($14.40 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: Balzouman ($24 in chips) 
+Seat 5: robwildsc ($20.10 in chips) 
+Seat 6: Earlharbo ($24.65 in chips) 
+Seat 7: Frazzo1984 ($14.50 in chips) 
+Seat 8: rodlaver ($21.80 in chips) 
+Seat 9: X112311X ($5.65 in chips) 
+X112311X: posts small blind $0.10
+davkan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 5s]
+468blazer: calls $0.25
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: folds 
+Earlharbo: folds 
+Frazzo1984: calls $0.25
+rodlaver: folds 
+X112311X: folds 
+davkan: checks 
+*** FLOP *** [Ah 7c Kc]
+davkan: checks 
+468blazer: checks 
+Frazzo1984: bets $14.25 and is all-in
+davkan: folds 
+468blazer: folds 
+Uncalled bet ($14.25) returned to Frazzo1984
+Frazzo1984 collected $0.85 from pot
+Frazzo1984: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Ah 7c Kc]
+Seat 1: davkan (big blind) folded on the Flop
+Seat 2: 468blazer folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: Earlharbo folded before Flop (didn't bet)
+Seat 7: Frazzo1984 collected ($0.85)
+Seat 8: rodlaver (button) folded before Flop (didn't bet)
+Seat 9: X112311X (small blind) folded before Flop
+
+
+
+PokerStars Game #19897761094:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:32:49 (ET)
+Table 'Bok' 9-max Seat #9 is the button
+Seat 1: davkan ($24.75 in chips) 
+Seat 2: 468blazer ($14.15 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: Balzouman ($24 in chips) 
+Seat 5: robwildsc ($20.10 in chips) 
+Seat 6: Earlharbo ($24.65 in chips) 
+Seat 7: Frazzo1984 ($15.10 in chips) 
+Seat 8: rodlaver ($21.80 in chips) 
+Seat 9: X112311X ($5.55 in chips) 
+davkan: posts small blind $0.10
+468blazer: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 5h]
+Alameda22: folds 
+Balzouman: calls $0.25
+robwildsc: folds 
+Earlharbo: folds 
+Frazzo1984: folds 
+rodlaver: raises $0.75 to $1
+X112311X: folds 
+davkan: folds 
+468blazer: calls $0.75
+Balzouman: calls $0.75
+*** FLOP *** [4s 5s 5d]
+468blazer: checks 
+Balzouman: checks 
+rodlaver: bets $2
+468blazer: calls $2
+Balzouman: calls $2
+*** TURN *** [4s 5s 5d] [Qh]
+468blazer: checks 
+Balzouman: checks 
+rodlaver: bets $5.50
+468blazer: calls $5.50
+Balzouman: calls $5.50
+*** RIVER *** [4s 5s 5d Qh] [Qc]
+468blazer: bets $5.65 and is all-in
+Balzouman: folds 
+rodlaver said, "lucked me out?"
+rodlaver: calls $5.65
+*** SHOW DOWN ***
+468blazer: shows [4d Qs] (a full house, Queens full of Fives)
+rodlaver: shows [Ad Ac] (two pair, Aces and Queens)
+468blazer collected $35.15 from pot
+468blazer said, "sorry"
+*** SUMMARY ***
+Total pot $36.90 | Rake $1.75 
+Board [4s 5s 5d Qh Qc]
+Seat 1: davkan (small blind) folded before Flop
+Seat 2: 468blazer (big blind) showed [4d Qs] and won ($35.15) with a full house, Queens full of Fives
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded on the River
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: Earlharbo folded before Flop (didn't bet)
+Seat 7: Frazzo1984 folded before Flop (didn't bet)
+Seat 8: rodlaver showed [Ad Ac] and lost with two pair, Aces and Queens
+Seat 9: X112311X (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19897805332:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:34:43 (ET)
+Table 'Bok' 9-max Seat #1 is the button
+Seat 1: davkan ($24.65 in chips) 
+Seat 2: 468blazer ($35.15 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: Balzouman ($15.50 in chips) 
+Seat 5: robwildsc ($20.10 in chips) 
+Seat 6: Earlharbo ($24.65 in chips) 
+Seat 7: Frazzo1984 ($15.10 in chips) 
+Seat 8: rodlaver ($7.65 in chips) 
+Seat 9: X112311X ($5.55 in chips) 
+468blazer: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 2d]
+Balzouman: folds 
+rodlaver said, "did"
+robwildsc: folds 
+Earlharbo: folds 
+Frazzo1984: raises $0.25 to $0.50
+rodlaver: folds 
+X112311X: folds 
+davkan: folds 
+468blazer said, "nice hand thou"
+468blazer: calls $0.40
+Alameda22: folds 
+*** FLOP *** [9d Js Ks]
+468blazer: checks 
+Frazzo1984: checks 
+*** TURN *** [9d Js Ks] [3s]
+468blazer: checks 
+Frazzo1984: checks 
+*** RIVER *** [9d Js Ks 3s] [3h]
+rodlaver said, "i dont raise crap"
+468blazer: bets $0.75
+Frazzo1984: calls $0.75
+*** SHOW DOWN ***
+468blazer: shows [8d 5d] (a pair of Threes)
+Frazzo1984: shows [Jh Ah] (two pair, Jacks and Threes)
+Frazzo1984 collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [9d Js Ks 3s 3h]
+Seat 1: davkan (button) folded before Flop (didn't bet)
+Seat 2: 468blazer (small blind) showed [8d 5d] and lost with a pair of Threes
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: Earlharbo folded before Flop (didn't bet)
+Seat 7: Frazzo1984 showed [Jh Ah] and won ($2.65) with two pair, Jacks and Threes
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: X112311X folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19897822978:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:35:29 (ET)
+Table 'Bok' 9-max Seat #2 is the button
+Seat 1: davkan ($24.65 in chips) 
+Seat 2: 468blazer ($33.90 in chips) 
+Seat 3: Alameda22 ($24.15 in chips) 
+Seat 4: Balzouman ($15.50 in chips) 
+Seat 5: robwildsc ($20.10 in chips) 
+Seat 6: Earlharbo ($24.65 in chips) 
+Seat 7: Frazzo1984 ($16.50 in chips) 
+Seat 8: rodlaver ($7.65 in chips) 
+Seat 9: X112311X ($5.55 in chips) 
+Alameda22: posts small blind $0.10
+Balzouman: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Th]
+468blazer said, "isee that"
+robwildsc: folds 
+Earlharbo: folds 
+Frazzo1984: folds 
+rodlaver: folds 
+X112311X: folds 
+davkan: folds 
+468blazer: calls $0.25
+Alameda22: folds 
+Balzouman: checks 
+*** FLOP *** [9d 5s 8c]
+468blazer said, "i dont go all in with crap"
+Balzouman: checks 
+468blazer: checks 
+*** TURN *** [9d 5s 8c] [7h]
+Balzouman: checks 
+468blazer: checks 
+*** RIVER *** [9d 5s 8c 7h] [Ad]
+Balzouman: checks 
+468blazer: checks 
+*** SHOW DOWN ***
+Balzouman: shows [Qh 4h] (high card Ace)
+468blazer: shows [5h Jc] (a pair of Fives)
+468blazer collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9d 5s 8c 7h Ad]
+Seat 1: davkan folded before Flop (didn't bet)
+Seat 2: 468blazer (button) showed [5h Jc] and won ($0.60) with a pair of Fives
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Balzouman (big blind) showed [Qh 4h] and lost with high card Ace
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: Earlharbo folded before Flop (didn't bet)
+Seat 7: Frazzo1984 folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: X112311X folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19897840815:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:36:15 (ET)
+Table 'Bok' 9-max Seat #3 is the button
+Seat 1: davkan ($24.65 in chips) 
+Seat 2: 468blazer ($34.25 in chips) 
+Seat 3: Alameda22 ($24.05 in chips) 
+Seat 4: Balzouman ($15.25 in chips) 
+Seat 5: robwildsc ($20.10 in chips) 
+Seat 6: Earlharbo ($24.65 in chips) 
+Seat 7: Frazzo1984 ($16.50 in chips) 
+Seat 8: rodlaver ($7.65 in chips) 
+Seat 9: X112311X ($5.55 in chips) 
+Balzouman: posts small blind $0.10
+rodlaver said, "preflop call?"
+robwildsc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 6d]
+Earlharbo: calls $0.25
+Frazzo1984: folds 
+rodlaver: calls $0.25
+468blazer said, "i like playing cards"
+X112311X: calls $0.25
+davkan: folds 
+468blazer: calls $0.25
+Alameda22: folds 
+Balzouman: calls $0.15
+robwildsc: checks 
+*** FLOP *** [Qh 4h Ts]
+Balzouman: checks 
+robwildsc: checks 
+468blazer said, "i know its not always smart"
+Earlharbo: checks 
+rodlaver: checks 
+X112311X: checks 
+468blazer: checks 
+*** TURN *** [Qh 4h Ts] [4s]
+Balzouman: bets $1.50
+rodlaver said, "sucked me, nh"
+robwildsc: folds 
+Earlharbo: folds 
+rodlaver: folds 
+X112311X: calls $1.50
+468blazer said, "ty said sorry"
+468blazer: folds 
+*** RIVER *** [Qh 4h Ts 4s] [Qc]
+Balzouman: bets $2.75
+X112311X: folds 
+Uncalled bet ($2.75) returned to Balzouman
+Balzouman collected $4.30 from pot
+Balzouman: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [Qh 4h Ts 4s Qc]
+Seat 1: davkan folded before Flop (didn't bet)
+Seat 2: 468blazer folded on the Turn
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Balzouman (small blind) collected ($4.30)
+Seat 5: robwildsc (big blind) folded on the Turn
+Seat 6: Earlharbo folded on the Turn
+Seat 7: Frazzo1984 folded before Flop (didn't bet)
+Seat 8: rodlaver folded on the Turn
+Seat 9: X112311X folded on the River
+
+
+
+PokerStars Game #19897877699:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:37:50 (ET)
+Table 'Bok' 9-max Seat #4 is the button
+Seat 1: davkan ($24.65 in chips) 
+Seat 2: 468blazer ($34 in chips) 
+Seat 3: Alameda22 ($24.05 in chips) 
+Seat 4: Balzouman ($17.80 in chips) 
+Seat 5: robwildsc ($19.85 in chips) 
+Seat 7: Frazzo1984 ($16.50 in chips) 
+Seat 8: rodlaver ($7.40 in chips) 
+Seat 9: X112311X ($3.80 in chips) 
+robwildsc: posts small blind $0.10
+Earlharbo: is sitting out 
+Earlharbo leaves the table
+Frazzo1984: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Jd]
+rodlaver: folds 
+Vandalar joins the table at seat #6 
+X112311X: calls $0.25
+davkan: raises $0.75 to $1
+468blazer: calls $1
+Alameda22: folds 
+Balzouman: calls $1
+robwildsc: folds 
+Frazzo1984: folds 
+X112311X: calls $0.75
+*** FLOP *** [Ah 3h 8c]
+X112311X: checks 
+davkan: bets $2.25
+468blazer: calls $2.25
+Balzouman: folds 
+X112311X: raises $0.55 to $2.80 and is all-in
+davkan: calls $0.55
+468blazer: calls $0.55
+*** TURN *** [Ah 3h 8c] [Qs]
+davkan: bets $6
+468blazer: raises $24.20 to $30.20 and is all-in
+davkan: calls $14.85 and is all-in
+Uncalled bet ($9.35) returned to 468blazer
+*** RIVER *** [Ah 3h 8c Qs] [2d]
+*** SHOW DOWN ***
+davkan: shows [Kd Ac] (a pair of Aces)
+468blazer: shows [Qh As] (two pair, Aces and Queens)
+468blazer collected $39.65 from side pot
+davkan said, "LOL"
+X112311X: mucks hand 
+468blazer collected $12.15 from main pot
+X112311X leaves the table
+*** SUMMARY ***
+Total pot $54.45 Main pot $12.15. Side pot $39.65. | Rake $2.65 
+Board [Ah 3h 8c Qs 2d]
+Seat 1: davkan showed [Kd Ac] and lost with a pair of Aces
+Seat 2: 468blazer showed [Qh As] and won ($51.80) with two pair, Aces and Queens
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman (button) folded on the Flop
+Seat 5: robwildsc (small blind) folded before Flop
+Seat 7: Frazzo1984 (big blind) folded before Flop
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: X112311X mucked [7c Ad]
+
+
+
+PokerStars Game #19897903433:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:38:57 (ET)
+Table 'Bok' 9-max Seat #5 is the button
+Seat 2: 468blazer ($61.15 in chips) 
+Seat 3: Alameda22 ($24.05 in chips) 
+Seat 4: Balzouman ($16.80 in chips) 
+Seat 5: robwildsc ($19.75 in chips) 
+Seat 7: Frazzo1984 ($16.25 in chips) 
+Seat 8: rodlaver ($7.40 in chips) 
+Vandalar will be allowed to play after the button
+468blazer said, "oh that hurt"
+Frazzo1984: posts small blind $0.10
+rodlaver: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Ad]
+468blazer said, "sorry man"
+ReynardT.Fox joins the table at seat #9 
+rodlaver said, "its your day i guess"
+468blazer: calls $0.25
+davkan said, "if compulsory here"
+davkan has returned
+468blazer said, " shot a warning"
+Alameda22: folds 
+Balzouman: raises $0.75 to $1
+robwildsc: folds 
+Frazzo1984: calls $0.90
+rodlaver: calls $0.75
+468blazer: calls $0.75
+*** FLOP *** [4s Kh 8s]
+Frazzo1984: checks 
+rodlaver: checks 
+468blazer: checks 
+Balzouman: checks 
+*** TURN *** [4s Kh 8s] [9s]
+Frazzo1984: checks 
+rodlaver: checks 
+468blazer: checks 
+Balzouman: checks 
+*** RIVER *** [4s Kh 8s 9s] [5c]
+Frazzo1984: checks 
+rodlaver: bets $0.75
+468blazer: folds 
+Balzouman: folds 
+Frazzo1984: folds 
+Uncalled bet ($0.75) returned to rodlaver
+rodlaver collected $3.80 from pot
+468blazer leaves the table
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [4s Kh 8s 9s 5c]
+Seat 2: 468blazer folded on the River
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded on the River
+Seat 5: robwildsc (button) folded before Flop (didn't bet)
+Seat 7: Frazzo1984 (small blind) folded on the River
+Seat 8: rodlaver (big blind) collected ($3.80)
+
+
+
+PokerStars Game #19897938826:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:40:29 (ET)
+Table 'Bok' 9-max Seat #7 is the button
+Seat 1: davkan ($25 in chips) 
+Seat 3: Alameda22 ($24.05 in chips) 
+Seat 4: Balzouman ($15.80 in chips) 
+Seat 5: robwildsc ($19.75 in chips) 
+Seat 6: Vandalar ($25 in chips) 
+Seat 7: Frazzo1984 ($15.25 in chips) 
+Seat 8: rodlaver ($10.20 in chips) 
+Seat 9: ReynardT.Fox ($25 in chips) 
+rodlaver: posts small blind $0.10
+davkan said, "LOL bye s u c k e r"
+ReynardT.Fox: posts big blind $0.25
+Vandalar: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 2h]
+davkan: folds 
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: calls $0.25
+rodlaver said, "its so sick sometimes"
+Vandalar: checks 
+Frazzo1984: folds 
+rodlaver: calls $0.15
+otoo117 joins the table at seat #2 
+davkan said, "at this moment each turn helps the poor kicker or th e set"
+ReynardT.Fox: checks 
+*** FLOP *** [As 4s 2d]
+rodlaver: checks 
+ReynardT.Fox: checks 
+robwildsc: checks 
+Vandalar: checks 
+*** TURN *** [As 4s 2d] [8h]
+rodlaver: checks 
+ReynardT.Fox: checks 
+robwildsc: checks 
+Vandalar: checks 
+*** RIVER *** [As 4s 2d 8h] [Kc]
+rodlaver: checks 
+ReynardT.Fox: checks 
+robwildsc: checks 
+Vandalar: checks 
+*** SHOW DOWN ***
+rodlaver: shows [7s 9h] (high card Ace)
+ReynardT.Fox: mucks hand 
+robwildsc: shows [7h Qh] (high card Ace - King+Queen kicker)
+Vandalar: mucks hand 
+robwildsc collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [As 4s 2d 8h Kc]
+Seat 1: davkan folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc showed [7h Qh] and won ($0.95) with high card Ace
+Seat 6: Vandalar mucked [7c Ts]
+Seat 7: Frazzo1984 (button) folded before Flop (didn't bet)
+Seat 8: rodlaver (small blind) showed [7s 9h] and lost with high card Ace
+Seat 9: ReynardT.Fox (big blind) mucked [3d 9c]
+
+
+
+PokerStars Game #19897980694:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:42:17 (ET)
+Table 'Bok' 9-max Seat #8 is the button
+Seat 1: davkan ($25 in chips) 
+Seat 3: Alameda22 ($24.05 in chips) 
+Seat 4: Balzouman ($15.80 in chips) 
+Seat 5: robwildsc ($20.45 in chips) 
+Seat 6: Vandalar ($25 in chips) 
+Seat 7: Frazzo1984 ($15.25 in chips) 
+Seat 8: rodlaver ($9.95 in chips) 
+Seat 9: ReynardT.Fox ($24.75 in chips) 
+ReynardT.Fox: posts small blind $0.10
+davkan: posts big blind $0.25
+otoo117: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 4s]
+Alameda22: folds 
+Balzouman: raises $0.25 to $0.50
+robwildsc: calls $0.50
+Vandalar: folds 
+Frazzo1984: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+davkan: folds 
+*** FLOP *** [6h 6c Jd]
+Balzouman: bets $0.75
+robwildsc: folds 
+Uncalled bet ($0.75) returned to Balzouman
+Balzouman collected $1.30 from pot
+Balzouman: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [6h 6c Jd]
+Seat 1: davkan (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman collected ($1.30)
+Seat 5: robwildsc folded on the Flop
+Seat 6: Vandalar folded before Flop (didn't bet)
+Seat 7: Frazzo1984 folded before Flop (didn't bet)
+Seat 8: rodlaver (button) folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox (small blind) folded before Flop
+
+
+
+PokerStars Game #19897998928:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:43:05 (ET)
+Table 'Bok' 9-max Seat #9 is the button
+Seat 1: davkan ($24.75 in chips) 
+Seat 2: otoo117 ($25 in chips) 
+Seat 3: Alameda22 ($24.05 in chips) 
+Seat 4: Balzouman ($16.60 in chips) 
+Seat 5: robwildsc ($19.95 in chips) 
+Seat 6: Vandalar ($25 in chips) 
+Seat 7: Frazzo1984 ($15.25 in chips) 
+Seat 8: rodlaver ($9.95 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+davkan: posts small blind $0.10
+otoo117: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Jd]
+Alameda22: raises $0.50 to $0.75
+Balzouman: folds 
+robwildsc: calls $0.75
+Vandalar: folds 
+Frazzo1984: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+davkan: folds 
+rodlaver said, "lost AA to him with runner runner davkan"
+otoo117: raises $2.25 to $3
+davkan said, "one day we will see the moeney back ;)"
+Alameda22: folds 
+rodlaver said, "hope so :D"
+robwildsc: folds 
+Uncalled bet ($2.25) returned to otoo117
+otoo117 collected $2.35 from pot
+otoo117: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0 
+Seat 1: davkan (small blind) folded before Flop
+Seat 2: otoo117 (big blind) collected ($2.35)
+Seat 3: Alameda22 folded before Flop
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop
+Seat 6: Vandalar folded before Flop (didn't bet)
+Seat 7: Frazzo1984 folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898039623:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:44:51 (ET)
+Table 'Bok' 9-max Seat #1 is the button
+Seat 1: davkan ($24.65 in chips) 
+Seat 2: otoo117 ($26.60 in chips) 
+Seat 3: Alameda22 ($23.30 in chips) 
+Seat 4: Balzouman ($16.60 in chips) 
+Seat 5: robwildsc ($19.20 in chips) 
+Seat 6: Vandalar ($25 in chips) 
+Seat 7: Frazzo1984 ($15.25 in chips) 
+Seat 8: rodlaver ($9.95 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+otoo117: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 2s]
+Balzouman: folds 
+robwildsc: folds 
+Vandalar: folds 
+Frazzo1984: calls $0.25
+rodlaver: folds 
+ReynardT.Fox: folds 
+davkan: folds 
+otoo117: folds 
+Alameda22: checks 
+*** FLOP *** [3c 5s Qc]
+Alameda22: bets $0.25
+Frazzo1984: folds 
+Uncalled bet ($0.25) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3c 5s Qc]
+Seat 1: davkan (button) folded before Flop (didn't bet)
+Seat 2: otoo117 (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) collected ($0.60)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: Vandalar folded before Flop (didn't bet)
+Seat 7: Frazzo1984 folded on the Flop
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898055143:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:45:32 (ET)
+Table 'Bok' 9-max Seat #2 is the button
+Seat 1: davkan ($24.65 in chips) 
+Seat 2: otoo117 ($26.50 in chips) 
+Seat 3: Alameda22 ($23.65 in chips) 
+Seat 4: Balzouman ($16.60 in chips) 
+Seat 5: robwildsc ($19.20 in chips) 
+Seat 6: Vandalar ($25 in chips) 
+Seat 7: Frazzo1984 ($15 in chips) 
+Seat 8: rodlaver ($9.95 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+Alameda22: posts small blind $0.10
+Balzouman: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 7d]
+robwildsc: folds 
+Vandalar: folds 
+Frazzo1984: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+davkan: folds 
+otoo117: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to Balzouman
+Balzouman collected $0.20 from pot
+Balzouman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: davkan folded before Flop (didn't bet)
+Seat 2: otoo117 (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Balzouman (big blind) collected ($0.20)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: Vandalar folded before Flop (didn't bet)
+Seat 7: Frazzo1984 folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898065131:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:45:58 (ET)
+Table 'Bok' 9-max Seat #3 is the button
+Seat 1: davkan ($24.65 in chips) 
+Seat 2: otoo117 ($26.50 in chips) 
+Seat 3: Alameda22 ($23.55 in chips) 
+Seat 4: Balzouman ($16.70 in chips) 
+Seat 5: robwildsc ($19.20 in chips) 
+Seat 6: Vandalar ($25 in chips) 
+Seat 7: Frazzo1984 ($15 in chips) 
+Seat 8: rodlaver ($9.95 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+Balzouman: posts small blind $0.10
+robwildsc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 6d]
+Vandalar: folds 
+Frazzo1984: calls $0.25
+rodlaver: folds 
+ReynardT.Fox: folds 
+davkan: folds 
+otoo117: folds 
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: checks 
+*** FLOP *** [Qh 4h 4d]
+robwildsc: checks 
+Frazzo1984: checks 
+*** TURN *** [Qh 4h 4d] [8c]
+robwildsc: bets $0.25
+Frazzo1984: folds 
+Uncalled bet ($0.25) returned to robwildsc
+robwildsc collected $0.60 from pot
+robwildsc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qh 4h 4d 8c]
+Seat 1: davkan folded before Flop (didn't bet)
+Seat 2: otoo117 folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Balzouman (small blind) folded before Flop
+Seat 5: robwildsc (big blind) collected ($0.60)
+Seat 6: Vandalar folded before Flop (didn't bet)
+Seat 7: Frazzo1984 folded on the Turn
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898087248:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:46:56 (ET)
+Table 'Bok' 9-max Seat #4 is the button
+Seat 1: davkan ($24.65 in chips) 
+Seat 2: otoo117 ($26.50 in chips) 
+Seat 3: Alameda22 ($23.55 in chips) 
+Seat 4: Balzouman ($16.60 in chips) 
+Seat 5: robwildsc ($19.55 in chips) 
+Seat 6: Vandalar ($25 in chips) 
+Seat 7: Frazzo1984 ($14.75 in chips) 
+Seat 8: rodlaver ($9.95 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+robwildsc: posts small blind $0.10
+Vandalar: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 7d]
+Frazzo1984: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+davkan: folds 
+otoo117: folds 
+Alameda22: folds 
+Balzouman: calls $0.25
+robwildsc: calls $0.15
+Vandalar: checks 
+*** FLOP *** [8h 9s 4d]
+robwildsc: bets $0.25
+Vandalar: folds 
+Balzouman: folds 
+Uncalled bet ($0.25) returned to robwildsc
+robwildsc collected $0.75 from pot
+robwildsc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [8h 9s 4d]
+Seat 1: davkan folded before Flop (didn't bet)
+Seat 2: otoo117 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman (button) folded on the Flop
+Seat 5: robwildsc (small blind) collected ($0.75)
+Seat 6: Vandalar (big blind) folded on the Flop
+Seat 7: Frazzo1984 folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898114955:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:48:08 (ET)
+Table 'Bok' 9-max Seat #5 is the button
+Seat 1: davkan ($24.65 in chips) 
+Seat 2: otoo117 ($26.50 in chips) 
+Seat 3: Alameda22 ($23.55 in chips) 
+Seat 4: Balzouman ($16.35 in chips) 
+Seat 5: robwildsc ($20.05 in chips) 
+Seat 6: Vandalar ($25 in chips) 
+Seat 7: Frazzo1984 ($14.75 in chips) 
+Seat 8: rodlaver ($9.95 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+Vandalar: posts small blind $0.10
+Frazzo1984: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Kd]
+rodlaver: folds 
+ReynardT.Fox: raises $0.50 to $0.75
+davkan: folds 
+otoo117: folds 
+Alameda22: folds 
+Balzouman: calls $0.75
+robwildsc: folds 
+Vandalar: folds 
+Frazzo1984: folds 
+*** FLOP *** [Qs Jd 9d]
+ReynardT.Fox: checks 
+Balzouman: bets $1.25
+ReynardT.Fox: calls $1.25
+*** TURN *** [Qs Jd 9d] [Kh]
+ReynardT.Fox: bets $3
+Balzouman: calls $3
+*** RIVER *** [Qs Jd 9d Kh] [9h]
+ReynardT.Fox: bets $6
+Balzouman: raises $5.35 to $11.35 and is all-in
+ReynardT.Fox: calls $5.35
+*** SHOW DOWN ***
+Balzouman: shows [Jc Js] (a full house, Jacks full of Nines)
+ReynardT.Fox: mucks hand 
+Balzouman collected $31.45 from pot
+*** SUMMARY ***
+Total pot $33.05 | Rake $1.60 
+Board [Qs Jd 9d Kh 9h]
+Seat 1: davkan folded before Flop (didn't bet)
+Seat 2: otoo117 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman showed [Jc Js] and won ($31.45) with a full house, Jacks full of Nines
+Seat 5: robwildsc (button) folded before Flop (didn't bet)
+Seat 6: Vandalar (small blind) folded before Flop
+Seat 7: Frazzo1984 (big blind) folded before Flop
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox mucked [Ad Ts]
+
+
+
+PokerStars Game #19898148652:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:49:36 (ET)
+Table 'Bok' 9-max Seat #6 is the button
+Seat 1: davkan ($24.65 in chips) 
+Seat 2: otoo117 ($26.50 in chips) 
+Seat 3: Alameda22 ($23.55 in chips) 
+Seat 4: Balzouman ($31.45 in chips) 
+Seat 5: robwildsc ($20.05 in chips) 
+Seat 6: Vandalar ($25 in chips) 
+Seat 7: Frazzo1984 ($14.50 in chips) 
+Seat 8: rodlaver ($9.95 in chips) 
+Seat 9: ReynardT.Fox ($8.30 in chips) 
+Frazzo1984: posts small blind $0.10
+rodlaver: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 6c]
+ReynardT.Fox: folds 
+davkan: folds 
+otoo117: folds 
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: folds 
+Vandalar: raises $0.60 to $0.85
+Frazzo1984: calls $0.75
+rodlaver: folds 
+*** FLOP *** [Ks Qc Kh]
+Frazzo1984: checks 
+otoo117 leaves the table
+Vandalar: bets $0.75
+Frazzo1984: calls $0.75
+*** TURN *** [Ks Qc Kh] [5c]
+Frazzo1984: checks 
+Vandalar: checks 
+*** RIVER *** [Ks Qc Kh 5c] [9c]
+Frazzo1984: bets $12.90 and is all-in
+Vandalar: folds 
+Uncalled bet ($12.90) returned to Frazzo1984
+Frazzo1984 collected $3.30 from pot
+Frazzo1984: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.45 | Rake $0.15 
+Board [Ks Qc Kh 5c 9c]
+Seat 1: davkan folded before Flop (didn't bet)
+Seat 2: otoo117 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: Vandalar (button) folded on the River
+Seat 7: Frazzo1984 (small blind) collected ($3.30)
+Seat 8: rodlaver (big blind) folded before Flop
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898185269:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:51:12 (ET)
+Table 'Bok' 9-max Seat #7 is the button
+Seat 1: davkan ($24.65 in chips) 
+Seat 3: Alameda22 ($23.55 in chips) 
+Seat 4: Balzouman ($31.45 in chips) 
+Seat 5: robwildsc ($20.05 in chips) 
+Seat 6: Vandalar ($25 in chips) 
+Seat 7: Frazzo1984 ($16.20 in chips) 
+Seat 8: rodlaver ($9.70 in chips) 
+Seat 9: ReynardT.Fox ($25 in chips) 
+rodlaver: posts small blind $0.10
+ReynardT.Fox: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Ts]
+davkan: folds 
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: raises $0.50 to $0.75
+Vandalar: folds 
+Frazzo1984: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+Uncalled bet ($0.50) returned to robwildsc
+robwildsc collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: davkan folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc collected ($0.60)
+Seat 6: Vandalar folded before Flop (didn't bet)
+Seat 7: Frazzo1984 (button) folded before Flop (didn't bet)
+Seat 8: rodlaver (small blind) folded before Flop
+Seat 9: ReynardT.Fox (big blind) folded before Flop
+
+
+
+PokerStars Game #19898203687:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:52:01 (ET)
+Table 'Bok' 9-max Seat #8 is the button
+Seat 1: davkan ($24.65 in chips) 
+Seat 3: Alameda22 ($23.55 in chips) 
+Seat 4: Balzouman ($31.45 in chips) 
+Seat 5: robwildsc ($20.40 in chips) 
+Seat 6: Vandalar ($25 in chips) 
+Seat 7: Frazzo1984 ($16.20 in chips) 
+Seat 8: rodlaver ($9.60 in chips) 
+Seat 9: ReynardT.Fox ($24.75 in chips) 
+ReynardT.Fox: posts small blind $0.10
+davkan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Th]
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: raises $1 to $1.25
+Vandalar: folds 
+Frazzo1984: calls $1.25
+rodlaver: calls $1.25
+ReynardT.Fox: folds 
+davkan: folds 
+*** FLOP *** [2h Ac 2s]
+robwildsc: bets $1.25
+Frazzo1984: folds 
+rodlaver: calls $1.25
+*** TURN *** [2h Ac 2s] [Qs]
+robwildsc: bets $1.50
+rodlaver: raises $1.75 to $3.25
+robwildsc: calls $1.75
+*** RIVER *** [2h Ac 2s Qs] [9d]
+robwildsc: checks 
+rodlaver: checks 
+*** SHOW DOWN ***
+robwildsc: shows [As Kd] (two pair, Aces and Deuces)
+rodlaver: mucks hand 
+robwildsc collected $12.50 from pot
+Bilal-Emi joins the table at seat #2 
+*** SUMMARY ***
+Total pot $13.10 | Rake $0.60 
+Board [2h Ac 2s Qs 9d]
+Seat 1: davkan (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc showed [As Kd] and won ($12.50) with two pair, Aces and Deuces
+Seat 6: Vandalar folded before Flop (didn't bet)
+Seat 7: Frazzo1984 folded on the Flop
+Seat 8: rodlaver (button) mucked [4s 4d]
+Seat 9: ReynardT.Fox (small blind) folded before Flop
+
+
+
+PokerStars Game #19898241397:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:53:40 (ET)
+Table 'Bok' 9-max Seat #9 is the button
+Seat 1: davkan ($24.40 in chips) 
+Seat 2: Bilal-Emi ($5.85 in chips) 
+Seat 3: Alameda22 ($23.55 in chips) 
+Seat 4: Balzouman ($31.45 in chips) 
+Seat 5: robwildsc ($27.15 in chips) 
+Seat 6: Vandalar ($25 in chips) 
+Seat 7: Frazzo1984 ($14.95 in chips) 
+Seat 8: rodlaver ($3.85 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+davkan: posts small blind $0.10
+Bilal-Emi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 4h]
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: folds 
+Vandalar: folds 
+Frazzo1984: raises $0.50 to $0.75
+rodlaver: folds 
+ReynardT.Fox: folds 
+davkan: folds 
+Bilal-Emi: folds 
+Uncalled bet ($0.50) returned to Frazzo1984
+Frazzo1984 collected $0.60 from pot
+Frazzo1984: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: davkan (small blind) folded before Flop
+Seat 2: Bilal-Emi (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: Vandalar folded before Flop (didn't bet)
+Seat 7: Frazzo1984 collected ($0.60)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898260788:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:54:31 (ET)
+Table 'Bok' 9-max Seat #1 is the button
+Seat 1: davkan ($24.30 in chips) 
+Seat 2: Bilal-Emi ($5.60 in chips) 
+Seat 3: Alameda22 ($23.55 in chips) 
+Seat 4: Balzouman ($31.45 in chips) 
+Seat 5: robwildsc ($27.15 in chips) 
+Seat 6: Vandalar ($25 in chips) 
+Seat 7: Frazzo1984 ($15.30 in chips) 
+Seat 8: rodlaver ($3.85 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+Bilal-Emi: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 5s]
+Balzouman: folds 
+robwildsc: folds 
+Vandalar: folds 
+Frazzo1984: raises $0.50 to $0.75
+rodlaver: folds 
+ReynardT.Fox: folds 
+davkan: folds 
+Bilal-Emi: raises $4.85 to $5.60 and is all-in
+Alameda22: folds 
+Frazzo1984: calls $4.85
+*** FLOP *** [7s Ts Jh]
+*** TURN *** [7s Ts Jh] [Kh]
+*** RIVER *** [7s Ts Jh Kh] [9c]
+*** SHOW DOWN ***
+Bilal-Emi: shows [Td Th] (three of a kind, Tens)
+Frazzo1984: shows [Qd Qc] (a straight, Nine to King)
+Frazzo1984 collected $10.90 from pot
+*** SUMMARY ***
+Total pot $11.45 | Rake $0.55 
+Board [7s Ts Jh Kh 9c]
+Seat 1: davkan (button) folded before Flop (didn't bet)
+Seat 2: Bilal-Emi (small blind) showed [Td Th] and lost with three of a kind, Tens
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: Vandalar folded before Flop (didn't bet)
+Seat 7: Frazzo1984 showed [Qd Qc] and won ($10.90) with a straight, Nine to King
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898280755:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:55:24 (ET)
+Table 'Bok' 9-max Seat #3 is the button
+Seat 1: davkan ($24.30 in chips) 
+Seat 3: Alameda22 ($23.30 in chips) 
+Seat 4: Balzouman ($31.45 in chips) 
+Seat 5: robwildsc ($27.15 in chips) 
+Seat 6: Vandalar ($25 in chips) 
+Seat 7: Frazzo1984 ($20.60 in chips) 
+Seat 8: rodlaver ($3.85 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+Balzouman: posts small blind $0.10
+robwildsc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 7s]
+Bilal-Emi has returned
+Vandalar: folds 
+Frazzo1984: folds 
+Frazzo1984 leaves the table
+rodlaver: folds 
+ReynardT.Fox: folds 
+davkan: folds 
+Alameda22: folds 
+Balzouman: calls $0.15
+robwildsc: checks 
+*** FLOP *** [2d 8s 6s]
+Balzouman: checks 
+robwildsc: checks 
+*** TURN *** [2d 8s 6s] [Th]
+Balzouman: bets $0.25
+robwildsc: folds 
+Uncalled bet ($0.25) returned to Balzouman
+Balzouman collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [2d 8s 6s Th]
+Seat 1: davkan folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Balzouman (small blind) collected ($0.50)
+Seat 5: robwildsc (big blind) folded on the Turn
+Seat 6: Vandalar folded before Flop (didn't bet)
+Seat 7: Frazzo1984 folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898296100:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:56:05 (ET)
+Table 'Bok' 9-max Seat #4 is the button
+Seat 1: davkan ($24.30 in chips) 
+Seat 2: Bilal-Emi ($5 in chips) 
+Seat 3: Alameda22 ($23.30 in chips) 
+Seat 4: Balzouman ($31.70 in chips) 
+Seat 5: robwildsc ($26.90 in chips) 
+Seat 6: Vandalar ($25 in chips) 
+Seat 8: rodlaver ($3.85 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+robwildsc: posts small blind $0.10
+Vandalar: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Ac]
+rodlaver: folds 
+ReynardT.Fox: folds 
+davkan: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: calls $0.25
+robwildsc: folds 
+Murka-nash joins the table at seat #7 
+Vandalar: checks 
+*** FLOP *** [Qs Ks 9d]
+Vandalar: checks 
+Balzouman: bets $0.25
+Vandalar: raises $0.75 to $1
+Balzouman: calls $0.75
+*** TURN *** [Qs Ks 9d] [6c]
+Vandalar: checks 
+Balzouman: checks 
+*** RIVER *** [Qs Ks 9d 6c] [Th]
+Vandalar: checks 
+Balzouman: bets $1
+Vandalar: folds 
+Uncalled bet ($1) returned to Balzouman
+Balzouman collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Qs Ks 9d 6c Th]
+Seat 1: davkan folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman (button) collected ($2.50)
+Seat 5: robwildsc (small blind) folded before Flop
+Seat 6: Vandalar (big blind) folded on the River
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898324539:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:57:21 (ET)
+Table 'Bok' 9-max Seat #5 is the button
+Seat 1: davkan ($24.30 in chips) 
+Seat 2: Bilal-Emi ($5 in chips) 
+Seat 3: Alameda22 ($23.30 in chips) 
+Seat 4: Balzouman ($32.95 in chips) 
+Seat 5: robwildsc ($26.80 in chips) 
+Seat 6: Vandalar ($23.75 in chips) 
+Seat 7: Murka-nash ($25 in chips) 
+Seat 8: rodlaver ($13.85 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+Vandalar: posts small blind $0.10
+Murka-nash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Qs]
+rodlaver: calls $0.25
+ReynardT.Fox: folds 
+davkan: folds 
+Bilal-Emi: calls $0.25
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: folds 
+Vandalar: folds 
+Murka-nash: checks 
+*** FLOP *** [7d 4h Ts]
+Murka-nash: checks 
+rodlaver: checks 
+Vandalar leaves the table
+Bilal-Emi: bets $0.75
+Murka-nash: folds 
+rodlaver: folds 
+Uncalled bet ($0.75) returned to Bilal-Emi
+Bilal-Emi collected $0.85 from pot
+Bilal-Emi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [7d 4h Ts]
+Seat 1: davkan folded before Flop (didn't bet)
+Seat 2: Bilal-Emi collected ($0.85)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc (button) folded before Flop (didn't bet)
+Seat 6: Vandalar (small blind) folded before Flop
+Seat 7: Murka-nash (big blind) folded on the Flop
+Seat 8: rodlaver folded on the Flop
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898362154:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:59:03 (ET)
+Table 'Bok' 9-max Seat #7 is the button
+Seat 1: davkan ($24.30 in chips) 
+Seat 2: Bilal-Emi ($5.60 in chips) 
+Seat 3: Alameda22 ($23.30 in chips) 
+Seat 4: Balzouman ($32.95 in chips) 
+Seat 5: robwildsc ($26.80 in chips) 
+Seat 7: Murka-nash ($24.75 in chips) 
+Seat 8: rodlaver ($13.60 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+northwood joins the table at seat #6 
+rodlaver: posts small blind $0.10
+ReynardT.Fox: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Ts]
+davkan: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: calls $0.25
+robwildsc: calls $0.25
+davkan leaves the table
+Murka-nash: folds 
+rodlaver: calls $0.15
+ReynardT.Fox: checks 
+*** FLOP *** [2h 6h 6c]
+rodlaver: checks 
+ReynardT.Fox: checks 
+Balzouman: bets $1
+robwildsc: folds 
+rodlaver: calls $1
+ReynardT.Fox: folds 
+*** TURN *** [2h 6h 6c] [3d]
+rodlaver: checks 
+Cross Damon joins the table at seat #1 
+Balzouman: bets $2.25
+rodlaver: folds 
+Uncalled bet ($2.25) returned to Balzouman
+Balzouman collected $2.90 from pot
+Balzouman: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.10 
+Board [2h 6h 6c 3d]
+Seat 1: davkan folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman collected ($2.90)
+Seat 5: robwildsc folded on the Flop
+Seat 7: Murka-nash (button) folded before Flop (didn't bet)
+Seat 8: rodlaver (small blind) folded on the Turn
+Seat 9: ReynardT.Fox (big blind) folded on the Flop
+
+
+
+PokerStars Game #19898382906:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 19:59:59 (ET)
+Table 'Bok' 9-max Seat #8 is the button
+Seat 1: Cross Damon ($5 in chips) 
+Seat 2: Bilal-Emi ($5.60 in chips) 
+Seat 3: Alameda22 ($23.30 in chips) 
+Seat 4: Balzouman ($34.60 in chips) 
+Seat 5: robwildsc ($26.55 in chips) 
+Seat 6: northwood ($25 in chips) 
+Seat 7: Murka-nash ($24.75 in chips) 
+Seat 8: rodlaver ($12.35 in chips) 
+Seat 9: ReynardT.Fox ($24.40 in chips) 
+ReynardT.Fox: posts small blind $0.10
+Cross Damon: posts big blind $0.25
+northwood: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 4d]
+Bilal-Emi: calls $0.25
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: folds 
+northwood: checks 
+Murka-nash: folds 
+rodlaver: folds 
+ReynardT.Fox: calls $0.15
+Cross Damon: raises $4.75 to $5 and is all-in
+Bilal-Emi: folds 
+northwood: folds 
+ReynardT.Fox: folds 
+Uncalled bet ($4.75) returned to Cross Damon
+Cross Damon collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Cross Damon (big blind) collected ($1)
+Seat 2: Bilal-Emi folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: northwood folded before Flop
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: rodlaver (button) folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox (small blind) folded before Flop
+
+
+
+PokerStars Game #19898403761:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:00:52 (ET)
+Table 'Bok' 9-max Seat #9 is the button
+Seat 1: Cross Damon ($5.75 in chips) 
+Seat 2: Bilal-Emi ($5.35 in chips) 
+Seat 3: Alameda22 ($23.30 in chips) 
+Seat 4: Balzouman ($34.60 in chips) 
+Seat 5: robwildsc ($26.55 in chips) 
+Seat 6: northwood ($24.75 in chips) 
+Seat 7: Murka-nash ($24.75 in chips) 
+Seat 8: rodlaver ($12.35 in chips) 
+Seat 9: ReynardT.Fox ($24.15 in chips) 
+Cross Damon: posts small blind $0.10
+Bilal-Emi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Tc]
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: folds 
+northwood: folds 
+Murka-nash: folds 
+rodlaver: folds 
+ReynardT.Fox: raises $0.50 to $0.75
+Cross Damon: folds 
+Bilal-Emi: folds 
+Uncalled bet ($0.50) returned to ReynardT.Fox
+ReynardT.Fox collected $0.60 from pot
+ReynardT.Fox: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Cross Damon (small blind) folded before Flop
+Seat 2: Bilal-Emi (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: northwood folded before Flop (didn't bet)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox (button) collected ($0.60)
+
+
+
+PokerStars Game #19898419530:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:01:32 (ET)
+Table 'Bok' 9-max Seat #1 is the button
+Seat 1: Cross Damon ($5.65 in chips) 
+Seat 2: Bilal-Emi ($5.10 in chips) 
+Seat 3: Alameda22 ($23.30 in chips) 
+Seat 4: Balzouman ($34.60 in chips) 
+Seat 5: robwildsc ($26.55 in chips) 
+Seat 6: northwood ($24.75 in chips) 
+Seat 7: Murka-nash ($24.75 in chips) 
+Seat 8: rodlaver ($12.35 in chips) 
+Seat 9: ReynardT.Fox ($24.50 in chips) 
+Bilal-Emi: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Ac]
+Balzouman: folds 
+robwildsc: folds 
+northwood: folds 
+Murka-nash: folds 
+rodlaver: folds 
+ReynardT.Fox: raises $0.50 to $0.75
+Cross Damon: folds 
+Bilal-Emi: calls $0.65
+Alameda22: raises $2.25 to $3
+ReynardT.Fox: folds 
+Bilal-Emi: raises $2.10 to $5.10 and is all-in
+Alameda22: calls $2.10
+*** FLOP *** [Tc Jh 2s]
+*** TURN *** [Tc Jh 2s] [5d]
+*** RIVER *** [Tc Jh 2s 5d] [2d]
+*** SHOW DOWN ***
+Bilal-Emi: shows [Ks Ad] (a pair of Deuces)
+Alameda22: shows [Kh Ac] (a pair of Deuces)
+Bilal-Emi collected $5.25 from pot
+Alameda22 collected $5.20 from pot
+*** SUMMARY ***
+Total pot $10.95 | Rake $0.50 
+Board [Tc Jh 2s 5d 2d]
+Seat 1: Cross Damon (button) folded before Flop (didn't bet)
+Seat 2: Bilal-Emi (small blind) showed [Ks Ad] and won ($5.25) with a pair of Deuces
+Seat 3: Alameda22 (big blind) showed [Kh Ac] and won ($5.20) with a pair of Deuces
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: northwood folded before Flop (didn't bet)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop
+
+
+
+PokerStars Game #19898448440:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:02:48 (ET)
+Table 'Bok' 9-max Seat #2 is the button
+Seat 1: Cross Damon ($5.65 in chips) 
+Seat 2: Bilal-Emi ($5.25 in chips) 
+Seat 3: Alameda22 ($23.40 in chips) 
+Seat 4: Balzouman ($34.60 in chips) 
+Seat 5: robwildsc ($26.55 in chips) 
+Seat 6: northwood ($24.75 in chips) 
+Seat 7: Murka-nash ($24.75 in chips) 
+Seat 8: rodlaver ($12.35 in chips) 
+Seat 9: ReynardT.Fox ($25 in chips) 
+Alameda22: posts small blind $0.10
+Balzouman: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 2h]
+robwildsc: calls $0.25
+northwood: folds 
+Murka-nash: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: checks 
+*** FLOP *** [Ah 8d 7h]
+Balzouman: checks 
+robwildsc: checks 
+*** TURN *** [Ah 8d 7h] [4d]
+Balzouman: bets $0.25
+robwildsc: calls $0.25
+*** RIVER *** [Ah 8d 7h 4d] [8c]
+Balzouman: bets $0.25
+robwildsc: calls $0.25
+*** SHOW DOWN ***
+Balzouman: shows [Ac 3s] (two pair, Aces and Eights)
+robwildsc: mucks hand 
+Balzouman collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Ah 8d 7h 4d 8c]
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Balzouman (big blind) showed [Ac 3s] and won ($1.55) with two pair, Aces and Eights
+Seat 5: robwildsc mucked [7s 6s]
+Seat 6: northwood folded before Flop (didn't bet)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898468744:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:03:41 (ET)
+Table 'Bok' 9-max Seat #3 is the button
+Seat 1: Cross Damon ($5.65 in chips) 
+Seat 2: Bilal-Emi ($5.25 in chips) 
+Seat 3: Alameda22 ($23.30 in chips) 
+Seat 4: Balzouman ($35.40 in chips) 
+Seat 5: robwildsc ($25.80 in chips) 
+Seat 6: northwood ($24.75 in chips) 
+Seat 7: Murka-nash ($24.75 in chips) 
+Seat 8: rodlaver ($12.35 in chips) 
+Seat 9: ReynardT.Fox ($25 in chips) 
+Balzouman: posts small blind $0.10
+robwildsc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Th]
+northwood: raises $0.50 to $0.75
+Murka-nash: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: folds 
+Alameda22: calls $0.75
+Balzouman: folds 
+robwildsc: calls $0.50
+*** FLOP *** [2d 6c 5s]
+robwildsc: checks 
+northwood: bets $1.25
+Alameda22: folds 
+robwildsc: folds 
+Uncalled bet ($1.25) returned to northwood
+northwood collected $2.25 from pot
+northwood: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [2d 6c 5s]
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded on the Flop
+Seat 4: Balzouman (small blind) folded before Flop
+Seat 5: robwildsc (big blind) folded on the Flop
+Seat 6: northwood collected ($2.25)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898498602:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:04:59 (ET)
+Table 'Bok' 9-max Seat #4 is the button
+Seat 1: Cross Damon ($5.65 in chips) 
+Seat 2: Bilal-Emi ($5.25 in chips) 
+Seat 3: Alameda22 ($22.55 in chips) 
+Seat 4: Balzouman ($35.30 in chips) 
+Seat 5: robwildsc ($25.05 in chips) 
+Seat 6: northwood ($26.25 in chips) 
+Seat 7: Murka-nash ($24.75 in chips) 
+Seat 8: rodlaver ($12.35 in chips) 
+Seat 9: ReynardT.Fox ($25 in chips) 
+robwildsc: posts small blind $0.10
+northwood: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 7s]
+Murka-nash: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: calls $0.25
+Alameda22: folds 
+Balzouman: raises $0.50 to $0.75
+robwildsc: folds 
+northwood: folds 
+Bilal-Emi: calls $0.50
+*** FLOP *** [8h 5d Qs]
+Bilal-Emi: checks 
+Balzouman: bets $1
+Bilal-Emi: folds 
+Uncalled bet ($1) returned to Balzouman
+Balzouman collected $1.80 from pot
+Balzouman: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [8h 5d Qs]
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman (button) collected ($1.80)
+Seat 5: robwildsc (small blind) folded before Flop
+Seat 6: northwood (big blind) folded before Flop
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898524512:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:06:07 (ET)
+Table 'Bok' 9-max Seat #5 is the button
+Seat 1: Cross Damon ($5.65 in chips) 
+Seat 2: Bilal-Emi ($4.50 in chips) 
+Seat 3: Alameda22 ($22.55 in chips) 
+Seat 4: Balzouman ($36.35 in chips) 
+Seat 5: robwildsc ($24.95 in chips) 
+Seat 6: northwood ($26 in chips) 
+Seat 7: Murka-nash ($24.75 in chips) 
+Seat 8: rodlaver ($12.35 in chips) 
+Seat 9: ReynardT.Fox ($25 in chips) 
+northwood: posts small blind $0.10
+Murka-nash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 6c]
+rodlaver: calls $0.25
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: raises $0.25 to $0.50
+robwildsc: folds 
+northwood: folds 
+Murka-nash: folds 
+rodlaver: calls $0.25
+*** FLOP *** [Qs Jd Ts]
+rodlaver: checks 
+Balzouman: bets $1
+rodlaver: calls $1
+*** TURN *** [Qs Jd Ts] [5d]
+rodlaver: checks 
+Balzouman: checks 
+*** RIVER *** [Qs Jd Ts 5d] [7h]
+rodlaver: checks 
+Balzouman: checks 
+*** SHOW DOWN ***
+rodlaver: shows [Tc Ah] (a pair of Tens)
+Balzouman: mucks hand 
+rodlaver collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [Qs Jd Ts 5d 7h]
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman mucked [5c 4c]
+Seat 5: robwildsc (button) folded before Flop (didn't bet)
+Seat 6: northwood (small blind) folded before Flop
+Seat 7: Murka-nash (big blind) folded before Flop
+Seat 8: rodlaver showed [Tc Ah] and won ($3.20) with a pair of Tens
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898553570:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:07:23 (ET)
+Table 'Bok' 9-max Seat #6 is the button
+Seat 1: Cross Damon ($5.65 in chips) 
+Seat 2: Bilal-Emi ($4.50 in chips) 
+Seat 3: Alameda22 ($22.55 in chips) 
+Seat 4: Balzouman ($34.85 in chips) 
+Seat 5: robwildsc ($24.95 in chips) 
+Seat 6: northwood ($25.90 in chips) 
+Seat 7: Murka-nash ($24.50 in chips) 
+Seat 8: rodlaver ($14.05 in chips) 
+Seat 9: ReynardT.Fox ($25 in chips) 
+Murka-nash: posts small blind $0.10
+rodlaver: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Ks]
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: calls $0.25
+northwood: folds 
+northwood leaves the table
+Murka-nash: folds 
+rodlaver: checks 
+*** FLOP *** [As 5s 3h]
+rodlaver: checks 
+147Gorilla joins the table at seat #6 
+robwildsc: checks 
+*** TURN *** [As 5s 3h] [8c]
+rodlaver: checks 
+robwildsc: checks 
+*** RIVER *** [As 5s 3h 8c] [9h]
+rodlaver: bets $0.25
+robwildsc: folds 
+Uncalled bet ($0.25) returned to rodlaver
+rodlaver collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [As 5s 3h 8c 9h]
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded on the River
+Seat 6: northwood (button) folded before Flop (didn't bet)
+Seat 7: Murka-nash (small blind) folded before Flop
+Seat 8: rodlaver (big blind) collected ($0.60)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898576212:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:08:21 (ET)
+Table 'Bok' 9-max Seat #7 is the button
+Seat 1: Cross Damon ($5.65 in chips) 
+Seat 2: Bilal-Emi ($4.50 in chips) 
+Seat 3: Alameda22 ($22.55 in chips) 
+Seat 4: Balzouman ($34.85 in chips) 
+Seat 5: robwildsc ($24.70 in chips) 
+Seat 7: Murka-nash ($24.40 in chips) 
+Seat 8: rodlaver ($14.40 in chips) 
+Seat 9: ReynardT.Fox ($25 in chips) 
+rodlaver: posts small blind $0.10
+ReynardT.Fox: posts big blind $0.25
+147Gorilla: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 7d]
+Cross Damon: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: folds 
+Murka-nash: folds 
+rodlaver: folds 
+Uncalled bet ($0.15) returned to ReynardT.Fox
+ReynardT.Fox collected $0.20 from pot
+ReynardT.Fox: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 7: Murka-nash (button) folded before Flop (didn't bet)
+Seat 8: rodlaver (small blind) folded before Flop
+Seat 9: ReynardT.Fox (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19898586201:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:08:48 (ET)
+Table 'Bok' 9-max Seat #8 is the button
+Seat 1: Cross Damon ($5.65 in chips) 
+Seat 2: Bilal-Emi ($4.50 in chips) 
+Seat 3: Alameda22 ($22.55 in chips) 
+Seat 4: Balzouman ($34.85 in chips) 
+Seat 5: robwildsc ($24.70 in chips) 
+Seat 7: Murka-nash ($24.40 in chips) 
+Seat 8: rodlaver ($14.30 in chips) 
+Seat 9: ReynardT.Fox ($25.10 in chips) 
+ReynardT.Fox: posts small blind $0.10
+Cross Damon: posts big blind $0.25
+147Gorilla: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Js]
+Bilal-Emi: calls $0.25
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: raises $1 to $1.25
+Murka-nash: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: calls $1
+*** FLOP *** [Qc 6d Qh]
+Bilal-Emi: checks 
+robwildsc: bets $1.25
+Bilal-Emi: calls $1.25
+*** TURN *** [Qc 6d Qh] [Td]
+Bilal-Emi: checks 
+robwildsc: checks 
+*** RIVER *** [Qc 6d Qh Td] [6c]
+Bilal-Emi: bets $2 and is all-in
+robwildsc: calls $2
+*** SHOW DOWN ***
+Bilal-Emi: shows [5s Qs] (a full house, Queens full of Sixes)
+robwildsc: shows [Kc Ks] (two pair, Kings and Queens)
+Bilal-Emi collected $8.90 from pot
+*** SUMMARY ***
+Total pot $9.35 | Rake $0.45 
+Board [Qc 6d Qh Td 6c]
+Seat 1: Cross Damon (big blind) folded before Flop
+Seat 2: Bilal-Emi showed [5s Qs] and won ($8.90) with a full house, Queens full of Sixes
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc showed [Kc Ks] and lost with two pair, Kings and Queens
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: rodlaver (button) folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox (small blind) folded before Flop
+
+
+
+PokerStars Game #19898621859:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:10:21 (ET)
+Table 'Bok' 9-max Seat #9 is the button
+Seat 1: Cross Damon ($5.40 in chips) 
+Seat 2: Bilal-Emi ($8.90 in chips) 
+Seat 3: Alameda22 ($22.55 in chips) 
+Seat 4: Balzouman ($34.85 in chips) 
+Seat 5: robwildsc ($20.20 in chips) 
+Seat 7: Murka-nash ($25 in chips) 
+Seat 8: rodlaver ($14.30 in chips) 
+Seat 9: ReynardT.Fox ($25 in chips) 
+Cross Damon: posts small blind $0.10
+Bilal-Emi: posts big blind $0.25
+147Gorilla: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 8c]
+Alameda22: folds 
+Balzouman: raises $0.75 to $1
+robwildsc: folds 
+Murka-nash: folds 
+rodlaver: folds 
+robwildsc said, "nice pull out"
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: folds 
+Uncalled bet ($0.75) returned to Balzouman
+Balzouman collected $0.60 from pot
+Balzouman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Cross Damon (small blind) folded before Flop
+Seat 2: Bilal-Emi (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman collected ($0.60)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898634832:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:10:55 (ET)
+Table 'Bok' 9-max Seat #1 is the button
+Seat 1: Cross Damon ($5.30 in chips) 
+Seat 2: Bilal-Emi ($8.65 in chips) 
+Seat 3: Alameda22 ($22.55 in chips) 
+Seat 4: Balzouman ($35.20 in chips) 
+Seat 5: robwildsc ($20.20 in chips) 
+Seat 7: Murka-nash ($25 in chips) 
+Seat 8: rodlaver ($14.30 in chips) 
+Seat 9: ReynardT.Fox ($25 in chips) 
+Bilal-Emi: posts small blind $0.10
+Alameda22: posts big blind $0.25
+147Gorilla: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 8h]
+Balzouman: folds 
+robwildsc: calls $0.25
+Murka-nash: folds 
+rodlaver: folds 
+ReynardT.Fox: calls $0.25
+Cross Damon: raises $1.25 to $1.50
+Bilal-Emi: calls $1.40
+Alameda22: folds 
+robwildsc: calls $1.25
+ReynardT.Fox: calls $1.25
+*** FLOP *** [2d 5c 9d]
+Bilal-Emi: checks 
+robwildsc: bets $2.50
+ReynardT.Fox: raises $4 to $6.50
+Cross Damon: folds 
+Bilal-Emi: raises $0.65 to $7.15 and is all-in
+robwildsc: calls $4.65
+ReynardT.Fox: calls $0.65
+*** TURN *** [2d 5c 9d] [Jc]
+robwildsc: checks 
+ReynardT.Fox: bets $16.35 and is all-in
+robwildsc: calls $11.55 and is all-in
+Uncalled bet ($4.80) returned to ReynardT.Fox
+*** RIVER *** [2d 5c 9d Jc] [Ad]
+*** SHOW DOWN ***
+robwildsc: shows [5d 5s] (three of a kind, Fives)
+ReynardT.Fox: mucks hand 
+robwildsc collected $22 from side pot
+Bilal-Emi: shows [Kd 8d] (a flush, Ace high)
+Bilal-Emi collected $26.35 from main pot
+*** SUMMARY ***
+Total pot $50.80 Main pot $26.35. Side pot $22. | Rake $2.45 
+Board [2d 5c 9d Jc Ad]
+Seat 1: Cross Damon (button) folded on the Flop
+Seat 2: Bilal-Emi (small blind) showed [Kd 8d] and won ($26.35) with a flush, Ace high
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc showed [5d 5s] and won ($22) with three of a kind, Fives
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox mucked [2h 2c]
+
+
+
+PokerStars Game #19898683688:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:13:04 (ET)
+Table 'Bok' 9-max Seat #2 is the button
+Seat 1: Cross Damon ($5 in chips) 
+Seat 2: Bilal-Emi ($26.35 in chips) 
+Seat 3: Alameda22 ($22.30 in chips) 
+Seat 4: Balzouman ($35.20 in chips) 
+Seat 5: robwildsc ($22 in chips) 
+Seat 7: Murka-nash ($25 in chips) 
+Seat 8: rodlaver ($14.30 in chips) 
+Seat 9: ReynardT.Fox ($4.80 in chips) 
+Alameda22: posts small blind $0.10
+Balzouman: posts big blind $0.25
+147Gorilla: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 8s]
+robwildsc: folds 
+Murka-nash: folds 
+rodlaver: calls $0.25
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: checks 
+*** FLOP *** [Tc Ks Ac]
+Balzouman: checks 
+rodlaver: bets $0.50
+robwildsc said, "again bilal hits the river"
+Balzouman: folds 
+Uncalled bet ($0.50) returned to rodlaver
+rodlaver collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Tc Ks Ac]
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Balzouman (big blind) folded on the Flop
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: rodlaver collected ($0.60)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898698990:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:13:45 (ET)
+Table 'Bok' 9-max Seat #3 is the button
+Seat 1: Cross Damon ($5 in chips) 
+Seat 2: Bilal-Emi ($26.35 in chips) 
+Seat 3: Alameda22 ($22.20 in chips) 
+Seat 4: Balzouman ($34.95 in chips) 
+Seat 5: robwildsc ($22 in chips) 
+Seat 7: Murka-nash ($25 in chips) 
+Seat 8: rodlaver ($14.65 in chips) 
+Seat 9: ReynardT.Fox ($25 in chips) 
+Balzouman: posts small blind $0.10
+robwildsc: posts big blind $0.25
+147Gorilla: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 5d]
+Murka-nash: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: calls $0.15
+robwildsc: checks 
+*** FLOP *** [8c Qd Jd]
+Balzouman: checks 
+robwildsc: bets $0.50
+Balzouman: folds 
+Uncalled bet ($0.50) returned to robwildsc
+robwildsc collected $0.50 from pot
+robwildsc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [8c Qd Jd]
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Balzouman (small blind) folded on the Flop
+Seat 5: robwildsc (big blind) collected ($0.50)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898723637:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:14:49 (ET)
+Table 'Bok' 9-max Seat #4 is the button
+Seat 1: Cross Damon ($5 in chips) 
+Seat 2: Bilal-Emi ($26.35 in chips) 
+Seat 3: Alameda22 ($22.20 in chips) 
+Seat 4: Balzouman ($34.70 in chips) 
+Seat 5: robwildsc ($22.25 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($25 in chips) 
+Seat 8: rodlaver ($14.65 in chips) 
+Seat 9: ReynardT.Fox ($25 in chips) 
+robwildsc: posts small blind $0.10
+147Gorilla: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 6c]
+Murka-nash: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: calls $0.25
+Alameda22: folds 
+Balzouman: raises $0.50 to $0.75
+robwildsc: folds 
+147Gorilla: folds 
+Bilal-Emi: calls $0.50
+*** FLOP *** [3d 8s 7s]
+Bilal-Emi: checks 
+Balzouman: bets $1
+Bilal-Emi: calls $1
+*** TURN *** [3d 8s 7s] [5c]
+Bilal-Emi: checks 
+Balzouman: checks 
+*** RIVER *** [3d 8s 7s 5c] [Jc]
+Murka-nash is sitting out
+Bilal-Emi: bets $3.25
+Balzouman: folds 
+Uncalled bet ($3.25) returned to Bilal-Emi
+Bilal-Emi collected $3.70 from pot
+Bilal-Emi: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [3d 8s 7s 5c Jc]
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi collected ($3.70)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman (button) folded on the River
+Seat 5: robwildsc (small blind) folded before Flop
+Seat 6: 147Gorilla (big blind) folded before Flop
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898757982:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:16:16 (ET)
+Table 'Bok' 9-max Seat #5 is the button
+Seat 1: Cross Damon ($5 in chips) 
+Seat 2: Bilal-Emi ($28.30 in chips) 
+Seat 3: Alameda22 ($22.20 in chips) 
+Seat 4: Balzouman ($32.95 in chips) 
+Seat 5: robwildsc ($22.15 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 8: rodlaver ($14.65 in chips) 
+Seat 9: ReynardT.Fox ($25 in chips) 
+147Gorilla: posts small blind $0.10
+rodlaver: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 5d]
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: calls $0.25
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: folds 
+147Gorilla: folds 
+rodlaver: raises $0.50 to $0.75
+Bilal-Emi: calls $0.50
+*** FLOP *** [5c 5h 8c]
+rodlaver: bets $1.25
+Bilal-Emi: folds 
+Uncalled bet ($1.25) returned to rodlaver
+rodlaver collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [5c 5h 8c]
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc (button) folded before Flop (didn't bet)
+Seat 6: 147Gorilla (small blind) folded before Flop
+Seat 8: rodlaver (big blind) collected ($1.55)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898779974:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:17:11 (ET)
+Table 'Bok' 9-max Seat #6 is the button
+Seat 1: Cross Damon ($5 in chips) 
+Seat 2: Bilal-Emi ($27.55 in chips) 
+Seat 3: Alameda22 ($22.20 in chips) 
+Seat 4: Balzouman ($32.95 in chips) 
+Seat 5: robwildsc ($22.15 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 8: rodlaver ($15.45 in chips) 
+Seat 9: ReynardT.Fox ($25 in chips) 
+rodlaver: posts small blind $0.10
+ReynardT.Fox: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Ah]
+Cross Damon: folds 
+Bilal-Emi: raises $1 to $1.25
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: folds 
+147Gorilla: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+Uncalled bet ($1) returned to Bilal-Emi
+Bilal-Emi collected $0.60 from pot
+Bilal-Emi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi collected ($0.60)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: 147Gorilla (button) folded before Flop (didn't bet)
+Seat 8: rodlaver (small blind) folded before Flop
+Seat 9: ReynardT.Fox (big blind) folded before Flop
+
+
+
+PokerStars Game #19898800761:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:18:04 (ET)
+Table 'Bok' 9-max Seat #8 is the button
+Seat 1: Cross Damon ($5 in chips) 
+Seat 2: Bilal-Emi ($27.90 in chips) 
+Seat 3: Alameda22 ($22.20 in chips) 
+Seat 4: Balzouman ($32.95 in chips) 
+Seat 5: robwildsc ($22.15 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 8: rodlaver ($15.35 in chips) 
+Seat 9: ReynardT.Fox ($24.75 in chips) 
+ReynardT.Fox: posts small blind $0.10
+Cross Damon: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Ac]
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: folds 
+147Gorilla: folds 
+rodlaver: calls $0.25
+ReynardT.Fox: folds 
+Cross Damon: checks 
+*** FLOP *** [4h 8s Qc]
+Cross Damon: checks 
+rodlaver: checks 
+*** TURN *** [4h 8s Qc] [2c]
+Cross Damon: checks 
+rodlaver: bets $0.25
+Cross Damon: folds 
+Uncalled bet ($0.25) returned to rodlaver
+rodlaver collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4h 8s Qc 2c]
+Seat 1: Cross Damon (big blind) folded on the Turn
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 8: rodlaver (button) collected ($0.60)
+Seat 9: ReynardT.Fox (small blind) folded before Flop
+
+
+
+PokerStars Game #19898820940:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:18:56 (ET)
+Table 'Bok' 9-max Seat #9 is the button
+Seat 1: Cross Damon ($4.75 in chips) 
+Seat 2: Bilal-Emi ($27.90 in chips) 
+Seat 3: Alameda22 ($22.20 in chips) 
+Seat 4: Balzouman ($32.95 in chips) 
+Seat 5: robwildsc ($22.15 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 8: rodlaver ($15.70 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+Cross Damon: posts small blind $0.10
+Bilal-Emi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 9d]
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: folds 
+147Gorilla: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Uncalled bet ($0.15) returned to Bilal-Emi
+Bilal-Emi collected $0.20 from pot
+Bilal-Emi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Cross Damon (small blind) folded before Flop
+Seat 2: Bilal-Emi (big blind) collected ($0.20)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc folded before Flop (didn't bet)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898829703:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:19:18 (ET)
+Table 'Bok' 9-max Seat #1 is the button
+Seat 1: Cross Damon ($4.65 in chips) 
+Seat 2: Bilal-Emi ($28 in chips) 
+Seat 3: Alameda22 ($22.20 in chips) 
+Seat 4: Balzouman ($32.95 in chips) 
+Seat 5: robwildsc ($22.15 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 8: rodlaver ($15.70 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+Bilal-Emi: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 4s]
+Balzouman: folds 
+robwildsc: raises $0.75 to $1
+147Gorilla: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to robwildsc
+robwildsc collected $0.60 from pot
+robwildsc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Cross Damon (button) folded before Flop (didn't bet)
+Seat 2: Bilal-Emi (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: robwildsc collected ($0.60)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898848005:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:20:04 (ET)
+Table 'Bok' 9-max Seat #2 is the button
+Seat 1: Cross Damon ($4.65 in chips) 
+Seat 2: Bilal-Emi ($27.90 in chips) 
+Seat 3: Alameda22 ($21.95 in chips) 
+Seat 4: Balzouman ($32.95 in chips) 
+Seat 5: robwildsc ($22.50 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 8: rodlaver ($15.70 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+Alameda22: posts small blind $0.10
+Balzouman: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Kd]
+robwildsc: raises $1.25 to $1.50
+147Gorilla: folds 
+rodlaver: calls $1.50
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: folds 
+*** FLOP *** [Jd 4d 4h]
+robwildsc: bets $1.50
+rodlaver: calls $1.50
+*** TURN *** [Jd 4d 4h] [Th]
+robwildsc: bets $2
+rodlaver: calls $2
+*** RIVER *** [Jd 4d 4h Th] [5s]
+robwildsc: checks 
+rodlaver: bets $2.50
+robwildsc: folds 
+Uncalled bet ($2.50) returned to rodlaver
+rodlaver collected $9.85 from pot
+robwildsc said, "a k hearts"
+*** SUMMARY ***
+Total pot $10.35 | Rake $0.50 
+Board [Jd 4d 4h Th 5s]
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Balzouman (big blind) folded before Flop
+Seat 5: robwildsc folded on the River
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 8: rodlaver collected ($9.85)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898890498:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:21:53 (ET)
+Table 'Bok' 9-max Seat #3 is the button
+Seat 1: Cross Damon ($4.65 in chips) 
+Seat 2: Bilal-Emi ($27.90 in chips) 
+Seat 3: Alameda22 ($21.85 in chips) 
+Seat 4: Balzouman ($32.70 in chips) 
+Seat 5: robwildsc ($17.50 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 8: rodlaver ($20.55 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+Balzouman: posts small blind $0.10
+robwildsc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 2c]
+147Gorilla: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+Cross Damon: raises $0.75 to $1
+Bilal-Emi: folds 
+rodlaver said, "lots of tens"
+Alameda22: folds 
+Balzouman: folds 
+robwildsc: folds 
+Uncalled bet ($0.75) returned to Cross Damon
+Murka-nash has returned
+robwildsc said, "3 i take it"
+Cross Damon collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Cross Damon collected ($0.60)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Balzouman (small blind) folded before Flop
+Seat 5: robwildsc (big blind) folded before Flop
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898908105:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:22:38 (ET)
+Table 'Bok' 9-max Seat #4 is the button
+Seat 1: Cross Damon ($5 in chips) 
+Seat 2: Bilal-Emi ($27.90 in chips) 
+Seat 3: Alameda22 ($21.85 in chips) 
+Seat 4: Balzouman ($32.60 in chips) 
+Seat 5: robwildsc ($17.25 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 8: rodlaver ($20.55 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+robwildsc: posts small blind $0.10
+147Gorilla: posts big blind $0.25
+Murka-nash: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Ac]
+rodlaver: calls $0.25
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: calls $0.25
+robwildsc: folds 
+147Gorilla: checks 
+*** FLOP *** [Js Ts 4c]
+robwildsc leaves the table
+147Gorilla: checks 
+uctavi joins the table at seat #5 
+rodlaver: checks 
+Balzouman: bets $0.50
+147Gorilla: folds 
+rodlaver: calls $0.50
+*** TURN *** [Js Ts 4c] [6s]
+rodlaver: checks 
+Balzouman: bets $1
+rodlaver: folds 
+Uncalled bet ($1) returned to Balzouman
+Balzouman collected $1.80 from pot
+Balzouman: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [Js Ts 4c 6s]
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman (button) collected ($1.80)
+Seat 5: robwildsc (small blind) folded before Flop
+Seat 6: 147Gorilla (big blind) folded on the Flop
+Seat 8: rodlaver folded on the Turn
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898933522:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:23:44 (ET)
+Table 'Bok' 9-max Seat #6 is the button
+Seat 1: Cross Damon ($5 in chips) 
+Seat 2: Bilal-Emi ($27.90 in chips) 
+Seat 3: Alameda22 ($21.85 in chips) 
+Seat 4: Balzouman ($33.65 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 8: rodlaver ($19.80 in chips) 
+Seat 9: ReynardT.Fox ($24.65 in chips) 
+Murka-nash will be allowed to play after the button
+rodlaver: posts small blind $0.10
+ReynardT.Fox: posts big blind $0.25
+uctavi: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 7d]
+Cross Damon: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: folds 
+147Gorilla: raises $0.75 to $1
+rodlaver: folds 
+ReynardT.Fox: folds 
+Uncalled bet ($0.75) returned to 147Gorilla
+147Gorilla collected $0.60 from pot
+147Gorilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 6: 147Gorilla (button) collected ($0.60)
+Seat 8: rodlaver (small blind) folded before Flop
+Seat 9: ReynardT.Fox (big blind) folded before Flop
+
+
+
+PokerStars Game #19898949821:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:24:26 (ET)
+Table 'Bok' 9-max Seat #8 is the button
+Seat 1: Cross Damon ($5 in chips) 
+Seat 2: Bilal-Emi ($27.90 in chips) 
+Seat 3: Alameda22 ($21.85 in chips) 
+Seat 4: Balzouman ($33.65 in chips) 
+Seat 6: 147Gorilla ($25.35 in chips) 
+Seat 8: rodlaver ($19.70 in chips) 
+Seat 9: ReynardT.Fox ($24.40 in chips) 
+ReynardT.Fox: posts small blind $0.10
+Cross Damon: posts big blind $0.25
+uctavi: sits out 
+Murka-nash: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 3d]
+Bilal-Emi: raises $0.75 to $1
+Alameda22: folds 
+Balzouman: folds 
+147Gorilla: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Uncalled bet ($0.75) returned to Bilal-Emi
+Bilal-Emi collected $0.60 from pot
+Bilal-Emi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Cross Damon (big blind) folded before Flop
+Seat 2: Bilal-Emi collected ($0.60)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 8: rodlaver (button) folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox (small blind) folded before Flop
+
+
+
+PokerStars Game #19898964360:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:25:04 (ET)
+Table 'Bok' 9-max Seat #9 is the button
+Seat 1: Cross Damon ($4.75 in chips) 
+Seat 2: Bilal-Emi ($28.25 in chips) 
+Seat 3: Alameda22 ($21.85 in chips) 
+Seat 4: Balzouman ($33.65 in chips) 
+Seat 6: 147Gorilla ($25.35 in chips) 
+Seat 8: rodlaver ($19.70 in chips) 
+Seat 9: ReynardT.Fox ($24.30 in chips) 
+Cross Damon: posts small blind $0.10
+Bilal-Emi: posts big blind $0.25
+uctavi: sits out 
+Murka-nash: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Qs]
+Alameda22: folds 
+Balzouman: raises $0.25 to $0.50
+147Gorilla: folds 
+rodlaver: folds 
+ReynardT.Fox: folds 
+Cross Damon: calls $0.40
+Bilal-Emi: folds 
+*** FLOP *** [Ac 2s 9s]
+Cross Damon: checks 
+Balzouman: bets $0.75
+Cross Damon: folds 
+Uncalled bet ($0.75) returned to Balzouman
+Balzouman collected $1.20 from pot
+Balzouman: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Ac 2s 9s]
+Seat 1: Cross Damon (small blind) folded on the Flop
+Seat 2: Bilal-Emi (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman collected ($1.20)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 8: rodlaver folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19898983062:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:25:52 (ET)
+Table 'Bok' 9-max Seat #1 is the button
+Seat 1: Cross Damon ($4.25 in chips) 
+Seat 2: Bilal-Emi ($28 in chips) 
+Seat 3: Alameda22 ($21.85 in chips) 
+Seat 4: Balzouman ($34.35 in chips) 
+Seat 6: 147Gorilla ($25.35 in chips) 
+Seat 8: rodlaver ($19.70 in chips) 
+Seat 9: ReynardT.Fox ($24.30 in chips) 
+Bilal-Emi: posts small blind $0.10
+Alameda22: posts big blind $0.25
+uctavi: sits out 
+Murka-nash: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 7c]
+Balzouman: folds 
+147Gorilla: folds 
+rodlaver: raises $0.75 to $1
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: raises $0.75 to $1.75
+Alameda22: folds 
+rodlaver: calls $0.75
+*** FLOP *** [2c 5c 2h]
+Bilal-Emi: bets $2.25
+rodlaver: calls $2.25
+*** TURN *** [2c 5c 2h] [Ac]
+Bilal-Emi: bets $2
+rodlaver: calls $2
+*** RIVER *** [2c 5c 2h Ac] [3s]
+Bilal-Emi: bets $3.25
+rodlaver: calls $3.25
+*** SHOW DOWN ***
+Bilal-Emi: shows [Kc Kh] (two pair, Kings and Deuces)
+rodlaver: shows [Tc Ts] (two pair, Tens and Deuces)
+Bilal-Emi collected $17.85 from pot
+rodlaver is sitting out
+*** SUMMARY ***
+Total pot $18.75 | Rake $0.90 
+Board [2c 5c 2h Ac 3s]
+Seat 1: Cross Damon (button) folded before Flop (didn't bet)
+Seat 2: Bilal-Emi (small blind) showed [Kc Kh] and won ($17.85) with two pair, Kings and Deuces
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 8: rodlaver showed [Tc Ts] and lost with two pair, Tens and Deuces
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899017683:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:27:20 (ET)
+Table 'Bok' 9-max Seat #2 is the button
+Seat 1: Cross Damon ($4.25 in chips) 
+Seat 2: Bilal-Emi ($36.60 in chips) 
+Seat 3: Alameda22 ($21.60 in chips) 
+Seat 4: Balzouman ($34.35 in chips) 
+Seat 6: 147Gorilla ($25.35 in chips) 
+Seat 9: ReynardT.Fox ($24.30 in chips) 
+Alameda22: posts small blind $0.10
+Balzouman: posts big blind $0.25
+uctavi: sits out 
+Murka-nash: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 7h]
+147Gorilla: folds 
+rodlaver leaves the table
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to Balzouman
+Balzouman collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Balzouman (big blind) collected ($0.20)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899032682:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:27:59 (ET)
+Table 'Bok' 9-max Seat #3 is the button
+Seat 1: Cross Damon ($4.25 in chips) 
+Seat 2: Bilal-Emi ($36.60 in chips) 
+Seat 3: Alameda22 ($21.50 in chips) 
+Seat 4: Balzouman ($34.45 in chips) 
+Seat 5: uctavi ($25 in chips) 
+Seat 6: 147Gorilla ($25.35 in chips) 
+Seat 9: ReynardT.Fox ($24.30 in chips) 
+Balzouman: posts small blind $0.10
+uctavi: posts big blind $0.25
+Murka-nash: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 2c]
+147Gorilla: raises $0.75 to $1
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: folds 
+msna joins the table at seat #8 
+uctavi: folds 
+Uncalled bet ($0.75) returned to 147Gorilla
+147Gorilla collected $0.60 from pot
+147Gorilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Balzouman (small blind) folded before Flop
+Seat 5: uctavi (big blind) folded before Flop
+Seat 6: 147Gorilla collected ($0.60)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899060989:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:29:11 (ET)
+Table 'Bok' 9-max Seat #4 is the button
+Seat 1: Cross Damon ($4.25 in chips) 
+Seat 2: Bilal-Emi ($36.60 in chips) 
+Seat 3: Alameda22 ($21.50 in chips) 
+Seat 4: Balzouman ($34.35 in chips) 
+Seat 5: uctavi ($24.75 in chips) 
+Seat 6: 147Gorilla ($25.70 in chips) 
+Seat 9: ReynardT.Fox ($24.30 in chips) 
+uctavi: posts small blind $0.10
+147Gorilla: posts big blind $0.25
+Murka-nash: sits out 
+msna: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 3c]
+ReynardT.Fox: raises $0.50 to $0.75
+Cross Damon: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: calls $0.75
+uctavi: folds 
+147Gorilla: folds 
+*** FLOP *** [Qc 5h 9h]
+ReynardT.Fox: checks 
+Balzouman: checks 
+*** TURN *** [Qc 5h 9h] [Th]
+ReynardT.Fox: bets $1.35
+Balzouman: folds 
+Uncalled bet ($1.35) returned to ReynardT.Fox
+ReynardT.Fox collected $1.80 from pot
+ReynardT.Fox: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [Qc 5h 9h Th]
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman (button) folded on the Turn
+Seat 5: uctavi (small blind) folded before Flop
+Seat 6: 147Gorilla (big blind) folded before Flop
+Seat 9: ReynardT.Fox collected ($1.80)
+
+
+
+PokerStars Game #19899091895:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:30:32 (ET)
+Table 'Bok' 9-max Seat #5 is the button
+Seat 1: Cross Damon ($4.25 in chips) 
+Seat 2: Bilal-Emi ($36.60 in chips) 
+Seat 3: Alameda22 ($21.50 in chips) 
+Seat 4: Balzouman ($33.60 in chips) 
+Seat 5: uctavi ($24.65 in chips) 
+Seat 6: 147Gorilla ($25.45 in chips) 
+Seat 7: Murka-nash ($25 in chips) 
+Seat 9: ReynardT.Fox ($25.35 in chips) 
+147Gorilla: posts small blind $0.10
+Murka-nash: posts big blind $0.25
+msna: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Th]
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: raises $0.50 to $0.75
+uctavi: folds 
+147Gorilla: folds 
+Murka-nash: folds 
+Uncalled bet ($0.50) returned to Balzouman
+Balzouman collected $0.60 from pot
+Balzouman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman collected ($0.60)
+Seat 5: uctavi (button) folded before Flop (didn't bet)
+Seat 6: 147Gorilla (small blind) folded before Flop
+Seat 7: Murka-nash (big blind) folded before Flop
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899106511:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:31:09 (ET)
+Table 'Bok' 9-max Seat #6 is the button
+Seat 1: Cross Damon ($4.25 in chips) 
+Seat 2: Bilal-Emi ($36.60 in chips) 
+Seat 3: Alameda22 ($21.50 in chips) 
+Seat 4: Balzouman ($33.95 in chips) 
+Seat 5: uctavi ($24.65 in chips) 
+Seat 6: 147Gorilla ($25.35 in chips) 
+Seat 7: Murka-nash ($24.75 in chips) 
+Seat 8: msna ($25 in chips) 
+Seat 9: ReynardT.Fox ($25.35 in chips) 
+Murka-nash: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 2h]
+ReynardT.Fox: folds 
+Cross Damon: folds 
+Bilal-Emi: raises $0.75 to $1
+Alameda22: folds 
+Balzouman: folds 
+uctavi: calls $1
+147Gorilla: raises $3 to $4
+Murka-nash: folds 
+msna: folds 
+Bilal-Emi: calls $3
+uctavi: calls $3
+*** FLOP *** [6d 2c 2d]
+Bilal-Emi: checks 
+uctavi: checks 
+147Gorilla: checks 
+*** TURN *** [6d 2c 2d] [6s]
+Bilal-Emi: checks 
+uctavi: checks 
+147Gorilla: checks 
+*** RIVER *** [6d 2c 2d 6s] [Tc]
+Bilal-Emi: bets $5.25
+uctavi: folds 
+147Gorilla: folds 
+Uncalled bet ($5.25) returned to Bilal-Emi
+Bilal-Emi collected $11.75 from pot
+Bilal-Emi: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.35 | Rake $0.60 
+Board [6d 2c 2d 6s Tc]
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi collected ($11.75)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: uctavi folded on the River
+Seat 6: 147Gorilla (button) folded on the River
+Seat 7: Murka-nash (small blind) folded before Flop
+Seat 8: msna (big blind) folded before Flop
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899164101:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:33:30 (ET)
+Table 'Bok' 9-max Seat #7 is the button
+Seat 1: Cross Damon ($4.25 in chips) 
+Seat 2: Bilal-Emi ($44.35 in chips) 
+Seat 3: Alameda22 ($21.50 in chips) 
+Seat 4: Balzouman ($33.95 in chips) 
+Seat 5: uctavi ($20.65 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($24.65 in chips) 
+Seat 8: msna ($24.75 in chips) 
+Seat 9: ReynardT.Fox ($25.35 in chips) 
+msna: posts small blind $0.10
+ReynardT.Fox: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 6c]
+Cross Damon: folds 
+Bilal-Emi: folds 
+Cross Damon leaves the table
+Alameda22: folds 
+SirMolle joins the table at seat #1 
+Balzouman: raises $0.25 to $0.50
+uctavi: folds 
+147Gorilla: folds 
+Murka-nash: folds 
+msna: folds 
+ReynardT.Fox: folds 
+Uncalled bet ($0.25) returned to Balzouman
+Balzouman collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Cross Damon folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman collected ($0.60)
+Seat 5: uctavi folded before Flop (didn't bet)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 7: Murka-nash (button) folded before Flop (didn't bet)
+Seat 8: msna (small blind) folded before Flop
+Seat 9: ReynardT.Fox (big blind) folded before Flop
+
+
+
+PokerStars Game #19899186435:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:34:25 (ET)
+Table 'Bok' 9-max Seat #8 is the button
+Seat 1: SirMolle ($25 in chips) 
+Seat 2: Bilal-Emi ($44.35 in chips) 
+Seat 3: Alameda22 ($21.50 in chips) 
+Seat 4: Balzouman ($34.30 in chips) 
+Seat 5: uctavi ($20.65 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($24.65 in chips) 
+Seat 8: msna ($24.65 in chips) 
+Seat 9: ReynardT.Fox ($25.10 in chips) 
+ReynardT.Fox: posts small blind $0.10
+SirMolle: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Th]
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: folds 
+uctavi: folds 
+147Gorilla: folds 
+Murka-nash: folds 
+msna: folds 
+ReynardT.Fox: raises $0.75 to $1
+SirMolle: folds 
+Uncalled bet ($0.75) returned to ReynardT.Fox
+ReynardT.Fox collected $0.50 from pot
+ReynardT.Fox: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: SirMolle (big blind) folded before Flop
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: uctavi folded before Flop (didn't bet)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: msna (button) folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox (small blind) collected ($0.50)
+
+
+
+PokerStars Game #19899211010:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:35:25 (ET)
+Table 'Bok' 9-max Seat #9 is the button
+Seat 1: SirMolle ($24.75 in chips) 
+Seat 2: Bilal-Emi ($44.35 in chips) 
+Seat 3: Alameda22 ($21.50 in chips) 
+Seat 4: Balzouman ($34.30 in chips) 
+Seat 5: uctavi ($20.65 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($24.65 in chips) 
+Seat 8: msna ($24.65 in chips) 
+Seat 9: ReynardT.Fox ($25.35 in chips) 
+SirMolle: posts small blind $0.10
+Bilal-Emi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 4c]
+Alameda22: folds 
+Balzouman: calls $0.25
+uctavi: folds 
+147Gorilla: folds 
+Murka-nash: folds 
+msna: calls $0.25
+ReynardT.Fox: folds 
+SirMolle: folds 
+Bilal-Emi: checks 
+*** FLOP *** [6h Kh 8h]
+Bilal-Emi: folds 
+Balzouman: checks 
+msna: checks 
+*** TURN *** [6h Kh 8h] [6d]
+Balzouman: checks 
+msna: checks 
+*** RIVER *** [6h Kh 8h 6d] [2s]
+Balzouman: checks 
+msna: checks 
+*** SHOW DOWN ***
+Balzouman: shows [Tc Td] (two pair, Tens and Sixes)
+msna: mucks hand 
+Balzouman collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [6h Kh 8h 6d 2s]
+Seat 1: SirMolle (small blind) folded before Flop
+Seat 2: Bilal-Emi (big blind) folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman showed [Tc Td] and won ($0.85) with two pair, Tens and Sixes
+Seat 5: uctavi folded before Flop (didn't bet)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: msna mucked [9c 9d]
+Seat 9: ReynardT.Fox (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899241372:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:36:40 (ET)
+Table 'Bok' 9-max Seat #1 is the button
+Seat 1: SirMolle ($24.65 in chips) 
+Seat 2: Bilal-Emi ($44.10 in chips) 
+Seat 3: Alameda22 ($21.50 in chips) 
+Seat 4: Balzouman ($34.90 in chips) 
+Seat 5: uctavi ($20.65 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($24.65 in chips) 
+Seat 8: msna ($24.40 in chips) 
+Seat 9: ReynardT.Fox ($25.35 in chips) 
+Bilal-Emi: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Qs]
+Balzouman: folds 
+uctavi: folds 
+147Gorilla: folds 
+Murka-nash: folds 
+msna: folds 
+ReynardT.Fox: raises $0.50 to $0.75
+SirMolle: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to ReynardT.Fox
+ReynardT.Fox collected $0.60 from pot
+ReynardT.Fox: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: SirMolle (button) folded before Flop (didn't bet)
+Seat 2: Bilal-Emi (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: uctavi folded before Flop (didn't bet)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: msna folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox collected ($0.60)
+
+
+
+PokerStars Game #19899261113:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:37:30 (ET)
+Table 'Bok' 9-max Seat #2 is the button
+Seat 1: SirMolle ($24.65 in chips) 
+Seat 2: Bilal-Emi ($44 in chips) 
+Seat 3: Alameda22 ($21.25 in chips) 
+Seat 4: Balzouman ($34.90 in chips) 
+Seat 5: uctavi ($20.65 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($24.65 in chips) 
+Seat 8: msna ($25 in chips) 
+Seat 9: ReynardT.Fox ($25.70 in chips) 
+Alameda22: posts small blind $0.10
+Balzouman: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 9c]
+uctavi: folds 
+147Gorilla: folds 
+Murka-nash: folds 
+msna: folds 
+ReynardT.Fox: raises $0.50 to $0.75
+SirMolle: folds 
+Bilal-Emi: calls $0.75
+Alameda22: folds 
+Balzouman: calls $0.50
+*** FLOP *** [5h 6d Jh]
+Balzouman: checks 
+ReynardT.Fox: checks 
+Bilal-Emi: bets $2.25
+Balzouman: calls $2.25
+ReynardT.Fox: folds 
+*** TURN *** [5h 6d Jh] [8d]
+Balzouman: checks 
+Bilal-Emi: bets $3.25
+Balzouman: calls $3.25
+*** RIVER *** [5h 6d Jh 8d] [3s]
+Balzouman: checks 
+Bilal-Emi: bets $4.25
+Balzouman: calls $4.25
+*** SHOW DOWN ***
+Bilal-Emi: shows [Ks Jd] (a pair of Jacks)
+Balzouman: mucks hand 
+Bilal-Emi collected $20.80 from pot
+*** SUMMARY ***
+Total pot $21.85 | Rake $1.05 
+Board [5h 6d Jh 8d 3s]
+Seat 1: SirMolle folded before Flop (didn't bet)
+Seat 2: Bilal-Emi (button) showed [Ks Jd] and won ($20.80) with a pair of Jacks
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Balzouman (big blind) mucked [Js 9d]
+Seat 5: uctavi folded before Flop (didn't bet)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: msna folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded on the Flop
+
+
+
+PokerStars Game #19899302471:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:39:12 (ET)
+Table 'Bok' 9-max Seat #3 is the button
+Seat 1: SirMolle ($24.65 in chips) 
+Seat 2: Bilal-Emi ($54.30 in chips) 
+Seat 3: Alameda22 ($21.15 in chips) 
+Seat 4: Balzouman ($24.40 in chips) 
+Seat 5: uctavi ($20.65 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($24.65 in chips) 
+Seat 8: msna ($25 in chips) 
+Seat 9: ReynardT.Fox ($24.95 in chips) 
+Balzouman: posts small blind $0.10
+uctavi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 7s]
+147Gorilla: folds 
+Balzouman said, "damn"
+Murka-nash: folds 
+msna: folds 
+ReynardT.Fox: folds 
+SirMolle: raises $0.75 to $1
+Bilal-Emi: calls $1
+Alameda22: folds 
+Balzouman: raises $2.25 to $3.25
+uctavi: folds 
+SirMolle: folds 
+Bilal-Emi: calls $2.25
+*** FLOP *** [3c Qc 3h]
+Balzouman: bets $10.25
+Bilal-Emi: raises $10.25 to $20.50
+Balzouman: raises $0.65 to $21.15 and is all-in
+Bilal-Emi: calls $0.65
+*** TURN *** [3c Qc 3h] [6h]
+*** RIVER *** [3c Qc 3h 6h] [Td]
+*** SHOW DOWN ***
+Balzouman: shows [Ks Kc] (two pair, Kings and Threes)
+Bilal-Emi: mucks hand 
+Balzouman collected $47.60 from pot
+*** SUMMARY ***
+Total pot $50.05 | Rake $2.45 
+Board [3c Qc 3h 6h Td]
+Seat 1: SirMolle folded before Flop
+Seat 2: Bilal-Emi mucked [Qd Ah]
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Balzouman (small blind) showed [Ks Kc] and won ($47.60) with two pair, Kings and Threes
+Seat 5: uctavi (big blind) folded before Flop
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: msna folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899333824:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:40:31 (ET)
+Table 'Bok' 9-max Seat #4 is the button
+Seat 1: SirMolle ($23.65 in chips) 
+Seat 2: Bilal-Emi ($29.90 in chips) 
+Seat 3: Alameda22 ($21.15 in chips) 
+Seat 4: Balzouman ($47.60 in chips) 
+Seat 5: uctavi ($20.40 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($24.65 in chips) 
+Seat 8: msna ($25 in chips) 
+Seat 9: ReynardT.Fox ($24.95 in chips) 
+uctavi: posts small blind $0.10
+147Gorilla: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Qs]
+Murka-nash: folds 
+msna: folds 
+ReynardT.Fox: folds 
+SirMolle: raises $0.75 to $1
+Bilal-Emi: raises $0.75 to $1.75
+Alameda22: folds 
+Balzouman: calls $1.75
+uctavi: calls $1.65
+147Gorilla: folds 
+SirMolle: folds 
+*** FLOP *** [8s 4d Kc]
+uctavi: checks 
+Bilal-Emi: bets $4.25
+Balzouman: folds 
+uctavi: folds 
+Uncalled bet ($4.25) returned to Bilal-Emi
+Bilal-Emi collected $6.20 from pot
+Bilal-Emi: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.30 
+Board [8s 4d Kc]
+Seat 1: SirMolle folded before Flop
+Seat 2: Bilal-Emi collected ($6.20)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman (button) folded on the Flop
+Seat 5: uctavi (small blind) folded on the Flop
+Seat 6: 147Gorilla (big blind) folded before Flop
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: msna folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899368730:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:41:59 (ET)
+Table 'Bok' 9-max Seat #5 is the button
+Seat 1: SirMolle ($22.65 in chips) 
+Seat 2: Bilal-Emi ($34.35 in chips) 
+Seat 3: Alameda22 ($21.15 in chips) 
+Seat 4: Balzouman ($45.85 in chips) 
+Seat 5: uctavi ($25 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($24.65 in chips) 
+Seat 8: msna ($25 in chips) 
+Seat 9: ReynardT.Fox ($24.95 in chips) 
+147Gorilla: posts small blind $0.10
+Murka-nash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 3c]
+msna: folds 
+ReynardT.Fox: folds 
+SirMolle: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: folds 
+uctavi: folds 
+147Gorilla: raises $0.75 to $1
+Murka-nash: folds 
+Uncalled bet ($0.75) returned to 147Gorilla
+147Gorilla collected $0.50 from pot
+147Gorilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: SirMolle folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: uctavi (button) folded before Flop (didn't bet)
+Seat 6: 147Gorilla (small blind) collected ($0.50)
+Seat 7: Murka-nash (big blind) folded before Flop
+Seat 8: msna folded before Flop (didn't bet)
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899384555:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:42:38 (ET)
+Table 'Bok' 9-max Seat #6 is the button
+Seat 1: SirMolle ($22.65 in chips) 
+Seat 2: Bilal-Emi ($34.35 in chips) 
+Seat 3: Alameda22 ($21.15 in chips) 
+Seat 4: Balzouman ($45.85 in chips) 
+Seat 5: uctavi ($25 in chips) 
+Seat 6: 147Gorilla ($25.25 in chips) 
+Seat 7: Murka-nash ($24.40 in chips) 
+Seat 8: msna ($25 in chips) 
+Seat 9: ReynardT.Fox ($24.95 in chips) 
+Murka-nash: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Th]
+ReynardT.Fox: folds 
+SirMolle: folds 
+Bilal-Emi: calls $0.25
+Alameda22: raises $0.75 to $1
+Balzouman: folds 
+uctavi: folds 
+147Gorilla: folds 
+Murka-nash: folds 
+msna: folds 
+Bilal-Emi: calls $0.75
+*** FLOP *** [Tc 2s Kh]
+Bilal-Emi: checks 
+Alameda22: bets $1.50
+Bilal-Emi: calls $1.50
+*** TURN *** [Tc 2s Kh] [2d]
+Bilal-Emi: checks 
+Alameda22: bets $3.25
+Bilal-Emi: calls $3.25
+*** RIVER *** [Tc 2s Kh 2d] [Ad]
+Bilal-Emi: bets $8.25
+Alameda22: raises $7.15 to $15.40 and is all-in
+Bilal-Emi: folds 
+Uncalled bet ($7.15) returned to Alameda22
+Alameda22 collected $27 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $28.35 | Rake $1.35 
+Board [Tc 2s Kh 2d Ad]
+Seat 1: SirMolle folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded on the River
+Seat 3: Alameda22 collected ($27)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: uctavi folded before Flop (didn't bet)
+Seat 6: 147Gorilla (button) folded before Flop (didn't bet)
+Seat 7: Murka-nash (small blind) folded before Flop
+Seat 8: msna (big blind) folded before Flop
+Seat 9: ReynardT.Fox folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899426780:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:44:25 (ET)
+Table 'Bok' 9-max Seat #7 is the button
+Seat 1: SirMolle ($22.65 in chips) 
+Seat 2: Bilal-Emi ($20.35 in chips) 
+Seat 3: Alameda22 ($34.15 in chips) 
+Seat 4: Balzouman ($45.85 in chips) 
+Seat 5: uctavi ($25 in chips) 
+Seat 6: 147Gorilla ($25.25 in chips) 
+Seat 7: Murka-nash ($24.30 in chips) 
+Seat 8: msna ($24.75 in chips) 
+msna: posts small blind $0.10
+ReynardT.Fox: is sitting out 
+SirMolle: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 3c]
+ReynardT.Fox leaves the table
+Bilal-Emi: raises $1.75 to $2
+kelvinloko joins the table at seat #9 
+Alameda22: folds 
+Balzouman: folds 
+uctavi: folds 
+147Gorilla: calls $2
+Murka-nash: folds 
+msna: folds 
+SirMolle: folds 
+*** FLOP *** [8s 9h As]
+Bilal-Emi: bets $2.25
+147Gorilla: calls $2.25
+*** TURN *** [8s 9h As] [9c]
+Bilal-Emi: bets $4.25
+147Gorilla: raises $16.75 to $21 and is all-in
+Bilal-Emi: calls $11.85 and is all-in
+Uncalled bet ($4.90) returned to 147Gorilla
+*** RIVER *** [8s 9h As 9c] [2c]
+*** SHOW DOWN ***
+Bilal-Emi: shows [9s Ts] (three of a kind, Nines)
+147Gorilla: mucks hand 
+Bilal-Emi collected $39.05 from pot
+*** SUMMARY ***
+Total pot $41.05 | Rake $2 
+Board [8s 9h As 9c 2c]
+Seat 1: SirMolle (big blind) folded before Flop
+Seat 2: Bilal-Emi showed [9s Ts] and won ($39.05) with three of a kind, Nines
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: uctavi folded before Flop (didn't bet)
+Seat 6: 147Gorilla mucked [Ah Qc]
+Seat 7: Murka-nash (button) folded before Flop (didn't bet)
+Seat 8: msna (small blind) folded before Flop
+
+
+
+PokerStars Game #19899465183:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:46:09 (ET)
+Table 'Bok' 9-max Seat #8 is the button
+Seat 1: SirMolle ($25 in chips) 
+Seat 2: Bilal-Emi ($39.05 in chips) 
+Seat 3: Alameda22 ($34.15 in chips) 
+Seat 4: Balzouman ($45.85 in chips) 
+Seat 5: uctavi ($25 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($24.30 in chips) 
+Seat 8: msna ($24.65 in chips) 
+kelvinloko will be allowed to play after the button
+SirMolle: posts small blind $0.10
+Bilal-Emi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Jh]
+Alameda22: folds 
+Balzouman: raises $0.25 to $0.50
+uctavi: folds 
+147Gorilla: folds 
+Murka-nash: folds 
+msna: folds 
+SirMolle: folds 
+Bilal-Emi: calls $0.25
+*** FLOP *** [5c 3c 7d]
+Bilal-Emi: checks 
+Balzouman: bets $1
+Bilal-Emi: folds 
+Uncalled bet ($1) returned to Balzouman
+Balzouman collected $1.05 from pot
+Balzouman: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [5c 3c 7d]
+Seat 1: SirMolle (small blind) folded before Flop
+Seat 2: Bilal-Emi (big blind) folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman collected ($1.05)
+Seat 5: uctavi folded before Flop (didn't bet)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: msna (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899488450:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:47:07 (ET)
+Table 'Bok' 9-max Seat #1 is the button
+Seat 1: SirMolle ($24.90 in chips) 
+Seat 2: Bilal-Emi ($38.55 in chips) 
+Seat 3: Alameda22 ($34.15 in chips) 
+Seat 4: Balzouman ($46.40 in chips) 
+Seat 5: uctavi ($25 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($24.30 in chips) 
+Seat 8: msna ($24.65 in chips) 
+Seat 9: kelvinloko ($5 in chips) 
+Bilal-Emi: posts small blind $0.10
+Alameda22: posts big blind $0.25
+kelvinloko: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Th]
+Balzouman: folds 
+uctavi: calls $0.25
+147Gorilla: folds 
+Murka-nash: folds 
+msna: folds 
+kelvinloko: checks 
+SirMolle: folds 
+Bilal-Emi: raises $0.75 to $1
+Alameda22: folds 
+uctavi: folds 
+kelvinloko: folds 
+Uncalled bet ($0.75) returned to Bilal-Emi
+Bilal-Emi collected $1 from pot
+Bilal-Emi: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: SirMolle (button) folded before Flop (didn't bet)
+Seat 2: Bilal-Emi (small blind) collected ($1)
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: uctavi folded before Flop
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: msna folded before Flop (didn't bet)
+Seat 9: kelvinloko folded before Flop
+
+
+
+PokerStars Game #19899519126:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:48:25 (ET)
+Table 'Bok' 9-max Seat #2 is the button
+Seat 1: SirMolle ($24.90 in chips) 
+Seat 2: Bilal-Emi ($39.30 in chips) 
+Seat 3: Alameda22 ($33.90 in chips) 
+Seat 4: Balzouman ($46.40 in chips) 
+Seat 5: uctavi ($24.75 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($24.30 in chips) 
+Seat 8: msna ($24.65 in chips) 
+Seat 9: kelvinloko ($4.75 in chips) 
+Alameda22: posts small blind $0.10
+Balzouman: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 5c]
+uctavi: folds 
+147Gorilla: folds 
+Murka-nash: folds 
+msna: folds 
+kelvinloko: folds 
+SirMolle: folds 
+Bilal-Emi: calls $0.25
+Alameda22: folds 
+Balzouman: checks 
+*** FLOP *** [2c Kc 4s]
+Balzouman: checks 
+Bilal-Emi: bets $0.25
+Balzouman: folds 
+Uncalled bet ($0.25) returned to Bilal-Emi
+Bilal-Emi collected $0.60 from pot
+Bilal-Emi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [2c Kc 4s]
+Seat 1: SirMolle folded before Flop (didn't bet)
+Seat 2: Bilal-Emi (button) collected ($0.60)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Balzouman (big blind) folded on the Flop
+Seat 5: uctavi folded before Flop (didn't bet)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: msna folded before Flop (didn't bet)
+Seat 9: kelvinloko folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899535821:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:49:07 (ET)
+Table 'Bok' 9-max Seat #3 is the button
+Seat 1: SirMolle ($24.90 in chips) 
+Seat 2: Bilal-Emi ($39.65 in chips) 
+Seat 3: Alameda22 ($33.80 in chips) 
+Seat 4: Balzouman ($46.15 in chips) 
+Seat 5: uctavi ($24.75 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($25 in chips) 
+Seat 8: msna ($24.65 in chips) 
+Seat 9: kelvinloko ($4.75 in chips) 
+Balzouman: posts small blind $0.10
+uctavi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Jc]
+147Gorilla: calls $0.25
+Murka-nash: folds 
+msna: calls $0.25
+kelvinloko: folds 
+SirMolle: folds 
+Bilal-Emi: calls $0.25
+Alameda22: raises $1 to $1.25
+Balzouman: folds 
+uctavi: folds 
+147Gorilla: calls $1
+msna: calls $1
+Bilal-Emi: calls $1
+*** FLOP *** [7h Qs Kc]
+147Gorilla: checks 
+msna: checks 
+Bilal-Emi: bets $2.25
+Alameda22: raises $4 to $6.25
+147Gorilla: folds 
+msna: folds 
+Bilal-Emi: folds 
+Uncalled bet ($4) returned to Alameda22
+Alameda22 collected $9.40 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.85 | Rake $0.45 
+Board [7h Qs Kc]
+Seat 1: SirMolle folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded on the Flop
+Seat 3: Alameda22 (button) collected ($9.40)
+Seat 4: Balzouman (small blind) folded before Flop
+Seat 5: uctavi (big blind) folded before Flop
+Seat 6: 147Gorilla folded on the Flop
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: msna folded on the Flop
+Seat 9: kelvinloko folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899585403:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:51:14 (ET)
+Table 'Bok' 9-max Seat #4 is the button
+Seat 1: SirMolle ($24.90 in chips) 
+Seat 2: Bilal-Emi ($36.15 in chips) 
+Seat 3: Alameda22 ($39.70 in chips) 
+Seat 4: Balzouman ($46.05 in chips) 
+Seat 5: uctavi ($24.50 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($25 in chips) 
+Seat 8: msna ($23.40 in chips) 
+Seat 9: kelvinloko ($4.75 in chips) 
+uctavi: posts small blind $0.10
+147Gorilla: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Jh]
+Murka-nash: raises $0.75 to $1
+msna: folds 
+kelvinloko: raises $3.75 to $4.75 and is all-in
+SirMolle: folds 
+Bilal-Emi: calls $4.75
+Alameda22: folds 
+Balzouman: folds 
+uctavi: folds 
+147Gorilla: folds 
+Murka-nash: raises $6.25 to $11
+Bilal-Emi: folds 
+Uncalled bet ($6.25) returned to Murka-nash
+*** FLOP *** [5d Tc Kh]
+*** TURN *** [5d Tc Kh] [5h]
+*** RIVER *** [5d Tc Kh 5h] [8d]
+*** SHOW DOWN ***
+Murka-nash: shows [Qs Qc] (two pair, Queens and Fives)
+kelvinloko: shows [Ks Ah] (two pair, Kings and Fives)
+kelvinloko collected $13.90 from pot
+*** SUMMARY ***
+Total pot $14.60 | Rake $0.70 
+Board [5d Tc Kh 5h 8d]
+Seat 1: SirMolle folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman (button) folded before Flop (didn't bet)
+Seat 5: uctavi (small blind) folded before Flop
+Seat 6: 147Gorilla (big blind) folded before Flop
+Seat 7: Murka-nash showed [Qs Qc] and lost with two pair, Queens and Fives
+Seat 8: msna folded before Flop (didn't bet)
+Seat 9: kelvinloko showed [Ks Ah] and won ($13.90) with two pair, Kings and Fives
+
+
+
+PokerStars Game #19899608539:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:52:12 (ET)
+Table 'Bok' 9-max Seat #5 is the button
+Seat 1: SirMolle ($24.90 in chips) 
+Seat 2: Bilal-Emi ($31.40 in chips) 
+Seat 3: Alameda22 ($39.70 in chips) 
+Seat 4: Balzouman ($46.05 in chips) 
+Seat 5: uctavi ($24.40 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($20.25 in chips) 
+Seat 8: msna ($23.40 in chips) 
+Seat 9: kelvinloko ($13.90 in chips) 
+147Gorilla: posts small blind $0.10
+Murka-nash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Ac]
+msna: folds 
+kelvinloko: folds 
+SirMolle: raises $0.75 to $1
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: folds 
+uctavi: folds 
+147Gorilla: folds 
+Murka-nash: folds 
+Uncalled bet ($0.75) returned to SirMolle
+SirMolle collected $0.60 from pot
+SirMolle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: SirMolle collected ($0.60)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: uctavi (button) folded before Flop (didn't bet)
+Seat 6: 147Gorilla (small blind) folded before Flop
+Seat 7: Murka-nash (big blind) folded before Flop
+Seat 8: msna folded before Flop (didn't bet)
+Seat 9: kelvinloko folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899631959:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:53:12 (ET)
+Table 'Bok' 9-max Seat #6 is the button
+Seat 1: SirMolle ($25.25 in chips) 
+Seat 2: Bilal-Emi ($31.40 in chips) 
+Seat 3: Alameda22 ($39.70 in chips) 
+Seat 4: Balzouman ($46.05 in chips) 
+Seat 5: uctavi ($24.40 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($20 in chips) 
+Seat 8: msna ($23.40 in chips) 
+Seat 9: kelvinloko ($13.90 in chips) 
+Murka-nash: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 5s]
+kelvinloko: folds 
+SirMolle: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: raises $0.50 to $0.75
+uctavi: folds 
+147Gorilla: folds 
+Murka-nash: folds 
+msna: folds 
+Uncalled bet ($0.50) returned to Balzouman
+Balzouman collected $0.60 from pot
+Balzouman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: SirMolle folded before Flop (didn't bet)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman collected ($0.60)
+Seat 5: uctavi folded before Flop (didn't bet)
+Seat 6: 147Gorilla (button) folded before Flop (didn't bet)
+Seat 7: Murka-nash (small blind) folded before Flop
+Seat 8: msna (big blind) folded before Flop
+Seat 9: kelvinloko folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899643675:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:53:42 (ET)
+Table 'Bok' 9-max Seat #7 is the button
+Seat 1: SirMolle ($25.25 in chips) 
+Seat 2: Bilal-Emi ($31.40 in chips) 
+Seat 3: Alameda22 ($39.70 in chips) 
+Seat 4: Balzouman ($46.40 in chips) 
+Seat 5: uctavi ($24.40 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($25 in chips) 
+Seat 8: msna ($23.15 in chips) 
+msna: posts small blind $0.10
+kelvinloko: is sitting out 
+SirMolle: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Th]
+kelvinloko leaves the table
+Bilal-Emi: calls $0.25
+Alameda22: folds 
+Klansman8 joins the table at seat #9 
+Balzouman: folds 
+uctavi: folds 
+147Gorilla: folds 
+Murka-nash: folds 
+msna: calls $0.15
+SirMolle: raises $1 to $1.25
+Bilal-Emi: calls $1
+msna: calls $1
+*** FLOP *** [2s 3h 4h]
+msna: checks 
+SirMolle: bets $2.75
+Bilal-Emi: calls $2.75
+msna: folds 
+*** TURN *** [2s 3h 4h] [9s]
+SirMolle: bets $5.25
+Bilal-Emi: raises $5.25 to $10.50
+SirMolle: raises $10.75 to $21.25 and is all-in
+Bilal-Emi: calls $10.75
+*** RIVER *** [2s 3h 4h 9s] [Jc]
+*** SHOW DOWN ***
+SirMolle: shows [Kh Kc] (a pair of Kings)
+Bilal-Emi: shows [6h 5d] (a straight, Deuce to Six)
+Bilal-Emi collected $49.20 from pot
+*** SUMMARY ***
+Total pot $51.75 | Rake $2.55 
+Board [2s 3h 4h 9s Jc]
+Seat 1: SirMolle (big blind) showed [Kh Kc] and lost with a pair of Kings
+Seat 2: Bilal-Emi showed [6h 5d] and won ($49.20) with a straight, Deuce to Six
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: uctavi folded before Flop (didn't bet)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 7: Murka-nash (button) folded before Flop (didn't bet)
+Seat 8: msna (small blind) folded on the Flop
+
+
+
+PokerStars Game #19899677682:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:55:09 (ET)
+Table 'Bok' 9-max Seat #8 is the button
+Seat 2: Bilal-Emi ($55.35 in chips) 
+Seat 3: Alameda22 ($39.70 in chips) 
+Seat 4: Balzouman ($46.40 in chips) 
+Seat 5: uctavi ($24.40 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($25 in chips) 
+Seat 8: msna ($21.90 in chips) 
+Klansman8 will be allowed to play after the button
+Bilal-Emi: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 7d]
+SirMolle has returned
+Balzouman: folds 
+uctavi: folds 
+147Gorilla: folds 
+Murka-nash: folds 
+msna: folds 
+Bilal-Emi: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Bilal-Emi (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) collected ($0.20)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: uctavi folded before Flop (didn't bet)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: msna (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899694262:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:55:52 (ET)
+Table 'Bok' 9-max Seat #2 is the button
+Seat 1: SirMolle ($25 in chips) 
+Seat 2: Bilal-Emi ($55.25 in chips) 
+Seat 3: Alameda22 ($39.80 in chips) 
+Seat 4: Balzouman ($46.40 in chips) 
+Seat 5: uctavi ($24.40 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($25 in chips) 
+Seat 8: msna ($21.90 in chips) 
+Seat 9: Klansman8 ($5 in chips) 
+Alameda22: posts small blind $0.10
+Balzouman: posts big blind $0.25
+Klansman8: posts big blind $0.25
+SirMolle: posts small blind $0.10
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Kh]
+uctavi: folds 
+147Gorilla: folds 
+Murka-nash: folds 
+msna: folds 
+Klansman8: checks 
+SirMolle: folds 
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: checks 
+*** FLOP *** [5h 6h 2c]
+Balzouman: bets $0.50
+Klansman8: raises $1 to $1.50
+Balzouman: raises $4 to $5.50
+Klansman8: calls $3.25 and is all-in
+Uncalled bet ($0.75) returned to Balzouman
+*** TURN *** [5h 6h 2c] [Td]
+*** RIVER *** [5h 6h 2c Td] [2h]
+*** SHOW DOWN ***
+Balzouman: shows [9h 9d] (two pair, Nines and Deuces)
+Klansman8: mucks hand 
+Balzouman collected $9.70 from pot
+*** SUMMARY ***
+Total pot $10.20 | Rake $0.50 
+Board [5h 6h 2c Td 2h]
+Seat 1: SirMolle folded before Flop
+Seat 2: Bilal-Emi (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Balzouman (big blind) showed [9h 9d] and won ($9.70) with two pair, Nines and Deuces
+Seat 5: uctavi folded before Flop (didn't bet)
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: msna folded before Flop (didn't bet)
+Seat 9: Klansman8 mucked [Kd 6s]
+
+
+
+PokerStars Game #19899726348:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:57:14 (ET)
+Table 'Bok' 9-max Seat #3 is the button
+Seat 1: SirMolle ($24.90 in chips) 
+Seat 2: Bilal-Emi ($55.25 in chips) 
+Seat 3: Alameda22 ($39.70 in chips) 
+Seat 4: Balzouman ($51.10 in chips) 
+Seat 5: uctavi ($24.40 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($25 in chips) 
+Seat 8: msna ($21.90 in chips) 
+Seat 9: Klansman8 ($5 in chips) 
+Balzouman: posts small blind $0.10
+uctavi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Qd]
+147Gorilla: folds 
+Murka-nash: folds 
+msna: folds 
+Klansman8: folds 
+SirMolle: raises $0.75 to $1
+Bilal-Emi: folds 
+Alameda22: calls $1
+Balzouman: folds 
+uctavi: folds 
+*** FLOP *** [Qs 4s As]
+SirMolle: bets $1.50
+Alameda22: raises $3 to $4.50
+SirMolle: raises $5 to $9.50
+Alameda22: raises $29.20 to $38.70 and is all-in
+SirMolle: calls $14.40 and is all-in
+Uncalled bet ($14.80) returned to Alameda22
+*** TURN *** [Qs 4s As] [8c]
+*** RIVER *** [Qs 4s As 8c] [4c]
+*** SHOW DOWN ***
+SirMolle: shows [Jh Ks] (a pair of Fours)
+Alameda22: shows [Ah Qd] (two pair, Aces and Queens)
+Alameda22 collected $47.65 from pot
+*** SUMMARY ***
+Total pot $50.15 | Rake $2.50 
+Board [Qs 4s As 8c 4c]
+Seat 1: SirMolle showed [Jh Ks] and lost with a pair of Fours
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) showed [Ah Qd] and won ($47.65) with two pair, Aces and Queens
+Seat 4: Balzouman (small blind) folded before Flop
+Seat 5: uctavi (big blind) folded before Flop
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: msna folded before Flop (didn't bet)
+Seat 9: Klansman8 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899767604:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 20:59:01 (ET)
+Table 'Bok' 9-max Seat #4 is the button
+Seat 1: SirMolle ($25 in chips) 
+Seat 2: Bilal-Emi ($55.25 in chips) 
+Seat 3: Alameda22 ($62.45 in chips) 
+Seat 4: Balzouman ($51 in chips) 
+Seat 5: uctavi ($24.15 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($25 in chips) 
+Seat 8: msna ($21.90 in chips) 
+Seat 9: Klansman8 ($5 in chips) 
+uctavi: posts small blind $0.10
+147Gorilla: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 2h]
+Murka-nash: folds 
+msna: folds 
+Klansman8: folds 
+SirMolle: folds 
+Bilal-Emi: raises $1.75 to $2
+Alameda22: folds 
+Balzouman: folds 
+uctavi: folds 
+147Gorilla: folds 
+Uncalled bet ($1.75) returned to Bilal-Emi
+Bilal-Emi collected $0.60 from pot
+Bilal-Emi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: SirMolle folded before Flop (didn't bet)
+Seat 2: Bilal-Emi collected ($0.60)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman (button) folded before Flop (didn't bet)
+Seat 5: uctavi (small blind) folded before Flop
+Seat 6: 147Gorilla (big blind) folded before Flop
+Seat 7: Murka-nash folded before Flop (didn't bet)
+Seat 8: msna folded before Flop (didn't bet)
+Seat 9: Klansman8 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899790947:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 21:00:01 (ET)
+Table 'Bok' 9-max Seat #5 is the button
+Seat 1: SirMolle ($25 in chips) 
+Seat 2: Bilal-Emi ($55.60 in chips) 
+Seat 3: Alameda22 ($62.45 in chips) 
+Seat 4: Balzouman ($51 in chips) 
+Seat 5: uctavi ($24.05 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($25 in chips) 
+Seat 8: msna ($21.90 in chips) 
+Seat 9: Klansman8 ($5 in chips) 
+147Gorilla: posts small blind $0.10
+Murka-nash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 5h]
+msna: folds 
+Klansman8: folds 
+SirMolle: raises $0.75 to $1
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: folds 
+uctavi: folds 
+147Gorilla: folds 
+msna is sitting out
+Murka-nash: folds 
+Uncalled bet ($0.75) returned to SirMolle
+SirMolle collected $0.60 from pot
+SirMolle is sitting out
+SirMolle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: SirMolle collected ($0.60)
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: uctavi (button) folded before Flop (didn't bet)
+Seat 6: 147Gorilla (small blind) folded before Flop
+Seat 7: Murka-nash (big blind) folded before Flop
+Seat 8: msna folded before Flop (didn't bet)
+Seat 9: Klansman8 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19899805958:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 21:00:41 (ET)
+Table 'Bok' 9-max Seat #6 is the button
+Seat 2: Bilal-Emi ($55.60 in chips) 
+Seat 3: Alameda22 ($62.45 in chips) 
+Seat 4: Balzouman ($51 in chips) 
+Seat 5: uctavi ($24.05 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($24.75 in chips) 
+Seat 9: Klansman8 ($5 in chips) 
+Murka-nash: posts small blind $0.10
+Klansman8: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 9h]
+Bilal-Emi: folds 
+Alameda22: folds 
+Balzouman: raises $0.25 to $0.50
+uctavi: folds 
+147Gorilla: folds 
+Murka-nash: raises $1.50 to $2
+Klansman8: folds 
+Balzouman: folds 
+Uncalled bet ($1.50) returned to Murka-nash
+Murka-nash collected $1.25 from pot
+Murka-nash: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Bilal-Emi folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop
+Seat 5: uctavi folded before Flop (didn't bet)
+Seat 6: 147Gorilla (button) folded before Flop (didn't bet)
+Seat 7: Murka-nash (small blind) collected ($1.25)
+Seat 9: Klansman8 (big blind) folded before Flop
+
+
+
+PokerStars Game #19899819807:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 21:01:17 (ET)
+Table 'Bok' 9-max Seat #7 is the button
+Seat 2: Bilal-Emi ($55.60 in chips) 
+Seat 3: Alameda22 ($62.45 in chips) 
+Seat 4: Balzouman ($50.50 in chips) 
+Seat 5: uctavi ($24.05 in chips) 
+Seat 6: 147Gorilla ($25 in chips) 
+Seat 7: Murka-nash ($25.50 in chips) 
+Seat 9: Klansman8 ($4.75 in chips) 
+Klansman8: posts small blind $0.10
+Bilal-Emi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Tc]
+Alameda22: folds 
+Balzouman: folds 
+uctavi: calls $0.25
+147Gorilla: folds 
+147Gorilla is sitting out
+Murka-nash: calls $0.25
+Klansman8: calls $0.15
+Bilal-Emi: checks 
+*** FLOP *** [Ac 4s As]
+Klansman8: checks 
+Bilal-Emi: checks 
+uctavi: checks 
+Murka-nash: checks 
+*** TURN *** [Ac 4s As] [3h]
+Klansman8: checks 
+Bilal-Emi: checks 
+uctavi: checks 
+Murka-nash: checks 
+*** RIVER *** [Ac 4s As 3h] [Js]
+Klansman8: checks 
+Bilal-Emi: checks 
+uctavi: bets $1
+Murka-nash: folds 
+Murka-nash is sitting out
+Klansman8: folds 
+Murka-nash leaves the table
+Bilal-Emi: calls $1
+*** SHOW DOWN ***
+uctavi: shows [8s 9s] (a flush, Ace high)
+Bilal-Emi: mucks hand 
+uctavi collected $2.90 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.10 
+Board [Ac 4s As 3h Js]
+Seat 2: Bilal-Emi (big blind) mucked [6h 4d]
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Balzouman folded before Flop (didn't bet)
+Seat 5: uctavi showed [8s 9s] and won ($2.90) with a flush, Ace high
+Seat 6: 147Gorilla folded before Flop (didn't bet)
+Seat 7: Murka-nash (button) folded on the River
+Seat 9: Klansman8 (small blind) folded on the River
+
+
+

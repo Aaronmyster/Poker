@@ -1,0 +1,1230 @@
+PokerStars Game #19979383817:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:26:21 (ET)
+Table 'Carlova IV' 9-max Seat #5 is the button
+Seat 1: CMaximus ($28.30 in chips) 
+Seat 2: Messersch ($24.50 in chips) 
+Seat 3: ubnco ($33.65 in chips) 
+Seat 4: Usurpov ($24.15 in chips) 
+Seat 5: RushDave ($15.20 in chips) 
+Seat 6: Kukoc69 ($24 in chips) 
+Seat 7: Alameda22 ($25 in chips) 
+Seat 8: Genis ($35 in chips) 
+Seat 9: bickmat ($14.70 in chips) 
+Kukoc69: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Qc]
+Genis: folds 
+bickmat: folds 
+CMaximus: folds 
+Messersch: raises $0.50 to $0.75
+ubnco: calls $0.75
+Usurpov: calls $0.75
+RushDave: folds 
+Kukoc69: folds 
+Alameda22: folds 
+*** FLOP *** [Qd Ks 5h]
+Messersch: bets $2.25
+ubnco: folds 
+Usurpov: folds 
+Uncalled bet ($2.25) returned to Messersch
+Messersch collected $2.50 from pot
+Messersch: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Qd Ks 5h]
+Seat 1: CMaximus folded before Flop (didn't bet)
+Seat 2: Messersch collected ($2.50)
+Seat 3: ubnco folded on the Flop
+Seat 4: Usurpov folded on the Flop
+Seat 5: RushDave (button) folded before Flop (didn't bet)
+Seat 6: Kukoc69 (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 8: Genis folded before Flop (didn't bet)
+Seat 9: bickmat folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979408801:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:27:41 (ET)
+Table 'Carlova IV' 9-max Seat #6 is the button
+Seat 1: CMaximus ($28.30 in chips) 
+Seat 2: Messersch ($26.25 in chips) 
+Seat 3: ubnco ($32.90 in chips) 
+Seat 4: Usurpov ($23.40 in chips) 
+Seat 5: RushDave ($15.20 in chips) 
+Seat 6: Kukoc69 ($23.90 in chips) 
+Seat 7: Alameda22 ($24.75 in chips) 
+Seat 8: Genis ($35 in chips) 
+Seat 9: bickmat ($14.70 in chips) 
+Alameda22: posts small blind $0.10
+Genis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 7h]
+bickmat: calls $0.25
+CMaximus: folds 
+Messersch: folds 
+ubnco: folds 
+Usurpov: folds 
+RushDave: raises $0.75 to $1
+Kukoc69: folds 
+Alameda22: folds 
+Genis: folds 
+bickmat: calls $0.75
+*** FLOP *** [Kc Td 6c]
+bickmat: checks 
+RushDave: bets $1.25
+bickmat: raises $1.25 to $2.50
+RushDave: calls $1.25
+*** TURN *** [Kc Td 6c] [4d]
+bickmat: checks 
+RushDave: checks 
+*** RIVER *** [Kc Td 6c 4d] [Th]
+bickmat: checks 
+RushDave: checks 
+*** SHOW DOWN ***
+bickmat: shows [Ac 4c] (two pair, Tens and Fours)
+RushDave: mucks hand 
+bickmat collected $7 from pot
+*** SUMMARY ***
+Total pot $7.35 | Rake $0.35 
+Board [Kc Td 6c 4d Th]
+Seat 1: CMaximus folded before Flop (didn't bet)
+Seat 2: Messersch folded before Flop (didn't bet)
+Seat 3: ubnco folded before Flop (didn't bet)
+Seat 4: Usurpov folded before Flop (didn't bet)
+Seat 5: RushDave mucked [Qs As]
+Seat 6: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: Genis (big blind) folded before Flop
+Seat 9: bickmat showed [Ac 4c] and won ($7) with two pair, Tens and Fours
+
+
+
+PokerStars Game #19979433979:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:29:01 (ET)
+Table 'Carlova IV' 9-max Seat #7 is the button
+Seat 1: CMaximus ($28.30 in chips) 
+Seat 2: Messersch ($26.25 in chips) 
+Seat 3: ubnco ($32.90 in chips) 
+Seat 4: Usurpov ($23.40 in chips) 
+Seat 5: RushDave ($11.70 in chips) 
+Seat 6: Kukoc69 ($23.90 in chips) 
+Seat 7: Alameda22 ($24.65 in chips) 
+Seat 8: Genis ($34.75 in chips) 
+Seat 9: bickmat ($18.20 in chips) 
+Genis: posts small blind $0.10
+bickmat: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 6h]
+CMaximus: folds 
+Messersch: folds 
+ubnco: folds 
+Usurpov: folds 
+RushDave: folds 
+Kukoc69: folds 
+Alameda22: folds 
+Genis: folds 
+Uncalled bet ($0.15) returned to bickmat
+bickmat collected $0.20 from pot
+bickmat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: CMaximus folded before Flop (didn't bet)
+Seat 2: Messersch folded before Flop (didn't bet)
+Seat 3: ubnco folded before Flop (didn't bet)
+Seat 4: Usurpov folded before Flop (didn't bet)
+Seat 5: RushDave folded before Flop (didn't bet)
+Seat 6: Kukoc69 folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: Genis (small blind) folded before Flop
+Seat 9: bickmat (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19979446776:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:29:42 (ET)
+Table 'Carlova IV' 9-max Seat #8 is the button
+Seat 1: CMaximus ($28.30 in chips) 
+Seat 2: Messersch ($26.25 in chips) 
+Seat 3: ubnco ($32.90 in chips) 
+Seat 4: Usurpov ($23.40 in chips) 
+Seat 5: RushDave ($11.70 in chips) 
+Seat 6: Kukoc69 ($23.90 in chips) 
+Seat 7: Alameda22 ($24.65 in chips) 
+Seat 8: Genis ($34.65 in chips) 
+Seat 9: bickmat ($18.30 in chips) 
+bickmat: posts small blind $0.10
+CMaximus: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Kd]
+Messersch: folds 
+ubnco: folds 
+Usurpov: folds 
+RushDave: folds 
+Kukoc69: raises $0.75 to $1
+Alameda22: folds 
+Genis: folds 
+bickmat: folds 
+CMaximus: folds 
+Uncalled bet ($0.75) returned to Kukoc69
+Kukoc69 collected $0.60 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CMaximus (big blind) folded before Flop
+Seat 2: Messersch folded before Flop (didn't bet)
+Seat 3: ubnco folded before Flop (didn't bet)
+Seat 4: Usurpov folded before Flop (didn't bet)
+Seat 5: RushDave folded before Flop (didn't bet)
+Seat 6: Kukoc69 collected ($0.60)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Genis (button) folded before Flop (didn't bet)
+Seat 9: bickmat (small blind) folded before Flop
+
+
+
+PokerStars Game #19979466480:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:30:45 (ET)
+Table 'Carlova IV' 9-max Seat #9 is the button
+Seat 1: CMaximus ($28.05 in chips) 
+Seat 2: Messersch ($26.25 in chips) 
+Seat 3: ubnco ($32.90 in chips) 
+Seat 4: Usurpov ($23.40 in chips) 
+Seat 5: RushDave ($11.70 in chips) 
+Seat 6: Kukoc69 ($24.25 in chips) 
+Seat 7: Alameda22 ($24.65 in chips) 
+Seat 8: Genis ($34.65 in chips) 
+Seat 9: bickmat ($18.20 in chips) 
+CMaximus: posts small blind $0.10
+Messersch: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Kh]
+ubnco: folds 
+Usurpov: folds 
+RushDave: folds 
+Kukoc69: folds 
+Alameda22: folds 
+Genis: folds 
+bickmat: raises $0.50 to $0.75
+CMaximus: folds 
+Messersch: folds 
+Uncalled bet ($0.50) returned to bickmat
+bickmat collected $0.60 from pot
+bickmat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CMaximus (small blind) folded before Flop
+Seat 2: Messersch (big blind) folded before Flop
+Seat 3: ubnco folded before Flop (didn't bet)
+Seat 4: Usurpov folded before Flop (didn't bet)
+Seat 5: RushDave folded before Flop (didn't bet)
+Seat 6: Kukoc69 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Genis folded before Flop (didn't bet)
+Seat 9: bickmat (button) collected ($0.60)
+
+
+
+PokerStars Game #19979485787:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:31:44 (ET)
+Table 'Carlova IV' 9-max Seat #1 is the button
+Seat 1: CMaximus ($27.95 in chips) 
+Seat 2: Messersch ($26 in chips) 
+Seat 3: ubnco ($32.90 in chips) 
+Seat 4: Usurpov ($23.40 in chips) 
+Seat 5: RushDave ($11.70 in chips) 
+Seat 6: Kukoc69 ($24.25 in chips) 
+Seat 7: Alameda22 ($24.65 in chips) 
+Seat 8: Genis ($34.65 in chips) 
+Seat 9: bickmat ($18.55 in chips) 
+Messersch: posts small blind $0.10
+ubnco: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Qh]
+Usurpov: folds 
+RushDave: calls $0.25
+Kukoc69: folds 
+Alameda22: raises $0.75 to $1
+Genis: folds 
+bickmat: folds 
+CMaximus: folds 
+Messersch: raises $2.25 to $3.25
+ubnco: folds 
+RushDave: folds 
+Alameda22: calls $2.25
+*** FLOP *** [3d 9s 8h]
+Messersch: bets $3.25
+Alameda22: calls $3.25
+*** TURN *** [3d 9s 8h] [5d]
+Messersch: checks 
+Alameda22: bets $8
+Messersch: folds 
+Uncalled bet ($8) returned to Alameda22
+Alameda22 collected $12.85 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.50 | Rake $0.65 
+Board [3d 9s 8h 5d]
+Seat 1: CMaximus (button) folded before Flop (didn't bet)
+Seat 2: Messersch (small blind) folded on the Turn
+Seat 3: ubnco (big blind) folded before Flop
+Seat 4: Usurpov folded before Flop (didn't bet)
+Seat 5: RushDave folded before Flop
+Seat 6: Kukoc69 folded before Flop (didn't bet)
+Seat 7: Alameda22 collected ($12.85)
+Seat 8: Genis folded before Flop (didn't bet)
+Seat 9: bickmat folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979522292:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:33:38 (ET)
+Table 'Carlova IV' 9-max Seat #2 is the button
+Seat 1: CMaximus ($27.95 in chips) 
+Seat 2: Messersch ($19.50 in chips) 
+Seat 3: ubnco ($32.65 in chips) 
+Seat 4: Usurpov ($23.40 in chips) 
+Seat 5: RushDave ($11.45 in chips) 
+Seat 6: Kukoc69 ($24.25 in chips) 
+Seat 7: Alameda22 ($31 in chips) 
+Seat 8: Genis ($34.65 in chips) 
+Seat 9: bickmat ($18.55 in chips) 
+ubnco: posts small blind $0.10
+Usurpov: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Ac]
+RushDave: calls $0.25
+Kukoc69: folds 
+Alameda22: folds 
+Genis: folds 
+bickmat: folds 
+CMaximus: folds 
+Messersch: folds 
+ubnco: folds 
+Usurpov: checks 
+*** FLOP *** [6c Qd 3h]
+Usurpov: checks 
+RushDave: bets $0.50
+Usurpov: folds 
+Uncalled bet ($0.50) returned to RushDave
+RushDave collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6c Qd 3h]
+Seat 1: CMaximus folded before Flop (didn't bet)
+Seat 2: Messersch (button) folded before Flop (didn't bet)
+Seat 3: ubnco (small blind) folded before Flop
+Seat 4: Usurpov (big blind) folded on the Flop
+Seat 5: RushDave collected ($0.60)
+Seat 6: Kukoc69 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Genis folded before Flop (didn't bet)
+Seat 9: bickmat folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979543580:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:34:45 (ET)
+Table 'Carlova IV' 9-max Seat #3 is the button
+Seat 1: CMaximus ($27.95 in chips) 
+Seat 2: Messersch ($25 in chips) 
+Seat 3: ubnco ($32.55 in chips) 
+Seat 4: Usurpov ($23.15 in chips) 
+Seat 5: RushDave ($11.80 in chips) 
+Seat 6: Kukoc69 ($24.25 in chips) 
+Seat 7: Alameda22 ($31 in chips) 
+Seat 8: Genis ($34.65 in chips) 
+Seat 9: bickmat ($18.55 in chips) 
+Usurpov: posts small blind $0.10
+RushDave: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Jh]
+Kukoc69: folds 
+Alameda22: folds 
+Genis: folds 
+bickmat: folds 
+CMaximus: folds 
+Messersch: folds 
+ubnco: raises $0.75 to $1
+Usurpov: folds 
+RushDave: folds 
+Uncalled bet ($0.75) returned to ubnco
+ubnco collected $0.60 from pot
+ubnco: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CMaximus folded before Flop (didn't bet)
+Seat 2: Messersch folded before Flop (didn't bet)
+Seat 3: ubnco (button) collected ($0.60)
+Seat 4: Usurpov (small blind) folded before Flop
+Seat 5: RushDave (big blind) folded before Flop
+Seat 6: Kukoc69 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Genis folded before Flop (didn't bet)
+Seat 9: bickmat folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979561369:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:35:41 (ET)
+Table 'Carlova IV' 9-max Seat #4 is the button
+Seat 1: CMaximus ($27.95 in chips) 
+Seat 2: Messersch ($25 in chips) 
+Seat 3: ubnco ($32.90 in chips) 
+Seat 4: Usurpov ($23.05 in chips) 
+Seat 5: RushDave ($11.55 in chips) 
+Seat 6: Kukoc69 ($24.25 in chips) 
+Seat 7: Alameda22 ($31 in chips) 
+Seat 8: Genis ($34.65 in chips) 
+Seat 9: bickmat ($18.55 in chips) 
+RushDave: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Ac]
+Alameda22: folds 
+Genis: folds 
+bickmat: calls $0.25
+CMaximus: folds 
+Messersch: folds 
+ubnco: folds 
+Usurpov: folds 
+RushDave: folds 
+Kukoc69: raises $0.75 to $1
+bickmat: calls $0.75
+*** FLOP *** [8h Kc 9d]
+Kukoc69: bets $1.50
+bickmat: raises $1.50 to $3
+Kukoc69: folds 
+Uncalled bet ($1.50) returned to bickmat
+bickmat collected $4.85 from pot
+bickmat: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.25 
+Board [8h Kc 9d]
+Seat 1: CMaximus folded before Flop (didn't bet)
+Seat 2: Messersch folded before Flop (didn't bet)
+Seat 3: ubnco folded before Flop (didn't bet)
+Seat 4: Usurpov (button) folded before Flop (didn't bet)
+Seat 5: RushDave (small blind) folded before Flop
+Seat 6: Kukoc69 (big blind) folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Genis folded before Flop (didn't bet)
+Seat 9: bickmat collected ($4.85)
+
+
+
+PokerStars Game #19979598678:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:37:38 (ET)
+Table 'Carlova IV' 9-max Seat #5 is the button
+Seat 1: CMaximus ($27.95 in chips) 
+Seat 2: Messersch ($25 in chips) 
+Seat 3: ubnco ($32.90 in chips) 
+Seat 4: Usurpov ($23.05 in chips) 
+Seat 5: RushDave ($11.45 in chips) 
+Seat 6: Kukoc69 ($25 in chips) 
+Seat 7: Alameda22 ($31 in chips) 
+Seat 8: Genis ($34.65 in chips) 
+Seat 9: bickmat ($20.90 in chips) 
+Kukoc69: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s As]
+Genis: folds 
+bickmat: folds 
+CMaximus: folds 
+Messersch: folds 
+ubnco: folds 
+Usurpov: folds 
+RushDave: folds 
+Kukoc69: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: CMaximus folded before Flop (didn't bet)
+Seat 2: Messersch folded before Flop (didn't bet)
+Seat 3: ubnco folded before Flop (didn't bet)
+Seat 4: Usurpov folded before Flop (didn't bet)
+Seat 5: RushDave (button) folded before Flop (didn't bet)
+Seat 6: Kukoc69 (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) collected ($0.20)
+Seat 8: Genis folded before Flop (didn't bet)
+Seat 9: bickmat folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979617339:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:38:37 (ET)
+Table 'Carlova IV' 9-max Seat #6 is the button
+Seat 1: CMaximus ($27.95 in chips) 
+Seat 2: Messersch ($25 in chips) 
+Seat 3: ubnco ($32.90 in chips) 
+Seat 4: Usurpov ($23.05 in chips) 
+Seat 5: RushDave ($11.45 in chips) 
+Seat 6: Kukoc69 ($24.90 in chips) 
+Seat 7: Alameda22 ($31.10 in chips) 
+Seat 8: Genis ($34.65 in chips) 
+Seat 9: bickmat ($20.90 in chips) 
+Alameda22: posts small blind $0.10
+Genis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 9h]
+bickmat: folds 
+CMaximus: folds 
+Messersch: folds 
+ubnco: calls $0.25
+Usurpov: calls $0.25
+RushDave: raises $0.75 to $1
+Kukoc69: folds 
+Alameda22: folds 
+Genis has timed out
+Genis: folds 
+Genis is sitting out
+ubnco: folds 
+Usurpov: calls $0.75
+*** FLOP *** [Jh Ad 2h]
+Usurpov: checks 
+RushDave: bets $1.50
+Usurpov: folds 
+Uncalled bet ($1.50) returned to RushDave
+RushDave collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Jh Ad 2h]
+Seat 1: CMaximus folded before Flop (didn't bet)
+Seat 2: Messersch folded before Flop (didn't bet)
+Seat 3: ubnco folded before Flop
+Seat 4: Usurpov folded on the Flop
+Seat 5: RushDave collected ($2.50)
+Seat 6: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: Genis (big blind) folded before Flop
+Seat 9: bickmat folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979660003:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:40:51 (ET)
+Table 'Carlova IV' 9-max Seat #7 is the button
+Seat 1: CMaximus ($27.95 in chips) 
+Seat 2: Messersch ($25 in chips) 
+Seat 3: ubnco ($32.65 in chips) 
+Seat 4: Usurpov ($22.05 in chips) 
+Seat 5: RushDave ($12.95 in chips) 
+Seat 6: Kukoc69 ($24.90 in chips) 
+Seat 7: Alameda22 ($31 in chips) 
+Seat 9: bickmat ($20.90 in chips) 
+bickmat: posts small blind $0.10
+CMaximus: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 6h]
+Messersch: folds 
+ubnco: folds 
+Usurpov: raises $0.75 to $1
+RushDave: folds 
+Kukoc69: folds 
+Alameda22: folds 
+bickmat: folds 
+CMaximus: folds 
+Uncalled bet ($0.75) returned to Usurpov
+bickmat leaves the table
+Usurpov collected $0.60 from pot
+Usurpov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CMaximus (big blind) folded before Flop
+Seat 2: Messersch folded before Flop (didn't bet)
+Seat 3: ubnco folded before Flop (didn't bet)
+Seat 4: Usurpov collected ($0.60)
+Seat 5: RushDave folded before Flop (didn't bet)
+Seat 6: Kukoc69 folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: bickmat (small blind) folded before Flop
+
+
+
+PokerStars Game #19979675439:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:41:40 (ET)
+Table 'Carlova IV' 9-max Seat #1 is the button
+Seat 1: CMaximus ($27.70 in chips) 
+Seat 2: Messersch ($25 in chips) 
+Seat 3: ubnco ($32.65 in chips) 
+Seat 4: Usurpov ($22.40 in chips) 
+Seat 5: RushDave ($12.95 in chips) 
+Seat 6: Kukoc69 ($24.90 in chips) 
+Seat 7: Alameda22 ($31 in chips) 
+Messersch: posts small blind $0.10
+ubnco: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 5s]
+Usurpov: folds 
+RushDave: folds 
+Kukoc69: folds 
+Alameda22: folds 
+CMaximus: raises $0.50 to $0.75
+Messersch: folds 
+ubnco: calls $0.50
+*** FLOP *** [2d Qh 3d]
+ubnco: bets $1
+beck142 joins the table at seat #9 
+CMaximus: folds 
+Uncalled bet ($1) returned to ubnco
+ubnco collected $1.55 from pot
+ubnco: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [2d Qh 3d]
+Seat 1: CMaximus (button) folded on the Flop
+Seat 2: Messersch (small blind) folded before Flop
+Seat 3: ubnco (big blind) collected ($1.55)
+Seat 4: Usurpov folded before Flop (didn't bet)
+Seat 5: RushDave folded before Flop (didn't bet)
+Seat 6: Kukoc69 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979697334:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:42:48 (ET)
+Table 'Carlova IV' 9-max Seat #2 is the button
+Seat 1: CMaximus ($26.95 in chips) 
+Seat 2: Messersch ($24.90 in chips) 
+Seat 3: ubnco ($33.45 in chips) 
+Seat 4: Usurpov ($25 in chips) 
+Seat 5: RushDave ($12.95 in chips) 
+Seat 6: Kukoc69 ($24.90 in chips) 
+Seat 7: Alameda22 ($31 in chips) 
+Seat 9: beck142 ($5.55 in chips) 
+ubnco: posts small blind $0.10
+Usurpov: posts big blind $0.25
+beck142: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Ts]
+RushDave: calls $0.25
+Kukoc69: folds 
+Alameda22: folds 
+beck142: checks 
+CMaximus: folds 
+Messersch: folds 
+ubnco: folds 
+Usurpov: checks 
+*** FLOP *** [Jh 4s 9d]
+Usurpov: bets $0.75
+RushDave: folds 
+beck142: folds 
+Uncalled bet ($0.75) returned to Usurpov
+Usurpov collected $0.85 from pot
+Usurpov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Jh 4s 9d]
+Seat 1: CMaximus folded before Flop (didn't bet)
+Seat 2: Messersch (button) folded before Flop (didn't bet)
+Seat 3: ubnco (small blind) folded before Flop
+Seat 4: Usurpov (big blind) collected ($0.85)
+Seat 5: RushDave folded on the Flop
+Seat 6: Kukoc69 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: beck142 folded on the Flop
+
+
+
+PokerStars Game #19979719175:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:43:58 (ET)
+Table 'Carlova IV' 9-max Seat #3 is the button
+Seat 1: CMaximus ($26.95 in chips) 
+Seat 2: Messersch ($24.90 in chips) 
+Seat 3: ubnco ($33.35 in chips) 
+Seat 4: Usurpov ($25.60 in chips) 
+Seat 5: RushDave ($12.70 in chips) 
+Seat 6: Kukoc69 ($24.90 in chips) 
+Seat 7: Alameda22 ($31 in chips) 
+Seat 9: beck142 ($5.30 in chips) 
+Usurpov: posts small blind $0.10
+RushDave: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Qs]
+Kukoc69: folds 
+Alameda22: raises $0.50 to $0.75
+Genis has returned
+beck142: folds 
+CMaximus: folds 
+Messersch: folds 
+ubnco: folds 
+Usurpov: folds 
+RushDave: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CMaximus folded before Flop (didn't bet)
+Seat 2: Messersch folded before Flop (didn't bet)
+Seat 3: ubnco (button) folded before Flop (didn't bet)
+Seat 4: Usurpov (small blind) folded before Flop
+Seat 5: RushDave (big blind) folded before Flop
+Seat 6: Kukoc69 folded before Flop (didn't bet)
+Seat 7: Alameda22 collected ($0.60)
+Seat 9: beck142 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979732970:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:44:42 (ET)
+Table 'Carlova IV' 9-max Seat #4 is the button
+Seat 1: CMaximus ($26.95 in chips) 
+Seat 2: Messersch ($24.90 in chips) 
+Seat 3: ubnco ($33.35 in chips) 
+Seat 4: Usurpov ($25.50 in chips) 
+Seat 5: RushDave ($12.45 in chips) 
+Seat 6: Kukoc69 ($24.90 in chips) 
+Seat 7: Alameda22 ($31.35 in chips) 
+Seat 8: Genis ($34.40 in chips) 
+Seat 9: beck142 ($5.30 in chips) 
+RushDave: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+Genis: posts small blind $0.10
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Jc]
+Alameda22: folds 
+Genis: folds 
+beck142: calls $0.25
+CMaximus: folds 
+Messersch: calls $0.25
+ubnco: calls $0.25
+Usurpov: folds 
+RushDave: calls $0.15
+Kukoc69: checks 
+*** FLOP *** [6d 2d 3d]
+RushDave: checks 
+Kukoc69: checks 
+beck142: checks 
+Messersch: bets $1
+ubnco: folds 
+RushDave: folds 
+Kukoc69: folds 
+beck142: folds 
+Uncalled bet ($1) returned to Messersch
+Messersch collected $1.30 from pot
+Messersch: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [6d 2d 3d]
+Seat 1: CMaximus folded before Flop (didn't bet)
+Seat 2: Messersch collected ($1.30)
+Seat 3: ubnco folded on the Flop
+Seat 4: Usurpov (button) folded before Flop (didn't bet)
+Seat 5: RushDave (small blind) folded on the Flop
+Seat 6: Kukoc69 (big blind) folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Genis folded before Flop
+Seat 9: beck142 folded on the Flop
+
+
+
+PokerStars Game #19979756654:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:45:57 (ET)
+Table 'Carlova IV' 9-max Seat #5 is the button
+Seat 1: CMaximus ($26.95 in chips) 
+Seat 2: Messersch ($25.95 in chips) 
+Seat 3: ubnco ($33.10 in chips) 
+Seat 4: Usurpov ($25.50 in chips) 
+Seat 5: RushDave ($12.20 in chips) 
+Seat 6: Kukoc69 ($24.65 in chips) 
+Seat 7: Alameda22 ($31.35 in chips) 
+Seat 8: Genis ($34.30 in chips) 
+Seat 9: beck142 ($5.05 in chips) 
+Kukoc69: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 6c]
+Genis: calls $0.25
+beck142: folds 
+CMaximus: raises $1 to $1.25
+Messersch: folds 
+ubnco: folds 
+Usurpov: folds 
+RushDave: folds 
+Kukoc69: folds 
+Alameda22: folds 
+Genis: calls $1
+*** FLOP *** [8d Ts As]
+Genis: checks 
+CMaximus: bets $2.25
+Genis: folds 
+Uncalled bet ($2.25) returned to CMaximus
+CMaximus collected $2.75 from pot
+CMaximus: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [8d Ts As]
+Seat 1: CMaximus collected ($2.75)
+Seat 2: Messersch folded before Flop (didn't bet)
+Seat 3: ubnco folded before Flop (didn't bet)
+Seat 4: Usurpov folded before Flop (didn't bet)
+Seat 5: RushDave (button) folded before Flop (didn't bet)
+Seat 6: Kukoc69 (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 8: Genis folded on the Flop
+Seat 9: beck142 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979786618:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:47:32 (ET)
+Table 'Carlova IV' 9-max Seat #6 is the button
+Seat 1: CMaximus ($28.45 in chips) 
+Seat 2: Messersch ($25.95 in chips) 
+Seat 3: ubnco ($33.10 in chips) 
+Seat 4: Usurpov ($25.50 in chips) 
+Seat 5: RushDave ($12.20 in chips) 
+Seat 6: Kukoc69 ($24.55 in chips) 
+Seat 7: Alameda22 ($31.10 in chips) 
+Seat 8: Genis ($33.05 in chips) 
+Seat 9: beck142 ($5.05 in chips) 
+Alameda22: posts small blind $0.10
+Genis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 8d]
+beck142: calls $0.25
+CMaximus: folds 
+Messersch: folds 
+ubnco: raises $1 to $1.25
+Usurpov: folds 
+RushDave: folds 
+Kukoc69: folds 
+Alameda22: folds 
+Genis: folds 
+beck142: calls $1
+*** FLOP *** [4h Th 9c]
+beck142: bets $3.80 and is all-in
+ubnco: calls $3.80
+*** TURN *** [4h Th 9c] [7h]
+*** RIVER *** [4h Th 9c 7h] [8c]
+*** SHOW DOWN ***
+beck142: shows [5c 4c] (a pair of Fours)
+ubnco: shows [Ac Ts] (a pair of Tens)
+ubnco collected $9.95 from pot
+*** SUMMARY ***
+Total pot $10.45 | Rake $0.50 
+Board [4h Th 9c 7h 8c]
+Seat 1: CMaximus folded before Flop (didn't bet)
+Seat 2: Messersch folded before Flop (didn't bet)
+Seat 3: ubnco showed [Ac Ts] and won ($9.95) with a pair of Tens
+Seat 4: Usurpov folded before Flop (didn't bet)
+Seat 5: RushDave folded before Flop (didn't bet)
+Seat 6: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: Genis (big blind) folded before Flop
+Seat 9: beck142 showed [5c 4c] and lost with a pair of Fours
+
+
+
+PokerStars Game #19979804753:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:48:31 (ET)
+Table 'Carlova IV' 9-max Seat #7 is the button
+Seat 1: CMaximus ($28.45 in chips) 
+Seat 2: Messersch ($25.95 in chips) 
+Seat 3: ubnco ($38 in chips) 
+Seat 4: Usurpov ($25.50 in chips) 
+Seat 5: RushDave ($12.20 in chips) 
+Seat 6: Kukoc69 ($24.55 in chips) 
+Seat 7: Alameda22 ($31 in chips) 
+Seat 8: Genis ($32.80 in chips) 
+Genis: posts small blind $0.10
+CMaximus: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h As]
+Messersch: folds 
+beck142 leaves the table
+ubnco: folds 
+Usurpov: folds 
+RushDave: folds 
+Kukoc69: folds 
+KnightThyme joins the table at seat #9 
+Alameda22: folds 
+Genis: folds 
+Uncalled bet ($0.15) returned to CMaximus
+CMaximus collected $0.20 from pot
+CMaximus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: CMaximus (big blind) collected ($0.20)
+Seat 2: Messersch folded before Flop (didn't bet)
+Seat 3: ubnco folded before Flop (didn't bet)
+Seat 4: Usurpov folded before Flop (didn't bet)
+Seat 5: RushDave folded before Flop (didn't bet)
+Seat 6: Kukoc69 folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: Genis (small blind) folded before Flop
+
+
+
+PokerStars Game #19979818875:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:49:18 (ET)
+Table 'Carlova IV' 9-max Seat #8 is the button
+Seat 1: CMaximus ($28.55 in chips) 
+Seat 2: Messersch ($25.95 in chips) 
+Seat 3: ubnco ($38 in chips) 
+Seat 4: Usurpov ($25.50 in chips) 
+Seat 5: RushDave ($12.20 in chips) 
+Seat 6: Kukoc69 ($24.55 in chips) 
+Seat 7: Alameda22 ($31 in chips) 
+Seat 8: Genis ($32.70 in chips) 
+KnightThyme will be allowed to play after the button
+CMaximus: posts small blind $0.10
+Messersch: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Kd]
+ubnco: folds 
+Usurpov: folds 
+RushDave: calls $0.25
+Kukoc69: folds 
+ubnco leaves the table
+Alameda22: folds 
+Genis: calls $0.25
+CMaximus: folds 
+Messersch: checks 
+*** FLOP *** [5h 4s 9h]
+Messersch: checks 
+RushDave: bets $0.75
+Genis: raises $0.75 to $1.50
+Messersch: folds 
+RushDave: calls $0.75
+*** TURN *** [5h 4s 9h] [Th]
+RushDave: checks 
+Genis: bets $3
+RushDave: calls $3
+*** RIVER *** [5h 4s 9h Th] [7s]
+RushDave: bets $7.45 and is all-in
+Genis: calls $7.45
+*** SHOW DOWN ***
+RushDave: shows [2h Ah] (a flush, Ace high)
+Genis: mucks hand 
+RushDave collected $23.55 from pot
+*** SUMMARY ***
+Total pot $24.75 | Rake $1.20 
+Board [5h 4s 9h Th 7s]
+Seat 1: CMaximus (small blind) folded before Flop
+Seat 2: Messersch (big blind) folded on the Flop
+Seat 3: ubnco folded before Flop (didn't bet)
+Seat 4: Usurpov folded before Flop (didn't bet)
+Seat 5: RushDave showed [2h Ah] and won ($23.55) with a flush, Ace high
+Seat 6: Kukoc69 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Genis (button) mucked [5d 5c]
+
+
+
+PokerStars Game #19979845926:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:50:46 (ET)
+Table 'Carlova IV' 9-max Seat #1 is the button
+Seat 1: CMaximus ($28.45 in chips) 
+Seat 2: Messersch ($25.70 in chips) 
+Seat 4: Usurpov ($25.50 in chips) 
+Seat 5: RushDave ($23.55 in chips) 
+Seat 6: Kukoc69 ($24.55 in chips) 
+Seat 7: Alameda22 ($31 in chips) 
+Seat 8: Genis ($25 in chips) 
+Seat 9: KnightThyme ($5 in chips) 
+Messersch: posts small blind $0.10
+Usurpov: posts big blind $0.25
+KnightThyme: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 2s]
+RushDave: folds 
+RushDave leaves the table
+Kukoc69: calls $0.25
+Alameda22: folds 
+Genis: folds 
+KnightThyme: checks 
+CMaximus: calls $0.25
+Messersch: folds 
+Usurpov: checks 
+*** FLOP *** [5s Tc Jd]
+Usurpov: checks 
+Kukoc69: checks 
+KnightThyme: checks 
+CMaximus: bets $0.75
+Usurpov: folds 
+Kukoc69: folds 
+KnightThyme: folds 
+Uncalled bet ($0.75) returned to CMaximus
+CMaximus collected $1.05 from pot
+CMaximus: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [5s Tc Jd]
+Seat 1: CMaximus (button) collected ($1.05)
+Seat 2: Messersch (small blind) folded before Flop
+Seat 4: Usurpov (big blind) folded on the Flop
+Seat 5: RushDave folded before Flop (didn't bet)
+Seat 6: Kukoc69 folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Genis folded before Flop (didn't bet)
+Seat 9: KnightThyme folded on the Flop
+
+
+
+PokerStars Game #19979870052:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:52:04 (ET)
+Table 'Carlova IV' 9-max Seat #2 is the button
+Seat 1: CMaximus ($29.25 in chips) 
+Seat 2: Messersch ($25.60 in chips) 
+Seat 4: Usurpov ($25.25 in chips) 
+Seat 6: Kukoc69 ($24.30 in chips) 
+Seat 7: Alameda22 ($31 in chips) 
+Seat 8: Genis ($25 in chips) 
+Seat 9: KnightThyme ($4.75 in chips) 
+Usurpov: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Ah]
+Alameda22: folds 
+Genis: calls $0.25
+KnightThyme: calls $0.25
+CMaximus: folds 
+Messersch: calls $0.25
+Usurpov: calls $0.15
+Kukoc69: checks 
+*** FLOP *** [2h 4c Js]
+Usurpov: checks 
+Kukoc69: checks 
+Genis: bets $1
+KnightThyme: folds 
+Messersch: folds 
+Usurpov: folds 
+Kukoc69: folds 
+Uncalled bet ($1) returned to Genis
+Genis collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [2h 4c Js]
+Seat 1: CMaximus folded before Flop (didn't bet)
+Seat 2: Messersch (button) folded on the Flop
+Seat 4: Usurpov (small blind) folded on the Flop
+Seat 6: Kukoc69 (big blind) folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Genis collected ($1.20)
+Seat 9: KnightThyme folded on the Flop
+
+
+
+PokerStars Game #19979901993:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:53:48 (ET)
+Table 'Carlova IV' 9-max Seat #4 is the button
+Seat 1: CMaximus ($29.25 in chips) 
+Seat 2: Messersch ($25.35 in chips) 
+Seat 4: Usurpov ($25 in chips) 
+Seat 6: Kukoc69 ($24.05 in chips) 
+Seat 7: Alameda22 ($31 in chips) 
+Seat 8: Genis ($25.95 in chips) 
+Seat 9: KnightThyme ($4.50 in chips) 
+Kukoc69: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 9c]
+Genis: folds 
+KnightThyme: calls $0.25
+CMaximus: folds 
+Messersch: folds 
+Usurpov: folds 
+Kukoc69: calls $0.15
+Alameda22: checks 
+*** FLOP *** [5h 8s 2h]
+Kukoc69: checks 
+Alameda22: checks 
+KnightThyme: checks 
+*** TURN *** [5h 8s 2h] [Kh]
+Kukoc69: checks 
+Alameda22: checks 
+KnightThyme: checks 
+*** RIVER *** [5h 8s 2h Kh] [5s]
+Kukoc69: checks 
+Alameda22: checks 
+KnightThyme: bets $0.50
+Kukoc69: folds 
+Alameda22: calls $0.50
+*** SHOW DOWN ***
+KnightThyme: shows [Ts 7h] (a pair of Fives)
+Alameda22: shows [Ks 9c] (two pair, Kings and Fives)
+Alameda22 collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [5h 8s 2h Kh 5s]
+Seat 1: CMaximus folded before Flop (didn't bet)
+Seat 2: Messersch folded before Flop (didn't bet)
+Seat 4: Usurpov (button) folded before Flop (didn't bet)
+Seat 6: Kukoc69 (small blind) folded on the River
+Seat 7: Alameda22 (big blind) showed [Ks 9c] and won ($1.70) with two pair, Kings and Fives
+Seat 8: Genis folded before Flop (didn't bet)
+Seat 9: KnightThyme showed [Ts 7h] and lost with a pair of Fives
+
+
+
+PokerStars Game #19979936242:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:55:41 (ET)
+Table 'Carlova IV' 9-max Seat #6 is the button
+Seat 1: CMaximus ($29.25 in chips) 
+Seat 2: Messersch ($25.35 in chips) 
+Seat 4: Usurpov ($25 in chips) 
+Seat 6: Kukoc69 ($23.80 in chips) 
+Seat 7: Alameda22 ($31.95 in chips) 
+Seat 9: KnightThyme ($3.75 in chips) 
+Alameda22: posts small blind $0.10
+Genis: is sitting out 
+KnightThyme: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Qc]
+Genis leaves the table
+CMaximus: folds 
+Messersch: folds 
+Usurpov: folds 
+Kukoc69: folds 
+Alameda22: raises $5 to $5.25
+KnightThyme: calls $3.50 and is all-in
+Uncalled bet ($1.50) returned to Alameda22
+*** FLOP *** [8s 6s 9d]
+*** TURN *** [8s 6s 9d] [Tc]
+*** RIVER *** [8s 6s 9d Tc] [4d]
+*** SHOW DOWN ***
+Alameda22: shows [Kd Qc] (high card King)
+KnightThyme: shows [Ad 2h] (high card Ace)
+KnightThyme collected $7.15 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.35 
+Board [8s 6s 9d Tc 4d]
+Seat 1: CMaximus folded before Flop (didn't bet)
+Seat 2: Messersch folded before Flop (didn't bet)
+Seat 4: Usurpov folded before Flop (didn't bet)
+Seat 6: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) showed [Kd Qc] and lost with high card King
+Seat 9: KnightThyme (big blind) showed [Ad 2h] and won ($7.15) with high card Ace
+
+
+
+PokerStars Game #19979956613:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:56:48 (ET)
+Table 'Carlova IV' 9-max Seat #7 is the button
+Seat 1: CMaximus ($29.25 in chips) 
+Seat 2: Messersch ($25.35 in chips) 
+Seat 4: Usurpov ($25 in chips) 
+Seat 6: Kukoc69 ($23.80 in chips) 
+Seat 7: Alameda22 ($28.20 in chips) 
+Seat 9: KnightThyme ($7.15 in chips) 
+KnightThyme: posts small blind $0.10
+CMaximus: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 8h]
+KnightThyme said, "lol"
+Messersch: folds 
+Usurpov: folds 
+Kukoc69: folds 
+Alameda22: folds 
+KnightThyme: calls $0.15
+CMaximus: checks 
+*** FLOP *** [Tc 3h 3c]
+KnightThyme: checks 
+CMaximus: checks 
+*** TURN *** [Tc 3h 3c] [2d]
+KnightThyme: checks 
+CMaximus: checks 
+*** RIVER *** [Tc 3h 3c 2d] [Qs]
+KnightThyme: bets $0.50
+CMaximus: folds 
+Uncalled bet ($0.50) returned to KnightThyme
+KnightThyme collected $0.50 from pot
+KnightThyme: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Tc 3h 3c 2d Qs]
+Seat 1: CMaximus (big blind) folded on the River
+Seat 2: Messersch folded before Flop (didn't bet)
+Seat 4: Usurpov folded before Flop (didn't bet)
+Seat 6: Kukoc69 folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: KnightThyme (small blind) collected ($0.50)
+
+
+
+PokerStars Game #19979971380:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:57:37 (ET)
+Table 'Carlova IV' 9-max Seat #9 is the button
+Seat 1: CMaximus ($29 in chips) 
+Seat 2: Messersch ($25.35 in chips) 
+Seat 4: Usurpov ($25 in chips) 
+Seat 6: Kukoc69 ($23.80 in chips) 
+Seat 7: Alameda22 ($28.20 in chips) 
+Seat 9: KnightThyme ($7.40 in chips) 
+CMaximus: posts small blind $0.10
+Messersch: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Td]
+Usurpov: folds 
+Kukoc69: folds 
+Alameda22: folds 
+KnightThyme: calls $0.25
+CMaximus: folds 
+Messersch: checks 
+*** FLOP *** [Qs 6d 9c]
+Messersch: checks 
+KnightThyme: checks 
+*** TURN *** [Qs 6d 9c] [Ts]
+Messersch: bets $0.50
+KnightThyme: raises $0.50 to $1
+Messersch: calls $0.50
+*** RIVER *** [Qs 6d 9c Ts] [Ad]
+Messersch: checks 
+KnightThyme: bets $2
+Messersch: folds 
+Uncalled bet ($2) returned to KnightThyme
+KnightThyme collected $2.50 from pot
+KnightThyme: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Qs 6d 9c Ts Ad]
+Seat 1: CMaximus (small blind) folded before Flop
+Seat 2: Messersch (big blind) folded on the River
+Seat 4: Usurpov folded before Flop (didn't bet)
+Seat 6: Kukoc69 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: KnightThyme (button) collected ($2.50)
+
+
+
+PokerStars Game #19979987627:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:58:30 (ET)
+Table 'Carlova IV' 9-max Seat #1 is the button
+Seat 1: CMaximus ($28.90 in chips) 
+Seat 2: Messersch ($24.10 in chips) 
+Seat 4: Usurpov ($25 in chips) 
+Seat 6: Kukoc69 ($23.80 in chips) 
+Seat 7: Alameda22 ($28.20 in chips) 
+Seat 9: KnightThyme ($8.65 in chips) 
+Messersch: posts small blind $0.10
+Usurpov: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 4s]
+Kukoc69: folds 
+Alameda22: folds 
+KnightThyme: folds 
+KnightThyme leaves the table
+CMaximus: folds 
+Messersch: raises $0.50 to $0.75
+Usurpov: folds 
+Uncalled bet ($0.50) returned to Messersch
+Usurpov leaves the table
+Messersch collected $0.50 from pot
+Messersch: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: CMaximus (button) folded before Flop (didn't bet)
+Seat 2: Messersch (small blind) collected ($0.50)
+Seat 4: Usurpov (big blind) folded before Flop
+Seat 6: Kukoc69 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: KnightThyme folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980005812:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:59:30 (ET)
+Table 'Carlova IV' 9-max Seat #2 is the button
+Seat 1: CMaximus ($28.90 in chips) 
+Seat 2: Messersch ($24.35 in chips) 
+Seat 6: Kukoc69 ($23.80 in chips) 
+Seat 7: Alameda22 ($28.20 in chips) 
+Kukoc69: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 8d]
+CMaximus: folds 
+Messersch: folds 
+Kukoc69: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Kukoc69 leaves the table
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: CMaximus folded before Flop (didn't bet)
+Seat 2: Messersch (button) folded before Flop (didn't bet)
+Seat 6: Kukoc69 (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) collected ($0.20)
+
+
+

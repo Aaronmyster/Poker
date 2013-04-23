@@ -1,0 +1,2458 @@
+PokerStars Game #20154751074:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:42:12 ET
+Table 'Rhodia' 9-max Seat #1 is the button
+Seat 1: helios25 ($102.35 in chips) 
+Seat 2: cardcooker66 ($61.65 in chips) 
+Seat 3: psj007 ($10.10 in chips) 
+Seat 4: comein888 ($44.50 in chips) 
+Seat 5: NY Spike NY ($49.70 in chips) 
+Seat 7: gabesaid ($48.65 in chips) 
+Seat 8: drewbabez ($78.25 in chips) 
+Seat 9: Alameda22 ($50 in chips) 
+cardcooker66: posts small blind $0.25
+psj007: posts big blind $0.50
+TomatoQQ: sits out 
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 3d]
+comein888: folds 
+NY Spike NY: calls $0.50
+gabesaid: folds 
+drewbabez: folds 
+Alameda22: checks 
+helios25: raises $2.50 to $3
+cardcooker66: folds 
+psj007: folds 
+NY Spike NY: calls $2.50
+Alameda22: folds 
+*** FLOP *** [Ts Kh Kc]
+NY Spike NY: checks 
+helios25: checks 
+*** TURN *** [Ts Kh Kc] [8h]
+NY Spike NY: bets $2
+helios25: calls $2
+*** RIVER *** [Ts Kh Kc 8h] [Ac]
+NY Spike NY: checks 
+helios25: checks 
+*** SHOW DOWN ***
+NY Spike NY: shows [4h 2h] (a pair of Kings)
+helios25: shows [Qs Qd] (two pair, Kings and Queens)
+helios25 collected $10.75 from pot
+*** SUMMARY ***
+Total pot $11.25 | Rake $0.50 
+Board [Ts Kh Kc 8h Ac]
+Seat 1: helios25 (button) showed [Qs Qd] and won ($10.75) with two pair, Kings and Queens
+Seat 2: cardcooker66 (small blind) folded before Flop
+Seat 3: psj007 (big blind) folded before Flop
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 5: NY Spike NY showed [4h 2h] and lost with a pair of Kings
+Seat 7: gabesaid folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop
+
+
+
+PokerStars Game #20154780057:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:43:31 ET
+Table 'Rhodia' 9-max Seat #2 is the button
+Seat 1: helios25 ($108.10 in chips) 
+Seat 2: cardcooker66 ($61.40 in chips) 
+Seat 3: psj007 ($9.60 in chips) 
+Seat 4: comein888 ($50 in chips) 
+Seat 5: NY Spike NY ($44.70 in chips) 
+Seat 7: gabesaid ($48.65 in chips) 
+Seat 8: drewbabez ($78.25 in chips) 
+Seat 9: Alameda22 ($49.50 in chips) 
+psj007: posts small blind $0.25
+comein888: posts big blind $0.50
+TomatoQQ: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 8s]
+NY Spike NY: folds 
+gabesaid: calls $0.50
+drewbabez: folds 
+Alameda22: folds 
+helios25: folds 
+cardcooker66: calls $0.50
+psj007: calls $0.25
+comein888: checks 
+*** FLOP *** [5c 2h Jc]
+psj007: checks 
+comein888: checks 
+gabesaid: checks 
+cardcooker66: checks 
+*** TURN *** [5c 2h Jc] [Kd]
+psj007: checks 
+comein888: checks 
+gabesaid: checks 
+cardcooker66: checks 
+*** RIVER *** [5c 2h Jc Kd] [Ad]
+psj007: checks 
+comein888: checks 
+gabesaid: bets $1
+cardcooker66: calls $1
+psj007: folds 
+comein888: folds 
+*** SHOW DOWN ***
+gabesaid: shows [Qs As] (a pair of Aces)
+cardcooker66: mucks hand 
+gabesaid collected $3.85 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.15 
+Board [5c 2h Jc Kd Ad]
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 (button) mucked [8d Ac]
+Seat 3: psj007 (small blind) folded on the River
+Seat 4: comein888 (big blind) folded on the River
+Seat 5: NY Spike NY folded before Flop (didn't bet)
+Seat 7: gabesaid showed [Qs As] and won ($3.85) with a pair of Aces
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154815020:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:45:07 ET
+Table 'Rhodia' 9-max Seat #3 is the button
+Seat 1: helios25 ($108.10 in chips) 
+Seat 2: cardcooker66 ($59.90 in chips) 
+Seat 3: psj007 ($9.10 in chips) 
+Seat 4: comein888 ($49.50 in chips) 
+Seat 5: NY Spike NY ($44.70 in chips) 
+Seat 7: gabesaid ($51 in chips) 
+Seat 8: drewbabez ($78.25 in chips) 
+Seat 9: Alameda22 ($49.50 in chips) 
+comein888: posts small blind $0.25
+NY Spike NY: posts big blind $0.50
+TomatoQQ: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 7h]
+gabesaid: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: folds 
+cardcooker66: folds 
+psj007: raises $0.50 to $1
+comein888: folds 
+NY Spike NY: raises $1.50 to $2.50
+psj007: folds 
+Uncalled bet ($1.50) returned to NY Spike NY
+NY Spike NY collected $2.25 from pot
+NY Spike NY: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0 
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 3: psj007 (button) folded before Flop
+Seat 4: comein888 (small blind) folded before Flop
+Seat 5: NY Spike NY (big blind) collected ($2.25)
+Seat 7: gabesaid folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154841393:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:46:20 ET
+Table 'Rhodia' 9-max Seat #4 is the button
+Seat 1: helios25 ($108.10 in chips) 
+Seat 2: cardcooker66 ($59.90 in chips) 
+Seat 3: psj007 ($8.10 in chips) 
+Seat 4: comein888 ($49.25 in chips) 
+Seat 5: NY Spike NY ($45.95 in chips) 
+Seat 6: TomatoQQ ($50 in chips) 
+Seat 7: gabesaid ($51 in chips) 
+Seat 8: drewbabez ($78.25 in chips) 
+Seat 9: Alameda22 ($49.50 in chips) 
+NY Spike NY: posts small blind $0.25
+TomatoQQ: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Td]
+gabesaid: folds 
+drewbabez: folds 
+gabesaid leaves the table
+Alameda22: folds 
+helios25: folds 
+cardcooker66: folds 
+psj007: folds 
+comein888: calls $0.50
+NY Spike NY: calls $0.25
+TomatoQQ: checks 
+*** FLOP *** [9s Qc 5d]
+NY Spike NY: bets $1.50
+TomatoQQ: folds 
+comein888: folds 
+Uncalled bet ($1.50) returned to NY Spike NY
+NY Spike NY collected $1.45 from pot
+NY Spike NY: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [9s Qc 5d]
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 3: psj007 folded before Flop (didn't bet)
+Seat 4: comein888 (button) folded on the Flop
+Seat 5: NY Spike NY (small blind) collected ($1.45)
+Seat 6: TomatoQQ (big blind) folded on the Flop
+Seat 7: gabesaid folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154863394:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:47:21 ET
+Table 'Rhodia' 9-max Seat #5 is the button
+Seat 1: helios25 ($108.10 in chips) 
+Seat 2: cardcooker66 ($59.90 in chips) 
+Seat 3: psj007 ($8.10 in chips) 
+Seat 4: comein888 ($48.75 in chips) 
+Seat 5: NY Spike NY ($46.90 in chips) 
+Seat 6: TomatoQQ ($50 in chips) 
+Seat 8: drewbabez ($78.25 in chips) 
+Seat 9: Alameda22 ($49.50 in chips) 
+TomatoQQ: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Qs]
+Alameda22: folds 
+helios25: folds 
+cardcooker66: raises $1.50 to $2
+psj007: folds 
+comein888: folds 
+NY Spike NY: calls $2
+TomatoQQ: folds 
+drewbabez: folds 
+*** FLOP *** [5d 8c Jd]
+cardcooker66: checks 
+NY Spike NY: checks 
+*** TURN *** [5d 8c Jd] [9d]
+agoldman joins the table at seat #7 
+cardcooker66: checks 
+NY Spike NY: checks 
+*** RIVER *** [5d 8c Jd 9d] [Qc]
+cardcooker66: checks 
+NY Spike NY: checks 
+*** SHOW DOWN ***
+cardcooker66: shows [Ah Kc] (high card Ace)
+NY Spike NY: mucks hand 
+cardcooker66 collected $4.55 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [5d 8c Jd 9d Qc]
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 showed [Ah Kc] and won ($4.55) with high card Ace
+Seat 3: psj007 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 5: NY Spike NY (button) mucked [6s 2c]
+Seat 6: TomatoQQ (small blind) folded before Flop
+Seat 8: drewbabez (big blind) folded before Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154907344:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:49:23 ET
+Table 'Rhodia' 9-max Seat #6 is the button
+Seat 1: helios25 ($108.10 in chips) 
+Seat 2: cardcooker66 ($62.45 in chips) 
+Seat 3: psj007 ($8.10 in chips) 
+Seat 4: comein888 ($48.75 in chips) 
+Seat 5: NY Spike NY ($44.90 in chips) 
+Seat 6: TomatoQQ ($50 in chips) 
+Seat 8: drewbabez ($77.75 in chips) 
+Seat 9: Alameda22 ($49.50 in chips) 
+agoldman will be allowed to play after the button
+drewbabez: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Qc]
+helios25: folds 
+cardcooker66: calls $0.50
+psj007: calls $0.50
+comein888: folds 
+NY Spike NY: raises $2.50 to $3
+TomatoQQ: folds 
+drewbabez: folds 
+Alameda22: folds 
+cardcooker66: folds 
+psj007: folds 
+Uncalled bet ($2.50) returned to NY Spike NY
+NY Spike NY collected $2.25 from pot
+NY Spike NY: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0 
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 folded before Flop
+Seat 3: psj007 folded before Flop
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 5: NY Spike NY collected ($2.25)
+Seat 6: TomatoQQ (button) folded before Flop (didn't bet)
+Seat 8: drewbabez (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #20154918543:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:49:54 ET
+Table 'Rhodia' 9-max Seat #8 is the button
+Seat 1: helios25 ($108.10 in chips) 
+Seat 2: cardcooker66 ($61.95 in chips) 
+Seat 3: psj007 ($7.60 in chips) 
+Seat 4: comein888 ($48.75 in chips) 
+Seat 5: NY Spike NY ($46.65 in chips) 
+Seat 6: TomatoQQ ($50 in chips) 
+Seat 7: agoldman ($30 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($49 in chips) 
+Alameda22: posts small blind $0.25
+helios25: posts big blind $0.50
+agoldman: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 5d]
+cardcooker66: folds 
+psj007: folds 
+comein888: folds 
+NY Spike NY: calls $0.50
+TomatoQQ: raises $2.50 to $3
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: folds 
+NY Spike NY: raises $43.65 to $46.65 and is all-in
+TomatoQQ: folds 
+Uncalled bet ($43.65) returned to NY Spike NY
+NY Spike NY collected $7.25 from pot
+NY Spike NY: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.25 | Rake $0 
+Seat 1: helios25 (big blind) folded before Flop
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 3: psj007 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 5: NY Spike NY collected ($7.25)
+Seat 6: TomatoQQ folded before Flop
+Seat 7: agoldman folded before Flop
+Seat 8: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #20154941751:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:50:58 ET
+Table 'Rhodia' 9-max Seat #9 is the button
+Seat 1: helios25 ($107.60 in chips) 
+Seat 2: cardcooker66 ($61.95 in chips) 
+Seat 3: psj007 ($7.60 in chips) 
+Seat 4: comein888 ($48.75 in chips) 
+Seat 5: NY Spike NY ($50.90 in chips) 
+Seat 6: TomatoQQ ($50 in chips) 
+Seat 7: agoldman ($29.50 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($48.75 in chips) 
+helios25: posts small blind $0.25
+cardcooker66: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Qd]
+psj007: folds 
+comein888: folds 
+NY Spike NY: folds 
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: folds 
+Uncalled bet ($0.25) returned to cardcooker66
+cardcooker66 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: helios25 (small blind) folded before Flop
+Seat 2: cardcooker66 (big blind) collected ($0.50)
+Seat 3: psj007 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 5: NY Spike NY folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154955401:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:51:35 ET
+Table 'Rhodia' 9-max Seat #1 is the button
+Seat 1: helios25 ($107.35 in chips) 
+Seat 2: cardcooker66 ($62.20 in chips) 
+Seat 3: psj007 ($7.60 in chips) 
+Seat 4: comein888 ($48.75 in chips) 
+Seat 5: NY Spike NY ($50.90 in chips) 
+Seat 6: TomatoQQ ($50 in chips) 
+Seat 7: agoldman ($29.50 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($48.75 in chips) 
+cardcooker66: posts small blind $0.25
+psj007: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 2h]
+comein888: folds 
+NY Spike NY: folds 
+TomatoQQ: folds 
+agoldman: raises $1.50 to $2
+drewbabez: folds 
+Alameda22: folds 
+helios25: calls $2
+cardcooker66: folds 
+psj007: calls $1.50
+*** FLOP *** [7d 8h 3s]
+psj007: checks 
+agoldman: bets $5
+helios25: folds 
+psj007: raises $0.60 to $5.60 and is all-in
+agoldman: calls $0.60
+*** TURN *** [7d 8h 3s] [Ah]
+*** RIVER *** [7d 8h 3s Ah] [5s]
+*** SHOW DOWN ***
+psj007: shows [4h 4c] (a pair of Fours)
+agoldman: shows [9c 9s] (a pair of Nines)
+agoldman collected $16.60 from pot
+psj007 leaves the table
+*** SUMMARY ***
+Total pot $17.45 | Rake $0.85 
+Board [7d 8h 3s Ah 5s]
+Seat 1: helios25 (button) folded on the Flop
+Seat 2: cardcooker66 (small blind) folded before Flop
+Seat 3: psj007 (big blind) showed [4h 4c] and lost with a pair of Fours
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 5: NY Spike NY folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman showed [9c 9s] and won ($16.60) with a pair of Nines
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154984190:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:52:55 ET
+Table 'Rhodia' 9-max Seat #2 is the button
+Seat 1: helios25 ($105.35 in chips) 
+Seat 2: cardcooker66 ($61.95 in chips) 
+Seat 4: comein888 ($48.75 in chips) 
+Seat 5: NY Spike NY ($50.90 in chips) 
+Seat 6: TomatoQQ ($50 in chips) 
+Seat 7: agoldman ($38.50 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($48.75 in chips) 
+comein888: posts small blind $0.25
+NY Spike NY: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Qd]
+markwin11 joins the table at seat #3 
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: folds 
+cardcooker66: folds 
+comein888: folds 
+Uncalled bet ($0.25) returned to NY Spike NY
+cardcooker66 is sitting out
+NY Spike NY collected $0.50 from pot
+NY Spike NY: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 (button) folded before Flop (didn't bet)
+Seat 4: comein888 (small blind) folded before Flop
+Seat 5: NY Spike NY (big blind) collected ($0.50)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154993210:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:53:20 ET
+Table 'Rhodia' 9-max Seat #4 is the button
+Seat 1: helios25 ($105.35 in chips) 
+Seat 4: comein888 ($48.50 in chips) 
+Seat 5: NY Spike NY ($51.15 in chips) 
+Seat 6: TomatoQQ ($50 in chips) 
+Seat 7: agoldman ($38.50 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($48.75 in chips) 
+NY Spike NY: posts small blind $0.25
+TomatoQQ: posts big blind $0.50
+markwin11: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 5c]
+agoldman: folds 
+drewbabez: folds 
+cardcooker66 has returned
+Alameda22 has timed out
+Alameda22: folds 
+Alameda22 is sitting out
+helios25: folds 
+comein888: folds 
+NY Spike NY: folds 
+Uncalled bet ($0.25) returned to TomatoQQ
+TomatoQQ collected $0.50 from pot
+TomatoQQ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 4: comein888 (button) folded before Flop (didn't bet)
+Seat 5: NY Spike NY (small blind) folded before Flop
+Seat 6: TomatoQQ (big blind) collected ($0.50)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155029055:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:54:59 ET
+Table 'Rhodia' 9-max Seat #6 is the button
+Seat 1: helios25 ($105.35 in chips) 
+Seat 2: cardcooker66 ($61.95 in chips) 
+Seat 4: comein888 ($48.50 in chips) 
+Seat 5: NY Spike NY ($50.90 in chips) 
+Seat 6: TomatoQQ ($50.75 in chips) 
+Seat 7: agoldman ($38 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($48.75 in chips) 
+agoldman: posts small blind $0.25
+drewbabez: posts big blind $0.50
+markwin11: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Ad]
+Alameda22: folds 
+helios25: folds 
+cardcooker66: folds 
+comein888: folds 
+NY Spike NY: folds 
+TomatoQQ: folds 
+agoldman: folds 
+Uncalled bet ($0.25) returned to drewbabez
+drewbabez collected $0.50 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 5: NY Spike NY folded before Flop (didn't bet)
+Seat 6: TomatoQQ (button) folded before Flop (didn't bet)
+Seat 7: agoldman (small blind) folded before Flop
+Seat 8: drewbabez (big blind) collected ($0.50)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155041905:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:55:35 ET
+Table 'Rhodia' 9-max Seat #7 is the button
+Seat 1: helios25 ($105.35 in chips) 
+Seat 2: cardcooker66 ($61.95 in chips) 
+Seat 4: comein888 ($48.50 in chips) 
+Seat 5: NY Spike NY ($50.90 in chips) 
+Seat 6: TomatoQQ ($50.75 in chips) 
+Seat 7: agoldman ($37.75 in chips) 
+Seat 8: drewbabez ($77.75 in chips) 
+Seat 9: Alameda22 ($48.75 in chips) 
+drewbabez: posts small blind $0.25
+Alameda22: posts big blind $0.50
+markwin11: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 9c]
+helios25: folds 
+cardcooker66: calls $0.50
+comein888: folds 
+NY Spike NY: folds 
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+Alameda22: checks 
+*** FLOP *** [Ts Kd Th]
+Alameda22: checks 
+cardcooker66: bets $1
+Alameda22: folds 
+Uncalled bet ($1) returned to cardcooker66
+cardcooker66 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Ts Kd Th]
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 collected ($1.20)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 5: NY Spike NY folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman (button) folded before Flop (didn't bet)
+Seat 8: drewbabez (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded on the Flop
+
+
+
+PokerStars Game #20155064022:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:56:37 ET
+Table 'Rhodia' 9-max Seat #8 is the button
+Seat 1: helios25 ($105.35 in chips) 
+Seat 2: cardcooker66 ($62.65 in chips) 
+Seat 4: comein888 ($48.50 in chips) 
+Seat 5: NY Spike NY ($50.90 in chips) 
+Seat 6: TomatoQQ ($50.75 in chips) 
+Seat 7: agoldman ($37.75 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($48.25 in chips) 
+Alameda22: posts small blind $0.25
+helios25: posts big blind $0.50
+markwin11: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Qh]
+cardcooker66: folds 
+comein888: folds 
+NY Spike NY: calls $0.50
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: checks 
+*** FLOP *** [2d Th Qs]
+helios25: checks 
+NY Spike NY: checks 
+*** TURN *** [2d Th Qs] [5d]
+helios25: checks 
+NY Spike NY: checks 
+*** RIVER *** [2d Th Qs 5d] [3d]
+helios25: checks 
+NY Spike NY: checks 
+*** SHOW DOWN ***
+helios25: shows [7c Ad] (high card Ace)
+NY Spike NY: shows [6s 5c] (a pair of Fives)
+NY Spike NY collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [2d Th Qs 5d 3d]
+Seat 1: helios25 (big blind) showed [7c Ad] and lost with high card Ace
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 5: NY Spike NY showed [6s 5c] and won ($1.20) with a pair of Fives
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #20155081710:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:57:27 ET
+Table 'Rhodia' 9-max Seat #9 is the button
+Seat 1: helios25 ($104.85 in chips) 
+Seat 2: cardcooker66 ($62.65 in chips) 
+Seat 4: comein888 ($48.50 in chips) 
+Seat 5: NY Spike NY ($51.60 in chips) 
+Seat 6: TomatoQQ ($50.75 in chips) 
+Seat 7: agoldman ($37.75 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($48 in chips) 
+helios25: posts small blind $0.25
+cardcooker66: posts big blind $0.50
+markwin11: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 2c]
+comein888: folds 
+NY Spike NY: folds 
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: raises $1.50 to $2
+cardcooker66: folds 
+Uncalled bet ($1.50) returned to helios25
+helios25 collected $1 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: helios25 (small blind) collected ($1)
+Seat 2: cardcooker66 (big blind) folded before Flop
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 5: NY Spike NY folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155098982:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:58:15 ET
+Table 'Rhodia' 9-max Seat #1 is the button
+Seat 1: helios25 ($105.35 in chips) 
+Seat 2: cardcooker66 ($62.15 in chips) 
+Seat 3: markwin11 ($50 in chips) 
+Seat 4: comein888 ($48.50 in chips) 
+Seat 5: NY Spike NY ($51.60 in chips) 
+Seat 6: TomatoQQ ($50.75 in chips) 
+Seat 7: agoldman ($37.75 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($48 in chips) 
+cardcooker66: posts small blind $0.25
+markwin11: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Ad]
+comein888: folds 
+NY Spike NY: folds 
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: folds 
+cardcooker66: folds 
+Uncalled bet ($0.25) returned to markwin11
+markwin11 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: helios25 (button) folded before Flop (didn't bet)
+Seat 2: cardcooker66 (small blind) folded before Flop
+Seat 3: markwin11 (big blind) collected ($0.50)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 5: NY Spike NY folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155112804:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:58:54 ET
+Table 'Rhodia' 9-max Seat #2 is the button
+Seat 1: helios25 ($105.35 in chips) 
+Seat 2: cardcooker66 ($61.90 in chips) 
+Seat 3: markwin11 ($50.25 in chips) 
+Seat 4: comein888 ($48.50 in chips) 
+Seat 5: NY Spike NY ($51.60 in chips) 
+Seat 6: TomatoQQ ($50.75 in chips) 
+Seat 7: agoldman ($37.75 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($48 in chips) 
+markwin11: posts small blind $0.25
+comein888: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Th]
+NY Spike NY: raises $1 to $1.50
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: folds 
+cardcooker66: folds 
+markwin11: folds 
+comein888: folds 
+Uncalled bet ($1) returned to NY Spike NY
+NY Spike NY collected $1.25 from pot
+NY Spike NY: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 (button) folded before Flop (didn't bet)
+Seat 3: markwin11 (small blind) folded before Flop
+Seat 4: comein888 (big blind) folded before Flop
+Seat 5: NY Spike NY collected ($1.25)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155126164:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:59:32 ET
+Table 'Rhodia' 9-max Seat #3 is the button
+Seat 1: helios25 ($105.35 in chips) 
+Seat 2: cardcooker66 ($61.90 in chips) 
+Seat 3: markwin11 ($50 in chips) 
+Seat 4: comein888 ($48 in chips) 
+Seat 5: NY Spike NY ($52.35 in chips) 
+Seat 6: TomatoQQ ($50.75 in chips) 
+Seat 7: agoldman ($37.75 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($48 in chips) 
+comein888: posts small blind $0.25
+NY Spike NY: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Tc]
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: folds 
+cardcooker66: folds 
+markwin11: folds 
+comein888: calls $0.25
+NY Spike NY: checks 
+*** FLOP *** [Ks 5d Kh]
+comein888: checks 
+NY Spike NY: bets $0.50
+comein888: calls $0.50
+*** TURN *** [Ks 5d Kh] [4d]
+comein888: checks 
+NY Spike NY: checks 
+*** RIVER *** [Ks 5d Kh 4d] [6h]
+comein888: checks 
+NY Spike NY: checks 
+*** SHOW DOWN ***
+comein888: shows [Qd As] (a pair of Kings)
+NY Spike NY: mucks hand 
+comein888 collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [Ks 5d Kh 4d 6h]
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 3: markwin11 (button) folded before Flop (didn't bet)
+Seat 4: comein888 (small blind) showed [Qd As] and won ($1.95) with a pair of Kings
+Seat 5: NY Spike NY (big blind) mucked [9c 7h]
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155157109:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:00:59 ET
+Table 'Rhodia' 9-max Seat #4 is the button
+Seat 1: helios25 ($105.35 in chips) 
+Seat 2: cardcooker66 ($61.90 in chips) 
+Seat 3: markwin11 ($50 in chips) 
+Seat 4: comein888 ($48.95 in chips) 
+Seat 5: NY Spike NY ($51.35 in chips) 
+Seat 6: TomatoQQ ($50.75 in chips) 
+Seat 7: agoldman ($37.75 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($48 in chips) 
+NY Spike NY: posts small blind $0.25
+TomatoQQ: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 9c]
+agoldman: folds 
+drewbabez: raises $1.50 to $2
+Alameda22: folds 
+helios25: folds 
+cardcooker66: folds 
+markwin11: folds 
+comein888: folds 
+NY Spike NY: folds 
+TomatoQQ: folds 
+Uncalled bet ($1.50) returned to drewbabez
+drewbabez collected $1.25 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 (button) folded before Flop (didn't bet)
+Seat 5: NY Spike NY (small blind) folded before Flop
+Seat 6: TomatoQQ (big blind) folded before Flop
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez collected ($1.25)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155171545:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:01:40 ET
+Table 'Rhodia' 9-max Seat #5 is the button
+Seat 1: helios25 ($105.35 in chips) 
+Seat 2: cardcooker66 ($61.90 in chips) 
+Seat 3: markwin11 ($50 in chips) 
+Seat 4: comein888 ($48.95 in chips) 
+Seat 5: NY Spike NY ($51.10 in chips) 
+Seat 6: TomatoQQ ($50.25 in chips) 
+Seat 7: agoldman ($37.75 in chips) 
+Seat 8: drewbabez ($78.25 in chips) 
+Seat 9: Alameda22 ($48 in chips) 
+TomatoQQ: posts small blind $0.25
+agoldman: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 2d]
+drewbabez: folds 
+Alameda22: folds 
+helios25: folds 
+cardcooker66: folds 
+markwin11: folds 
+comein888: folds 
+NY Spike NY: folds 
+TomatoQQ: raises $1 to $1.50
+agoldman: folds 
+Uncalled bet ($1) returned to TomatoQQ
+TomatoQQ collected $1 from pot
+TomatoQQ: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 5: NY Spike NY (button) folded before Flop (didn't bet)
+Seat 6: TomatoQQ (small blind) collected ($1)
+Seat 7: agoldman (big blind) folded before Flop
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155189612:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:02:32 ET
+Table 'Rhodia' 9-max Seat #6 is the button
+Seat 1: helios25 ($105.35 in chips) 
+Seat 2: cardcooker66 ($61.90 in chips) 
+Seat 3: markwin11 ($50 in chips) 
+Seat 4: comein888 ($48.95 in chips) 
+Seat 5: NY Spike NY ($51.10 in chips) 
+Seat 6: TomatoQQ ($50.75 in chips) 
+Seat 7: agoldman ($37.25 in chips) 
+Seat 8: drewbabez ($78.25 in chips) 
+Seat 9: Alameda22 ($48 in chips) 
+agoldman: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 9s]
+Alameda22: folds 
+helios25: folds 
+cardcooker66: folds 
+markwin11: folds 
+comein888: folds 
+NY Spike NY: folds 
+TomatoQQ: raises $1.50 to $2
+agoldman: folds 
+drewbabez: folds 
+Uncalled bet ($1.50) returned to TomatoQQ
+TomatoQQ collected $1.25 from pot
+TomatoQQ: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 5: NY Spike NY folded before Flop (didn't bet)
+Seat 6: TomatoQQ (button) collected ($1.25)
+Seat 7: agoldman (small blind) folded before Flop
+Seat 8: drewbabez (big blind) folded before Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155206387:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:03:21 ET
+Table 'Rhodia' 9-max Seat #7 is the button
+Seat 1: helios25 ($105.35 in chips) 
+Seat 2: cardcooker66 ($61.90 in chips) 
+Seat 3: markwin11 ($50 in chips) 
+Seat 4: comein888 ($48.95 in chips) 
+Seat 5: NY Spike NY ($51.10 in chips) 
+Seat 6: TomatoQQ ($51.50 in chips) 
+Seat 7: agoldman ($37 in chips) 
+Seat 8: drewbabez ($77.75 in chips) 
+Seat 9: Alameda22 ($48 in chips) 
+drewbabez: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 8d]
+helios25: raises $1.50 to $2
+cardcooker66: folds 
+markwin11: folds 
+comein888: folds 
+NY Spike NY: folds 
+TomatoQQ: folds 
+agoldman: calls $2
+drewbabez: folds 
+Alameda22: calls $1.50
+*** FLOP *** [Qs Td 8s]
+NY Spike NY leaves the table
+Alameda22: bets $4
+helios25: folds 
+agoldman: folds 
+Uncalled bet ($4) returned to Alameda22
+dwq2300 joins the table at seat #5 
+dwq2300 is sitting out
+Alameda22 collected $5.95 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.30 
+Board [Qs Td 8s]
+Seat 1: helios25 folded on the Flop
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 5: NY Spike NY folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman (button) folded on the Flop
+Seat 8: drewbabez (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) collected ($5.95)
+
+
+
+PokerStars Game #20155233820:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:04:41 ET
+Table 'Rhodia' 9-max Seat #8 is the button
+Seat 1: helios25 ($103.35 in chips) 
+Seat 2: cardcooker66 ($61.90 in chips) 
+Seat 3: markwin11 ($50 in chips) 
+Seat 4: comein888 ($48.95 in chips) 
+Seat 6: TomatoQQ ($51.50 in chips) 
+Seat 7: agoldman ($35 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($51.95 in chips) 
+Alameda22: posts small blind $0.25
+helios25: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 8s]
+cardcooker66: folds 
+markwin11: folds 
+comein888: folds 
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to helios25
+helios25 collected $0.50 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: helios25 (big blind) collected ($0.50)
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #20155243907:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:05:11 ET
+Table 'Rhodia' 9-max Seat #9 is the button
+Seat 1: helios25 ($103.60 in chips) 
+Seat 2: cardcooker66 ($61.90 in chips) 
+Seat 3: markwin11 ($50 in chips) 
+Seat 4: comein888 ($48.95 in chips) 
+Seat 6: TomatoQQ ($51.50 in chips) 
+Seat 7: agoldman ($35 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($51.70 in chips) 
+helios25: posts small blind $0.25
+cardcooker66: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 5h]
+markwin11: folds 
+comein888: folds 
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+Alameda22: raises $1.50 to $2
+helios25: folds 
+cardcooker66: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $1.25 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: helios25 (small blind) folded before Flop
+Seat 2: cardcooker66 (big blind) folded before Flop
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) collected ($1.25)
+
+
+
+PokerStars Game #20155267092:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:06:19 ET
+Table 'Rhodia' 9-max Seat #1 is the button
+Seat 1: helios25 ($103.35 in chips) 
+Seat 2: cardcooker66 ($61.40 in chips) 
+Seat 3: markwin11 ($50 in chips) 
+Seat 4: comein888 ($48.95 in chips) 
+Seat 6: TomatoQQ ($51.50 in chips) 
+Seat 7: agoldman ($35 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($52.45 in chips) 
+cardcooker66: posts small blind $0.25
+markwin11: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 7c]
+comein888: folds 
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: raises $1.50 to $2
+cardcooker66: folds 
+markwin11: raises $4.50 to $6.50
+helios25: folds 
+Uncalled bet ($4.50) returned to markwin11
+markwin11 collected $4.25 from pot
+*** SUMMARY ***
+Total pot $4.25 | Rake $0 
+Seat 1: helios25 (button) folded before Flop
+Seat 2: cardcooker66 (small blind) folded before Flop
+Seat 3: markwin11 (big blind) collected ($4.25)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155284243:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:07:10 ET
+Table 'Rhodia' 9-max Seat #2 is the button
+Seat 1: helios25 ($101.35 in chips) 
+Seat 2: cardcooker66 ($61.15 in chips) 
+Seat 3: markwin11 ($52.25 in chips) 
+Seat 4: comein888 ($48.95 in chips) 
+Seat 6: TomatoQQ ($51.50 in chips) 
+Seat 7: agoldman ($35 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($52.45 in chips) 
+markwin11: posts small blind $0.25
+comein888: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 9d]
+TomatoQQ: folds 
+agoldman: raises $1.50 to $2
+drewbabez: folds 
+Alameda22: folds 
+helios25: folds 
+cardcooker66: folds 
+markwin11: folds 
+comein888: folds 
+Uncalled bet ($1.50) returned to agoldman
+agoldman collected $1.25 from pot
+agoldman: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 (button) folded before Flop (didn't bet)
+Seat 3: markwin11 (small blind) folded before Flop
+Seat 4: comein888 (big blind) folded before Flop
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman collected ($1.25)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155307140:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:08:17 ET
+Table 'Rhodia' 9-max Seat #3 is the button
+Seat 1: helios25 ($101.35 in chips) 
+Seat 2: cardcooker66 ($61.15 in chips) 
+Seat 3: markwin11 ($52 in chips) 
+Seat 4: comein888 ($48.45 in chips) 
+Seat 6: TomatoQQ ($51.50 in chips) 
+Seat 7: agoldman ($35.75 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($52.45 in chips) 
+comein888: posts small blind $0.25
+TomatoQQ: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Ad]
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: raises $1.50 to $2
+cardcooker66: folds 
+markwin11: folds 
+comein888: folds 
+TomatoQQ: folds 
+Uncalled bet ($1.50) returned to helios25
+helios25 collected $1.25 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: helios25 collected ($1.25)
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 3: markwin11 (button) folded before Flop (didn't bet)
+Seat 4: comein888 (small blind) folded before Flop
+Seat 6: TomatoQQ (big blind) folded before Flop
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155323247:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:09:05 ET
+Table 'Rhodia' 9-max Seat #4 is the button
+Seat 1: helios25 ($102.10 in chips) 
+Seat 2: cardcooker66 ($61.15 in chips) 
+Seat 3: markwin11 ($52 in chips) 
+Seat 4: comein888 ($48.20 in chips) 
+Seat 6: TomatoQQ ($51 in chips) 
+Seat 7: agoldman ($35.75 in chips) 
+Seat 8: drewbabez ($77.50 in chips) 
+Seat 9: Alameda22 ($52.45 in chips) 
+TomatoQQ: posts small blind $0.25
+agoldman: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 3c]
+drewbabez: calls $0.50
+Alameda22: folds 
+helios25: calls $0.50
+cardcooker66: folds 
+markwin11: folds 
+comein888: raises $3 to $3.50
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+helios25: folds 
+Uncalled bet ($3) returned to comein888
+comein888 collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0 
+Seat 1: helios25 folded before Flop
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 (button) collected ($2.25)
+Seat 6: TomatoQQ (small blind) folded before Flop
+Seat 7: agoldman (big blind) folded before Flop
+Seat 8: drewbabez folded before Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155348976:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:10:21 ET
+Table 'Rhodia' 9-max Seat #6 is the button
+Seat 1: helios25 ($101.60 in chips) 
+Seat 2: cardcooker66 ($61.15 in chips) 
+Seat 3: markwin11 ($52 in chips) 
+Seat 4: comein888 ($49.95 in chips) 
+Seat 6: TomatoQQ ($50.75 in chips) 
+Seat 7: agoldman ($35.25 in chips) 
+Seat 8: drewbabez ($77 in chips) 
+Seat 9: Alameda22 ($52.45 in chips) 
+agoldman: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Kh]
+Alameda22: folds 
+helios25: folds 
+cardcooker66: calls $0.50
+markwin11: folds 
+comein888: folds 
+TomatoQQ: folds 
+agoldman: calls $0.25
+drewbabez: checks 
+*** FLOP *** [Tc 3d 5h]
+agoldman: checks 
+drewbabez: checks 
+cardcooker66: bets $1.50
+agoldman: calls $1.50
+drewbabez: folds 
+*** TURN *** [Tc 3d 5h] [6h]
+agoldman: checks 
+cardcooker66: checks 
+*** RIVER *** [Tc 3d 5h 6h] [2c]
+agoldman: bets $2
+cardcooker66: folds 
+Uncalled bet ($2) returned to agoldman
+agoldman collected $4.30 from pot
+agoldman: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [Tc 3d 5h 6h 2c]
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 folded on the River
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ (button) folded before Flop (didn't bet)
+Seat 7: agoldman (small blind) collected ($4.30)
+Seat 8: drewbabez (big blind) folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155380987:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:11:57 ET
+Table 'Rhodia' 9-max Seat #7 is the button
+Seat 1: helios25 ($101.60 in chips) 
+Seat 2: cardcooker66 ($59.15 in chips) 
+Seat 3: markwin11 ($52 in chips) 
+Seat 4: comein888 ($49.95 in chips) 
+Seat 6: TomatoQQ ($50.75 in chips) 
+Seat 7: agoldman ($37.55 in chips) 
+Seat 8: drewbabez ($76.50 in chips) 
+Seat 9: Alameda22 ($52.45 in chips) 
+drewbabez: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 8h]
+helios25: folds 
+cardcooker66: calls $0.50
+markwin11: folds 
+comein888: folds 
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+Alameda22: checks 
+*** FLOP *** [Ah Td 6c]
+Alameda22: checks 
+cardcooker66: checks 
+*** TURN *** [Ah Td 6c] [Qc]
+Alameda22: checks 
+cardcooker66: bets $1.50
+Alameda22: folds 
+Uncalled bet ($1.50) returned to cardcooker66
+cardcooker66 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Ah Td 6c Qc]
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 collected ($1.20)
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman (button) folded before Flop (didn't bet)
+Seat 8: drewbabez (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded on the Turn
+
+
+
+PokerStars Game #20155405835:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:13:12 ET
+Table 'Rhodia' 9-max Seat #8 is the button
+Seat 1: helios25 ($101.60 in chips) 
+Seat 2: cardcooker66 ($59.85 in chips) 
+Seat 3: markwin11 ($52 in chips) 
+Seat 4: comein888 ($49.95 in chips) 
+Seat 6: TomatoQQ ($50.75 in chips) 
+Seat 7: agoldman ($37.55 in chips) 
+Seat 8: drewbabez ($76.25 in chips) 
+Seat 9: Alameda22 ($51.95 in chips) 
+Alameda22: posts small blind $0.25
+helios25: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 5h]
+cardcooker66: calls $0.50
+markwin11: folds 
+comein888: folds 
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: checks 
+*** FLOP *** [2s Kc 5s]
+helios25: checks 
+cardcooker66: checks 
+*** TURN *** [2s Kc 5s] [As]
+helios25: checks 
+cardcooker66: bets $1
+helios25: folds 
+Uncalled bet ($1) returned to cardcooker66
+cardcooker66 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [2s Kc 5s As]
+Seat 1: helios25 (big blind) folded on the Turn
+Seat 2: cardcooker66 collected ($1.20)
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #20155432257:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:14:31 ET
+Table 'Rhodia' 9-max Seat #9 is the button
+Seat 1: helios25 ($101.10 in chips) 
+Seat 2: cardcooker66 ($60.55 in chips) 
+Seat 3: markwin11 ($52 in chips) 
+Seat 4: comein888 ($49.95 in chips) 
+Seat 6: TomatoQQ ($50.75 in chips) 
+Seat 7: agoldman ($37.55 in chips) 
+Seat 8: drewbabez ($76.25 in chips) 
+Seat 9: Alameda22 ($51.70 in chips) 
+helios25: posts small blind $0.25
+cardcooker66: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 7d]
+markwin11: folds 
+comein888: folds 
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: raises $1 to $1.50
+Alameda22: folds 
+helios25: folds 
+cardcooker66: calls $1
+*** FLOP *** [7s 9c 4d]
+cardcooker66: checks 
+drewbabez: checks 
+*** TURN *** [7s 9c 4d] [Qc]
+cardcooker66: checks 
+drewbabez: checks 
+*** RIVER *** [7s 9c 4d Qc] [Ts]
+cardcooker66: bets $1
+drewbabez: raises $5.50 to $6.50
+cardcooker66: folds 
+Uncalled bet ($5.50) returned to drewbabez
+drewbabez collected $5 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [7s 9c 4d Qc Ts]
+Seat 1: helios25 (small blind) folded before Flop
+Seat 2: cardcooker66 (big blind) folded on the River
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez collected ($5)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155462085:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:16:01 ET
+Table 'Rhodia' 9-max Seat #1 is the button
+Seat 1: helios25 ($100.85 in chips) 
+Seat 2: cardcooker66 ($58.05 in chips) 
+Seat 3: markwin11 ($52 in chips) 
+Seat 4: comein888 ($49.95 in chips) 
+Seat 6: TomatoQQ ($50.75 in chips) 
+Seat 7: agoldman ($37.55 in chips) 
+Seat 8: drewbabez ($78.75 in chips) 
+Seat 9: Alameda22 ($51.70 in chips) 
+cardcooker66: posts small blind $0.25
+markwin11: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 4s]
+comein888: folds 
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: folds 
+cardcooker66: calls $0.25
+markwin11: checks 
+*** FLOP *** [7s 7d Kc]
+cardcooker66: checks 
+markwin11: bets $1
+cardcooker66: folds 
+Uncalled bet ($1) returned to markwin11
+markwin11 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [7s 7d Kc]
+Seat 1: helios25 (button) folded before Flop (didn't bet)
+Seat 2: cardcooker66 (small blind) folded on the Flop
+Seat 3: markwin11 (big blind) collected ($0.95)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155491230:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:17:29 ET
+Table 'Rhodia' 9-max Seat #2 is the button
+Seat 1: helios25 ($100.85 in chips) 
+Seat 2: cardcooker66 ($57.55 in chips) 
+Seat 3: markwin11 ($52.45 in chips) 
+Seat 4: comein888 ($49.95 in chips) 
+Seat 6: TomatoQQ ($50.75 in chips) 
+Seat 7: agoldman ($37.55 in chips) 
+Seat 8: drewbabez ($78.75 in chips) 
+Seat 9: Alameda22 ($51.70 in chips) 
+markwin11: posts small blind $0.25
+comein888: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Ac]
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: raises $1 to $1.50
+Alameda22: folds 
+helios25: folds 
+cardcooker66: folds 
+markwin11: folds 
+comein888: folds 
+Uncalled bet ($1) returned to drewbabez
+drewbabez collected $1.25 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 (button) folded before Flop (didn't bet)
+Seat 3: markwin11 (small blind) folded before Flop
+Seat 4: comein888 (big blind) folded before Flop
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez collected ($1.25)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155507013:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:18:17 ET
+Table 'Rhodia' 9-max Seat #3 is the button
+Seat 1: helios25 ($100.85 in chips) 
+Seat 2: cardcooker66 ($57.55 in chips) 
+Seat 3: markwin11 ($52.20 in chips) 
+Seat 4: comein888 ($49.45 in chips) 
+Seat 6: TomatoQQ ($50.75 in chips) 
+Seat 7: agoldman ($37.55 in chips) 
+Seat 8: drewbabez ($79.50 in chips) 
+Seat 9: Alameda22 ($51.70 in chips) 
+comein888: posts small blind $0.25
+TomatoQQ: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 3h]
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: folds 
+cardcooker66: raises $1.50 to $2
+markwin11: folds 
+comein888: folds 
+TomatoQQ: folds 
+Uncalled bet ($1.50) returned to cardcooker66
+cardcooker66 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 collected ($1.25)
+Seat 3: markwin11 (button) folded before Flop (didn't bet)
+Seat 4: comein888 (small blind) folded before Flop
+Seat 6: TomatoQQ (big blind) folded before Flop
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155522614:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:19:04 ET
+Table 'Rhodia' 9-max Seat #4 is the button
+Seat 1: helios25 ($100.85 in chips) 
+Seat 2: cardcooker66 ($58.30 in chips) 
+Seat 3: markwin11 ($52.20 in chips) 
+Seat 4: comein888 ($49.20 in chips) 
+Seat 6: TomatoQQ ($50.25 in chips) 
+Seat 7: agoldman ($37.55 in chips) 
+Seat 8: drewbabez ($79.50 in chips) 
+Seat 9: Alameda22 ($51.70 in chips) 
+TomatoQQ: posts small blind $0.25
+agoldman: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 3h]
+drewbabez: folds 
+Alameda22: folds 
+helios25: raises $1.50 to $2
+cardcooker66: folds 
+markwin11: folds 
+comein888: folds 
+TomatoQQ: raises $4 to $6
+agoldman: folds 
+helios25: calls $4
+*** FLOP *** [6d Qc 8d]
+TomatoQQ: bets $8
+helios25: raises $8 to $16
+TomatoQQ: raises $28.25 to $44.25 and is all-in
+helios25: folds 
+Uncalled bet ($28.25) returned to TomatoQQ
+TomatoQQ collected $42.35 from pot
+TomatoQQ: doesn't show hand 
+*** SUMMARY ***
+Total pot $44.50 | Rake $2.15 
+Board [6d Qc 8d]
+Seat 1: helios25 folded on the Flop
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 (button) folded before Flop (didn't bet)
+Seat 6: TomatoQQ (small blind) collected ($42.35)
+Seat 7: agoldman (big blind) folded before Flop
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155544298:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:20:10 ET
+Table 'Rhodia' 9-max Seat #6 is the button
+Seat 1: helios25 ($78.85 in chips) 
+Seat 2: cardcooker66 ($58.30 in chips) 
+Seat 3: markwin11 ($52.20 in chips) 
+Seat 4: comein888 ($49.20 in chips) 
+Seat 6: TomatoQQ ($70.60 in chips) 
+Seat 7: agoldman ($37.05 in chips) 
+Seat 8: drewbabez ($79.50 in chips) 
+Seat 9: Alameda22 ($51.70 in chips) 
+agoldman: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Ad]
+Alameda22: folds 
+helios25: folds 
+cardcooker66: calls $0.50
+markwin11: folds 
+comein888: folds 
+TomatoQQ: folds 
+agoldman: calls $0.25
+drewbabez: checks 
+*** FLOP *** [4h Qd Tc]
+agoldman: checks 
+drewbabez: checks 
+cardcooker66: checks 
+*** TURN *** [4h Qd Tc] [8c]
+agoldman: bets $1
+drewbabez: folds 
+cardcooker66: calls $1
+*** RIVER *** [4h Qd Tc 8c] [Qh]
+agoldman: bets $1.50
+cardcooker66: raises $3.50 to $5
+agoldman: folds 
+Uncalled bet ($3.50) returned to cardcooker66
+cardcooker66 collected $6.20 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.30 
+Board [4h Qd Tc 8c Qh]
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 collected ($6.20)
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ (button) folded before Flop (didn't bet)
+Seat 7: agoldman (small blind) folded on the River
+Seat 8: drewbabez (big blind) folded on the Turn
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155566963:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:21:20 ET
+Table 'Rhodia' 9-max Seat #7 is the button
+Seat 1: helios25 ($78.85 in chips) 
+Seat 2: cardcooker66 ($61.50 in chips) 
+Seat 3: markwin11 ($52.20 in chips) 
+Seat 4: comein888 ($49.20 in chips) 
+Seat 6: TomatoQQ ($70.60 in chips) 
+Seat 7: agoldman ($34.05 in chips) 
+Seat 8: drewbabez ($79 in chips) 
+Seat 9: Alameda22 ($51.70 in chips) 
+drewbabez: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Tc]
+helios25: folds 
+cardcooker66: raises $1.50 to $2
+markwin11: folds 
+comein888: folds 
+TomatoQQ: calls $2
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+*** FLOP *** [Qd 8h 6d]
+cardcooker66: checks 
+TomatoQQ: bets $3
+cardcooker66: folds 
+Uncalled bet ($3) returned to TomatoQQ
+TomatoQQ collected $4.55 from pot
+TomatoQQ: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [Qd 8h 6d]
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 folded on the Flop
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ collected ($4.55)
+Seat 7: agoldman (button) folded before Flop (didn't bet)
+Seat 8: drewbabez (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #20155579287:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:21:58 ET
+Table 'Rhodia' 9-max Seat #8 is the button
+Seat 1: helios25 ($78.85 in chips) 
+Seat 2: cardcooker66 ($59.50 in chips) 
+Seat 3: markwin11 ($52.20 in chips) 
+Seat 4: comein888 ($49.20 in chips) 
+Seat 6: TomatoQQ ($73.15 in chips) 
+Seat 7: agoldman ($34.05 in chips) 
+Seat 8: drewbabez ($78.75 in chips) 
+Seat 9: Alameda22 ($51.20 in chips) 
+Alameda22: posts small blind $0.25
+helios25: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Jd]
+cardcooker66: folds 
+markwin11: folds 
+comein888: folds 
+TomatoQQ: raises $1.50 to $2
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: folds 
+Uncalled bet ($1.50) returned to TomatoQQ
+TomatoQQ collected $1.25 from pot
+TomatoQQ: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: helios25 (big blind) folded before Flop
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ collected ($1.25)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #20155593518:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:22:42 ET
+Table 'Rhodia' 9-max Seat #9 is the button
+Seat 1: helios25 ($78.35 in chips) 
+Seat 2: cardcooker66 ($59.50 in chips) 
+Seat 3: markwin11 ($52.20 in chips) 
+Seat 4: comein888 ($49.20 in chips) 
+Seat 6: TomatoQQ ($73.90 in chips) 
+Seat 7: agoldman ($34.05 in chips) 
+Seat 8: drewbabez ($78.75 in chips) 
+Seat 9: Alameda22 ($50.95 in chips) 
+helios25: posts small blind $0.25
+cardcooker66: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 3h]
+markwin11: folds 
+comein888: folds 
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: raises $1.50 to $2
+cardcooker66: folds 
+Uncalled bet ($1.50) returned to helios25
+helios25 collected $1 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: helios25 (small blind) collected ($1)
+Seat 2: cardcooker66 (big blind) folded before Flop
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155614412:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:23:47 ET
+Table 'Rhodia' 9-max Seat #1 is the button
+Seat 1: helios25 ($78.85 in chips) 
+Seat 2: cardcooker66 ($59 in chips) 
+Seat 3: markwin11 ($52.20 in chips) 
+Seat 4: comein888 ($49.20 in chips) 
+Seat 6: TomatoQQ ($73.90 in chips) 
+Seat 7: agoldman ($34.05 in chips) 
+Seat 8: drewbabez ($78.75 in chips) 
+Seat 9: Alameda22 ($50.95 in chips) 
+cardcooker66: posts small blind $0.25
+markwin11: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 7c]
+comein888: folds 
+TomatoQQ: folds 
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: folds 
+cardcooker66: folds 
+Uncalled bet ($0.25) returned to markwin11
+markwin11 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: helios25 (button) folded before Flop (didn't bet)
+Seat 2: cardcooker66 (small blind) folded before Flop
+Seat 3: markwin11 (big blind) collected ($0.50)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155624105:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:24:17 ET
+Table 'Rhodia' 9-max Seat #2 is the button
+Seat 1: helios25 ($78.85 in chips) 
+Seat 2: cardcooker66 ($58.75 in chips) 
+Seat 3: markwin11 ($52.45 in chips) 
+Seat 4: comein888 ($49.20 in chips) 
+Seat 6: TomatoQQ ($73.90 in chips) 
+Seat 7: agoldman ($34.05 in chips) 
+Seat 8: drewbabez ($78.75 in chips) 
+Seat 9: Alameda22 ($50.95 in chips) 
+markwin11: posts small blind $0.25
+comein888: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 5c]
+TomatoQQ: raises $1.50 to $2
+agoldman: folds 
+drewbabez: folds 
+Alameda22: folds 
+helios25: folds 
+cardcooker66: folds 
+markwin11: folds 
+comein888: folds 
+Uncalled bet ($1.50) returned to TomatoQQ
+TomatoQQ collected $1.25 from pot
+TomatoQQ: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 (button) folded before Flop (didn't bet)
+Seat 3: markwin11 (small blind) folded before Flop
+Seat 4: comein888 (big blind) folded before Flop
+Seat 6: TomatoQQ collected ($1.25)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155638266:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:25:02 ET
+Table 'Rhodia' 9-max Seat #3 is the button
+Seat 1: helios25 ($78.85 in chips) 
+Seat 2: cardcooker66 ($58.75 in chips) 
+Seat 3: markwin11 ($52.20 in chips) 
+Seat 4: comein888 ($48.70 in chips) 
+Seat 6: TomatoQQ ($74.65 in chips) 
+Seat 7: agoldman ($34.05 in chips) 
+Seat 8: drewbabez ($78.75 in chips) 
+Seat 9: Alameda22 ($50.95 in chips) 
+comein888: posts small blind $0.25
+TomatoQQ: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d As]
+agoldman: calls $0.50
+drewbabez: calls $0.50
+Alameda22: folds 
+helios25: folds 
+cardcooker66: calls $0.50
+markwin11: folds 
+comein888: calls $0.25
+TomatoQQ: checks 
+*** FLOP *** [3h 4s 7c]
+comein888: checks 
+TomatoQQ: bets $2
+agoldman: calls $2
+drewbabez: folds 
+cardcooker66: folds 
+comein888: folds 
+*** TURN *** [3h 4s 7c] [8h]
+TomatoQQ: bets $4.50
+agoldman: folds 
+Uncalled bet ($4.50) returned to TomatoQQ
+TomatoQQ collected $6.20 from pot
+TomatoQQ: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.30 
+Board [3h 4s 7c 8h]
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 folded on the Flop
+Seat 3: markwin11 (button) folded before Flop (didn't bet)
+Seat 4: comein888 (small blind) folded on the Flop
+Seat 6: TomatoQQ (big blind) collected ($6.20)
+Seat 7: agoldman folded on the Turn
+Seat 8: drewbabez folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155667958:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:26:36 ET
+Table 'Rhodia' 9-max Seat #4 is the button
+Seat 1: helios25 ($78.85 in chips) 
+Seat 2: cardcooker66 ($58.25 in chips) 
+Seat 3: markwin11 ($52.20 in chips) 
+Seat 4: comein888 ($48.20 in chips) 
+Seat 6: TomatoQQ ($78.35 in chips) 
+Seat 7: agoldman ($31.55 in chips) 
+Seat 8: drewbabez ($78.25 in chips) 
+Seat 9: Alameda22 ($50.95 in chips) 
+TomatoQQ: posts small blind $0.25
+agoldman: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 5h]
+drewbabez: folds 
+drewbabez leaves the table
+Alameda22: folds 
+helios25: folds 
+cardcooker66: calls $0.50
+markwin11: folds 
+comein888: folds 
+TomatoQQ: folds 
+agoldman: checks 
+*** FLOP *** [2d 9d Ts]
+agoldman: checks 
+cardcooker66: checks 
+*** TURN *** [2d 9d Ts] [4c]
+agoldman: checks 
+cardcooker66: checks 
+*** RIVER *** [2d 9d Ts 4c] [3c]
+agoldman: checks 
+cardcooker66: checks 
+*** SHOW DOWN ***
+agoldman: shows [Qh 4s] (a pair of Fours)
+cardcooker66: mucks hand 
+agoldman collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [2d 9d Ts 4c 3c]
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 mucked [6s Js]
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 (button) folded before Flop (didn't bet)
+Seat 6: TomatoQQ (small blind) folded before Flop
+Seat 7: agoldman (big blind) showed [Qh 4s] and won ($1.20) with a pair of Fours
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155695572:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:28:04 ET
+Table 'Rhodia' 9-max Seat #6 is the button
+Seat 1: helios25 ($78.85 in chips) 
+Seat 2: cardcooker66 ($57.75 in chips) 
+Seat 3: markwin11 ($52.20 in chips) 
+Seat 4: comein888 ($48.20 in chips) 
+Seat 6: TomatoQQ ($78.10 in chips) 
+Seat 7: agoldman ($32.25 in chips) 
+Seat 9: Alameda22 ($50.95 in chips) 
+agoldman: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 6d]
+helios25: folds 
+cardcooker66: folds 
+markwin11: folds 
+comein888: raises $2 to $2.50
+TomatoQQ: folds 
+agoldman: folds 
+Alameda22: folds 
+Uncalled bet ($2) returned to comein888
+comein888 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 collected ($1.25)
+Seat 6: TomatoQQ (button) folded before Flop (didn't bet)
+Seat 7: agoldman (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #20155708970:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:28:47 ET
+Table 'Rhodia' 9-max Seat #7 is the button
+Seat 1: helios25 ($78.85 in chips) 
+Seat 2: cardcooker66 ($57.75 in chips) 
+Seat 3: markwin11 ($52.20 in chips) 
+Seat 4: comein888 ($48.95 in chips) 
+Seat 6: TomatoQQ ($78.10 in chips) 
+Seat 7: agoldman ($32 in chips) 
+Seat 9: Alameda22 ($50.45 in chips) 
+Alameda22: posts small blind $0.25
+helios25: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Jc]
+cardcooker66: calls $0.50
+markwin11: folds 
+comein888: folds 
+TomatoQQ: raises $2 to $2.50
+agoldman: folds 
+Alameda22: folds 
+helios25: folds 
+cardcooker66: calls $2
+*** FLOP *** [Jh Td 2h]
+cardcooker66: checks 
+TomatoQQ: checks 
+*** TURN *** [Jh Td 2h] [Tc]
+cardcooker66: bets $1.50
+TomatoQQ: calls $1.50
+*** RIVER *** [Jh Td 2h Tc] [Th]
+cardcooker66: bets $2
+TomatoQQ: folds 
+Uncalled bet ($2) returned to cardcooker66
+cardcooker66 collected $8.35 from pot
+*** SUMMARY ***
+Total pot $8.75 | Rake $0.40 
+Board [Jh Td 2h Tc Th]
+Seat 1: helios25 (big blind) folded before Flop
+Seat 2: cardcooker66 collected ($8.35)
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded on the River
+Seat 7: agoldman (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #20155726039:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:29:41 ET
+Table 'Rhodia' 9-max Seat #9 is the button
+Seat 1: helios25 ($78.35 in chips) 
+Seat 2: cardcooker66 ($62.10 in chips) 
+Seat 3: markwin11 ($52.20 in chips) 
+Seat 4: comein888 ($48.95 in chips) 
+Seat 6: TomatoQQ ($74.10 in chips) 
+Seat 7: agoldman ($32 in chips) 
+Seat 9: Alameda22 ($50.20 in chips) 
+helios25: posts small blind $0.25
+cardcooker66: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 7d]
+markwin11: folds 
+comein888: folds 
+TomatoQQ: folds 
+agoldman: raises $1.50 to $2
+Alameda22: folds 
+helios25: folds 
+cardcooker66: folds 
+Uncalled bet ($1.50) returned to agoldman
+ADunhill joins the table at seat #8 
+agoldman collected $1.25 from pot
+agoldman: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: helios25 (small blind) folded before Flop
+Seat 2: cardcooker66 (big blind) folded before Flop
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman collected ($1.25)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155740825:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:30:28 ET
+Table 'Rhodia' 9-max Seat #1 is the button
+Seat 1: helios25 ($78.10 in chips) 
+Seat 2: cardcooker66 ($61.60 in chips) 
+Seat 3: markwin11 ($52.20 in chips) 
+Seat 4: comein888 ($48.95 in chips) 
+Seat 6: TomatoQQ ($74.10 in chips) 
+Seat 7: agoldman ($32.75 in chips) 
+Seat 8: ADunhill ($14 in chips) 
+Seat 9: Alameda22 ($50.20 in chips) 
+cardcooker66: posts small blind $0.25
+markwin11: posts big blind $0.50
+ADunhill: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 5h]
+comein888: calls $0.50
+TomatoQQ: raises $2.50 to $3
+agoldman: folds 
+ADunhill: calls $2.50
+Alameda22: folds 
+helios25: calls $3
+cardcooker66: folds 
+markwin11: folds 
+comein888: folds 
+*** FLOP *** [Kc 8c Jd]
+TomatoQQ: checks 
+ADunhill: checks 
+helios25: bets $8.50
+TomatoQQ: folds 
+ADunhill: calls $8.50
+*** TURN *** [Kc 8c Jd] [8h]
+ADunhill: checks 
+helios25: bets $2.50
+ADunhill: calls $2.50 and is all-in
+*** RIVER *** [Kc 8c Jd 8h] [6h]
+*** SHOW DOWN ***
+ADunhill: shows [Ad Th] (a pair of Eights)
+helios25: shows [Js Jh] (a full house, Jacks full of Eights)
+helios25 collected $30.75 from pot
+ADunhill leaves the table
+*** SUMMARY ***
+Total pot $32.25 | Rake $1.50 
+Board [Kc 8c Jd 8h 6h]
+Seat 1: helios25 (button) showed [Js Jh] and won ($30.75) with a full house, Jacks full of Eights
+Seat 2: cardcooker66 (small blind) folded before Flop
+Seat 3: markwin11 (big blind) folded before Flop
+Seat 4: comein888 folded before Flop
+Seat 6: TomatoQQ folded on the Flop
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 8: ADunhill showed [Ad Th] and lost with a pair of Eights
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155770932:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:32:01 ET
+Table 'Rhodia' 9-max Seat #2 is the button
+Seat 1: helios25 ($94.85 in chips) 
+Seat 2: cardcooker66 ($61.35 in chips) 
+Seat 3: markwin11 ($51.70 in chips) 
+Seat 4: comein888 ($48.45 in chips) 
+Seat 6: TomatoQQ ($71.10 in chips) 
+Seat 7: agoldman ($32.75 in chips) 
+Seat 9: Alameda22 ($50.20 in chips) 
+markwin11: posts small blind $0.25
+comein888: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 7d]
+TomatoQQ: folds 
+agoldman: folds 
+Alameda22: folds 
+helios25: folds 
+cardcooker66: calls $0.50
+markwin11: folds 
+comein888: checks 
+*** FLOP *** [7h 2d 2s]
+comein888: checks 
+cardcooker66: checks 
+*** TURN *** [7h 2d 2s] [3d]
+comein888: checks 
+cardcooker66: checks 
+*** RIVER *** [7h 2d 2s 3d] [Qs]
+comein888: checks 
+cardcooker66: checks 
+*** SHOW DOWN ***
+comein888: shows [Tc 8c] (a pair of Deuces)
+cardcooker66: shows [Qc 6c] (two pair, Queens and Deuces)
+cardcooker66 collected $1.20 from pot
+dwq2300 has returned
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [7h 2d 2s 3d Qs]
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 2: cardcooker66 (button) showed [Qc 6c] and won ($1.20) with two pair, Queens and Deuces
+Seat 3: markwin11 (small blind) folded before Flop
+Seat 4: comein888 (big blind) showed [Tc 8c] and lost with a pair of Deuces
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155790844:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:33:03 ET
+Table 'Rhodia' 9-max Seat #3 is the button
+Seat 1: helios25 ($94.85 in chips) 
+Seat 2: cardcooker66 ($62.05 in chips) 
+Seat 3: markwin11 ($51.45 in chips) 
+Seat 4: comein888 ($47.95 in chips) 
+Seat 6: TomatoQQ ($71.10 in chips) 
+Seat 7: agoldman ($32.75 in chips) 
+Seat 9: Alameda22 ($50.20 in chips) 
+comein888: posts small blind $0.25
+dwq2300: is sitting out 
+TomatoQQ: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Kh]
+dwq2300 leaves the table
+agoldman: folds 
+Alameda22: folds 
+helios25: raises $1.50 to $2
+cardcooker66: folds 
+cardcooker66 leaves the table
+markwin11: folds 
+comein888: folds 
+TomatoQQ: folds 
+Uncalled bet ($1.50) returned to helios25
+helios25 collected $1.25 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: helios25 collected ($1.25)
+Seat 2: cardcooker66 folded before Flop (didn't bet)
+Seat 3: markwin11 (button) folded before Flop (didn't bet)
+Seat 4: comein888 (small blind) folded before Flop
+Seat 6: TomatoQQ (big blind) folded before Flop
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155805762:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:33:50 ET
+Table 'Rhodia' 9-max Seat #4 is the button
+Seat 1: helios25 ($95.60 in chips) 
+Seat 3: markwin11 ($51.45 in chips) 
+Seat 4: comein888 ($47.70 in chips) 
+Seat 6: TomatoQQ ($70.60 in chips) 
+Seat 7: agoldman ($32.75 in chips) 
+Seat 9: Alameda22 ($50.20 in chips) 
+TomatoQQ: posts small blind $0.25
+agoldman: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 3s]
+Alameda22: folds 
+helios25: folds 
+markwin11: raises $1 to $1.50
+comein888: folds 
+TomatoQQ: folds 
+agoldman: folds 
+Uncalled bet ($1) returned to markwin11
+markwin11 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 3: markwin11 collected ($1.25)
+Seat 4: comein888 (button) folded before Flop (didn't bet)
+Seat 6: TomatoQQ (small blind) folded before Flop
+Seat 7: agoldman (big blind) folded before Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155823078:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:34:44 ET
+Table 'Rhodia' 9-max Seat #6 is the button
+Seat 1: helios25 ($95.60 in chips) 
+Seat 3: markwin11 ($52.20 in chips) 
+Seat 4: comein888 ($47.70 in chips) 
+Seat 6: TomatoQQ ($70.35 in chips) 
+Seat 7: agoldman ($32.25 in chips) 
+Seat 9: Alameda22 ($50.20 in chips) 
+agoldman: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 9s]
+helios25: folds 
+markwin11: folds 
+comein888: folds 
+TomatoQQ: raises $1.50 to $2
+agoldman: calls $1.75
+Alameda22: folds 
+*** FLOP *** [4d 2d 3c]
+agoldman: checks 
+TomatoQQ: bets $3
+agoldman: folds 
+Uncalled bet ($3) returned to TomatoQQ
+TomatoQQ collected $4.30 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [4d 2d 3c]
+Seat 1: helios25 folded before Flop (didn't bet)
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ (button) collected ($4.30)
+Seat 7: agoldman (small blind) folded on the Flop
+Seat 9: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #20155839054:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:35:35 ET
+Table 'Rhodia' 9-max Seat #7 is the button
+Seat 1: helios25 ($95.60 in chips) 
+Seat 3: markwin11 ($52.20 in chips) 
+Seat 4: comein888 ($47.70 in chips) 
+Seat 6: TomatoQQ ($72.65 in chips) 
+Seat 7: agoldman ($30.25 in chips) 
+Seat 9: Alameda22 ($49.70 in chips) 
+Alameda22: posts small blind $0.25
+helios25: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Td]
+markwin11: folds 
+comein888: folds 
+TomatoQQ: raises $1.50 to $2
+agoldman: folds 
+Alameda22: folds 
+helios25: folds 
+Uncalled bet ($1.50) returned to TomatoQQ
+TomatoQQ collected $1.25 from pot
+Ace$Faces joins the table at seat #2 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: helios25 (big blind) folded before Flop
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ collected ($1.25)
+Seat 7: agoldman (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #20155855913:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:36:28 ET
+Table 'Rhodia' 9-max Seat #9 is the button
+Seat 1: helios25 ($95.10 in chips) 
+Seat 2: Ace$Faces ($30 in chips) 
+Seat 3: markwin11 ($52.20 in chips) 
+Seat 4: comein888 ($47.70 in chips) 
+Seat 6: TomatoQQ ($73.40 in chips) 
+Seat 7: agoldman ($30.25 in chips) 
+Seat 9: Alameda22 ($49.45 in chips) 
+helios25: posts small blind $0.25
+Ace$Faces: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 6s]
+markwin11: folds 
+comein888: folds 
+TomatoQQ: folds 
+agoldman: folds 
+Alameda22: folds 
+helios25: folds 
+Uncalled bet ($0.25) returned to Ace$Faces
+Ace$Faces collected $0.50 from pot
+Ace$Faces: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: helios25 (small blind) folded before Flop
+Seat 2: Ace$Faces (big blind) collected ($0.50)
+Seat 3: markwin11 folded before Flop (didn't bet)
+Seat 4: comein888 folded before Flop (didn't bet)
+Seat 6: TomatoQQ folded before Flop (didn't bet)
+Seat 7: agoldman folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155866605:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:37:02 ET
+Table 'Rhodia' 9-max Seat #1 is the button
+Seat 1: helios25 ($94.85 in chips) 
+Seat 2: Ace$Faces ($30.25 in chips) 
+Seat 7: agoldman ($30.25 in chips) 
+Seat 9: Alameda22 ($49.45 in chips) 
+Ace$Faces: posts small blind $0.25
+markwin11 has timed out
+markwin11: is sitting out 
+comein888: is sitting out 
+markwin11 leaves the table
+TomatoQQ: is sitting out 
+agoldman: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 9s]
+tobstur01 joins the table at seat #5 
+Alameda22: folds 
+helios25: folds 
+Ace$Faces: calls $0.25
+agoldman: checks 
+*** FLOP *** [7d Jh Tc]
+comein888 leaves the table
+Ace$Faces: bets $1
+agoldman: folds 
+Uncalled bet ($1) returned to Ace$Faces
+Ace$Faces collected $0.95 from pot
+Ace$Faces: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [7d Jh Tc]
+Seat 1: helios25 (button) folded before Flop (didn't bet)
+Seat 2: Ace$Faces (small blind) collected ($0.95)
+Seat 7: agoldman (big blind) folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155894963:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:38:31 ET
+Table 'Rhodia' 9-max Seat #2 is the button
+Seat 1: helios25 ($94.85 in chips) 
+Seat 2: Ace$Faces ($30.70 in chips) 
+Seat 7: agoldman ($29.75 in chips) 
+Seat 9: Alameda22 ($49.45 in chips) 
+tobstur01 will be allowed to play after the button
+agoldman: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 5h]
+helios25: raises $1.50 to $2
+Ace$Faces: folds 
+agoldman: calls $1.75
+TomatoQQ leaves the table
+Alameda22: folds 
+*** FLOP *** [9h 2s 4h]
+agoldman: bets $3.50
+helios25: folds 
+Uncalled bet ($3.50) returned to agoldman
+agoldman collected $4.30 from pot
+agoldman: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [9h 2s 4h]
+Seat 1: helios25 folded on the Flop
+Seat 2: Ace$Faces (button) folded before Flop (didn't bet)
+Seat 7: agoldman (small blind) collected ($4.30)
+Seat 9: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #20155902929:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:38:57 ET
+Table 'Rhodia' 9-max Seat #7 is the button
+Seat 1: helios25 ($92.85 in chips) 
+Seat 2: Ace$Faces ($30.70 in chips) 
+Seat 5: tobstur01 ($10 in chips) 
+Seat 7: agoldman ($32.05 in chips) 
+Seat 9: Alameda22 ($48.95 in chips) 
+Alameda22: posts small blind $0.25
+helios25: posts big blind $0.50
+tobstur01: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Ah]
+Ace$Faces: raises $1.50 to $2
+tobstur01: calls $1.50
+agoldman: folds 
+agoldman leaves the table
+Alameda22: folds 
+helios25: folds 
+*** FLOP *** [9c 7d 8d]
+Ace$Faces: bets $2.50
+tobstur01: folds 
+Uncalled bet ($2.50) returned to Ace$Faces
+Ace$Faces collected $4.55 from pot
+Ace$Faces: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [9c 7d 8d]
+Seat 1: helios25 (big blind) folded before Flop
+Seat 2: Ace$Faces collected ($4.55)
+Seat 5: tobstur01 folded on the Flop
+Seat 7: agoldman (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #20155913341:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:39:29 ET
+Table 'Rhodia' 9-max Seat #9 is the button
+Seat 1: helios25 ($92.35 in chips) 
+Seat 2: Ace$Faces ($33.25 in chips) 
+Seat 5: tobstur01 ($8 in chips) 
+Seat 9: Alameda22 ($48.70 in chips) 
+helios25: posts small blind $0.25
+Ace$Faces: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 2c]
+tobstur01: calls $0.50
+Alameda22: folds 
+helios25: folds 
+Ace$Faces: checks 
+*** FLOP *** [3h 8c 2h]
+Ace$Faces: bets $1
+tobstur01: calls $1
+*** TURN *** [3h 8c 2h] [Qs]
+Ace$Faces: bets $1
+tobstur01: calls $1
+*** RIVER *** [3h 8c 2h Qs] [Jd]
+Ace$Faces: bets $1
+tobstur01: calls $1
+*** SHOW DOWN ***
+Ace$Faces: shows [6c Kc] (high card King)
+tobstur01: shows [Js 9c] (a pair of Jacks)
+tobstur01 collected $6.90 from pot
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [3h 8c 2h Qs Jd]
+Seat 1: helios25 (small blind) folded before Flop
+Seat 2: Ace$Faces (big blind) showed [6c Kc] and lost with high card King
+Seat 5: tobstur01 showed [Js 9c] and won ($6.90) with a pair of Jacks
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155925532:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:40:08 ET
+Table 'Rhodia' 9-max Seat #1 is the button
+Seat 1: helios25 ($92.10 in chips) 
+Seat 2: Ace$Faces ($29.75 in chips) 
+Seat 5: tobstur01 ($11.40 in chips) 
+Seat 9: Alameda22 ($48.70 in chips) 
+Roedel joins the table at seat #4 
+Ace$Faces: posts small blind $0.25
+tobstur01: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 2h]
+Alameda22: folds 
+helios25: raises $1.50 to $2
+Ace$Faces: folds 
+tobstur01: calls $1.50
+*** FLOP *** [Ad As 4d]
+tobstur01: checks 
+helios25: bets $3
+tobstur01: folds 
+Uncalled bet ($3) returned to helios25
+helios25 collected $4.05 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [Ad As 4d]
+Seat 1: helios25 (button) collected ($4.05)
+Seat 2: Ace$Faces (small blind) folded before Flop
+Seat 5: tobstur01 (big blind) folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,810 @@
+PokerStars Game #20080323019:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:11:15 (ET)
+Table 'Kalevala II' 9-max Seat #6 is the button
+Seat 1: paservant ($83.90 in chips) 
+Seat 2: Aerofoil ($25 in chips) 
+Seat 3: TioRicoLPP ($28.55 in chips) 
+Seat 4: R&O--UL ($18.40 in chips) 
+Seat 5: Alameda22 ($25 in chips) 
+Seat 6: austexpoker ($14.30 in chips) 
+Seat 7: novapro ($1.80 in chips) 
+Seat 8: flyonawall ($11.30 in chips) 
+Seat 9: Barrakuda84 ($9.75 in chips) 
+novapro: posts small blind $0.10
+flyonawall: posts big blind $0.25
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 3h]
+Barrakuda84: folds 
+paservant is connected 
+paservant: calls $0.25
+Aerofoil: folds 
+TioRicoLPP: calls $0.25
+R&O--UL: folds 
+R&O--UL is sitting out
+Alameda22: checks 
+austexpoker: folds 
+novapro: calls $0.15
+flyonawall: raises $0.25 to $0.50
+paservant: calls $0.25
+TioRicoLPP: calls $0.25
+Alameda22: folds 
+novapro: calls $0.25
+*** FLOP *** [Qh 9h Qc]
+novapro: checks 
+flyonawall: bets $1
+paservant: raises $2 to $3
+TioRicoLPP: folds 
+novapro: folds 
+flyonawall: raises $2 to $5
+paservant: calls $2
+*** TURN *** [Qh 9h Qc] [6h]
+flyonawall: bets $5.80 and is all-in
+paservant: calls $5.80
+*** RIVER *** [Qh 9h Qc 6h] [As]
+*** SHOW DOWN ***
+flyonawall: shows [Kh Th] (a flush, King high)
+paservant: mucks hand 
+flyonawall collected $22.70 from pot
+*** SUMMARY ***
+Total pot $23.85 | Rake $1.15 
+Board [Qh 9h Qc 6h As]
+Seat 1: paservant mucked [Qs Ts]
+Seat 2: Aerofoil folded before Flop (didn't bet)
+Seat 3: TioRicoLPP folded on the Flop
+Seat 4: R&O--UL folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop
+Seat 6: austexpoker (button) folded before Flop (didn't bet)
+Seat 7: novapro (small blind) folded on the Flop
+Seat 8: flyonawall (big blind) showed [Kh Th] and won ($22.70) with a flush, King high
+Seat 9: Barrakuda84 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080366565:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:13:12 (ET)
+Table 'Kalevala II' 9-max Seat #7 is the button
+Seat 1: paservant ($72.60 in chips) 
+Seat 2: Aerofoil ($25 in chips) 
+Seat 3: TioRicoLPP ($28.05 in chips) 
+Seat 5: Alameda22 ($24.75 in chips) 
+Seat 6: austexpoker ($14.30 in chips) 
+Seat 7: novapro ($7.15 in chips) 
+Seat 8: flyonawall ($22.70 in chips) 
+Seat 9: Barrakuda84 ($9.75 in chips) 
+flyonawall: posts small blind $0.10
+Barrakuda84: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Qc]
+paservant: folds 
+Aerofoil: folds 
+TioRicoLPP: folds 
+Alameda22: folds 
+austexpoker: folds 
+novapro: calls $0.25
+flyonawall: calls $0.15
+Barrakuda84: checks 
+*** FLOP *** [9s 8d As]
+flyonawall: checks 
+Barrakuda84: checks 
+novapro: checks 
+*** TURN *** [9s 8d As] [9d]
+flyonawall: checks 
+Barrakuda84: bets $0.75
+novapro: folds 
+flyonawall: calls $0.75
+*** RIVER *** [9s 8d As 9d] [Qs]
+flyonawall: checks 
+Barrakuda84: bets $1
+flyonawall: folds 
+Uncalled bet ($1) returned to Barrakuda84
+Barrakuda84 collected $2.15 from pot
+Barrakuda84: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [9s 8d As 9d Qs]
+Seat 1: paservant folded before Flop (didn't bet)
+Seat 2: Aerofoil folded before Flop (didn't bet)
+Seat 3: TioRicoLPP folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: austexpoker folded before Flop (didn't bet)
+Seat 7: novapro (button) folded on the Turn
+Seat 8: flyonawall (small blind) folded on the River
+Seat 9: Barrakuda84 (big blind) collected ($2.15)
+
+
+
+PokerStars Game #20080391843:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:14:20 (ET)
+Table 'Kalevala II' 9-max Seat #8 is the button
+Seat 2: Aerofoil ($25 in chips) 
+Seat 3: TioRicoLPP ($28.05 in chips) 
+Seat 5: Alameda22 ($24.75 in chips) 
+Seat 6: austexpoker ($14.30 in chips) 
+Seat 7: novapro ($6.90 in chips) 
+Seat 8: flyonawall ($21.70 in chips) 
+Seat 9: Barrakuda84 ($10.90 in chips) 
+Barrakuda84: posts small blind $0.10
+paservant: is sitting out 
+Aerofoil: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Ks]
+TioRicoLPP: folds 
+Alameda22: folds 
+austexpoker: folds 
+novapro: calls $0.25
+flyonawall: calls $0.25
+Barrakuda84: folds 
+Aerofoil: checks 
+*** FLOP *** [Kd Js 4c]
+Aerofoil: checks 
+novapro: bets $0.75
+flyonawall: calls $0.75
+Aerofoil: folds 
+*** TURN *** [Kd Js 4c] [Ad]
+novapro: bets $1
+flyonawall: calls $1
+*** RIVER *** [Kd Js 4c Ad] [3d]
+novapro: checks 
+flyonawall: checks 
+*** SHOW DOWN ***
+novapro: shows [Kh 5c] (a pair of Kings)
+flyonawall: shows [As Tc] (a pair of Aces)
+flyonawall collected $4.15 from pot
+*** SUMMARY ***
+Total pot $4.35 | Rake $0.20 
+Board [Kd Js 4c Ad 3d]
+Seat 2: Aerofoil (big blind) folded on the Flop
+Seat 3: TioRicoLPP folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: austexpoker folded before Flop (didn't bet)
+Seat 7: novapro showed [Kh 5c] and lost with a pair of Kings
+Seat 8: flyonawall (button) showed [As Tc] and won ($4.15) with a pair of Aces
+Seat 9: Barrakuda84 (small blind) folded before Flop
+
+
+
+PokerStars Game #20080412673:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:15:16 (ET)
+Table 'Kalevala II' 9-max Seat #9 is the button
+Seat 2: Aerofoil ($24.75 in chips) 
+Seat 3: TioRicoLPP ($28.05 in chips) 
+Seat 5: Alameda22 ($24.75 in chips) 
+Seat 6: austexpoker ($14.30 in chips) 
+Seat 7: novapro ($4.90 in chips) 
+Seat 8: flyonawall ($23.85 in chips) 
+Seat 9: Barrakuda84 ($10.80 in chips) 
+Aerofoil: posts small blind $0.10
+TioRicoLPP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 5d]
+Alameda22: folds 
+austexpoker: folds 
+novapro: calls $0.25
+flyonawall: calls $0.25
+Barrakuda84: folds 
+Aerofoil: folds 
+TioRicoLPP: checks 
+*** FLOP *** [Td 2s 9c]
+TioRicoLPP: checks 
+novapro: checks 
+flyonawall: checks 
+*** TURN *** [Td 2s 9c] [8s]
+TioRicoLPP: bets $0.50
+novapro: calls $0.50
+flyonawall: folds 
+*** RIVER *** [Td 2s 9c 8s] [2h]
+TioRicoLPP: checks 
+novapro: checks 
+*** SHOW DOWN ***
+TioRicoLPP: shows [9h Kh] (two pair, Nines and Deuces)
+novapro: mucks hand 
+TioRicoLPP collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [Td 2s 9c 8s 2h]
+Seat 2: Aerofoil (small blind) folded before Flop
+Seat 3: TioRicoLPP (big blind) showed [9h Kh] and won ($1.80) with two pair, Nines and Deuces
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: austexpoker folded before Flop (didn't bet)
+Seat 7: novapro mucked [8h 7s]
+Seat 8: flyonawall folded on the Turn
+Seat 9: Barrakuda84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080433959:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:16:13 (ET)
+Table 'Kalevala II' 9-max Seat #2 is the button
+Seat 2: Aerofoil ($24.65 in chips) 
+Seat 3: TioRicoLPP ($29.10 in chips) 
+Seat 5: Alameda22 ($24.75 in chips) 
+Seat 6: austexpoker ($14.30 in chips) 
+Seat 7: novapro ($4.15 in chips) 
+Seat 8: flyonawall ($23.60 in chips) 
+Seat 9: Barrakuda84 ($10.80 in chips) 
+TioRicoLPP: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Th]
+austexpoker: calls $0.25
+novapro: calls $0.25
+flyonawall: folds 
+Barrakuda84: calls $0.25
+Aerofoil: calls $0.25
+TioRicoLPP: folds 
+Alameda22: checks 
+*** FLOP *** [5c 2c 4s]
+Alameda22: checks 
+austexpoker: checks 
+novapro: checks 
+Barrakuda84: checks 
+Aerofoil: checks 
+*** TURN *** [5c 2c 4s] [4h]
+Alameda22: checks 
+austexpoker: checks 
+novapro: bets $3.90 and is all-in
+Barrakuda84: folds 
+Aerofoil: folds 
+Alameda22: folds 
+austexpoker: folds 
+Uncalled bet ($3.90) returned to novapro
+novapro collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [5c 2c 4s 4h]
+Seat 2: Aerofoil (button) folded on the Turn
+Seat 3: TioRicoLPP (small blind) folded before Flop
+Seat 5: Alameda22 (big blind) folded on the Turn
+Seat 6: austexpoker folded on the Turn
+Seat 7: novapro collected ($1.30)
+Seat 8: flyonawall folded before Flop (didn't bet)
+Seat 9: Barrakuda84 folded on the Turn
+
+
+
+PokerStars Game #20080463989:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:17:34 (ET)
+Table 'Kalevala II' 9-max Seat #3 is the button
+Seat 2: Aerofoil ($25 in chips) 
+Seat 3: TioRicoLPP ($29 in chips) 
+Seat 5: Alameda22 ($24.50 in chips) 
+Seat 6: austexpoker ($14.05 in chips) 
+Seat 7: novapro ($5.20 in chips) 
+Seat 8: flyonawall ($23.60 in chips) 
+Seat 9: Barrakuda84 ($10.55 in chips) 
+Alameda22: posts small blind $0.10
+austexpoker: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Qh]
+novapro: raises $1.25 to $1.50
+flyonawall: calls $1.50
+Barrakuda84: folds 
+Aerofoil: folds 
+TioRicoLPP: folds 
+Alameda22: folds 
+austexpoker: folds 
+*** FLOP *** [Qd 9c Th]
+novapro: bets $3.70 and is all-in
+R&O--UL leaves the table
+Kfuse joins the table at seat #4 
+flyonawall: calls $3.70
+*** TURN *** [Qd 9c Th] [Ad]
+*** RIVER *** [Qd 9c Th Ad] [Js]
+*** SHOW DOWN ***
+novapro: shows [Jc As] (two pair, Aces and Jacks)
+flyonawall: mucks hand 
+novapro collected $10.25 from pot
+*** SUMMARY ***
+Total pot $10.75 | Rake $0.50 
+Board [Qd 9c Th Ad Js]
+Seat 2: Aerofoil folded before Flop (didn't bet)
+Seat 3: TioRicoLPP (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 6: austexpoker (big blind) folded before Flop
+Seat 7: novapro showed [Jc As] and won ($10.25) with two pair, Aces and Jacks
+Seat 8: flyonawall mucked [7d 9d]
+Seat 9: Barrakuda84 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080488439:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:18:41 (ET)
+Table 'Kalevala II' 9-max Seat #5 is the button
+Seat 2: Aerofoil ($25 in chips) 
+Seat 3: TioRicoLPP ($29 in chips) 
+Seat 5: Alameda22 ($24.40 in chips) 
+Seat 6: austexpoker ($13.80 in chips) 
+Seat 7: novapro ($10.25 in chips) 
+Seat 8: flyonawall ($18.40 in chips) 
+Seat 9: Barrakuda84 ($10.55 in chips) 
+austexpoker: posts small blind $0.10
+novapro: posts big blind $0.25
+Kfuse: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Qd]
+flyonawall: folds 
+Barrakuda84: calls $0.25
+Aerofoil: folds 
+TioRicoLPP: folds 
+Alameda22: folds 
+austexpoker: folds 
+novapro: checks 
+*** FLOP *** [Js 5h 2d]
+novapro: bets $0.25
+Barrakuda84: calls $0.25
+*** TURN *** [Js 5h 2d] [9d]
+novapro: checks 
+Barrakuda84: checks 
+*** RIVER *** [Js 5h 2d 9d] [7c]
+novapro: checks 
+Barrakuda84: bets $0.25
+novapro: calls $0.25
+*** SHOW DOWN ***
+Barrakuda84: shows [Ac Qs] (high card Ace)
+novapro: shows [5d 3s] (a pair of Fives)
+novapro collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Js 5h 2d 9d 7c]
+Seat 2: Aerofoil folded before Flop (didn't bet)
+Seat 3: TioRicoLPP folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: austexpoker (small blind) folded before Flop
+Seat 7: novapro (big blind) showed [5d 3s] and won ($1.55) with a pair of Fives
+Seat 8: flyonawall folded before Flop (didn't bet)
+Seat 9: Barrakuda84 showed [Ac Qs] and lost with high card Ace
+
+
+
+PokerStars Game #20080513060:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:19:47 (ET)
+Table 'Kalevala II' 9-max Seat #6 is the button
+Seat 2: Aerofoil ($25 in chips) 
+Seat 3: TioRicoLPP ($29 in chips) 
+Seat 5: Alameda22 ($24.40 in chips) 
+Seat 6: austexpoker ($13.70 in chips) 
+Seat 7: novapro ($11.05 in chips) 
+Seat 8: flyonawall ($18.40 in chips) 
+Seat 9: Barrakuda84 ($9.80 in chips) 
+novapro: posts small blind $0.10
+flyonawall: posts big blind $0.25
+Kfuse: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Jc]
+Barrakuda84: folds 
+Aerofoil: folds 
+TioRicoLPP: folds 
+Alameda22: folds 
+austexpoker: folds 
+novapro: calls $0.15
+flyonawall: checks 
+*** FLOP *** [7d Js Ah]
+novapro: checks 
+flyonawall: checks 
+*** TURN *** [7d Js Ah] [Ks]
+novapro: checks 
+flyonawall: bets $0.25
+novapro: raises $0.25 to $0.50
+flyonawall: calls $0.25
+*** RIVER *** [7d Js Ah Ks] [7s]
+novapro: bets $1
+flyonawall: calls $1
+*** SHOW DOWN ***
+novapro: shows [Ad 9d] (two pair, Aces and Sevens)
+flyonawall: mucks hand 
+novapro collected $3.35 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [7d Js Ah Ks 7s]
+Seat 2: Aerofoil folded before Flop (didn't bet)
+Seat 3: TioRicoLPP folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: austexpoker (button) folded before Flop (didn't bet)
+Seat 7: novapro (small blind) showed [Ad 9d] and won ($3.35) with two pair, Aces and Sevens
+Seat 8: flyonawall (big blind) mucked [3c Kh]
+Seat 9: Barrakuda84 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080534094:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:20:43 (ET)
+Table 'Kalevala II' 9-max Seat #7 is the button
+Seat 2: Aerofoil ($25 in chips) 
+Seat 3: TioRicoLPP ($29 in chips) 
+Seat 5: Alameda22 ($24.40 in chips) 
+Seat 6: austexpoker ($13.70 in chips) 
+Seat 7: novapro ($12.65 in chips) 
+Seat 8: flyonawall ($16.65 in chips) 
+Seat 9: Barrakuda84 ($9.80 in chips) 
+flyonawall: posts small blind $0.10
+Barrakuda84: posts big blind $0.25
+Kfuse: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Td]
+Aerofoil: folds 
+TioRicoLPP: folds 
+Alameda22: folds 
+austexpoker: folds 
+novapro: calls $0.25
+flyonawall: raises $0.25 to $0.50
+Barrakuda84: calls $0.25
+novapro: calls $0.25
+*** FLOP *** [6h 3c 4c]
+flyonawall: bets $0.50
+Barrakuda84: calls $0.50
+novapro: calls $0.50
+*** TURN *** [6h 3c 4c] [6s]
+flyonawall: bets $0.50
+Barrakuda84: calls $0.50
+novapro: calls $0.50
+*** RIVER *** [6h 3c 4c 6s] [7c]
+flyonawall: bets $2
+Barrakuda84: raises $2 to $4
+novapro: folds 
+flyonawall: folds 
+Uncalled bet ($2) returned to Barrakuda84
+Barrakuda84 collected $8.10 from pot
+Barrakuda84: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.40 
+Board [6h 3c 4c 6s 7c]
+Seat 2: Aerofoil folded before Flop (didn't bet)
+Seat 3: TioRicoLPP folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: austexpoker folded before Flop (didn't bet)
+Seat 7: novapro (button) folded on the River
+Seat 8: flyonawall (small blind) folded on the River
+Seat 9: Barrakuda84 (big blind) collected ($8.10)
+
+
+
+PokerStars Game #20080558404:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:21:49 (ET)
+Table 'Kalevala II' 9-max Seat #8 is the button
+Seat 2: Aerofoil ($25 in chips) 
+Seat 3: TioRicoLPP ($29 in chips) 
+Seat 5: Alameda22 ($24.40 in chips) 
+Seat 6: austexpoker ($13.70 in chips) 
+Seat 7: novapro ($11.15 in chips) 
+Seat 8: flyonawall ($13.15 in chips) 
+Seat 9: Barrakuda84 ($14.40 in chips) 
+Barrakuda84: posts small blind $0.10
+Aerofoil: posts big blind $0.25
+Kfuse: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c As]
+TioRicoLPP: folds 
+Alameda22: folds 
+austexpoker: folds 
+novapro: raises $0.75 to $1
+flyonawall: calls $1
+Barrakuda84: folds 
+Aerofoil: folds 
+*** FLOP *** [4d 3d 2h]
+novapro: bets $0.75
+flyonawall: calls $0.75
+*** TURN *** [4d 3d 2h] [5c]
+novapro: checks 
+flyonawall: checks 
+*** RIVER *** [4d 3d 2h 5c] [Tc]
+novapro: checks 
+flyonawall: checks 
+*** SHOW DOWN ***
+novapro: shows [Ks Jh] (high card King)
+flyonawall: shows [Js 3s] (a pair of Threes)
+flyonawall collected $3.70 from pot
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [4d 3d 2h 5c Tc]
+Seat 2: Aerofoil (big blind) folded before Flop
+Seat 3: TioRicoLPP folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: austexpoker folded before Flop (didn't bet)
+Seat 7: novapro showed [Ks Jh] and lost with high card King
+Seat 8: flyonawall (button) showed [Js 3s] and won ($3.70) with a pair of Threes
+Seat 9: Barrakuda84 (small blind) folded before Flop
+
+
+
+PokerStars Game #20080577951:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:22:41 (ET)
+Table 'Kalevala II' 9-max Seat #9 is the button
+Seat 2: Aerofoil ($24.75 in chips) 
+Seat 3: TioRicoLPP ($29 in chips) 
+Seat 5: Alameda22 ($24.40 in chips) 
+Seat 6: austexpoker ($13.70 in chips) 
+Seat 7: novapro ($9.40 in chips) 
+Seat 8: flyonawall ($15.10 in chips) 
+Seat 9: Barrakuda84 ($14.30 in chips) 
+Aerofoil: posts small blind $0.10
+TioRicoLPP: posts big blind $0.25
+Kfuse: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 2c]
+Alameda22: folds 
+austexpoker: folds 
+novapro: calls $0.25
+flyonawall: folds 
+flyonawall leaves the table
+Barrakuda84: folds 
+Aerofoil: folds 
+austexpoker leaves the table
+TioRicoLPP: checks 
+*** FLOP *** [Qd Kc Td]
+TioRicoLPP: checks 
+novapro: checks 
+*** TURN *** [Qd Kc Td] [Th]
+TioRicoLPP: checks 
+novapro: bets $1
+TioRicoLPP: folds 
+Uncalled bet ($1) returned to novapro
+novapro collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qd Kc Td Th]
+Seat 2: Aerofoil (small blind) folded before Flop
+Seat 3: TioRicoLPP (big blind) folded on the Turn
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: austexpoker folded before Flop (didn't bet)
+Seat 7: novapro collected ($0.60)
+Seat 8: flyonawall folded before Flop (didn't bet)
+Seat 9: Barrakuda84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080595615:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:23:29 (ET)
+Table 'Kalevala II' 9-max Seat #2 is the button
+Seat 2: Aerofoil ($25 in chips) 
+Seat 3: TioRicoLPP ($28.75 in chips) 
+Seat 4: Kfuse ($25 in chips) 
+Seat 5: Alameda22 ($24.40 in chips) 
+Seat 7: novapro ($9.75 in chips) 
+Seat 9: Barrakuda84 ($14.30 in chips) 
+TioRicoLPP: posts small blind $0.10
+Kfuse: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Kc]
+Alameda22: folds 
+novapro: calls $0.25
+Barrakuda84: folds 
+Aerofoil: folds 
+TioRicoLPP: calls $0.15
+Kfuse: checks 
+*** FLOP *** [3c 4d 7c]
+paservant leaves the table
+TioRicoLPP: checks 
+Kfuse: checks 
+novapro: bets $0.75
+TioRicoLPP: folds 
+Kfuse: folds 
+Uncalled bet ($0.75) returned to novapro
+novapro collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [3c 4d 7c]
+Seat 2: Aerofoil (button) folded before Flop (didn't bet)
+Seat 3: TioRicoLPP (small blind) folded on the Flop
+Seat 4: Kfuse (big blind) folded on the Flop
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 7: novapro collected ($0.75)
+Seat 9: Barrakuda84 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080615519:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:24:22 (ET)
+Table 'Kalevala II' 9-max Seat #3 is the button
+Seat 2: Aerofoil ($25 in chips) 
+Seat 3: TioRicoLPP ($28.50 in chips) 
+Seat 4: Kfuse ($24.75 in chips) 
+Seat 5: Alameda22 ($24.40 in chips) 
+Seat 7: novapro ($10.25 in chips) 
+Seat 9: Barrakuda84 ($14.30 in chips) 
+Kfuse: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Qs]
+novapro: raises $0.50 to $0.75
+Barrakuda84: calls $0.75
+Aerofoil: folds 
+TioRicoLPP: folds 
+Kfuse: folds 
+Alameda22: folds 
+*** FLOP *** [3s 9h 7s]
+novapro: bets $0.75
+Barrakuda84: calls $0.75
+*** TURN *** [3s 9h 7s] [2s]
+novapro: bets $0.75
+Barrakuda84: calls $0.75
+*** RIVER *** [3s 9h 7s 2s] [5c]
+novapro: bets $0.75
+Jimmy96 joins the table at seat #1 
+Barrakuda84: folds 
+Uncalled bet ($0.75) returned to novapro
+novapro collected $4.65 from pot
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [3s 9h 7s 2s 5c]
+Seat 2: Aerofoil folded before Flop (didn't bet)
+Seat 3: TioRicoLPP (button) folded before Flop (didn't bet)
+Seat 4: Kfuse (small blind) folded before Flop
+Seat 5: Alameda22 (big blind) folded before Flop
+Seat 7: novapro collected ($4.65)
+Seat 9: Barrakuda84 folded on the River
+
+
+
+PokerStars Game #20080635552:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:25:16 (ET)
+Table 'Kalevala II' 9-max Seat #4 is the button
+Seat 2: Aerofoil ($25 in chips) 
+Seat 3: TioRicoLPP ($28.50 in chips) 
+Seat 4: Kfuse ($24.65 in chips) 
+Seat 5: Alameda22 ($24.15 in chips) 
+Seat 7: novapro ($12.65 in chips) 
+Seat 9: Barrakuda84 ($12.05 in chips) 
+Alameda22: posts small blind $0.10
+novapro: posts big blind $0.25
+Jimmy96: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 4s]
+Barrakuda84: folds 
+Aerofoil: folds 
+TioRicoLPP: folds 
+Kfuse: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to novapro
+novapro collected $0.20 from pot
+novapro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Aerofoil folded before Flop (didn't bet)
+Seat 3: TioRicoLPP folded before Flop (didn't bet)
+Seat 4: Kfuse (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 7: novapro (big blind) collected ($0.20)
+Seat 9: Barrakuda84 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080646093:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:25:45 (ET)
+Table 'Kalevala II' 9-max Seat #5 is the button
+Seat 2: Aerofoil ($25 in chips) 
+Seat 3: TioRicoLPP ($28.50 in chips) 
+Seat 4: Kfuse ($24.65 in chips) 
+Seat 5: Alameda22 ($24.05 in chips) 
+Seat 7: novapro ($12.75 in chips) 
+Seat 9: Barrakuda84 ($12.05 in chips) 
+novapro: posts small blind $0.10
+Barrakuda84: posts big blind $0.25
+Jimmy96: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 9s]
+Aerofoil: folds 
+TioRicoLPP: folds 
+Kfuse: folds 
+Alameda22: folds 
+novapro: calls $0.15
+Barrakuda84: checks 
+*** FLOP *** [9h 7h 3d]
+novapro: checks 
+Barrakuda84: checks 
+*** TURN *** [9h 7h 3d] [Qc]
+novapro: checks 
+Barrakuda84: checks 
+*** RIVER *** [9h 7h 3d Qc] [9c]
+novapro: checks 
+Barrakuda84: checks 
+*** SHOW DOWN ***
+novapro: shows [As 8h] (a pair of Nines)
+Barrakuda84: shows [5h 3c] (two pair, Nines and Threes)
+Barrakuda84 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [9h 7h 3d Qc 9c]
+Seat 2: Aerofoil folded before Flop (didn't bet)
+Seat 3: TioRicoLPP folded before Flop (didn't bet)
+Seat 4: Kfuse folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: novapro (small blind) showed [As 8h] and lost with a pair of Nines
+Seat 9: Barrakuda84 (big blind) showed [5h 3c] and won ($0.50) with two pair, Nines and Threes
+
+
+
+PokerStars Game #20080659586:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:26:21 (ET)
+Table 'Kalevala II' 9-max Seat #7 is the button
+Seat 1: Jimmy96 ($25 in chips) 
+Seat 2: Aerofoil ($25 in chips) 
+Seat 3: TioRicoLPP ($28.50 in chips) 
+Seat 4: Kfuse ($24.65 in chips) 
+Seat 5: Alameda22 ($24.05 in chips) 
+Seat 7: novapro ($12.50 in chips) 
+Seat 9: Barrakuda84 ($12.30 in chips) 
+Barrakuda84: posts small blind $0.10
+Jimmy96: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 3s]
+Aerofoil: raises $0.75 to $1
+TioRicoLPP: folds 
+Kfuse: calls $1
+Alameda22: folds 
+novapro: calls $1
+Barrakuda84: folds 
+Jimmy96: folds 
+*** FLOP *** [Ts 7s 9s]
+Aerofoil: bets $2
+Kfuse: raises $3 to $5
+novapro: raises $6.50 to $11.50 and is all-in
+Aerofoil: folds 
+Kfuse: calls $6.50
+*** TURN *** [Ts 7s 9s] [5d]
+*** RIVER *** [Ts 7s 9s 5d] [Tc]
+*** SHOW DOWN ***
+Kfuse: shows [9h 9c] (a full house, Nines full of Tens)
+novapro: mucks hand 
+Kfuse collected $26.95 from pot
+*** SUMMARY ***
+Total pot $28.35 | Rake $1.40 
+Board [Ts 7s 9s 5d Tc]
+Seat 1: Jimmy96 (big blind) folded before Flop
+Seat 2: Aerofoil folded on the Flop
+Seat 3: TioRicoLPP folded before Flop (didn't bet)
+Seat 4: Kfuse showed [9h 9c] and won ($26.95) with a full house, Nines full of Tens
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 7: novapro (button) mucked [7d 9d]
+Seat 9: Barrakuda84 (small blind) folded before Flop
+
+
+
+PokerStars Game #20080693210:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:27:52 (ET)
+Table 'Kalevala II' 9-max Seat #9 is the button
+Seat 1: Jimmy96 ($24.75 in chips) 
+Seat 2: Aerofoil ($25 in chips) 
+Seat 3: TioRicoLPP ($28.50 in chips) 
+Seat 4: Kfuse ($39.10 in chips) 
+Seat 5: Alameda22 ($24.05 in chips) 
+Seat 9: Barrakuda84 ($12.20 in chips) 
+Jimmy96: posts small blind $0.10
+Aerofoil: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 5c]
+novapro leaves the table
+TioRicoLPP: calls $0.25
+Kfuse: raises $1 to $1.25
+Alameda22: folds 
+Barrakuda84: folds 
+Barrakuda84 leaves the table
+Jimmy96: folds 
+Aerofoil: folds 
+TioRicoLPP: folds 
+Uncalled bet ($1) returned to Kfuse
+Kfuse collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Jimmy96 (small blind) folded before Flop
+Seat 2: Aerofoil (big blind) folded before Flop
+Seat 3: TioRicoLPP folded before Flop
+Seat 4: Kfuse collected ($0.85)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 9: Barrakuda84 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080712085:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:28:44 (ET)
+Table 'Kalevala II' 9-max Seat #1 is the button
+Seat 1: Jimmy96 ($24.65 in chips) 
+Seat 2: Aerofoil ($24.75 in chips) 
+Seat 3: TioRicoLPP ($28.25 in chips) 
+Seat 4: Kfuse ($39.70 in chips) 
+Seat 5: Alameda22 ($24.05 in chips) 
+Kfuse said, "thats right fish."
+Aerofoil: posts small blind $0.10
+TioRicoLPP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 9c]
+Kfuse: folds 
+allinbrian44 joins the table at seat #6 
+Alameda22: folds 
+Jimmy96: folds 
+Aerofoil: raises $0.25 to $0.50
+TioRicoLPP: folds 
+Uncalled bet ($0.25) returned to Aerofoil
+Aerofoil collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Jimmy96 (button) folded before Flop (didn't bet)
+Seat 2: Aerofoil (small blind) collected ($0.50)
+Seat 3: TioRicoLPP (big blind) folded before Flop
+Seat 4: Kfuse folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+
+
+

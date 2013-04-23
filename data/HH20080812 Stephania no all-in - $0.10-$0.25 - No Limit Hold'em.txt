@@ -1,0 +1,2450 @@
+PokerStars Game #19576004378:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 22:54:30 (ET)
+Table 'Stephania' 9-max Seat #6 is the button
+Seat 1: iD,Squall ($25 in chips) 
+Seat 3: DaDalein ($39.20 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 5: Spyder_gst ($18.05 in chips) 
+Seat 6: Logasm ($9.90 in chips) 
+Seat 7: the_chilla ($3.25 in chips) 
+Seat 8: pokerfun2005 ($115.30 in chips) 
+Seat 9: k030101 ($36 in chips) 
+the_chilla: posts small blind $0.10
+pokerfun2005: posts big blind $0.25
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 2c]
+k030101: folds 
+iD,Squall: calls $0.25
+DaDalein: calls $0.25
+Alameda22: checks 
+Spyder_gst: folds 
+Logasm: folds 
+the_chilla: raises $0.75 to $1
+pokerfun2005: folds 
+iD,Squall: raises $1 to $2
+DaDalein: folds 
+Alameda22: folds 
+the_chilla: raises $1.25 to $3.25 and is all-in
+iD,Squall: calls $1.25
+*** FLOP *** [2s 3c Jh]
+*** TURN *** [2s 3c Jh] [9h]
+*** RIVER *** [2s 3c Jh 9h] [2d]
+*** SHOW DOWN ***
+the_chilla: shows [Js Jc] (a full house, Jacks full of Deuces)
+iD,Squall: shows [Kh Kc] (two pair, Kings and Deuces)
+the_chilla collected $6.90 from pot
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [2s 3c Jh 9h 2d]
+Seat 1: iD,Squall showed [Kh Kc] and lost with two pair, Kings and Deuces
+Seat 3: DaDalein folded before Flop
+Seat 4: Alameda22 folded before Flop
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm (button) folded before Flop (didn't bet)
+Seat 7: the_chilla (small blind) showed [Js Jc] and won ($6.90) with a full house, Jacks full of Deuces
+Seat 8: pokerfun2005 (big blind) folded before Flop
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576027321:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 22:55:31 (ET)
+Table 'Stephania' 9-max Seat #7 is the button
+Seat 1: iD,Squall ($21.75 in chips) 
+Seat 3: DaDalein ($38.95 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: Spyder_gst ($18.05 in chips) 
+Seat 6: Logasm ($9.90 in chips) 
+Seat 7: the_chilla ($6.90 in chips) 
+Seat 8: pokerfun2005 ($115.05 in chips) 
+Seat 9: k030101 ($36 in chips) 
+pokerfun2005: posts small blind $0.10
+k030101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 6s]
+iD,Squall: folds 
+DaDalein: calls $0.25
+jasons0147 joins the table at seat #2 
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: folds 
+the_chilla: folds 
+pokerfun2005: calls $0.15
+k030101: checks 
+*** FLOP *** [3h 8s 9h]
+pokerfun2005: checks 
+k030101: checks 
+DaDalein: checks 
+*** TURN *** [3h 8s 9h] [Ks]
+pokerfun2005: bets $0.75
+k030101: folds 
+DaDalein: folds 
+Uncalled bet ($0.75) returned to pokerfun2005
+pokerfun2005 collected $0.75 from pot
+pokerfun2005: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [3h 8s 9h Ks]
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 3: DaDalein folded on the Turn
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla (button) folded before Flop (didn't bet)
+Seat 8: pokerfun2005 (small blind) collected ($0.75)
+Seat 9: k030101 (big blind) folded on the Turn
+
+
+
+PokerStars Game #19576081465:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 22:57:58 (ET)
+Table 'Stephania' 9-max Seat #8 is the button
+Seat 1: iD,Squall ($25 in chips) 
+Seat 3: DaDalein ($38.70 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: Spyder_gst ($18.05 in chips) 
+Seat 6: Logasm ($9.90 in chips) 
+Seat 7: the_chilla ($6.90 in chips) 
+Seat 8: pokerfun2005 ($115.55 in chips) 
+Seat 9: k030101 ($35.75 in chips) 
+k030101: posts small blind $0.10
+iD,Squall: posts big blind $0.25
+jasons0147: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 6h]
+DaDalein: folds 
+Alameda22: folds 
+Spyder_gst: folds 
+Spyder_gst is sitting out
+Logasm: folds 
+the_chilla: folds 
+pokerfun2005 has timed out
+pokerfun2005: folds 
+pokerfun2005 is sitting out
+k030101: raises $0.50 to $0.75
+iD,Squall: folds 
+Uncalled bet ($0.50) returned to k030101
+k030101 collected $0.50 from pot
+k030101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: iD,Squall (big blind) folded before Flop
+Seat 3: DaDalein folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla folded before Flop (didn't bet)
+Seat 8: pokerfun2005 (button) folded before Flop (didn't bet)
+Seat 9: k030101 (small blind) collected ($0.50)
+
+
+
+PokerStars Game #19576106067:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 22:59:05 (ET)
+Table 'Stephania' 9-max Seat #9 is the button
+Seat 1: iD,Squall ($24.75 in chips) 
+Seat 2: jasons0147 ($25 in chips) 
+Seat 3: DaDalein ($38.70 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 6: Logasm ($9.90 in chips) 
+Seat 7: the_chilla ($6.90 in chips) 
+Seat 9: k030101 ($36 in chips) 
+iD,Squall: posts small blind $0.10
+jasons0147: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Jc]
+DaDalein: folds 
+Alameda22: folds 
+Logasm: folds 
+the_chilla: folds 
+k030101: folds 
+iD,Squall: folds 
+Uncalled bet ($0.15) returned to jasons0147
+jasons0147 collected $0.20 from pot
+jasons0147: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: iD,Squall (small blind) folded before Flop
+Seat 2: jasons0147 (big blind) collected ($0.20)
+Seat 3: DaDalein folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla folded before Flop (didn't bet)
+Seat 9: k030101 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576121879:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 22:59:48 (ET)
+Table 'Stephania' 9-max Seat #1 is the button
+Seat 1: iD,Squall ($24.65 in chips) 
+Seat 2: jasons0147 ($25.10 in chips) 
+Seat 3: DaDalein ($38.70 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 6: Logasm ($9.90 in chips) 
+Seat 7: the_chilla ($6.90 in chips) 
+Seat 9: k030101 ($36 in chips) 
+jasons0147: posts small blind $0.10
+DaDalein: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 2s]
+Alameda22: folds 
+Logasm: folds 
+the_chilla: calls $0.25
+k030101: folds 
+iD,Squall: raises $0.75 to $1
+jasons0147: folds 
+DaDalein: folds 
+the_chilla: calls $0.75
+*** FLOP *** [3h Ad 5h]
+the_chilla: checks 
+iD,Squall: checks 
+*** TURN *** [3h Ad 5h] [Jd]
+the_chilla: bets $1.50
+iD,Squall: folds 
+Uncalled bet ($1.50) returned to the_chilla
+the_chilla collected $2.25 from pot
+the_chilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [3h Ad 5h Jd]
+Seat 1: iD,Squall (button) folded on the Turn
+Seat 2: jasons0147 (small blind) folded before Flop
+Seat 3: DaDalein (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla collected ($2.25)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576153292:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:01:17 (ET)
+Table 'Stephania' 9-max Seat #2 is the button
+Seat 1: iD,Squall ($25 in chips) 
+Seat 2: jasons0147 ($25 in chips) 
+Seat 3: DaDalein ($38.45 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 6: Logasm ($9.90 in chips) 
+Seat 7: the_chilla ($8.15 in chips) 
+Seat 9: k030101 ($36 in chips) 
+DaDalein: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 3s]
+Logasm: raises $0.50 to $0.75
+the_chilla: folds 
+k030101: folds 
+iD,Squall: folds 
+jasons0147: folds 
+DaDalein: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to Logasm
+Logasm collected $0.60 from pot
+Logasm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 2: jasons0147 (button) folded before Flop (didn't bet)
+Seat 3: DaDalein (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 6: Logasm collected ($0.60)
+Seat 7: the_chilla folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576165596:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:01:51 (ET)
+Table 'Stephania' 9-max Seat #3 is the button
+Seat 1: iD,Squall ($25 in chips) 
+Seat 2: jasons0147 ($25 in chips) 
+Seat 3: DaDalein ($38.35 in chips) 
+Seat 4: Alameda22 ($24.50 in chips) 
+Seat 6: Logasm ($10.25 in chips) 
+Seat 7: the_chilla ($8.15 in chips) 
+Seat 9: k030101 ($36 in chips) 
+Alameda22: posts small blind $0.10
+Logasm: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 5s]
+Spyder_gst has returned
+the_chilla: calls $0.25
+k030101: folds 
+iD,Squall: calls $0.25
+jasons0147: folds 
+DaDalein: folds 
+Alameda22: folds 
+Logasm: checks 
+*** FLOP *** [Ks 4s 2c]
+Logasm: checks 
+the_chilla: checks 
+iD,Squall: checks 
+*** TURN *** [Ks 4s 2c] [As]
+Logasm: bets $0.25
+the_chilla: calls $0.25
+iD,Squall: folds 
+*** RIVER *** [Ks 4s 2c As] [5d]
+Logasm: bets $0.25
+the_chilla: raises $0.50 to $0.75
+Logasm: calls $0.50
+*** SHOW DOWN ***
+the_chilla: shows [Qs 9s] (a flush, Ace high)
+Logasm: mucks hand 
+the_chilla collected $2.75 from pot
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [Ks 4s 2c As 5d]
+Seat 1: iD,Squall folded on the Turn
+Seat 2: jasons0147 folded before Flop (didn't bet)
+Seat 3: DaDalein (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 6: Logasm (big blind) mucked [5c 3s]
+Seat 7: the_chilla showed [Qs 9s] and won ($2.75) with a flush, Ace high
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576197869:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:03:22 (ET)
+Table 'Stephania' 9-max Seat #4 is the button
+Seat 1: iD,Squall ($24.75 in chips) 
+Seat 2: jasons0147 ($25 in chips) 
+Seat 3: DaDalein ($38.35 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 6: Logasm ($9 in chips) 
+Seat 7: the_chilla ($9.65 in chips) 
+Seat 9: k030101 ($36 in chips) 
+Spyder_gst will be allowed to play after the button
+Logasm: posts small blind $0.10
+the_chilla: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 4s]
+k030101: folds 
+iD,Squall: folds 
+jasons0147: folds 
+DaDalein: folds 
+Alameda22: folds 
+Logasm: raises $0.50 to $0.75
+the_chilla: folds 
+Uncalled bet ($0.50) returned to Logasm
+Logasm collected $0.50 from pot
+Logasm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 2: jasons0147 folded before Flop (didn't bet)
+Seat 3: DaDalein folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: Logasm (small blind) collected ($0.50)
+Seat 7: the_chilla (big blind) folded before Flop
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576212639:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:04:04 (ET)
+Table 'Stephania' 9-max Seat #6 is the button
+Seat 1: iD,Squall ($24.75 in chips) 
+Seat 2: jasons0147 ($25 in chips) 
+Seat 3: DaDalein ($38.35 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 6: Logasm ($9.25 in chips) 
+Seat 7: the_chilla ($9.40 in chips) 
+Seat 9: k030101 ($36 in chips) 
+the_chilla: posts small blind $0.10
+k030101: posts big blind $0.25
+Spyder_gst: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 2s]
+iD,Squall: folds 
+jasons0147: folds 
+DaDalein: raises $0.75 to $1
+Alameda22: folds 
+Spyder_gst is sitting out
+Logasm: folds 
+the_chilla: folds 
+k030101: folds 
+Uncalled bet ($0.75) returned to DaDalein
+DaDalein collected $0.60 from pot
+DaDalein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 2: jasons0147 folded before Flop (didn't bet)
+Seat 3: DaDalein collected ($0.60)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: Logasm (button) folded before Flop (didn't bet)
+Seat 7: the_chilla (small blind) folded before Flop
+Seat 9: k030101 (big blind) folded before Flop
+
+
+
+PokerStars Game #19576233166:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:05:02 (ET)
+Table 'Stephania' 9-max Seat #7 is the button
+Seat 1: iD,Squall ($24.75 in chips) 
+Seat 2: jasons0147 ($25 in chips) 
+Seat 3: DaDalein ($38.70 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 6: Logasm ($9.25 in chips) 
+Seat 7: the_chilla ($9.30 in chips) 
+Seat 9: k030101 ($35.75 in chips) 
+k030101: posts small blind $0.10
+iD,Squall: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 8c]
+jasons0147: folds 
+DaDalein: raises $0.75 to $1
+Alameda22: folds 
+Logasm: folds 
+the_chilla: folds 
+k030101: folds 
+iD,Squall: folds 
+Uncalled bet ($0.75) returned to DaDalein
+DaDalein collected $0.60 from pot
+DaDalein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: iD,Squall (big blind) folded before Flop
+Seat 2: jasons0147 folded before Flop (didn't bet)
+Seat 3: DaDalein collected ($0.60)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla (button) folded before Flop (didn't bet)
+Seat 9: k030101 (small blind) folded before Flop
+
+
+
+PokerStars Game #19576242426:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:05:29 (ET)
+Table 'Stephania' 9-max Seat #9 is the button
+Seat 1: iD,Squall ($24.50 in chips) 
+Seat 2: jasons0147 ($25 in chips) 
+Seat 3: DaDalein ($39.05 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 6: Logasm ($9.25 in chips) 
+Seat 7: the_chilla ($9.30 in chips) 
+Seat 9: k030101 ($35.65 in chips) 
+iD,Squall: posts small blind $0.10
+jasons0147: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Ks]
+DaDalein: folds 
+Alameda22: folds 
+Logasm: folds 
+the_chilla: folds 
+k030101: folds 
+iD,Squall: folds 
+Uncalled bet ($0.15) returned to jasons0147
+jasons0147 collected $0.20 from pot
+jasons0147: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: iD,Squall (small blind) folded before Flop
+Seat 2: jasons0147 (big blind) collected ($0.20)
+Seat 3: DaDalein folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla folded before Flop (didn't bet)
+Seat 9: k030101 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576253199:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:05:59 (ET)
+Table 'Stephania' 9-max Seat #1 is the button
+Seat 1: iD,Squall ($25 in chips) 
+Seat 2: jasons0147 ($25.10 in chips) 
+Seat 3: DaDalein ($39.05 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 6: Logasm ($9.25 in chips) 
+Seat 7: the_chilla ($9.30 in chips) 
+Seat 9: k030101 ($35.65 in chips) 
+jasons0147: posts small blind $0.10
+DaDalein: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 4c]
+Alameda22: folds 
+Logasm: folds 
+the_chilla: folds 
+k030101: folds 
+iD,Squall: raises $0.50 to $0.75
+jasons0147: calls $0.65
+DaDalein: folds 
+*** FLOP *** [7c Qs Jh]
+jasons0147: checks 
+iD,Squall: checks 
+*** TURN *** [7c Qs Jh] [Jc]
+jasons0147: checks 
+iD,Squall: bets $1
+jasons0147: folds 
+Uncalled bet ($1) returned to iD,Squall
+iD,Squall collected $1.70 from pot
+iD,Squall: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [7c Qs Jh Jc]
+Seat 1: iD,Squall (button) collected ($1.70)
+Seat 2: jasons0147 (small blind) folded on the Turn
+Seat 3: DaDalein (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576269755:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:06:47 (ET)
+Table 'Stephania' 9-max Seat #2 is the button
+Seat 1: iD,Squall ($25.95 in chips) 
+Seat 2: jasons0147 ($25 in chips) 
+Seat 3: DaDalein ($38.80 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 6: Logasm ($9.25 in chips) 
+Seat 7: the_chilla ($9.30 in chips) 
+Seat 9: k030101 ($35.65 in chips) 
+DaDalein: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Ad]
+Logasm: folds 
+the_chilla: calls $0.25
+k030101: folds 
+iD,Squall: folds 
+jasons0147: raises $1 to $1.25
+DaDalein: folds 
+Alameda22: folds 
+the_chilla: folds 
+Uncalled bet ($1) returned to jasons0147
+jasons0147 collected $0.85 from pot
+jasons0147: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 2: jasons0147 (button) collected ($0.85)
+Seat 3: DaDalein (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla folded before Flop
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576284596:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:07:29 (ET)
+Table 'Stephania' 9-max Seat #3 is the button
+Seat 1: iD,Squall ($25.95 in chips) 
+Seat 2: jasons0147 ($25.60 in chips) 
+Seat 3: DaDalein ($38.70 in chips) 
+Seat 4: Alameda22 ($24.15 in chips) 
+Seat 6: Logasm ($9.25 in chips) 
+Seat 7: the_chilla ($9.05 in chips) 
+Seat 9: k030101 ($35.65 in chips) 
+Alameda22: posts small blind $0.10
+Logasm: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 6s]
+the_chilla: folds 
+k030101: folds 
+iD,Squall: calls $0.25
+jasons0147: raises $1 to $1.25
+DaDalein: folds 
+Alameda22: folds 
+Logasm: folds 
+iD,Squall: calls $1
+*** FLOP *** [Jc Jd 6h]
+iD,Squall: checks 
+jasons0147: checks 
+*** TURN *** [Jc Jd 6h] [8c]
+iD,Squall: bets $1.75
+jasons0147: raises $3.75 to $5.50
+iD,Squall: raises $19.20 to $24.70 and is all-in
+jasons0147: calls $18.85 and is all-in
+Uncalled bet ($0.35) returned to iD,Squall
+*** RIVER *** [Jc Jd 6h 8c] [3d]
+*** SHOW DOWN ***
+iD,Squall: shows [8h 7h] (two pair, Jacks and Eights)
+jasons0147: shows [As Js] (three of a kind, Jacks)
+jasons0147 collected $49 from pot
+*** SUMMARY ***
+Total pot $51.55 | Rake $2.55 
+Board [Jc Jd 6h 8c 3d]
+Seat 1: iD,Squall showed [8h 7h] and lost with two pair, Jacks and Eights
+Seat 2: jasons0147 showed [As Js] and won ($49) with three of a kind, Jacks
+Seat 3: DaDalein (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 6: Logasm (big blind) folded before Flop
+Seat 7: the_chilla folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576309366:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:08:39 (ET)
+Table 'Stephania' 9-max Seat #4 is the button
+Seat 1: iD,Squall ($25 in chips) 
+Seat 2: jasons0147 ($49 in chips) 
+Seat 3: DaDalein ($38.70 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 6: Logasm ($9 in chips) 
+Seat 7: the_chilla ($9.05 in chips) 
+Seat 9: k030101 ($35.65 in chips) 
+Logasm: posts small blind $0.10
+the_chilla: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 6h]
+k030101: folds 
+iD,Squall: folds 
+jasons0147: folds 
+DaDalein: folds 
+Alameda22: folds 
+Logasm: folds 
+Uncalled bet ($0.15) returned to the_chilla
+the_chilla collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 2: jasons0147 folded before Flop (didn't bet)
+Seat 3: DaDalein folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: Logasm (small blind) folded before Flop
+Seat 7: the_chilla (big blind) collected ($0.20)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576331536:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:09:44 (ET)
+Table 'Stephania' 9-max Seat #6 is the button
+Seat 1: iD,Squall ($25 in chips) 
+Seat 2: jasons0147 ($49 in chips) 
+Seat 3: DaDalein ($38.70 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 6: Logasm ($8.90 in chips) 
+Seat 7: the_chilla ($9.15 in chips) 
+Seat 9: k030101 ($35.65 in chips) 
+the_chilla: posts small blind $0.10
+k030101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Ac]
+iD,Squall: folds 
+jasons0147: folds 
+DaDalein: folds 
+Alameda22: raises $0.50 to $0.75
+Logasm: folds 
+Spyder_gst has returned
+the_chilla: calls $0.65
+k030101: folds 
+*** FLOP *** [6d 2s Kc]
+the_chilla: checks 
+Alameda22: bets $1.25
+the_chilla: folds 
+Uncalled bet ($1.25) returned to Alameda22
+Alameda22 collected $1.70 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [6d 2s Kc]
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 2: jasons0147 folded before Flop (didn't bet)
+Seat 3: DaDalein folded before Flop (didn't bet)
+Seat 4: Alameda22 collected ($1.70)
+Seat 6: Logasm (button) folded before Flop (didn't bet)
+Seat 7: the_chilla (small blind) folded on the Flop
+Seat 9: k030101 (big blind) folded before Flop
+
+
+
+PokerStars Game #19576347775:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:10:31 (ET)
+Table 'Stephania' 9-max Seat #7 is the button
+Seat 1: iD,Squall ($25 in chips) 
+Seat 2: jasons0147 ($49 in chips) 
+Seat 3: DaDalein ($38.70 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 6: Logasm ($8.90 in chips) 
+Seat 7: the_chilla ($8.40 in chips) 
+Seat 9: k030101 ($35.40 in chips) 
+k030101: posts small blind $0.10
+iD,Squall: posts big blind $0.25
+Spyder_gst: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Kd]
+jasons0147: folds 
+DaDalein: calls $0.25
+Alameda22: folds 
+Logasm: folds 
+the_chilla: folds 
+k030101: folds 
+iD,Squall: checks 
+*** FLOP *** [As 9d 6c]
+iD,Squall: checks 
+pokerfun2005 has returned
+DaDalein: checks 
+*** TURN *** [As 9d 6c] [2d]
+iD,Squall: checks 
+DaDalein: checks 
+*** RIVER *** [As 9d 6c 2d] [Js]
+iD,Squall: checks 
+DaDalein: checks 
+*** SHOW DOWN ***
+iD,Squall: shows [5d 9c] (a pair of Nines)
+DaDalein: mucks hand 
+iD,Squall collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [As 9d 6c 2d Js]
+Seat 1: iD,Squall (big blind) showed [5d 9c] and won ($0.60) with a pair of Nines
+Seat 2: jasons0147 folded before Flop (didn't bet)
+Seat 3: DaDalein mucked [Ts Qs]
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla (button) folded before Flop (didn't bet)
+Seat 9: k030101 (small blind) folded before Flop
+
+
+
+PokerStars Game #19576376190:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:11:53 (ET)
+Table 'Stephania' 9-max Seat #9 is the button
+Seat 1: iD,Squall ($25.35 in chips) 
+Seat 2: jasons0147 ($49 in chips) 
+Seat 3: DaDalein ($38.45 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 6: Logasm ($8.90 in chips) 
+Seat 7: the_chilla ($8.40 in chips) 
+Seat 8: pokerfun2005 ($115.55 in chips) 
+Seat 9: k030101 ($35.30 in chips) 
+iD,Squall: posts small blind $0.10
+jasons0147: posts big blind $0.25
+Spyder_gst: sits out 
+pokerfun2005: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Qs]
+DaDalein: folds 
+Alameda22: folds 
+Logasm: folds 
+the_chilla: raises $0.50 to $0.75
+pokerfun2005: folds 
+k030101: folds 
+iD,Squall: folds 
+jasons0147: folds 
+Uncalled bet ($0.50) returned to the_chilla
+the_chilla collected $0.95 from pot
+the_chilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0 
+Seat 1: iD,Squall (small blind) folded before Flop
+Seat 2: jasons0147 (big blind) folded before Flop
+Seat 3: DaDalein folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla collected ($0.95)
+Seat 8: pokerfun2005 folded before Flop
+Seat 9: k030101 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576394212:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:12:46 (ET)
+Table 'Stephania' 9-max Seat #1 is the button
+Seat 1: iD,Squall ($25.25 in chips) 
+Seat 2: jasons0147 ($48.75 in chips) 
+Seat 3: DaDalein ($38.45 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 6: Logasm ($8.90 in chips) 
+Seat 7: the_chilla ($9.10 in chips) 
+Seat 8: pokerfun2005 ($115.20 in chips) 
+Seat 9: k030101 ($35.30 in chips) 
+jasons0147: posts small blind $0.10
+DaDalein: posts big blind $0.25
+Spyder_gst: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 6s]
+Alameda22: folds 
+Logasm: folds 
+the_chilla: folds 
+pokerfun2005: raises $0.50 to $0.75
+k030101: folds 
+iD,Squall: calls $0.75
+jasons0147: folds 
+DaDalein: folds 
+*** FLOP *** [4c 5c 4d]
+pokerfun2005: bets $1
+iD,Squall: calls $1
+*** TURN *** [4c 5c 4d] [Tc]
+pokerfun2005: bets $1
+iD,Squall: raises $1 to $2
+pokerfun2005: folds 
+Uncalled bet ($1) returned to iD,Squall
+iD,Squall collected $5.60 from pot
+iD,Squall: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.85 | Rake $0.25 
+Board [4c 5c 4d Tc]
+Seat 1: iD,Squall (button) collected ($5.60)
+Seat 2: jasons0147 (small blind) folded before Flop
+Seat 3: DaDalein (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla folded before Flop (didn't bet)
+Seat 8: pokerfun2005 folded on the Turn
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576415462:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:13:49 (ET)
+Table 'Stephania' 9-max Seat #2 is the button
+Seat 1: iD,Squall ($28.10 in chips) 
+Seat 2: jasons0147 ($48.65 in chips) 
+Seat 3: DaDalein ($38.20 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 6: Logasm ($8.90 in chips) 
+Seat 7: the_chilla ($9.10 in chips) 
+Seat 8: pokerfun2005 ($112.45 in chips) 
+Seat 9: k030101 ($35.30 in chips) 
+DaDalein: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Spyder_gst: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 5c]
+Logasm: folds 
+the_chilla: folds 
+pokerfun2005: folds 
+k030101: folds 
+iD,Squall: folds 
+jasons0147: raises $0.75 to $1
+DaDalein: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to jasons0147
+jasons0147 collected $0.60 from pot
+jasons0147: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 2: jasons0147 (button) collected ($0.60)
+Seat 3: DaDalein (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla folded before Flop (didn't bet)
+Seat 8: pokerfun2005 folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576433819:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:14:43 (ET)
+Table 'Stephania' 9-max Seat #3 is the button
+Seat 1: iD,Squall ($28.10 in chips) 
+Seat 2: jasons0147 ($49 in chips) 
+Seat 3: DaDalein ($38.10 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: Spyder_gst ($18.05 in chips) 
+Seat 6: Logasm ($8.90 in chips) 
+Seat 7: the_chilla ($9.10 in chips) 
+Seat 8: pokerfun2005 ($112.45 in chips) 
+Seat 9: k030101 ($35.30 in chips) 
+Alameda22: posts small blind $0.10
+Spyder_gst: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 7d]
+Logasm: folds 
+the_chilla: calls $0.25
+pokerfun2005: calls $0.25
+k030101: folds 
+iD,Squall: folds 
+jasons0147: folds 
+DaDalein: folds 
+Alameda22: folds 
+Spyder_gst: checks 
+*** FLOP *** [Kd Ad 3d]
+Spyder_gst: checks 
+the_chilla: bets $0.75
+pokerfun2005: folds 
+Spyder_gst: calls $0.75
+*** TURN *** [Kd Ad 3d] [Ts]
+Spyder_gst: checks 
+the_chilla: bets $1
+Spyder_gst: folds 
+Uncalled bet ($1) returned to the_chilla
+the_chilla collected $2.25 from pot
+the_chilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Kd Ad 3d Ts]
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 2: jasons0147 folded before Flop (didn't bet)
+Seat 3: DaDalein (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: Spyder_gst (big blind) folded on the Turn
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla collected ($2.25)
+Seat 8: pokerfun2005 folded on the Flop
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576464493:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:16:14 (ET)
+Table 'Stephania' 9-max Seat #4 is the button
+Seat 1: iD,Squall ($28.10 in chips) 
+Seat 2: jasons0147 ($49 in chips) 
+Seat 3: DaDalein ($38.10 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: Spyder_gst ($17.05 in chips) 
+Seat 6: Logasm ($8.90 in chips) 
+Seat 7: the_chilla ($10.35 in chips) 
+Seat 8: pokerfun2005 ($112.20 in chips) 
+Seat 9: k030101 ($35.30 in chips) 
+Spyder_gst: posts small blind $0.10
+Logasm: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 7d]
+the_chilla: folds 
+pokerfun2005: calls $0.25
+k030101: folds 
+iD,Squall: folds 
+jasons0147: folds 
+DaDalein: folds 
+Alameda22: folds 
+Spyder_gst: calls $0.15
+Logasm: checks 
+*** FLOP *** [3c Qd 8c]
+Spyder_gst: checks 
+Logasm: checks 
+pokerfun2005: bets $1
+Spyder_gst: folds 
+Logasm: folds 
+Uncalled bet ($1) returned to pokerfun2005
+pokerfun2005 collected $0.75 from pot
+pokerfun2005: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [3c Qd 8c]
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 2: jasons0147 folded before Flop (didn't bet)
+Seat 3: DaDalein folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: Spyder_gst (small blind) folded on the Flop
+Seat 6: Logasm (big blind) folded on the Flop
+Seat 7: the_chilla folded before Flop (didn't bet)
+Seat 8: pokerfun2005 collected ($0.75)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576496716:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:17:51 (ET)
+Table 'Stephania' 9-max Seat #5 is the button
+Seat 1: iD,Squall ($28.10 in chips) 
+Seat 2: jasons0147 ($49 in chips) 
+Seat 3: DaDalein ($38.10 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: Spyder_gst ($16.80 in chips) 
+Seat 6: Logasm ($8.65 in chips) 
+Seat 7: the_chilla ($10.35 in chips) 
+Seat 8: pokerfun2005 ($112.70 in chips) 
+Seat 9: k030101 ($35.30 in chips) 
+Logasm: posts small blind $0.10
+the_chilla: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Js]
+pokerfun2005: folds 
+k030101: folds 
+iD,Squall: folds 
+jasons0147: folds 
+DaDalein: folds 
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: folds 
+Uncalled bet ($0.15) returned to the_chilla
+the_chilla collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 2: jasons0147 folded before Flop (didn't bet)
+Seat 3: DaDalein folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst (button) folded before Flop (didn't bet)
+Seat 6: Logasm (small blind) folded before Flop
+Seat 7: the_chilla (big blind) collected ($0.20)
+Seat 8: pokerfun2005 folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576511203:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:18:34 (ET)
+Table 'Stephania' 9-max Seat #6 is the button
+Seat 1: iD,Squall ($28.10 in chips) 
+Seat 2: jasons0147 ($49 in chips) 
+Seat 3: DaDalein ($38.10 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: Spyder_gst ($16.80 in chips) 
+Seat 6: Logasm ($8.55 in chips) 
+Seat 7: the_chilla ($10.45 in chips) 
+Seat 8: pokerfun2005 ($112.70 in chips) 
+Seat 9: k030101 ($35.30 in chips) 
+the_chilla: posts small blind $0.10
+pokerfun2005: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 7h]
+k030101: folds 
+iD,Squall: folds 
+k030101 leaves the table
+jasons0147: folds 
+DaDalein: folds 
+Alameda22: folds 
+Spyder_gst: calls $0.25
+Logasm: folds 
+the_chilla: calls $0.15
+pokerfun2005: checks 
+*** FLOP *** [3c 6h Jc]
+the_chilla: checks 
+pokerfun2005: checks 
+1saganash joins the table at seat #9 
+Spyder_gst: checks 
+*** TURN *** [3c 6h Jc] [Jh]
+the_chilla: checks 
+pokerfun2005: checks 
+Spyder_gst: checks 
+*** RIVER *** [3c 6h Jc Jh] [Ac]
+the_chilla: checks 
+pokerfun2005: checks 
+Spyder_gst: bets $0.50
+the_chilla: folds 
+pokerfun2005: folds 
+Uncalled bet ($0.50) returned to Spyder_gst
+Spyder_gst collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [3c 6h Jc Jh Ac]
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 2: jasons0147 folded before Flop (didn't bet)
+Seat 3: DaDalein folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst collected ($0.75)
+Seat 6: Logasm (button) folded before Flop (didn't bet)
+Seat 7: the_chilla (small blind) folded on the River
+Seat 8: pokerfun2005 (big blind) folded on the River
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576549907:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:20:30 (ET)
+Table 'Stephania' 9-max Seat #7 is the button
+Seat 1: iD,Squall ($28.10 in chips) 
+Seat 2: jasons0147 ($49 in chips) 
+Seat 3: DaDalein ($38.10 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: Spyder_gst ($17.30 in chips) 
+Seat 6: Logasm ($8.55 in chips) 
+Seat 7: the_chilla ($10.20 in chips) 
+Seat 8: pokerfun2005 ($112.45 in chips) 
+Seat 9: 1saganash ($9.20 in chips) 
+pokerfun2005: posts small blind $0.10
+1saganash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 3h]
+iD,Squall: folds 
+jasons0147: folds 
+DaDalein: raises $0.75 to $1
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: folds 
+the_chilla: folds 
+pokerfun2005: calls $0.90
+1saganash: folds 
+*** FLOP *** [7s 7h 4s]
+pokerfun2005: bets $1
+DaDalein: raises $2 to $3
+pokerfun2005: calls $2
+*** TURN *** [7s 7h 4s] [2c]
+pokerfun2005: checks 
+DaDalein: checks 
+*** RIVER *** [7s 7h 4s 2c] [9h]
+pokerfun2005: checks 
+DaDalein: bets $6
+pokerfun2005: calls $6
+*** SHOW DOWN ***
+DaDalein: shows [8h Ad] (a pair of Sevens)
+pokerfun2005: shows [6c 6s] (two pair, Sevens and Sixes)
+pokerfun2005 collected $19.30 from pot
+*** SUMMARY ***
+Total pot $20.25 | Rake $0.95 
+Board [7s 7h 4s 2c 9h]
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 2: jasons0147 folded before Flop (didn't bet)
+Seat 3: DaDalein showed [8h Ad] and lost with a pair of Sevens
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla (button) folded before Flop (didn't bet)
+Seat 8: pokerfun2005 (small blind) showed [6c 6s] and won ($19.30) with two pair, Sevens and Sixes
+Seat 9: 1saganash (big blind) folded before Flop
+
+
+
+PokerStars Game #19576590182:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:22:33 (ET)
+Table 'Stephania' 9-max Seat #8 is the button
+Seat 1: iD,Squall ($28.10 in chips) 
+Seat 2: jasons0147 ($49 in chips) 
+Seat 3: DaDalein ($28.10 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: Spyder_gst ($17.30 in chips) 
+Seat 6: Logasm ($8.55 in chips) 
+Seat 7: the_chilla ($10.20 in chips) 
+Seat 8: pokerfun2005 ($121.75 in chips) 
+Seat 9: 1saganash ($8.95 in chips) 
+1saganash: posts small blind $0.10
+iD,Squall: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 9h]
+jasons0147: folds 
+DaDalein: folds 
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: folds 
+the_chilla: folds 
+pokerfun2005: folds 
+1saganash: calls $0.15
+iD,Squall: checks 
+*** FLOP *** [3h Jh 8d]
+1saganash: bets $0.50
+iD,Squall: folds 
+Uncalled bet ($0.50) returned to 1saganash
+1saganash collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [3h Jh 8d]
+Seat 1: iD,Squall (big blind) folded on the Flop
+Seat 2: jasons0147 folded before Flop (didn't bet)
+Seat 3: DaDalein folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla folded before Flop (didn't bet)
+Seat 8: pokerfun2005 (button) folded before Flop (didn't bet)
+Seat 9: 1saganash (small blind) collected ($0.50)
+
+
+
+PokerStars Game #19576607122:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:23:26 (ET)
+Table 'Stephania' 9-max Seat #9 is the button
+Seat 1: iD,Squall ($27.85 in chips) 
+Seat 2: jasons0147 ($49 in chips) 
+Seat 3: DaDalein ($28.10 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: Spyder_gst ($17.30 in chips) 
+Seat 6: Logasm ($8.55 in chips) 
+Seat 7: the_chilla ($10.20 in chips) 
+Seat 8: pokerfun2005 ($121.75 in chips) 
+Seat 9: 1saganash ($9.20 in chips) 
+iD,Squall: posts small blind $0.10
+jasons0147: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Kc]
+DaDalein: folds 
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: folds 
+the_chilla: folds 
+pokerfun2005: folds 
+1saganash: folds 
+iD,Squall: folds 
+Uncalled bet ($0.15) returned to jasons0147
+jasons0147 collected $0.20 from pot
+jasons0147: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: iD,Squall (small blind) folded before Flop
+Seat 2: jasons0147 (big blind) collected ($0.20)
+Seat 3: DaDalein folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla folded before Flop (didn't bet)
+Seat 8: pokerfun2005 folded before Flop (didn't bet)
+Seat 9: 1saganash (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576621826:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:24:12 (ET)
+Table 'Stephania' 9-max Seat #1 is the button
+Seat 1: iD,Squall ($27.75 in chips) 
+Seat 2: jasons0147 ($49.10 in chips) 
+Seat 3: DaDalein ($28.10 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: Spyder_gst ($17.30 in chips) 
+Seat 6: Logasm ($8.55 in chips) 
+Seat 7: the_chilla ($10.20 in chips) 
+Seat 8: pokerfun2005 ($121.75 in chips) 
+Seat 9: 1saganash ($9.20 in chips) 
+jasons0147: posts small blind $0.10
+DaDalein: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Js]
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: folds 
+the_chilla: folds 
+pokerfun2005 has timed out
+pokerfun2005: folds 
+pokerfun2005 is sitting out
+1saganash: folds 
+1saganash is sitting out
+iD,Squall: folds 
+jasons0147: raises $1 to $1.25
+DaDalein: folds 
+Uncalled bet ($1) returned to jasons0147
+jasons0147 collected $0.50 from pot
+jasons0147: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: iD,Squall (button) folded before Flop (didn't bet)
+Seat 2: jasons0147 (small blind) collected ($0.50)
+Seat 3: DaDalein (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla folded before Flop (didn't bet)
+Seat 8: pokerfun2005 folded before Flop (didn't bet)
+Seat 9: 1saganash folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576649203:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:25:37 (ET)
+Table 'Stephania' 9-max Seat #2 is the button
+Seat 1: iD,Squall ($27.75 in chips) 
+Seat 2: jasons0147 ($49.35 in chips) 
+Seat 3: DaDalein ($27.85 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: Spyder_gst ($17.30 in chips) 
+Seat 6: Logasm ($8.55 in chips) 
+Seat 7: the_chilla ($10.20 in chips) 
+DaDalein: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 5d]
+Spyder_gst: calls $0.25
+Logasm: folds 
+the_chilla: calls $0.25
+iD,Squall: folds 
+jasons0147: raises $1.25 to $1.50
+DaDalein: folds 
+Alameda22: folds 
+Spyder_gst: folds 
+the_chilla: calls $1.25
+*** FLOP *** [Ah Jc Ts]
+the_chilla: checks 
+jasons0147: checks 
+*** TURN *** [Ah Jc Ts] [Kh]
+the_chilla: bets $2
+jasons0147: calls $2
+*** RIVER *** [Ah Jc Ts Kh] [9d]
+the_chilla: checks 
+jasons0147: checks 
+*** SHOW DOWN ***
+the_chilla: shows [8d Ad] (a pair of Aces)
+jasons0147: shows [Kc Js] (two pair, Kings and Jacks)
+jasons0147 collected $7.25 from pot
+*** SUMMARY ***
+Total pot $7.60 | Rake $0.35 
+Board [Ah Jc Ts Kh 9d]
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 2: jasons0147 (button) showed [Kc Js] and won ($7.25) with two pair, Kings and Jacks
+Seat 3: DaDalein (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: Spyder_gst folded before Flop
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla showed [8d Ad] and lost with a pair of Aces
+
+
+
+PokerStars Game #19576696100:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:28:04 (ET)
+Table 'Stephania' 9-max Seat #3 is the button
+Seat 1: iD,Squall ($27.75 in chips) 
+Seat 2: jasons0147 ($53.10 in chips) 
+Seat 3: DaDalein ($27.75 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: Spyder_gst ($17.05 in chips) 
+Seat 6: Logasm ($8.55 in chips) 
+Seat 7: the_chilla ($6.70 in chips) 
+Alameda22: posts small blind $0.10
+Spyder_gst: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 6s]
+Logasm: raises $0.50 to $0.75
+the_chilla: folds 
+iD,Squall: folds 
+jasons0147: folds 
+DaDalein: folds 
+Alameda22: folds 
+Spyder_gst: folds 
+Uncalled bet ($0.50) returned to Logasm
+Logasm collected $0.60 from pot
+Logasm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 2: jasons0147 folded before Flop (didn't bet)
+Seat 3: DaDalein (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: Spyder_gst (big blind) folded before Flop
+Seat 6: Logasm collected ($0.60)
+Seat 7: the_chilla folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576706590:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:28:37 (ET)
+Table 'Stephania' 9-max Seat #4 is the button
+Seat 1: iD,Squall ($27.75 in chips) 
+Seat 2: jasons0147 ($53.10 in chips) 
+Seat 3: DaDalein ($27.75 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: Spyder_gst ($16.80 in chips) 
+Seat 6: Logasm ($8.90 in chips) 
+Seat 7: the_chilla ($6.70 in chips) 
+Spyder_gst: posts small blind $0.10
+Logasm: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Qc]
+the_chilla: folds 
+iD,Squall: folds 
+jasons0147: raises $0.75 to $1
+DaDalein: folds 
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: folds 
+Uncalled bet ($0.75) returned to jasons0147
+jasons0147 collected $0.60 from pot
+jasons0147: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 2: jasons0147 collected ($0.60)
+Seat 3: DaDalein folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: Spyder_gst (small blind) folded before Flop
+Seat 6: Logasm (big blind) folded before Flop
+Seat 7: the_chilla folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576716093:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:29:07 (ET)
+Table 'Stephania' 9-max Seat #5 is the button
+Seat 1: iD,Squall ($27.75 in chips) 
+Seat 2: jasons0147 ($53.45 in chips) 
+Seat 3: DaDalein ($27.75 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: Spyder_gst ($16.70 in chips) 
+Seat 6: Logasm ($8.65 in chips) 
+Seat 7: the_chilla ($6.70 in chips) 
+Logasm: posts small blind $0.10
+the_chilla: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Ah]
+iD,Squall: calls $0.25
+jasons0147: folds 
+DaDalein: raises $1 to $1.25
+Alameda22: calls $1.25
+Spyder_gst: folds 
+Logasm: folds 
+the_chilla: folds 
+iD,Squall: calls $1
+*** FLOP *** [7d As 7h]
+iD,Squall: checks 
+DaDalein: bets $3
+Alameda22: calls $3
+iD,Squall: folds 
+*** TURN *** [7d As 7h] [9h]
+DaDalein: checks 
+Alameda22: checks 
+*** RIVER *** [7d As 7h 9h] [Jd]
+DaDalein: bets $23.50 and is all-in
+1saganash has returned
+Alameda22: folds 
+Uncalled bet ($23.50) returned to DaDalein
+DaDalein collected $9.65 from pot
+DaDalein: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.10 | Rake $0.45 
+Board [7d As 7h 9h Jd]
+Seat 1: iD,Squall folded on the Flop
+Seat 2: jasons0147 folded before Flop (didn't bet)
+Seat 3: DaDalein collected ($9.65)
+Seat 4: Alameda22 folded on the River
+Seat 5: Spyder_gst (button) folded before Flop (didn't bet)
+Seat 6: Logasm (small blind) folded before Flop
+Seat 7: the_chilla (big blind) folded before Flop
+
+
+
+PokerStars Game #19576758118:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:31:22 (ET)
+Table 'Stephania' 9-max Seat #6 is the button
+Seat 1: iD,Squall ($26.50 in chips) 
+Seat 2: jasons0147 ($53.45 in chips) 
+Seat 3: DaDalein ($33.15 in chips) 
+Seat 4: Alameda22 ($20.05 in chips) 
+Seat 5: Spyder_gst ($16.70 in chips) 
+Seat 6: Logasm ($8.55 in chips) 
+Seat 7: the_chilla ($6.45 in chips) 
+Seat 9: 1saganash ($9.20 in chips) 
+the_chilla: posts small blind $0.10
+pokerfun2005 has returned
+1saganash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Qc]
+pokerfun2005 leaves the table
+iD,Squall: folds 
+jasons0147: folds 
+DaDalein: calls $0.25
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: raises $0.50 to $0.75
+the_chilla: calls $0.65
+1saganash: folds 
+DaDalein: calls $0.50
+*** FLOP *** [Td 5s 7d]
+jasons0147 leaves the table
+the_chilla: checks 
+DaDalein: bets $2.25
+Logasm: folds 
+the_chilla: calls $2.25
+*** TURN *** [Td 5s 7d] [9d]
+the_chilla: bets $3.45 and is all-in
+DaDalein: folds 
+Uncalled bet ($3.45) returned to the_chilla
+the_chilla collected $6.70 from pot
+the_chilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.30 
+Board [Td 5s 7d 9d]
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 2: jasons0147 folded before Flop (didn't bet)
+Seat 3: DaDalein folded on the Turn
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm (button) folded on the Flop
+Seat 7: the_chilla (small blind) collected ($6.70)
+Seat 9: 1saganash (big blind) folded before Flop
+
+
+
+PokerStars Game #19576795326:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:33:17 (ET)
+Table 'Stephania' 9-max Seat #7 is the button
+Seat 1: iD,Squall ($26.50 in chips) 
+Seat 3: DaDalein ($30.15 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 5: Spyder_gst ($16.70 in chips) 
+Seat 6: Logasm ($7.80 in chips) 
+Seat 7: the_chilla ($10.15 in chips) 
+Seat 9: 1saganash ($8.95 in chips) 
+1saganash: posts small blind $0.10
+iD,Squall: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Qd]
+DaDalein: calls $0.25
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: raises $0.50 to $0.75
+the_chilla: folds 
+1saganash: calls $0.65
+iD,Squall: folds 
+DaDalein: calls $0.50
+*** FLOP *** [Ah 7c 3s]
+1saganash: checks 
+DaDalein: bets $2
+Logasm: folds 
+1saganash: folds 
+Uncalled bet ($2) returned to DaDalein
+DaDalein collected $2.40 from pot
+DaDalein: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Ah 7c 3s]
+Seat 1: iD,Squall (big blind) folded before Flop
+Seat 3: DaDalein collected ($2.40)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm folded on the Flop
+Seat 7: the_chilla (button) folded before Flop (didn't bet)
+Seat 9: 1saganash (small blind) folded on the Flop
+
+
+
+PokerStars Game #19576815606:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:34:19 (ET)
+Table 'Stephania' 9-max Seat #9 is the button
+Seat 1: iD,Squall ($26.25 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 5: Spyder_gst ($16.70 in chips) 
+Seat 6: Logasm ($7.05 in chips) 
+Seat 7: the_chilla ($10.15 in chips) 
+Seat 9: 1saganash ($8.20 in chips) 
+iD,Squall: posts small blind $0.10
+DaDalein: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 7d]
+DaDalein leaves the table
+Spyder_gst: folds 
+Logasm: raises $0.50 to $0.75
+the_chilla: calls $0.75
+1saganash: folds 
+sifudonk joins the table at seat #3 
+iD,Squall: folds 
+Alameda22: folds 
+*** FLOP *** [3c 5s 9h]
+Logasm: bets $0.75
+the_chilla: folds 
+Uncalled bet ($0.75) returned to Logasm
+1saganash leaves the table
+Logasm collected $1.80 from pot
+Logasm: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [3c 5s 9h]
+Seat 1: iD,Squall (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm collected ($1.80)
+Seat 7: the_chilla folded on the Flop
+Seat 9: 1saganash (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576833484:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:35:15 (ET)
+Table 'Stephania' 9-max Seat #1 is the button
+Seat 1: iD,Squall ($26.15 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: Spyder_gst ($16.70 in chips) 
+Seat 6: Logasm ($8.10 in chips) 
+Seat 7: the_chilla ($9.40 in chips) 
+sifudonk will be allowed to play after the button
+Alameda22: posts small blind $0.10
+Spyder_gst: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 4h]
+Logasm: folds 
+the_chilla: folds 
+iD,Squall: raises $0.50 to $0.75
+Alameda22: folds 
+Spyder_gst: folds 
+Uncalled bet ($0.50) returned to iD,Squall
+iD,Squall collected $0.60 from pot
+iD,Squall: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: iD,Squall (button) collected ($0.60)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: Spyder_gst (big blind) folded before Flop
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576841021:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:35:38 (ET)
+Table 'Stephania' 9-max Seat #4 is the button
+Seat 1: iD,Squall ($26.50 in chips) 
+Seat 3: sifudonk ($10 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: Spyder_gst ($16.45 in chips) 
+Seat 6: Logasm ($8.10 in chips) 
+Seat 7: the_chilla ($9.40 in chips) 
+Spyder_gst: posts small blind $0.10
+Logasm: posts big blind $0.25
+sifudonk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 4h]
+the_chilla: folds 
+davmover joins the table at seat #8 
+iD,Squall: folds 
+sifudonk: checks 
+Alameda22: folds 
+Spyder_gst: calls $0.15
+Logasm: checks 
+*** FLOP *** [6h 6c 3c]
+Spyder_gst: checks 
+Logasm: checks 
+sifudonk: checks 
+*** TURN *** [6h 6c 3c] [Qs]
+Spyder_gst: checks 
+Logasm: checks 
+sifudonk: checks 
+*** RIVER *** [6h 6c 3c Qs] [3d]
+Spyder_gst: bets $0.25
+Logasm: raises $0.75 to $1
+sifudonk: folds 
+Spyder_gst: folds 
+Uncalled bet ($0.75) returned to Logasm
+Logasm collected $1.20 from pot
+Logasm: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [6h 6c 3c Qs 3d]
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 3: sifudonk folded on the River
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: Spyder_gst (small blind) folded on the River
+Seat 6: Logasm (big blind) collected ($1.20)
+Seat 7: the_chilla folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576869532:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:37:07 (ET)
+Table 'Stephania' 9-max Seat #5 is the button
+Seat 1: iD,Squall ($26.50 in chips) 
+Seat 3: sifudonk ($9.75 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: Spyder_gst ($15.95 in chips) 
+Seat 6: Logasm ($8.80 in chips) 
+Seat 7: the_chilla ($9.40 in chips) 
+Seat 8: davmover ($10 in chips) 
+Logasm: posts small blind $0.10
+the_chilla: posts big blind $0.25
+davmover: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 9h]
+davmover: raises $1.50 to $1.75
+iD,Squall: folds 
+sifudonk: folds 
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: folds 
+the_chilla: folds 
+Uncalled bet ($1.50) returned to davmover
+davmover collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: iD,Squall folded before Flop (didn't bet)
+Seat 3: sifudonk folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst (button) folded before Flop (didn't bet)
+Seat 6: Logasm (small blind) folded before Flop
+Seat 7: the_chilla (big blind) folded before Flop
+Seat 8: davmover collected ($0.60)
+
+
+
+PokerStars Game #19576885083:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:37:55 (ET)
+Table 'Stephania' 9-max Seat #6 is the button
+Seat 1: iD,Squall ($26.50 in chips) 
+Seat 3: sifudonk ($9.75 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: Spyder_gst ($15.95 in chips) 
+Seat 6: Logasm ($8.70 in chips) 
+Seat 7: the_chilla ($9.15 in chips) 
+Seat 8: davmover ($10.35 in chips) 
+the_chilla: posts small blind $0.10
+davmover: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 8c]
+iD,Squall: calls $0.25
+sifudonk: calls $0.25
+Alameda22: folds 
+Spyder_gst: calls $0.25
+Logasm: folds 
+the_chilla: raises $1 to $1.25
+davmover: folds 
+iD,Squall: folds 
+pocket esses joins the table at seat #2 
+sifudonk: calls $1
+Spyder_gst: calls $1
+*** FLOP *** [5c 3c 3d]
+the_chilla: bets $2.50
+sifudonk: raises $6 to $8.50 and is all-in
+Spyder_gst: folds 
+the_chilla: calls $5.40 and is all-in
+Uncalled bet ($0.60) returned to sifudonk
+*** TURN *** [5c 3c 3d] [9c]
+*** RIVER *** [5c 3c 3d 9c] [2d]
+*** SHOW DOWN ***
+the_chilla: shows [Ac Tc] (a flush, Ace high)
+sifudonk: mucks hand 
+the_chilla collected $19.10 from pot
+*** SUMMARY ***
+Total pot $20.05 | Rake $0.95 
+Board [5c 3c 3d 9c 2d]
+Seat 1: iD,Squall folded before Flop
+Seat 3: sifudonk mucked [4s 5s]
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded on the Flop
+Seat 6: Logasm (button) folded before Flop (didn't bet)
+Seat 7: the_chilla (small blind) showed [Ac Tc] and won ($19.10) with a flush, Ace high
+Seat 8: davmover (big blind) folded before Flop
+
+
+
+PokerStars Game #19576929830:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:40:17 (ET)
+Table 'Stephania' 9-max Seat #7 is the button
+Seat 2: pocket esses ($10 in chips) 
+Seat 3: sifudonk ($0.60 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: Spyder_gst ($14.70 in chips) 
+Seat 6: Logasm ($8.70 in chips) 
+Seat 7: the_chilla ($19.10 in chips) 
+Seat 8: davmover ($10.10 in chips) 
+davmover: posts small blind $0.10
+iD,Squall: is sitting out 
+iD,Squall leaves the table
+pocket esses: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 5c]
+sifudonk: raises $0.35 to $0.60 and is all-in
+Alameda22: folds 
+Spyder_gst: folds 
+yjqian23 joins the table at seat #1 
+Ahiscox joins the table at seat #9 
+Logasm: folds 
+the_chilla: folds 
+davmover: folds 
+the_chilla leaves the table
+pocket esses: calls $0.35
+*** FLOP *** [4d Qc 8d]
+*** TURN *** [4d Qc 8d] [Td]
+*** RIVER *** [4d Qc 8d Td] [Ts]
+*** SHOW DOWN ***
+pocket esses: shows [2h 6h] (a pair of Tens)
+sifudonk: shows [Qd Th] (a full house, Tens full of Queens)
+sifudonk collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.05 
+Board [4d Qc 8d Td Ts]
+Seat 2: pocket esses (big blind) showed [2h 6h] and lost with a pair of Tens
+Seat 3: sifudonk showed [Qd Th] and won ($1.25) with a full house, Tens full of Queens
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: the_chilla (button) folded before Flop (didn't bet)
+Seat 8: davmover (small blind) folded before Flop
+
+
+
+PokerStars Game #19576947758:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:41:13 (ET)
+Table 'Stephania' 9-max Seat #8 is the button
+Seat 2: pocket esses ($9.40 in chips) 
+Seat 3: sifudonk ($1.25 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: Spyder_gst ($14.70 in chips) 
+Seat 6: Logasm ($8.70 in chips) 
+Seat 8: davmover ($10 in chips) 
+Ahiscox will be allowed to play after the button
+yjqian23 will be allowed to play after the button
+pocket esses: posts small blind $0.10
+sifudonk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Th]
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: folds 
+davmover: folds 
+pocket esses: folds 
+Uncalled bet ($0.15) returned to sifudonk
+sifudonk collected $0.20 from pot
+sifudonk: doesn't show hand 
+X-rayWizard joins the table at seat #7 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: pocket esses (small blind) folded before Flop
+Seat 3: sifudonk (big blind) collected ($0.20)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 8: davmover (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19576959011:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:41:48 (ET)
+Table 'Stephania' 9-max Seat #2 is the button
+Seat 2: pocket esses ($9.30 in chips) 
+Seat 3: sifudonk ($1.35 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: Spyder_gst ($14.70 in chips) 
+Seat 6: Logasm ($8.70 in chips) 
+Seat 7: X-rayWizard ($10 in chips) 
+Seat 8: davmover ($10 in chips) 
+Seat 9: Ahiscox ($20.30 in chips) 
+sifudonk: posts small blind $0.10
+Alameda22: posts big blind $0.25
+X-rayWizard: posts big blind $0.25
+Ahiscox: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 6c]
+Spyder_gst: folds 
+Logasm: raises $0.50 to $0.75
+X-rayWizard: calls $0.50
+davmover: raises $1.75 to $2.50
+Ahiscox: calls $2.25
+pocket esses: folds 
+sifudonk: folds 
+Alameda22: folds 
+Logasm: folds 
+X-rayWizard: calls $1.75
+*** FLOP *** [2d Qd Js]
+X-rayWizard: checks 
+davmover: bets $7.50 and is all-in
+Ahiscox: folds 
+X-rayWizard: calls $7.50 and is all-in
+*** TURN *** [2d Qd Js] [Jc]
+*** RIVER *** [2d Qd Js Jc] [3h]
+*** SHOW DOWN ***
+X-rayWizard: shows [3c Kc] (two pair, Jacks and Threes)
+davmover: shows [As Ac] (two pair, Aces and Jacks)
+davmover collected $22.45 from pot
+davmover said, "?"
+*** SUMMARY ***
+Total pot $23.60 | Rake $1.15 
+Board [2d Qd Js Jc 3h]
+Seat 2: pocket esses (button) folded before Flop (didn't bet)
+Seat 3: sifudonk (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop
+Seat 7: X-rayWizard showed [3c Kc] and lost with two pair, Jacks and Threes
+Seat 8: davmover showed [As Ac] and won ($22.45) with two pair, Aces and Jacks
+Seat 9: Ahiscox folded on the Flop
+
+
+
+PokerStars Game #19576984158:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:43:07 (ET)
+Table 'Stephania' 9-max Seat #3 is the button
+Seat 2: pocket esses ($9.30 in chips) 
+Seat 3: sifudonk ($1.25 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: Spyder_gst ($14.70 in chips) 
+Seat 6: Logasm ($7.95 in chips) 
+Seat 8: davmover ($22.45 in chips) 
+Seat 9: Ahiscox ($17.80 in chips) 
+Alameda22: posts small blind $0.10
+Spyder_gst: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 4d]
+X-rayWizard leaves the table
+Logasm: folds 
+davmover: calls $0.25
+Ahiscox: raises $0.25 to $0.50
+pocket esses: folds 
+sifudonk: calls $0.50
+Alameda22: folds 
+Spyder_gst: folds 
+davmover: calls $0.25
+*** FLOP *** [2d 6s Qc]
+davmover: checks 
+Ahiscox: checks 
+sifudonk: bets $0.75 and is all-in
+davmover: folds 
+Ahiscox: calls $0.75
+*** TURN *** [2d 6s Qc] [Qs]
+*** RIVER *** [2d 6s Qc Qs] [9c]
+*** SHOW DOWN ***
+Ahiscox: shows [Ts Td] (two pair, Queens and Tens)
+sifudonk: mucks hand 
+Ahiscox collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [2d 6s Qc Qs 9c]
+Seat 2: pocket esses folded before Flop (didn't bet)
+Seat 3: sifudonk (button) mucked [7h Ks]
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: Spyder_gst (big blind) folded before Flop
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 8: davmover folded on the Flop
+Seat 9: Ahiscox showed [Ts Td] and won ($3.20) with two pair, Queens and Tens
+
+
+
+PokerStars Game #19576999133:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:43:55 (ET)
+Table 'Stephania' 9-max Seat #4 is the button
+Seat 2: pocket esses ($9.30 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: Spyder_gst ($14.45 in chips) 
+Seat 6: Logasm ($7.95 in chips) 
+Seat 8: davmover ($21.95 in chips) 
+Seat 9: Ahiscox ($19.75 in chips) 
+sifudonk leaves the table
+Spyder_gst: posts small blind $0.10
+Logasm: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 6c]
+davmover: folds 
+Ahiscox: calls $0.25
+pocket esses: folds 
+Catchup666 joins the table at seat #7 
+Alameda22: folds 
+Spyder_gst: calls $0.15
+Logasm: checks 
+*** FLOP *** [4c 5s 4h]
+Spyder_gst: checks 
+Logasm: checks 
+Ahiscox: checks 
+*** TURN *** [4c 5s 4h] [4d]
+Spyder_gst: checks 
+Logasm: checks 
+Ahiscox: checks 
+*** RIVER *** [4c 5s 4h 4d] [5c]
+Spyder_gst: checks 
+Logasm: checks 
+Ahiscox: checks 
+*** SHOW DOWN ***
+Spyder_gst: shows [Th 3d] (a full house, Fours full of Fives)
+Logasm: shows [Qs 9h] (a full house, Fours full of Fives)
+Ahiscox: shows [Jc 8h] (a full house, Fours full of Fives)
+Spyder_gst collected $0.25 from pot
+Logasm collected $0.25 from pot
+Ahiscox collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [4c 5s 4h 4d 5c]
+Seat 2: pocket esses folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: Spyder_gst (small blind) showed [Th 3d] and won ($0.25) with a full house, Fours full of Fives
+Seat 6: Logasm (big blind) showed [Qs 9h] and won ($0.25) with a full house, Fours full of Fives
+Seat 8: davmover folded before Flop (didn't bet)
+Seat 9: Ahiscox showed [Jc 8h] and won ($0.25) with a full house, Fours full of Fives
+
+
+
+PokerStars Game #19577017389:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:44:53 (ET)
+Table 'Stephania' 9-max Seat #5 is the button
+Seat 2: pocket esses ($9.30 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: Spyder_gst ($14.45 in chips) 
+Seat 6: Logasm ($7.95 in chips) 
+Seat 7: Catchup666 ($6.50 in chips) 
+Seat 8: davmover ($21.95 in chips) 
+Seat 9: Ahiscox ($19.75 in chips) 
+Logasm: posts small blind $0.10
+Catchup666: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 7s]
+phrogman123 joins the table at seat #3 
+davmover: folds 
+Ahiscox: calls $0.25
+pocket esses: raises $1 to $1.25
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: folds 
+Catchup666: calls $1
+Ahiscox: calls $1
+*** FLOP *** [5d Kc 2d]
+Catchup666: bets $2.50
+Ahiscox: calls $2.50
+pocket esses: raises $5.55 to $8.05 and is all-in
+Catchup666: calls $2.75 and is all-in
+Ahiscox: folds 
+Uncalled bet ($2.80) returned to pocket esses
+*** TURN *** [5d Kc 2d] [3h]
+*** RIVER *** [5d Kc 2d 3h] [Qh]
+*** SHOW DOWN ***
+Catchup666: shows [Kd Qd] (two pair, Kings and Queens)
+pocket esses: shows [Ks Kh] (three of a kind, Kings)
+pocket esses collected $16.05 from pot
+*** SUMMARY ***
+Total pot $16.85 | Rake $0.80 
+Board [5d Kc 2d 3h Qh]
+Seat 2: pocket esses showed [Ks Kh] and won ($16.05) with three of a kind, Kings
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst (button) folded before Flop (didn't bet)
+Seat 6: Logasm (small blind) folded before Flop
+Seat 7: Catchup666 (big blind) showed [Kd Qd] and lost with two pair, Kings and Queens
+Seat 8: davmover folded before Flop (didn't bet)
+Seat 9: Ahiscox folded on the Flop
+
+
+
+PokerStars Game #19577044091:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:46:19 (ET)
+Table 'Stephania' 9-max Seat #6 is the button
+Seat 2: pocket esses ($18.85 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: Spyder_gst ($14.45 in chips) 
+Seat 6: Logasm ($7.85 in chips) 
+Seat 8: davmover ($21.95 in chips) 
+Seat 9: Ahiscox ($16 in chips) 
+davmover: posts small blind $0.10
+Ahiscox: posts big blind $0.25
+yjqian23: sits out 
+phrogman123: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 9d]
+Catchup666 has returned
+pocket esses: folds 
+Alameda22: folds 
+Spyder_gst: raises $0.50 to $0.75
+Logasm: folds 
+davmover: calls $0.65
+Ahiscox: calls $0.50
+*** FLOP *** [4s 5c 3s]
+davmover: bets $1
+Ahiscox: raises $6 to $7
+Spyder_gst: folds 
+davmover: calls $6
+*** TURN *** [4s 5c 3s] [Js]
+davmover: checks 
+Ahiscox: bets $8.25 and is all-in
+davmover: calls $8.25
+*** RIVER *** [4s 5c 3s Js] [5s]
+*** SHOW DOWN ***
+davmover: shows [4h 5h] (a full house, Fives full of Fours)
+Ahiscox: mucks hand 
+davmover collected $31.20 from pot
+*** SUMMARY ***
+Total pot $32.75 | Rake $1.55 
+Board [4s 5c 3s Js 5s]
+Seat 2: pocket esses folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded on the Flop
+Seat 6: Logasm (button) folded before Flop (didn't bet)
+Seat 8: davmover (small blind) showed [4h 5h] and won ($31.20) with a full house, Fives full of Fours
+Seat 9: Ahiscox (big blind) mucked [Ks Ts]
+
+
+
+PokerStars Game #19577072349:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:47:49 (ET)
+Table 'Stephania' 9-max Seat #8 is the button
+Seat 2: pocket esses ($18.85 in chips) 
+Seat 3: phrogman123 ($17.65 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: Spyder_gst ($13.70 in chips) 
+Seat 6: Logasm ($7.85 in chips) 
+Seat 7: Catchup666 ($6.50 in chips) 
+Seat 8: davmover ($37.15 in chips) 
+yjqian23 will be allowed to play after the button
+pocket esses: posts small blind $0.10
+Ahiscox leaves the table
+phrogman123: posts big blind $0.25
+Catchup666: posts small blind $0.10
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 2c]
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: folds 
+Catchup666: folds 
+davmover: calls $0.25
+pocket esses: calls $0.15
+phrogman123: checks 
+*** FLOP *** [6c 7h 7d]
+pocket esses: checks 
+phrogman123: checks 
+davmover: checks 
+*** TURN *** [6c 7h 7d] [Qd]
+pocket esses: checks 
+phrogman123: checks 
+davmover: checks 
+*** RIVER *** [6c 7h 7d Qd] [9h]
+pocket esses: bets $0.25
+phrogman123: folds 
+davmover: raises $1 to $1.25
+pocket esses: calls $1
+*** SHOW DOWN ***
+davmover: shows [8s Ac] (a pair of Sevens)
+pocket esses: shows [3s Qs] (two pair, Queens and Sevens)
+BVB1909 joins the table at seat #9 
+pocket esses collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [6c 7h 7d Qd 9h]
+Seat 2: pocket esses (small blind) showed [3s Qs] and won ($3.20) with two pair, Queens and Sevens
+Seat 3: phrogman123 (big blind) folded on the River
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: Catchup666 folded before Flop
+Seat 8: davmover (button) showed [8s Ac] and lost with a pair of Sevens
+
+
+
+PokerStars Game #19577103249:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:49:29 (ET)
+Table 'Stephania' 9-max Seat #2 is the button
+Seat 2: pocket esses ($20.55 in chips) 
+Seat 3: phrogman123 ($17.40 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: Spyder_gst ($13.70 in chips) 
+Seat 6: Logasm ($7.85 in chips) 
+Seat 7: Catchup666 ($6.40 in chips) 
+Seat 8: davmover ($35.65 in chips) 
+Seat 9: BVB1909 ($15 in chips) 
+phrogman123: posts small blind $0.10
+Alameda22: posts big blind $0.25
+BVB1909: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Js]
+Spyder_gst: folds 
+Logasm: folds 
+Catchup666: folds 
+davmover: folds 
+BVB1909: checks 
+pocket esses: calls $0.25
+davmover leaves the table
+phrogman123: calls $0.15
+Alameda22: checks 
+*** FLOP *** [8h 5h 4h]
+phrogman123: checks 
+Alameda22: checks 
+BVB1909: checks 
+pocket esses: checks 
+*** TURN *** [8h 5h 4h] [9c]
+phrogman123: checks 
+Alameda22: checks 
+BVB1909: checks 
+pocket esses: checks 
+*** RIVER *** [8h 5h 4h 9c] [Jd]
+phrogman123: checks 
+Alameda22: bets $0.50
+BVB1909: folds 
+pocket esses: calls $0.50
+phrogman123: folds 
+*** SHOW DOWN ***
+Alameda22: shows [9h Js] (two pair, Jacks and Nines)
+pocket esses: mucks hand 
+PUHI BAY joins the table at seat #8 
+Alameda22 collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [8h 5h 4h 9c Jd]
+Seat 2: pocket esses (button) mucked [Jh Qs]
+Seat 3: phrogman123 (small blind) folded on the River
+Seat 4: Alameda22 (big blind) showed [9h Js] and won ($1.95) with two pair, Jacks and Nines
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: Catchup666 folded before Flop (didn't bet)
+Seat 8: davmover folded before Flop (didn't bet)
+Seat 9: BVB1909 folded on the River
+
+
+
+PokerStars Game #19577140538:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:51:30 (ET)
+Table 'Stephania' 9-max Seat #3 is the button
+Seat 2: pocket esses ($19.80 in chips) 
+Seat 3: phrogman123 ($17.15 in chips) 
+Seat 4: Alameda22 ($25.50 in chips) 
+Seat 5: Spyder_gst ($13.70 in chips) 
+Seat 6: Logasm ($7.85 in chips) 
+Seat 7: Catchup666 ($6.40 in chips) 
+Seat 9: BVB1909 ($14.75 in chips) 
+Alameda22: posts small blind $0.10
+Spyder_gst: posts big blind $0.25
+PUHI BAY: sits out 
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 4h]
+Logasm: folds 
+Catchup666: calls $0.25
+BVB1909: folds 
+pocket esses: folds 
+phrogman123: calls $0.25
+Alameda22: folds 
+Spyder_gst: checks 
+*** FLOP *** [5c 7c 7s]
+Spyder_gst: checks 
+Catchup666: checks 
+phrogman123: checks 
+*** TURN *** [5c 7c 7s] [8d]
+Spyder_gst: checks 
+Catchup666: checks 
+phrogman123: checks 
+*** RIVER *** [5c 7c 7s 8d] [Jd]
+Spyder_gst: bets $0.25
+Catchup666: calls $0.25
+phrogman123: folds 
+*** SHOW DOWN ***
+Spyder_gst: shows [Jh Ts] (two pair, Jacks and Sevens)
+Catchup666: mucks hand 
+Spyder_gst collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [5c 7c 7s 8d Jd]
+Seat 2: pocket esses folded before Flop (didn't bet)
+Seat 3: phrogman123 (button) folded on the River
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: Spyder_gst (big blind) showed [Jh Ts] and won ($1.30) with two pair, Jacks and Sevens
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: Catchup666 mucked [6h 6d]
+Seat 9: BVB1909 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577171672:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:53:11 (ET)
+Table 'Stephania' 9-max Seat #4 is the button
+Seat 2: pocket esses ($19.80 in chips) 
+Seat 3: phrogman123 ($16.90 in chips) 
+Seat 4: Alameda22 ($25.40 in chips) 
+Seat 5: Spyder_gst ($14.50 in chips) 
+Seat 6: Logasm ($7.85 in chips) 
+Seat 7: Catchup666 ($6.60 in chips) 
+Seat 9: BVB1909 ($14.75 in chips) 
+Spyder_gst: posts small blind $0.10
+Logasm: posts big blind $0.25
+PUHI BAY: sits out 
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Jh]
+Catchup666: folds 
+BVB1909: folds 
+pocket esses: folds 
+phrogman123: folds 
+Alameda22: folds 
+Spyder_gst: calls $0.15
+Logasm: raises $0.50 to $0.75
+Spyder_gst: folds 
+Uncalled bet ($0.50) returned to Logasm
+Logasm collected $0.50 from pot
+Logasm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: pocket esses folded before Flop (didn't bet)
+Seat 3: phrogman123 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: Spyder_gst (small blind) folded before Flop
+Seat 6: Logasm (big blind) collected ($0.50)
+Seat 7: Catchup666 folded before Flop (didn't bet)
+Seat 9: BVB1909 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577181947:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:53:45 (ET)
+Table 'Stephania' 9-max Seat #5 is the button
+Seat 2: pocket esses ($19.80 in chips) 
+Seat 3: phrogman123 ($16.90 in chips) 
+Seat 4: Alameda22 ($25.40 in chips) 
+Seat 5: Spyder_gst ($14.25 in chips) 
+Seat 6: Logasm ($8.10 in chips) 
+Seat 7: Catchup666 ($6.60 in chips) 
+Seat 9: BVB1909 ($14.75 in chips) 
+Logasm: posts small blind $0.10
+Catchup666: posts big blind $0.25
+PUHI BAY: sits out 
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Ad]
+BVB1909: folds 
+pocket esses: folds 
+phrogman123: folds 
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: folds 
+Uncalled bet ($0.15) returned to Catchup666
+Catchup666 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: pocket esses folded before Flop (didn't bet)
+Seat 3: phrogman123 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst (button) folded before Flop (didn't bet)
+Seat 6: Logasm (small blind) folded before Flop
+Seat 7: Catchup666 (big blind) collected ($0.20)
+Seat 9: BVB1909 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577196772:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:54:34 (ET)
+Table 'Stephania' 9-max Seat #6 is the button
+Seat 2: pocket esses ($19.80 in chips) 
+Seat 3: phrogman123 ($16.90 in chips) 
+Seat 4: Alameda22 ($25.40 in chips) 
+Seat 5: Spyder_gst ($14.25 in chips) 
+Seat 6: Logasm ($8 in chips) 
+Seat 7: Catchup666 ($6.70 in chips) 
+Seat 8: PUHI BAY ($5 in chips) 
+Seat 9: BVB1909 ($14.75 in chips) 
+Catchup666: posts small blind $0.10
+PUHI BAY: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 4h]
+BVB1909: folds 
+pocket esses: folds 
+phrogman123: folds 
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: raises $0.50 to $0.75
+Catchup666: folds 
+PUHI BAY: folds 
+Uncalled bet ($0.50) returned to Logasm
+Logasm collected $0.60 from pot
+Logasm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: pocket esses folded before Flop (didn't bet)
+Seat 3: phrogman123 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm (button) collected ($0.60)
+Seat 7: Catchup666 (small blind) folded before Flop
+Seat 8: PUHI BAY (big blind) folded before Flop
+Seat 9: BVB1909 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577213766:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:55:31 (ET)
+Table 'Stephania' 9-max Seat #7 is the button
+Seat 2: pocket esses ($19.80 in chips) 
+Seat 3: phrogman123 ($16.90 in chips) 
+Seat 4: Alameda22 ($25.40 in chips) 
+Seat 5: Spyder_gst ($14.25 in chips) 
+Seat 6: Logasm ($8.35 in chips) 
+Seat 7: Catchup666 ($6.60 in chips) 
+Seat 8: PUHI BAY ($4.75 in chips) 
+Seat 9: BVB1909 ($14.75 in chips) 
+PUHI BAY: posts small blind $0.10
+BVB1909: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 9h]
+pocket esses: folds 
+phrogman123: folds 
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: folds 
+Catchup666: folds 
+PUHI BAY: calls $0.15
+BVB1909: checks 
+*** FLOP *** [5h 4d 2s]
+PUHI BAY: checks 
+BVB1909: checks 
+*** TURN *** [5h 4d 2s] [5c]
+PUHI BAY: checks 
+BVB1909: checks 
+*** RIVER *** [5h 4d 2s 5c] [Ks]
+PUHI BAY: checks 
+BVB1909: checks 
+*** SHOW DOWN ***
+PUHI BAY: shows [Tc Jd] (a pair of Fives)
+BVB1909: shows [6c As] (a pair of Fives - Ace kicker)
+BVB1909 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [5h 4d 2s 5c Ks]
+Seat 2: pocket esses folded before Flop (didn't bet)
+Seat 3: phrogman123 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: Catchup666 (button) folded before Flop (didn't bet)
+Seat 8: PUHI BAY (small blind) showed [Tc Jd] and lost with a pair of Fives
+Seat 9: BVB1909 (big blind) showed [6c As] and won ($0.50) with a pair of Fives
+
+
+
+PokerStars Game #19577238760:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:56:53 (ET)
+Table 'Stephania' 9-max Seat #8 is the button
+Seat 1: yjqian23 ($25 in chips) 
+Seat 2: pocket esses ($19.80 in chips) 
+Seat 3: phrogman123 ($16.90 in chips) 
+Seat 4: Alameda22 ($25.40 in chips) 
+Seat 5: Spyder_gst ($14.25 in chips) 
+Seat 6: Logasm ($8.35 in chips) 
+Seat 7: Catchup666 ($6.60 in chips) 
+Seat 8: PUHI BAY ($4.50 in chips) 
+Seat 9: BVB1909 ($15 in chips) 
+BVB1909: posts small blind $0.10
+yjqian23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Kc]
+pocket esses: folds 
+pocket esses leaves the table
+phrogman123: calls $0.25
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: folds 
+pkr2k8 joins the table at seat #2 
+Catchup666: folds 
+PUHI BAY: folds 
+PUHI BAY leaves the table
+BVB1909: folds 
+wasserss joins the table at seat #8 
+yjqian23: checks 
+*** FLOP *** [2s Qh 2h]
+yjqian23: checks 
+phrogman123: checks 
+*** TURN *** [2s Qh 2h] [Qd]
+yjqian23: bets $0.50
+phrogman123: calls $0.50
+*** RIVER *** [2s Qh 2h Qd] [5c]
+Catchup666 leaves the table
+yjqian23: bets $0.75
+phrogman123: folds 
+Uncalled bet ($0.75) returned to yjqian23
+yjqian23 collected $1.55 from pot
+yjqian23: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [2s Qh 2h Qd 5c]
+Seat 1: yjqian23 (big blind) collected ($1.55)
+Seat 2: pocket esses folded before Flop (didn't bet)
+Seat 3: phrogman123 folded on the River
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 7: Catchup666 folded before Flop (didn't bet)
+Seat 8: PUHI BAY (button) folded before Flop (didn't bet)
+Seat 9: BVB1909 (small blind) folded before Flop
+
+
+
+PokerStars Game #19577262046:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:58:11 (ET)
+Table 'Stephania' 9-max Seat #9 is the button
+Seat 1: yjqian23 ($25.80 in chips) 
+Seat 2: pkr2k8 ($25 in chips) 
+Seat 3: phrogman123 ($16.15 in chips) 
+Seat 4: Alameda22 ($25.40 in chips) 
+Seat 5: Spyder_gst ($14.25 in chips) 
+Seat 6: Logasm ($8.35 in chips) 
+Seat 8: wasserss ($5 in chips) 
+Seat 9: BVB1909 ($14.90 in chips) 
+yjqian23: posts small blind $0.10
+pkr2k8: posts big blind $0.25
+wasserss: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 5c]
+phrogman123: folds 
+Alameda22: folds 
+Spyder_gst: folds 
+Logasm: folds 
+wasserss: checks 
+BVB1909: calls $0.25
+yjqian23: folds 
+pkr2k8: checks 
+*** FLOP *** [Ad 8s 7s]
+phrogman123 is sitting out
+virtua_fish joins the table at seat #7 
+pkr2k8: bets $0.75
+wasserss: folds 
+BVB1909: folds 
+Uncalled bet ($0.75) returned to pkr2k8
+pkr2k8 collected $0.85 from pot
+pkr2k8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Ad 8s 7s]
+Seat 1: yjqian23 (small blind) folded before Flop
+Seat 2: pkr2k8 (big blind) collected ($0.85)
+Seat 3: phrogman123 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 8: wasserss folded on the Flop
+Seat 9: BVB1909 (button) folded on the Flop
+
+
+
+PokerStars Game #19577292728:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 23:59:53 (ET)
+Table 'Stephania' 9-max Seat #1 is the button
+Seat 1: yjqian23 ($25.70 in chips) 
+Seat 2: pkr2k8 ($25.60 in chips) 
+Seat 4: Alameda22 ($25.40 in chips) 
+Seat 5: Spyder_gst ($14.25 in chips) 
+Seat 6: Logasm ($8.35 in chips) 
+Seat 8: wasserss ($4.75 in chips) 
+Seat 9: BVB1909 ($14.65 in chips) 
+pkr2k8: posts small blind $0.10
+Alameda22: posts big blind $0.25
+virtua_fish: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Jd]
+Spyder_gst: folds 
+Logasm: folds 
+wasserss: folds 
+BVB1909: folds 
+yjqian23: raises $0.25 to $0.50
+pkr2k8: folds 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to yjqian23
+yjqian23 collected $0.60 from pot
+yjqian23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: yjqian23 (button) collected ($0.60)
+Seat 2: pkr2k8 (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: Spyder_gst folded before Flop (didn't bet)
+Seat 6: Logasm folded before Flop (didn't bet)
+Seat 8: wasserss folded before Flop (didn't bet)
+Seat 9: BVB1909 folded before Flop (didn't bet)
+
+
+

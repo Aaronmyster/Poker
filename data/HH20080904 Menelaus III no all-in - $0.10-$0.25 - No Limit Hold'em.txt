@@ -1,0 +1,3155 @@
+PokerStars Game #20142276303:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:48:51 ET
+Table 'Menelaus III' 9-max Seat #1 is the button
+Seat 1: matricia ($10.85 in chips) 
+Seat 2: BUFFY BC ($4.95 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: luckystan777 ($14.75 in chips) 
+Seat 5: gagnon99 ($12.20 in chips) 
+Seat 6: pcboi ($50.45 in chips) 
+Seat 7: cruiseplanne ($15.15 in chips) 
+Seat 8: piermus ($12.10 in chips) 
+BUFFY BC: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Qs]
+luckystan777: folds 
+gagnon99: folds 
+gagnon99 leaves the table
+pcboi: folds 
+cruiseplanne: folds 
+piermus: folds 
+matricia: calls $0.25
+BUFFY BC: calls $0.15
+Alameda22: checks 
+*** FLOP *** [9d 5h Ac]
+twister39114 joins the table at seat #5 
+BUFFY BC: checks 
+Alameda22: checks 
+matricia: bets $0.50
+BUFFY BC: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to matricia
+matricia collected $0.75 from pot
+matricia: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [9d 5h Ac]
+Seat 1: matricia (button) collected ($0.75)
+Seat 2: BUFFY BC (small blind) folded on the Flop
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: gagnon99 folded before Flop (didn't bet)
+Seat 6: pcboi folded before Flop (didn't bet)
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 8: piermus folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142296717:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:49:40 ET
+Table 'Menelaus III' 9-max Seat #2 is the button
+Seat 1: matricia ($11.35 in chips) 
+Seat 2: BUFFY BC ($4.70 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: luckystan777 ($14.75 in chips) 
+Seat 6: pcboi ($50.45 in chips) 
+Seat 7: cruiseplanne ($15.15 in chips) 
+Seat 8: piermus ($12.10 in chips) 
+Alameda22: posts small blind $0.10
+luckystan777: posts big blind $0.25
+twister39114: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd As]
+pcboi: folds 
+cruiseplanne: folds 
+piermus: folds 
+matricia: calls $0.25
+BUFFY BC: calls $0.25
+Alameda22: calls $0.15
+luckystan777: checks 
+*** FLOP *** [Kh 6c 7d]
+Alameda22: checks 
+luckystan777: checks 
+matricia: checks 
+BUFFY BC: checks 
+*** TURN *** [Kh 6c 7d] [Qc]
+Alameda22: checks 
+luckystan777: checks 
+matricia: checks 
+BUFFY BC: checks 
+*** RIVER *** [Kh 6c 7d Qc] [5d]
+Alameda22: bets $0.50
+luckystan777: folds 
+matricia: folds 
+BUFFY BC: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.95 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Kh 6c 7d Qc 5d]
+Seat 1: matricia folded on the River
+Seat 2: BUFFY BC (button) folded on the River
+Seat 3: Alameda22 (small blind) collected ($0.95)
+Seat 4: luckystan777 (big blind) folded on the River
+Seat 6: pcboi folded before Flop (didn't bet)
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 8: piermus folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142326139:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:50:53 ET
+Table 'Menelaus III' 9-max Seat #3 is the button
+Seat 1: matricia ($11.10 in chips) 
+Seat 2: BUFFY BC ($4.45 in chips) 
+Seat 3: Alameda22 ($25.45 in chips) 
+Seat 4: luckystan777 ($14.50 in chips) 
+Seat 5: twister39114 ($25 in chips) 
+Seat 6: pcboi ($50.45 in chips) 
+Seat 7: cruiseplanne ($15.15 in chips) 
+Seat 8: piermus ($12.10 in chips) 
+luckystan777: posts small blind $0.10
+twister39114: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Ks]
+pcboi: folds 
+cruiseplanne: folds 
+piermus: raises $0.75 to $1
+matricia: folds 
+BUFFY BC: calls $1
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+*** FLOP *** [5c 4h Jh]
+piermus: checks 
+BUFFY BC: checks 
+*** TURN *** [5c 4h Jh] [Qd]
+piermus: bets $1.35
+BUFFY BC: calls $1.35
+*** RIVER *** [5c 4h Jh Qd] [Qs]
+piermus: bets $1
+BUFFY BC: raises $1.10 to $2.10 and is all-in
+piermus: calls $1.10
+*** SHOW DOWN ***
+BUFFY BC: shows [Qc As] (three of a kind, Queens)
+piermus: mucks hand 
+BUFFY BC collected $8.80 from pot
+*** SUMMARY ***
+Total pot $9.25 | Rake $0.45 
+Board [5c 4h Jh Qd Qs]
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 2: BUFFY BC showed [Qc As] and won ($8.80) with three of a kind, Queens
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: luckystan777 (small blind) folded before Flop
+Seat 5: twister39114 (big blind) folded before Flop
+Seat 6: pcboi folded before Flop (didn't bet)
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 8: piermus mucked [Kd Jd]
+
+
+
+PokerStars Game #20142360613:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:52:18 ET
+Table 'Menelaus III' 9-max Seat #4 is the button
+Seat 1: matricia ($11.10 in chips) 
+Seat 2: BUFFY BC ($8.80 in chips) 
+Seat 3: Alameda22 ($25.45 in chips) 
+Seat 4: luckystan777 ($14.40 in chips) 
+Seat 5: twister39114 ($24.75 in chips) 
+Seat 6: pcboi ($50.45 in chips) 
+Seat 7: cruiseplanne ($15.15 in chips) 
+Seat 8: piermus ($7.65 in chips) 
+twister39114: posts small blind $0.10
+pcboi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Ks]
+cruiseplanne: calls $0.25
+piermus: folds 
+matricia: calls $0.25
+BUFFY BC: calls $0.25
+Alameda22: folds 
+luckystan777: folds 
+twister39114: calls $0.15
+pcboi: checks 
+*** FLOP *** [8h Ac Ad]
+twister39114: checks 
+pcboi: checks 
+cruiseplanne: checks 
+matricia: checks 
+BUFFY BC: checks 
+*** TURN *** [8h Ac Ad] [4h]
+twister39114: checks 
+pcboi: checks 
+cruiseplanne: checks 
+matricia: checks 
+BUFFY BC: checks 
+*** RIVER *** [8h Ac Ad 4h] [Kh]
+twister39114: bets $0.25
+pcboi: folds 
+cruiseplanne: folds 
+muilano has returned
+matricia: folds 
+BUFFY BC: folds 
+Uncalled bet ($0.25) returned to twister39114
+twister39114 collected $1.20 from pot
+twister39114: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [8h Ac Ad 4h Kh]
+Seat 1: matricia folded on the River
+Seat 2: BUFFY BC folded on the River
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 (button) folded before Flop (didn't bet)
+Seat 5: twister39114 (small blind) collected ($1.20)
+Seat 6: pcboi (big blind) folded on the River
+Seat 7: cruiseplanne folded on the River
+Seat 8: piermus folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142388754:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:53:28 ET
+Table 'Menelaus III' 9-max Seat #5 is the button
+Seat 1: matricia ($10.85 in chips) 
+Seat 2: BUFFY BC ($8.55 in chips) 
+Seat 3: Alameda22 ($25.45 in chips) 
+Seat 4: luckystan777 ($14.40 in chips) 
+Seat 5: twister39114 ($25.70 in chips) 
+Seat 6: pcboi ($50.20 in chips) 
+Seat 7: cruiseplanne ($14.90 in chips) 
+Seat 8: piermus ($7.65 in chips) 
+Seat 9: muilano ($6.25 in chips) 
+pcboi: posts small blind $0.10
+cruiseplanne: posts big blind $0.25
+muilano: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc As]
+piermus: calls $0.25
+muilano: checks 
+matricia: folds 
+matricia is sitting out
+BUFFY BC: calls $0.25
+Alameda22: folds 
+luckystan777: folds 
+twister39114: raises $1 to $1.25
+pcboi: folds 
+cruiseplanne: folds 
+piermus: folds 
+muilano: folds 
+BUFFY BC: folds 
+Uncalled bet ($1) returned to twister39114
+twister39114 collected $1.45 from pot
+twister39114: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.45 | Rake $0 
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 2: BUFFY BC folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 (button) collected ($1.45)
+Seat 6: pcboi (small blind) folded before Flop
+Seat 7: cruiseplanne (big blind) folded before Flop
+Seat 8: piermus folded before Flop
+Seat 9: muilano folded before Flop
+
+
+
+PokerStars Game #20142409002:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:54:18 ET
+Table 'Menelaus III' 9-max Seat #6 is the button
+Seat 2: BUFFY BC ($8.30 in chips) 
+Seat 3: Alameda22 ($25.45 in chips) 
+Seat 4: luckystan777 ($14.40 in chips) 
+Seat 5: twister39114 ($26.90 in chips) 
+Seat 6: pcboi ($50.10 in chips) 
+Seat 7: cruiseplanne ($14.65 in chips) 
+Seat 8: piermus ($7.40 in chips) 
+Seat 9: muilano ($5.90 in chips) 
+cruiseplanne: posts small blind $0.10
+piermus: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Ac]
+muilano: folds 
+matricia has returned
+BUFFY BC: calls $0.25
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+pcboi: folds 
+cruiseplanne: folds 
+piermus: raises $0.75 to $1
+BUFFY BC: calls $0.75
+*** FLOP *** [7c 2s Ks]
+piermus: bets $1
+BUFFY BC: folds 
+Uncalled bet ($1) returned to piermus
+piermus collected $2 from pot
+piermus: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [7c 2s Ks]
+Seat 2: BUFFY BC folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: pcboi (button) folded before Flop (didn't bet)
+Seat 7: cruiseplanne (small blind) folded before Flop
+Seat 8: piermus (big blind) collected ($2)
+Seat 9: muilano folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142426686:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:55:03 ET
+Table 'Menelaus III' 9-max Seat #7 is the button
+Seat 1: matricia ($10.85 in chips) 
+Seat 2: BUFFY BC ($7.30 in chips) 
+Seat 3: Alameda22 ($25.45 in chips) 
+Seat 4: luckystan777 ($14.40 in chips) 
+Seat 5: twister39114 ($26.90 in chips) 
+Seat 6: pcboi ($50.10 in chips) 
+Seat 7: cruiseplanne ($14.55 in chips) 
+Seat 8: piermus ($8.40 in chips) 
+Seat 9: muilano ($5.90 in chips) 
+piermus: posts small blind $0.10
+muilano: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 5s]
+matricia: folds 
+BUFFY BC: folds 
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+pcboi: folds 
+cruiseplanne: calls $0.25
+piermus: calls $0.15
+muilano: checks 
+*** FLOP *** [5d Td 7c]
+piermus: bets $0.75
+muilano: folds 
+cruiseplanne: folds 
+Uncalled bet ($0.75) returned to piermus
+piermus collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [5d Td 7c]
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 2: BUFFY BC folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: pcboi folded before Flop (didn't bet)
+Seat 7: cruiseplanne (button) folded on the Flop
+Seat 8: piermus (small blind) collected ($0.75)
+Seat 9: muilano (big blind) folded on the Flop
+
+
+
+PokerStars Game #20142451854:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:56:11 ET
+Table 'Menelaus III' 9-max Seat #8 is the button
+Seat 1: matricia ($10.85 in chips) 
+Seat 2: BUFFY BC ($7.30 in chips) 
+Seat 3: Alameda22 ($25.45 in chips) 
+Seat 4: luckystan777 ($14.40 in chips) 
+Seat 5: twister39114 ($26.90 in chips) 
+Seat 6: pcboi ($50.10 in chips) 
+Seat 7: cruiseplanne ($14.30 in chips) 
+Seat 8: piermus ($8.90 in chips) 
+Seat 9: muilano ($5.65 in chips) 
+muilano: posts small blind $0.10
+matricia: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Ts]
+BUFFY BC: calls $0.25
+Alameda22: folds 
+luckystan777: calls $0.25
+twister39114: calls $0.25
+pcboi: folds 
+cruiseplanne: folds 
+piermus: folds 
+muilano: calls $0.15
+matricia: checks 
+*** FLOP *** [7s Jd 6h]
+muilano: checks 
+matricia: checks 
+BUFFY BC: bets $0.25
+luckystan777: folds 
+twister39114: calls $0.25
+muilano: folds 
+matricia: calls $0.25
+*** TURN *** [7s Jd 6h] [9s]
+matricia: bets $1
+BUFFY BC: calls $1
+twister39114: calls $1
+*** RIVER *** [7s Jd 6h 9s] [As]
+matricia: bets $1
+BUFFY BC: folds 
+twister39114: folds 
+Uncalled bet ($1) returned to matricia
+matricia collected $4.80 from pot
+matricia: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.20 
+Board [7s Jd 6h 9s As]
+Seat 1: matricia (big blind) collected ($4.80)
+Seat 2: BUFFY BC folded on the River
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded on the Flop
+Seat 5: twister39114 folded on the River
+Seat 6: pcboi folded before Flop (didn't bet)
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 8: piermus (button) folded before Flop (didn't bet)
+Seat 9: muilano (small blind) folded on the Flop
+
+
+
+PokerStars Game #20142486915:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:57:39 ET
+Table 'Menelaus III' 9-max Seat #9 is the button
+Seat 1: matricia ($14.15 in chips) 
+Seat 2: BUFFY BC ($5.80 in chips) 
+Seat 3: Alameda22 ($25.45 in chips) 
+Seat 4: luckystan777 ($14.15 in chips) 
+Seat 5: twister39114 ($25.40 in chips) 
+Seat 6: pcboi ($50.10 in chips) 
+Seat 7: cruiseplanne ($14.30 in chips) 
+Seat 8: piermus ($8.90 in chips) 
+Seat 9: muilano ($5.40 in chips) 
+matricia: posts small blind $0.10
+BUFFY BC: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Js]
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+pcboi: folds 
+cruiseplanne: calls $0.25
+piermus: folds 
+muilano: folds 
+matricia: calls $0.15
+BUFFY BC: checks 
+*** FLOP *** [4c 3c 2d]
+matricia: checks 
+BUFFY BC: bets $0.50
+cruiseplanne: raises $0.75 to $1.25
+matricia: folds 
+BUFFY BC: calls $0.75
+*** TURN *** [4c 3c 2d] [9c]
+BUFFY BC: checks 
+cruiseplanne: bets $1
+BUFFY BC: calls $1
+*** RIVER *** [4c 3c 2d 9c] [Ts]
+BUFFY BC: checks 
+cruiseplanne: bets $3.30
+BUFFY BC: folds 
+Uncalled bet ($3.30) returned to cruiseplanne
+cruiseplanne collected $5 from pot
+cruiseplanne: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [4c 3c 2d 9c Ts]
+Seat 1: matricia (small blind) folded on the Flop
+Seat 2: BUFFY BC (big blind) folded on the River
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: pcboi folded before Flop (didn't bet)
+Seat 7: cruiseplanne collected ($5)
+Seat 8: piermus folded before Flop (didn't bet)
+Seat 9: muilano (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142519428:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:59:01 ET
+Table 'Menelaus III' 9-max Seat #1 is the button
+Seat 1: matricia ($13.90 in chips) 
+Seat 2: BUFFY BC ($3.30 in chips) 
+Seat 3: Alameda22 ($25.45 in chips) 
+Seat 4: luckystan777 ($14.15 in chips) 
+Seat 5: twister39114 ($25.40 in chips) 
+Seat 6: pcboi ($50.10 in chips) 
+Seat 7: cruiseplanne ($16.80 in chips) 
+Seat 8: piermus ($8.90 in chips) 
+Seat 9: muilano ($5.40 in chips) 
+BUFFY BC: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 4s]
+luckystan777: folds 
+twister39114: folds 
+pcboi: folds 
+cruiseplanne: calls $0.25
+piermus: calls $0.25
+muilano: folds 
+matricia: calls $0.25
+BUFFY BC: calls $0.15
+Alameda22: checks 
+*** FLOP *** [5h Ks Js]
+BUFFY BC: checks 
+Alameda22: checks 
+cruiseplanne: checks 
+piermus: checks 
+matricia: bets $0.50
+BUFFY BC: folds 
+Alameda22: folds 
+cruiseplanne: folds 
+piermus: folds 
+Uncalled bet ($0.50) returned to matricia
+matricia collected $1.20 from pot
+matricia: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [5h Ks Js]
+Seat 1: matricia (button) collected ($1.20)
+Seat 2: BUFFY BC (small blind) folded on the Flop
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: pcboi folded before Flop (didn't bet)
+Seat 7: cruiseplanne folded on the Flop
+Seat 8: piermus folded on the Flop
+Seat 9: muilano folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142544025:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:00:02 ET
+Table 'Menelaus III' 9-max Seat #2 is the button
+Seat 1: matricia ($14.85 in chips) 
+Seat 2: BUFFY BC ($3.05 in chips) 
+Seat 3: Alameda22 ($25.20 in chips) 
+Seat 4: luckystan777 ($14.15 in chips) 
+Seat 5: twister39114 ($25.40 in chips) 
+Seat 6: pcboi ($50.10 in chips) 
+Seat 7: cruiseplanne ($16.55 in chips) 
+Seat 8: piermus ($8.65 in chips) 
+Seat 9: muilano ($5.40 in chips) 
+Alameda22: posts small blind $0.10
+luckystan777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Kd]
+twister39114: folds 
+pcboi: folds 
+cruiseplanne: folds 
+piermus: folds 
+muilano: folds 
+matricia: calls $0.25
+BUFFY BC: calls $0.25
+Alameda22: folds 
+luckystan777: checks 
+*** FLOP *** [As 8d 8s]
+luckystan777: checks 
+matricia: bets $1
+BUFFY BC: folds 
+luckystan777: folds 
+Uncalled bet ($1) returned to matricia
+matricia collected $0.85 from pot
+matricia: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [As 8d 8s]
+Seat 1: matricia collected ($0.85)
+Seat 2: BUFFY BC (button) folded on the Flop
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: luckystan777 (big blind) folded on the Flop
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: pcboi folded before Flop (didn't bet)
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 8: piermus folded before Flop (didn't bet)
+Seat 9: muilano folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142571437:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:01:10 ET
+Table 'Menelaus III' 9-max Seat #3 is the button
+Seat 1: matricia ($15.45 in chips) 
+Seat 2: BUFFY BC ($2.80 in chips) 
+Seat 3: Alameda22 ($25.10 in chips) 
+Seat 4: luckystan777 ($13.90 in chips) 
+Seat 5: twister39114 ($25.40 in chips) 
+Seat 6: pcboi ($50.10 in chips) 
+Seat 7: cruiseplanne ($16.55 in chips) 
+Seat 8: piermus ($8.65 in chips) 
+Seat 9: muilano ($5.40 in chips) 
+luckystan777: posts small blind $0.10
+twister39114: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 2d]
+pcboi: folds 
+pcboi is sitting out
+cruiseplanne: folds 
+piermus: folds 
+muilano: folds 
+matricia: calls $0.25
+BUFFY BC: calls $0.25
+Alameda22: folds 
+luckystan777: calls $0.15
+twister39114: checks 
+*** FLOP *** [Ts 8c Qc]
+luckystan777: checks 
+twister39114: bets $0.25
+matricia: calls $0.25
+BUFFY BC: calls $0.25
+luckystan777: calls $0.25
+*** TURN *** [Ts 8c Qc] [4h]
+luckystan777: checks 
+twister39114: checks 
+matricia: checks 
+BUFFY BC: checks 
+*** RIVER *** [Ts 8c Qc 4h] [Jd]
+luckystan777: bets $0.25
+twister39114: folds 
+matricia: folds 
+BUFFY BC: folds 
+Uncalled bet ($0.25) returned to luckystan777
+luckystan777 collected $1.95 from pot
+luckystan777: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [Ts 8c Qc 4h Jd]
+Seat 1: matricia folded on the River
+Seat 2: BUFFY BC folded on the River
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: luckystan777 (small blind) collected ($1.95)
+Seat 5: twister39114 (big blind) folded on the River
+Seat 6: pcboi folded before Flop (didn't bet)
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 8: piermus folded before Flop (didn't bet)
+Seat 9: muilano folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142604393:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:02:32 ET
+Table 'Menelaus III' 9-max Seat #4 is the button
+Seat 1: matricia ($14.95 in chips) 
+Seat 2: BUFFY BC ($2.30 in chips) 
+Seat 3: Alameda22 ($25.10 in chips) 
+Seat 4: luckystan777 ($15.35 in chips) 
+Seat 5: twister39114 ($24.90 in chips) 
+Seat 7: cruiseplanne ($16.55 in chips) 
+Seat 8: piermus ($8.65 in chips) 
+Seat 9: muilano ($5.40 in chips) 
+twister39114: posts small blind $0.10
+cruiseplanne: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 8c]
+piermus: folds 
+muilano: calls $0.25
+matricia: calls $0.25
+BUFFY BC: folds 
+Alameda22: folds 
+luckystan777: calls $0.25
+twister39114: folds 
+cruiseplanne: checks 
+*** FLOP *** [2h Qs 4c]
+cruiseplanne: checks 
+muilano: checks 
+matricia: bets $0.75
+luckystan777: folds 
+cruiseplanne: folds 
+muilano: calls $0.75
+*** TURN *** [2h Qs 4c] [Kc]
+muilano: checks 
+matricia: bets $0.75
+muilano: calls $0.75
+*** RIVER *** [2h Qs 4c Kc] [8d]
+muilano: checks 
+matricia: checks 
+*** SHOW DOWN ***
+muilano: shows [Ks 9d] (a pair of Kings)
+matricia: mucks hand 
+muilano collected $3.90 from pot
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [2h Qs 4c Kc 8d]
+Seat 1: matricia mucked [7s Qc]
+Seat 2: BUFFY BC folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 (button) folded on the Flop
+Seat 5: twister39114 (small blind) folded before Flop
+Seat 7: cruiseplanne (big blind) folded on the Flop
+Seat 8: piermus folded before Flop (didn't bet)
+Seat 9: muilano showed [Ks 9d] and won ($3.90) with a pair of Kings
+
+
+
+PokerStars Game #20142629749:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:03:34 ET
+Table 'Menelaus III' 9-max Seat #5 is the button
+Seat 1: matricia ($13.20 in chips) 
+Seat 2: BUFFY BC ($2.30 in chips) 
+Seat 3: Alameda22 ($25.10 in chips) 
+Seat 4: luckystan777 ($15.10 in chips) 
+Seat 5: twister39114 ($24.80 in chips) 
+Seat 7: cruiseplanne ($16.30 in chips) 
+Seat 8: piermus ($8.65 in chips) 
+Seat 9: muilano ($7.55 in chips) 
+cruiseplanne: posts small blind $0.10
+piermus: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 2c]
+muilano: folds 
+matricia: folds 
+BUFFY BC: folds 
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+cruiseplanne: folds 
+Uncalled bet ($0.15) returned to piermus
+piermus collected $0.20 from pot
+piermus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 2: BUFFY BC folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 (button) folded before Flop (didn't bet)
+Seat 7: cruiseplanne (small blind) folded before Flop
+Seat 8: piermus (big blind) collected ($0.20)
+Seat 9: muilano folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142643171:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:04:06 ET
+Table 'Menelaus III' 9-max Seat #7 is the button
+Seat 1: matricia ($13.20 in chips) 
+Seat 2: BUFFY BC ($2.30 in chips) 
+Seat 3: Alameda22 ($25.10 in chips) 
+Seat 4: luckystan777 ($15.10 in chips) 
+Seat 5: twister39114 ($24.80 in chips) 
+Seat 7: cruiseplanne ($16.20 in chips) 
+Seat 8: piermus ($8.75 in chips) 
+Seat 9: muilano ($7.55 in chips) 
+piermus: posts small blind $0.10
+muilano: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 2s]
+matricia: folds 
+BUFFY BC: folds 
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+cruiseplanne: folds 
+piermus: calls $0.15
+muilano: checks 
+*** FLOP *** [6d 2d 3s]
+piermus: bets $0.25
+muilano: raises $0.75 to $1
+piermus said, "45"
+piermus said, "you"
+piermus: folds 
+Uncalled bet ($0.75) returned to muilano
+muilano collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [6d 2d 3s]
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 2: BUFFY BC folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 7: cruiseplanne (button) folded before Flop (didn't bet)
+Seat 8: piermus (small blind) folded on the Flop
+Seat 9: muilano (big blind) collected ($0.95)
+
+
+
+PokerStars Game #20142666608:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:05:03 ET
+Table 'Menelaus III' 9-max Seat #8 is the button
+Seat 1: matricia ($13.20 in chips) 
+Seat 2: BUFFY BC ($13.35 in chips) 
+Seat 3: Alameda22 ($25.10 in chips) 
+Seat 4: luckystan777 ($15.10 in chips) 
+Seat 5: twister39114 ($24.80 in chips) 
+Seat 7: cruiseplanne ($16.20 in chips) 
+Seat 8: piermus ($8.25 in chips) 
+Seat 9: muilano ($8 in chips) 
+muilano: posts small blind $0.10
+matricia: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 2s]
+BUFFY BC: calls $0.25
+Alameda22: folds 
+luckystan777: calls $0.25
+twister39114: calls $0.25
+cruiseplanne: folds 
+piermus: folds 
+muilano: calls $0.15
+matricia: checks 
+*** FLOP *** [8s As 3s]
+muilano: checks 
+matricia: checks 
+BUFFY BC: bets $0.50
+luckystan777: folds 
+twister39114: folds 
+muilano: folds 
+matricia: folds 
+Uncalled bet ($0.50) returned to BUFFY BC
+BUFFY BC collected $1.20 from pot
+BUFFY BC: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [8s As 3s]
+Seat 1: matricia (big blind) folded on the Flop
+Seat 2: BUFFY BC collected ($1.20)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded on the Flop
+Seat 5: twister39114 folded on the Flop
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 8: piermus (button) folded before Flop (didn't bet)
+Seat 9: muilano (small blind) folded on the Flop
+
+
+
+PokerStars Game #20142688815:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:05:57 ET
+Table 'Menelaus III' 9-max Seat #9 is the button
+Seat 1: matricia ($12.95 in chips) 
+Seat 2: BUFFY BC ($14.30 in chips) 
+Seat 3: Alameda22 ($25.10 in chips) 
+Seat 4: luckystan777 ($14.85 in chips) 
+Seat 5: twister39114 ($24.55 in chips) 
+Seat 7: cruiseplanne ($16.20 in chips) 
+Seat 8: piermus ($8.25 in chips) 
+Seat 9: muilano ($7.75 in chips) 
+matricia: posts small blind $0.10
+BUFFY BC: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Jh]
+Alameda22: raises $0.75 to $1
+luckystan777: calls $1
+twister39114: folds 
+cruiseplanne: calls $1
+piermus: folds 
+muilano: folds 
+matricia: folds 
+BUFFY BC: calls $0.75
+*** FLOP *** [4d Js Ad]
+BUFFY BC: checks 
+Alameda22: bets $2.75
+luckystan777: folds 
+cruiseplanne: folds 
+BUFFY BC: raises $10.55 to $13.30 and is all-in
+Alameda22: calls $10.55
+*** TURN *** [4d Js Ad] [Qs]
+*** RIVER *** [4d Js Ad Qs] [3c]
+*** SHOW DOWN ***
+BUFFY BC: shows [As 4s] (two pair, Aces and Fours)
+Alameda22: shows [Jc Jh] (three of a kind, Jacks)
+Alameda22 collected $29.20 from pot
+*** SUMMARY ***
+Total pot $30.70 | Rake $1.50 
+Board [4d Js Ad Qs 3c]
+Seat 1: matricia (small blind) folded before Flop
+Seat 2: BUFFY BC (big blind) showed [As 4s] and lost with two pair, Aces and Fours
+Seat 3: Alameda22 showed [Jc Jh] and won ($29.20) with three of a kind, Jacks
+Seat 4: luckystan777 folded on the Flop
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 7: cruiseplanne folded on the Flop
+Seat 8: piermus folded before Flop (didn't bet)
+Seat 9: muilano (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142717117:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:07:06 ET
+Table 'Menelaus III' 9-max Seat #1 is the button
+Seat 1: matricia ($12.85 in chips) 
+Seat 3: Alameda22 ($40 in chips) 
+Seat 4: luckystan777 ($13.85 in chips) 
+Seat 5: twister39114 ($24.55 in chips) 
+Seat 7: cruiseplanne ($15.20 in chips) 
+Seat 8: piermus ($8.25 in chips) 
+Seat 9: muilano ($7.75 in chips) 
+Alameda22: posts small blind $0.10
+luckystan777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Qs]
+BUFFY BC leaves the table
+twister39114: raises $0.75 to $1
+cruiseplanne: folds 
+piermus: folds 
+muilano: folds 
+matricia: folds 
+Alex_Sokolov joins the table at seat #2 
+Alameda22: folds 
+luckystan777: folds 
+Uncalled bet ($0.75) returned to twister39114
+twister39114 collected $0.60 from pot
+twister39114: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: matricia (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: luckystan777 (big blind) folded before Flop
+Seat 5: twister39114 collected ($0.60)
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 8: piermus folded before Flop (didn't bet)
+Seat 9: muilano folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142730801:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:07:38 ET
+Table 'Menelaus III' 9-max Seat #3 is the button
+Seat 1: matricia ($12.85 in chips) 
+Seat 3: Alameda22 ($39.90 in chips) 
+Seat 4: luckystan777 ($13.60 in chips) 
+Seat 5: twister39114 ($24.90 in chips) 
+Seat 7: cruiseplanne ($15.20 in chips) 
+Seat 8: piermus ($8.25 in chips) 
+Seat 9: muilano ($7.75 in chips) 
+luckystan777: posts small blind $0.10
+twister39114: posts big blind $0.25
+Alex_Sokolov: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Kc]
+cruiseplanne: folds 
+piermus: folds 
+muilano: folds 
+matricia: calls $0.25
+Alameda22: folds 
+luckystan777: calls $0.15
+twister39114: checks 
+*** FLOP *** [Qs Jh Tc]
+luckystan777: checks 
+twister39114: checks 
+matricia: checks 
+*** TURN *** [Qs Jh Tc] [8s]
+luckystan777: bets $0.25
+twister39114: folds 
+matricia: calls $0.25
+*** RIVER *** [Qs Jh Tc 8s] [3h]
+luckystan777: bets $0.75
+matricia: folds 
+Uncalled bet ($0.75) returned to luckystan777
+luckystan777 collected $1.20 from pot
+luckystan777: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Qs Jh Tc 8s 3h]
+Seat 1: matricia folded on the River
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: luckystan777 (small blind) collected ($1.20)
+Seat 5: twister39114 (big blind) folded on the Turn
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 8: piermus folded before Flop (didn't bet)
+Seat 9: muilano folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142754149:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:08:35 ET
+Table 'Menelaus III' 9-max Seat #4 is the button
+Seat 1: matricia ($12.35 in chips) 
+Seat 3: Alameda22 ($39.90 in chips) 
+Seat 4: luckystan777 ($14.30 in chips) 
+Seat 5: twister39114 ($24.65 in chips) 
+Seat 7: cruiseplanne ($15.20 in chips) 
+Seat 8: piermus ($8.25 in chips) 
+Seat 9: muilano ($7.75 in chips) 
+twister39114: posts small blind $0.10
+cruiseplanne: posts big blind $0.25
+Alex_Sokolov: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 6c]
+piermus: raises $0.75 to $1
+muilano: folds 
+matricia: folds 
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+cruiseplanne: folds 
+Uncalled bet ($0.75) returned to piermus
+piermus collected $0.60 from pot
+piermus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 (button) folded before Flop (didn't bet)
+Seat 5: twister39114 (small blind) folded before Flop
+Seat 7: cruiseplanne (big blind) folded before Flop
+Seat 8: piermus collected ($0.60)
+Seat 9: muilano folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142768478:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:09:10 ET
+Table 'Menelaus III' 9-max Seat #5 is the button
+Seat 1: matricia ($12.35 in chips) 
+Seat 3: Alameda22 ($39.90 in chips) 
+Seat 4: luckystan777 ($14.30 in chips) 
+Seat 5: twister39114 ($24.55 in chips) 
+Seat 7: cruiseplanne ($14.95 in chips) 
+Seat 8: piermus ($8.60 in chips) 
+Seat 9: muilano ($7.75 in chips) 
+cruiseplanne: posts small blind $0.10
+piermus: posts big blind $0.25
+Alex_Sokolov: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Jd]
+muilano: folds 
+matricia: calls $0.25
+Alameda22: folds 
+luckystan777: folds 
+twister39114: calls $0.25
+cruiseplanne: folds 
+piermus: checks 
+*** FLOP *** [8c 2c Td]
+piermus: checks 
+matricia: bets $0.50
+twister39114: calls $0.50
+piermus: folds 
+*** TURN *** [8c 2c Td] [Jc]
+matricia: checks 
+twister39114: bets $1
+matricia: calls $1
+*** RIVER *** [8c 2c Td Jc] [4d]
+matricia: checks 
+twister39114: bets $1
+matricia: folds 
+Uncalled bet ($1) returned to twister39114
+twister39114 collected $3.70 from pot
+twister39114: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [8c 2c Td Jc 4d]
+Seat 1: matricia folded on the River
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 (button) collected ($3.70)
+Seat 7: cruiseplanne (small blind) folded before Flop
+Seat 8: piermus (big blind) folded on the Flop
+Seat 9: muilano folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142797403:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:10:18 ET
+Table 'Menelaus III' 9-max Seat #7 is the button
+Seat 1: matricia ($10.60 in chips) 
+Seat 3: Alameda22 ($39.90 in chips) 
+Seat 4: luckystan777 ($14.30 in chips) 
+Seat 5: twister39114 ($26.50 in chips) 
+Seat 7: cruiseplanne ($14.85 in chips) 
+Seat 8: piermus ($8.35 in chips) 
+Seat 9: muilano ($7.75 in chips) 
+piermus: posts small blind $0.10
+muilano: posts big blind $0.25
+Alex_Sokolov: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Qs]
+matricia: calls $0.25
+Alameda22: folds 
+luckystan777: calls $0.25
+twister39114: folds 
+cruiseplanne: folds 
+piermus: folds 
+muilano: checks 
+*** FLOP *** [Td 9c 3s]
+muilano: checks 
+matricia: bets $0.75
+luckystan777: folds 
+muilano: folds 
+Uncalled bet ($0.75) returned to matricia
+matricia collected $0.85 from pot
+matricia: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Td 9c 3s]
+Seat 1: matricia collected ($0.85)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded on the Flop
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 7: cruiseplanne (button) folded before Flop (didn't bet)
+Seat 8: piermus (small blind) folded before Flop
+Seat 9: muilano (big blind) folded on the Flop
+
+
+
+PokerStars Game #20142813144:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:10:55 ET
+Table 'Menelaus III' 9-max Seat #8 is the button
+Seat 1: matricia ($11.20 in chips) 
+Seat 3: Alameda22 ($39.90 in chips) 
+Seat 4: luckystan777 ($14.05 in chips) 
+Seat 5: twister39114 ($26.50 in chips) 
+Seat 7: cruiseplanne ($14.85 in chips) 
+Seat 8: piermus ($8.25 in chips) 
+Seat 9: muilano ($7.50 in chips) 
+muilano: posts small blind $0.10
+matricia: posts big blind $0.25
+Alex_Sokolov: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Kh]
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+cruiseplanne: folds 
+cruiseplanne is sitting out
+piermus: raises $0.50 to $0.75
+muilano: folds 
+matricia: folds 
+Uncalled bet ($0.50) returned to piermus
+piermus collected $0.60 from pot
+piermus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: matricia (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 8: piermus (button) collected ($0.60)
+Seat 9: muilano (small blind) folded before Flop
+
+
+
+PokerStars Game #20142828359:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:11:31 ET
+Table 'Menelaus III' 9-max Seat #9 is the button
+Seat 1: matricia ($10.95 in chips) 
+Seat 2: Alex_Sokolov ($6 in chips) 
+Seat 3: Alameda22 ($39.90 in chips) 
+Seat 4: luckystan777 ($14.05 in chips) 
+Seat 5: twister39114 ($26.50 in chips) 
+Seat 8: piermus ($8.60 in chips) 
+Seat 9: muilano ($7.40 in chips) 
+matricia: posts small blind $0.10
+Alex_Sokolov: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s As]
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+piermus: folds 
+muilano: folds 
+matricia: calls $0.15
+Alex_Sokolov: checks 
+*** FLOP *** [4h 7s 8h]
+matricia: checks 
+Alex_Sokolov: bets $0.50
+matricia: calls $0.50
+*** TURN *** [4h 7s 8h] [6d]
+matricia: checks 
+Alex_Sokolov: checks 
+*** RIVER *** [4h 7s 8h 6d] [Jh]
+cruiseplanne has returned
+matricia: checks 
+Alex_Sokolov: bets $1
+matricia: folds 
+Uncalled bet ($1) returned to Alex_Sokolov
+Alex_Sokolov collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [4h 7s 8h 6d Jh]
+Seat 1: matricia (small blind) folded on the River
+Seat 2: Alex_Sokolov (big blind) collected ($1.45)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 8: piermus folded before Flop (didn't bet)
+Seat 9: muilano (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142856320:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:12:38 ET
+Table 'Menelaus III' 9-max Seat #1 is the button
+Seat 1: matricia ($10.20 in chips) 
+Seat 2: Alex_Sokolov ($6.70 in chips) 
+Seat 3: Alameda22 ($39.90 in chips) 
+Seat 4: luckystan777 ($14.05 in chips) 
+Seat 5: twister39114 ($26.50 in chips) 
+Seat 7: cruiseplanne ($14.85 in chips) 
+Seat 8: piermus ($8.60 in chips) 
+Seat 9: muilano ($7.40 in chips) 
+Alex_Sokolov: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Ah]
+luckystan777: folds 
+twister39114: folds 
+cruiseplanne: folds 
+piermus: folds 
+muilano: calls $0.25
+matricia: folds 
+Alex_Sokolov: calls $0.15
+Alameda22: raises $1.25 to $1.50
+muilano: calls $1.25
+Alex_Sokolov: folds 
+*** FLOP *** [Ks 3s 9s]
+Alameda22: bets $2
+muilano: folds 
+Uncalled bet ($2) returned to Alameda22
+Alameda22 collected $3.10 from pot
+Alameda22: doesn't show hand 
+pcboi is disconnected 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Ks 3s 9s]
+Seat 1: matricia (button) folded before Flop (didn't bet)
+Seat 2: Alex_Sokolov (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) collected ($3.10)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 8: piermus folded before Flop (didn't bet)
+Seat 9: muilano folded on the Flop
+
+
+
+PokerStars Game #20142883364:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:13:43 ET
+Table 'Menelaus III' 9-max Seat #2 is the button
+Seat 1: matricia ($10.20 in chips) 
+Seat 2: Alex_Sokolov ($6.45 in chips) 
+Seat 3: Alameda22 ($41.50 in chips) 
+Seat 4: luckystan777 ($14.05 in chips) 
+Seat 5: twister39114 ($26.50 in chips) 
+Seat 7: cruiseplanne ($14.85 in chips) 
+Seat 8: piermus ($8.60 in chips) 
+Seat 9: muilano ($5.90 in chips) 
+Alameda22: posts small blind $0.10
+luckystan777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Js]
+twister39114: folds 
+cruiseplanne: folds 
+piermus: folds 
+muilano: calls $0.25
+matricia: folds 
+Alex_Sokolov: calls $0.25
+Alameda22: folds 
+luckystan777: checks 
+*** FLOP *** [4d 2d 7c]
+luckystan777: checks 
+muilano: bets $1
+Alex_Sokolov: calls $1
+luckystan777: folds 
+*** TURN *** [4d 2d 7c] [8h]
+muilano: bets $1
+Alex_Sokolov: calls $1
+*** RIVER *** [4d 2d 7c 8h] [Th]
+muilano: bets $3.65 and is all-in
+Alex_Sokolov: folds 
+Uncalled bet ($3.65) returned to muilano
+muilano collected $4.65 from pot
+Alex_Sokolov leaves the table
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [4d 2d 7c 8h Th]
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 2: Alex_Sokolov (button) folded on the River
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: luckystan777 (big blind) folded on the Flop
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 8: piermus folded before Flop (didn't bet)
+Seat 9: muilano collected ($4.65)
+
+
+
+PokerStars Game #20142919054:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:15:09 ET
+Table 'Menelaus III' 9-max Seat #3 is the button
+Seat 1: matricia ($10.20 in chips) 
+Seat 3: Alameda22 ($41.40 in chips) 
+Seat 4: luckystan777 ($13.80 in chips) 
+Seat 5: twister39114 ($26.50 in chips) 
+Seat 7: cruiseplanne ($14.85 in chips) 
+Seat 8: piermus ($8.60 in chips) 
+Seat 9: muilano ($8.30 in chips) 
+luckystan777: posts small blind $0.10
+twister39114: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Ad]
+cruiseplanne: folds 
+piermus: folds 
+muilano: calls $0.25
+matricia: calls $0.25
+Alameda22: folds 
+Gabi_2011 joins the table at seat #2 
+luckystan777: calls $0.15
+twister39114: checks 
+*** FLOP *** [Kc 4d 2s]
+luckystan777: checks 
+twister39114: bets $0.25
+muilano: calls $0.25
+matricia: raises $0.75 to $1
+luckystan777: folds 
+twister39114: folds 
+muilano: folds 
+Uncalled bet ($0.75) returned to matricia
+matricia collected $1.70 from pot
+matricia: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Kc 4d 2s]
+Seat 1: matricia collected ($1.70)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: luckystan777 (small blind) folded on the Flop
+Seat 5: twister39114 (big blind) folded on the Flop
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 8: piermus folded before Flop (didn't bet)
+Seat 9: muilano folded on the Flop
+
+
+
+PokerStars Game #20142942086:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:16:04 ET
+Table 'Menelaus III' 9-max Seat #4 is the button
+Seat 1: matricia ($11.40 in chips) 
+Seat 3: Alameda22 ($41.40 in chips) 
+Seat 4: luckystan777 ($13.55 in chips) 
+Seat 5: twister39114 ($26 in chips) 
+Seat 7: cruiseplanne ($14.85 in chips) 
+Seat 8: piermus ($8.60 in chips) 
+Seat 9: muilano ($7.80 in chips) 
+twister39114: posts small blind $0.10
+cruiseplanne: posts big blind $0.25
+Gabi_2011: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 3c]
+piermus: folds 
+muilano: folds 
+matricia: folds 
+Alameda22: folds 
+luckystan777: calls $0.25
+twister39114: folds 
+cruiseplanne: checks 
+*** FLOP *** [Kh Tc 6s]
+cruiseplanne: checks 
+luckystan777: bets $1
+cruiseplanne: folds 
+Uncalled bet ($1) returned to luckystan777
+luckystan777 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kh Tc 6s]
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 (button) collected ($0.60)
+Seat 5: twister39114 (small blind) folded before Flop
+Seat 7: cruiseplanne (big blind) folded on the Flop
+Seat 8: piermus folded before Flop (didn't bet)
+Seat 9: muilano folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142962904:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:16:54 ET
+Table 'Menelaus III' 9-max Seat #5 is the button
+Seat 1: matricia ($11.40 in chips) 
+Seat 3: Alameda22 ($41.40 in chips) 
+Seat 4: luckystan777 ($13.90 in chips) 
+Seat 5: twister39114 ($25.90 in chips) 
+Seat 7: cruiseplanne ($14.60 in chips) 
+Seat 8: piermus ($8.60 in chips) 
+Seat 9: muilano ($7.80 in chips) 
+cruiseplanne: posts small blind $0.10
+piermus: posts big blind $0.25
+Gabi_2011: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 8s]
+muilano: folds 
+matricia: folds 
+muilano leaves the table
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+cruiseplanne: folds 
+Uncalled bet ($0.15) returned to piermus
+piermus collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 (button) folded before Flop (didn't bet)
+Seat 7: cruiseplanne (small blind) folded before Flop
+Seat 8: piermus (big blind) collected ($0.20)
+Seat 9: muilano folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142973173:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:17:19 ET
+Table 'Menelaus III' 9-max Seat #7 is the button
+Seat 1: matricia ($11.40 in chips) 
+Seat 3: Alameda22 ($41.40 in chips) 
+Seat 4: luckystan777 ($13.90 in chips) 
+Seat 5: twister39114 ($25.90 in chips) 
+Seat 7: cruiseplanne ($14.50 in chips) 
+Seat 8: piermus ($8.70 in chips) 
+piermus: posts small blind $0.10
+matricia: posts big blind $0.25
+Gabi_2011: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 5c]
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+cruiseplanne: folds 
+piermus: folds 
+Uncalled bet ($0.15) returned to matricia
+matricia collected $0.20 from pot
+matricia: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: matricia (big blind) collected ($0.20)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 7: cruiseplanne (button) folded before Flop (didn't bet)
+Seat 8: piermus (small blind) folded before Flop
+
+
+
+PokerStars Game #20142983081:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:17:43 ET
+Table 'Menelaus III' 9-max Seat #8 is the button
+Seat 1: matricia ($11.50 in chips) 
+Seat 2: Gabi_2011 ($5 in chips) 
+Seat 3: Alameda22 ($41.40 in chips) 
+Seat 4: luckystan777 ($13.90 in chips) 
+Seat 5: twister39114 ($25.90 in chips) 
+Seat 7: cruiseplanne ($14.50 in chips) 
+Seat 8: piermus ($8.60 in chips) 
+matricia: posts small blind $0.10
+Gabi_2011: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 6d]
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+cruiseplanne: folds 
+piermus: raises $0.50 to $0.75
+matricia: folds 
+Gabi_2011: folds 
+Uncalled bet ($0.50) returned to piermus
+piermus collected $0.60 from pot
+piermus: shows [Jc Kc] (high card King)
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: matricia (small blind) folded before Flop
+Seat 2: Gabi_2011 (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 8: piermus (button) collected ($0.60)
+
+
+
+PokerStars Game #20142995587:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:18:13 ET
+Table 'Menelaus III' 9-max Seat #1 is the button
+Seat 1: matricia ($11.40 in chips) 
+Seat 2: Gabi_2011 ($4.75 in chips) 
+Seat 3: Alameda22 ($41.40 in chips) 
+Seat 4: luckystan777 ($13.90 in chips) 
+Seat 5: twister39114 ($25.90 in chips) 
+Seat 7: cruiseplanne ($14.50 in chips) 
+Seat 8: piermus ($8.95 in chips) 
+Gabi_2011: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 3h]
+luckystan777: calls $0.25
+twister39114: folds 
+cruiseplanne: calls $0.25
+piermus: calls $0.25
+matricia: calls $0.25
+oppaz joins the table at seat #9 
+Gabi_2011: calls $0.15
+Alameda22: checks 
+*** FLOP *** [8c 9s 3c]
+Gabi_2011: checks 
+Alameda22: bets $1
+luckystan777: folds 
+cruiseplanne: folds 
+piermus: raises $2.25 to $3.25
+matricia: folds 
+Gabi_2011: folds 
+Alameda22: raises $37.90 to $41.15 and is all-in
+piermus: calls $5.45 and is all-in
+Uncalled bet ($32.45) returned to Alameda22
+*** TURN *** [8c 9s 3c] [Kc]
+*** RIVER *** [8c 9s 3c Kc] [2d]
+*** SHOW DOWN ***
+Alameda22: shows [8h 3h] (two pair, Eights and Threes)
+piermus: mucks hand 
+Alameda22 collected $18 from pot
+piermus leaves the table
+*** SUMMARY ***
+Total pot $18.90 | Rake $0.90 
+Board [8c 9s 3c Kc 2d]
+Seat 1: matricia (button) folded on the Flop
+Seat 2: Gabi_2011 (small blind) folded on the Flop
+Seat 3: Alameda22 (big blind) showed [8h 3h] and won ($18) with two pair, Eights and Threes
+Seat 4: luckystan777 folded on the Flop
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 7: cruiseplanne folded on the Flop
+Seat 8: piermus mucked [Ts 9d]
+
+
+
+PokerStars Game #20143028817:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:19:34 ET
+Table 'Menelaus III' 9-max Seat #2 is the button
+Seat 1: matricia ($11.15 in chips) 
+Seat 2: Gabi_2011 ($5 in chips) 
+Seat 3: Alameda22 ($50.45 in chips) 
+Seat 4: luckystan777 ($13.65 in chips) 
+Seat 5: twister39114 ($25.90 in chips) 
+Seat 7: cruiseplanne ($14.25 in chips) 
+Alameda22: posts small blind $0.10
+luckystan777: posts big blind $0.25
+oppaz: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 9h]
+twister39114: calls $0.25
+cruiseplanne: raises $0.50 to $0.75
+matricia: folds 
+Gabi_2011: folds 
+Alameda22: folds 
+luckystan777: folds 
+twister39114: calls $0.50
+*** FLOP *** [Kd 3s 7s]
+twister39114: bets $1
+cruiseplanne: raises $1 to $2
+twister39114: calls $1
+*** TURN *** [Kd 3s 7s] [6s]
+player ten1 joins the table at seat #8 
+twister39114: bets $3
+cruiseplanne: calls $3
+*** RIVER *** [Kd 3s 7s 6s] [Ah]
+twister39114: checks 
+cruiseplanne: bets $4.50
+twister39114: calls $4.50
+*** SHOW DOWN ***
+cruiseplanne: shows [Ac Ks] (two pair, Aces and Kings)
+twister39114: mucks hand 
+cruiseplanne collected $19.85 from pot
+*** SUMMARY ***
+Total pot $20.85 | Rake $1 
+Board [Kd 3s 7s 6s Ah]
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 2: Gabi_2011 (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: luckystan777 (big blind) folded before Flop
+Seat 5: twister39114 mucked [Kc Ts]
+Seat 7: cruiseplanne showed [Ac Ks] and won ($19.85) with two pair, Aces and Kings
+
+
+
+PokerStars Game #20143065149:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:21:00 ET
+Table 'Menelaus III' 9-max Seat #3 is the button
+Seat 1: matricia ($11.15 in chips) 
+Seat 2: Gabi_2011 ($5 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($13.40 in chips) 
+Seat 5: twister39114 ($15.65 in chips) 
+Seat 7: cruiseplanne ($23.85 in chips) 
+Seat 8: player ten1 ($15 in chips) 
+luckystan777: posts small blind $0.10
+twister39114: posts big blind $0.25
+player ten1: posts big blind $0.25
+oppaz: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Jh]
+cruiseplanne: folds 
+player ten1: checks 
+matricia: calls $0.25
+Gabi_2011: raises $1.25 to $1.50
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+player ten1: calls $1.25
+matricia: folds 
+*** FLOP *** [Js 5h 8c]
+player ten1: bets $0.25
+Gabi_2011: raises $1.75 to $2
+player ten1: raises $11.50 to $13.50 and is all-in
+Gabi_2011: calls $1.50 and is all-in
+Uncalled bet ($10) returned to player ten1
+*** TURN *** [Js 5h 8c] [9h]
+*** RIVER *** [Js 5h 8c 9h] [3h]
+*** SHOW DOWN ***
+player ten1: shows [5c Ad] (a pair of Fives)
+Gabi_2011: mucks hand 
+player ten1 collected $10.10 from pot
+*** SUMMARY ***
+Total pot $10.60 | Rake $0.50 
+Board [Js 5h 8c 9h 3h]
+Seat 1: matricia folded before Flop
+Seat 2: Gabi_2011 mucked [Th As]
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: luckystan777 (small blind) folded before Flop
+Seat 5: twister39114 (big blind) folded before Flop
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 8: player ten1 showed [5c Ad] and won ($10.10) with a pair of Fives
+
+
+
+PokerStars Game #20143100533:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:22:24 ET
+Table 'Menelaus III' 9-max Seat #4 is the button
+Seat 1: matricia ($10.90 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($13.30 in chips) 
+Seat 5: twister39114 ($15.40 in chips) 
+Seat 7: cruiseplanne ($23.85 in chips) 
+Seat 8: player ten1 ($20.10 in chips) 
+twister39114: posts small blind $0.10
+cruiseplanne: posts big blind $0.25
+oppaz: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 2h]
+Gabi_2011 has returned
+player ten1: raises $0.50 to $0.75
+matricia: folds 
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+cruiseplanne: folds 
+Uncalled bet ($0.50) returned to player ten1
+player ten1 collected $0.60 from pot
+player ten1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 (button) folded before Flop (didn't bet)
+Seat 5: twister39114 (small blind) folded before Flop
+Seat 7: cruiseplanne (big blind) folded before Flop
+Seat 8: player ten1 collected ($0.60)
+
+
+
+PokerStars Game #20143114404:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:22:57 ET
+Table 'Menelaus III' 9-max Seat #5 is the button
+Seat 1: matricia ($10.90 in chips) 
+Seat 2: Gabi_2011 ($5 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($13.30 in chips) 
+Seat 5: twister39114 ($15.30 in chips) 
+Seat 7: cruiseplanne ($23.60 in chips) 
+Seat 8: player ten1 ($20.45 in chips) 
+pcboi was removed from the table for failing to post
+cruiseplanne: posts small blind $0.10
+player ten1: posts big blind $0.25
+oppaz: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Js]
+matricia: raises $0.50 to $0.75
+Gabi_2011: folds 
+Alameda22: folds 
+leomaniac joins the table at seat #6 
+luckystan777: folds 
+twister39114: folds 
+cruiseplanne: folds 
+player ten1: folds 
+Uncalled bet ($0.50) returned to matricia
+player ten1 leaves the table
+matricia collected $0.60 from pot
+matricia: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: matricia collected ($0.60)
+Seat 2: Gabi_2011 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 (button) folded before Flop (didn't bet)
+Seat 7: cruiseplanne (small blind) folded before Flop
+Seat 8: player ten1 (big blind) folded before Flop
+
+
+
+PokerStars Game #20143128312:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:23:30 ET
+Table 'Menelaus III' 9-max Seat #7 is the button
+Seat 1: matricia ($11.25 in chips) 
+Seat 2: Gabi_2011 ($5 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($13.30 in chips) 
+Seat 5: twister39114 ($15.30 in chips) 
+Seat 7: cruiseplanne ($23.50 in chips) 
+oppaz will be allowed to play after the button
+matricia: posts small blind $0.10
+Gabi_2011: posts big blind $0.25
+leomaniac: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Kd]
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+cruiseplanne: folds 
+matricia: calls $0.15
+Gabi_2011: checks 
+*** FLOP *** [3h 2c Kc]
+matricia: checks 
+Gabi_2011: bets $0.50
+matricia: calls $0.50
+*** TURN *** [3h 2c Kc] [4c]
+matricia: bets $0.50
+Gabi_2011: calls $0.50
+*** RIVER *** [3h 2c Kc 4c] [2s]
+matricia: bets $0.50
+L. Garrote joins the table at seat #8 
+Gabi_2011: calls $0.50
+*** SHOW DOWN ***
+matricia: shows [5s 3c] (two pair, Threes and Deuces)
+Gabi_2011: shows [6h Ks] (two pair, Kings and Deuces)
+Gabi_2011 collected $3.35 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [3h 2c Kc 4c 2s]
+Seat 1: matricia (small blind) showed [5s 3c] and lost with two pair, Threes and Deuces
+Seat 2: Gabi_2011 (big blind) showed [6h Ks] and won ($3.35) with two pair, Kings and Deuces
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 7: cruiseplanne (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143159670:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:24:45 ET
+Table 'Menelaus III' 9-max Seat #1 is the button
+Seat 1: matricia ($9.50 in chips) 
+Seat 2: Gabi_2011 ($6.60 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($13.30 in chips) 
+Seat 5: twister39114 ($15.30 in chips) 
+Seat 7: cruiseplanne ($23.50 in chips) 
+Seat 9: oppaz ($25 in chips) 
+Gabi_2011: posts small blind $0.10
+Alameda22: posts big blind $0.25
+leomaniac: sits out 
+L. Garrote: sits out 
+oppaz: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 8d]
+luckystan777: raises $1.25 to $1.50
+twister39114: folds 
+cruiseplanne: folds 
+oppaz: folds 
+matricia: folds 
+Gabi_2011: folds 
+Alameda22: folds 
+Uncalled bet ($1.25) returned to luckystan777
+luckystan777 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: matricia (button) folded before Flop (didn't bet)
+Seat 2: Gabi_2011 (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: luckystan777 collected ($0.85)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 9: oppaz folded before Flop
+
+
+
+PokerStars Game #20143174246:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:25:20 ET
+Table 'Menelaus III' 9-max Seat #2 is the button
+Seat 1: matricia ($9.50 in chips) 
+Seat 2: Gabi_2011 ($6.50 in chips) 
+Seat 3: Alameda22 ($50.10 in chips) 
+Seat 4: luckystan777 ($13.90 in chips) 
+Seat 5: twister39114 ($15.30 in chips) 
+Seat 7: cruiseplanne ($23.50 in chips) 
+Seat 9: oppaz ($24.75 in chips) 
+Alameda22: posts small blind $0.10
+luckystan777: posts big blind $0.25
+leomaniac: sits out 
+L. Garrote: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 4h]
+twister39114: raises $0.75 to $1
+cruiseplanne: folds 
+oppaz: folds 
+matricia: calls $1
+Gabi_2011: folds 
+Alameda22: folds 
+luckystan777: raises $2 to $3
+twister39114: calls $2
+matricia: folds 
+*** FLOP *** [Ah Ad 7d]
+luckystan777: bets $2
+twister39114: raises $4 to $6
+luckystan777: folds 
+Uncalled bet ($4) returned to twister39114
+twister39114 collected $10.60 from pot
+twister39114: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.10 | Rake $0.50 
+Board [Ah Ad 7d]
+Seat 1: matricia folded before Flop
+Seat 2: Gabi_2011 (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: luckystan777 (big blind) folded on the Flop
+Seat 5: twister39114 collected ($10.60)
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143207975:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:26:42 ET
+Table 'Menelaus III' 9-max Seat #3 is the button
+Seat 1: matricia ($8.50 in chips) 
+Seat 2: Gabi_2011 ($6.50 in chips) 
+Seat 3: Alameda22 ($50 in chips) 
+Seat 4: luckystan777 ($15.90 in chips) 
+Seat 5: twister39114 ($20.90 in chips) 
+Seat 7: cruiseplanne ($23.50 in chips) 
+Seat 9: oppaz ($24.75 in chips) 
+luckystan777: posts small blind $0.10
+twister39114: posts big blind $0.25
+leomaniac: sits out 
+L. Garrote: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Qc]
+cruiseplanne: calls $0.25
+oppaz: folds 
+matricia: folds 
+Gabi_2011: folds 
+Alameda22: folds 
+luckystan777: calls $0.15
+twister39114: checks 
+*** FLOP *** [Kh Ad Tc]
+luckystan777: checks 
+twister39114: checks 
+cruiseplanne: checks 
+*** TURN *** [Kh Ad Tc] [8d]
+luckystan777: checks 
+twister39114: checks 
+cruiseplanne: bets $1
+luckystan777: folds 
+twister39114: folds 
+Uncalled bet ($1) returned to cruiseplanne
+cruiseplanne collected $0.75 from pot
+cruiseplanne: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Kh Ad Tc 8d]
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 2: Gabi_2011 folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: luckystan777 (small blind) folded on the Turn
+Seat 5: twister39114 (big blind) folded on the Turn
+Seat 7: cruiseplanne collected ($0.75)
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143239545:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:27:58 ET
+Table 'Menelaus III' 9-max Seat #4 is the button
+Seat 1: matricia ($8.50 in chips) 
+Seat 2: Gabi_2011 ($6.50 in chips) 
+Seat 3: Alameda22 ($50 in chips) 
+Seat 4: luckystan777 ($15.65 in chips) 
+Seat 5: twister39114 ($20.65 in chips) 
+Seat 6: leomaniac ($5 in chips) 
+Seat 7: cruiseplanne ($24 in chips) 
+Seat 9: oppaz ($24.75 in chips) 
+twister39114: posts small blind $0.10
+leomaniac: posts big blind $0.25
+L. Garrote: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Kc]
+cruiseplanne: folds 
+cruiseplanne is sitting out
+oppaz: folds 
+matricia: folds 
+cruiseplanne leaves the table
+Gabi_2011: folds 
+Alameda22: raises $0.75 to $1
+luckystan777: folds 
+GoldenRook joins the table at seat #7 
+twister39114: folds 
+leomaniac: folds 
+Uncalled bet ($0.75) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 2: Gabi_2011 folded before Flop (didn't bet)
+Seat 3: Alameda22 collected ($0.60)
+Seat 4: luckystan777 (button) folded before Flop (didn't bet)
+Seat 5: twister39114 (small blind) folded before Flop
+Seat 6: leomaniac (big blind) folded before Flop
+Seat 7: cruiseplanne folded before Flop (didn't bet)
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143254372:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:28:34 ET
+Table 'Menelaus III' 9-max Seat #5 is the button
+Seat 1: matricia ($8.50 in chips) 
+Seat 2: Gabi_2011 ($6.50 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($15.65 in chips) 
+Seat 5: twister39114 ($20.55 in chips) 
+Seat 6: leomaniac ($4.75 in chips) 
+Seat 7: GoldenRook ($25 in chips) 
+Seat 9: oppaz ($24.75 in chips) 
+leomaniac: posts small blind $0.10
+GoldenRook: posts big blind $0.25
+L. Garrote: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Ts]
+oppaz: folds 
+matricia: folds 
+Gabi_2011: folds 
+matricia is sitting out
+Alameda22: folds 
+luckystan777: folds 
+twister39114: raises $0.50 to $0.75
+leomaniac: folds 
+GoldenRook: folds 
+Uncalled bet ($0.50) returned to twister39114
+twister39114 collected $0.60 from pot
+twister39114: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 2: Gabi_2011 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 (button) collected ($0.60)
+Seat 6: leomaniac (small blind) folded before Flop
+Seat 7: GoldenRook (big blind) folded before Flop
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143276640:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:29:28 ET
+Table 'Menelaus III' 9-max Seat #6 is the button
+Seat 2: Gabi_2011 ($6.50 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($15.65 in chips) 
+Seat 5: twister39114 ($20.90 in chips) 
+Seat 6: leomaniac ($4.65 in chips) 
+Seat 7: GoldenRook ($24.75 in chips) 
+Seat 8: L. Garrote ($5 in chips) 
+Seat 9: oppaz ($24.75 in chips) 
+GoldenRook: posts small blind $0.10
+L. Garrote: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 7d]
+oppaz: folds 
+Gabi_2011: folds 
+Alameda22: folds 
+matricia has returned
+luckystan777: calls $0.25
+twister39114: raises $0.75 to $1
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: folds 
+luckystan777: calls $0.75
+*** FLOP *** [7s Qs Js]
+luckystan777: checks 
+twister39114: bets $1
+luckystan777: calls $1
+*** TURN *** [7s Qs Js] [Td]
+luckystan777: checks 
+twister39114: bets $2
+luckystan777: raises $2 to $4
+twister39114: calls $2
+*** RIVER *** [7s Qs Js Td] [8h]
+luckystan777: bets $3.50
+twister39114: raises $3.50 to $7
+luckystan777: raises $2.65 to $9.65 and is all-in
+twister39114: folds 
+Uncalled bet ($2.65) returned to luckystan777
+luckystan777 collected $25.10 from pot
+luckystan777: shows [Ks Ts] (a flush, King high)
+*** SUMMARY ***
+Total pot $26.35 | Rake $1.25 
+Board [7s Qs Js Td 8h]
+Seat 2: Gabi_2011 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 collected ($25.10)
+Seat 5: twister39114 folded on the River
+Seat 6: leomaniac (button) folded before Flop (didn't bet)
+Seat 7: GoldenRook (small blind) folded before Flop
+Seat 8: L. Garrote (big blind) folded before Flop
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143321407:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:31:19 ET
+Table 'Menelaus III' 9-max Seat #7 is the button
+Seat 1: matricia ($8.50 in chips) 
+Seat 2: Gabi_2011 ($6.50 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($27.75 in chips) 
+Seat 5: twister39114 ($7.90 in chips) 
+Seat 6: leomaniac ($4.65 in chips) 
+Seat 7: GoldenRook ($24.65 in chips) 
+Seat 8: L. Garrote ($4.75 in chips) 
+Seat 9: oppaz ($24.75 in chips) 
+twister39114 said, "nh"
+L. Garrote: posts small blind $0.10
+oppaz: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 7d]
+luckystan777 said, "ty"
+matricia: calls $0.25
+Gabi_2011: calls $0.25
+Alameda22: folds 
+luckystan777: folds 
+twister39114: calls $0.25
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: calls $0.15
+oppaz: checks 
+*** FLOP *** [Ah 6d Kh]
+L. Garrote: checks 
+oppaz: checks 
+matricia: bets $1
+Gabi_2011: folds 
+twister39114: folds 
+L. Garrote: folds 
+oppaz: folds 
+Uncalled bet ($1) returned to matricia
+matricia collected $1.20 from pot
+matricia: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Ah 6d Kh]
+Seat 1: matricia collected ($1.20)
+Seat 2: Gabi_2011 folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded on the Flop
+Seat 6: leomaniac folded before Flop (didn't bet)
+Seat 7: GoldenRook (button) folded before Flop (didn't bet)
+Seat 8: L. Garrote (small blind) folded on the Flop
+Seat 9: oppaz (big blind) folded on the Flop
+
+
+
+PokerStars Game #20143349075:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:32:29 ET
+Table 'Menelaus III' 9-max Seat #8 is the button
+Seat 1: matricia ($9.45 in chips) 
+Seat 2: Gabi_2011 ($6.25 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($27.75 in chips) 
+Seat 5: twister39114 ($7.65 in chips) 
+Seat 6: leomaniac ($4.65 in chips) 
+Seat 7: GoldenRook ($24.65 in chips) 
+Seat 8: L. Garrote ($4.50 in chips) 
+Seat 9: oppaz ($24.50 in chips) 
+oppaz: posts small blind $0.10
+matricia: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 6c]
+Gabi_2011: folds 
+Alameda22: folds 
+luckystan777: folds 
+twister39114: raises $0.50 to $0.75
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: folds 
+oppaz: folds 
+matricia: calls $0.50
+*** FLOP *** [3d 5s 8c]
+matricia: bets $1
+twister39114: raises $2 to $3
+matricia: calls $2
+*** TURN *** [3d 5s 8c] [7s]
+matricia: checks 
+twister39114: bets $3.90 and is all-in
+matricia: calls $3.90
+*** RIVER *** [3d 5s 8c 7s] [Ts]
+*** SHOW DOWN ***
+matricia: shows [Jc Jh] (a pair of Jacks)
+twister39114: shows [Tc Td] (three of a kind, Tens)
+twister39114 collected $14.65 from pot
+*** SUMMARY ***
+Total pot $15.40 | Rake $0.75 
+Board [3d 5s 8c 7s Ts]
+Seat 1: matricia (big blind) showed [Jc Jh] and lost with a pair of Jacks
+Seat 2: Gabi_2011 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 showed [Tc Td] and won ($14.65) with three of a kind, Tens
+Seat 6: leomaniac folded before Flop (didn't bet)
+Seat 7: GoldenRook folded before Flop (didn't bet)
+Seat 8: L. Garrote (button) folded before Flop (didn't bet)
+Seat 9: oppaz (small blind) folded before Flop
+
+
+
+PokerStars Game #20143377040:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:33:40 ET
+Table 'Menelaus III' 9-max Seat #9 is the button
+Seat 1: matricia ($1.80 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($27.75 in chips) 
+Seat 5: twister39114 ($14.65 in chips) 
+Seat 6: leomaniac ($4.65 in chips) 
+Seat 7: GoldenRook ($24.65 in chips) 
+Seat 8: L. Garrote ($4.50 in chips) 
+Seat 9: oppaz ($24.40 in chips) 
+matricia: posts small blind $0.10
+Gabi_2011: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Qh]
+Gabi_2011 leaves the table
+luckystan777: folds 
+twister39114: folds 
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: folds 
+oppaz: folds 
+matricia: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: matricia (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) collected ($0.20)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: leomaniac folded before Flop (didn't bet)
+Seat 7: GoldenRook folded before Flop (didn't bet)
+Seat 8: L. Garrote folded before Flop (didn't bet)
+Seat 9: oppaz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143391262:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:34:16 ET
+Table 'Menelaus III' 9-max Seat #1 is the button
+Seat 1: matricia ($1.70 in chips) 
+Seat 3: Alameda22 ($50.45 in chips) 
+Seat 4: luckystan777 ($27.75 in chips) 
+Seat 5: twister39114 ($14.65 in chips) 
+Seat 6: leomaniac ($4.65 in chips) 
+Seat 7: GoldenRook ($24.65 in chips) 
+Seat 8: L. Garrote ($4.50 in chips) 
+Seat 9: oppaz ($24.40 in chips) 
+Alameda22: posts small blind $0.10
+luckystan777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 3s]
+twister39114: folds 
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: folds 
+oppaz: raises $0.75 to $1
+matricia: folds 
+Alameda22: folds 
+luckystan777: folds 
+Uncalled bet ($0.75) returned to oppaz
+oppaz collected $0.60 from pot
+oppaz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: matricia (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: luckystan777 (big blind) folded before Flop
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: leomaniac folded before Flop (didn't bet)
+Seat 7: GoldenRook folded before Flop (didn't bet)
+Seat 8: L. Garrote folded before Flop (didn't bet)
+Seat 9: oppaz collected ($0.60)
+
+
+
+PokerStars Game #20143404074:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:34:49 ET
+Table 'Menelaus III' 9-max Seat #3 is the button
+Seat 1: matricia ($6.70 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($27.50 in chips) 
+Seat 5: twister39114 ($14.65 in chips) 
+Seat 6: leomaniac ($4.65 in chips) 
+Seat 7: GoldenRook ($24.65 in chips) 
+Seat 8: L. Garrote ($4.50 in chips) 
+Seat 9: oppaz ($24.75 in chips) 
+luckystan777: posts small blind $0.10
+twister39114: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Jc]
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: folds 
+oppaz: folds 
+BadBeat69 joins the table at seat #2 
+matricia: calls $0.25
+Alameda22: folds 
+luckystan777: calls $0.15
+twister39114: checks 
+*** FLOP *** [Qc 7c Qh]
+luckystan777: checks 
+twister39114: checks 
+matricia: checks 
+*** TURN *** [Qc 7c Qh] [Ts]
+luckystan777: checks 
+twister39114: checks 
+matricia: bets $1
+luckystan777: folds 
+twister39114: folds 
+Uncalled bet ($1) returned to matricia
+matricia collected $0.75 from pot
+matricia: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Qc 7c Qh Ts]
+Seat 1: matricia collected ($0.75)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: luckystan777 (small blind) folded on the Turn
+Seat 5: twister39114 (big blind) folded on the Turn
+Seat 6: leomaniac folded before Flop (didn't bet)
+Seat 7: GoldenRook folded before Flop (didn't bet)
+Seat 8: L. Garrote folded before Flop (didn't bet)
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143428263:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:35:52 ET
+Table 'Menelaus III' 9-max Seat #4 is the button
+Seat 1: matricia ($7.20 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($27.25 in chips) 
+Seat 5: twister39114 ($14.40 in chips) 
+Seat 6: leomaniac ($4.65 in chips) 
+Seat 7: GoldenRook ($24.65 in chips) 
+Seat 8: L. Garrote ($4.50 in chips) 
+Seat 9: oppaz ($24.75 in chips) 
+twister39114: posts small blind $0.10
+leomaniac: posts big blind $0.25
+BadBeat69: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 8s]
+GoldenRook: folds 
+L. Garrote: folds 
+oppaz: folds 
+matricia: folds 
+Alameda22: folds 
+luckystan777: folds 
+twister39114: calls $0.15
+leomaniac: checks 
+*** FLOP *** [Qs 7s As]
+twister39114: bets $0.25
+leomaniac: folds 
+Uncalled bet ($0.25) returned to twister39114
+twister39114 collected $0.50 from pot
+twister39114: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Qs 7s As]
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 (button) folded before Flop (didn't bet)
+Seat 5: twister39114 (small blind) collected ($0.50)
+Seat 6: leomaniac (big blind) folded on the Flop
+Seat 7: GoldenRook folded before Flop (didn't bet)
+Seat 8: L. Garrote folded before Flop (didn't bet)
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143439458:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:36:21 ET
+Table 'Menelaus III' 9-max Seat #5 is the button
+Seat 1: matricia ($7.20 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($27.25 in chips) 
+Seat 5: twister39114 ($14.65 in chips) 
+Seat 6: leomaniac ($4.40 in chips) 
+Seat 7: GoldenRook ($24.65 in chips) 
+Seat 8: L. Garrote ($4.50 in chips) 
+Seat 9: oppaz ($24.75 in chips) 
+leomaniac: posts small blind $0.10
+GoldenRook: posts big blind $0.25
+BadBeat69: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 7c]
+L. Garrote: folds 
+oppaz: folds 
+matricia: folds 
+matricia is sitting out
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+leomaniac: folds 
+Uncalled bet ($0.15) returned to GoldenRook
+GoldenRook collected $0.20 from pot
+GoldenRook: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 (button) folded before Flop (didn't bet)
+Seat 6: leomaniac (small blind) folded before Flop
+Seat 7: GoldenRook (big blind) collected ($0.20)
+Seat 8: L. Garrote folded before Flop (didn't bet)
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143458612:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:37:10 ET
+Table 'Menelaus III' 9-max Seat #6 is the button
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($27.25 in chips) 
+Seat 5: twister39114 ($14.65 in chips) 
+Seat 6: leomaniac ($4.30 in chips) 
+Seat 7: GoldenRook ($24.75 in chips) 
+Seat 8: L. Garrote ($4.50 in chips) 
+Seat 9: oppaz ($24.75 in chips) 
+GoldenRook: posts small blind $0.10
+L. Garrote: posts big blind $0.25
+BadBeat69: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Qh]
+oppaz: folds 
+Alameda22: folds 
+matricia has returned
+luckystan777: folds 
+twister39114: calls $0.25
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: checks 
+*** FLOP *** [2d 4s 3h]
+L. Garrote: checks 
+twister39114: bets $0.25
+L. Garrote: calls $0.25
+*** TURN *** [2d 4s 3h] [8h]
+L. Garrote: checks 
+twister39114: bets $0.50
+L. Garrote: folds 
+Uncalled bet ($0.50) returned to twister39114
+twister39114 collected $1.05 from pot
+twister39114: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [2d 4s 3h 8h]
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 collected ($1.05)
+Seat 6: leomaniac (button) folded before Flop (didn't bet)
+Seat 7: GoldenRook (small blind) folded before Flop
+Seat 8: L. Garrote (big blind) folded on the Turn
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143479383:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:38:03 ET
+Table 'Menelaus III' 9-max Seat #7 is the button
+Seat 1: matricia ($7.20 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($27.25 in chips) 
+Seat 5: twister39114 ($15.20 in chips) 
+Seat 6: leomaniac ($4.30 in chips) 
+Seat 7: GoldenRook ($24.65 in chips) 
+Seat 8: L. Garrote ($4 in chips) 
+Seat 9: oppaz ($24.75 in chips) 
+L. Garrote: posts small blind $0.10
+oppaz: posts big blind $0.25
+BadBeat69: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 5s]
+matricia: folds 
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: calls $0.15
+oppaz: checks 
+*** FLOP *** [9c 6d 7d]
+L. Garrote: checks 
+oppaz: bets $0.25
+L. Garrote: calls $0.25
+*** TURN *** [9c 6d 7d] [5h]
+L. Garrote: checks 
+oppaz: bets $0.50
+L. Garrote: calls $0.50
+*** RIVER *** [9c 6d 7d 5h] [Qc]
+L. Garrote: checks 
+oppaz: bets $0.50
+L. Garrote: folds 
+Uncalled bet ($0.50) returned to oppaz
+oppaz collected $1.95 from pot
+oppaz: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [9c 6d 7d 5h Qc]
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: leomaniac folded before Flop (didn't bet)
+Seat 7: GoldenRook (button) folded before Flop (didn't bet)
+Seat 8: L. Garrote (small blind) folded on the River
+Seat 9: oppaz (big blind) collected ($1.95)
+
+
+
+PokerStars Game #20143505198:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:39:08 ET
+Table 'Menelaus III' 9-max Seat #8 is the button
+Seat 1: matricia ($7.20 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($27.25 in chips) 
+Seat 5: twister39114 ($15.20 in chips) 
+Seat 6: leomaniac ($4.30 in chips) 
+Seat 7: GoldenRook ($24.65 in chips) 
+Seat 8: L. Garrote ($3 in chips) 
+Seat 9: oppaz ($25.70 in chips) 
+oppaz: posts small blind $0.10
+matricia: posts big blind $0.25
+BadBeat69: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Jd]
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+leomaniac: raises $0.75 to $1
+GoldenRook: raises $2.25 to $3.25
+L. Garrote: folds 
+oppaz: folds 
+matricia: folds 
+leomaniac: folds 
+Uncalled bet ($2.25) returned to GoldenRook
+GoldenRook collected $2.35 from pot
+GoldenRook: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0 
+Seat 1: matricia (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: leomaniac folded before Flop
+Seat 7: GoldenRook collected ($2.35)
+Seat 8: L. Garrote (button) folded before Flop (didn't bet)
+Seat 9: oppaz (small blind) folded before Flop
+
+
+
+PokerStars Game #20143525221:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:39:58 ET
+Table 'Menelaus III' 9-max Seat #9 is the button
+Seat 1: matricia ($6.95 in chips) 
+Seat 2: BadBeat69 ($11 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($27.25 in chips) 
+Seat 5: twister39114 ($15.20 in chips) 
+Seat 6: leomaniac ($3.30 in chips) 
+Seat 7: GoldenRook ($26 in chips) 
+Seat 8: L. Garrote ($3 in chips) 
+Seat 9: oppaz ($25.60 in chips) 
+matricia: posts small blind $0.10
+BadBeat69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 2s]
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: folds 
+oppaz: folds 
+matricia: calls $0.15
+BadBeat69: raises $0.50 to $0.75
+matricia: calls $0.50
+*** FLOP *** [Ts Qh 2h]
+matricia: bets $0.75
+BadBeat69: raises $1.25 to $2
+matricia: calls $1.25
+*** TURN *** [Ts Qh 2h] [6s]
+matricia: checks 
+BadBeat69: bets $3.75
+matricia: folds 
+Uncalled bet ($3.75) returned to BadBeat69
+BadBeat69 collected $5.25 from pot
+BadBeat69: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25 
+Board [Ts Qh 2h 6s]
+Seat 1: matricia (small blind) folded on the Turn
+Seat 2: BadBeat69 (big blind) collected ($5.25)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: leomaniac folded before Flop (didn't bet)
+Seat 7: GoldenRook folded before Flop (didn't bet)
+Seat 8: L. Garrote folded before Flop (didn't bet)
+Seat 9: oppaz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143557682:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:41:21 ET
+Table 'Menelaus III' 9-max Seat #1 is the button
+Seat 1: matricia ($4.20 in chips) 
+Seat 2: BadBeat69 ($13.50 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($27.25 in chips) 
+Seat 5: twister39114 ($15.20 in chips) 
+Seat 6: leomaniac ($5 in chips) 
+Seat 7: GoldenRook ($26 in chips) 
+Seat 8: L. Garrote ($3 in chips) 
+Seat 9: oppaz ($25.60 in chips) 
+BadBeat69: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 7s]
+luckystan777: folds 
+twister39114: folds 
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: folds 
+oppaz: folds 
+matricia: folds 
+BadBeat69: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: matricia (button) folded before Flop (didn't bet)
+Seat 2: BadBeat69 (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) collected ($0.20)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: leomaniac folded before Flop (didn't bet)
+Seat 7: GoldenRook folded before Flop (didn't bet)
+Seat 8: L. Garrote folded before Flop (didn't bet)
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143569442:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:41:50 ET
+Table 'Menelaus III' 9-max Seat #2 is the button
+Seat 1: matricia ($4.20 in chips) 
+Seat 2: BadBeat69 ($13.40 in chips) 
+Seat 3: Alameda22 ($50.45 in chips) 
+Seat 4: luckystan777 ($27.25 in chips) 
+Seat 5: twister39114 ($15.20 in chips) 
+Seat 6: leomaniac ($5 in chips) 
+Seat 7: GoldenRook ($26 in chips) 
+Seat 8: L. Garrote ($3 in chips) 
+Seat 9: oppaz ($25.60 in chips) 
+Alameda22: posts small blind $0.10
+luckystan777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 5c]
+twister39114: folds 
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: folds 
+oppaz: folds 
+matricia: folds 
+BadBeat69: raises $0.50 to $0.75
+Alameda22: folds 
+luckystan777: calls $0.50
+*** FLOP *** [3c 2d Kc]
+luckystan777: checks 
+BadBeat69: bets $0.75
+luckystan777: folds 
+Uncalled bet ($0.75) returned to BadBeat69
+BadBeat69 collected $1.55 from pot
+BadBeat69: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [3c 2d Kc]
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 2: BadBeat69 (button) collected ($1.55)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: luckystan777 (big blind) folded on the Flop
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: leomaniac folded before Flop (didn't bet)
+Seat 7: GoldenRook folded before Flop (didn't bet)
+Seat 8: L. Garrote folded before Flop (didn't bet)
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143587716:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:42:37 ET
+Table 'Menelaus III' 9-max Seat #3 is the button
+Seat 1: matricia ($6.20 in chips) 
+Seat 2: BadBeat69 ($14.20 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($26.50 in chips) 
+Seat 5: twister39114 ($15.20 in chips) 
+Seat 6: leomaniac ($5 in chips) 
+Seat 7: GoldenRook ($26 in chips) 
+Seat 8: L. Garrote ($3 in chips) 
+Seat 9: oppaz ($25.60 in chips) 
+luckystan777: posts small blind $0.10
+twister39114: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 2h]
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: folds 
+oppaz: folds 
+matricia: calls $0.25
+BadBeat69: raises $0.50 to $0.75
+Alameda22: folds 
+luckystan777: calls $0.65
+twister39114: folds 
+matricia: folds 
+*** FLOP *** [Ac Ks Qs]
+luckystan777: checks 
+BadBeat69: bets $0.50
+luckystan777: raises $1 to $1.50
+BadBeat69: folds 
+Uncalled bet ($1) returned to luckystan777
+luckystan777 collected $2.90 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.10 
+Board [Ac Ks Qs]
+Seat 1: matricia folded before Flop
+Seat 2: BadBeat69 folded on the Flop
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: luckystan777 (small blind) collected ($2.90)
+Seat 5: twister39114 (big blind) folded before Flop
+Seat 6: leomaniac folded before Flop (didn't bet)
+Seat 7: GoldenRook folded before Flop (didn't bet)
+Seat 8: L. Garrote folded before Flop (didn't bet)
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143614576:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:43:45 ET
+Table 'Menelaus III' 9-max Seat #4 is the button
+Seat 1: matricia ($5.95 in chips) 
+Seat 2: BadBeat69 ($12.95 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($28.15 in chips) 
+Seat 5: twister39114 ($14.95 in chips) 
+Seat 6: leomaniac ($5 in chips) 
+Seat 7: GoldenRook ($26 in chips) 
+Seat 8: L. Garrote ($3 in chips) 
+Seat 9: oppaz ($25.60 in chips) 
+twister39114: posts small blind $0.10
+leomaniac: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Qd]
+GoldenRook: folds 
+L. Garrote: folds 
+oppaz: folds 
+matricia: folds 
+BadBeat69: folds 
+Alameda22: folds 
+luckystan777: folds 
+twister39114: calls $0.15
+leomaniac: checks 
+*** FLOP *** [8s 6s 5d]
+twister39114: bets $0.25
+leomaniac: folds 
+Uncalled bet ($0.25) returned to twister39114
+twister39114 collected $0.50 from pot
+twister39114: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [8s 6s 5d]
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 2: BadBeat69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 (button) folded before Flop (didn't bet)
+Seat 5: twister39114 (small blind) collected ($0.50)
+Seat 6: leomaniac (big blind) folded on the Flop
+Seat 7: GoldenRook folded before Flop (didn't bet)
+Seat 8: L. Garrote folded before Flop (didn't bet)
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143635640:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:44:38 ET
+Table 'Menelaus III' 9-max Seat #5 is the button
+Seat 1: matricia ($5.95 in chips) 
+Seat 2: BadBeat69 ($12.95 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($28.15 in chips) 
+Seat 5: twister39114 ($15.20 in chips) 
+Seat 6: leomaniac ($4.75 in chips) 
+Seat 7: GoldenRook ($26 in chips) 
+Seat 8: L. Garrote ($3 in chips) 
+Seat 9: oppaz ($25.60 in chips) 
+leomaniac: posts small blind $0.10
+GoldenRook: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 5h]
+L. Garrote: calls $0.25
+oppaz: folds 
+matricia: calls $0.25
+BadBeat69: calls $0.25
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+leomaniac: folds 
+GoldenRook: checks 
+*** FLOP *** [5d 9h 9s]
+GoldenRook: bets $0.75
+L. Garrote: folds 
+matricia: folds 
+BadBeat69: raises $0.75 to $1.50
+GoldenRook: calls $0.75
+*** TURN *** [5d 9h 9s] [Qc]
+GoldenRook: checks 
+BadBeat69: bets $1.50
+GoldenRook: calls $1.50
+*** RIVER *** [5d 9h 9s Qc] [4d]
+GoldenRook: checks 
+BadBeat69: checks 
+*** SHOW DOWN ***
+GoldenRook: shows [9c 2h] (three of a kind, Nines)
+BadBeat69: mucks hand 
+GoldenRook collected $6.80 from pot
+*** SUMMARY ***
+Total pot $7.10 | Rake $0.30 
+Board [5d 9h 9s Qc 4d]
+Seat 1: matricia folded on the Flop
+Seat 2: BadBeat69 mucked [6d 6h]
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 (button) folded before Flop (didn't bet)
+Seat 6: leomaniac (small blind) folded before Flop
+Seat 7: GoldenRook (big blind) showed [9c 2h] and won ($6.80) with three of a kind, Nines
+Seat 8: L. Garrote folded on the Flop
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143675152:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:46:16 ET
+Table 'Menelaus III' 9-max Seat #6 is the button
+Seat 1: matricia ($5.70 in chips) 
+Seat 2: BadBeat69 ($9.70 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($28.15 in chips) 
+Seat 5: twister39114 ($15.20 in chips) 
+Seat 6: leomaniac ($4.65 in chips) 
+Seat 7: GoldenRook ($29.55 in chips) 
+Seat 8: L. Garrote ($2.75 in chips) 
+Seat 9: oppaz ($25.60 in chips) 
+GoldenRook: posts small blind $0.10
+L. Garrote: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 3h]
+oppaz: folds 
+matricia: calls $0.25
+BadBeat69: folds 
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+leomaniac: folds 
+GoldenRook: calls $0.15
+L. Garrote: checks 
+*** FLOP *** [Td Qh Th]
+GoldenRook: checks 
+L. Garrote: checks 
+matricia: checks 
+*** TURN *** [Td Qh Th] [8c]
+GoldenRook: bets $0.50
+L. Garrote: folds 
+matricia: folds 
+Uncalled bet ($0.50) returned to GoldenRook
+GoldenRook collected $0.75 from pot
+GoldenRook: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Td Qh Th 8c]
+Seat 1: matricia folded on the Turn
+Seat 2: BadBeat69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: leomaniac (button) folded before Flop (didn't bet)
+Seat 7: GoldenRook (small blind) collected ($0.75)
+Seat 8: L. Garrote (big blind) folded on the Turn
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143703919:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:47:27 ET
+Table 'Menelaus III' 9-max Seat #7 is the button
+Seat 1: matricia ($5.45 in chips) 
+Seat 2: BadBeat69 ($9.70 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($28.15 in chips) 
+Seat 5: twister39114 ($15.20 in chips) 
+Seat 6: leomaniac ($4.65 in chips) 
+Seat 7: GoldenRook ($30.05 in chips) 
+Seat 8: L. Garrote ($5 in chips) 
+Seat 9: oppaz ($25.60 in chips) 
+L. Garrote: posts small blind $0.10
+oppaz: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 5d]
+matricia: calls $0.25
+BadBeat69: folds 
+Alameda22: folds 
+luckystan777: folds 
+twister39114: raises $0.50 to $0.75
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: folds 
+oppaz: folds 
+matricia: calls $0.50
+*** FLOP *** [7s 9s 3s]
+matricia: checks 
+twister39114: checks 
+*** TURN *** [7s 9s 3s] [5s]
+matricia: checks 
+twister39114: checks 
+*** RIVER *** [7s 9s 3s 5s] [Tc]
+matricia: bets $0.25
+twister39114: raises $1.75 to $2
+matricia: folds 
+Uncalled bet ($1.75) returned to twister39114
+twister39114 collected $2.25 from pot
+twister39114: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [7s 9s 3s 5s Tc]
+Seat 1: matricia folded on the River
+Seat 2: BadBeat69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 collected ($2.25)
+Seat 6: leomaniac folded before Flop (didn't bet)
+Seat 7: GoldenRook (button) folded before Flop (didn't bet)
+Seat 8: L. Garrote (small blind) folded before Flop
+Seat 9: oppaz (big blind) folded before Flop
+
+
+
+PokerStars Game #20143747361:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:49:13 ET
+Table 'Menelaus III' 9-max Seat #8 is the button
+Seat 1: matricia ($4.45 in chips) 
+Seat 2: BadBeat69 ($9.70 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($28.15 in chips) 
+Seat 5: twister39114 ($16.45 in chips) 
+Seat 6: leomaniac ($4.65 in chips) 
+Seat 7: GoldenRook ($30.05 in chips) 
+Seat 8: L. Garrote ($4.90 in chips) 
+Seat 9: oppaz ($25.35 in chips) 
+oppaz: posts small blind $0.10
+matricia: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 6c]
+BadBeat69: folds 
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+leomaniac: folds 
+GoldenRook: raises $0.75 to $1
+L. Garrote: folds 
+oppaz: folds 
+matricia: folds 
+Uncalled bet ($0.75) returned to GoldenRook
+GoldenRook collected $0.60 from pot
+GoldenRook: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: matricia (big blind) folded before Flop
+Seat 2: BadBeat69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: leomaniac folded before Flop (didn't bet)
+Seat 7: GoldenRook collected ($0.60)
+Seat 8: L. Garrote (button) folded before Flop (didn't bet)
+Seat 9: oppaz (small blind) folded before Flop
+
+
+
+PokerStars Game #20143767919:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:50:03 ET
+Table 'Menelaus III' 9-max Seat #9 is the button
+Seat 1: matricia ($4.20 in chips) 
+Seat 2: BadBeat69 ($9.70 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($28.15 in chips) 
+Seat 5: twister39114 ($16.45 in chips) 
+Seat 6: leomaniac ($4.65 in chips) 
+Seat 7: GoldenRook ($30.40 in chips) 
+Seat 8: L. Garrote ($4.90 in chips) 
+Seat 9: oppaz ($25.25 in chips) 
+matricia: posts small blind $0.10
+BadBeat69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 7s]
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+leomaniac: folds 
+GoldenRook: raises $0.75 to $1
+L. Garrote: folds 
+oppaz: folds 
+matricia: folds 
+BadBeat69: folds 
+Uncalled bet ($0.75) returned to GoldenRook
+GoldenRook collected $0.60 from pot
+GoldenRook: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: matricia (small blind) folded before Flop
+Seat 2: BadBeat69 (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: leomaniac folded before Flop (didn't bet)
+Seat 7: GoldenRook collected ($0.60)
+Seat 8: L. Garrote folded before Flop (didn't bet)
+Seat 9: oppaz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143788510:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:50:53 ET
+Table 'Menelaus III' 9-max Seat #1 is the button
+Seat 1: matricia ($4.10 in chips) 
+Seat 2: BadBeat69 ($9.45 in chips) 
+Seat 3: Alameda22 ($50.35 in chips) 
+Seat 4: luckystan777 ($28.15 in chips) 
+Seat 5: twister39114 ($16.45 in chips) 
+Seat 6: leomaniac ($4.65 in chips) 
+Seat 7: GoldenRook ($30.75 in chips) 
+Seat 8: L. Garrote ($4.90 in chips) 
+Seat 9: oppaz ($25.25 in chips) 
+BadBeat69: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Jc]
+luckystan777: folds 
+twister39114: folds 
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: folds 
+oppaz: folds 
+matricia: calls $0.25
+BadBeat69: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Js 6s Kc]
+BadBeat69: checks 
+Alameda22: checks 
+matricia: bets $1
+BadBeat69: folds 
+Alameda22: folds 
+Uncalled bet ($1) returned to matricia
+matricia collected $0.75 from pot
+matricia: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Js 6s Kc]
+Seat 1: matricia (button) collected ($0.75)
+Seat 2: BadBeat69 (small blind) folded on the Flop
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: leomaniac folded before Flop (didn't bet)
+Seat 7: GoldenRook folded before Flop (didn't bet)
+Seat 8: L. Garrote folded before Flop (didn't bet)
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143822971:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:52:17 ET
+Table 'Menelaus III' 9-max Seat #2 is the button
+Seat 1: matricia ($4.60 in chips) 
+Seat 2: BadBeat69 ($9.20 in chips) 
+Seat 3: Alameda22 ($50.10 in chips) 
+Seat 4: luckystan777 ($28.15 in chips) 
+Seat 5: twister39114 ($16.45 in chips) 
+Seat 6: leomaniac ($4.65 in chips) 
+Seat 7: GoldenRook ($30.75 in chips) 
+Seat 8: L. Garrote ($4.90 in chips) 
+Seat 9: oppaz ($25.25 in chips) 
+Alameda22: posts small blind $0.10
+luckystan777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Td]
+twister39114: folds 
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: folds 
+oppaz: folds 
+matricia: calls $0.25
+BadBeat69: folds 
+Alameda22: folds 
+luckystan777: checks 
+*** FLOP *** [9d Kd 6c]
+luckystan777: bets $0.75
+matricia: folds 
+Uncalled bet ($0.75) returned to luckystan777
+luckystan777 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9d Kd 6c]
+Seat 1: matricia folded on the Flop
+Seat 2: BadBeat69 (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: luckystan777 (big blind) collected ($0.60)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: leomaniac folded before Flop (didn't bet)
+Seat 7: GoldenRook folded before Flop (didn't bet)
+Seat 8: L. Garrote folded before Flop (didn't bet)
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143851401:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:53:27 ET
+Table 'Menelaus III' 9-max Seat #3 is the button
+Seat 1: matricia ($4.35 in chips) 
+Seat 2: BadBeat69 ($9.20 in chips) 
+Seat 3: Alameda22 ($50 in chips) 
+Seat 4: luckystan777 ($28.50 in chips) 
+Seat 5: twister39114 ($16.45 in chips) 
+Seat 6: leomaniac ($4.65 in chips) 
+Seat 7: GoldenRook ($30.75 in chips) 
+Seat 8: L. Garrote ($4.90 in chips) 
+Seat 9: oppaz ($25.25 in chips) 
+luckystan777: posts small blind $0.10
+twister39114: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 4d]
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: folds 
+oppaz: folds 
+matricia: folds 
+BadBeat69: folds 
+Alameda22: folds 
+luckystan777: calls $0.15
+twister39114: checks 
+*** FLOP *** [8d 7h 2s]
+luckystan777: checks 
+twister39114: bets $0.25
+luckystan777: folds 
+Uncalled bet ($0.25) returned to twister39114
+twister39114 collected $0.50 from pot
+twister39114: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [8d 7h 2s]
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 2: BadBeat69 folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: luckystan777 (small blind) folded on the Flop
+Seat 5: twister39114 (big blind) collected ($0.50)
+Seat 6: leomaniac folded before Flop (didn't bet)
+Seat 7: GoldenRook folded before Flop (didn't bet)
+Seat 8: L. Garrote folded before Flop (didn't bet)
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143879977:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:54:36 ET
+Table 'Menelaus III' 9-max Seat #4 is the button
+Seat 1: matricia ($4.35 in chips) 
+Seat 2: BadBeat69 ($9.20 in chips) 
+Seat 3: Alameda22 ($50 in chips) 
+Seat 4: luckystan777 ($28.25 in chips) 
+Seat 5: twister39114 ($16.70 in chips) 
+Seat 6: leomaniac ($4.65 in chips) 
+Seat 7: GoldenRook ($30.75 in chips) 
+Seat 8: L. Garrote ($4.90 in chips) 
+Seat 9: oppaz ($25.25 in chips) 
+twister39114: posts small blind $0.10
+leomaniac: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 4d]
+GoldenRook: folds 
+L. Garrote: folds 
+oppaz: folds 
+matricia: folds 
+BadBeat69: folds 
+Alameda22: folds 
+luckystan777: folds 
+twister39114: calls $0.15
+leomaniac: checks 
+*** FLOP *** [8s Th 7s]
+twister39114: checks 
+leomaniac: checks 
+*** TURN *** [8s Th 7s] [9h]
+twister39114: bets $0.25
+leomaniac: raises $0.75 to $1
+twister39114: folds 
+Uncalled bet ($0.75) returned to leomaniac
+leomaniac collected $0.95 from pot
+leomaniac: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [8s Th 7s 9h]
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 2: BadBeat69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 (button) folded before Flop (didn't bet)
+Seat 5: twister39114 (small blind) folded on the Turn
+Seat 6: leomaniac (big blind) collected ($0.95)
+Seat 7: GoldenRook folded before Flop (didn't bet)
+Seat 8: L. Garrote folded before Flop (didn't bet)
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143903476:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:55:34 ET
+Table 'Menelaus III' 9-max Seat #5 is the button
+Seat 1: matricia ($4.35 in chips) 
+Seat 2: BadBeat69 ($9.20 in chips) 
+Seat 3: Alameda22 ($50 in chips) 
+Seat 4: luckystan777 ($28.25 in chips) 
+Seat 5: twister39114 ($16.20 in chips) 
+Seat 6: leomaniac ($5.10 in chips) 
+Seat 7: GoldenRook ($30.75 in chips) 
+Seat 8: L. Garrote ($4.90 in chips) 
+Seat 9: oppaz ($25.25 in chips) 
+leomaniac: posts small blind $0.10
+GoldenRook: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 3s]
+L. Garrote: calls $0.25
+oppaz: folds 
+matricia: calls $0.25
+BadBeat69: folds 
+Alameda22: folds 
+luckystan777: folds 
+twister39114: folds 
+leomaniac: folds 
+GoldenRook: checks 
+*** FLOP *** [2s 7s 9c]
+GoldenRook: checks 
+L. Garrote: bets $0.75
+matricia: folds 
+GoldenRook: folds 
+Uncalled bet ($0.75) returned to L. Garrote
+L. Garrote collected $0.85 from pot
+L. Garrote: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [2s 7s 9c]
+Seat 1: matricia folded on the Flop
+Seat 2: BadBeat69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 folded before Flop (didn't bet)
+Seat 5: twister39114 (button) folded before Flop (didn't bet)
+Seat 6: leomaniac (small blind) folded before Flop
+Seat 7: GoldenRook (big blind) folded on the Flop
+Seat 8: L. Garrote collected ($0.85)
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143924755:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:56:26 ET
+Table 'Menelaus III' 9-max Seat #6 is the button
+Seat 1: matricia ($4.10 in chips) 
+Seat 2: BadBeat69 ($9.20 in chips) 
+Seat 3: Alameda22 ($50 in chips) 
+Seat 4: luckystan777 ($28.25 in chips) 
+Seat 5: twister39114 ($16.20 in chips) 
+Seat 6: leomaniac ($5 in chips) 
+Seat 7: GoldenRook ($30.50 in chips) 
+Seat 8: L. Garrote ($5.50 in chips) 
+Seat 9: oppaz ($25.25 in chips) 
+GoldenRook: posts small blind $0.10
+L. Garrote: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 4s]
+oppaz: folds 
+matricia: folds 
+BadBeat69: folds 
+Alameda22: folds 
+luckystan777: raises $0.75 to $1
+twister39114: folds 
+leomaniac: folds 
+GoldenRook: folds 
+L. Garrote: folds 
+Uncalled bet ($0.75) returned to luckystan777
+luckystan777 collected $0.60 from pot
+luckystan777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: matricia folded before Flop (didn't bet)
+Seat 2: BadBeat69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: luckystan777 collected ($0.60)
+Seat 5: twister39114 folded before Flop (didn't bet)
+Seat 6: leomaniac (button) folded before Flop (didn't bet)
+Seat 7: GoldenRook (small blind) folded before Flop
+Seat 8: L. Garrote (big blind) folded before Flop
+Seat 9: oppaz folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,4561 @@
+PokerStars Game #19837511104:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:41:53 (ET)
+Table 'Pictor II' 9-max Seat #7 is the button
+Seat 1: psilok ($26 in chips) 
+Seat 2: Das Kinn ($12.40 in chips) 
+Seat 3: capt_trip37 ($10 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 5: bronko34 ($4.75 in chips) 
+Seat 6: bennypeaches ($59.45 in chips) 
+Seat 7: Th3 ZodiAc ($23.30 in chips) 
+Seat 8: Badrich2k6 ($24.50 in chips) 
+Seat 9: SemperFool ($14.15 in chips) 
+Badrich2k6: posts small blind $0.10
+SemperFool: posts big blind $0.25
+Alameda22: posts big blind $0.25
+bronko34: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 7s]
+psilok: calls $0.25
+Das Kinn: raises $0.25 to $0.50
+capt_trip37: folds 
+Alameda22: calls $0.25
+bronko34: folds 
+bennypeaches: calls $0.50
+Th3 ZodiAc: folds 
+Badrich2k6: calls $0.40
+SemperFool: folds 
+psilok: calls $0.25
+*** FLOP *** [4s Kc Js]
+Badrich2k6: checks 
+psilok: bets $0.75
+Das Kinn: folds 
+Das Kinn is sitting out
+Alameda22: raises $2 to $2.75
+bennypeaches: folds 
+Das Kinn leaves the table
+Badrich2k6: folds 
+psilok: calls $2
+*** TURN *** [4s Kc Js] [As]
+psilok: checks 
+Alameda22: bets $5
+psilok: calls $5
+*** RIVER *** [4s Kc Js As] [5c]
+psilok: checks 
+Alameda22: bets $11
+psilok: calls $11
+*** SHOW DOWN ***
+Alameda22: shows [5s 7s] (a flush, Ace high)
+psilok: mucks hand 
+Alameda22 collected $38.55 from pot
+*** SUMMARY ***
+Total pot $40.50 | Rake $1.95 
+Board [4s Kc Js As 5c]
+Seat 1: psilok mucked [4h 4d]
+Seat 2: Das Kinn folded on the Flop
+Seat 3: capt_trip37 folded before Flop (didn't bet)
+Seat 4: Alameda22 showed [5s 7s] and won ($38.55) with a flush, Ace high
+Seat 5: bronko34 folded before Flop
+Seat 6: bennypeaches folded on the Flop
+Seat 7: Th3 ZodiAc (button) folded before Flop (didn't bet)
+Seat 8: Badrich2k6 (small blind) folded on the Flop
+Seat 9: SemperFool (big blind) folded before Flop
+
+
+
+PokerStars Game #19837562166:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:44:01 (ET)
+Table 'Pictor II' 9-max Seat #8 is the button
+Seat 1: psilok ($6.75 in chips) 
+Seat 3: capt_trip37 ($10 in chips) 
+Seat 4: Alameda22 ($44.30 in chips) 
+Seat 5: bronko34 ($4.50 in chips) 
+Seat 6: bennypeaches ($58.95 in chips) 
+Seat 7: Th3 ZodiAc ($23.30 in chips) 
+Seat 8: Badrich2k6 ($24 in chips) 
+Seat 9: SemperFool ($13.90 in chips) 
+SemperFool: posts small blind $0.10
+psilok: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 7d]
+capt_trip37: folds 
+MaleDicti joins the table at seat #2 
+Alameda22: folds 
+bronko34: raises $0.25 to $0.50
+bennypeaches: folds 
+Th3 ZodiAc: calls $0.50
+Badrich2k6: folds 
+SemperFool: folds 
+psilok: folds 
+*** FLOP *** [3c Ks 6s]
+bronko34: checks 
+Th3 ZodiAc: bets $1
+bronko34: folds 
+Uncalled bet ($1) returned to Th3 ZodiAc
+Th3 ZodiAc collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [3c Ks 6s]
+Seat 1: psilok (big blind) folded before Flop
+Seat 3: capt_trip37 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bronko34 folded on the Flop
+Seat 6: bennypeaches folded before Flop (didn't bet)
+Seat 7: Th3 ZodiAc collected ($1.30)
+Seat 8: Badrich2k6 (button) folded before Flop (didn't bet)
+Seat 9: SemperFool (small blind) folded before Flop
+
+
+
+PokerStars Game #19837592475:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:45:17 (ET)
+Table 'Pictor II' 9-max Seat #9 is the button
+Seat 1: psilok ($6.50 in chips) 
+Seat 2: MaleDicti ($8 in chips) 
+Seat 3: capt_trip37 ($10 in chips) 
+Seat 4: Alameda22 ($44.30 in chips) 
+Seat 5: bronko34 ($4 in chips) 
+Seat 6: bennypeaches ($58.95 in chips) 
+Seat 7: Th3 ZodiAc ($24.10 in chips) 
+Seat 8: Badrich2k6 ($24 in chips) 
+Seat 9: SemperFool ($13.80 in chips) 
+psilok: posts small blind $0.10
+MaleDicti: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 2d]
+capt_trip37: folds 
+Alameda22: folds 
+bronko34: folds 
+bennypeaches: folds 
+Th3 ZodiAc: folds 
+Badrich2k6: calls $0.25
+SemperFool: folds 
+psilok: folds 
+MaleDicti: checks 
+*** FLOP *** [Td Qh Kh]
+MaleDicti: checks 
+Badrich2k6: bets $0.75
+MaleDicti: folds 
+Uncalled bet ($0.75) returned to Badrich2k6
+Badrich2k6 collected $0.60 from pot
+Badrich2k6: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Td Qh Kh]
+Seat 1: psilok (small blind) folded before Flop
+Seat 2: MaleDicti (big blind) folded on the Flop
+Seat 3: capt_trip37 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bronko34 folded before Flop (didn't bet)
+Seat 6: bennypeaches folded before Flop (didn't bet)
+Seat 7: Th3 ZodiAc folded before Flop (didn't bet)
+Seat 8: Badrich2k6 collected ($0.60)
+Seat 9: SemperFool (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837616160:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:46:15 (ET)
+Table 'Pictor II' 9-max Seat #1 is the button
+Seat 1: psilok ($6.40 in chips) 
+Seat 2: MaleDicti ($7.75 in chips) 
+Seat 3: capt_trip37 ($10 in chips) 
+Seat 4: Alameda22 ($44.30 in chips) 
+Seat 5: bronko34 ($4 in chips) 
+Seat 6: bennypeaches ($58.95 in chips) 
+Seat 7: Th3 ZodiAc ($24.10 in chips) 
+Seat 8: Badrich2k6 ($24.35 in chips) 
+Seat 9: SemperFool ($13.80 in chips) 
+MaleDicti: posts small blind $0.10
+capt_trip37: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Qs]
+Alameda22: folds 
+bronko34: folds 
+bennypeaches: folds 
+Th3 ZodiAc: folds 
+Badrich2k6: folds 
+SemperFool: folds 
+psilok: folds 
+MaleDicti: calls $0.15
+capt_trip37: checks 
+*** FLOP *** [5c 3d 9h]
+MaleDicti: checks 
+capt_trip37: bets $0.25
+MaleDicti: folds 
+Uncalled bet ($0.25) returned to capt_trip37
+capt_trip37 collected $0.50 from pot
+capt_trip37: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [5c 3d 9h]
+Seat 1: psilok (button) folded before Flop (didn't bet)
+Seat 2: MaleDicti (small blind) folded on the Flop
+Seat 3: capt_trip37 (big blind) collected ($0.50)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bronko34 folded before Flop (didn't bet)
+Seat 6: bennypeaches folded before Flop (didn't bet)
+Seat 7: Th3 ZodiAc folded before Flop (didn't bet)
+Seat 8: Badrich2k6 folded before Flop (didn't bet)
+Seat 9: SemperFool folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837633283:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:46:57 (ET)
+Table 'Pictor II' 9-max Seat #2 is the button
+Seat 1: psilok ($6.40 in chips) 
+Seat 2: MaleDicti ($7.50 in chips) 
+Seat 3: capt_trip37 ($10.25 in chips) 
+Seat 4: Alameda22 ($44.30 in chips) 
+Seat 5: bronko34 ($4 in chips) 
+Seat 6: bennypeaches ($58.95 in chips) 
+Seat 7: Th3 ZodiAc ($24.10 in chips) 
+Seat 8: Badrich2k6 ($24.35 in chips) 
+Seat 9: SemperFool ($13.80 in chips) 
+capt_trip37: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 8c]
+bronko34: folds 
+bennypeaches: folds 
+Th3 ZodiAc: raises $0.75 to $1
+Badrich2k6: folds 
+SemperFool: folds 
+psilok: calls $1
+MaleDicti: folds 
+capt_trip37: folds 
+Alameda22: folds 
+*** FLOP *** [Qh 2s Qs]
+Th3 ZodiAc: checks 
+psilok: checks 
+*** TURN *** [Qh 2s Qs] [Qd]
+Th3 ZodiAc: checks 
+psilok: bets $0.75
+Th3 ZodiAc: raises $1.25 to $2
+psilok: calls $1.25
+*** RIVER *** [Qh 2s Qs Qd] [Jd]
+Th3 ZodiAc: bets $4
+psilok: calls $3.40 and is all-in
+Uncalled bet ($0.60) returned to Th3 ZodiAc
+*** SHOW DOWN ***
+Th3 ZodiAc: shows [Jc Jh] (a full house, Queens full of Jacks)
+psilok: mucks hand 
+Th3 ZodiAc collected $12.55 from pot
+*** SUMMARY ***
+Total pot $13.15 | Rake $0.60 
+Board [Qh 2s Qs Qd Jd]
+Seat 1: psilok mucked [9c 9s]
+Seat 2: MaleDicti (button) folded before Flop (didn't bet)
+Seat 3: capt_trip37 (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: bronko34 folded before Flop (didn't bet)
+Seat 6: bennypeaches folded before Flop (didn't bet)
+Seat 7: Th3 ZodiAc showed [Jc Jh] and won ($12.55) with a full house, Queens full of Jacks
+Seat 8: Badrich2k6 folded before Flop (didn't bet)
+Seat 9: SemperFool folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837672079:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:48:32 (ET)
+Table 'Pictor II' 9-max Seat #3 is the button
+Seat 2: MaleDicti ($7.50 in chips) 
+Seat 3: capt_trip37 ($14.15 in chips) 
+Seat 4: Alameda22 ($44.05 in chips) 
+Seat 5: bronko34 ($4 in chips) 
+Seat 6: bennypeaches ($58.95 in chips) 
+Seat 7: Th3 ZodiAc ($30.25 in chips) 
+Seat 8: Badrich2k6 ($24.35 in chips) 
+Seat 9: SemperFool ($13.80 in chips) 
+Alameda22: posts small blind $0.10
+bronko34: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s As]
+psilok leaves the table
+bennypeaches: folds 
+bennypeaches leaves the table
+realoli234 joins the table at seat #1 
+Th3 ZodiAc: folds 
+Badrich2k6: folds 
+SemperFool: folds 
+MaleDicti: folds 
+capt_trip37: raises $0.50 to $0.75
+Alameda22: folds 
+ESFANDIARI94 joins the table at seat #6 
+bronko34: folds 
+Uncalled bet ($0.50) returned to capt_trip37
+capt_trip37 collected $0.60 from pot
+capt_trip37: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: capt_trip37 (button) collected ($0.60)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: bronko34 (big blind) folded before Flop
+Seat 6: bennypeaches folded before Flop (didn't bet)
+Seat 7: Th3 ZodiAc folded before Flop (didn't bet)
+Seat 8: Badrich2k6 folded before Flop (didn't bet)
+Seat 9: SemperFool folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837686764:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:49:09 (ET)
+Table 'Pictor II' 9-max Seat #4 is the button
+Seat 2: MaleDicti ($7.50 in chips) 
+Seat 3: capt_trip37 ($14.50 in chips) 
+Seat 4: Alameda22 ($43.95 in chips) 
+Seat 5: bronko34 ($3.75 in chips) 
+Seat 6: ESFANDIARI94 ($15 in chips) 
+Seat 7: Th3 ZodiAc ($30.25 in chips) 
+Seat 8: Badrich2k6 ($24.35 in chips) 
+Seat 9: SemperFool ($13.80 in chips) 
+bronko34: posts small blind $0.10
+ESFANDIARI94: posts big blind $0.25
+realoli234: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Qh]
+Th3 ZodiAc: folds 
+Badrich2k6: folds 
+SemperFool: folds 
+MaleDicti: folds 
+capt_trip37: folds 
+Alameda22: folds 
+bronko34: calls $0.15
+ESFANDIARI94: checks 
+*** FLOP *** [4s 5s 3h]
+bronko34: bets $0.25
+ESFANDIARI94: calls $0.25
+*** TURN *** [4s 5s 3h] [Ts]
+bronko34: bets $0.25
+ESFANDIARI94: raises $1.25 to $1.50
+bronko34: calls $1.25
+*** RIVER *** [4s 5s 3h Ts] [5c]
+bronko34: bets $1
+ESFANDIARI94: folds 
+Uncalled bet ($1) returned to bronko34
+bronko34 collected $3.85 from pot
+bronko34: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.15 
+Board [4s 5s 3h Ts 5c]
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: capt_trip37 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: bronko34 (small blind) collected ($3.85)
+Seat 6: ESFANDIARI94 (big blind) folded on the River
+Seat 7: Th3 ZodiAc folded before Flop (didn't bet)
+Seat 8: Badrich2k6 folded before Flop (didn't bet)
+Seat 9: SemperFool folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837717105:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:50:25 (ET)
+Table 'Pictor II' 9-max Seat #5 is the button
+Seat 2: MaleDicti ($7.50 in chips) 
+Seat 3: capt_trip37 ($14.50 in chips) 
+Seat 4: Alameda22 ($43.95 in chips) 
+Seat 5: bronko34 ($5.60 in chips) 
+Seat 6: ESFANDIARI94 ($13 in chips) 
+Seat 7: Th3 ZodiAc ($30.25 in chips) 
+Seat 8: Badrich2k6 ($24.35 in chips) 
+Seat 9: SemperFool ($13.80 in chips) 
+ESFANDIARI94: posts small blind $0.10
+Th3 ZodiAc: posts big blind $0.25
+realoli234: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 4s]
+Badrich2k6: folds 
+SemperFool: folds 
+MaleDicti: folds 
+capt_trip37: raises $0.50 to $0.75
+Alameda22: folds 
+bronko34: folds 
+ESFANDIARI94: folds 
+Th3 ZodiAc: folds 
+Uncalled bet ($0.50) returned to capt_trip37
+capt_trip37 collected $0.60 from pot
+capt_trip37: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: capt_trip37 collected ($0.60)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bronko34 (button) folded before Flop (didn't bet)
+Seat 6: ESFANDIARI94 (small blind) folded before Flop
+Seat 7: Th3 ZodiAc (big blind) folded before Flop
+Seat 8: Badrich2k6 folded before Flop (didn't bet)
+Seat 9: SemperFool folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837730625:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:50:59 (ET)
+Table 'Pictor II' 9-max Seat #6 is the button
+Seat 2: MaleDicti ($7.50 in chips) 
+Seat 3: capt_trip37 ($14.85 in chips) 
+Seat 4: Alameda22 ($43.95 in chips) 
+Seat 5: bronko34 ($5.60 in chips) 
+Seat 6: ESFANDIARI94 ($12.90 in chips) 
+Seat 7: Th3 ZodiAc ($30 in chips) 
+Seat 8: Badrich2k6 ($24.35 in chips) 
+Seat 9: SemperFool ($13.80 in chips) 
+Th3 ZodiAc: posts small blind $0.10
+Badrich2k6: posts big blind $0.25
+realoli234: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Qd]
+SemperFool: folds 
+MaleDicti: folds 
+capt_trip37: calls $0.25
+Alameda22: folds 
+bronko34: calls $0.25
+ESFANDIARI94: folds 
+Th3 ZodiAc: folds 
+Badrich2k6: raises $0.75 to $1
+capt_trip37: calls $0.75
+bronko34: calls $0.75
+*** FLOP *** [Kh Jd 2s]
+Badrich2k6: bets $2
+capt_trip37: calls $2
+bronko34: raises $2.60 to $4.60 and is all-in
+Badrich2k6: folds 
+capt_trip37: calls $2.60
+*** TURN *** [Kh Jd 2s] [9d]
+*** RIVER *** [Kh Jd 2s 9d] [Ks]
+*** SHOW DOWN ***
+capt_trip37: shows [2d 2h] (a full house, Deuces full of Kings)
+bronko34: mucks hand 
+capt_trip37 collected $13.60 from pot
+*** SUMMARY ***
+Total pot $14.30 | Rake $0.70 
+Board [Kh Jd 2s 9d Ks]
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: capt_trip37 showed [2d 2h] and won ($13.60) with a full house, Deuces full of Kings
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bronko34 mucked [3d Kd]
+Seat 6: ESFANDIARI94 (button) folded before Flop (didn't bet)
+Seat 7: Th3 ZodiAc (small blind) folded before Flop
+Seat 8: Badrich2k6 (big blind) folded on the Flop
+Seat 9: SemperFool folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837762734:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:52:19 (ET)
+Table 'Pictor II' 9-max Seat #7 is the button
+Seat 2: MaleDicti ($7.50 in chips) 
+Seat 3: capt_trip37 ($22.85 in chips) 
+Seat 4: Alameda22 ($43.95 in chips) 
+Seat 5: bronko34 ($5 in chips) 
+Seat 6: ESFANDIARI94 ($12.90 in chips) 
+Seat 7: Th3 ZodiAc ($29.90 in chips) 
+Seat 8: Badrich2k6 ($21.35 in chips) 
+Seat 9: SemperFool ($13.80 in chips) 
+Badrich2k6: posts small blind $0.10
+SemperFool: posts big blind $0.25
+realoli234: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 4h]
+MaleDicti: folds 
+capt_trip37: folds 
+Alameda22: folds 
+bronko34: calls $0.25
+ESFANDIARI94: folds 
+Th3 ZodiAc: folds 
+Badrich2k6: calls $0.15
+SemperFool: checks 
+*** FLOP *** [Qc 6c Js]
+Badrich2k6: checks 
+SemperFool: checks 
+bronko34: bets $0.50
+Badrich2k6: folds 
+SemperFool: folds 
+Uncalled bet ($0.50) returned to bronko34
+bronko34 collected $0.75 from pot
+bronko34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Qc 6c Js]
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: capt_trip37 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bronko34 collected ($0.75)
+Seat 6: ESFANDIARI94 folded before Flop (didn't bet)
+Seat 7: Th3 ZodiAc (button) folded before Flop (didn't bet)
+Seat 8: Badrich2k6 (small blind) folded on the Flop
+Seat 9: SemperFool (big blind) folded on the Flop
+
+
+
+PokerStars Game #19837783566:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:53:12 (ET)
+Table 'Pictor II' 9-max Seat #8 is the button
+Seat 1: realoli234 ($5 in chips) 
+Seat 2: MaleDicti ($7.50 in chips) 
+Seat 3: capt_trip37 ($22.85 in chips) 
+Seat 4: Alameda22 ($43.95 in chips) 
+Seat 5: bronko34 ($5.50 in chips) 
+Seat 6: ESFANDIARI94 ($12.90 in chips) 
+Seat 7: Th3 ZodiAc ($29.90 in chips) 
+Seat 8: Badrich2k6 ($21.10 in chips) 
+Seat 9: SemperFool ($13.55 in chips) 
+SemperFool: posts small blind $0.10
+realoli234: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 8h]
+MaleDicti: calls $0.25
+capt_trip37: calls $0.25
+Alameda22: folds 
+bronko34: folds 
+ESFANDIARI94: folds 
+Th3 ZodiAc: folds 
+Badrich2k6: calls $0.25
+SemperFool: folds 
+realoli234: checks 
+*** FLOP *** [Js 4c 4s]
+realoli234: checks 
+MaleDicti: checks 
+capt_trip37: bets $1
+Badrich2k6: folds 
+realoli234: folds 
+MaleDicti: folds 
+Uncalled bet ($1) returned to capt_trip37
+capt_trip37 collected $1.05 from pot
+capt_trip37: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Js 4c 4s]
+Seat 1: realoli234 (big blind) folded on the Flop
+Seat 2: MaleDicti folded on the Flop
+Seat 3: capt_trip37 collected ($1.05)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bronko34 folded before Flop (didn't bet)
+Seat 6: ESFANDIARI94 folded before Flop (didn't bet)
+Seat 7: Th3 ZodiAc folded before Flop (didn't bet)
+Seat 8: Badrich2k6 (button) folded on the Flop
+Seat 9: SemperFool (small blind) folded before Flop
+
+
+
+PokerStars Game #19837803870:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:54:04 (ET)
+Table 'Pictor II' 9-max Seat #9 is the button
+Seat 1: realoli234 ($4.75 in chips) 
+Seat 2: MaleDicti ($7.25 in chips) 
+Seat 3: capt_trip37 ($23.65 in chips) 
+Seat 4: Alameda22 ($43.95 in chips) 
+Seat 5: bronko34 ($5.50 in chips) 
+Seat 6: ESFANDIARI94 ($12.90 in chips) 
+Seat 7: Th3 ZodiAc ($29.90 in chips) 
+Seat 8: Badrich2k6 ($20.85 in chips) 
+Seat 9: SemperFool ($13.45 in chips) 
+realoli234: posts small blind $0.10
+MaleDicti: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 6d]
+capt_trip37: folds 
+Alameda22: folds 
+bronko34: folds 
+ESFANDIARI94: folds 
+Th3 ZodiAc: folds 
+Th3 ZodiAc is sitting out
+Badrich2k6: calls $0.25
+SemperFool: folds 
+realoli234: calls $0.15
+MaleDicti: checks 
+*** FLOP *** [9c 6s Ts]
+realoli234: checks 
+MaleDicti: checks 
+Badrich2k6: checks 
+*** TURN *** [9c 6s Ts] [Th]
+realoli234: checks 
+MaleDicti: checks 
+Badrich2k6: bets $0.75
+bronko34 is sitting out
+realoli234: folds 
+MaleDicti: folds 
+Uncalled bet ($0.75) returned to Badrich2k6
+Badrich2k6 collected $0.75 from pot
+Badrich2k6: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [9c 6s Ts Th]
+Seat 1: realoli234 (small blind) folded on the Turn
+Seat 2: MaleDicti (big blind) folded on the Turn
+Seat 3: capt_trip37 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bronko34 folded before Flop (didn't bet)
+Seat 6: ESFANDIARI94 folded before Flop (didn't bet)
+Seat 7: Th3 ZodiAc folded before Flop (didn't bet)
+Seat 8: Badrich2k6 collected ($0.75)
+Seat 9: SemperFool (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837834508:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:55:23 (ET)
+Table 'Pictor II' 9-max Seat #1 is the button
+Seat 1: realoli234 ($4.50 in chips) 
+Seat 2: MaleDicti ($7 in chips) 
+Seat 3: capt_trip37 ($23.65 in chips) 
+Seat 4: Alameda22 ($43.95 in chips) 
+Seat 6: ESFANDIARI94 ($12.90 in chips) 
+Seat 8: Badrich2k6 ($21.35 in chips) 
+Seat 9: SemperFool ($13.45 in chips) 
+MaleDicti: posts small blind $0.10
+capt_trip37: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Js]
+Alameda22: folds 
+ESFANDIARI94: folds 
+Badrich2k6: folds 
+Badrich2k6 leaves the table
+ESFANDIARI94 is sitting out
+SemperFool: folds 
+realoli234: folds 
+rafaelrrpo joins the table at seat #8 
+MaleDicti: calls $0.15
+capt_trip37: checks 
+*** FLOP *** [Kh 3c 3d]
+MaleDicti: checks 
+capt_trip37: bets $0.25
+MaleDicti: folds 
+Uncalled bet ($0.25) returned to capt_trip37
+capt_trip37 collected $0.50 from pot
+capt_trip37: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Kh 3c 3d]
+Seat 1: realoli234 (button) folded before Flop (didn't bet)
+Seat 2: MaleDicti (small blind) folded on the Flop
+Seat 3: capt_trip37 (big blind) collected ($0.50)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: ESFANDIARI94 folded before Flop (didn't bet)
+Seat 8: Badrich2k6 folded before Flop (didn't bet)
+Seat 9: SemperFool folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837854123:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:56:14 (ET)
+Table 'Pictor II' 9-max Seat #2 is the button
+Seat 1: realoli234 ($4.50 in chips) 
+Seat 2: MaleDicti ($6.75 in chips) 
+Seat 3: capt_trip37 ($23.90 in chips) 
+Seat 4: Alameda22 ($43.95 in chips) 
+Seat 9: SemperFool ($13.45 in chips) 
+capt_trip37: posts small blind $0.10
+Alameda22: posts big blind $0.25
+rafaelrrpo: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Jd]
+SemperFool: folds 
+realoli234: folds 
+MaleDicti: calls $0.25
+capt_trip37: folds 
+Alameda22: checks 
+*** FLOP *** [Td 6h 3c]
+SemperFool leaves the table
+Alameda22: checks 
+MaleDicti: checks 
+*** TURN *** [Td 6h 3c] [4c]
+sackemup joins the table at seat #9 
+Alameda22: bets $0.50
+MaleDicti: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Td 6h 3c 4c]
+Seat 1: realoli234 folded before Flop (didn't bet)
+Seat 2: MaleDicti (button) folded on the Turn
+Seat 3: capt_trip37 (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) collected ($0.60)
+Seat 9: SemperFool folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837887202:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:57:40 (ET)
+Table 'Pictor II' 9-max Seat #3 is the button
+Seat 1: realoli234 ($4.50 in chips) 
+Seat 2: MaleDicti ($6.50 in chips) 
+Seat 3: capt_trip37 ($23.80 in chips) 
+Seat 4: Alameda22 ($44.30 in chips) 
+Seat 8: rafaelrrpo ($5 in chips) 
+Alameda22: posts small blind $0.10
+rafaelrrpo: posts big blind $0.25
+sackemup: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 4d]
+realoli234: folds 
+MaleDicti: folds 
+capt_trip37: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to rafaelrrpo
+rafaelrrpo collected $0.20 from pot
+rafaelrrpo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: realoli234 folded before Flop (didn't bet)
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: capt_trip37 (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 8: rafaelrrpo (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19837899238:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:58:11 (ET)
+Table 'Pictor II' 9-max Seat #4 is the button
+Seat 1: realoli234 ($4.50 in chips) 
+Seat 2: MaleDicti ($6.50 in chips) 
+Seat 3: capt_trip37 ($23.80 in chips) 
+Seat 4: Alameda22 ($44.20 in chips) 
+Seat 8: rafaelrrpo ($5.10 in chips) 
+Seat 9: sackemup ($15 in chips) 
+rafaelrrpo: posts small blind $0.10
+sackemup: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 8c]
+realoli234: folds 
+MaleDicti: folds 
+capt_trip37: folds 
+Alameda22: folds 
+rafaelrrpo: folds 
+Uncalled bet ($0.15) returned to sackemup
+sackemup collected $0.20 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: realoli234 folded before Flop (didn't bet)
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: capt_trip37 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: rafaelrrpo (small blind) folded before Flop
+Seat 9: sackemup (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19837917838:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:59:00 (ET)
+Table 'Pictor II' 9-max Seat #8 is the button
+Seat 1: realoli234 ($4.50 in chips) 
+Seat 2: MaleDicti ($6.50 in chips) 
+Seat 3: capt_trip37 ($23.80 in chips) 
+Seat 4: Alameda22 ($44.20 in chips) 
+Seat 8: rafaelrrpo ($5 in chips) 
+Seat 9: sackemup ($15.10 in chips) 
+sackemup: posts small blind $0.10
+realoli234: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Ks]
+MaleDicti: folds 
+capt_trip37: folds 
+Alameda22: folds 
+rafaelrrpo: raises $0.75 to $1
+sackemup: folds 
+realoli234: folds 
+Uncalled bet ($0.75) returned to rafaelrrpo
+rafaelrrpo collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: realoli234 (big blind) folded before Flop
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: capt_trip37 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 8: rafaelrrpo (button) collected ($0.60)
+Seat 9: sackemup (small blind) folded before Flop
+
+
+
+PokerStars Game #19837935296:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:59:46 (ET)
+Table 'Pictor II' 9-max Seat #9 is the button
+Seat 1: realoli234 ($4.25 in chips) 
+Seat 2: MaleDicti ($6.50 in chips) 
+Seat 3: capt_trip37 ($23.80 in chips) 
+Seat 4: Alameda22 ($44.20 in chips) 
+Seat 8: rafaelrrpo ($5.35 in chips) 
+Seat 9: sackemup ($15 in chips) 
+realoli234: posts small blind $0.10
+MaleDicti: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 7h]
+capt_trip37: folds 
+Alameda22: folds 
+rafaelrrpo: folds 
+sackemup: raises $0.50 to $0.75
+realoli234: folds 
+MaleDicti: folds 
+Uncalled bet ($0.50) returned to sackemup
+sackemup collected $0.60 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: realoli234 (small blind) folded before Flop
+Seat 2: MaleDicti (big blind) folded before Flop
+Seat 3: capt_trip37 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 8: rafaelrrpo folded before Flop (didn't bet)
+Seat 9: sackemup (button) collected ($0.60)
+
+
+
+PokerStars Game #19837949961:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:00:23 (ET)
+Table 'Pictor II' 9-max Seat #1 is the button
+Seat 1: realoli234 ($4.15 in chips) 
+Seat 2: MaleDicti ($6.25 in chips) 
+Seat 4: Alameda22 ($44.20 in chips) 
+Seat 8: rafaelrrpo ($5.35 in chips) 
+Seat 9: sackemup ($15.35 in chips) 
+MaleDicti: posts small blind $0.10
+capt_trip37: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Jc]
+capt_trip37 leaves the table
+rafaelrrpo: folds 
+sackemup: calls $0.25
+bronko34 has returned
+realoli234: folds 
+MaleDicti: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Ac Th Jh]
+MaleDicti: checks 
+gumasta joins the table at seat #3 
+Alameda22: checks 
+sackemup: bets $0.75
+MaleDicti: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to sackemup
+sackemup collected $0.75 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Ac Th Jh]
+Seat 1: realoli234 (button) folded before Flop (didn't bet)
+Seat 2: MaleDicti (small blind) folded on the Flop
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 8: rafaelrrpo folded before Flop (didn't bet)
+Seat 9: sackemup collected ($0.75)
+
+
+
+PokerStars Game #19837974059:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:01:24 (ET)
+Table 'Pictor II' 9-max Seat #2 is the button
+Seat 1: realoli234 ($4.15 in chips) 
+Seat 2: MaleDicti ($6 in chips) 
+Seat 4: Alameda22 ($43.95 in chips) 
+Seat 5: bronko34 ($5.50 in chips) 
+Seat 8: rafaelrrpo ($5.35 in chips) 
+Seat 9: sackemup ($15.85 in chips) 
+gumasta will be allowed to play after the button
+Alameda22: posts small blind $0.10
+bronko34: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 2h]
+rafaelrrpo: folds 
+sackemup: folds 
+realoli234: folds 
+MaleDicti: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to bronko34
+bronko34 collected $0.20 from pot
+bronko34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: realoli234 folded before Flop (didn't bet)
+Seat 2: MaleDicti (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: bronko34 (big blind) collected ($0.20)
+Seat 8: rafaelrrpo folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837982842:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:01:46 (ET)
+Table 'Pictor II' 9-max Seat #4 is the button
+Seat 1: realoli234 ($4.15 in chips) 
+Seat 2: MaleDicti ($6 in chips) 
+Seat 3: gumasta ($6 in chips) 
+Seat 4: Alameda22 ($43.85 in chips) 
+Seat 5: bronko34 ($5.60 in chips) 
+Seat 8: rafaelrrpo ($5.35 in chips) 
+Seat 9: sackemup ($15.85 in chips) 
+bronko34: posts small blind $0.10
+rafaelrrpo: posts big blind $0.25
+gumasta: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc As]
+sackemup: folds 
+realoli234: folds 
+MaleDicti: folds 
+gumasta: checks 
+Alameda22: folds 
+bronko34: calls $0.15
+rafaelrrpo: raises $1.25 to $1.50
+gumasta: folds 
+bronko34: folds 
+Uncalled bet ($1.25) returned to rafaelrrpo
+rafaelrrpo collected $0.75 from pot
+rafaelrrpo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: realoli234 folded before Flop (didn't bet)
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: gumasta folded before Flop
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: bronko34 (small blind) folded before Flop
+Seat 8: rafaelrrpo (big blind) collected ($0.75)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838002027:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:02:36 (ET)
+Table 'Pictor II' 9-max Seat #5 is the button
+Seat 1: realoli234 ($4.15 in chips) 
+Seat 2: MaleDicti ($6 in chips) 
+Seat 3: gumasta ($5.75 in chips) 
+Seat 4: Alameda22 ($43.85 in chips) 
+Seat 5: bronko34 ($5.35 in chips) 
+Seat 8: rafaelrrpo ($5.85 in chips) 
+Seat 9: sackemup ($15.85 in chips) 
+rafaelrrpo: posts small blind $0.10
+sackemup: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 2s]
+realoli234: folds 
+MaleDicti: folds 
+gumasta: folds 
+Alameda22: folds 
+bronko34: folds 
+rafaelrrpo: raises $0.75 to $1
+sackemup: calls $0.75
+*** FLOP *** [5s 8d 2d]
+rafaelrrpo: bets $1.20
+sackemup: folds 
+Uncalled bet ($1.20) returned to rafaelrrpo
+rafaelrrpo collected $1.90 from pot
+rafaelrrpo: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [5s 8d 2d]
+Seat 1: realoli234 folded before Flop (didn't bet)
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: gumasta folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bronko34 (button) folded before Flop (didn't bet)
+Seat 8: rafaelrrpo (small blind) collected ($1.90)
+Seat 9: sackemup (big blind) folded on the Flop
+
+
+
+PokerStars Game #19838019829:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:03:22 (ET)
+Table 'Pictor II' 9-max Seat #8 is the button
+Seat 1: realoli234 ($4.15 in chips) 
+Seat 2: MaleDicti ($6 in chips) 
+Seat 3: gumasta ($5.75 in chips) 
+Seat 4: Alameda22 ($43.85 in chips) 
+Seat 5: bronko34 ($5.35 in chips) 
+Seat 8: rafaelrrpo ($6.75 in chips) 
+Seat 9: sackemup ($14.85 in chips) 
+sackemup: posts small blind $0.10
+realoli234: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Kd]
+MaleDicti: folds 
+gumasta: folds 
+Alameda22: folds 
+bronko34: folds 
+rafaelrrpo: folds 
+sackemup: calls $0.15
+realoli234: checks 
+*** FLOP *** [8s 9s Ah]
+sackemup: bets $0.75
+realoli234: folds 
+Uncalled bet ($0.75) returned to sackemup
+sackemup collected $0.50 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [8s 9s Ah]
+Seat 1: realoli234 (big blind) folded on the Flop
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: gumasta folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bronko34 folded before Flop (didn't bet)
+Seat 8: rafaelrrpo (button) folded before Flop (didn't bet)
+Seat 9: sackemup (small blind) collected ($0.50)
+
+
+
+PokerStars Game #19838039363:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:04:12 (ET)
+Table 'Pictor II' 9-max Seat #9 is the button
+Seat 1: realoli234 ($3.90 in chips) 
+Seat 2: MaleDicti ($6 in chips) 
+Seat 3: gumasta ($5.75 in chips) 
+Seat 4: Alameda22 ($43.85 in chips) 
+Seat 5: bronko34 ($5.35 in chips) 
+Seat 8: rafaelrrpo ($6.75 in chips) 
+Seat 9: sackemup ($15.10 in chips) 
+realoli234: posts small blind $0.10
+MaleDicti: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Ts]
+gumasta: folds 
+Alameda22: folds 
+bronko34: calls $0.25
+rafaelrrpo: folds 
+sackemup: calls $0.25
+realoli234: folds 
+MaleDicti: checks 
+*** FLOP *** [6d 8d Ac]
+MaleDicti: checks 
+bronko34: checks 
+sackemup: bets $0.75
+MaleDicti: folds 
+bronko34: folds 
+Uncalled bet ($0.75) returned to sackemup
+sackemup collected $0.85 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [6d 8d Ac]
+Seat 1: realoli234 (small blind) folded before Flop
+Seat 2: MaleDicti (big blind) folded on the Flop
+Seat 3: gumasta folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bronko34 folded on the Flop
+Seat 8: rafaelrrpo folded before Flop (didn't bet)
+Seat 9: sackemup (button) collected ($0.85)
+
+
+
+PokerStars Game #19838057767:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:05:00 (ET)
+Table 'Pictor II' 9-max Seat #1 is the button
+Seat 1: realoli234 ($3.80 in chips) 
+Seat 2: MaleDicti ($5.75 in chips) 
+Seat 3: gumasta ($5.75 in chips) 
+Seat 4: Alameda22 ($43.85 in chips) 
+Seat 5: bronko34 ($5.10 in chips) 
+Seat 8: rafaelrrpo ($6.75 in chips) 
+Seat 9: sackemup ($15.70 in chips) 
+MaleDicti: posts small blind $0.10
+gumasta: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 2d]
+Alameda22: folds 
+bronko34: folds 
+rafaelrrpo: folds 
+sackemup: calls $0.25
+realoli234: raises $0.50 to $0.75
+MaleDicti: folds 
+gumasta: folds 
+sackemup: calls $0.50
+*** FLOP *** [Qh Ks 8d]
+sackemup: checks 
+realoli234: checks 
+*** TURN *** [Qh Ks 8d] [Ts]
+sackemup: bets $0.75
+realoli234: raises $0.75 to $1.50
+sackemup: calls $0.75
+*** RIVER *** [Qh Ks 8d Ts] [Kd]
+sackemup: bets $1
+realoli234: raises $0.55 to $1.55 and is all-in
+sackemup: calls $0.55
+*** SHOW DOWN ***
+realoli234: shows [Qc Kc] (a full house, Kings full of Queens)
+sackemup: mucks hand 
+realoli234 collected $7.60 from pot
+*** SUMMARY ***
+Total pot $7.95 | Rake $0.35 
+Board [Qh Ks 8d Ts Kd]
+Seat 1: realoli234 (button) showed [Qc Kc] and won ($7.60) with a full house, Kings full of Queens
+Seat 2: MaleDicti (small blind) folded before Flop
+Seat 3: gumasta (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bronko34 folded before Flop (didn't bet)
+Seat 8: rafaelrrpo folded before Flop (didn't bet)
+Seat 9: sackemup mucked [8c Jc]
+
+
+
+PokerStars Game #19838094162:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:06:35 (ET)
+Table 'Pictor II' 9-max Seat #2 is the button
+Seat 1: realoli234 ($7.60 in chips) 
+Seat 2: MaleDicti ($5.65 in chips) 
+Seat 3: gumasta ($5.50 in chips) 
+Seat 4: Alameda22 ($43.85 in chips) 
+Seat 5: bronko34 ($5.10 in chips) 
+Seat 8: rafaelrrpo ($6.75 in chips) 
+Seat 9: sackemup ($11.90 in chips) 
+gumasta: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Qs]
+bronko34: folds 
+rafaelrrpo: folds 
+sackemup: folds 
+realoli234: folds 
+MaleDicti: folds 
+gumasta: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: realoli234 folded before Flop (didn't bet)
+Seat 2: MaleDicti (button) folded before Flop (didn't bet)
+Seat 3: gumasta (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) collected ($0.20)
+Seat 5: bronko34 folded before Flop (didn't bet)
+Seat 8: rafaelrrpo folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838107768:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:07:11 (ET)
+Table 'Pictor II' 9-max Seat #3 is the button
+Seat 1: realoli234 ($7.60 in chips) 
+Seat 2: MaleDicti ($5.65 in chips) 
+Seat 3: gumasta ($5.40 in chips) 
+Seat 4: Alameda22 ($43.95 in chips) 
+Seat 5: bronko34 ($5.10 in chips) 
+Seat 8: rafaelrrpo ($6.75 in chips) 
+Seat 9: sackemup ($11.90 in chips) 
+Alameda22: posts small blind $0.10
+bronko34: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Ts]
+rafaelrrpo: folds 
+sackemup: calls $0.25
+realoli234: folds 
+MaleDicti: folds 
+gumasta: folds 
+Alameda22: folds 
+bronko34: checks 
+*** FLOP *** [Td 6d 3h]
+bronko34: checks 
+sackemup: bets $0.75
+bronko34: folds 
+Uncalled bet ($0.75) returned to sackemup
+sackemup collected $0.60 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Td 6d 3h]
+Seat 1: realoli234 folded before Flop (didn't bet)
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: gumasta (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: bronko34 (big blind) folded on the Flop
+Seat 8: rafaelrrpo folded before Flop (didn't bet)
+Seat 9: sackemup collected ($0.60)
+
+
+
+PokerStars Game #19838124909:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:07:57 (ET)
+Table 'Pictor II' 9-max Seat #4 is the button
+Seat 1: realoli234 ($7.60 in chips) 
+Seat 2: MaleDicti ($5.65 in chips) 
+Seat 3: gumasta ($5.40 in chips) 
+Seat 4: Alameda22 ($43.85 in chips) 
+Seat 5: bronko34 ($4.85 in chips) 
+Seat 9: sackemup ($12.25 in chips) 
+bronko34: posts small blind $0.10
+rafaelrrpo: is sitting out 
+rafaelrrpo leaves the table
+sackemup: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 2h]
+realoli234: folds 
+MaleDicti: folds 
+gumasta: folds 
+Alameda22: folds 
+bronko34: raises $0.25 to $0.50
+sackemup: folds 
+Uncalled bet ($0.25) returned to bronko34
+bronko34 collected $0.50 from pot
+bronko34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: realoli234 folded before Flop (didn't bet)
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: gumasta folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: bronko34 (small blind) collected ($0.50)
+Seat 9: sackemup (big blind) folded before Flop
+
+
+
+PokerStars Game #19838139297:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:08:35 (ET)
+Table 'Pictor II' 9-max Seat #5 is the button
+Seat 2: MaleDicti ($5.65 in chips) 
+Seat 3: gumasta ($5.40 in chips) 
+Seat 4: Alameda22 ($43.85 in chips) 
+Seat 5: bronko34 ($5.10 in chips) 
+Seat 9: sackemup ($12 in chips) 
+sackemup: posts small blind $0.10
+warning31 joins the table at seat #8 
+realoli234: is sitting out 
+MaleDicti: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 6d]
+realoli234 leaves the table
+gumasta: raises $0.50 to $0.75
+Alameda22: folds 
+bronko34: folds 
+sackemup: folds 
+MaleDicti: calls $0.50
+*** FLOP *** [4h 8s Ts]
+MaleDicti: checks 
+gumasta: bets $0.75
+MaleDicti: folds 
+Uncalled bet ($0.75) returned to gumasta
+gumasta collected $1.55 from pot
+gumasta: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [4h 8s Ts]
+Seat 2: MaleDicti (big blind) folded on the Flop
+Seat 3: gumasta collected ($1.55)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bronko34 (button) folded before Flop (didn't bet)
+Seat 9: sackemup (small blind) folded before Flop
+
+
+
+PokerStars Game #19838158355:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:09:25 (ET)
+Table 'Pictor II' 9-max Seat #9 is the button
+Seat 2: MaleDicti ($4.90 in chips) 
+Seat 4: Alameda22 ($43.85 in chips) 
+Seat 5: bronko34 ($5.10 in chips) 
+Seat 8: warning31 ($15 in chips) 
+Seat 9: sackemup ($11.90 in chips) 
+MaleDicti: posts small blind $0.10
+gumasta: is sitting out 
+Alameda22: posts big blind $0.25
+warning31: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 7d]
+bronko34: folds 
+bronko34 leaves the table
+warning31: checks 
+sackemup: folds 
+MaleDicti: calls $0.15
+gumasta leaves the table
+Alameda22: checks 
+*** FLOP *** [8c Ac 9c]
+MaleDicti: checks 
+Alameda22: checks 
+warning31: bets $1
+MaleDicti: folds 
+Alameda22: folds 
+Uncalled bet ($1) returned to warning31
+warning31 collected $0.75 from pot
+warning31: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [8c Ac 9c]
+Seat 2: MaleDicti (small blind) folded on the Flop
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 5: bronko34 folded before Flop (didn't bet)
+Seat 8: warning31 collected ($0.75)
+Seat 9: sackemup (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838187724:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:10:42 (ET)
+Table 'Pictor II' 9-max Seat #2 is the button
+Seat 2: MaleDicti ($4.65 in chips) 
+Seat 4: Alameda22 ($43.60 in chips) 
+Seat 8: warning31 ($15.50 in chips) 
+Seat 9: sackemup ($11.90 in chips) 
+Alameda22: posts small blind $0.10
+warning31: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 3s]
+sackemup: calls $0.25
+MaleDicti: folds 
+Alameda22: folds 
+warning31: checks 
+*** FLOP *** [Th 7c As]
+warning31: checks 
+sackemup: checks 
+*** TURN *** [Th 7c As] [2h]
+warning31: checks 
+sackemup: bets $0.75
+warning31: folds 
+Uncalled bet ($0.75) returned to sackemup
+sackemup collected $0.60 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Th 7c As 2h]
+Seat 2: MaleDicti (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 8: warning31 (big blind) folded on the Turn
+Seat 9: sackemup collected ($0.60)
+
+
+
+PokerStars Game #19838212975:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:11:48 (ET)
+Table 'Pictor II' 9-max Seat #4 is the button
+Seat 2: MaleDicti ($4.65 in chips) 
+Seat 4: Alameda22 ($43.50 in chips) 
+Seat 8: warning31 ($15.25 in chips) 
+Seat 9: sackemup ($12.25 in chips) 
+warning31: posts small blind $0.10
+sackemup: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 2s]
+MaleDicti: folds 
+Alameda22: folds 
+warning31: calls $0.15
+sackemup: checks 
+*** FLOP *** [Th 3d 3h]
+warning31: checks 
+sackemup: bets $0.75
+warning31: raises $0.75 to $1.50
+sackemup: folds 
+Uncalled bet ($0.75) returned to warning31
+warning31 collected $1.90 from pot
+warning31: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Th 3d 3h]
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: warning31 (small blind) collected ($1.90)
+Seat 9: sackemup (big blind) folded on the Flop
+
+
+
+PokerStars Game #19838241476:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:13:03 (ET)
+Table 'Pictor II' 9-max Seat #8 is the button
+Seat 2: MaleDicti ($4.65 in chips) 
+Seat 4: Alameda22 ($43.50 in chips) 
+Seat 8: warning31 ($16.15 in chips) 
+Seat 9: sackemup ($11.25 in chips) 
+sackemup: posts small blind $0.10
+MaleDicti: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 9d]
+sH0 Fo joins the table at seat #1 
+Alameda22: folds 
+warning31: calls $0.25
+sackemup: calls $0.15
+MaleDicti: checks 
+*** FLOP *** [2d 4d 8h]
+sackemup: checks 
+MaleDicti: bets $0.75
+warning31: calls $0.75
+sackemup: folds 
+*** TURN *** [2d 4d 8h] [Jd]
+MaleDicti: checks 
+warning31: bets $1
+MaleDicti: calls $1
+*** RIVER *** [2d 4d 8h Jd] [9h]
+MaleDicti: checks 
+appiacht joins the table at seat #5 
+ESFANDIARI94 was removed from the table for failing to post
+warning31: bets $2
+timleery joins the table at seat #3 
+MaleDicti: raises $0.65 to $2.65 and is all-in
+warning31: calls $0.65
+*** SHOW DOWN ***
+MaleDicti: shows [8d 2h] (two pair, Eights and Deuces)
+warning31: mucks hand 
+MaleDicti collected $9.10 from pot
+*** SUMMARY ***
+Total pot $9.55 | Rake $0.45 
+Board [2d 4d 8h Jd 9h]
+Seat 2: MaleDicti (big blind) showed [8d 2h] and won ($9.10) with two pair, Eights and Deuces
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 8: warning31 (button) mucked [6c 8c]
+Seat 9: sackemup (small blind) folded on the Flop
+
+
+
+PokerStars Game #19838272161:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:14:24 (ET)
+Table 'Pictor II' 9-max Seat #9 is the button
+Seat 2: MaleDicti ($9.10 in chips) 
+Seat 3: timleery ($25 in chips) 
+Seat 4: Alameda22 ($43.50 in chips) 
+Seat 5: appiacht ($15 in chips) 
+Seat 8: warning31 ($11.50 in chips) 
+Seat 9: sackemup ($11 in chips) 
+sH0 Fo will be allowed to play after the button
+MaleDicti: posts small blind $0.10
+Th3 ZodiAc was removed from the table for failing to post
+timleery: posts big blind $0.25
+appiacht: posts big blind $0.25
+Glamourboy81 joins the table at seat #6 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Jh]
+Alameda22: folds 
+appiacht: raises $1 to $1.25
+warning31: folds 
+sackemup: folds 
+MaleDicti: folds 
+timleery: folds 
+Uncalled bet ($1) returned to appiacht
+appiacht collected $0.60 from pot
+appiacht: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: MaleDicti (small blind) folded before Flop
+Seat 3: timleery (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht collected ($0.60)
+Seat 8: warning31 folded before Flop (didn't bet)
+Seat 9: sackemup (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838284585:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:14:57 (ET)
+Table 'Pictor II' 9-max Seat #2 is the button
+Seat 2: MaleDicti ($9 in chips) 
+Seat 3: timleery ($24.75 in chips) 
+Seat 4: Alameda22 ($43.50 in chips) 
+Seat 5: appiacht ($15.35 in chips) 
+Seat 8: warning31 ($11.50 in chips) 
+Seat 9: sackemup ($11 in chips) 
+timleery: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Glamourboy81: sits out 
+sH0 Fo: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 8h]
+Mr. Martini7 joins the table at seat #7 
+appiacht: raises $0.75 to $1
+warning31: folds 
+sackemup: folds 
+MaleDicti: folds 
+timleery: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to appiacht
+appiacht collected $0.60 from pot
+appiacht: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: MaleDicti (button) folded before Flop (didn't bet)
+Seat 3: timleery (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: appiacht collected ($0.60)
+Seat 8: warning31 folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838299616:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:15:35 (ET)
+Table 'Pictor II' 9-max Seat #3 is the button
+Seat 2: MaleDicti ($9 in chips) 
+Seat 3: timleery ($24.65 in chips) 
+Seat 4: Alameda22 ($43.25 in chips) 
+Seat 5: appiacht ($15.70 in chips) 
+Seat 7: Mr. Martini7 ($15 in chips) 
+Seat 8: warning31 ($11.50 in chips) 
+Seat 9: sackemup ($11 in chips) 
+Alameda22: posts small blind $0.10
+appiacht: posts big blind $0.25
+Glamourboy81: sits out 
+Mr. Martini7: posts big blind $0.25
+sH0 Fo: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 2h]
+Mr. Martini7: checks 
+warning31: calls $0.25
+sackemup: folds 
+MaleDicti: folds 
+timleery: folds 
+Alameda22: folds 
+appiacht: checks 
+*** FLOP *** [7h 9s 3s]
+appiacht: bets $0.50
+Mr. Martini7: folds 
+warning31: calls $0.50
+*** TURN *** [7h 9s 3s] [Ks]
+appiacht: checks 
+warning31: bets $1
+appiacht: calls $1
+*** RIVER *** [7h 9s 3s Ks] [5c]
+appiacht: checks 
+warning31: checks 
+*** SHOW DOWN ***
+appiacht: shows [6s 6c] (a pair of Sixes)
+warning31: mucks hand 
+appiacht collected $3.70 from pot
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [7h 9s 3s Ks 5c]
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: timleery (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: appiacht (big blind) showed [6s 6c] and won ($3.70) with a pair of Sixes
+Seat 7: Mr. Martini7 folded on the Flop
+Seat 8: warning31 mucked [Qh 8d]
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838326884:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:16:45 (ET)
+Table 'Pictor II' 9-max Seat #4 is the button
+Seat 2: MaleDicti ($9 in chips) 
+Seat 3: timleery ($24.65 in chips) 
+Seat 4: Alameda22 ($43.15 in chips) 
+Seat 5: appiacht ($17.65 in chips) 
+Seat 6: Glamourboy81 ($15 in chips) 
+Seat 7: Mr. Martini7 ($14.75 in chips) 
+Seat 8: warning31 ($9.75 in chips) 
+Seat 9: sackemup ($11 in chips) 
+appiacht: posts small blind $0.10
+Glamourboy81: posts big blind $0.25
+sH0 Fo: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 7d]
+Mr. Martini7: folds 
+warning31: calls $0.25
+sackemup: folds 
+MaleDicti: folds 
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $0.15
+Glamourboy81: checks 
+*** FLOP *** [9c Kh Kd]
+appiacht: checks 
+Glamourboy81: checks 
+warning31: checks 
+*** TURN *** [9c Kh Kd] [3s]
+appiacht: checks 
+Glamourboy81: checks 
+warning31: checks 
+*** RIVER *** [9c Kh Kd 3s] [As]
+appiacht: checks 
+Glamourboy81: checks 
+warning31: bets $1
+appiacht: folds 
+Glamourboy81: folds 
+Uncalled bet ($1) returned to warning31
+warning31 collected $0.75 from pot
+warning31: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [9c Kh Kd 3s As]
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: appiacht (small blind) folded on the River
+Seat 6: Glamourboy81 (big blind) folded on the River
+Seat 7: Mr. Martini7 folded before Flop (didn't bet)
+Seat 8: warning31 collected ($0.75)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838348994:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:17:43 (ET)
+Table 'Pictor II' 9-max Seat #5 is the button
+Seat 2: MaleDicti ($9 in chips) 
+Seat 3: timleery ($24.65 in chips) 
+Seat 4: Alameda22 ($43.15 in chips) 
+Seat 5: appiacht ($17.40 in chips) 
+Seat 6: Glamourboy81 ($14.75 in chips) 
+Seat 7: Mr. Martini7 ($14.75 in chips) 
+Seat 8: warning31 ($10.25 in chips) 
+Seat 9: sackemup ($11 in chips) 
+Glamourboy81: posts small blind $0.10
+Mr. Martini7: posts big blind $0.25
+sH0 Fo: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 7s]
+warning31: folds 
+sackemup: calls $0.25
+MaleDicti: folds 
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $0.25
+Glamourboy81: calls $0.15
+Mr. Martini7: checks 
+*** FLOP *** [Td 6s 4s]
+Glamourboy81 is connected 
+Glamourboy81: checks 
+Mr. Martini7: checks 
+sackemup: bets $0.75
+appiacht: folds 
+Glamourboy81: folds 
+Mr. Martini7: folds 
+Uncalled bet ($0.75) returned to sackemup
+sackemup collected $0.95 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Td 6s 4s]
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht (button) folded on the Flop
+Seat 6: Glamourboy81 (small blind) folded on the Flop
+Seat 7: Mr. Martini7 (big blind) folded on the Flop
+Seat 8: warning31 folded before Flop (didn't bet)
+Seat 9: sackemup collected ($0.95)
+
+
+
+PokerStars Game #19838384938:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:19:17 (ET)
+Table 'Pictor II' 9-max Seat #6 is the button
+Seat 2: MaleDicti ($9 in chips) 
+Seat 3: timleery ($24.65 in chips) 
+Seat 4: Alameda22 ($43.15 in chips) 
+Seat 5: appiacht ($17.15 in chips) 
+Seat 6: Glamourboy81 ($14.50 in chips) 
+Seat 7: Mr. Martini7 ($14.50 in chips) 
+Seat 8: warning31 ($10.25 in chips) 
+Seat 9: sackemup ($11.70 in chips) 
+Mr. Martini7: posts small blind $0.10
+warning31: posts big blind $0.25
+sH0 Fo: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Qd]
+sackemup: calls $0.25
+MaleDicti: folds 
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $0.25
+Glamourboy81: folds 
+Mr. Martini7: calls $0.15
+warning31: checks 
+*** FLOP *** [4s 8c Ts]
+Mr. Martini7: checks 
+warning31: checks 
+sackemup: checks 
+appiacht: bets $0.50
+Mr. Martini7: folds 
+warning31: folds 
+sackemup: calls $0.50
+*** TURN *** [4s 8c Ts] [2h]
+sackemup: checks 
+appiacht: bets $0.75
+sackemup: folds 
+Uncalled bet ($0.75) returned to appiacht
+appiacht collected $1.95 from pot
+appiacht: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [4s 8c Ts 2h]
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht collected ($1.95)
+Seat 6: Glamourboy81 (button) folded before Flop (didn't bet)
+Seat 7: Mr. Martini7 (small blind) folded on the Flop
+Seat 8: warning31 (big blind) folded on the Flop
+Seat 9: sackemup folded on the Turn
+
+
+
+PokerStars Game #19838411516:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:20:26 (ET)
+Table 'Pictor II' 9-max Seat #7 is the button
+Seat 2: MaleDicti ($9 in chips) 
+Seat 3: timleery ($24.65 in chips) 
+Seat 4: Alameda22 ($43.15 in chips) 
+Seat 5: appiacht ($18.35 in chips) 
+Seat 6: Glamourboy81 ($14.50 in chips) 
+Seat 7: Mr. Martini7 ($14.25 in chips) 
+Seat 8: warning31 ($10 in chips) 
+Seat 9: sackemup ($10.95 in chips) 
+warning31: posts small blind $0.10
+sackemup: posts big blind $0.25
+sH0 Fo: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 6c]
+MaleDicti: folds 
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $0.25
+Glamourboy81: folds 
+Mr. Martini7: folds 
+warning31: calls $0.15
+sackemup: checks 
+*** FLOP *** [4h 3d Td]
+warning31: bets $1
+sackemup: folds 
+appiacht: folds 
+Uncalled bet ($1) returned to warning31
+warning31 collected $0.75 from pot
+warning31: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [4h 3d Td]
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht folded on the Flop
+Seat 6: Glamourboy81 folded before Flop (didn't bet)
+Seat 7: Mr. Martini7 (button) folded before Flop (didn't bet)
+Seat 8: warning31 (small blind) collected ($0.75)
+Seat 9: sackemup (big blind) folded on the Flop
+
+
+
+PokerStars Game #19838431021:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:21:17 (ET)
+Table 'Pictor II' 9-max Seat #8 is the button
+Seat 1: sH0 Fo ($14.50 in chips) 
+Seat 2: MaleDicti ($9 in chips) 
+Seat 3: timleery ($24.65 in chips) 
+Seat 4: Alameda22 ($43.15 in chips) 
+Seat 5: appiacht ($18.10 in chips) 
+Seat 6: Glamourboy81 ($14.50 in chips) 
+Seat 7: Mr. Martini7 ($14.25 in chips) 
+Seat 8: warning31 ($10.50 in chips) 
+Seat 9: sackemup ($10.70 in chips) 
+sackemup: posts small blind $0.10
+sH0 Fo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Jd]
+MaleDicti: folds 
+timleery: calls $0.25
+Alameda22: folds 
+appiacht: folds 
+Glamourboy81: folds 
+Mr. Martini7: calls $0.25
+warning31: calls $0.25
+sackemup: calls $0.15
+sH0 Fo: checks 
+*** FLOP *** [3s 8s 8c]
+sackemup: checks 
+sH0 Fo: checks 
+timleery: checks 
+Mr. Martini7: checks 
+warning31: checks 
+*** TURN *** [3s 8s 8c] [Ah]
+sackemup: checks 
+sH0 Fo: checks 
+timleery: checks 
+Mr. Martini7: checks 
+warning31: checks 
+*** RIVER *** [3s 8s 8c Ah] [5d]
+sackemup: checks 
+sH0 Fo: checks 
+timleery: checks 
+Mr. Martini7: checks 
+warning31: checks 
+*** SHOW DOWN ***
+sackemup: shows [4s Jc] (a pair of Eights)
+sH0 Fo: shows [Jh Qs] (a pair of Eights - Ace+Queen kicker)
+timleery: shows [6h 6d] (two pair, Eights and Sixes)
+Mr. Martini7: mucks hand 
+warning31: mucks hand 
+timleery collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [3s 8s 8c Ah 5d]
+Seat 1: sH0 Fo (big blind) showed [Jh Qs] and lost with a pair of Eights
+Seat 2: MaleDicti folded before Flop (didn't bet)
+Seat 3: timleery showed [6h 6d] and won ($1.20) with two pair, Eights and Sixes
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht folded before Flop (didn't bet)
+Seat 6: Glamourboy81 folded before Flop (didn't bet)
+Seat 7: Mr. Martini7 mucked [Td Js]
+Seat 8: warning31 (button) mucked [9h 2h]
+Seat 9: sackemup (small blind) showed [4s Jc] and lost with a pair of Eights
+
+
+
+PokerStars Game #19838466296:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:22:49 (ET)
+Table 'Pictor II' 9-max Seat #9 is the button
+Seat 1: sH0 Fo ($14.25 in chips) 
+Seat 3: timleery ($25.60 in chips) 
+Seat 4: Alameda22 ($43.15 in chips) 
+Seat 5: appiacht ($18.10 in chips) 
+Seat 6: Glamourboy81 ($14.50 in chips) 
+Seat 7: Mr. Martini7 ($14 in chips) 
+Seat 8: warning31 ($10.25 in chips) 
+Seat 9: sackemup ($10.45 in chips) 
+sH0 Fo: posts small blind $0.10
+MaleDicti: is sitting out 
+timleery: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 8s]
+MaleDicti leaves the table
+Alameda22: folds 
+appiacht: calls $0.25
+Glamourboy81: folds 
+Mr. Martini7: folds 
+warning31: calls $0.25
+sackemup: calls $0.25
+sH0 Fo: folds 
+timleery: checks 
+*** FLOP *** [Qd 5h 2c]
+timleery: checks 
+appiacht: checks 
+warning31: checks 
+sackemup: bets $0.75
+timleery: folds 
+appiacht: folds 
+warning31: folds 
+Uncalled bet ($0.75) returned to sackemup
+sackemup collected $1.05 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Qd 5h 2c]
+Seat 1: sH0 Fo (small blind) folded before Flop
+Seat 3: timleery (big blind) folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht folded on the Flop
+Seat 6: Glamourboy81 folded before Flop (didn't bet)
+Seat 7: Mr. Martini7 folded before Flop (didn't bet)
+Seat 8: warning31 folded on the Flop
+Seat 9: sackemup (button) collected ($1.05)
+
+
+
+PokerStars Game #19838482049:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:23:29 (ET)
+Table 'Pictor II' 9-max Seat #1 is the button
+Seat 1: sH0 Fo ($14.15 in chips) 
+Seat 3: timleery ($25.35 in chips) 
+Seat 4: Alameda22 ($43.15 in chips) 
+Seat 5: appiacht ($17.85 in chips) 
+Seat 6: Glamourboy81 ($14.50 in chips) 
+Seat 7: Mr. Martini7 ($14 in chips) 
+Seat 8: warning31 ($10 in chips) 
+Seat 9: sackemup ($11.25 in chips) 
+timleery: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Qh]
+appiacht: calls $0.25
+Glamourboy81: raises $0.50 to $0.75
+Mr. Martini7: folds 
+warning31: folds 
+sackemup: folds 
+sH0 Fo: calls $0.75
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $0.50
+*** FLOP *** [Ac Td Qs]
+appiacht: checks 
+Glamourboy81: bets $0.50
+sH0 Fo: calls $0.50
+appiacht: folds 
+*** TURN *** [Ac Td Qs] [5c]
+Glamourboy81: bets $0.50
+sH0 Fo: calls $0.50
+*** RIVER *** [Ac Td Qs 5c] [Th]
+Glamourboy81: bets $1.25
+sH0 Fo: raises $1.25 to $2.50
+Glamourboy81: calls $1.25
+*** SHOW DOWN ***
+sH0 Fo: shows [9c Tc] (three of a kind, Tens)
+Glamourboy81: mucks hand 
+sH0 Fo collected $9.15 from pot
+*** SUMMARY ***
+Total pot $9.60 | Rake $0.45 
+Board [Ac Td Qs 5c Th]
+Seat 1: sH0 Fo (button) showed [9c Tc] and won ($9.15) with three of a kind, Tens
+Seat 3: timleery (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: appiacht folded on the Flop
+Seat 6: Glamourboy81 mucked [Ad Jd]
+Seat 7: Mr. Martini7 folded before Flop (didn't bet)
+Seat 8: warning31 folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838508816:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:24:39 (ET)
+Table 'Pictor II' 9-max Seat #3 is the button
+Seat 1: sH0 Fo ($19.05 in chips) 
+Seat 3: timleery ($25.25 in chips) 
+Seat 4: Alameda22 ($42.90 in chips) 
+Seat 5: appiacht ($17.10 in chips) 
+Seat 6: Glamourboy81 ($10.25 in chips) 
+Seat 7: Mr. Martini7 ($14 in chips) 
+Seat 8: warning31 ($10 in chips) 
+Seat 9: sackemup ($11.25 in chips) 
+Alameda22: posts small blind $0.10
+appiacht: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 8s]
+Glamourboy81: calls $0.25
+Mr. Martini7: calls $0.25
+warning31: calls $0.25
+sackemup: raises $0.50 to $0.75
+sH0 Fo: folds 
+timleery: folds 
+Moneysuck joins the table at seat #2 
+Alameda22: calls $0.65
+appiacht: calls $0.50
+Glamourboy81: calls $0.50
+Mr. Martini7: calls $0.50
+warning31: calls $0.50
+*** FLOP *** [2c 3d Jh]
+Alameda22: checks 
+appiacht: bets $1
+Glamourboy81: folds 
+Mr. Martini7: folds 
+warning31: folds 
+sackemup: calls $1
+Alameda22: folds 
+*** TURN *** [2c 3d Jh] [9s]
+appiacht: bets $1
+Glamourboy81 leaves the table
+sackemup: raises $2.50 to $3.50
+appiacht: calls $2.50
+*** RIVER *** [2c 3d Jh 9s] [Tc]
+appiacht: checks 
+sackemup: bets $6 and is all-in
+onenoc joins the table at seat #6 
+appiacht: folds 
+Uncalled bet ($6) returned to sackemup
+sackemup collected $12.85 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.50 | Rake $0.65 
+Board [2c 3d Jh 9s Tc]
+Seat 1: sH0 Fo folded before Flop (didn't bet)
+Seat 3: timleery (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded on the Flop
+Seat 5: appiacht (big blind) folded on the River
+Seat 6: Glamourboy81 folded on the Flop
+Seat 7: Mr. Martini7 folded on the Flop
+Seat 8: warning31 folded on the Flop
+Seat 9: sackemup collected ($12.85)
+
+
+
+PokerStars Game #19838546935:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:26:18 (ET)
+Table 'Pictor II' 9-max Seat #4 is the button
+Seat 1: sH0 Fo ($19.05 in chips) 
+Seat 2: Moneysuck ($15 in chips) 
+Seat 3: timleery ($25.25 in chips) 
+Seat 4: Alameda22 ($42.15 in chips) 
+Seat 5: appiacht ($11.85 in chips) 
+Seat 6: onenoc ($25 in chips) 
+Seat 7: Mr. Martini7 ($13.25 in chips) 
+Seat 8: warning31 ($9.25 in chips) 
+Seat 9: sackemup ($18.85 in chips) 
+appiacht: posts small blind $0.10
+onenoc: posts big blind $0.25
+Moneysuck: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 6s]
+Mr. Martini7: calls $0.25
+warning31: calls $0.25
+sackemup: folds 
+sH0 Fo: folds 
+Moneysuck: checks 
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $0.15
+onenoc: checks 
+*** FLOP *** [4d 3d 9d]
+appiacht: checks 
+onenoc: checks 
+Mr. Martini7: checks 
+warning31: bets $1
+Moneysuck: folds 
+appiacht: folds 
+onenoc: folds 
+Mr. Martini7: folds 
+Uncalled bet ($1) returned to warning31
+warning31 collected $1.20 from pot
+warning31: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [4d 3d 9d]
+Seat 1: sH0 Fo folded before Flop (didn't bet)
+Seat 2: Moneysuck folded on the Flop
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: appiacht (small blind) folded on the Flop
+Seat 6: onenoc (big blind) folded on the Flop
+Seat 7: Mr. Martini7 folded on the Flop
+Seat 8: warning31 collected ($1.20)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838569539:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:27:17 (ET)
+Table 'Pictor II' 9-max Seat #5 is the button
+Seat 1: sH0 Fo ($19.05 in chips) 
+Seat 2: Moneysuck ($14.75 in chips) 
+Seat 3: timleery ($25.25 in chips) 
+Seat 4: Alameda22 ($42.15 in chips) 
+Seat 5: appiacht ($11.60 in chips) 
+Seat 6: onenoc ($24.75 in chips) 
+Seat 7: Mr. Martini7 ($13 in chips) 
+Seat 8: warning31 ($10.20 in chips) 
+Seat 9: sackemup ($18.85 in chips) 
+onenoc: posts small blind $0.10
+Mr. Martini7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 9s]
+warning31: folds 
+sackemup: folds 
+sH0 Fo: raises $0.25 to $0.50
+Moneysuck: folds 
+timleery: folds 
+Alameda22: calls $0.50
+appiacht: calls $0.50
+onenoc: folds 
+Mr. Martini7: folds 
+*** FLOP *** [Qd 5h 6c]
+sH0 Fo: bets $1
+Alameda22: folds 
+appiacht: calls $1
+*** TURN *** [Qd 5h 6c] [Qs]
+sH0 Fo: bets $1
+appiacht: calls $1
+*** RIVER *** [Qd 5h 6c Qs] [Tc]
+sH0 Fo: bets $1
+appiacht: calls $1
+*** SHOW DOWN ***
+sH0 Fo: shows [Ad As] (two pair, Aces and Queens)
+appiacht: mucks hand 
+sH0 Fo collected $7.50 from pot
+*** SUMMARY ***
+Total pot $7.85 | Rake $0.35 
+Board [Qd 5h 6c Qs Tc]
+Seat 1: sH0 Fo showed [Ad As] and won ($7.50) with two pair, Aces and Queens
+Seat 2: Moneysuck folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded on the Flop
+Seat 5: appiacht (button) mucked [2c 5c]
+Seat 6: onenoc (small blind) folded before Flop
+Seat 7: Mr. Martini7 (big blind) folded before Flop
+Seat 8: warning31 folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838597556:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:28:31 (ET)
+Table 'Pictor II' 9-max Seat #6 is the button
+Seat 1: sH0 Fo ($23.05 in chips) 
+Seat 2: Moneysuck ($14.75 in chips) 
+Seat 3: timleery ($25.25 in chips) 
+Seat 4: Alameda22 ($41.65 in chips) 
+Seat 5: appiacht ($8.10 in chips) 
+Seat 6: onenoc ($24.65 in chips) 
+Seat 7: Mr. Martini7 ($12.75 in chips) 
+Seat 8: warning31 ($10.20 in chips) 
+Seat 9: sackemup ($18.85 in chips) 
+Mr. Martini7: posts small blind $0.10
+warning31: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Qc]
+sackemup: folds 
+sH0 Fo: folds 
+Moneysuck: raises $0.75 to $1
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $1
+onenoc: folds 
+Mr. Martini7: folds 
+warning31: calls $0.75
+*** FLOP *** [8h Td 9c]
+warning31: bets $9.20 and is all-in
+Moneysuck: folds 
+appiacht: calls $7.10 and is all-in
+Uncalled bet ($2.10) returned to warning31
+*** TURN *** [8h Td 9c] [Qs]
+*** RIVER *** [8h Td 9c Qs] [3c]
+*** SHOW DOWN ***
+warning31: shows [6c 5h] (high card Queen)
+appiacht: shows [6s 7h] (a straight, Six to Ten)
+appiacht collected $16.45 from pot
+*** SUMMARY ***
+Total pot $17.30 | Rake $0.85 
+Board [8h Td 9c Qs 3c]
+Seat 1: sH0 Fo folded before Flop (didn't bet)
+Seat 2: Moneysuck folded on the Flop
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht showed [6s 7h] and won ($16.45) with a straight, Six to Ten
+Seat 6: onenoc (button) folded before Flop (didn't bet)
+Seat 7: Mr. Martini7 (small blind) folded before Flop
+Seat 8: warning31 (big blind) showed [6c 5h] and lost with high card Queen
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838619454:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:29:29 (ET)
+Table 'Pictor II' 9-max Seat #7 is the button
+Seat 1: sH0 Fo ($23.05 in chips) 
+Seat 2: Moneysuck ($13.75 in chips) 
+Seat 3: timleery ($25.25 in chips) 
+Seat 4: Alameda22 ($41.65 in chips) 
+Seat 5: appiacht ($16.45 in chips) 
+Seat 6: onenoc ($24.65 in chips) 
+Seat 7: Mr. Martini7 ($12.65 in chips) 
+Seat 8: warning31 ($2.10 in chips) 
+Seat 9: sackemup ($18.85 in chips) 
+warning31: posts small blind $0.10
+sackemup: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Kd]
+sH0 Fo: folds 
+Moneysuck: folds 
+timleery: calls $0.25
+Alameda22: raises $0.75 to $1
+appiacht: calls $1
+onenoc: folds 
+Mr. Martini7: folds 
+warning31: folds 
+sackemup: folds 
+timleery: folds 
+*** FLOP *** [Kh 4d 7d]
+Alameda22: bets $1.75
+appiacht: calls $1.75
+*** TURN *** [Kh 4d 7d] [3s]
+Alameda22: bets $4
+appiacht: calls $4
+*** RIVER *** [Kh 4d 7d 3s] [Ah]
+Alameda22: bets $9
+appiacht: folds 
+Uncalled bet ($9) returned to Alameda22
+Alameda22 collected $13.45 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.10 | Rake $0.65 
+Board [Kh 4d 7d 3s Ah]
+Seat 1: sH0 Fo folded before Flop (didn't bet)
+Seat 2: Moneysuck folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop
+Seat 4: Alameda22 collected ($13.45)
+Seat 5: appiacht folded on the River
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Mr. Martini7 (button) folded before Flop (didn't bet)
+Seat 8: warning31 (small blind) folded before Flop
+Seat 9: sackemup (big blind) folded before Flop
+
+
+
+PokerStars Game #19838675387:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:31:54 (ET)
+Table 'Pictor II' 9-max Seat #8 is the button
+Seat 1: sH0 Fo ($23.05 in chips) 
+Seat 2: Moneysuck ($13.75 in chips) 
+Seat 3: timleery ($25 in chips) 
+Seat 4: Alameda22 ($48.35 in chips) 
+Seat 5: appiacht ($9.70 in chips) 
+Seat 6: onenoc ($24.65 in chips) 
+Seat 7: Mr. Martini7 ($12.65 in chips) 
+Seat 8: warning31 ($2 in chips) 
+Seat 9: sackemup ($18.60 in chips) 
+sackemup: posts small blind $0.10
+sH0 Fo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 3h]
+Moneysuck: folds 
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $0.25
+onenoc: folds 
+Mr. Martini7: folds 
+warning31: calls $0.25
+sackemup: calls $0.15
+sH0 Fo: checks 
+*** FLOP *** [Ac 5d Qh]
+sackemup: checks 
+sH0 Fo: checks 
+appiacht: checks 
+warning31: checks 
+*** TURN *** [Ac 5d Qh] [Jh]
+sackemup: checks 
+sH0 Fo: checks 
+appiacht: checks 
+warning31: bets $1.75 and is all-in
+sackemup: calls $1.75
+sH0 Fo: folds 
+appiacht: folds 
+*** RIVER *** [Ac 5d Qh Jh] [6d]
+*** SHOW DOWN ***
+sackemup: shows [5s Qd] (two pair, Queens and Fives)
+warning31: mucks hand 
+sackemup collected $4.30 from pot
+warning31 leaves the table
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [Ac 5d Qh Jh 6d]
+Seat 1: sH0 Fo (big blind) folded on the Turn
+Seat 2: Moneysuck folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht folded on the Turn
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Mr. Martini7 folded before Flop (didn't bet)
+Seat 8: warning31 (button) mucked [Ks 8s]
+Seat 9: sackemup (small blind) showed [5s Qd] and won ($4.30) with two pair, Queens and Fives
+
+
+
+PokerStars Game #19838708380:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:33:21 (ET)
+Table 'Pictor II' 9-max Seat #9 is the button
+Seat 1: sH0 Fo ($22.80 in chips) 
+Seat 2: Moneysuck ($13.75 in chips) 
+Seat 3: timleery ($25 in chips) 
+Seat 4: Alameda22 ($48.35 in chips) 
+Seat 5: appiacht ($9.45 in chips) 
+Seat 6: onenoc ($24.65 in chips) 
+Seat 7: Mr. Martini7 ($12.65 in chips) 
+Seat 9: sackemup ($20.90 in chips) 
+inductive joins the table at seat #8 
+sH0 Fo: posts small blind $0.10
+Moneysuck: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c As]
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $0.25
+onenoc: folds 
+Mr. Martini7: folds 
+sackemup: folds 
+sH0 Fo: calls $0.15
+Moneysuck: checks 
+*** FLOP *** [7s 9d 8s]
+sH0 Fo: checks 
+Moneysuck: checks 
+appiacht: checks 
+*** TURN *** [7s 9d 8s] [2d]
+sH0 Fo: checks 
+Moneysuck: checks 
+appiacht: checks 
+*** RIVER *** [7s 9d 8s 2d] [3c]
+sH0 Fo: checks 
+Moneysuck: checks 
+appiacht: checks 
+*** SHOW DOWN ***
+sH0 Fo: shows [Td 4s] (high card Ten)
+Moneysuck: shows [3d Ks] (a pair of Threes)
+appiacht: shows [Ad 3s] (a pair of Threes - Ace kicker)
+appiacht collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [7s 9d 8s 2d 3c]
+Seat 1: sH0 Fo (small blind) showed [Td 4s] and lost with high card Ten
+Seat 2: Moneysuck (big blind) showed [3d Ks] and lost with a pair of Threes
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht showed [Ad 3s] and won ($0.75) with a pair of Threes
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Mr. Martini7 folded before Flop (didn't bet)
+Seat 9: sackemup (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838736972:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:34:36 (ET)
+Table 'Pictor II' 9-max Seat #1 is the button
+Seat 1: sH0 Fo ($22.55 in chips) 
+Seat 2: Moneysuck ($13.50 in chips) 
+Seat 3: timleery ($25 in chips) 
+Seat 4: Alameda22 ($48.35 in chips) 
+Seat 5: appiacht ($9.95 in chips) 
+Seat 6: onenoc ($24.65 in chips) 
+Seat 7: Mr. Martini7 ($12.65 in chips) 
+Seat 9: sackemup ($20.90 in chips) 
+Moneysuck: posts small blind $0.10
+timleery: posts big blind $0.25
+inductive: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 3d]
+Alameda22: folds 
+appiacht: calls $0.25
+onenoc: folds 
+Mr. Martini7: calls $0.25
+sackemup: folds 
+sH0 Fo: folds 
+Moneysuck: raises $0.50 to $0.75
+timleery: folds 
+appiacht: calls $0.50
+Mr. Martini7: calls $0.50
+*** FLOP *** [Qs Jc Kd]
+Moneysuck: checks 
+appiacht: checks 
+Mr. Martini7: bets $0.50
+Moneysuck: folds 
+appiacht: calls $0.50
+*** TURN *** [Qs Jc Kd] [Jh]
+appiacht: checks 
+Mr. Martini7: checks 
+*** RIVER *** [Qs Jc Kd Jh] [9h]
+appiacht: checks 
+Mr. Martini7: checks 
+*** SHOW DOWN ***
+appiacht: shows [Kc 2c] (two pair, Kings and Jacks)
+Mr. Martini7: mucks hand 
+appiacht collected $3.35 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [Qs Jc Kd Jh 9h]
+Seat 1: sH0 Fo (button) folded before Flop (didn't bet)
+Seat 2: Moneysuck (small blind) folded on the Flop
+Seat 3: timleery (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht showed [Kc 2c] and won ($3.35) with two pair, Kings and Jacks
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Mr. Martini7 mucked [Ac Qd]
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838768943:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:36:01 (ET)
+Table 'Pictor II' 9-max Seat #2 is the button
+Seat 1: sH0 Fo ($22.55 in chips) 
+Seat 2: Moneysuck ($12.75 in chips) 
+Seat 3: timleery ($24.75 in chips) 
+Seat 4: Alameda22 ($48.35 in chips) 
+Seat 5: appiacht ($12.05 in chips) 
+Seat 6: onenoc ($25 in chips) 
+Seat 7: Mr. Martini7 ($11.40 in chips) 
+Seat 9: sackemup ($20.90 in chips) 
+timleery: posts small blind $0.10
+Alameda22: posts big blind $0.25
+inductive: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 2s]
+appiacht: folds 
+onenoc: folds 
+Mr. Martini7: calls $0.25
+sackemup: calls $0.25
+sH0 Fo: calls $0.25
+Moneysuck: calls $0.25
+timleery: folds 
+Alameda22: checks 
+*** FLOP *** [Jc 3c 3s]
+Alameda22: checks 
+Mr. Martini7: checks 
+sackemup: checks 
+sH0 Fo: folds 
+sH0 Fo leaves the table
+Moneysuck: bets $0.75
+janeX14511 joins the table at seat #1 
+Alameda22: folds 
+Mr. Martini7: folds 
+sackemup: folds 
+Uncalled bet ($0.75) returned to Moneysuck
+Moneysuck collected $1.30 from pot
+Moneysuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [Jc 3c 3s]
+Seat 1: sH0 Fo folded on the Flop
+Seat 2: Moneysuck (button) collected ($1.30)
+Seat 3: timleery (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 5: appiacht folded before Flop (didn't bet)
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Mr. Martini7 folded on the Flop
+Seat 9: sackemup folded on the Flop
+
+
+
+PokerStars Game #19838794428:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:37:09 (ET)
+Table 'Pictor II' 9-max Seat #3 is the button
+Seat 2: Moneysuck ($13.80 in chips) 
+Seat 3: timleery ($24.65 in chips) 
+Seat 4: Alameda22 ($48.10 in chips) 
+Seat 5: appiacht ($12.05 in chips) 
+Seat 6: onenoc ($25 in chips) 
+Seat 7: Mr. Martini7 ($11.15 in chips) 
+Seat 9: sackemup ($20.65 in chips) 
+Alameda22: posts small blind $0.10
+appiacht: posts big blind $0.25
+inductive: sits out 
+janeX14511: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Qd]
+onenoc: folds 
+Mr. Martini7: folds 
+sackemup: folds 
+Moneysuck: folds 
+timleery: folds 
+Mr. Martini7 leaves the table
+Alameda22: calls $0.15
+appiacht: checks 
+*** FLOP *** [2d Ts 2s]
+Alameda22: checks 
+appiacht: checks 
+*** TURN *** [2d Ts 2s] [5d]
+Alameda22: bets $0.25
+appiacht: folds 
+Uncalled bet ($0.25) returned to Alameda22
+Alameda22 collected $0.50 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [2d Ts 2s 5d]
+Seat 2: Moneysuck folded before Flop (didn't bet)
+Seat 3: timleery (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) collected ($0.50)
+Seat 5: appiacht (big blind) folded on the Turn
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Mr. Martini7 folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838809324:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:37:49 (ET)
+Table 'Pictor II' 9-max Seat #4 is the button
+Seat 2: Moneysuck ($13.80 in chips) 
+Seat 3: timleery ($24.65 in chips) 
+Seat 4: Alameda22 ($48.35 in chips) 
+Seat 5: appiacht ($11.80 in chips) 
+Seat 6: onenoc ($25 in chips) 
+Seat 9: sackemup ($20.65 in chips) 
+appiacht: posts small blind $0.10
+onenoc: posts big blind $0.25
+inductive: sits out 
+janeX14511: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh As]
+sackemup: folds 
+Moneysuck: folds 
+timleery: folds 
+Alameda22: raises $0.50 to $0.75
+appiacht: folds 
+onenoc: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Moneysuck folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) collected ($0.60)
+Seat 5: appiacht (small blind) folded before Flop
+Seat 6: onenoc (big blind) folded before Flop
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838823377:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:38:26 (ET)
+Table 'Pictor II' 9-max Seat #5 is the button
+Seat 2: Moneysuck ($13.80 in chips) 
+Seat 3: timleery ($24.65 in chips) 
+Seat 4: Alameda22 ($48.70 in chips) 
+Seat 5: appiacht ($11.70 in chips) 
+Seat 6: onenoc ($24.75 in chips) 
+Seat 8: inductive ($25 in chips) 
+Seat 9: sackemup ($20.65 in chips) 
+Horstus joins the table at seat #7 
+onenoc: posts small blind $0.10
+inductive: posts big blind $0.25
+janeX14511: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h As]
+sackemup: folds 
+Moneysuck: raises $0.50 to $0.75
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $0.75
+onenoc: folds 
+inductive: folds 
+*** FLOP *** [3d Ts 7s]
+Moneysuck: bets $1
+appiacht: folds 
+Uncalled bet ($1) returned to Moneysuck
+Moneysuck collected $1.80 from pot
+Moneysuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [3d Ts 7s]
+Seat 2: Moneysuck collected ($1.80)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht (button) folded on the Flop
+Seat 6: onenoc (small blind) folded before Flop
+Seat 8: inductive (big blind) folded before Flop
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838843157:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:39:19 (ET)
+Table 'Pictor II' 9-max Seat #6 is the button
+Seat 2: Moneysuck ($14.85 in chips) 
+Seat 3: timleery ($24.65 in chips) 
+Seat 4: Alameda22 ($48.70 in chips) 
+Seat 5: appiacht ($10.95 in chips) 
+Seat 6: onenoc ($24.65 in chips) 
+Seat 8: inductive ($24.75 in chips) 
+Seat 9: sackemup ($20.65 in chips) 
+Horstus will be allowed to play after the button
+inductive: posts small blind $0.10
+sackemup: posts big blind $0.25
+janeX14511: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Js]
+Moneysuck: folds 
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $0.25
+onenoc: folds 
+inductive: folds 
+sackemup: checks 
+*** FLOP *** [9s 7d Td]
+sackemup: checks 
+appiacht: checks 
+*** TURN *** [9s 7d Td] [9c]
+sackemup: bets $0.75
+appiacht: folds 
+Uncalled bet ($0.75) returned to sackemup
+sackemup collected $0.60 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9s 7d Td 9c]
+Seat 2: Moneysuck folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht folded on the Turn
+Seat 6: onenoc (button) folded before Flop (didn't bet)
+Seat 8: inductive (small blind) folded before Flop
+Seat 9: sackemup (big blind) collected ($0.60)
+
+
+
+PokerStars Game #19838860845:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:40:04 (ET)
+Table 'Pictor II' 9-max Seat #8 is the button
+Seat 1: janeX14511 ($25 in chips) 
+Seat 2: Moneysuck ($14.85 in chips) 
+Seat 3: timleery ($24.65 in chips) 
+Seat 4: Alameda22 ($48.70 in chips) 
+Seat 5: appiacht ($10.70 in chips) 
+Seat 6: onenoc ($24.65 in chips) 
+Seat 7: Horstus ($25 in chips) 
+Seat 8: inductive ($24.65 in chips) 
+Seat 9: sackemup ($21 in chips) 
+sackemup: posts small blind $0.10
+janeX14511: posts big blind $0.25
+Horstus: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 7d]
+Moneysuck: calls $0.25
+timleery: calls $0.25
+Alameda22: folds 
+appiacht: folds 
+onenoc: folds 
+Horstus: raises $1.25 to $1.50
+inductive: folds 
+sackemup: folds 
+janeX14511: folds 
+Moneysuck: folds 
+timleery: folds 
+Uncalled bet ($1.25) returned to Horstus
+Horstus collected $1.10 from pot
+Horstus: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: janeX14511 (big blind) folded before Flop
+Seat 2: Moneysuck folded before Flop
+Seat 3: timleery folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht folded before Flop (didn't bet)
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Horstus collected ($1.10)
+Seat 8: inductive (button) folded before Flop (didn't bet)
+Seat 9: sackemup (small blind) folded before Flop
+
+
+
+PokerStars Game #19838877378:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:40:48 (ET)
+Table 'Pictor II' 9-max Seat #9 is the button
+Seat 1: janeX14511 ($24.75 in chips) 
+Seat 2: Moneysuck ($14.60 in chips) 
+Seat 3: timleery ($24.40 in chips) 
+Seat 4: Alameda22 ($48.70 in chips) 
+Seat 5: appiacht ($10.70 in chips) 
+Seat 6: onenoc ($25 in chips) 
+Seat 7: Horstus ($25.85 in chips) 
+Seat 8: inductive ($24.65 in chips) 
+Seat 9: sackemup ($20.90 in chips) 
+janeX14511: posts small blind $0.10
+Moneysuck: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Ac]
+timleery: folds 
+Alameda22: folds 
+appiacht: folds 
+onenoc: folds 
+Horstus: folds 
+inductive: folds 
+sackemup: calls $0.25
+janeX14511: raises $0.50 to $0.75
+Moneysuck: folds 
+sackemup: calls $0.50
+*** FLOP *** [6c 7s Qh]
+janeX14511: bets $1.50
+sackemup: folds 
+Uncalled bet ($1.50) returned to janeX14511
+janeX14511 collected $1.70 from pot
+janeX14511: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [6c 7s Qh]
+Seat 1: janeX14511 (small blind) collected ($1.70)
+Seat 2: Moneysuck (big blind) folded before Flop
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht folded before Flop (didn't bet)
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup (button) folded on the Flop
+
+
+
+PokerStars Game #19838898978:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:41:44 (ET)
+Table 'Pictor II' 9-max Seat #1 is the button
+Seat 1: janeX14511 ($25.70 in chips) 
+Seat 2: Moneysuck ($14.35 in chips) 
+Seat 3: timleery ($24.40 in chips) 
+Seat 4: Alameda22 ($48.70 in chips) 
+Seat 5: appiacht ($10.70 in chips) 
+Seat 6: onenoc ($25 in chips) 
+Seat 7: Horstus ($25.85 in chips) 
+Seat 8: inductive ($24.65 in chips) 
+Seat 9: sackemup ($20.15 in chips) 
+Moneysuck: posts small blind $0.10
+timleery: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 7h]
+Alameda22: folds 
+appiacht: raises $0.50 to $0.75
+onenoc: folds 
+Horstus: folds 
+inductive: calls $0.75
+sackemup: folds 
+janeX14511: calls $0.75
+Moneysuck: folds 
+timleery: folds 
+*** FLOP *** [Kh 4h 4d]
+appiacht: bets $0.50
+inductive: folds 
+janeX14511: folds 
+Uncalled bet ($0.50) returned to appiacht
+appiacht collected $2.50 from pot
+appiacht: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Kh 4h 4d]
+Seat 1: janeX14511 (button) folded on the Flop
+Seat 2: Moneysuck (small blind) folded before Flop
+Seat 3: timleery (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht collected ($2.50)
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive folded on the Flop
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838918754:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:42:35 (ET)
+Table 'Pictor II' 9-max Seat #2 is the button
+Seat 1: janeX14511 ($24.95 in chips) 
+Seat 2: Moneysuck ($14.25 in chips) 
+Seat 3: timleery ($24.15 in chips) 
+Seat 4: Alameda22 ($48.70 in chips) 
+Seat 5: appiacht ($12.45 in chips) 
+Seat 6: onenoc ($25 in chips) 
+Seat 7: Horstus ($25.85 in chips) 
+Seat 8: inductive ($23.90 in chips) 
+Seat 9: sackemup ($20.15 in chips) 
+timleery: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Kc]
+appiacht: calls $0.25
+onenoc: folds 
+Horstus: folds 
+inductive: folds 
+sackemup: folds 
+janeX14511: folds 
+Moneysuck: calls $0.25
+timleery: folds 
+Alameda22: checks 
+*** FLOP *** [6s 5d Qs]
+Alameda22: checks 
+appiacht: checks 
+Moneysuck: bets $0.75
+Alameda22: folds 
+appiacht: folds 
+Uncalled bet ($0.75) returned to Moneysuck
+Moneysuck collected $0.85 from pot
+Moneysuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [6s 5d Qs]
+Seat 1: janeX14511 folded before Flop (didn't bet)
+Seat 2: Moneysuck (button) collected ($0.85)
+Seat 3: timleery (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 5: appiacht folded on the Flop
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838941622:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:43:35 (ET)
+Table 'Pictor II' 9-max Seat #3 is the button
+Seat 1: janeX14511 ($24.95 in chips) 
+Seat 2: Moneysuck ($14.85 in chips) 
+Seat 3: timleery ($24.05 in chips) 
+Seat 4: Alameda22 ($48.45 in chips) 
+Seat 5: appiacht ($12.20 in chips) 
+Seat 6: onenoc ($25 in chips) 
+Seat 7: Horstus ($25.85 in chips) 
+Seat 8: inductive ($23.90 in chips) 
+Seat 9: sackemup ($20.15 in chips) 
+Alameda22: posts small blind $0.10
+appiacht: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 6d]
+onenoc: folds 
+Horstus: folds 
+inductive: folds 
+sackemup: folds 
+janeX14511: folds 
+Moneysuck: folds 
+timleery: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to appiacht
+appiacht collected $0.20 from pot
+appiacht: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: janeX14511 folded before Flop (didn't bet)
+Seat 2: Moneysuck folded before Flop (didn't bet)
+Seat 3: timleery (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: appiacht (big blind) collected ($0.20)
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838959809:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:44:22 (ET)
+Table 'Pictor II' 9-max Seat #4 is the button
+Seat 1: janeX14511 ($24.95 in chips) 
+Seat 2: Moneysuck ($14.85 in chips) 
+Seat 3: timleery ($24.05 in chips) 
+Seat 4: Alameda22 ($48.35 in chips) 
+Seat 5: appiacht ($12.30 in chips) 
+Seat 6: onenoc ($25 in chips) 
+Seat 7: Horstus ($25.85 in chips) 
+Seat 8: inductive ($23.90 in chips) 
+Seat 9: sackemup ($20.15 in chips) 
+appiacht: posts small blind $0.10
+onenoc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s As]
+Horstus: folds 
+inductive: folds 
+sackemup: folds 
+janeX14511: folds 
+Moneysuck: folds 
+timleery: folds 
+Alameda22: folds 
+appiacht: folds 
+Uncalled bet ($0.15) returned to onenoc
+onenoc collected $0.20 from pot
+onenoc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: janeX14511 folded before Flop (didn't bet)
+Seat 2: Moneysuck folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: appiacht (small blind) folded before Flop
+Seat 6: onenoc (big blind) collected ($0.20)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19838969850:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:44:48 (ET)
+Table 'Pictor II' 9-max Seat #5 is the button
+Seat 1: janeX14511 ($24.95 in chips) 
+Seat 2: Moneysuck ($14.85 in chips) 
+Seat 3: timleery ($24.05 in chips) 
+Seat 4: Alameda22 ($48.35 in chips) 
+Seat 5: appiacht ($12.20 in chips) 
+Seat 6: onenoc ($25.10 in chips) 
+Seat 7: Horstus ($25.85 in chips) 
+Seat 8: inductive ($23.90 in chips) 
+Seat 9: sackemup ($20.15 in chips) 
+onenoc: posts small blind $0.10
+Horstus: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 4s]
+inductive: folds 
+sackemup: raises $0.50 to $0.75
+janeX14511: folds 
+Moneysuck: calls $0.75
+timleery: folds 
+Alameda22: folds 
+appiacht: folds 
+onenoc: folds 
+Horstus: folds 
+*** FLOP *** [2c 7d Qc]
+sackemup: bets $1.25
+Moneysuck: calls $1.25
+*** TURN *** [2c 7d Qc] [3h]
+sackemup: bets $1.25
+Moneysuck: calls $1.25
+*** RIVER *** [2c 7d Qc 3h] [Kd]
+sackemup: bets $2.50
+Moneysuck: calls $2.50
+*** SHOW DOWN ***
+sackemup: shows [Kh Ad] (a pair of Kings)
+Moneysuck: mucks hand 
+sackemup collected $11.30 from pot
+*** SUMMARY ***
+Total pot $11.85 | Rake $0.55 
+Board [2c 7d Qc 3h Kd]
+Seat 1: janeX14511 folded before Flop (didn't bet)
+Seat 2: Moneysuck mucked [Kc Jc]
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht (button) folded before Flop (didn't bet)
+Seat 6: onenoc (small blind) folded before Flop
+Seat 7: Horstus (big blind) folded before Flop
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup showed [Kh Ad] and won ($11.30) with a pair of Kings
+
+
+
+PokerStars Game #19839000442:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:46:08 (ET)
+Table 'Pictor II' 9-max Seat #6 is the button
+Seat 1: janeX14511 ($24.95 in chips) 
+Seat 2: Moneysuck ($9.10 in chips) 
+Seat 3: timleery ($24.05 in chips) 
+Seat 4: Alameda22 ($48.35 in chips) 
+Seat 5: appiacht ($12.20 in chips) 
+Seat 6: onenoc ($25 in chips) 
+Seat 7: Horstus ($25.60 in chips) 
+Seat 8: inductive ($23.90 in chips) 
+Seat 9: sackemup ($25.70 in chips) 
+Horstus: posts small blind $0.10
+inductive: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Kh]
+sackemup: folds 
+janeX14511: raises $1.50 to $1.75
+Moneysuck: folds 
+timleery: folds 
+Alameda22: folds 
+appiacht: folds 
+onenoc: folds 
+Horstus: folds 
+inductive: calls $1.50
+*** FLOP *** [8c 9c 4s]
+inductive: checks 
+janeX14511: bets $2.75
+inductive: raises $6.25 to $9
+janeX14511: folds 
+Uncalled bet ($6.25) returned to inductive
+inductive collected $8.70 from pot
+inductive: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.10 | Rake $0.40 
+Board [8c 9c 4s]
+Seat 1: janeX14511 folded on the Flop
+Seat 2: Moneysuck folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht folded before Flop (didn't bet)
+Seat 6: onenoc (button) folded before Flop (didn't bet)
+Seat 7: Horstus (small blind) folded before Flop
+Seat 8: inductive (big blind) collected ($8.70)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19839051762:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:48:14 (ET)
+Table 'Pictor II' 9-max Seat #7 is the button
+Seat 1: janeX14511 ($20.45 in chips) 
+Seat 2: Moneysuck ($9.10 in chips) 
+Seat 3: timleery ($24.05 in chips) 
+Seat 4: Alameda22 ($48.35 in chips) 
+Seat 5: appiacht ($12.20 in chips) 
+Seat 6: onenoc ($25 in chips) 
+Seat 7: Horstus ($25.50 in chips) 
+Seat 8: inductive ($28.10 in chips) 
+Seat 9: sackemup ($25.70 in chips) 
+inductive: posts small blind $0.10
+sackemup: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Qc]
+janeX14511: folds 
+Moneysuck: folds 
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $0.25
+onenoc: raises $0.75 to $1
+Horstus: folds 
+inductive: folds 
+sackemup: folds 
+appiacht: calls $0.75
+*** FLOP *** [As 2d 2h]
+appiacht: checks 
+onenoc: checks 
+*** TURN *** [As 2d 2h] [8d]
+appiacht: bets $1
+onenoc: folds 
+Uncalled bet ($1) returned to appiacht
+appiacht collected $2.25 from pot
+appiacht: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [As 2d 2h 8d]
+Seat 1: janeX14511 folded before Flop (didn't bet)
+Seat 2: Moneysuck folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht collected ($2.25)
+Seat 6: onenoc folded on the Turn
+Seat 7: Horstus (button) folded before Flop (didn't bet)
+Seat 8: inductive (small blind) folded before Flop
+Seat 9: sackemup (big blind) folded before Flop
+
+
+
+PokerStars Game #19839075769:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:49:14 (ET)
+Table 'Pictor II' 9-max Seat #8 is the button
+Seat 3: timleery ($24.05 in chips) 
+Seat 4: Alameda22 ($48.35 in chips) 
+Seat 5: appiacht ($13.45 in chips) 
+Seat 6: onenoc ($24 in chips) 
+Seat 7: Horstus ($25.50 in chips) 
+Seat 8: inductive ($28 in chips) 
+Seat 9: sackemup ($25.45 in chips) 
+sackemup: posts small blind $0.10
+janeX14511: is sitting out 
+janeX14511 leaves the table
+Moneysuck: is sitting out 
+timleery: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Qd]
+Alameda22: folds 
+appiacht: calls $0.25
+onenoc: folds 
+Horstus: folds 
+inductive: folds 
+sackemup: calls $0.15
+timleery: checks 
+*** FLOP *** [8d Th 7c]
+Moneysuck leaves the table
+sackemup: checks 
+timleery: checks 
+appiacht: bets $0.75
+sackemup: calls $0.75
+timleery: folds 
+*** TURN *** [8d Th 7c] [3h]
+sackemup: checks 
+appiacht: bets $1
+sackemup: folds 
+Uncalled bet ($1) returned to appiacht
+appiacht collected $2.15 from pot
+appiacht: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [8d Th 7c 3h]
+Seat 3: timleery (big blind) folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht collected ($2.15)
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive (button) folded before Flop (didn't bet)
+Seat 9: sackemup (small blind) folded on the Turn
+
+
+
+PokerStars Game #19839108020:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:50:34 (ET)
+Table 'Pictor II' 9-max Seat #9 is the button
+Seat 3: timleery ($23.80 in chips) 
+Seat 4: Alameda22 ($48.35 in chips) 
+Seat 5: appiacht ($14.60 in chips) 
+Seat 6: onenoc ($24 in chips) 
+Seat 7: Horstus ($25.50 in chips) 
+Seat 8: inductive ($28 in chips) 
+Seat 9: sackemup ($24.45 in chips) 
+timleery: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Js]
+appiacht: calls $0.25
+onenoc: folds 
+Horstus: folds 
+inductive: folds 
+sackemup: calls $0.25
+timleery: calls $0.15
+Alameda22: checks 
+*** FLOP *** [2d 6c 8d]
+timleery: checks 
+Alameda22: checks 
+appiacht: checks 
+sackemup: bets $0.75
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $0.75
+*** TURN *** [2d 6c 8d] [5d]
+appiacht: checks 
+sackemup: bets $1
+appiacht: calls $1
+*** RIVER *** [2d 6c 8d 5d] [2c]
+appiacht: checks 
+sackemup: checks 
+*** SHOW DOWN ***
+appiacht: shows [6d 9c] (two pair, Sixes and Deuces)
+sackemup: shows [8s Jh] (two pair, Eights and Deuces)
+sackemup collected $4.30 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [2d 6c 8d 5d 2c]
+Seat 3: timleery (small blind) folded on the Flop
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 5: appiacht showed [6d 9c] and lost with two pair, Sixes and Deuces
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup (button) showed [8s Jh] and won ($4.30) with two pair, Eights and Deuces
+
+
+
+PokerStars Game #19839130069:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:51:29 (ET)
+Table 'Pictor II' 9-max Seat #3 is the button
+Seat 3: timleery ($23.55 in chips) 
+Seat 4: Alameda22 ($48.10 in chips) 
+Seat 5: appiacht ($12.60 in chips) 
+Seat 6: onenoc ($24 in chips) 
+Seat 7: Horstus ($25.50 in chips) 
+Seat 8: inductive ($28 in chips) 
+Seat 9: sackemup ($26.75 in chips) 
+Alameda22: posts small blind $0.10
+appiacht: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Qs]
+onenoc: folds 
+Horstus: raises $0.75 to $1
+inductive: calls $1
+sackemup: folds 
+timleery: folds 
+Alameda22: folds 
+appiacht: folds 
+*** FLOP *** [Jd 3h 8c]
+Horstus: bets $1.50
+inductive: folds 
+Uncalled bet ($1.50) returned to Horstus
+Horstus collected $2.25 from pot
+Horstus: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Jd 3h 8c]
+Seat 3: timleery (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: appiacht (big blind) folded before Flop
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Horstus collected ($2.25)
+Seat 8: inductive folded on the Flop
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19839142957:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:52:01 (ET)
+Table 'Pictor II' 9-max Seat #4 is the button
+Seat 3: timleery ($23.55 in chips) 
+Seat 4: Alameda22 ($48 in chips) 
+Seat 5: appiacht ($12.35 in chips) 
+Seat 6: onenoc ($24 in chips) 
+Seat 7: Horstus ($26.75 in chips) 
+Seat 8: inductive ($27 in chips) 
+Seat 9: sackemup ($26.75 in chips) 
+appiacht: posts small blind $0.10
+onenoc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 9h]
+Horstus: folds 
+inductive: folds 
+sackemup: calls $0.25
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $0.15
+onenoc: checks 
+*** FLOP *** [5c Jc 3s]
+appiacht: checks 
+onenoc: checks 
+sackemup: bets $0.75
+appiacht: folds 
+onenoc: folds 
+Uncalled bet ($0.75) returned to sackemup
+sackemup collected $0.75 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [5c Jc 3s]
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: appiacht (small blind) folded on the Flop
+Seat 6: onenoc (big blind) folded on the Flop
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup collected ($0.75)
+
+
+
+PokerStars Game #19839171003:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:53:12 (ET)
+Table 'Pictor II' 9-max Seat #5 is the button
+Seat 3: timleery ($23.55 in chips) 
+Seat 4: Alameda22 ($48 in chips) 
+Seat 5: appiacht ($12.10 in chips) 
+Seat 6: onenoc ($23.75 in chips) 
+Seat 7: Horstus ($26.75 in chips) 
+Seat 8: inductive ($27 in chips) 
+Seat 9: sackemup ($27.25 in chips) 
+onenoc: posts small blind $0.10
+Horstus: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 7d]
+inductive: folds 
+sackemup: folds 
+timleery: folds 
+Alameda22: folds 
+appiacht: folds 
+onenoc: folds 
+Uncalled bet ($0.15) returned to Horstus
+Horstus collected $0.20 from pot
+Horstus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht (button) folded before Flop (didn't bet)
+Seat 6: onenoc (small blind) folded before Flop
+Seat 7: Horstus (big blind) collected ($0.20)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19839180894:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:53:36 (ET)
+Table 'Pictor II' 9-max Seat #6 is the button
+Seat 3: timleery ($23.55 in chips) 
+Seat 4: Alameda22 ($48 in chips) 
+Seat 5: appiacht ($12.10 in chips) 
+Seat 6: onenoc ($23.65 in chips) 
+Seat 7: Horstus ($26.85 in chips) 
+Seat 8: inductive ($27 in chips) 
+Seat 9: sackemup ($27.25 in chips) 
+Horstus: posts small blind $0.10
+inductive: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Kc]
+sackemup: calls $0.25
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $0.25
+onenoc: folds 
+Horstus: folds 
+inductive: checks 
+*** FLOP *** [Js Jh 8c]
+inductive: checks 
+sackemup: checks 
+appiacht: checks 
+*** TURN *** [Js Jh 8c] [2h]
+DREXXXLER joins the table at seat #2 
+inductive: checks 
+sackemup: checks 
+appiacht: bets $0.75
+inductive: folds 
+sackemup: folds 
+Uncalled bet ($0.75) returned to appiacht
+appiacht collected $0.85 from pot
+appiacht: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Js Jh 8c 2h]
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht collected ($0.85)
+Seat 6: onenoc (button) folded before Flop (didn't bet)
+Seat 7: Horstus (small blind) folded before Flop
+Seat 8: inductive (big blind) folded on the Turn
+Seat 9: sackemup folded on the Turn
+
+
+
+PokerStars Game #19839212236:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:54:55 (ET)
+Table 'Pictor II' 9-max Seat #7 is the button
+Seat 2: DREXXXLER ($5 in chips) 
+Seat 3: timleery ($23.55 in chips) 
+Seat 4: Alameda22 ($48 in chips) 
+Seat 5: appiacht ($12.70 in chips) 
+Seat 6: onenoc ($23.65 in chips) 
+Seat 7: Horstus ($26.75 in chips) 
+Seat 8: inductive ($26.75 in chips) 
+Seat 9: sackemup ($27 in chips) 
+inductive: posts small blind $0.10
+sackemup: posts big blind $0.25
+DREXXXLER: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 5c]
+DREXXXLER: checks 
+timleery: folds 
+Alameda22: folds 
+appiacht: folds 
+onenoc: folds 
+Horstus: folds 
+inductive: folds 
+sackemup: checks 
+*** FLOP *** [Kc 6s 3c]
+sackemup: checks 
+DREXXXLER: checks 
+*** TURN *** [Kc 6s 3c] [4s]
+sackemup: bets $0.75
+DREXXXLER: folds 
+Uncalled bet ($0.75) returned to sackemup
+sackemup collected $0.60 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kc 6s 3c 4s]
+Seat 2: DREXXXLER folded on the Turn
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht folded before Flop (didn't bet)
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Horstus (button) folded before Flop (didn't bet)
+Seat 8: inductive (small blind) folded before Flop
+Seat 9: sackemup (big blind) collected ($0.60)
+
+
+
+PokerStars Game #19839236429:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:55:57 (ET)
+Table 'Pictor II' 9-max Seat #8 is the button
+Seat 2: DREXXXLER ($4.75 in chips) 
+Seat 3: timleery ($23.55 in chips) 
+Seat 4: Alameda22 ($48 in chips) 
+Seat 5: appiacht ($12.70 in chips) 
+Seat 6: onenoc ($23.65 in chips) 
+Seat 7: Horstus ($26.75 in chips) 
+Seat 8: inductive ($26.65 in chips) 
+Seat 9: sackemup ($27.35 in chips) 
+sackemup: posts small blind $0.10
+DREXXXLER: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 3c]
+timleery: raises $0.50 to $0.75
+Alameda22: folds 
+appiacht: folds 
+onenoc: folds 
+Horstus: folds 
+inductive: folds 
+sackemup: folds 
+DREXXXLER: folds 
+Uncalled bet ($0.50) returned to timleery
+timleery collected $0.60 from pot
+timleery: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: DREXXXLER (big blind) folded before Flop
+Seat 3: timleery collected ($0.60)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht folded before Flop (didn't bet)
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive (button) folded before Flop (didn't bet)
+Seat 9: sackemup (small blind) folded before Flop
+
+
+
+PokerStars Game #19839254175:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:56:42 (ET)
+Table 'Pictor II' 9-max Seat #9 is the button
+Seat 2: DREXXXLER ($4.50 in chips) 
+Seat 3: timleery ($23.90 in chips) 
+Seat 4: Alameda22 ($48 in chips) 
+Seat 5: appiacht ($12.70 in chips) 
+Seat 6: onenoc ($23.65 in chips) 
+Seat 7: Horstus ($26.75 in chips) 
+Seat 8: inductive ($26.65 in chips) 
+Seat 9: sackemup ($27.25 in chips) 
+DREXXXLER: posts small blind $0.10
+timleery: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 2h]
+Alameda22: folds 
+appiacht: folds 
+onenoc: folds 
+Horstus: folds 
+inductive: raises $0.75 to $1
+sackemup: folds 
+DREXXXLER: folds 
+timleery: folds 
+Uncalled bet ($0.75) returned to inductive
+inductive collected $0.60 from pot
+inductive: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: DREXXXLER (small blind) folded before Flop
+Seat 3: timleery (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht folded before Flop (didn't bet)
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive collected ($0.60)
+Seat 9: sackemup (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19839270582:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:57:23 (ET)
+Table 'Pictor II' 9-max Seat #2 is the button
+Seat 2: DREXXXLER ($4.40 in chips) 
+Seat 3: timleery ($23.65 in chips) 
+Seat 4: Alameda22 ($48 in chips) 
+Seat 5: appiacht ($12.70 in chips) 
+Seat 6: onenoc ($23.65 in chips) 
+Seat 7: Horstus ($26.75 in chips) 
+Seat 8: inductive ($27 in chips) 
+Seat 9: sackemup ($27.25 in chips) 
+timleery: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Tc]
+appiacht: calls $0.25
+onenoc: folds 
+Horstus: folds 
+inductive: folds 
+sackemup: calls $0.25
+DREXXXLER: calls $0.25
+timleery: folds 
+Alameda22: checks 
+*** FLOP *** [7s Ts 8h]
+Alameda22: bets $0.75
+appiacht: calls $0.75
+sackemup: calls $0.75
+DREXXXLER: calls $0.75
+*** TURN *** [7s Ts 8h] [4d]
+Alameda22: checks 
+appiacht: checks 
+sackemup: bets $1.50
+DREXXXLER: calls $1.50
+Alameda22: folds 
+appiacht: calls $1.50
+*** RIVER *** [7s Ts 8h 4d] [Ks]
+appiacht: bets $10.20 and is all-in
+sackemup: calls $10.20
+DREXXXLER: folds 
+*** SHOW DOWN ***
+appiacht: shows [3s As] (a flush, Ace high)
+sackemup: mucks hand 
+appiacht collected $27.60 from pot
+*** SUMMARY ***
+Total pot $29 | Rake $1.40 
+Board [7s Ts 8h 4d Ks]
+Seat 2: DREXXXLER (button) folded on the River
+Seat 3: timleery (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded on the Turn
+Seat 5: appiacht showed [3s As] and won ($27.60) with a flush, Ace high
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup mucked [Js 9s]
+
+
+
+PokerStars Game #19839321546:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 14:59:33 (ET)
+Table 'Pictor II' 9-max Seat #3 is the button
+Seat 2: DREXXXLER ($1.90 in chips) 
+Seat 3: timleery ($23.55 in chips) 
+Seat 4: Alameda22 ($47 in chips) 
+Seat 5: appiacht ($27.60 in chips) 
+Seat 6: onenoc ($23.65 in chips) 
+Seat 7: Horstus ($26.75 in chips) 
+Seat 8: inductive ($27 in chips) 
+Seat 9: sackemup ($14.55 in chips) 
+Alameda22: posts small blind $0.10
+appiacht: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Jc]
+onenoc: folds 
+Horstus: folds 
+inductive: folds 
+sackemup: folds 
+DREXXXLER: folds 
+timleery: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to appiacht
+appiacht collected $0.20 from pot
+appiacht: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: DREXXXLER folded before Flop (didn't bet)
+Seat 3: timleery (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: appiacht (big blind) collected ($0.20)
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19839336401:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:00:08 (ET)
+Table 'Pictor II' 9-max Seat #4 is the button
+Seat 2: DREXXXLER ($1.90 in chips) 
+Seat 3: timleery ($23.55 in chips) 
+Seat 4: Alameda22 ($46.90 in chips) 
+Seat 5: appiacht ($27.70 in chips) 
+Seat 6: onenoc ($23.65 in chips) 
+Seat 7: Horstus ($26.75 in chips) 
+Seat 8: inductive ($27 in chips) 
+Seat 9: sackemup ($14.55 in chips) 
+appiacht: posts small blind $0.10
+onenoc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 4d]
+Horstus: raises $0.75 to $1
+inductive: folds 
+sackemup: folds 
+DREXXXLER: folds 
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $0.90
+onenoc: folds 
+*** FLOP *** [7c 9s Js]
+appiacht: checks 
+Horstus: bets $2
+appiacht: folds 
+Uncalled bet ($2) returned to Horstus
+Horstus collected $2.15 from pot
+Horstus: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [7c 9s Js]
+Seat 2: DREXXXLER folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: appiacht (small blind) folded on the Flop
+Seat 6: onenoc (big blind) folded before Flop
+Seat 7: Horstus collected ($2.15)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19839359689:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:01:05 (ET)
+Table 'Pictor II' 9-max Seat #5 is the button
+Seat 2: DREXXXLER ($1.90 in chips) 
+Seat 3: timleery ($23.55 in chips) 
+Seat 4: Alameda22 ($46.90 in chips) 
+Seat 5: appiacht ($26.70 in chips) 
+Seat 6: onenoc ($23.40 in chips) 
+Seat 7: Horstus ($27.90 in chips) 
+Seat 8: inductive ($27 in chips) 
+Seat 9: sackemup ($14.55 in chips) 
+onenoc: posts small blind $0.10
+Horstus: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 2h]
+inductive: folds 
+sackemup: folds 
+DREXXXLER: calls $0.25
+timleery: folds 
+Alameda22: folds 
+appiacht: folds 
+onenoc: folds 
+Horstus: checks 
+*** FLOP *** [Js 7c 6d]
+Horstus: checks 
+Roberto joins the table at seat #1 
+DREXXXLER: checks 
+*** TURN *** [Js 7c 6d] [3c]
+Horstus: bets $0.50
+DREXXXLER: raises $0.50 to $1
+Horstus: calls $0.50
+*** RIVER *** [Js 7c 6d 3c] [Qs]
+Horstus: bets $0.75
+DREXXXLER: calls $0.65 and is all-in
+Uncalled bet ($0.10) returned to Horstus
+*** SHOW DOWN ***
+Horstus: shows [6c 3s] (two pair, Sixes and Threes)
+DREXXXLER: mucks hand 
+Horstus collected $3.75 from pot
+DREXXXLER leaves the table
+*** SUMMARY ***
+Total pot $3.90 | Rake $0.15 
+Board [Js 7c 6d 3c Qs]
+Seat 2: DREXXXLER mucked [9d Jd]
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht (button) folded before Flop (didn't bet)
+Seat 6: onenoc (small blind) folded before Flop
+Seat 7: Horstus (big blind) showed [6c 3s] and won ($3.75) with two pair, Sixes and Threes
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19839384819:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:02:06 (ET)
+Table 'Pictor II' 9-max Seat #6 is the button
+Seat 1: Roberto ($5 in chips) 
+Seat 3: timleery ($23.55 in chips) 
+Seat 4: Alameda22 ($46.90 in chips) 
+Seat 5: appiacht ($26.70 in chips) 
+Seat 6: onenoc ($25 in chips) 
+Seat 7: Horstus ($29.75 in chips) 
+Seat 8: inductive ($27 in chips) 
+Seat 9: sackemup ($14.55 in chips) 
+Horstus: posts small blind $0.10
+inductive: posts big blind $0.25
+Roberto: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 9c]
+sackemup: folds 
+Roberto: raises $0.50 to $0.75
+timleery: folds 
+928racer joins the table at seat #2 
+Alameda22: folds 
+appiacht: calls $0.75
+onenoc: folds 
+Horstus: folds 
+inductive: folds 
+*** FLOP *** [Kh Ts 7s]
+Roberto: bets $1
+appiacht: calls $1
+*** TURN *** [Kh Ts 7s] [Jc]
+Roberto: bets $1
+appiacht: calls $1
+*** RIVER *** [Kh Ts 7s Jc] [Ac]
+Roberto: bets $2.25 and is all-in
+appiacht: calls $2.25
+*** SHOW DOWN ***
+Roberto: shows [Qd 7d] (a straight, Ten to Ace)
+appiacht: mucks hand 
+Roberto collected $9.85 from pot
+*** SUMMARY ***
+Total pot $10.35 | Rake $0.50 
+Board [Kh Ts 7s Jc Ac]
+Seat 1: Roberto showed [Qd 7d] and won ($9.85) with a straight, Ten to Ace
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht mucked [4s Js]
+Seat 6: onenoc (button) folded before Flop (didn't bet)
+Seat 7: Horstus (small blind) folded before Flop
+Seat 8: inductive (big blind) folded before Flop
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19839413282:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:03:14 (ET)
+Table 'Pictor II' 9-max Seat #7 is the button
+Seat 1: Roberto ($9.85 in chips) 
+Seat 3: timleery ($23.55 in chips) 
+Seat 4: Alameda22 ($46.90 in chips) 
+Seat 5: appiacht ($21.70 in chips) 
+Seat 6: onenoc ($25 in chips) 
+Seat 7: Horstus ($29.65 in chips) 
+Seat 8: inductive ($26.75 in chips) 
+Seat 9: sackemup ($14.55 in chips) 
+inductive: posts small blind $0.10
+sackemup: posts big blind $0.25
+928racer: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 5c]
+Roberto: calls $0.25
+timleery: folds 
+Alameda22: folds 
+appiacht: calls $0.25
+onenoc: folds 
+Horstus: folds 
+inductive: raises $1.25 to $1.50
+sackemup: calls $1.25
+Roberto: folds 
+appiacht: calls $1.25
+*** FLOP *** [As 7c Td]
+inductive: bets $3.40
+sackemup: calls $3.40
+appiacht: calls $3.40
+*** TURN *** [As 7c Td] [5d]
+inductive: checks 
+sackemup: bets $9.65 and is all-in
+appiacht: folds 
+appiacht leaves the table
+inductive: folds 
+Uncalled bet ($9.65) returned to sackemup
+sackemup collected $14.25 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.95 | Rake $0.70 
+Board [As 7c Td 5d]
+Seat 1: Roberto folded before Flop
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: appiacht folded on the Turn
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Horstus (button) folded before Flop (didn't bet)
+Seat 8: inductive (small blind) folded on the Turn
+Seat 9: sackemup (big blind) collected ($14.25)
+
+
+
+PokerStars Game #19839448090:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:04:37 (ET)
+Table 'Pictor II' 9-max Seat #8 is the button
+Seat 1: Roberto ($9.60 in chips) 
+Seat 3: timleery ($23.55 in chips) 
+Seat 4: Alameda22 ($46.90 in chips) 
+Seat 6: onenoc ($25 in chips) 
+Seat 7: Horstus ($29.65 in chips) 
+Seat 8: inductive ($21.85 in chips) 
+Seat 9: sackemup ($23.90 in chips) 
+sackemup: posts small blind $0.10
+Roberto: posts big blind $0.25
+928racer: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 8s]
+timleery: folds 
+Alameda22: folds 
+onenoc: folds 
+Horstus: raises $0.75 to $1
+inductive: folds 
+sackemup: folds 
+Roberto: calls $0.75
+*** FLOP *** [9c 3d Ad]
+Roberto: checks 
+Horstus: bets $1
+Roberto: calls $1
+*** TURN *** [9c 3d Ad] [4h]
+Roberto: checks 
+Horstus: checks 
+*** RIVER *** [9c 3d Ad 4h] [6s]
+yjqian23 joins the table at seat #5 
+Roberto: bets $2.50
+Horstus: folds 
+Uncalled bet ($2.50) returned to Roberto
+Roberto collected $3.90 from pot
+Roberto: doesn't show hand 
+onenoc leaves the table
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [9c 3d Ad 4h 6s]
+Seat 1: Roberto (big blind) collected ($3.90)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: onenoc folded before Flop (didn't bet)
+Seat 7: Horstus folded on the River
+Seat 8: inductive (button) folded before Flop (didn't bet)
+Seat 9: sackemup (small blind) folded before Flop
+
+
+
+PokerStars Game #19839472868:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:05:37 (ET)
+Table 'Pictor II' 9-max Seat #9 is the button
+Seat 1: Roberto ($11.50 in chips) 
+Seat 2: 928racer ($25 in chips) 
+Seat 3: timleery ($23.55 in chips) 
+Seat 4: Alameda22 ($46.90 in chips) 
+Seat 7: Horstus ($27.65 in chips) 
+Seat 8: inductive ($21.85 in chips) 
+Seat 9: sackemup ($23.80 in chips) 
+Roberto: posts small blind $0.10
+928racer: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 3c]
+theSimonl joins the table at seat #6 
+timleery: folds 
+Alameda22: folds 
+Horstus: raises $0.75 to $1
+inductive: folds 
+sackemup: folds 
+Roberto: folds 
+928racer: folds 
+Uncalled bet ($0.75) returned to Horstus
+Horstus collected $0.60 from pot
+Horstus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Roberto (small blind) folded before Flop
+Seat 2: 928racer (big blind) folded before Flop
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 7: Horstus collected ($0.60)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19839497980:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:06:39 (ET)
+Table 'Pictor II' 9-max Seat #1 is the button
+Seat 1: Roberto ($11.40 in chips) 
+Seat 2: 928racer ($24.75 in chips) 
+Seat 3: timleery ($23.55 in chips) 
+Seat 4: Alameda22 ($46.90 in chips) 
+Seat 6: theSimonl ($5 in chips) 
+Seat 7: Horstus ($28 in chips) 
+Seat 8: inductive ($25 in chips) 
+Seat 9: sackemup ($23.80 in chips) 
+928racer: posts small blind $0.10
+timleery: posts big blind $0.25
+yjqian23: sits out 
+theSimonl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 7d]
+Alameda22: folds 
+theSimonl: checks 
+Horstus: folds 
+inductive: folds 
+sackemup: folds 
+Roberto: raises $0.50 to $0.75
+928racer: folds 
+timleery: folds 
+theSimonl: folds 
+Uncalled bet ($0.50) returned to Roberto
+Roberto collected $0.85 from pot
+Roberto: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Roberto (button) collected ($0.85)
+Seat 2: 928racer (small blind) folded before Flop
+Seat 3: timleery (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: theSimonl folded before Flop
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19839517307:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:07:25 (ET)
+Table 'Pictor II' 9-max Seat #2 is the button
+Seat 1: Roberto ($12 in chips) 
+Seat 2: 928racer ($24.65 in chips) 
+Seat 3: timleery ($23.30 in chips) 
+Seat 4: Alameda22 ($46.90 in chips) 
+Seat 6: theSimonl ($4.75 in chips) 
+Seat 7: Horstus ($28 in chips) 
+Seat 8: inductive ($25 in chips) 
+Seat 9: sackemup ($23.80 in chips) 
+timleery: posts small blind $0.10
+Alameda22: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 7d]
+theSimonl: folds 
+Horstus: folds 
+inductive: folds 
+sackemup: raises $0.50 to $0.75
+Roberto: calls $0.75
+928racer: calls $0.75
+timleery: folds 
+Alameda22: folds 
+*** FLOP *** [6s Ts Jc]
+sackemup: bets $1.25
+Roberto: folds 
+928racer: folds 
+Uncalled bet ($1.25) returned to sackemup
+sackemup collected $2.50 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [6s Ts Jc]
+Seat 1: Roberto folded on the Flop
+Seat 2: 928racer (button) folded on the Flop
+Seat 3: timleery (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 6: theSimonl folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup collected ($2.50)
+
+
+
+PokerStars Game #19839548096:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:08:40 (ET)
+Table 'Pictor II' 9-max Seat #3 is the button
+Seat 1: Roberto ($11.25 in chips) 
+Seat 2: 928racer ($23.90 in chips) 
+Seat 3: timleery ($23.20 in chips) 
+Seat 4: Alameda22 ($46.65 in chips) 
+Seat 5: yjqian23 ($25 in chips) 
+Seat 6: theSimonl ($4.75 in chips) 
+Seat 7: Horstus ($28 in chips) 
+Seat 8: inductive ($25 in chips) 
+Seat 9: sackemup ($25.55 in chips) 
+Alameda22: posts small blind $0.10
+yjqian23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 8c]
+theSimonl: calls $0.25
+Horstus: folds 
+inductive: folds 
+sackemup: calls $0.25
+Roberto: folds 
+928racer: folds 
+timleery: folds 
+Alameda22: calls $0.15
+yjqian23: checks 
+*** FLOP *** [Ah 3h 4d]
+Alameda22: checks 
+yjqian23: checks 
+theSimonl: checks 
+sackemup: bets $0.75
+Alameda22: folds 
+yjqian23: folds 
+theSimonl: calls $0.75
+*** TURN *** [Ah 3h 4d] [8s]
+theSimonl: checks 
+sackemup: bets $1.25
+theSimonl: folds 
+Uncalled bet ($1.25) returned to sackemup
+sackemup collected $2.40 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Ah 3h 4d 8s]
+Seat 1: Roberto folded before Flop (didn't bet)
+Seat 2: 928racer folded before Flop (didn't bet)
+Seat 3: timleery (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded on the Flop
+Seat 5: yjqian23 (big blind) folded on the Flop
+Seat 6: theSimonl folded on the Turn
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup collected ($2.40)
+
+
+
+PokerStars Game #19839595012:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:10:31 (ET)
+Table 'Pictor II' 9-max Seat #4 is the button
+Seat 1: Roberto ($11.25 in chips) 
+Seat 2: 928racer ($23.90 in chips) 
+Seat 3: timleery ($23.20 in chips) 
+Seat 4: Alameda22 ($46.40 in chips) 
+Seat 5: yjqian23 ($24.75 in chips) 
+Seat 6: theSimonl ($3.75 in chips) 
+Seat 7: Horstus ($28 in chips) 
+Seat 8: inductive ($25 in chips) 
+Seat 9: sackemup ($26.95 in chips) 
+yjqian23: posts small blind $0.10
+theSimonl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 3s]
+Horstus: folds 
+inductive: folds 
+sackemup: folds 
+Roberto: folds 
+928racer: folds 
+timleery: folds 
+Alameda22: folds 
+yjqian23: folds 
+Uncalled bet ($0.15) returned to theSimonl
+theSimonl collected $0.20 from pot
+theSimonl: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Roberto folded before Flop (didn't bet)
+Seat 2: 928racer folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: yjqian23 (small blind) folded before Flop
+Seat 6: theSimonl (big blind) collected ($0.20)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19839611282:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:11:10 (ET)
+Table 'Pictor II' 9-max Seat #5 is the button
+Seat 1: Roberto ($11.25 in chips) 
+Seat 2: 928racer ($23.90 in chips) 
+Seat 3: timleery ($23.20 in chips) 
+Seat 4: Alameda22 ($46.40 in chips) 
+Seat 5: yjqian23 ($24.65 in chips) 
+Seat 6: theSimonl ($3.85 in chips) 
+Seat 7: Horstus ($28 in chips) 
+Seat 8: inductive ($25 in chips) 
+Seat 9: sackemup ($26.95 in chips) 
+theSimonl: posts small blind $0.10
+Horstus: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Ks]
+inductive: folds 
+sackemup: folds 
+Roberto: calls $0.25
+928racer: folds 
+timleery: folds 
+Alameda22: folds 
+yjqian23: folds 
+theSimonl: folds 
+Horstus: checks 
+*** FLOP *** [7s 4c 5h]
+theSimonl leaves the table
+Horstus: checks 
+Roberto: bets $1
+11pokeras11 joins the table at seat #6 
+Horstus: folds 
+Uncalled bet ($1) returned to Roberto
+Roberto collected $0.60 from pot
+Roberto: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7s 4c 5h]
+Seat 1: Roberto collected ($0.60)
+Seat 2: 928racer folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: yjqian23 (button) folded before Flop (didn't bet)
+Seat 6: theSimonl (small blind) folded before Flop
+Seat 7: Horstus (big blind) folded on the Flop
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19839635864:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:12:08 (ET)
+Table 'Pictor II' 9-max Seat #7 is the button
+Seat 1: Roberto ($11.60 in chips) 
+Seat 2: 928racer ($23.90 in chips) 
+Seat 3: timleery ($23.20 in chips) 
+Seat 4: Alameda22 ($46.40 in chips) 
+Seat 5: yjqian23 ($24.65 in chips) 
+Seat 7: Horstus ($27.75 in chips) 
+Seat 8: inductive ($25 in chips) 
+Seat 9: sackemup ($26.95 in chips) 
+inductive: posts small blind $0.10
+sackemup: posts big blind $0.25
+11pokeras11: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 4h]
+Roberto: folds 
+928racer: folds 
+timleery: folds 
+Alameda22: folds 
+yjqian23: folds 
+Horstus: folds 
+inductive: folds 
+Uncalled bet ($0.15) returned to sackemup
+sackemup collected $0.20 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Roberto folded before Flop (didn't bet)
+Seat 2: 928racer folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: yjqian23 folded before Flop (didn't bet)
+Seat 7: Horstus (button) folded before Flop (didn't bet)
+Seat 8: inductive (small blind) folded before Flop
+Seat 9: sackemup (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19839655491:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:12:55 (ET)
+Table 'Pictor II' 9-max Seat #8 is the button
+Seat 1: Roberto ($11.60 in chips) 
+Seat 2: 928racer ($23.90 in chips) 
+Seat 3: timleery ($23.20 in chips) 
+Seat 4: Alameda22 ($46.40 in chips) 
+Seat 5: yjqian23 ($24.65 in chips) 
+Seat 7: Horstus ($27.75 in chips) 
+Seat 8: inductive ($24.90 in chips) 
+Seat 9: sackemup ($27.05 in chips) 
+sackemup: posts small blind $0.10
+Roberto: posts big blind $0.25
+11pokeras11: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Kd]
+928racer: folds 
+timleery: folds 
+Alameda22: raises $0.50 to $0.75
+yjqian23: folds 
+Horstus: folds 
+inductive: folds 
+sackemup: calls $0.65
+Roberto: calls $0.50
+*** FLOP *** [Th Kc 9h]
+sackemup: checks 
+Roberto: checks 
+Alameda22: bets $1.50
+sackemup: calls $1.50
+Roberto: folds 
+*** TURN *** [Th Kc 9h] [6h]
+sackemup: checks 
+Alameda22: bets $3.50
+sackemup: calls $3.50
+*** RIVER *** [Th Kc 9h 6h] [Js]
+sackemup: bets $3.50
+Alameda22: calls $3.50
+*** SHOW DOWN ***
+sackemup: shows [Qd Ah] (a straight, Ten to Ace)
+Alameda22: mucks hand 
+sackemup collected $18.35 from pot
+*** SUMMARY ***
+Total pot $19.25 | Rake $0.90 
+Board [Th Kc 9h 6h Js]
+Seat 1: Roberto (big blind) folded on the Flop
+Seat 2: 928racer folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 mucked [Ad Kd]
+Seat 5: yjqian23 folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive (button) folded before Flop (didn't bet)
+Seat 9: sackemup (small blind) showed [Qd Ah] and won ($18.35) with a straight, Ten to Ace
+
+
+
+PokerStars Game #19839710552:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:15:05 (ET)
+Table 'Pictor II' 9-max Seat #9 is the button
+Seat 1: Roberto ($10.85 in chips) 
+Seat 3: timleery ($23.20 in chips) 
+Seat 4: Alameda22 ($37.15 in chips) 
+Seat 5: yjqian23 ($24.65 in chips) 
+Seat 7: Horstus ($27.75 in chips) 
+Seat 8: inductive ($24.90 in chips) 
+Seat 9: sackemup ($36.15 in chips) 
+Roberto: posts small blind $0.10
+928racer: is sitting out 
+timleery: posts big blind $0.25
+11pokeras11: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 6c]
+Alameda22: folds 
+yjqian23: calls $0.25
+Horstus: folds 
+inductive: folds 
+sackemup: calls $0.25
+Roberto: folds 
+timleery: checks 
+*** FLOP *** [Jc Qc Jh]
+timleery: checks 
+yjqian23: bets $0.25
+sackemup: calls $0.25
+timleery: folds 
+*** TURN *** [Jc Qc Jh] [3c]
+yjqian23: checks 
+sackemup: bets $1.25
+yjqian23: calls $1.25
+*** RIVER *** [Jc Qc Jh 3c] [5h]
+yjqian23: checks 
+sackemup: checks 
+*** SHOW DOWN ***
+yjqian23: shows [Kc Ac] (a flush, Ace high)
+sackemup: mucks hand 
+yjqian23 collected $3.70 from pot
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [Jc Qc Jh 3c 5h]
+Seat 1: Roberto (small blind) folded before Flop
+Seat 3: timleery (big blind) folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: yjqian23 showed [Kc Ac] and won ($3.70) with a flush, Ace high
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup (button) mucked [7c 7d]
+
+
+
+PokerStars Game #19839752028:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:16:43 (ET)
+Table 'Pictor II' 9-max Seat #1 is the button
+Seat 1: Roberto ($10.75 in chips) 
+Seat 3: timleery ($22.95 in chips) 
+Seat 4: Alameda22 ($37.15 in chips) 
+Seat 5: yjqian23 ($26.60 in chips) 
+Seat 7: Horstus ($27.75 in chips) 
+Seat 8: inductive ($25 in chips) 
+Seat 9: sackemup ($34.40 in chips) 
+timleery: posts small blind $0.10
+Alameda22: posts big blind $0.25
+11pokeras11: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Tc]
+yjqian23: folds 
+Horstus: folds 
+inductive: folds 
+sackemup: folds 
+Roberto: folds 
+timleery: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Roberto (button) folded before Flop (didn't bet)
+Seat 3: timleery (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) collected ($0.20)
+Seat 5: yjqian23 folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19839761263:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:17:04 (ET)
+Table 'Pictor II' 9-max Seat #3 is the button
+Seat 1: Roberto ($10.75 in chips) 
+Seat 3: timleery ($22.85 in chips) 
+Seat 4: Alameda22 ($37.25 in chips) 
+Seat 6: 11pokeras11 ($25 in chips) 
+Seat 7: Horstus ($27.75 in chips) 
+Seat 8: inductive ($25 in chips) 
+Seat 9: sackemup ($34.40 in chips) 
+Alameda22: posts small blind $0.10
+yjqian23: is sitting out 
+yjqian23 leaves the table
+11pokeras11: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 4h]
+Horstus: folds 
+inductive: folds 
+sackemup: folds 
+inductive leaves the table
+Roberto: raises $0.25 to $0.50
+timleery: folds 
+Alameda22: folds 
+11pokeras11: folds 
+Uncalled bet ($0.25) returned to Roberto
+Roberto collected $0.60 from pot
+Roberto: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Roberto collected ($0.60)
+Seat 3: timleery (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 6: 11pokeras11 (big blind) folded before Flop
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: inductive folded before Flop (didn't bet)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19839782078:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:17:53 (ET)
+Table 'Pictor II' 9-max Seat #4 is the button
+Seat 1: Roberto ($11.10 in chips) 
+Seat 3: timleery ($22.85 in chips) 
+Seat 4: Alameda22 ($37.15 in chips) 
+Seat 6: 11pokeras11 ($24.75 in chips) 
+Seat 7: Horstus ($27.75 in chips) 
+Seat 9: sackemup ($34.40 in chips) 
+11pokeras11: posts small blind $0.10
+Horstus: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 7h]
+sackemup: calls $0.25
+Roberto: raises $0.50 to $0.75
+timleery: calls $0.75
+Alameda22: folds 
+11pokeras11: folds 
+Horstus: calls $0.50
+sackemup: calls $0.50
+*** FLOP *** [5c 6d 3d]
+Horstus: checks 
+sackemup: checks 
+Roberto: bets $0.75
+timleery: calls $0.75
+Horstus: raises $3.25 to $4
+sackemup: folds 
+Roberto: calls $3.25
+timleery: folds 
+*** TURN *** [5c 6d 3d] [6s]
+Horstus: bets $6.50
+Roberto: calls $6.35 and is all-in
+Uncalled bet ($0.15) returned to Horstus
+*** RIVER *** [5c 6d 3d 6s] [2s]
+WildChief joins the table at seat #5 
+*** SHOW DOWN ***
+Horstus: shows [5d 5h] (a full house, Fives full of Sixes)
+Roberto: mucks hand 
+Horstus collected $23.35 from pot
+Roberto leaves the table
+*** SUMMARY ***
+Total pot $24.55 | Rake $1.20 
+Board [5c 6d 3d 6s 2s]
+Seat 1: Roberto mucked [9h 9d]
+Seat 3: timleery folded on the Flop
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: 11pokeras11 (small blind) folded before Flop
+Seat 7: Horstus (big blind) showed [5d 5h] and won ($23.35) with a full house, Fives full of Sixes
+Seat 9: sackemup folded on the Flop
+
+
+
+PokerStars Game #19839820605:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:19:25 (ET)
+Table 'Pictor II' 9-max Seat #6 is the button
+Seat 3: timleery ($21.35 in chips) 
+Seat 4: Alameda22 ($37.15 in chips) 
+Seat 5: WildChief ($15 in chips) 
+Seat 6: 11pokeras11 ($24.65 in chips) 
+Seat 7: Horstus ($40 in chips) 
+Seat 9: sackemup ($33.65 in chips) 
+Horstus: posts small blind $0.10
+sackemup: posts big blind $0.25
+WildChief: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 9h]
+timleery: raises $0.50 to $0.75
+Alameda22: folds 
+WildChief: folds 
+11pokeras11: folds 
+Horstus: folds 
+sackemup: folds 
+Uncalled bet ($0.50) returned to timleery
+timleery collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 3: timleery collected ($0.85)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: WildChief folded before Flop
+Seat 6: 11pokeras11 (button) folded before Flop (didn't bet)
+Seat 7: Horstus (small blind) folded before Flop
+Seat 9: sackemup (big blind) folded before Flop
+
+
+
+PokerStars Game #19839844352:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:20:22 (ET)
+Table 'Pictor II' 9-max Seat #7 is the button
+Seat 3: timleery ($21.95 in chips) 
+Seat 4: Alameda22 ($37.15 in chips) 
+Seat 5: WildChief ($14.75 in chips) 
+Seat 6: 11pokeras11 ($24.65 in chips) 
+Seat 7: Horstus ($39.90 in chips) 
+Seat 9: sackemup ($33.40 in chips) 
+sackemup: posts small blind $0.10
+timleery: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 5h]
+Alameda22: folds 
+WildChief: folds 
+11pokeras11: folds 
+Horstus: folds 
+sackemup: calls $0.15
+timleery: checks 
+*** FLOP *** [Kh Qs 6d]
+sackemup: checks 
+timleery: checks 
+*** TURN *** [Kh Qs 6d] [7s]
+sackemup: bets $0.75
+timleery: folds 
+Uncalled bet ($0.75) returned to sackemup
+sackemup collected $0.50 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Kh Qs 6d 7s]
+Seat 3: timleery (big blind) folded on the Turn
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: WildChief folded before Flop (didn't bet)
+Seat 6: 11pokeras11 folded before Flop (didn't bet)
+Seat 7: Horstus (button) folded before Flop (didn't bet)
+Seat 9: sackemup (small blind) collected ($0.50)
+
+
+
+PokerStars Game #19839862829:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:21:06 (ET)
+Table 'Pictor II' 9-max Seat #9 is the button
+Seat 3: timleery ($21.70 in chips) 
+Seat 4: Alameda22 ($37.15 in chips) 
+Seat 5: WildChief ($14.75 in chips) 
+Seat 6: 11pokeras11 ($24.65 in chips) 
+Seat 7: Horstus ($39.90 in chips) 
+Seat 9: sackemup ($33.65 in chips) 
+timleery: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 3s]
+MUSTEF joins the table at seat #8 
+WildChief: folds 
+11pokeras11: folds 
+Horstus: folds 
+sackemup: calls $0.25
+timleery: folds 
+Alameda22: checks 
+*** FLOP *** [8s 9d 6s]
+Alameda22: checks 
+sackemup: bets $0.75
+Alameda22: folds 
+Uncalled bet ($0.75) returned to sackemup
+sackemup collected $0.60 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8s 9d 6s]
+Seat 3: timleery (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 5: WildChief folded before Flop (didn't bet)
+Seat 6: 11pokeras11 folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 9: sackemup (button) collected ($0.60)
+
+
+
+PokerStars Game #19839890470:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:22:11 (ET)
+Table 'Pictor II' 9-max Seat #3 is the button
+Seat 3: timleery ($21.60 in chips) 
+Seat 4: Alameda22 ($36.90 in chips) 
+Seat 5: WildChief ($14.75 in chips) 
+Seat 6: 11pokeras11 ($24.65 in chips) 
+Seat 7: Horstus ($39.90 in chips) 
+Seat 8: MUSTEF ($5.80 in chips) 
+Seat 9: sackemup ($34 in chips) 
+Alameda22: posts small blind $0.10
+WildChief: posts big blind $0.25
+MUSTEF: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 9d]
+11pokeras11: folds 
+Horstus: folds 
+MUSTEF: checks 
+sackemup: folds 
+timleery: folds 
+11pokeras11 leaves the table
+Alameda22: calls $0.15
+WildChief: checks 
+*** FLOP *** [2h Js Jc]
+Alameda22: checks 
+WildChief: checks 
+len_ko86 joins the table at seat #1 
+MUSTEF: checks 
+*** TURN *** [2h Js Jc] [Kc]
+Alameda22: checks 
+WildChief: bets $1
+MUSTEF: folds 
+Alameda22: folds 
+Uncalled bet ($1) returned to WildChief
+WildChief collected $0.75 from pot
+WildChief: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [2h Js Jc Kc]
+Seat 3: timleery (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded on the Turn
+Seat 5: WildChief (big blind) collected ($0.75)
+Seat 6: 11pokeras11 folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: MUSTEF folded on the Turn
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19839925870:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:23:34 (ET)
+Table 'Pictor II' 9-max Seat #4 is the button
+Seat 1: len_ko86 ($11.25 in chips) 
+Seat 3: timleery ($21.60 in chips) 
+Seat 4: Alameda22 ($36.65 in chips) 
+Seat 5: WildChief ($15.25 in chips) 
+Seat 7: Horstus ($39.90 in chips) 
+Seat 8: MUSTEF ($5.55 in chips) 
+Seat 9: sackemup ($34 in chips) 
+WildChief: posts small blind $0.10
+Horstus: posts big blind $0.25
+len_ko86: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Jd]
+MUSTEF: calls $0.25
+Esabot joins the table at seat #6 
+sackemup: calls $0.25
+len_ko86: checks 
+timleery: folds 
+Alameda22: folds 
+WildChief: raises $0.75 to $1
+Horstus: folds 
+MUSTEF: calls $0.75
+sackemup: calls $0.75
+len_ko86: folds 
+*** FLOP *** [7c 7d 2h]
+WildChief: bets $2
+MUSTEF: folds 
+sackemup: folds 
+Uncalled bet ($2) returned to WildChief
+WildChief collected $3.35 from pot
+WildChief: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [7c 7d 2h]
+Seat 1: len_ko86 folded before Flop
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: WildChief (small blind) collected ($3.35)
+Seat 7: Horstus (big blind) folded before Flop
+Seat 8: MUSTEF folded on the Flop
+Seat 9: sackemup folded on the Flop
+
+
+
+PokerStars Game #19839952708:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:24:37 (ET)
+Table 'Pictor II' 9-max Seat #5 is the button
+Seat 1: len_ko86 ($11 in chips) 
+Seat 3: timleery ($21.60 in chips) 
+Seat 4: Alameda22 ($36.65 in chips) 
+Seat 5: WildChief ($17.60 in chips) 
+Seat 7: Horstus ($39.65 in chips) 
+Seat 8: MUSTEF ($4.55 in chips) 
+Seat 9: sackemup ($33 in chips) 
+Esabot will be allowed to play after the button
+Horstus: posts small blind $0.10
+MUSTEF: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 7d]
+sackemup: folds 
+len_ko86: folds 
+timleery: folds 
+Alameda22: folds 
+WildChief: folds 
+Horstus: raises $0.75 to $1
+MUSTEF: calls $0.75
+*** FLOP *** [8d 9s 8c]
+Horstus: checks 
+MUSTEF: checks 
+*** TURN *** [8d 9s 8c] [4c]
+Horstus: checks 
+MUSTEF: checks 
+*** RIVER *** [8d 9s 8c 4c] [3s]
+Horstus: checks 
+MUSTEF: bets $3.55 and is all-in
+Horstus: folds 
+Uncalled bet ($3.55) returned to MUSTEF
+MUSTEF collected $1.90 from pot
+MUSTEF: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [8d 9s 8c 4c 3s]
+Seat 1: len_ko86 folded before Flop (didn't bet)
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: WildChief (button) folded before Flop (didn't bet)
+Seat 7: Horstus (small blind) folded on the River
+Seat 8: MUSTEF (big blind) collected ($1.90)
+Seat 9: sackemup folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19839993791:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:26:13 (ET)
+Table 'Pictor II' 9-max Seat #7 is the button
+Seat 1: len_ko86 ($11 in chips) 
+Seat 3: timleery ($21.60 in chips) 
+Seat 4: Alameda22 ($36.65 in chips) 
+Seat 5: WildChief ($17.60 in chips) 
+Seat 7: Horstus ($38.65 in chips) 
+Seat 8: MUSTEF ($5.45 in chips) 
+Seat 9: sackemup ($33 in chips) 
+MUSTEF: posts small blind $0.10
+sackemup: posts big blind $0.25
+Esabot: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Tc]
+len_ko86: calls $0.25
+timleery: folds 
+Alameda22: folds 
+WildChief: folds 
+Horstus: folds 
+MUSTEF: calls $0.15
+sackemup: checks 
+*** FLOP *** [Ks 4c 7c]
+MUSTEF: bets $0.25
+sackemup: calls $0.25
+len_ko86: calls $0.25
+*** TURN *** [Ks 4c 7c] [2s]
+MUSTEF: bets $0.25
+sackemup: calls $0.25
+len_ko86: calls $0.25
+*** RIVER *** [Ks 4c 7c 2s] [Kd]
+MUSTEF: bets $0.25
+sackemup: raises $0.75 to $1
+len_ko86: calls $1
+MUSTEF: folds 
+*** SHOW DOWN ***
+sackemup: shows [7s Ac] (two pair, Kings and Sevens)
+len_ko86: shows [8h 8c] (two pair, Kings and Eights)
+len_ko86 collected $4.30 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [Ks 4c 7c 2s Kd]
+Seat 1: len_ko86 showed [8h 8c] and won ($4.30) with two pair, Kings and Eights
+Seat 3: timleery folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: WildChief folded before Flop (didn't bet)
+Seat 7: Horstus (button) folded before Flop (didn't bet)
+Seat 8: MUSTEF (small blind) folded on the River
+Seat 9: sackemup (big blind) showed [7s Ac] and lost with two pair, Kings and Sevens
+
+
+
+PokerStars Game #19840021276:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:27:17 (ET)
+Table 'Pictor II' 9-max Seat #8 is the button
+Seat 1: len_ko86 ($13.55 in chips) 
+Seat 3: timleery ($21.60 in chips) 
+Seat 4: Alameda22 ($36.65 in chips) 
+Seat 5: WildChief ($17.60 in chips) 
+Seat 7: Horstus ($38.65 in chips) 
+Seat 8: MUSTEF ($4.45 in chips) 
+Seat 9: sackemup ($31.25 in chips) 
+sackemup: posts small blind $0.10
+len_ko86: posts big blind $0.25
+Esabot: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 4d]
+timleery: calls $0.25
+Alameda22: folds 
+WildChief: folds 
+Horstus: folds 
+MUSTEF: calls $0.25
+sackemup: raises $0.50 to $0.75
+len_ko86: folds 
+timleery: calls $0.50
+MUSTEF: folds 
+*** FLOP *** [Ks 6c 2d]
+sackemup: bets $1.25
+timleery: folds 
+Uncalled bet ($1.25) returned to sackemup
+sackemup collected $1.90 from pot
+sackemup: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Ks 6c 2d]
+Seat 1: len_ko86 (big blind) folded before Flop
+Seat 3: timleery folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: WildChief folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: MUSTEF (button) folded before Flop
+Seat 9: sackemup (small blind) collected ($1.90)
+
+
+
+PokerStars Game #19840045706:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 15:28:15 (ET)
+Table 'Pictor II' 9-max Seat #9 is the button
+Seat 1: len_ko86 ($13.30 in chips) 
+Seat 3: timleery ($20.85 in chips) 
+Seat 4: Alameda22 ($36.65 in chips) 
+Seat 5: WildChief ($17.60 in chips) 
+Seat 7: Horstus ($38.65 in chips) 
+Seat 8: MUSTEF ($4.20 in chips) 
+Seat 9: sackemup ($32.40 in chips) 
+len_ko86: posts small blind $0.10
+timleery: posts big blind $0.25
+Esabot: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 2c]
+Alameda22: folds 
+WildChief: folds 
+Horstus: folds 
+MUSTEF: raises $0.25 to $0.50
+sackemup: folds 
+len_ko86: calls $0.40
+timleery: folds 
+*** FLOP *** [4d 3d Qd]
+len_ko86: checks 
+MUSTEF: checks 
+*** TURN *** [4d 3d Qd] [7c]
+len_ko86: checks 
+MUSTEF: checks 
+*** RIVER *** [4d 3d Qd 7c] [Qs]
+len_ko86: checks 
+MUSTEF: checks 
+*** SHOW DOWN ***
+len_ko86: shows [Jh 9h] (a pair of Queens)
+MUSTEF: shows [As Th] (a pair of Queens - Ace kicker)
+MUSTEF collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [4d 3d Qd 7c Qs]
+Seat 1: len_ko86 (small blind) showed [Jh 9h] and lost with a pair of Queens
+Seat 3: timleery (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: WildChief folded before Flop (didn't bet)
+Seat 7: Horstus folded before Flop (didn't bet)
+Seat 8: MUSTEF showed [As Th] and won ($1.20) with a pair of Queens
+Seat 9: sackemup (button) folded before Flop (didn't bet)
+
+
+

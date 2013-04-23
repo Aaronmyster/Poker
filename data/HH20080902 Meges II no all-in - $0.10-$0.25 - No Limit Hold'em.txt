@@ -1,0 +1,5324 @@
+PokerStars Game #20099552722:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:01:25 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 1: cequeladu ($16.20 in chips) 
+Seat 2: msna ($25.30 in chips) 
+Seat 3: 42scraggle ($68.15 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Stanusho ($47.10 in chips) 
+Seat 7: daKing74 ($24.30 in chips) 
+Seat 8: Chris_Rdam ($30.05 in chips) 
+Seat 9: skrzypek ($25.10 in chips) 
+Stanusho: posts small blind $0.10
+daKing74: posts big blind $0.25
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 9h]
+Chris_Rdam: folds 
+skrzypek: folds 
+cequeladu: calls $0.25
+msna: folds 
+42scraggle: folds 
+Alameda22: checks 
+GROM95: folds 
+Stanusho: raises $0.75 to $1
+daKing74: folds 
+cequeladu: calls $0.75
+Alameda22: folds 
+*** FLOP *** [4h 7h 6s]
+Stanusho: checks 
+cequeladu: bets $1
+Stanusho: calls $1
+*** TURN *** [4h 7h 6s] [9s]
+Stanusho: checks 
+cequeladu: bets $1
+Stanusho: raises $2 to $3
+cequeladu: calls $2
+*** RIVER *** [4h 7h 6s 9s] [7s]
+Stanusho: checks 
+cequeladu: checks 
+*** SHOW DOWN ***
+Stanusho: shows [Ad 9c] (two pair, Nines and Sevens)
+cequeladu: mucks hand 
+Stanusho collected $10 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.50 
+Board [4h 7h 6s 9s 7s]
+Seat 1: cequeladu mucked [As 8c]
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: 42scraggle folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop
+Seat 5: GROM95 (button) folded before Flop (didn't bet)
+Seat 6: Stanusho (small blind) showed [Ad 9c] and won ($10) with two pair, Nines and Sevens
+Seat 7: daKing74 (big blind) folded before Flop
+Seat 8: Chris_Rdam folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099589015:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:02:59 ET
+Table 'Meges II' 9-max Seat #6 is the button
+Seat 1: cequeladu ($11.20 in chips) 
+Seat 2: msna ($25.30 in chips) 
+Seat 3: 42scraggle ($68.15 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Stanusho ($52.10 in chips) 
+Seat 7: daKing74 ($24.05 in chips) 
+Seat 8: Chris_Rdam ($30.05 in chips) 
+Seat 9: skrzypek ($25.10 in chips) 
+daKing74: posts small blind $0.10
+Chris_Rdam: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 3s]
+skrzypek: folds 
+cequeladu: calls $0.25
+msna: folds 
+42scraggle: raises $1 to $1.25
+Alameda22: folds 
+GROM95: calls $1.25
+Stanusho: folds 
+daKing74: folds 
+Chris_Rdam: folds 
+cequeladu: folds 
+*** FLOP *** [9h Qh Ah]
+42scraggle: bets $2.75
+GROM95: folds 
+Uncalled bet ($2.75) returned to 42scraggle
+42scraggle collected $2.95 from pot
+42scraggle: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [9h Qh Ah]
+Seat 1: cequeladu folded before Flop
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: 42scraggle collected ($2.95)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded on the Flop
+Seat 6: Stanusho (button) folded before Flop (didn't bet)
+Seat 7: daKing74 (small blind) folded before Flop
+Seat 8: Chris_Rdam (big blind) folded before Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099616368:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:04:08 ET
+Table 'Meges II' 9-max Seat #7 is the button
+Seat 1: cequeladu ($10.95 in chips) 
+Seat 2: msna ($25.30 in chips) 
+Seat 3: 42scraggle ($69.85 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: GROM95 ($23.75 in chips) 
+Seat 6: Stanusho ($52.10 in chips) 
+Seat 7: daKing74 ($23.95 in chips) 
+Seat 8: Chris_Rdam ($29.80 in chips) 
+Seat 9: skrzypek ($25.10 in chips) 
+Chris_Rdam: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Th]
+cequeladu: folds 
+msna: folds 
+42scraggle: folds 
+Alameda22: folds 
+GROM95: folds 
+Stanusho: folds 
+daKing74: folds 
+Chris_Rdam: raises $0.50 to $0.75
+skrzypek: folds 
+Uncalled bet ($0.50) returned to Chris_Rdam
+Chris_Rdam collected $0.50 from pot
+Chris_Rdam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cequeladu folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: 42scraggle folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Stanusho folded before Flop (didn't bet)
+Seat 7: daKing74 (button) folded before Flop (didn't bet)
+Seat 8: Chris_Rdam (small blind) collected ($0.50)
+Seat 9: skrzypek (big blind) folded before Flop
+
+
+
+PokerStars Game #20099633225:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:04:50 ET
+Table 'Meges II' 9-max Seat #8 is the button
+Seat 1: cequeladu ($10.95 in chips) 
+Seat 2: msna ($25.30 in chips) 
+Seat 3: 42scraggle ($69.85 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: GROM95 ($23.75 in chips) 
+Seat 6: Stanusho ($52.10 in chips) 
+Seat 7: daKing74 ($23.95 in chips) 
+Seat 8: Chris_Rdam ($30.05 in chips) 
+Seat 9: skrzypek ($24.85 in chips) 
+skrzypek: posts small blind $0.10
+cequeladu: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 8s]
+msna: raises $0.75 to $1
+42scraggle: folds 
+Alameda22: folds 
+GROM95: folds 
+Stanusho: folds 
+daKing74: folds 
+Chris_Rdam: folds 
+skrzypek: folds 
+cequeladu: calls $0.75
+*** FLOP *** [Th 5c 6d]
+cequeladu: checks 
+msna: bets $1.50
+cequeladu: folds 
+Uncalled bet ($1.50) returned to msna
+msna collected $2 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Th 5c 6d]
+Seat 1: cequeladu (big blind) folded on the Flop
+Seat 2: msna collected ($2)
+Seat 3: 42scraggle folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Stanusho folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: Chris_Rdam (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20099656955:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:05:50 ET
+Table 'Meges II' 9-max Seat #9 is the button
+Seat 1: cequeladu ($9.95 in chips) 
+Seat 2: msna ($26.30 in chips) 
+Seat 3: 42scraggle ($69.85 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: GROM95 ($23.75 in chips) 
+Seat 6: Stanusho ($52.10 in chips) 
+Seat 7: daKing74 ($23.95 in chips) 
+Seat 8: Chris_Rdam ($30.05 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+cequeladu: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Kc]
+42scraggle: folds 
+42scraggle is sitting out
+Alameda22: folds 
+GROM95: folds 
+Stanusho: folds 
+daKing74: folds 
+Chris_Rdam: folds 
+skrzypek: folds 
+cequeladu: raises $0.25 to $0.50
+msna: folds 
+Uncalled bet ($0.25) returned to cequeladu
+cequeladu collected $0.50 from pot
+cequeladu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cequeladu (small blind) collected ($0.50)
+Seat 2: msna (big blind) folded before Flop
+Seat 3: 42scraggle folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Stanusho folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: Chris_Rdam folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099673421:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:06:31 ET
+Table 'Meges II' 9-max Seat #1 is the button
+Seat 1: cequeladu ($10.20 in chips) 
+Seat 2: msna ($26.05 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Stanusho ($52.10 in chips) 
+Seat 7: daKing74 ($23.95 in chips) 
+Seat 8: Chris_Rdam ($30.05 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+msna: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 5h]
+GROM95: folds 
+Stanusho: folds 
+daKing74: folds 
+Chris_Rdam: folds 
+skrzypek: calls $0.25
+cequeladu: folds 
+cequeladu leaves the table
+msna: folds 
+gbipka joins the table at seat #1 
+Alameda22: checks 
+*** FLOP *** [6h Qd 4h]
+Alameda22: checks 
+skrzypek: checks 
+*** TURN *** [6h Qd 4h] [Qs]
+Alameda22: checks 
+skrzypek: checks 
+*** RIVER *** [6h Qd 4h Qs] [2s]
+Alameda22: checks 
+skrzypek: checks 
+*** SHOW DOWN ***
+Alameda22: shows [Ac 5h] (a pair of Queens)
+skrzypek: shows [3s 3d] (two pair, Queens and Threes)
+skrzypek collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6h Qd 4h Qs 2s]
+Seat 1: cequeladu (button) folded before Flop (didn't bet)
+Seat 2: msna (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) showed [Ac 5h] and lost with a pair of Queens
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Stanusho folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: Chris_Rdam folded before Flop (didn't bet)
+Seat 9: skrzypek showed [3s 3d] and won ($0.60) with two pair, Queens and Threes
+
+
+
+PokerStars Game #20099698762:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:07:35 ET
+Table 'Meges II' 9-max Seat #2 is the button
+Seat 1: gbipka ($5 in chips) 
+Seat 2: msna ($25.95 in chips) 
+Seat 4: Alameda22 ($24.50 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Stanusho ($52.10 in chips) 
+Seat 7: daKing74 ($23.95 in chips) 
+Seat 8: Chris_Rdam ($30.05 in chips) 
+Seat 9: skrzypek ($25.10 in chips) 
+Alameda22: posts small blind $0.10
+GROM95: posts big blind $0.25
+gbipka: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Qd]
+Stanusho: folds 
+daKing74: folds 
+Chris_Rdam: folds 
+skrzypek: folds 
+gbipka: checks 
+msna: folds 
+Alameda22: folds 
+GROM95: checks 
+*** FLOP *** [7c 6c 9h]
+GROM95: bets $0.75
+gbipka: folds 
+Uncalled bet ($0.75) returned to GROM95
+GROM95 collected $0.60 from pot
+GROM95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7c 6c 9h]
+Seat 1: gbipka folded on the Flop
+Seat 2: msna (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: GROM95 (big blind) collected ($0.60)
+Seat 6: Stanusho folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: Chris_Rdam folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099723696:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:08:37 ET
+Table 'Meges II' 9-max Seat #4 is the button
+Seat 1: gbipka ($4.75 in chips) 
+Seat 2: msna ($25.95 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 6: Stanusho ($52.10 in chips) 
+Seat 7: daKing74 ($23.95 in chips) 
+Seat 8: Chris_Rdam ($30.05 in chips) 
+Seat 9: skrzypek ($25.10 in chips) 
+GROM95: posts small blind $0.10
+Stanusho: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 5d]
+daKing74: folds 
+Chris_Rdam: folds 
+skrzypek: folds 
+gbipka: raises $0.75 to $1
+msna: folds 
+Alameda22: folds 
+GROM95: folds 
+Stanusho: folds 
+Uncalled bet ($0.75) returned to gbipka
+gbipka collected $0.60 from pot
+gbipka: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: gbipka collected ($0.60)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: GROM95 (small blind) folded before Flop
+Seat 6: Stanusho (big blind) folded before Flop
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: Chris_Rdam folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099740191:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:09:19 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 1: gbipka ($5.10 in chips) 
+Seat 2: msna ($25.95 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: GROM95 ($25.25 in chips) 
+Seat 6: Stanusho ($51.85 in chips) 
+Seat 7: daKing74 ($23.95 in chips) 
+Seat 8: Chris_Rdam ($30.05 in chips) 
+Seat 9: skrzypek ($25.10 in chips) 
+Stanusho: posts small blind $0.10
+daKing74: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 5h]
+Chris_Rdam: folds 
+skrzypek: folds 
+gbipka: folds 
+msna: folds 
+Alameda22: folds 
+GROM95: folds 
+Stanusho: folds 
+Uncalled bet ($0.15) returned to daKing74
+daKing74 collected $0.20 from pot
+daKing74: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: gbipka folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 (button) folded before Flop (didn't bet)
+Seat 6: Stanusho (small blind) folded before Flop
+Seat 7: daKing74 (big blind) collected ($0.20)
+Seat 8: Chris_Rdam folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099759724:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:10:08 ET
+Table 'Meges II' 9-max Seat #6 is the button
+Seat 1: gbipka ($5.10 in chips) 
+Seat 2: msna ($25.95 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: GROM95 ($25.25 in chips) 
+Seat 6: Stanusho ($51.75 in chips) 
+Seat 7: daKing74 ($24.05 in chips) 
+Seat 9: skrzypek ($25.10 in chips) 
+daKing74: posts small blind $0.10
+Chris_Rdam: is sitting out 
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 5s]
+Chris_Rdam leaves the table
+gbipka: folds 
+msna: folds 
+billard113 joins the table at seat #8 
+Alameda22: folds 
+GROM95: folds 
+Stanusho: folds 
+daKing74: calls $0.15
+skrzypek: checks 
+*** FLOP *** [3s 2c As]
+daKing74: checks 
+billard113 is disconnected 
+skrzypek: checks 
+*** TURN *** [3s 2c As] [Qs]
+daKing74: checks 
+skrzypek: checks 
+*** RIVER *** [3s 2c As Qs] [Jh]
+daKing74: checks 
+skrzypek: checks 
+*** SHOW DOWN ***
+daKing74: shows [Th Kh] (a straight, Ten to Ace)
+skrzypek: mucks hand 
+daKing74 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [3s 2c As Qs Jh]
+Seat 1: gbipka folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Stanusho (button) folded before Flop (didn't bet)
+Seat 7: daKing74 (small blind) showed [Th Kh] and won ($0.50) with a straight, Ten to Ace
+Seat 9: skrzypek (big blind) mucked [4h 6h]
+
+
+
+PokerStars Game #20099805788:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:12:06 ET
+Table 'Meges II' 9-max Seat #7 is the button
+Seat 1: gbipka ($5.10 in chips) 
+Seat 2: msna ($25.95 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: GROM95 ($25.25 in chips) 
+Seat 6: Stanusho ($51.75 in chips) 
+Seat 7: daKing74 ($24.30 in chips) 
+Seat 9: skrzypek ($24.85 in chips) 
+billard113 will be allowed to play after the button
+skrzypek: posts small blind $0.10
+gbipka: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 6d]
+msna: folds 
+Alameda22: folds 
+GROM95: folds 
+Stanusho: folds 
+daKing74: folds 
+skrzypek: folds 
+Uncalled bet ($0.15) returned to gbipka
+gbipka collected $0.20 from pot
+gbipka: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: gbipka (big blind) collected ($0.20)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Stanusho folded before Flop (didn't bet)
+Seat 7: daKing74 (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20099818783:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:12:39 ET
+Table 'Meges II' 9-max Seat #9 is the button
+Seat 1: gbipka ($5.20 in chips) 
+Seat 2: msna ($25.95 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: GROM95 ($25.25 in chips) 
+Seat 6: Stanusho ($51.75 in chips) 
+Seat 7: daKing74 ($24.30 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+gbipka: posts small blind $0.10
+msna: posts big blind $0.25
+billard113 has timed out while disconnected
+billard113: is sitting out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Kh]
+Alameda22: folds 
+GROM95: folds 
+Stanusho: folds 
+daKing74: folds 
+skrzypek: folds 
+gbipka: raises $0.75 to $1
+msna: folds 
+Uncalled bet ($0.75) returned to gbipka
+gbipka collected $0.50 from pot
+gbipka: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: gbipka (small blind) collected ($0.50)
+Seat 2: msna (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Stanusho folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099846579:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:13:50 ET
+Table 'Meges II' 9-max Seat #1 is the button
+Seat 1: gbipka ($5.45 in chips) 
+Seat 2: msna ($25.70 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: GROM95 ($25.25 in chips) 
+Seat 6: Stanusho ($51.75 in chips) 
+Seat 7: daKing74 ($24.30 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+msna: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 3d]
+GROM95: raises $1.25 to $1.50
+Stanusho: folds 
+daKing74: folds 
+skrzypek: folds 
+gbipka: folds 
+msna: folds 
+Alameda22: folds 
+Uncalled bet ($1.25) returned to GROM95
+GROM95 collected $0.60 from pot
+GROM95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: gbipka (button) folded before Flop (didn't bet)
+Seat 2: msna (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: GROM95 collected ($0.60)
+Seat 6: Stanusho folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099861042:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:14:27 ET
+Table 'Meges II' 9-max Seat #2 is the button
+Seat 1: gbipka ($5.45 in chips) 
+Seat 2: msna ($25.60 in chips) 
+Seat 4: Alameda22 ($24.15 in chips) 
+Seat 5: GROM95 ($25.60 in chips) 
+Seat 6: Stanusho ($51.75 in chips) 
+Seat 7: daKing74 ($24.30 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+Alameda22: posts small blind $0.10
+GROM95: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Jd]
+Stanusho: folds 
+daKing74: folds 
+skrzypek: folds 
+gbipka: folds 
+billard113 is connected 
+msna: folds 
+Alameda22: calls $0.15
+billard113 has returned
+GROM95: checks 
+*** FLOP *** [4s As Js]
+Alameda22: bets $0.50
+GROM95: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.50 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [4s As Js]
+Seat 1: gbipka folded before Flop (didn't bet)
+Seat 2: msna (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) collected ($0.50)
+Seat 5: GROM95 (big blind) folded on the Flop
+Seat 6: Stanusho folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099883419:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:15:24 ET
+Table 'Meges II' 9-max Seat #4 is the button
+Seat 1: gbipka ($5.45 in chips) 
+Seat 2: msna ($25.60 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 6: Stanusho ($51.75 in chips) 
+Seat 7: daKing74 ($24.30 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+GROM95: posts small blind $0.10
+Stanusho: posts big blind $0.25
+billard113: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 8s]
+daKing74: folds 
+skrzypek: folds 
+gbipka: folds 
+msna: folds 
+Alameda22: folds 
+GROM95: raises $0.50 to $0.75
+Stanusho: calls $0.50
+*** FLOP *** [Tc 7h Ad]
+GROM95: checks 
+Stanusho: bets $1
+GROM95: folds 
+Uncalled bet ($1) returned to Stanusho
+Stanusho collected $1.45 from pot
+Stanusho: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Tc 7h Ad]
+Seat 1: gbipka folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: GROM95 (small blind) folded on the Flop
+Seat 6: Stanusho (big blind) collected ($1.45)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099909814:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:16:31 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 1: gbipka ($5.45 in chips) 
+Seat 2: msna ($25.60 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Stanusho ($52.45 in chips) 
+Seat 7: daKing74 ($24.30 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+Stanusho: posts small blind $0.10
+daKing74: posts big blind $0.25
+billard113: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 3s]
+skrzypek: folds 
+gbipka: folds 
+msna: folds 
+Alameda22: folds 
+GROM95: folds 
+Stanusho: folds 
+Uncalled bet ($0.15) returned to daKing74
+daKing74 collected $0.20 from pot
+daKing74: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: gbipka folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 (button) folded before Flop (didn't bet)
+Seat 6: Stanusho (small blind) folded before Flop
+Seat 7: daKing74 (big blind) collected ($0.20)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099920536:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:16:59 ET
+Table 'Meges II' 9-max Seat #6 is the button
+Seat 1: gbipka ($5.45 in chips) 
+Seat 2: msna ($25.60 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Stanusho ($52.35 in chips) 
+Seat 7: daKing74 ($24.40 in chips) 
+Seat 8: billard113 ($25 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+daKing74: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Qd]
+skrzypek: folds 
+gbipka: folds 
+msna: folds 
+Alameda22: folds 
+GROM95: folds 
+Stanusho: folds 
+daKing74: raises $0.75 to $1
+billard113: calls $0.75
+*** FLOP *** [2c 7s 5h]
+daKing74: bets $1.50
+billard113: folds 
+Uncalled bet ($1.50) returned to daKing74
+daKing74 collected $1.90 from pot
+daKing74: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [2c 7s 5h]
+Seat 1: gbipka folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Stanusho (button) folded before Flop (didn't bet)
+Seat 7: daKing74 (small blind) collected ($1.90)
+Seat 8: billard113 (big blind) folded on the Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099947909:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:18:08 ET
+Table 'Meges II' 9-max Seat #7 is the button
+Seat 1: gbipka ($5.45 in chips) 
+Seat 2: msna ($25.60 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Stanusho ($52.35 in chips) 
+Seat 7: daKing74 ($25.30 in chips) 
+Seat 8: billard113 ($24 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+billard113: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 9d]
+gbipka: calls $0.25
+msna: folds 
+Alameda22: folds 
+GROM95: folds 
+Stanusho: folds 
+daKing74: folds 
+billard113: calls $0.15
+skrzypek: checks 
+*** FLOP *** [Jc 2s Js]
+billard113: checks 
+skrzypek: checks 
+gbipka: bets $0.50
+billard113: folds 
+skrzypek: folds 
+Uncalled bet ($0.50) returned to gbipka
+gbipka collected $0.75 from pot
+gbipka: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Jc 2s Js]
+Seat 1: gbipka collected ($0.75)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Stanusho folded before Flop (didn't bet)
+Seat 7: daKing74 (button) folded before Flop (didn't bet)
+Seat 8: billard113 (small blind) folded on the Flop
+Seat 9: skrzypek (big blind) folded on the Flop
+
+
+
+PokerStars Game #20099977486:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:19:24 ET
+Table 'Meges II' 9-max Seat #8 is the button
+Seat 1: gbipka ($5.95 in chips) 
+Seat 2: msna ($25.60 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Stanusho ($52.35 in chips) 
+Seat 7: daKing74 ($25.30 in chips) 
+Seat 8: billard113 ($23.75 in chips) 
+Seat 9: skrzypek ($24.50 in chips) 
+skrzypek: posts small blind $0.10
+gbipka: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Jc]
+msna: folds 
+Alameda22: folds 
+GROM95: folds 
+Stanusho: folds 
+daKing74: folds 
+billard113: calls $0.25
+skrzypek: folds 
+gbipka: checks 
+*** FLOP *** [5h 4s 9h]
+gbipka: checks 
+billard113: checks 
+*** TURN *** [5h 4s 9h] [Ac]
+gbipka: bets $0.50
+billard113: folds 
+Uncalled bet ($0.50) returned to gbipka
+gbipka collected $0.60 from pot
+gbipka: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [5h 4s 9h Ac]
+Seat 1: gbipka (big blind) collected ($0.60)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Stanusho folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 (button) folded on the Turn
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20100006271:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:20:37 ET
+Table 'Meges II' 9-max Seat #9 is the button
+Seat 1: gbipka ($6.30 in chips) 
+Seat 2: msna ($25.60 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Stanusho ($52.35 in chips) 
+Seat 7: daKing74 ($25.30 in chips) 
+Seat 8: billard113 ($23.50 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+gbipka: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 7c]
+Alameda22: folds 
+GROM95: folds 
+Stanusho: raises $0.75 to $1
+daKing74: folds 
+billard113: folds 
+skrzypek: folds 
+gbipka: folds 
+msna: folds 
+Uncalled bet ($0.75) returned to Stanusho
+Stanusho collected $0.60 from pot
+Stanusho: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: gbipka (small blind) folded before Flop
+Seat 2: msna (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Stanusho collected ($0.60)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100025112:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:21:25 ET
+Table 'Meges II' 9-max Seat #1 is the button
+Seat 1: gbipka ($6.20 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Stanusho ($52.70 in chips) 
+Seat 7: daKing74 ($25.30 in chips) 
+Seat 8: billard113 ($23.50 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+msna: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Td]
+GROM95: folds 
+Stanusho: folds 
+daKing74: folds 
+billard113: raises $0.75 to $1
+skrzypek: folds 
+gbipka: folds 
+msna: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to billard113
+billard113 collected $0.60 from pot
+billard113: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: gbipka (button) folded before Flop (didn't bet)
+Seat 2: msna (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Stanusho folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 collected ($0.60)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100041104:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:22:06 ET
+Table 'Meges II' 9-max Seat #2 is the button
+Seat 1: gbipka ($6.20 in chips) 
+Seat 2: msna ($25.25 in chips) 
+Seat 4: Alameda22 ($24.15 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Stanusho ($52.70 in chips) 
+Seat 7: daKing74 ($25.30 in chips) 
+Seat 8: billard113 ($23.85 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+Alameda22: posts small blind $0.10
+GROM95: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Qd]
+Stanusho: folds 
+Stanusho leaves the table
+daKing74: folds 
+billard113: folds 
+skrzypek: folds 
+gbipka: folds 
+msna: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to GROM95
+GROM95 collected $0.20 from pot
+GROM95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: gbipka folded before Flop (didn't bet)
+Seat 2: msna (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: GROM95 (big blind) collected ($0.20)
+Seat 6: Stanusho folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100058312:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:22:50 ET
+Table 'Meges II' 9-max Seat #4 is the button
+Seat 1: gbipka ($6.20 in chips) 
+Seat 2: msna ($25.25 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: GROM95 ($25.10 in chips) 
+Seat 7: daKing74 ($25.30 in chips) 
+Seat 8: billard113 ($23.85 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+GROM95: posts small blind $0.10
+daKing74: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 2h]
+billard113: folds 
+skrzypek: folds 
+gbipka: folds 
+msna: raises $0.75 to $1
+Alameda22: folds 
+GROM95: folds 
+daKing74: folds 
+Uncalled bet ($0.75) returned to msna
+msna collected $0.60 from pot
+msna: doesn't show hand 
+Eksal joins the table at seat #6 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: gbipka folded before Flop (didn't bet)
+Seat 2: msna collected ($0.60)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: GROM95 (small blind) folded before Flop
+Seat 7: daKing74 (big blind) folded before Flop
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100072514:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:23:27 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 1: gbipka ($6.20 in chips) 
+Seat 2: msna ($25.60 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 7: daKing74 ($25.05 in chips) 
+Seat 8: billard113 ($23.85 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+Eksal will be allowed to play after the button
+daKing74: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 8s]
+skrzypek: folds 
+gbipka: folds 
+msna: folds 
+Alameda22: folds 
+GROM95: raises $0.50 to $0.75
+daKing74: folds 
+billard113: folds 
+Uncalled bet ($0.50) returned to GROM95
+GROM95 collected $0.60 from pot
+GROM95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: gbipka folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 (button) collected ($0.60)
+Seat 7: daKing74 (small blind) folded before Flop
+Seat 8: billard113 (big blind) folded before Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100086233:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:24:03 ET
+Table 'Meges II' 9-max Seat #7 is the button
+Seat 1: gbipka ($6.20 in chips) 
+Seat 2: msna ($25.60 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 7: daKing74 ($24.95 in chips) 
+Seat 8: billard113 ($23.60 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+billard113: posts small blind $0.10
+skrzypek: posts big blind $0.25
+Eksal: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Ac]
+gbipka: folds 
+msna: folds 
+Alameda22: folds 
+GROM95: folds 
+daKing74: folds 
+billard113: folds 
+Uncalled bet ($0.15) returned to skrzypek
+skrzypek collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: gbipka folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 7: daKing74 (button) folded before Flop (didn't bet)
+Seat 8: billard113 (small blind) folded before Flop
+Seat 9: skrzypek (big blind) collected ($0.20)
+
+
+
+PokerStars Game #20100096377:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:24:30 ET
+Table 'Meges II' 9-max Seat #8 is the button
+Seat 1: gbipka ($6.20 in chips) 
+Seat 2: msna ($25.60 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 7: daKing74 ($24.95 in chips) 
+Seat 8: billard113 ($23.50 in chips) 
+Seat 9: skrzypek ($24.50 in chips) 
+skrzypek: posts small blind $0.10
+gbipka: posts big blind $0.25
+Eksal: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 8c]
+msna: folds 
+Alameda22: folds 
+GROM95: folds 
+daKing74: folds 
+billard113: folds 
+skrzypek: calls $0.15
+gbipka: checks 
+*** FLOP *** [7d 7h 3h]
+skrzypek: bets $0.50
+gbipka: folds 
+Uncalled bet ($0.50) returned to skrzypek
+skrzypek collected $0.50 from pot
+skrzypek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [7d 7h 3h]
+Seat 1: gbipka (big blind) folded on the Flop
+Seat 2: msna folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) collected ($0.50)
+
+
+
+PokerStars Game #20100111244:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:25:08 ET
+Table 'Meges II' 9-max Seat #9 is the button
+Seat 1: gbipka ($5.95 in chips) 
+Seat 2: msna ($25.60 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 7: daKing74 ($24.95 in chips) 
+Seat 8: billard113 ($23.50 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+gbipka: posts small blind $0.10
+msna: posts big blind $0.25
+Eksal: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Qs]
+Alameda22: folds 
+GROM95: folds 
+daKing74: folds 
+billard113: folds 
+skrzypek: folds 
+gbipka: raises $1 to $1.25
+msna: folds 
+Uncalled bet ($1) returned to gbipka
+gbipka collected $0.50 from pot
+gbipka: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: gbipka (small blind) collected ($0.50)
+Seat 2: msna (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100124845:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:25:43 ET
+Table 'Meges II' 9-max Seat #1 is the button
+Seat 1: gbipka ($6.20 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 7: daKing74 ($24.95 in chips) 
+Seat 8: billard113 ($23.50 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+msna: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Eksal: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 5h]
+GROM95: folds 
+daKing74: folds 
+billard113: folds 
+skrzypek: folds 
+gbipka: folds 
+msna: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: gbipka (button) folded before Flop (didn't bet)
+Seat 2: msna (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) collected ($0.20)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100134240:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:26:08 ET
+Table 'Meges II' 9-max Seat #2 is the button
+Seat 1: gbipka ($6.20 in chips) 
+Seat 2: msna ($25.25 in chips) 
+Seat 4: Alameda22 ($24.15 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 7: daKing74 ($24.95 in chips) 
+Seat 8: billard113 ($23.50 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+42scraggle was removed from the table for failing to post
+Alameda22: posts small blind $0.10
+GROM95: posts big blind $0.25
+Eksal: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 8d]
+daKing74: folds 
+billard113: folds 
+skrzypek: folds 
+gbipka: folds 
+jrivers joins the table at seat #3 
+msna: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to GROM95
+GROM95 collected $0.20 from pot
+GROM95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: gbipka folded before Flop (didn't bet)
+Seat 2: msna (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: GROM95 (big blind) collected ($0.20)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100144577:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:26:35 ET
+Table 'Meges II' 9-max Seat #4 is the button
+Seat 1: gbipka ($6.20 in chips) 
+Seat 2: msna ($25.25 in chips) 
+Seat 3: jrivers ($5 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: GROM95 ($25.45 in chips) 
+Seat 6: Eksal ($5 in chips) 
+Seat 7: daKing74 ($24.95 in chips) 
+Seat 8: billard113 ($23.50 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+GROM95: posts small blind $0.10
+Eksal: posts big blind $0.25
+jrivers: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Td]
+daKing74: folds 
+billard113: calls $0.25
+skrzypek: folds 
+gbipka: folds 
+msna: folds 
+jrivers: checks 
+Alameda22: folds 
+GROM95: folds 
+Eksal: checks 
+*** FLOP *** [9s 6h Ah]
+Eksal: bets $0.50
+billard113: raises $1 to $1.50
+jrivers: folds 
+Eksal: folds 
+Uncalled bet ($1) returned to billard113
+billard113 collected $1.80 from pot
+billard113: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [9s 6h Ah]
+Seat 1: gbipka folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: jrivers folded on the Flop
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: GROM95 (small blind) folded before Flop
+Seat 6: Eksal (big blind) folded on the Flop
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 collected ($1.80)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100178543:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:28:03 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 1: gbipka ($6.20 in chips) 
+Seat 2: msna ($25.25 in chips) 
+Seat 3: jrivers ($4.75 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 6: Eksal ($4.25 in chips) 
+Seat 7: daKing74 ($24.95 in chips) 
+Seat 8: billard113 ($24.55 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+Eksal: posts small blind $0.10
+daKing74: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 4c]
+billard113: folds 
+skrzypek: folds 
+gbipka: folds 
+msna: folds 
+jrivers: calls $0.25
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+daKing74: checks 
+*** FLOP *** [4h 2h Ks]
+daKing74: checks 
+jrivers: bets $0.25
+daKing74: folds 
+Uncalled bet ($0.25) returned to jrivers
+jrivers collected $0.60 from pot
+jrivers: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4h 2h Ks]
+Seat 1: gbipka folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: jrivers collected ($0.60)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 (button) folded before Flop (didn't bet)
+Seat 6: Eksal (small blind) folded before Flop
+Seat 7: daKing74 (big blind) folded on the Flop
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100202051:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:29:04 ET
+Table 'Meges II' 9-max Seat #6 is the button
+Seat 1: gbipka ($6.20 in chips) 
+Seat 2: msna ($25.25 in chips) 
+Seat 3: jrivers ($5.10 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 7: daKing74 ($24.70 in chips) 
+Seat 8: billard113 ($24.55 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+daKing74: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 4d]
+skrzypek: folds 
+gbipka: folds 
+msna: folds 
+jrivers: calls $0.25
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+daKing74: folds 
+billard113: checks 
+*** FLOP *** [Th 7d 2d]
+billard113: bets $0.75
+jrivers: calls $0.75
+*** TURN *** [Th 7d 2d] [Ad]
+billard113: checks 
+jrivers: bets $0.75
+billard113: calls $0.75
+*** RIVER *** [Th 7d 2d Ad] [4c]
+billard113: checks 
+jrivers: checks 
+*** SHOW DOWN ***
+billard113: shows [Ts 2c] (two pair, Tens and Deuces)
+jrivers: mucks hand 
+billard113 collected $3.45 from pot
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.15 
+Board [Th 7d 2d Ad 4c]
+Seat 1: gbipka folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: jrivers mucked [8s 8c]
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal (button) folded before Flop (didn't bet)
+Seat 7: daKing74 (small blind) folded before Flop
+Seat 8: billard113 (big blind) showed [Ts 2c] and won ($3.45) with two pair, Tens and Deuces
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100229513:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:30:16 ET
+Table 'Meges II' 9-max Seat #7 is the button
+Seat 1: gbipka ($6.20 in chips) 
+Seat 2: msna ($25.25 in chips) 
+Seat 3: jrivers ($3.35 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 7: daKing74 ($24.60 in chips) 
+Seat 8: billard113 ($26.25 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+billard113: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 4s]
+gbipka: folds 
+msna: folds 
+jrivers: folds 
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+daKing74: folds 
+billard113: folds 
+Uncalled bet ($0.15) returned to skrzypek
+skrzypek collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: gbipka folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: jrivers folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 7: daKing74 (button) folded before Flop (didn't bet)
+Seat 8: billard113 (small blind) folded before Flop
+Seat 9: skrzypek (big blind) collected ($0.20)
+
+
+
+PokerStars Game #20100245527:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:30:58 ET
+Table 'Meges II' 9-max Seat #8 is the button
+Seat 2: msna ($25.25 in chips) 
+Seat 3: jrivers ($3.35 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 7: daKing74 ($24.60 in chips) 
+Seat 8: billard113 ($26.15 in chips) 
+Seat 9: skrzypek ($24.85 in chips) 
+skrzypek: posts small blind $0.10
+gbipka: is sitting out 
+gbipka leaves the table
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 5h]
+jrivers: calls $0.25
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+daKing74: folds 
+billard113: folds 
+skrzypek: folds 
+msna: checks 
+*** FLOP *** [Ad 8s Js]
+msna: checks 
+jrivers: bets $0.25
+msna: folds 
+Uncalled bet ($0.25) returned to jrivers
+jrivers collected $0.60 from pot
+jrivers: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ad 8s Js]
+Seat 2: msna (big blind) folded on the Flop
+Seat 3: jrivers collected ($0.60)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20100268637:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:31:59 ET
+Table 'Meges II' 9-max Seat #9 is the button
+Seat 2: msna ($25 in chips) 
+Seat 3: jrivers ($3.70 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 7: daKing74 ($24.60 in chips) 
+Seat 8: billard113 ($26.15 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+msna: posts small blind $0.10
+jrivers: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Ah]
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+daKing74: folds 
+billard113: folds 
+skrzypek: folds 
+msna: raises $0.50 to $0.75
+jrivers: calls $0.50
+*** FLOP *** [2c 4c 4s]
+msna: bets $1
+jrivers: calls $1
+*** TURN *** [2c 4c 4s] [Kh]
+msna: bets $23.25 and is all-in
+jrivers: calls $1.95 and is all-in
+Uncalled bet ($21.30) returned to msna
+*** RIVER *** [2c 4c 4s Kh] [2h]
+*** SHOW DOWN ***
+msna: shows [7c 6c] (two pair, Fours and Deuces)
+jrivers: shows [4h Ks] (a full house, Fours full of Kings)
+jrivers collected $7.05 from pot
+*** SUMMARY ***
+Total pot $7.40 | Rake $0.35 
+Board [2c 4c 4s Kh 2h]
+Seat 2: msna (small blind) showed [7c 6c] and lost with two pair, Fours and Deuces
+Seat 3: jrivers (big blind) showed [4h Ks] and won ($7.05) with a full house, Fours full of Kings
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100302098:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:33:28 ET
+Table 'Meges II' 9-max Seat #2 is the button
+Seat 2: msna ($25 in chips) 
+Seat 3: jrivers ($7.05 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 7: daKing74 ($24.60 in chips) 
+Seat 8: billard113 ($26.15 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+jrivers: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 6s]
+GROM95: folds 
+Eksal: folds 
+daKing74: folds 
+billard113: folds 
+skrzypek: folds 
+msna: raises $0.75 to $1
+jrivers: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to msna
+msna collected $0.60 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: msna (button) collected ($0.60)
+Seat 3: jrivers (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100317696:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:34:10 ET
+Table 'Meges II' 9-max Seat #3 is the button
+Seat 2: msna ($25.35 in chips) 
+Seat 3: jrivers ($6.95 in chips) 
+Seat 4: Alameda22 ($23.80 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 7: daKing74 ($24.60 in chips) 
+Seat 8: billard113 ($26.15 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+Alameda22: posts small blind $0.10
+GROM95: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Tc]
+Eksal: folds 
+daKing74: folds 
+billard113: calls $0.25
+skrzypek: folds 
+msna: folds 
+jrivers: calls $0.25
+Alameda22: folds 
+GROM95: checks 
+*** FLOP *** [Kh Qh 5d]
+GROM95: checks 
+billard113: checks 
+ManorJr joins the table at seat #1 
+jrivers: bets $0.50
+GROM95: folds 
+billard113: folds 
+Uncalled bet ($0.50) returned to jrivers
+jrivers collected $0.85 from pot
+jrivers: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Kh Qh 5d]
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: jrivers (button) collected ($0.85)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: GROM95 (big blind) folded on the Flop
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 folded on the Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100347678:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:35:30 ET
+Table 'Meges II' 9-max Seat #4 is the button
+Seat 2: msna ($25.35 in chips) 
+Seat 3: jrivers ($7.55 in chips) 
+Seat 4: Alameda22 ($23.70 in chips) 
+Seat 5: GROM95 ($25.10 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 7: daKing74 ($24.60 in chips) 
+Seat 8: billard113 ($25.90 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+GROM95: posts small blind $0.10
+Eksal: posts big blind $0.25
+ManorJr: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Kh]
+daKing74: folds 
+billard113: folds 
+skrzypek: folds 
+msna: folds 
+jrivers: folds 
+Alameda22: folds 
+GROM95: folds 
+Uncalled bet ($0.15) returned to Eksal
+Eksal collected $0.20 from pot
+Eksal: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: jrivers folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: GROM95 (small blind) folded before Flop
+Seat 6: Eksal (big blind) collected ($0.20)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100363546:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:36:13 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 2: msna ($25.35 in chips) 
+Seat 3: jrivers ($7.55 in chips) 
+Seat 4: Alameda22 ($23.70 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Eksal ($5.25 in chips) 
+Seat 7: daKing74 ($24.60 in chips) 
+Seat 8: billard113 ($25.90 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+Eksal: posts small blind $0.10
+daKing74: posts big blind $0.25
+ManorJr: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Qs]
+billard113: folds 
+skrzypek: folds 
+msna: folds 
+jrivers: folds 
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+Uncalled bet ($0.15) returned to daKing74
+daKing74 collected $0.20 from pot
+daKing74: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: jrivers folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 (button) folded before Flop (didn't bet)
+Seat 6: Eksal (small blind) folded before Flop
+Seat 7: daKing74 (big blind) collected ($0.20)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100378825:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:36:54 ET
+Table 'Meges II' 9-max Seat #6 is the button
+Seat 2: msna ($25.35 in chips) 
+Seat 3: jrivers ($7.55 in chips) 
+Seat 4: Alameda22 ($23.70 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 7: daKing74 ($24.70 in chips) 
+Seat 8: billard113 ($25.90 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+daKing74: posts small blind $0.10
+billard113: posts big blind $0.25
+ManorJr: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 6d]
+skrzypek: folds 
+msna: raises $0.75 to $1
+jrivers: folds 
+Alameda22 has timed out
+Alameda22: folds 
+Alameda22 is sitting out
+GROM95: folds 
+Eksal: folds 
+Alameda22 has returned
+daKing74: folds 
+billard113: folds 
+Uncalled bet ($0.75) returned to msna
+msna collected $0.60 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: msna collected ($0.60)
+Seat 3: jrivers folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal (button) folded before Flop (didn't bet)
+Seat 7: daKing74 (small blind) folded before Flop
+Seat 8: billard113 (big blind) folded before Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100400348:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:37:53 ET
+Table 'Meges II' 9-max Seat #7 is the button
+Seat 2: msna ($25.70 in chips) 
+Seat 3: jrivers ($7.55 in chips) 
+Seat 4: Alameda22 ($23.70 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 7: daKing74 ($24.60 in chips) 
+Seat 8: billard113 ($25.65 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+billard113: posts small blind $0.10
+skrzypek: posts big blind $0.25
+ManorJr: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 5h]
+msna: folds 
+jrivers: folds 
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+daKing74: folds 
+billard113: folds 
+Uncalled bet ($0.15) returned to skrzypek
+skrzypek collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: jrivers folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 7: daKing74 (button) folded before Flop (didn't bet)
+Seat 8: billard113 (small blind) folded before Flop
+Seat 9: skrzypek (big blind) collected ($0.20)
+
+
+
+PokerStars Game #20100411584:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:38:22 ET
+Table 'Meges II' 9-max Seat #8 is the button
+Seat 1: ManorJr ($25 in chips) 
+Seat 2: msna ($25.70 in chips) 
+Seat 3: jrivers ($7.55 in chips) 
+Seat 4: Alameda22 ($23.70 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 7: daKing74 ($24.60 in chips) 
+Seat 8: billard113 ($25.55 in chips) 
+Seat 9: skrzypek ($24.85 in chips) 
+skrzypek: posts small blind $0.10
+ManorJr: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 8s]
+msna: folds 
+jrivers: calls $0.25
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+daKing74: folds 
+billard113: folds 
+skrzypek: folds 
+ManorJr: checks 
+*** FLOP *** [4s Ah 7d]
+ManorJr: bets $0.50
+jrivers: calls $0.50
+*** TURN *** [4s Ah 7d] [6c]
+ManorJr: bets $1
+jrivers: calls $1
+*** RIVER *** [4s Ah 7d 6c] [4c]
+ManorJr: checks 
+jrivers: checks 
+*** SHOW DOWN ***
+ManorJr: shows [Kd Jd] (a pair of Fours)
+jrivers: shows [Qh Qd] (two pair, Queens and Fours)
+jrivers collected $3.45 from pot
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.15 
+Board [4s Ah 7d 6c 4c]
+Seat 1: ManorJr (big blind) showed [Kd Jd] and lost with a pair of Fours
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: jrivers showed [Qh Qd] and won ($3.45) with two pair, Queens and Fours
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20100439166:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:39:36 ET
+Table 'Meges II' 9-max Seat #9 is the button
+Seat 1: ManorJr ($25 in chips) 
+Seat 2: msna ($25.70 in chips) 
+Seat 3: jrivers ($9.25 in chips) 
+Seat 4: Alameda22 ($23.70 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 7: daKing74 ($24.60 in chips) 
+Seat 8: billard113 ($25.55 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+ManorJr: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Ad]
+jrivers: folds 
+Alameda22: raises $0.75 to $1
+GROM95: folds 
+Eksal: folds 
+daKing74: folds 
+billard113: calls $1
+skrzypek: folds 
+ManorJr: folds 
+msna: folds 
+*** FLOP *** [Qh Ks 5h]
+Alameda22: bets $1.50
+billard113: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $2.25 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Qh Ks 5h]
+Seat 1: ManorJr (small blind) folded before Flop
+Seat 2: msna (big blind) folded before Flop
+Seat 3: jrivers folded before Flop (didn't bet)
+Seat 4: Alameda22 collected ($2.25)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 folded on the Flop
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100465358:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:40:47 ET
+Table 'Meges II' 9-max Seat #1 is the button
+Seat 1: ManorJr ($24.90 in chips) 
+Seat 2: msna ($25.45 in chips) 
+Seat 3: jrivers ($9.25 in chips) 
+Seat 4: Alameda22 ($24.95 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 7: daKing74 ($24.60 in chips) 
+Seat 8: billard113 ($24.55 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+msna: posts small blind $0.10
+jrivers: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 3d]
+Alameda22: folds 
+GROM95: folds 
+Eksal: raises $0.75 to $1
+daKing74: folds 
+billard113: folds 
+skrzypek: folds 
+ManorJr: folds 
+msna: folds 
+jrivers: folds 
+Uncalled bet ($0.75) returned to Eksal
+Eksal collected $0.60 from pot
+Eksal: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ManorJr (button) folded before Flop (didn't bet)
+Seat 2: msna (small blind) folded before Flop
+Seat 3: jrivers (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal collected ($0.60)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100478071:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:41:21 ET
+Table 'Meges II' 9-max Seat #2 is the button
+Seat 1: ManorJr ($24.90 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 3: jrivers ($9 in chips) 
+Seat 4: Alameda22 ($24.95 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Eksal ($5.50 in chips) 
+Seat 7: daKing74 ($24.60 in chips) 
+Seat 8: billard113 ($24.55 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+jrivers: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 9c]
+GROM95: folds 
+Eksal: folds 
+daKing74: folds 
+billard113: folds 
+skrzypek: folds 
+ManorJr: folds 
+msna: folds 
+jrivers: calls $0.15
+Alameda22: checks 
+*** FLOP *** [As 5d Qc]
+jrivers: bets $0.25
+Alameda22: folds 
+Uncalled bet ($0.25) returned to jrivers
+jrivers collected $0.50 from pot
+jrivers: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [As 5d Qc]
+Seat 1: ManorJr folded before Flop (didn't bet)
+Seat 2: msna (button) folded before Flop (didn't bet)
+Seat 3: jrivers (small blind) collected ($0.50)
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100504086:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:42:32 ET
+Table 'Meges II' 9-max Seat #3 is the button
+Seat 1: ManorJr ($25 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 3: jrivers ($9.25 in chips) 
+Seat 4: Alameda22 ($24.70 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Eksal ($5.50 in chips) 
+Seat 7: daKing74 ($24.60 in chips) 
+Seat 8: billard113 ($24.55 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+Alameda22: posts small blind $0.10
+GROM95: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 9h]
+Eksal: folds 
+daKing74: folds 
+billard113: folds 
+skrzypek: folds 
+ManorJr: folds 
+msna: folds 
+jrivers: calls $0.25
+Alameda22: folds 
+GROM95: raises $0.50 to $0.75
+jrivers: calls $0.50
+*** FLOP *** [Qd 7d 4d]
+GROM95: checks 
+jrivers: bets $0.50
+GROM95: folds 
+Uncalled bet ($0.50) returned to jrivers
+jrivers collected $1.55 from pot
+jrivers: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Qd 7d 4d]
+Seat 1: ManorJr folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: jrivers (button) collected ($1.55)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: GROM95 (big blind) folded on the Flop
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100532132:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:43:48 ET
+Table 'Meges II' 9-max Seat #4 is the button
+Seat 1: ManorJr ($25 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 3: jrivers ($10.05 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($24.25 in chips) 
+Seat 6: Eksal ($5.50 in chips) 
+Seat 7: daKing74 ($24.60 in chips) 
+Seat 8: billard113 ($24.55 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+GROM95: posts small blind $0.10
+Eksal: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Jc]
+daKing74: folds 
+billard113: folds 
+skrzypek: folds 
+ManorJr: folds 
+msna: folds 
+jrivers: folds 
+Alameda22: folds 
+GROM95: folds 
+Uncalled bet ($0.15) returned to Eksal
+Eksal collected $0.20 from pot
+Eksal: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ManorJr folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: jrivers folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: GROM95 (small blind) folded before Flop
+Seat 6: Eksal (big blind) collected ($0.20)
+Seat 7: daKing74 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100548690:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:44:33 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 1: ManorJr ($25 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 3: jrivers ($10.05 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($24.15 in chips) 
+Seat 6: Eksal ($5.60 in chips) 
+Seat 8: billard113 ($24.55 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+Eksal: posts small blind $0.10
+daKing74 is disconnected 
+daKing74 has timed out while disconnected
+daKing74: is sitting out 
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 9h]
+skrzypek: folds 
+ManorJr: folds 
+msna: folds 
+jrivers: calls $0.25
+Alameda22: folds 
+GROM95: raises $0.75 to $1
+Eksal: folds 
+billard113: folds 
+jrivers: folds 
+Uncalled bet ($0.75) returned to GROM95
+GROM95 collected $0.85 from pot
+GROM95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: ManorJr folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: jrivers folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 (button) collected ($0.85)
+Seat 6: Eksal (small blind) folded before Flop
+Seat 8: billard113 (big blind) folded before Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100575795:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:45:46 ET
+Table 'Meges II' 9-max Seat #6 is the button
+Seat 1: ManorJr ($25 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 3: jrivers ($9.80 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Eksal ($5.50 in chips) 
+Seat 8: billard113 ($24.30 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+billard113: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 3d]
+ManorJr: calls $0.25
+msna: folds 
+jrivers: calls $0.25
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+billard113: folds 
+skrzypek: checks 
+*** FLOP *** [Jc Qd Ks]
+skrzypek: checks 
+ManorJr: checks 
+jrivers: checks 
+*** TURN *** [Jc Qd Ks] [6s]
+skrzypek: checks 
+ManorJr: checks 
+jrivers: bets $0.50
+skrzypek: folds 
+ManorJr: folds 
+Uncalled bet ($0.50) returned to jrivers
+jrivers collected $0.85 from pot
+jrivers: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Jc Qd Ks 6s]
+Seat 1: ManorJr folded on the Turn
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: jrivers collected ($0.85)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal (button) folded before Flop (didn't bet)
+Seat 8: billard113 (small blind) folded before Flop
+Seat 9: skrzypek (big blind) folded on the Turn
+
+
+
+PokerStars Game #20100597478:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:46:45 ET
+Table 'Meges II' 9-max Seat #8 is the button
+Seat 1: ManorJr ($24.75 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 3: jrivers ($10.40 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Eksal ($5.50 in chips) 
+Seat 8: billard113 ($24.20 in chips) 
+Seat 9: skrzypek ($24.50 in chips) 
+skrzypek: posts small blind $0.10
+ManorJr: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Kd]
+msna: folds 
+jrivers: folds 
+Alameda22: folds 
+GROM95: raises $0.50 to $0.75
+Eksal: folds 
+billard113: folds 
+skrzypek: folds 
+ManorJr: folds 
+Uncalled bet ($0.50) returned to GROM95
+GROM95 collected $0.60 from pot
+GROM95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ManorJr (big blind) folded before Flop
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: jrivers folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 collected ($0.60)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 8: billard113 (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20100606989:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:47:11 ET
+Table 'Meges II' 9-max Seat #9 is the button
+Seat 1: ManorJr ($24.50 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 3: jrivers ($10.40 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 6: Eksal ($5.50 in chips) 
+Seat 8: billard113 ($24.20 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+ManorJr: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Ah]
+jrivers: calls $0.25
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+billard113: folds 
+skrzypek: folds 
+ManorJr: calls $0.15
+msna: checks 
+*** FLOP *** [6s 3h Qh]
+ManorJr: checks 
+msna: checks 
+jrivers: bets $0.50
+ManorJr: folds 
+msna: folds 
+Uncalled bet ($0.50) returned to jrivers
+jrivers collected $0.75 from pot
+jrivers: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [6s 3h Qh]
+Seat 1: ManorJr (small blind) folded on the Flop
+Seat 2: msna (big blind) folded on the Flop
+Seat 3: jrivers collected ($0.75)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100628519:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:48:09 ET
+Table 'Meges II' 9-max Seat #1 is the button
+Seat 1: ManorJr ($24.25 in chips) 
+Seat 2: msna ($25.10 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 6: Eksal ($5.50 in chips) 
+Seat 8: billard113 ($24.20 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+msna: posts small blind $0.10
+jrivers: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Tc]
+jrivers leaves the table
+GROM95: folds 
+Eksal: folds 
+billard113: folds 
+skrzypek: folds 
+ManorJr: folds 
+msna: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ManorJr (button) folded before Flop (didn't bet)
+Seat 2: msna (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) collected ($0.20)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100641951:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:48:45 ET
+Table 'Meges II' 9-max Seat #2 is the button
+Seat 1: ManorJr ($25 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 4: Alameda22 ($24.70 in chips) 
+Seat 5: GROM95 ($25.35 in chips) 
+Seat 6: Eksal ($5.50 in chips) 
+Seat 8: billard113 ($24.20 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+Alameda22: posts small blind $0.10
+GROM95: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 8d]
+Eksal: folds 
+billard113: calls $0.25
+skrzypek: folds 
+ManorJr: folds 
+msna: folds 
+Alameda22: folds 
+GROM95: raises $0.75 to $1
+billard113: calls $0.75
+*** FLOP *** [Td 6s Ah]
+GROM95: checks 
+luvbpest joins the table at seat #3 
+billard113: checks 
+*** TURN *** [Td 6s Ah] [Qh]
+GROM95: checks 
+billard113: checks 
+*** RIVER *** [Td 6s Ah Qh] [9h]
+GROM95: checks 
+billard113: checks 
+*** SHOW DOWN ***
+GROM95: shows [Kc Qs] (a pair of Queens)
+billard113: mucks hand 
+GROM95 collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Td 6s Ah Qh 9h]
+Seat 1: ManorJr folded before Flop (didn't bet)
+Seat 2: msna (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: GROM95 (big blind) showed [Kc Qs] and won ($2) with a pair of Queens
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 8: billard113 mucked [3h 3s]
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100664703:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:49:46 ET
+Table 'Meges II' 9-max Seat #4 is the button
+Seat 1: ManorJr ($25 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($15 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($26.35 in chips) 
+Seat 6: Eksal ($5.50 in chips) 
+Seat 8: billard113 ($23.20 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+GROM95: posts small blind $0.10
+Eksal: posts big blind $0.25
+luvbpest: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Ac]
+billard113: folds 
+skrzypek: folds 
+ManorJr: folds 
+msna: folds 
+luvbpest: checks 
+Alameda22: folds 
+GROM95: folds 
+Eksal: checks 
+*** FLOP *** [9s Tc 4s]
+Eksal: checks 
+luvbpest: checks 
+*** TURN *** [9s Tc 4s] [2s]
+Eksal: checks 
+luvbpest: checks 
+*** RIVER *** [9s Tc 4s 2s] [3c]
+Eksal: checks 
+luvbpest: bets $0.25
+Eksal: folds 
+Uncalled bet ($0.25) returned to luvbpest
+luvbpest collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9s Tc 4s 2s 3c]
+Seat 1: ManorJr folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest collected ($0.60)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: GROM95 (small blind) folded before Flop
+Seat 6: Eksal (big blind) folded on the River
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100689459:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:50:54 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 1: ManorJr ($25 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($15.35 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($26.25 in chips) 
+Seat 6: Eksal ($5.25 in chips) 
+Seat 8: billard113 ($23.20 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+Eksal: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Qh]
+skrzypek: folds 
+ManorJr: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+Uncalled bet ($0.15) returned to billard113
+billard113 collected $0.20 from pot
+billard113: shows [As 4d] (high card Ace)
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ManorJr folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 (button) folded before Flop (didn't bet)
+Seat 6: Eksal (small blind) folded before Flop
+Seat 8: billard113 (big blind) collected ($0.20)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100699463:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:51:21 ET
+Table 'Meges II' 9-max Seat #6 is the button
+Seat 1: ManorJr ($25 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($15.35 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($26.25 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 8: billard113 ($23.30 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+billard113: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Kc]
+ManorJr: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: raises $0.50 to $0.75
+Eksal: folds 
+billard113: folds 
+skrzypek: folds 
+Uncalled bet ($0.50) returned to GROM95
+GROM95 collected $0.60 from pot
+GROM95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ManorJr folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 collected ($0.60)
+Seat 6: Eksal (button) folded before Flop (didn't bet)
+Seat 8: billard113 (small blind) folded before Flop
+Seat 9: skrzypek (big blind) folded before Flop
+
+
+
+PokerStars Game #20100711121:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:51:53 ET
+Table 'Meges II' 9-max Seat #8 is the button
+Seat 1: ManorJr ($25 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($15.35 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($26.60 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 8: billard113 ($23.20 in chips) 
+Seat 9: skrzypek ($24.15 in chips) 
+skrzypek: posts small blind $0.10
+ManorJr: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 3s]
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+billard113: calls $0.25
+skrzypek: folds 
+ManorJr: checks 
+*** FLOP *** [Qc 2s 4d]
+ManorJr: checks 
+billard113: checks 
+*** TURN *** [Qc 2s 4d] [8c]
+ManorJr: checks 
+billard113: bets $0.50
+ManorJr: folds 
+Uncalled bet ($0.50) returned to billard113
+billard113 collected $0.60 from pot
+billard113: shows [Th Ts] (a pair of Tens)
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qc 2s 4d 8c]
+Seat 1: ManorJr (big blind) folded on the Turn
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 8: billard113 (button) collected ($0.60)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20100736558:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:53:03 ET
+Table 'Meges II' 9-max Seat #9 is the button
+Seat 1: ManorJr ($24.75 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($15.35 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($26.60 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 8: billard113 ($23.55 in chips) 
+Seat 9: skrzypek ($24.05 in chips) 
+ManorJr: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 7s]
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+billard113: folds 
+skrzypek: folds 
+ManorJr: folds 
+Uncalled bet ($0.15) returned to msna
+msna collected $0.20 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ManorJr (small blind) folded before Flop
+Seat 2: msna (big blind) collected ($0.20)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100748649:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:53:36 ET
+Table 'Meges II' 9-max Seat #1 is the button
+Seat 1: ManorJr ($24.65 in chips) 
+Seat 2: msna ($25.10 in chips) 
+Seat 3: luvbpest ($15.35 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($26.60 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 8: billard113 ($23.55 in chips) 
+Seat 9: skrzypek ($24.05 in chips) 
+msna: posts small blind $0.10
+luvbpest: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 3s]
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+billard113: folds 
+skrzypek: folds 
+ManorJr: folds 
+msna: folds 
+Uncalled bet ($0.15) returned to luvbpest
+luvbpest collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ManorJr (button) folded before Flop (didn't bet)
+Seat 2: msna (small blind) folded before Flop
+Seat 3: luvbpest (big blind) collected ($0.20)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100760228:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:54:07 ET
+Table 'Meges II' 9-max Seat #2 is the button
+Seat 1: ManorJr ($25 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($15.45 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($26.60 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 8: billard113 ($23.55 in chips) 
+Seat 9: skrzypek ($24.05 in chips) 
+luvbpest: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Jc]
+GROM95: folds 
+Eksal: folds 
+billard113: folds 
+skrzypek: folds 
+ManorJr: folds 
+msna: folds 
+luvbpest: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ManorJr folded before Flop (didn't bet)
+Seat 2: msna (button) folded before Flop (didn't bet)
+Seat 3: luvbpest (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) collected ($0.20)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100772973:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:54:42 ET
+Table 'Meges II' 9-max Seat #3 is the button
+Seat 1: ManorJr ($25 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($15.35 in chips) 
+Seat 4: Alameda22 ($24.70 in chips) 
+Seat 5: GROM95 ($26.60 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 8: billard113 ($23.55 in chips) 
+Seat 9: skrzypek ($24.05 in chips) 
+Alameda22: posts small blind $0.10
+GROM95: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 4s]
+Eksal: folds 
+billard113: folds 
+skrzypek: calls $0.25
+ManorJr: folds 
+msna: folds 
+luvbpest: folds 
+daKing74 was removed from the table for failing to post
+Alameda22: folds 
+GROM95: checks 
+*** FLOP *** [Ad 5s Js]
+GROM95: checks 
+skrzypek: checks 
+*** TURN *** [Ad 5s Js] [5c]
+GROM95: checks 
+skrzypek: checks 
+*** RIVER *** [Ad 5s Js 5c] [Ah]
+GROM95: bets $0.75
+skrzypek: folds 
+Uncalled bet ($0.75) returned to GROM95
+GROM95 collected $0.60 from pot
+GROM95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ad 5s Js 5c Ah]
+Seat 1: ManorJr folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: GROM95 (big blind) collected ($0.60)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded on the River
+
+
+
+PokerStars Game #20100794970:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:55:42 ET
+Table 'Meges II' 9-max Seat #4 is the button
+Seat 1: ManorJr ($25 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($15.35 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($26.95 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 8: billard113 ($23.55 in chips) 
+Seat 9: skrzypek ($23.80 in chips) 
+GROM95: posts small blind $0.10
+Eksal: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 7s]
+billard113: folds 
+skrzypek: folds 
+ManorJr: raises $0.50 to $0.75
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+Uncalled bet ($0.50) returned to ManorJr
+ManorJr collected $0.60 from pot
+ManorJr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ManorJr collected ($0.60)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: GROM95 (small blind) folded before Flop
+Seat 6: Eksal (big blind) folded before Flop
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100810869:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:56:26 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 1: ManorJr ($25.35 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($15.35 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($26.85 in chips) 
+Seat 6: Eksal ($4.90 in chips) 
+Seat 8: billard113 ($23.55 in chips) 
+Seat 9: skrzypek ($23.80 in chips) 
+Eksal: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 6s]
+skrzypek: folds 
+ManorJr: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+Eksal: raises $0.50 to $0.75
+billard113: folds 
+Uncalled bet ($0.50) returned to Eksal
+Eksal collected $0.50 from pot
+Eksal: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: ManorJr folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 (button) folded before Flop (didn't bet)
+Seat 6: Eksal (small blind) collected ($0.50)
+Seat 8: billard113 (big blind) folded before Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100830259:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:57:20 ET
+Table 'Meges II' 9-max Seat #6 is the button
+Seat 1: ManorJr ($25.35 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($15.35 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($26.85 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 8: billard113 ($23.30 in chips) 
+Seat 9: skrzypek ($23.80 in chips) 
+billard113: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 8h]
+ManorJr: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+billard113: folds 
+Uncalled bet ($0.15) returned to skrzypek
+skrzypek collected $0.20 from pot
+skrzypek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ManorJr folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal (button) folded before Flop (didn't bet)
+Seat 8: billard113 (small blind) folded before Flop
+Seat 9: skrzypek (big blind) collected ($0.20)
+
+
+
+PokerStars Game #20100844539:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:57:59 ET
+Table 'Meges II' 9-max Seat #8 is the button
+Seat 1: ManorJr ($25.35 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($15.35 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($26.85 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 8: billard113 ($23.20 in chips) 
+Seat 9: skrzypek ($23.90 in chips) 
+skrzypek: posts small blind $0.10
+ManorJr: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 9c]
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: raises $0.75 to $1
+Eksal: folds 
+billard113: calls $1
+skrzypek: folds 
+ManorJr: raises $3 to $4
+GROM95: calls $3
+billard113: folds 
+*** FLOP *** [4c Th 9h]
+ManorJr: bets $5
+GROM95: folds 
+Uncalled bet ($5) returned to ManorJr
+ManorJr collected $8.65 from pot
+ManorJr: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.10 | Rake $0.45 
+Board [4c Th 9h]
+Seat 1: ManorJr (big blind) collected ($8.65)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded on the Flop
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 8: billard113 (button) folded before Flop
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20100868211:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:59:04 ET
+Table 'Meges II' 9-max Seat #9 is the button
+Seat 1: ManorJr ($30 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($15.35 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($22.85 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 8: billard113 ($22.20 in chips) 
+Seat 9: skrzypek ($23.80 in chips) 
+ManorJr: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Qs]
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+billard113: folds 
+skrzypek: folds 
+ManorJr: folds 
+Uncalled bet ($0.15) returned to msna
+msna collected $0.20 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ManorJr (small blind) folded before Flop
+Seat 2: msna (big blind) collected ($0.20)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100883898:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:59:48 ET
+Table 'Meges II' 9-max Seat #1 is the button
+Seat 1: ManorJr ($29.90 in chips) 
+Seat 2: msna ($25.10 in chips) 
+Seat 3: luvbpest ($15.35 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 8: billard113 ($22.20 in chips) 
+Seat 9: skrzypek ($23.80 in chips) 
+msna: posts small blind $0.10
+luvbpest: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Js]
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+billard113: folds 
+skrzypek: folds 
+ManorJr: folds 
+msna: raises $0.50 to $0.75
+luvbpest: folds 
+Uncalled bet ($0.50) returned to msna
+msna collected $0.50 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: ManorJr (button) folded before Flop (didn't bet)
+Seat 2: msna (small blind) collected ($0.50)
+Seat 3: luvbpest (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100904605:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:00:44 ET
+Table 'Meges II' 9-max Seat #2 is the button
+Seat 1: ManorJr ($29.90 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 3: luvbpest ($15.10 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 8: billard113 ($22.20 in chips) 
+Seat 9: skrzypek ($23.80 in chips) 
+luvbpest: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 7s]
+GROM95: raises $0.75 to $1
+Eksal: folds 
+billard113: folds 
+skrzypek: folds 
+ManorJr: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: calls $0.75
+*** FLOP *** [9d 2s 4d]
+Alameda22: checks 
+GROM95: checks 
+*** TURN *** [9d 2s 4d] [Td]
+Alameda22: checks 
+GROM95: checks 
+*** RIVER *** [9d 2s 4d Td] [4s]
+billard113 is disconnected 
+Alameda22: checks 
+GROM95: checks 
+*** SHOW DOWN ***
+Alameda22: shows [7d 7s] (two pair, Sevens and Fours)
+GROM95: mucks hand 
+Alameda22 collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [9d 2s 4d Td 4s]
+Seat 1: ManorJr folded before Flop (didn't bet)
+Seat 2: msna (button) folded before Flop (didn't bet)
+Seat 3: luvbpest (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) showed [7d 7s] and won ($2) with two pair, Sevens and Fours
+Seat 5: GROM95 mucked [As Kd]
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100936425:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:02:10 ET
+Table 'Meges II' 9-max Seat #3 is the button
+Seat 1: ManorJr ($29.90 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 3: luvbpest ($15 in chips) 
+Seat 4: Alameda22 ($25.60 in chips) 
+Seat 5: GROM95 ($24 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 8: billard113 ($22.20 in chips) 
+Seat 9: skrzypek ($23.80 in chips) 
+Alameda22: posts small blind $0.10
+GROM95: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 6h]
+Eksal: folds 
+billard113 has timed out while disconnected
+billard113: folds 
+billard113 is sitting out
+skrzypek: folds 
+ManorJr: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: calls $0.15
+GROM95: raises $0.50 to $0.75
+Tim-Taylor5 joins the table at seat #7 
+Alameda22: calls $0.50
+*** FLOP *** [Kc 9c 5c]
+Alameda22: checks 
+GROM95: checks 
+*** TURN *** [Kc 9c 5c] [Qd]
+Alameda22: checks 
+GROM95: checks 
+*** RIVER *** [Kc 9c 5c Qd] [5s]
+Alameda22: checks 
+GROM95: checks 
+*** SHOW DOWN ***
+Alameda22: shows [Ah 6h] (a pair of Fives)
+GROM95: shows [4s 4d] (two pair, Fives and Fours)
+GROM95 collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Kc 9c 5c Qd 5s]
+Seat 1: ManorJr folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) showed [Ah 6h] and lost with a pair of Fives
+Seat 5: GROM95 (big blind) showed [4s 4d] and won ($1.45) with two pair, Fives and Fours
+Seat 6: Eksal folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100967835:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:03:34 ET
+Table 'Meges II' 9-max Seat #4 is the button
+Seat 1: ManorJr ($29.90 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 3: luvbpest ($15 in chips) 
+Seat 4: Alameda22 ($24.85 in chips) 
+Seat 5: GROM95 ($24.70 in chips) 
+Seat 6: Eksal ($5.15 in chips) 
+Seat 9: skrzypek ($23.80 in chips) 
+GROM95: posts small blind $0.10
+Eksal: posts big blind $0.25
+Tim-Taylor5: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 9c]
+skrzypek: calls $0.25
+ManorJr: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+Eksal: checks 
+*** FLOP *** [8h Ah Jd]
+Eksal: checks 
+skrzypek: bets $0.25
+Eksal: folds 
+Uncalled bet ($0.25) returned to skrzypek
+skrzypek collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8h Ah Jd]
+Seat 1: ManorJr folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: GROM95 (small blind) folded before Flop
+Seat 6: Eksal (big blind) folded on the Flop
+Seat 9: skrzypek collected ($0.60)
+
+
+
+PokerStars Game #20100984712:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:04:20 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 1: ManorJr ($29.90 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 3: luvbpest ($15 in chips) 
+Seat 4: Alameda22 ($24.85 in chips) 
+Seat 5: GROM95 ($24.60 in chips) 
+Seat 6: Eksal ($4.90 in chips) 
+Seat 7: Tim-Taylor5 ($25 in chips) 
+Seat 9: skrzypek ($24.15 in chips) 
+Eksal: posts small blind $0.10
+Tim-Taylor5: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 9d]
+skrzypek: raises $1 to $1.25
+ManorJr: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+Tim-Taylor5: folds 
+Uncalled bet ($1) returned to skrzypek
+skrzypek collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ManorJr folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 (button) folded before Flop (didn't bet)
+Seat 6: Eksal (small blind) folded before Flop
+Seat 7: Tim-Taylor5 (big blind) folded before Flop
+Seat 9: skrzypek collected ($0.60)
+
+
+
+PokerStars Game #20100998492:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:04:57 ET
+Table 'Meges II' 9-max Seat #6 is the button
+Seat 1: ManorJr ($29.90 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 3: luvbpest ($15 in chips) 
+Seat 4: Alameda22 ($24.85 in chips) 
+Seat 5: GROM95 ($24.60 in chips) 
+Seat 6: Eksal ($4.80 in chips) 
+Seat 7: Tim-Taylor5 ($24.75 in chips) 
+Seat 9: skrzypek ($24.50 in chips) 
+Tim-Taylor5: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 4c]
+ManorJr: raises $0.50 to $0.75
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+Eksal: folds 
+Eksal is sitting out
+Tim-Taylor5: folds 
+skrzypek: folds 
+Uncalled bet ($0.50) returned to ManorJr
+ManorJr collected $0.60 from pot
+ManorJr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ManorJr collected ($0.60)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: Eksal (button) folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 (small blind) folded before Flop
+Seat 9: skrzypek (big blind) folded before Flop
+
+
+
+PokerStars Game #20101012769:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:05:36 ET
+Table 'Meges II' 9-max Seat #7 is the button
+Seat 2: msna ($25.35 in chips) 
+Seat 3: luvbpest ($15 in chips) 
+Seat 4: Alameda22 ($24.85 in chips) 
+Seat 5: GROM95 ($24.60 in chips) 
+Seat 7: Tim-Taylor5 ($24.65 in chips) 
+Seat 9: skrzypek ($24.25 in chips) 
+skrzypek: posts small blind $0.10
+ManorJr: is sitting out 
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 7h]
+luvbpest: folds 
+ManorJr leaves the table
+Alameda22: folds 
+GROM95: folds 
+Tim-Taylor5: folds 
+skrzypek: folds 
+Uncalled bet ($0.15) returned to msna
+msna collected $0.20 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: msna (big blind) collected ($0.20)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20101022701:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:06:03 ET
+Table 'Meges II' 9-max Seat #9 is the button
+Seat 2: msna ($25.45 in chips) 
+Seat 3: luvbpest ($15 in chips) 
+Seat 4: Alameda22 ($24.85 in chips) 
+Seat 5: GROM95 ($24.60 in chips) 
+Seat 7: Tim-Taylor5 ($24.65 in chips) 
+Seat 9: skrzypek ($24.15 in chips) 
+msna: posts small blind $0.10
+luvbpest: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 8h]
+billard113 is connected 
+Alameda22: folds 
+GROM95: folds 
+Tim-Taylor5: folds 
+skrzypek: folds 
+msna: folds 
+Uncalled bet ($0.15) returned to luvbpest
+luvbpest collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: msna (small blind) folded before Flop
+Seat 3: luvbpest (big blind) collected ($0.20)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101036390:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:06:40 ET
+Table 'Meges II' 9-max Seat #2 is the button
+Seat 2: msna ($25.35 in chips) 
+Seat 3: luvbpest ($15.10 in chips) 
+Seat 4: Alameda22 ($24.85 in chips) 
+Seat 5: GROM95 ($24.60 in chips) 
+Seat 7: Tim-Taylor5 ($24.65 in chips) 
+Seat 9: skrzypek ($24.15 in chips) 
+luvbpest: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 2c]
+GROM95: folds 
+Tim-Taylor5: folds 
+billard113 has returned
+skrzypek: folds 
+msna: raises $0.75 to $1
+luvbpest: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to msna
+msna collected $0.60 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: msna (button) collected ($0.60)
+Seat 3: luvbpest (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101058546:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:07:41 ET
+Table 'Meges II' 9-max Seat #3 is the button
+Seat 2: msna ($25.70 in chips) 
+Seat 3: luvbpest ($15 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: GROM95 ($24.60 in chips) 
+Seat 7: Tim-Taylor5 ($24.65 in chips) 
+Seat 9: skrzypek ($24.15 in chips) 
+Alameda22: posts small blind $0.10
+GROM95: posts big blind $0.25
+billard113: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 9c]
+Tim-Taylor5: calls $0.25
+thevegas joins the table at seat #1 
+skrzypek: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: checks 
+*** FLOP *** [8h Ac 8c]
+GROM95: bets $0.50
+Tim-Taylor5: folds 
+Uncalled bet ($0.50) returned to GROM95
+Eksal leaves the table
+GROM95 collected $0.60 from pot
+GROM95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8h Ac 8c]
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: GROM95 (big blind) collected ($0.60)
+Seat 7: Tim-Taylor5 folded on the Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101085974:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:08:55 ET
+Table 'Meges II' 9-max Seat #4 is the button
+Seat 2: msna ($25.70 in chips) 
+Seat 3: luvbpest ($15 in chips) 
+Seat 4: Alameda22 ($24.50 in chips) 
+Seat 5: GROM95 ($24.95 in chips) 
+Seat 7: Tim-Taylor5 ($24.40 in chips) 
+Seat 9: skrzypek ($24.15 in chips) 
+GROM95: posts small blind $0.10
+Tim-Taylor5: posts big blind $0.25
+billard113: sits out 
+thevegas: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Ah]
+skrzypek: calls $0.25
+msna: raises $1 to $1.25
+luvbpest: folds 
+Alameda22: calls $1.25
+GROM95: folds 
+Tim-Taylor5: folds 
+skrzypek: folds 
+*** FLOP *** [9s 5c 8c]
+noob4lifeto joins the table at seat #6 
+msna: bets $2
+Alameda22: folds 
+Uncalled bet ($2) returned to msna
+msna collected $2.95 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [9s 5c 8c]
+Seat 2: msna collected ($2.95)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded on the Flop
+Seat 5: GROM95 (small blind) folded before Flop
+Seat 7: Tim-Taylor5 (big blind) folded before Flop
+Seat 9: skrzypek folded before Flop
+
+
+
+PokerStars Game #20101110937:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:10:02 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 2: msna ($27.40 in chips) 
+Seat 3: luvbpest ($15 in chips) 
+Seat 4: Alameda22 ($23.25 in chips) 
+Seat 5: GROM95 ($24.85 in chips) 
+Seat 7: Tim-Taylor5 ($24.15 in chips) 
+Seat 8: billard113 ($22.20 in chips) 
+Seat 9: skrzypek ($23.90 in chips) 
+noob4lifeto will be allowed to play after the button
+Tim-Taylor5: posts small blind $0.10
+billard113: posts big blind $0.25
+thevegas: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Jd]
+skrzypek: folds 
+msna: folds 
+luvbpest: calls $0.25
+Alameda22: folds 
+GROM95: folds 
+Tim-Taylor5: calls $0.15
+billard113: checks 
+*** FLOP *** [Qh 4d Tc]
+Tim-Taylor5: checks 
+billard113: checks 
+luvbpest: checks 
+*** TURN *** [Qh 4d Tc] [8s]
+Tim-Taylor5: checks 
+billard113: checks 
+luvbpest: checks 
+*** RIVER *** [Qh 4d Tc 8s] [6s]
+Tim-Taylor5: checks 
+billard113: checks 
+luvbpest: checks 
+*** SHOW DOWN ***
+Tim-Taylor5: shows [9h 8c] (a pair of Eights)
+billard113: mucks hand 
+luvbpest: shows [Ad Td] (a pair of Tens)
+luvbpest collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Qh 4d Tc 8s 6s]
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest showed [Ad Td] and won ($0.75) with a pair of Tens
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 (button) folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 (small blind) showed [9h 8c] and lost with a pair of Eights
+Seat 8: billard113 (big blind) mucked [3s 5d]
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101150051:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:11:50 ET
+Table 'Meges II' 9-max Seat #7 is the button
+Seat 2: msna ($27.40 in chips) 
+Seat 3: luvbpest ($15.50 in chips) 
+Seat 4: Alameda22 ($23.25 in chips) 
+Seat 5: GROM95 ($24.85 in chips) 
+Seat 7: Tim-Taylor5 ($23.90 in chips) 
+Seat 8: billard113 ($21.95 in chips) 
+Seat 9: skrzypek ($23.90 in chips) 
+billard113: posts small blind $0.10
+skrzypek: posts big blind $0.25
+thevegas: sits out 
+noob4lifeto: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 4d]
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: raises $0.50 to $0.75
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+Uncalled bet ($0.50) returned to GROM95
+GROM95 collected $0.60 from pot
+GROM95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 collected ($0.60)
+Seat 7: Tim-Taylor5 (button) folded before Flop (didn't bet)
+Seat 8: billard113 (small blind) folded before Flop
+Seat 9: skrzypek (big blind) folded before Flop
+
+
+
+PokerStars Game #20101165188:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:12:31 ET
+Table 'Meges II' 9-max Seat #8 is the button
+Seat 1: thevegas ($5 in chips) 
+Seat 2: msna ($27.40 in chips) 
+Seat 3: luvbpest ($15.50 in chips) 
+Seat 4: Alameda22 ($23.25 in chips) 
+Seat 5: GROM95 ($25.20 in chips) 
+Seat 7: Tim-Taylor5 ($23.90 in chips) 
+Seat 8: billard113 ($21.85 in chips) 
+Seat 9: skrzypek ($23.65 in chips) 
+skrzypek: posts small blind $0.10
+thevegas: posts big blind $0.25
+noob4lifeto: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h As]
+msna: raises $0.75 to $1
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+thevegas: folds 
+Uncalled bet ($0.75) returned to msna
+msna collected $0.60 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: thevegas (big blind) folded before Flop
+Seat 2: msna collected ($0.60)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20101187232:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:13:33 ET
+Table 'Meges II' 9-max Seat #9 is the button
+Seat 1: thevegas ($4.75 in chips) 
+Seat 2: msna ($27.75 in chips) 
+Seat 3: luvbpest ($15.50 in chips) 
+Seat 4: Alameda22 ($23.25 in chips) 
+Seat 5: GROM95 ($25.20 in chips) 
+Seat 7: Tim-Taylor5 ($23.90 in chips) 
+Seat 8: billard113 ($21.85 in chips) 
+Seat 9: skrzypek ($23.55 in chips) 
+thevegas: posts small blind $0.10
+msna: posts big blind $0.25
+noob4lifeto: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Ks]
+luvbpest: folds 
+Alameda22: folds 
+GROM95: raises $0.75 to $1
+Tim-Taylor5: calls $1
+billard113: folds 
+skrzypek: folds 
+thevegas: folds 
+msna: folds 
+*** FLOP *** [9h Jd 7d]
+GROM95: checks 
+Tim-Taylor5: bets $1
+GROM95: folds 
+Uncalled bet ($1) returned to Tim-Taylor5
+Tim-Taylor5 collected $2.25 from pot
+Tim-Taylor5: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [9h Jd 7d]
+Seat 1: thevegas (small blind) folded before Flop
+Seat 2: msna (big blind) folded before Flop
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded on the Flop
+Seat 7: Tim-Taylor5 collected ($2.25)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101209617:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:14:35 ET
+Table 'Meges II' 9-max Seat #1 is the button
+Seat 1: thevegas ($4.65 in chips) 
+Seat 2: msna ($27.50 in chips) 
+Seat 3: luvbpest ($15.50 in chips) 
+Seat 4: Alameda22 ($23.25 in chips) 
+Seat 5: GROM95 ($24.20 in chips) 
+Seat 7: Tim-Taylor5 ($25.15 in chips) 
+Seat 8: billard113 ($21.85 in chips) 
+Seat 9: skrzypek ($23.55 in chips) 
+msna: posts small blind $0.10
+luvbpest: posts big blind $0.25
+noob4lifeto: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 8d]
+Alameda22: folds 
+GROM95: folds 
+Tim-Taylor5: calls $0.25
+billard113: folds 
+skrzypek: folds 
+thevegas: folds 
+msna: folds 
+luvbpest: checks 
+*** FLOP *** [2d Td Kd]
+luvbpest: bets $0.25
+Tim-Taylor5: folds 
+Uncalled bet ($0.25) returned to luvbpest
+luvbpest collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [2d Td Kd]
+Seat 1: thevegas (button) folded before Flop (didn't bet)
+Seat 2: msna (small blind) folded before Flop
+Seat 3: luvbpest (big blind) collected ($0.60)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded on the Flop
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101233184:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:15:41 ET
+Table 'Meges II' 9-max Seat #2 is the button
+Seat 1: thevegas ($4.65 in chips) 
+Seat 2: msna ($27.40 in chips) 
+Seat 3: luvbpest ($15.85 in chips) 
+Seat 4: Alameda22 ($23.25 in chips) 
+Seat 5: GROM95 ($24.20 in chips) 
+Seat 7: Tim-Taylor5 ($24.90 in chips) 
+Seat 8: billard113 ($21.85 in chips) 
+Seat 9: skrzypek ($23.55 in chips) 
+luvbpest: posts small blind $0.10
+Alameda22: posts big blind $0.25
+noob4lifeto: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 6h]
+GROM95: folds 
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+thevegas: folds 
+msna: folds 
+luvbpest: calls $0.15
+Alameda22: checks 
+*** FLOP *** [4h Js 8h]
+luvbpest: checks 
+Alameda22: bets $0.50
+luvbpest: calls $0.50
+*** TURN *** [4h Js 8h] [Td]
+luvbpest: checks 
+Alameda22: bets $1
+luvbpest: folds 
+Uncalled bet ($1) returned to Alameda22
+Alameda22 collected $1.45 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [4h Js 8h Td]
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 2: msna (button) folded before Flop (didn't bet)
+Seat 3: luvbpest (small blind) folded on the Turn
+Seat 4: Alameda22 (big blind) collected ($1.45)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101259250:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:16:54 ET
+Table 'Meges II' 9-max Seat #3 is the button
+Seat 1: thevegas ($4.65 in chips) 
+Seat 2: msna ($27.40 in chips) 
+Seat 3: luvbpest ($15.10 in chips) 
+Seat 4: Alameda22 ($23.95 in chips) 
+Seat 5: GROM95 ($24.20 in chips) 
+Seat 7: Tim-Taylor5 ($24.90 in chips) 
+Seat 8: billard113 ($21.85 in chips) 
+Seat 9: skrzypek ($23.55 in chips) 
+Alameda22: posts small blind $0.10
+GROM95: posts big blind $0.25
+noob4lifeto: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Tc]
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: calls $0.25
+thevegas: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: raises $1 to $1.25
+skrzypek: folds 
+Uncalled bet ($1) returned to GROM95
+GROM95 collected $0.60 from pot
+GROM95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: GROM95 (big blind) collected ($0.60)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop
+
+
+
+PokerStars Game #20101277225:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:17:44 ET
+Table 'Meges II' 9-max Seat #4 is the button
+Seat 1: thevegas ($4.65 in chips) 
+Seat 2: msna ($27.40 in chips) 
+Seat 3: luvbpest ($15.10 in chips) 
+Seat 4: Alameda22 ($23.85 in chips) 
+Seat 5: GROM95 ($24.55 in chips) 
+Seat 6: noob4lifeto ($15 in chips) 
+Seat 7: Tim-Taylor5 ($24.90 in chips) 
+Seat 8: billard113 ($21.85 in chips) 
+Seat 9: skrzypek ($23.30 in chips) 
+GROM95: posts small blind $0.10
+noob4lifeto: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Th]
+Tim-Taylor5: calls $0.25
+billard113: folds 
+skrzypek: folds 
+thevegas: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: calls $0.25
+GROM95: calls $0.15
+noob4lifeto: raises $1 to $1.25
+Tim-Taylor5: folds 
+Alameda22: calls $1
+GROM95: calls $1
+*** FLOP *** [Ks 8s Qh]
+GROM95: checks 
+noob4lifeto: bets $3.25
+Alameda22: folds 
+GROM95: calls $3.25
+*** TURN *** [Ks 8s Qh] [Jc]
+GROM95: checks 
+noob4lifeto: bets $10.50 and is all-in
+GROM95: calls $10.50
+*** RIVER *** [Ks 8s Qh Jc] [Ah]
+*** SHOW DOWN ***
+GROM95: shows [7s 9s] (high card Ace)
+noob4lifeto: shows [Qc Kd] (two pair, Kings and Queens)
+noob4lifeto collected $29.95 from pot
+*** SUMMARY ***
+Total pot $31.50 | Rake $1.55 
+Board [Ks 8s Qh Jc Ah]
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded on the Flop
+Seat 5: GROM95 (small blind) showed [7s 9s] and lost with high card Ace
+Seat 6: noob4lifeto (big blind) showed [Qc Kd] and won ($29.95) with two pair, Kings and Queens
+Seat 7: Tim-Taylor5 folded before Flop
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101337730:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:20:31 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 1: thevegas ($4.65 in chips) 
+Seat 2: msna ($27.40 in chips) 
+Seat 3: luvbpest ($15.10 in chips) 
+Seat 4: Alameda22 ($22.60 in chips) 
+Seat 5: GROM95 ($25 in chips) 
+Seat 7: Tim-Taylor5 ($24.65 in chips) 
+Seat 8: billard113 ($21.85 in chips) 
+Seat 9: skrzypek ($23.30 in chips) 
+noob4lifeto: is sitting out 
+noob4lifeto leaves the table
+Tim-Taylor5: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 9h]
+skrzypek: folds 
+7thChakra joins the table at seat #6 
+thevegas has timed out
+thevegas: folds 
+thevegas is sitting out
+thevegas has returned
+msna: raises $0.75 to $1
+luvbpest: folds 
+Alameda22: folds 
+GROM95: calls $1
+Tim-Taylor5: folds 
+billard113: folds 
+*** FLOP *** [3h Ks Jh]
+msna: bets $1.50
+GROM95: raises $2 to $3.50
+msna: folds 
+Uncalled bet ($2) returned to GROM95
+GROM95 collected $5.10 from pot
+GROM95: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [3h Ks Jh]
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 2: msna folded on the Flop
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 (button) collected ($5.10)
+Seat 7: Tim-Taylor5 (small blind) folded before Flop
+Seat 8: billard113 (big blind) folded before Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101380486:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:22:29 ET
+Table 'Meges II' 9-max Seat #7 is the button
+Seat 1: thevegas ($4.65 in chips) 
+Seat 2: msna ($24.90 in chips) 
+Seat 3: luvbpest ($15.10 in chips) 
+Seat 4: Alameda22 ($22.60 in chips) 
+Seat 5: GROM95 ($27.60 in chips) 
+Seat 7: Tim-Taylor5 ($24.55 in chips) 
+Seat 8: billard113 ($21.60 in chips) 
+Seat 9: skrzypek ($23.30 in chips) 
+billard113: posts small blind $0.10
+skrzypek: posts big blind $0.25
+7thChakra: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 9c]
+thevegas: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+Tim-Taylor5: calls $0.25
+billard113: folds 
+skrzypek: checks 
+*** FLOP *** [Tc 5d Kh]
+skrzypek: checks 
+Tim-Taylor5: bets $0.25
+skrzypek: folds 
+Uncalled bet ($0.25) returned to Tim-Taylor5
+Tim-Taylor5 collected $0.60 from pot
+Tim-Taylor5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Tc 5d Kh]
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 (button) collected ($0.60)
+Seat 8: billard113 (small blind) folded before Flop
+Seat 9: skrzypek (big blind) folded on the Flop
+
+
+
+PokerStars Game #20101398112:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:23:17 ET
+Table 'Meges II' 9-max Seat #8 is the button
+Seat 1: thevegas ($4.65 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($15.10 in chips) 
+Seat 4: Alameda22 ($22.60 in chips) 
+Seat 5: GROM95 ($27.60 in chips) 
+Seat 7: Tim-Taylor5 ($24.90 in chips) 
+Seat 8: billard113 ($21.50 in chips) 
+Seat 9: skrzypek ($23.05 in chips) 
+skrzypek: posts small blind $0.10
+thevegas: posts big blind $0.25
+7thChakra: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Ks]
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+Tim-Taylor5: calls $0.25
+billard113: folds 
+skrzypek: folds 
+thevegas: checks 
+*** FLOP *** [6c Ad Jh]
+thevegas: checks 
+Tim-Taylor5: bets $0.25
+thevegas: folds 
+Uncalled bet ($0.25) returned to Tim-Taylor5
+Tim-Taylor5 collected $0.60 from pot
+Tim-Taylor5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6c Ad Jh]
+Seat 1: thevegas (big blind) folded on the Flop
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 collected ($0.60)
+Seat 8: billard113 (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20101419538:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:24:15 ET
+Table 'Meges II' 9-max Seat #9 is the button
+Seat 1: thevegas ($4.40 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($15.10 in chips) 
+Seat 4: Alameda22 ($22.60 in chips) 
+Seat 5: GROM95 ($27.60 in chips) 
+Seat 7: Tim-Taylor5 ($25.25 in chips) 
+Seat 8: billard113 ($21.50 in chips) 
+Seat 9: skrzypek ($22.95 in chips) 
+thevegas: posts small blind $0.10
+msna: posts big blind $0.25
+7thChakra: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Th]
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+thevegas: folds 
+Uncalled bet ($0.15) returned to msna
+msna collected $0.20 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: thevegas (small blind) folded before Flop
+Seat 2: msna (big blind) collected ($0.20)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101431859:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:24:48 ET
+Table 'Meges II' 9-max Seat #1 is the button
+Seat 1: thevegas ($4.30 in chips) 
+Seat 2: msna ($25.10 in chips) 
+Seat 3: luvbpest ($15.10 in chips) 
+Seat 4: Alameda22 ($22.60 in chips) 
+Seat 5: GROM95 ($27.60 in chips) 
+Seat 7: Tim-Taylor5 ($25.25 in chips) 
+Seat 8: billard113 ($21.50 in chips) 
+Seat 9: skrzypek ($22.95 in chips) 
+msna: posts small blind $0.10
+luvbpest: posts big blind $0.25
+7thChakra: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Js]
+Alameda22: raises $0.75 to $1
+GROM95: folds 
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+thevegas: folds 
+msna: folds 
+luvbpest: folds 
+Uncalled bet ($0.75) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: thevegas (button) folded before Flop (didn't bet)
+Seat 2: msna (small blind) folded before Flop
+Seat 3: luvbpest (big blind) folded before Flop
+Seat 4: Alameda22 collected ($0.60)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101446955:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:25:30 ET
+Table 'Meges II' 9-max Seat #2 is the button
+Seat 1: thevegas ($4.30 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($14.85 in chips) 
+Seat 4: Alameda22 ($22.95 in chips) 
+Seat 5: GROM95 ($27.60 in chips) 
+Seat 7: Tim-Taylor5 ($25.25 in chips) 
+Seat 8: billard113 ($21.50 in chips) 
+Seat 9: skrzypek ($22.95 in chips) 
+luvbpest: posts small blind $0.10
+Alameda22: posts big blind $0.25
+7thChakra: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Jc]
+GROM95: folds 
+Tim-Taylor5: calls $0.25
+billard113: calls $0.25
+skrzypek: folds 
+thevegas: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: checks 
+*** FLOP *** [Ad 6c Ks]
+Alameda22: checks 
+Tim-Taylor5: checks 
+billard113: checks 
+*** TURN *** [Ad 6c Ks] [Jh]
+Alameda22: checks 
+Tim-Taylor5: bets $0.25
+billard113: folds 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to Tim-Taylor5
+Tim-Taylor5 collected $0.85 from pot
+Tim-Taylor5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Ad 6c Ks Jh]
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 2: msna (button) folded before Flop (didn't bet)
+Seat 3: luvbpest (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded on the Turn
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 collected ($0.85)
+Seat 8: billard113 folded on the Turn
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101480290:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:27:01 ET
+Table 'Meges II' 9-max Seat #3 is the button
+Seat 1: thevegas ($4.30 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($14.75 in chips) 
+Seat 4: Alameda22 ($22.70 in chips) 
+Seat 5: GROM95 ($27.60 in chips) 
+Seat 7: Tim-Taylor5 ($25.85 in chips) 
+Seat 8: billard113 ($21.25 in chips) 
+Seat 9: skrzypek ($22.95 in chips) 
+Alameda22: posts small blind $0.10
+GROM95: posts big blind $0.25
+7thChakra: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Kh]
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+thevegas: folds 
+msna: folds 
+luvbpest: calls $0.25
+Alameda22: folds 
+GROM95: checks 
+*** FLOP *** [8s Ac 7d]
+GROM95: checks 
+luvbpest: checks 
+*** TURN *** [8s Ac 7d] [8c]
+GROM95: checks 
+luvbpest: checks 
+*** RIVER *** [8s Ac 7d 8c] [Kc]
+GROM95: bets $0.75
+luvbpest: folds 
+Uncalled bet ($0.75) returned to GROM95
+GROM95 collected $0.60 from pot
+GROM95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8s Ac 7d 8c Kc]
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest (button) folded on the River
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: GROM95 (big blind) collected ($0.60)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101501288:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:27:59 ET
+Table 'Meges II' 9-max Seat #4 is the button
+Seat 1: thevegas ($4.30 in chips) 
+Seat 2: msna ($25 in chips) 
+Seat 3: luvbpest ($14.50 in chips) 
+Seat 4: Alameda22 ($22.60 in chips) 
+Seat 5: GROM95 ($27.95 in chips) 
+Seat 6: 7thChakra ($25 in chips) 
+Seat 7: Tim-Taylor5 ($25.85 in chips) 
+Seat 8: billard113 ($21.25 in chips) 
+Seat 9: skrzypek ($22.95 in chips) 
+GROM95: posts small blind $0.10
+7thChakra: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 7c]
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+thevegas: folds 
+msna: raises $0.75 to $1
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+7thChakra: folds 
+Uncalled bet ($0.75) returned to msna
+msna collected $0.60 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 2: msna collected ($0.60)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: GROM95 (small blind) folded before Flop
+Seat 6: 7thChakra (big blind) folded before Flop
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101522351:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:28:57 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 1: thevegas ($4.30 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 3: luvbpest ($14.50 in chips) 
+Seat 4: Alameda22 ($22.60 in chips) 
+Seat 5: GROM95 ($27.85 in chips) 
+Seat 6: 7thChakra ($24.75 in chips) 
+Seat 7: Tim-Taylor5 ($25.85 in chips) 
+Seat 8: billard113 ($21.25 in chips) 
+Seat 9: skrzypek ($22.95 in chips) 
+7thChakra: posts small blind $0.10
+Tim-Taylor5: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 2c]
+billard113: folds 
+skrzypek: folds 
+thevegas: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: raises $0.50 to $0.75
+7thChakra: folds 
+Tim-Taylor5: calls $0.50
+*** FLOP *** [2h 9h Ah]
+Tim-Taylor5: bets $0.50
+GROM95: folds 
+Uncalled bet ($0.50) returned to Tim-Taylor5
+Tim-Taylor5 collected $1.55 from pot
+Tim-Taylor5: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [2h 9h Ah]
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 (button) folded on the Flop
+Seat 6: 7thChakra (small blind) folded before Flop
+Seat 7: Tim-Taylor5 (big blind) collected ($1.55)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101544586:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:29:59 ET
+Table 'Meges II' 9-max Seat #6 is the button
+Seat 1: thevegas ($4.30 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 3: luvbpest ($14.50 in chips) 
+Seat 4: Alameda22 ($22.60 in chips) 
+Seat 5: GROM95 ($27.10 in chips) 
+Seat 6: 7thChakra ($24.65 in chips) 
+Seat 7: Tim-Taylor5 ($26.65 in chips) 
+Seat 8: billard113 ($21.25 in chips) 
+Seat 9: skrzypek ($22.95 in chips) 
+Tim-Taylor5: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 4h]
+skrzypek: folds 
+thevegas: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+7thChakra: raises $0.50 to $0.75
+Tim-Taylor5: folds 
+billard113: folds 
+Uncalled bet ($0.50) returned to 7thChakra
+7thChakra collected $0.60 from pot
+7thChakra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: 7thChakra (button) collected ($0.60)
+Seat 7: Tim-Taylor5 (small blind) folded before Flop
+Seat 8: billard113 (big blind) folded before Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101571839:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:31:11 ET
+Table 'Meges II' 9-max Seat #7 is the button
+Seat 1: thevegas ($4.30 in chips) 
+Seat 2: msna ($25.35 in chips) 
+Seat 3: luvbpest ($14.50 in chips) 
+Seat 4: Alameda22 ($22.60 in chips) 
+Seat 5: GROM95 ($27.10 in chips) 
+Seat 6: 7thChakra ($25 in chips) 
+Seat 7: Tim-Taylor5 ($26.55 in chips) 
+Seat 8: billard113 ($21 in chips) 
+Seat 9: skrzypek ($22.95 in chips) 
+billard113: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Js]
+thevegas: folds 
+msna: raises $0.75 to $1
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+7thChakra: folds 
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+Uncalled bet ($0.75) returned to msna
+msna collected $0.60 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 2: msna collected ($0.60)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: 7thChakra folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 (button) folded before Flop (didn't bet)
+Seat 8: billard113 (small blind) folded before Flop
+Seat 9: skrzypek (big blind) folded before Flop
+
+
+
+PokerStars Game #20101598149:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:32:23 ET
+Table 'Meges II' 9-max Seat #8 is the button
+Seat 2: msna ($25.70 in chips) 
+Seat 3: luvbpest ($14.50 in chips) 
+Seat 4: Alameda22 ($22.60 in chips) 
+Seat 5: GROM95 ($27.10 in chips) 
+Seat 6: 7thChakra ($25 in chips) 
+Seat 7: Tim-Taylor5 ($26.55 in chips) 
+Seat 8: billard113 ($20.90 in chips) 
+Seat 9: skrzypek ($22.70 in chips) 
+skrzypek: posts small blind $0.10
+thevegas: is sitting out 
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Th]
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+7thChakra: folds 
+Tim-Taylor5: calls $0.25
+billard113: folds 
+skrzypek: folds 
+msna: checks 
+*** FLOP *** [Kd Js 4h]
+msna: checks 
+Tim-Taylor5: bets $0.25
+msna: folds 
+Uncalled bet ($0.25) returned to Tim-Taylor5
+Tim-Taylor5 collected $0.60 from pot
+Tim-Taylor5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kd Js 4h]
+Seat 2: msna (big blind) folded on the Flop
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: 7thChakra folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 collected ($0.60)
+Seat 8: billard113 (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20101629456:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:33:48 ET
+Table 'Meges II' 9-max Seat #9 is the button
+Seat 2: msna ($25.45 in chips) 
+Seat 3: luvbpest ($14.50 in chips) 
+Seat 4: Alameda22 ($22.60 in chips) 
+Seat 5: GROM95 ($27.10 in chips) 
+Seat 6: 7thChakra ($25 in chips) 
+Seat 7: Tim-Taylor5 ($26.90 in chips) 
+Seat 8: billard113 ($20.90 in chips) 
+Seat 9: skrzypek ($22.60 in chips) 
+msna: posts small blind $0.10
+luvbpest: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 9c]
+Alameda22: folds 
+GROM95: folds 
+7thChakra: folds 
+Tim-Taylor5: calls $0.25
+billard113: folds 
+skrzypek: folds 
+msna: folds 
+luvbpest: checks 
+*** FLOP *** [Ad 4h 3h]
+luvbpest: checks 
+Tim-Taylor5: bets $0.50
+luvbpest: folds 
+Uncalled bet ($0.50) returned to Tim-Taylor5
+Tim-Taylor5 collected $0.60 from pot
+Tim-Taylor5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ad 4h 3h]
+Seat 2: msna (small blind) folded before Flop
+Seat 3: luvbpest (big blind) folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: 7thChakra folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 collected ($0.60)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101651763:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:34:48 ET
+Table 'Meges II' 9-max Seat #2 is the button
+Seat 2: msna ($25.35 in chips) 
+Seat 3: luvbpest ($14.25 in chips) 
+Seat 4: Alameda22 ($22.60 in chips) 
+Seat 5: GROM95 ($27.10 in chips) 
+Seat 6: 7thChakra ($25 in chips) 
+Seat 7: Tim-Taylor5 ($27.25 in chips) 
+Seat 8: billard113 ($20.90 in chips) 
+Seat 9: skrzypek ($22.60 in chips) 
+luvbpest: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 9h]
+GROM95: folds 
+7thChakra: folds 
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+msna: raises $0.50 to $0.75
+luvbpest: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to msna
+msna collected $0.60 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: msna (button) collected ($0.60)
+Seat 3: luvbpest (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: 7thChakra folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101672949:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:35:46 ET
+Table 'Meges II' 9-max Seat #3 is the button
+Seat 2: msna ($25.70 in chips) 
+Seat 3: luvbpest ($14.15 in chips) 
+Seat 4: Alameda22 ($22.35 in chips) 
+Seat 5: GROM95 ($27.10 in chips) 
+Seat 6: 7thChakra ($25 in chips) 
+Seat 7: Tim-Taylor5 ($27.25 in chips) 
+Seat 8: billard113 ($20.90 in chips) 
+Seat 9: skrzypek ($22.60 in chips) 
+Alameda22: posts small blind $0.10
+GROM95: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 9s]
+7thChakra: raises $0.50 to $0.75
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+Uncalled bet ($0.50) returned to 7thChakra
+7thChakra collected $0.60 from pot
+7thChakra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: GROM95 (big blind) folded before Flop
+Seat 6: 7thChakra collected ($0.60)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101685384:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:36:21 ET
+Table 'Meges II' 9-max Seat #4 is the button
+Seat 2: msna ($25.70 in chips) 
+Seat 3: luvbpest ($14.15 in chips) 
+Seat 4: Alameda22 ($22.25 in chips) 
+Seat 5: GROM95 ($26.85 in chips) 
+Seat 6: 7thChakra ($25.35 in chips) 
+Seat 7: Tim-Taylor5 ($27.25 in chips) 
+Seat 8: billard113 ($20.90 in chips) 
+Seat 9: skrzypek ($22.60 in chips) 
+GROM95: posts small blind $0.10
+7thChakra: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 9s]
+Tim-Taylor5: folds 
+billard113: calls $0.25
+skrzypek: folds 
+msna: folds 
+luvbpest: raises $0.25 to $0.50
+Alameda22: folds 
+GROM95: folds 
+7thChakra: calls $0.25
+billard113: calls $0.25
+*** FLOP *** [3s Jh 8c]
+7thChakra: checks 
+billard113: checks 
+luvbpest: checks 
+*** TURN *** [3s Jh 8c] [Ts]
+7thChakra: checks 
+billard113: bets $0.75
+luvbpest: folds 
+7thChakra: folds 
+Uncalled bet ($0.75) returned to billard113
+billard113 collected $1.55 from pot
+billard113: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [3s Jh 8c Ts]
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded on the Turn
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: GROM95 (small blind) folded before Flop
+Seat 6: 7thChakra (big blind) folded on the Turn
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 collected ($1.55)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101712596:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:37:35 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 2: msna ($25.70 in chips) 
+Seat 3: luvbpest ($13.65 in chips) 
+Seat 4: Alameda22 ($22.25 in chips) 
+Seat 5: GROM95 ($26.75 in chips) 
+Seat 6: 7thChakra ($24.85 in chips) 
+Seat 7: Tim-Taylor5 ($27.25 in chips) 
+Seat 8: billard113 ($21.95 in chips) 
+Seat 9: skrzypek ($22.60 in chips) 
+7thChakra: posts small blind $0.10
+Tim-Taylor5: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Qs]
+billard113: folds 
+skrzypek: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+7thChakra: raises $0.50 to $0.75
+Tim-Taylor5: calls $0.50
+*** FLOP *** [Qc Kd 7c]
+7thChakra: bets $0.75
+Tim-Taylor5: raises $0.75 to $1.50
+7thChakra: calls $0.75
+*** TURN *** [Qc Kd 7c] [Tc]
+7thChakra: checks 
+Tim-Taylor5: bets $1
+7thChakra: folds 
+Uncalled bet ($1) returned to Tim-Taylor5
+Tim-Taylor5 collected $4.30 from pot
+Tim-Taylor5: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [Qc Kd 7c Tc]
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 (button) folded before Flop (didn't bet)
+Seat 6: 7thChakra (small blind) folded on the Turn
+Seat 7: Tim-Taylor5 (big blind) collected ($4.30)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101736523:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:38:42 ET
+Table 'Meges II' 9-max Seat #6 is the button
+Seat 2: msna ($25.70 in chips) 
+Seat 3: luvbpest ($13.65 in chips) 
+Seat 4: Alameda22 ($22.25 in chips) 
+Seat 5: GROM95 ($26.75 in chips) 
+Seat 6: 7thChakra ($22.60 in chips) 
+Seat 7: Tim-Taylor5 ($29.30 in chips) 
+Seat 8: billard113 ($21.95 in chips) 
+Seat 9: skrzypek ($22.60 in chips) 
+Tim-Taylor5: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Ac]
+skrzypek: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: raises $0.50 to $0.75
+7thChakra: raises $1.50 to $2.25
+Tim-Taylor5: folds 
+billard113: folds 
+GROM95: calls $1.50
+*** FLOP *** [Tc 5d 3h]
+GROM95: checks 
+7thChakra: bets $2
+GROM95: calls $2
+*** TURN *** [Tc 5d 3h] [6s]
+GROM95: checks 
+7thChakra: checks 
+*** RIVER *** [Tc 5d 3h 6s] [3d]
+GROM95: checks 
+7thChakra: checks 
+*** SHOW DOWN ***
+GROM95: shows [Jd Td] (two pair, Tens and Threes)
+7thChakra: mucks hand 
+GROM95 collected $8.45 from pot
+*** SUMMARY ***
+Total pot $8.85 | Rake $0.40 
+Board [Tc 5d 3h 6s 3d]
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 showed [Jd Td] and won ($8.45) with two pair, Tens and Threes
+Seat 6: 7thChakra (button) mucked [Jc Ks]
+Seat 7: Tim-Taylor5 (small blind) folded before Flop
+Seat 8: billard113 (big blind) folded before Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101758678:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:39:42 ET
+Table 'Meges II' 9-max Seat #7 is the button
+Seat 2: msna ($25.70 in chips) 
+Seat 3: luvbpest ($13.65 in chips) 
+Seat 4: Alameda22 ($22.25 in chips) 
+Seat 5: GROM95 ($30.95 in chips) 
+Seat 6: 7thChakra ($18.35 in chips) 
+Seat 7: Tim-Taylor5 ($29.20 in chips) 
+Seat 8: billard113 ($21.70 in chips) 
+Seat 9: skrzypek ($22.60 in chips) 
+billard113: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Jh]
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+7thChakra: raises $0.50 to $0.75
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+Uncalled bet ($0.50) returned to 7thChakra
+7thChakra collected $0.60 from pot
+7thChakra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: 7thChakra collected ($0.60)
+Seat 7: Tim-Taylor5 (button) folded before Flop (didn't bet)
+Seat 8: billard113 (small blind) folded before Flop
+Seat 9: skrzypek (big blind) folded before Flop
+
+
+
+PokerStars Game #20101779071:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:40:37 ET
+Table 'Meges II' 9-max Seat #8 is the button
+Seat 2: msna ($25.70 in chips) 
+Seat 3: luvbpest ($13.65 in chips) 
+Seat 4: Alameda22 ($22.25 in chips) 
+Seat 5: GROM95 ($30.95 in chips) 
+Seat 6: 7thChakra ($18.70 in chips) 
+Seat 7: Tim-Taylor5 ($29.20 in chips) 
+Seat 8: billard113 ($21.60 in chips) 
+Seat 9: skrzypek ($22.35 in chips) 
+skrzypek: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 3c]
+luvbpest: folds 
+Alameda22: folds 
+GROM95: folds 
+7thChakra: folds 
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+Uncalled bet ($0.15) returned to msna
+msna collected $0.20 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: msna (big blind) collected ($0.20)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: 7thChakra folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20101799276:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:41:32 ET
+Table 'Meges II' 9-max Seat #9 is the button
+Seat 2: msna ($25.80 in chips) 
+Seat 3: luvbpest ($13.65 in chips) 
+Seat 4: Alameda22 ($22.25 in chips) 
+Seat 5: GROM95 ($30.95 in chips) 
+Seat 6: 7thChakra ($18.70 in chips) 
+Seat 7: Tim-Taylor5 ($29.20 in chips) 
+Seat 8: billard113 ($21.60 in chips) 
+Seat 9: skrzypek ($22.25 in chips) 
+msna: posts small blind $0.10
+luvbpest: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 7c]
+Alameda22: folds 
+GROM95: folds 
+7thChakra: raises $0.50 to $0.75
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: calls $0.75
+msna: folds 
+luvbpest: folds 
+*** FLOP *** [6c Ac 7s]
+7thChakra: bets $0.75
+skrzypek: calls $0.75
+*** TURN *** [6c Ac 7s] [Ts]
+7thChakra: bets $2
+skrzypek: calls $2
+*** RIVER *** [6c Ac 7s Ts] [Js]
+7thChakra: checks 
+skrzypek: bets $4
+7thChakra: calls $4
+*** SHOW DOWN ***
+skrzypek: shows [Kc Qc] (a straight, Ten to Ace)
+7thChakra: mucks hand 
+skrzypek collected $14.60 from pot
+thevegas has returned
+*** SUMMARY ***
+Total pot $15.35 | Rake $0.75 
+Board [6c Ac 7s Ts Js]
+Seat 2: msna (small blind) folded before Flop
+Seat 3: luvbpest (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: 7thChakra mucked [Th Ah]
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek (button) showed [Kc Qc] and won ($14.60) with a straight, Ten to Ace
+
+
+
+PokerStars Game #20101826026:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:42:44 ET
+Table 'Meges II' 9-max Seat #2 is the button
+Seat 2: msna ($25.70 in chips) 
+Seat 3: luvbpest ($13.40 in chips) 
+Seat 4: Alameda22 ($22.25 in chips) 
+Seat 5: GROM95 ($30.95 in chips) 
+Seat 6: 7thChakra ($11.20 in chips) 
+Seat 7: Tim-Taylor5 ($29.20 in chips) 
+Seat 8: billard113 ($21.60 in chips) 
+Seat 9: skrzypek ($29.35 in chips) 
+luvbpest: posts small blind $0.10
+Alameda22: posts big blind $0.25
+thevegas: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Qc]
+GROM95: folds 
+7thChakra: folds 
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+msna: folds 
+luvbpest: calls $0.15
+Alameda22: checks 
+*** FLOP *** [5s 4h 6d]
+luvbpest: checks 
+Alameda22: checks 
+*** TURN *** [5s 4h 6d] [3c]
+luvbpest: bets $0.25
+Alameda22: folds 
+Uncalled bet ($0.25) returned to luvbpest
+luvbpest collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [5s 4h 6d 3c]
+Seat 2: msna (button) folded before Flop (didn't bet)
+Seat 3: luvbpest (small blind) collected ($0.50)
+Seat 4: Alameda22 (big blind) folded on the Turn
+Seat 5: GROM95 folded before Flop (didn't bet)
+Seat 6: 7thChakra folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101875358:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:44:59 ET
+Table 'Meges II' 9-max Seat #3 is the button
+Seat 1: thevegas ($4.30 in chips) 
+Seat 2: msna ($25.70 in chips) 
+Seat 3: luvbpest ($13.65 in chips) 
+Seat 4: Alameda22 ($22 in chips) 
+Seat 5: GROM95 ($30.95 in chips) 
+Seat 6: 7thChakra ($11.20 in chips) 
+Seat 7: Tim-Taylor5 ($29.20 in chips) 
+Seat 8: billard113 ($21.60 in chips) 
+Seat 9: skrzypek ($29.35 in chips) 
+Alameda22: posts small blind $0.10
+GROM95: posts big blind $0.25
+thevegas: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 7h]
+7thChakra: folds 
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+thevegas: checks 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: checks 
+*** FLOP *** [Js 8c 6s]
+GROM95: checks 
+thevegas: checks 
+*** TURN *** [Js 8c 6s] [Kc]
+GROM95: checks 
+thevegas: checks 
+*** RIVER *** [Js 8c 6s Kc] [9h]
+GROM95: checks 
+thevegas: checks 
+*** SHOW DOWN ***
+GROM95: shows [9c 5c] (a pair of Nines)
+thevegas: mucks hand 
+GROM95 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Board [Js 8c 6s Kc 9h]
+Seat 1: thevegas mucked [2d 8h]
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: GROM95 (big blind) showed [9c 5c] and won ($0.70) with a pair of Nines
+Seat 6: 7thChakra folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101911938:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:46:39 ET
+Table 'Meges II' 9-max Seat #4 is the button
+Seat 1: thevegas ($3.95 in chips) 
+Seat 2: msna ($25.70 in chips) 
+Seat 3: luvbpest ($13.65 in chips) 
+Seat 4: Alameda22 ($21.90 in chips) 
+Seat 5: GROM95 ($31.40 in chips) 
+Seat 6: 7thChakra ($11.20 in chips) 
+Seat 7: Tim-Taylor5 ($29.20 in chips) 
+Seat 8: billard113 ($21.60 in chips) 
+Seat 9: skrzypek ($29.35 in chips) 
+GROM95: posts small blind $0.10
+7thChakra: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Jc]
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+thevegas: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+GROM95: raises $0.50 to $0.75
+7thChakra: folds 
+Uncalled bet ($0.50) returned to GROM95
+GROM95 collected $0.50 from pot
+GROM95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: GROM95 (small blind) collected ($0.50)
+Seat 6: 7thChakra (big blind) folded before Flop
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101930160:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:47:30 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 1: thevegas ($5.95 in chips) 
+Seat 2: msna ($25.70 in chips) 
+Seat 3: luvbpest ($13.65 in chips) 
+Seat 4: Alameda22 ($21.90 in chips) 
+Seat 5: GROM95 ($31.65 in chips) 
+Seat 6: 7thChakra ($10.95 in chips) 
+Seat 7: Tim-Taylor5 ($29.20 in chips) 
+Seat 8: billard113 ($21.60 in chips) 
+Seat 9: skrzypek ($29.35 in chips) 
+7thChakra: posts small blind $0.10
+Tim-Taylor5: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 8d]
+billard113: folds 
+skrzypek: folds 
+thevegas: folds 
+msna: folds 
+luvbpest: calls $0.25
+Alameda22: folds 
+GROM95: folds 
+GROM95 leaves the table
+7thChakra: folds 
+Tim-Taylor5: checks 
+*** FLOP *** [Ah 2s Js]
+Tim-Taylor5: checks 
+luvbpest: bets $0.25
+Tim-Taylor5: folds 
+Uncalled bet ($0.25) returned to luvbpest
+luvbpest collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ah 2s Js]
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest collected ($0.60)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: GROM95 (button) folded before Flop (didn't bet)
+Seat 6: 7thChakra (small blind) folded before Flop
+Seat 7: Tim-Taylor5 (big blind) folded on the Flop
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101957331:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:48:44 ET
+Table 'Meges II' 9-max Seat #6 is the button
+Seat 1: thevegas ($5.95 in chips) 
+Seat 2: msna ($25.70 in chips) 
+Seat 3: luvbpest ($14 in chips) 
+Seat 4: Alameda22 ($21.90 in chips) 
+Seat 6: 7thChakra ($10.85 in chips) 
+Seat 7: Tim-Taylor5 ($28.95 in chips) 
+Seat 8: billard113 ($21.60 in chips) 
+Seat 9: skrzypek ($29.35 in chips) 
+Tim-Taylor5: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 7d]
+skrzypek: raises $0.75 to $1
+thevegas: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+7thChakra: folds 
+Tim-Taylor5: calls $0.90
+billard113: folds 
+*** FLOP *** [7c 4d Tc]
+Tim-Taylor5: checks 
+skrzypek: bets $1.50
+Tim-Taylor5: calls $1.50
+*** TURN *** [7c 4d Tc] [8h]
+Tim-Taylor5: checks 
+skrzypek: bets $2.50
+Tim-Taylor5: calls $2.50
+*** RIVER *** [7c 4d Tc 8h] [7h]
+Tim-Taylor5: checks 
+skrzypek: checks 
+*** SHOW DOWN ***
+Tim-Taylor5: shows [Jd Jh] (two pair, Jacks and Sevens)
+skrzypek: mucks hand 
+Tim-Taylor5 collected $9.75 from pot
+*** SUMMARY ***
+Total pot $10.25 | Rake $0.50 
+Board [7c 4d Tc 8h 7h]
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: 7thChakra (button) folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 (small blind) showed [Jd Jh] and won ($9.75) with two pair, Jacks and Sevens
+Seat 8: billard113 (big blind) folded before Flop
+Seat 9: skrzypek mucked [Kc Qc]
+
+
+
+PokerStars Game #20101991801:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:50:20 ET
+Table 'Meges II' 9-max Seat #7 is the button
+Seat 1: thevegas ($5.95 in chips) 
+Seat 2: msna ($25.70 in chips) 
+Seat 3: luvbpest ($14 in chips) 
+Seat 4: Alameda22 ($21.90 in chips) 
+Seat 6: 7thChakra ($10.85 in chips) 
+Seat 7: Tim-Taylor5 ($33.70 in chips) 
+Seat 8: billard113 ($21.35 in chips) 
+Seat 9: skrzypek ($24.35 in chips) 
+billard113: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 8s]
+thevegas: folds 
+msna: folds 
+luvbpest: folds 
+Alameda22: folds 
+7thChakra: raises $0.50 to $0.75
+Tim-Taylor5: folds 
+billard113: calls $0.65
+skrzypek: folds 
+*** FLOP *** [Ts Qh Kd]
+billard113: checks 
+7thChakra: checks 
+*** TURN *** [Ts Qh Kd] [3s]
+billard113: checks 
+7thChakra: checks 
+*** RIVER *** [Ts Qh Kd 3s] [8d]
+billard113: checks 
+7thChakra: checks 
+*** SHOW DOWN ***
+billard113: shows [9c 8c] (a pair of Eights)
+7thChakra: mucks hand 
+billard113 collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Ts Qh Kd 3s 8d]
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: 7thChakra mucked [7d As]
+Seat 7: Tim-Taylor5 (button) folded before Flop (didn't bet)
+Seat 8: billard113 (small blind) showed [9c 8c] and won ($1.70) with a pair of Eights
+Seat 9: skrzypek (big blind) folded before Flop
+
+
+
+PokerStars Game #20102014405:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:51:22 ET
+Table 'Meges II' 9-max Seat #8 is the button
+Seat 1: thevegas ($5.95 in chips) 
+Seat 2: msna ($25.70 in chips) 
+Seat 3: luvbpest ($14 in chips) 
+Seat 4: Alameda22 ($21.90 in chips) 
+Seat 6: 7thChakra ($10.10 in chips) 
+Seat 7: Tim-Taylor5 ($33.70 in chips) 
+Seat 8: billard113 ($22.30 in chips) 
+Seat 9: skrzypek ($24.10 in chips) 
+skrzypek: posts small blind $0.10
+thevegas: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Ks]
+msna: folds 
+msna leaves the table
+luvbpest: calls $0.25
+Alameda22: folds 
+7thChakra: folds 
+Tim-Taylor5: calls $0.25
+billard113: folds 
+skrzypek: calls $0.15
+thevegas: checks 
+*** FLOP *** [Ts 5d 3c]
+skrzypek: bets $0.50
+thevegas: folds 
+luvbpest: folds 
+Tim-Taylor5: folds 
+Uncalled bet ($0.50) returned to skrzypek
+skrzypek collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Ts 5d 3c]
+Seat 1: thevegas (big blind) folded on the Flop
+Seat 2: msna folded before Flop (didn't bet)
+Seat 3: luvbpest folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: 7thChakra folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded on the Flop
+Seat 8: billard113 (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) collected ($0.95)
+
+
+
+PokerStars Game #20102031670:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:52:10 ET
+Table 'Meges II' 9-max Seat #9 is the button
+Seat 1: thevegas ($5.70 in chips) 
+Seat 3: luvbpest ($13.75 in chips) 
+Seat 4: Alameda22 ($21.90 in chips) 
+Seat 6: 7thChakra ($25 in chips) 
+Seat 7: Tim-Taylor5 ($33.45 in chips) 
+Seat 8: billard113 ($22.30 in chips) 
+Seat 9: skrzypek ($24.80 in chips) 
+thevegas: posts small blind $0.10
+luvbpest: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 4s]
+Alameda22: folds 
+7thChakra: folds 
+JPNAWOR joins the table at seat #5 
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+thevegas: calls $0.15
+luvbpest: checks 
+*** FLOP *** [3s 9s Kh]
+thevegas: bets $0.50
+luvbpest: folds 
+Uncalled bet ($0.50) returned to thevegas
+thevegas collected $0.50 from pot
+thevegas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [3s 9s Kh]
+Seat 1: thevegas (small blind) collected ($0.50)
+Seat 3: luvbpest (big blind) folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: 7thChakra folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102050389:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:53:02 ET
+Table 'Meges II' 9-max Seat #1 is the button
+Seat 1: thevegas ($5.95 in chips) 
+Seat 3: luvbpest ($13.50 in chips) 
+Seat 4: Alameda22 ($21.90 in chips) 
+Seat 5: JPNAWOR ($15 in chips) 
+Seat 6: 7thChakra ($25 in chips) 
+Seat 7: Tim-Taylor5 ($33.45 in chips) 
+Seat 8: billard113 ($22.30 in chips) 
+Seat 9: skrzypek ($24.80 in chips) 
+luvbpest: posts small blind $0.10
+Alameda22: posts big blind $0.25
+JPNAWOR: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Qh]
+JPNAWOR: checks 
+7thChakra: folds 
+Tim-Taylor5: folds 
+billard113: folds 
+skrzypek: folds 
+thevegas: folds 
+luvbpest: folds 
+Alameda22: checks 
+*** FLOP *** [7c Qc 6h]
+Alameda22: bets $0.25
+skrzypek leaves the table
+JPNAWOR: folds 
+Uncalled bet ($0.25) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7c Qc 6h]
+Seat 1: thevegas (button) folded before Flop (didn't bet)
+Seat 3: luvbpest (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) collected ($0.60)
+Seat 5: JPNAWOR folded on the Flop
+Seat 6: 7thChakra folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102072449:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:54:02 ET
+Table 'Meges II' 9-max Seat #3 is the button
+Seat 1: thevegas ($5.95 in chips) 
+Seat 3: luvbpest ($13.40 in chips) 
+Seat 4: Alameda22 ($22.25 in chips) 
+Seat 5: JPNAWOR ($14.75 in chips) 
+Seat 6: 7thChakra ($25 in chips) 
+Seat 7: Tim-Taylor5 ($33.45 in chips) 
+Seat 8: billard113 ($22.30 in chips) 
+Alameda22: posts small blind $0.10
+JPNAWOR: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 9c]
+7thChakra: folds 
+Tim-Taylor5: folds 
+billard113: folds 
+thevegas: raises $0.75 to $1
+luvbpest: folds 
+Alameda22: folds 
+JPNAWOR: folds 
+Uncalled bet ($0.75) returned to thevegas
+thevegas collected $0.60 from pot
+thevegas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: thevegas collected ($0.60)
+Seat 3: luvbpest (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: JPNAWOR (big blind) folded before Flop
+Seat 6: 7thChakra folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102085787:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:54:39 ET
+Table 'Meges II' 9-max Seat #4 is the button
+Seat 1: thevegas ($6.30 in chips) 
+Seat 3: luvbpest ($13.40 in chips) 
+Seat 4: Alameda22 ($22.15 in chips) 
+Seat 5: JPNAWOR ($14.50 in chips) 
+Seat 7: Tim-Taylor5 ($33.45 in chips) 
+Seat 8: billard113 ($22.30 in chips) 
+JPNAWOR: posts small blind $0.10
+7thChakra: is sitting out 
+Tim-Taylor5: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 5d]
+7thChakra leaves the table
+billard113: folds 
+thevegas: folds 
+luvbpest: folds 
+Alameda22: folds 
+JPNAWOR: calls $0.15
+Tim-Taylor5: checks 
+*** FLOP *** [3d 8d 6c]
+JPNAWOR: checks 
+Tim-Taylor5: checks 
+*** TURN *** [3d 8d 6c] [Js]
+JPNAWOR: checks 
+Tim-Taylor5: bets $0.25
+JPNAWOR: folds 
+Uncalled bet ($0.25) returned to Tim-Taylor5
+Tim-Taylor5 collected $0.50 from pot
+Tim-Taylor5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [3d 8d 6c Js]
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: JPNAWOR (small blind) folded on the Turn
+Seat 7: Tim-Taylor5 (big blind) collected ($0.50)
+Seat 8: billard113 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102111317:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:55:49 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 1: thevegas ($6.30 in chips) 
+Seat 3: luvbpest ($13.40 in chips) 
+Seat 4: Alameda22 ($22.15 in chips) 
+Seat 5: JPNAWOR ($14.25 in chips) 
+Seat 7: Tim-Taylor5 ($33.70 in chips) 
+Seat 8: billard113 ($22.30 in chips) 
+Tim-Taylor5: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Jh]
+oddssey joins the table at seat #2 
+thevegas: folds 
+luvbpest: folds 
+Alameda22: folds 
+JPNAWOR: folds 
+Tim-Taylor5: folds 
+Uncalled bet ($0.15) returned to billard113
+billard113 collected $0.20 from pot
+billard113: shows [Qh 7s] (high card Queen)
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: JPNAWOR (button) folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 (small blind) folded before Flop
+Seat 8: billard113 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #20102125326:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:56:27 ET
+Table 'Meges II' 9-max Seat #7 is the button
+Seat 1: thevegas ($6.30 in chips) 
+Seat 2: oddssey ($10.20 in chips) 
+Seat 3: luvbpest ($13.40 in chips) 
+Seat 4: Alameda22 ($22.15 in chips) 
+Seat 5: JPNAWOR ($14.25 in chips) 
+Seat 7: Tim-Taylor5 ($33.60 in chips) 
+Seat 8: billard113 ($22.40 in chips) 
+billard113: posts small blind $0.10
+thevegas: posts big blind $0.25
+oddssey: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 4c]
+oddssey: checks 
+luvbpest: folds 
+Alameda22: folds 
+JPNAWOR: folds 
+Tim-Taylor5: folds 
+billard113: folds 
+thevegas: checks 
+*** FLOP *** [5h Js Ts]
+thevegas: checks 
+oddssey: bets $0.25
+thevegas: folds 
+Uncalled bet ($0.25) returned to oddssey
+oddssey collected $0.60 from pot
+oddssey: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [5h Js Ts]
+Seat 1: thevegas (big blind) folded on the Flop
+Seat 2: oddssey collected ($0.60)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: JPNAWOR folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 (button) folded before Flop (didn't bet)
+Seat 8: billard113 (small blind) folded before Flop
+
+
+
+PokerStars Game #20102153883:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:57:46 ET
+Table 'Meges II' 9-max Seat #8 is the button
+Seat 1: thevegas ($6.05 in chips) 
+Seat 2: oddssey ($10.55 in chips) 
+Seat 3: luvbpest ($13.40 in chips) 
+Seat 4: Alameda22 ($22.15 in chips) 
+Seat 5: JPNAWOR ($14.25 in chips) 
+Seat 7: Tim-Taylor5 ($33.60 in chips) 
+Seat 8: billard113 ($22.30 in chips) 
+thevegas: posts small blind $0.10
+oddssey: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Js]
+luvbpest: folds 
+Alameda22: folds 
+JPNAWOR: calls $0.25
+Tim-Taylor5: calls $0.25
+billard113: folds 
+thevegas: calls $0.15
+oddssey: checks 
+*** FLOP *** [9c Tc 9d]
+thevegas: checks 
+oddssey: checks 
+JPNAWOR: bets $0.25
+Tim-Taylor5: calls $0.25
+thevegas: folds 
+oddssey: calls $0.25
+*** TURN *** [9c Tc 9d] [4s]
+oddssey: checks 
+JPNAWOR: bets $0.25
+Tim-Taylor5: calls $0.25
+oddssey: calls $0.25
+*** RIVER *** [9c Tc 9d 4s] [4c]
+oddssey: bets $2
+JPNAWOR: folds 
+Tim-Taylor5: calls $2
+*** SHOW DOWN ***
+oddssey: shows [Jc Qc] (a flush, Queen high)
+Tim-Taylor5: shows [Ac 6c] (a flush, Ace high)
+Tim-Taylor5 collected $6.20 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.30 
+Board [9c Tc 9d 4s 4c]
+Seat 1: thevegas (small blind) folded on the Flop
+Seat 2: oddssey (big blind) showed [Jc Qc] and lost with a flush, Queen high
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: JPNAWOR folded on the River
+Seat 7: Tim-Taylor5 showed [Ac 6c] and won ($6.20) with a flush, Ace high
+Seat 8: billard113 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102195847:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:59:42 ET
+Table 'Meges II' 9-max Seat #1 is the button
+Seat 1: thevegas ($5.80 in chips) 
+Seat 3: luvbpest ($13.40 in chips) 
+Seat 4: Alameda22 ($22.15 in chips) 
+Seat 5: JPNAWOR ($13.50 in chips) 
+Seat 7: Tim-Taylor5 ($37.05 in chips) 
+Seat 8: billard113 ($22.30 in chips) 
+oddssey: is sitting out 
+luvbpest: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 6h]
+JPNAWOR: folds 
+Tim-Taylor5: folds 
+billard113: folds 
+thevegas: folds 
+luvbpest: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: thevegas (button) folded before Flop (didn't bet)
+Seat 3: luvbpest (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) collected ($0.20)
+Seat 5: JPNAWOR folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102209442:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 20:00:17 ET
+Table 'Meges II' 9-max Seat #3 is the button
+Seat 1: thevegas ($5.80 in chips) 
+Seat 3: luvbpest ($13.30 in chips) 
+Seat 4: Alameda22 ($22.25 in chips) 
+Seat 5: JPNAWOR ($13.50 in chips) 
+Seat 7: Tim-Taylor5 ($37.05 in chips) 
+Seat 8: billard113 ($22.30 in chips) 
+Alameda22: posts small blind $0.10
+JPNAWOR: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Ks]
+Tim-Taylor5: raises $0.25 to $0.50
+billard113: folds 
+thevegas: folds 
+luvbpest: folds 
+Alameda22: folds 
+JPNAWOR: folds 
+Uncalled bet ($0.25) returned to Tim-Taylor5
+Tim-Taylor5 collected $0.60 from pot
+Tim-Taylor5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 3: luvbpest (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: JPNAWOR (big blind) folded before Flop
+Seat 7: Tim-Taylor5 collected ($0.60)
+Seat 8: billard113 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102227487:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 20:01:07 ET
+Table 'Meges II' 9-max Seat #4 is the button
+Seat 1: thevegas ($5.80 in chips) 
+Seat 3: luvbpest ($13.30 in chips) 
+Seat 4: Alameda22 ($22.15 in chips) 
+Seat 5: JPNAWOR ($13.25 in chips) 
+Seat 7: Tim-Taylor5 ($37.40 in chips) 
+Seat 8: billard113 ($22.30 in chips) 
+JPNAWOR: posts small blind $0.10
+Tim-Taylor5: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 7h]
+billard113: folds 
+thevegas: folds 
+luvbpest: folds 
+Alameda22: folds 
+JPNAWOR: calls $0.15
+Tim-Taylor5: checks 
+*** FLOP *** [Js 3d 2c]
+JPNAWOR: bets $0.25
+Tim-Taylor5: folds 
+Uncalled bet ($0.25) returned to JPNAWOR
+JPNAWOR collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Js 3d 2c]
+Seat 1: thevegas folded before Flop (didn't bet)
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: JPNAWOR (small blind) collected ($0.50)
+Seat 7: Tim-Taylor5 (big blind) folded on the Flop
+Seat 8: billard113 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102244093:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 20:01:52 ET
+Table 'Meges II' 9-max Seat #5 is the button
+Seat 1: thevegas ($5.80 in chips) 
+Seat 3: luvbpest ($13.30 in chips) 
+Seat 4: Alameda22 ($22.15 in chips) 
+Seat 5: JPNAWOR ($13.50 in chips) 
+Seat 7: Tim-Taylor5 ($37.15 in chips) 
+Seat 8: billard113 ($22.30 in chips) 
+Tim-Taylor5: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Td]
+oddssey has returned
+thevegas: raises $0.75 to $1
+luvbpest: folds 
+Alameda22: folds 
+JPNAWOR: folds 
+Tim-Taylor5: calls $0.90
+billard113: folds 
+*** FLOP *** [4s Tc Qh]
+Tim-Taylor5: checks 
+thevegas: bets $1
+Tim-Taylor5: raises $1 to $2
+thevegas: raises $2.80 to $4.80 and is all-in
+Tim-Taylor5: calls $2.80
+*** TURN *** [4s Tc Qh] [Kc]
+*** RIVER *** [4s Tc Qh Kc] [3c]
+*** SHOW DOWN ***
+Tim-Taylor5: shows [Qc As] (a pair of Queens)
+thevegas: shows [Ts Th] (three of a kind, Tens)
+thevegas collected $11.30 from pot
+*** SUMMARY ***
+Total pot $11.85 | Rake $0.55 
+Board [4s Tc Qh Kc 3c]
+Seat 1: thevegas showed [Ts Th] and won ($11.30) with three of a kind, Tens
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: JPNAWOR (button) folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 (small blind) showed [Qc As] and lost with a pair of Queens
+Seat 8: billard113 (big blind) folded before Flop
+
+
+
+PokerStars Game #20102267727:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 20:02:56 ET
+Table 'Meges II' 9-max Seat #7 is the button
+Seat 1: thevegas ($11.30 in chips) 
+Seat 2: oddssey ($7.80 in chips) 
+Seat 3: luvbpest ($13.30 in chips) 
+Seat 4: Alameda22 ($22.15 in chips) 
+Seat 5: JPNAWOR ($13.50 in chips) 
+Seat 7: Tim-Taylor5 ($31.35 in chips) 
+Seat 8: billard113 ($22.05 in chips) 
+billard113: posts small blind $0.10
+thevegas: posts big blind $0.25
+oddssey: posts small blind $0.10
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 6s]
+oddssey: folds 
+luvbpest: folds 
+Alameda22: folds 
+JPNAWOR: folds 
+Tim-Taylor5: folds 
+billard113: folds 
+Uncalled bet ($0.15) returned to thevegas
+thevegas collected $0.30 from pot
+thevegas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 1: thevegas (big blind) collected ($0.30)
+Seat 2: oddssey folded before Flop
+Seat 3: luvbpest folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: JPNAWOR folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 (button) folded before Flop (didn't bet)
+Seat 8: billard113 (small blind) folded before Flop
+
+
+
+PokerStars Game #20102282172:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 20:03:35 ET
+Table 'Meges II' 9-max Seat #8 is the button
+Seat 2: oddssey ($7.70 in chips) 
+Seat 4: Alameda22 ($22.15 in chips) 
+Seat 5: JPNAWOR ($13.50 in chips) 
+Seat 7: Tim-Taylor5 ($31.35 in chips) 
+Seat 8: billard113 ($21.95 in chips) 
+Tim-Taylor5 said, "zzzzzzzzzz"
+thevegas has timed out
+thevegas: is sitting out 
+thevegas has returned
+luvbpest said, "herrrroooooooooo"
+oddssey: posts small blind $0.10
+luvbpest: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 7h]
+JPNAWOR: folds 
+Tim-Taylor5: folds 
+billard113: folds 
+oddssey: calls $0.15
+luvbpest leaves the table
+Alameda22: checks 
+*** FLOP *** [2c Ah 3c]
+oddssey: checks 
+Alameda22: checks 
+*** TURN *** [2c Ah 3c] [As]
+oddssey: checks 
+JPNAWOR is disconnected 
+JPNAWOR is connected 
+Alameda22: checks 
+*** RIVER *** [2c Ah 3c As] [Kc]
+oddssey: checks 
+Alameda22: checks 
+*** SHOW DOWN ***
+oddssey: shows [Qs 4d] (a pair of Aces)
+Alameda22: shows [Qc 7h] (a pair of Aces - King+Queen+Seven kicker)
+Alameda22 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [2c Ah 3c As Kc]
+Seat 2: oddssey (small blind) showed [Qs 4d] and lost with a pair of Aces
+Seat 4: Alameda22 (big blind) showed [Qc 7h] and won ($0.50) with a pair of Aces
+Seat 5: JPNAWOR folded before Flop (didn't bet)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102337045:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 20:06:05 ET
+Table 'Meges II' 9-max Seat #2 is the button
+Seat 2: oddssey ($7.45 in chips) 
+Seat 4: Alameda22 ($22.40 in chips) 
+Seat 5: JPNAWOR ($13.50 in chips) 
+Seat 7: Tim-Taylor5 ($31.35 in chips) 
+Seat 8: billard113 ($21.95 in chips) 
+Alameda22: posts small blind $0.10
+JPNAWOR: posts big blind $0.25
+thevegas: is sitting out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 8s]
+thevegas leaves the table
+Tim-Taylor5: folds 
+billard113: folds 
+billard113 leaves the table
+oddssey: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to JPNAWOR
+JPNAWOR collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: oddssey (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: JPNAWOR (big blind) collected ($0.20)
+Seat 7: Tim-Taylor5 folded before Flop (didn't bet)
+Seat 8: billard113 folded before Flop (didn't bet)
+
+
+

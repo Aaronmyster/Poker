@@ -1,0 +1,965 @@
+PokerStars Game #19969955922:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:27:24 (ET)
+Table 'Appenzella' 9-max Seat #2 is the button
+Seat 1: maserati_60 ($12.35 in chips) 
+Seat 2: carnaby1 ($24.05 in chips) 
+Seat 3: harryimclub8 ($24.75 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 5: doom069 ($50.85 in chips) 
+Seat 6: krowio ($25 in chips) 
+Seat 7: billard113 ($26.95 in chips) 
+Seat 9: ld788 ($25.25 in chips) 
+harryimclub8: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Kc]
+doom069: folds 
+krowio: folds 
+billard113: folds 
+ld788: raises $0.75 to $1
+maserati_60: folds 
+carnaby1: folds 
+harryimclub8: folds 
+jfp111 is connected 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to ld788
+jfp111 has returned
+ld788 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maserati_60 folded before Flop (didn't bet)
+Seat 2: carnaby1 (button) folded before Flop (didn't bet)
+Seat 3: harryimclub8 (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: doom069 folded before Flop (didn't bet)
+Seat 6: krowio folded before Flop (didn't bet)
+Seat 7: billard113 folded before Flop (didn't bet)
+Seat 9: ld788 collected ($0.60)
+
+
+
+PokerStars Game #19969979002:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:28:20 (ET)
+Table 'Appenzella' 9-max Seat #3 is the button
+Seat 1: maserati_60 ($12.35 in chips) 
+Seat 2: carnaby1 ($24.05 in chips) 
+Seat 3: harryimclub8 ($24.65 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: doom069 ($50.85 in chips) 
+Seat 6: krowio ($25 in chips) 
+Seat 7: billard113 ($26.95 in chips) 
+Seat 8: jfp111 ($9.60 in chips) 
+Seat 9: ld788 ($25.60 in chips) 
+Alameda22: posts small blind $0.10
+doom069: posts big blind $0.25
+jfp111: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Jd]
+krowio: folds 
+billard113: folds 
+jfp111: checks 
+ld788: folds 
+maserati_60: folds 
+carnaby1: calls $0.25
+harryimclub8: folds 
+Alameda22: folds 
+doom069: checks 
+*** FLOP *** [2c 9d Tc]
+doom069: checks 
+jfp111: checks 
+carnaby1: bets $0.50
+doom069: calls $0.50
+jfp111: folds 
+*** TURN *** [2c 9d Tc] [Kc]
+doom069: checks 
+carnaby1: bets $0.50
+doom069: raises $1.75 to $2.25
+carnaby1: calls $1.75
+*** RIVER *** [2c 9d Tc Kc] [8s]
+doom069: bets $5
+carnaby1: raises $5.75 to $10.75
+doom069: calls $5.75
+*** SHOW DOWN ***
+carnaby1: shows [Ac 6c] (a flush, Ace high)
+doom069: mucks hand 
+carnaby1 collected $26.60 from pot
+*** SUMMARY ***
+Total pot $27.95 | Rake $1.35 
+Board [2c 9d Tc Kc 8s]
+Seat 1: maserati_60 folded before Flop (didn't bet)
+Seat 2: carnaby1 showed [Ac 6c] and won ($26.60) with a flush, Ace high
+Seat 3: harryimclub8 (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: doom069 (big blind) mucked [3c 8c]
+Seat 6: krowio folded before Flop (didn't bet)
+Seat 7: billard113 folded before Flop (didn't bet)
+Seat 8: jfp111 folded on the Flop
+Seat 9: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970037039:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:30:39 (ET)
+Table 'Appenzella' 9-max Seat #4 is the button
+Seat 1: maserati_60 ($12.35 in chips) 
+Seat 2: carnaby1 ($36.90 in chips) 
+Seat 3: harryimclub8 ($24.65 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: doom069 ($37.10 in chips) 
+Seat 6: krowio ($25 in chips) 
+Seat 7: billard113 ($26.95 in chips) 
+Seat 8: jfp111 ($9.25 in chips) 
+Seat 9: ld788 ($25.60 in chips) 
+doom069: posts small blind $0.10
+krowio: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 8d]
+billard113: folds 
+jfp111: folds 
+ld788: folds 
+maserati_60: folds 
+carnaby1: calls $0.25
+harryimclub8: folds 
+Alameda22: folds 
+doom069: folds 
+krowio: checks 
+*** FLOP *** [5c Qs Ts]
+krowio: checks 
+carnaby1: checks 
+*** TURN *** [5c Qs Ts] [Th]
+krowio: checks 
+carnaby1: bets $0.25
+krowio: folds 
+Uncalled bet ($0.25) returned to carnaby1
+carnaby1 collected $0.60 from pot
+carnaby1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [5c Qs Ts Th]
+Seat 1: maserati_60 folded before Flop (didn't bet)
+Seat 2: carnaby1 collected ($0.60)
+Seat 3: harryimclub8 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: doom069 (small blind) folded before Flop
+Seat 6: krowio (big blind) folded on the Turn
+Seat 7: billard113 folded before Flop (didn't bet)
+Seat 8: jfp111 folded before Flop (didn't bet)
+Seat 9: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970065107:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:31:48 (ET)
+Table 'Appenzella' 9-max Seat #5 is the button
+Seat 1: maserati_60 ($12.35 in chips) 
+Seat 2: carnaby1 ($37.25 in chips) 
+Seat 3: harryimclub8 ($24.65 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: doom069 ($37 in chips) 
+Seat 6: krowio ($24.75 in chips) 
+Seat 7: billard113 ($26.95 in chips) 
+Seat 8: jfp111 ($9.25 in chips) 
+Seat 9: ld788 ($25.60 in chips) 
+krowio: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 6c]
+jfp111: calls $0.25
+ld788: raises $1.25 to $1.50
+maserati_60: folds 
+carnaby1: folds 
+harryimclub8: folds 
+Alameda22: folds 
+doom069: folds 
+krowio: folds 
+billard113: folds 
+jfp111: calls $1.25
+*** FLOP *** [Kd Ad 7h]
+jfp111: checks 
+ld788: bets $2
+jfp111: folds 
+Uncalled bet ($2) returned to ld788
+ld788 collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [Kd Ad 7h]
+Seat 1: maserati_60 folded before Flop (didn't bet)
+Seat 2: carnaby1 folded before Flop (didn't bet)
+Seat 3: harryimclub8 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: doom069 (button) folded before Flop (didn't bet)
+Seat 6: krowio (small blind) folded before Flop
+Seat 7: billard113 (big blind) folded before Flop
+Seat 8: jfp111 folded on the Flop
+Seat 9: ld788 collected ($3.20)
+
+
+
+PokerStars Game #19970108016:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:33:33 (ET)
+Table 'Appenzella' 9-max Seat #6 is the button
+Seat 1: maserati_60 ($12.35 in chips) 
+Seat 2: carnaby1 ($37.25 in chips) 
+Seat 3: harryimclub8 ($24.65 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: doom069 ($37 in chips) 
+Seat 6: krowio ($24.65 in chips) 
+Seat 7: billard113 ($26.70 in chips) 
+Seat 8: jfp111 ($7.75 in chips) 
+Seat 9: ld788 ($27.30 in chips) 
+billard113: posts small blind $0.10
+jfp111: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Ac]
+ld788: folds 
+maserati_60: folds 
+carnaby1: folds 
+harryimclub8: folds 
+Alameda22: folds 
+doom069: folds 
+krowio: raises $0.50 to $0.75
+billard113: folds 
+jfp111: calls $0.50
+*** FLOP *** [Ad 8h 5c]
+jfp111: checks 
+krowio: bets $1
+jfp111: raises $2 to $3
+krowio: folds 
+Uncalled bet ($2) returned to jfp111
+jfp111 collected $3.45 from pot
+jfp111: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.15 
+Board [Ad 8h 5c]
+Seat 1: maserati_60 folded before Flop (didn't bet)
+Seat 2: carnaby1 folded before Flop (didn't bet)
+Seat 3: harryimclub8 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: doom069 folded before Flop (didn't bet)
+Seat 6: krowio (button) folded on the Flop
+Seat 7: billard113 (small blind) folded before Flop
+Seat 8: jfp111 (big blind) collected ($3.45)
+Seat 9: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970145212:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:35:04 (ET)
+Table 'Appenzella' 9-max Seat #7 is the button
+Seat 1: maserati_60 ($12.35 in chips) 
+Seat 2: carnaby1 ($37.25 in chips) 
+Seat 3: harryimclub8 ($24.65 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: doom069 ($37 in chips) 
+Seat 6: krowio ($22.90 in chips) 
+Seat 7: billard113 ($26.60 in chips) 
+Seat 8: jfp111 ($9.45 in chips) 
+Seat 9: ld788 ($27.30 in chips) 
+jfp111: posts small blind $0.10
+ld788: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Qh]
+maserati_60: folds 
+carnaby1: folds 
+harryimclub8: folds 
+Alameda22: folds 
+doom069: folds 
+krowio: folds 
+billard113: folds 
+jfp111: folds 
+Uncalled bet ($0.15) returned to ld788
+ld788 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: maserati_60 folded before Flop (didn't bet)
+Seat 2: carnaby1 folded before Flop (didn't bet)
+Seat 3: harryimclub8 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: doom069 folded before Flop (didn't bet)
+Seat 6: krowio folded before Flop (didn't bet)
+Seat 7: billard113 (button) folded before Flop (didn't bet)
+Seat 8: jfp111 (small blind) folded before Flop
+Seat 9: ld788 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19970159308:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:35:38 (ET)
+Table 'Appenzella' 9-max Seat #8 is the button
+Seat 1: maserati_60 ($12.35 in chips) 
+Seat 2: carnaby1 ($37.25 in chips) 
+Seat 3: harryimclub8 ($24.65 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: doom069 ($37 in chips) 
+Seat 6: krowio ($22.90 in chips) 
+Seat 7: billard113 ($26.60 in chips) 
+Seat 8: jfp111 ($9.35 in chips) 
+Seat 9: ld788 ($27.40 in chips) 
+ld788: posts small blind $0.10
+maserati_60: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 9c]
+carnaby1: folds 
+harryimclub8: folds 
+Alameda22: folds 
+doom069: folds 
+krowio: folds 
+billard113: folds 
+jfp111 is disconnected 
+jfp111 has timed out while disconnected
+jfp111: folds 
+jfp111 is sitting out
+ld788: folds 
+Uncalled bet ($0.15) returned to maserati_60
+maserati_60 collected $0.20 from pot
+maserati_60: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: maserati_60 (big blind) collected ($0.20)
+Seat 2: carnaby1 folded before Flop (didn't bet)
+Seat 3: harryimclub8 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: doom069 folded before Flop (didn't bet)
+Seat 6: krowio folded before Flop (didn't bet)
+Seat 7: billard113 folded before Flop (didn't bet)
+Seat 8: jfp111 (button) folded before Flop (didn't bet)
+Seat 9: ld788 (small blind) folded before Flop
+
+
+
+PokerStars Game #19970183473:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:36:37 (ET)
+Table 'Appenzella' 9-max Seat #9 is the button
+Seat 1: maserati_60 ($12.45 in chips) 
+Seat 2: carnaby1 ($37.25 in chips) 
+Seat 3: harryimclub8 ($24.65 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: doom069 ($37 in chips) 
+Seat 6: krowio ($22.90 in chips) 
+Seat 7: billard113 ($26.60 in chips) 
+Seat 9: ld788 ($27.30 in chips) 
+maserati_60: posts small blind $0.10
+carnaby1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 3h]
+harryimclub8: raises $0.50 to $0.75
+Alameda22: folds 
+doom069: folds 
+krowio: folds 
+billard113: folds 
+ld788: folds 
+maserati_60: folds 
+carnaby1: calls $0.50
+*** FLOP *** [As 6h 7s]
+carnaby1: bets $0.25
+harryimclub8: calls $0.25
+*** TURN *** [As 6h 7s] [9d]
+carnaby1: bets $0.25
+harryimclub8: raises $0.50 to $0.75
+carnaby1: folds 
+Uncalled bet ($0.50) returned to harryimclub8
+harryimclub8 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [As 6h 7s 9d]
+Seat 1: maserati_60 (small blind) folded before Flop
+Seat 2: carnaby1 (big blind) folded on the Turn
+Seat 3: harryimclub8 collected ($2.50)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: doom069 folded before Flop (didn't bet)
+Seat 6: krowio folded before Flop (didn't bet)
+Seat 7: billard113 folded before Flop (didn't bet)
+Seat 9: ld788 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970210752:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:37:44 (ET)
+Table 'Appenzella' 9-max Seat #1 is the button
+Seat 1: maserati_60 ($12.35 in chips) 
+Seat 2: carnaby1 ($36 in chips) 
+Seat 3: harryimclub8 ($25.90 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: doom069 ($37 in chips) 
+Seat 6: krowio ($22.90 in chips) 
+Seat 7: billard113 ($26.60 in chips) 
+Seat 9: ld788 ($27.30 in chips) 
+carnaby1: posts small blind $0.10
+harryimclub8: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 9s]
+Alameda22: folds 
+doom069: folds 
+krowio: folds 
+billard113: folds 
+ld788: folds 
+maserati_60: calls $0.25
+carnaby1: raises $1.25 to $1.50
+harryimclub8: folds 
+maserati_60: folds 
+Uncalled bet ($1.25) returned to carnaby1
+carnaby1 collected $0.75 from pot
+carnaby1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: maserati_60 (button) folded before Flop
+Seat 2: carnaby1 (small blind) collected ($0.75)
+Seat 3: harryimclub8 (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: doom069 folded before Flop (didn't bet)
+Seat 6: krowio folded before Flop (didn't bet)
+Seat 7: billard113 folded before Flop (didn't bet)
+Seat 9: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970227725:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:38:25 (ET)
+Table 'Appenzella' 9-max Seat #2 is the button
+Seat 1: maserati_60 ($12.10 in chips) 
+Seat 2: carnaby1 ($36.50 in chips) 
+Seat 3: harryimclub8 ($25.65 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: doom069 ($37 in chips) 
+Seat 6: krowio ($22.90 in chips) 
+Seat 7: billard113 ($26.60 in chips) 
+Seat 9: ld788 ($27.30 in chips) 
+harryimclub8: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Tc]
+doom069: folds 
+krowio: folds 
+billard113: folds 
+ld788: folds 
+maserati_60: raises $0.50 to $0.75
+carnaby1: folds 
+harryimclub8: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to maserati_60
+maserati_60 collected $0.60 from pot
+maserati_60: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maserati_60 collected ($0.60)
+Seat 2: carnaby1 (button) folded before Flop (didn't bet)
+Seat 3: harryimclub8 (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: doom069 folded before Flop (didn't bet)
+Seat 6: krowio folded before Flop (didn't bet)
+Seat 7: billard113 folded before Flop (didn't bet)
+Seat 9: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970240092:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:38:54 (ET)
+Table 'Appenzella' 9-max Seat #3 is the button
+Seat 1: maserati_60 ($12.45 in chips) 
+Seat 2: carnaby1 ($36.50 in chips) 
+Seat 3: harryimclub8 ($25.55 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: doom069 ($37 in chips) 
+Seat 6: krowio ($22.90 in chips) 
+Seat 7: billard113 ($26.60 in chips) 
+Seat 9: ld788 ($27.30 in chips) 
+Alameda22: posts small blind $0.10
+doom069: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 9c]
+krowio: raises $0.75 to $1
+billard113: folds 
+jfp111 is connected 
+ld788: folds 
+maserati_60: folds 
+carnaby1: folds 
+harryimclub8: folds 
+Alameda22: folds 
+doom069: folds 
+Uncalled bet ($0.75) returned to krowio
+krowio collected $0.60 from pot
+krowio: doesn't show hand 
+jfp111 has returned
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maserati_60 folded before Flop (didn't bet)
+Seat 2: carnaby1 folded before Flop (didn't bet)
+Seat 3: harryimclub8 (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: doom069 (big blind) folded before Flop
+Seat 6: krowio collected ($0.60)
+Seat 7: billard113 folded before Flop (didn't bet)
+Seat 9: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970260107:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:39:43 (ET)
+Table 'Appenzella' 9-max Seat #4 is the button
+Seat 1: maserati_60 ($12.45 in chips) 
+Seat 2: carnaby1 ($36.50 in chips) 
+Seat 3: harryimclub8 ($25.55 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: doom069 ($36.75 in chips) 
+Seat 6: krowio ($23.25 in chips) 
+Seat 7: billard113 ($26.60 in chips) 
+Seat 8: jfp111 ($9.35 in chips) 
+Seat 9: ld788 ($27.30 in chips) 
+doom069: posts small blind $0.10
+krowio: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Ks]
+billard113: folds 
+jfp111: calls $0.25
+ld788: folds 
+maserati_60: folds 
+carnaby1: folds 
+harryimclub8: folds 
+Alameda22: folds 
+doom069: folds 
+krowio: checks 
+*** FLOP *** [Qs 9h 3c]
+krowio: checks 
+jfp111: checks 
+*** TURN *** [Qs 9h 3c] [Ac]
+krowio: checks 
+jfp111: checks 
+*** RIVER *** [Qs 9h 3c Ac] [Ad]
+krowio: checks 
+jfp111: checks 
+*** SHOW DOWN ***
+krowio: shows [4d Kh] (a pair of Aces)
+jfp111: shows [Th 9s] (two pair, Aces and Nines)
+jfp111 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qs 9h 3c Ac Ad]
+Seat 1: maserati_60 folded before Flop (didn't bet)
+Seat 2: carnaby1 folded before Flop (didn't bet)
+Seat 3: harryimclub8 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: doom069 (small blind) folded before Flop
+Seat 6: krowio (big blind) showed [4d Kh] and lost with a pair of Aces
+Seat 7: billard113 folded before Flop (didn't bet)
+Seat 8: jfp111 showed [Th 9s] and won ($0.60) with two pair, Aces and Nines
+Seat 9: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970281686:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:40:35 (ET)
+Table 'Appenzella' 9-max Seat #5 is the button
+Seat 1: maserati_60 ($12.45 in chips) 
+Seat 2: carnaby1 ($36.50 in chips) 
+Seat 3: harryimclub8 ($25.55 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: doom069 ($36.65 in chips) 
+Seat 6: krowio ($23 in chips) 
+Seat 7: billard113 ($26.60 in chips) 
+Seat 8: jfp111 ($9.70 in chips) 
+Seat 9: ld788 ($27.30 in chips) 
+krowio: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 8h]
+jfp111: folds 
+ld788: folds 
+maserati_60: folds 
+carnaby1: calls $0.25
+harryimclub8: folds 
+Alameda22: folds 
+doom069: folds 
+krowio: calls $0.15
+billard113: checks 
+*** FLOP *** [Jh Qs 3h]
+krowio: checks 
+billard113: checks 
+carnaby1: bets $0.50
+krowio: raises $1 to $1.50
+billard113: folds 
+carnaby1: calls $1
+*** TURN *** [Jh Qs 3h] [6c]
+krowio: bets $3
+carnaby1: folds 
+Uncalled bet ($3) returned to krowio
+krowio collected $3.60 from pot
+krowio: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [Jh Qs 3h 6c]
+Seat 1: maserati_60 folded before Flop (didn't bet)
+Seat 2: carnaby1 folded on the Turn
+Seat 3: harryimclub8 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: doom069 (button) folded before Flop (didn't bet)
+Seat 6: krowio (small blind) collected ($3.60)
+Seat 7: billard113 (big blind) folded on the Flop
+Seat 8: jfp111 folded before Flop (didn't bet)
+Seat 9: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970329374:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:42:29 (ET)
+Table 'Appenzella' 9-max Seat #6 is the button
+Seat 1: maserati_60 ($12.45 in chips) 
+Seat 2: carnaby1 ($34.75 in chips) 
+Seat 3: harryimclub8 ($25.55 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: doom069 ($36.65 in chips) 
+Seat 6: krowio ($24.85 in chips) 
+Seat 7: billard113 ($26.35 in chips) 
+Seat 8: jfp111 ($9.70 in chips) 
+Seat 9: ld788 ($27.30 in chips) 
+billard113: posts small blind $0.10
+jfp111 is disconnected 
+jfp111 is connected 
+jfp111: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 2s]
+ld788: folds 
+maserati_60: folds 
+carnaby1: folds 
+harryimclub8: folds 
+Alameda22: folds 
+doom069: folds 
+krowio: folds 
+billard113: calls $0.15
+jfp111 is disconnected 
+jfp111 has timed out while disconnected
+jfp111: folds 
+jfp111 is sitting out
+billard113 collected $0.50 from pot
+billard113: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: maserati_60 folded before Flop (didn't bet)
+Seat 2: carnaby1 folded before Flop (didn't bet)
+Seat 3: harryimclub8 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: doom069 folded before Flop (didn't bet)
+Seat 6: krowio (button) folded before Flop (didn't bet)
+Seat 7: billard113 (small blind) collected ($0.50)
+Seat 8: jfp111 (big blind) folded before Flop
+Seat 9: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970369987:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:44:07 (ET)
+Table 'Appenzella' 9-max Seat #7 is the button
+Seat 1: maserati_60 ($12.45 in chips) 
+Seat 2: carnaby1 ($34.75 in chips) 
+Seat 3: harryimclub8 ($25.55 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: doom069 ($36.65 in chips) 
+Seat 6: krowio ($24.85 in chips) 
+Seat 7: billard113 ($26.60 in chips) 
+Seat 9: ld788 ($27.30 in chips) 
+ld788: posts small blind $0.10
+maserati_60: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 3d]
+carnaby1: folds 
+harryimclub8: folds 
+Alameda22: folds 
+doom069: folds 
+krowio: folds 
+billard113: raises $0.75 to $1
+ld788: folds 
+maserati_60: folds 
+Uncalled bet ($0.75) returned to billard113
+billard113 collected $0.60 from pot
+billard113: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maserati_60 (big blind) folded before Flop
+Seat 2: carnaby1 folded before Flop (didn't bet)
+Seat 3: harryimclub8 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: doom069 folded before Flop (didn't bet)
+Seat 6: krowio folded before Flop (didn't bet)
+Seat 7: billard113 (button) collected ($0.60)
+Seat 9: ld788 (small blind) folded before Flop
+
+
+
+PokerStars Game #19970392679:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:45:02 (ET)
+Table 'Appenzella' 9-max Seat #9 is the button
+Seat 1: maserati_60 ($12.20 in chips) 
+Seat 2: carnaby1 ($34.75 in chips) 
+Seat 3: harryimclub8 ($25.55 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: doom069 ($36.65 in chips) 
+Seat 6: krowio ($24.85 in chips) 
+Seat 7: billard113 ($26.95 in chips) 
+Seat 9: ld788 ($27.20 in chips) 
+maserati_60: posts small blind $0.10
+carnaby1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 3d]
+harryimclub8: folds 
+Alameda22: folds 
+doom069: folds 
+krowio: folds 
+billard113: raises $0.75 to $1
+jfp111 is connected 
+jfp111 has returned
+ld788: folds 
+maserati_60: calls $0.90
+carnaby1: folds 
+*** FLOP *** [7h Ts 9s]
+maserati_60: checks 
+billard113: bets $1.50
+maserati_60: calls $1.50
+*** TURN *** [7h Ts 9s] [5d]
+maserati_60: checks 
+billard113: bets $2.50
+maserati_60: raises $7 to $9.50
+billard113: folds 
+Uncalled bet ($7) returned to maserati_60
+maserati_60 collected $9.75 from pot
+maserati_60: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.25 | Rake $0.50 
+Board [7h Ts 9s 5d]
+Seat 1: maserati_60 (small blind) collected ($9.75)
+Seat 2: carnaby1 (big blind) folded before Flop
+Seat 3: harryimclub8 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: doom069 folded before Flop (didn't bet)
+Seat 6: krowio folded before Flop (didn't bet)
+Seat 7: billard113 folded on the Turn
+Seat 9: ld788 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970441364:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:47:01 (ET)
+Table 'Appenzella' 9-max Seat #1 is the button
+Seat 1: maserati_60 ($16.95 in chips) 
+Seat 2: carnaby1 ($34.50 in chips) 
+Seat 3: harryimclub8 ($25.55 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: doom069 ($36.65 in chips) 
+Seat 6: krowio ($24.85 in chips) 
+Seat 7: billard113 ($21.95 in chips) 
+Seat 9: ld788 ($27.20 in chips) 
+carnaby1: posts small blind $0.10
+harryimclub8: posts big blind $0.25
+jfp111 is disconnected 
+jfp111 has timed out while disconnected
+jfp111: is sitting out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 3c]
+Alameda22: folds 
+doom069: folds 
+krowio: folds 
+billard113: folds 
+ld788: folds 
+maserati_60: raises $0.50 to $0.75
+carnaby1: folds 
+harryimclub8: folds 
+Uncalled bet ($0.50) returned to maserati_60
+maserati_60 collected $0.60 from pot
+maserati_60: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maserati_60 (button) collected ($0.60)
+Seat 2: carnaby1 (small blind) folded before Flop
+Seat 3: harryimclub8 (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: doom069 folded before Flop (didn't bet)
+Seat 6: krowio folded before Flop (didn't bet)
+Seat 7: billard113 folded before Flop (didn't bet)
+Seat 9: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970467570:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:48:04 (ET)
+Table 'Appenzella' 9-max Seat #2 is the button
+Seat 1: maserati_60 ($17.30 in chips) 
+Seat 2: carnaby1 ($34.40 in chips) 
+Seat 3: harryimclub8 ($25.30 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: doom069 ($36.65 in chips) 
+Seat 6: krowio ($24.85 in chips) 
+Seat 7: billard113 ($21.95 in chips) 
+Seat 9: ld788 ($27.20 in chips) 
+harryimclub8: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 8h]
+doom069: raises $0.75 to $1
+krowio: folds 
+billard113: folds 
+ld788: folds 
+maserati_60: folds 
+carnaby1: calls $1
+harryimclub8: folds 
+Alameda22: folds 
+*** FLOP *** [6h 2s 7c]
+doom069: bets $1.50
+carnaby1: folds 
+Uncalled bet ($1.50) returned to doom069
+doom069 collected $2.25 from pot
+doom069: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [6h 2s 7c]
+Seat 1: maserati_60 folded before Flop (didn't bet)
+Seat 2: carnaby1 (button) folded on the Flop
+Seat 3: harryimclub8 (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: doom069 collected ($2.25)
+Seat 6: krowio folded before Flop (didn't bet)
+Seat 7: billard113 folded before Flop (didn't bet)
+Seat 9: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970495565:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:49:12 (ET)
+Table 'Appenzella' 9-max Seat #3 is the button
+Seat 1: maserati_60 ($17.30 in chips) 
+Seat 2: carnaby1 ($33.40 in chips) 
+Seat 3: harryimclub8 ($25.20 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: doom069 ($37.90 in chips) 
+Seat 6: krowio ($24.85 in chips) 
+Seat 7: billard113 ($21.95 in chips) 
+Seat 9: ld788 ($27.20 in chips) 
+Alameda22: posts small blind $0.10
+doom069: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Ad]
+krowio: folds 
+billard113: folds 
+ld788: folds 
+maserati_60: folds 
+carnaby1: calls $0.25
+harryimclub8: folds 
+Alameda22: raises $0.75 to $1
+doom069: folds 
+carnaby1: calls $0.75
+*** FLOP *** [4h 8s Ac]
+Alameda22: bets $1.50
+carnaby1: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $2.15 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [4h 8s Ac]
+Seat 1: maserati_60 folded before Flop (didn't bet)
+Seat 2: carnaby1 folded on the Flop
+Seat 3: harryimclub8 (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) collected ($2.15)
+Seat 5: doom069 (big blind) folded before Flop
+Seat 6: krowio folded before Flop (didn't bet)
+Seat 7: billard113 folded before Flop (didn't bet)
+Seat 9: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970526472:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:50:28 (ET)
+Table 'Appenzella' 9-max Seat #4 is the button
+Seat 1: maserati_60 ($17.30 in chips) 
+Seat 2: carnaby1 ($32.40 in chips) 
+Seat 3: harryimclub8 ($25.20 in chips) 
+Seat 4: Alameda22 ($25.20 in chips) 
+Seat 5: doom069 ($37.65 in chips) 
+Seat 6: krowio ($24.85 in chips) 
+Seat 7: billard113 ($21.95 in chips) 
+Seat 9: ld788 ($27.20 in chips) 
+doom069: posts small blind $0.10
+krowio: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 3c]
+billard113: folds 
+ld788: folds 
+maserati_60: folds 
+carnaby1: raises $0.50 to $0.75
+harryimclub8: folds 
+Alameda22: folds 
+doom069: folds 
+krowio: folds 
+Uncalled bet ($0.50) returned to carnaby1
+carnaby1 collected $0.60 from pot
+carnaby1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maserati_60 folded before Flop (didn't bet)
+Seat 2: carnaby1 collected ($0.60)
+Seat 3: harryimclub8 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: doom069 (small blind) folded before Flop
+Seat 6: krowio (big blind) folded before Flop
+Seat 7: billard113 folded before Flop (didn't bet)
+Seat 9: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970547836:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:51:20 (ET)
+Table 'Appenzella' 9-max Seat #5 is the button
+Seat 1: maserati_60 ($17.30 in chips) 
+Seat 2: carnaby1 ($32.75 in chips) 
+Seat 3: harryimclub8 ($25.20 in chips) 
+Seat 4: Alameda22 ($25.20 in chips) 
+Seat 5: doom069 ($37.55 in chips) 
+Seat 6: krowio ($24.60 in chips) 
+Seat 7: billard113 ($21.95 in chips) 
+Seat 9: ld788 ($27.20 in chips) 
+krowio: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 9h]
+ld788: folds 
+maserati_60: raises $0.50 to $0.75
+carnaby1: folds 
+harryimclub8: folds 
+Alameda22: folds 
+doom069: folds 
+krowio: folds 
+billard113: folds 
+Uncalled bet ($0.50) returned to maserati_60
+maserati_60 collected $0.60 from pot
+maserati_60: doesn't show hand 
+doom069 leaves the table
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maserati_60 collected ($0.60)
+Seat 2: carnaby1 folded before Flop (didn't bet)
+Seat 3: harryimclub8 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: doom069 (button) folded before Flop (didn't bet)
+Seat 6: krowio (small blind) folded before Flop
+Seat 7: billard113 (big blind) folded before Flop
+Seat 9: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970571774:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:52:19 (ET)
+Table 'Appenzella' 9-max Seat #6 is the button
+Seat 1: maserati_60 ($17.65 in chips) 
+Seat 2: carnaby1 ($32.75 in chips) 
+Seat 3: harryimclub8 ($25.20 in chips) 
+Seat 4: Alameda22 ($25.20 in chips) 
+Seat 6: krowio ($24.50 in chips) 
+Seat 7: billard113 ($21.70 in chips) 
+Seat 9: ld788 ($27.20 in chips) 
+billard113: posts small blind $0.10
+ld788: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 6d]
+maserati_60: folds 
+carnaby1: folds 
+harryimclub8: folds 
+Alameda22: calls $0.25
+krowio: raises $0.75 to $1
+billard113: folds 
+ld788: folds 
+Alameda22: calls $0.75
+*** FLOP *** [Jd 9h Ah]
+Alameda22: checks 
+krowio: bets $1.50
+Alameda22: folds 
+Uncalled bet ($1.50) returned to krowio
+krowio collected $2.25 from pot
+krowio: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Jd 9h Ah]
+Seat 1: maserati_60 folded before Flop (didn't bet)
+Seat 2: carnaby1 folded before Flop (didn't bet)
+Seat 3: harryimclub8 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded on the Flop
+Seat 6: krowio (button) collected ($2.25)
+Seat 7: billard113 (small blind) folded before Flop
+Seat 9: ld788 (big blind) folded before Flop
+
+
+

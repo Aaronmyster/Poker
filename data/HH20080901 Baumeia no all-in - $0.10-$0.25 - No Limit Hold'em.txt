@@ -1,0 +1,6107 @@
+PokerStars Game #20078852674:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:06:07 (ET)
+Table 'Baumeia' 9-max Seat #5 is the button
+Seat 1: magic26v ($42.90 in chips) 
+Seat 2: coezid ($21.30 in chips) 
+Seat 3: Kolohe85 ($33.40 in chips) 
+Seat 4: dootychunks4 ($11 in chips) 
+Seat 5: rafachevere ($24.25 in chips) 
+Seat 6: micinio ($11.20 in chips) 
+Seat 7: Alameda22 ($25 in chips) 
+micinio: posts small blind $0.10
+Alameda22: posts big blind $0.25
+horacles: sits out 
+dootychunks4: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 6d]
+magic26v: calls $0.25
+coezid: folds 
+Kolohe85: folds 
+dootychunks4: checks 
+rafachevere: calls $0.25
+micinio: calls $0.15
+Alameda22: checks 
+*** FLOP *** [9s 2s 8c]
+micinio: bets $1
+Alameda22: folds 
+magic26v: folds 
+dootychunks4: folds 
+rafachevere: calls $1
+*** TURN *** [9s 2s 8c] [8h]
+micinio: bets $1
+rafachevere: calls $1
+*** RIVER *** [9s 2s 8c 8h] [3h]
+micinio: bets $1
+rafachevere: folds 
+Uncalled bet ($1) returned to micinio
+micinio collected $5 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [9s 2s 8c 8h 3h]
+Seat 1: magic26v folded on the Flop
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: dootychunks4 folded on the Flop
+Seat 5: rafachevere (button) folded on the River
+Seat 6: micinio (small blind) collected ($5)
+Seat 7: Alameda22 (big blind) folded on the Flop
+
+
+
+PokerStars Game #20078893363:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:07:57 (ET)
+Table 'Baumeia' 9-max Seat #6 is the button
+Seat 1: magic26v ($42.65 in chips) 
+Seat 2: coezid ($21.30 in chips) 
+Seat 3: Kolohe85 ($33.40 in chips) 
+Seat 4: dootychunks4 ($10.75 in chips) 
+Seat 5: rafachevere ($22 in chips) 
+Seat 6: micinio ($13.95 in chips) 
+Seat 7: Alameda22 ($24.75 in chips) 
+Seat 9: horacles ($25 in chips) 
+Alameda22: posts small blind $0.10
+horacles: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 8d]
+magic26v: folds 
+coezid: calls $0.25
+Kolohe85: folds 
+dootychunks4: folds 
+rafachevere: calls $0.25
+micinio: calls $0.25
+Alameda22: folds 
+horacles: checks 
+*** FLOP *** [6h Td 2h]
+horacles: checks 
+coezid: checks 
+rafachevere: checks 
+micinio: checks 
+*** TURN *** [6h Td 2h] [8h]
+horacles: checks 
+coezid: checks 
+rafachevere: checks 
+micinio: checks 
+*** RIVER *** [6h Td 2h 8h] [6d]
+horacles: checks 
+coezid: checks 
+rafachevere: checks 
+micinio: checks 
+*** SHOW DOWN ***
+horacles: shows [Qc Kc] (a pair of Sixes)
+coezid: shows [5s Ad] (a pair of Sixes - Ace kicker)
+rafachevere: shows [Qs 8s] (two pair, Eights and Sixes)
+micinio: mucks hand 
+rafachevere collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [6h Td 2h 8h 6d]
+Seat 1: magic26v folded before Flop (didn't bet)
+Seat 2: coezid showed [5s Ad] and lost with a pair of Sixes
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: dootychunks4 folded before Flop (didn't bet)
+Seat 5: rafachevere showed [Qs 8s] and won ($1.05) with two pair, Eights and Sixes
+Seat 6: micinio (button) mucked [Qd 9d]
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 9: horacles (big blind) showed [Qc Kc] and lost with a pair of Sixes
+
+
+
+PokerStars Game #20078939927:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:10:00 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 1: magic26v ($42.65 in chips) 
+Seat 2: coezid ($21.05 in chips) 
+Seat 3: Kolohe85 ($33.40 in chips) 
+Seat 4: dootychunks4 ($10.75 in chips) 
+Seat 5: rafachevere ($22.80 in chips) 
+Seat 6: micinio ($13.70 in chips) 
+Seat 7: Alameda22 ($24.65 in chips) 
+Seat 9: horacles ($24.75 in chips) 
+horacles: posts small blind $0.10
+magic26v: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 8d]
+coezid: calls $0.25
+Kolohe85: folds 
+dootychunks4: folds 
+rafachevere: raises $0.55 to $0.80
+micinio: folds 
+Alameda22: folds 
+horacles: folds 
+magic26v: folds 
+coezid: calls $0.55
+*** FLOP *** [6c 7c Qc]
+coezid: checks 
+rafachevere: checks 
+*** TURN *** [6c 7c Qc] [Tc]
+coezid: checks 
+rafachevere: checks 
+*** RIVER *** [6c 7c Qc Tc] [9c]
+coezid: bets $7
+rafachevere: folds 
+Uncalled bet ($7) returned to coezid
+coezid collected $1.90 from pot
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.05 
+Board [6c 7c Qc Tc 9c]
+Seat 1: magic26v (big blind) folded before Flop
+Seat 2: coezid collected ($1.90)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: dootychunks4 folded before Flop (didn't bet)
+Seat 5: rafachevere folded on the River
+Seat 6: micinio folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: horacles (small blind) folded before Flop
+
+
+
+PokerStars Game #20078984280:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:11:58 (ET)
+Table 'Baumeia' 9-max Seat #9 is the button
+Seat 1: magic26v ($42.40 in chips) 
+Seat 2: coezid ($22.15 in chips) 
+Seat 3: Kolohe85 ($33.40 in chips) 
+Seat 4: dootychunks4 ($10.75 in chips) 
+Seat 5: rafachevere ($22 in chips) 
+Seat 6: micinio ($13.70 in chips) 
+Seat 7: Alameda22 ($24.65 in chips) 
+Seat 9: horacles ($24.65 in chips) 
+magic26v: posts small blind $0.10
+coezid: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Js]
+Kolohe85: folds 
+dootychunks4: calls $0.25
+rafachevere: folds 
+micinio: raises $0.50 to $0.75
+Alameda22: folds 
+horacles: folds 
+magic26v: folds 
+coezid: calls $0.50
+dootychunks4: calls $0.50
+*** FLOP *** [5c Tc 6s]
+coezid: checks 
+dootychunks4: checks 
+micinio: bets $1.50
+coezid: folds 
+dootychunks4: calls $1.50
+*** TURN *** [5c Tc 6s] [8s]
+dootychunks4: checks 
+micinio: bets $2.50
+dootychunks4: raises $2.50 to $5
+micinio: calls $2.50
+*** RIVER *** [5c Tc 6s 8s] [9c]
+dootychunks4: checks 
+micinio: bets $6.45 and is all-in
+dootychunks4: folds 
+Uncalled bet ($6.45) returned to micinio
+micinio collected $14.60 from pot
+micinio: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.35 | Rake $0.75 
+Board [5c Tc 6s 8s 9c]
+Seat 1: magic26v (small blind) folded before Flop
+Seat 2: coezid (big blind) folded on the Flop
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: dootychunks4 folded on the River
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: micinio collected ($14.60)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: horacles (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079021186:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:13:36 (ET)
+Table 'Baumeia' 9-max Seat #1 is the button
+Seat 1: magic26v ($42.30 in chips) 
+Seat 2: coezid ($21.40 in chips) 
+Seat 3: Kolohe85 ($33.40 in chips) 
+Seat 4: dootychunks4 ($13.50 in chips) 
+Seat 5: rafachevere ($22 in chips) 
+Seat 6: micinio ($21.05 in chips) 
+Seat 7: Alameda22 ($24.65 in chips) 
+Seat 9: horacles ($24.65 in chips) 
+coezid: posts small blind $0.10
+Kolohe85: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Tc]
+dootychunks4: folds 
+rafachevere: folds 
+micinio: calls $0.25
+Alameda22: folds 
+horacles: folds 
+magic26v: folds 
+coezid: calls $0.15
+Kolohe85: checks 
+*** FLOP *** [7c 3c Ah]
+coezid: checks 
+Kolohe85: checks 
+micinio: checks 
+*** TURN *** [7c 3c Ah] [Td]
+coezid: checks 
+Kolohe85: bets $0.50
+micinio: folds 
+coezid: calls $0.50
+*** RIVER *** [7c 3c Ah Td] [3h]
+coezid: checks 
+snowpepsi has returned
+Kolohe85: bets $0.75
+coezid: folds 
+Uncalled bet ($0.75) returned to Kolohe85
+Kolohe85 collected $1.70 from pot
+Kolohe85: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [7c 3c Ah Td 3h]
+Seat 1: magic26v (button) folded before Flop (didn't bet)
+Seat 2: coezid (small blind) folded on the River
+Seat 3: Kolohe85 (big blind) collected ($1.70)
+Seat 4: dootychunks4 folded before Flop (didn't bet)
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: micinio folded on the Turn
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079049927:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:14:53 (ET)
+Table 'Baumeia' 9-max Seat #2 is the button
+Seat 1: magic26v ($42.30 in chips) 
+Seat 2: coezid ($20.65 in chips) 
+Seat 3: Kolohe85 ($34.35 in chips) 
+Seat 4: dootychunks4 ($13.50 in chips) 
+Seat 5: rafachevere ($22 in chips) 
+Seat 6: micinio ($20.80 in chips) 
+Seat 7: Alameda22 ($24.65 in chips) 
+Seat 8: snowpepsi ($25 in chips) 
+Seat 9: horacles ($24.65 in chips) 
+Kolohe85: posts small blind $0.10
+dootychunks4: posts big blind $0.25
+snowpepsi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Js]
+rafachevere: folds 
+micinio: calls $0.25
+Alameda22: folds 
+snowpepsi: checks 
+horacles: folds 
+magic26v: folds 
+coezid: calls $0.25
+Kolohe85: calls $0.15
+dootychunks4: checks 
+*** FLOP *** [Qc 8s 7c]
+Kolohe85: checks 
+dootychunks4: checks 
+micinio: checks 
+snowpepsi: checks 
+coezid: checks 
+*** TURN *** [Qc 8s 7c] [7h]
+Kolohe85: checks 
+dootychunks4: checks 
+micinio: bets $0.50
+snowpepsi: folds 
+coezid: raises $1 to $1.50
+Kolohe85: calls $1.50
+dootychunks4: folds 
+micinio: folds 
+*** RIVER *** [Qc 8s 7c 7h] [Qh]
+Kolohe85: bets $1
+coezid: calls $1
+*** SHOW DOWN ***
+Kolohe85: shows [Td 7s] (a full house, Sevens full of Queens)
+coezid: shows [8c 8h] (a full house, Eights full of Queens)
+coezid collected $6.45 from pot
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.30 
+Board [Qc 8s 7c 7h Qh]
+Seat 1: magic26v folded before Flop (didn't bet)
+Seat 2: coezid (button) showed [8c 8h] and won ($6.45) with a full house, Eights full of Queens
+Seat 3: Kolohe85 (small blind) showed [Td 7s] and lost with a full house, Sevens full of Queens
+Seat 4: dootychunks4 (big blind) folded on the Turn
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: micinio folded on the Turn
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded on the Turn
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079091748:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:16:42 (ET)
+Table 'Baumeia' 9-max Seat #3 is the button
+Seat 1: magic26v ($42.30 in chips) 
+Seat 2: coezid ($24.35 in chips) 
+Seat 3: Kolohe85 ($31.60 in chips) 
+Seat 4: dootychunks4 ($13.25 in chips) 
+Seat 5: rafachevere ($22 in chips) 
+Seat 6: micinio ($20.05 in chips) 
+Seat 7: Alameda22 ($24.65 in chips) 
+Seat 8: snowpepsi ($24.75 in chips) 
+Seat 9: horacles ($24.65 in chips) 
+dootychunks4: posts small blind $0.10
+rafachevere: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Tc]
+micinio: calls $0.25
+Kolohe85 said, "nh"
+Alameda22: folds 
+snowpepsi: folds 
+horacles: folds 
+magic26v: folds 
+coezid: folds 
+Kolohe85: folds 
+dootychunks4: calls $0.15
+rafachevere: checks 
+*** FLOP *** [Jc Th 5h]
+dootychunks4: checks 
+rafachevere: checks 
+micinio: bets $0.75
+dootychunks4: folds 
+rafachevere: folds 
+Uncalled bet ($0.75) returned to micinio
+micinio collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Jc Th 5h]
+Seat 1: magic26v folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 (button) folded before Flop (didn't bet)
+Seat 4: dootychunks4 (small blind) folded on the Flop
+Seat 5: rafachevere (big blind) folded on the Flop
+Seat 6: micinio collected ($0.75)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079131821:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:18:27 (ET)
+Table 'Baumeia' 9-max Seat #4 is the button
+Seat 1: magic26v ($42.30 in chips) 
+Seat 2: coezid ($24.35 in chips) 
+Seat 3: Kolohe85 ($31.60 in chips) 
+Seat 4: dootychunks4 ($13 in chips) 
+Seat 5: rafachevere ($21.75 in chips) 
+Seat 6: micinio ($20.55 in chips) 
+Seat 7: Alameda22 ($24.65 in chips) 
+Seat 8: snowpepsi ($24.75 in chips) 
+Seat 9: horacles ($24.65 in chips) 
+rafachevere: posts small blind $0.10
+micinio: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 8h]
+Alameda22: folds 
+snowpepsi: folds 
+horacles: calls $0.25
+magic26v: folds 
+coezid: raises $0.25 to $0.50
+Kolohe85: folds 
+dootychunks4: calls $0.50
+rafachevere: calls $0.40
+micinio: calls $0.25
+horacles: calls $0.25
+*** FLOP *** [7d Qd 7h]
+rafachevere: checks 
+micinio: checks 
+horacles: checks 
+coezid: bets $1
+dootychunks4: calls $1
+rafachevere: folds 
+micinio: folds 
+horacles: calls $1
+*** TURN *** [7d Qd 7h] [9s]
+horacles: checks 
+coezid: bets $2
+dootychunks4: folds 
+dootychunks4 is sitting out
+horacles: calls $2
+*** RIVER *** [7d Qd 7h 9s] [Ac]
+dootychunks4 leaves the table
+horacles: checks 
+coezid: bets $4
+Omoiyou joins the table at seat #4 
+horacles: calls $4
+*** SHOW DOWN ***
+coezid: shows [Th Td] (two pair, Tens and Sevens)
+horacles: shows [8c 7c] (three of a kind, Sevens)
+horacles collected $16.65 from pot
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.85 
+Board [7d Qd 7h 9s Ac]
+Seat 1: magic26v folded before Flop (didn't bet)
+Seat 2: coezid showed [Th Td] and lost with two pair, Tens and Sevens
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: dootychunks4 (button) folded on the Turn
+Seat 5: rafachevere (small blind) folded on the Flop
+Seat 6: micinio (big blind) folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles showed [8c 7c] and won ($16.65) with three of a kind, Sevens
+
+
+
+PokerStars Game #20079186517:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:20:51 (ET)
+Table 'Baumeia' 9-max Seat #5 is the button
+Seat 1: magic26v ($42.30 in chips) 
+Seat 2: coezid ($16.85 in chips) 
+Seat 3: Kolohe85 ($31.60 in chips) 
+Seat 5: rafachevere ($21.25 in chips) 
+Seat 6: micinio ($20.05 in chips) 
+Seat 7: Alameda22 ($24.65 in chips) 
+Seat 8: snowpepsi ($24.75 in chips) 
+Seat 9: horacles ($33.80 in chips) 
+micinio: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Omoiyou: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 2h]
+snowpepsi: folds 
+horacles: calls $0.25
+magic26v: folds 
+coezid: calls $0.25
+Kolohe85: folds 
+rafachevere: folds 
+micinio: raises $0.75 to $1
+Alameda22: folds 
+horacles: calls $0.75
+coezid: folds 
+*** FLOP *** [Js 3d Qs]
+micinio: checks 
+horacles: checks 
+*** TURN *** [Js 3d Qs] [Kc]
+micinio: bets $1
+horacles: folds 
+Uncalled bet ($1) returned to micinio
+micinio collected $2.40 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Js 3d Qs Kc]
+Seat 1: magic26v folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 5: rafachevere (button) folded before Flop (didn't bet)
+Seat 6: micinio (small blind) collected ($2.40)
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles folded on the Turn
+
+
+
+PokerStars Game #20079213486:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:22:03 (ET)
+Table 'Baumeia' 9-max Seat #6 is the button
+Seat 1: magic26v ($42.30 in chips) 
+Seat 2: coezid ($16.60 in chips) 
+Seat 3: Kolohe85 ($31.60 in chips) 
+Seat 5: rafachevere ($21.25 in chips) 
+Seat 6: micinio ($21.45 in chips) 
+Seat 7: Alameda22 ($24.40 in chips) 
+Seat 8: snowpepsi ($24.75 in chips) 
+Seat 9: horacles ($32.80 in chips) 
+Alameda22: posts small blind $0.10
+snowpepsi: posts big blind $0.25
+Omoiyou: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Jd]
+horacles: raises $0.75 to $1
+magic26v: folds 
+coezid: folds 
+Kolohe85: folds 
+rafachevere: folds 
+micinio: folds 
+Alameda22: folds 
+snowpepsi: folds 
+Uncalled bet ($0.75) returned to horacles
+horacles collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: magic26v folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: micinio (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: snowpepsi (big blind) folded before Flop
+Seat 9: horacles collected ($0.60)
+
+
+
+PokerStars Game #20079228677:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:22:43 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 1: magic26v ($42.30 in chips) 
+Seat 2: coezid ($16.60 in chips) 
+Seat 3: Kolohe85 ($31.60 in chips) 
+Seat 5: rafachevere ($21.25 in chips) 
+Seat 6: micinio ($21.45 in chips) 
+Seat 7: Alameda22 ($24.30 in chips) 
+Seat 8: snowpepsi ($24.50 in chips) 
+Seat 9: horacles ($33.15 in chips) 
+snowpepsi: posts small blind $0.10
+horacles: posts big blind $0.25
+Omoiyou: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 4d]
+magic26v: folds 
+coezid: calls $0.25
+Kolohe85: folds 
+rafachevere: raises $0.30 to $0.55
+micinio: folds 
+Alameda22: folds 
+snowpepsi: raises $1.70 to $2.25
+horacles: folds 
+coezid: folds 
+rafachevere is disconnected 
+rafachevere is connected 
+rafachevere: folds 
+Uncalled bet ($1.70) returned to snowpepsi
+snowpepsi collected $1.60 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0 
+Seat 1: magic26v folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 5: rafachevere folded before Flop
+Seat 6: micinio folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: snowpepsi (small blind) collected ($1.60)
+Seat 9: horacles (big blind) folded before Flop
+
+
+
+PokerStars Game #20079279385:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:24:56 (ET)
+Table 'Baumeia' 9-max Seat #8 is the button
+Seat 1: magic26v ($42.30 in chips) 
+Seat 2: coezid ($16.35 in chips) 
+Seat 3: Kolohe85 ($31.60 in chips) 
+Seat 5: rafachevere ($20.70 in chips) 
+Seat 6: micinio ($21.45 in chips) 
+Seat 7: Alameda22 ($24.30 in chips) 
+Seat 8: snowpepsi ($25.55 in chips) 
+Seat 9: horacles ($32.90 in chips) 
+horacles: posts small blind $0.10
+magic26v: posts big blind $0.25
+Omoiyou: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 4h]
+coezid: folds 
+Kolohe85: folds 
+rafachevere: folds 
+micinio: calls $0.25
+Alameda22: folds 
+snowpepsi: calls $0.25
+horacles: folds 
+magic26v: checks 
+*** FLOP *** [Ts 5s 5h]
+magic26v: checks 
+micinio: checks 
+snowpepsi: checks 
+*** TURN *** [Ts 5s 5h] [Td]
+rafachevere is disconnected 
+magic26v: checks 
+micinio: checks 
+rafachevere is connected 
+snowpepsi: bets $0.75
+magic26v: folds 
+micinio: folds 
+Uncalled bet ($0.75) returned to snowpepsi
+snowpepsi collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Ts 5s 5h Td]
+Seat 1: magic26v (big blind) folded on the Turn
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: micinio folded on the Turn
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi (button) collected ($0.85)
+Seat 9: horacles (small blind) folded before Flop
+
+
+
+PokerStars Game #20079316987:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:26:36 (ET)
+Table 'Baumeia' 9-max Seat #9 is the button
+Seat 1: magic26v ($42.05 in chips) 
+Seat 2: coezid ($16.35 in chips) 
+Seat 3: Kolohe85 ($31.60 in chips) 
+Seat 5: rafachevere ($20.70 in chips) 
+Seat 6: micinio ($21.20 in chips) 
+Seat 7: Alameda22 ($24.30 in chips) 
+Seat 8: snowpepsi ($26.15 in chips) 
+Seat 9: horacles ($32.80 in chips) 
+magic26v: posts small blind $0.10
+coezid: posts big blind $0.25
+Omoiyou: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 8h]
+Kolohe85: folds 
+rafachevere: calls $0.25
+micinio: folds 
+Alameda22: calls $0.25
+snowpepsi: folds 
+horacles: folds 
+magic26v: folds 
+coezid: raises $0.25 to $0.50
+rafachevere: calls $0.25
+Alameda22: calls $0.25
+*** FLOP *** [2c 5d 9d]
+coezid: bets $1
+rafachevere: folds 
+Alameda22: folds 
+Uncalled bet ($1) returned to coezid
+coezid collected $1.55 from pot
+coezid: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [2c 5d 9d]
+Seat 1: magic26v (small blind) folded before Flop
+Seat 2: coezid (big blind) collected ($1.55)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 5: rafachevere folded on the Flop
+Seat 6: micinio folded before Flop (didn't bet)
+Seat 7: Alameda22 folded on the Flop
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079348677:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:28:00 (ET)
+Table 'Baumeia' 9-max Seat #1 is the button
+Seat 1: magic26v ($41.95 in chips) 
+Seat 2: coezid ($17.40 in chips) 
+Seat 3: Kolohe85 ($31.60 in chips) 
+Seat 5: rafachevere ($20.20 in chips) 
+Seat 6: micinio ($21.20 in chips) 
+Seat 7: Alameda22 ($23.80 in chips) 
+Seat 8: snowpepsi ($26.15 in chips) 
+Seat 9: horacles ($32.80 in chips) 
+coezid: posts small blind $0.10
+Kolohe85: posts big blind $0.25
+Omoiyou: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 4h]
+rafachevere: folds 
+micinio: folds 
+Alameda22: folds 
+snowpepsi has timed out
+snowpepsi: folds 
+snowpepsi is sitting out
+snowpepsi has returned
+horacles: raises $0.75 to $1
+magic26v: calls $1
+coezid: calls $0.90
+Kolohe85: folds 
+*** FLOP *** [9c 6d Qc]
+coezid: checks 
+horacles: checks 
+magic26v: checks 
+*** TURN *** [9c 6d Qc] [Ac]
+coezid: checks 
+horacles: checks 
+magic26v: checks 
+*** RIVER *** [9c 6d Qc Ac] [7d]
+coezid: checks 
+horacles: checks 
+magic26v: checks 
+*** SHOW DOWN ***
+coezid: shows [Td Jc] (high card Ace)
+horacles: shows [Ad 8d] (a pair of Aces)
+magic26v: mucks hand 
+horacles collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [9c 6d Qc Ac 7d]
+Seat 1: magic26v (button) mucked [Ts Th]
+Seat 2: coezid (small blind) showed [Td Jc] and lost with high card Ace
+Seat 3: Kolohe85 (big blind) folded before Flop
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: micinio folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles showed [Ad 8d] and won ($3.10) with a pair of Aces
+
+
+
+PokerStars Game #20079406156:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:30:33 (ET)
+Table 'Baumeia' 9-max Seat #2 is the button
+Seat 1: magic26v ($40.95 in chips) 
+Seat 2: coezid ($16.40 in chips) 
+Seat 3: Kolohe85 ($31.35 in chips) 
+Seat 4: Omoiyou ($25 in chips) 
+Seat 5: rafachevere ($20.20 in chips) 
+Seat 6: micinio ($21.20 in chips) 
+Seat 7: Alameda22 ($23.80 in chips) 
+Seat 8: snowpepsi ($26.15 in chips) 
+Seat 9: horacles ($34.90 in chips) 
+Kolohe85: posts small blind $0.10
+Omoiyou: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d As]
+rafachevere: folds 
+micinio: raises $0.50 to $0.75
+Alameda22: folds 
+snowpepsi: folds 
+horacles: calls $0.75
+magic26v: folds 
+coezid: folds 
+Kolohe85: folds 
+Omoiyou: folds 
+*** FLOP *** [4s Qs 3c]
+micinio: bets $2.50
+horacles: folds 
+Uncalled bet ($2.50) returned to micinio
+micinio collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [4s Qs 3c]
+Seat 1: magic26v folded before Flop (didn't bet)
+Seat 2: coezid (button) folded before Flop (didn't bet)
+Seat 3: Kolohe85 (small blind) folded before Flop
+Seat 4: Omoiyou (big blind) folded before Flop
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: micinio collected ($1.80)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles folded on the Flop
+
+
+
+PokerStars Game #20079427121:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:31:29 (ET)
+Table 'Baumeia' 9-max Seat #3 is the button
+Seat 1: magic26v ($40.95 in chips) 
+Seat 2: coezid ($16.40 in chips) 
+Seat 3: Kolohe85 ($31.25 in chips) 
+Seat 4: Omoiyou ($24.75 in chips) 
+Seat 5: rafachevere ($20.20 in chips) 
+Seat 6: micinio ($22.25 in chips) 
+Seat 7: Alameda22 ($23.80 in chips) 
+Seat 8: snowpepsi ($26.15 in chips) 
+Seat 9: horacles ($34.15 in chips) 
+Omoiyou: posts small blind $0.10
+rafachevere: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d As]
+micinio: raises $0.25 to $0.50
+Alameda22: folds 
+snowpepsi: folds 
+horacles: folds 
+magic26v: folds 
+coezid: folds 
+Kolohe85: folds 
+Omoiyou: folds 
+rafachevere: calls $0.25
+*** FLOP *** [2s 5h Kh]
+rafachevere: checks 
+micinio: bets $1
+rafachevere: folds 
+Uncalled bet ($1) returned to micinio
+micinio collected $1.05 from pot
+micinio: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [2s 5h Kh]
+Seat 1: magic26v folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 (button) folded before Flop (didn't bet)
+Seat 4: Omoiyou (small blind) folded before Flop
+Seat 5: rafachevere (big blind) folded on the Flop
+Seat 6: micinio collected ($1.05)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079447409:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:32:24 (ET)
+Table 'Baumeia' 9-max Seat #4 is the button
+Seat 1: magic26v ($40.95 in chips) 
+Seat 2: coezid ($16.40 in chips) 
+Seat 3: Kolohe85 ($31.25 in chips) 
+Seat 4: Omoiyou ($24.65 in chips) 
+Seat 5: rafachevere ($19.70 in chips) 
+Seat 6: micinio ($22.80 in chips) 
+Seat 7: Alameda22 ($23.80 in chips) 
+Seat 8: snowpepsi ($26.15 in chips) 
+Seat 9: horacles ($34.15 in chips) 
+rafachevere: posts small blind $0.10
+micinio: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 3h]
+Alameda22: folds 
+snowpepsi: folds 
+horacles: folds 
+magic26v: folds 
+coezid: folds 
+Kolohe85: folds 
+Omoiyou: calls $0.25
+rafachevere: raises $0.50 to $0.75
+micinio: calls $0.50
+Omoiyou: folds 
+*** FLOP *** [7h 6h 9h]
+rafachevere: bets $1.30
+micinio: calls $1.30
+*** TURN *** [7h 6h 9h] [4c]
+rafachevere: bets $4
+micinio: folds 
+Uncalled bet ($4) returned to rafachevere
+rafachevere collected $4.15 from pot
+rafachevere: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.35 | Rake $0.20 
+Board [7h 6h 9h 4c]
+Seat 1: magic26v folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou (button) folded before Flop
+Seat 5: rafachevere (small blind) collected ($4.15)
+Seat 6: micinio (big blind) folded on the Turn
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079474798:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:33:38 (ET)
+Table 'Baumeia' 9-max Seat #5 is the button
+Seat 1: magic26v ($40.95 in chips) 
+Seat 2: coezid ($16.40 in chips) 
+Seat 3: Kolohe85 ($31.25 in chips) 
+Seat 4: Omoiyou ($24.40 in chips) 
+Seat 5: rafachevere ($21.80 in chips) 
+Seat 6: micinio ($20.75 in chips) 
+Seat 7: Alameda22 ($23.80 in chips) 
+Seat 8: snowpepsi ($26.15 in chips) 
+Seat 9: horacles ($34.15 in chips) 
+micinio: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Ad]
+snowpepsi: folds 
+horacles: folds 
+magic26v: folds 
+coezid: folds 
+Kolohe85: folds 
+Omoiyou: folds 
+rafachevere is disconnected 
+rafachevere has timed out while disconnected
+rafachevere: folds 
+rafachevere is sitting out
+rafachevere is connected 
+micinio: raises $0.50 to $0.75
+rafachevere has returned
+Alameda22: calls $0.50
+*** FLOP *** [7s 8c Kc]
+micinio: checks 
+Alameda22: checks 
+*** TURN *** [7s 8c Kc] [7h]
+micinio: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to micinio
+micinio collected $1.45 from pot
+micinio: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [7s 8c Kc 7h]
+Seat 1: magic26v folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: rafachevere (button) folded before Flop (didn't bet)
+Seat 6: micinio (small blind) collected ($1.45)
+Seat 7: Alameda22 (big blind) folded on the Turn
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079505796:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:35:02 (ET)
+Table 'Baumeia' 9-max Seat #6 is the button
+Seat 1: magic26v ($40.95 in chips) 
+Seat 2: coezid ($16.40 in chips) 
+Seat 3: Kolohe85 ($31.25 in chips) 
+Seat 4: Omoiyou ($24.40 in chips) 
+Seat 5: rafachevere ($21.80 in chips) 
+Seat 6: micinio ($21.45 in chips) 
+Seat 7: Alameda22 ($23.05 in chips) 
+Seat 8: snowpepsi ($26.15 in chips) 
+Seat 9: horacles ($34.15 in chips) 
+Alameda22: posts small blind $0.10
+snowpepsi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 8s]
+horacles: folds 
+magic26v: folds 
+coezid: calls $0.25
+Kolohe85: folds 
+Omoiyou: folds 
+rafachevere is disconnected 
+rafachevere has timed out while disconnected
+rafachevere: folds 
+rafachevere is sitting out
+micinio: folds 
+Alameda22: folds 
+snowpepsi: checks 
+*** FLOP *** [8c Jd Jh]
+snowpepsi: checks 
+coezid: checks 
+*** TURN *** [8c Jd Jh] [Th]
+snowpepsi: checks 
+coezid: checks 
+*** RIVER *** [8c Jd Jh Th] [5s]
+rafachevere is connected 
+snowpepsi: checks 
+coezid: bets $0.50
+snowpepsi: folds 
+Uncalled bet ($0.50) returned to coezid
+coezid collected $0.60 from pot
+rafachevere has returned
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8c Jd Jh Th 5s]
+Seat 1: magic26v folded before Flop (didn't bet)
+Seat 2: coezid collected ($0.60)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: micinio (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: snowpepsi (big blind) folded on the River
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079541848:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:36:39 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 1: magic26v ($40.95 in chips) 
+Seat 2: coezid ($16.75 in chips) 
+Seat 3: Kolohe85 ($31.25 in chips) 
+Seat 4: Omoiyou ($24.40 in chips) 
+Seat 5: rafachevere ($21.80 in chips) 
+Seat 6: micinio ($21.45 in chips) 
+Seat 7: Alameda22 ($22.95 in chips) 
+Seat 8: snowpepsi ($25.90 in chips) 
+Seat 9: horacles ($34.15 in chips) 
+snowpepsi: posts small blind $0.10
+horacles: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 2d]
+magic26v: folds 
+coezid: folds 
+Kolohe85: folds 
+Omoiyou: folds 
+rafachevere: folds 
+micinio: raises $0.50 to $0.75
+Alameda22: folds 
+snowpepsi: folds 
+horacles: folds 
+Uncalled bet ($0.50) returned to micinio
+micinio collected $0.60 from pot
+micinio: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: magic26v folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: micinio collected ($0.60)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: snowpepsi (small blind) folded before Flop
+Seat 9: horacles (big blind) folded before Flop
+
+
+
+PokerStars Game #20079552671:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:37:08 (ET)
+Table 'Baumeia' 9-max Seat #8 is the button
+Seat 2: coezid ($16.75 in chips) 
+Seat 3: Kolohe85 ($31.25 in chips) 
+Seat 4: Omoiyou ($24.40 in chips) 
+Seat 5: rafachevere ($21.80 in chips) 
+Seat 6: micinio ($21.80 in chips) 
+Seat 7: Alameda22 ($22.95 in chips) 
+Seat 8: snowpepsi ($25.80 in chips) 
+Seat 9: horacles ($33.90 in chips) 
+horacles: posts small blind $0.10
+magic26v: is sitting out 
+magic26v leaves the table
+coezid: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Ac]
+Kolohe85: folds 
+mr_patriko joins the table at seat #1 
+Omoiyou: folds 
+rafachevere: raises $0.45 to $0.70
+micinio: folds 
+Alameda22: folds 
+snowpepsi: calls $0.70
+horacles: folds 
+coezid: folds 
+*** FLOP *** [3h 6s 5s]
+rafachevere is disconnected 
+rafachevere has timed out while disconnected
+rafachevere: checks 
+snowpepsi: checks 
+*** TURN *** [3h 6s 5s] [Jd]
+rafachevere has timed out while disconnected
+rafachevere: checks 
+snowpepsi: checks 
+*** RIVER *** [3h 6s 5s Jd] [9c]
+rafachevere has timed out while disconnected
+rafachevere: checks 
+snowpepsi: checks 
+*** SHOW DOWN ***
+rafachevere: shows [Ad Th] (high card Ace)
+snowpepsi: shows [Ah Qh] (high card Ace - Queen kicker)
+snowpepsi collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [3h 6s 5s Jd 9c]
+Seat 2: coezid (big blind) folded before Flop
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: rafachevere showed [Ad Th] and lost with high card Ace
+Seat 6: micinio folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi (button) showed [Ah Qh] and won ($1.70) with high card Ace
+Seat 9: horacles (small blind) folded before Flop
+
+
+
+PokerStars Game #20079629781:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:40:37 (ET)
+Table 'Baumeia' 9-max Seat #9 is the button
+Seat 2: coezid ($16.50 in chips) 
+Seat 3: Kolohe85 ($31.25 in chips) 
+Seat 4: Omoiyou ($25 in chips) 
+Seat 5: rafachevere ($21.10 in chips) 
+Seat 6: micinio ($21.80 in chips) 
+Seat 7: Alameda22 ($22.95 in chips) 
+Seat 8: snowpepsi ($26.80 in chips) 
+Seat 9: horacles ($33.80 in chips) 
+mr_patriko will be allowed to play after the button
+coezid: posts small blind $0.10
+Kolohe85: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 3s]
+Omoiyou: folds 
+rafachevere has timed out while disconnected
+rafachevere: folds 
+rafachevere is sitting out
+micinio: raises $0.50 to $0.75
+Alameda22: folds 
+snowpepsi: folds 
+horacles: folds 
+rafachevere is connected 
+coezid: folds 
+Kolohe85: folds 
+Uncalled bet ($0.50) returned to micinio
+micinio collected $0.60 from pot
+micinio: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: coezid (small blind) folded before Flop
+Seat 3: Kolohe85 (big blind) folded before Flop
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: micinio collected ($0.60)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079671851:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:42:26 (ET)
+Table 'Baumeia' 9-max Seat #2 is the button
+Seat 2: coezid ($16.40 in chips) 
+Seat 3: Kolohe85 ($31 in chips) 
+Seat 4: Omoiyou ($25 in chips) 
+Seat 6: micinio ($22.15 in chips) 
+Seat 7: Alameda22 ($22.95 in chips) 
+Seat 8: snowpepsi ($26.80 in chips) 
+Seat 9: horacles ($33.80 in chips) 
+Kolohe85: posts small blind $0.10
+Omoiyou: posts big blind $0.25
+rafachevere has returned
+mr_patriko: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Kd]
+micinio: folds 
+Alameda22: folds 
+snowpepsi: folds 
+horacles: folds 
+coezid: folds 
+Kolohe85: folds 
+Uncalled bet ($0.15) returned to Omoiyou
+Omoiyou collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: coezid (button) folded before Flop (didn't bet)
+Seat 3: Kolohe85 (small blind) folded before Flop
+Seat 4: Omoiyou (big blind) collected ($0.20)
+Seat 6: micinio folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079692970:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:43:21 (ET)
+Table 'Baumeia' 9-max Seat #3 is the button
+Seat 2: coezid ($16.40 in chips) 
+Seat 3: Kolohe85 ($30.90 in chips) 
+Seat 4: Omoiyou ($25.10 in chips) 
+Seat 5: rafachevere ($21.10 in chips) 
+Seat 6: micinio ($22.15 in chips) 
+Seat 7: Alameda22 ($22.95 in chips) 
+Seat 8: snowpepsi ($26.80 in chips) 
+Seat 9: horacles ($33.80 in chips) 
+Omoiyou: posts small blind $0.10
+rafachevere: posts big blind $0.25
+mr_patriko: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 8d]
+micinio: calls $0.25
+Alameda22: folds 
+snowpepsi: folds 
+horacles: folds 
+coezid: folds 
+Kolohe85: folds 
+Omoiyou: folds 
+rafachevere: checks 
+*** FLOP *** [7h 3s 7c]
+rafachevere: bets $0.80
+micinio: folds 
+Uncalled bet ($0.80) returned to rafachevere
+rafachevere collected $0.60 from pot
+rafachevere: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7h 3s 7c]
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 (button) folded before Flop (didn't bet)
+Seat 4: Omoiyou (small blind) folded before Flop
+Seat 5: rafachevere (big blind) collected ($0.60)
+Seat 6: micinio folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079709594:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:44:04 (ET)
+Table 'Baumeia' 9-max Seat #4 is the button
+Seat 2: coezid ($16.40 in chips) 
+Seat 3: Kolohe85 ($30.90 in chips) 
+Seat 4: Omoiyou ($25 in chips) 
+Seat 5: rafachevere ($21.45 in chips) 
+Seat 6: micinio ($21.90 in chips) 
+Seat 7: Alameda22 ($22.95 in chips) 
+Seat 8: snowpepsi ($26.80 in chips) 
+Seat 9: horacles ($33.80 in chips) 
+rafachevere: posts small blind $0.10
+micinio: posts big blind $0.25
+mr_patriko: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 4h]
+Alameda22: folds 
+snowpepsi: folds 
+horacles: folds 
+coezid: folds 
+Kolohe85: folds 
+Omoiyou: folds 
+rafachevere: calls $0.15
+micinio: checks 
+*** FLOP *** [5s 7s Ah]
+rafachevere: checks 
+micinio: bets $0.75
+rafachevere: folds 
+Uncalled bet ($0.75) returned to micinio
+micinio collected $0.50 from pot
+micinio: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [5s 7s Ah]
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou (button) folded before Flop (didn't bet)
+Seat 5: rafachevere (small blind) folded on the Flop
+Seat 6: micinio (big blind) collected ($0.50)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079725005:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:44:44 (ET)
+Table 'Baumeia' 9-max Seat #5 is the button
+Seat 2: coezid ($16.40 in chips) 
+Seat 3: Kolohe85 ($30.90 in chips) 
+Seat 4: Omoiyou ($25 in chips) 
+Seat 5: rafachevere ($21.20 in chips) 
+Seat 6: micinio ($22.15 in chips) 
+Seat 7: Alameda22 ($22.95 in chips) 
+Seat 8: snowpepsi ($26.80 in chips) 
+Seat 9: horacles ($33.80 in chips) 
+micinio: posts small blind $0.10
+Alameda22: posts big blind $0.25
+mr_patriko: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 6c]
+snowpepsi: folds 
+horacles: folds 
+coezid: folds 
+Kolohe85: folds 
+Omoiyou: folds 
+rafachevere: calls $0.25
+micinio: folds 
+Alameda22: checks 
+*** FLOP *** [Ts Qd 8c]
+Alameda22: checks 
+rafachevere: bets $0.70
+Alameda22: folds 
+Uncalled bet ($0.70) returned to rafachevere
+rafachevere collected $0.60 from pot
+rafachevere: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ts Qd 8c]
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: rafachevere (button) collected ($0.60)
+Seat 6: micinio (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded on the Flop
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079742964:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:45:30 (ET)
+Table 'Baumeia' 9-max Seat #6 is the button
+Seat 2: coezid ($16.40 in chips) 
+Seat 3: Kolohe85 ($30.90 in chips) 
+Seat 4: Omoiyou ($25 in chips) 
+Seat 5: rafachevere ($21.55 in chips) 
+Seat 6: micinio ($22.05 in chips) 
+Seat 7: Alameda22 ($22.70 in chips) 
+Seat 8: snowpepsi ($26.80 in chips) 
+Seat 9: horacles ($33.80 in chips) 
+Alameda22: posts small blind $0.10
+snowpepsi: posts big blind $0.25
+mr_patriko: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 7h]
+horacles: folds 
+coezid: folds 
+Kolohe85: folds 
+Omoiyou: raises $0.75 to $1
+rafachevere: folds 
+micinio: folds 
+Alameda22: folds 
+snowpepsi: folds 
+Uncalled bet ($0.75) returned to Omoiyou
+Omoiyou collected $0.60 from pot
+Omoiyou: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou collected ($0.60)
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: micinio (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: snowpepsi (big blind) folded before Flop
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079765697:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:46:29 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 2: coezid ($16.40 in chips) 
+Seat 3: Kolohe85 ($30.90 in chips) 
+Seat 4: Omoiyou ($25.35 in chips) 
+Seat 5: rafachevere ($21.55 in chips) 
+Seat 6: micinio ($22.05 in chips) 
+Seat 7: Alameda22 ($22.60 in chips) 
+Seat 8: snowpepsi ($26.55 in chips) 
+Seat 9: horacles ($33.80 in chips) 
+snowpepsi: posts small blind $0.10
+horacles: posts big blind $0.25
+mr_patriko: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 4d]
+coezid: calls $0.25
+Kolohe85: folds 
+Omoiyou: folds 
+rafachevere: folds 
+micinio: calls $0.25
+Alameda22: folds 
+snowpepsi: folds 
+horacles: checks 
+*** FLOP *** [4s Tc 8s]
+horacles: checks 
+coezid: checks 
+micinio: bets $0.75
+horacles: folds 
+coezid: calls $0.75
+*** TURN *** [4s Tc 8s] [Ks]
+coezid: checks 
+micinio: bets $1
+coezid: raises $3 to $4
+micinio: calls $3
+*** RIVER *** [4s Tc 8s Ks] [6d]
+coezid: bets $7.50
+micinio: calls $7.50
+*** SHOW DOWN ***
+coezid: shows [6s As] (a flush, Ace high)
+micinio: mucks hand 
+coezid collected $24.15 from pot
+*** SUMMARY ***
+Total pot $25.35 | Rake $1.20 
+Board [4s Tc 8s Ks 6d]
+Seat 2: coezid showed [6s As] and won ($24.15) with a flush, Ace high
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: micinio mucked [8d Kd]
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: snowpepsi (small blind) folded before Flop
+Seat 9: horacles (big blind) folded on the Flop
+
+
+
+PokerStars Game #20079815245:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:48:39 (ET)
+Table 'Baumeia' 9-max Seat #8 is the button
+Seat 1: mr_patriko ($25 in chips) 
+Seat 2: coezid ($28.05 in chips) 
+Seat 3: Kolohe85 ($30.90 in chips) 
+Seat 4: Omoiyou ($25.35 in chips) 
+Seat 5: rafachevere ($21.55 in chips) 
+Seat 6: micinio ($9.55 in chips) 
+Seat 7: Alameda22 ($22.60 in chips) 
+Seat 8: snowpepsi ($26.45 in chips) 
+Seat 9: horacles ($33.55 in chips) 
+horacles: posts small blind $0.10
+mr_patriko: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Ks]
+coezid: calls $0.25
+Kolohe85: folds 
+Omoiyou: folds 
+rafachevere is disconnected 
+rafachevere is connected 
+rafachevere: folds 
+micinio: raises $0.50 to $0.75
+Alameda22: raises $2 to $2.75
+snowpepsi: folds 
+horacles: folds 
+mr_patriko: folds 
+coezid: folds 
+micinio: raises $6.80 to $9.55 and is all-in
+rafachevere is disconnected 
+Alameda22: calls $6.80
+*** FLOP *** [3h 9h 5c]
+*** TURN *** [3h 9h 5c] [8c]
+*** RIVER *** [3h 9h 5c 8c] [3s]
+*** SHOW DOWN ***
+micinio: shows [Jd Tc] (a pair of Threes)
+Alameda22: shows [Kh Ks] (two pair, Kings and Threes)
+Alameda22 collected $18.75 from pot
+micinio leaves the table
+*** SUMMARY ***
+Total pot $19.70 | Rake $0.95 
+Board [3h 9h 5c 8c 3s]
+Seat 1: mr_patriko (big blind) folded before Flop
+Seat 2: coezid folded before Flop
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: micinio showed [Jd Tc] and lost with a pair of Threes
+Seat 7: Alameda22 showed [Kh Ks] and won ($18.75) with two pair, Kings and Threes
+Seat 8: snowpepsi (button) folded before Flop (didn't bet)
+Seat 9: horacles (small blind) folded before Flop
+
+
+
+PokerStars Game #20079876418:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:51:20 (ET)
+Table 'Baumeia' 9-max Seat #9 is the button
+Seat 1: mr_patriko ($24.75 in chips) 
+Seat 2: coezid ($27.80 in chips) 
+Seat 3: Kolohe85 ($30.90 in chips) 
+Seat 4: Omoiyou ($25.35 in chips) 
+Seat 5: rafachevere ($21.55 in chips) 
+Seat 7: Alameda22 ($31.80 in chips) 
+Seat 8: snowpepsi ($26.45 in chips) 
+Seat 9: horacles ($33.45 in chips) 
+mr_patriko: posts small blind $0.10
+coezid: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 2c]
+Kolohe85: folds 
+jhig joins the table at seat #6 
+Omoiyou: folds 
+rafachevere has timed out while disconnected
+rafachevere: folds 
+rafachevere is sitting out
+Alameda22: folds 
+snowpepsi: folds 
+rafachevere is connected 
+horacles: raises $0.75 to $1
+mr_patriko: folds 
+rafachevere has returned
+coezid: folds 
+Uncalled bet ($0.75) returned to horacles
+horacles collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: mr_patriko (small blind) folded before Flop
+Seat 2: coezid (big blind) folded before Flop
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles (button) collected ($0.60)
+
+
+
+PokerStars Game #20079911118:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:52:52 (ET)
+Table 'Baumeia' 9-max Seat #1 is the button
+Seat 1: mr_patriko ($24.65 in chips) 
+Seat 2: coezid ($27.55 in chips) 
+Seat 3: Kolohe85 ($30.90 in chips) 
+Seat 4: Omoiyou ($25.35 in chips) 
+Seat 5: rafachevere ($21.55 in chips) 
+Seat 7: Alameda22 ($31.80 in chips) 
+Seat 8: snowpepsi ($26.45 in chips) 
+Seat 9: horacles ($33.80 in chips) 
+coezid: posts small blind $0.10
+Kolohe85: posts big blind $0.25
+jhig: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Ks]
+Omoiyou: folds 
+rafachevere: folds 
+Alameda22: folds 
+snowpepsi: folds 
+horacles: folds 
+mr_patriko: folds 
+coezid: folds 
+Uncalled bet ($0.15) returned to Kolohe85
+Kolohe85 collected $0.20 from pot
+Kolohe85: shows [Qc Ad] (high card Ace)
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: mr_patriko (button) folded before Flop (didn't bet)
+Seat 2: coezid (small blind) folded before Flop
+Seat 3: Kolohe85 (big blind) collected ($0.20)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079930690:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:53:45 (ET)
+Table 'Baumeia' 9-max Seat #2 is the button
+Seat 1: mr_patriko ($24.65 in chips) 
+Seat 2: coezid ($27.45 in chips) 
+Seat 3: Kolohe85 ($31 in chips) 
+Seat 4: Omoiyou ($25.35 in chips) 
+Seat 5: rafachevere ($21.55 in chips) 
+Seat 7: Alameda22 ($31.80 in chips) 
+Seat 8: snowpepsi ($26.45 in chips) 
+Seat 9: horacles ($33.80 in chips) 
+Kolohe85: posts small blind $0.10
+Omoiyou: posts big blind $0.25
+jhig: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Qc]
+rafachevere: calls $0.25
+Alameda22: folds 
+snowpepsi: folds 
+horacles: folds 
+mr_patriko: folds 
+coezid: folds 
+Kolohe85: calls $0.15
+Omoiyou: checks 
+*** FLOP *** [7s 4c 9h]
+Kolohe85: checks 
+Omoiyou: checks 
+rafachevere: bets $0.80
+Kolohe85: folds 
+Omoiyou: folds 
+Uncalled bet ($0.80) returned to rafachevere
+rafachevere collected $0.75 from pot
+rafachevere: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [7s 4c 9h]
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid (button) folded before Flop (didn't bet)
+Seat 3: Kolohe85 (small blind) folded on the Flop
+Seat 4: Omoiyou (big blind) folded on the Flop
+Seat 5: rafachevere collected ($0.75)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079958835:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:54:59 (ET)
+Table 'Baumeia' 9-max Seat #3 is the button
+Seat 1: mr_patriko ($24.65 in chips) 
+Seat 2: coezid ($27.45 in chips) 
+Seat 3: Kolohe85 ($30.75 in chips) 
+Seat 4: Omoiyou ($25.10 in chips) 
+Seat 5: rafachevere ($22.05 in chips) 
+Seat 7: Alameda22 ($31.80 in chips) 
+Seat 8: snowpepsi ($26.45 in chips) 
+Seat 9: horacles ($33.80 in chips) 
+Omoiyou: posts small blind $0.10
+rafachevere: posts big blind $0.25
+jhig: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Qh]
+Alameda22: folds 
+snowpepsi: calls $0.25
+horacles: folds 
+mr_patriko: folds 
+coezid: calls $0.25
+Kolohe85: calls $0.25
+Omoiyou: calls $0.15
+rafachevere: checks 
+*** FLOP *** [Td Kc Jd]
+Omoiyou: checks 
+rafachevere: checks 
+snowpepsi: checks 
+coezid: checks 
+Kolohe85: bets $1.75
+Omoiyou: folds 
+rafachevere: folds 
+snowpepsi: calls $1.75
+coezid: calls $1.75
+*** TURN *** [Td Kc Jd] [5h]
+snowpepsi: checks 
+coezid: checks 
+Kolohe85: bets $3.50
+snowpepsi: raises $4.50 to $8
+coezid: folds 
+Kolohe85: calls $4.50
+*** RIVER *** [Td Kc Jd 5h] [3s]
+snowpepsi: checks 
+Kolohe85: checks 
+*** SHOW DOWN ***
+snowpepsi: shows [Jh Js] (three of a kind, Jacks)
+Kolohe85: mucks hand 
+snowpepsi collected $21.40 from pot
+*** SUMMARY ***
+Total pot $22.50 | Rake $1.10 
+Board [Td Kc Jd 5h 3s]
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid folded on the Turn
+Seat 3: Kolohe85 (button) mucked [Ad 8d]
+Seat 4: Omoiyou (small blind) folded on the Flop
+Seat 5: rafachevere (big blind) folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi showed [Jh Js] and won ($21.40) with three of a kind, Jacks
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080008117:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:57:12 (ET)
+Table 'Baumeia' 9-max Seat #4 is the button
+Seat 1: mr_patriko ($24.65 in chips) 
+Seat 2: coezid ($25.45 in chips) 
+Seat 3: Kolohe85 ($20.75 in chips) 
+Seat 4: Omoiyou ($24.85 in chips) 
+Seat 5: rafachevere ($21.80 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.80 in chips) 
+Seat 8: snowpepsi ($37.85 in chips) 
+Seat 9: horacles ($33.80 in chips) 
+rafachevere: posts small blind $0.10
+jhig: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Th]
+Alameda22: folds 
+snowpepsi: folds 
+horacles: folds 
+Kolohe85 said, "nh"
+mr_patriko: folds 
+coezid: folds 
+Kolohe85: folds 
+Omoiyou: calls $0.25
+rafachevere: calls $0.15
+jhig: checks 
+*** FLOP *** [7d Td Js]
+rafachevere: bets $0.70
+jhig: folds 
+Omoiyou: folds 
+Uncalled bet ($0.70) returned to rafachevere
+rafachevere collected $0.75 from pot
+rafachevere: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [7d Td Js]
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou (button) folded on the Flop
+Seat 5: rafachevere (small blind) collected ($0.75)
+Seat 6: jhig (big blind) folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080026636:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:58:02 (ET)
+Table 'Baumeia' 9-max Seat #5 is the button
+Seat 1: mr_patriko ($24.65 in chips) 
+Seat 2: coezid ($25.45 in chips) 
+Seat 3: Kolohe85 ($20.75 in chips) 
+Seat 4: Omoiyou ($24.60 in chips) 
+Seat 5: rafachevere ($22.30 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.80 in chips) 
+Seat 8: snowpepsi ($37.85 in chips) 
+Seat 9: horacles ($33.80 in chips) 
+jhig: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 3h]
+snowpepsi: calls $0.25
+horacles: folds 
+mr_patriko: folds 
+coezid: folds 
+Kolohe85: folds 
+Omoiyou: folds 
+rafachevere: folds 
+jhig: folds 
+Alameda22: checks 
+*** FLOP *** [Ts Kd 6c]
+Alameda22: checks 
+snowpepsi: bets $0.75
+Alameda22: folds 
+Uncalled bet ($0.75) returned to snowpepsi
+snowpepsi collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ts Kd 6c]
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: rafachevere (button) folded before Flop (didn't bet)
+Seat 6: jhig (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded on the Flop
+Seat 8: snowpepsi collected ($0.60)
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080058038:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:59:27 (ET)
+Table 'Baumeia' 9-max Seat #6 is the button
+Seat 1: mr_patriko ($24.65 in chips) 
+Seat 2: coezid ($25.45 in chips) 
+Seat 3: Kolohe85 ($20.75 in chips) 
+Seat 4: Omoiyou ($24.60 in chips) 
+Seat 5: rafachevere ($22.30 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.55 in chips) 
+Seat 8: snowpepsi ($38.20 in chips) 
+Seat 9: horacles ($33.80 in chips) 
+Alameda22: posts small blind $0.10
+snowpepsi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Ts]
+horacles: folds 
+mr_patriko: folds 
+coezid: calls $0.25
+Kolohe85: folds 
+Omoiyou: folds 
+rafachevere: folds 
+jhig: folds 
+Alameda22: folds 
+snowpepsi: checks 
+*** FLOP *** [7c 6h 8s]
+snowpepsi: checks 
+coezid: checks 
+*** TURN *** [7c 6h 8s] [9c]
+snowpepsi: checks 
+coezid: bets $1
+snowpepsi: folds 
+Uncalled bet ($1) returned to coezid
+coezid collected $0.60 from pot
+coezid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7c 6h 8s 9c]
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid collected ($0.60)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: jhig (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: snowpepsi (big blind) folded on the Turn
+Seat 9: horacles folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080078614:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:00:21 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 1: mr_patriko ($24.65 in chips) 
+Seat 2: coezid ($25.80 in chips) 
+Seat 3: Kolohe85 ($20.75 in chips) 
+Seat 4: Omoiyou ($24.60 in chips) 
+Seat 5: rafachevere ($22.30 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.45 in chips) 
+Seat 8: snowpepsi ($37.95 in chips) 
+Seat 9: horacles ($33.80 in chips) 
+snowpepsi: posts small blind $0.10
+horacles: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Ah]
+mr_patriko: folds 
+coezid: folds 
+Kolohe85: folds 
+Omoiyou: folds 
+rafachevere is disconnected 
+rafachevere has timed out while disconnected
+rafachevere: folds 
+rafachevere is sitting out
+jhig: folds 
+Alameda22: folds 
+snowpepsi: folds 
+Uncalled bet ($0.15) returned to horacles
+horacles collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: jhig folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: snowpepsi (small blind) folded before Flop
+Seat 9: horacles (big blind) collected ($0.20)
+
+
+
+PokerStars Game #20080107170:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:01:37 (ET)
+Table 'Baumeia' 9-max Seat #8 is the button
+Seat 1: mr_patriko ($24.65 in chips) 
+Seat 2: coezid ($25.80 in chips) 
+Seat 3: Kolohe85 ($20.75 in chips) 
+Seat 4: Omoiyou ($24.60 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.45 in chips) 
+Seat 8: snowpepsi ($37.85 in chips) 
+Seat 9: horacles ($33.90 in chips) 
+horacles: posts small blind $0.10
+mr_patriko: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 8s]
+rafachevere is connected 
+rafachevere has returned
+coezid: folds 
+Kolohe85: folds 
+Omoiyou: folds 
+jhig: folds 
+Alameda22: folds 
+snowpepsi: folds 
+horacles: folds 
+Uncalled bet ($0.15) returned to mr_patriko
+horacles is sitting out
+mr_patriko collected $0.20 from pot
+mr_patriko: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: mr_patriko (big blind) collected ($0.20)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 6: jhig folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi (button) folded before Flop (didn't bet)
+Seat 9: horacles (small blind) folded before Flop
+
+
+
+PokerStars Game #20080126803:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:02:30 (ET)
+Table 'Baumeia' 9-max Seat #1 is the button
+Seat 1: mr_patriko ($24.75 in chips) 
+Seat 2: coezid ($25.80 in chips) 
+Seat 3: Kolohe85 ($20.75 in chips) 
+Seat 4: Omoiyou ($25 in chips) 
+Seat 5: rafachevere ($22.30 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.45 in chips) 
+Seat 8: snowpepsi ($37.85 in chips) 
+coezid: posts small blind $0.10
+Kolohe85: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Js]
+Omoiyou: folds 
+rafachevere: folds 
+jhig: folds 
+Alameda22: folds 
+snowpepsi: folds 
+mr_patriko: folds 
+coezid: calls $0.15
+Kolohe85: checks 
+*** FLOP *** [Qs Td 8c]
+coezid: checks 
+Kolohe85: bets $0.50
+coezid: folds 
+Uncalled bet ($0.50) returned to Kolohe85
+Kolohe85 collected $0.50 from pot
+Kolohe85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Qs Td 8c]
+Seat 1: mr_patriko (button) folded before Flop (didn't bet)
+Seat 2: coezid (small blind) folded on the Flop
+Seat 3: Kolohe85 (big blind) collected ($0.50)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: jhig folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080145938:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:03:21 (ET)
+Table 'Baumeia' 9-max Seat #2 is the button
+Seat 1: mr_patriko ($24.75 in chips) 
+Seat 2: coezid ($25.55 in chips) 
+Seat 3: Kolohe85 ($21 in chips) 
+Seat 4: Omoiyou ($25 in chips) 
+Seat 5: rafachevere ($22.30 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.45 in chips) 
+Seat 8: snowpepsi ($37.85 in chips) 
+Kolohe85: posts small blind $0.10
+Omoiyou: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 2s]
+rafachevere: folds 
+jhig: folds 
+rafachevere leaves the table
+Alameda22: folds 
+snowpepsi: folds 
+mr_patriko: folds 
+horacles leaves the table
+coezid: calls $0.25
+Kolohe85: raises $0.50 to $0.75
+Omoiyou: calls $0.50
+coezid: calls $0.50
+*** FLOP *** [Ts 3d Th]
+Kolohe85: bets $1.75
+Omoiyou: calls $1.75
+Donkey_Nuts1 joins the table at seat #5 
+coezid: folds 
+*** TURN *** [Ts 3d Th] [7s]
+Kolohe85: bets $4.25
+Omoiyou: raises $17 to $21.25
+Kolohe85: folds 
+Uncalled bet ($17) returned to Omoiyou
+Omoiyou collected $13.55 from pot
+Omoiyou: doesn't show hand 
+Kolohe85 said, "hit your 10?"
+*** SUMMARY ***
+Total pot $14.25 | Rake $0.70 
+Board [Ts 3d Th 7s]
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid (button) folded on the Flop
+Seat 3: Kolohe85 (small blind) folded on the Turn
+Seat 4: Omoiyou (big blind) collected ($13.55)
+Seat 5: rafachevere folded before Flop (didn't bet)
+Seat 6: jhig folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080182125:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:04:58 (ET)
+Table 'Baumeia' 9-max Seat #3 is the button
+Seat 1: mr_patriko ($24.75 in chips) 
+Seat 2: coezid ($24.80 in chips) 
+Seat 3: Kolohe85 ($14.25 in chips) 
+Seat 4: Omoiyou ($31.80 in chips) 
+Seat 5: Donkey_Nuts1 ($13.40 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.45 in chips) 
+Seat 8: snowpepsi ($37.85 in chips) 
+Omoiyou: posts small blind $0.10
+Donkey_Nuts1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 3d]
+jhig: folds 
+Alameda22: folds 
+snowpepsi: folds 
+mr_patriko: folds 
+coezid: raises $0.25 to $0.50
+Kolohe85: folds 
+Omoiyou: folds 
+Donkey_Nuts1: calls $0.25
+*** FLOP *** [9d Ks 7c]
+Donkey_Nuts1: checks 
+coezid: bets $1
+Donkey_Nuts1: folds 
+Uncalled bet ($1) returned to coezid
+coezid collected $1.05 from pot
+coezid: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [9d Ks 7c]
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid collected ($1.05)
+Seat 3: Kolohe85 (button) folded before Flop (didn't bet)
+Seat 4: Omoiyou (small blind) folded before Flop
+Seat 5: Donkey_Nuts1 (big blind) folded on the Flop
+Seat 6: jhig folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080200316:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:05:46 (ET)
+Table 'Baumeia' 9-max Seat #4 is the button
+Seat 1: mr_patriko ($24.75 in chips) 
+Seat 2: coezid ($25.35 in chips) 
+Seat 3: Kolohe85 ($14.25 in chips) 
+Seat 4: Omoiyou ($31.70 in chips) 
+Seat 5: Donkey_Nuts1 ($12.90 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.45 in chips) 
+Seat 8: snowpepsi ($37.85 in chips) 
+Donkey_Nuts1: posts small blind $0.10
+jhig: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 5d]
+Alameda22: folds 
+snowpepsi: folds 
+yjqian23 joins the table at seat #9 
+mr_patriko: folds 
+coezid has timed out
+coezid: folds 
+coezid is sitting out
+Kolohe85: raises $0.50 to $0.75
+coezid has returned
+Omoiyou: calls $0.75
+Donkey_Nuts1: folds 
+jhig: folds 
+*** FLOP *** [Qc 8c 2c]
+Kolohe85: checks 
+Omoiyou: checks 
+*** TURN *** [Qc 8c 2c] [7h]
+Kolohe85: checks 
+Omoiyou: bets $1
+Kolohe85: folds 
+Uncalled bet ($1) returned to Omoiyou
+Omoiyou collected $1.80 from pot
+Omoiyou: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [Qc 8c 2c 7h]
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded on the Turn
+Seat 4: Omoiyou (button) collected ($1.80)
+Seat 5: Donkey_Nuts1 (small blind) folded before Flop
+Seat 6: jhig (big blind) folded before Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080237643:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:07:27 (ET)
+Table 'Baumeia' 9-max Seat #5 is the button
+Seat 1: mr_patriko ($24.75 in chips) 
+Seat 2: coezid ($25.35 in chips) 
+Seat 3: Kolohe85 ($13.50 in chips) 
+Seat 4: Omoiyou ($32.75 in chips) 
+Seat 5: Donkey_Nuts1 ($12.80 in chips) 
+Seat 6: jhig ($24.75 in chips) 
+Seat 7: Alameda22 ($31.45 in chips) 
+Seat 8: snowpepsi ($37.85 in chips) 
+jhig: posts small blind $0.10
+Alameda22: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 7c]
+snowpepsi: calls $0.25
+mr_patriko: folds 
+coezid: calls $0.25
+Kolohe85: calls $0.25
+Omoiyou: folds 
+Donkey_Nuts1: folds 
+jhig: folds 
+Alameda22: checks 
+*** FLOP *** [8c 9d Qd]
+Alameda22: checks 
+snowpepsi: bets $1
+coezid: raises $1 to $2
+Kolohe85: folds 
+Alameda22: folds 
+snowpepsi: raises $3 to $5
+coezid: calls $3
+*** TURN *** [8c 9d Qd] [2d]
+snowpepsi: checks 
+coezid: checks 
+*** RIVER *** [8c 9d Qd 2d] [3d]
+snowpepsi: bets $5.50
+coezid: folds 
+Uncalled bet ($5.50) returned to snowpepsi
+snowpepsi collected $10.55 from pot
+*** SUMMARY ***
+Total pot $11.10 | Rake $0.55 
+Board [8c 9d Qd 2d 3d]
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid folded on the River
+Seat 3: Kolohe85 folded on the Flop
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: Donkey_Nuts1 (button) folded before Flop (didn't bet)
+Seat 6: jhig (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded on the Flop
+Seat 8: snowpepsi collected ($10.55)
+
+
+
+PokerStars Game #20080290247:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:09:47 (ET)
+Table 'Baumeia' 9-max Seat #6 is the button
+Seat 1: mr_patriko ($24.75 in chips) 
+Seat 2: coezid ($20.10 in chips) 
+Seat 3: Kolohe85 ($13.25 in chips) 
+Seat 4: Omoiyou ($32.75 in chips) 
+Seat 5: Donkey_Nuts1 ($12.80 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.20 in chips) 
+Seat 8: snowpepsi ($43.15 in chips) 
+Alameda22: posts small blind $0.10
+snowpepsi: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Tc]
+mr_patriko: raises $0.75 to $1
+coezid: folds 
+Kolohe85: folds 
+Omoiyou: calls $1
+Donkey_Nuts1: folds 
+jhig: raises $2.50 to $3.50
+Alameda22: folds 
+snowpepsi: folds 
+mr_patriko: raises $4 to $7.50
+Omoiyou: folds 
+jhig: calls $4
+*** FLOP *** [9s 7s Qd]
+mr_patriko: bets $17.25 and is all-in
+jhig: folds 
+Uncalled bet ($17.25) returned to mr_patriko
+mr_patriko collected $15.55 from pot
+mr_patriko: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.35 | Rake $0.80 
+Board [9s 7s Qd]
+Seat 1: mr_patriko collected ($15.55)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop
+Seat 5: Donkey_Nuts1 folded before Flop (didn't bet)
+Seat 6: jhig (button) folded on the Flop
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: snowpepsi (big blind) folded before Flop
+
+
+
+PokerStars Game #20080334020:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:11:44 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 1: mr_patriko ($32.80 in chips) 
+Seat 2: coezid ($20.10 in chips) 
+Seat 3: Kolohe85 ($13.25 in chips) 
+Seat 4: Omoiyou ($31.75 in chips) 
+Seat 5: Donkey_Nuts1 ($12.80 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.10 in chips) 
+Seat 8: snowpepsi ($42.90 in chips) 
+Seat 9: yjqian23 ($25 in chips) 
+snowpepsi: posts small blind $0.10
+yjqian23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 5d]
+mr_patriko: folds 
+coezid: calls $0.25
+Kolohe85: calls $0.25
+Omoiyou: folds 
+Donkey_Nuts1: folds 
+jhig: folds 
+Alameda22: folds 
+snowpepsi: folds 
+yjqian23: checks 
+*** FLOP *** [Qs 5c 2c]
+yjqian23: checks 
+coezid: checks 
+Kolohe85: bets $0.75
+yjqian23: folds 
+coezid: calls $0.75
+*** TURN *** [Qs 5c 2c] [9s]
+coezid: checks 
+Kolohe85: checks 
+*** RIVER *** [Qs 5c 2c 9s] [8d]
+coezid: checks 
+Kolohe85: checks 
+*** SHOW DOWN ***
+coezid: shows [4d Ac] (high card Ace)
+Kolohe85: mucks hand 
+coezid collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Qs 5c 2c 9s 8d]
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid showed [4d Ac] and won ($2.25) with high card Ace
+Seat 3: Kolohe85 mucked [Ts Kd]
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: Donkey_Nuts1 folded before Flop (didn't bet)
+Seat 6: jhig folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: snowpepsi (small blind) folded before Flop
+Seat 9: yjqian23 (big blind) folded on the Flop
+
+
+
+PokerStars Game #20080377511:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:13:41 (ET)
+Table 'Baumeia' 9-max Seat #8 is the button
+Seat 1: mr_patriko ($32.80 in chips) 
+Seat 2: coezid ($21.35 in chips) 
+Seat 3: Kolohe85 ($12.25 in chips) 
+Seat 4: Omoiyou ($31.75 in chips) 
+Seat 5: Donkey_Nuts1 ($12.80 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.10 in chips) 
+Seat 8: snowpepsi ($42.80 in chips) 
+Seat 9: yjqian23 ($24.75 in chips) 
+yjqian23: posts small blind $0.10
+mr_patriko: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Ad]
+coezid: folds 
+Kolohe85: calls $0.25
+Omoiyou: folds 
+Donkey_Nuts1: folds 
+jhig: folds 
+Alameda22: folds 
+snowpepsi: folds 
+yjqian23: folds 
+mr_patriko: checks 
+*** FLOP *** [3d Kh 3s]
+mr_patriko: checks 
+Kolohe85: bets $0.50
+mr_patriko: folds 
+Uncalled bet ($0.50) returned to Kolohe85
+Kolohe85 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3d Kh 3s]
+Seat 1: mr_patriko (big blind) folded on the Flop
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 collected ($0.60)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: Donkey_Nuts1 folded before Flop (didn't bet)
+Seat 6: jhig folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi (button) folded before Flop (didn't bet)
+Seat 9: yjqian23 (small blind) folded before Flop
+
+
+
+PokerStars Game #20080402735:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:14:49 (ET)
+Table 'Baumeia' 9-max Seat #9 is the button
+Seat 1: mr_patriko ($32.55 in chips) 
+Seat 2: coezid ($21.35 in chips) 
+Seat 3: Kolohe85 ($12.60 in chips) 
+Seat 4: Omoiyou ($31.75 in chips) 
+Seat 5: Donkey_Nuts1 ($12.80 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.10 in chips) 
+Seat 8: snowpepsi ($42.80 in chips) 
+Seat 9: yjqian23 ($24.65 in chips) 
+mr_patriko: posts small blind $0.10
+coezid: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 4d]
+Kolohe85: folds 
+Omoiyou: folds 
+Donkey_Nuts1: folds 
+jhig: folds 
+Alameda22: folds 
+snowpepsi: folds 
+yjqian23: folds 
+mr_patriko: folds 
+Uncalled bet ($0.15) returned to coezid
+coezid collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: mr_patriko (small blind) folded before Flop
+Seat 2: coezid (big blind) collected ($0.20)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: Donkey_Nuts1 folded before Flop (didn't bet)
+Seat 6: jhig folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: yjqian23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080423224:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:15:44 (ET)
+Table 'Baumeia' 9-max Seat #1 is the button
+Seat 1: mr_patriko ($32.45 in chips) 
+Seat 2: coezid ($21.45 in chips) 
+Seat 3: Kolohe85 ($12.60 in chips) 
+Seat 4: Omoiyou ($31.75 in chips) 
+Seat 5: Donkey_Nuts1 ($12.80 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.10 in chips) 
+Seat 8: snowpepsi ($42.80 in chips) 
+Seat 9: yjqian23 ($24.65 in chips) 
+coezid: posts small blind $0.10
+Kolohe85: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Ks]
+Omoiyou: folds 
+Donkey_Nuts1: folds 
+jhig: folds 
+Alameda22: folds 
+snowpepsi: folds 
+yjqian23: folds 
+mr_patriko: folds 
+coezid: calls $0.15
+Kolohe85: checks 
+*** FLOP *** [4d 6s 8c]
+coezid: bets $0.75
+Kolohe85: folds 
+Uncalled bet ($0.75) returned to coezid
+coezid collected $0.50 from pot
+coezid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [4d 6s 8c]
+Seat 1: mr_patriko (button) folded before Flop (didn't bet)
+Seat 2: coezid (small blind) collected ($0.50)
+Seat 3: Kolohe85 (big blind) folded on the Flop
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: Donkey_Nuts1 folded before Flop (didn't bet)
+Seat 6: jhig folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: yjqian23 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080442390:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:16:36 (ET)
+Table 'Baumeia' 9-max Seat #2 is the button
+Seat 1: mr_patriko ($32.45 in chips) 
+Seat 2: coezid ($21.70 in chips) 
+Seat 3: Kolohe85 ($12.35 in chips) 
+Seat 4: Omoiyou ($31.75 in chips) 
+Seat 5: Donkey_Nuts1 ($12.80 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.10 in chips) 
+Seat 8: snowpepsi ($42.80 in chips) 
+Seat 9: yjqian23 ($24.65 in chips) 
+Kolohe85: posts small blind $0.10
+Omoiyou: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 5c]
+Donkey_Nuts1: folds 
+jhig: folds 
+Alameda22: folds 
+snowpepsi: raises $0.75 to $1
+yjqian23: folds 
+mr_patriko: folds 
+coezid: calls $1
+Kolohe85: folds 
+Omoiyou: folds 
+*** FLOP *** [4h 7h 4s]
+snowpepsi: checks 
+coezid: checks 
+*** TURN *** [4h 7h 4s] [6h]
+snowpepsi: bets $1
+coezid: calls $1
+*** RIVER *** [4h 7h 4s 6h] [3s]
+snowpepsi: checks 
+coezid: bets $3
+snowpepsi: calls $3
+*** SHOW DOWN ***
+coezid: shows [Js Ts] (a pair of Fours)
+snowpepsi: shows [Ac Kc] (a pair of Fours - Ace kicker)
+snowpepsi collected $9.85 from pot
+*** SUMMARY ***
+Total pot $10.35 | Rake $0.50 
+Board [4h 7h 4s 6h 3s]
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid (button) showed [Js Ts] and lost with a pair of Fours
+Seat 3: Kolohe85 (small blind) folded before Flop
+Seat 4: Omoiyou (big blind) folded before Flop
+Seat 5: Donkey_Nuts1 folded before Flop (didn't bet)
+Seat 6: jhig folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi showed [Ac Kc] and won ($9.85) with a pair of Fours
+Seat 9: yjqian23 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080473533:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:18:00 (ET)
+Table 'Baumeia' 9-max Seat #3 is the button
+Seat 1: mr_patriko ($32.45 in chips) 
+Seat 2: coezid ($16.70 in chips) 
+Seat 3: Kolohe85 ($12.25 in chips) 
+Seat 4: Omoiyou ($31.50 in chips) 
+Seat 5: Donkey_Nuts1 ($12.80 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.10 in chips) 
+Seat 8: snowpepsi ($47.65 in chips) 
+Seat 9: yjqian23 ($24.65 in chips) 
+Omoiyou: posts small blind $0.10
+Donkey_Nuts1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 9h]
+jhig: folds 
+Alameda22: folds 
+snowpepsi: calls $0.25
+yjqian23: folds 
+mr_patriko: raises $1 to $1.25
+coezid: calls $1.25
+Kolohe85: folds 
+Omoiyou: folds 
+Donkey_Nuts1: calls $1
+snowpepsi: calls $1
+*** FLOP *** [5h As Ad]
+Donkey_Nuts1: checks 
+snowpepsi: checks 
+mr_patriko: checks 
+coezid: checks 
+*** TURN *** [5h As Ad] [8s]
+Donkey_Nuts1: checks 
+snowpepsi: checks 
+mr_patriko: checks 
+coezid: checks 
+*** RIVER *** [5h As Ad 8s] [3s]
+Donkey_Nuts1: bets $4
+snowpepsi: folds 
+mr_patriko: calls $4
+coezid: folds 
+*** SHOW DOWN ***
+Donkey_Nuts1: shows [3d 3h] (a full house, Threes full of Aces)
+mr_patriko: mucks hand 
+Donkey_Nuts1 collected $12.50 from pot
+*** SUMMARY ***
+Total pot $13.10 | Rake $0.60 
+Board [5h As Ad 8s 3s]
+Seat 1: mr_patriko mucked [Qs Js]
+Seat 2: coezid folded on the River
+Seat 3: Kolohe85 (button) folded before Flop (didn't bet)
+Seat 4: Omoiyou (small blind) folded before Flop
+Seat 5: Donkey_Nuts1 (big blind) showed [3d 3h] and won ($12.50) with a full house, Threes full of Aces
+Seat 6: jhig folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded on the River
+Seat 9: yjqian23 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080519129:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:20:03 (ET)
+Table 'Baumeia' 9-max Seat #4 is the button
+Seat 1: mr_patriko ($27.20 in chips) 
+Seat 2: coezid ($15.45 in chips) 
+Seat 3: Kolohe85 ($12.25 in chips) 
+Seat 4: Omoiyou ($31.40 in chips) 
+Seat 5: Donkey_Nuts1 ($20.05 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.10 in chips) 
+Seat 8: snowpepsi ($46.40 in chips) 
+Seat 9: yjqian23 ($24.65 in chips) 
+Donkey_Nuts1: posts small blind $0.10
+jhig: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Qd]
+Alameda22: folds 
+snowpepsi: folds 
+yjqian23: folds 
+mr_patriko: folds 
+coezid: folds 
+Kolohe85: folds 
+Omoiyou: folds 
+Donkey_Nuts1: calls $0.15
+jhig: checks 
+*** FLOP *** [8d 5s 9h]
+Donkey_Nuts1: checks 
+jhig: checks 
+*** TURN *** [8d 5s 9h] [Jh]
+Donkey_Nuts1: bets $1
+jhig: folds 
+Uncalled bet ($1) returned to Donkey_Nuts1
+Donkey_Nuts1 collected $0.50 from pot
+Donkey_Nuts1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [8d 5s 9h Jh]
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou (button) folded before Flop (didn't bet)
+Seat 5: Donkey_Nuts1 (small blind) collected ($0.50)
+Seat 6: jhig (big blind) folded on the Turn
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: yjqian23 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080547295:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:21:19 (ET)
+Table 'Baumeia' 9-max Seat #5 is the button
+Seat 1: mr_patriko ($27.20 in chips) 
+Seat 2: coezid ($15.45 in chips) 
+Seat 3: Kolohe85 ($12.25 in chips) 
+Seat 4: Omoiyou ($31.40 in chips) 
+Seat 5: Donkey_Nuts1 ($20.30 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($31.10 in chips) 
+Seat 8: snowpepsi ($46.40 in chips) 
+Seat 9: yjqian23 ($24.65 in chips) 
+jhig: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 5d]
+snowpepsi: folds 
+yjqian23: folds 
+mr_patriko: raises $0.75 to $1
+coezid: folds 
+Kolohe85: folds 
+Omoiyou: folds 
+Donkey_Nuts1: folds 
+jhig: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to mr_patriko
+Kolohe85 leaves the table
+mr_patriko collected $0.60 from pot
+mr_patriko: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: mr_patriko collected ($0.60)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kolohe85 folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: Donkey_Nuts1 (button) folded before Flop (didn't bet)
+Seat 6: jhig (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: yjqian23 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080559909:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:21:53 (ET)
+Table 'Baumeia' 9-max Seat #6 is the button
+Seat 1: mr_patriko ($27.55 in chips) 
+Seat 2: coezid ($15.45 in chips) 
+Seat 4: Omoiyou ($31.40 in chips) 
+Seat 5: Donkey_Nuts1 ($20.30 in chips) 
+Seat 6: jhig ($24.90 in chips) 
+Seat 7: Alameda22 ($30.85 in chips) 
+Seat 8: snowpepsi ($46.40 in chips) 
+Seat 9: yjqian23 ($24.65 in chips) 
+Alameda22: posts small blind $0.10
+snowpepsi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 6d]
+yjqian23: folds 
+mr_patriko: folds 
+Kfuse joins the table at seat #3 
+coezid: folds 
+Omoiyou: folds 
+Donkey_Nuts1: folds 
+jhig: raises $0.75 to $1
+Alameda22: folds 
+snowpepsi: folds 
+Uncalled bet ($0.75) returned to jhig
+jhig collected $0.60 from pot
+jhig: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: Donkey_Nuts1 folded before Flop (didn't bet)
+Seat 6: jhig (button) collected ($0.60)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: snowpepsi (big blind) folded before Flop
+Seat 9: yjqian23 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080582582:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:22:54 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 1: mr_patriko ($27.55 in chips) 
+Seat 2: coezid ($15.45 in chips) 
+Seat 4: Omoiyou ($31.40 in chips) 
+Seat 5: Donkey_Nuts1 ($20.30 in chips) 
+Seat 6: jhig ($25.25 in chips) 
+Seat 7: Alameda22 ($30.75 in chips) 
+Seat 8: snowpepsi ($46.15 in chips) 
+snowpepsi: posts small blind $0.10
+yjqian23: is sitting out 
+yjqian23 leaves the table
+mr_patriko: posts big blind $0.25
+Kfuse: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 4c]
+coezid: calls $0.25
+Omoiyou: folds 
+Donkey_Nuts1: calls $0.25
+jhig: folds 
+Alameda22: folds 
+snowpepsi: folds 
+*Cafo* joins the table at seat #9 
+mr_patriko: checks 
+*** FLOP *** [8d 3s Tc]
+mr_patriko: checks 
+coezid: bets $0.50
+Donkey_Nuts1: raises $1.25 to $1.75
+mr_patriko: folds 
+coezid: calls $1.25
+*** TURN *** [8d 3s Tc] [Td]
+coezid: checks 
+Donkey_Nuts1: checks 
+*** RIVER *** [8d 3s Tc Td] [9c]
+coezid: bets $2.50
+Donkey_Nuts1: calls $2.50
+*** SHOW DOWN ***
+coezid: shows [Kh Ts] (three of a kind, Tens)
+Donkey_Nuts1: mucks hand 
+coezid collected $8.90 from pot
+*** SUMMARY ***
+Total pot $9.35 | Rake $0.45 
+Board [8d 3s Tc Td 9c]
+Seat 1: mr_patriko (big blind) folded on the Flop
+Seat 2: coezid showed [Kh Ts] and won ($8.90) with three of a kind, Tens
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: Donkey_Nuts1 mucked [Jd Jh]
+Seat 6: jhig folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: snowpepsi (small blind) folded before Flop
+
+
+
+PokerStars Game #20080623122:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:24:43 (ET)
+Table 'Baumeia' 9-max Seat #8 is the button
+Seat 1: mr_patriko ($27.30 in chips) 
+Seat 2: coezid ($19.85 in chips) 
+Seat 4: Omoiyou ($31.40 in chips) 
+Seat 5: Donkey_Nuts1 ($15.80 in chips) 
+Seat 6: jhig ($25.25 in chips) 
+Seat 7: Alameda22 ($30.75 in chips) 
+Seat 8: snowpepsi ($46.05 in chips) 
+*Cafo* will be allowed to play after the button
+mr_patriko: posts small blind $0.10
+coezid: posts big blind $0.25
+Kfuse: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 6h]
+Omoiyou: folds 
+Donkey_Nuts1: folds 
+jhig: folds 
+Alameda22: folds 
+snowpepsi: folds 
+mr_patriko: folds 
+Uncalled bet ($0.15) returned to coezid
+coezid collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: mr_patriko (small blind) folded before Flop
+Seat 2: coezid (big blind) collected ($0.20)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: Donkey_Nuts1 folded before Flop (didn't bet)
+Seat 6: jhig folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080645501:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:25:43 (ET)
+Table 'Baumeia' 9-max Seat #1 is the button
+Seat 1: mr_patriko ($27.20 in chips) 
+Seat 2: coezid ($19.95 in chips) 
+Seat 3: Kfuse ($25 in chips) 
+Seat 4: Omoiyou ($31.40 in chips) 
+Seat 5: Donkey_Nuts1 ($15.80 in chips) 
+Seat 6: jhig ($25.25 in chips) 
+Seat 7: Alameda22 ($30.75 in chips) 
+Seat 8: snowpepsi ($46.05 in chips) 
+Seat 9: *Cafo* ($5 in chips) 
+coezid: posts small blind $0.10
+Kfuse: posts big blind $0.25
+*Cafo*: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Kc]
+Omoiyou: folds 
+Donkey_Nuts1: folds 
+jhig: folds 
+Alameda22: folds 
+snowpepsi: folds 
+*Cafo*: raises $0.50 to $0.75
+mr_patriko: folds 
+coezid: calls $0.65
+Kfuse: folds 
+*** FLOP *** [2s 3h 4s]
+coezid: checks 
+*Cafo*: bets $0.75
+coezid: calls $0.75
+*** TURN *** [2s 3h 4s] [2h]
+coezid: bets $1
+*Cafo*: folds 
+Uncalled bet ($1) returned to coezid
+coezid collected $3.10 from pot
+coezid: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [2s 3h 4s 2h]
+Seat 1: mr_patriko (button) folded before Flop (didn't bet)
+Seat 2: coezid (small blind) collected ($3.10)
+Seat 3: Kfuse (big blind) folded before Flop
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: Donkey_Nuts1 folded before Flop (didn't bet)
+Seat 6: jhig folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: *Cafo* folded on the Turn
+
+
+
+PokerStars Game #20080671823:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:26:54 (ET)
+Table 'Baumeia' 9-max Seat #2 is the button
+Seat 1: mr_patriko ($27.20 in chips) 
+Seat 2: coezid ($21.55 in chips) 
+Seat 3: Kfuse ($24.75 in chips) 
+Seat 4: Omoiyou ($31.40 in chips) 
+Seat 5: Donkey_Nuts1 ($15.80 in chips) 
+Seat 6: jhig ($25.25 in chips) 
+Seat 7: Alameda22 ($30.75 in chips) 
+Seat 8: snowpepsi ($46.05 in chips) 
+Seat 9: *Cafo* ($3.50 in chips) 
+Kfuse: posts small blind $0.10
+Omoiyou: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 3c]
+Donkey_Nuts1: folds 
+jhig: folds 
+Alameda22: folds 
+snowpepsi: folds 
+*Cafo*: folds 
+mr_patriko: raises $1 to $1.25
+coezid: folds 
+Kfuse: folds 
+Omoiyou: folds 
+Uncalled bet ($1) returned to mr_patriko
+mr_patriko collected $0.60 from pot
+mr_patriko: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: mr_patriko collected ($0.60)
+Seat 2: coezid (button) folded before Flop (didn't bet)
+Seat 3: Kfuse (small blind) folded before Flop
+Seat 4: Omoiyou (big blind) folded before Flop
+Seat 5: Donkey_Nuts1 folded before Flop (didn't bet)
+Seat 6: jhig folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: *Cafo* folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080688522:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:27:39 (ET)
+Table 'Baumeia' 9-max Seat #3 is the button
+Seat 1: mr_patriko ($27.55 in chips) 
+Seat 2: coezid ($21.55 in chips) 
+Seat 3: Kfuse ($24.65 in chips) 
+Seat 4: Omoiyou ($31.15 in chips) 
+Seat 5: Donkey_Nuts1 ($15.80 in chips) 
+Seat 6: jhig ($25.25 in chips) 
+Seat 7: Alameda22 ($30.75 in chips) 
+Seat 8: snowpepsi ($46.05 in chips) 
+Seat 9: *Cafo* ($3.50 in chips) 
+Omoiyou: posts small blind $0.10
+Donkey_Nuts1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 9h]
+jhig: folds 
+Alameda22: folds 
+snowpepsi: folds 
+*Cafo*: folds 
+mr_patriko: folds 
+coezid: folds 
+Kfuse: folds 
+Omoiyou: folds 
+Uncalled bet ($0.15) returned to Donkey_Nuts1
+Donkey_Nuts1 collected $0.20 from pot
+Donkey_Nuts1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse (button) folded before Flop (didn't bet)
+Seat 4: Omoiyou (small blind) folded before Flop
+Seat 5: Donkey_Nuts1 (big blind) collected ($0.20)
+Seat 6: jhig folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: *Cafo* folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080705062:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:28:25 (ET)
+Table 'Baumeia' 9-max Seat #4 is the button
+Seat 1: mr_patriko ($27.55 in chips) 
+Seat 2: coezid ($21.55 in chips) 
+Seat 3: Kfuse ($24.65 in chips) 
+Seat 4: Omoiyou ($31.05 in chips) 
+Seat 5: Donkey_Nuts1 ($15.90 in chips) 
+Seat 6: jhig ($25.25 in chips) 
+Seat 7: Alameda22 ($30.75 in chips) 
+Seat 8: snowpepsi ($46.05 in chips) 
+Seat 9: *Cafo* ($3.50 in chips) 
+Donkey_Nuts1: posts small blind $0.10
+jhig: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Qh]
+Alameda22: folds 
+snowpepsi: folds 
+*Cafo*: folds 
+mr_patriko: folds 
+coezid: folds 
+Kfuse: raises $0.75 to $1
+Omoiyou: folds 
+Donkey_Nuts1: folds 
+jhig: folds 
+Uncalled bet ($0.75) returned to Kfuse
+Kfuse collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse collected ($0.60)
+Seat 4: Omoiyou (button) folded before Flop (didn't bet)
+Seat 5: Donkey_Nuts1 (small blind) folded before Flop
+Seat 6: jhig (big blind) folded before Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: *Cafo* folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080722241:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:29:11 (ET)
+Table 'Baumeia' 9-max Seat #5 is the button
+Seat 1: mr_patriko ($27.55 in chips) 
+Seat 2: coezid ($21.55 in chips) 
+Seat 3: Kfuse ($25 in chips) 
+Seat 4: Omoiyou ($31.05 in chips) 
+Seat 5: Donkey_Nuts1 ($15.80 in chips) 
+Seat 6: jhig ($25 in chips) 
+Seat 7: Alameda22 ($30.75 in chips) 
+Seat 8: snowpepsi ($46.05 in chips) 
+Seat 9: *Cafo* ($3.50 in chips) 
+jhig: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Kd]
+snowpepsi: folds 
+*Cafo*: folds 
+mr_patriko: folds 
+coezid: folds 
+Kfuse: folds 
+Omoiyou: folds 
+Donkey_Nuts1: calls $0.25
+jhig: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Jc Ts 3c]
+jhig: bets $0.50
+Alameda22: calls $0.50
+Donkey_Nuts1: calls $0.50
+*** TURN *** [Jc Ts 3c] [3d]
+jhig: bets $1.50
+Alameda22: folds 
+Donkey_Nuts1: folds 
+Uncalled bet ($1.50) returned to jhig
+jhig collected $2.15 from pot
+jhig: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Jc Ts 3c 3d]
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: Donkey_Nuts1 (button) folded on the Turn
+Seat 6: jhig (small blind) collected ($2.15)
+Seat 7: Alameda22 (big blind) folded on the Turn
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: *Cafo* folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080759627:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:30:53 (ET)
+Table 'Baumeia' 9-max Seat #6 is the button
+Seat 1: mr_patriko ($27.55 in chips) 
+Seat 2: coezid ($21.55 in chips) 
+Seat 3: Kfuse ($25 in chips) 
+Seat 4: Omoiyou ($31.05 in chips) 
+Seat 5: Donkey_Nuts1 ($15.05 in chips) 
+Seat 6: jhig ($26.40 in chips) 
+Seat 7: Alameda22 ($30 in chips) 
+Seat 8: snowpepsi ($46.05 in chips) 
+Seat 9: *Cafo* ($3.50 in chips) 
+Alameda22: posts small blind $0.10
+snowpepsi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 5d]
+*Cafo*: calls $0.25
+mr_patriko: folds 
+coezid: calls $0.25
+Kfuse: folds 
+Omoiyou: folds 
+Donkey_Nuts1: folds 
+jhig: folds 
+Alameda22: folds 
+snowpepsi: checks 
+*** FLOP *** [8d 2s 4h]
+jhig leaves the table
+snowpepsi: checks 
+*Cafo*: checks 
+coezid: checks 
+*** TURN *** [8d 2s 4h] [3s]
+snowpepsi: checks 
+*Cafo*: checks 
+coezid: checks 
+*** RIVER *** [8d 2s 4h 3s] [9c]
+snowpepsi: checks 
+*Cafo*: checks 
+coezid: checks 
+*** SHOW DOWN ***
+snowpepsi: shows [5h Jd] (high card Jack)
+*Cafo*: shows [Tc Kc] (high card King)
+coezid: mucks hand 
+*Cafo* collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [8d 2s 4h 3s 9c]
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid mucked [Th Qs]
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: Donkey_Nuts1 folded before Flop (didn't bet)
+Seat 6: jhig (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: snowpepsi (big blind) showed [5h Jd] and lost with high card Jack
+Seat 9: *Cafo* showed [Tc Kc] and won ($0.85) with high card King
+
+
+
+PokerStars Game #20080813951:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:33:13 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 1: mr_patriko ($27.55 in chips) 
+Seat 2: coezid ($21.30 in chips) 
+Seat 3: Kfuse ($25 in chips) 
+Seat 4: Omoiyou ($31.05 in chips) 
+Seat 5: Donkey_Nuts1 ($15.05 in chips) 
+Seat 7: Alameda22 ($29.90 in chips) 
+Seat 8: snowpepsi ($45.80 in chips) 
+Seat 9: *Cafo* ($4.10 in chips) 
+snowpepsi: posts small blind $0.10
+*Cafo*: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 2c]
+mr_patriko: folds 
+coezid: folds 
+Kfuse: folds 
+Omoiyou: folds 
+Donkey_Nuts1: folds 
+Alameda22: folds 
+snowpepsi: folds 
+Uncalled bet ($0.15) returned to *Cafo*
+*Cafo* collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: mr_patriko folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: Donkey_Nuts1 folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: snowpepsi (small blind) folded before Flop
+Seat 9: *Cafo* (big blind) collected ($0.20)
+
+
+
+PokerStars Game #20080833527:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:34:03 (ET)
+Table 'Baumeia' 9-max Seat #8 is the button
+Seat 2: coezid ($21.30 in chips) 
+Seat 3: Kfuse ($25 in chips) 
+Seat 4: Omoiyou ($31.05 in chips) 
+Seat 5: Donkey_Nuts1 ($15.05 in chips) 
+Seat 7: Alameda22 ($29.90 in chips) 
+Seat 8: snowpepsi ($45.70 in chips) 
+Seat 9: *Cafo* ($4.20 in chips) 
+*Cafo*: posts small blind $0.10
+mr_patriko: is sitting out 
+coezid: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 3d]
+mr_patriko leaves the table
+Kfuse: folds 
+Omoiyou: folds 
+Donkey_Nuts1: folds 
+Alameda22: folds 
+snowpepsi: folds 
+*Cafo*: folds 
+Uncalled bet ($0.15) returned to coezid
+coezid collected $0.20 from pot
+coezid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: coezid (big blind) collected ($0.20)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Omoiyou folded before Flop (didn't bet)
+Seat 5: Donkey_Nuts1 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi (button) folded before Flop (didn't bet)
+Seat 9: *Cafo* (small blind) folded before Flop
+
+
+
+PokerStars Game #20080848472:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:34:42 (ET)
+Table 'Baumeia' 9-max Seat #9 is the button
+Seat 2: coezid ($21.40 in chips) 
+Seat 3: Kfuse ($25 in chips) 
+Seat 4: Omoiyou ($31.05 in chips) 
+Seat 5: Donkey_Nuts1 ($15.05 in chips) 
+Seat 7: Alameda22 ($29.90 in chips) 
+Seat 8: snowpepsi ($45.70 in chips) 
+Seat 9: *Cafo* ($4.10 in chips) 
+coezid: posts small blind $0.10
+Kfuse: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 2d]
+Omoiyou: raises $0.75 to $1
+Donkey_Nuts1: folds 
+Alameda22: folds 
+snowpepsi: folds 
+*Cafo*: folds 
+coezid: folds 
+Kfuse: folds 
+Uncalled bet ($0.75) returned to Omoiyou
+Omoiyou collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: coezid (small blind) folded before Flop
+Seat 3: Kfuse (big blind) folded before Flop
+Seat 4: Omoiyou collected ($0.60)
+Seat 5: Donkey_Nuts1 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: *Cafo* (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080864825:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:35:25 (ET)
+Table 'Baumeia' 9-max Seat #2 is the button
+Seat 2: coezid ($21.30 in chips) 
+Seat 3: Kfuse ($24.75 in chips) 
+Seat 4: Omoiyou ($31.40 in chips) 
+Seat 5: Donkey_Nuts1 ($15.05 in chips) 
+Seat 7: Alameda22 ($29.90 in chips) 
+Seat 8: snowpepsi ($45.70 in chips) 
+Seat 9: *Cafo* ($4.10 in chips) 
+Kfuse: posts small blind $0.10
+Omoiyou: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 3c]
+Donkey_Nuts1: folds 
+Alameda22: folds 
+snowpepsi: folds 
+*Cafo*: folds 
+coezid: folds 
+*Cafo* leaves the table
+Kfuse: folds 
+Uncalled bet ($0.15) returned to Omoiyou
+Omoiyou collected $0.20 from pot
+Omoiyou: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: coezid (button) folded before Flop (didn't bet)
+Seat 3: Kfuse (small blind) folded before Flop
+Seat 4: Omoiyou (big blind) collected ($0.20)
+Seat 5: Donkey_Nuts1 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: snowpepsi folded before Flop (didn't bet)
+Seat 9: *Cafo* folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080893717:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:36:41 (ET)
+Table 'Baumeia' 9-max Seat #3 is the button
+Seat 2: coezid ($21.30 in chips) 
+Seat 3: Kfuse ($24.65 in chips) 
+Seat 7: Alameda22 ($29.90 in chips) 
+Seat 8: snowpepsi ($45.70 in chips) 
+Omoiyou: is sitting out 
+Omoiyou leaves the table
+Donkey_Nuts1: is sitting out 
+Alameda22: posts small blind $0.10
+snowpepsi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 5s]
+coezid: folds 
+ssff09 joins the table at seat #9 
+Donkey_Nuts1 leaves the table
+Kfuse: raises $0.50 to $0.75
+Alameda22: folds 
+snowpepsi: folds 
+Uncalled bet ($0.50) returned to Kfuse
+Kfuse collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse (button) collected ($0.60)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: snowpepsi (big blind) folded before Flop
+
+
+
+PokerStars Game #20080909021:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:37:21 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 2: coezid ($21.30 in chips) 
+Seat 3: Kfuse ($25 in chips) 
+Seat 7: Alameda22 ($29.80 in chips) 
+Seat 8: snowpepsi ($45.45 in chips) 
+Seat 9: ssff09 ($10.75 in chips) 
+snowpepsi: posts small blind $0.10
+ssff09: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd As]
+coezid: folds 
+Kfuse: raises $0.75 to $1
+Alameda22: folds 
+snowpepsi: calls $0.90
+ssff09: calls $0.75
+*** FLOP *** [7d 5d 8h]
+EBS123 joins the table at seat #6 
+snowpepsi: checks 
+ssff09: checks 
+cesoc joins the table at seat #5 
+Kfuse: bets $2
+snowpepsi: folds 
+ssff09: calls $2
+*** TURN *** [7d 5d 8h] [2c]
+snowpepsi leaves the table
+ssff09: checks 
+Kfuse: bets $4.50
+ssff09: raises $3.25 to $7.75 and is all-in
+mnhotbabe joins the table at seat #8 
+Kfuse: calls $3.25
+*** RIVER *** [7d 5d 8h 2c] [6d]
+*** SHOW DOWN ***
+ssff09: shows [9c 7c] (a straight, Five to Nine)
+Kfuse: shows [Ks Kc] (a pair of Kings)
+ssff09 collected $21.40 from pot
+*** SUMMARY ***
+Total pot $22.50 | Rake $1.10 
+Board [7d 5d 8h 2c 6d]
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse showed [Ks Kc] and lost with a pair of Kings
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: snowpepsi (small blind) folded on the Flop
+Seat 9: ssff09 (big blind) showed [9c 7c] and won ($21.40) with a straight, Five to Nine
+
+
+
+PokerStars Game #20080940160:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:38:42 (ET)
+Table 'Baumeia' 9-max Seat #9 is the button
+Seat 2: coezid ($21.30 in chips) 
+Seat 3: Kfuse ($14.25 in chips) 
+Seat 5: cesoc ($15 in chips) 
+Seat 6: EBS123 ($15 in chips) 
+Seat 7: Alameda22 ($29.80 in chips) 
+Seat 8: mnhotbabe ($15 in chips) 
+Seat 9: ssff09 ($21.40 in chips) 
+coezid: posts small blind $0.10
+Kfuse: posts big blind $0.25
+cesoc: posts big blind $0.25
+EBS123: posts big blind $0.25
+mnhotbabe: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 7h]
+cesoc: checks 
+EBS123: checks 
+Alameda22: folds 
+mnhotbabe: checks 
+ssff09: folds 
+ssff09 said, "i got lucky"
+Maharaja2172 joins the table at seat #4 
+coezid: calls $0.15
+ssff09 said, "hate pocket kings i always lose lol"
+Kfuse: checks 
+*** FLOP *** [2d Th 6d]
+coezid: bets $1
+Kfuse: folds 
+cesoc: folds 
+EBS123: folds 
+mnhotbabe: folds 
+Uncalled bet ($1) returned to coezid
+coezid collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [2d Th 6d]
+Seat 2: coezid (small blind) collected ($1.20)
+Seat 3: Kfuse (big blind) folded on the Flop
+Seat 5: cesoc folded on the Flop
+Seat 6: EBS123 folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe folded on the Flop
+Seat 9: ssff09 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080991598:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:40:56 (ET)
+Table 'Baumeia' 9-max Seat #2 is the button
+Seat 2: coezid ($22.25 in chips) 
+Seat 3: Kfuse ($14 in chips) 
+Seat 4: Maharaja2172 ($10 in chips) 
+Seat 5: cesoc ($14.75 in chips) 
+Seat 6: EBS123 ($14.75 in chips) 
+Seat 7: Alameda22 ($29.80 in chips) 
+Seat 8: mnhotbabe ($14.75 in chips) 
+Seat 9: ssff09 ($21.40 in chips) 
+Kfuse: posts small blind $0.10
+Maharaja2172: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 8s]
+cesoc: calls $0.25
+EBS123: folds 
+Alameda22: folds 
+mnhotbabe: calls $0.25
+ssff09: calls $0.25
+coezid: calls $0.25
+Kfuse: calls $0.15
+Maharaja2172: checks 
+*** FLOP *** [2c 5h 4d]
+Kfuse: checks 
+Maharaja2172: checks 
+atsmug joins the table at seat #1 
+cesoc: bets $0.50
+mnhotbabe: calls $0.50
+ssff09: folds 
+ssff09 is sitting out
+coezid: folds 
+Kfuse: folds 
+Maharaja2172: calls $0.50
+*** TURN *** [2c 5h 4d] [Th]
+Maharaja2172: checks 
+cesoc: checks 
+mnhotbabe: checks 
+*** RIVER *** [2c 5h 4d Th] [3c]
+Maharaja2172: bets $0.50
+cesoc: raises $1.75 to $2.25
+mnhotbabe: calls $2.25
+Maharaja2172: folds 
+*** SHOW DOWN ***
+cesoc: shows [4c Ah] (a straight, Ace to Five)
+mnhotbabe: shows [6s Kd] (a straight, Deuce to Six)
+mnhotbabe collected $7.65 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.35 
+Board [2c 5h 4d Th 3c]
+Seat 2: coezid (button) folded on the Flop
+Seat 3: Kfuse (small blind) folded on the Flop
+Seat 4: Maharaja2172 (big blind) folded on the River
+Seat 5: cesoc showed [4c Ah] and lost with a straight, Ace to Five
+Seat 6: EBS123 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe showed [6s Kd] and won ($7.65) with a straight, Deuce to Six
+Seat 9: ssff09 folded on the Flop
+
+
+
+PokerStars Game #20081039206:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:43:03 (ET)
+Table 'Baumeia' 9-max Seat #3 is the button
+Seat 2: coezid ($22 in chips) 
+Seat 3: Kfuse ($13.75 in chips) 
+Seat 4: Maharaja2172 ($8.75 in chips) 
+Seat 5: cesoc ($11.75 in chips) 
+Seat 6: EBS123 ($14.75 in chips) 
+Seat 7: Alameda22 ($29.80 in chips) 
+Seat 8: mnhotbabe ($19.40 in chips) 
+Maharaja2172: posts small blind $0.10
+cesoc: posts big blind $0.25
+atsmug: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 9c]
+EBS123: folds 
+Alameda22: folds 
+mnhotbabe: folds 
+coezid: folds 
+Kfuse: raises $0.50 to $0.75
+EBS123 is sitting out
+Maharaja2172: folds 
+EBS123 leaves the table
+cesoc: calls $0.50
+*** FLOP *** [Ah 6c 4d]
+cesoc: checks 
+Kfuse: checks 
+*** TURN *** [Ah 6c 4d] [5c]
+cesoc: checks 
+Kfuse: checks 
+*** RIVER *** [Ah 6c 4d 5c] [3c]
+cesoc: checks 
+Kfuse: checks 
+*** SHOW DOWN ***
+cesoc: shows [Ts 5d] (a pair of Fives)
+Kfuse: mucks hand 
+ssff09 has returned
+cesoc collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Ah 6c 4d 5c 3c]
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse (button) mucked [Qc 8d]
+Seat 4: Maharaja2172 (small blind) folded before Flop
+Seat 5: cesoc (big blind) showed [Ts 5d] and won ($1.55) with a pair of Fives
+Seat 6: EBS123 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081073948:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:44:36 (ET)
+Table 'Baumeia' 9-max Seat #4 is the button
+Seat 2: coezid ($22 in chips) 
+Seat 3: Kfuse ($23 in chips) 
+Seat 4: Maharaja2172 ($8.65 in chips) 
+Seat 5: cesoc ($12.55 in chips) 
+Seat 7: Alameda22 ($29.80 in chips) 
+Seat 8: mnhotbabe ($19.40 in chips) 
+Seat 9: ssff09 ($21.15 in chips) 
+cesoc: posts small blind $0.10
+Alameda22: posts big blind $0.25
+atsmug: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 4h]
+mnhotbabe: calls $0.25
+ssff09: calls $0.25
+coezid: folds 
+coezid is sitting out
+Kfuse: raises $1.25 to $1.50
+Maharaja2172: folds 
+cesoc: folds 
+Alameda22: folds 
+mnhotbabe: folds 
+ssff09: folds 
+Uncalled bet ($1.25) returned to Kfuse
+Kfuse collected $1.10 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse collected ($1.10)
+Seat 4: Maharaja2172 (button) folded before Flop (didn't bet)
+Seat 5: cesoc (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 8: mnhotbabe folded before Flop
+Seat 9: ssff09 folded before Flop
+
+
+
+PokerStars Game #20081097839:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:45:41 (ET)
+Table 'Baumeia' 9-max Seat #5 is the button
+Seat 3: Kfuse ($23.85 in chips) 
+Seat 4: Maharaja2172 ($8.65 in chips) 
+Seat 5: cesoc ($12.45 in chips) 
+Seat 7: Alameda22 ($29.55 in chips) 
+Seat 8: mnhotbabe ($19.15 in chips) 
+Seat 9: ssff09 ($20.90 in chips) 
+Alameda22: posts small blind $0.10
+mnhotbabe: posts big blind $0.25
+atsmug: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Kc]
+ssff09: folds 
+Kfuse: folds 
+Maharaja2172: folds 
+cesoc: raises $0.25 to $0.50
+Alameda22: folds 
+mnhotbabe: calls $0.25
+*** FLOP *** [7c 9h 4c]
+mnhotbabe: checks 
+cesoc: bets $1.25
+mnhotbabe: folds 
+Uncalled bet ($1.25) returned to cesoc
+cesoc collected $1.05 from pot
+cesoc: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [7c 9h 4c]
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Maharaja2172 folded before Flop (didn't bet)
+Seat 5: cesoc (button) collected ($1.05)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: mnhotbabe (big blind) folded on the Flop
+Seat 9: ssff09 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081117794:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:46:35 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 3: Kfuse ($23.85 in chips) 
+Seat 4: Maharaja2172 ($8.65 in chips) 
+Seat 5: cesoc ($13 in chips) 
+Seat 7: Alameda22 ($29.45 in chips) 
+Seat 8: mnhotbabe ($18.65 in chips) 
+Seat 9: ssff09 ($20.90 in chips) 
+mnhotbabe: posts small blind $0.10
+ssff09: posts big blind $0.25
+atsmug: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 8c]
+Kfuse: folds 
+Maharaja2172: folds 
+cesoc: folds 
+Alameda22: folds 
+mnhotbabe: calls $0.15
+ssff09: checks 
+*** FLOP *** [Jd As 5d]
+mnhotbabe: bets $0.25
+ssff09: calls $0.25
+*** TURN *** [Jd As 5d] [Ks]
+mnhotbabe: bets $0.25
+ssff09: calls $0.25
+*** RIVER *** [Jd As 5d Ks] [7c]
+mnhotbabe: bets $0.25
+ssff09: calls $0.25
+*** SHOW DOWN ***
+mnhotbabe: shows [6h Js] (a pair of Jacks)
+ssff09: shows [Qh Qs] (a pair of Queens)
+ssff09 collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [Jd As 5d Ks 7c]
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Maharaja2172 folded before Flop (didn't bet)
+Seat 5: cesoc folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: mnhotbabe (small blind) showed [6h Js] and lost with a pair of Jacks
+Seat 9: ssff09 (big blind) showed [Qh Qs] and won ($1.95) with a pair of Queens
+
+
+
+PokerStars Game #20081136968:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:47:28 (ET)
+Table 'Baumeia' 9-max Seat #8 is the button
+Seat 1: atsmug ($25 in chips) 
+Seat 3: Kfuse ($23.85 in chips) 
+Seat 4: Maharaja2172 ($8.65 in chips) 
+Seat 5: cesoc ($13 in chips) 
+Seat 7: Alameda22 ($29.45 in chips) 
+Seat 8: mnhotbabe ($17.65 in chips) 
+Seat 9: ssff09 ($21.85 in chips) 
+ssff09: posts small blind $0.10
+mnhotbabe said, "nh"
+atsmug: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Ah]
+M0RE=C0WBELL joins the table at seat #6 
+Kfuse: folds 
+Maharaja2172: calls $0.25
+cesoc: folds 
+Alameda22: folds 
+mnhotbabe: calls $0.25
+ssff09: calls $0.15
+ssff09 said, "ty"
+atsmug: checks 
+*** FLOP *** [As 2s 3s]
+ssff09: bets $0.25
+atsmug: calls $0.25
+Maharaja2172: calls $0.25
+mnhotbabe: calls $0.25
+*** TURN *** [As 2s 3s] [Kh]
+ssff09: checks 
+atsmug: checks 
+Maharaja2172: checks 
+mnhotbabe: bets $0.75
+ssff09: folds 
+atsmug: calls $0.75
+Maharaja2172: calls $0.75
+*** RIVER *** [As 2s 3s Kh] [6d]
+atsmug: checks 
+Maharaja2172: checks 
+mnhotbabe: bets $2
+atsmug: folds 
+Maharaja2172: calls $2
+*** SHOW DOWN ***
+mnhotbabe: shows [Js Ts] (a flush, Ace high)
+Maharaja2172: mucks hand 
+mnhotbabe collected $7.85 from pot
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.40 
+Board [As 2s 3s Kh 6d]
+Seat 1: atsmug (big blind) folded on the River
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Maharaja2172 mucked [9s 6s]
+Seat 5: cesoc folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe (button) showed [Js Ts] and won ($7.85) with a flush, Ace high
+Seat 9: ssff09 (small blind) folded on the Turn
+
+
+
+PokerStars Game #20081167369:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:48:50 (ET)
+Table 'Baumeia' 9-max Seat #9 is the button
+Seat 1: atsmug ($23.75 in chips) 
+Seat 3: Kfuse ($23.85 in chips) 
+Seat 4: Maharaja2172 ($5.40 in chips) 
+Seat 5: cesoc ($13 in chips) 
+Seat 6: M0RE=C0WBELL ($25 in chips) 
+Seat 7: Alameda22 ($29.45 in chips) 
+Seat 8: mnhotbabe ($22.25 in chips) 
+Seat 9: ssff09 ($21.35 in chips) 
+atsmug: posts small blind $0.10
+Kfuse: posts big blind $0.25
+M0RE=C0WBELL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Ah]
+Maharaja2172: calls $0.25
+cesoc: calls $0.25
+M0RE=C0WBELL: checks 
+Alameda22: folds 
+mnhotbabe: calls $0.25
+ssff09: calls $0.25
+atsmug: calls $0.15
+Kfuse: checks 
+*** FLOP *** [Kc Jc 3s]
+atsmug: checks 
+Kfuse: checks 
+Maharaja2172: checks 
+cesoc: checks 
+M0RE=C0WBELL: checks 
+mnhotbabe: bets $1
+ssff09: calls $1
+atsmug: folds 
+Kfuse: folds 
+Maharaja2172: folds 
+cesoc: folds 
+M0RE=C0WBELL: folds 
+*** TURN *** [Kc Jc 3s] [6c]
+mnhotbabe: bets $0.50
+ssff09: calls $0.50
+*** RIVER *** [Kc Jc 3s 6c] [Td]
+mnhotbabe: bets $2
+ssff09: calls $2
+*** SHOW DOWN ***
+mnhotbabe: shows [Th Jh] (two pair, Jacks and Tens)
+ssff09: mucks hand 
+mnhotbabe collected $8.35 from pot
+*** SUMMARY ***
+Total pot $8.75 | Rake $0.40 
+Board [Kc Jc 3s 6c Td]
+Seat 1: atsmug (small blind) folded on the Flop
+Seat 3: Kfuse (big blind) folded on the Flop
+Seat 4: Maharaja2172 folded on the Flop
+Seat 5: cesoc folded on the Flop
+Seat 6: M0RE=C0WBELL folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe showed [Th Jh] and won ($8.35) with two pair, Jacks and Tens
+Seat 9: ssff09 (button) mucked [Kd 2h]
+
+
+
+PokerStars Game #20081202204:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:50:25 (ET)
+Table 'Baumeia' 9-max Seat #1 is the button
+Seat 1: atsmug ($23.50 in chips) 
+Seat 3: Kfuse ($23.60 in chips) 
+Seat 4: Maharaja2172 ($5.15 in chips) 
+Seat 5: cesoc ($12.75 in chips) 
+Seat 6: M0RE=C0WBELL ($24.75 in chips) 
+Seat 7: Alameda22 ($29.45 in chips) 
+Seat 8: mnhotbabe ($26.85 in chips) 
+Seat 9: ssff09 ($17.60 in chips) 
+ssff09 said, "nh"
+Kfuse: posts small blind $0.10
+Maharaja2172: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Ac]
+cesoc: folds 
+ssff09 said, "dam river"
+M0RE=C0WBELL: raises $0.50 to $0.75
+cesoc leaves the table
+Alameda22: folds 
+mnhotbabe said, "ty"
+mnhotbabe: folds 
+ssff09: calls $0.75
+atsmug: folds 
+Kfuse: calls $0.65
+Maharaja2172: calls $0.50
+*** FLOP *** [Ks 4d 4h]
+Kfuse: checks 
+Maharaja2172: checks 
+M0RE=C0WBELL: checks 
+ssff09: checks 
+*** TURN *** [Ks 4d 4h] [4s]
+Kfuse: checks 
+Maharaja2172: checks 
+M0RE=C0WBELL: checks 
+ssff09: checks 
+*** RIVER *** [Ks 4d 4h 4s] [3d]
+Kfuse: checks 
+Maharaja2172: bets $0.25
+M0RE=C0WBELL: calls $0.25
+ssff09: folds 
+Kfuse: calls $0.25
+*** SHOW DOWN ***
+Maharaja2172: shows [As Qs] (three of a kind, Fours)
+M0RE=C0WBELL: shows [Tc Ts] (a full house, Fours full of Tens)
+Kfuse: shows [Th Td] (a full house, Fours full of Tens)
+Kfuse collected $1.80 from pot
+M0RE=C0WBELL collected $1.80 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [Ks 4d 4h 4s 3d]
+Seat 1: atsmug (button) folded before Flop (didn't bet)
+Seat 3: Kfuse (small blind) showed [Th Td] and won ($1.80) with a full house, Fours full of Tens
+Seat 4: Maharaja2172 (big blind) showed [As Qs] and lost with three of a kind, Fours
+Seat 5: cesoc folded before Flop (didn't bet)
+Seat 6: M0RE=C0WBELL showed [Tc Ts] and won ($1.80) with a full house, Fours full of Tens
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe folded before Flop (didn't bet)
+Seat 9: ssff09 folded on the River
+
+
+
+PokerStars Game #20081235063:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:51:54 (ET)
+Table 'Baumeia' 9-max Seat #3 is the button
+Seat 1: atsmug ($23.50 in chips) 
+Seat 3: Kfuse ($24.40 in chips) 
+Seat 4: Maharaja2172 ($4.15 in chips) 
+Seat 6: M0RE=C0WBELL ($25.55 in chips) 
+Seat 7: Alameda22 ($29.45 in chips) 
+Seat 8: mnhotbabe ($26.85 in chips) 
+Seat 9: ssff09 ($16.85 in chips) 
+Maharaja2172: posts small blind $0.10
+M0RE=C0WBELL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 7d]
+Alameda22: folds 
+mnhotbabe: calls $0.25
+ssff09: folds 
+atsmug: folds 
+ssff09 leaves the table
+Kfuse: folds 
+Maharaja2172: calls $0.15
+M0RE=C0WBELL: checks 
+*** FLOP *** [As 6c 2c]
+Maharaja2172: checks 
+coezid has returned
+M0RE=C0WBELL: checks 
+mnhotbabe: bets $0.25
+Maharaja2172: calls $0.25
+Irishflog joins the table at seat #5 
+M0RE=C0WBELL: folds 
+*** TURN *** [As 6c 2c] [5d]
+Maharaja2172: checks 
+mnhotbabe: bets $0.75
+Maharaja2172: calls $0.75
+*** RIVER *** [As 6c 2c 5d] [Qd]
+Maharaja2172: checks 
+mnhotbabe: checks 
+*** SHOW DOWN ***
+Maharaja2172: shows [Ts Th] (a pair of Tens)
+mnhotbabe: mucks hand 
+Maharaja2172 collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [As 6c 2c 5d Qd]
+Seat 1: atsmug folded before Flop (didn't bet)
+Seat 3: Kfuse (button) folded before Flop (didn't bet)
+Seat 4: Maharaja2172 (small blind) showed [Ts Th] and won ($2.65) with a pair of Tens
+Seat 6: M0RE=C0WBELL (big blind) folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe mucked [8c 7c]
+Seat 9: ssff09 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081272147:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:53:35 (ET)
+Table 'Baumeia' 9-max Seat #4 is the button
+Seat 1: atsmug ($23.50 in chips) 
+Seat 2: coezid ($22 in chips) 
+Seat 3: Kfuse ($24.40 in chips) 
+Seat 4: Maharaja2172 ($5.55 in chips) 
+Seat 6: M0RE=C0WBELL ($25.30 in chips) 
+Seat 7: Alameda22 ($29.45 in chips) 
+Seat 8: mnhotbabe ($25.60 in chips) 
+Irishflog will be allowed to play after the button
+M0RE=C0WBELL: posts small blind $0.10
+Alameda22: posts big blind $0.25
+coezid: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 7d]
+mnhotbabe: calls $0.25
+atsmug: folds 
+coezid: checks 
+Kfuse: folds 
+Maharaja2172: folds 
+M0RE=C0WBELL: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Jc Th 6h]
+DawsonS64 joins the table at seat #9 
+M0RE=C0WBELL: checks 
+Alameda22: checks 
+mnhotbabe: checks 
+coezid: checks 
+*** TURN *** [Jc Th 6h] [8d]
+M0RE=C0WBELL: checks 
+Alameda22: checks 
+mnhotbabe: checks 
+coezid: checks 
+*** RIVER *** [Jc Th 6h 8d] [5s]
+M0RE=C0WBELL: checks 
+Alameda22: checks 
+mnhotbabe: checks 
+coezid: checks 
+*** SHOW DOWN ***
+M0RE=C0WBELL: shows [8c 7s] (a pair of Eights)
+Alameda22: mucks hand 
+mnhotbabe: mucks hand 
+coezid: mucks hand 
+M0RE=C0WBELL collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Jc Th 6h 8d 5s]
+Seat 1: atsmug folded before Flop (didn't bet)
+Seat 2: coezid mucked [4c 9h]
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Maharaja2172 (button) folded before Flop (didn't bet)
+Seat 6: M0RE=C0WBELL (small blind) showed [8c 7s] and won ($1.05) with a pair of Eights
+Seat 7: Alameda22 (big blind) mucked [5d 7d]
+Seat 8: mnhotbabe mucked [2s As]
+
+
+
+PokerStars Game #20081308259:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:55:15 (ET)
+Table 'Baumeia' 9-max Seat #6 is the button
+Seat 1: atsmug ($23.50 in chips) 
+Seat 2: coezid ($21.65 in chips) 
+Seat 3: Kfuse ($24.40 in chips) 
+Seat 4: Maharaja2172 ($5.55 in chips) 
+Seat 5: Irishflog ($5.35 in chips) 
+Seat 6: M0RE=C0WBELL ($26.10 in chips) 
+Seat 7: Alameda22 ($29.20 in chips) 
+Seat 8: mnhotbabe ($25.35 in chips) 
+Seat 9: DawsonS64 ($25 in chips) 
+Alameda22: posts small blind $0.10
+mnhotbabe: posts big blind $0.25
+DawsonS64: posts big blind $0.25
+Irishflog: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Qc]
+DawsonS64: checks 
+atsmug: folds 
+coezid: calls $0.25
+Kfuse: calls $0.25
+Maharaja2172: calls $0.25
+Irishflog: checks 
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+mnhotbabe: checks 
+*** FLOP *** [6d 5s 8h]
+mnhotbabe: checks 
+DawsonS64: checks 
+coezid: checks 
+Kfuse: checks 
+Maharaja2172: checks 
+Irishflog: checks 
+*** TURN *** [6d 5s 8h] [Js]
+mnhotbabe: checks 
+DawsonS64: checks 
+coezid: checks 
+Kfuse: checks 
+Maharaja2172: checks 
+Irishflog: checks 
+*** RIVER *** [6d 5s 8h Js] [Kd]
+mnhotbabe: checks 
+DawsonS64: checks 
+coezid: checks 
+Kfuse: checks 
+Maharaja2172: checks 
+Irishflog: checks 
+*** SHOW DOWN ***
+mnhotbabe: shows [Qs 3h] (high card King)
+DawsonS64: shows [2d Kc] (a pair of Kings)
+coezid: mucks hand 
+Kfuse: mucks hand 
+Maharaja2172: mucks hand 
+Irishflog: mucks hand 
+DawsonS64 collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [6d 5s 8h Js Kd]
+Seat 1: atsmug folded before Flop (didn't bet)
+Seat 2: coezid mucked [Ad Qh]
+Seat 3: Kfuse mucked [7h 7d]
+Seat 4: Maharaja2172 mucked [Jh 2h]
+Seat 5: Irishflog mucked [Tc 4d]
+Seat 6: M0RE=C0WBELL (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: mnhotbabe (big blind) showed [Qs 3h] and lost with high card King
+Seat 9: DawsonS64 showed [2d Kc] and won ($1.55) with a pair of Kings
+
+
+
+PokerStars Game #20081356709:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:57:29 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 1: atsmug ($23.50 in chips) 
+Seat 2: coezid ($21.40 in chips) 
+Seat 3: Kfuse ($24.15 in chips) 
+Seat 4: Maharaja2172 ($5.30 in chips) 
+Seat 5: Irishflog ($5.10 in chips) 
+Seat 6: M0RE=C0WBELL ($26.10 in chips) 
+Seat 7: Alameda22 ($29.10 in chips) 
+Seat 8: mnhotbabe ($25.10 in chips) 
+Seat 9: DawsonS64 ($26.30 in chips) 
+mnhotbabe: posts small blind $0.10
+DawsonS64: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 8d]
+atsmug: calls $0.25
+coezid: folds 
+Kfuse: folds 
+Maharaja2172: calls $0.25
+Irishflog: raises $0.75 to $1
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+mnhotbabe: folds 
+DawsonS64: folds 
+atsmug: calls $0.75
+Maharaja2172: folds 
+*** FLOP *** [Th 6d Kc]
+atsmug: checks 
+Irishflog: bets $1
+atsmug: folds 
+Uncalled bet ($1) returned to Irishflog
+Irishflog collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Th 6d Kc]
+Seat 1: atsmug folded on the Flop
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Maharaja2172 folded before Flop
+Seat 5: Irishflog collected ($2.50)
+Seat 6: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: mnhotbabe (small blind) folded before Flop
+Seat 9: DawsonS64 (big blind) folded before Flop
+
+
+
+PokerStars Game #20081380686:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:58:36 (ET)
+Table 'Baumeia' 9-max Seat #8 is the button
+Seat 1: atsmug ($22.50 in chips) 
+Seat 2: coezid ($21.40 in chips) 
+Seat 3: Kfuse ($24.15 in chips) 
+Seat 4: Maharaja2172 ($5.05 in chips) 
+Seat 5: Irishflog ($6.60 in chips) 
+Seat 6: M0RE=C0WBELL ($26.10 in chips) 
+Seat 7: Alameda22 ($29.10 in chips) 
+Seat 8: mnhotbabe ($25 in chips) 
+Seat 9: DawsonS64 ($26.05 in chips) 
+DawsonS64: posts small blind $0.10
+atsmug: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Ks]
+coezid: folds 
+Kfuse: folds 
+Maharaja2172: folds 
+Irishflog: folds 
+M0RE=C0WBELL: folds 
+Irishflog leaves the table
+Alameda22: folds 
+mnhotbabe: calls $0.25
+DawsonS64: calls $0.15
+atsmug: checks 
+*** FLOP *** [Tc Kd Qd]
+DawsonS64: checks 
+atsmug: checks 
+tinyvessels joins the table at seat #5 
+mnhotbabe: checks 
+*** TURN *** [Tc Kd Qd] [9s]
+DawsonS64: checks 
+atsmug: checks 
+mnhotbabe: bets $2
+DawsonS64: folds 
+atsmug: folds 
+Uncalled bet ($2) returned to mnhotbabe
+atsmug is sitting out
+mnhotbabe collected $0.75 from pot
+mnhotbabe: doesn't show hand 
+atsmug leaves the table
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Tc Kd Qd 9s]
+Seat 1: atsmug (big blind) folded on the Turn
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Maharaja2172 folded before Flop (didn't bet)
+Seat 5: Irishflog folded before Flop (didn't bet)
+Seat 6: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe (button) collected ($0.75)
+Seat 9: DawsonS64 (small blind) folded on the Turn
+
+
+
+PokerStars Game #20081417583:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:00:20 (ET)
+Table 'Baumeia' 9-max Seat #9 is the button
+Seat 2: coezid ($21.40 in chips) 
+Seat 3: Kfuse ($24.15 in chips) 
+Seat 4: Maharaja2172 ($5.05 in chips) 
+Seat 6: M0RE=C0WBELL ($26.10 in chips) 
+Seat 7: Alameda22 ($29.10 in chips) 
+Seat 8: mnhotbabe ($25.50 in chips) 
+Seat 9: DawsonS64 ($25.80 in chips) 
+coezid: posts small blind $0.10
+Kfuse: posts big blind $0.25
+tinyvessels: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c As]
+Maharaja2172: folds 
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+mnhotbabe: calls $0.25
+DawsonS64: folds 
+coezid: calls $0.15
+Kfuse: checks 
+*** FLOP *** [7d 3h Kd]
+coezid: checks 
+BostonAK_617 joins the table at seat #1 
+Kfuse: checks 
+mnhotbabe: bets $1
+coezid: folds 
+Kfuse: folds 
+Uncalled bet ($1) returned to mnhotbabe
+mnhotbabe collected $0.75 from pot
+mnhotbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [7d 3h Kd]
+Seat 2: coezid (small blind) folded on the Flop
+Seat 3: Kfuse (big blind) folded on the Flop
+Seat 4: Maharaja2172 folded before Flop (didn't bet)
+Seat 6: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe collected ($0.75)
+Seat 9: DawsonS64 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081447632:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:01:46 (ET)
+Table 'Baumeia' 9-max Seat #2 is the button
+Seat 1: BostonAK_617 ($10 in chips) 
+Seat 2: coezid ($21.15 in chips) 
+Seat 3: Kfuse ($23.90 in chips) 
+Seat 4: Maharaja2172 ($5.05 in chips) 
+Seat 6: M0RE=C0WBELL ($26.10 in chips) 
+Seat 7: Alameda22 ($29.10 in chips) 
+Seat 8: mnhotbabe ($26 in chips) 
+Seat 9: DawsonS64 ($25.80 in chips) 
+Kfuse: posts small blind $0.10
+Maharaja2172: posts big blind $0.25
+tinyvessels: sits out 
+BostonAK_617: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 8d]
+M0RE=C0WBELL: raises $0.50 to $0.75
+Alameda22: folds 
+mnhotbabe: folds 
+DawsonS64: calls $0.75
+BostonAK_617: folds 
+coezid: calls $0.75
+Kfuse: folds 
+Maharaja2172: calls $0.50
+*** FLOP *** [Kc Ah 5d]
+Maharaja2172: checks 
+M0RE=C0WBELL: checks 
+DawsonS64: checks 
+coezid: checks 
+*** TURN *** [Kc Ah 5d] [9d]
+Maharaja2172: checks 
+M0RE=C0WBELL: checks 
+DawsonS64: checks 
+coezid: checks 
+*** RIVER *** [Kc Ah 5d 9d] [Qs]
+Maharaja2172: checks 
+M0RE=C0WBELL: checks 
+DawsonS64: checks 
+coezid: checks 
+*** SHOW DOWN ***
+Maharaja2172: shows [7s 7h] (a pair of Sevens)
+M0RE=C0WBELL: shows [Td Th] (a pair of Tens)
+DawsonS64: mucks hand 
+coezid: mucks hand 
+M0RE=C0WBELL collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [Kc Ah 5d 9d Qs]
+Seat 1: BostonAK_617 folded before Flop
+Seat 2: coezid (button) mucked [9c 8s]
+Seat 3: Kfuse (small blind) folded before Flop
+Seat 4: Maharaja2172 (big blind) showed [7s 7h] and lost with a pair of Sevens
+Seat 6: M0RE=C0WBELL showed [Td Th] and won ($3.20) with a pair of Tens
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe folded before Flop (didn't bet)
+Seat 9: DawsonS64 mucked [4c 4s]
+
+
+
+PokerStars Game #20081487105:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:03:38 (ET)
+Table 'Baumeia' 9-max Seat #3 is the button
+Seat 1: BostonAK_617 ($9.75 in chips) 
+Seat 2: coezid ($20.40 in chips) 
+Seat 3: Kfuse ($23.80 in chips) 
+Seat 4: Maharaja2172 ($4.30 in chips) 
+Seat 5: tinyvessels ($25 in chips) 
+Seat 6: M0RE=C0WBELL ($28.55 in chips) 
+Seat 7: Alameda22 ($29.10 in chips) 
+Seat 8: mnhotbabe ($26 in chips) 
+Seat 9: DawsonS64 ($25.05 in chips) 
+Maharaja2172: posts small blind $0.10
+tinyvessels: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 2s]
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+mnhotbabe: folds 
+DawsonS64: folds 
+BostonAK_617: calls $0.25
+coezid: folds 
+Kfuse: folds 
+Maharaja2172: calls $0.15
+tinyvessels: checks 
+*** FLOP *** [7h Qh Qc]
+Maharaja2172: checks 
+tinyvessels: checks 
+BostonAK_617: checks 
+*** TURN *** [7h Qh Qc] [8s]
+Maharaja2172: bets $0.25
+tinyvessels: folds 
+BostonAK_617: calls $0.25
+*** RIVER *** [7h Qh Qc 8s] [3h]
+Maharaja2172: bets $1
+BostonAK_617: raises $1 to $2
+Maharaja2172: calls $1
+*** SHOW DOWN ***
+BostonAK_617: shows [Th Jh] (a flush, Queen high)
+Maharaja2172: mucks hand 
+BostonAK_617 collected $5 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [7h Qh Qc 8s 3h]
+Seat 1: BostonAK_617 showed [Th Jh] and won ($5) with a flush, Queen high
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse (button) folded before Flop (didn't bet)
+Seat 4: Maharaja2172 (small blind) mucked [Ad Qs]
+Seat 5: tinyvessels (big blind) folded on the Turn
+Seat 6: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe folded before Flop (didn't bet)
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081515642:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:05:00 (ET)
+Table 'Baumeia' 9-max Seat #4 is the button
+Seat 1: BostonAK_617 ($12.25 in chips) 
+Seat 2: coezid ($20.40 in chips) 
+Seat 3: Kfuse ($23.80 in chips) 
+Seat 4: Maharaja2172 ($1.80 in chips) 
+Seat 5: tinyvessels ($24.75 in chips) 
+Seat 6: M0RE=C0WBELL ($28.55 in chips) 
+Seat 7: Alameda22 ($29.10 in chips) 
+Seat 8: mnhotbabe ($26 in chips) 
+Seat 9: DawsonS64 ($25.05 in chips) 
+tinyvessels: posts small blind $0.10
+M0RE=C0WBELL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 2c]
+Alameda22: folds 
+mnhotbabe: calls $0.25
+DawsonS64: calls $0.25
+BostonAK_617: folds 
+coezid: calls $0.25
+Kfuse: folds 
+Maharaja2172: calls $0.25
+tinyvessels: folds 
+M0RE=C0WBELL: checks 
+*** FLOP *** [6d 8s 9h]
+M0RE=C0WBELL: checks 
+mnhotbabe: bets $0.25
+DawsonS64: raises $0.50 to $0.75
+coezid: calls $0.75
+Maharaja2172: folds 
+M0RE=C0WBELL: folds 
+mnhotbabe: folds 
+*** TURN *** [6d 8s 9h] [Kh]
+DawsonS64: bets $0.75
+coezid: calls $0.75
+*** RIVER *** [6d 8s 9h Kh] [7c]
+DawsonS64: bets $0.50
+coezid: raises $1.50 to $2
+DawsonS64: folds 
+Uncalled bet ($1.50) returned to coezid
+coezid collected $5.35 from pot
+coezid: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.25 
+Board [6d 8s 9h Kh 7c]
+Seat 1: BostonAK_617 folded before Flop (didn't bet)
+Seat 2: coezid collected ($5.35)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Maharaja2172 (button) folded on the Flop
+Seat 5: tinyvessels (small blind) folded before Flop
+Seat 6: M0RE=C0WBELL (big blind) folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe folded on the Flop
+Seat 9: DawsonS64 folded on the River
+
+
+
+PokerStars Game #20081555564:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:06:55 (ET)
+Table 'Baumeia' 9-max Seat #5 is the button
+Seat 1: BostonAK_617 ($12.25 in chips) 
+Seat 2: coezid ($23.50 in chips) 
+Seat 3: Kfuse ($23.80 in chips) 
+Seat 4: Maharaja2172 ($1.55 in chips) 
+Seat 5: tinyvessels ($24.65 in chips) 
+Seat 6: M0RE=C0WBELL ($28.30 in chips) 
+Seat 7: Alameda22 ($29.10 in chips) 
+Seat 8: mnhotbabe ($25.50 in chips) 
+Seat 9: DawsonS64 ($22.80 in chips) 
+M0RE=C0WBELL: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 7c]
+mnhotbabe: calls $0.25
+DawsonS64: folds 
+BostonAK_617: folds 
+coezid: folds 
+Kfuse: folds 
+Maharaja2172: folds 
+tinyvessels: folds 
+M0RE=C0WBELL: folds 
+Alameda22: checks 
+*** FLOP *** [6c Kd 5d]
+Alameda22: checks 
+mnhotbabe: bets $0.25
+Alameda22: folds 
+Uncalled bet ($0.25) returned to mnhotbabe
+mnhotbabe collected $0.60 from pot
+mnhotbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6c Kd 5d]
+Seat 1: BostonAK_617 folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Maharaja2172 folded before Flop (didn't bet)
+Seat 5: tinyvessels (button) folded before Flop (didn't bet)
+Seat 6: M0RE=C0WBELL (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded on the Flop
+Seat 8: mnhotbabe collected ($0.60)
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081580697:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:08:08 (ET)
+Table 'Baumeia' 9-max Seat #6 is the button
+Seat 1: BostonAK_617 ($12.25 in chips) 
+Seat 2: coezid ($23.50 in chips) 
+Seat 3: Kfuse ($23.80 in chips) 
+Seat 4: Maharaja2172 ($1.55 in chips) 
+Seat 5: tinyvessels ($24.65 in chips) 
+Seat 6: M0RE=C0WBELL ($28.20 in chips) 
+Seat 7: Alameda22 ($28.85 in chips) 
+Seat 8: mnhotbabe ($25.85 in chips) 
+Seat 9: DawsonS64 ($22.80 in chips) 
+Alameda22: posts small blind $0.10
+mnhotbabe: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Ad]
+DawsonS64: folds 
+BostonAK_617: folds 
+coezid: folds 
+Kfuse: folds 
+Maharaja2172: folds 
+tinyvessels: folds 
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to mnhotbabe
+mnhotbabe collected $0.20 from pot
+mnhotbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: BostonAK_617 folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Maharaja2172 folded before Flop (didn't bet)
+Seat 5: tinyvessels folded before Flop (didn't bet)
+Seat 6: M0RE=C0WBELL (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: mnhotbabe (big blind) collected ($0.20)
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081605395:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:09:20 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 1: BostonAK_617 ($12.25 in chips) 
+Seat 2: coezid ($23.50 in chips) 
+Seat 3: Kfuse ($23.80 in chips) 
+Seat 4: Maharaja2172 ($1.55 in chips) 
+Seat 5: tinyvessels ($24.65 in chips) 
+Seat 6: M0RE=C0WBELL ($28.20 in chips) 
+Seat 7: Alameda22 ($28.75 in chips) 
+Seat 8: mnhotbabe ($25.95 in chips) 
+Seat 9: DawsonS64 ($22.80 in chips) 
+mnhotbabe: posts small blind $0.10
+DawsonS64: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 9s]
+BostonAK_617: folds 
+coezid: folds 
+Kfuse: folds 
+Maharaja2172: folds 
+tinyvessels: folds 
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+mnhotbabe: calls $0.15
+DawsonS64: checks 
+*** FLOP *** [4c 2s 4d]
+mnhotbabe: checks 
+DawsonS64: checks 
+*** TURN *** [4c 2s 4d] [7c]
+mnhotbabe: checks 
+DawsonS64: bets $0.25
+mnhotbabe: folds 
+Uncalled bet ($0.25) returned to DawsonS64
+DawsonS64 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [4c 2s 4d 7c]
+Seat 1: BostonAK_617 folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Maharaja2172 folded before Flop (didn't bet)
+Seat 5: tinyvessels folded before Flop (didn't bet)
+Seat 6: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: mnhotbabe (small blind) folded on the Turn
+Seat 9: DawsonS64 (big blind) collected ($0.50)
+
+
+
+PokerStars Game #20081624298:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:10:16 (ET)
+Table 'Baumeia' 9-max Seat #8 is the button
+Seat 1: BostonAK_617 ($12.25 in chips) 
+Seat 2: coezid ($23.50 in chips) 
+Seat 3: Kfuse ($23.80 in chips) 
+Seat 4: Maharaja2172 ($1.55 in chips) 
+Seat 5: tinyvessels ($24.65 in chips) 
+Seat 6: M0RE=C0WBELL ($28.20 in chips) 
+Seat 7: Alameda22 ($28.75 in chips) 
+Seat 8: mnhotbabe ($25.70 in chips) 
+Seat 9: DawsonS64 ($23.05 in chips) 
+DawsonS64: posts small blind $0.10
+BostonAK_617: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Th]
+coezid: folds 
+Kfuse: folds 
+Maharaja2172: folds 
+tinyvessels: folds 
+M0RE=C0WBELL: raises $0.50 to $0.75
+Alameda22: folds 
+mnhotbabe: calls $0.75
+DawsonS64: calls $0.65
+BostonAK_617: calls $0.50
+*** FLOP *** [6c 3h 3s]
+DawsonS64: checks 
+BostonAK_617: checks 
+M0RE=C0WBELL: checks 
+mnhotbabe: checks 
+*** TURN *** [6c 3h 3s] [Qc]
+DawsonS64: checks 
+BostonAK_617: checks 
+M0RE=C0WBELL: checks 
+mnhotbabe: bets $0.75
+DawsonS64: folds 
+BostonAK_617: folds 
+M0RE=C0WBELL: calls $0.75
+*** RIVER *** [6c 3h 3s Qc] [Ah]
+M0RE=C0WBELL: checks 
+mnhotbabe: bets $1
+M0RE=C0WBELL: folds 
+Uncalled bet ($1) returned to mnhotbabe
+mnhotbabe collected $4.30 from pot
+mnhotbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [6c 3h 3s Qc Ah]
+Seat 1: BostonAK_617 (big blind) folded on the Turn
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Maharaja2172 folded before Flop (didn't bet)
+Seat 5: tinyvessels folded before Flop (didn't bet)
+Seat 6: M0RE=C0WBELL folded on the River
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe (button) collected ($4.30)
+Seat 9: DawsonS64 (small blind) folded on the Turn
+
+
+
+PokerStars Game #20081662102:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:12:07 (ET)
+Table 'Baumeia' 9-max Seat #9 is the button
+Seat 1: BostonAK_617 ($11.50 in chips) 
+Seat 2: coezid ($23.50 in chips) 
+Seat 3: Kfuse ($23.80 in chips) 
+Seat 4: Maharaja2172 ($1.55 in chips) 
+Seat 5: tinyvessels ($24.65 in chips) 
+Seat 6: M0RE=C0WBELL ($26.70 in chips) 
+Seat 7: Alameda22 ($28.75 in chips) 
+Seat 8: mnhotbabe ($28.50 in chips) 
+Seat 9: DawsonS64 ($22.30 in chips) 
+BostonAK_617: posts small blind $0.10
+coezid: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Ks]
+Kfuse: folds 
+Maharaja2172: folds 
+tinyvessels: folds 
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+mnhotbabe: calls $0.25
+DawsonS64: folds 
+BostonAK_617: folds 
+coezid: checks 
+*** FLOP *** [Qc 4h 4c]
+coezid: checks 
+mnhotbabe: checks 
+*** TURN *** [Qc 4h 4c] [Ts]
+coezid: checks 
+mnhotbabe: checks 
+*** RIVER *** [Qc 4h 4c Ts] [6d]
+coezid: checks 
+mnhotbabe: checks 
+*** SHOW DOWN ***
+coezid: shows [Kc 7c] (a pair of Fours)
+mnhotbabe: mucks hand 
+coezid collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qc 4h 4c Ts 6d]
+Seat 1: BostonAK_617 (small blind) folded before Flop
+Seat 2: coezid (big blind) showed [Kc 7c] and won ($0.60) with a pair of Fours
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Maharaja2172 folded before Flop (didn't bet)
+Seat 5: tinyvessels folded before Flop (didn't bet)
+Seat 6: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe mucked [Jc 2h]
+Seat 9: DawsonS64 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081686088:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:13:19 (ET)
+Table 'Baumeia' 9-max Seat #1 is the button
+Seat 1: BostonAK_617 ($11.40 in chips) 
+Seat 2: coezid ($23.85 in chips) 
+Seat 3: Kfuse ($23.80 in chips) 
+Seat 4: Maharaja2172 ($1.55 in chips) 
+Seat 5: tinyvessels ($24.65 in chips) 
+Seat 6: M0RE=C0WBELL ($26.70 in chips) 
+Seat 7: Alameda22 ($28.75 in chips) 
+Seat 8: mnhotbabe ($28.25 in chips) 
+Seat 9: DawsonS64 ($22.30 in chips) 
+coezid: posts small blind $0.10
+Kfuse: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 4d]
+Maharaja2172: calls $0.25
+tinyvessels: folds 
+M0RE=C0WBELL: calls $0.25
+Alameda22: folds 
+mnhotbabe: calls $0.25
+DawsonS64: calls $0.25
+BostonAK_617: folds 
+coezid: raises $0.75 to $1
+Kfuse: folds 
+Maharaja2172: folds 
+M0RE=C0WBELL: calls $0.75
+mnhotbabe: folds 
+DawsonS64: folds 
+*** FLOP *** [9c 6d Tc]
+coezid: bets $1.50
+M0RE=C0WBELL: calls $1.50
+*** TURN *** [9c 6d Tc] [9d]
+coezid: bets $2
+M0RE=C0WBELL: folds 
+Uncalled bet ($2) returned to coezid
+coezid collected $5.75 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.25 
+Board [9c 6d Tc 9d]
+Seat 1: BostonAK_617 (button) folded before Flop (didn't bet)
+Seat 2: coezid (small blind) collected ($5.75)
+Seat 3: Kfuse (big blind) folded before Flop
+Seat 4: Maharaja2172 folded before Flop
+Seat 5: tinyvessels folded before Flop (didn't bet)
+Seat 6: M0RE=C0WBELL folded on the Turn
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe folded before Flop
+Seat 9: DawsonS64 folded before Flop
+
+
+
+PokerStars Game #20081726533:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:15:19 (ET)
+Table 'Baumeia' 9-max Seat #2 is the button
+Seat 1: BostonAK_617 ($11.40 in chips) 
+Seat 2: coezid ($27.10 in chips) 
+Seat 3: Kfuse ($23.55 in chips) 
+Seat 4: Maharaja2172 ($1.30 in chips) 
+Seat 5: tinyvessels ($24.65 in chips) 
+Seat 6: M0RE=C0WBELL ($24.20 in chips) 
+Seat 7: Alameda22 ($28.75 in chips) 
+Seat 8: mnhotbabe ($28 in chips) 
+Seat 9: DawsonS64 ($22.05 in chips) 
+Kfuse: posts small blind $0.10
+Maharaja2172: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 7s]
+tinyvessels: folds 
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+mnhotbabe: calls $0.25
+DawsonS64: folds 
+BostonAK_617: folds 
+coezid: folds 
+Kfuse: calls $0.15
+Maharaja2172: checks 
+*** FLOP *** [9d Ad 9h]
+Kfuse: checks 
+Maharaja2172: bets $1.05 and is all-in
+mnhotbabe: folds 
+Kfuse: folds 
+Uncalled bet ($1.05) returned to Maharaja2172
+Maharaja2172 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [9d Ad 9h]
+Seat 1: BostonAK_617 folded before Flop (didn't bet)
+Seat 2: coezid (button) folded before Flop (didn't bet)
+Seat 3: Kfuse (small blind) folded on the Flop
+Seat 4: Maharaja2172 (big blind) collected ($0.75)
+Seat 5: tinyvessels folded before Flop (didn't bet)
+Seat 6: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe folded on the Flop
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081746350:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:16:18 (ET)
+Table 'Baumeia' 9-max Seat #3 is the button
+Seat 1: BostonAK_617 ($11.40 in chips) 
+Seat 2: coezid ($27.10 in chips) 
+Seat 3: Kfuse ($25 in chips) 
+Seat 4: Maharaja2172 ($1.80 in chips) 
+Seat 5: tinyvessels ($24.65 in chips) 
+Seat 6: M0RE=C0WBELL ($24.20 in chips) 
+Seat 7: Alameda22 ($28.75 in chips) 
+Seat 8: mnhotbabe ($27.75 in chips) 
+Seat 9: DawsonS64 ($22.05 in chips) 
+Maharaja2172: posts small blind $0.10
+tinyvessels: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 9c]
+M0RE=C0WBELL: folds 
+M0RE=C0WBELL leaves the table
+Alameda22: folds 
+mnhotbabe: calls $0.25
+DawsonS64: folds 
+BostonAK_617: folds 
+mrtguy joins the table at seat #6 
+coezid: calls $0.25
+Kfuse: calls $0.25
+Maharaja2172: calls $0.15
+tinyvessels: raises $1.50 to $1.75
+mnhotbabe: folds 
+coezid: calls $1.50
+Kfuse: folds 
+Maharaja2172: folds 
+*** FLOP *** [Jc 2s 2d]
+tinyvessels: bets $2
+coezid: calls $2
+*** TURN *** [Jc 2s 2d] [Ah]
+tinyvessels: checks 
+coezid: bets $2
+tinyvessels: calls $2
+*** RIVER *** [Jc 2s 2d Ah] [2h]
+tinyvessels: bets $7
+coezid: calls $7
+*** SHOW DOWN ***
+tinyvessels: shows [Ad Qh] (a full house, Deuces full of Aces)
+coezid: shows [As Qc] (a full house, Deuces full of Aces)
+tinyvessels collected $12.50 from pot
+coezid collected $12.50 from pot
+*** SUMMARY ***
+Total pot $26.25 | Rake $1.25 
+Board [Jc 2s 2d Ah 2h]
+Seat 1: BostonAK_617 folded before Flop (didn't bet)
+Seat 2: coezid showed [As Qc] and won ($12.50) with a full house, Deuces full of Aces
+Seat 3: Kfuse (button) folded before Flop
+Seat 4: Maharaja2172 (small blind) folded before Flop
+Seat 5: tinyvessels (big blind) showed [Ad Qh] and won ($12.50) with a full house, Deuces full of Aces
+Seat 6: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe folded before Flop
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081784613:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:18:13 (ET)
+Table 'Baumeia' 9-max Seat #4 is the button
+Seat 1: BostonAK_617 ($11.40 in chips) 
+Seat 2: coezid ($26.85 in chips) 
+Seat 3: Kfuse ($24.75 in chips) 
+Seat 4: Maharaja2172 ($1.55 in chips) 
+Seat 5: tinyvessels ($24.40 in chips) 
+Seat 6: mrtguy ($15 in chips) 
+Seat 7: Alameda22 ($28.75 in chips) 
+Seat 8: mnhotbabe ($27.50 in chips) 
+Seat 9: DawsonS64 ($22.05 in chips) 
+tinyvessels: posts small blind $0.10
+mrtguy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 5d]
+Alameda22: folds 
+mnhotbabe: folds 
+DawsonS64: calls $0.25
+BostonAK_617: folds 
+coezid: calls $0.25
+Kfuse: folds 
+Maharaja2172: calls $0.25
+tinyvessels: folds 
+mrtguy: checks 
+*** FLOP *** [Td Kd 5c]
+mrtguy: checks 
+DawsonS64: checks 
+coezid: checks 
+Maharaja2172: checks 
+*** TURN *** [Td Kd 5c] [9c]
+mrtguy: checks 
+DawsonS64: checks 
+coezid: bets $0.75
+Maharaja2172: folds 
+mrtguy: folds 
+DawsonS64: folds 
+Uncalled bet ($0.75) returned to coezid
+coezid collected $1.05 from pot
+coezid: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Td Kd 5c 9c]
+Seat 1: BostonAK_617 folded before Flop (didn't bet)
+Seat 2: coezid collected ($1.05)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Maharaja2172 (button) folded on the Turn
+Seat 5: tinyvessels (small blind) folded before Flop
+Seat 6: mrtguy (big blind) folded on the Turn
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe folded before Flop (didn't bet)
+Seat 9: DawsonS64 folded on the Turn
+
+
+
+PokerStars Game #20081810878:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:19:32 (ET)
+Table 'Baumeia' 9-max Seat #5 is the button
+Seat 1: BostonAK_617 ($11.40 in chips) 
+Seat 2: coezid ($27.65 in chips) 
+Seat 3: Kfuse ($24.75 in chips) 
+Seat 4: Maharaja2172 ($1.30 in chips) 
+Seat 5: tinyvessels ($24.30 in chips) 
+Seat 6: mrtguy ($24.75 in chips) 
+Seat 7: Alameda22 ($28.75 in chips) 
+Seat 8: mnhotbabe ($27.50 in chips) 
+Seat 9: DawsonS64 ($21.80 in chips) 
+mrtguy: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 2s]
+mnhotbabe: folds 
+DawsonS64: folds 
+BostonAK_617: calls $0.25
+coezid: calls $0.25
+Kfuse: folds 
+Maharaja2172: folds 
+tinyvessels: folds 
+mrtguy: folds 
+Alameda22: checks 
+*** FLOP *** [Js 7h Ks]
+Alameda22: checks 
+BostonAK_617: checks 
+coezid: checks 
+*** TURN *** [Js 7h Ks] [Kc]
+Alameda22: checks 
+BostonAK_617: checks 
+coezid: bets $0.75
+Alameda22: folds 
+BostonAK_617: calls $0.75
+*** RIVER *** [Js 7h Ks Kc] [6c]
+BostonAK_617: checks 
+coezid: bets $1
+BostonAK_617: calls $1
+*** SHOW DOWN ***
+coezid: shows [Jh As] (two pair, Kings and Jacks)
+BostonAK_617: mucks hand 
+coezid collected $4.15 from pot
+*** SUMMARY ***
+Total pot $4.35 | Rake $0.20 
+Board [Js 7h Ks Kc 6c]
+Seat 1: BostonAK_617 mucked [Jd Td]
+Seat 2: coezid showed [Jh As] and won ($4.15) with two pair, Kings and Jacks
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Maharaja2172 folded before Flop (didn't bet)
+Seat 5: tinyvessels (button) folded before Flop (didn't bet)
+Seat 6: mrtguy (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded on the Turn
+Seat 8: mnhotbabe folded before Flop (didn't bet)
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081836153:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:20:49 (ET)
+Table 'Baumeia' 9-max Seat #6 is the button
+Seat 1: BostonAK_617 ($9.40 in chips) 
+Seat 2: coezid ($29.80 in chips) 
+Seat 3: Kfuse ($24.75 in chips) 
+Seat 4: Maharaja2172 ($1.30 in chips) 
+Seat 5: tinyvessels ($24.30 in chips) 
+Seat 6: mrtguy ($24.65 in chips) 
+Seat 7: Alameda22 ($28.50 in chips) 
+Seat 8: mnhotbabe ($27.50 in chips) 
+Seat 9: DawsonS64 ($21.80 in chips) 
+Alameda22: posts small blind $0.10
+mnhotbabe: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 6c]
+DawsonS64: folds 
+BostonAK_617: folds 
+coezid: folds 
+Kfuse: raises $0.75 to $1
+Maharaja2172: folds 
+tinyvessels: folds 
+mrtguy: folds 
+Alameda22: folds 
+mnhotbabe: calls $0.75
+*** FLOP *** [5h 6d 8d]
+mnhotbabe: checks 
+Kfuse: checks 
+*** TURN *** [5h 6d 8d] [Qh]
+mnhotbabe: checks 
+Kfuse: bets $1.25
+mnhotbabe: calls $1.25
+*** RIVER *** [5h 6d 8d Qh] [Jh]
+mnhotbabe: checks 
+Kfuse: checks 
+*** SHOW DOWN ***
+mnhotbabe: shows [Ad 7h] (high card Ace)
+Kfuse: shows [Ac Kd] (high card Ace - King kicker)
+Kfuse collected $4.40 from pot
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.20 
+Board [5h 6d 8d Qh Jh]
+Seat 1: BostonAK_617 folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse showed [Ac Kd] and won ($4.40) with high card Ace
+Seat 4: Maharaja2172 folded before Flop (didn't bet)
+Seat 5: tinyvessels folded before Flop (didn't bet)
+Seat 6: mrtguy (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: mnhotbabe (big blind) showed [Ad 7h] and lost with high card Ace
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081866395:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:22:21 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 1: BostonAK_617 ($9.40 in chips) 
+Seat 2: coezid ($29.80 in chips) 
+Seat 3: Kfuse ($26.90 in chips) 
+Seat 4: Maharaja2172 ($1.30 in chips) 
+Seat 5: tinyvessels ($24.30 in chips) 
+Seat 6: mrtguy ($24.65 in chips) 
+Seat 7: Alameda22 ($28.40 in chips) 
+Seat 8: mnhotbabe ($25.25 in chips) 
+Seat 9: DawsonS64 ($21.80 in chips) 
+mnhotbabe: posts small blind $0.10
+DawsonS64: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Qd]
+BostonAK_617: folds 
+coezid: calls $0.25
+Kfuse: folds 
+Maharaja2172: calls $0.25
+tinyvessels: folds 
+mrtguy: folds 
+Alameda22: folds 
+mnhotbabe: calls $0.15
+DawsonS64: checks 
+*** FLOP *** [3c 8c 6s]
+mnhotbabe: checks 
+DawsonS64: checks 
+coezid: checks 
+Maharaja2172: bets $1.05 and is all-in
+mnhotbabe: folds 
+DawsonS64: folds 
+coezid: calls $1.05
+*** TURN *** [3c 8c 6s] [2c]
+*** RIVER *** [3c 8c 6s 2c] [3d]
+*** SHOW DOWN ***
+coezid: shows [Qs As] (a pair of Threes)
+Maharaja2172: mucks hand 
+coezid collected $2.95 from pot
+Maharaja2172 leaves the table
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [3c 8c 6s 2c 3d]
+Seat 1: BostonAK_617 folded before Flop (didn't bet)
+Seat 2: coezid showed [Qs As] and won ($2.95) with a pair of Threes
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Maharaja2172 mucked [7h Jh]
+Seat 5: tinyvessels folded before Flop (didn't bet)
+Seat 6: mrtguy folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: mnhotbabe (small blind) folded on the Flop
+Seat 9: DawsonS64 (big blind) folded on the Flop
+
+
+
+PokerStars Game #20081897706:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:23:58 (ET)
+Table 'Baumeia' 9-max Seat #8 is the button
+Seat 1: BostonAK_617 ($9.40 in chips) 
+Seat 2: coezid ($31.45 in chips) 
+Seat 3: Kfuse ($26.90 in chips) 
+Seat 5: tinyvessels ($24.30 in chips) 
+Seat 6: mrtguy ($24.65 in chips) 
+Seat 7: Alameda22 ($28.40 in chips) 
+Seat 8: mnhotbabe ($25 in chips) 
+Seat 9: DawsonS64 ($21.55 in chips) 
+DawsonS64: posts small blind $0.10
+BostonAK_617: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 3d]
+coezid: calls $0.25
+MagicPie 85 joins the table at seat #4 
+Kfuse: folds 
+tinyvessels: folds 
+mrtguy: folds 
+Alameda22: folds 
+mnhotbabe: calls $0.25
+DawsonS64: calls $0.15
+BostonAK_617: raises $1.75 to $2
+coezid: folds 
+mnhotbabe: folds 
+DawsonS64: folds 
+Uncalled bet ($1.75) returned to BostonAK_617
+BostonAK_617 collected $1 from pot
+BostonAK_617: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: BostonAK_617 (big blind) collected ($1)
+Seat 2: coezid folded before Flop
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 5: tinyvessels folded before Flop (didn't bet)
+Seat 6: mrtguy folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe (button) folded before Flop
+Seat 9: DawsonS64 (small blind) folded before Flop
+
+
+
+PokerStars Game #20081919499:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:25:05 (ET)
+Table 'Baumeia' 9-max Seat #9 is the button
+Seat 1: BostonAK_617 ($10.15 in chips) 
+Seat 2: coezid ($31.20 in chips) 
+Seat 3: Kfuse ($26.90 in chips) 
+Seat 5: tinyvessels ($24.30 in chips) 
+Seat 6: mrtguy ($24.65 in chips) 
+Seat 7: Alameda22 ($28.40 in chips) 
+Seat 8: mnhotbabe ($24.75 in chips) 
+Seat 9: DawsonS64 ($21.30 in chips) 
+BostonAK_617: posts small blind $0.10
+coezid: posts big blind $0.25
+MagicPie 85: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Qd]
+Kfuse: folds 
+tinyvessels: folds 
+mrtguy: raises $0.75 to $1
+Alameda22: folds 
+mnhotbabe: folds 
+DawsonS64: folds 
+BostonAK_617: folds 
+coezid: folds 
+Uncalled bet ($0.75) returned to mrtguy
+mrtguy collected $0.60 from pot
+mrtguy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: BostonAK_617 (small blind) folded before Flop
+Seat 2: coezid (big blind) folded before Flop
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 5: tinyvessels folded before Flop (didn't bet)
+Seat 6: mrtguy collected ($0.60)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe folded before Flop (didn't bet)
+Seat 9: DawsonS64 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081931184:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:25:42 (ET)
+Table 'Baumeia' 9-max Seat #1 is the button
+Seat 1: BostonAK_617 ($10.05 in chips) 
+Seat 2: coezid ($30.95 in chips) 
+Seat 3: Kfuse ($26.90 in chips) 
+Seat 5: tinyvessels ($24.30 in chips) 
+Seat 6: mrtguy ($25 in chips) 
+Seat 7: Alameda22 ($28.40 in chips) 
+Seat 8: mnhotbabe ($24.75 in chips) 
+Seat 9: DawsonS64 ($21.30 in chips) 
+coezid: posts small blind $0.10
+Kfuse: posts big blind $0.25
+MagicPie 85: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Jd]
+tinyvessels: folds 
+mrtguy: folds 
+Alameda22: folds 
+mnhotbabe: folds 
+DawsonS64: raises $0.50 to $0.75
+BostonAK_617: calls $0.75
+coezid: folds 
+Kfuse: calls $0.50
+*** FLOP *** [5d Qd Qs]
+Kfuse: checks 
+DawsonS64: checks 
+BostonAK_617: checks 
+*** TURN *** [5d Qd Qs] [6c]
+Kfuse: bets $1.50
+DawsonS64: folds 
+BostonAK_617: calls $1.50
+*** RIVER *** [5d Qd Qs 6c] [5h]
+Kfuse: bets $8
+BostonAK_617: folds 
+Uncalled bet ($8) returned to Kfuse
+Kfuse collected $5.10 from pot
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [5d Qd Qs 6c 5h]
+Seat 1: BostonAK_617 (button) folded on the River
+Seat 2: coezid (small blind) folded before Flop
+Seat 3: Kfuse (big blind) collected ($5.10)
+Seat 5: tinyvessels folded before Flop (didn't bet)
+Seat 6: mrtguy folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe folded before Flop (didn't bet)
+Seat 9: DawsonS64 folded on the Turn
+
+
+
+PokerStars Game #20081961075:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:27:15 (ET)
+Table 'Baumeia' 9-max Seat #2 is the button
+Seat 1: BostonAK_617 ($7.80 in chips) 
+Seat 2: coezid ($30.85 in chips) 
+Seat 3: Kfuse ($29.75 in chips) 
+Seat 4: MagicPie 85 ($25 in chips) 
+Seat 5: tinyvessels ($24.30 in chips) 
+Seat 6: mrtguy ($25 in chips) 
+Seat 7: Alameda22 ($28.40 in chips) 
+Seat 8: mnhotbabe ($24.75 in chips) 
+Seat 9: DawsonS64 ($20.55 in chips) 
+Kfuse: posts small blind $0.10
+MagicPie 85: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 9s]
+tinyvessels: folds 
+mrtguy: folds 
+Alameda22: folds 
+mnhotbabe: calls $0.25
+DawsonS64: raises $0.75 to $1
+BostonAK_617: folds 
+coezid: folds 
+Kfuse: folds 
+MagicPie 85: folds 
+mnhotbabe: calls $0.75
+*** FLOP *** [8d 4d Ah]
+mnhotbabe: checks 
+DawsonS64: bets $0.50
+mnhotbabe: calls $0.50
+*** TURN *** [8d 4d Ah] [4h]
+mnhotbabe: checks 
+DawsonS64: checks 
+*** RIVER *** [8d 4d Ah 4h] [Kd]
+mnhotbabe: bets $4
+DawsonS64: folds 
+Uncalled bet ($4) returned to mnhotbabe
+mnhotbabe collected $3.20 from pot
+mnhotbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [8d 4d Ah 4h Kd]
+Seat 1: BostonAK_617 folded before Flop (didn't bet)
+Seat 2: coezid (button) folded before Flop (didn't bet)
+Seat 3: Kfuse (small blind) folded before Flop
+Seat 4: MagicPie 85 (big blind) folded before Flop
+Seat 5: tinyvessels folded before Flop (didn't bet)
+Seat 6: mrtguy folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe collected ($3.20)
+Seat 9: DawsonS64 folded on the River
+
+
+
+PokerStars Game #20081990447:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:28:48 (ET)
+Table 'Baumeia' 9-max Seat #3 is the button
+Seat 1: BostonAK_617 ($7.80 in chips) 
+Seat 2: coezid ($30.85 in chips) 
+Seat 3: Kfuse ($29.65 in chips) 
+Seat 4: MagicPie 85 ($24.75 in chips) 
+Seat 5: tinyvessels ($24.30 in chips) 
+Seat 6: mrtguy ($25 in chips) 
+Seat 7: Alameda22 ($28.40 in chips) 
+Seat 8: mnhotbabe ($26.45 in chips) 
+Seat 9: DawsonS64 ($19.05 in chips) 
+MagicPie 85: posts small blind $0.10
+tinyvessels: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 5h]
+mrtguy: raises $0.75 to $1
+Alameda22: folds 
+mnhotbabe: folds 
+DawsonS64: folds 
+BostonAK_617: folds 
+coezid: folds 
+Kfuse: calls $1
+MagicPie 85: folds 
+tinyvessels: folds 
+*** FLOP *** [8s 9h 6s]
+mrtguy: bets $1.75
+Kfuse: calls $1.75
+*** TURN *** [8s 9h 6s] [Jc]
+mrtguy: bets $3.50
+Kfuse: calls $3.50
+*** RIVER *** [8s 9h 6s Jc] [9c]
+mrtguy: checks 
+Kfuse: checks 
+*** SHOW DOWN ***
+mrtguy: shows [Qh Qc] (two pair, Queens and Nines)
+Kfuse: shows [Tc Td] (two pair, Tens and Nines)
+mrtguy collected $12.25 from pot
+*** SUMMARY ***
+Total pot $12.85 | Rake $0.60 
+Board [8s 9h 6s Jc 9c]
+Seat 1: BostonAK_617 folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse (button) showed [Tc Td] and lost with two pair, Tens and Nines
+Seat 4: MagicPie 85 (small blind) folded before Flop
+Seat 5: tinyvessels (big blind) folded before Flop
+Seat 6: mrtguy showed [Qh Qc] and won ($12.25) with two pair, Queens and Nines
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe folded before Flop (didn't bet)
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082019371:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:30:19 (ET)
+Table 'Baumeia' 9-max Seat #4 is the button
+Seat 1: BostonAK_617 ($7.80 in chips) 
+Seat 2: coezid ($30.85 in chips) 
+Seat 3: Kfuse ($23.40 in chips) 
+Seat 4: MagicPie 85 ($24.65 in chips) 
+Seat 5: tinyvessels ($24.05 in chips) 
+Seat 7: Alameda22 ($28.40 in chips) 
+Seat 8: mnhotbabe ($26.45 in chips) 
+Seat 9: DawsonS64 ($19.05 in chips) 
+tinyvessels: posts small blind $0.10
+mrtguy: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Jh]
+mrtguy leaves the table
+mnhotbabe: calls $0.25
+DawsonS64: folds 
+BostonAK_617: folds 
+coezid: calls $0.25
+Kfuse: folds 
+MagicPie 85: folds 
+tinyvessels: folds 
+Alameda22: checks 
+*** FLOP *** [Qc 2h 5d]
+Alameda22: checks 
+mnhotbabe: checks 
+coezid: checks 
+*** TURN *** [Qc 2h 5d] [6d]
+Alameda22: checks 
+danw4 joins the table at seat #6 
+mnhotbabe: checks 
+coezid: checks 
+*** RIVER *** [Qc 2h 5d 6d] [3h]
+Alameda22: checks 
+mnhotbabe: checks 
+coezid: checks 
+*** SHOW DOWN ***
+Alameda22: shows [8s Jh] (high card Queen)
+mnhotbabe: shows [Ad 4d] (a straight, Deuce to Six)
+coezid: mucks hand 
+mnhotbabe collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Qc 2h 5d 6d 3h]
+Seat 1: BostonAK_617 folded before Flop (didn't bet)
+Seat 2: coezid mucked [8h 9s]
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: MagicPie 85 (button) folded before Flop (didn't bet)
+Seat 5: tinyvessels (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) showed [8s Jh] and lost with high card Queen
+Seat 8: mnhotbabe showed [Ad 4d] and won ($0.85) with a straight, Deuce to Six
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082050688:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:31:56 (ET)
+Table 'Baumeia' 9-max Seat #5 is the button
+Seat 1: BostonAK_617 ($7.80 in chips) 
+Seat 2: coezid ($30.60 in chips) 
+Seat 3: Kfuse ($23.40 in chips) 
+Seat 4: MagicPie 85 ($24.65 in chips) 
+Seat 5: tinyvessels ($23.95 in chips) 
+Seat 7: Alameda22 ($28.15 in chips) 
+Seat 8: mnhotbabe ($27.05 in chips) 
+Seat 9: DawsonS64 ($19.05 in chips) 
+danw4 will be allowed to play after the button
+Alameda22: posts small blind $0.10
+mnhotbabe: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 7c]
+DawsonS64: calls $0.25
+BostonAK_617: calls $0.25
+coezid: folds 
+Kfuse: folds 
+MagicPie 85: folds 
+tinyvessels: folds 
+Alameda22: calls $0.15
+mnhotbabe: checks 
+*** FLOP *** [4s 8h 3s]
+Alameda22: checks 
+mnhotbabe: checks 
+DawsonS64: bets $0.75
+BostonAK_617: folds 
+Alameda22: folds 
+mnhotbabe: folds 
+Uncalled bet ($0.75) returned to DawsonS64
+DawsonS64 collected $0.95 from pot
+DawsonS64: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [4s 8h 3s]
+Seat 1: BostonAK_617 folded on the Flop
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: MagicPie 85 folded before Flop (didn't bet)
+Seat 5: tinyvessels (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded on the Flop
+Seat 8: mnhotbabe (big blind) folded on the Flop
+Seat 9: DawsonS64 collected ($0.95)
+
+
+
+PokerStars Game #20082081759:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:33:34 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 1: BostonAK_617 ($7.55 in chips) 
+Seat 2: coezid ($30.60 in chips) 
+Seat 3: Kfuse ($23.40 in chips) 
+Seat 4: MagicPie 85 ($24.65 in chips) 
+Seat 5: tinyvessels ($23.95 in chips) 
+Seat 6: danw4 ($25 in chips) 
+Seat 7: Alameda22 ($27.90 in chips) 
+Seat 8: mnhotbabe ($26.80 in chips) 
+Seat 9: DawsonS64 ($19.75 in chips) 
+mnhotbabe: posts small blind $0.10
+DawsonS64: posts big blind $0.25
+danw4: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 8d]
+BostonAK_617: folds 
+coezid: folds 
+Kfuse: raises $1 to $1.25
+MagicPie 85: folds 
+tinyvessels: calls $1.25
+danw4: calls $1
+Alameda22: folds 
+mnhotbabe: folds 
+DawsonS64: folds 
+*** FLOP *** [9d 5c 9h]
+Kfuse: bets $2.25
+tinyvessels: raises $3.75 to $6
+danw4: folds 
+Kfuse: folds 
+Uncalled bet ($3.75) returned to tinyvessels
+tinyvessels collected $8.20 from pot
+tinyvessels: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.60 | Rake $0.40 
+Board [9d 5c 9h]
+Seat 1: BostonAK_617 folded before Flop (didn't bet)
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse folded on the Flop
+Seat 4: MagicPie 85 folded before Flop (didn't bet)
+Seat 5: tinyvessels collected ($8.20)
+Seat 6: danw4 folded on the Flop
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: mnhotbabe (small blind) folded before Flop
+Seat 9: DawsonS64 (big blind) folded before Flop
+
+
+
+PokerStars Game #20082105278:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:34:48 (ET)
+Table 'Baumeia' 9-max Seat #8 is the button
+Seat 1: BostonAK_617 ($7.55 in chips) 
+Seat 2: coezid ($30.60 in chips) 
+Seat 3: Kfuse ($25 in chips) 
+Seat 4: MagicPie 85 ($24.65 in chips) 
+Seat 5: tinyvessels ($28.65 in chips) 
+Seat 6: danw4 ($23.75 in chips) 
+Seat 7: Alameda22 ($27.90 in chips) 
+Seat 8: mnhotbabe ($26.70 in chips) 
+Seat 9: DawsonS64 ($19.50 in chips) 
+DawsonS64: posts small blind $0.10
+BostonAK_617: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Qh]
+coezid: folds 
+Kfuse: folds 
+MagicPie 85: raises $0.75 to $1
+tinyvessels: folds 
+danw4: calls $1
+Alameda22: folds 
+mnhotbabe: folds 
+DawsonS64: folds 
+BostonAK_617: folds 
+*** FLOP *** [5h 9c 3s]
+MagicPie 85: checks 
+danw4: checks 
+*** TURN *** [5h 9c 3s] [8h]
+MagicPie 85: checks 
+danw4: checks 
+*** RIVER *** [5h 9c 3s 8h] [Ad]
+MagicPie 85: checks 
+danw4: bets $1
+MagicPie 85: folds 
+Uncalled bet ($1) returned to danw4
+danw4 collected $2.25 from pot
+danw4: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [5h 9c 3s 8h Ad]
+Seat 1: BostonAK_617 (big blind) folded before Flop
+Seat 2: coezid folded before Flop (didn't bet)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: MagicPie 85 folded on the River
+Seat 5: tinyvessels folded before Flop (didn't bet)
+Seat 6: danw4 collected ($2.25)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe (button) folded before Flop (didn't bet)
+Seat 9: DawsonS64 (small blind) folded before Flop
+
+
+
+PokerStars Game #20082127164:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:35:58 (ET)
+Table 'Baumeia' 9-max Seat #9 is the button
+Seat 1: BostonAK_617 ($7.30 in chips) 
+Seat 3: Kfuse ($25 in chips) 
+Seat 4: MagicPie 85 ($25 in chips) 
+Seat 5: tinyvessels ($28.65 in chips) 
+Seat 6: danw4 ($25 in chips) 
+Seat 7: Alameda22 ($27.90 in chips) 
+Seat 8: mnhotbabe ($26.70 in chips) 
+Seat 9: DawsonS64 ($19.40 in chips) 
+BostonAK_617: posts small blind $0.10
+coezid: is sitting out 
+Kfuse: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 7h]
+MagicPie 85: folds 
+tinyvessels: folds 
+danw4: folds 
+Alameda22: folds 
+mnhotbabe: folds 
+DawsonS64: folds 
+BostonAK_617: folds 
+Uncalled bet ($0.15) returned to Kfuse
+Kfuse collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: BostonAK_617 (small blind) folded before Flop
+Seat 3: Kfuse (big blind) collected ($0.20)
+Seat 4: MagicPie 85 folded before Flop (didn't bet)
+Seat 5: tinyvessels folded before Flop (didn't bet)
+Seat 6: danw4 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe folded before Flop (didn't bet)
+Seat 9: DawsonS64 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082140223:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:36:39 (ET)
+Table 'Baumeia' 9-max Seat #1 is the button
+Seat 1: BostonAK_617 ($7.20 in chips) 
+Seat 3: Kfuse ($25.10 in chips) 
+Seat 5: tinyvessels ($28.65 in chips) 
+Seat 6: danw4 ($25 in chips) 
+Seat 7: Alameda22 ($27.90 in chips) 
+Seat 8: mnhotbabe ($26.70 in chips) 
+Seat 9: DawsonS64 ($19.40 in chips) 
+Kfuse: posts small blind $0.10
+MagicPie 85: is sitting out 
+tinyvessels: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 8s]
+MagicPie 85 leaves the table
+danw4: folds 
+danw4 leaves the table
+Alameda22: folds 
+mnhotbabe: calls $0.25
+DawsonS64: folds 
+BostonAK_617: folds 
+Kfuse: folds 
+tinyvessels: checks 
+*** FLOP *** [Kd 5s 7h]
+tinyvessels: bets $0.50
+mnhotbabe: folds 
+Uncalled bet ($0.50) returned to tinyvessels
+tinyvessels collected $0.60 from pot
+tinyvessels: doesn't show hand 
+coezid leaves the table
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kd 5s 7h]
+Seat 1: BostonAK_617 (button) folded before Flop (didn't bet)
+Seat 3: Kfuse (small blind) folded before Flop
+Seat 5: tinyvessels (big blind) collected ($0.60)
+Seat 6: danw4 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe folded on the Flop
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082154766:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:37:25 (ET)
+Table 'Baumeia' 9-max Seat #3 is the button
+Seat 1: BostonAK_617 ($7.20 in chips) 
+Seat 3: Kfuse ($25 in chips) 
+Seat 5: tinyvessels ($29 in chips) 
+Seat 7: Alameda22 ($27.90 in chips) 
+Seat 8: mnhotbabe ($26.45 in chips) 
+Seat 9: DawsonS64 ($19.40 in chips) 
+tinyvessels: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Td]
+mnhotbabe: calls $0.25
+DawsonS64: calls $0.25
+BostonAK_617: folds 
+Kfuse: folds 
+tinyvessels: raises $0.50 to $0.75
+BostonAK_617 leaves the table
+Alameda22: folds 
+mnhotbabe: calls $0.50
+DawsonS64: folds 
+*** FLOP *** [2d Qc 9d]
+tinyvessels: bets $1.50
+mnhotbabe: folds 
+Uncalled bet ($1.50) returned to tinyvessels
+tinyvessels collected $1.90 from pot
+tinyvessels: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [2d Qc 9d]
+Seat 1: BostonAK_617 folded before Flop (didn't bet)
+Seat 3: Kfuse (button) folded before Flop (didn't bet)
+Seat 5: tinyvessels (small blind) collected ($1.90)
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 8: mnhotbabe folded on the Flop
+Seat 9: DawsonS64 folded before Flop
+
+
+
+PokerStars Game #20082171227:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:38:18 (ET)
+Table 'Baumeia' 9-max Seat #5 is the button
+Seat 3: Kfuse ($25 in chips) 
+Seat 5: tinyvessels ($30.15 in chips) 
+Seat 7: Alameda22 ($27.65 in chips) 
+Seat 8: mnhotbabe ($25.70 in chips) 
+Seat 9: DawsonS64 ($19.15 in chips) 
+Alameda22: posts small blind $0.10
+mnhotbabe: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 6s]
+wowdavidb joins the table at seat #6 
+DawsonS64: folds 
+Kfuse: folds 
+tinyvessels: folds 
+tinyvessels leaves the table
+Alameda22: folds 
+Uncalled bet ($0.15) returned to mnhotbabe
+mnhotbabe collected $0.20 from pot
+mnhotbabe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 5: tinyvessels (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: mnhotbabe (big blind) collected ($0.20)
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082180799:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:38:48 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 3: Kfuse ($25 in chips) 
+Seat 6: wowdavidb ($5 in chips) 
+Seat 7: Alameda22 ($27.55 in chips) 
+Seat 8: mnhotbabe ($25.80 in chips) 
+Seat 9: DawsonS64 ($19.15 in chips) 
+mnhotbabe: posts small blind $0.10
+DawsonS64: posts big blind $0.25
+wowdavidb: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 3d]
+Kfuse: folds 
+wowdavidb: checks 
+Alameda22: folds 
+mnhotbabe: calls $0.15
+DawsonS64: checks 
+*** FLOP *** [Kd 3c 7c]
+mnhotbabe: checks 
+DawsonS64: checks 
+wowdavidb: bets $0.75
+mnhotbabe: calls $0.75
+DawsonS64: folds 
+*** TURN *** [Kd 3c 7c] [Kc]
+mnhotbabe: checks 
+wowdavidb: bets $0.75
+mnhotbabe: folds 
+Uncalled bet ($0.75) returned to wowdavidb
+wowdavidb collected $2.15 from pot
+wowdavidb: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Kd 3c 7c Kc]
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 6: wowdavidb collected ($2.15)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: mnhotbabe (small blind) folded on the Turn
+Seat 9: DawsonS64 (big blind) folded on the Flop
+
+
+
+PokerStars Game #20082203727:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:40:01 (ET)
+Table 'Baumeia' 9-max Seat #8 is the button
+Seat 3: Kfuse ($25 in chips) 
+Seat 6: wowdavidb ($6.15 in chips) 
+Seat 7: Alameda22 ($27.55 in chips) 
+Seat 8: mnhotbabe ($24.80 in chips) 
+Seat 9: DawsonS64 ($18.90 in chips) 
+DawsonS64: posts small blind $0.10
+Kfuse: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Th]
+wowdavidb: folds 
+Alameda22: raises $0.75 to $1
+mnhotbabe: folds 
+Nanny_Grubs joins the table at seat #2 
+DawsonS64: folds 
+Kfuse: folds 
+Uncalled bet ($0.75) returned to Alameda22
+Alameda22 collected $0.60 from pot
+smack118 joins the table at seat #1 
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 3: Kfuse (big blind) folded before Flop
+Seat 6: wowdavidb folded before Flop (didn't bet)
+Seat 7: Alameda22 collected ($0.60)
+Seat 8: mnhotbabe (button) folded before Flop (didn't bet)
+Seat 9: DawsonS64 (small blind) folded before Flop
+
+
+
+PokerStars Game #20082218481:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:40:48 (ET)
+Table 'Baumeia' 9-max Seat #9 is the button
+Seat 3: Kfuse ($24.75 in chips) 
+Seat 6: wowdavidb ($6.15 in chips) 
+Seat 7: Alameda22 ($27.90 in chips) 
+Seat 8: mnhotbabe ($24.80 in chips) 
+Seat 9: DawsonS64 ($18.80 in chips) 
+smack118 will be allowed to play after the button
+Nanny_Grubs will be allowed to play after the button
+Kfuse: posts small blind $0.10
+wowdavidb: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Ts]
+Alameda22: folds 
+mnhotbabe: calls $0.25
+DawsonS64: folds 
+Kfuse: folds 
+wowdavidb: checks 
+*** FLOP *** [3d 3h 8s]
+wowdavidb: checks 
+mnhotbabe: checks 
+*** TURN *** [3d 3h 8s] [7h]
+wowdavidb: checks 
+mnhotbabe: checks 
+*** RIVER *** [3d 3h 8s 7h] [2c]
+wowdavidb: checks 
+mnhotbabe: checks 
+*** SHOW DOWN ***
+wowdavidb: shows [9c As] (a pair of Threes)
+mnhotbabe: mucks hand 
+wowdavidb collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3d 3h 8s 7h 2c]
+Seat 3: Kfuse (small blind) folded before Flop
+Seat 6: wowdavidb (big blind) showed [9c As] and won ($0.60) with a pair of Threes
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: mnhotbabe mucked [Jd Ks]
+Seat 9: DawsonS64 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082231531:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:41:30 (ET)
+Table 'Baumeia' 9-max Seat #3 is the button
+Seat 1: smack118 ($12 in chips) 
+Seat 2: Nanny_Grubs ($18.25 in chips) 
+Seat 3: Kfuse ($24.65 in chips) 
+Seat 6: wowdavidb ($6.50 in chips) 
+Seat 7: Alameda22 ($27.90 in chips) 
+Seat 8: mnhotbabe ($24.55 in chips) 
+Seat 9: DawsonS64 ($18.80 in chips) 
+wowdavidb: posts small blind $0.10
+Alameda22: posts big blind $0.25
+smack118: posts big blind $0.25
+Nanny_Grubs: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 4c]
+mnhotbabe: calls $0.25
+DawsonS64: folds 
+smack118: checks 
+Nanny_Grubs: raises $3.25 to $3.50
+Kfuse: folds 
+wowdavidb: folds 
+Alameda22: folds 
+mnhotbabe: folds 
+smack118: folds 
+Uncalled bet ($3.25) returned to Nanny_Grubs
+Nanny_Grubs collected $1.10 from pot
+Nanny_Grubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: smack118 folded before Flop
+Seat 2: Nanny_Grubs collected ($1.10)
+Seat 3: Kfuse (button) folded before Flop (didn't bet)
+Seat 6: wowdavidb (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 8: mnhotbabe folded before Flop
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082256605:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:42:52 (ET)
+Table 'Baumeia' 9-max Seat #6 is the button
+Seat 1: smack118 ($11.75 in chips) 
+Seat 2: Nanny_Grubs ($19.10 in chips) 
+Seat 3: Kfuse ($24.65 in chips) 
+Seat 6: wowdavidb ($6.40 in chips) 
+Seat 7: Alameda22 ($27.65 in chips) 
+Seat 8: mnhotbabe ($24.30 in chips) 
+Seat 9: DawsonS64 ($18.80 in chips) 
+Alameda22: posts small blind $0.10
+mnhotbabe: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Th]
+DawsonS64: folds 
+smack118: calls $0.25
+Nanny_Grubs: raises $1.50 to $1.75
+Kfuse: folds 
+wowdavidb: folds 
+Alameda22: folds 
+mnhotbabe: folds 
+smack118: calls $1.50
+*** FLOP *** [7d 8h 4c]
+smack118: checks 
+Nanny_Grubs: bets $1
+smack118: calls $1
+*** TURN *** [7d 8h 4c] [Ts]
+mnhotbabe leaves the table
+smack118: checks 
+Nanny_Grubs: bets $1.50
+smack118: calls $1.50
+*** RIVER *** [7d 8h 4c Ts] [3h]
+smack118: bets $1
+Nanny_Grubs: raises $3 to $4
+smack118: folds 
+Uncalled bet ($3) returned to Nanny_Grubs
+Nanny_Grubs collected $10.35 from pot
+Nanny_Grubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.85 | Rake $0.50 
+Board [7d 8h 4c Ts 3h]
+Seat 1: smack118 folded on the River
+Seat 2: Nanny_Grubs collected ($10.35)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 6: wowdavidb (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: mnhotbabe (big blind) folded before Flop
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082278840:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:44:04 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 1: smack118 ($6.50 in chips) 
+Seat 2: Nanny_Grubs ($24.20 in chips) 
+Seat 3: Kfuse ($24.65 in chips) 
+Seat 6: wowdavidb ($6.40 in chips) 
+Seat 7: Alameda22 ($27.55 in chips) 
+Seat 9: DawsonS64 ($18.80 in chips) 
+DawsonS64: posts small blind $0.10
+smack118: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Ts]
+Nanny_Grubs: calls $0.25
+Kfuse: folds 
+wowdavidb: calls $0.25
+Alameda22: folds 
+DawsonS64: calls $0.15
+smack118: checks 
+*** FLOP *** [6s Jd Jc]
+DawsonS64: checks 
+smack118: checks 
+Nanny_Grubs: bets $1.50
+wowdavidb: folds 
+DawsonS64: folds 
+smack118: folds 
+Uncalled bet ($1.50) returned to Nanny_Grubs
+Nanny_Grubs collected $0.95 from pot
+Nanny_Grubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [6s Jd Jc]
+Seat 1: smack118 (big blind) folded on the Flop
+Seat 2: Nanny_Grubs collected ($0.95)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 6: wowdavidb folded on the Flop
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: DawsonS64 (small blind) folded on the Flop
+
+
+
+PokerStars Game #20082294157:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:44:55 (ET)
+Table 'Baumeia' 9-max Seat #9 is the button
+Seat 1: smack118 ($6.25 in chips) 
+Seat 2: Nanny_Grubs ($24.90 in chips) 
+Seat 3: Kfuse ($24.65 in chips) 
+Seat 6: wowdavidb ($6.15 in chips) 
+Seat 7: Alameda22 ($27.55 in chips) 
+Seat 9: DawsonS64 ($18.55 in chips) 
+smack118: posts small blind $0.10
+Nanny_Grubs: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 9c]
+Kfuse: raises $0.75 to $1
+wowdavidb: calls $1
+Alameda22: folds 
+DawsonS64: folds 
+smack118: folds 
+Nanny_Grubs: calls $0.75
+*** FLOP *** [9h 5h Td]
+Nanny_Grubs: checks 
+Kfuse: bets $2
+wowdavidb: raises $3.15 to $5.15 and is all-in
+Nanny_Grubs: folds 
+Kfuse: calls $3.15
+*** TURN *** [9h 5h Td] [3h]
+*** RIVER *** [9h 5h Td 3h] [Qh]
+*** SHOW DOWN ***
+Kfuse: shows [9s Ts] (two pair, Tens and Nines)
+wowdavidb: shows [Qd Qs] (three of a kind, Queens)
+wowdavidb collected $12.75 from pot
+*** SUMMARY ***
+Total pot $13.40 | Rake $0.65 
+Board [9h 5h Td 3h Qh]
+Seat 1: smack118 (small blind) folded before Flop
+Seat 2: Nanny_Grubs (big blind) folded on the Flop
+Seat 3: Kfuse showed [9s Ts] and lost with two pair, Tens and Nines
+Seat 6: wowdavidb showed [Qd Qs] and won ($12.75) with three of a kind, Queens
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: DawsonS64 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082314085:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:46:01 (ET)
+Table 'Baumeia' 9-max Seat #1 is the button
+Seat 1: smack118 ($6.15 in chips) 
+Seat 2: Nanny_Grubs ($23.90 in chips) 
+Seat 3: Kfuse ($18.50 in chips) 
+Seat 6: wowdavidb ($12.75 in chips) 
+Seat 7: Alameda22 ($27.55 in chips) 
+Seat 9: DawsonS64 ($18.55 in chips) 
+Nanny_Grubs: posts small blind $0.10
+Kfuse: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 5h]
+Gramma Bird joins the table at seat #4 
+wowdavidb: raises $0.50 to $0.75
+Alameda22: folds 
+DawsonS64: folds 
+smack118: folds 
+Nanny_Grubs: raises $2.50 to $3.25
+Kfuse: folds 
+wowdavidb: folds 
+Uncalled bet ($2.50) returned to Nanny_Grubs
+Nanny_Grubs collected $1.75 from pot
+Nanny_Grubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: smack118 (button) folded before Flop (didn't bet)
+Seat 2: Nanny_Grubs (small blind) collected ($1.75)
+Seat 3: Kfuse (big blind) folded before Flop
+Seat 6: wowdavidb folded before Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082327712:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:46:45 (ET)
+Table 'Baumeia' 9-max Seat #2 is the button
+Seat 1: smack118 ($6.15 in chips) 
+Seat 2: Nanny_Grubs ($24.90 in chips) 
+Seat 3: Kfuse ($25 in chips) 
+Seat 4: Gramma Bird ($10 in chips) 
+Seat 6: wowdavidb ($12 in chips) 
+Seat 7: Alameda22 ($27.55 in chips) 
+Seat 9: DawsonS64 ($18.55 in chips) 
+Kfuse: posts small blind $0.10
+Gramma Bird: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 9s]
+wowdavidb: calls $0.25
+Alameda22: folds 
+DawsonS64: folds 
+smack118: calls $0.25
+Nanny_Grubs: calls $0.25
+Kfuse: folds 
+Gramma Bird: checks 
+*** FLOP *** [5s Kd Jd]
+Gramma Bird: checks 
+wowdavidb: bets $0.75
+smack118: calls $0.75
+Nanny_Grubs: calls $0.75
+Gramma Bird: folds 
+*** TURN *** [5s Kd Jd] [4s]
+wowdavidb: bets $1
+smack118: calls $1
+jasc78 joins the table at seat #8 
+Nanny_Grubs: calls $1
+*** RIVER *** [5s Kd Jd 4s] [4c]
+wowdavidb: bets $1
+smack118: folds 
+Nanny_Grubs: calls $1
+*** SHOW DOWN ***
+wowdavidb: shows [Ks 2s] (two pair, Kings and Fours)
+Nanny_Grubs: mucks hand 
+wowdavidb collected $7.95 from pot
+*** SUMMARY ***
+Total pot $8.35 | Rake $0.40 
+Board [5s Kd Jd 4s 4c]
+Seat 1: smack118 folded on the River
+Seat 2: Nanny_Grubs (button) mucked [8h Jc]
+Seat 3: Kfuse (small blind) folded before Flop
+Seat 4: Gramma Bird (big blind) folded on the Flop
+Seat 6: wowdavidb showed [Ks 2s] and won ($7.95) with two pair, Kings and Fours
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082348362:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:47:54 (ET)
+Table 'Baumeia' 9-max Seat #3 is the button
+Seat 1: smack118 ($4.15 in chips) 
+Seat 2: Nanny_Grubs ($21.90 in chips) 
+Seat 3: Kfuse ($24.90 in chips) 
+Seat 4: Gramma Bird ($9.75 in chips) 
+Seat 6: wowdavidb ($16.95 in chips) 
+Seat 7: Alameda22 ($27.55 in chips) 
+Seat 8: jasc78 ($25 in chips) 
+Seat 9: DawsonS64 ($18.55 in chips) 
+Gramma Bird: posts small blind $0.10
+wowdavidb: posts big blind $0.25
+jasc78: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Jd]
+Alameda22: folds 
+jasc78: raises $1 to $1.25
+DawsonS64: folds 
+smack118: folds 
+Nanny_Grubs: calls $1.25
+Kfuse: folds 
+Gramma Bird: folds 
+wowdavidb: folds 
+*** FLOP *** [Qc 2s 7s]
+jasc78: bets $1.75
+ccoorryy joins the table at seat #5 
+Nanny_Grubs: raises $2 to $3.75
+jasc78: raises $6.75 to $10.50
+Nanny_Grubs: calls $6.75
+*** TURN *** [Qc 2s 7s] [7h]
+jasc78: bets $13.25 and is all-in
+Nanny_Grubs: folds 
+Uncalled bet ($13.25) returned to jasc78
+jasc78 collected $22.70 from pot
+jasc78: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.85 | Rake $1.15 
+Board [Qc 2s 7s 7h]
+Seat 1: smack118 folded before Flop (didn't bet)
+Seat 2: Nanny_Grubs folded on the Turn
+Seat 3: Kfuse (button) folded before Flop (didn't bet)
+Seat 4: Gramma Bird (small blind) folded before Flop
+Seat 6: wowdavidb (big blind) folded before Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: jasc78 collected ($22.70)
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082377527:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:49:32 (ET)
+Table 'Baumeia' 9-max Seat #4 is the button
+Seat 1: smack118 ($4.15 in chips) 
+Seat 2: Nanny_Grubs ($10.15 in chips) 
+Seat 3: Kfuse ($24.90 in chips) 
+Seat 4: Gramma Bird ($9.65 in chips) 
+Seat 6: wowdavidb ($16.70 in chips) 
+Seat 7: Alameda22 ($27.55 in chips) 
+Seat 8: jasc78 ($35.95 in chips) 
+Seat 9: DawsonS64 ($18.55 in chips) 
+ccoorryy will be allowed to play after the button
+wowdavidb: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 5c]
+jasc78: folds 
+DawsonS64: calls $0.25
+smack118: folds 
+Nanny_Grubs: raises $0.75 to $1
+Kfuse: folds 
+Gramma Bird: calls $1
+wowdavidb: folds 
+Alameda22: folds 
+DawsonS64: calls $0.75
+*** FLOP *** [Qc 2h 3c]
+DawsonS64: checks 
+Nanny_Grubs: bets $0.75
+Gramma Bird: folds 
+DawsonS64: folds 
+Uncalled bet ($0.75) returned to Nanny_Grubs
+Nanny_Grubs collected $3.20 from pot
+Nanny_Grubs: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [Qc 2h 3c]
+Seat 1: smack118 folded before Flop (didn't bet)
+Seat 2: Nanny_Grubs collected ($3.20)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Gramma Bird (button) folded on the Flop
+Seat 6: wowdavidb (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 8: jasc78 folded before Flop (didn't bet)
+Seat 9: DawsonS64 folded on the Flop
+
+
+
+PokerStars Game #20082395039:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:50:32 (ET)
+Table 'Baumeia' 9-max Seat #6 is the button
+Seat 1: smack118 ($4.15 in chips) 
+Seat 2: Nanny_Grubs ($12.35 in chips) 
+Seat 3: Kfuse ($24.90 in chips) 
+Seat 4: Gramma Bird ($8.65 in chips) 
+Seat 5: ccoorryy ($10 in chips) 
+Seat 6: wowdavidb ($16.60 in chips) 
+Seat 7: Alameda22 ($27.30 in chips) 
+Seat 8: jasc78 ($35.95 in chips) 
+Seat 9: DawsonS64 ($17.55 in chips) 
+Alameda22: posts small blind $0.10
+jasc78: posts big blind $0.25
+ccoorryy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Kd]
+DawsonS64: folds 
+smack118: calls $0.25
+Nanny_Grubs: raises $1 to $1.25
+Kfuse: folds 
+Gramma Bird: folds 
+ccoorryy: folds 
+wowdavidb: folds 
+Alameda22: folds 
+jasc78: calls $1
+smack118: folds 
+*** FLOP *** [3s 7d 9s]
+jasc78: bets $15.25
+Nanny_Grubs: calls $11.10 and is all-in
+Uncalled bet ($4.15) returned to jasc78
+*** TURN *** [3s 7d 9s] [6d]
+*** RIVER *** [3s 7d 9s 6d] [6s]
+*** SHOW DOWN ***
+jasc78: shows [As 8s] (a flush, Ace high)
+Nanny_Grubs: mucks hand 
+jasc78 collected $24.05 from pot
+*** SUMMARY ***
+Total pot $25.30 | Rake $1.25 
+Board [3s 7d 9s 6d 6s]
+Seat 1: smack118 folded before Flop
+Seat 2: Nanny_Grubs mucked [Kc Jc]
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Gramma Bird folded before Flop (didn't bet)
+Seat 5: ccoorryy folded before Flop
+Seat 6: wowdavidb (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: jasc78 (big blind) showed [As 8s] and won ($24.05) with a flush, Ace high
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082415872:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:51:42 (ET)
+Table 'Baumeia' 9-max Seat #7 is the button
+Seat 1: smack118 ($3.90 in chips) 
+Seat 3: Kfuse ($24.90 in chips) 
+Seat 4: Gramma Bird ($8.65 in chips) 
+Seat 5: ccoorryy ($9.75 in chips) 
+Seat 6: wowdavidb ($16.60 in chips) 
+Seat 7: Alameda22 ($27.20 in chips) 
+Seat 8: jasc78 ($47.65 in chips) 
+Seat 9: DawsonS64 ($17.55 in chips) 
+jasc78: posts small blind $0.10
+DawsonS64: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Jh]
+Nanny_Grubs leaves the table
+smack118: folds 
+Kfuse: folds 
+Gramma Bird: folds 
+ccoorryy: folds 
+wowdavidb: calls $0.25
+Alameda22: folds 
+jasc78: raises $0.75 to $1
+DawsonS64: folds 
+wowdavidb: calls $0.75
+*** FLOP *** [8s Ah Td]
+jasc78: bets $6
+wowdavidb: folds 
+Uncalled bet ($6) returned to jasc78
+jasc78 collected $2.15 from pot
+jasc78: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [8s Ah Td]
+Seat 1: smack118 folded before Flop (didn't bet)
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Gramma Bird folded before Flop (didn't bet)
+Seat 5: ccoorryy folded before Flop (didn't bet)
+Seat 6: wowdavidb folded on the Flop
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: jasc78 (small blind) collected ($2.15)
+Seat 9: DawsonS64 (big blind) folded before Flop
+
+
+
+PokerStars Game #20082436406:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:52:52 (ET)
+Table 'Baumeia' 9-max Seat #8 is the button
+Seat 1: smack118 ($3.90 in chips) 
+Seat 3: Kfuse ($24.90 in chips) 
+Seat 4: Gramma Bird ($8.65 in chips) 
+Seat 5: ccoorryy ($9.75 in chips) 
+Seat 6: wowdavidb ($15.60 in chips) 
+Seat 7: Alameda22 ($27.20 in chips) 
+Seat 8: jasc78 ($48.80 in chips) 
+Seat 9: DawsonS64 ($17.30 in chips) 
+DawsonS64: posts small blind $0.10
+*Cafo* joins the table at seat #2 
+smack118: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Jc]
+Kfuse: folds 
+Gramma Bird: folds 
+ccoorryy: folds 
+wowdavidb: raises $0.50 to $0.75
+Alameda22: folds 
+jasc78: calls $0.75
+DawsonS64: folds 
+smack118: folds 
+*** FLOP *** [4c As Qd]
+wowdavidb: bets $0.75
+jasc78: calls $0.75
+*** TURN *** [4c As Qd] [Ac]
+wowdavidb: bets $0.75
+jasc78: calls $0.75
+*** RIVER *** [4c As Qd Ac] [Qc]
+wowdavidb: bets $13.35 and is all-in
+jasc78: folds 
+Uncalled bet ($13.35) returned to wowdavidb
+wowdavidb collected $4.65 from pot
+wowdavidb: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [4c As Qd Ac Qc]
+Seat 1: smack118 (big blind) folded before Flop
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Gramma Bird folded before Flop (didn't bet)
+Seat 5: ccoorryy folded before Flop (didn't bet)
+Seat 6: wowdavidb collected ($4.65)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: jasc78 (button) folded on the River
+Seat 9: DawsonS64 (small blind) folded before Flop
+
+
+
+PokerStars Game #20082458527:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:54:08 (ET)
+Table 'Baumeia' 9-max Seat #9 is the button
+Seat 1: smack118 ($3.65 in chips) 
+Seat 2: *Cafo* ($5 in chips) 
+Seat 3: Kfuse ($24.90 in chips) 
+Seat 4: Gramma Bird ($8.65 in chips) 
+Seat 5: ccoorryy ($9.75 in chips) 
+Seat 6: wowdavidb ($18 in chips) 
+Seat 7: Alameda22 ($27.20 in chips) 
+Seat 8: jasc78 ($46.55 in chips) 
+Seat 9: DawsonS64 ($17.20 in chips) 
+smack118: posts small blind $0.10
+*Cafo*: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 3c]
+Kfuse: folds 
+Gramma Bird: folds 
+ccoorryy: folds 
+wowdavidb: folds 
+Alameda22: folds 
+jasc78: folds 
+DawsonS64: calls $0.25
+smack118: calls $0.15
+*Cafo*: checks 
+*** FLOP *** [Jh Qh 3d]
+smack118: bets $0.25
+*Cafo*: folds 
+DawsonS64: raises $0.75 to $1
+smack118: calls $0.75
+*** TURN *** [Jh Qh 3d] [8h]
+smack118: checks 
+DawsonS64: checks 
+*** RIVER *** [Jh Qh 3d 8h] [Ah]
+smack118: bets $2.40 and is all-in
+DawsonS64: folds 
+Uncalled bet ($2.40) returned to smack118
+smack118 collected $2.65 from pot
+smack118: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [Jh Qh 3d 8h Ah]
+Seat 1: smack118 (small blind) collected ($2.65)
+Seat 2: *Cafo* (big blind) folded on the Flop
+Seat 3: Kfuse folded before Flop (didn't bet)
+Seat 4: Gramma Bird folded before Flop (didn't bet)
+Seat 5: ccoorryy folded before Flop (didn't bet)
+Seat 6: wowdavidb folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: jasc78 folded before Flop (didn't bet)
+Seat 9: DawsonS64 (button) folded on the River
+
+
+
+PokerStars Game #20082491456:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:56:02 (ET)
+Table 'Baumeia' 9-max Seat #1 is the button
+Seat 1: smack118 ($5.05 in chips) 
+Seat 2: *Cafo* ($4.75 in chips) 
+Seat 4: Gramma Bird ($8.65 in chips) 
+Seat 5: ccoorryy ($9.75 in chips) 
+Seat 6: wowdavidb ($18 in chips) 
+Seat 7: Alameda22 ($27.20 in chips) 
+Seat 8: jasc78 ($46.55 in chips) 
+Seat 9: DawsonS64 ($15.95 in chips) 
+*Cafo*: posts small blind $0.10
+Kfuse: is sitting out 
+Kfuse leaves the table
+Gramma Bird: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 3c]
+Phreakish120 joins the table at seat #3 
+ccoorryy: calls $0.25
+wowdavidb: folds 
+Alameda22: folds 
+jasc78: folds 
+DawsonS64: folds 
+smack118: calls $0.25
+*Cafo*: folds 
+Gramma Bird: checks 
+*** FLOP *** [Qc 6h Kd]
+Gramma Bird: checks 
+ccoorryy: bets $0.75
+smack118: folds 
+Gramma Bird: folds 
+Uncalled bet ($0.75) returned to ccoorryy
+ccoorryy collected $0.85 from pot
+ccoorryy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Qc 6h Kd]
+Seat 1: smack118 (button) folded on the Flop
+Seat 2: *Cafo* (small blind) folded before Flop
+Seat 4: Gramma Bird (big blind) folded on the Flop
+Seat 5: ccoorryy collected ($0.85)
+Seat 6: wowdavidb folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: jasc78 folded before Flop (didn't bet)
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082513493:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:57:18 (ET)
+Table 'Baumeia' 9-max Seat #2 is the button
+Seat 1: smack118 ($4.80 in chips) 
+Seat 2: *Cafo* ($4.65 in chips) 
+Seat 4: Gramma Bird ($8.40 in chips) 
+Seat 5: ccoorryy ($10.35 in chips) 
+Seat 6: wowdavidb ($18 in chips) 
+Seat 7: Alameda22 ($27.20 in chips) 
+Seat 8: jasc78 ($46.55 in chips) 
+Seat 9: DawsonS64 ($15.95 in chips) 
+Phreakish120 will be allowed to play after the button
+Gramma Bird: posts small blind $0.10
+ccoorryy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 7c]
+wowdavidb: calls $0.25
+Alameda22: folds 
+jasc78: calls $0.25
+DawsonS64: folds 
+DawsonS64 is sitting out
+smack118: calls $0.25
+*Cafo*: raises $1.25 to $1.50
+Gramma Bird: calls $1.40
+ccoorryy: folds 
+wowdavidb: folds 
+jasc78: calls $1.25
+smack118: calls $1.25
+*** FLOP *** [7d Kc 3c]
+Gramma Bird: checks 
+jasc78: checks 
+smack118: checks 
+*Cafo* is disconnected 
+*Cafo* is connected 
+*Cafo*: bets $1.50
+Gramma Bird: folds 
+jasc78: folds 
+smack118: raises $1.80 to $3.30 and is all-in
+*Cafo*: calls $1.65 and is all-in
+Uncalled bet ($0.15) returned to smack118
+*** TURN *** [7d Kc 3c] [4c]
+*** RIVER *** [7d Kc 3c 4c] [Ks]
+*** SHOW DOWN ***
+smack118: shows [9c Tc] (a flush, King high)
+*Cafo*: shows [Kh Ac] (three of a kind, Kings)
+smack118 collected $12.20 from pot
+*** SUMMARY ***
+Total pot $12.80 | Rake $0.60 
+Board [7d Kc 3c 4c Ks]
+Seat 1: smack118 showed [9c Tc] and won ($12.20) with a flush, King high
+Seat 2: *Cafo* (button) showed [Kh Ac] and lost with three of a kind, Kings
+Seat 4: Gramma Bird (small blind) folded on the Flop
+Seat 5: ccoorryy (big blind) folded before Flop
+Seat 6: wowdavidb folded before Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: jasc78 folded on the Flop
+Seat 9: DawsonS64 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082544011:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:59:05 (ET)
+Table 'Baumeia' 9-max Seat #4 is the button
+Seat 1: smack118 ($12.35 in chips) 
+Seat 4: Gramma Bird ($6.90 in chips) 
+Seat 5: ccoorryy ($10.10 in chips) 
+Seat 6: wowdavidb ($17.75 in chips) 
+Seat 7: Alameda22 ($27.20 in chips) 
+Seat 8: jasc78 ($45.05 in chips) 
+ccoorryy: posts small blind $0.10
+wowdavidb: posts big blind $0.25
+*Cafo* has returned
+Phreakish120: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 6d]
+Alameda22: folds 
+jasc78: folds 
+jasc78 leaves the table
+smack118: folds 
+Gramma Bird: raises $0.25 to $0.50
+ccoorryy: folds 
+wowdavidb: calls $0.25
+*** FLOP *** [Qc Kh 6c]
+wowdavidb: bets $0.25
+Gramma Bird: raises $0.50 to $0.75
+wowdavidb: calls $0.50
+*** TURN *** [Qc Kh 6c] [7c]
+wowdavidb: bets $0.25
+AtrY joins the table at seat #8 
+Gramma Bird: raises $0.75 to $1
+wowdavidb: calls $0.75
+*** RIVER *** [Qc Kh 6c 7c] [Ah]
+wowdavidb: bets $0.25
+Gramma Bird: raises $1.25 to $1.50
+wowdavidb: calls $1.25
+*** SHOW DOWN ***
+Gramma Bird: shows [7s Ac] (two pair, Aces and Sevens)
+wowdavidb: mucks hand 
+Gramma Bird collected $7.25 from pot
+*** SUMMARY ***
+Total pot $7.60 | Rake $0.35 
+Board [Qc Kh 6c 7c Ah]
+Seat 1: smack118 folded before Flop (didn't bet)
+Seat 4: Gramma Bird (button) showed [7s Ac] and won ($7.25) with two pair, Aces and Sevens
+Seat 5: ccoorryy (small blind) folded before Flop
+Seat 6: wowdavidb (big blind) mucked [4s Kd]
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: jasc78 folded before Flop (didn't bet)
+
+
+

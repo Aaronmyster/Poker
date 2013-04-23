@@ -1,0 +1,2354 @@
+PokerStars Game #19903801680:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:00:18 (ET)
+Table 'Dares' 9-max Seat #2 is the button
+Seat 1: PHEOCHROM ($6.95 in chips) 
+Seat 2: Alameda22 ($26.75 in chips) 
+Seat 3: hpsunlog ($13.75 in chips) 
+Seat 4: LUCKYMONSTER ($24.45 in chips) 
+Seat 5: Usurpov ($23.80 in chips) 
+Seat 6: Aioras ($24.85 in chips) 
+Seat 7: rhop4823 ($49.70 in chips) 
+Seat 8: helloheather ($12 in chips) 
+Seat 9: CastorTroy4 ($34.10 in chips) 
+hpsunlog: posts small blind $0.10
+LUCKYMONSTER: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 7d]
+Usurpov: raises $0.75 to $1
+Aioras: folds 
+rhop4823: folds 
+helloheather: calls $1
+CastorTroy4: folds 
+PHEOCHROM: folds 
+Alameda22: folds 
+hpsunlog: calls $0.90
+LUCKYMONSTER: folds 
+*** FLOP *** [Jc 5d 9d]
+hpsunlog: checks 
+Usurpov: checks 
+helloheather: bets $2
+hpsunlog: raises $2 to $4
+Usurpov: folds 
+helloheather: calls $2
+*** TURN *** [Jc 5d 9d] [2c]
+hpsunlog: bets $8.75 and is all-in
+helloheather: calls $7 and is all-in
+Uncalled bet ($1.75) returned to hpsunlog
+*** RIVER *** [Jc 5d 9d 2c] [8h]
+*** SHOW DOWN ***
+hpsunlog: shows [Jh Kh] (a pair of Jacks)
+helloheather: mucks hand 
+hpsunlog collected $24.05 from pot
+*** SUMMARY ***
+Total pot $25.25 | Rake $1.20 
+Board [Jc 5d 9d 2c 8h]
+Seat 1: PHEOCHROM folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: hpsunlog (small blind) showed [Jh Kh] and won ($24.05) with a pair of Jacks
+Seat 4: LUCKYMONSTER (big blind) folded before Flop
+Seat 5: Usurpov folded on the Flop
+Seat 6: Aioras folded before Flop (didn't bet)
+Seat 7: rhop4823 folded before Flop (didn't bet)
+Seat 8: helloheather mucked [3c 3s]
+Seat 9: CastorTroy4 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903833682:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:02:02 (ET)
+Table 'Dares' 9-max Seat #3 is the button
+Seat 1: PHEOCHROM ($6.95 in chips) 
+Seat 2: Alameda22 ($26.75 in chips) 
+Seat 3: hpsunlog ($25.80 in chips) 
+Seat 4: LUCKYMONSTER ($24.20 in chips) 
+Seat 5: Usurpov ($25 in chips) 
+Seat 6: Aioras ($24.85 in chips) 
+Seat 7: rhop4823 ($49.70 in chips) 
+Seat 9: CastorTroy4 ($34.10 in chips) 
+LUCKYMONSTER: posts small blind $0.10
+helloheather leaves the table
+Usurpov: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 8c]
+Aioras: folds 
+rhop4823: calls $0.25
+CastorTroy4: folds 
+PHEOCHROM: folds 
+Alameda22: folds 
+hpsunlog: calls $0.25
+LUCKYMONSTER: folds 
+Usurpov: checks 
+*** FLOP *** [2s 3d Th]
+Usurpov: checks 
+rhop4823: bets $0.75
+SN0WMATT joins the table at seat #8 
+hpsunlog: folds 
+Usurpov: folds 
+Uncalled bet ($0.75) returned to rhop4823
+rhop4823 collected $0.85 from pot
+rhop4823: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [2s 3d Th]
+Seat 1: PHEOCHROM folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog (button) folded on the Flop
+Seat 4: LUCKYMONSTER (small blind) folded before Flop
+Seat 5: Usurpov (big blind) folded on the Flop
+Seat 6: Aioras folded before Flop (didn't bet)
+Seat 7: rhop4823 collected ($0.85)
+Seat 9: CastorTroy4 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903853784:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:03:08 (ET)
+Table 'Dares' 9-max Seat #4 is the button
+Seat 1: PHEOCHROM ($6.95 in chips) 
+Seat 2: Alameda22 ($26.75 in chips) 
+Seat 3: hpsunlog ($25.55 in chips) 
+Seat 4: LUCKYMONSTER ($24.10 in chips) 
+Seat 5: Usurpov ($24.75 in chips) 
+Seat 6: Aioras ($24.85 in chips) 
+Seat 7: rhop4823 ($50.30 in chips) 
+Seat 9: CastorTroy4 ($34.10 in chips) 
+Usurpov: posts small blind $0.10
+Aioras: posts big blind $0.25
+SN0WMATT: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Ad]
+rhop4823: raises $0.75 to $1
+CastorTroy4: folds 
+PHEOCHROM: folds 
+Alameda22: folds 
+hpsunlog: folds 
+LUCKYMONSTER: folds 
+Usurpov: calls $0.90
+Aioras: calls $0.75
+*** FLOP *** [2d 7h Td]
+Usurpov: checks 
+Aioras: checks 
+rhop4823: checks 
+*** TURN *** [2d 7h Td] [7s]
+Usurpov: checks 
+Aioras: bets $2
+rhop4823: folds 
+Usurpov: folds 
+Uncalled bet ($2) returned to Aioras
+Usurpov leaves the table
+Aioras collected $2.85 from pot
+Aioras: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [2d 7h Td 7s]
+Seat 1: PHEOCHROM folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: LUCKYMONSTER (button) folded before Flop (didn't bet)
+Seat 5: Usurpov (small blind) folded on the Turn
+Seat 6: Aioras (big blind) collected ($2.85)
+Seat 7: rhop4823 folded on the Turn
+Seat 9: CastorTroy4 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903882883:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:04:43 (ET)
+Table 'Dares' 9-max Seat #6 is the button
+Seat 1: PHEOCHROM ($6.95 in chips) 
+Seat 2: Alameda22 ($26.75 in chips) 
+Seat 3: hpsunlog ($25.55 in chips) 
+Seat 4: LUCKYMONSTER ($24.10 in chips) 
+Seat 6: Aioras ($26.70 in chips) 
+Seat 7: rhop4823 ($49.30 in chips) 
+Seat 8: SN0WMATT ($6 in chips) 
+Seat 9: CastorTroy4 ($34.10 in chips) 
+rhop4823: posts small blind $0.10
+SN0WMATT: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Qh]
+CastorTroy4: folds 
+PHEOCHROM: folds 
+Alameda22: folds 
+hpsunlog: folds 
+LUCKYMONSTER: folds 
+Aioras: raises $0.50 to $0.75
+184ydace joins the table at seat #5 
+rhop4823: calls $0.65
+SN0WMATT: calls $0.50
+*** FLOP *** [7c 8c 8d]
+rhop4823: checks 
+SN0WMATT: checks 
+Aioras: checks 
+*** TURN *** [7c 8c 8d] [Ts]
+rhop4823: checks 
+SN0WMATT: checks 
+Aioras: checks 
+*** RIVER *** [7c 8c 8d Ts] [Th]
+rhop4823: bets $0.75
+SN0WMATT: folds 
+Aioras: folds 
+Uncalled bet ($0.75) returned to rhop4823
+rhop4823 collected $2.15 from pot
+rhop4823: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [7c 8c 8d Ts Th]
+Seat 1: PHEOCHROM folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 6: Aioras (button) folded on the River
+Seat 7: rhop4823 (small blind) collected ($2.15)
+Seat 8: SN0WMATT (big blind) folded on the River
+Seat 9: CastorTroy4 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903906358:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:06:01 (ET)
+Table 'Dares' 9-max Seat #7 is the button
+Seat 1: PHEOCHROM ($6.95 in chips) 
+Seat 2: Alameda22 ($26.75 in chips) 
+Seat 3: hpsunlog ($25.55 in chips) 
+Seat 4: LUCKYMONSTER ($24.10 in chips) 
+Seat 5: 184ydace ($15 in chips) 
+Seat 6: Aioras ($25.95 in chips) 
+Seat 7: rhop4823 ($50.70 in chips) 
+Seat 8: SN0WMATT ($5.25 in chips) 
+Seat 9: CastorTroy4 ($34.10 in chips) 
+SN0WMATT: posts small blind $0.10
+CastorTroy4: posts big blind $0.25
+184ydace: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Qs]
+PHEOCHROM: calls $0.25
+Alameda22: raises $1 to $1.25
+hpsunlog: folds 
+LUCKYMONSTER: folds 
+184ydace: raises $1 to $2.25
+Aioras: folds 
+rhop4823: folds 
+SN0WMATT: folds 
+CastorTroy4: folds 
+PHEOCHROM: folds 
+Alameda22: calls $1
+*** FLOP *** [2h 6d 3h]
+Alameda22: checks 
+184ydace: bets $3
+Alameda22: folds 
+Uncalled bet ($3) returned to 184ydace
+184ydace collected $4.85 from pot
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.25 
+Board [2h 6d 3h]
+Seat 1: PHEOCHROM folded before Flop
+Seat 2: Alameda22 folded on the Flop
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 5: 184ydace collected ($4.85)
+Seat 6: Aioras folded before Flop (didn't bet)
+Seat 7: rhop4823 (button) folded before Flop (didn't bet)
+Seat 8: SN0WMATT (small blind) folded before Flop
+Seat 9: CastorTroy4 (big blind) folded before Flop
+
+
+
+PokerStars Game #19903923870:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:06:59 (ET)
+Table 'Dares' 9-max Seat #8 is the button
+Seat 1: PHEOCHROM ($6.70 in chips) 
+Seat 2: Alameda22 ($24.50 in chips) 
+Seat 3: hpsunlog ($25.55 in chips) 
+Seat 4: LUCKYMONSTER ($24.10 in chips) 
+Seat 5: 184ydace ($17.60 in chips) 
+Seat 6: Aioras ($25.95 in chips) 
+Seat 7: rhop4823 ($50.70 in chips) 
+Seat 8: SN0WMATT ($5.15 in chips) 
+Seat 9: CastorTroy4 ($33.85 in chips) 
+CastorTroy4: posts small blind $0.10
+PHEOCHROM: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 2d]
+Alameda22: folds 
+hpsunlog: folds 
+LUCKYMONSTER: folds 
+184ydace: calls $0.25
+Aioras: folds 
+rhop4823: folds 
+SN0WMATT: calls $0.25
+CastorTroy4: calls $0.15
+PHEOCHROM: checks 
+*** FLOP *** [Kc 8h 5c]
+CastorTroy4: checks 
+PHEOCHROM: checks 
+184ydace: checks 
+SN0WMATT: checks 
+*** TURN *** [Kc 8h 5c] [Tc]
+CastorTroy4: checks 
+PHEOCHROM: bets $0.50
+184ydace: folds 
+SN0WMATT: folds 
+CastorTroy4: folds 
+Uncalled bet ($0.50) returned to PHEOCHROM
+PHEOCHROM collected $0.95 from pot
+PHEOCHROM: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Kc 8h 5c Tc]
+Seat 1: PHEOCHROM (big blind) collected ($0.95)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 5: 184ydace folded on the Turn
+Seat 6: Aioras folded before Flop (didn't bet)
+Seat 7: rhop4823 folded before Flop (didn't bet)
+Seat 8: SN0WMATT (button) folded on the Turn
+Seat 9: CastorTroy4 (small blind) folded on the Turn
+
+
+
+PokerStars Game #19903956207:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:08:46 (ET)
+Table 'Dares' 9-max Seat #9 is the button
+Seat 1: PHEOCHROM ($7.40 in chips) 
+Seat 2: Alameda22 ($24.50 in chips) 
+Seat 3: hpsunlog ($25.55 in chips) 
+Seat 4: LUCKYMONSTER ($24.10 in chips) 
+Seat 5: 184ydace ($17.35 in chips) 
+Seat 6: Aioras ($25.95 in chips) 
+Seat 7: rhop4823 ($50.70 in chips) 
+Seat 8: SN0WMATT ($4.90 in chips) 
+Seat 9: CastorTroy4 ($33.60 in chips) 
+PHEOCHROM: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 2s]
+hpsunlog: folds 
+LUCKYMONSTER: folds 
+184ydace: calls $0.25
+Aioras: folds 
+rhop4823: calls $0.25
+SN0WMATT: calls $0.25
+CastorTroy4: folds 
+PHEOCHROM: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Ah Qc Jc]
+PHEOCHROM: checks 
+Alameda22: checks 
+184ydace: bets $0.25
+rhop4823: calls $0.25
+SN0WMATT: folds 
+PHEOCHROM: calls $0.25
+Alameda22: folds 
+*** TURN *** [Ah Qc Jc] [Qs]
+PHEOCHROM: checks 
+184ydace: checks 
+rhop4823: bets $1
+PHEOCHROM: folds 
+184ydace: calls $1
+*** RIVER *** [Ah Qc Jc Qs] [Ac]
+184ydace: bets $2.75
+rhop4823 said, "that blows"
+rhop4823: folds 
+Uncalled bet ($2.75) returned to 184ydace
+184ydace collected $3.85 from pot
+184ydace: shows [Qh Jh] (a full house, Queens full of Aces)
+*** SUMMARY ***
+Total pot $4 | Rake $0.15 
+Board [Ah Qc Jc Qs Ac]
+Seat 1: PHEOCHROM (small blind) folded on the Turn
+Seat 2: Alameda22 (big blind) folded on the Flop
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 5: 184ydace collected ($3.85)
+Seat 6: Aioras folded before Flop (didn't bet)
+Seat 7: rhop4823 folded on the River
+Seat 8: SN0WMATT folded on the Flop
+Seat 9: CastorTroy4 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903993634:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:10:52 (ET)
+Table 'Dares' 9-max Seat #1 is the button
+Seat 1: PHEOCHROM ($6.90 in chips) 
+Seat 2: Alameda22 ($24.25 in chips) 
+Seat 3: hpsunlog ($25.55 in chips) 
+Seat 4: LUCKYMONSTER ($24.10 in chips) 
+Seat 5: 184ydace ($19.70 in chips) 
+Seat 6: Aioras ($25.95 in chips) 
+Seat 7: rhop4823 ($49.20 in chips) 
+Seat 8: SN0WMATT ($4.65 in chips) 
+Seat 9: CastorTroy4 ($33.60 in chips) 
+Alameda22: posts small blind $0.10
+hpsunlog: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Qd]
+LUCKYMONSTER: folds 
+184ydace: folds 
+Aioras: folds 
+rhop4823: calls $0.25
+SN0WMATT: folds 
+CastorTroy4: folds 
+PHEOCHROM: calls $0.25
+Alameda22: folds 
+hpsunlog: checks 
+*** FLOP *** [Ad 5h 7d]
+hpsunlog: checks 
+rhop4823: bets $0.50
+PHEOCHROM: calls $0.50
+hpsunlog: calls $0.50
+*** TURN *** [Ad 5h 7d] [8d]
+hpsunlog: checks 
+rhop4823: bets $0.50
+PHEOCHROM: calls $0.50
+hpsunlog: calls $0.50
+*** RIVER *** [Ad 5h 7d 8d] [9h]
+hpsunlog: checks 
+rhop4823: bets $2
+PHEOCHROM: calls $2
+hpsunlog: folds 
+*** SHOW DOWN ***
+rhop4823: shows [6h Th] (a straight, Six to Ten)
+PHEOCHROM: shows [6s 7c] (a straight, Five to Nine)
+rhop4823 collected $7.50 from pot
+*** SUMMARY ***
+Total pot $7.85 | Rake $0.35 
+Board [Ad 5h 7d 8d 9h]
+Seat 1: PHEOCHROM (button) showed [6s 7c] and lost with a straight, Five to Nine
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: hpsunlog (big blind) folded on the River
+Seat 4: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 5: 184ydace folded before Flop (didn't bet)
+Seat 6: Aioras folded before Flop (didn't bet)
+Seat 7: rhop4823 showed [6h Th] and won ($7.50) with a straight, Six to Ten
+Seat 8: SN0WMATT folded before Flop (didn't bet)
+Seat 9: CastorTroy4 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904017580:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:12:12 (ET)
+Table 'Dares' 9-max Seat #2 is the button
+Seat 1: PHEOCHROM ($3.65 in chips) 
+Seat 2: Alameda22 ($24.15 in chips) 
+Seat 3: hpsunlog ($24.30 in chips) 
+Seat 4: LUCKYMONSTER ($24.10 in chips) 
+Seat 5: 184ydace ($19.70 in chips) 
+Seat 6: Aioras ($25.95 in chips) 
+Seat 7: rhop4823 ($53.45 in chips) 
+Seat 8: SN0WMATT ($5.65 in chips) 
+Seat 9: CastorTroy4 ($33.60 in chips) 
+hpsunlog: posts small blind $0.10
+LUCKYMONSTER: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 2h]
+184ydace: calls $0.25
+Aioras: calls $0.25
+rhop4823: folds 
+SN0WMATT: folds 
+CastorTroy4: folds 
+CastorTroy4 leaves the table
+PHEOCHROM: folds 
+Alameda22: folds 
+hpsunlog: folds 
+LUCKYMONSTER: checks 
+*** FLOP *** [9c 9h Qc]
+Baconok joins the table at seat #9 
+LUCKYMONSTER: bets $0.75
+184ydace: folds 
+Aioras: folds 
+Uncalled bet ($0.75) returned to LUCKYMONSTER
+LUCKYMONSTER collected $0.85 from pot
+LUCKYMONSTER: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [9c 9h Qc]
+Seat 1: PHEOCHROM folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: hpsunlog (small blind) folded before Flop
+Seat 4: LUCKYMONSTER (big blind) collected ($0.85)
+Seat 5: 184ydace folded on the Flop
+Seat 6: Aioras folded on the Flop
+Seat 7: rhop4823 folded before Flop (didn't bet)
+Seat 8: SN0WMATT folded before Flop (didn't bet)
+Seat 9: CastorTroy4 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904040268:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:13:29 (ET)
+Table 'Dares' 9-max Seat #3 is the button
+Seat 1: PHEOCHROM ($3.65 in chips) 
+Seat 2: Alameda22 ($24.15 in chips) 
+Seat 3: hpsunlog ($24.20 in chips) 
+Seat 4: LUCKYMONSTER ($24.70 in chips) 
+Seat 5: 184ydace ($19.45 in chips) 
+Seat 6: Aioras ($25.70 in chips) 
+Seat 7: rhop4823 ($53.45 in chips) 
+Seat 8: SN0WMATT ($5.65 in chips) 
+LUCKYMONSTER: posts small blind $0.10
+184ydace: posts big blind $0.25
+Baconok: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Ac]
+Aioras: folds 
+rhop4823: calls $0.25
+SN0WMATT: folds 
+PHEOCHROM: calls $0.25
+Alameda22: raises $1 to $1.25
+hpsunlog: folds 
+LUCKYMONSTER: folds 
+184ydace: folds 
+rhop4823: calls $1
+PHEOCHROM: folds 
+*** FLOP *** [Qh 4d 9c]
+rhop4823: checks 
+Alameda22: bets $2
+rhop4823: folds 
+Uncalled bet ($2) returned to Alameda22
+Alameda22 collected $2.95 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [Qh 4d 9c]
+Seat 1: PHEOCHROM folded before Flop
+Seat 2: Alameda22 collected ($2.95)
+Seat 3: hpsunlog (button) folded before Flop (didn't bet)
+Seat 4: LUCKYMONSTER (small blind) folded before Flop
+Seat 5: 184ydace (big blind) folded before Flop
+Seat 6: Aioras folded before Flop (didn't bet)
+Seat 7: rhop4823 folded on the Flop
+Seat 8: SN0WMATT folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904061150:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:14:40 (ET)
+Table 'Dares' 9-max Seat #4 is the button
+Seat 1: PHEOCHROM ($3.40 in chips) 
+Seat 2: Alameda22 ($25.85 in chips) 
+Seat 3: hpsunlog ($24.20 in chips) 
+Seat 4: LUCKYMONSTER ($24.60 in chips) 
+Seat 5: 184ydace ($19.20 in chips) 
+Seat 6: Aioras ($25.70 in chips) 
+Seat 7: rhop4823 ($52.20 in chips) 
+Seat 8: SN0WMATT ($5.65 in chips) 
+184ydace: posts small blind $0.10
+Aioras: posts big blind $0.25
+Baconok: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Td]
+rhop4823: folds 
+SN0WMATT: folds 
+rhop4823 leaves the table
+PHEOCHROM: raises $1 to $1.25
+Alameda22: folds 
+hpsunlog: folds 
+LUCKYMONSTER: folds 
+184ydace: calls $1.15
+Naturals joins the table at seat #7 
+Aioras: folds 
+*** FLOP *** [9s Kd Kc]
+184ydace: checks 
+PHEOCHROM: bets $2.15 and is all-in
+184ydace: folds 
+Uncalled bet ($2.15) returned to PHEOCHROM
+PHEOCHROM collected $2.65 from pot
+PHEOCHROM: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [9s Kd Kc]
+Seat 1: PHEOCHROM collected ($2.65)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: LUCKYMONSTER (button) folded before Flop (didn't bet)
+Seat 5: 184ydace (small blind) folded on the Flop
+Seat 6: Aioras (big blind) folded before Flop
+Seat 7: rhop4823 folded before Flop (didn't bet)
+Seat 8: SN0WMATT folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904079052:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:15:40 (ET)
+Table 'Dares' 9-max Seat #5 is the button
+Seat 1: PHEOCHROM ($4.80 in chips) 
+Seat 2: Alameda22 ($25.85 in chips) 
+Seat 3: hpsunlog ($24.20 in chips) 
+Seat 4: LUCKYMONSTER ($24.60 in chips) 
+Seat 5: 184ydace ($17.95 in chips) 
+Seat 6: Aioras ($25.45 in chips) 
+Seat 7: Naturals ($15 in chips) 
+Seat 8: SN0WMATT ($5.65 in chips) 
+Aioras: posts small blind $0.10
+Naturals: posts big blind $0.25
+Baconok: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 7s]
+SN0WMATT: folds 
+PHEOCHROM: folds 
+Alameda22: folds 
+hpsunlog: folds 
+LUCKYMONSTER: raises $0.75 to $1
+184ydace: folds 
+Aioras: folds 
+Naturals: folds 
+Uncalled bet ($0.75) returned to LUCKYMONSTER
+LUCKYMONSTER collected $0.60 from pot
+LUCKYMONSTER: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: PHEOCHROM folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: LUCKYMONSTER collected ($0.60)
+Seat 5: 184ydace (button) folded before Flop (didn't bet)
+Seat 6: Aioras (small blind) folded before Flop
+Seat 7: Naturals (big blind) folded before Flop
+Seat 8: SN0WMATT folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904097118:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:16:42 (ET)
+Table 'Dares' 9-max Seat #6 is the button
+Seat 1: PHEOCHROM ($4.80 in chips) 
+Seat 2: Alameda22 ($25.85 in chips) 
+Seat 3: hpsunlog ($24.20 in chips) 
+Seat 4: LUCKYMONSTER ($24.95 in chips) 
+Seat 5: 184ydace ($17.95 in chips) 
+Seat 6: Aioras ($25.35 in chips) 
+Seat 7: Naturals ($14.75 in chips) 
+Seat 8: SN0WMATT ($5.65 in chips) 
+Naturals: posts small blind $0.10
+SN0WMATT: posts big blind $0.25
+Baconok: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 9c]
+PHEOCHROM: folds 
+Alameda22: folds 
+hpsunlog: raises $0.25 to $0.50
+LUCKYMONSTER: folds 
+184ydace: calls $0.50
+Aioras: calls $0.50
+Naturals: folds 
+SN0WMATT: calls $0.25
+*** FLOP *** [Qc 3h Qd]
+SN0WMATT: checks 
+hpsunlog: checks 
+184ydace: checks 
+Aioras: checks 
+*** TURN *** [Qc 3h Qd] [6d]
+SN0WMATT: checks 
+hpsunlog: bets $1.25
+184ydace: folds 
+Aioras: folds 
+SN0WMATT: folds 
+Uncalled bet ($1.25) returned to hpsunlog
+hpsunlog collected $2 from pot
+hpsunlog: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Qc 3h Qd 6d]
+Seat 1: PHEOCHROM folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog collected ($2)
+Seat 4: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 5: 184ydace folded on the Turn
+Seat 6: Aioras (button) folded on the Turn
+Seat 7: Naturals (small blind) folded before Flop
+Seat 8: SN0WMATT (big blind) folded on the Turn
+
+
+
+PokerStars Game #19904116849:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:17:51 (ET)
+Table 'Dares' 9-max Seat #7 is the button
+Seat 1: PHEOCHROM ($4.80 in chips) 
+Seat 2: Alameda22 ($25.85 in chips) 
+Seat 3: hpsunlog ($25.70 in chips) 
+Seat 4: LUCKYMONSTER ($24.95 in chips) 
+Seat 5: 184ydace ($17.45 in chips) 
+Seat 6: Aioras ($24.85 in chips) 
+Seat 7: Naturals ($14.65 in chips) 
+Seat 8: SN0WMATT ($5.15 in chips) 
+Seat 9: Baconok ($25 in chips) 
+SN0WMATT: posts small blind $0.10
+Baconok: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Qs]
+PHEOCHROM: folds 
+Alameda22: folds 
+hpsunlog: calls $0.25
+LUCKYMONSTER: folds 
+184ydace: raises $0.25 to $0.50
+Aioras: calls $0.50
+Naturals: folds 
+SN0WMATT: calls $0.40
+Baconok: calls $0.25
+hpsunlog: calls $0.25
+*** FLOP *** [4s 5d 6d]
+SN0WMATT: checks 
+Baconok: checks 
+hpsunlog: checks 
+184ydace: bets $0.25
+Aioras: folds 
+SN0WMATT: calls $0.25
+Baconok: folds 
+hpsunlog: calls $0.25
+*** TURN *** [4s 5d 6d] [2h]
+SN0WMATT: checks 
+hpsunlog: checks 
+184ydace: bets $0.25
+SN0WMATT: calls $0.25
+hpsunlog: calls $0.25
+*** RIVER *** [4s 5d 6d 2h] [3h]
+SN0WMATT: bets $1
+hpsunlog: calls $1
+184ydace: calls $1
+*** SHOW DOWN ***
+SN0WMATT: shows [5c Td] (a straight, Deuce to Six)
+hpsunlog: shows [Ah 4h] (a straight, Deuce to Six)
+184ydace: shows [Ad Jh] (a straight, Deuce to Six)
+SN0WMATT collected $2.25 from pot
+hpsunlog collected $2.25 from pot
+184ydace collected $2.20 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.30 
+Board [4s 5d 6d 2h 3h]
+Seat 1: PHEOCHROM folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog showed [Ah 4h] and won ($2.25) with a straight, Deuce to Six
+Seat 4: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 5: 184ydace showed [Ad Jh] and won ($2.20) with a straight, Deuce to Six
+Seat 6: Aioras folded on the Flop
+Seat 7: Naturals (button) folded before Flop (didn't bet)
+Seat 8: SN0WMATT (small blind) showed [5c Td] and won ($2.25) with a straight, Deuce to Six
+Seat 9: Baconok (big blind) folded on the Flop
+
+
+
+PokerStars Game #19904141273:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:19:16 (ET)
+Table 'Dares' 9-max Seat #8 is the button
+Seat 1: PHEOCHROM ($4.80 in chips) 
+Seat 2: Alameda22 ($25.85 in chips) 
+Seat 3: hpsunlog ($25.95 in chips) 
+Seat 4: LUCKYMONSTER ($24.95 in chips) 
+Seat 5: 184ydace ($17.65 in chips) 
+Seat 6: Aioras ($24.35 in chips) 
+Seat 7: Naturals ($14.65 in chips) 
+Seat 8: SN0WMATT ($5.40 in chips) 
+Seat 9: Baconok ($24.50 in chips) 
+Baconok: posts small blind $0.10
+PHEOCHROM: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Ks]
+Alameda22: folds 
+hpsunlog: folds 
+LUCKYMONSTER: folds 
+184ydace: raises $0.25 to $0.50
+Aioras: folds 
+Naturals: folds 
+SN0WMATT: calls $0.50
+Baconok: calls $0.40
+PHEOCHROM: raises $1.75 to $2.25
+184ydace: raises $1.75 to $4
+SN0WMATT: folds 
+Baconok: folds 
+PHEOCHROM: raises $0.80 to $4.80 and is all-in
+184ydace: calls $0.80
+*** FLOP *** [2s Ah 9h]
+*** TURN *** [2s Ah 9h] [8s]
+*** RIVER *** [2s Ah 9h 8s] [Ts]
+*** SHOW DOWN ***
+PHEOCHROM: shows [6c 6d] (a pair of Sixes)
+184ydace: shows [Kd Ad] (a pair of Aces)
+PHEOCHROM leaves the table
+184ydace collected $10.10 from pot
+*** SUMMARY ***
+Total pot $10.60 | Rake $0.50 
+Board [2s Ah 9h 8s Ts]
+Seat 1: PHEOCHROM (big blind) showed [6c 6d] and lost with a pair of Sixes
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 5: 184ydace showed [Kd Ad] and won ($10.10) with a pair of Aces
+Seat 6: Aioras folded before Flop (didn't bet)
+Seat 7: Naturals folded before Flop (didn't bet)
+Seat 8: SN0WMATT (button) folded before Flop
+Seat 9: Baconok (small blind) folded before Flop
+
+
+
+PokerStars Game #19904161832:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:20:27 (ET)
+Table 'Dares' 9-max Seat #9 is the button
+Seat 2: Alameda22 ($25.85 in chips) 
+Seat 3: hpsunlog ($25.95 in chips) 
+Seat 4: LUCKYMONSTER ($24.95 in chips) 
+Seat 5: 184ydace ($22.95 in chips) 
+Seat 6: Aioras ($24.35 in chips) 
+Seat 7: Naturals ($14.65 in chips) 
+Seat 8: SN0WMATT ($4.90 in chips) 
+Seat 9: Baconok ($24 in chips) 
+Alameda22: posts small blind $0.10
+hpsunlog: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 3h]
+LUCKYMONSTER: calls $0.25
+184ydace: calls $0.25
+Aioras: folds 
+my0s|n joins the table at seat #1 
+Naturals: folds 
+SN0WMATT: folds 
+Baconok: folds 
+Alameda22: folds 
+hpsunlog: checks 
+*** FLOP *** [6s Ac 4c]
+hpsunlog: checks 
+LUCKYMONSTER: bets $0.75
+184ydace: calls $0.75
+hpsunlog: folds 
+*** TURN *** [6s Ac 4c] [Kd]
+LUCKYMONSTER: bets $1.75
+184ydace: folds 
+Uncalled bet ($1.75) returned to LUCKYMONSTER
+LUCKYMONSTER collected $2.25 from pot
+LUCKYMONSTER: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [6s Ac 4c Kd]
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: hpsunlog (big blind) folded on the Flop
+Seat 4: LUCKYMONSTER collected ($2.25)
+Seat 5: 184ydace folded on the Turn
+Seat 6: Aioras folded before Flop (didn't bet)
+Seat 7: Naturals folded before Flop (didn't bet)
+Seat 8: SN0WMATT folded before Flop (didn't bet)
+Seat 9: Baconok (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904183792:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:21:44 (ET)
+Table 'Dares' 9-max Seat #2 is the button
+Seat 1: my0s|n ($15 in chips) 
+Seat 2: Alameda22 ($25.75 in chips) 
+Seat 3: hpsunlog ($25.70 in chips) 
+Seat 5: 184ydace ($21.95 in chips) 
+Seat 6: Aioras ($24.35 in chips) 
+Seat 7: Naturals ($14.65 in chips) 
+Seat 8: SN0WMATT ($4.90 in chips) 
+Seat 9: Baconok ($24 in chips) 
+hpsunlog: posts small blind $0.10
+LUCKYMONSTER: is sitting out 
+LUCKYMONSTER leaves the table
+184ydace: posts big blind $0.25
+my0s|n: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Ac]
+Aioras: folds 
+Naturals: folds 
+SN0WMATT: folds 
+Baconok: folds 
+my0s|n: checks 
+Alameda22: folds 
+hpsunlog: calls $0.15
+184ydace: checks 
+*** FLOP *** [2s 5c 5h]
+hpsunlog: checks 
+184ydace: bets $0.25
+my0s|n: calls $0.25
+hpsunlog: calls $0.25
+*** TURN *** [2s 5c 5h] [6h]
+hpsunlog: checks 
+184ydace: checks 
+tortibum joins the table at seat #4 
+my0s|n: checks 
+*** RIVER *** [2s 5c 5h 6h] [3c]
+hpsunlog: checks 
+184ydace: checks 
+my0s|n: checks 
+*** SHOW DOWN ***
+hpsunlog: shows [6d 8s] (two pair, Sixes and Fives)
+184ydace: mucks hand 
+my0s|n: mucks hand 
+hpsunlog collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [2s 5c 5h 6h 3c]
+Seat 1: my0s|n mucked [Ad 7d]
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: hpsunlog (small blind) showed [6d 8s] and won ($1.45) with two pair, Sixes and Fives
+Seat 5: 184ydace (big blind) mucked [9h Th]
+Seat 6: Aioras folded before Flop (didn't bet)
+Seat 7: Naturals folded before Flop (didn't bet)
+Seat 8: SN0WMATT folded before Flop (didn't bet)
+Seat 9: Baconok folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904210748:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:23:20 (ET)
+Table 'Dares' 9-max Seat #3 is the button
+Seat 1: my0s|n ($14.50 in chips) 
+Seat 2: Alameda22 ($25.75 in chips) 
+Seat 3: hpsunlog ($26.65 in chips) 
+Seat 5: 184ydace ($21.45 in chips) 
+Seat 6: Aioras ($24.35 in chips) 
+Seat 7: Naturals ($14.65 in chips) 
+Seat 8: SN0WMATT ($4.90 in chips) 
+Seat 9: Baconok ($24 in chips) 
+tortibum will be allowed to play after the button
+184ydace: posts small blind $0.10
+Aioras: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Jd]
+Naturals: folds 
+SN0WMATT: folds 
+Baconok: folds 
+my0s|n: folds 
+Alameda22: raises $0.50 to $0.75
+hpsunlog: folds 
+184ydace: calls $0.65
+Aioras: folds 
+*** FLOP *** [Kd Jc 3s]
+184ydace: checks 
+Alameda22: bets $1
+184ydace: calls $1
+*** TURN *** [Kd Jc 3s] [7d]
+184ydace: checks 
+Alameda22: bets $2.25
+184ydace: folds 
+Uncalled bet ($2.25) returned to Alameda22
+Alameda22 collected $3.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [Kd Jc 3s 7d]
+Seat 1: my0s|n folded before Flop (didn't bet)
+Seat 2: Alameda22 collected ($3.60)
+Seat 3: hpsunlog (button) folded before Flop (didn't bet)
+Seat 5: 184ydace (small blind) folded on the Turn
+Seat 6: Aioras (big blind) folded before Flop
+Seat 7: Naturals folded before Flop (didn't bet)
+Seat 8: SN0WMATT folded before Flop (didn't bet)
+Seat 9: Baconok folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904228850:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:24:24 (ET)
+Table 'Dares' 9-max Seat #5 is the button
+Seat 1: my0s|n ($14.50 in chips) 
+Seat 2: Alameda22 ($27.60 in chips) 
+Seat 3: hpsunlog ($26.65 in chips) 
+Seat 4: tortibum ($5.75 in chips) 
+Seat 5: 184ydace ($19.70 in chips) 
+Seat 6: Aioras ($24.10 in chips) 
+Seat 7: Naturals ($14.65 in chips) 
+Seat 8: SN0WMATT ($4.90 in chips) 
+Seat 9: Baconok ($24 in chips) 
+Aioras: posts small blind $0.10
+Naturals: posts big blind $0.25
+tortibum: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 6c]
+SN0WMATT: folds 
+Baconok: folds 
+my0s|n: folds 
+Alameda22: folds 
+hpsunlog: folds 
+tortibum: checks 
+184ydace: folds 
+Aioras: calls $0.15
+Naturals: checks 
+*** FLOP *** [Js Ac 3d]
+Aioras: bets $1
+Naturals: folds 
+tortibum: folds 
+Uncalled bet ($1) returned to Aioras
+Aioras collected $0.75 from pot
+Aioras: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Js Ac 3d]
+Seat 1: my0s|n folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: tortibum folded on the Flop
+Seat 5: 184ydace (button) folded before Flop (didn't bet)
+Seat 6: Aioras (small blind) collected ($0.75)
+Seat 7: Naturals (big blind) folded on the Flop
+Seat 8: SN0WMATT folded before Flop (didn't bet)
+Seat 9: Baconok folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904245634:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:25:24 (ET)
+Table 'Dares' 9-max Seat #6 is the button
+Seat 1: my0s|n ($14.50 in chips) 
+Seat 2: Alameda22 ($27.60 in chips) 
+Seat 3: hpsunlog ($26.65 in chips) 
+Seat 4: tortibum ($5.50 in chips) 
+Seat 5: 184ydace ($19.70 in chips) 
+Seat 6: Aioras ($24.60 in chips) 
+Seat 7: Naturals ($14.40 in chips) 
+Seat 8: SN0WMATT ($4.90 in chips) 
+Seat 9: Baconok ($24 in chips) 
+Naturals: posts small blind $0.10
+SN0WMATT: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 3h]
+Baconok: folds 
+my0s|n: calls $0.25
+Alameda22: folds 
+hpsunlog: calls $0.25
+tortibum: calls $0.25
+184ydace: folds 
+Aioras: folds 
+Naturals: folds 
+SN0WMATT: checks 
+*** FLOP *** [5c 9d Qd]
+SN0WMATT: checks 
+my0s|n: checks 
+hpsunlog: checks 
+tortibum: checks 
+*** TURN *** [5c 9d Qd] [Tc]
+SN0WMATT: checks 
+my0s|n: checks 
+hpsunlog: checks 
+tortibum: checks 
+*** RIVER *** [5c 9d Qd Tc] [Qc]
+SN0WMATT: bets $0.50
+my0s|n: calls $0.50
+hpsunlog: folds 
+tortibum: folds 
+*** SHOW DOWN ***
+SN0WMATT: shows [8c 8d] (two pair, Queens and Eights)
+my0s|n: shows [Jc Ts] (two pair, Queens and Tens)
+my0s|n collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [5c 9d Qd Tc Qc]
+Seat 1: my0s|n showed [Jc Ts] and won ($2) with two pair, Queens and Tens
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog folded on the River
+Seat 4: tortibum folded on the River
+Seat 5: 184ydace folded before Flop (didn't bet)
+Seat 6: Aioras (button) folded before Flop (didn't bet)
+Seat 7: Naturals (small blind) folded before Flop
+Seat 8: SN0WMATT (big blind) showed [8c 8d] and lost with two pair, Queens and Eights
+Seat 9: Baconok folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904263508:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:26:28 (ET)
+Table 'Dares' 9-max Seat #7 is the button
+Seat 1: my0s|n ($15.75 in chips) 
+Seat 2: Alameda22 ($27.60 in chips) 
+Seat 3: hpsunlog ($26.40 in chips) 
+Seat 4: tortibum ($5.25 in chips) 
+Seat 5: 184ydace ($19.70 in chips) 
+Seat 6: Aioras ($24.60 in chips) 
+Seat 7: Naturals ($14.30 in chips) 
+Seat 8: SN0WMATT ($4.15 in chips) 
+Seat 9: Baconok ($24 in chips) 
+SN0WMATT: posts small blind $0.10
+Baconok: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Ks]
+my0s|n: folds 
+Alameda22: folds 
+hpsunlog: raises $0.25 to $0.50
+tortibum: folds 
+184ydace: folds 
+Aioras: folds 
+Naturals: folds 
+SN0WMATT: calls $0.40
+Baconok: folds 
+*** FLOP *** [9h Js 5c]
+SN0WMATT: checks 
+hpsunlog: checks 
+*** TURN *** [9h Js 5c] [Jh]
+SN0WMATT: bets $0.25
+hpsunlog: calls $0.25
+*** RIVER *** [9h Js 5c Jh] [2d]
+SN0WMATT: bets $0.50
+hpsunlog: folds 
+Uncalled bet ($0.50) returned to SN0WMATT
+SN0WMATT collected $1.70 from pot
+SN0WMATT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [9h Js 5c Jh 2d]
+Seat 1: my0s|n folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog folded on the River
+Seat 4: tortibum folded before Flop (didn't bet)
+Seat 5: 184ydace folded before Flop (didn't bet)
+Seat 6: Aioras folded before Flop (didn't bet)
+Seat 7: Naturals (button) folded before Flop (didn't bet)
+Seat 8: SN0WMATT (small blind) collected ($1.70)
+Seat 9: Baconok (big blind) folded before Flop
+
+
+
+PokerStars Game #19904274686:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:27:09 (ET)
+Table 'Dares' 9-max Seat #8 is the button
+Seat 1: my0s|n ($15.75 in chips) 
+Seat 2: Alameda22 ($27.60 in chips) 
+Seat 3: hpsunlog ($25.65 in chips) 
+Seat 4: tortibum ($5.25 in chips) 
+Seat 5: 184ydace ($19.70 in chips) 
+Seat 6: Aioras ($24.60 in chips) 
+Seat 7: Naturals ($14.30 in chips) 
+Seat 8: SN0WMATT ($5.10 in chips) 
+Seat 9: Baconok ($23.75 in chips) 
+Baconok: posts small blind $0.10
+my0s|n: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Ks]
+Alameda22: folds 
+hpsunlog: calls $0.25
+tortibum: calls $0.25
+184ydace: calls $0.25
+Aioras: folds 
+Aioras leaves the table
+Naturals: folds 
+SN0WMATT: calls $0.25
+Baconok: calls $0.15
+tripa22 joins the table at seat #6 
+my0s|n: raises $2.25 to $2.50
+hpsunlog: folds 
+tortibum: folds 
+184ydace: folds 
+SN0WMATT: folds 
+Baconok: folds 
+Uncalled bet ($2.25) returned to my0s|n
+my0s|n collected $1.50 from pot
+my0s|n: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: my0s|n (big blind) collected ($1.50)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog folded before Flop
+Seat 4: tortibum folded before Flop
+Seat 5: 184ydace folded before Flop
+Seat 6: Aioras folded before Flop (didn't bet)
+Seat 7: Naturals folded before Flop (didn't bet)
+Seat 8: SN0WMATT (button) folded before Flop
+Seat 9: Baconok (small blind) folded before Flop
+
+
+
+PokerStars Game #19904294468:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:28:20 (ET)
+Table 'Dares' 9-max Seat #9 is the button
+Seat 1: my0s|n ($17 in chips) 
+Seat 2: Alameda22 ($27.60 in chips) 
+Seat 3: hpsunlog ($25.40 in chips) 
+Seat 4: tortibum ($5 in chips) 
+Seat 5: 184ydace ($19.45 in chips) 
+Seat 6: tripa22 ($25 in chips) 
+Seat 7: Naturals ($14.30 in chips) 
+Seat 8: SN0WMATT ($4.85 in chips) 
+Seat 9: Baconok ($23.50 in chips) 
+my0s|n: posts small blind $0.10
+Alameda22: posts big blind $0.25
+tripa22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 8s]
+hpsunlog: folds 
+tortibum: folds 
+184ydace: folds 
+tripa22: checks 
+Naturals: folds 
+SN0WMATT: folds 
+Baconok: folds 
+my0s|n: raises $0.25 to $0.50
+Alameda22: folds 
+tripa22: folds 
+Uncalled bet ($0.25) returned to my0s|n
+my0s|n collected $0.75 from pot
+my0s|n: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: my0s|n (small blind) collected ($0.75)
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: tortibum folded before Flop (didn't bet)
+Seat 5: 184ydace folded before Flop (didn't bet)
+Seat 6: tripa22 folded before Flop
+Seat 7: Naturals folded before Flop (didn't bet)
+Seat 8: SN0WMATT folded before Flop (didn't bet)
+Seat 9: Baconok (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904305827:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:29:02 (ET)
+Table 'Dares' 9-max Seat #1 is the button
+Seat 1: my0s|n ($17.50 in chips) 
+Seat 2: Alameda22 ($27.35 in chips) 
+Seat 3: hpsunlog ($25.40 in chips) 
+Seat 4: tortibum ($5 in chips) 
+Seat 5: 184ydace ($19.45 in chips) 
+Seat 6: tripa22 ($24.75 in chips) 
+Seat 7: Naturals ($14.30 in chips) 
+Seat 8: SN0WMATT ($4.85 in chips) 
+Seat 9: Baconok ($23.50 in chips) 
+Alameda22: posts small blind $0.10
+hpsunlog: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Jc]
+tortibum: folds 
+184ydace: folds 
+tripa22: folds 
+Naturals: folds 
+SN0WMATT: folds 
+Baconok: folds 
+my0s|n: folds 
+Alameda22: raises $0.50 to $0.75
+hpsunlog: calls $0.50
+*** FLOP *** [4c 8c 9s]
+Alameda22: bets $1
+hpsunlog: calls $1
+*** TURN *** [4c 8c 9s] [Th]
+Alameda22: bets $2
+hpsunlog: raises $2 to $4
+Alameda22: calls $2
+*** RIVER *** [4c 8c 9s Th] [Ad]
+Alameda22: checks 
+hpsunlog: checks 
+*** SHOW DOWN ***
+Alameda22: shows [Ac Jc] (a pair of Aces)
+hpsunlog: mucks hand 
+Alameda22 collected $10.95 from pot
+hpsunlog said, "what a bunch of crap"
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.55 
+Board [4c 8c 9s Th Ad]
+Seat 1: my0s|n (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) showed [Ac Jc] and won ($10.95) with a pair of Aces
+Seat 3: hpsunlog (big blind) mucked [9h Jh]
+Seat 4: tortibum folded before Flop (didn't bet)
+Seat 5: 184ydace folded before Flop (didn't bet)
+Seat 6: tripa22 folded before Flop (didn't bet)
+Seat 7: Naturals folded before Flop (didn't bet)
+Seat 8: SN0WMATT folded before Flop (didn't bet)
+Seat 9: Baconok folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904330920:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:30:34 (ET)
+Table 'Dares' 9-max Seat #2 is the button
+Seat 1: my0s|n ($17.50 in chips) 
+Seat 2: Alameda22 ($32.55 in chips) 
+Seat 3: hpsunlog ($19.65 in chips) 
+Seat 4: tortibum ($5 in chips) 
+Seat 5: 184ydace ($19.45 in chips) 
+Seat 6: tripa22 ($24.75 in chips) 
+Seat 7: Naturals ($14.30 in chips) 
+Seat 8: SN0WMATT ($4.85 in chips) 
+Seat 9: Baconok ($23.50 in chips) 
+hpsunlog: posts small blind $0.10
+tortibum: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 7s]
+184ydace: calls $0.25
+tripa22: folds 
+Naturals: folds 
+SN0WMATT: calls $0.25
+Baconok: calls $0.25
+my0s|n: raises $0.25 to $0.50
+Alameda22: folds 
+hpsunlog: folds 
+tortibum: calls $0.25
+184ydace: calls $0.25
+SN0WMATT: calls $0.25
+Baconok: calls $0.25
+*** FLOP *** [6s 6c 3h]
+tortibum: checks 
+184ydace: checks 
+SN0WMATT: checks 
+Baconok: checks 
+my0s|n: bets $1.50
+tortibum: folds 
+184ydace: calls $1.50
+SN0WMATT: folds 
+Baconok: folds 
+*** TURN *** [6s 6c 3h] [9s]
+184ydace: checks 
+my0s|n: checks 
+*** RIVER *** [6s 6c 3h 9s] [4d]
+184ydace: bets $4.25
+my0s|n said, "i dont see how u could call a raise with a 6"
+my0s|n said, "so if ur bad i guess ill pay you off"
+my0s|n: calls $4.25
+*** SHOW DOWN ***
+184ydace: shows [6d 5c] (three of a kind, Sixes)
+my0s|n: mucks hand 
+184ydace collected $13.45 from pot
+my0s|n said, "you are"
+*** SUMMARY ***
+Total pot $14.10 | Rake $0.65 
+Board [6s 6c 3h 9s 4d]
+Seat 1: my0s|n mucked [As Ac]
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: hpsunlog (small blind) folded before Flop
+Seat 4: tortibum (big blind) folded on the Flop
+Seat 5: 184ydace showed [6d 5c] and won ($13.45) with three of a kind, Sixes
+Seat 6: tripa22 folded before Flop (didn't bet)
+Seat 7: Naturals folded before Flop (didn't bet)
+Seat 8: SN0WMATT folded on the Flop
+Seat 9: Baconok folded on the Flop
+
+
+
+PokerStars Game #19904362365:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:32:23 (ET)
+Table 'Dares' 9-max Seat #3 is the button
+Seat 1: my0s|n ($11.25 in chips) 
+Seat 2: Alameda22 ($32.55 in chips) 
+Seat 3: hpsunlog ($19.55 in chips) 
+Seat 4: tortibum ($4.50 in chips) 
+Seat 5: 184ydace ($26.65 in chips) 
+Seat 6: tripa22 ($24.75 in chips) 
+Seat 7: Naturals ($14.30 in chips) 
+Seat 8: SN0WMATT ($4.35 in chips) 
+Seat 9: Baconok ($23 in chips) 
+tortibum: posts small blind $0.10
+184ydace: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 5s]
+tripa22: folds 
+Naturals: folds 
+SN0WMATT: calls $0.25
+Baconok: folds 
+my0s|n: folds 
+Alameda22: folds 
+hpsunlog: folds 
+tortibum: calls $0.15
+184ydace said, "how could you call if you knew donkey"
+184ydace: checks 
+*** FLOP *** [Ad 2s Tc]
+tortibum: checks 
+my0s|n said, "because there was a good chance that you didnt"
+184ydace: checks 
+SN0WMATT: bets $0.75
+tortibum: folds 
+my0s|n said, "i have raised a ton unchallenged, good chance u just were trying to out bluff"
+184ydace: folds 
+Uncalled bet ($0.75) returned to SN0WMATT
+SN0WMATT collected $0.75 from pot
+SN0WMATT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Ad 2s Tc]
+Seat 1: my0s|n folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog (button) folded before Flop (didn't bet)
+Seat 4: tortibum (small blind) folded on the Flop
+Seat 5: 184ydace (big blind) folded on the Flop
+Seat 6: tripa22 folded before Flop (didn't bet)
+Seat 7: Naturals folded before Flop (didn't bet)
+Seat 8: SN0WMATT collected ($0.75)
+Seat 9: Baconok folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904380303:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:33:26 (ET)
+Table 'Dares' 9-max Seat #4 is the button
+Seat 1: my0s|n ($11.25 in chips) 
+Seat 2: Alameda22 ($32.55 in chips) 
+Seat 3: hpsunlog ($19.55 in chips) 
+Seat 4: tortibum ($4.25 in chips) 
+Seat 5: 184ydace ($26.40 in chips) 
+Seat 6: tripa22 ($24.75 in chips) 
+Seat 7: Naturals ($14.30 in chips) 
+Seat 8: SN0WMATT ($4.85 in chips) 
+Seat 9: Baconok ($23 in chips) 
+184ydace: posts small blind $0.10
+tripa22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 3s]
+my0s|n said, "but u called a raised with low unsuited connecters"
+Naturals: folds 
+my0s|n said, "couldnt have seen that coming"
+SN0WMATT: calls $0.25
+Baconok: folds 
+my0s|n: folds 
+Alameda22: folds 
+hpsunlog: raises $0.25 to $0.50
+tortibum: calls $0.50
+184ydace: calls $0.40
+tripa22: calls $0.25
+SN0WMATT: calls $0.25
+*** FLOP *** [3c Ts Jc]
+184ydace: bets $0.25
+tripa22: raises $1.25 to $1.50
+SN0WMATT: folds 
+hpsunlog: folds 
+tortibum: calls $1.50
+184ydace: calls $1.25
+*** TURN *** [3c Ts Jc] [9d]
+184ydace: checks 
+tripa22: checks 
+tortibum: checks 
+*** RIVER *** [3c Ts Jc 9d] [Kd]
+184ydace: bets $3
+tripa22: folds 
+tortibum: folds 
+Uncalled bet ($3) returned to 184ydace
+184ydace collected $6.70 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.30 
+Board [3c Ts Jc 9d Kd]
+Seat 1: my0s|n folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog folded on the Flop
+Seat 4: tortibum (button) folded on the River
+Seat 5: 184ydace (small blind) collected ($6.70)
+Seat 6: tripa22 (big blind) folded on the River
+Seat 7: Naturals folded before Flop (didn't bet)
+Seat 8: SN0WMATT folded on the Flop
+Seat 9: Baconok folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904403926:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:34:48 (ET)
+Table 'Dares' 9-max Seat #5 is the button
+Seat 1: my0s|n ($11.25 in chips) 
+Seat 2: Alameda22 ($32.55 in chips) 
+Seat 3: hpsunlog ($19.05 in chips) 
+Seat 4: tortibum ($2.25 in chips) 
+Seat 5: 184ydace ($31.10 in chips) 
+Seat 6: tripa22 ($25 in chips) 
+Seat 7: Naturals ($14.30 in chips) 
+Seat 8: SN0WMATT ($4.35 in chips) 
+Seat 9: Baconok ($23 in chips) 
+tripa22: posts small blind $0.10
+Naturals: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Qh]
+SN0WMATT: folds 
+Baconok: folds 
+my0s|n: folds 
+Alameda22: raises $0.50 to $0.75
+hpsunlog: folds 
+tortibum: folds 
+184ydace: folds 
+tripa22: folds 
+Naturals: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: my0s|n folded before Flop (didn't bet)
+Seat 2: Alameda22 collected ($0.60)
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: tortibum folded before Flop (didn't bet)
+Seat 5: 184ydace (button) folded before Flop (didn't bet)
+Seat 6: tripa22 (small blind) folded before Flop
+Seat 7: Naturals (big blind) folded before Flop
+Seat 8: SN0WMATT folded before Flop (didn't bet)
+Seat 9: Baconok folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904412423:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:35:18 (ET)
+Table 'Dares' 9-max Seat #6 is the button
+Seat 1: my0s|n ($11.25 in chips) 
+Seat 2: Alameda22 ($32.90 in chips) 
+Seat 3: hpsunlog ($19.05 in chips) 
+Seat 4: tortibum ($6.25 in chips) 
+Seat 5: 184ydace ($31.10 in chips) 
+Seat 6: tripa22 ($24.90 in chips) 
+Seat 7: Naturals ($14.05 in chips) 
+Seat 8: SN0WMATT ($4.35 in chips) 
+Seat 9: Baconok ($23 in chips) 
+Naturals: posts small blind $0.10
+SN0WMATT: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Js]
+184ydace said, "good call?"
+Baconok: folds 
+my0s|n: folds 
+Alameda22: folds 
+hpsunlog: folds 
+tortibum: calls $0.25
+my0s|n said, "huh?"
+184ydace: calls $0.25
+tripa22: folds 
+Naturals: calls $0.15
+SN0WMATT: checks 
+*** FLOP *** [Th Qd 2d]
+Naturals: checks 
+SN0WMATT: checks 
+tortibum: checks 
+184ydace said, "dont know what u wanna hear bro"
+184ydace: checks 
+*** TURN *** [Th Qd 2d] [Qs]
+my0s|n said, "nothing"
+my0s|n said, "im just complaining"
+Naturals: checks 
+SN0WMATT: checks 
+tortibum: checks 
+my0s|n said, "the only bad call i made was assuming you were playing well"
+184ydace: checks 
+*** RIVER *** [Th Qd 2d Qs] [Qh]
+Naturals: checks 
+SN0WMATT: bets $0.50
+tortibum: folds 
+184ydace: folds 
+Naturals: calls $0.50
+*** SHOW DOWN ***
+SN0WMATT: shows [As 3c] (three of a kind, Queens)
+Naturals: shows [2s Ah] (a full house, Queens full of Deuces)
+Naturals collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [Th Qd 2d Qs Qh]
+Seat 1: my0s|n folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: tortibum folded on the River
+Seat 5: 184ydace folded on the River
+Seat 6: tripa22 (button) folded before Flop (didn't bet)
+Seat 7: Naturals (small blind) showed [2s Ah] and won ($1.95) with a full house, Queens full of Deuces
+Seat 8: SN0WMATT (big blind) showed [As 3c] and lost with three of a kind, Queens
+Seat 9: Baconok folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904435231:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:36:38 (ET)
+Table 'Dares' 9-max Seat #7 is the button
+Seat 1: my0s|n ($11.25 in chips) 
+Seat 2: Alameda22 ($32.90 in chips) 
+Seat 3: hpsunlog ($19.05 in chips) 
+Seat 4: tortibum ($6 in chips) 
+Seat 5: 184ydace ($30.85 in chips) 
+Seat 6: tripa22 ($24.90 in chips) 
+Seat 7: Naturals ($15.25 in chips) 
+Seat 8: SN0WMATT ($3.60 in chips) 
+Seat 9: Baconok ($23 in chips) 
+SN0WMATT: posts small blind $0.10
+Baconok: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Qs]
+my0s|n: calls $0.25
+Alameda22: folds 
+hpsunlog: folds 
+tortibum: calls $0.25
+184ydace: calls $0.25
+tripa22: folds 
+Naturals: calls $0.25
+SN0WMATT: calls $0.15
+Baconok: checks 
+*** FLOP *** [9h 4s 9c]
+SN0WMATT: checks 
+Baconok: checks 
+my0s|n: bets $0.50
+tortibum: folds 
+184ydace: folds 
+Naturals: folds 
+SN0WMATT: folds 
+Baconok: folds 
+Uncalled bet ($0.50) returned to my0s|n
+my0s|n collected $1.45 from pot
+my0s|n: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [9h 4s 9c]
+Seat 1: my0s|n collected ($1.45)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: tortibum folded on the Flop
+Seat 5: 184ydace folded on the Flop
+Seat 6: tripa22 folded before Flop (didn't bet)
+Seat 7: Naturals (button) folded on the Flop
+Seat 8: SN0WMATT (small blind) folded on the Flop
+Seat 9: Baconok (big blind) folded on the Flop
+
+
+
+PokerStars Game #19904455124:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:37:49 (ET)
+Table 'Dares' 9-max Seat #8 is the button
+Seat 1: my0s|n ($12.45 in chips) 
+Seat 2: Alameda22 ($32.90 in chips) 
+Seat 3: hpsunlog ($19.05 in chips) 
+Seat 4: tortibum ($5.75 in chips) 
+Seat 5: 184ydace ($30.60 in chips) 
+Seat 6: tripa22 ($24.90 in chips) 
+Seat 7: Naturals ($15 in chips) 
+Seat 8: SN0WMATT ($3.35 in chips) 
+Seat 9: Baconok ($22.75 in chips) 
+Baconok: posts small blind $0.10
+my0s|n: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 4c]
+Alameda22: folds 
+hpsunlog: folds 
+tortibum: raises $0.50 to $0.75
+184ydace: calls $0.75
+tripa22: folds 
+Naturals: calls $0.75
+SN0WMATT: calls $0.75
+Baconok: folds 
+my0s|n: folds 
+*** FLOP *** [3c 7s Kh]
+tortibum: bets $1.25
+184ydace: raises $8.75 to $10
+Naturals: folds 
+SN0WMATT: folds 
+tortibum: calls $3.75 and is all-in
+Uncalled bet ($5) returned to 184ydace
+*** TURN *** [3c 7s Kh] [2h]
+*** RIVER *** [3c 7s Kh 2h] [2s]
+*** SHOW DOWN ***
+tortibum: shows [Kd As] (two pair, Kings and Deuces)
+184ydace: mucks hand 
+tortibum collected $12.70 from pot
+*** SUMMARY ***
+Total pot $13.35 | Rake $0.65 
+Board [3c 7s Kh 2h 2s]
+Seat 1: my0s|n (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: tortibum showed [Kd As] and won ($12.70) with two pair, Kings and Deuces
+Seat 5: 184ydace mucked [Qc Qh]
+Seat 6: tripa22 folded before Flop (didn't bet)
+Seat 7: Naturals folded on the Flop
+Seat 8: SN0WMATT (button) folded on the Flop
+Seat 9: Baconok (small blind) folded before Flop
+
+
+
+PokerStars Game #19904473480:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:38:55 (ET)
+Table 'Dares' 9-max Seat #9 is the button
+Seat 1: my0s|n ($12.20 in chips) 
+Seat 2: Alameda22 ($32.90 in chips) 
+Seat 3: hpsunlog ($19.05 in chips) 
+Seat 4: tortibum ($12.70 in chips) 
+Seat 5: 184ydace ($24.85 in chips) 
+Seat 6: tripa22 ($24.90 in chips) 
+Seat 7: Naturals ($14.25 in chips) 
+Seat 8: SN0WMATT ($2.60 in chips) 
+Seat 9: Baconok ($22.65 in chips) 
+my0s|n: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 8h]
+hpsunlog: folds 
+tortibum: calls $0.25
+184ydace: folds 
+tripa22: folds 
+Naturals: folds 
+SN0WMATT: calls $0.25
+Baconok: calls $0.25
+my0s|n: calls $0.15
+Alameda22: checks 
+*** FLOP *** [6d 5d 8d]
+my0s|n: checks 
+Alameda22: checks 
+tortibum: checks 
+SN0WMATT: checks 
+Baconok: checks 
+*** TURN *** [6d 5d 8d] [Ah]
+my0s|n: checks 
+Alameda22: checks 
+tortibum: checks 
+SN0WMATT: bets $2.35 and is all-in
+Baconok: folds 
+my0s|n: folds 
+Alameda22: folds 
+tortibum: folds 
+Uncalled bet ($2.35) returned to SN0WMATT
+SN0WMATT collected $1.20 from pot
+SN0WMATT: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [6d 5d 8d Ah]
+Seat 1: my0s|n (small blind) folded on the Turn
+Seat 2: Alameda22 (big blind) folded on the Turn
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: tortibum folded on the Turn
+Seat 5: 184ydace folded before Flop (didn't bet)
+Seat 6: tripa22 folded before Flop (didn't bet)
+Seat 7: Naturals folded before Flop (didn't bet)
+Seat 8: SN0WMATT collected ($1.20)
+Seat 9: Baconok (button) folded on the Turn
+
+
+
+PokerStars Game #19904494186:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:40:09 (ET)
+Table 'Dares' 9-max Seat #1 is the button
+Seat 1: my0s|n ($11.95 in chips) 
+Seat 2: Alameda22 ($32.65 in chips) 
+Seat 3: hpsunlog ($19.05 in chips) 
+Seat 4: tortibum ($12.45 in chips) 
+Seat 5: 184ydace ($24.85 in chips) 
+Seat 6: tripa22 ($24.90 in chips) 
+Seat 7: Naturals ($14.25 in chips) 
+Seat 8: SN0WMATT ($3.55 in chips) 
+Seat 9: Baconok ($22.40 in chips) 
+Alameda22: posts small blind $0.10
+hpsunlog: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 2d]
+tortibum: calls $0.25
+184ydace: calls $0.25
+tripa22: folds 
+Naturals: calls $0.25
+SN0WMATT: calls $0.25
+Baconok: folds 
+my0s|n: folds 
+Alameda22: folds 
+hpsunlog: checks 
+*** FLOP *** [9s 4d 3c]
+hpsunlog: checks 
+tortibum: checks 
+184ydace: checks 
+Naturals: checks 
+SN0WMATT: checks 
+*** TURN *** [9s 4d 3c] [7h]
+hpsunlog: checks 
+tortibum: checks 
+184ydace: checks 
+Naturals: checks 
+SN0WMATT: checks 
+*** RIVER *** [9s 4d 3c 7h] [Kh]
+hpsunlog: checks 
+tortibum: checks 
+184ydace: checks 
+Naturals: checks 
+SN0WMATT: checks 
+*** SHOW DOWN ***
+hpsunlog: shows [3s 5h] (a pair of Threes)
+tortibum: mucks hand 
+184ydace: mucks hand 
+Naturals: mucks hand 
+SN0WMATT: mucks hand 
+hpsunlog collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [9s 4d 3c 7h Kh]
+Seat 1: my0s|n (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: hpsunlog (big blind) showed [3s 5h] and won ($1.30) with a pair of Threes
+Seat 4: tortibum mucked [2s As]
+Seat 5: 184ydace mucked [Js 8s]
+Seat 6: tripa22 folded before Flop (didn't bet)
+Seat 7: Naturals mucked [Tc Ad]
+Seat 8: SN0WMATT mucked [Ac 6d]
+Seat 9: Baconok folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904522372:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:41:50 (ET)
+Table 'Dares' 9-max Seat #2 is the button
+Seat 1: my0s|n ($11.95 in chips) 
+Seat 2: Alameda22 ($32.55 in chips) 
+Seat 3: hpsunlog ($20.10 in chips) 
+Seat 4: tortibum ($12.20 in chips) 
+Seat 5: 184ydace ($24.60 in chips) 
+Seat 6: tripa22 ($24.90 in chips) 
+Seat 7: Naturals ($14 in chips) 
+Seat 8: SN0WMATT ($3.30 in chips) 
+Seat 9: Baconok ($22.40 in chips) 
+hpsunlog: posts small blind $0.10
+tortibum: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 8s]
+184ydace: calls $0.25
+tripa22: folds 
+Naturals: folds 
+SN0WMATT: calls $0.25
+Baconok: raises $1 to $1.25
+my0s|n: folds 
+Alameda22: folds 
+hpsunlog: folds 
+tortibum: folds 
+184ydace: calls $1
+SN0WMATT: calls $1
+*** FLOP *** [2s 6s Ad]
+184ydace: checks 
+SN0WMATT: checks 
+Baconok: bets $2
+184ydace: folds 
+SN0WMATT: folds 
+Uncalled bet ($2) returned to Baconok
+Baconok collected $3.90 from pot
+Baconok: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [2s 6s Ad]
+Seat 1: my0s|n folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: hpsunlog (small blind) folded before Flop
+Seat 4: tortibum (big blind) folded before Flop
+Seat 5: 184ydace folded on the Flop
+Seat 6: tripa22 folded before Flop (didn't bet)
+Seat 7: Naturals folded before Flop (didn't bet)
+Seat 8: SN0WMATT folded on the Flop
+Seat 9: Baconok collected ($3.90)
+
+
+
+PokerStars Game #19904537907:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:42:47 (ET)
+Table 'Dares' 9-max Seat #3 is the button
+Seat 1: my0s|n ($11.95 in chips) 
+Seat 2: Alameda22 ($32.55 in chips) 
+Seat 3: hpsunlog ($20 in chips) 
+Seat 4: tortibum ($11.95 in chips) 
+Seat 5: 184ydace ($23.35 in chips) 
+Seat 6: tripa22 ($24.90 in chips) 
+Seat 7: Naturals ($14 in chips) 
+Seat 8: SN0WMATT ($2.05 in chips) 
+Seat 9: Baconok ($25.05 in chips) 
+tortibum: posts small blind $0.10
+184ydace: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 2d]
+tripa22: folds 
+Naturals: folds 
+SN0WMATT: raises $1.80 to $2.05 and is all-in
+Baconok: folds 
+my0s|n: folds 
+Alameda22: folds 
+hpsunlog: folds 
+tortibum: folds 
+184ydace: calls $1.80
+*** FLOP *** [9d 7d Jd]
+*** TURN *** [9d 7d Jd] [Ah]
+*** RIVER *** [9d 7d Jd Ah] [5s]
+*** SHOW DOWN ***
+184ydace: shows [5h 4d] (a pair of Fives)
+SN0WMATT: mucks hand 
+184ydace collected $4 from pot
+SN0WMATT leaves the table
+*** SUMMARY ***
+Total pot $4.20 | Rake $0.20 
+Board [9d 7d Jd Ah 5s]
+Seat 1: my0s|n folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog (button) folded before Flop (didn't bet)
+Seat 4: tortibum (small blind) folded before Flop
+Seat 5: 184ydace (big blind) showed [5h 4d] and won ($4) with a pair of Fives
+Seat 6: tripa22 folded before Flop (didn't bet)
+Seat 7: Naturals folded before Flop (didn't bet)
+Seat 8: SN0WMATT mucked [Th Qs]
+Seat 9: Baconok folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904556140:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:43:53 (ET)
+Table 'Dares' 9-max Seat #4 is the button
+Seat 1: my0s|n ($11.95 in chips) 
+Seat 2: Alameda22 ($32.55 in chips) 
+Seat 3: hpsunlog ($20 in chips) 
+Seat 4: tortibum ($11.85 in chips) 
+Seat 5: 184ydace ($25.30 in chips) 
+Seat 6: tripa22 ($24.90 in chips) 
+Seat 7: Naturals ($14 in chips) 
+Seat 9: Baconok ($25.05 in chips) 
+184ydace: posts small blind $0.10
+tripa22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 8s]
+Naturals: folds 
+Baconok: raises $0.75 to $1
+my0s|n: folds 
+Alameda22: folds 
+hpsunlog: folds 
+tortibum: folds 
+184ydace: calls $0.90
+tripa22: folds 
+*** FLOP *** [Jh 6d 2d]
+184ydace: checks 
+Baconok: bets $1.50
+184ydace: folds 
+Uncalled bet ($1.50) returned to Baconok
+Baconok collected $2.15 from pot
+Baconok: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Jh 6d 2d]
+Seat 1: my0s|n folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: tortibum (button) folded before Flop (didn't bet)
+Seat 5: 184ydace (small blind) folded on the Flop
+Seat 6: tripa22 (big blind) folded before Flop
+Seat 7: Naturals folded before Flop (didn't bet)
+Seat 9: Baconok collected ($2.15)
+
+
+
+PokerStars Game #19904566791:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:44:33 (ET)
+Table 'Dares' 9-max Seat #5 is the button
+Seat 1: my0s|n ($11.95 in chips) 
+Seat 2: Alameda22 ($32.55 in chips) 
+Seat 3: hpsunlog ($20 in chips) 
+Seat 4: tortibum ($11.85 in chips) 
+Seat 5: 184ydace ($24.30 in chips) 
+Seat 6: tripa22 ($24.65 in chips) 
+Seat 7: Naturals ($14 in chips) 
+Seat 9: Baconok ($26.20 in chips) 
+js1121 joins the table at seat #8 
+tripa22: posts small blind $0.10
+Naturals: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Jc]
+Baconok: folds 
+my0s|n: folds 
+Alameda22: folds 
+hpsunlog: calls $0.25
+tortibum: calls $0.25
+184ydace: folds 
+tripa22: folds 
+Naturals: checks 
+*** FLOP *** [7h 5s 6s]
+Naturals: checks 
+hpsunlog: bets $0.25
+tortibum: calls $0.25
+Naturals: folds 
+*** TURN *** [7h 5s 6s] [2d]
+hpsunlog: checks 
+tortibum: checks 
+*** RIVER *** [7h 5s 6s 2d] [Ac]
+hpsunlog: bets $0.50
+tortibum: calls $0.50
+*** SHOW DOWN ***
+hpsunlog: shows [Ad 8h] (a pair of Aces)
+tortibum: mucks hand 
+hpsunlog collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [7h 5s 6s 2d Ac]
+Seat 1: my0s|n folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog showed [Ad 8h] and won ($2.25) with a pair of Aces
+Seat 4: tortibum mucked [9d 5d]
+Seat 5: 184ydace (button) folded before Flop (didn't bet)
+Seat 6: tripa22 (small blind) folded before Flop
+Seat 7: Naturals (big blind) folded on the Flop
+Seat 9: Baconok folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904582950:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:45:33 (ET)
+Table 'Dares' 9-max Seat #6 is the button
+Seat 1: my0s|n ($11.95 in chips) 
+Seat 2: Alameda22 ($32.55 in chips) 
+Seat 3: hpsunlog ($21.25 in chips) 
+Seat 4: tortibum ($10.85 in chips) 
+Seat 5: 184ydace ($24.30 in chips) 
+Seat 6: tripa22 ($24.55 in chips) 
+Seat 7: Naturals ($13.75 in chips) 
+Seat 8: js1121 ($25 in chips) 
+Seat 9: Baconok ($26.20 in chips) 
+Naturals is disconnected 
+Naturals is connected 
+Naturals: posts small blind $0.10
+js1121: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 6d]
+Baconok: folds 
+Baconok leaves the table
+my0s|n: folds 
+Alameda22: folds 
+hpsunlog: folds 
+tortibum: calls $0.25
+184ydace: folds 
+tripa22: folds 
+Naturals: folds 
+js1121: checks 
+*** FLOP *** [3s Td 3d]
+js1121: checks 
+tortibum: bets $0.75
+js1121: folds 
+Uncalled bet ($0.75) returned to tortibum
+tortibum collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3s Td 3d]
+Seat 1: my0s|n folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: tortibum collected ($0.60)
+Seat 5: 184ydace folded before Flop (didn't bet)
+Seat 6: tripa22 (button) folded before Flop (didn't bet)
+Seat 7: Naturals (small blind) folded before Flop
+Seat 8: js1121 (big blind) folded on the Flop
+Seat 9: Baconok folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904601591:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:46:43 (ET)
+Table 'Dares' 9-max Seat #7 is the button
+Seat 2: Alameda22 ($32.55 in chips) 
+Seat 3: hpsunlog ($21.25 in chips) 
+Seat 4: tortibum ($11.20 in chips) 
+Seat 5: 184ydace ($24.30 in chips) 
+Seat 6: tripa22 ($24.55 in chips) 
+Seat 7: Naturals ($13.65 in chips) 
+Seat 8: js1121 ($24.75 in chips) 
+js1121: posts small blind $0.10
+my0s|n: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Kd]
+hpsunlog: folds 
+my0s|n leaves the table
+tortibum: calls $0.25
+184ydace: calls $0.25
+tripa22: folds 
+Naturals: folds 
+js1121: folds 
+tripa22 leaves the table
+Alameda22: checks 
+*** FLOP *** [Qc 9c 9d]
+Alameda22: bets $0.50
+tortibum: raises $0.50 to $1
+184ydace: folds 
+Alameda22: calls $0.50
+*** TURN *** [Qc 9c 9d] [2d]
+Alameda22: checks 
+tortibum: checks 
+*** RIVER *** [Qc 9c 9d 2d] [Ad]
+Alameda22: checks 
+tortibum: bets $2
+Alameda22: folds 
+Uncalled bet ($2) returned to tortibum
+tortibum collected $2.75 from pot
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [Qc 9c 9d 2d Ad]
+Seat 2: Alameda22 (big blind) folded on the River
+Seat 3: hpsunlog folded before Flop (didn't bet)
+Seat 4: tortibum collected ($2.75)
+Seat 5: 184ydace folded on the Flop
+Seat 6: tripa22 folded before Flop (didn't bet)
+Seat 7: Naturals (button) folded before Flop (didn't bet)
+Seat 8: js1121 (small blind) folded before Flop
+
+
+
+PokerStars Game #19904643296:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:49:20 (ET)
+Table 'Dares' 9-max Seat #8 is the button
+Seat 2: Alameda22 ($31.30 in chips) 
+Seat 3: hpsunlog ($21.25 in chips) 
+Seat 4: tortibum ($12.70 in chips) 
+Seat 5: 184ydace ($24.05 in chips) 
+Seat 7: Naturals ($13.65 in chips) 
+Seat 8: js1121 ($24.65 in chips) 
+Alameda22: posts small blind $0.10
+hpsunlog: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 2c]
+tortibum: folds 
+184ydace: calls $0.25
+Naturals: calls $0.25
+js1121: folds 
+Alameda22: calls $0.15
+hpsunlog: checks 
+*** FLOP *** [8s 9d 4h]
+Alameda22: checks 
+hpsunlog: checks 
+184ydace: checks 
+Naturals: bets $0.25
+Alameda22: folds 
+hpsunlog: calls $0.25
+184ydace: calls $0.25
+*** TURN *** [8s 9d 4h] [3c]
+hpsunlog: checks 
+184ydace: checks 
+Naturals: bets $0.50
+hpsunlog: folds 
+184ydace: folds 
+Uncalled bet ($0.50) returned to Naturals
+Naturals collected $1.70 from pot
+Naturals: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [8s 9d 4h 3c]
+Seat 2: Alameda22 (small blind) folded on the Flop
+Seat 3: hpsunlog (big blind) folded on the Turn
+Seat 4: tortibum folded before Flop (didn't bet)
+Seat 5: 184ydace folded on the Turn
+Seat 7: Naturals collected ($1.70)
+Seat 8: js1121 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904674573:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:51:18 (ET)
+Table 'Dares' 9-max Seat #2 is the button
+Seat 2: Alameda22 ($31.05 in chips) 
+Seat 4: tortibum ($12.70 in chips) 
+Seat 5: 184ydace ($23.55 in chips) 
+Seat 7: Naturals ($14.85 in chips) 
+Seat 8: js1121 ($24.65 in chips) 
+hpsunlog: is sitting out 
+tortibum: posts small blind $0.10
+184ydace: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Kc]
+Naturals: folds 
+js1121: folds 
+hpsunlog leaves the table
+Alameda22: folds 
+tortibum: calls $0.15
+184ydace: checks 
+*** FLOP *** [6c 2d 7c]
+tortibum: checks 
+184ydace: bets $0.25
+tortibum: calls $0.25
+*** TURN *** [6c 2d 7c] [Qd]
+tortibum: checks 
+184ydace: checks 
+*** RIVER *** [6c 2d 7c Qd] [Ts]
+tortibum: checks 
+184ydace: checks 
+*** SHOW DOWN ***
+tortibum: shows [8d Th] (a pair of Tens)
+184ydace: mucks hand 
+tortibum collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [6c 2d 7c Qd Ts]
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: tortibum (small blind) showed [8d Th] and won ($0.95) with a pair of Tens
+Seat 5: 184ydace (big blind) mucked [7s 4d]
+Seat 7: Naturals folded before Flop (didn't bet)
+Seat 8: js1121 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904691719:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:52:24 (ET)
+Table 'Dares' 9-max Seat #4 is the button
+Seat 2: Alameda22 ($31.05 in chips) 
+Seat 4: tortibum ($13.15 in chips) 
+Seat 5: 184ydace ($23.05 in chips) 
+Seat 7: Naturals ($14.85 in chips) 
+Seat 8: js1121 ($24.65 in chips) 
+184ydace: posts small blind $0.10
+Naturals: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 4d]
+js1121: folds 
+Alameda22: folds 
+js1121 leaves the table
+tortibum: calls $0.25
+184ydace: calls $0.15
+Naturals: raises $0.25 to $0.50
+tortibum: calls $0.25
+184ydace: calls $0.25
+*** FLOP *** [5s Jd Qd]
+184ydace: checks 
+Naturals: checks 
+tortibum: checks 
+*** TURN *** [5s Jd Qd] [8c]
+184ydace: bets $0.25
+Naturals: folds 
+tortibum: calls $0.25
+*** RIVER *** [5s Jd Qd 8c] [7s]
+184ydace: bets $2
+tortibum: folds 
+Uncalled bet ($2) returned to 184ydace
+184ydace collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [5s Jd Qd 8c 7s]
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: tortibum (button) folded on the River
+Seat 5: 184ydace (small blind) collected ($1.95)
+Seat 7: Naturals (big blind) folded on the Turn
+Seat 8: js1121 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904709077:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:53:30 (ET)
+Table 'Dares' 9-max Seat #5 is the button
+Seat 2: Alameda22 ($31.05 in chips) 
+Seat 4: tortibum ($12.40 in chips) 
+Seat 5: 184ydace ($24.25 in chips) 
+l3udweiserss joins the table at seat #6 
+Naturals is disconnected 
+Naturals has timed out while disconnected
+Naturals: is sitting out 
+Alameda22: posts small blind $0.10
+tortibum: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 6s]
+Naturals is connected 
+l3udweiserss leaves the table
+Naturals has returned
+184ydace: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to tortibum
+tortibum collected $0.20 from pot
+Sig 356 joins the table at seat #6 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 4: tortibum (big blind) collected ($0.20)
+Seat 5: 184ydace (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904727269:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:54:40 (ET)
+Table 'Dares' 9-max Seat #2 is the button
+Seat 2: Alameda22 ($30.95 in chips) 
+Seat 4: tortibum ($12.50 in chips) 
+Seat 5: 184ydace ($24.25 in chips) 
+Seat 6: Sig 356 ($8.65 in chips) 
+Seat 7: Naturals ($14.35 in chips) 
+tortibum: posts small blind $0.10
+184ydace: posts big blind $0.25
+Sig 356: posts big blind $0.25
+Naturals: posts small blind $0.10
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Qc]
+Sig 356: raises $1 to $1.25
+Naturals: calls $1.25
+Alameda22: folds 
+tortibum: folds 
+184ydace: calls $1
+*** FLOP *** [9h Th 5c]
+184ydace: bets $0.25
+Sig 356: raises $1.50 to $1.75
+Naturals: calls $1.75
+184ydace: calls $1.50
+*** TURN *** [9h Th 5c] [2s]
+184ydace: checks 
+Sig 356: bets $1
+Naturals: calls $1
+184ydace: calls $1
+*** RIVER *** [9h Th 5c 2s] [3h]
+184ydace: checks 
+Sig 356: bets $1
+Naturals: folds 
+184ydace: calls $1
+*** SHOW DOWN ***
+Sig 356: shows [Jh Td] (a pair of Tens)
+184ydace: shows [Ks Tc] (a pair of Tens - King kicker)
+184ydace collected $13.55 from pot
+*** SUMMARY ***
+Total pot $14.20 | Rake $0.65 
+Board [9h Th 5c 2s 3h]
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: tortibum (small blind) folded before Flop
+Seat 5: 184ydace (big blind) showed [Ks Tc] and won ($13.55) with a pair of Tens
+Seat 6: Sig 356 showed [Jh Td] and lost with a pair of Tens
+Seat 7: Naturals folded on the River
+
+
+
+PokerStars Game #19904742622:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:55:39 (ET)
+Table 'Dares' 9-max Seat #4 is the button
+Seat 2: Alameda22 ($30.95 in chips) 
+Seat 4: tortibum ($12.40 in chips) 
+Seat 6: Sig 356 ($3.65 in chips) 
+Seat 7: Naturals ($10.25 in chips) 
+184ydace: is sitting out 
+184ydace leaves the table
+Sig 356: posts small blind $0.10
+Naturals: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 6s]
+Alameda22: folds 
+tortibum: folds 
+Sig 356: raises $3.40 to $3.65 and is all-in
+Naturals: folds 
+Uncalled bet ($3.40) returned to Sig 356
+Sig 356 collected $0.50 from pot
+Sig 356: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: tortibum (button) folded before Flop (didn't bet)
+Seat 6: Sig 356 (small blind) collected ($0.50)
+Seat 7: Naturals (big blind) folded before Flop
+
+
+
+PokerStars Game #19904749719:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:56:07 (ET)
+Table 'Dares' 9-max Seat #6 is the button
+Seat 2: Alameda22 ($30.95 in chips) 
+Seat 4: tortibum ($12.40 in chips) 
+Seat 6: Sig 356 ($3.90 in chips) 
+Seat 7: Naturals ($10 in chips) 
+Naturals: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 9d]
+tortibum: raises $0.50 to $0.75
+Sig 356: calls $0.75
+Naturals: folds 
+Alameda22: folds 
+*** FLOP *** [As Ts Tc]
+tortibum: bets $1
+Sig 356: raises $2.15 to $3.15 and is all-in
+tortibum: calls $2.15
+*** TURN *** [As Ts Tc] [7c]
+*** RIVER *** [As Ts Tc 7c] [4c]
+*** SHOW DOWN ***
+tortibum: shows [Ah Kd] (two pair, Aces and Tens)
+Sig 356: shows [Th Jh] (three of a kind, Tens)
+Sig 356 collected $7.75 from pot
+*** SUMMARY ***
+Total pot $8.15 | Rake $0.40 
+Board [As Ts Tc 7c 4c]
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 4: tortibum showed [Ah Kd] and lost with two pair, Aces and Tens
+Seat 6: Sig 356 (button) showed [Th Jh] and won ($7.75) with three of a kind, Tens
+Seat 7: Naturals (small blind) folded before Flop
+
+
+
+PokerStars Game #19904762692:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:56:58 (ET)
+Table 'Dares' 9-max Seat #7 is the button
+Seat 2: Alameda22 ($30.70 in chips) 
+Seat 4: tortibum ($8.50 in chips) 
+Seat 6: Sig 356 ($7.75 in chips) 
+Seat 7: Naturals ($9.90 in chips) 
+Alameda22: posts small blind $0.10
+tortibum: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Qc]
+Sig 356: calls $0.25
+Naturals: folds 
+Alameda22: folds 
+tortibum: checks 
+*** FLOP *** [Jd Js Ah]
+tortibum: checks 
+Sig 356: bets $0.50
+tortibum: folds 
+Uncalled bet ($0.50) returned to Sig 356
+Sig 356 collected $0.60 from pot
+Sig 356: shows [2s Qs] (a pair of Jacks)
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Jd Js Ah]
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 4: tortibum (big blind) folded on the Flop
+Seat 6: Sig 356 collected ($0.60)
+Seat 7: Naturals (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904770056:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:57:27 (ET)
+Table 'Dares' 9-max Seat #2 is the button
+Seat 2: Alameda22 ($30.60 in chips) 
+Seat 4: tortibum ($8.25 in chips) 
+Seat 6: Sig 356 ($8.10 in chips) 
+Seat 7: Naturals ($9.90 in chips) 
+tortibum: posts small blind $0.10
+Sig 356: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Kc]
+Naturals: folds 
+Alameda22: folds 
+tortibum: calls $0.15
+Sig 356: checks 
+*** FLOP *** [4h Ts 5s]
+tortibum: checks 
+Sig 356: bets $0.75
+tortibum: folds 
+Uncalled bet ($0.75) returned to Sig 356
+Sig 356 collected $0.50 from pot
+Sig 356: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [4h Ts 5s]
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: tortibum (small blind) folded on the Flop
+Seat 6: Sig 356 (big blind) collected ($0.50)
+Seat 7: Naturals folded before Flop (didn't bet)
+
+
+

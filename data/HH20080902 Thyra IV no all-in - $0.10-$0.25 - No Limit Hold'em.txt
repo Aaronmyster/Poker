@@ -1,0 +1,5645 @@
+PokerStars Game #20099155579:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:45:18 ET
+Table 'Thyra IV' 9-max Seat #6 is the button
+Seat 1: harakiri 22 ($30.95 in chips) 
+Seat 2: L1n0x ($24.75 in chips) 
+Seat 3: gogobati ($25.40 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 5: Viiper88 ($24.85 in chips) 
+Seat 6: Chris_Rdam ($25.50 in chips) 
+Seat 7: m4rr0k ($24.75 in chips) 
+Seat 8: Alameda22 ($25 in chips) 
+m4rr0k: posts small blind $0.10
+Alameda22: posts big blind $0.25
+msna: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 3d]
+harakiri 22: folds 
+L1n0x: folds 
+gogobati: folds 
+Minigun134: folds 
+Viiper88: calls $0.25
+Chris_Rdam: raises $1 to $1.25
+m4rr0k: folds 
+Alameda22: folds 
+Viiper88: calls $1
+*** FLOP *** [8d Qc 2s]
+Viiper88: bets $0.25
+Chris_Rdam: raises $2.25 to $2.50
+Viiper88: calls $2.25
+*** TURN *** [8d Qc 2s] [2d]
+Viiper88: bets $1.75
+Chris_Rdam: calls $1.75
+*** RIVER *** [8d Qc 2s 2d] [7h]
+Viiper88: checks 
+Chris_Rdam: checks 
+*** SHOW DOWN ***
+Viiper88: shows [8c Ac] (two pair, Eights and Deuces)
+Chris_Rdam: shows [Ah Qs] (two pair, Queens and Deuces)
+Chris_Rdam collected $10.80 from pot
+*** SUMMARY ***
+Total pot $11.35 | Rake $0.55 
+Board [8d Qc 2s 2d 7h]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: L1n0x folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: Viiper88 showed [8c Ac] and lost with two pair, Eights and Deuces
+Seat 6: Chris_Rdam (button) showed [Ah Qs] and won ($10.80) with two pair, Queens and Deuces
+Seat 7: m4rr0k (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #20099194795:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:46:52 ET
+Table 'Thyra IV' 9-max Seat #7 is the button
+Seat 1: harakiri 22 ($30.95 in chips) 
+Seat 2: L1n0x ($24.75 in chips) 
+Seat 3: gogobati ($25.40 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 5: Viiper88 ($19.35 in chips) 
+Seat 6: Chris_Rdam ($30.80 in chips) 
+Seat 7: m4rr0k ($24.65 in chips) 
+Seat 8: Alameda22 ($24.75 in chips) 
+Seat 9: msna ($25 in chips) 
+Alameda22: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Th]
+harakiri 22: raises $0.50 to $0.75
+L1n0x: calls $0.75
+gogobati: folds 
+Minigun134: folds 
+Viiper88: raises $18.60 to $19.35 and is all-in
+Chris_Rdam: folds 
+m4rr0k: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+L1n0x: folds 
+Uncalled bet ($18.60) returned to Viiper88
+Viiper88 collected $2.60 from pot
+Viiper88: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0 
+Seat 1: harakiri 22 folded before Flop
+Seat 2: L1n0x folded before Flop
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: Viiper88 collected ($2.60)
+Seat 6: Chris_Rdam folded before Flop (didn't bet)
+Seat 7: m4rr0k (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: msna (big blind) folded before Flop
+
+
+
+PokerStars Game #20099215471:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:47:41 ET
+Table 'Thyra IV' 9-max Seat #8 is the button
+Seat 1: harakiri 22 ($30.20 in chips) 
+Seat 2: L1n0x ($24 in chips) 
+Seat 3: gogobati ($25.40 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 5: Viiper88 ($21.20 in chips) 
+Seat 6: Chris_Rdam ($30.80 in chips) 
+Seat 7: m4rr0k ($24.65 in chips) 
+Seat 8: Alameda22 ($24.65 in chips) 
+Seat 9: msna ($24.75 in chips) 
+msna: posts small blind $0.10
+harakiri 22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 2c]
+L1n0x: folds 
+gogobati: folds 
+Minigun134: folds 
+Viiper88: folds 
+Chris_Rdam: folds 
+m4rr0k: folds 
+Alameda22: folds 
+msna: folds 
+Uncalled bet ($0.15) returned to harakiri 22
+harakiri 22 collected $0.20 from pot
+harakiri 22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: harakiri 22 (big blind) collected ($0.20)
+Seat 2: L1n0x folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: Viiper88 folded before Flop (didn't bet)
+Seat 6: Chris_Rdam folded before Flop (didn't bet)
+Seat 7: m4rr0k folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: msna (small blind) folded before Flop
+
+
+
+PokerStars Game #20099227350:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:48:10 ET
+Table 'Thyra IV' 9-max Seat #9 is the button
+Seat 1: harakiri 22 ($30.30 in chips) 
+Seat 2: L1n0x ($24 in chips) 
+Seat 3: gogobati ($25.40 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 5: Viiper88 ($21.20 in chips) 
+Seat 6: Chris_Rdam ($30.80 in chips) 
+Seat 7: m4rr0k ($24.65 in chips) 
+Seat 8: Alameda22 ($24.65 in chips) 
+Seat 9: msna ($24.65 in chips) 
+harakiri 22: posts small blind $0.10
+L1n0x: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Jc]
+gogobati: folds 
+Minigun134: folds 
+Viiper88: raises $0.25 to $0.50
+Chris_Rdam: folds 
+m4rr0k: calls $0.50
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+L1n0x: calls $0.25
+*** FLOP *** [Ad 3s 4c]
+L1n0x: bets $0.50
+Viiper88: raises $2.75 to $3.25
+m4rr0k: calls $3.25
+L1n0x: folds 
+*** TURN *** [Ad 3s 4c] [8s]
+Viiper88: checks 
+m4rr0k: bets $6
+Viiper88: raises $11.45 to $17.45 and is all-in
+m4rr0k: calls $11.45
+*** RIVER *** [Ad 3s 4c 8s] [5h]
+*** SHOW DOWN ***
+Viiper88: shows [Qs Qc] (a pair of Queens)
+m4rr0k: shows [3d 3h] (three of a kind, Threes)
+m4rr0k collected $41.35 from pot
+*** SUMMARY ***
+Total pot $43.50 | Rake $2.15 
+Board [Ad 3s 4c 8s 5h]
+Seat 1: harakiri 22 (small blind) folded before Flop
+Seat 2: L1n0x (big blind) folded on the Flop
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: Viiper88 showed [Qs Qc] and lost with a pair of Queens
+Seat 6: Chris_Rdam folded before Flop (didn't bet)
+Seat 7: m4rr0k showed [3d 3h] and won ($41.35) with three of a kind, Threes
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099270371:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:49:54 ET
+Table 'Thyra IV' 9-max Seat #1 is the button
+Seat 1: harakiri 22 ($30.20 in chips) 
+Seat 2: L1n0x ($23 in chips) 
+Seat 3: gogobati ($25.40 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 6: Chris_Rdam ($30.80 in chips) 
+Seat 7: m4rr0k ($44.80 in chips) 
+Seat 8: Alameda22 ($24.65 in chips) 
+Seat 9: msna ($24.65 in chips) 
+L1n0x: posts small blind $0.10
+gogobati: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Qs]
+Viiper88 leaves the table
+Minigun134: folds 
+Chris_Rdam: folds 
+m4rr0k: folds 
+Alameda22: folds 
+msna: raises $0.50 to $0.75
+skrzypek joins the table at seat #5 
+harakiri 22: folds 
+L1n0x: raises $1.75 to $2.50
+gogobati: folds 
+msna: calls $1.75
+*** FLOP *** [9s 8d 5h]
+L1n0x: bets $2.50
+msna: calls $2.50
+*** TURN *** [9s 8d 5h] [9c]
+L1n0x: checks 
+msna: bets $7
+L1n0x: folds 
+Uncalled bet ($7) returned to msna
+msna collected $9.75 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.25 | Rake $0.50 
+Board [9s 8d 5h 9c]
+Seat 1: harakiri 22 (button) folded before Flop (didn't bet)
+Seat 2: L1n0x (small blind) folded on the Turn
+Seat 3: gogobati (big blind) folded before Flop
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 6: Chris_Rdam folded before Flop (didn't bet)
+Seat 7: m4rr0k folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna collected ($9.75)
+
+
+
+PokerStars Game #20099305994:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:51:20 ET
+Table 'Thyra IV' 9-max Seat #2 is the button
+Seat 1: harakiri 22 ($30.20 in chips) 
+Seat 2: L1n0x ($25 in chips) 
+Seat 3: gogobati ($25.15 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 6: Chris_Rdam ($30.80 in chips) 
+Seat 7: m4rr0k ($44.80 in chips) 
+Seat 8: Alameda22 ($24.65 in chips) 
+Seat 9: msna ($29.40 in chips) 
+gogobati: posts small blind $0.10
+Minigun134: posts big blind $0.25
+skrzypek: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 5s]
+Chris_Rdam: raises $0.75 to $1
+m4rr0k: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+L1n0x: folds 
+gogobati: folds 
+Minigun134: folds 
+Uncalled bet ($0.75) returned to Chris_Rdam
+Chris_Rdam collected $0.60 from pot
+Chris_Rdam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: L1n0x (button) folded before Flop (didn't bet)
+Seat 3: gogobati (small blind) folded before Flop
+Seat 4: Minigun134 (big blind) folded before Flop
+Seat 6: Chris_Rdam collected ($0.60)
+Seat 7: m4rr0k folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099319679:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:51:53 ET
+Table 'Thyra IV' 9-max Seat #3 is the button
+Seat 1: harakiri 22 ($30.20 in chips) 
+Seat 2: L1n0x ($25 in chips) 
+Seat 3: gogobati ($25.05 in chips) 
+Seat 4: Minigun134 ($24.75 in chips) 
+Seat 5: skrzypek ($25 in chips) 
+Seat 6: Chris_Rdam ($31.15 in chips) 
+Seat 7: m4rr0k ($44.80 in chips) 
+Seat 8: Alameda22 ($24.65 in chips) 
+Seat 9: msna ($29.40 in chips) 
+Minigun134: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Td]
+Chris_Rdam: folds 
+m4rr0k: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+L1n0x: folds 
+gogobati: folds 
+Minigun134: raises $0.75 to $1
+skrzypek: folds 
+Uncalled bet ($0.75) returned to Minigun134
+Minigun134 collected $0.50 from pot
+Minigun134: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: L1n0x folded before Flop (didn't bet)
+Seat 3: gogobati (button) folded before Flop (didn't bet)
+Seat 4: Minigun134 (small blind) collected ($0.50)
+Seat 5: skrzypek (big blind) folded before Flop
+Seat 6: Chris_Rdam folded before Flop (didn't bet)
+Seat 7: m4rr0k folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099332488:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:52:25 ET
+Table 'Thyra IV' 9-max Seat #4 is the button
+Seat 1: harakiri 22 ($30.20 in chips) 
+Seat 2: L1n0x ($25 in chips) 
+Seat 3: gogobati ($25.05 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 5: skrzypek ($24.75 in chips) 
+Seat 8: Alameda22 ($24.65 in chips) 
+Seat 9: msna ($29.40 in chips) 
+skrzypek: posts small blind $0.10
+Chris_Rdam: is sitting out 
+m4rr0k: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Ad]
+Chris_Rdam leaves the table
+msna: folds 
+m4rr0k leaves the table
+harakiri 22: folds 
+L1n0x: folds 
+gogobati: folds 
+Minigun134: folds 
+skrzypek: raises $0.25 to $0.50
+Alameda22: folds 
+Uncalled bet ($0.25) returned to skrzypek
+Thekuz17 joins the table at seat #6 
+skrzypek collected $0.50 from pot
+skrzypek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: L1n0x folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 (button) folded before Flop (didn't bet)
+Seat 5: skrzypek (small blind) collected ($0.50)
+Seat 8: Alameda22 (big blind) folded before Flop
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099348128:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:53:03 ET
+Table 'Thyra IV' 9-max Seat #5 is the button
+Seat 1: harakiri 22 ($30.20 in chips) 
+Seat 2: L1n0x ($25 in chips) 
+Seat 3: gogobati ($25.05 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 5: skrzypek ($25 in chips) 
+Seat 8: Alameda22 ($24.40 in chips) 
+Seat 9: msna ($29.40 in chips) 
+Thekuz17 will be allowed to play after the button
+Thekuz17 leaves the table
+Alameda22: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 3s]
+harakiri 22: raises $0.75 to $1
+L1n0x: folds 
+gogobati: folds 
+Minigun134: folds 
+skrzypek: folds 
+Alameda22: folds 
+msna: folds 
+Uncalled bet ($0.75) returned to harakiri 22
+harakiri 22 collected $0.60 from pot
+harakiri 22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: harakiri 22 collected ($0.60)
+Seat 2: L1n0x folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: msna (big blind) folded before Flop
+
+
+
+PokerStars Game #20099365078:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:53:44 ET
+Table 'Thyra IV' 9-max Seat #8 is the button
+Seat 1: harakiri 22 ($30.55 in chips) 
+Seat 2: L1n0x ($25 in chips) 
+Seat 3: gogobati ($25.05 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 5: skrzypek ($25 in chips) 
+Seat 8: Alameda22 ($24.30 in chips) 
+Seat 9: msna ($29.15 in chips) 
+msna: posts small blind $0.10
+harakiri 22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 3h]
+L1n0x: folds 
+gogobati: folds 
+Minigun134: raises $0.75 to $1
+skrzypek: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+Uncalled bet ($0.75) returned to Minigun134
+Minigun134 collected $0.60 from pot
+Minigun134: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: harakiri 22 (big blind) folded before Flop
+Seat 2: L1n0x folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 collected ($0.60)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: msna (small blind) folded before Flop
+
+
+
+PokerStars Game #20099382728:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:54:27 ET
+Table 'Thyra IV' 9-max Seat #9 is the button
+Seat 1: harakiri 22 ($30.30 in chips) 
+Seat 2: L1n0x ($25 in chips) 
+Seat 3: gogobati ($25.05 in chips) 
+Seat 4: Minigun134 ($25.35 in chips) 
+Seat 5: skrzypek ($25 in chips) 
+Seat 8: Alameda22 ($24.30 in chips) 
+Seat 9: msna ($29.05 in chips) 
+harakiri 22: posts small blind $0.10
+L1n0x: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 8c]
+gogobati: raises $0.75 to $1
+Minigun134: folds 
+skrzypek: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+L1n0x: folds 
+Uncalled bet ($0.75) returned to gogobati
+gogobati collected $0.60 from pot
+gogobati: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: harakiri 22 (small blind) folded before Flop
+Seat 2: L1n0x (big blind) folded before Flop
+Seat 3: gogobati collected ($0.60)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099401363:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:55:13 ET
+Table 'Thyra IV' 9-max Seat #1 is the button
+Seat 1: harakiri 22 ($30.20 in chips) 
+Seat 2: L1n0x ($24.75 in chips) 
+Seat 3: gogobati ($25.40 in chips) 
+Seat 4: Minigun134 ($25.35 in chips) 
+Seat 5: skrzypek ($25 in chips) 
+Seat 8: Alameda22 ($24.30 in chips) 
+Seat 9: msna ($29.05 in chips) 
+L1n0x: posts small blind $0.10
+gogobati: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Qh]
+Minigun134: folds 
+Arie/spider joins the table at seat #7 
+skrzypek: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: raises $0.50 to $0.75
+L1n0x: raises $1.75 to $2.50
+gogobati: folds 
+harakiri 22: calls $1.75
+*** FLOP *** [Ah 8h 2h]
+L1n0x: bets $3.75
+harakiri 22: calls $3.75
+*** TURN *** [Ah 8h 2h] [8c]
+L1n0x: checks 
+harakiri 22: checks 
+*** RIVER *** [Ah 8h 2h 8c] [6c]
+L1n0x: checks 
+harakiri 22: bets $2
+L1n0x: calls $2
+*** SHOW DOWN ***
+harakiri 22: shows [As Ks] (two pair, Aces and Eights)
+L1n0x: mucks hand 
+harakiri 22 collected $15.95 from pot
+*** SUMMARY ***
+Total pot $16.75 | Rake $0.80 
+Board [Ah 8h 2h 8c 6c]
+Seat 1: harakiri 22 (button) showed [As Ks] and won ($15.95) with two pair, Aces and Eights
+Seat 2: L1n0x (small blind) mucked [Qd Qs]
+Seat 3: gogobati (big blind) folded before Flop
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099436136:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:56:38 ET
+Table 'Thyra IV' 9-max Seat #2 is the button
+Seat 1: harakiri 22 ($37.90 in chips) 
+Seat 2: L1n0x ($25 in chips) 
+Seat 3: gogobati ($25.15 in chips) 
+Seat 4: Minigun134 ($25.35 in chips) 
+Seat 5: skrzypek ($25 in chips) 
+Seat 7: Arie/spider ($5 in chips) 
+Seat 8: Alameda22 ($24.30 in chips) 
+Seat 9: msna ($29.05 in chips) 
+gogobati: posts small blind $0.10
+Minigun134: posts big blind $0.25
+Arie/spider: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 7s]
+skrzypek: folds 
+Arie/spider: checks 
+Alameda22: folds 
+peteycar joins the table at seat #6 
+msna: folds 
+harakiri 22: folds 
+L1n0x: folds 
+gogobati: folds 
+Minigun134: checks 
+*** FLOP *** [2h Jd 9s]
+Minigun134: bets $0.50
+Arie/spider: calls $0.50
+*** TURN *** [2h Jd 9s] [4d]
+Minigun134: checks 
+Arie/spider: checks 
+*** RIVER *** [2h Jd 9s 4d] [7h]
+Minigun134: checks 
+Arie/spider: checks 
+*** SHOW DOWN ***
+Minigun134: shows [Tc Qh] (high card Queen)
+Arie/spider: shows [9d 3c] (a pair of Nines)
+Arie/spider collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [2h Jd 9s 4d 7h]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: L1n0x (button) folded before Flop (didn't bet)
+Seat 3: gogobati (small blind) folded before Flop
+Seat 4: Minigun134 (big blind) showed [Tc Qh] and lost with high card Queen
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 7: Arie/spider showed [9d 3c] and won ($1.55) with a pair of Nines
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099465742:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:57:51 ET
+Table 'Thyra IV' 9-max Seat #3 is the button
+Seat 1: harakiri 22 ($37.90 in chips) 
+Seat 2: L1n0x ($25 in chips) 
+Seat 3: gogobati ($25.05 in chips) 
+Seat 4: Minigun134 ($24.60 in chips) 
+Seat 5: skrzypek ($25 in chips) 
+Seat 6: peteycar ($15 in chips) 
+Seat 7: Arie/spider ($5.80 in chips) 
+Seat 8: Alameda22 ($24.30 in chips) 
+Seat 9: msna ($29.05 in chips) 
+Minigun134: posts small blind $0.10
+skrzypek: posts big blind $0.25
+peteycar: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 3c]
+peteycar: checks 
+Arie/spider: calls $0.25
+Alameda22: folds 
+msna: folds 
+harakiri 22: calls $0.25
+L1n0x: folds 
+gogobati: folds 
+Minigun134: folds 
+skrzypek: checks 
+*** FLOP *** [4h Th 7d]
+skrzypek: checks 
+peteycar: checks 
+Arie/spider: checks 
+harakiri 22: checks 
+*** TURN *** [4h Th 7d] [3s]
+skrzypek: checks 
+peteycar: checks 
+Arie/spider: checks 
+harakiri 22: checks 
+*** RIVER *** [4h Th 7d 3s] [5s]
+skrzypek: checks 
+peteycar: checks 
+Arie/spider: checks 
+harakiri 22: checks 
+*** SHOW DOWN ***
+skrzypek: shows [2d 3h] (a pair of Threes)
+peteycar: mucks hand 
+Arie/spider: mucks hand 
+harakiri 22: mucks hand 
+skrzypek collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [4h Th 7d 3s 5s]
+Seat 1: harakiri 22 mucked [Ad Kh]
+Seat 2: L1n0x folded before Flop (didn't bet)
+Seat 3: gogobati (button) folded before Flop (didn't bet)
+Seat 4: Minigun134 (small blind) folded before Flop
+Seat 5: skrzypek (big blind) showed [2d 3h] and won ($1.05) with a pair of Threes
+Seat 6: peteycar mucked [Qc Kc]
+Seat 7: Arie/spider mucked [Jd 2s]
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099506592:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:59:32 ET
+Table 'Thyra IV' 9-max Seat #4 is the button
+Seat 1: harakiri 22 ($37.65 in chips) 
+Seat 2: L1n0x ($25 in chips) 
+Seat 3: gogobati ($25.05 in chips) 
+Seat 4: Minigun134 ($24.50 in chips) 
+Seat 5: skrzypek ($25.80 in chips) 
+Seat 6: peteycar ($14.75 in chips) 
+Seat 7: Arie/spider ($5.55 in chips) 
+Seat 8: Alameda22 ($24.30 in chips) 
+Seat 9: msna ($29.05 in chips) 
+skrzypek: posts small blind $0.10
+peteycar: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 7c]
+Arie/spider: calls $0.25
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+L1n0x: folds 
+gogobati: folds 
+Minigun134: folds 
+skrzypek: folds 
+peteycar: checks 
+*** FLOP *** [5s As 5d]
+peteycar: checks 
+Arie/spider: bets $0.50
+peteycar: folds 
+Uncalled bet ($0.50) returned to Arie/spider
+Arie/spider collected $0.60 from pot
+Arie/spider: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [5s As 5d]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: L1n0x folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 (button) folded before Flop (didn't bet)
+Seat 5: skrzypek (small blind) folded before Flop
+Seat 6: peteycar (big blind) folded on the Flop
+Seat 7: Arie/spider collected ($0.60)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099528817:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:00:26 ET
+Table 'Thyra IV' 9-max Seat #5 is the button
+Seat 1: harakiri 22 ($37.65 in chips) 
+Seat 2: L1n0x ($25 in chips) 
+Seat 3: gogobati ($25.05 in chips) 
+Seat 4: Minigun134 ($24.50 in chips) 
+Seat 5: skrzypek ($25.70 in chips) 
+Seat 6: peteycar ($14.50 in chips) 
+Seat 7: Arie/spider ($5.90 in chips) 
+Seat 8: Alameda22 ($24.30 in chips) 
+Seat 9: msna ($29.05 in chips) 
+peteycar: posts small blind $0.10
+Arie/spider: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 3d]
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+L1n0x: raises $0.75 to $1
+gogobati: folds 
+Minigun134: folds 
+skrzypek: folds 
+peteycar: folds 
+Arie/spider: calls $0.75
+*** FLOP *** [5d 3h 2c]
+Arie/spider: checks 
+L1n0x: bets $1.25
+Arie/spider: folds 
+Uncalled bet ($1.25) returned to L1n0x
+L1n0x collected $2 from pot
+L1n0x: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [5d 3h 2c]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: L1n0x collected ($2)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek (button) folded before Flop (didn't bet)
+Seat 6: peteycar (small blind) folded before Flop
+Seat 7: Arie/spider (big blind) folded on the Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099548878:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:01:16 ET
+Table 'Thyra IV' 9-max Seat #6 is the button
+Seat 1: harakiri 22 ($37.65 in chips) 
+Seat 2: L1n0x ($26 in chips) 
+Seat 3: gogobati ($25.05 in chips) 
+Seat 4: Minigun134 ($24.50 in chips) 
+Seat 5: skrzypek ($25.70 in chips) 
+Seat 6: peteycar ($14.40 in chips) 
+Seat 7: Arie/spider ($4.90 in chips) 
+Seat 8: Alameda22 ($24.30 in chips) 
+Seat 9: msna ($29.05 in chips) 
+Arie/spider: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Ac]
+msna: folds 
+harakiri 22: folds 
+L1n0x: folds 
+gogobati: folds 
+Minigun134: folds 
+skrzypek: folds 
+peteycar: calls $0.25
+Arie/spider: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Jc Qh 3d]
+Arie/spider: checks 
+Alameda22: checks 
+peteycar: checks 
+*** TURN *** [Jc Qh 3d] [8s]
+Arie/spider: checks 
+Alameda22: checks 
+peteycar: bets $0.25
+Arie/spider: calls $0.25
+Alameda22: folds 
+*** RIVER *** [Jc Qh 3d 8s] [7c]
+Arie/spider: checks 
+peteycar: checks 
+*** SHOW DOWN ***
+Arie/spider: shows [8d 5d] (a pair of Eights)
+peteycar: mucks hand 
+Arie/spider collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Jc Qh 3d 8s 7c]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: L1n0x folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: peteycar (button) mucked [Ah Kc]
+Seat 7: Arie/spider (small blind) showed [8d 5d] and won ($1.20) with a pair of Eights
+Seat 8: Alameda22 (big blind) folded on the Turn
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099580243:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:02:34 ET
+Table 'Thyra IV' 9-max Seat #7 is the button
+Seat 1: harakiri 22 ($37.65 in chips) 
+Seat 2: L1n0x ($26 in chips) 
+Seat 3: gogobati ($25.05 in chips) 
+Seat 4: Minigun134 ($24.50 in chips) 
+Seat 5: skrzypek ($25.70 in chips) 
+Seat 6: peteycar ($13.90 in chips) 
+Seat 7: Arie/spider ($5.60 in chips) 
+Seat 8: Alameda22 ($24.05 in chips) 
+Seat 9: msna ($29.05 in chips) 
+Alameda22: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 6c]
+harakiri 22: folds 
+L1n0x: folds 
+gogobati: folds 
+Minigun134: folds 
+skrzypek: folds 
+peteycar: folds 
+Arie/spider: calls $0.25
+Alameda22: folds 
+msna: checks 
+*** FLOP *** [Qh 7d 7c]
+msna: checks 
+Arie/spider: checks 
+*** TURN *** [Qh 7d 7c] [Ks]
+msna: checks 
+Arie/spider: checks 
+*** RIVER *** [Qh 7d 7c Ks] [3s]
+msna: checks 
+Arie/spider: bets $1
+msna: folds 
+Uncalled bet ($1) returned to Arie/spider
+Arie/spider collected $0.60 from pot
+Arie/spider: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qh 7d 7c Ks 3s]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: L1n0x folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: peteycar folded before Flop (didn't bet)
+Seat 7: Arie/spider (button) collected ($0.60)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: msna (big blind) folded on the River
+
+
+
+PokerStars Game #20099602669:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:03:33 ET
+Table 'Thyra IV' 9-max Seat #8 is the button
+Seat 1: harakiri 22 ($37.65 in chips) 
+Seat 2: L1n0x ($26 in chips) 
+Seat 3: gogobati ($25.05 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 5: skrzypek ($25.70 in chips) 
+Seat 6: peteycar ($13.90 in chips) 
+Seat 7: Arie/spider ($5.95 in chips) 
+Seat 8: Alameda22 ($23.95 in chips) 
+Seat 9: msna ($28.80 in chips) 
+msna: posts small blind $0.10
+harakiri 22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 8s]
+L1n0x: folds 
+gogobati: folds 
+Minigun134: folds 
+skrzypek: folds 
+peteycar: calls $0.25
+Arie/spider: calls $0.25
+Alameda22: folds 
+msna: folds 
+L1n0x leaves the table
+harakiri 22: checks 
+*** FLOP *** [Kc Jd 3c]
+harakiri 22: checks 
+peteycar: checks 
+Arie/spider: checks 
+*** TURN *** [Kc Jd 3c] [2c]
+harakiri 22: checks 
+peteycar: checks 
+Arie/spider: checks 
+*** RIVER *** [Kc Jd 3c 2c] [Jh]
+harakiri 22: checks 
+peteycar: bets $0.25
+Arie/spider: folds 
+UGotTheJack joins the table at seat #2 
+harakiri 22: folds 
+Uncalled bet ($0.25) returned to peteycar
+peteycar collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Kc Jd 3c 2c Jh]
+Seat 1: harakiri 22 (big blind) folded on the River
+Seat 2: L1n0x folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: peteycar collected ($0.85)
+Seat 7: Arie/spider folded on the River
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: msna (small blind) folded before Flop
+
+
+
+PokerStars Game #20099655022:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:05:45 ET
+Table 'Thyra IV' 9-max Seat #9 is the button
+Seat 1: harakiri 22 ($37.40 in chips) 
+Seat 2: UGotTheJack ($15 in chips) 
+Seat 3: gogobati ($25.05 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 5: skrzypek ($25.70 in chips) 
+Seat 6: peteycar ($14.50 in chips) 
+Seat 7: Arie/spider ($5.70 in chips) 
+Seat 8: Alameda22 ($23.95 in chips) 
+Seat 9: msna ($28.70 in chips) 
+harakiri 22: posts small blind $0.10
+UGotTheJack: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 9h]
+gogobati: folds 
+Minigun134: folds 
+skrzypek: folds 
+peteycar: calls $0.25
+Arie/spider: calls $0.25
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: checks 
+*** FLOP *** [9d 6h 7h]
+UGotTheJack: checks 
+peteycar: checks 
+Arie/spider: bets $0.25
+UGotTheJack: calls $0.25
+peteycar: folds 
+*** TURN *** [9d 6h 7h] [7d]
+UGotTheJack: checks 
+Arie/spider: checks 
+*** RIVER *** [9d 6h 7h 7d] [9s]
+UGotTheJack: bets $0.50
+Arie/spider: calls $0.50
+*** SHOW DOWN ***
+UGotTheJack: shows [9c 2c] (a full house, Nines full of Sevens)
+Arie/spider: mucks hand 
+UGotTheJack collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [9d 6h 7h 7d 9s]
+Seat 1: harakiri 22 (small blind) folded before Flop
+Seat 2: UGotTheJack (big blind) showed [9c 2c] and won ($2.25) with a full house, Nines full of Sevens
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: peteycar folded on the Flop
+Seat 7: Arie/spider mucked [Qd Tc]
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099676568:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:06:39 ET
+Table 'Thyra IV' 9-max Seat #1 is the button
+Seat 1: harakiri 22 ($37.30 in chips) 
+Seat 2: UGotTheJack ($16.25 in chips) 
+Seat 3: gogobati ($25.05 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 5: skrzypek ($25.70 in chips) 
+Seat 6: peteycar ($14.25 in chips) 
+Seat 7: Arie/spider ($4.70 in chips) 
+Seat 8: Alameda22 ($23.95 in chips) 
+Seat 9: msna ($28.70 in chips) 
+UGotTheJack: posts small blind $0.10
+gogobati: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 8c]
+Minigun134: raises $0.75 to $1
+skrzypek: folds 
+peteycar: folds 
+Arie/spider: calls $1
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+*** FLOP *** [2c 7s 2h]
+Minigun134: bets $1.25
+Arie/spider: folds 
+Uncalled bet ($1.25) returned to Minigun134
+Minigun134 collected $2.25 from pot
+Minigun134: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [2c 7s 2h]
+Seat 1: harakiri 22 (button) folded before Flop (didn't bet)
+Seat 2: UGotTheJack (small blind) folded before Flop
+Seat 3: gogobati (big blind) folded before Flop
+Seat 4: Minigun134 collected ($2.25)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: peteycar folded before Flop (didn't bet)
+Seat 7: Arie/spider folded on the Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099697834:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:07:33 ET
+Table 'Thyra IV' 9-max Seat #2 is the button
+Seat 1: harakiri 22 ($37.30 in chips) 
+Seat 2: UGotTheJack ($16.15 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($26.25 in chips) 
+Seat 5: skrzypek ($25.70 in chips) 
+Seat 6: peteycar ($14.25 in chips) 
+Seat 7: Arie/spider ($3.70 in chips) 
+Seat 8: Alameda22 ($23.95 in chips) 
+Seat 9: msna ($28.70 in chips) 
+gogobati: posts small blind $0.10
+Minigun134: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Kc]
+skrzypek: folds 
+peteycar: calls $0.25
+Arie/spider: raises $0.25 to $0.50
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: calls $0.50
+gogobati: folds 
+Minigun134: folds 
+peteycar: calls $0.25
+*** FLOP *** [Kd 7s 4d]
+peteycar: checks 
+Arie/spider: checks 
+UGotTheJack: checks 
+*** TURN *** [Kd 7s 4d] [7h]
+peteycar: checks 
+Arie/spider: bets $0.25
+UGotTheJack: calls $0.25
+peteycar: folds 
+*** RIVER *** [Kd 7s 4d 7h] [6d]
+Arie/spider: bets $0.50
+UGotTheJack: calls $0.50
+*** SHOW DOWN ***
+Arie/spider: shows [Qh Ks] (two pair, Kings and Sevens)
+UGotTheJack: mucks hand 
+Arie/spider collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [Kd 7s 4d 7h 6d]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack (button) mucked [Ad Tc]
+Seat 3: gogobati (small blind) folded before Flop
+Seat 4: Minigun134 (big blind) folded before Flop
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: peteycar folded on the Turn
+Seat 7: Arie/spider showed [Qh Ks] and won ($3.20) with two pair, Kings and Sevens
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099725292:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:08:41 ET
+Table 'Thyra IV' 9-max Seat #3 is the button
+Seat 1: harakiri 22 ($37.30 in chips) 
+Seat 2: UGotTheJack ($14.90 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($26 in chips) 
+Seat 5: skrzypek ($25.70 in chips) 
+Seat 6: peteycar ($13.75 in chips) 
+Seat 7: Arie/spider ($5.65 in chips) 
+Seat 8: Alameda22 ($23.95 in chips) 
+Seat 9: msna ($28.70 in chips) 
+Minigun134: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 6s]
+peteycar: calls $0.25
+Arie/spider: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: calls $0.25
+UGotTheJack: folds 
+gogobati: folds 
+Minigun134: folds 
+skrzypek: raises $1 to $1.25
+peteycar: calls $1
+harakiri 22: folds 
+*** FLOP *** [As 4s 2s]
+skrzypek: bets $1.75
+peteycar: calls $1.75
+*** TURN *** [As 4s 2s] [6d]
+skrzypek: bets $10.75
+peteycar: calls $10.75 and is all-in
+*** RIVER *** [As 4s 2s 6d] [Td]
+*** SHOW DOWN ***
+skrzypek: shows [Qs Ah] (a pair of Aces)
+peteycar: shows [Ts Ac] (two pair, Aces and Tens)
+peteycar collected $26.50 from pot
+*** SUMMARY ***
+Total pot $27.85 | Rake $1.35 
+Board [As 4s 2s 6d Td]
+Seat 1: harakiri 22 folded before Flop
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati (button) folded before Flop (didn't bet)
+Seat 4: Minigun134 (small blind) folded before Flop
+Seat 5: skrzypek (big blind) showed [Qs Ah] and lost with a pair of Aces
+Seat 6: peteycar showed [Ts Ac] and won ($26.50) with two pair, Aces and Tens
+Seat 7: Arie/spider folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099760278:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:10:10 ET
+Table 'Thyra IV' 9-max Seat #4 is the button
+Seat 1: harakiri 22 ($37.05 in chips) 
+Seat 2: UGotTheJack ($14.90 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($25.90 in chips) 
+Seat 5: skrzypek ($25 in chips) 
+Seat 6: peteycar ($26.50 in chips) 
+Seat 7: Arie/spider ($5.65 in chips) 
+Seat 8: Alameda22 ($23.95 in chips) 
+Seat 9: msna ($28.70 in chips) 
+skrzypek: posts small blind $0.10
+peteycar: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Kh]
+Arie/spider: calls $0.25
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+Minigun134: folds 
+skrzypek: folds 
+peteycar: checks 
+*** FLOP *** [7d Qs Ks]
+peteycar: checks 
+Arie/spider: bets $0.25
+peteycar: calls $0.25
+*** TURN *** [7d Qs Ks] [3c]
+peteycar: checks 
+Arie/spider: checks 
+*** RIVER *** [7d Qs Ks 3c] [8h]
+peteycar: bets $0.25
+Arie/spider: calls $0.25
+*** SHOW DOWN ***
+peteycar: shows [Jc Ah] (high card Ace)
+Arie/spider: mucks hand 
+peteycar collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [7d Qs Ks 3c 8h]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 (button) folded before Flop (didn't bet)
+Seat 5: skrzypek (small blind) folded before Flop
+Seat 6: peteycar (big blind) showed [Jc Ah] and won ($1.55) with high card Ace
+Seat 7: Arie/spider mucked [Ad Tc]
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099779479:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:10:59 ET
+Table 'Thyra IV' 9-max Seat #5 is the button
+Seat 1: harakiri 22 ($37.05 in chips) 
+Seat 2: UGotTheJack ($14.90 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($25.90 in chips) 
+Seat 5: skrzypek ($24.90 in chips) 
+Seat 6: peteycar ($27.30 in chips) 
+Seat 7: Arie/spider ($4.90 in chips) 
+Seat 8: Alameda22 ($23.95 in chips) 
+Seat 9: msna ($28.70 in chips) 
+peteycar: posts small blind $0.10
+Arie/spider: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 6s]
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: raises $0.50 to $0.75
+gogobati: folds 
+Minigun134: folds 
+skrzypek: folds 
+peteycar: folds 
+Arie/spider: folds 
+Uncalled bet ($0.50) returned to UGotTheJack
+UGotTheJack collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack collected ($0.60)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek (button) folded before Flop (didn't bet)
+Seat 6: peteycar (small blind) folded before Flop
+Seat 7: Arie/spider (big blind) folded before Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099795384:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:11:39 ET
+Table 'Thyra IV' 9-max Seat #6 is the button
+Seat 1: harakiri 22 ($37.05 in chips) 
+Seat 2: UGotTheJack ($15.25 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($25.90 in chips) 
+Seat 5: skrzypek ($24.90 in chips) 
+Seat 6: peteycar ($27.20 in chips) 
+Seat 7: Arie/spider ($4.65 in chips) 
+Seat 8: Alameda22 ($23.95 in chips) 
+Seat 9: msna ($28.70 in chips) 
+Arie/spider: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 2s]
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: calls $0.25
+gogobati: folds 
+Minigun134: folds 
+skrzypek: raises $1 to $1.25
+peteycar: calls $1.25
+Arie/spider: calls $1.15
+Alameda22: folds 
+UGotTheJack: calls $1
+*** FLOP *** [Jc 3d Js]
+Arie/spider: checks 
+UGotTheJack: checks 
+skrzypek: checks 
+peteycar: checks 
+*** TURN *** [Jc 3d Js] [8c]
+Arie/spider: checks 
+UGotTheJack: checks 
+skrzypek: checks 
+peteycar: bets $0.25
+Arie/spider: calls $0.25
+UGotTheJack: calls $0.25
+skrzypek: folds 
+*** RIVER *** [Jc 3d Js 8c] [2c]
+Arie/spider: bets $0.75
+UGotTheJack: folds 
+peteycar: folds 
+Uncalled bet ($0.75) returned to Arie/spider
+Arie/spider collected $5.75 from pot
+Arie/spider: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.25 
+Board [Jc 3d Js 8c 2c]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded on the River
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded on the Turn
+Seat 6: peteycar (button) folded on the River
+Seat 7: Arie/spider (small blind) collected ($5.75)
+Seat 8: Alameda22 (big blind) folded before Flop
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099831413:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:13:11 ET
+Table 'Thyra IV' 9-max Seat #7 is the button
+Seat 1: harakiri 22 ($37.05 in chips) 
+Seat 2: UGotTheJack ($13.75 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($25.90 in chips) 
+Seat 5: skrzypek ($23.65 in chips) 
+Seat 6: peteycar ($25.70 in chips) 
+Seat 7: Arie/spider ($8.90 in chips) 
+Seat 8: Alameda22 ($23.70 in chips) 
+Seat 9: msna ($28.70 in chips) 
+Alameda22: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Td]
+harakiri 22: calls $0.25
+UGotTheJack: folds 
+gogobati: folds 
+Minigun134: folds 
+skrzypek: folds 
+peteycar: calls $0.25
+Arie/spider: calls $0.25
+Alameda22: calls $0.15
+msna: checks 
+*** FLOP *** [8c 3s Qc]
+Alameda22: checks 
+msna: checks 
+harakiri 22: checks 
+peteycar: checks 
+Arie/spider: checks 
+*** TURN *** [8c 3s Qc] [Kd]
+Alameda22: checks 
+msna: checks 
+harakiri 22: checks 
+peteycar: checks 
+Arie/spider: checks 
+*** RIVER *** [8c 3s Qc Kd] [7h]
+Alameda22: checks 
+msna: checks 
+harakiri 22: bets $1.50
+peteycar: folds 
+Arie/spider: folds 
+Alameda22: folds 
+msna: folds 
+Uncalled bet ($1.50) returned to harakiri 22
+harakiri 22 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [8c 3s Qc Kd 7h]
+Seat 1: harakiri 22 collected ($1.20)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: peteycar folded on the River
+Seat 7: Arie/spider (button) folded on the River
+Seat 8: Alameda22 (small blind) folded on the River
+Seat 9: msna (big blind) folded on the River
+
+
+
+PokerStars Game #20099865050:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:14:37 ET
+Table 'Thyra IV' 9-max Seat #8 is the button
+Seat 1: harakiri 22 ($38 in chips) 
+Seat 2: UGotTheJack ($13.75 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($25.90 in chips) 
+Seat 5: skrzypek ($23.65 in chips) 
+Seat 6: peteycar ($25.45 in chips) 
+Seat 7: Arie/spider ($8.65 in chips) 
+Seat 8: Alameda22 ($23.45 in chips) 
+Seat 9: msna ($28.45 in chips) 
+msna: posts small blind $0.10
+harakiri 22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 2d]
+UGotTheJack: calls $0.25
+gogobati: folds 
+Minigun134: folds 
+skrzypek: folds 
+peteycar: folds 
+Arie/spider: calls $0.25
+Alameda22: folds 
+msna: folds 
+harakiri 22: checks 
+*** FLOP *** [5s 6c 4s]
+harakiri 22: checks 
+UGotTheJack: bets $0.50
+Arie/spider: calls $0.50
+harakiri 22: folds 
+*** TURN *** [5s 6c 4s] [Qh]
+UGotTheJack: bets $1
+Arie/spider: folds 
+Uncalled bet ($1) returned to UGotTheJack
+UGotTheJack collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [5s 6c 4s Qh]
+Seat 1: harakiri 22 (big blind) folded on the Flop
+Seat 2: UGotTheJack collected ($1.80)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: peteycar folded before Flop (didn't bet)
+Seat 7: Arie/spider folded on the Turn
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: msna (small blind) folded before Flop
+
+
+
+PokerStars Game #20099895242:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:15:54 ET
+Table 'Thyra IV' 9-max Seat #9 is the button
+Seat 1: harakiri 22 ($37.75 in chips) 
+Seat 2: UGotTheJack ($14.80 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($25.90 in chips) 
+Seat 5: skrzypek ($23.65 in chips) 
+Seat 6: peteycar ($25.45 in chips) 
+Seat 7: Arie/spider ($7.90 in chips) 
+Seat 8: Alameda22 ($23.45 in chips) 
+Seat 9: msna ($28.35 in chips) 
+harakiri 22: posts small blind $0.10
+UGotTheJack: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Qs]
+gogobati: folds 
+Minigun134: folds 
+skrzypek: calls $0.25
+peteycar: folds 
+Arie/spider: calls $0.25
+Alameda22: raises $1.25 to $1.50
+msna: calls $1.50
+harakiri 22: folds 
+UGotTheJack: folds 
+skrzypek: calls $1.25
+Arie/spider: calls $1.25
+*** FLOP *** [Qh Tc 3s]
+skrzypek: checks 
+Arie/spider: checks 
+Alameda22: bets $4
+msna: calls $4
+skrzypek: folds 
+Arie/spider: folds 
+*** TURN *** [Qh Tc 3s] [Jc]
+Alameda22: bets $9
+msna: calls $9
+*** RIVER *** [Qh Tc 3s Jc] [Kc]
+Alameda22: checks 
+msna: checks 
+*** SHOW DOWN ***
+Alameda22: shows [Qc Qs] (three of a kind, Queens)
+msna: mucks hand 
+Alameda22 collected $30.80 from pot
+*** SUMMARY ***
+Total pot $32.35 | Rake $1.55 
+Board [Qh Tc 3s Jc Kc]
+Seat 1: harakiri 22 (small blind) folded before Flop
+Seat 2: UGotTheJack (big blind) folded before Flop
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded on the Flop
+Seat 6: peteycar folded before Flop (didn't bet)
+Seat 7: Arie/spider folded on the Flop
+Seat 8: Alameda22 showed [Qc Qs] and won ($30.80) with three of a kind, Queens
+Seat 9: msna (button) mucked [3h 3d]
+
+
+
+PokerStars Game #20099936599:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:17:40 ET
+Table 'Thyra IV' 9-max Seat #1 is the button
+Seat 1: harakiri 22 ($37.65 in chips) 
+Seat 2: UGotTheJack ($14.55 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($25.90 in chips) 
+Seat 5: skrzypek ($22.15 in chips) 
+Seat 6: peteycar ($25.45 in chips) 
+Seat 7: Arie/spider ($6.40 in chips) 
+Seat 8: Alameda22 ($39.75 in chips) 
+Seat 9: msna ($25 in chips) 
+UGotTheJack: posts small blind $0.10
+gogobati: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 6s]
+Minigun134: folds 
+skrzypek: folds 
+peteycar: calls $0.25
+Arie/spider: calls $0.25
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: checks 
+*** FLOP *** [Ac Jd 7s]
+gogobati: checks 
+peteycar: checks 
+Arie/spider: checks 
+*** TURN *** [Ac Jd 7s] [5s]
+gogobati: checks 
+peteycar: checks 
+Arie/spider: checks 
+*** RIVER *** [Ac Jd 7s 5s] [3d]
+gogobati: checks 
+peteycar: checks 
+Arie/spider: bets $0.25
+gogobati: folds 
+peteycar: folds 
+Uncalled bet ($0.25) returned to Arie/spider
+Arie/spider collected $0.85 from pot
+Arie/spider: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Ac Jd 7s 5s 3d]
+Seat 1: harakiri 22 (button) folded before Flop (didn't bet)
+Seat 2: UGotTheJack (small blind) folded before Flop
+Seat 3: gogobati (big blind) folded on the River
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: peteycar folded on the River
+Seat 7: Arie/spider collected ($0.85)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099959547:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:18:38 ET
+Table 'Thyra IV' 9-max Seat #2 is the button
+Seat 1: harakiri 22 ($37.65 in chips) 
+Seat 2: UGotTheJack ($14.45 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($25.90 in chips) 
+Seat 5: skrzypek ($22.15 in chips) 
+Seat 6: peteycar ($25.20 in chips) 
+Seat 7: Arie/spider ($7 in chips) 
+Seat 8: Alameda22 ($39.75 in chips) 
+Seat 9: msna ($25 in chips) 
+gogobati: posts small blind $0.10
+Minigun134: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Qs]
+skrzypek: folds 
+peteycar: folds 
+Arie/spider: calls $0.25
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: calls $0.25
+gogobati: folds 
+Minigun134: checks 
+*** FLOP *** [4c 6h 5c]
+Minigun134: checks 
+Arie/spider: checks 
+UGotTheJack: checks 
+*** TURN *** [4c 6h 5c] [Qh]
+Minigun134: checks 
+Arie/spider: bets $0.25
+UGotTheJack: folds 
+Minigun134: calls $0.25
+*** RIVER *** [4c 6h 5c Qh] [Ad]
+Minigun134: checks 
+Arie/spider: checks 
+*** SHOW DOWN ***
+Minigun134: shows [Th 5h] (a pair of Fives)
+Arie/spider: mucks hand 
+Minigun134 collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [4c 6h 5c Qh Ad]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack (button) folded on the Turn
+Seat 3: gogobati (small blind) folded before Flop
+Seat 4: Minigun134 (big blind) showed [Th 5h] and won ($1.30) with a pair of Fives
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: peteycar folded before Flop (didn't bet)
+Seat 7: Arie/spider mucked [3d Js]
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099983764:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:19:40 ET
+Table 'Thyra IV' 9-max Seat #3 is the button
+Seat 1: harakiri 22 ($37.65 in chips) 
+Seat 2: UGotTheJack ($14.20 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($26.70 in chips) 
+Seat 5: skrzypek ($22.15 in chips) 
+Seat 6: peteycar ($25.20 in chips) 
+Seat 7: Arie/spider ($6.50 in chips) 
+Seat 8: Alameda22 ($39.75 in chips) 
+Seat 9: msna ($25 in chips) 
+Minigun134: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 3s]
+peteycar: calls $0.25
+Arie/spider: calls $0.25
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: calls $0.25
+gogobati: folds 
+Minigun134: folds 
+skrzypek: checks 
+*** FLOP *** [Jh 9d 7h]
+skrzypek: checks 
+peteycar: checks 
+Arie/spider: bets $0.25
+UGotTheJack: calls $0.25
+skrzypek: folds 
+peteycar: folds 
+*** TURN *** [Jh 9d 7h] [Ad]
+Arie/spider: checks 
+UGotTheJack: bets $0.50
+Arie/spider: calls $0.50
+*** RIVER *** [Jh 9d 7h Ad] [8d]
+Arie/spider: checks 
+UGotTheJack: bets $1
+Arie/spider: folds 
+Uncalled bet ($1) returned to UGotTheJack
+UGotTheJack collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Jh 9d 7h Ad 8d]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack collected ($2.50)
+Seat 3: gogobati (button) folded before Flop (didn't bet)
+Seat 4: Minigun134 (small blind) folded before Flop
+Seat 5: skrzypek (big blind) folded on the Flop
+Seat 6: peteycar folded on the Flop
+Seat 7: Arie/spider folded on the River
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100015290:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:21:00 ET
+Table 'Thyra IV' 9-max Seat #4 is the button
+Seat 1: harakiri 22 ($37.65 in chips) 
+Seat 2: UGotTheJack ($15.70 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($26.60 in chips) 
+Seat 5: skrzypek ($21.90 in chips) 
+Seat 6: peteycar ($24.95 in chips) 
+Seat 7: Arie/spider ($5.50 in chips) 
+Seat 8: Alameda22 ($39.75 in chips) 
+Seat 9: msna ($25 in chips) 
+skrzypek: posts small blind $0.10
+peteycar: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Ks]
+Arie/spider: raises $0.25 to $0.50
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: calls $0.50
+gogobati: folds 
+Minigun134: raises $3 to $3.50
+skrzypek: folds 
+peteycar: folds 
+Arie/spider: raises $2 to $5.50 and is all-in
+UGotTheJack: folds 
+Minigun134: calls $2
+peteycar leaves the table
+*** FLOP *** [2c 5s Qh]
+*** TURN *** [2c 5s Qh] [9d]
+*** RIVER *** [2c 5s Qh 9d] [Ts]
+BigSoonerFan joins the table at seat #6 
+*** SHOW DOWN ***
+Arie/spider: shows [9h 9s] (three of a kind, Nines)
+Minigun134: mucks hand 
+Arie/spider collected $11.30 from pot
+Arie/spider is sitting out
+*** SUMMARY ***
+Total pot $11.85 | Rake $0.55 
+Board [2c 5s Qh 9d Ts]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 (button) mucked [Kc Kd]
+Seat 5: skrzypek (small blind) folded before Flop
+Seat 6: peteycar (big blind) folded before Flop
+Seat 7: Arie/spider showed [9h 9s] and won ($11.30) with three of a kind, Nines
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100043959:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:22:14 ET
+Table 'Thyra IV' 9-max Seat #5 is the button
+Seat 1: harakiri 22 ($37.65 in chips) 
+Seat 2: UGotTheJack ($15.20 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($21.10 in chips) 
+Seat 5: skrzypek ($21.80 in chips) 
+Seat 8: Alameda22 ($39.75 in chips) 
+Seat 9: msna ($25 in chips) 
+BigSoonerFan will be allowed to play after the button
+Alameda22: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 9h]
+Arie/spider leaves the table
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+Minigun134: raises $0.75 to $1
+skrzypek: folds 
+RemiEvenat joins the table at seat #7 
+Alameda22: folds 
+msna: folds 
+Uncalled bet ($0.75) returned to Minigun134
+Minigun134 collected $0.60 from pot
+Minigun134: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 collected ($0.60)
+Seat 5: skrzypek (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: msna (big blind) folded before Flop
+
+
+
+PokerStars Game #20100065624:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:23:09 ET
+Table 'Thyra IV' 9-max Seat #8 is the button
+Seat 1: harakiri 22 ($37.65 in chips) 
+Seat 2: UGotTheJack ($15.20 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($21.45 in chips) 
+Seat 5: skrzypek ($21.80 in chips) 
+Seat 6: BigSoonerFan ($15 in chips) 
+Seat 8: Alameda22 ($39.65 in chips) 
+Seat 9: msna ($24.75 in chips) 
+msna: posts small blind $0.10
+harakiri 22: posts big blind $0.25
+BigSoonerFan: posts big blind $0.25
+RemiEvenat: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 7d]
+UGotTheJack: folds 
+gogobati: folds 
+Minigun134: folds 
+skrzypek: folds 
+BigSoonerFan: checks 
+Alameda22: folds 
+msna: folds 
+harakiri 22: checks 
+*** FLOP *** [Ts Jd Kc]
+harakiri 22: checks 
+BigSoonerFan: checks 
+*** TURN *** [Ts Jd Kc] [2h]
+harakiri 22: checks 
+BigSoonerFan: checks 
+*** RIVER *** [Ts Jd Kc 2h] [4d]
+harakiri 22: checks 
+BigSoonerFan: checks 
+*** SHOW DOWN ***
+harakiri 22: shows [7c Jh] (a pair of Jacks)
+BigSoonerFan: mucks hand 
+harakiri 22 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ts Jd Kc 2h 4d]
+Seat 1: harakiri 22 (big blind) showed [7c Jh] and won ($0.60) with a pair of Jacks
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: BigSoonerFan mucked [Qs 3h]
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: msna (small blind) folded before Flop
+
+
+
+PokerStars Game #20100102514:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:24:46 ET
+Table 'Thyra IV' 9-max Seat #9 is the button
+Seat 1: harakiri 22 ($38 in chips) 
+Seat 2: UGotTheJack ($15.20 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($21.45 in chips) 
+Seat 5: skrzypek ($21.80 in chips) 
+Seat 6: BigSoonerFan ($14.75 in chips) 
+Seat 8: Alameda22 ($39.65 in chips) 
+Seat 9: msna ($24.65 in chips) 
+harakiri 22: posts small blind $0.10
+UGotTheJack: posts big blind $0.25
+RemiEvenat: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 3h]
+gogobati: folds 
+Minigun134: folds 
+skrzypek: folds 
+BigSoonerFan: folds 
+Alameda22: folds 
+msna: raises $0.75 to $1
+harakiri 22: folds 
+UGotTheJack: calls $0.75
+*** FLOP *** [2s Ks 7c]
+UGotTheJack: bets $1.50
+msna: folds 
+Uncalled bet ($1.50) returned to UGotTheJack
+UGotTheJack collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [2s Ks 7c]
+Seat 1: harakiri 22 (small blind) folded before Flop
+Seat 2: UGotTheJack (big blind) collected ($2)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: BigSoonerFan folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna (button) folded on the Flop
+
+
+
+PokerStars Game #20100126925:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:25:48 ET
+Table 'Thyra IV' 9-max Seat #1 is the button
+Seat 1: harakiri 22 ($37.90 in chips) 
+Seat 2: UGotTheJack ($16.20 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($21.45 in chips) 
+Seat 5: skrzypek ($21.80 in chips) 
+Seat 6: BigSoonerFan ($14.75 in chips) 
+Seat 8: Alameda22 ($39.65 in chips) 
+Seat 9: msna ($23.65 in chips) 
+UGotTheJack: posts small blind $0.10
+gogobati: posts big blind $0.25
+RemiEvenat: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Ah]
+Minigun134: folds 
+skrzypek: folds 
+BigSoonerFan: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+Uncalled bet ($0.15) returned to gogobati
+gogobati collected $0.20 from pot
+gogobati: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: harakiri 22 (button) folded before Flop (didn't bet)
+Seat 2: UGotTheJack (small blind) folded before Flop
+Seat 3: gogobati (big blind) collected ($0.20)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: BigSoonerFan folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100143978:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:26:33 ET
+Table 'Thyra IV' 9-max Seat #2 is the button
+Seat 1: harakiri 22 ($37.90 in chips) 
+Seat 2: UGotTheJack ($16.10 in chips) 
+Seat 3: gogobati ($25.10 in chips) 
+Seat 4: Minigun134 ($21.45 in chips) 
+Seat 5: skrzypek ($21.80 in chips) 
+Seat 6: BigSoonerFan ($14.75 in chips) 
+Seat 8: Alameda22 ($39.65 in chips) 
+Seat 9: msna ($23.65 in chips) 
+gogobati: posts small blind $0.10
+Minigun134: posts big blind $0.25
+RemiEvenat: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Jd]
+skrzypek: folds 
+BigSoonerFan: calls $0.25
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+Minigun134: checks 
+*** FLOP *** [Ad 2d Ac]
+Minigun134: checks 
+BigSoonerFan: bets $0.50
+Minigun134: folds 
+Uncalled bet ($0.50) returned to BigSoonerFan
+BigSoonerFan collected $0.60 from pot
+BigSoonerFan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ad 2d Ac]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack (button) folded before Flop (didn't bet)
+Seat 3: gogobati (small blind) folded before Flop
+Seat 4: Minigun134 (big blind) folded on the Flop
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: BigSoonerFan collected ($0.60)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100165376:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:27:29 ET
+Table 'Thyra IV' 9-max Seat #3 is the button
+Seat 1: harakiri 22 ($37.90 in chips) 
+Seat 2: UGotTheJack ($16.10 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($21.20 in chips) 
+Seat 5: skrzypek ($25 in chips) 
+Seat 6: BigSoonerFan ($15.10 in chips) 
+Seat 8: Alameda22 ($39.65 in chips) 
+Seat 9: msna ($23.65 in chips) 
+Minigun134: posts small blind $0.10
+skrzypek: posts big blind $0.25
+RemiEvenat: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Qc]
+BigSoonerFan: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: calls $0.25
+gogobati: folds 
+Minigun134: folds 
+skrzypek: checks 
+*** FLOP *** [Ac 9s 5c]
+skrzypek: checks 
+UGotTheJack: bets $0.50
+skrzypek: folds 
+Uncalled bet ($0.50) returned to UGotTheJack
+UGotTheJack collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ac 9s 5c]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack collected ($0.60)
+Seat 3: gogobati (button) folded before Flop (didn't bet)
+Seat 4: Minigun134 (small blind) folded before Flop
+Seat 5: skrzypek (big blind) folded on the Flop
+Seat 6: BigSoonerFan folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100185532:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:28:21 ET
+Table 'Thyra IV' 9-max Seat #4 is the button
+Seat 1: harakiri 22 ($37.90 in chips) 
+Seat 2: UGotTheJack ($16.45 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 5: skrzypek ($24.75 in chips) 
+Seat 7: RemiEvenat ($25 in chips) 
+Seat 8: Alameda22 ($39.65 in chips) 
+Seat 9: msna ($23.65 in chips) 
+skrzypek: posts small blind $0.10
+BigSoonerFan: is sitting out 
+BigSoonerFan leaves the table
+RemiEvenat: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 9s]
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: calls $0.25
+gogobati: folds 
+Minigun134: folds 
+skrzypek: folds 
+RemiEvenat: checks 
+*** FLOP *** [Ac 4h 5s]
+RemiEvenat: checks 
+UGotTheJack: checks 
+*** TURN *** [Ac 4h 5s] [4d]
+RemiEvenat: checks 
+UGotTheJack: checks 
+*** RIVER *** [Ac 4h 5s 4d] [6s]
+RemiEvenat: checks 
+UGotTheJack: checks 
+*** SHOW DOWN ***
+RemiEvenat: shows [Ks 2s] (a pair of Fours)
+UGotTheJack: mucks hand 
+RemiEvenat collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ac 4h 5s 4d 6s]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack mucked [Jc Ts]
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 (button) folded before Flop (didn't bet)
+Seat 5: skrzypek (small blind) folded before Flop
+Seat 7: RemiEvenat (big blind) showed [Ks 2s] and won ($0.60) with a pair of Fours
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100208833:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:29:22 ET
+Table 'Thyra IV' 9-max Seat #5 is the button
+Seat 1: harakiri 22 ($37.90 in chips) 
+Seat 2: UGotTheJack ($16.20 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 5: skrzypek ($24.65 in chips) 
+Seat 7: RemiEvenat ($25.35 in chips) 
+Seat 8: Alameda22 ($39.65 in chips) 
+Seat 9: msna ($23.65 in chips) 
+RemiEvenat: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 8s]
+msna: folds 
+harakiri 22: calls $0.25
+UGotTheJack: folds 
+gogobati: folds 
+Minigun134: folds 
+skrzypek: calls $0.25
+RemiEvenat: folds 
+Alameda22: checks 
+*** FLOP *** [9h 2d Kc]
+Alameda22: checks 
+harakiri 22: checks 
+skrzypek: checks 
+*** TURN *** [9h 2d Kc] [6s]
+Alameda22: checks 
+Fation joins the table at seat #6 
+harakiri 22: checks 
+skrzypek: checks 
+*** RIVER *** [9h 2d Kc 6s] [5c]
+Alameda22: checks 
+harakiri 22: bets $0.25
+skrzypek: folds 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to harakiri 22
+harakiri 22 collected $0.85 from pot
+harakiri 22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [9h 2d Kc 6s 5c]
+Seat 1: harakiri 22 collected ($0.85)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek (button) folded on the River
+Seat 7: RemiEvenat (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) folded on the River
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100244272:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:30:54 ET
+Table 'Thyra IV' 9-max Seat #7 is the button
+Seat 1: harakiri 22 ($38.50 in chips) 
+Seat 2: UGotTheJack ($16.20 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 5: skrzypek ($24.40 in chips) 
+Seat 6: Fation ($5.05 in chips) 
+Seat 7: RemiEvenat ($25.25 in chips) 
+Seat 8: Alameda22 ($39.40 in chips) 
+Seat 9: msna ($25 in chips) 
+Alameda22: posts small blind $0.10
+msna: posts big blind $0.25
+Fation: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Qc]
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+Minigun134: folds 
+skrzypek: folds 
+Fation: checks 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: checks 
+*** FLOP *** [8d Th 3s]
+msna: checks 
+Fation: checks 
+*** TURN *** [8d Th 3s] [Jh]
+msna: checks 
+Fation: checks 
+*** RIVER *** [8d Th 3s Jh] [Qh]
+msna: checks 
+Fation: checks 
+*** SHOW DOWN ***
+msna: shows [Kc 9h] (a straight, Nine to King)
+Fation: mucks hand 
+msna collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8d Th 3s Jh Qh]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: Fation mucked [7d 6c]
+Seat 7: RemiEvenat (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: msna (big blind) showed [Kc 9h] and won ($0.60) with a straight, Nine to King
+
+
+
+PokerStars Game #20100275799:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:32:18 ET
+Table 'Thyra IV' 9-max Seat #8 is the button
+Seat 1: harakiri 22 ($38.50 in chips) 
+Seat 2: UGotTheJack ($16.20 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 5: skrzypek ($24.40 in chips) 
+Seat 6: Fation ($4.80 in chips) 
+Seat 7: RemiEvenat ($25.25 in chips) 
+Seat 8: Alameda22 ($39.30 in chips) 
+Seat 9: msna ($25.35 in chips) 
+msna: posts small blind $0.10
+harakiri 22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 9d]
+UGotTheJack: folds 
+gogobati: folds 
+Minigun134: folds 
+skrzypek: folds 
+Fation is disconnected 
+Fation has timed out while disconnected
+Fation: folds 
+Fation is sitting out
+Fation is connected 
+Fation has returned
+RemiEvenat: folds 
+Alameda22: folds 
+msna: folds 
+Uncalled bet ($0.15) returned to harakiri 22
+harakiri 22 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: harakiri 22 (big blind) collected ($0.20)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: Fation folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: msna (small blind) folded before Flop
+
+
+
+PokerStars Game #20100305652:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:33:38 ET
+Table 'Thyra IV' 9-max Seat #9 is the button
+Seat 1: harakiri 22 ($38.60 in chips) 
+Seat 2: UGotTheJack ($16.20 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 5: skrzypek ($24.40 in chips) 
+Seat 6: Fation ($4.80 in chips) 
+Seat 7: RemiEvenat ($25.25 in chips) 
+Seat 8: Alameda22 ($39.30 in chips) 
+Seat 9: msna ($25.25 in chips) 
+harakiri 22: posts small blind $0.10
+UGotTheJack: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 4d]
+gogobati: folds 
+Minigun134: folds 
+skrzypek: raises $1.25 to $1.50
+Fation: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+Uncalled bet ($1.25) returned to skrzypek
+skrzypek collected $0.60 from pot
+skrzypek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: harakiri 22 (small blind) folded before Flop
+Seat 2: UGotTheJack (big blind) folded before Flop
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek collected ($0.60)
+Seat 6: Fation folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100327653:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:34:37 ET
+Table 'Thyra IV' 9-max Seat #1 is the button
+Seat 1: harakiri 22 ($38.50 in chips) 
+Seat 2: UGotTheJack ($15.95 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: Minigun134 ($25 in chips) 
+Seat 5: skrzypek ($24.75 in chips) 
+Seat 6: Fation ($4.80 in chips) 
+Seat 7: RemiEvenat ($25.25 in chips) 
+Seat 8: Alameda22 ($39.30 in chips) 
+Seat 9: msna ($25.25 in chips) 
+UGotTheJack: posts small blind $0.10
+gogobati: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Kd]
+Minigun134: folds 
+skrzypek: folds 
+Fation: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: calls $0.15
+gogobati: checks 
+*** FLOP *** [8h 6d Td]
+UGotTheJack: checks 
+gogobati: checks 
+*** TURN *** [8h 6d Td] [3s]
+UGotTheJack: checks 
+gogobati: checks 
+*** RIVER *** [8h 6d Td 3s] [7s]
+UGotTheJack: checks 
+gogobati: checks 
+*** SHOW DOWN ***
+UGotTheJack: shows [Ah 9s] (a straight, Six to Ten)
+gogobati: mucks hand 
+UGotTheJack collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [8h 6d Td 3s 7s]
+Seat 1: harakiri 22 (button) folded before Flop (didn't bet)
+Seat 2: UGotTheJack (small blind) showed [Ah 9s] and won ($0.50) with a straight, Six to Ten
+Seat 3: gogobati (big blind) mucked [4s Qh]
+Seat 4: Minigun134 folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: Fation folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100350528:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:35:38 ET
+Table 'Thyra IV' 9-max Seat #2 is the button
+Seat 1: harakiri 22 ($38.50 in chips) 
+Seat 2: UGotTheJack ($16.20 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 5: skrzypek ($24.75 in chips) 
+Seat 6: Fation ($4.80 in chips) 
+Seat 7: RemiEvenat ($25.25 in chips) 
+Seat 8: Alameda22 ($39.30 in chips) 
+Seat 9: msna ($25.25 in chips) 
+gogobati: posts small blind $0.10
+Fation is disconnected 
+Minigun134: is sitting out 
+Minigun134 leaves the table
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 5h]
+Fation has timed out while disconnected
+Fation: folds 
+Fation is sitting out
+RemiEvenat: folds 
+Alameda22: folds 
+msna: raises $0.75 to $1
+harakiri 22: folds 
+Fation is connected 
+UGotTheJack: folds 
+gogobati: folds 
+skrzypek: folds 
+Uncalled bet ($0.75) returned to msna
+msna collected $0.60 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack (button) folded before Flop (didn't bet)
+Seat 3: gogobati (small blind) folded before Flop
+Seat 5: skrzypek (big blind) folded before Flop
+Seat 6: Fation folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna collected ($0.60)
+
+
+
+PokerStars Game #20100378728:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:36:54 ET
+Table 'Thyra IV' 9-max Seat #3 is the button
+Seat 1: harakiri 22 ($38.50 in chips) 
+Seat 2: UGotTheJack ($16.20 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 5: skrzypek ($24.50 in chips) 
+Seat 7: RemiEvenat ($25.25 in chips) 
+Seat 8: Alameda22 ($39.30 in chips) 
+Seat 9: msna ($25.60 in chips) 
+skrzypek: posts small blind $0.10
+RemiEvenat: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Ac]
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+skrzypek: folds 
+Uncalled bet ($0.15) returned to RemiEvenat
+RemiEvenat collected $0.20 from pot
+RemiEvenat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati (button) folded before Flop (didn't bet)
+Seat 5: skrzypek (small blind) folded before Flop
+Seat 7: RemiEvenat (big blind) collected ($0.20)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100388892:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:37:22 ET
+Table 'Thyra IV' 9-max Seat #5 is the button
+Seat 1: harakiri 22 ($38.50 in chips) 
+Seat 2: UGotTheJack ($16.20 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 5: skrzypek ($24.40 in chips) 
+Seat 7: RemiEvenat ($25.35 in chips) 
+Seat 8: Alameda22 ($39.30 in chips) 
+Seat 9: msna ($25.60 in chips) 
+RemiEvenat: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 5s]
+Fation is disconnected 
+msna: folds 
+harakiri 22: calls $0.25
+UGotTheJack: folds 
+gogobati: folds 
+skrzypek: folds 
+ceyou joins the table at seat #4 
+RemiEvenat: folds 
+Alameda22: checks 
+*** FLOP *** [Qd 8d 2d]
+Alameda22: checks 
+harakiri 22: checks 
+*** TURN *** [Qd 8d 2d] [Ts]
+Alameda22: checks 
+harakiri 22: checks 
+*** RIVER *** [Qd 8d 2d Ts] [5c]
+Alameda22: checks 
+harakiri 22: checks 
+*** SHOW DOWN ***
+Alameda22: shows [Ah 5s] (a pair of Fives)
+harakiri 22: shows [Kh Th] (a pair of Tens)
+harakiri 22 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qd 8d 2d Ts 5c]
+Seat 1: harakiri 22 showed [Kh Th] and won ($0.60) with a pair of Tens
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 5: skrzypek (button) folded before Flop (didn't bet)
+Seat 7: RemiEvenat (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) showed [Ah 5s] and lost with a pair of Fives
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100410642:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:38:20 ET
+Table 'Thyra IV' 9-max Seat #7 is the button
+Seat 1: harakiri 22 ($38.85 in chips) 
+Seat 2: UGotTheJack ($16.20 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($5 in chips) 
+Seat 5: skrzypek ($24.40 in chips) 
+Seat 7: RemiEvenat ($25.25 in chips) 
+Seat 8: Alameda22 ($39.05 in chips) 
+Seat 9: msna ($25.60 in chips) 
+Alameda22: posts small blind $0.10
+msna: posts big blind $0.25
+ceyou: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Jh]
+Fation is connected 
+harakiri 22: calls $0.25
+UGotTheJack: folds 
+Fation has returned
+gogobati: folds 
+ceyou: checks 
+skrzypek: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: checks 
+*** FLOP *** [7d 4d Ah]
+msna: checks 
+harakiri 22: checks 
+ceyou: checks 
+*** TURN *** [7d 4d Ah] [7c]
+msna: checks 
+harakiri 22: checks 
+ceyou: checks 
+*** RIVER *** [7d 4d Ah 7c] [8d]
+msna: checks 
+harakiri 22: bets $0.75
+ceyou: folds 
+msna: folds 
+Uncalled bet ($0.75) returned to harakiri 22
+harakiri 22 collected $0.85 from pot
+harakiri 22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [7d 4d Ah 7c 8d]
+Seat 1: harakiri 22 collected ($0.85)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: ceyou folded on the River
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 7: RemiEvenat (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: msna (big blind) folded on the River
+
+
+
+PokerStars Game #20100438540:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:39:35 ET
+Table 'Thyra IV' 9-max Seat #8 is the button
+Seat 1: harakiri 22 ($39.45 in chips) 
+Seat 2: UGotTheJack ($16.20 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($4.75 in chips) 
+Seat 5: skrzypek ($24.40 in chips) 
+Seat 7: RemiEvenat ($25.25 in chips) 
+Seat 8: Alameda22 ($38.95 in chips) 
+Seat 9: msna ($25.35 in chips) 
+msna: posts small blind $0.10
+harakiri 22: posts big blind $0.25
+Fation is disconnected 
+Fation has timed out while disconnected
+Fation: is sitting out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Kd]
+UGotTheJack: folds 
+gogobati: folds 
+ceyou: calls $0.25
+skrzypek: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: checks 
+*** FLOP *** [Jd Ah 8h]
+harakiri 22: checks 
+ceyou: checks 
+*** TURN *** [Jd Ah 8h] [4h]
+harakiri 22: checks 
+ceyou: checks 
+*** RIVER *** [Jd Ah 8h 4h] [6s]
+harakiri 22: checks 
+ceyou: checks 
+*** SHOW DOWN ***
+harakiri 22: shows [Qs 5c] (high card Ace)
+ceyou: shows [Kc Th] (high card Ace - King kicker)
+ceyou collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Jd Ah 8h 4h 6s]
+Seat 1: harakiri 22 (big blind) showed [Qs 5c] and lost with high card Ace
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: ceyou showed [Kc Th] and won ($0.60) with high card Ace
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: msna (small blind) folded before Flop
+
+
+
+PokerStars Game #20100475673:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:41:15 ET
+Table 'Thyra IV' 9-max Seat #9 is the button
+Seat 1: harakiri 22 ($39.20 in chips) 
+Seat 2: UGotTheJack ($16.20 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($5.10 in chips) 
+Seat 5: skrzypek ($24.40 in chips) 
+Seat 7: RemiEvenat ($25.25 in chips) 
+Seat 8: Alameda22 ($38.95 in chips) 
+Seat 9: msna ($25.25 in chips) 
+harakiri 22: posts small blind $0.10
+UGotTheJack: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Ah]
+gogobati: folds 
+ceyou: folds 
+skrzypek: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: raises $0.50 to $0.75
+harakiri 22: calls $0.65
+UGotTheJack: folds 
+*** FLOP *** [Th As 5d]
+harakiri 22: bets $1.25
+msna: raises $1.75 to $3
+harakiri 22: calls $1.75
+*** TURN *** [Th As 5d] [Ks]
+harakiri 22: checks 
+msna: checks 
+*** RIVER *** [Th As 5d Ks] [7s]
+harakiri 22: checks 
+msna: bets $15
+harakiri 22: folds 
+Uncalled bet ($15) returned to msna
+msna collected $7.40 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.75 | Rake $0.35 
+Board [Th As 5d Ks 7s]
+Seat 1: harakiri 22 (small blind) folded on the River
+Seat 2: UGotTheJack (big blind) folded before Flop
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: ceyou folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna (button) collected ($7.40)
+
+
+
+PokerStars Game #20100507873:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:42:42 ET
+Table 'Thyra IV' 9-max Seat #1 is the button
+Seat 1: harakiri 22 ($35.45 in chips) 
+Seat 2: UGotTheJack ($15.95 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($5.10 in chips) 
+Seat 5: skrzypek ($24.40 in chips) 
+Seat 7: RemiEvenat ($25.25 in chips) 
+Seat 8: Alameda22 ($38.95 in chips) 
+Seat 9: msna ($28.90 in chips) 
+UGotTheJack: posts small blind $0.10
+gogobati: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Ah]
+ceyou: folds 
+skrzypek: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: raises $0.50 to $0.75
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+Uncalled bet ($0.50) returned to msna
+msna collected $0.60 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: harakiri 22 (button) folded before Flop (didn't bet)
+Seat 2: UGotTheJack (small blind) folded before Flop
+Seat 3: gogobati (big blind) folded before Flop
+Seat 4: ceyou folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna collected ($0.60)
+
+
+
+PokerStars Game #20100533987:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:43:53 ET
+Table 'Thyra IV' 9-max Seat #2 is the button
+Seat 1: harakiri 22 ($35.45 in chips) 
+Seat 2: UGotTheJack ($15.85 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($5.10 in chips) 
+Seat 5: skrzypek ($24.40 in chips) 
+Seat 7: RemiEvenat ($25.25 in chips) 
+Seat 8: Alameda22 ($38.95 in chips) 
+Seat 9: msna ($29.25 in chips) 
+gogobati: posts small blind $0.10
+ceyou: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 9c]
+skrzypek: folds 
+RemiEvenat: raises $0.75 to $1
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+ceyou: folds 
+Uncalled bet ($0.75) returned to RemiEvenat
+RemiEvenat collected $0.60 from pot
+RemiEvenat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack (button) folded before Flop (didn't bet)
+Seat 3: gogobati (small blind) folded before Flop
+Seat 4: ceyou (big blind) folded before Flop
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 7: RemiEvenat collected ($0.60)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100548765:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:44:33 ET
+Table 'Thyra IV' 9-max Seat #3 is the button
+Seat 1: harakiri 22 ($35.45 in chips) 
+Seat 2: UGotTheJack ($15.85 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($4.85 in chips) 
+Seat 5: skrzypek ($24.40 in chips) 
+Seat 7: RemiEvenat ($25.60 in chips) 
+Seat 8: Alameda22 ($38.95 in chips) 
+Seat 9: msna ($29.25 in chips) 
+ceyou: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 9s]
+RemiEvenat: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+ceyou: calls $0.15
+skrzypek: raises $0.75 to $1
+ceyou: calls $0.75
+*** FLOP *** [7c 4d 3s]
+ceyou: checks 
+skrzypek: bets $1.50
+ceyou: calls $1.50
+*** TURN *** [7c 4d 3s] [4c]
+ceyou: checks 
+skrzypek: bets $2.75
+ceyou: folds 
+Uncalled bet ($2.75) returned to skrzypek
+skrzypek collected $4.80 from pot
+skrzypek: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.20 
+Board [7c 4d 3s 4c]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati (button) folded before Flop (didn't bet)
+Seat 4: ceyou (small blind) folded on the Turn
+Seat 5: skrzypek (big blind) collected ($4.80)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100572522:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:45:37 ET
+Table 'Thyra IV' 9-max Seat #4 is the button
+Seat 1: harakiri 22 ($35.45 in chips) 
+Seat 2: UGotTheJack ($15.85 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($2.35 in chips) 
+Seat 5: skrzypek ($26.70 in chips) 
+Seat 7: RemiEvenat ($25.60 in chips) 
+Seat 8: Alameda22 ($38.95 in chips) 
+Seat 9: msna ($29.25 in chips) 
+skrzypek: posts small blind $0.10
+RemiEvenat: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 4d]
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+ceyou: folds 
+skrzypek: folds 
+Uncalled bet ($0.15) returned to RemiEvenat
+RemiEvenat collected $0.20 from pot
+RemiEvenat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: ceyou (button) folded before Flop (didn't bet)
+Seat 5: skrzypek (small blind) folded before Flop
+Seat 7: RemiEvenat (big blind) collected ($0.20)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100584079:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:46:09 ET
+Table 'Thyra IV' 9-max Seat #5 is the button
+Seat 1: harakiri 22 ($35.45 in chips) 
+Seat 2: UGotTheJack ($15.85 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($2.35 in chips) 
+Seat 5: skrzypek ($26.60 in chips) 
+Seat 7: RemiEvenat ($25.70 in chips) 
+Seat 8: Alameda22 ($38.95 in chips) 
+Seat 9: msna ($29.25 in chips) 
+RemiEvenat: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 7s]
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+ceyou: raises $2.10 to $2.35 and is all-in
+skrzypek: calls $2.35
+RemiEvenat: folds 
+Alameda22: folds 
+*** FLOP *** [3h Ad Ts]
+*** TURN *** [3h Ad Ts] [9d]
+*** RIVER *** [3h Ad Ts 9d] [7c]
+*** SHOW DOWN ***
+ceyou: shows [4c 4h] (a pair of Fours)
+skrzypek: shows [7d 7h] (three of a kind, Sevens)
+skrzypek collected $4.80 from pot
+*** SUMMARY ***
+Total pot $5.05 | Rake $0.25 
+Board [3h Ad Ts 9d 7c]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: ceyou showed [4c 4h] and lost with a pair of Fours
+Seat 5: skrzypek (button) showed [7d 7h] and won ($4.80) with three of a kind, Sevens
+Seat 7: RemiEvenat (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) folded before Flop
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100599802:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:46:51 ET
+Table 'Thyra IV' 9-max Seat #7 is the button
+Seat 1: harakiri 22 ($35.45 in chips) 
+Seat 2: UGotTheJack ($15.85 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 5: skrzypek ($29.05 in chips) 
+Seat 7: RemiEvenat ($25.60 in chips) 
+Seat 8: Alameda22 ($38.70 in chips) 
+Seat 9: msna ($29.25 in chips) 
+Alameda22: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 9d]
+ceyou has returned
+harakiri 22: calls $0.25
+UGotTheJack: folds 
+gogobati: folds 
+skrzypek: folds 
+RemiEvenat: raises $1 to $1.25
+Alameda22: folds 
+msna: folds 
+harakiri 22: calls $1
+*** FLOP *** [8d 3s 7d]
+harakiri 22: checks 
+RemiEvenat: bets $1.75
+harakiri 22: calls $1.75
+*** TURN *** [8d 3s 7d] [6h]
+harakiri 22: checks 
+RemiEvenat: bets $4.50
+harakiri 22: folds 
+Uncalled bet ($4.50) returned to RemiEvenat
+RemiEvenat collected $6.05 from pot
+RemiEvenat: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.30 
+Board [8d 3s 7d 6h]
+Seat 1: harakiri 22 folded on the Turn
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 7: RemiEvenat (button) collected ($6.05)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: msna (big blind) folded before Flop
+
+
+
+PokerStars Game #20100629700:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:48:12 ET
+Table 'Thyra IV' 9-max Seat #8 is the button
+Seat 1: harakiri 22 ($32.45 in chips) 
+Seat 2: UGotTheJack ($15.85 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($5 in chips) 
+Seat 5: skrzypek ($29.05 in chips) 
+Seat 7: RemiEvenat ($28.65 in chips) 
+Seat 8: Alameda22 ($38.60 in chips) 
+Seat 9: msna ($29 in chips) 
+msna: posts small blind $0.10
+harakiri 22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 2s]
+UGotTheJack: folds 
+gogobati: folds 
+ceyou: folds 
+skrzypek: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: folds 
+Uncalled bet ($0.15) returned to harakiri 22
+harakiri 22 collected $0.20 from pot
+harakiri 22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: harakiri 22 (big blind) collected ($0.20)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: ceyou folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: msna (small blind) folded before Flop
+
+
+
+PokerStars Game #20100646013:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:48:56 ET
+Table 'Thyra IV' 9-max Seat #9 is the button
+Seat 1: harakiri 22 ($32.55 in chips) 
+Seat 2: UGotTheJack ($15.85 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($5 in chips) 
+Seat 5: skrzypek ($29.05 in chips) 
+Seat 7: RemiEvenat ($28.65 in chips) 
+Seat 8: Alameda22 ($38.60 in chips) 
+Seat 9: msna ($28.90 in chips) 
+harakiri 22: posts small blind $0.10
+UGotTheJack: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Tc]
+gogobati: folds 
+ceyou: folds 
+skrzypek: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: raises $0.50 to $0.75
+harakiri 22: folds 
+UGotTheJack: folds 
+Uncalled bet ($0.50) returned to msna
+msna collected $0.60 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: harakiri 22 (small blind) folded before Flop
+Seat 2: UGotTheJack (big blind) folded before Flop
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: ceyou folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna (button) collected ($0.60)
+
+
+
+PokerStars Game #20100659463:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:49:32 ET
+Table 'Thyra IV' 9-max Seat #1 is the button
+Seat 1: harakiri 22 ($32.45 in chips) 
+Seat 2: UGotTheJack ($15.60 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($5 in chips) 
+Seat 5: skrzypek ($29.05 in chips) 
+Seat 7: RemiEvenat ($28.65 in chips) 
+Seat 8: Alameda22 ($38.60 in chips) 
+Seat 9: msna ($29.25 in chips) 
+UGotTheJack: posts small blind $0.10
+gogobati: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h As]
+ceyou: folds 
+skrzypek: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+Fation was removed from the table for failing to post
+msna: raises $0.75 to $1
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+Uncalled bet ($0.75) returned to msna
+msna collected $0.60 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: harakiri 22 (button) folded before Flop (didn't bet)
+Seat 2: UGotTheJack (small blind) folded before Flop
+Seat 3: gogobati (big blind) folded before Flop
+Seat 4: ceyou folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna collected ($0.60)
+
+
+
+PokerStars Game #20100678506:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:50:24 ET
+Table 'Thyra IV' 9-max Seat #2 is the button
+Seat 1: harakiri 22 ($32.45 in chips) 
+Seat 2: UGotTheJack ($15.50 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($5 in chips) 
+Seat 5: skrzypek ($29.05 in chips) 
+Seat 7: RemiEvenat ($28.65 in chips) 
+Seat 8: Alameda22 ($38.60 in chips) 
+Seat 9: msna ($29.60 in chips) 
+gogobati: posts small blind $0.10
+ceyou: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Qh]
+skrzypek: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+*Cafo* joins the table at seat #6 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: raises $0.75 to $1
+gogobati: folds 
+ceyou: calls $0.75
+*** FLOP *** [2h Jh 9s]
+ceyou: bets $4 and is all-in
+UGotTheJack: folds 
+Uncalled bet ($4) returned to ceyou
+ceyou collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [2h Jh 9s]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack (button) folded on the Flop
+Seat 3: gogobati (small blind) folded before Flop
+Seat 4: ceyou (big blind) collected ($2)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100704179:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:51:34 ET
+Table 'Thyra IV' 9-max Seat #3 is the button
+Seat 1: harakiri 22 ($32.45 in chips) 
+Seat 2: UGotTheJack ($14.50 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($6 in chips) 
+Seat 5: skrzypek ($29.05 in chips) 
+Seat 6: *Cafo* ($5 in chips) 
+Seat 7: RemiEvenat ($28.65 in chips) 
+Seat 8: Alameda22 ($38.60 in chips) 
+Seat 9: msna ($29.60 in chips) 
+ceyou: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*Cafo*: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Jc]
+*Cafo*: checks 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: raises $0.75 to $1
+UGotTheJack: folds 
+gogobati: folds 
+ceyou: calls $0.90
+skrzypek: folds 
+*Cafo*: folds 
+*** FLOP *** [8s 5c 5h]
+ceyou: checks 
+harakiri 22: bets $2.25
+ceyou: folds 
+Uncalled bet ($2.25) returned to harakiri 22
+harakiri 22 collected $2.40 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [8s 5c 5h]
+Seat 1: harakiri 22 collected ($2.40)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati (button) folded before Flop (didn't bet)
+Seat 4: ceyou (small blind) folded on the Flop
+Seat 5: skrzypek (big blind) folded before Flop
+Seat 6: *Cafo* folded before Flop
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100724083:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:52:29 ET
+Table 'Thyra IV' 9-max Seat #4 is the button
+Seat 1: harakiri 22 ($33.85 in chips) 
+Seat 2: UGotTheJack ($14.50 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($5 in chips) 
+Seat 5: skrzypek ($28.80 in chips) 
+Seat 6: *Cafo* ($4.75 in chips) 
+Seat 7: RemiEvenat ($28.65 in chips) 
+Seat 8: Alameda22 ($38.60 in chips) 
+Seat 9: msna ($29.60 in chips) 
+skrzypek: posts small blind $0.10
+*Cafo*: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 2h]
+RemiEvenat: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: raises $0.50 to $0.75
+gogobati: folds 
+ceyou: folds 
+skrzypek: folds 
+*Cafo*: folds 
+Uncalled bet ($0.50) returned to UGotTheJack
+UGotTheJack collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack collected ($0.60)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: ceyou (button) folded before Flop (didn't bet)
+Seat 5: skrzypek (small blind) folded before Flop
+Seat 6: *Cafo* (big blind) folded before Flop
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100732789:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:52:52 ET
+Table 'Thyra IV' 9-max Seat #5 is the button
+Seat 1: harakiri 22 ($33.85 in chips) 
+Seat 2: UGotTheJack ($14.85 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($5 in chips) 
+Seat 5: skrzypek ($28.70 in chips) 
+Seat 6: *Cafo* ($4.50 in chips) 
+Seat 7: RemiEvenat ($28.65 in chips) 
+Seat 8: Alameda22 ($38.60 in chips) 
+Seat 9: msna ($29.60 in chips) 
+*Cafo*: posts small blind $0.10
+RemiEvenat: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Qs]
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+ceyou: calls $0.25
+skrzypek: folds 
+*Cafo*: calls $0.15
+RemiEvenat: checks 
+*** FLOP *** [Tc 7s Th]
+*Cafo*: bets $0.50
+RemiEvenat: folds 
+ceyou: folds 
+Uncalled bet ($0.50) returned to *Cafo*
+*Cafo* collected $0.75 from pot
+*Cafo*: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Tc 7s Th]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: ceyou folded on the Flop
+Seat 5: skrzypek (button) folded before Flop (didn't bet)
+Seat 6: *Cafo* (small blind) collected ($0.75)
+Seat 7: RemiEvenat (big blind) folded on the Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100751685:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:53:44 ET
+Table 'Thyra IV' 9-max Seat #6 is the button
+Seat 1: harakiri 22 ($33.85 in chips) 
+Seat 2: UGotTheJack ($14.85 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($4.75 in chips) 
+Seat 5: skrzypek ($28.70 in chips) 
+Seat 6: *Cafo* ($5 in chips) 
+Seat 7: RemiEvenat ($28.40 in chips) 
+Seat 8: Alameda22 ($38.60 in chips) 
+Seat 9: msna ($29.60 in chips) 
+RemiEvenat: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 7h]
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: calls $0.25
+gogobati: folds 
+ceyou: calls $0.25
+skrzypek: calls $0.25
+*Cafo*: folds 
+RemiEvenat: folds 
+Alameda22: checks 
+*** FLOP *** [5s 6d Kc]
+Alameda22: checks 
+UGotTheJack: checks 
+ceyou: checks 
+skrzypek: bets $0.50
+Alameda22: folds 
+UGotTheJack: folds 
+ceyou: calls $0.50
+*** TURN *** [5s 6d Kc] [Ts]
+ceyou: checks 
+skrzypek: bets $1.50
+ceyou: calls $1.50
+*** RIVER *** [5s 6d Kc Ts] [3d]
+ceyou: checks 
+skrzypek: bets $2.50
+ceyou: folds 
+Uncalled bet ($2.50) returned to skrzypek
+skrzypek collected $4.85 from pot
+skrzypek: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.25 
+Board [5s 6d Kc Ts 3d]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded on the Flop
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: ceyou folded on the River
+Seat 5: skrzypek collected ($4.85)
+Seat 6: *Cafo* (button) folded before Flop (didn't bet)
+Seat 7: RemiEvenat (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) folded on the Flop
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100781852:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:55:07 ET
+Table 'Thyra IV' 9-max Seat #7 is the button
+Seat 1: harakiri 22 ($33.85 in chips) 
+Seat 2: UGotTheJack ($14.60 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: ceyou ($2.50 in chips) 
+Seat 5: skrzypek ($31.30 in chips) 
+Seat 6: *Cafo* ($5 in chips) 
+Seat 7: RemiEvenat ($28.30 in chips) 
+Seat 8: Alameda22 ($38.35 in chips) 
+Seat 9: msna ($29.60 in chips) 
+Alameda22: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Js]
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: raises $0.75 to $1
+ceyou: raises $1.50 to $2.50 and is all-in
+skrzypek: folds 
+*Cafo*: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: folds 
+gogobati: calls $1.50
+*** FLOP *** [3d 2c Kc]
+*** TURN *** [3d 2c Kc] [8s]
+*** RIVER *** [3d 2c Kc 8s] [2h]
+*** SHOW DOWN ***
+gogobati: shows [Qs Qh] (two pair, Queens and Deuces)
+ceyou: mucks hand 
+ceyou leaves the table
+gogobati collected $5.10 from pot
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [3d 2c Kc 8s 2h]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati showed [Qs Qh] and won ($5.10) with two pair, Queens and Deuces
+Seat 4: ceyou mucked [9d As]
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: RemiEvenat (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: msna (big blind) folded before Flop
+
+
+
+PokerStars Game #20100803049:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:56:04 ET
+Table 'Thyra IV' 9-max Seat #8 is the button
+Seat 1: harakiri 22 ($33.85 in chips) 
+Seat 2: UGotTheJack ($14.60 in chips) 
+Seat 3: gogobati ($27.60 in chips) 
+Seat 5: skrzypek ($31.30 in chips) 
+Seat 6: *Cafo* ($5 in chips) 
+Seat 7: RemiEvenat ($28.30 in chips) 
+Seat 8: Alameda22 ($38.25 in chips) 
+Seat 9: msna ($29.35 in chips) 
+msna: posts small blind $0.10
+harakiri 22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 9h]
+UGotTheJack: calls $0.25
+gogobati: folds 
+skrzypek: calls $0.25
+*Cafo*: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: checks 
+*** FLOP *** [Ts 4h 3d]
+harakiri 22: checks 
+UGotTheJack: checks 
+skrzypek: checks 
+*** TURN *** [Ts 4h 3d] [6c]
+harakiri 22: checks 
+UGotTheJack: checks 
+skrzypek: checks 
+*** RIVER *** [Ts 4h 3d 6c] [7h]
+harakiri 22: checks 
+UGotTheJack: checks 
+skrzypek: checks 
+*** SHOW DOWN ***
+harakiri 22: shows [Kh 3s] (a pair of Threes)
+UGotTheJack: mucks hand 
+skrzypek: mucks hand 
+harakiri 22 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Ts 4h 3d 6c 7h]
+Seat 1: harakiri 22 (big blind) showed [Kh 3s] and won ($0.85) with a pair of Threes
+Seat 2: UGotTheJack mucked [Jh As]
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 5: skrzypek mucked [Ad 2d]
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: msna (small blind) folded before Flop
+
+
+
+PokerStars Game #20100827280:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:57:11 ET
+Table 'Thyra IV' 9-max Seat #9 is the button
+Seat 1: harakiri 22 ($34.45 in chips) 
+Seat 2: UGotTheJack ($14.35 in chips) 
+Seat 3: gogobati ($27.60 in chips) 
+Seat 5: skrzypek ($31.05 in chips) 
+Seat 6: *Cafo* ($5 in chips) 
+Seat 7: RemiEvenat ($28.30 in chips) 
+Seat 8: Alameda22 ($38.25 in chips) 
+Seat 9: msna ($29.25 in chips) 
+harakiri 22: posts small blind $0.10
+UGotTheJack: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 9s]
+gogobati: folds 
+skrzypek: folds 
+*Cafo*: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+Uncalled bet ($0.15) returned to UGotTheJack
+UGotTheJack collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: harakiri 22 (small blind) folded before Flop
+Seat 2: UGotTheJack (big blind) collected ($0.20)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100843470:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:57:56 ET
+Table 'Thyra IV' 9-max Seat #1 is the button
+Seat 1: harakiri 22 ($34.35 in chips) 
+Seat 2: UGotTheJack ($14.45 in chips) 
+Seat 3: gogobati ($27.60 in chips) 
+Seat 5: skrzypek ($31.05 in chips) 
+Seat 6: *Cafo* ($5 in chips) 
+Seat 7: RemiEvenat ($28.30 in chips) 
+Seat 8: Alameda22 ($38.25 in chips) 
+Seat 9: msna ($29.25 in chips) 
+UGotTheJack: posts small blind $0.10
+gogobati: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Td]
+romal59 joins the table at seat #4 
+skrzypek: calls $0.25
+*Cafo*: folds 
+RemiEvenat: raises $1 to $1.25
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+skrzypek: folds 
+Uncalled bet ($1) returned to RemiEvenat
+RemiEvenat collected $0.85 from pot
+RemiEvenat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: harakiri 22 (button) folded before Flop (didn't bet)
+Seat 2: UGotTheJack (small blind) folded before Flop
+Seat 3: gogobati (big blind) folded before Flop
+Seat 5: skrzypek folded before Flop
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: RemiEvenat collected ($0.85)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100867701:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:59:03 ET
+Table 'Thyra IV' 9-max Seat #2 is the button
+Seat 1: harakiri 22 ($34.35 in chips) 
+Seat 2: UGotTheJack ($14.35 in chips) 
+Seat 3: gogobati ($27.35 in chips) 
+Seat 4: romal59 ($5 in chips) 
+Seat 5: skrzypek ($30.80 in chips) 
+Seat 6: *Cafo* ($5 in chips) 
+Seat 7: RemiEvenat ($28.90 in chips) 
+Seat 8: Alameda22 ($38.25 in chips) 
+Seat 9: msna ($29.25 in chips) 
+gogobati: posts small blind $0.10
+romal59: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 3c]
+skrzypek: folds 
+*Cafo*: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: raises $0.75 to $1
+romal59: calls $0.75
+*** FLOP *** [Th 9s 9h]
+gogobati: bets $1.50
+romal59: raises $1.50 to $3
+gogobati: folds 
+Uncalled bet ($1.50) returned to romal59
+romal59 collected $4.80 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.20 
+Board [Th 9s 9h]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack (button) folded before Flop (didn't bet)
+Seat 3: gogobati (small blind) folded on the Flop
+Seat 4: romal59 (big blind) collected ($4.80)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100888071:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:59:59 ET
+Table 'Thyra IV' 9-max Seat #3 is the button
+Seat 1: harakiri 22 ($34.35 in chips) 
+Seat 2: UGotTheJack ($14.35 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: romal59 ($7.30 in chips) 
+Seat 5: skrzypek ($30.80 in chips) 
+Seat 6: *Cafo* ($5 in chips) 
+Seat 7: RemiEvenat ($28.90 in chips) 
+Seat 8: Alameda22 ($38.25 in chips) 
+Seat 9: msna ($29.25 in chips) 
+romal59: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Jd]
+*Cafo*: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: calls $0.25
+gogobati: folds 
+romal59: raises $0.50 to $0.75
+skrzypek: folds 
+UGotTheJack: calls $0.50
+*** FLOP *** [4h As 5s]
+romal59: checks 
+UGotTheJack: checks 
+*** TURN *** [4h As 5s] [Js]
+romal59: checks 
+UGotTheJack: checks 
+*** RIVER *** [4h As 5s Js] [Ts]
+romal59: bets $1
+UGotTheJack: folds 
+Uncalled bet ($1) returned to romal59
+romal59 collected $1.70 from pot
+romal59: shows [Ah Ad] (three of a kind, Aces)
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [4h As 5s Js Ts]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded on the River
+Seat 3: gogobati (button) folded before Flop (didn't bet)
+Seat 4: romal59 (small blind) collected ($1.70)
+Seat 5: skrzypek (big blind) folded before Flop
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100910334:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:01:00 ET
+Table 'Thyra IV' 9-max Seat #4 is the button
+Seat 1: harakiri 22 ($34.35 in chips) 
+Seat 2: UGotTheJack ($13.60 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: romal59 ($8.25 in chips) 
+Seat 5: skrzypek ($30.55 in chips) 
+Seat 6: *Cafo* ($5 in chips) 
+Seat 7: RemiEvenat ($28.90 in chips) 
+Seat 8: Alameda22 ($38.25 in chips) 
+Seat 9: msna ($29.25 in chips) 
+skrzypek: posts small blind $0.10
+*Cafo*: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Qh]
+RemiEvenat: folds 
+Alameda22: raises $0.75 to $1
+msna: folds 
+UGotTheJack said, "too bad you couldnt get paid on such a nice hand"
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+romal59: folds 
+skrzypek: folds 
+*Cafo*: folds 
+Uncalled bet ($0.75) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: romal59 (button) folded before Flop (didn't bet)
+Seat 5: skrzypek (small blind) folded before Flop
+Seat 6: *Cafo* (big blind) folded before Flop
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 collected ($0.60)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100927597:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:01:46 ET
+Table 'Thyra IV' 9-max Seat #5 is the button
+Seat 1: harakiri 22 ($34.35 in chips) 
+Seat 2: UGotTheJack ($13.60 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: romal59 ($8.25 in chips) 
+Seat 5: skrzypek ($30.45 in chips) 
+Seat 6: *Cafo* ($4.75 in chips) 
+Seat 7: RemiEvenat ($28.90 in chips) 
+Seat 8: Alameda22 ($38.60 in chips) 
+Seat 9: msna ($29.25 in chips) 
+*Cafo*: posts small blind $0.10
+RemiEvenat: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Tc]
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: raises $0.75 to $1
+romal59: calls $1
+skrzypek: folds 
+*Cafo*: folds 
+RemiEvenat: folds 
+*** FLOP *** [6h Js 6s]
+gogobati: bets $2
+romal59: raises $2 to $4
+gogobati: folds 
+Uncalled bet ($2) returned to romal59
+romal59 collected $6.05 from pot
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.30 
+Board [6h Js 6s]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded on the Flop
+Seat 4: romal59 collected ($6.05)
+Seat 5: skrzypek (button) folded before Flop (didn't bet)
+Seat 6: *Cafo* (small blind) folded before Flop
+Seat 7: RemiEvenat (big blind) folded before Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100945744:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:02:34 ET
+Table 'Thyra IV' 9-max Seat #6 is the button
+Seat 1: harakiri 22 ($34.35 in chips) 
+Seat 2: UGotTheJack ($13.60 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: romal59 ($11.30 in chips) 
+Seat 5: skrzypek ($30.45 in chips) 
+Seat 6: *Cafo* ($4.65 in chips) 
+Seat 7: RemiEvenat ($28.65 in chips) 
+Seat 8: Alameda22 ($38.60 in chips) 
+Seat 9: msna ($29.25 in chips) 
+RemiEvenat: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 3s]
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+romal59: folds 
+skrzypek: folds 
+*Cafo*: folds 
+RemiEvenat: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: romal59 folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* (button) folded before Flop (didn't bet)
+Seat 7: RemiEvenat (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) collected ($0.20)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100962240:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:03:19 ET
+Table 'Thyra IV' 9-max Seat #7 is the button
+Seat 1: harakiri 22 ($34.35 in chips) 
+Seat 2: UGotTheJack ($13.60 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: romal59 ($11.30 in chips) 
+Seat 5: skrzypek ($30.45 in chips) 
+Seat 6: *Cafo* ($4.65 in chips) 
+Seat 7: RemiEvenat ($28.55 in chips) 
+Seat 8: Alameda22 ($38.70 in chips) 
+Seat 9: msna ($29.25 in chips) 
+Alameda22: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 6c]
+harakiri 22: folds 
+UGotTheJack: calls $0.25
+gogobati: folds 
+romal59: calls $0.25
+skrzypek: folds 
+*Cafo*: folds 
+RemiEvenat: calls $0.25
+Alameda22: folds 
+msna: checks 
+*** FLOP *** [9h 9c 9s]
+msna: checks 
+UGotTheJack: bets $1
+romal59: calls $1
+RemiEvenat: folds 
+msna: folds 
+*** TURN *** [9h 9c 9s] [7d]
+UGotTheJack: bets $2.25
+romal59: raises $2.25 to $4.50
+UGotTheJack: folds 
+Uncalled bet ($2.25) returned to romal59
+romal59 collected $7.25 from pot
+*** SUMMARY ***
+Total pot $7.60 | Rake $0.35 
+Board [9h 9c 9s 7d]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded on the Turn
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: romal59 collected ($7.25)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: RemiEvenat (button) folded on the Flop
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: msna (big blind) folded on the Flop
+
+
+
+PokerStars Game #20100996665:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:04:52 ET
+Table 'Thyra IV' 9-max Seat #8 is the button
+Seat 1: harakiri 22 ($34.35 in chips) 
+Seat 2: UGotTheJack ($10.10 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: romal59 ($15.05 in chips) 
+Seat 5: skrzypek ($30.45 in chips) 
+Seat 6: *Cafo* ($4.65 in chips) 
+Seat 7: RemiEvenat ($28.30 in chips) 
+Seat 8: Alameda22 ($38.60 in chips) 
+Seat 9: msna ($29 in chips) 
+msna: posts small blind $0.10
+harakiri 22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Qd]
+UGotTheJack: folds 
+gogobati: folds 
+romal59: folds 
+skrzypek: raises $1 to $1.25
+*Cafo*: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+Uncalled bet ($1) returned to skrzypek
+skrzypek collected $0.60 from pot
+skrzypek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: harakiri 22 (big blind) folded before Flop
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: romal59 folded before Flop (didn't bet)
+Seat 5: skrzypek collected ($0.60)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: msna (small blind) folded before Flop
+
+
+
+PokerStars Game #20101012861:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:05:36 ET
+Table 'Thyra IV' 9-max Seat #9 is the button
+Seat 1: harakiri 22 ($34.10 in chips) 
+Seat 2: UGotTheJack ($10.10 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: romal59 ($15.05 in chips) 
+Seat 5: skrzypek ($30.80 in chips) 
+Seat 6: *Cafo* ($4.65 in chips) 
+Seat 7: RemiEvenat ($28.30 in chips) 
+Seat 8: Alameda22 ($38.60 in chips) 
+Seat 9: msna ($28.90 in chips) 
+harakiri 22: posts small blind $0.10
+UGotTheJack: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 6h]
+gogobati: folds 
+romal59: calls $0.25
+skrzypek: folds 
+*Cafo*: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: raises $1 to $1.25
+harakiri 22: folds 
+UGotTheJack: folds 
+romal59: calls $1
+*** FLOP *** [Qd Tc 8s]
+romal59: checks 
+msna: bets $2
+romal59: folds 
+Uncalled bet ($2) returned to msna
+msna collected $2.75 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [Qd Tc 8s]
+Seat 1: harakiri 22 (small blind) folded before Flop
+Seat 2: UGotTheJack (big blind) folded before Flop
+Seat 3: gogobati folded before Flop (didn't bet)
+Seat 4: romal59 folded on the Flop
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna (button) collected ($2.75)
+
+
+
+PokerStars Game #20101037498:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:06:43 ET
+Table 'Thyra IV' 9-max Seat #1 is the button
+Seat 1: harakiri 22 ($34 in chips) 
+Seat 2: UGotTheJack ($9.85 in chips) 
+Seat 3: gogobati ($25 in chips) 
+Seat 4: romal59 ($13.80 in chips) 
+Seat 5: skrzypek ($30.80 in chips) 
+Seat 6: *Cafo* ($4.65 in chips) 
+Seat 7: RemiEvenat ($28.30 in chips) 
+Seat 8: Alameda22 ($38.60 in chips) 
+Seat 9: msna ($30.40 in chips) 
+UGotTheJack: posts small blind $0.10
+gogobati: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Ac]
+romal59: calls $0.25
+skrzypek: folds 
+*Cafo*: folds 
+RemiEvenat: folds 
+Alameda22: raises $1 to $1.25
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+gogobati: folds 
+romal59: calls $1
+*** FLOP *** [Ah Js Qh]
+romal59: checks 
+Alameda22: bets $1.75
+romal59: calls $1.75
+*** TURN *** [Ah Js Qh] [Tc]
+romal59: bets $2
+Alameda22: raises $4 to $6
+romal59: raises $4 to $10
+Alameda22: raises $4 to $14
+romal59: calls $0.80 and is all-in
+Uncalled bet ($3.20) returned to Alameda22
+*** RIVER *** [Ah Js Qh Tc] [Qc]
+*** SHOW DOWN ***
+romal59: shows [Qs 9c] (three of a kind, Queens)
+Alameda22: shows [As Ac] (a full house, Aces full of Queens)
+Alameda22 collected $26.60 from pot
+*** SUMMARY ***
+Total pot $27.95 | Rake $1.35 
+Board [Ah Js Qh Tc Qc]
+Seat 1: harakiri 22 (button) folded before Flop (didn't bet)
+Seat 2: UGotTheJack (small blind) folded before Flop
+Seat 3: gogobati (big blind) folded before Flop
+Seat 4: romal59 showed [Qs 9c] and lost with three of a kind, Queens
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 showed [As Ac] and won ($26.60) with a full house, Aces full of Queens
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101076564:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:08:29 ET
+Table 'Thyra IV' 9-max Seat #2 is the button
+Seat 1: harakiri 22 ($34 in chips) 
+Seat 2: UGotTheJack ($9.75 in chips) 
+Seat 5: skrzypek ($30.80 in chips) 
+Seat 6: *Cafo* ($4.65 in chips) 
+Seat 7: RemiEvenat ($28.30 in chips) 
+Seat 8: Alameda22 ($51.40 in chips) 
+Seat 9: msna ($30.40 in chips) 
+gogobati: is sitting out 
+gogobati leaves the table
+skrzypek: posts small blind $0.10
+*Cafo*: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 5d]
+romal59 leaves the table
+RemiEvenat: folds 
+lpoolreds joins the table at seat #4 
+Alameda22: folds 
+hsGabriel joins the table at seat #3 
+msna: folds 
+harakiri 22: calls $0.25
+UGotTheJack: calls $0.25
+skrzypek: folds 
+*Cafo*: checks 
+*** FLOP *** [Kh 7c 9s]
+*Cafo*: checks 
+harakiri 22: bets $0.50
+UGotTheJack: calls $0.50
+*Cafo*: folds 
+*** TURN *** [Kh 7c 9s] [7d]
+harakiri 22: checks 
+UGotTheJack: checks 
+*** RIVER *** [Kh 7c 9s 7d] [2d]
+harakiri 22: checks 
+UGotTheJack: checks 
+*** SHOW DOWN ***
+harakiri 22: shows [8d Kd] (two pair, Kings and Sevens)
+UGotTheJack: mucks hand 
+harakiri 22 collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [Kh 7c 9s 7d 2d]
+Seat 1: harakiri 22 showed [8d Kd] and won ($1.80) with two pair, Kings and Sevens
+Seat 2: UGotTheJack (button) mucked [8s 5s]
+Seat 5: skrzypek (small blind) folded before Flop
+Seat 6: *Cafo* (big blind) folded on the Flop
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101108204:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:09:55 ET
+Table 'Thyra IV' 9-max Seat #5 is the button
+Seat 1: harakiri 22 ($35.05 in chips) 
+Seat 2: UGotTheJack ($9 in chips) 
+Seat 3: hsGabriel ($25 in chips) 
+Seat 5: skrzypek ($30.70 in chips) 
+Seat 6: *Cafo* ($4.40 in chips) 
+Seat 7: RemiEvenat ($28.30 in chips) 
+Seat 8: Alameda22 ($51.40 in chips) 
+Seat 9: msna ($30.40 in chips) 
+*Cafo*: posts small blind $0.10
+RemiEvenat: posts big blind $0.25
+hsGabriel: posts big blind $0.25
+lpoolreds: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 8c]
+Alameda22: folds 
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+hsGabriel: checks 
+skrzypek: folds 
+*Cafo*: calls $0.15
+RemiEvenat: checks 
+*** FLOP *** [Js 3s Qh]
+*Cafo*: bets $0.50
+RemiEvenat: folds 
+hsGabriel: folds 
+Uncalled bet ($0.50) returned to *Cafo*
+*Cafo* collected $0.75 from pot
+*Cafo*: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Js 3s Qh]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: hsGabriel folded on the Flop
+Seat 5: skrzypek (button) folded before Flop (didn't bet)
+Seat 6: *Cafo* (small blind) collected ($0.75)
+Seat 7: RemiEvenat (big blind) folded on the Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101134879:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:11:09 ET
+Table 'Thyra IV' 9-max Seat #6 is the button
+Seat 1: harakiri 22 ($35.05 in chips) 
+Seat 2: UGotTheJack ($9 in chips) 
+Seat 3: hsGabriel ($24.75 in chips) 
+Seat 5: skrzypek ($30.70 in chips) 
+Seat 6: *Cafo* ($4.90 in chips) 
+Seat 7: RemiEvenat ($28.05 in chips) 
+Seat 8: Alameda22 ($51.40 in chips) 
+Seat 9: msna ($30.40 in chips) 
+RemiEvenat: posts small blind $0.10
+Alameda22: posts big blind $0.25
+lpoolreds: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Qs]
+msna: folds 
+harakiri 22: folds 
+UGotTheJack: folds 
+hsGabriel: raises $0.50 to $0.75
+skrzypek: folds 
+*Cafo*: calls $0.75
+RemiEvenat: folds 
+Alameda22: folds 
+*** FLOP *** [Ts 7d 2c]
+hsGabriel: bets $0.50
+*Cafo*: raises $0.50 to $1
+hsGabriel: calls $0.50
+*** TURN *** [Ts 7d 2c] [Kc]
+hsGabriel: checks 
+*Cafo*: bets $1
+hsGabriel: calls $1
+*** RIVER *** [Ts 7d 2c Kc] [2d]
+hsGabriel: checks 
+*Cafo*: bets $2.15 and is all-in
+hsGabriel: folds 
+Uncalled bet ($2.15) returned to *Cafo*
+*Cafo* collected $5.60 from pot
+*Cafo*: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.85 | Rake $0.25 
+Board [Ts 7d 2c Kc 2d]
+Seat 1: harakiri 22 folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: hsGabriel folded on the River
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* (button) collected ($5.60)
+Seat 7: RemiEvenat (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) folded before Flop
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101161756:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:12:22 ET
+Table 'Thyra IV' 9-max Seat #7 is the button
+Seat 1: harakiri 22 ($35.05 in chips) 
+Seat 2: UGotTheJack ($9 in chips) 
+Seat 3: hsGabriel ($25 in chips) 
+Seat 5: skrzypek ($30.70 in chips) 
+Seat 6: *Cafo* ($7.75 in chips) 
+Seat 7: RemiEvenat ($27.95 in chips) 
+Seat 8: Alameda22 ($51.15 in chips) 
+Seat 9: msna ($30.40 in chips) 
+Alameda22: posts small blind $0.10
+msna: posts big blind $0.25
+lpoolreds: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Kh]
+harakiri 22: calls $0.25
+UGotTheJack: folds 
+hsGabriel: folds 
+skrzypek: folds 
+*Cafo*: folds 
+RemiEvenat: folds 
+Alameda22: folds 
+msna: checks 
+*** FLOP *** [Qh Kc 6s]
+msna: checks 
+harakiri 22: bets $0.75
+msna: folds 
+Uncalled bet ($0.75) returned to harakiri 22
+harakiri 22 collected $0.60 from pot
+harakiri 22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qh Kc 6s]
+Seat 1: harakiri 22 collected ($0.60)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: RemiEvenat (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: msna (big blind) folded on the Flop
+
+
+
+PokerStars Game #20101180081:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:13:12 ET
+Table 'Thyra IV' 9-max Seat #8 is the button
+Seat 2: UGotTheJack ($9 in chips) 
+Seat 3: hsGabriel ($25 in chips) 
+Seat 5: skrzypek ($30.70 in chips) 
+Seat 6: *Cafo* ($7.75 in chips) 
+Seat 7: RemiEvenat ($27.95 in chips) 
+Seat 8: Alameda22 ($51.05 in chips) 
+Seat 9: msna ($30.15 in chips) 
+msna: posts small blind $0.10
+harakiri 22: is sitting out 
+UGotTheJack: posts big blind $0.25
+lpoolreds: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Jh]
+harakiri 22 leaves the table
+hsGabriel: folds 
+skrzypek: folds 
+*Cafo*: calls $0.25
+RemiEvenat: folds 
+Alameda22: folds 
+msna: calls $0.15
+UGotTheJack: checks 
+*** FLOP *** [7d 5s 6s]
+msna: checks 
+UGotTheJack: checks 
+*Cafo*: bets $0.75
+msna: folds 
+UGotTheJack: folds 
+Uncalled bet ($0.75) returned to *Cafo*
+*Cafo* collected $0.75 from pot
+*Cafo*: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [7d 5s 6s]
+Seat 2: UGotTheJack (big blind) folded on the Flop
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* collected ($0.75)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: msna (small blind) folded on the Flop
+
+
+
+PokerStars Game #20101201637:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:14:13 ET
+Table 'Thyra IV' 9-max Seat #9 is the button
+Seat 2: UGotTheJack ($8.75 in chips) 
+Seat 3: hsGabriel ($25 in chips) 
+Seat 5: skrzypek ($30.70 in chips) 
+Seat 6: *Cafo* ($8.25 in chips) 
+Seat 7: RemiEvenat ($27.95 in chips) 
+Seat 8: Alameda22 ($51.05 in chips) 
+Seat 9: msna ($29.90 in chips) 
+UGotTheJack: posts small blind $0.10
+hsGabriel: posts big blind $0.25
+lpoolreds: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Ac]
+skrzypek: folds 
+*Cafo*: folds 
+RemiEvenat: raises $0.75 to $1
+Alameda22: folds 
+msna: calls $1
+UGotTheJack: folds 
+hsGabriel: calls $0.75
+*** FLOP *** [Ts 5c 6d]
+hsGabriel: checks 
+RemiEvenat: bets $2
+msna: folds 
+hsGabriel: folds 
+Uncalled bet ($2) returned to RemiEvenat
+RemiEvenat collected $2.95 from pot
+RemiEvenat: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [Ts 5c 6d]
+Seat 2: UGotTheJack (small blind) folded before Flop
+Seat 3: hsGabriel (big blind) folded on the Flop
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: RemiEvenat collected ($2.95)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna (button) folded on the Flop
+
+
+
+PokerStars Game #20101221905:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:15:10 ET
+Table 'Thyra IV' 9-max Seat #2 is the button
+Seat 2: UGotTheJack ($8.65 in chips) 
+Seat 3: hsGabriel ($25 in chips) 
+Seat 4: lpoolreds ($25 in chips) 
+Seat 5: skrzypek ($30.70 in chips) 
+Seat 6: *Cafo* ($8.25 in chips) 
+Seat 7: RemiEvenat ($29.90 in chips) 
+Seat 8: Alameda22 ($51.05 in chips) 
+Seat 9: msna ($28.90 in chips) 
+hsGabriel: posts small blind $0.10
+lpoolreds: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Qd]
+skrzypek: folds 
+*Cafo*: folds 
+RemiEvenat: folds 
+Alameda22: raises $0.75 to $1
+msna: folds 
+UGotTheJack: folds 
+hsGabriel: folds 
+lpoolreds: folds 
+Uncalled bet ($0.75) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: UGotTheJack (button) folded before Flop (didn't bet)
+Seat 3: hsGabriel (small blind) folded before Flop
+Seat 4: lpoolreds (big blind) folded before Flop
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: RemiEvenat folded before Flop (didn't bet)
+Seat 8: Alameda22 collected ($0.60)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101240830:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:16:03 ET
+Table 'Thyra IV' 9-max Seat #3 is the button
+Seat 2: UGotTheJack ($8.65 in chips) 
+Seat 3: hsGabriel ($24.90 in chips) 
+Seat 4: lpoolreds ($24.75 in chips) 
+Seat 5: skrzypek ($30.70 in chips) 
+Seat 6: *Cafo* ($8.25 in chips) 
+Seat 7: RemiEvenat ($29.90 in chips) 
+Seat 8: Alameda22 ($51.40 in chips) 
+Seat 9: msna ($28.90 in chips) 
+lpoolreds: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 2d]
+*Cafo*: calls $0.25
+RemiEvenat: calls $0.25
+Alameda22: folds 
+msna: folds 
+UGotTheJack: folds 
+hsGabriel: folds 
+lpoolreds: calls $0.15
+skrzypek: checks 
+*** FLOP *** [Jc Qc As]
+lpoolreds: checks 
+skrzypek: checks 
+OksanaSB joins the table at seat #1 
+*Cafo*: checks 
+RemiEvenat: checks 
+*** TURN *** [Jc Qc As] [Qd]
+lpoolreds: checks 
+skrzypek: checks 
+*Cafo*: checks 
+RemiEvenat: checks 
+*** RIVER *** [Jc Qc As Qd] [Js]
+lpoolreds: checks 
+skrzypek: checks 
+*Cafo*: checks 
+RemiEvenat: checks 
+*** SHOW DOWN ***
+lpoolreds: shows [5s 5d] (two pair, Queens and Jacks)
+skrzypek: shows [3c Ks] (two pair, Queens and Jacks)
+*Cafo*: shows [Jd Kd] (a full house, Jacks full of Queens)
+RemiEvenat: mucks hand 
+*Cafo* collected $0.95 from pot
+RemiEvenat leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Jc Qc As Qd Js]
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: hsGabriel (button) folded before Flop (didn't bet)
+Seat 4: lpoolreds (small blind) showed [5s 5d] and lost with two pair, Queens and Jacks
+Seat 5: skrzypek (big blind) showed [3c Ks] and lost with two pair, Queens and Jacks
+Seat 6: *Cafo* showed [Jd Kd] and won ($0.95) with a full house, Jacks full of Queens
+Seat 7: RemiEvenat mucked [7c 7d]
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101291920:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:18:25 ET
+Table 'Thyra IV' 9-max Seat #4 is the button
+Seat 1: OksanaSB ($10 in chips) 
+Seat 2: UGotTheJack ($8.65 in chips) 
+Seat 3: hsGabriel ($24.90 in chips) 
+Seat 4: lpoolreds ($25 in chips) 
+Seat 5: skrzypek ($30.45 in chips) 
+Seat 6: *Cafo* ($8.95 in chips) 
+Seat 8: Alameda22 ($51.40 in chips) 
+Seat 9: msna ($28.90 in chips) 
+skrzypek: posts small blind $0.10
+*Cafo*: posts big blind $0.25
+OksanaSB: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 8s]
+wzrico joins the table at seat #7 
+Alameda22: folds 
+msna: folds 
+OksanaSB: checks 
+UGotTheJack: folds 
+hsGabriel: folds 
+lpoolreds: raises $0.75 to $1
+skrzypek: folds 
+*Cafo*: folds 
+OksanaSB: folds 
+Uncalled bet ($0.75) returned to lpoolreds
+lpoolreds collected $0.85 from pot
+lpoolreds: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: OksanaSB folded before Flop
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 4: lpoolreds (button) collected ($0.85)
+Seat 5: skrzypek (small blind) folded before Flop
+Seat 6: *Cafo* (big blind) folded before Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101310732:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:19:17 ET
+Table 'Thyra IV' 9-max Seat #5 is the button
+Seat 1: OksanaSB ($9.75 in chips) 
+Seat 2: UGotTheJack ($8.65 in chips) 
+Seat 3: hsGabriel ($24.90 in chips) 
+Seat 4: lpoolreds ($25.60 in chips) 
+Seat 5: skrzypek ($30.35 in chips) 
+Seat 6: *Cafo* ($8.70 in chips) 
+Seat 7: wzrico ($15 in chips) 
+Seat 8: Alameda22 ($51.40 in chips) 
+Seat 9: msna ($28.90 in chips) 
+*Cafo*: posts small blind $0.10
+wzrico: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Ks]
+Alameda22: folds 
+msna: folds 
+OksanaSB: folds 
+UGotTheJack: raises $0.75 to $1
+hsGabriel: folds 
+lpoolreds: folds 
+skrzypek: folds 
+*Cafo*: folds 
+wzrico: calls $0.75
+*** FLOP *** [4d Ah 3s]
+wzrico: checks 
+UGotTheJack: bets $1.25
+wzrico: calls $1.25
+*** TURN *** [4d Ah 3s] [5h]
+wzrico: checks 
+UGotTheJack: checks 
+*** RIVER *** [4d Ah 3s 5h] [Ad]
+wzrico: bets $1
+UGotTheJack: folds 
+Uncalled bet ($1) returned to wzrico
+wzrico collected $4.40 from pot
+wzrico: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.20 
+Board [4d Ah 3s 5h Ad]
+Seat 1: OksanaSB folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded on the River
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek (button) folded before Flop (didn't bet)
+Seat 6: *Cafo* (small blind) folded before Flop
+Seat 7: wzrico (big blind) collected ($4.40)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101335969:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:20:26 ET
+Table 'Thyra IV' 9-max Seat #6 is the button
+Seat 1: OksanaSB ($9.75 in chips) 
+Seat 2: UGotTheJack ($6.40 in chips) 
+Seat 3: hsGabriel ($24.90 in chips) 
+Seat 4: lpoolreds ($25.60 in chips) 
+Seat 5: skrzypek ($30.35 in chips) 
+Seat 6: *Cafo* ($8.60 in chips) 
+Seat 7: wzrico ($17.15 in chips) 
+Seat 8: Alameda22 ($51.40 in chips) 
+Seat 9: msna ($28.90 in chips) 
+wzrico: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 4h]
+msna: folds 
+OksanaSB: calls $0.25
+UGotTheJack: folds 
+hsGabriel: folds 
+lpoolreds: folds 
+skrzypek: folds 
+*Cafo*: folds 
+wzrico: calls $0.15
+Alameda22: checks 
+*** FLOP *** [9d Kh Qh]
+wzrico: bets $0.50
+Alameda22: folds 
+OksanaSB: raises $0.50 to $1
+wzrico: calls $0.50
+*** TURN *** [9d Kh Qh] [Jd]
+wzrico: checks 
+OksanaSB: bets $2
+wzrico: folds 
+Uncalled bet ($2) returned to OksanaSB
+OksanaSB collected $2.65 from pot
+OksanaSB: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [9d Kh Qh Jd]
+Seat 1: OksanaSB collected ($2.65)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* (button) folded before Flop (didn't bet)
+Seat 7: wzrico (small blind) folded on the Turn
+Seat 8: Alameda22 (big blind) folded on the Flop
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101358479:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:21:29 ET
+Table 'Thyra IV' 9-max Seat #7 is the button
+Seat 1: OksanaSB ($11.15 in chips) 
+Seat 2: UGotTheJack ($16.40 in chips) 
+Seat 3: hsGabriel ($24.90 in chips) 
+Seat 4: lpoolreds ($25.60 in chips) 
+Seat 5: skrzypek ($30.35 in chips) 
+Seat 6: *Cafo* ($8.60 in chips) 
+Seat 7: wzrico ($15.90 in chips) 
+Seat 8: Alameda22 ($51.15 in chips) 
+Seat 9: msna ($28.90 in chips) 
+Alameda22: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 5s]
+OksanaSB: folds 
+UGotTheJack: folds 
+hsGabriel: folds 
+lpoolreds: folds 
+skrzypek: folds 
+*Cafo*: folds 
+wzrico: calls $0.25
+Alameda22: calls $0.15
+msna: checks 
+*** FLOP *** [Ks 7c Jd]
+Alameda22: checks 
+msna: checks 
+wzrico: bets $0.50
+Alameda22: folds 
+msna: folds 
+Uncalled bet ($0.50) returned to wzrico
+wzrico collected $0.75 from pot
+wzrico: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Ks 7c Jd]
+Seat 1: OksanaSB folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: wzrico (button) collected ($0.75)
+Seat 8: Alameda22 (small blind) folded on the Flop
+Seat 9: msna (big blind) folded on the Flop
+
+
+
+PokerStars Game #20101376326:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:22:18 ET
+Table 'Thyra IV' 9-max Seat #8 is the button
+Seat 1: OksanaSB ($11.15 in chips) 
+Seat 2: UGotTheJack ($16.40 in chips) 
+Seat 3: hsGabriel ($24.90 in chips) 
+Seat 4: lpoolreds ($25.60 in chips) 
+Seat 5: skrzypek ($30.35 in chips) 
+Seat 6: *Cafo* ($8.60 in chips) 
+Seat 7: wzrico ($16.40 in chips) 
+Seat 8: Alameda22 ($50.90 in chips) 
+Seat 9: msna ($28.65 in chips) 
+msna: posts small blind $0.10
+OksanaSB: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Ad]
+UGotTheJack: folds 
+hsGabriel: folds 
+lpoolreds: folds 
+skrzypek: folds 
+*Cafo*: folds 
+wzrico: folds 
+Alameda22: folds 
+msna: folds 
+Uncalled bet ($0.15) returned to OksanaSB
+OksanaSB collected $0.20 from pot
+OksanaSB: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: OksanaSB (big blind) collected ($0.20)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: wzrico folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: msna (small blind) folded before Flop
+
+
+
+PokerStars Game #20101393207:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:23:04 ET
+Table 'Thyra IV' 9-max Seat #9 is the button
+Seat 1: OksanaSB ($11.25 in chips) 
+Seat 2: UGotTheJack ($16.40 in chips) 
+Seat 3: hsGabriel ($24.90 in chips) 
+Seat 4: lpoolreds ($25.60 in chips) 
+Seat 5: skrzypek ($30.35 in chips) 
+Seat 6: *Cafo* ($8.60 in chips) 
+Seat 7: wzrico ($16.40 in chips) 
+Seat 8: Alameda22 ($50.90 in chips) 
+Seat 9: msna ($28.55 in chips) 
+OksanaSB: posts small blind $0.10
+UGotTheJack: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 2c]
+hsGabriel: folds 
+lpoolreds: folds 
+skrzypek: folds 
+*Cafo*: folds 
+wzrico: folds 
+Alameda22: folds 
+msna: folds 
+OksanaSB: calls $0.15
+UGotTheJack: checks 
+*** FLOP *** [Kd 4d Ac]
+OksanaSB: checks 
+UGotTheJack: checks 
+*** TURN *** [Kd 4d Ac] [2s]
+OksanaSB: checks 
+UGotTheJack: checks 
+*** RIVER *** [Kd 4d Ac 2s] [5c]
+OksanaSB: checks 
+UGotTheJack: checks 
+*** SHOW DOWN ***
+OksanaSB: shows [Qc 8s] (high card Ace)
+UGotTheJack: mucks hand 
+OksanaSB collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Kd 4d Ac 2s 5c]
+Seat 1: OksanaSB (small blind) showed [Qc 8s] and won ($0.50) with high card Ace
+Seat 2: UGotTheJack (big blind) mucked [Jd 6s]
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: wzrico folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101407612:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:23:43 ET
+Table 'Thyra IV' 9-max Seat #1 is the button
+Seat 1: OksanaSB ($11.50 in chips) 
+Seat 2: UGotTheJack ($16.15 in chips) 
+Seat 3: hsGabriel ($24.90 in chips) 
+Seat 4: lpoolreds ($25.60 in chips) 
+Seat 5: skrzypek ($30.35 in chips) 
+Seat 6: *Cafo* ($8.60 in chips) 
+Seat 7: wzrico ($16.40 in chips) 
+Seat 8: Alameda22 ($50.90 in chips) 
+Seat 9: msna ($28.55 in chips) 
+UGotTheJack: posts small blind $0.10
+hsGabriel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 6h]
+lpoolreds: folds 
+skrzypek: folds 
+*Cafo*: folds 
+wzrico: folds 
+Alameda22: folds 
+msna: folds 
+OksanaSB: raises $1.50 to $1.75
+UGotTheJack: folds 
+hsGabriel: folds 
+Uncalled bet ($1.50) returned to OksanaSB
+OksanaSB collected $0.60 from pot
+OksanaSB: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: OksanaSB (button) collected ($0.60)
+Seat 2: UGotTheJack (small blind) folded before Flop
+Seat 3: hsGabriel (big blind) folded before Flop
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: wzrico folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101421758:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:24:21 ET
+Table 'Thyra IV' 9-max Seat #2 is the button
+Seat 1: OksanaSB ($11.85 in chips) 
+Seat 2: UGotTheJack ($16.05 in chips) 
+Seat 3: hsGabriel ($24.65 in chips) 
+Seat 4: lpoolreds ($25.60 in chips) 
+Seat 5: skrzypek ($30.35 in chips) 
+Seat 6: *Cafo* ($8.60 in chips) 
+Seat 7: wzrico ($16.40 in chips) 
+Seat 8: Alameda22 ($50.90 in chips) 
+Seat 9: msna ($28.55 in chips) 
+hsGabriel: posts small blind $0.10
+lpoolreds: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d As]
+skrzypek: folds 
+*Cafo*: folds 
+wzrico: raises $0.25 to $0.50
+Alameda22: folds 
+msna: folds 
+OksanaSB: folds 
+UGotTheJack: calls $0.50
+OksanaSB is sitting out
+hsGabriel: calls $0.40
+lpoolreds: folds 
+*** FLOP *** [9d 6d Ts]
+hsGabriel: bets $0.50
+wzrico: calls $0.50
+UGotTheJack: calls $0.50
+*** TURN *** [9d 6d Ts] [7c]
+hsGabriel: bets $1.25
+wzrico: calls $1.25
+UGotTheJack: calls $1.25
+*** RIVER *** [9d 6d Ts 7c] [9c]
+hsGabriel: bets $2
+wzrico: folds 
+UGotTheJack: folds 
+Uncalled bet ($2) returned to hsGabriel
+hsGabriel collected $6.70 from pot
+hsGabriel: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.30 
+Board [9d 6d Ts 7c 9c]
+Seat 1: OksanaSB folded before Flop (didn't bet)
+Seat 2: UGotTheJack (button) folded on the River
+Seat 3: hsGabriel (small blind) collected ($6.70)
+Seat 4: lpoolreds (big blind) folded before Flop
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: wzrico folded on the River
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101455106:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:25:52 ET
+Table 'Thyra IV' 9-max Seat #3 is the button
+Seat 2: UGotTheJack ($13.80 in chips) 
+Seat 3: hsGabriel ($29.10 in chips) 
+Seat 4: lpoolreds ($25.35 in chips) 
+Seat 5: skrzypek ($30.35 in chips) 
+Seat 6: *Cafo* ($8.60 in chips) 
+Seat 7: wzrico ($14.15 in chips) 
+Seat 8: Alameda22 ($50.90 in chips) 
+Seat 9: msna ($28.55 in chips) 
+lpoolreds: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Ks]
+*Cafo*: folds 
+wzrico: folds 
+Alameda22: folds 
+msna: folds 
+UGotTheJack: calls $0.25
+hsGabriel: calls $0.25
+lpoolreds: folds 
+skrzypek: checks 
+*** FLOP *** [Jh 6c Tc]
+skrzypek: bets $0.50
+UGotTheJack: folds 
+hsGabriel: folds 
+Uncalled bet ($0.50) returned to skrzypek
+skrzypek collected $0.85 from pot
+skrzypek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Jh 6c Tc]
+Seat 2: UGotTheJack folded on the Flop
+Seat 3: hsGabriel (button) folded on the Flop
+Seat 4: lpoolreds (small blind) folded before Flop
+Seat 5: skrzypek (big blind) collected ($0.85)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: wzrico folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101469772:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:26:32 ET
+Table 'Thyra IV' 9-max Seat #4 is the button
+Seat 2: UGotTheJack ($13.55 in chips) 
+Seat 3: hsGabriel ($28.85 in chips) 
+Seat 4: lpoolreds ($25.25 in chips) 
+Seat 5: skrzypek ($30.95 in chips) 
+Seat 6: *Cafo* ($8.60 in chips) 
+Seat 7: wzrico ($14.15 in chips) 
+Seat 8: Alameda22 ($50.90 in chips) 
+Seat 9: msna ($28.55 in chips) 
+skrzypek: posts small blind $0.10
+*Cafo*: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Kh]
+wzrico: folds 
+Alameda22: folds 
+msna: folds 
+UGotTheJack: calls $0.25
+hsGabriel: folds 
+lpoolreds: folds 
+skrzypek: folds 
+*Cafo*: checks 
+*** FLOP *** [7c 2h 3d]
+*Cafo*: checks 
+UGotTheJack: checks 
+*** TURN *** [7c 2h 3d] [9d]
+*Cafo*: checks 
+UGotTheJack: checks 
+*** RIVER *** [7c 2h 3d 9d] [7d]
+*Cafo*: checks 
+UGotTheJack: checks 
+*** SHOW DOWN ***
+*Cafo*: shows [5d 8c] (a pair of Sevens)
+UGotTheJack: shows [Jc Qh] (a pair of Sevens - Queen kicker)
+UGotTheJack collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7c 2h 3d 9d 7d]
+Seat 2: UGotTheJack showed [Jc Qh] and won ($0.60) with a pair of Sevens
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 4: lpoolreds (button) folded before Flop (didn't bet)
+Seat 5: skrzypek (small blind) folded before Flop
+Seat 6: *Cafo* (big blind) showed [5d 8c] and lost with a pair of Sevens
+Seat 7: wzrico folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101485210:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:27:15 ET
+Table 'Thyra IV' 9-max Seat #5 is the button
+Seat 2: UGotTheJack ($13.90 in chips) 
+Seat 3: hsGabriel ($28.85 in chips) 
+Seat 4: lpoolreds ($25.25 in chips) 
+Seat 5: skrzypek ($30.85 in chips) 
+Seat 6: *Cafo* ($8.35 in chips) 
+Seat 7: wzrico ($14.15 in chips) 
+Seat 8: Alameda22 ($50.90 in chips) 
+Seat 9: msna ($28.55 in chips) 
+*Cafo*: posts small blind $0.10
+wzrico: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Ad]
+Alameda22: raises $0.75 to $1
+msna: folds 
+UGotTheJack: folds 
+hsGabriel: folds 
+lpoolreds: folds 
+skrzypek: folds 
+*Cafo*: folds 
+wzrico: folds 
+Uncalled bet ($0.75) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek (button) folded before Flop (didn't bet)
+Seat 6: *Cafo* (small blind) folded before Flop
+Seat 7: wzrico (big blind) folded before Flop
+Seat 8: Alameda22 collected ($0.60)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101498380:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:27:51 ET
+Table 'Thyra IV' 9-max Seat #6 is the button
+Seat 2: UGotTheJack ($13.90 in chips) 
+Seat 3: hsGabriel ($28.85 in chips) 
+Seat 4: lpoolreds ($25.25 in chips) 
+Seat 5: skrzypek ($30.85 in chips) 
+Seat 6: *Cafo* ($8.25 in chips) 
+Seat 7: wzrico ($13.90 in chips) 
+Seat 8: Alameda22 ($51.25 in chips) 
+Seat 9: msna ($28.55 in chips) 
+wzrico: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 8h]
+msna: folds 
+UGotTheJack: folds 
+hsGabriel: calls $0.25
+lpoolreds: folds 
+skrzypek: folds 
+*Cafo*: folds 
+wzrico: calls $0.15
+OksanaSB has returned
+Alameda22: checks 
+*** FLOP *** [As Th Tc]
+wzrico: checks 
+Alameda22: checks 
+hsGabriel: checks 
+*** TURN *** [As Th Tc] [9c]
+wzrico: checks 
+Alameda22: checks 
+hsGabriel: checks 
+*** RIVER *** [As Th Tc 9c] [4c]
+wzrico: checks 
+Alameda22: checks 
+hsGabriel: bets $0.50
+wzrico: raises $0.75 to $1.25
+Alameda22: folds 
+hsGabriel: calls $0.75
+*** SHOW DOWN ***
+wzrico: shows [Ts 8c] (three of a kind, Tens)
+hsGabriel: mucks hand 
+wzrico collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [As Th Tc 9c 4c]
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: hsGabriel mucked [Ad 5d]
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* (button) folded before Flop (didn't bet)
+Seat 7: wzrico (small blind) showed [Ts 8c] and won ($3.10) with three of a kind, Tens
+Seat 8: Alameda22 (big blind) folded on the River
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101542325:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:29:53 ET
+Table 'Thyra IV' 9-max Seat #7 is the button
+Seat 1: OksanaSB ($11.85 in chips) 
+Seat 2: UGotTheJack ($13.90 in chips) 
+Seat 3: hsGabriel ($27.35 in chips) 
+Seat 4: lpoolreds ($25.25 in chips) 
+Seat 5: skrzypek ($30.85 in chips) 
+Seat 6: *Cafo* ($8.25 in chips) 
+Seat 7: wzrico ($15.50 in chips) 
+Seat 8: Alameda22 ($51 in chips) 
+Seat 9: msna ($28.55 in chips) 
+Alameda22: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Ks]
+OksanaSB: folds 
+UGotTheJack: calls $0.25
+hsGabriel: folds 
+lpoolreds: folds 
+skrzypek: folds 
+*Cafo*: folds 
+wzrico: folds 
+Alameda22: raises $1 to $1.25
+msna: folds 
+UGotTheJack: folds 
+Uncalled bet ($1) returned to Alameda22
+Alameda22 collected $0.75 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: OksanaSB folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: wzrico (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) collected ($0.75)
+Seat 9: msna (big blind) folded before Flop
+
+
+
+PokerStars Game #20101561174:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:30:44 ET
+Table 'Thyra IV' 9-max Seat #8 is the button
+Seat 1: OksanaSB ($11.85 in chips) 
+Seat 2: UGotTheJack ($13.65 in chips) 
+Seat 3: hsGabriel ($27.35 in chips) 
+Seat 4: lpoolreds ($25.25 in chips) 
+Seat 5: skrzypek ($30.85 in chips) 
+Seat 6: *Cafo* ($8.25 in chips) 
+Seat 7: wzrico ($15.50 in chips) 
+Seat 8: Alameda22 ($51.50 in chips) 
+Seat 9: msna ($28.30 in chips) 
+msna: posts small blind $0.10
+OksanaSB: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Kd]
+UGotTheJack: calls $0.25
+hsGabriel: folds 
+lpoolreds: folds 
+skrzypek: folds 
+*Cafo*: folds 
+wzrico: raises $0.25 to $0.50
+Alameda22: calls $0.50
+msna: folds 
+OksanaSB: folds 
+UGotTheJack: calls $0.25
+*** FLOP *** [9c 5s 4s]
+UGotTheJack: checks 
+wzrico: checks 
+Alameda22: bets $1.25
+UGotTheJack: calls $1.25
+wzrico: folds 
+*** TURN *** [9c 5s 4s] [2d]
+UGotTheJack: checks 
+Alameda22: checks 
+*** RIVER *** [9c 5s 4s 2d] [3h]
+UGotTheJack: bets $3.25
+Alameda22: folds 
+Uncalled bet ($3.25) returned to UGotTheJack
+UGotTheJack collected $4.15 from pot
+*** SUMMARY ***
+Total pot $4.35 | Rake $0.20 
+Board [9c 5s 4s 2d 3h]
+Seat 1: OksanaSB (big blind) folded before Flop
+Seat 2: UGotTheJack collected ($4.15)
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: wzrico folded on the Flop
+Seat 8: Alameda22 (button) folded on the River
+Seat 9: msna (small blind) folded before Flop
+
+
+
+PokerStars Game #20101623580:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:33:32 ET
+Table 'Thyra IV' 9-max Seat #9 is the button
+Seat 1: OksanaSB ($11.60 in chips) 
+Seat 2: UGotTheJack ($16.05 in chips) 
+Seat 3: hsGabriel ($27.35 in chips) 
+Seat 4: lpoolreds ($25.25 in chips) 
+Seat 5: skrzypek ($30.85 in chips) 
+Seat 6: *Cafo* ($8.25 in chips) 
+Seat 7: wzrico ($15 in chips) 
+Seat 8: Alameda22 ($49.75 in chips) 
+Seat 9: msna ($28.20 in chips) 
+OksanaSB: posts small blind $0.10
+UGotTheJack: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Jd]
+hsGabriel: folds 
+lpoolreds: folds 
+skrzypek: folds 
+*Cafo*: folds 
+wzrico: folds 
+Alameda22: folds 
+msna: folds 
+OksanaSB: calls $0.15
+UGotTheJack: raises $0.75 to $1
+OksanaSB: calls $0.75
+*** FLOP *** [5h Ac 5c]
+OksanaSB: checks 
+UGotTheJack: bets $1.25
+OksanaSB: folds 
+Uncalled bet ($1.25) returned to UGotTheJack
+UGotTheJack collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [5h Ac 5c]
+Seat 1: OksanaSB (small blind) folded on the Flop
+Seat 2: UGotTheJack (big blind) collected ($1.90)
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: wzrico folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101642288:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:34:23 ET
+Table 'Thyra IV' 9-max Seat #1 is the button
+Seat 1: OksanaSB ($10.60 in chips) 
+Seat 2: UGotTheJack ($16.95 in chips) 
+Seat 3: hsGabriel ($27.35 in chips) 
+Seat 4: lpoolreds ($25.25 in chips) 
+Seat 5: skrzypek ($30.85 in chips) 
+Seat 6: *Cafo* ($8.25 in chips) 
+Seat 7: wzrico ($15 in chips) 
+Seat 8: Alameda22 ($49.75 in chips) 
+Seat 9: msna ($28.20 in chips) 
+UGotTheJack: posts small blind $0.10
+hsGabriel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 3d]
+lpoolreds: folds 
+skrzypek: folds 
+*Cafo*: folds 
+wzrico: folds 
+Alameda22: folds 
+msna: folds 
+OksanaSB: calls $0.25
+UGotTheJack: calls $0.15
+hsGabriel: raises $0.75 to $1
+OksanaSB: calls $0.75
+UGotTheJack: calls $0.75
+*** FLOP *** [7s Th 2s]
+UGotTheJack: checks 
+hsGabriel: bets $1
+OksanaSB: folds 
+UGotTheJack: calls $1
+*** TURN *** [7s Th 2s] [5d]
+UGotTheJack: bets $4.25
+hsGabriel: calls $4.25
+*** RIVER *** [7s Th 2s 5d] [8h]
+UGotTheJack: checks 
+hsGabriel: bets $2
+UGotTheJack: folds 
+Uncalled bet ($2) returned to hsGabriel
+hsGabriel collected $12.85 from pot
+*** SUMMARY ***
+Total pot $13.50 | Rake $0.65 
+Board [7s Th 2s 5d 8h]
+Seat 1: OksanaSB (button) folded on the Flop
+Seat 2: UGotTheJack (small blind) folded on the River
+Seat 3: hsGabriel (big blind) collected ($12.85)
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: wzrico folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101680259:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:36:07 ET
+Table 'Thyra IV' 9-max Seat #2 is the button
+Seat 1: OksanaSB ($9.60 in chips) 
+Seat 2: UGotTheJack ($10.70 in chips) 
+Seat 3: hsGabriel ($33.95 in chips) 
+Seat 4: lpoolreds ($25.25 in chips) 
+Seat 5: skrzypek ($30.85 in chips) 
+Seat 6: *Cafo* ($8.25 in chips) 
+Seat 7: wzrico ($15 in chips) 
+Seat 8: Alameda22 ($49.75 in chips) 
+Seat 9: msna ($28.20 in chips) 
+hsGabriel: posts small blind $0.10
+lpoolreds: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 8c]
+skrzypek: raises $1.50 to $1.75
+*Cafo*: folds 
+wzrico: folds 
+Alameda22: folds 
+msna: folds 
+OksanaSB: folds 
+UGotTheJack: folds 
+hsGabriel: folds 
+lpoolreds: folds 
+Uncalled bet ($1.50) returned to skrzypek
+skrzypek collected $0.60 from pot
+skrzypek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: OksanaSB folded before Flop (didn't bet)
+Seat 2: UGotTheJack (button) folded before Flop (didn't bet)
+Seat 3: hsGabriel (small blind) folded before Flop
+Seat 4: lpoolreds (big blind) folded before Flop
+Seat 5: skrzypek collected ($0.60)
+Seat 6: *Cafo* folded before Flop (didn't bet)
+Seat 7: wzrico folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101692296:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:36:40 ET
+Table 'Thyra IV' 9-max Seat #3 is the button
+Seat 1: OksanaSB ($9.60 in chips) 
+Seat 2: UGotTheJack ($10.70 in chips) 
+Seat 3: hsGabriel ($33.85 in chips) 
+Seat 4: lpoolreds ($25 in chips) 
+Seat 5: skrzypek ($31.20 in chips) 
+Seat 6: *Cafo* ($8.25 in chips) 
+Seat 7: wzrico ($15 in chips) 
+Seat 8: Alameda22 ($49.75 in chips) 
+Seat 9: msna ($28.20 in chips) 
+lpoolreds: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 7h]
+*Cafo*: calls $0.25
+wzrico: calls $0.25
+Alameda22: folds 
+msna: folds 
+OksanaSB: calls $0.25
+UGotTheJack: folds 
+hsGabriel: folds 
+lpoolreds: folds 
+skrzypek: checks 
+*** FLOP *** [As 8c 5h]
+skrzypek: checks 
+*Cafo*: checks 
+wzrico: checks 
+OksanaSB: checks 
+*** TURN *** [As 8c 5h] [9d]
+skrzypek: checks 
+*Cafo*: bets $0.50
+wzrico: folds 
+OksanaSB: folds 
+skrzypek: raises $0.50 to $1
+*Cafo*: raises $0.50 to $1.50
+skrzypek: calls $0.50
+*** RIVER *** [As 8c 5h 9d] [Kd]
+skrzypek: bets $0.75
+*Cafo*: raises $5.75 to $6.50 and is all-in
+skrzypek: folds 
+Uncalled bet ($5.75) returned to *Cafo*
+*Cafo* collected $5.35 from pot
+*Cafo*: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.25 
+Board [As 8c 5h 9d Kd]
+Seat 1: OksanaSB folded on the Turn
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: hsGabriel (button) folded before Flop (didn't bet)
+Seat 4: lpoolreds (small blind) folded before Flop
+Seat 5: skrzypek (big blind) folded on the River
+Seat 6: *Cafo* collected ($5.35)
+Seat 7: wzrico folded on the Turn
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101727641:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:38:17 ET
+Table 'Thyra IV' 9-max Seat #4 is the button
+Seat 1: OksanaSB ($9.35 in chips) 
+Seat 2: UGotTheJack ($10.70 in chips) 
+Seat 3: hsGabriel ($33.85 in chips) 
+Seat 4: lpoolreds ($24.90 in chips) 
+Seat 5: skrzypek ($28.70 in chips) 
+Seat 7: wzrico ($14.75 in chips) 
+Seat 8: Alameda22 ($49.75 in chips) 
+Seat 9: msna ($28.20 in chips) 
+skrzypek: posts small blind $0.10
+*Cafo*: is sitting out 
+*Cafo* leaves the table
+wzrico: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 6d]
+Alameda22: folds 
+msna: raises $0.75 to $1
+OksanaSB: folds 
+UGotTheJack: folds 
+hsGabriel: folds 
+lpoolreds: folds 
+skrzypek: folds 
+wzrico: folds 
+Uncalled bet ($0.75) returned to msna
+msna collected $0.60 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: OksanaSB folded before Flop (didn't bet)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 4: lpoolreds (button) folded before Flop (didn't bet)
+Seat 5: skrzypek (small blind) folded before Flop
+Seat 7: wzrico (big blind) folded before Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna collected ($0.60)
+
+
+
+PokerStars Game #20101742672:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:38:58 ET
+Table 'Thyra IV' 9-max Seat #5 is the button
+Seat 1: OksanaSB ($9.35 in chips) 
+Seat 2: UGotTheJack ($10.70 in chips) 
+Seat 3: hsGabriel ($33.85 in chips) 
+Seat 4: lpoolreds ($24.90 in chips) 
+Seat 5: skrzypek ($28.60 in chips) 
+Seat 7: wzrico ($14.50 in chips) 
+Seat 8: Alameda22 ($49.75 in chips) 
+Seat 9: msna ($28.55 in chips) 
+wzrico: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 9c]
+msna: folds 
+OksanaSB: calls $0.25
+UGotTheJack: folds 
+hsGabriel: folds 
+lpoolreds: folds 
+skrzypek: folds 
+wzrico: folds 
+Alameda22: checks 
+*** FLOP *** [8d 9d 7c]
+Alameda22: bets $0.50
+OksanaSB: calls $0.50
+*** TURN *** [8d 9d 7c] [8h]
+Alameda22: checks 
+OksanaSB: checks 
+*** RIVER *** [8d 9d 7c 8h] [Qd]
+Alameda22: checks 
+OksanaSB: checks 
+*** SHOW DOWN ***
+Alameda22: shows [5c 9c] (two pair, Nines and Eights)
+OksanaSB: shows [Td 2d] (a flush, Queen high)
+OksanaSB collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [8d 9d 7c 8h Qd]
+Seat 1: OksanaSB showed [Td 2d] and won ($1.55) with a flush, Queen high
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek (button) folded before Flop (didn't bet)
+Seat 7: wzrico (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) showed [5c 9c] and lost with two pair, Nines and Eights
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101773132:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:40:20 ET
+Table 'Thyra IV' 9-max Seat #7 is the button
+Seat 1: OksanaSB ($10.15 in chips) 
+Seat 2: UGotTheJack ($10.70 in chips) 
+Seat 3: hsGabriel ($33.85 in chips) 
+Seat 4: lpoolreds ($24.90 in chips) 
+Seat 5: skrzypek ($28.60 in chips) 
+Seat 7: wzrico ($14.40 in chips) 
+Seat 8: Alameda22 ($49 in chips) 
+Seat 9: msna ($28.55 in chips) 
+Alameda22: posts small blind $0.10
+msna: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 9s]
+OksanaSB: calls $0.25
+UGotTheJack: folds 
+hsGabriel: folds 
+lpoolreds: folds 
+skrzypek: folds 
+wzrico: folds 
+Alameda22: folds 
+msna: checks 
+*** FLOP *** [Kh 8c 3s]
+msna: checks 
+OksanaSB: bets $0.25
+msna: folds 
+Uncalled bet ($0.25) returned to OksanaSB
+OksanaSB collected $0.60 from pot
+OksanaSB: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kh 8c 3s]
+Seat 1: OksanaSB collected ($0.60)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 7: wzrico (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: msna (big blind) folded on the Flop
+
+
+
+PokerStars Game #20101793755:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:41:17 ET
+Table 'Thyra IV' 9-max Seat #8 is the button
+Seat 1: OksanaSB ($10.50 in chips) 
+Seat 2: UGotTheJack ($10.70 in chips) 
+Seat 3: hsGabriel ($33.85 in chips) 
+Seat 4: lpoolreds ($24.90 in chips) 
+Seat 5: skrzypek ($28.60 in chips) 
+Seat 7: wzrico ($14.40 in chips) 
+Seat 8: Alameda22 ($48.90 in chips) 
+Seat 9: msna ($28.30 in chips) 
+msna: posts small blind $0.10
+OksanaSB: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h As]
+UGotTheJack: folds 
+hsGabriel: folds 
+lpoolreds: folds 
+skrzypek: folds 
+wzrico: folds 
+Alameda22: folds 
+msna: folds 
+Uncalled bet ($0.15) returned to OksanaSB
+OksanaSB collected $0.20 from pot
+OksanaSB: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: OksanaSB (big blind) collected ($0.20)
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 7: wzrico folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: msna (small blind) folded before Flop
+
+
+
+PokerStars Game #20101807626:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:41:54 ET
+Table 'Thyra IV' 9-max Seat #9 is the button
+Seat 1: OksanaSB ($10.60 in chips) 
+Seat 2: UGotTheJack ($10.70 in chips) 
+Seat 3: hsGabriel ($33.85 in chips) 
+Seat 4: lpoolreds ($24.90 in chips) 
+Seat 5: skrzypek ($28.60 in chips) 
+Seat 7: wzrico ($14.40 in chips) 
+Seat 8: Alameda22 ($48.90 in chips) 
+Seat 9: msna ($28.20 in chips) 
+OksanaSB: posts small blind $0.10
+UGotTheJack: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 7d]
+hsGabriel: folds 
+lpoolreds: raises $0.75 to $1
+skrzypek: folds 
+lastnamenoww joins the table at seat #6 
+wzrico: calls $1
+Alameda22: folds 
+msna: folds 
+OksanaSB: folds 
+UGotTheJack: folds 
+*** FLOP *** [5s Kh 8s]
+lpoolreds: bets $1.25
+wzrico: calls $1.25
+*** TURN *** [5s Kh 8s] [7s]
+lpoolreds: checks 
+wzrico: bets $1
+hsGabriel leaves the table
+lpoolreds: folds 
+Uncalled bet ($1) returned to wzrico
+wzrico collected $4.65 from pot
+wzrico: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [5s Kh 8s 7s]
+Seat 1: OksanaSB (small blind) folded before Flop
+Seat 2: UGotTheJack (big blind) folded before Flop
+Seat 3: hsGabriel folded before Flop (didn't bet)
+Seat 4: lpoolreds folded on the Turn
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 7: wzrico collected ($4.65)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101831752:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:43:00 ET
+Table 'Thyra IV' 9-max Seat #1 is the button
+Seat 1: OksanaSB ($10.50 in chips) 
+Seat 2: UGotTheJack ($10.45 in chips) 
+Seat 4: lpoolreds ($25 in chips) 
+Seat 5: skrzypek ($28.60 in chips) 
+Seat 7: wzrico ($16.80 in chips) 
+Seat 8: Alameda22 ($48.90 in chips) 
+Seat 9: msna ($28.20 in chips) 
+UGotTheJack: posts small blind $0.10
+lpoolreds: posts big blind $0.25
+lastnamenoww: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 3h]
+skrzypek: folds 
+wzrico: folds 
+Alameda22: folds 
+msna: folds 
+OksanaSB has timed out
+OksanaSB: folds 
+OksanaSB is sitting out
+UGotTheJack: folds 
+Uncalled bet ($0.15) returned to lpoolreds
+lpoolreds collected $0.20 from pot
+lpoolreds: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: OksanaSB (button) folded before Flop (didn't bet)
+Seat 2: UGotTheJack (small blind) folded before Flop
+Seat 4: lpoolreds (big blind) collected ($0.20)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 7: wzrico folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101854574:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:44:02 ET
+Table 'Thyra IV' 9-max Seat #2 is the button
+Seat 2: UGotTheJack ($10.35 in chips) 
+Seat 4: lpoolreds ($25.10 in chips) 
+Seat 5: skrzypek ($28.60 in chips) 
+Seat 7: wzrico ($16.80 in chips) 
+Seat 8: Alameda22 ($48.90 in chips) 
+Seat 9: msna ($28.20 in chips) 
+lpoolreds: posts small blind $0.10
+skrzypek: posts big blind $0.25
+lastnamenoww: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Qc]
+wzrico: folds 
+Alameda22: raises $0.75 to $1
+msna: folds 
+UGotTheJack: folds 
+lpoolreds: folds 
+skrzypek: folds 
+Uncalled bet ($0.75) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: UGotTheJack (button) folded before Flop (didn't bet)
+Seat 4: lpoolreds (small blind) folded before Flop
+Seat 5: skrzypek (big blind) folded before Flop
+Seat 7: wzrico folded before Flop (didn't bet)
+Seat 8: Alameda22 collected ($0.60)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101867054:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:44:36 ET
+Table 'Thyra IV' 9-max Seat #4 is the button
+Seat 2: UGotTheJack ($10.35 in chips) 
+Seat 4: lpoolreds ($25 in chips) 
+Seat 5: skrzypek ($28.35 in chips) 
+Seat 6: lastnamenoww ($25 in chips) 
+Seat 7: wzrico ($16.80 in chips) 
+Seat 8: Alameda22 ($49.25 in chips) 
+Seat 9: msna ($28.20 in chips) 
+skrzypek: posts small blind $0.10
+lastnamenoww: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 6c]
+wzrico: folds 
+Alameda22: folds 
+msna: folds 
+UGotTheJack: folds 
+lpoolreds: folds 
+skrzypek: raises $0.50 to $0.75
+doveturtle joins the table at seat #3 
+lastnamenoww: raises $2.50 to $3.25
+skrzypek: calls $2.50
+*** FLOP *** [7d 8c 4d]
+skrzypek: checks 
+lastnamenoww: checks 
+*** TURN *** [7d 8c 4d] [8s]
+skrzypek: bets $2
+lastnamenoww: raises $4 to $6
+skrzypek: calls $4
+*** RIVER *** [7d 8c 4d 8s] [5c]
+skrzypek: checks 
+lastnamenoww: bets $15.75 and is all-in
+skrzypek: folds 
+Uncalled bet ($15.75) returned to lastnamenoww
+OksanaSB has returned
+lastnamenoww collected $17.60 from pot
+*** SUMMARY ***
+Total pot $18.50 | Rake $0.90 
+Board [7d 8c 4d 8s 5c]
+Seat 2: UGotTheJack folded before Flop (didn't bet)
+Seat 4: lpoolreds (button) folded before Flop (didn't bet)
+Seat 5: skrzypek (small blind) folded on the River
+Seat 6: lastnamenoww (big blind) collected ($17.60)
+Seat 7: wzrico folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101904247:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:46:18 ET
+Table 'Thyra IV' 9-max Seat #5 is the button
+Seat 1: OksanaSB ($10.50 in chips) 
+Seat 2: UGotTheJack ($10.35 in chips) 
+Seat 3: doveturtle ($15 in chips) 
+Seat 4: lpoolreds ($25 in chips) 
+Seat 5: skrzypek ($25 in chips) 
+Seat 6: lastnamenoww ($33.35 in chips) 
+Seat 7: wzrico ($16.80 in chips) 
+Seat 8: Alameda22 ($49.25 in chips) 
+Seat 9: msna ($28.20 in chips) 
+lastnamenoww: posts small blind $0.10
+wzrico: posts big blind $0.25
+doveturtle: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Kc]
+Alameda22: folds 
+msna: folds 
+OksanaSB: calls $0.25
+UGotTheJack: raises $0.75 to $1
+doveturtle: folds 
+lastnamenoww said, "keep that bvb battle for easier tables boss"
+lpoolreds: folds 
+skrzypek: folds 
+lastnamenoww: folds 
+wzrico: folds 
+OksanaSB: calls $0.75
+*** FLOP *** [Ac 9d Ad]
+OksanaSB: bets $0.25
+UGotTheJack: raises $1.25 to $1.50
+OksanaSB: calls $1.25
+*** TURN *** [Ac 9d Ad] [Td]
+OksanaSB: bets $2.50
+UGotTheJack: raises $5.35 to $7.85 and is all-in
+OksanaSB: calls $5.35
+*** RIVER *** [Ac 9d Ad Td] [As]
+*** SHOW DOWN ***
+OksanaSB: shows [4d Jd] (a flush, Ace high)
+UGotTheJack: mucks hand 
+OksanaSB collected $20.25 from pot
+*** SUMMARY ***
+Total pot $21.30 | Rake $1.05 
+Board [Ac 9d Ad Td As]
+Seat 1: OksanaSB showed [4d Jd] and won ($20.25) with a flush, Ace high
+Seat 2: UGotTheJack mucked [Kh Qs]
+Seat 3: doveturtle folded before Flop
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek (button) folded before Flop (didn't bet)
+Seat 6: lastnamenoww (small blind) folded before Flop
+Seat 7: wzrico (big blind) folded before Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101943895:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:48:08 ET
+Table 'Thyra IV' 9-max Seat #6 is the button
+Seat 1: OksanaSB ($20.40 in chips) 
+Seat 3: doveturtle ($14.75 in chips) 
+Seat 4: lpoolreds ($25 in chips) 
+Seat 5: skrzypek ($25 in chips) 
+Seat 6: lastnamenoww ($33.25 in chips) 
+Seat 7: wzrico ($16.55 in chips) 
+Seat 8: Alameda22 ($49.25 in chips) 
+Seat 9: msna ($28.20 in chips) 
+wzrico: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Qs]
+UGotTheJack leaves the table
+msna: folds 
+OksanaSB: calls $0.25
+doveturtle: folds 
+lpoolreds: folds 
+skrzypek: folds 
+lastnamenoww is disconnected 
+thevegas joins the table at seat #2 
+lastnamenoww has timed out while disconnected
+lastnamenoww: folds 
+lastnamenoww is sitting out
+wzrico: calls $0.15
+lastnamenoww is connected 
+Alameda22: checks 
+*** FLOP *** [6d 5c 9d]
+wzrico: checks 
+Alameda22: checks 
+OksanaSB: bets $0.25
+wzrico: folds 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to OksanaSB
+OksanaSB collected $0.75 from pot
+OksanaSB: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [6d 5c 9d]
+Seat 1: OksanaSB collected ($0.75)
+Seat 3: doveturtle folded before Flop (didn't bet)
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: lastnamenoww (button) folded before Flop (didn't bet)
+Seat 7: wzrico (small blind) folded on the Flop
+Seat 8: Alameda22 (big blind) folded on the Flop
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101982824:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:49:54 ET
+Table 'Thyra IV' 9-max Seat #7 is the button
+Seat 1: OksanaSB ($20.90 in chips) 
+Seat 3: doveturtle ($14.75 in chips) 
+Seat 4: lpoolreds ($25 in chips) 
+Seat 5: skrzypek ($25 in chips) 
+Seat 7: wzrico ($16.30 in chips) 
+Seat 8: Alameda22 ($49 in chips) 
+Seat 9: msna ($28.20 in chips) 
+Alameda22: posts small blind $0.10
+msna: posts big blind $0.25
+thevegas: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 7d]
+OksanaSB: folds 
+doveturtle: calls $0.25
+lpoolreds: folds 
+skrzypek: folds 
+wzrico: raises $0.25 to $0.50
+Alameda22: folds 
+msna: folds 
+doveturtle: calls $0.25
+*** FLOP *** [8h Qd 4s]
+doveturtle: checks 
+lastnamenoww has returned
+wzrico: checks 
+*** TURN *** [8h Qd 4s] [7h]
+doveturtle: checks 
+wzrico: bets $0.50
+doveturtle: folds 
+Uncalled bet ($0.50) returned to wzrico
+wzrico collected $1.30 from pot
+wzrico: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [8h Qd 4s 7h]
+Seat 1: OksanaSB folded before Flop (didn't bet)
+Seat 3: doveturtle folded on the Turn
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 7: wzrico (button) collected ($1.30)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: msna (big blind) folded before Flop
+
+
+
+PokerStars Game #20102013650:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:51:20 ET
+Table 'Thyra IV' 9-max Seat #8 is the button
+Seat 1: OksanaSB ($20.90 in chips) 
+Seat 3: doveturtle ($14.25 in chips) 
+Seat 4: lpoolreds ($25 in chips) 
+Seat 5: skrzypek ($25 in chips) 
+Seat 6: lastnamenoww ($33.25 in chips) 
+Seat 7: wzrico ($17.10 in chips) 
+Seat 8: Alameda22 ($48.90 in chips) 
+Seat 9: msna ($27.95 in chips) 
+msna: posts small blind $0.10
+OksanaSB: posts big blind $0.25
+thevegas: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 6d]
+doveturtle: calls $0.25
+lpoolreds: folds 
+skrzypek: folds 
+lastnamenoww: folds 
+wzrico: folds 
+Alameda22: folds 
+msna: folds 
+OksanaSB: checks 
+*** FLOP *** [Th Jd Td]
+OksanaSB: bets $0.25
+doveturtle: folds 
+Uncalled bet ($0.25) returned to OksanaSB
+OksanaSB collected $0.60 from pot
+OksanaSB: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Th Jd Td]
+Seat 1: OksanaSB (big blind) collected ($0.60)
+Seat 3: doveturtle folded on the Flop
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: lastnamenoww folded before Flop (didn't bet)
+Seat 7: wzrico folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: msna (small blind) folded before Flop
+
+
+
+PokerStars Game #20102030992:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:52:08 ET
+Table 'Thyra IV' 9-max Seat #9 is the button
+Seat 1: OksanaSB ($21.25 in chips) 
+Seat 2: thevegas ($5 in chips) 
+Seat 3: doveturtle ($14 in chips) 
+Seat 4: lpoolreds ($25 in chips) 
+Seat 5: skrzypek ($25 in chips) 
+Seat 6: lastnamenoww ($33.25 in chips) 
+Seat 7: wzrico ($17.10 in chips) 
+Seat 8: Alameda22 ($48.90 in chips) 
+Seat 9: msna ($27.85 in chips) 
+OksanaSB: posts small blind $0.10
+thevegas: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 9s]
+doveturtle: calls $0.25
+lpoolreds: folds 
+skrzypek: folds 
+lastnamenoww: raises $0.75 to $1
+wzrico: folds 
+Alameda22: folds 
+msna: folds 
+OksanaSB: folds 
+thevegas: folds 
+doveturtle: calls $0.75
+*** FLOP *** [9d 4h 5c]
+doveturtle: checks 
+lastnamenoww: checks 
+*** TURN *** [9d 4h 5c] [Qh]
+doveturtle: checks 
+lastnamenoww: checks 
+*** RIVER *** [9d 4h 5c Qh] [6d]
+doveturtle: checks 
+lastnamenoww: checks 
+*** SHOW DOWN ***
+doveturtle: shows [Jh 8c] (high card Queen)
+lastnamenoww: shows [As Jc] (high card Ace)
+lastnamenoww collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [9d 4h 5c Qh 6d]
+Seat 1: OksanaSB (small blind) folded before Flop
+Seat 2: thevegas (big blind) folded before Flop
+Seat 3: doveturtle showed [Jh 8c] and lost with high card Queen
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: lastnamenoww showed [As Jc] and won ($2.25) with high card Ace
+Seat 7: wzrico folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102069217:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:53:53 ET
+Table 'Thyra IV' 9-max Seat #1 is the button
+Seat 1: OksanaSB ($21.15 in chips) 
+Seat 2: thevegas ($4.75 in chips) 
+Seat 3: doveturtle ($13 in chips) 
+Seat 4: lpoolreds ($25 in chips) 
+Seat 5: skrzypek ($25 in chips) 
+Seat 6: lastnamenoww ($34.50 in chips) 
+Seat 7: wzrico ($17.10 in chips) 
+Seat 8: Alameda22 ($48.90 in chips) 
+Seat 9: msna ($27.85 in chips) 
+thevegas: posts small blind $0.10
+doveturtle: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Jc]
+lpoolreds: folds 
+skrzypek: folds 
+skrzypek leaves the table
+lastnamenoww: folds 
+wzrico: folds 
+Alameda22: folds 
+msna: folds 
+OksanaSB: folds 
+thevegas: raises $0.75 to $1
+doveturtle: calls $0.75
+*** FLOP *** [8h As 3d]
+thevegas: bets $1
+doveturtle: calls $1
+*** TURN *** [8h As 3d] [3c]
+thevegas: checks 
+doveturtle: bets $1.25
+thevegas: raises $1.25 to $2.50
+doveturtle: calls $1.25
+*** RIVER *** [8h As 3d 3c] [Tc]
+thevegas: bets $0.25 and is all-in
+doveturtle: calls $0.25
+*** SHOW DOWN ***
+thevegas: shows [Ac Qc] (two pair, Aces and Threes)
+doveturtle: mucks hand 
+thevegas collected $9.05 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.45 
+Board [8h As 3d 3c Tc]
+Seat 1: OksanaSB (button) folded before Flop (didn't bet)
+Seat 2: thevegas (small blind) showed [Ac Qc] and won ($9.05) with two pair, Aces and Threes
+Seat 3: doveturtle (big blind) mucked [5c 5h]
+Seat 4: lpoolreds folded before Flop (didn't bet)
+Seat 5: skrzypek folded before Flop (didn't bet)
+Seat 6: lastnamenoww folded before Flop (didn't bet)
+Seat 7: wzrico folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102090948:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:54:53 ET
+Table 'Thyra IV' 9-max Seat #2 is the button
+Seat 1: OksanaSB ($21.15 in chips) 
+Seat 2: thevegas ($9.05 in chips) 
+Seat 3: doveturtle ($8.25 in chips) 
+Seat 4: lpoolreds ($25 in chips) 
+Seat 6: lastnamenoww ($34.50 in chips) 
+Seat 7: wzrico ($17.10 in chips) 
+Seat 8: Alameda22 ($48.90 in chips) 
+Seat 9: msna ($27.85 in chips) 
+doveturtle: posts small blind $0.10
+lpoolreds: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 6s]
+lastnamenoww: folds 
+wzrico: folds 
+Alameda22: folds 
+msna: raises $0.75 to $1
+OksanaSB: folds 
+thevegas: folds 
+doveturtle: folds 
+lpoolreds: folds 
+Uncalled bet ($0.75) returned to msna
+lpoolreds leaves the table
+msna collected $0.60 from pot
+msna: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: OksanaSB folded before Flop (didn't bet)
+Seat 2: thevegas (button) folded before Flop (didn't bet)
+Seat 3: doveturtle (small blind) folded before Flop
+Seat 4: lpoolreds (big blind) folded before Flop
+Seat 6: lastnamenoww folded before Flop (didn't bet)
+Seat 7: wzrico folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: msna collected ($0.60)
+
+
+
+PokerStars Game #20102110504:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:55:47 ET
+Table 'Thyra IV' 9-max Seat #3 is the button
+Seat 1: OksanaSB ($21.15 in chips) 
+Seat 2: thevegas ($9.05 in chips) 
+Seat 3: doveturtle ($8.15 in chips) 
+Seat 6: lastnamenoww ($34.50 in chips) 
+Seat 8: Alameda22 ($48.90 in chips) 
+Seat 9: msna ($28.20 in chips) 
+lastnamenoww is disconnected 
+lastnamenoww is connected 
+lastnamenoww: posts small blind $0.10
+wzrico: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Kd]
+wzrico leaves the table
+msna: folds 
+msna leaves the table
+OksanaSB: folds 
+thevegas: folds 
+doveturtle: folds 
+lastnamenoww: folds 
+Uncalled bet ($0.15) returned to Alameda22
+lastnamenoww leaves the table
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: OksanaSB folded before Flop (didn't bet)
+Seat 2: thevegas folded before Flop (didn't bet)
+Seat 3: doveturtle (button) folded before Flop (didn't bet)
+Seat 6: lastnamenoww (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) collected ($0.20)
+Seat 9: msna folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102126927:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:56:31 ET
+Table 'Thyra IV' 9-max Seat #8 is the button
+Seat 1: OksanaSB ($21.15 in chips) 
+Seat 3: doveturtle ($8.15 in chips) 
+Seat 8: Alameda22 ($49 in chips) 
+OksanaSB: posts small blind $0.10
+thevegas: is sitting out 
+doveturtle: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Ah]
+thevegas leaves the table
+Alameda22: folds 
+OksanaSB: calls $0.15
+doveturtle: raises $0.25 to $0.50
+OksanaSB: calls $0.25
+*** FLOP *** [Td Qc 9h]
+OksanaSB: checks 
+doveturtle: bets $0.25
+OksanaSB: folds 
+Uncalled bet ($0.25) returned to doveturtle
+OksanaSB is sitting out
+doveturtle collected $0.95 from pot
+doveturtle: doesn't show hand 
+OksanaSB leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Td Qc 9h]
+Seat 1: OksanaSB (small blind) folded on the Flop
+Seat 3: doveturtle (big blind) collected ($0.95)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+
+
+

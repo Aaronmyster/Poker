@@ -1,0 +1,2342 @@
+PokerStars Game #19978678441:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 22:51:24 (ET)
+Table 'Graffias III' 9-max Seat #9 is the button
+Seat 2: tushjd ($2.60 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 5: Bacurau888 ($19.80 in chips) 
+Seat 6: yousifm ($30.60 in chips) 
+Seat 7: champs25 ($25.15 in chips) 
+Seat 8: bbeckerlssu ($22.55 in chips) 
+Seat 9: elaine168 ($18.40 in chips) 
+tushjd: posts small blind $0.10
+Alameda22: posts big blind $0.25
+ducktron: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Js]
+Bacurau888: calls $0.25
+yousifm: folds 
+champs25: folds 
+bbeckerlssu: folds 
+elaine168: folds 
+tushjd: folds 
+Alameda22: checks 
+*** FLOP *** [2d 5d 4d]
+Alameda22: checks 
+Bacurau888: checks 
+*** TURN *** [2d 5d 4d] [Jd]
+Alameda22: checks 
+Bacurau888: checks 
+*** RIVER *** [2d 5d 4d Jd] [Ts]
+Alameda22: bets $0.50
+Bacurau888: calls $0.50
+*** SHOW DOWN ***
+Alameda22: shows [Qs Js] (a pair of Jacks)
+Bacurau888: shows [2c 2s] (three of a kind, Deuces)
+Bacurau888 collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [2d 5d 4d Jd Ts]
+Seat 2: tushjd (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) showed [Qs Js] and lost with a pair of Jacks
+Seat 5: Bacurau888 showed [2c 2s] and won ($1.55) with three of a kind, Deuces
+Seat 6: yousifm folded before Flop (didn't bet)
+Seat 7: champs25 folded before Flop (didn't bet)
+Seat 8: bbeckerlssu folded before Flop (didn't bet)
+Seat 9: elaine168 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19978699374:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 22:52:22 (ET)
+Table 'Graffias III' 9-max Seat #2 is the button
+Seat 2: tushjd ($2.50 in chips) 
+Seat 3: Alameda22 ($24.25 in chips) 
+Seat 4: ducktron ($6.80 in chips) 
+Seat 5: Bacurau888 ($20.60 in chips) 
+Seat 6: yousifm ($30.60 in chips) 
+Seat 7: champs25 ($25.15 in chips) 
+Seat 8: bbeckerlssu ($22.55 in chips) 
+Seat 9: elaine168 ($18.40 in chips) 
+Alameda22: posts small blind $0.10
+ducktron: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Kc]
+Bacurau888: folds 
+yousifm: folds 
+champs25: calls $0.25
+bbeckerlssu: raises $0.75 to $1
+elaine168: folds 
+tushjd: raises $1.50 to $2.50 and is all-in
+Alameda22: folds 
+ducktron: folds 
+champs25: calls $2.25
+TennePenne joins the table at seat #1 
+bbeckerlssu: calls $1.50
+*** FLOP *** [Js Jd 8d]
+champs25: checks 
+bbeckerlssu: checks 
+*** TURN *** [Js Jd 8d] [6c]
+champs25: checks 
+bbeckerlssu: bets $2.50
+champs25: folds 
+Uncalled bet ($2.50) returned to bbeckerlssu
+*** RIVER *** [Js Jd 8d 6c] [6h]
+*** SHOW DOWN ***
+bbeckerlssu: shows [Jc Tc] (a full house, Jacks full of Sixes)
+tushjd: mucks hand 
+tushjd leaves the table
+bbeckerlssu collected $7.50 from pot
+*** SUMMARY ***
+Total pot $7.85 | Rake $0.35 
+Board [Js Jd 8d 6c 6h]
+Seat 2: tushjd (button) mucked [Ac 3h]
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: ducktron (big blind) folded before Flop
+Seat 5: Bacurau888 folded before Flop (didn't bet)
+Seat 6: yousifm folded before Flop (didn't bet)
+Seat 7: champs25 folded on the Turn
+Seat 8: bbeckerlssu showed [Jc Tc] and won ($7.50) with a full house, Jacks full of Sixes
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19978720196:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 22:53:21 (ET)
+Table 'Graffias III' 9-max Seat #3 is the button
+Seat 3: Alameda22 ($24.15 in chips) 
+Seat 4: ducktron ($6.55 in chips) 
+Seat 5: Bacurau888 ($20.60 in chips) 
+Seat 6: yousifm ($30.60 in chips) 
+Seat 7: champs25 ($22.65 in chips) 
+Seat 8: bbeckerlssu ($27.55 in chips) 
+Seat 9: elaine168 ($18.40 in chips) 
+ducktron: posts small blind $0.10
+Bacurau888: posts big blind $0.25
+TennePenne: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 7s]
+yousifm: folds 
+champs25: calls $0.25
+bbeckerlssu: folds 
+Aioras joins the table at seat #2 
+elaine168: calls $0.25
+Alameda22: folds 
+ducktron: calls $0.15
+Bacurau888: checks 
+*** FLOP *** [3h Qc 5c]
+ducktron: checks 
+Bacurau888: checks 
+champs25: checks 
+elaine168: bets $0.50
+ducktron: folds 
+Bacurau888: calls $0.50
+champs25: folds 
+*** TURN *** [3h Qc 5c] [4c]
+Bacurau888: checks 
+elaine168: checks 
+*** RIVER *** [3h Qc 5c 4c] [5h]
+Bacurau888: checks 
+elaine168: checks 
+*** SHOW DOWN ***
+Bacurau888: shows [Tc Td] (two pair, Tens and Fives)
+elaine168: mucks hand 
+Bacurau888 collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [3h Qc 5c 4c 5h]
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: ducktron (small blind) folded on the Flop
+Seat 5: Bacurau888 (big blind) showed [Tc Td] and won ($1.95) with two pair, Tens and Fives
+Seat 6: yousifm folded before Flop (didn't bet)
+Seat 7: champs25 folded on the Flop
+Seat 8: bbeckerlssu folded before Flop (didn't bet)
+Seat 9: elaine168 mucked [8h Ac]
+
+
+
+PokerStars Game #19978742912:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 22:54:25 (ET)
+Table 'Graffias III' 9-max Seat #4 is the button
+Seat 3: Alameda22 ($24.15 in chips) 
+Seat 4: ducktron ($6.30 in chips) 
+Seat 5: Bacurau888 ($21.80 in chips) 
+Seat 6: yousifm ($30.60 in chips) 
+Seat 7: champs25 ($22.40 in chips) 
+Seat 8: bbeckerlssu ($27.55 in chips) 
+Seat 9: elaine168 ($17.65 in chips) 
+Bacurau888: posts small blind $0.10
+yousifm: posts big blind $0.25
+TennePenne: sits out 
+Aioras: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Th]
+champs25: calls $0.25
+bbeckerlssu: raises $0.75 to $1
+elaine168: calls $1
+Alameda22: folds 
+ducktron: folds 
+Bacurau888: folds 
+yousifm: folds 
+champs25: calls $0.75
+*** FLOP *** [Qc 2s 6h]
+champs25: bets $0.25
+bbeckerlssu: raises $0.75 to $1
+elaine168: calls $1
+champs25: calls $0.75
+*** TURN *** [Qc 2s 6h] [5h]
+champs25: checks 
+bbeckerlssu: checks 
+elaine168: bets $2
+champs25: calls $2
+bbeckerlssu: folds 
+*** RIVER *** [Qc 2s 6h 5h] [Ad]
+champs25: checks 
+elaine168: checks 
+*** SHOW DOWN ***
+champs25: shows [6d 7d] (a pair of Sixes)
+elaine168: shows [Kd Qs] (a pair of Queens)
+elaine168 collected $9.85 from pot
+*** SUMMARY ***
+Total pot $10.35 | Rake $0.50 
+Board [Qc 2s 6h 5h Ad]
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: ducktron (button) folded before Flop (didn't bet)
+Seat 5: Bacurau888 (small blind) folded before Flop
+Seat 6: yousifm (big blind) folded before Flop
+Seat 7: champs25 showed [6d 7d] and lost with a pair of Sixes
+Seat 8: bbeckerlssu folded on the Turn
+Seat 9: elaine168 showed [Kd Qs] and won ($9.85) with a pair of Queens
+
+
+
+PokerStars Game #19978763025:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 22:55:22 (ET)
+Table 'Graffias III' 9-max Seat #5 is the button
+Seat 3: Alameda22 ($24.15 in chips) 
+Seat 4: ducktron ($6.30 in chips) 
+Seat 5: Bacurau888 ($21.70 in chips) 
+Seat 6: yousifm ($30.35 in chips) 
+Seat 7: champs25 ($18.40 in chips) 
+Seat 8: bbeckerlssu ($25.55 in chips) 
+Seat 9: elaine168 ($23.50 in chips) 
+yousifm: posts small blind $0.10
+champs25: posts big blind $0.25
+TennePenne: sits out 
+Aioras: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 4s]
+bbeckerlssu: folds 
+elaine168: calls $0.25
+Alameda22: folds 
+ducktron: raises $0.50 to $0.75
+Bacurau888: calls $0.75
+yousifm: calls $0.65
+champs25: calls $0.50
+elaine168: folds 
+*** FLOP *** [3c 2d 5s]
+yousifm: checks 
+champs25: bets $0.25
+ducktron: calls $0.25
+Bacurau888: calls $0.25
+yousifm: calls $0.25
+*** TURN *** [3c 2d 5s] [Ah]
+yousifm: bets $2.50
+champs25: calls $2.50
+ducktron: folds 
+Bacurau888: folds 
+*** RIVER *** [3c 2d 5s Ah] [9h]
+yousifm: bets $6
+champs25: calls $6
+*** SHOW DOWN ***
+yousifm: shows [4d 4c] (a straight, Ace to Five)
+champs25: shows [4h 5d] (a straight, Ace to Five)
+yousifm collected $10.15 from pot
+champs25 collected $10.10 from pot
+*** SUMMARY ***
+Total pot $21.25 | Rake $1 
+Board [3c 2d 5s Ah 9h]
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: ducktron folded on the Turn
+Seat 5: Bacurau888 (button) folded on the Turn
+Seat 6: yousifm (small blind) showed [4d 4c] and won ($10.15) with a straight, Ace to Five
+Seat 7: champs25 (big blind) showed [4h 5d] and won ($10.10) with a straight, Ace to Five
+Seat 8: bbeckerlssu folded before Flop (didn't bet)
+Seat 9: elaine168 folded before Flop
+
+
+
+PokerStars Game #19978788583:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 22:56:34 (ET)
+Table 'Graffias III' 9-max Seat #6 is the button
+Seat 3: Alameda22 ($24.15 in chips) 
+Seat 4: ducktron ($5.30 in chips) 
+Seat 5: Bacurau888 ($20.70 in chips) 
+Seat 6: yousifm ($31 in chips) 
+Seat 7: champs25 ($19 in chips) 
+Seat 8: bbeckerlssu ($25.55 in chips) 
+Seat 9: elaine168 ($23.25 in chips) 
+champs25: posts small blind $0.10
+bbeckerlssu: posts big blind $0.25
+TennePenne: sits out 
+Aioras: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 7c]
+elaine168: calls $0.25
+Alameda22: folds 
+ducktron: folds 
+Bacurau888: calls $0.25
+yousifm: folds 
+champs25: calls $0.15
+bbeckerlssu: checks 
+*** FLOP *** [8h 8s 5c]
+champs25: checks 
+bbeckerlssu: checks 
+elaine168: checks 
+Bacurau888: checks 
+*** TURN *** [8h 8s 5c] [5d]
+champs25: checks 
+bbeckerlssu: checks 
+elaine168: bets $0.50
+Bacurau888: folds 
+champs25: folds 
+bbeckerlssu: folds 
+Uncalled bet ($0.50) returned to elaine168
+elaine168 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [8h 8s 5c 5d]
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: ducktron folded before Flop (didn't bet)
+Seat 5: Bacurau888 folded on the Turn
+Seat 6: yousifm (button) folded before Flop (didn't bet)
+Seat 7: champs25 (small blind) folded on the Turn
+Seat 8: bbeckerlssu (big blind) folded on the Turn
+Seat 9: elaine168 collected ($0.95)
+
+
+
+PokerStars Game #19978812816:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 22:57:43 (ET)
+Table 'Graffias III' 9-max Seat #7 is the button
+Seat 3: Alameda22 ($24.15 in chips) 
+Seat 4: ducktron ($5.30 in chips) 
+Seat 5: Bacurau888 ($20.45 in chips) 
+Seat 6: yousifm ($31 in chips) 
+Seat 7: champs25 ($18.75 in chips) 
+Seat 8: bbeckerlssu ($25.30 in chips) 
+Seat 9: elaine168 ($23.95 in chips) 
+bbeckerlssu: posts small blind $0.10
+elaine168: posts big blind $0.25
+TennePenne: sits out 
+Aioras: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 7d]
+Alameda22: folds 
+ducktron: folds 
+Bacurau888: folds 
+yousifm: folds 
+champs25: folds 
+champs25 is sitting out
+bbeckerlssu: calls $0.15
+elaine168: checks 
+*** FLOP *** [3s 3h 4c]
+bbeckerlssu: checks 
+elaine168: checks 
+*** TURN *** [3s 3h 4c] [As]
+bbeckerlssu: checks 
+elaine168: checks 
+*** RIVER *** [3s 3h 4c As] [7c]
+bbeckerlssu has timed out
+bbeckerlssu: folds 
+bbeckerlssu is sitting out
+bbeckerlssu has returned
+elaine168 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [3s 3h 4c As 7c]
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: ducktron folded before Flop (didn't bet)
+Seat 5: Bacurau888 folded before Flop (didn't bet)
+Seat 6: yousifm folded before Flop (didn't bet)
+Seat 7: champs25 (button) folded before Flop (didn't bet)
+Seat 8: bbeckerlssu (small blind) folded on the River
+Seat 9: elaine168 (big blind) collected ($0.50)
+
+
+
+PokerStars Game #19978861990:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:00:06 (ET)
+Table 'Graffias III' 9-max Seat #8 is the button
+Seat 1: TennePenne ($25 in chips) 
+Seat 3: Alameda22 ($24.15 in chips) 
+Seat 4: ducktron ($5.30 in chips) 
+Seat 5: Bacurau888 ($20.45 in chips) 
+Seat 6: yousifm ($31 in chips) 
+Seat 8: bbeckerlssu ($25.05 in chips) 
+Seat 9: elaine168 ($24.20 in chips) 
+elaine168: posts small blind $0.10
+TennePenne: posts big blind $0.25
+Aioras: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 5s]
+Alameda22: folds 
+ducktron: calls $0.25
+Bacurau888: calls $0.25
+yousifm: folds 
+bbeckerlssu: folds 
+elaine168: folds 
+TennePenne: checks 
+*** FLOP *** [9d 2d 6h]
+TennePenne: checks 
+ducktron: bets $0.75
+Bacurau888: calls $0.75
+TennePenne: folds 
+*** TURN *** [9d 2d 6h] [8c]
+ducktron: bets $1
+Bacurau888: folds 
+Uncalled bet ($1) returned to ducktron
+ducktron collected $2.25 from pot
+ducktron: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [9d 2d 6h 8c]
+Seat 1: TennePenne (big blind) folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: ducktron collected ($2.25)
+Seat 5: Bacurau888 folded on the Turn
+Seat 6: yousifm folded before Flop (didn't bet)
+Seat 8: bbeckerlssu (button) folded before Flop (didn't bet)
+Seat 9: elaine168 (small blind) folded before Flop
+
+
+
+PokerStars Game #19978886524:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:01:18 (ET)
+Table 'Graffias III' 9-max Seat #9 is the button
+Seat 1: TennePenne ($24.75 in chips) 
+Seat 2: Aioras ($25 in chips) 
+Seat 3: Alameda22 ($24.15 in chips) 
+Seat 4: ducktron ($6.55 in chips) 
+Seat 5: Bacurau888 ($19.45 in chips) 
+Seat 6: yousifm ($31 in chips) 
+Seat 8: bbeckerlssu ($25.05 in chips) 
+Seat 9: elaine168 ($24.10 in chips) 
+TennePenne: posts small blind $0.10
+Aioras: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Ts]
+Alameda22: folds 
+ducktron: raises $0.25 to $0.50
+Bacurau888: calls $0.50
+yousifm: folds 
+bbeckerlssu: folds 
+elaine168: calls $0.50
+champs25 has returned
+TennePenne: folds 
+Aioras: calls $0.25
+*** FLOP *** [2c 8c 8s]
+Aioras: checks 
+ducktron: checks 
+Bacurau888: checks 
+elaine168: bets $1
+Aioras: folds 
+ducktron: folds 
+Bacurau888: calls $1
+*** TURN *** [2c 8c 8s] [6h]
+Bacurau888: checks 
+elaine168: bets $0.75
+Bacurau888: calls $0.75
+*** RIVER *** [2c 8c 8s 6h] [Qd]
+Bacurau888: checks 
+elaine168: checks 
+*** SHOW DOWN ***
+Bacurau888: shows [Kc Tc] (a pair of Eights)
+elaine168: shows [Ac Ah] (two pair, Aces and Eights)
+elaine168 collected $5.35 from pot
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.25 
+Board [2c 8c 8s 6h Qd]
+Seat 1: TennePenne (small blind) folded before Flop
+Seat 2: Aioras (big blind) folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: ducktron folded on the Flop
+Seat 5: Bacurau888 showed [Kc Tc] and lost with a pair of Eights
+Seat 6: yousifm folded before Flop (didn't bet)
+Seat 8: bbeckerlssu folded before Flop (didn't bet)
+Seat 9: elaine168 (button) showed [Ac Ah] and won ($5.35) with two pair, Aces and Eights
+
+
+
+PokerStars Game #19978911180:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:02:30 (ET)
+Table 'Graffias III' 9-max Seat #1 is the button
+Seat 1: TennePenne ($24.65 in chips) 
+Seat 2: Aioras ($24.50 in chips) 
+Seat 3: Alameda22 ($24.15 in chips) 
+Seat 4: ducktron ($6.05 in chips) 
+Seat 5: Bacurau888 ($17.20 in chips) 
+Seat 6: yousifm ($31 in chips) 
+Seat 7: champs25 ($18.75 in chips) 
+Seat 8: bbeckerlssu ($25.05 in chips) 
+Seat 9: elaine168 ($27.20 in chips) 
+Aioras: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Ks]
+ducktron: folds 
+Bacurau888: calls $0.25
+yousifm: folds 
+champs25: calls $0.25
+bbeckerlssu: folds 
+elaine168: folds 
+TennePenne: folds 
+Aioras has timed out
+Aioras: folds 
+Aioras is sitting out
+bbeckerlssu leaves the table
+Alameda22: checks 
+*** FLOP *** [9h Ts 3s]
+BufordDalt joins the table at seat #8 
+Alameda22: checks 
+Bacurau888: checks 
+champs25: checks 
+*** TURN *** [9h Ts 3s] [9s]
+Alameda22: checks 
+Bacurau888: bets $0.25
+champs25: raises $0.75 to $1
+Alameda22: folds 
+Bacurau888: raises $0.75 to $1.75
+champs25: raises $0.75 to $2.50
+Bacurau888: calls $0.75
+*** RIVER *** [9h Ts 3s 9s] [8d]
+Bacurau888: checks 
+champs25: bets $16 and is all-in
+Bacurau888: calls $14.45 and is all-in
+Uncalled bet ($1.55) returned to champs25
+*** SHOW DOWN ***
+champs25: shows [7s 6s] (a flush, Ten high)
+Bacurau888: mucks hand 
+champs25 collected $33.05 from pot
+*** SUMMARY ***
+Total pot $34.75 | Rake $1.70 
+Board [9h Ts 3s 9s 8d]
+Seat 1: TennePenne (button) folded before Flop (didn't bet)
+Seat 2: Aioras (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded on the Turn
+Seat 4: ducktron folded before Flop (didn't bet)
+Seat 5: Bacurau888 mucked [Ah 9c]
+Seat 6: yousifm folded before Flop (didn't bet)
+Seat 7: champs25 showed [7s 6s] and won ($33.05) with a flush, Ten high
+Seat 8: bbeckerlssu folded before Flop (didn't bet)
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19978969883:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:05:23 (ET)
+Table 'Graffias III' 9-max Seat #3 is the button
+Seat 1: TennePenne ($24.65 in chips) 
+Seat 3: Alameda22 ($23.90 in chips) 
+Seat 4: ducktron ($6.05 in chips) 
+Seat 6: yousifm ($31 in chips) 
+Seat 7: champs25 ($34.60 in chips) 
+Seat 9: elaine168 ($27.20 in chips) 
+ducktron: posts small blind $0.10
+yousifm: posts big blind $0.25
+Bacurau888 has returned
+BufordDalt: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 8s]
+champs25: calls $0.25
+elaine168: folds 
+TennePenne: folds 
+Bacurau888 leaves the table
+Alameda22: calls $0.25
+ducktron: calls $0.15
+yousifm: checks 
+*** FLOP *** [Td 4s As]
+ducktron: checks 
+yousifm: checks 
+champs25: checks 
+Alameda22: bets $0.75
+ducktron: raises $1.50 to $2.25
+yousifm: folds 
+champs25: calls $2.25
+Alameda22: calls $1.50
+*** TURN *** [Td 4s As] [8d]
+ducktron: bets $3.55 and is all-in
+champs25: calls $3.55
+Alameda22: calls $3.55
+*** RIVER *** [Td 4s As 8d] [Jd]
+champs25: checks 
+Alameda22: checks 
+Aioras leaves the table
+*** SHOW DOWN ***
+ducktron: shows [6h Ac] (a pair of Aces)
+champs25: shows [4c 4h] (three of a kind, Fours)
+Alameda22: mucks hand 
+champs25 collected $17.50 from pot
+*** SUMMARY ***
+Total pot $18.40 | Rake $0.90 
+Board [Td 4s As 8d Jd]
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) mucked [7s 8s]
+Seat 4: ducktron (small blind) showed [6h Ac] and lost with a pair of Aces
+Seat 6: yousifm (big blind) folded on the Flop
+Seat 7: champs25 showed [4c 4h] and won ($17.50) with three of a kind, Fours
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979000797:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:06:54 (ET)
+Table 'Graffias III' 9-max Seat #6 is the button
+Seat 1: TennePenne ($24.65 in chips) 
+Seat 3: Alameda22 ($17.85 in chips) 
+Seat 6: yousifm ($30.75 in chips) 
+Seat 7: champs25 ($46.05 in chips) 
+Seat 8: BufordDalt ($6 in chips) 
+Seat 9: elaine168 ($27.20 in chips) 
+champs25: posts small blind $0.10
+betganij joins the table at seat #5 
+Kukoc69 joins the table at seat #2 
+ducktron has returned
+BufordDalt: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 8h]
+ducktron leaves the table
+elaine168: calls $0.25
+TennePenne: folds 
+b0n3z88 joins the table at seat #4 
+Alameda22: folds 
+yousifm: raises $1 to $1.25
+champs25: calls $1.15
+BufordDalt: folds 
+elaine168: folds 
+*** FLOP *** [Ad 4d Ac]
+champs25: checks 
+yousifm: bets $0.75
+champs25: calls $0.75
+*** TURN *** [Ad 4d Ac] [8s]
+champs25: checks 
+yousifm: checks 
+*** RIVER *** [Ad 4d Ac 8s] [5c]
+champs25: bets $0.25
+yousifm: calls $0.25
+*** SHOW DOWN ***
+champs25: shows [4c 6c] (two pair, Aces and Fours)
+yousifm: shows [Qs Qd] (two pair, Aces and Queens)
+yousifm collected $4.80 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.20 
+Board [Ad 4d Ac 8s 5c]
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 6: yousifm (button) showed [Qs Qd] and won ($4.80) with two pair, Aces and Queens
+Seat 7: champs25 (small blind) showed [4c 6c] and lost with two pair, Aces and Fours
+Seat 8: BufordDalt (big blind) folded before Flop
+Seat 9: elaine168 folded before Flop
+
+
+
+PokerStars Game #19979025997:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:08:09 (ET)
+Table 'Graffias III' 9-max Seat #7 is the button
+Seat 1: TennePenne ($24.65 in chips) 
+Seat 2: Kukoc69 ($25 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: b0n3z88 ($25 in chips) 
+Seat 6: yousifm ($33.30 in chips) 
+Seat 7: champs25 ($43.80 in chips) 
+Seat 8: BufordDalt ($5.75 in chips) 
+Seat 9: elaine168 ($26.95 in chips) 
+BufordDalt: posts small blind $0.10
+elaine168: posts big blind $0.25
+Kukoc69: posts big blind $0.25
+b0n3z88: posts big blind $0.25
+betganij: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Ac]
+TennePenne: folds 
+Kukoc69: checks 
+Alameda22: raises $1 to $1.25
+b0n3z88: folds 
+yousifm: folds 
+champs25: calls $1.25
+BufordDalt: folds 
+elaine168: folds 
+Kukoc69: folds 
+*** FLOP *** [9d Tc 3h]
+yousifm leaves the table
+Alameda22: bets $2
+champs25: folds 
+Uncalled bet ($2) returned to Alameda22
+Alameda22 collected $3.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [9d Tc 3h]
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop
+Seat 3: Alameda22 collected ($3.20)
+Seat 4: b0n3z88 folded before Flop
+Seat 6: yousifm folded before Flop (didn't bet)
+Seat 7: champs25 (button) folded on the Flop
+Seat 8: BufordDalt (small blind) folded before Flop
+Seat 9: elaine168 (big blind) folded before Flop
+
+
+
+PokerStars Game #19979052770:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:09:28 (ET)
+Table 'Graffias III' 9-max Seat #8 is the button
+Seat 1: TennePenne ($24.65 in chips) 
+Seat 2: Kukoc69 ($24.75 in chips) 
+Seat 3: Alameda22 ($26.95 in chips) 
+Seat 4: b0n3z88 ($24.75 in chips) 
+Seat 7: champs25 ($42.55 in chips) 
+Seat 8: BufordDalt ($5.65 in chips) 
+Seat 9: elaine168 ($26.70 in chips) 
+elaine168: posts small blind $0.10
+TennePenne: posts big blind $0.25
+betganij: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 9s]
+chris2745 joins the table at seat #6 
+chris2745 is sitting out
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: folds 
+champs25: calls $0.25
+BufordDalt: folds 
+elaine168: folds 
+TennePenne: checks 
+*** FLOP *** [6h 4c 4h]
+TennePenne: checks 
+champs25: bets $0.25
+TennePenne: calls $0.25
+*** TURN *** [6h 4c 4h] [2s]
+TennePenne: checks 
+champs25: folds 
+champs25 is sitting out
+TennePenne collected $1.05 from pot
+TennePenne: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [6h 4c 4h 2s]
+Seat 1: TennePenne (big blind) collected ($1.05)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 7: champs25 folded on the Turn
+Seat 8: BufordDalt (button) folded before Flop (didn't bet)
+Seat 9: elaine168 (small blind) folded before Flop
+
+
+
+PokerStars Game #19979072470:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:10:27 (ET)
+Table 'Graffias III' 9-max Seat #9 is the button
+Seat 1: TennePenne ($25.20 in chips) 
+Seat 2: Kukoc69 ($24.75 in chips) 
+Seat 3: Alameda22 ($26.95 in chips) 
+Seat 4: b0n3z88 ($24.75 in chips) 
+Seat 8: BufordDalt ($5.65 in chips) 
+Seat 9: elaine168 ($26.60 in chips) 
+TennePenne: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+betganij: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 8c]
+Alameda22: folds 
+b0n3z88: raises $0.50 to $0.75
+BufordDalt: folds 
+elaine168: folds 
+TennePenne: folds 
+Kukoc69: folds 
+Uncalled bet ($0.50) returned to b0n3z88
+b0n3z88 collected $0.60 from pot
+b0n3z88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: TennePenne (small blind) folded before Flop
+Seat 2: Kukoc69 (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 collected ($0.60)
+Seat 8: BufordDalt folded before Flop (didn't bet)
+Seat 9: elaine168 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979081446:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:10:54 (ET)
+Table 'Graffias III' 9-max Seat #1 is the button
+Seat 1: TennePenne ($25.10 in chips) 
+Seat 2: Kukoc69 ($24.50 in chips) 
+Seat 3: Alameda22 ($26.95 in chips) 
+Seat 4: b0n3z88 ($25.10 in chips) 
+Seat 8: BufordDalt ($5.65 in chips) 
+Seat 9: elaine168 ($26.60 in chips) 
+Kukoc69: posts small blind $0.10
+Alameda22: posts big blind $0.25
+betganij: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 8c]
+b0n3z88: folds 
+BufordDalt: folds 
+elaine168: raises $0.50 to $0.75
+TennePenne: folds 
+Kukoc69: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to elaine168
+elaine168 collected $0.60 from pot
+chris2745 has returned
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: TennePenne (button) folded before Flop (didn't bet)
+Seat 2: Kukoc69 (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 8: BufordDalt folded before Flop (didn't bet)
+Seat 9: elaine168 collected ($0.60)
+
+
+
+PokerStars Game #19979092557:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:11:27 (ET)
+Table 'Graffias III' 9-max Seat #2 is the button
+Seat 1: TennePenne ($25.10 in chips) 
+Seat 2: Kukoc69 ($24.40 in chips) 
+Seat 3: Alameda22 ($26.70 in chips) 
+Seat 4: b0n3z88 ($25.10 in chips) 
+Seat 6: chris2745 ($25 in chips) 
+Seat 8: BufordDalt ($5.65 in chips) 
+Seat 9: elaine168 ($26.95 in chips) 
+Alameda22: posts small blind $0.10
+b0n3z88: posts big blind $0.25
+betganij: sits out 
+chris2745: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 8c]
+chris2745: checks 
+BufordDalt: folds 
+elaine168: folds 
+TennePenne: folds 
+Kukoc69: raises $1 to $1.25
+Alameda22: folds 
+b0n3z88: raises $1 to $2.25
+chris2745: folds 
+Kukoc69: calls $1
+*** FLOP *** [6h Qh 7d]
+b0n3z88: bets $2.25
+Kukoc69: raises $3.25 to $5.50
+b0n3z88: calls $3.25
+*** TURN *** [6h Qh 7d] [9h]
+b0n3z88: bets $17.35 and is all-in
+Kukoc69: calls $16.65 and is all-in
+Uncalled bet ($0.70) returned to b0n3z88
+*** RIVER *** [6h Qh 7d 9h] [9d]
+*** SHOW DOWN ***
+b0n3z88: shows [Kc Kd] (two pair, Kings and Nines)
+Kukoc69: shows [Ah Th] (a flush, Ace high)
+Kukoc69 collected $46.75 from pot
+*** SUMMARY ***
+Total pot $49.15 | Rake $2.40 
+Board [6h Qh 7d 9h 9d]
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 (button) showed [Ah Th] and won ($46.75) with a flush, Ace high
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: b0n3z88 (big blind) showed [Kc Kd] and lost with two pair, Kings and Nines
+Seat 6: chris2745 folded before Flop
+Seat 8: BufordDalt folded before Flop (didn't bet)
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979129248:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:13:18 (ET)
+Table 'Graffias III' 9-max Seat #3 is the button
+Seat 1: TennePenne ($25.10 in chips) 
+Seat 2: Kukoc69 ($46.75 in chips) 
+Seat 3: Alameda22 ($26.60 in chips) 
+Seat 4: b0n3z88 ($0.70 in chips) 
+Seat 5: betganij ($5 in chips) 
+Seat 6: chris2745 ($24.75 in chips) 
+Seat 8: BufordDalt ($5.65 in chips) 
+Seat 9: elaine168 ($26.95 in chips) 
+b0n3z88: posts small blind $0.10
+betganij: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Kd]
+chris2745: folds 
+BufordDalt: folds 
+elaine168: folds 
+TennePenne: folds 
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: raises $0.45 to $0.70 and is all-in
+betganij: folds 
+Uncalled bet ($0.45) returned to b0n3z88
+b0n3z88 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: b0n3z88 (small blind) collected ($0.50)
+Seat 5: betganij (big blind) folded before Flop
+Seat 6: chris2745 folded before Flop (didn't bet)
+Seat 8: BufordDalt folded before Flop (didn't bet)
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979143669:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:14:02 (ET)
+Table 'Graffias III' 9-max Seat #4 is the button
+Seat 1: TennePenne ($25.10 in chips) 
+Seat 2: Kukoc69 ($46.75 in chips) 
+Seat 3: Alameda22 ($26.60 in chips) 
+Seat 4: b0n3z88 ($25 in chips) 
+Seat 5: betganij ($4.75 in chips) 
+Seat 6: chris2745 ($24.75 in chips) 
+Seat 8: BufordDalt ($5.65 in chips) 
+Seat 9: elaine168 ($26.95 in chips) 
+betganij: posts small blind $0.10
+chris2745: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 5c]
+BufordDalt: folds 
+elaine168: folds 
+TennePenne: folds 
+Kukoc69: raises $0.25 to $0.50
+Alameda22: folds 
+b0n3z88: folds 
+betganij: folds 
+chris2745: calls $0.25
+*** FLOP *** [Ac Jd Kc]
+chris2745: checks 
+Kukoc69: bets $1
+chris2745: folds 
+Uncalled bet ($1) returned to Kukoc69
+Kukoc69 collected $1.05 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Ac Jd Kc]
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 collected ($1.05)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 (button) folded before Flop (didn't bet)
+Seat 5: betganij (small blind) folded before Flop
+Seat 6: chris2745 (big blind) folded on the Flop
+Seat 8: BufordDalt folded before Flop (didn't bet)
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979168643:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:15:17 (ET)
+Table 'Graffias III' 9-max Seat #5 is the button
+Seat 1: TennePenne ($25.10 in chips) 
+Seat 2: Kukoc69 ($47.30 in chips) 
+Seat 3: Alameda22 ($26.60 in chips) 
+Seat 4: b0n3z88 ($25 in chips) 
+Seat 5: betganij ($4.65 in chips) 
+Seat 6: chris2745 ($24.25 in chips) 
+Seat 8: BufordDalt ($5.65 in chips) 
+Seat 9: elaine168 ($26.95 in chips) 
+chris2745: posts small blind $0.10
+BufordDalt: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s As]
+elaine168: folds 
+TennePenne: folds 
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: folds 
+betganij: folds 
+chris2745: calls $0.15
+BufordDalt: checks 
+*** FLOP *** [7h 9c 2h]
+chris2745: checks 
+BufordDalt: checks 
+*** TURN *** [7h 9c 2h] [4h]
+chris2745: bets $0.25
+BufordDalt: folds 
+Uncalled bet ($0.25) returned to chris2745
+chris2745 collected $0.50 from pot
+chris2745: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [7h 9c 2h 4h]
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij (button) folded before Flop (didn't bet)
+Seat 6: chris2745 (small blind) collected ($0.50)
+Seat 8: BufordDalt (big blind) folded on the Turn
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979186810:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:16:12 (ET)
+Table 'Graffias III' 9-max Seat #6 is the button
+Seat 1: TennePenne ($25.10 in chips) 
+Seat 2: Kukoc69 ($47.30 in chips) 
+Seat 3: Alameda22 ($26.60 in chips) 
+Seat 4: b0n3z88 ($25 in chips) 
+Seat 5: betganij ($4.65 in chips) 
+Seat 6: chris2745 ($24.50 in chips) 
+Seat 8: BufordDalt ($5.40 in chips) 
+Seat 9: elaine168 ($26.95 in chips) 
+BufordDalt: posts small blind $0.10
+elaine168: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 4d]
+TennePenne: folds 
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: folds 
+betganij: folds 
+chris2745: folds 
+BufordDalt: folds 
+Uncalled bet ($0.15) returned to elaine168
+elaine168 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 (button) folded before Flop (didn't bet)
+Seat 8: BufordDalt (small blind) folded before Flop
+Seat 9: elaine168 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19979201863:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:16:57 (ET)
+Table 'Graffias III' 9-max Seat #8 is the button
+Seat 1: TennePenne ($25.10 in chips) 
+Seat 2: Kukoc69 ($47.30 in chips) 
+Seat 3: Alameda22 ($26.60 in chips) 
+Seat 4: b0n3z88 ($25 in chips) 
+Seat 5: betganij ($4.65 in chips) 
+Seat 6: chris2745 ($24.50 in chips) 
+Seat 8: BufordDalt ($5.30 in chips) 
+Seat 9: elaine168 ($27.05 in chips) 
+elaine168: posts small blind $0.10
+TennePenne: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 4s]
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: folds 
+betganij: folds 
+chris2745: folds 
+BufordDalt: folds 
+elaine168: folds 
+Uncalled bet ($0.15) returned to TennePenne
+TennePenne collected $0.20 from pot
+TennePenne: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: TennePenne (big blind) collected ($0.20)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 folded before Flop (didn't bet)
+Seat 8: BufordDalt (button) folded before Flop (didn't bet)
+Seat 9: elaine168 (small blind) folded before Flop
+
+
+
+PokerStars Game #19979218602:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:17:48 (ET)
+Table 'Graffias III' 9-max Seat #9 is the button
+Seat 1: TennePenne ($25.20 in chips) 
+Seat 2: Kukoc69 ($47.30 in chips) 
+Seat 3: Alameda22 ($26.60 in chips) 
+Seat 4: b0n3z88 ($25 in chips) 
+Seat 5: betganij ($4.65 in chips) 
+Seat 6: chris2745 ($24.50 in chips) 
+Seat 8: BufordDalt ($5.30 in chips) 
+Seat 9: elaine168 ($26.95 in chips) 
+TennePenne: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Ad]
+Alameda22: raises $0.50 to $0.75
+b0n3z88: folds 
+betganij: folds 
+chris2745: folds 
+BufordDalt: folds 
+elaine168: calls $0.75
+TennePenne: folds 
+Kukoc69: calls $0.50
+*** FLOP *** [Ah 3h Jd]
+Kukoc69: checks 
+Alameda22: bets $1.50
+elaine168: calls $1.50
+Kukoc69: folds 
+*** TURN *** [Ah 3h Jd] [Kd]
+Alameda22: bets $3.25
+elaine168: calls $3.25
+*** RIVER *** [Ah 3h Jd Kd] [Jc]
+Alameda22: bets $7.50
+elaine168: folds 
+Uncalled bet ($7.50) returned to Alameda22
+Alameda22 collected $11.30 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.85 | Rake $0.55 
+Board [Ah 3h Jd Kd Jc]
+Seat 1: TennePenne (small blind) folded before Flop
+Seat 2: Kukoc69 (big blind) folded on the Flop
+Seat 3: Alameda22 collected ($11.30)
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 folded before Flop (didn't bet)
+Seat 8: BufordDalt folded before Flop (didn't bet)
+Seat 9: elaine168 (button) folded on the River
+
+
+
+PokerStars Game #19979257759:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:19:49 (ET)
+Table 'Graffias III' 9-max Seat #1 is the button
+Seat 1: TennePenne ($25.10 in chips) 
+Seat 2: Kukoc69 ($46.55 in chips) 
+Seat 3: Alameda22 ($32.40 in chips) 
+Seat 4: b0n3z88 ($25 in chips) 
+Seat 5: betganij ($4.65 in chips) 
+Seat 6: chris2745 ($24.50 in chips) 
+Seat 8: BufordDalt ($5.30 in chips) 
+Seat 9: elaine168 ($21.45 in chips) 
+Kukoc69: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 2s]
+b0n3z88: folds 
+betganij: folds 
+chris2745: folds 
+BufordDalt: raises $1 to $1.25
+elaine168: folds 
+TennePenne: folds 
+Kukoc69: folds 
+Alameda22: folds 
+Uncalled bet ($1) returned to BufordDalt
+BufordDalt collected $0.60 from pot
+BufordDalt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: TennePenne (button) folded before Flop (didn't bet)
+Seat 2: Kukoc69 (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 folded before Flop (didn't bet)
+Seat 8: BufordDalt collected ($0.60)
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979269088:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:20:23 (ET)
+Table 'Graffias III' 9-max Seat #2 is the button
+Seat 1: TennePenne ($25.10 in chips) 
+Seat 2: Kukoc69 ($46.45 in chips) 
+Seat 3: Alameda22 ($32.15 in chips) 
+Seat 4: b0n3z88 ($25 in chips) 
+Seat 5: betganij ($4.65 in chips) 
+Seat 6: chris2745 ($24.50 in chips) 
+Seat 8: BufordDalt ($5.65 in chips) 
+Seat 9: elaine168 ($21.45 in chips) 
+Alameda22: posts small blind $0.10
+b0n3z88: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Th]
+betganij: folds 
+chris2745: folds 
+BufordDalt: folds 
+elaine168: folds 
+TennePenne: folds 
+Kukoc69: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to b0n3z88
+b0n3z88 collected $0.20 from pot
+b0n3z88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: b0n3z88 (big blind) collected ($0.20)
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 folded before Flop (didn't bet)
+Seat 8: BufordDalt folded before Flop (didn't bet)
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979277664:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:20:50 (ET)
+Table 'Graffias III' 9-max Seat #3 is the button
+Seat 1: TennePenne ($25.10 in chips) 
+Seat 2: Kukoc69 ($46.45 in chips) 
+Seat 3: Alameda22 ($32.05 in chips) 
+Seat 4: b0n3z88 ($25.10 in chips) 
+Seat 5: betganij ($4.65 in chips) 
+Seat 6: chris2745 ($24.50 in chips) 
+Seat 8: BufordDalt ($5.65 in chips) 
+Seat 9: elaine168 ($21.45 in chips) 
+b0n3z88: posts small blind $0.10
+betganij said, "7"
+betganij: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 6d]
+chris2745: folds 
+BufordDalt: folds 
+elaine168: raises $0.50 to $0.75
+TennePenne: folds 
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: raises $1.75 to $2.50
+betganij: folds 
+elaine168: folds 
+Uncalled bet ($1.75) returned to b0n3z88
+b0n3z88 collected $1.75 from pot
+b0n3z88: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: b0n3z88 (small blind) collected ($1.75)
+Seat 5: betganij (big blind) folded before Flop
+Seat 6: chris2745 folded before Flop (didn't bet)
+Seat 8: BufordDalt folded before Flop (didn't bet)
+Seat 9: elaine168 folded before Flop
+
+
+
+PokerStars Game #19979292492:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:21:36 (ET)
+Table 'Graffias III' 9-max Seat #4 is the button
+Seat 1: TennePenne ($25.10 in chips) 
+Seat 2: Kukoc69 ($46.45 in chips) 
+Seat 3: Alameda22 ($32.05 in chips) 
+Seat 4: b0n3z88 ($26.10 in chips) 
+Seat 5: betganij ($4.40 in chips) 
+Seat 6: chris2745 ($24.50 in chips) 
+Seat 8: BufordDalt ($5.65 in chips) 
+Seat 9: elaine168 ($20.70 in chips) 
+betganij: posts small blind $0.10
+chris2745: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 5c]
+BufordDalt: folds 
+elaine168: calls $0.25
+champs25 has returned
+TennePenne: folds 
+Kukoc69: raises $0.75 to $1
+Alameda22: calls $1
+b0n3z88: folds 
+betganij: folds 
+chris2745: folds 
+elaine168: folds 
+*** FLOP *** [Js 4c Kh]
+Kukoc69: bets $1.50
+Alameda22: folds 
+Uncalled bet ($1.50) returned to Kukoc69
+Kukoc69 collected $2.50 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Js 4c Kh]
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 collected ($2.50)
+Seat 3: Alameda22 folded on the Flop
+Seat 4: b0n3z88 (button) folded before Flop (didn't bet)
+Seat 5: betganij (small blind) folded before Flop
+Seat 6: chris2745 (big blind) folded before Flop
+Seat 8: BufordDalt folded before Flop (didn't bet)
+Seat 9: elaine168 folded before Flop
+
+
+
+PokerStars Game #19979316604:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:22:51 (ET)
+Table 'Graffias III' 9-max Seat #5 is the button
+Seat 1: TennePenne ($25.10 in chips) 
+Seat 2: Kukoc69 ($47.95 in chips) 
+Seat 3: Alameda22 ($31.05 in chips) 
+Seat 4: b0n3z88 ($26.10 in chips) 
+Seat 5: betganij ($5 in chips) 
+Seat 6: chris2745 ($24.25 in chips) 
+Seat 7: champs25 ($42.05 in chips) 
+Seat 8: BufordDalt ($5.65 in chips) 
+Seat 9: elaine168 ($20.45 in chips) 
+chris2745: posts small blind $0.10
+champs25: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 2c]
+BufordDalt: folds 
+elaine168: folds 
+TennePenne: folds 
+BufordDalt leaves the table
+Kukoc69: folds 
+ubnco joins the table at seat #8 
+Alameda22: folds 
+b0n3z88: folds 
+betganij: folds 
+chris2745: calls $0.15
+champs25: checks 
+*** FLOP *** [5c Qh 2h]
+chris2745: checks 
+champs25: bets $0.25
+chris2745: folds 
+Uncalled bet ($0.25) returned to champs25
+champs25 collected $0.50 from pot
+champs25: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [5c Qh 2h]
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij (button) folded before Flop (didn't bet)
+Seat 6: chris2745 (small blind) folded on the Flop
+Seat 7: champs25 (big blind) collected ($0.50)
+Seat 8: BufordDalt folded before Flop (didn't bet)
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979332855:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:23:42 (ET)
+Table 'Graffias III' 9-max Seat #6 is the button
+Seat 1: TennePenne ($25.10 in chips) 
+Seat 2: Kukoc69 ($47.95 in chips) 
+Seat 3: Alameda22 ($31.05 in chips) 
+Seat 4: b0n3z88 ($26.10 in chips) 
+Seat 5: betganij ($5 in chips) 
+Seat 6: chris2745 ($24 in chips) 
+Seat 7: champs25 ($42.30 in chips) 
+Seat 8: ubnco ($25 in chips) 
+Seat 9: elaine168 ($20.45 in chips) 
+champs25: posts small blind $0.10
+ubnco: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 3d]
+elaine168: folds 
+TennePenne: folds 
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: folds 
+betganij: raises $0.75 to $1
+chris2745: folds 
+champs25: calls $0.90
+ubnco: calls $0.75
+*** FLOP *** [5h 4c 9s]
+champs25: bets $0.50
+ubnco: calls $0.50
+betganij: folds 
+*** TURN *** [5h 4c 9s] [4s]
+champs25: bets $0.25
+ubnco: raises $0.75 to $1
+champs25: calls $0.75
+*** RIVER *** [5h 4c 9s 4s] [4h]
+champs25: checks 
+ubnco: bets $3.75
+champs25: folds 
+Uncalled bet ($3.75) returned to ubnco
+ubnco collected $5.75 from pot
+ubnco: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.25 
+Board [5h 4c 9s 4s 4h]
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij folded on the Flop
+Seat 6: chris2745 (button) folded before Flop (didn't bet)
+Seat 7: champs25 (small blind) folded on the River
+Seat 8: ubnco (big blind) collected ($5.75)
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979380259:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:26:10 (ET)
+Table 'Graffias III' 9-max Seat #7 is the button
+Seat 1: TennePenne ($25.10 in chips) 
+Seat 2: Kukoc69 ($47.95 in chips) 
+Seat 3: Alameda22 ($31.05 in chips) 
+Seat 4: b0n3z88 ($26.10 in chips) 
+Seat 5: betganij ($5 in chips) 
+Seat 6: chris2745 ($25 in chips) 
+Seat 7: champs25 ($39.80 in chips) 
+Seat 8: ubnco ($28.25 in chips) 
+Seat 9: elaine168 ($20.45 in chips) 
+ubnco: posts small blind $0.10
+elaine168: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Tc]
+TennePenne: folds 
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: raises $0.50 to $0.75
+betganij: folds 
+chris2745: folds 
+champs25: calls $0.75
+ubnco: folds 
+elaine168: folds 
+*** FLOP *** [4h 4c Td]
+b0n3z88: checks 
+champs25: checks 
+*** TURN *** [4h 4c Td] [6s]
+b0n3z88: checks 
+champs25: bets $0.50
+b0n3z88: folds 
+Uncalled bet ($0.50) returned to champs25
+champs25 collected $1.80 from pot
+champs25: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [4h 4c Td 6s]
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 folded on the Turn
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 folded before Flop (didn't bet)
+Seat 7: champs25 (button) collected ($1.80)
+Seat 8: ubnco (small blind) folded before Flop
+Seat 9: elaine168 (big blind) folded before Flop
+
+
+
+PokerStars Game #19979399365:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:27:11 (ET)
+Table 'Graffias III' 9-max Seat #8 is the button
+Seat 1: TennePenne ($25.10 in chips) 
+Seat 2: Kukoc69 ($47.95 in chips) 
+Seat 3: Alameda22 ($31.05 in chips) 
+Seat 4: b0n3z88 ($25.35 in chips) 
+Seat 5: betganij ($5 in chips) 
+Seat 6: chris2745 ($25 in chips) 
+Seat 7: champs25 ($40.85 in chips) 
+Seat 8: ubnco ($28.15 in chips) 
+Seat 9: elaine168 ($20.20 in chips) 
+elaine168: posts small blind $0.10
+TennePenne: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Kh]
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: folds 
+betganij: folds 
+chris2745: calls $0.25
+champs25: calls $0.25
+ubnco: calls $0.25
+elaine168: raises $1 to $1.25
+TennePenne: folds 
+chris2745: folds 
+champs25: calls $1
+ubnco: folds 
+*** FLOP *** [Qc 6h Qd]
+elaine168: bets $1.50
+champs25: folds 
+Uncalled bet ($1.50) returned to elaine168
+elaine168 collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Qc 6h Qd]
+Seat 1: TennePenne (big blind) folded before Flop
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 folded before Flop
+Seat 7: champs25 folded on the Flop
+Seat 8: ubnco (button) folded before Flop
+Seat 9: elaine168 (small blind) collected ($3.10)
+
+
+
+PokerStars Game #19979425142:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:28:33 (ET)
+Table 'Graffias III' 9-max Seat #9 is the button
+Seat 1: TennePenne ($24.85 in chips) 
+Seat 2: Kukoc69 ($47.95 in chips) 
+Seat 3: Alameda22 ($31.05 in chips) 
+Seat 4: b0n3z88 ($25.35 in chips) 
+Seat 5: betganij ($5 in chips) 
+Seat 6: chris2745 ($24.75 in chips) 
+Seat 7: champs25 ($39.60 in chips) 
+Seat 8: ubnco ($27.90 in chips) 
+Seat 9: elaine168 ($22.05 in chips) 
+TennePenne: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Kd]
+Alameda22: folds 
+b0n3z88: folds 
+betganij: folds 
+chris2745: folds 
+champs25: calls $0.25
+ubnco: folds 
+elaine168: folds 
+TennePenne: folds 
+Kukoc69: checks 
+*** FLOP *** [3c 6h 9c]
+Kukoc69: checks 
+champs25: checks 
+*** TURN *** [3c 6h 9c] [7s]
+Kukoc69: checks 
+champs25: checks 
+*** RIVER *** [3c 6h 9c 7s] [4c]
+Kukoc69: checks 
+champs25: bets $5.75
+Kukoc69: folds 
+Uncalled bet ($5.75) returned to champs25
+champs25 collected $0.60 from pot
+champs25: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3c 6h 9c 7s 4c]
+Seat 1: TennePenne (small blind) folded before Flop
+Seat 2: Kukoc69 (big blind) folded on the River
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 folded before Flop (didn't bet)
+Seat 7: champs25 collected ($0.60)
+Seat 8: ubnco folded before Flop (didn't bet)
+Seat 9: elaine168 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979459772:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:30:24 (ET)
+Table 'Graffias III' 9-max Seat #1 is the button
+Seat 1: TennePenne ($24.75 in chips) 
+Seat 2: Kukoc69 ($47.70 in chips) 
+Seat 3: Alameda22 ($31.05 in chips) 
+Seat 4: b0n3z88 ($25.35 in chips) 
+Seat 5: betganij ($5 in chips) 
+Seat 6: chris2745 ($24.75 in chips) 
+Seat 7: champs25 ($39.95 in chips) 
+Seat 8: ubnco ($27.90 in chips) 
+Seat 9: elaine168 ($22.05 in chips) 
+Kukoc69: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 8s]
+b0n3z88: folds 
+betganij: folds 
+chris2745: calls $0.25
+champs25: calls $0.25
+ubnco: folds 
+elaine168: folds 
+TennePenne: raises $1.25 to $1.50
+Kukoc69: folds 
+Alameda22: calls $1.25
+chris2745: folds 
+champs25: calls $1.25
+*** FLOP *** [3s Td 3h]
+Alameda22: checks 
+champs25: bets $0.50
+TennePenne: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to champs25
+champs25 collected $4.65 from pot
+champs25: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [3s Td 3h]
+Seat 1: TennePenne (button) folded on the Flop
+Seat 2: Kukoc69 (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 folded before Flop
+Seat 7: champs25 collected ($4.65)
+Seat 8: ubnco folded before Flop (didn't bet)
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979488177:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:31:51 (ET)
+Table 'Graffias III' 9-max Seat #2 is the button
+Seat 1: TennePenne ($23.25 in chips) 
+Seat 2: Kukoc69 ($47.60 in chips) 
+Seat 3: Alameda22 ($29.55 in chips) 
+Seat 4: b0n3z88 ($25.35 in chips) 
+Seat 5: betganij ($5 in chips) 
+Seat 6: chris2745 ($24.50 in chips) 
+Seat 7: champs25 ($43.10 in chips) 
+Seat 8: ubnco ($27.90 in chips) 
+Seat 9: elaine168 ($22.05 in chips) 
+Alameda22: posts small blind $0.10
+b0n3z88: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 7s]
+betganij: folds 
+chris2745: folds 
+champs25: calls $0.25
+ubnco: folds 
+elaine168: folds 
+TennePenne: calls $0.25
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: checks 
+*** FLOP *** [Kc 3h Qs]
+b0n3z88: checks 
+champs25: checks 
+TennePenne: checks 
+*** TURN *** [Kc 3h Qs] [Th]
+b0n3z88: checks 
+champs25: folds 
+TennePenne: checks 
+*** RIVER *** [Kc 3h Qs Th] [Js]
+b0n3z88: checks 
+TennePenne: bets $0.55
+b0n3z88: calls $0.55
+*** SHOW DOWN ***
+TennePenne: shows [8c Ac] (a straight, Ten to Ace)
+b0n3z88: mucks hand 
+TennePenne collected $1.90 from pot
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.05 
+Board [Kc 3h Qs Th Js]
+Seat 1: TennePenne showed [8c Ac] and won ($1.90) with a straight, Ten to Ace
+Seat 2: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: b0n3z88 (big blind) mucked [7h Jh]
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 folded before Flop (didn't bet)
+Seat 7: champs25 folded on the Turn
+Seat 8: ubnco folded before Flop (didn't bet)
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979519637:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:33:31 (ET)
+Table 'Graffias III' 9-max Seat #3 is the button
+Seat 1: TennePenne ($25 in chips) 
+Seat 2: Kukoc69 ($47.60 in chips) 
+Seat 3: Alameda22 ($29.45 in chips) 
+Seat 4: b0n3z88 ($24.55 in chips) 
+Seat 5: betganij ($5 in chips) 
+Seat 6: chris2745 ($24.50 in chips) 
+Seat 7: champs25 ($42.85 in chips) 
+Seat 8: ubnco ($27.90 in chips) 
+Seat 9: elaine168 ($22.05 in chips) 
+b0n3z88: posts small blind $0.10
+betganij: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 2s]
+chris2745: folds 
+champs25: calls $0.25
+ubnco: folds 
+elaine168: raises $0.75 to $1
+TennePenne: folds 
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: folds 
+betganij: folds 
+champs25: folds 
+Uncalled bet ($0.75) returned to elaine168
+elaine168 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: b0n3z88 (small blind) folded before Flop
+Seat 5: betganij (big blind) folded before Flop
+Seat 6: chris2745 folded before Flop (didn't bet)
+Seat 7: champs25 folded before Flop
+Seat 8: ubnco folded before Flop (didn't bet)
+Seat 9: elaine168 collected ($0.85)
+
+
+
+PokerStars Game #19979542746:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:34:42 (ET)
+Table 'Graffias III' 9-max Seat #4 is the button
+Seat 1: TennePenne ($25 in chips) 
+Seat 2: Kukoc69 ($47.60 in chips) 
+Seat 3: Alameda22 ($29.45 in chips) 
+Seat 4: b0n3z88 ($24.45 in chips) 
+Seat 5: betganij ($4.75 in chips) 
+Seat 6: chris2745 ($24.50 in chips) 
+Seat 7: champs25 ($42.60 in chips) 
+Seat 8: ubnco ($27.90 in chips) 
+Seat 9: elaine168 ($22.65 in chips) 
+betganij: posts small blind $0.10
+chris2745: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 6h]
+champs25: folds 
+ubnco: folds 
+elaine168: folds 
+TennePenne: folds 
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: folds 
+betganij: folds 
+Uncalled bet ($0.15) returned to chris2745
+chris2745 collected $0.20 from pot
+chris2745: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 (button) folded before Flop (didn't bet)
+Seat 5: betganij (small blind) folded before Flop
+Seat 6: chris2745 (big blind) collected ($0.20)
+Seat 7: champs25 folded before Flop (didn't bet)
+Seat 8: ubnco folded before Flop (didn't bet)
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979557573:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:35:29 (ET)
+Table 'Graffias III' 9-max Seat #5 is the button
+Seat 1: TennePenne ($25 in chips) 
+Seat 2: Kukoc69 ($47.60 in chips) 
+Seat 3: Alameda22 ($29.45 in chips) 
+Seat 4: b0n3z88 ($24.45 in chips) 
+Seat 5: betganij ($4.65 in chips) 
+Seat 6: chris2745 ($24.60 in chips) 
+Seat 7: champs25 ($42.60 in chips) 
+Seat 8: ubnco ($27.90 in chips) 
+Seat 9: elaine168 ($22.65 in chips) 
+chris2745: posts small blind $0.10
+champs25: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Ac]
+ubnco: folds 
+elaine168: raises $0.50 to $0.75
+TennePenne: folds 
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: folds 
+betganij: folds 
+chris2745: folds 
+champs25: calls $0.50
+*** FLOP *** [4s 5h Jc]
+champs25: checks 
+elaine168: bets $1
+champs25: folds 
+Uncalled bet ($1) returned to elaine168
+elaine168 collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [4s 5h Jc]
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij (button) folded before Flop (didn't bet)
+Seat 6: chris2745 (small blind) folded before Flop
+Seat 7: champs25 (big blind) folded on the Flop
+Seat 8: ubnco folded before Flop (didn't bet)
+Seat 9: elaine168 collected ($1.55)
+
+
+
+PokerStars Game #19979574613:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:36:22 (ET)
+Table 'Graffias III' 9-max Seat #6 is the button
+Seat 1: TennePenne ($25 in chips) 
+Seat 2: Kukoc69 ($47.60 in chips) 
+Seat 3: Alameda22 ($29.45 in chips) 
+Seat 4: b0n3z88 ($24.45 in chips) 
+Seat 5: betganij ($4.65 in chips) 
+Seat 6: chris2745 ($24.50 in chips) 
+Seat 7: champs25 ($41.85 in chips) 
+Seat 8: ubnco ($27.90 in chips) 
+Seat 9: elaine168 ($23.45 in chips) 
+champs25: posts small blind $0.10
+ubnco: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 4s]
+elaine168: folds 
+TennePenne: folds 
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: folds 
+betganij: folds 
+chris2745: folds 
+champs25: calls $0.15
+ubnco: checks 
+*** FLOP *** [Ac Ad 7d]
+champs25: checks 
+ubnco: bets $0.50
+champs25: folds 
+Uncalled bet ($0.50) returned to ubnco
+ubnco collected $0.50 from pot
+ubnco: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Ac Ad 7d]
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 (button) folded before Flop (didn't bet)
+Seat 7: champs25 (small blind) folded on the Flop
+Seat 8: ubnco (big blind) collected ($0.50)
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979596378:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:37:31 (ET)
+Table 'Graffias III' 9-max Seat #7 is the button
+Seat 1: TennePenne ($25 in chips) 
+Seat 2: Kukoc69 ($47.60 in chips) 
+Seat 3: Alameda22 ($29.45 in chips) 
+Seat 4: b0n3z88 ($24.45 in chips) 
+Seat 5: betganij ($4.65 in chips) 
+Seat 6: chris2745 ($24.50 in chips) 
+Seat 7: champs25 ($41.60 in chips) 
+Seat 8: ubnco ($28.15 in chips) 
+Seat 9: elaine168 ($23.45 in chips) 
+ubnco: posts small blind $0.10
+elaine168: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 6h]
+TennePenne: folds 
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: calls $0.25
+betganij: folds 
+chris2745: folds 
+champs25: calls $0.25
+ubnco: folds 
+elaine168: checks 
+*** FLOP *** [9d 7h Tc]
+elaine168: checks 
+b0n3z88: checks 
+champs25: checks 
+*** TURN *** [9d 7h Tc] [Td]
+elaine168: checks 
+b0n3z88: checks 
+champs25: checks 
+*** RIVER *** [9d 7h Tc Td] [4c]
+elaine168: checks 
+b0n3z88: checks 
+champs25: bets $1
+elaine168: folds 
+b0n3z88: folds 
+Uncalled bet ($1) returned to champs25
+champs25 collected $0.85 from pot
+champs25: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [9d 7h Tc Td 4c]
+Seat 1: TennePenne folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 folded on the River
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 folded before Flop (didn't bet)
+Seat 7: champs25 (button) collected ($0.85)
+Seat 8: ubnco (small blind) folded before Flop
+Seat 9: elaine168 (big blind) folded on the River
+
+
+
+PokerStars Game #19979628828:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:39:13 (ET)
+Table 'Graffias III' 9-max Seat #8 is the button
+Seat 2: Kukoc69 ($47.60 in chips) 
+Seat 3: Alameda22 ($29.45 in chips) 
+Seat 4: b0n3z88 ($24.20 in chips) 
+Seat 5: betganij ($4.65 in chips) 
+Seat 6: chris2745 ($24.50 in chips) 
+Seat 7: champs25 ($42.20 in chips) 
+Seat 8: ubnco ($28.05 in chips) 
+Seat 9: elaine168 ($23.20 in chips) 
+elaine168: posts small blind $0.10
+TennePenne: is sitting out 
+TennePenne leaves the table
+Kukoc69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Kh]
+Alameda22: raises $0.50 to $0.75
+b0n3z88: folds 
+betganij: folds 
+chris2745: calls $0.75
+champs25: calls $0.75
+ubnco: folds 
+elaine168: folds 
+Kukoc69: folds 
+*** FLOP *** [7s Ts 7d]
+Alameda22: bets $1.75
+chris2745: folds 
+champs25: folds 
+Uncalled bet ($1.75) returned to Alameda22
+Alameda22 collected $2.50 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [7s Ts 7d]
+Seat 2: Kukoc69 (big blind) folded before Flop
+Seat 3: Alameda22 collected ($2.50)
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 folded on the Flop
+Seat 7: champs25 folded on the Flop
+Seat 8: ubnco (button) folded before Flop (didn't bet)
+Seat 9: elaine168 (small blind) folded before Flop
+
+
+
+PokerStars Game #19979653118:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:40:29 (ET)
+Table 'Graffias III' 9-max Seat #9 is the button
+Seat 2: Kukoc69 ($47.35 in chips) 
+Seat 3: Alameda22 ($31.20 in chips) 
+Seat 4: b0n3z88 ($24.20 in chips) 
+Seat 5: betganij ($4.65 in chips) 
+Seat 6: chris2745 ($23.75 in chips) 
+Seat 7: champs25 ($41.45 in chips) 
+Seat 8: ubnco ($28.05 in chips) 
+Seat 9: elaine168 ($23.10 in chips) 
+Kukoc69: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Ah]
+b0n3z88: folds 
+betganij: folds 
+chris2745: folds 
+champs25: calls $0.25
+ubnco: folds 
+elaine168: folds 
+Kukoc69: folds 
+Alameda22: checks 
+*** FLOP *** [3h Ks 7d]
+Alameda22: checks 
+champs25: checks 
+*** TURN *** [3h Ks 7d] [Qc]
+Alameda22: checks 
+BULLDOZERED joins the table at seat #1 
+champs25 has timed out
+champs25: folds 
+champs25 is sitting out
+champs25 has returned
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3h Ks 7d Qc]
+Seat 2: Kukoc69 (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) collected ($0.60)
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 folded before Flop (didn't bet)
+Seat 7: champs25 folded on the Turn
+Seat 8: ubnco folded before Flop (didn't bet)
+Seat 9: elaine168 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979691719:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:42:31 (ET)
+Table 'Graffias III' 9-max Seat #2 is the button
+Seat 1: BULLDOZERED ($25 in chips) 
+Seat 2: Kukoc69 ($47.25 in chips) 
+Seat 3: Alameda22 ($31.55 in chips) 
+Seat 4: b0n3z88 ($24.20 in chips) 
+Seat 5: betganij ($4.65 in chips) 
+Seat 6: chris2745 ($23.75 in chips) 
+Seat 7: champs25 ($41.20 in chips) 
+Seat 8: ubnco ($28.05 in chips) 
+Seat 9: elaine168 ($23.10 in chips) 
+Alameda22: posts small blind $0.10
+b0n3z88: posts big blind $0.25
+BULLDOZERED: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js As]
+betganij: folds 
+chris2745: folds 
+champs25: calls $0.25
+ubnco: raises $1.25 to $1.50
+elaine168: folds 
+BULLDOZERED: folds 
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: folds 
+champs25: calls $1.25
+*** FLOP *** [Kh 4s Jd]
+champs25: bets $0.25
+ubnco: raises $1.75 to $2
+champs25: calls $1.75
+*** TURN *** [Kh 4s Jd] [9s]
+champs25: checks 
+ubnco: bets $5.25
+champs25: calls $5.25
+*** RIVER *** [Kh 4s Jd 9s] [4c]
+champs25: checks 
+ubnco: bets $19.30 and is all-in
+champs25: folds 
+Uncalled bet ($19.30) returned to ubnco
+ubnco collected $17.25 from pot
+ubnco: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.10 | Rake $0.85 
+Board [Kh 4s Jd 9s 4c]
+Seat 1: BULLDOZERED folded before Flop
+Seat 2: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: b0n3z88 (big blind) folded before Flop
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 folded before Flop (didn't bet)
+Seat 7: champs25 folded on the River
+Seat 8: ubnco collected ($17.25)
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979724493:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:44:15 (ET)
+Table 'Graffias III' 9-max Seat #3 is the button
+Seat 1: BULLDOZERED ($24.75 in chips) 
+Seat 2: Kukoc69 ($47.25 in chips) 
+Seat 3: Alameda22 ($31.45 in chips) 
+Seat 4: b0n3z88 ($23.95 in chips) 
+Seat 5: betganij ($4.65 in chips) 
+Seat 6: chris2745 ($23.75 in chips) 
+Seat 7: champs25 ($32.45 in chips) 
+Seat 8: ubnco ($36.55 in chips) 
+Seat 9: elaine168 ($23.10 in chips) 
+b0n3z88: posts small blind $0.10
+betganij: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 4h]
+chris2745: folds 
+champs25: folds 
+ubnco: folds 
+elaine168: calls $0.25
+BULLDOZERED: folds 
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: calls $0.15
+betganij: checks 
+*** FLOP *** [Ad 6s 6h]
+b0n3z88: checks 
+betganij: checks 
+elaine168: bets $0.50
+b0n3z88: folds 
+betganij: folds 
+Uncalled bet ($0.50) returned to elaine168
+elaine168 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Ad 6s 6h]
+Seat 1: BULLDOZERED folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: b0n3z88 (small blind) folded on the Flop
+Seat 5: betganij (big blind) folded on the Flop
+Seat 6: chris2745 folded before Flop (didn't bet)
+Seat 7: champs25 folded before Flop (didn't bet)
+Seat 8: ubnco folded before Flop (didn't bet)
+Seat 9: elaine168 collected ($0.75)
+
+
+
+PokerStars Game #19979757141:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:45:58 (ET)
+Table 'Graffias III' 9-max Seat #4 is the button
+Seat 1: BULLDOZERED ($24.75 in chips) 
+Seat 2: Kukoc69 ($47.25 in chips) 
+Seat 3: Alameda22 ($31.45 in chips) 
+Seat 4: b0n3z88 ($23.70 in chips) 
+Seat 5: betganij ($4.40 in chips) 
+Seat 6: chris2745 ($23.75 in chips) 
+Seat 7: champs25 ($32.45 in chips) 
+Seat 8: ubnco ($36.55 in chips) 
+Seat 9: elaine168 ($23.60 in chips) 
+betganij: posts small blind $0.10
+chris2745: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 4c]
+champs25: raises $0.25 to $0.50
+ubnco: folds 
+elaine168: folds 
+BULLDOZERED: calls $0.50
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: folds 
+betganij: folds 
+chris2745: folds 
+*** FLOP *** [Ks 5s 8c]
+champs25: checks 
+BULLDOZERED: checks 
+*** TURN *** [Ks 5s 8c] [Ah]
+champs25: bets $0.75
+BULLDOZERED: calls $0.75
+*** RIVER *** [Ks 5s 8c Ah] [Th]
+champs25: bets $1.25
+BULLDOZERED: raises $1.50 to $2.75
+champs25: calls $1.50
+*** SHOW DOWN ***
+BULLDOZERED: shows [Qh Ac] (a pair of Aces)
+champs25: mucks hand 
+BULLDOZERED collected $7.95 from pot
+*** SUMMARY ***
+Total pot $8.35 | Rake $0.40 
+Board [Ks 5s 8c Ah Th]
+Seat 1: BULLDOZERED showed [Qh Ac] and won ($7.95) with a pair of Aces
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 (button) folded before Flop (didn't bet)
+Seat 5: betganij (small blind) folded before Flop
+Seat 6: chris2745 (big blind) folded before Flop
+Seat 7: champs25 mucked [Kd Js]
+Seat 8: ubnco folded before Flop (didn't bet)
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979804736:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:48:31 (ET)
+Table 'Graffias III' 9-max Seat #5 is the button
+Seat 1: BULLDOZERED ($28.70 in chips) 
+Seat 2: Kukoc69 ($47.25 in chips) 
+Seat 3: Alameda22 ($31.45 in chips) 
+Seat 4: b0n3z88 ($23.70 in chips) 
+Seat 5: betganij ($5 in chips) 
+Seat 6: chris2745 ($23.50 in chips) 
+Seat 7: champs25 ($28.45 in chips) 
+Seat 8: ubnco ($36.55 in chips) 
+Seat 9: elaine168 ($23.60 in chips) 
+chris2745: posts small blind $0.10
+champs25: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Ac]
+ubnco: folds 
+elaine168: folds 
+ubnco leaves the table
+BULLDOZERED: folds 
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: folds 
+betganij: folds 
+chris2745: folds 
+Uncalled bet ($0.15) returned to champs25
+champs25 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: BULLDOZERED folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij (button) folded before Flop (didn't bet)
+Seat 6: chris2745 (small blind) folded before Flop
+Seat 7: champs25 (big blind) collected ($0.20)
+Seat 8: ubnco folded before Flop (didn't bet)
+Seat 9: elaine168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979820814:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:49:24 (ET)
+Table 'Graffias III' 9-max Seat #6 is the button
+Seat 1: BULLDOZERED ($28.70 in chips) 
+Seat 2: Kukoc69 ($47.25 in chips) 
+Seat 3: Alameda22 ($31.45 in chips) 
+Seat 4: b0n3z88 ($23.70 in chips) 
+Seat 5: betganij ($5 in chips) 
+Seat 6: chris2745 ($23.40 in chips) 
+Seat 7: champs25 ($28.55 in chips) 
+Seat 9: elaine168 ($23.60 in chips) 
+champs25: posts small blind $0.10
+elaine168: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 2d]
+BULLDOZERED has timed out
+BULLDOZERED: folds 
+BULLDOZERED is sitting out
+BULLDOZERED has returned
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: folds 
+betganij: folds 
+chris2745: folds 
+champs25: folds 
+Uncalled bet ($0.15) returned to elaine168
+elaine168 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: BULLDOZERED folded before Flop (didn't bet)
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 (button) folded before Flop (didn't bet)
+Seat 7: champs25 (small blind) folded before Flop
+Seat 9: elaine168 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19979841866:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:50:33 (ET)
+Table 'Graffias III' 9-max Seat #7 is the button
+Seat 1: BULLDOZERED ($28.70 in chips) 
+Seat 2: Kukoc69 ($47.25 in chips) 
+Seat 3: Alameda22 ($31.45 in chips) 
+Seat 4: b0n3z88 ($23.70 in chips) 
+Seat 5: betganij ($5 in chips) 
+Seat 6: chris2745 ($23.40 in chips) 
+Seat 7: champs25 ($28.45 in chips) 
+Seat 9: elaine168 ($23.70 in chips) 
+elaine168: posts small blind $0.10
+BULLDOZERED: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 6h]
+Kukoc69: folds 
+Alameda22: folds 
+b0n3z88: folds 
+betganij: folds 
+chris2745: folds 
+champs25: raises $0.25 to $0.50
+elaine168: calls $0.40
+BULLDOZERED: calls $0.25
+*** FLOP *** [5d 4h Kc]
+elaine168: checks 
+BULLDOZERED: checks 
+champs25: bets $0.50
+elaine168: raises $0.50 to $1
+BULLDOZERED: folds 
+champs25: calls $0.50
+*** TURN *** [5d 4h Kc] [8h]
+elaine168: checks 
+champs25: bets $0.50
+elaine168: raises $2 to $2.50
+champs25: calls $2
+*** RIVER *** [5d 4h Kc 8h] [9c]
+elaine168: bets $7
+champs25: calls $7
+*** SHOW DOWN ***
+elaine168: shows [7d 6d] (a straight, Five to Nine)
+champs25: mucks hand 
+elaine168 collected $21.40 from pot
+*** SUMMARY ***
+Total pot $22.50 | Rake $1.10 
+Board [5d 4h Kc 8h 9c]
+Seat 1: BULLDOZERED (big blind) folded on the Flop
+Seat 2: Kukoc69 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 folded before Flop (didn't bet)
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 folded before Flop (didn't bet)
+Seat 7: champs25 (button) mucked [Qs Kh]
+Seat 9: elaine168 (small blind) showed [7d 6d] and won ($21.40) with a straight, Five to Nine
+
+
+
+PokerStars Game #19979877112:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:52:27 (ET)
+Table 'Graffias III' 9-max Seat #9 is the button
+Seat 1: BULLDOZERED ($28.20 in chips) 
+Seat 2: Kukoc69 ($47.25 in chips) 
+Seat 3: Alameda22 ($31.45 in chips) 
+Seat 4: b0n3z88 ($23.70 in chips) 
+Seat 5: betganij ($5 in chips) 
+Seat 6: chris2745 ($25 in chips) 
+Seat 7: champs25 ($17.45 in chips) 
+Seat 9: elaine168 ($34.10 in chips) 
+BULLDOZERED: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 2d]
+Alameda22: folds 
+b0n3z88: raises $0.50 to $0.75
+betganij: folds 
+chris2745: calls $0.75
+champs25: raises $16.70 to $17.45 and is all-in
+elaine168: folds 
+BULLDOZERED: folds 
+Kukoc69: folds 
+b0n3z88: calls $16.70
+chris2745: folds 
+*** FLOP *** [3d 2c 5h]
+*** TURN *** [3d 2c 5h] [2h]
+*** RIVER *** [3d 2c 5h 2h] [3s]
+*** SHOW DOWN ***
+b0n3z88: shows [Ks Kd] (two pair, Kings and Threes)
+champs25: mucks hand 
+b0n3z88 collected $34.20 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.80 
+Board [3d 2c 5h 2h 3s]
+Seat 1: BULLDOZERED (small blind) folded before Flop
+Seat 2: Kukoc69 (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: b0n3z88 showed [Ks Kd] and won ($34.20) with two pair, Kings and Threes
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 folded before Flop
+Seat 7: champs25 mucked [Qh Qs]
+Seat 9: elaine168 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19979899039:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:53:39 (ET)
+Table 'Graffias III' 9-max Seat #1 is the button
+Seat 1: BULLDOZERED ($28.10 in chips) 
+Seat 2: Kukoc69 ($47 in chips) 
+Seat 3: Alameda22 ($31.45 in chips) 
+Seat 4: b0n3z88 ($40.45 in chips) 
+Seat 5: betganij ($5 in chips) 
+Seat 6: chris2745 ($24.25 in chips) 
+Seat 9: elaine168 ($34.10 in chips) 
+Kukoc69: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 8h]
+champs25 leaves the table
+b0n3z88: calls $0.25
+betganij: folds 
+chris2745: folds 
+elaine168: calls $0.25
+BULLDOZERED: calls $0.25
+Kukoc69: folds 
+Alameda22: checks 
+*** FLOP *** [4h Th Jd]
+Alameda22: checks 
+b0n3z88: checks 
+elaine168: checks 
+BULLDOZERED: checks 
+*** TURN *** [4h Th Jd] [Qh]
+Alameda22: checks 
+b0n3z88: checks 
+elaine168: checks 
+BULLDOZERED: bets $0.50
+Alameda22: folds 
+b0n3z88: folds 
+elaine168: folds 
+Uncalled bet ($0.50) returned to BULLDOZERED
+BULLDOZERED collected $1.05 from pot
+BULLDOZERED: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [4h Th Jd Qh]
+Seat 1: BULLDOZERED (button) collected ($1.05)
+Seat 2: Kukoc69 (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded on the Turn
+Seat 4: b0n3z88 folded on the Turn
+Seat 5: betganij folded before Flop (didn't bet)
+Seat 6: chris2745 folded before Flop (didn't bet)
+Seat 9: elaine168 folded on the Turn
+
+
+
+PokerStars Game #19979930437:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 23:55:22 (ET)
+Table 'Graffias III' 9-max Seat #2 is the button
+Seat 1: BULLDOZERED ($28.90 in chips) 
+Seat 2: Kukoc69 ($46.90 in chips) 
+Seat 3: Alameda22 ($31.20 in chips) 
+Seat 6: chris2745 ($24.25 in chips) 
+Seat 9: elaine168 ($33.85 in chips) 
+Alameda22: posts small blind $0.10
+b0n3z88: is sitting out 
+b0n3z88 leaves the table
+betganij: is sitting out 
+chris2745: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 5s]
+elaine168: raises $0.50 to $0.75
+betganij leaves the table
+BULLDOZERED: folds 
+Kukoc69: folds 
+Alameda22: folds 
+chris2745: calls $0.50
+*** FLOP *** [4c 9d Td]
+chris2745: bets $1.25
+elaine168: folds 
+Uncalled bet ($1.25) returned to chris2745
+chris2745 collected $1.55 from pot
+chris2745: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [4c 9d Td]
+Seat 1: BULLDOZERED folded before Flop (didn't bet)
+Seat 2: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 6: chris2745 (big blind) collected ($1.55)
+Seat 9: elaine168 folded on the Flop
+
+
+

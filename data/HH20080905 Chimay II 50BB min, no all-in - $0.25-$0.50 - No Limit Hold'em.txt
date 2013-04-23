@@ -1,0 +1,163 @@
+PokerStars Game #20156298954:  Hold'em No Limit ($0.25/$0.50) - 2008/09/05 0:00:16 ET
+Table 'Chimay II' 9-max Seat #3 is the button
+Seat 1: vltava ($91.85 in chips) 
+Seat 2: alaird ($46 in chips) 
+Seat 3: chaz313 ($34.95 in chips) 
+Seat 4: Spanische ($98.35 in chips) 
+Seat 5: justbilll ($97.45 in chips) 
+Seat 6: UBISHERE ($35.20 in chips) 
+Seat 7: Tito_9800BJB ($21.65 in chips) 
+Seat 8: skatter ($50.20 in chips) 
+Seat 9: Alameda22 ($47.75 in chips) 
+Spanische: posts small blind $0.25
+justbilll: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Qs]
+UBISHERE: folds 
+Tito_9800BJB: folds 
+skatter: calls $0.50
+Alameda22: folds 
+vltava: calls $0.50
+alaird: folds 
+chaz313: folds 
+Spanische: calls $0.25
+justbilll: checks 
+*** FLOP *** [Ac Js 3c]
+Spanische: checks 
+justbilll: checks 
+skatter: checks 
+vltava: bets $2
+Spanische: raises $4 to $6
+justbilll: folds 
+skatter: folds 
+vltava: calls $4
+*** TURN *** [Ac Js 3c] [2s]
+Spanische: checks 
+vltava: checks 
+*** RIVER *** [Ac Js 3c 2s] [9h]
+Spanische: bets $2
+vltava: calls $2
+*** SHOW DOWN ***
+Spanische: shows [As Th] (a pair of Aces)
+vltava: mucks hand 
+Spanische collected $17.15 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.85 
+Board [Ac Js 3c 2s 9h]
+Seat 1: vltava mucked [Kc Jh]
+Seat 2: alaird folded before Flop (didn't bet)
+Seat 3: chaz313 (button) folded before Flop (didn't bet)
+Seat 4: Spanische (small blind) showed [As Th] and won ($17.15) with a pair of Aces
+Seat 5: justbilll (big blind) folded on the Flop
+Seat 6: UBISHERE folded before Flop (didn't bet)
+Seat 7: Tito_9800BJB folded before Flop (didn't bet)
+Seat 8: skatter folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20156329077:  Hold'em No Limit ($0.25/$0.50) - 2008/09/05 0:01:57 ET
+Table 'Chimay II' 9-max Seat #4 is the button
+Seat 1: vltava ($83.35 in chips) 
+Seat 2: alaird ($46 in chips) 
+Seat 3: chaz313 ($34.95 in chips) 
+Seat 4: Spanische ($107 in chips) 
+Seat 5: justbilll ($96.95 in chips) 
+Seat 6: UBISHERE ($35.20 in chips) 
+Seat 7: Tito_9800BJB ($21.65 in chips) 
+Seat 8: skatter ($49.70 in chips) 
+Seat 9: Alameda22 ($47.75 in chips) 
+justbilll: posts small blind $0.25
+UBISHERE: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 5h]
+Tito_9800BJB: folds 
+skatter: folds 
+Alameda22: folds 
+vltava: folds 
+alaird: folds 
+chaz313: calls $0.50
+Spanische: folds 
+justbilll: folds 
+UBISHERE: checks 
+*** FLOP *** [5c As 6c]
+UBISHERE: bets $0.50
+chaz313: calls $0.50
+*** TURN *** [5c As 6c] [Kh]
+UBISHERE: bets $1.50
+chaz313: calls $1.50
+*** RIVER *** [5c As 6c Kh] [5d]
+UBISHERE: checks 
+chaz313: bets $2
+UBISHERE: folds 
+Uncalled bet ($2) returned to chaz313
+chaz313 collected $5 from pot
+chaz313: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [5c As 6c Kh 5d]
+Seat 1: vltava folded before Flop (didn't bet)
+Seat 2: alaird folded before Flop (didn't bet)
+Seat 3: chaz313 collected ($5)
+Seat 4: Spanische (button) folded before Flop (didn't bet)
+Seat 5: justbilll (small blind) folded before Flop
+Seat 6: UBISHERE (big blind) folded on the River
+Seat 7: Tito_9800BJB folded before Flop (didn't bet)
+Seat 8: skatter folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20156356000:  Hold'em No Limit ($0.25/$0.50) - 2008/09/05 0:03:27 ET
+Table 'Chimay II' 9-max Seat #5 is the button
+Seat 1: vltava ($83.35 in chips) 
+Seat 2: alaird ($46 in chips) 
+Seat 3: chaz313 ($37.45 in chips) 
+Seat 4: Spanische ($107 in chips) 
+Seat 5: justbilll ($96.70 in chips) 
+Seat 6: UBISHERE ($32.70 in chips) 
+Seat 7: Tito_9800BJB ($21.65 in chips) 
+Seat 8: skatter ($49.70 in chips) 
+Seat 9: Alameda22 ($47.75 in chips) 
+UBISHERE: posts small blind $0.25
+Tito_9800BJB: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 4s]
+skatter: folds 
+Alameda22: folds 
+vltava: folds 
+alaird: folds 
+chaz313: calls $0.50
+Spanische: folds 
+justbilll: folds 
+UBISHERE: folds 
+Tito_9800BJB: raises $1.50 to $2
+chaz313: calls $1.50
+*** FLOP *** [8s Js 5h]
+Tito_9800BJB: checks 
+chaz313: checks 
+*** TURN *** [8s Js 5h] [Qh]
+Tito_9800BJB: bets $3
+chaz313: calls $3
+*** RIVER *** [8s Js 5h Qh] [7c]
+Tito_9800BJB: checks 
+chaz313: bets $5
+Tito_9800BJB: folds 
+Uncalled bet ($5) returned to chaz313
+chaz313 collected $9.75 from pot
+chaz313: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.25 | Rake $0.50 
+Board [8s Js 5h Qh 7c]
+Seat 1: vltava folded before Flop (didn't bet)
+Seat 2: alaird folded before Flop (didn't bet)
+Seat 3: chaz313 collected ($9.75)
+Seat 4: Spanische folded before Flop (didn't bet)
+Seat 5: justbilll (button) folded before Flop (didn't bet)
+Seat 6: UBISHERE (small blind) folded before Flop
+Seat 7: Tito_9800BJB (big blind) folded on the River
+Seat 8: skatter folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+

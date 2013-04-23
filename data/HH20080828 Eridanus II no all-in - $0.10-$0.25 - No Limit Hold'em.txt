@@ -1,0 +1,58 @@
+PokerStars Game #19954529448:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 00:00:55 (ET)
+Table 'Eridanus II' 9-max Seat #4 is the button
+Seat 1: gatzi13 ($11.80 in chips) 
+Seat 2: Ride d Shore ($16.15 in chips) 
+Seat 3: jasons0147 ($25 in chips) 
+Seat 4: cdb1580 ($10.85 in chips) 
+Seat 5: SatinTouch ($18.15 in chips) 
+Seat 6: agurdo17 ($19.90 in chips) 
+Seat 7: weepeel ($26.15 in chips) 
+Seat 8: Alameda22 ($38.15 in chips) 
+Seat 9: tappel ($15.25 in chips) 
+SatinTouch: posts small blind $0.10
+agurdo17: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 6d]
+weepeel: folds 
+Alameda22: folds 
+tappel: folds 
+gatzi13: calls $0.25
+Ride d Shore: folds 
+jasons0147: folds 
+cdb1580: calls $0.25
+SatinTouch: calls $0.15
+agurdo17: checks 
+*** FLOP *** [Th 2c Qh]
+SatinTouch: checks 
+agurdo17: checks 
+gatzi13: bets $0.50
+cdb1580: calls $0.50
+SatinTouch: calls $0.50
+agurdo17: folds 
+*** TURN *** [Th 2c Qh] [5s]
+SatinTouch: checks 
+gatzi13: bets $1
+cdb1580: calls $1
+SatinTouch: folds 
+*** RIVER *** [Th 2c Qh 5s] [9c]
+gatzi13: bets $3
+cdb1580: raises $6.10 to $9.10 and is all-in
+gatzi13: folds 
+Uncalled bet ($6.10) returned to cdb1580
+cdb1580 collected $10 from pot
+cdb1580: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.50 
+Board [Th 2c Qh 5s 9c]
+Seat 1: gatzi13 folded on the River
+Seat 2: Ride d Shore folded before Flop (didn't bet)
+Seat 3: jasons0147 folded before Flop (didn't bet)
+Seat 4: cdb1580 (button) collected ($10)
+Seat 5: SatinTouch (small blind) folded on the Turn
+Seat 6: agurdo17 (big blind) folded on the Flop
+Seat 7: weepeel folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: tappel folded before Flop (didn't bet)
+
+
+

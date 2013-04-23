@@ -1,0 +1,1500 @@
+PokerStars Game #19903015271:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:20:20 (ET)
+Table 'Praxidike' 9-max Seat #5 is the button
+Seat 1: weepeel ($43.60 in chips) 
+Seat 2: WowSick ($25.35 in chips) 
+Seat 3: CTtaxman ($26 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 5: tb007all_in ($9.90 in chips) 
+Seat 7: ChipKickers ($4.75 in chips) 
+Seat 8: Pioneer2001 ($17.55 in chips) 
+Seat 9: Tuwei168 ($25.10 in chips) 
+ChipKickers: posts small blind $0.10
+Pioneer2001: posts big blind $0.25
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 7c]
+Tuwei168: folds 
+weepeel: folds 
+WowSick: folds 
+CTtaxman: folds 
+Alameda22: checks 
+tb007all_in: calls $0.25
+ChipKickers: calls $0.15
+Pioneer2001: checks 
+*** FLOP *** [Ad 4c 7d]
+ChipKickers: checks 
+Pioneer2001: checks 
+Alameda22: checks 
+tb007all_in: checks 
+*** TURN *** [Ad 4c 7d] [8c]
+ChipKickers: checks 
+Pioneer2001: checks 
+Alameda22: checks 
+tb007all_in: checks 
+*** RIVER *** [Ad 4c 7d 8c] [9c]
+ChipKickers: checks 
+Pioneer2001: checks 
+Alameda22: checks 
+tb007all_in: checks 
+*** SHOW DOWN ***
+ChipKickers: shows [Tc Js] (a straight, Seven to Jack)
+Pioneer2001: mucks hand 
+Alameda22: mucks hand 
+tb007all_in: mucks hand 
+ChipKickers collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Ad 4c 7d 8c 9c]
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman folded before Flop (didn't bet)
+Seat 4: Alameda22 mucked [3s 7c]
+Seat 5: tb007all_in (button) mucked [5d Kc]
+Seat 7: ChipKickers (small blind) showed [Tc Js] and won ($0.95) with a straight, Seven to Jack
+Seat 8: Pioneer2001 (big blind) mucked [Td 2s]
+Seat 9: Tuwei168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903054522:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:22:13 (ET)
+Table 'Praxidike' 9-max Seat #7 is the button
+Seat 1: weepeel ($43.60 in chips) 
+Seat 2: WowSick ($25.35 in chips) 
+Seat 3: CTtaxman ($26 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: tb007all_in ($9.65 in chips) 
+Seat 7: ChipKickers ($5.45 in chips) 
+Seat 8: Pioneer2001 ($17.30 in chips) 
+Seat 9: Tuwei168 ($25.10 in chips) 
+Pioneer2001: posts small blind $0.10
+Tuwei168: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Tc]
+weepeel: folds 
+WowSick: folds 
+CTtaxman: folds 
+Alameda22: folds 
+tb007all_in: folds 
+ChipKickers: folds 
+Pioneer2001: calls $0.15
+Tuwei168: checks 
+*** FLOP *** [9s Ts Qs]
+Pioneer2001: checks 
+Tuwei168: checks 
+*** TURN *** [9s Ts Qs] [8s]
+Pioneer2001: checks 
+Tuwei168: checks 
+*** RIVER *** [9s Ts Qs 8s] [Kd]
+Pioneer2001: bets $0.50
+Tuwei168: folds 
+Uncalled bet ($0.50) returned to Pioneer2001
+Pioneer2001 collected $0.50 from pot
+Pioneer2001: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [9s Ts Qs 8s Kd]
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: tb007all_in folded before Flop (didn't bet)
+Seat 7: ChipKickers (button) folded before Flop (didn't bet)
+Seat 8: Pioneer2001 (small blind) collected ($0.50)
+Seat 9: Tuwei168 (big blind) folded on the River
+
+
+
+PokerStars Game #19903074265:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:23:11 (ET)
+Table 'Praxidike' 9-max Seat #8 is the button
+Seat 1: weepeel ($43.60 in chips) 
+Seat 2: WowSick ($25.35 in chips) 
+Seat 3: CTtaxman ($26 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: tb007all_in ($9.65 in chips) 
+Seat 7: ChipKickers ($5.45 in chips) 
+Seat 8: Pioneer2001 ($17.55 in chips) 
+Seat 9: Tuwei168 ($24.85 in chips) 
+Tuwei168: posts small blind $0.10
+weepeel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Qd]
+WowSick: folds 
+CTtaxman: calls $0.25
+Alameda22: folds 
+tb007all_in: folds 
+ChipKickers: folds 
+Pioneer2001: calls $0.25
+Tuwei168: calls $0.15
+weepeel: checks 
+*** FLOP *** [Qs 7d 8d]
+Tuwei168: checks 
+weepeel: checks 
+CTtaxman: checks 
+Pioneer2001: checks 
+*** TURN *** [Qs 7d 8d] [2d]
+Tuwei168: checks 
+weepeel: checks 
+CTtaxman: bets $0.75
+Pioneer2001: folds 
+Tuwei168: folds 
+weepeel: folds 
+Uncalled bet ($0.75) returned to CTtaxman
+CTtaxman collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Qs 7d 8d 2d]
+Seat 1: weepeel (big blind) folded on the Turn
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman collected ($0.95)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: tb007all_in folded before Flop (didn't bet)
+Seat 7: ChipKickers folded before Flop (didn't bet)
+Seat 8: Pioneer2001 (button) folded on the Turn
+Seat 9: Tuwei168 (small blind) folded on the Turn
+
+
+
+PokerStars Game #19903114828:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:25:11 (ET)
+Table 'Praxidike' 9-max Seat #9 is the button
+Seat 1: weepeel ($43.35 in chips) 
+Seat 2: WowSick ($25.35 in chips) 
+Seat 3: CTtaxman ($26.70 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: tb007all_in ($9.65 in chips) 
+Seat 7: ChipKickers ($5.45 in chips) 
+Seat 8: Pioneer2001 ($17.30 in chips) 
+Seat 9: Tuwei168 ($24.60 in chips) 
+weepeel: posts small blind $0.10
+WowSick: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 2c]
+CTtaxman: calls $0.25
+Alameda22: folds 
+tb007all_in: calls $0.25
+ChipKickers: calls $0.25
+Pioneer2001: folds 
+Tuwei168: folds 
+weepeel: folds 
+WowSick: checks 
+*** FLOP *** [2h 8d 4h]
+WowSick: checks 
+CTtaxman: checks 
+tb007all_in: checks 
+ChipKickers: bets $0.50
+WowSick: folds 
+CTtaxman: folds 
+tb007all_in: folds 
+Uncalled bet ($0.50) returned to ChipKickers
+ChipKickers collected $1.05 from pot
+ChipKickers: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [2h 8d 4h]
+Seat 1: weepeel (small blind) folded before Flop
+Seat 2: WowSick (big blind) folded on the Flop
+Seat 3: CTtaxman folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: tb007all_in folded on the Flop
+Seat 7: ChipKickers collected ($1.05)
+Seat 8: Pioneer2001 folded before Flop (didn't bet)
+Seat 9: Tuwei168 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903142599:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:26:33 (ET)
+Table 'Praxidike' 9-max Seat #1 is the button
+Seat 1: weepeel ($43.25 in chips) 
+Seat 2: WowSick ($25.10 in chips) 
+Seat 3: CTtaxman ($26.45 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: tb007all_in ($9.40 in chips) 
+Seat 7: ChipKickers ($6.25 in chips) 
+Seat 8: Pioneer2001 ($17.30 in chips) 
+Seat 9: Tuwei168 ($24.60 in chips) 
+WowSick: posts small blind $0.10
+CTtaxman: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Jc]
+Alameda22: folds 
+tb007all_in: calls $0.25
+ChipKickers: folds 
+Pioneer2001: raises $1 to $1.25
+Tuwei168: folds 
+weepeel: folds 
+WowSick: folds 
+CTtaxman: folds 
+tb007all_in: raises $8.15 to $9.40 and is all-in
+Pioneer2001: folds 
+Uncalled bet ($8.15) returned to tb007all_in
+tb007all_in collected $2.85 from pot
+tb007all_in: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0 
+Seat 1: weepeel (button) folded before Flop (didn't bet)
+Seat 2: WowSick (small blind) folded before Flop
+Seat 3: CTtaxman (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: tb007all_in collected ($2.85)
+Seat 7: ChipKickers folded before Flop (didn't bet)
+Seat 8: Pioneer2001 folded before Flop
+Seat 9: Tuwei168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903158193:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:27:20 (ET)
+Table 'Praxidike' 9-max Seat #2 is the button
+Seat 1: weepeel ($43.25 in chips) 
+Seat 2: WowSick ($25 in chips) 
+Seat 3: CTtaxman ($26.20 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: tb007all_in ($11 in chips) 
+Seat 7: ChipKickers ($6.25 in chips) 
+Seat 8: Pioneer2001 ($16.05 in chips) 
+Seat 9: Tuwei168 ($24.60 in chips) 
+CTtaxman: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 6d]
+tb007all_in: folds 
+ChipKickers: raises $0.50 to $0.75
+Pioneer2001: folds 
+Tuwei168: folds 
+weepeel: folds 
+WowSick: folds 
+CTtaxman: calls $0.65
+Alameda22: folds 
+*** FLOP *** [2h 2s Ad]
+CTtaxman: checks 
+ChipKickers: bets $0.75
+CTtaxman: folds 
+Uncalled bet ($0.75) returned to ChipKickers
+ChipKickers collected $1.70 from pot
+ChipKickers: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [2h 2s Ad]
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: WowSick (button) folded before Flop (didn't bet)
+Seat 3: CTtaxman (small blind) folded on the Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: tb007all_in folded before Flop (didn't bet)
+Seat 7: ChipKickers collected ($1.70)
+Seat 8: Pioneer2001 folded before Flop (didn't bet)
+Seat 9: Tuwei168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903173712:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:28:06 (ET)
+Table 'Praxidike' 9-max Seat #3 is the button
+Seat 1: weepeel ($43.25 in chips) 
+Seat 2: WowSick ($25 in chips) 
+Seat 3: CTtaxman ($25.45 in chips) 
+Seat 4: Alameda22 ($24.50 in chips) 
+Seat 5: tb007all_in ($11 in chips) 
+Seat 7: ChipKickers ($7.20 in chips) 
+Seat 8: Pioneer2001 ($16.05 in chips) 
+Seat 9: Tuwei168 ($24.60 in chips) 
+Alameda22: posts small blind $0.10
+tb007all_in: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 9c]
+ChipKickers: calls $0.25
+Pioneer2001: folds 
+Tuwei168: folds 
+weepeel: folds 
+WowSick: folds 
+CTtaxman: folds 
+Alameda22: folds 
+tb007all_in: checks 
+*** FLOP *** [Qs 9d 8c]
+tb007all_in: checks 
+ChipKickers: bets $0.25
+tb007all_in: folds 
+Uncalled bet ($0.25) returned to ChipKickers
+ChipKickers collected $0.60 from pot
+ChipKickers: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qs 9d 8c]
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: tb007all_in (big blind) folded on the Flop
+Seat 7: ChipKickers collected ($0.60)
+Seat 8: Pioneer2001 folded before Flop (didn't bet)
+Seat 9: Tuwei168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903194362:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:29:08 (ET)
+Table 'Praxidike' 9-max Seat #4 is the button
+Seat 1: weepeel ($43.25 in chips) 
+Seat 2: WowSick ($25 in chips) 
+Seat 3: CTtaxman ($25.45 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: tb007all_in ($10.75 in chips) 
+Seat 7: ChipKickers ($7.55 in chips) 
+Seat 8: Pioneer2001 ($16.05 in chips) 
+Seat 9: Tuwei168 ($24.60 in chips) 
+tb007all_in: posts small blind $0.10
+ChipKickers: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 5c]
+Pioneer2001: raises $0.75 to $1
+Tuwei168: calls $1
+weepeel: calls $1
+WowSick: folds 
+CTtaxman: folds 
+Alameda22: folds 
+tb007all_in: folds 
+ChipKickers: folds 
+*** FLOP *** [5h Ah 3s]
+Pioneer2001: checks 
+Tuwei168: checks 
+jaibox has returned
+weepeel: checks 
+*** TURN *** [5h Ah 3s] [Kh]
+Pioneer2001: checks 
+Tuwei168: checks 
+weepeel: checks 
+*** RIVER *** [5h Ah 3s Kh] [Jc]
+Pioneer2001: checks 
+Tuwei168: checks 
+weepeel: checks 
+*** SHOW DOWN ***
+Pioneer2001: shows [Ts Td] (a pair of Tens)
+Tuwei168: shows [Qc Qd] (a pair of Queens)
+weepeel: mucks hand 
+Tuwei168 collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [5h Ah 3s Kh Jc]
+Seat 1: weepeel mucked [6d 5d]
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: tb007all_in (small blind) folded before Flop
+Seat 7: ChipKickers (big blind) folded before Flop
+Seat 8: Pioneer2001 showed [Ts Td] and lost with a pair of Tens
+Seat 9: Tuwei168 showed [Qc Qd] and won ($3.20) with a pair of Queens
+
+
+
+PokerStars Game #19903219632:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:30:24 (ET)
+Table 'Praxidike' 9-max Seat #5 is the button
+Seat 1: weepeel ($42.25 in chips) 
+Seat 2: WowSick ($25 in chips) 
+Seat 3: CTtaxman ($25.45 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: tb007all_in ($10.65 in chips) 
+Seat 7: ChipKickers ($7.30 in chips) 
+Seat 8: Pioneer2001 ($15.05 in chips) 
+Seat 9: Tuwei168 ($26.80 in chips) 
+jaibox will be allowed to play after the button
+ChipKickers: posts small blind $0.10
+Pioneer2001: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 8d]
+Tuwei168: folds 
+weepeel: folds 
+WowSick: folds 
+CTtaxman: folds 
+Alameda22: folds 
+tb007all_in: calls $0.25
+ChipKickers: calls $0.15
+Pioneer2001: raises $1 to $1.25
+tb007all_in: folds 
+ChipKickers: calls $1
+*** FLOP *** [9s 3h 3c]
+ChipKickers: checks 
+Pioneer2001: bets $1.50
+ChipKickers: folds 
+Uncalled bet ($1.50) returned to Pioneer2001
+Pioneer2001 collected $2.65 from pot
+Pioneer2001: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [9s 3h 3c]
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: tb007all_in (button) folded before Flop
+Seat 7: ChipKickers (small blind) folded on the Flop
+Seat 8: Pioneer2001 (big blind) collected ($2.65)
+Seat 9: Tuwei168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903246107:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:31:41 (ET)
+Table 'Praxidike' 9-max Seat #7 is the button
+Seat 1: weepeel ($42.25 in chips) 
+Seat 2: WowSick ($25 in chips) 
+Seat 3: CTtaxman ($25.45 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: tb007all_in ($10.40 in chips) 
+Seat 7: ChipKickers ($6.05 in chips) 
+Seat 8: Pioneer2001 ($16.45 in chips) 
+Seat 9: Tuwei168 ($26.80 in chips) 
+Pioneer2001: posts small blind $0.10
+Tuwei168: posts big blind $0.25
+jaibox: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 3d]
+weepeel: folds 
+WowSick: folds 
+CTtaxman: calls $0.25
+Alameda22: folds 
+tb007all_in: folds 
+ChipKickers: calls $0.25
+Pioneer2001: calls $0.15
+Tuwei168: checks 
+*** FLOP *** [Qd Tc 8c]
+Pioneer2001: bets $0.75
+Tuwei168: folds 
+CTtaxman: calls $0.75
+ChipKickers: folds 
+*** TURN *** [Qd Tc 8c] [Td]
+Pioneer2001: bets $1.50
+CTtaxman: calls $1.50
+*** RIVER *** [Qd Tc 8c Td] [Ts]
+Pioneer2001: bets $2
+CTtaxman: folds 
+Uncalled bet ($2) returned to Pioneer2001
+Pioneer2001 collected $5.25 from pot
+Pioneer2001: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25 
+Board [Qd Tc 8c Td Ts]
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman folded on the River
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: tb007all_in folded before Flop (didn't bet)
+Seat 7: ChipKickers (button) folded on the Flop
+Seat 8: Pioneer2001 (small blind) collected ($5.25)
+Seat 9: Tuwei168 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19903280264:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:33:22 (ET)
+Table 'Praxidike' 9-max Seat #8 is the button
+Seat 1: weepeel ($42.25 in chips) 
+Seat 2: WowSick ($25 in chips) 
+Seat 3: CTtaxman ($22.95 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: tb007all_in ($10.40 in chips) 
+Seat 7: ChipKickers ($5.80 in chips) 
+Seat 8: Pioneer2001 ($19.20 in chips) 
+Seat 9: Tuwei168 ($26.55 in chips) 
+Tuwei168: posts small blind $0.10
+weepeel: posts big blind $0.25
+jaibox: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Js]
+WowSick: folds 
+CTtaxman: folds 
+Alameda22: folds 
+tb007all_in: raises $0.25 to $0.50
+ChipKickers: folds 
+Pioneer2001: folds 
+Tuwei168: calls $0.40
+weepeel: calls $0.25
+*** FLOP *** [6h 5d As]
+Tuwei168: checks 
+weepeel: checks 
+tb007all_in: checks 
+*** TURN *** [6h 5d As] [6c]
+Tuwei168: checks 
+weepeel: checks 
+tb007all_in: checks 
+*** RIVER *** [6h 5d As 6c] [Kh]
+Tuwei168: checks 
+weepeel: checks 
+tb007all_in: bets $0.25
+Tuwei168: calls $0.25
+weepeel: folds 
+*** SHOW DOWN ***
+tb007all_in: shows [Qd Kc] (two pair, Kings and Sixes)
+Tuwei168: shows [2d Ad] (two pair, Aces and Sixes)
+Tuwei168 collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [6h 5d As 6c Kh]
+Seat 1: weepeel (big blind) folded on the River
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: tb007all_in showed [Qd Kc] and lost with two pair, Kings and Sixes
+Seat 7: ChipKickers folded before Flop (didn't bet)
+Seat 8: Pioneer2001 (button) folded before Flop (didn't bet)
+Seat 9: Tuwei168 (small blind) showed [2d Ad] and won ($1.95) with two pair, Aces and Sixes
+
+
+
+PokerStars Game #19903308756:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:34:46 (ET)
+Table 'Praxidike' 9-max Seat #9 is the button
+Seat 1: weepeel ($41.75 in chips) 
+Seat 2: WowSick ($25 in chips) 
+Seat 3: CTtaxman ($22.95 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: tb007all_in ($9.65 in chips) 
+Seat 7: ChipKickers ($5.80 in chips) 
+Seat 8: Pioneer2001 ($19.20 in chips) 
+Seat 9: Tuwei168 ($27.75 in chips) 
+weepeel: posts small blind $0.10
+WowSick: posts big blind $0.25
+jaibox: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 3d]
+CTtaxman: folds 
+Alameda22: folds 
+tb007all_in: folds 
+ChipKickers: folds 
+Pioneer2001: raises $0.75 to $1
+Tuwei168: folds 
+weepeel: folds 
+WowSick: folds 
+Uncalled bet ($0.75) returned to Pioneer2001
+Pioneer2001 collected $0.60 from pot
+Pioneer2001: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: weepeel (small blind) folded before Flop
+Seat 2: WowSick (big blind) folded before Flop
+Seat 3: CTtaxman folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: tb007all_in folded before Flop (didn't bet)
+Seat 7: ChipKickers folded before Flop (didn't bet)
+Seat 8: Pioneer2001 collected ($0.60)
+Seat 9: Tuwei168 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903320607:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:35:22 (ET)
+Table 'Praxidike' 9-max Seat #1 is the button
+Seat 1: weepeel ($41.65 in chips) 
+Seat 2: WowSick ($24.75 in chips) 
+Seat 3: CTtaxman ($22.95 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: tb007all_in ($9.65 in chips) 
+Seat 7: ChipKickers ($5.80 in chips) 
+Seat 8: Pioneer2001 ($19.55 in chips) 
+Seat 9: Tuwei168 ($27.75 in chips) 
+WowSick: posts small blind $0.10
+CTtaxman: posts big blind $0.25
+jaibox: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Qc]
+Alameda22: folds 
+tb007all_in: calls $0.25
+ChipKickers: calls $0.25
+Pioneer2001: folds 
+Tuwei168: folds 
+weepeel: raises $1.25 to $1.50
+WowSick: folds 
+CTtaxman: folds 
+tb007all_in: folds 
+ChipKickers: folds 
+Uncalled bet ($1.25) returned to weepeel
+weepeel collected $1.10 from pot
+weepeel: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: weepeel (button) collected ($1.10)
+Seat 2: WowSick (small blind) folded before Flop
+Seat 3: CTtaxman (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: tb007all_in folded before Flop
+Seat 7: ChipKickers folded before Flop
+Seat 8: Pioneer2001 folded before Flop (didn't bet)
+Seat 9: Tuwei168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903353270:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:37:00 (ET)
+Table 'Praxidike' 9-max Seat #2 is the button
+Seat 1: weepeel ($42.50 in chips) 
+Seat 2: WowSick ($24.65 in chips) 
+Seat 3: CTtaxman ($22.70 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: tb007all_in ($9.40 in chips) 
+Seat 7: ChipKickers ($5.55 in chips) 
+Seat 8: Pioneer2001 ($19.55 in chips) 
+Seat 9: Tuwei168 ($27.75 in chips) 
+CTtaxman: posts small blind $0.10
+Alameda22: posts big blind $0.25
+jaibox: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 9s]
+tb007all_in: raises $1.25 to $1.50
+ChipKickers: folds 
+Pioneer2001: folds 
+Tuwei168: folds 
+weepeel: folds 
+WowSick: folds 
+CTtaxman: folds 
+Alameda22: folds 
+Uncalled bet ($1.25) returned to tb007all_in
+tb007all_in collected $0.60 from pot
+tb007all_in: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: WowSick (button) folded before Flop (didn't bet)
+Seat 3: CTtaxman (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: tb007all_in collected ($0.60)
+Seat 7: ChipKickers folded before Flop (didn't bet)
+Seat 8: Pioneer2001 folded before Flop (didn't bet)
+Seat 9: Tuwei168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903369055:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:37:48 (ET)
+Table 'Praxidike' 9-max Seat #3 is the button
+Seat 1: weepeel ($42.50 in chips) 
+Seat 2: WowSick ($24.65 in chips) 
+Seat 3: CTtaxman ($22.60 in chips) 
+Seat 4: Alameda22 ($24.15 in chips) 
+Seat 5: tb007all_in ($9.75 in chips) 
+Seat 7: ChipKickers ($5.55 in chips) 
+Seat 8: Pioneer2001 ($19.55 in chips) 
+Seat 9: Tuwei168 ($27.75 in chips) 
+Alameda22: posts small blind $0.10
+tb007all_in: posts big blind $0.25
+jaibox: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 4c]
+ChipKickers: calls $0.25
+Pioneer2001: folds 
+Tuwei168: folds 
+weepeel: calls $0.25
+WowSick: folds 
+CTtaxman: folds 
+Alameda22: folds 
+tb007all_in: checks 
+*** FLOP *** [Qc 3s 2c]
+tb007all_in: checks 
+ChipKickers: checks 
+weepeel: checks 
+*** TURN *** [Qc 3s 2c] [4s]
+tb007all_in: bets $1
+ChipKickers: folds 
+weepeel: calls $1
+*** RIVER *** [Qc 3s 2c 4s] [5s]
+tb007all_in: bets $1
+weepeel: raises $40.25 to $41.25 and is all-in
+tb007all_in: folds 
+Uncalled bet ($40.25) returned to weepeel
+weepeel collected $4.65 from pot
+weepeel: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [Qc 3s 2c 4s 5s]
+Seat 1: weepeel collected ($4.65)
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: tb007all_in (big blind) folded on the River
+Seat 7: ChipKickers folded on the Turn
+Seat 8: Pioneer2001 folded before Flop (didn't bet)
+Seat 9: Tuwei168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903408377:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:39:46 (ET)
+Table 'Praxidike' 9-max Seat #4 is the button
+Seat 1: weepeel ($44.90 in chips) 
+Seat 2: WowSick ($24.65 in chips) 
+Seat 3: CTtaxman ($22.60 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: tb007all_in ($7.50 in chips) 
+Seat 6: jaibox ($15 in chips) 
+Seat 7: ChipKickers ($5.30 in chips) 
+Seat 8: Pioneer2001 ($19.55 in chips) 
+Seat 9: Tuwei168 ($27.75 in chips) 
+tb007all_in: posts small blind $0.10
+jaibox: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 8s]
+ChipKickers: folds 
+Pioneer2001: folds 
+Tuwei168: folds 
+weepeel: folds 
+WowSick: folds 
+CTtaxman: calls $0.25
+Alameda22: raises $0.75 to $1
+tb007all_in: raises $6.50 to $7.50 and is all-in
+jaibox: folds 
+CTtaxman: folds 
+Alameda22: folds 
+Uncalled bet ($6.50) returned to tb007all_in
+tb007all_in collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman folded before Flop
+Seat 4: Alameda22 (button) folded before Flop
+Seat 5: tb007all_in (small blind) collected ($2.50)
+Seat 6: jaibox (big blind) folded before Flop
+Seat 7: ChipKickers folded before Flop (didn't bet)
+Seat 8: Pioneer2001 folded before Flop (didn't bet)
+Seat 9: Tuwei168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903430326:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:40:53 (ET)
+Table 'Praxidike' 9-max Seat #5 is the button
+Seat 1: weepeel ($44.90 in chips) 
+Seat 2: WowSick ($24.65 in chips) 
+Seat 3: CTtaxman ($22.35 in chips) 
+Seat 4: Alameda22 ($23.05 in chips) 
+Seat 5: tb007all_in ($9 in chips) 
+Seat 6: jaibox ($14.75 in chips) 
+Seat 7: ChipKickers ($5.30 in chips) 
+Seat 8: Pioneer2001 ($19.55 in chips) 
+Seat 9: Tuwei168 ($27.75 in chips) 
+jaibox: posts small blind $0.10
+ChipKickers: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 6h]
+Pioneer2001: folds 
+Tuwei168: folds 
+weepeel: raises $0.50 to $0.75
+WowSick: folds 
+CTtaxman: calls $0.75
+Alameda22: folds 
+tb007all_in: folds 
+jaibox: folds 
+ChipKickers: calls $0.50
+*** FLOP *** [5h 6d Kd]
+ChipKickers: checks 
+weepeel: checks 
+CTtaxman: bets $1.25
+ChipKickers: calls $1.25
+weepeel: folds 
+*** TURN *** [5h 6d Kd] [2h]
+ChipKickers: checks 
+CTtaxman: bets $3.50
+ChipKickers: folds 
+Uncalled bet ($3.50) returned to CTtaxman
+CTtaxman collected $4.65 from pot
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [5h 6d Kd 2h]
+Seat 1: weepeel folded on the Flop
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman collected ($4.65)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: tb007all_in (button) folded before Flop (didn't bet)
+Seat 6: jaibox (small blind) folded before Flop
+Seat 7: ChipKickers (big blind) folded on the Turn
+Seat 8: Pioneer2001 folded before Flop (didn't bet)
+Seat 9: Tuwei168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903460493:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:42:25 (ET)
+Table 'Praxidike' 9-max Seat #6 is the button
+Seat 1: weepeel ($44.15 in chips) 
+Seat 2: WowSick ($24.65 in chips) 
+Seat 3: CTtaxman ($25 in chips) 
+Seat 4: Alameda22 ($23.05 in chips) 
+Seat 5: tb007all_in ($9 in chips) 
+Seat 6: jaibox ($14.65 in chips) 
+Seat 7: ChipKickers ($3.30 in chips) 
+Seat 8: Pioneer2001 ($19.55 in chips) 
+Seat 9: Tuwei168 ($27.75 in chips) 
+ChipKickers: posts small blind $0.10
+Pioneer2001: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 5h]
+Tuwei168: folds 
+weepeel: calls $0.25
+WowSick: folds 
+CTtaxman: raises $1.25 to $1.50
+Alameda22: folds 
+tb007all_in: folds 
+jaibox: folds 
+ChipKickers: folds 
+Pioneer2001: folds 
+weepeel: calls $1.25
+*** FLOP *** [Kh 7s Qs]
+weepeel: checks 
+CTtaxman: bets $1.50
+weepeel: calls $1.50
+*** TURN *** [Kh 7s Qs] [7c]
+weepeel: checks 
+CTtaxman: bets $1.50
+weepeel: calls $1.50
+*** RIVER *** [Kh 7s Qs 7c] [3c]
+weepeel: checks 
+CTtaxman: checks 
+*** SHOW DOWN ***
+weepeel: shows [Ts 8s] (a pair of Sevens)
+CTtaxman: shows [9s 9c] (two pair, Nines and Sevens)
+CTtaxman collected $8.90 from pot
+*** SUMMARY ***
+Total pot $9.35 | Rake $0.45 
+Board [Kh 7s Qs 7c 3c]
+Seat 1: weepeel showed [Ts 8s] and lost with a pair of Sevens
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman showed [9s 9c] and won ($8.90) with two pair, Nines and Sevens
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: tb007all_in folded before Flop (didn't bet)
+Seat 6: jaibox (button) folded before Flop (didn't bet)
+Seat 7: ChipKickers (small blind) folded before Flop
+Seat 8: Pioneer2001 (big blind) folded before Flop
+Seat 9: Tuwei168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903485222:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:43:40 (ET)
+Table 'Praxidike' 9-max Seat #7 is the button
+Seat 1: weepeel ($39.65 in chips) 
+Seat 2: WowSick ($24.65 in chips) 
+Seat 3: CTtaxman ($29.40 in chips) 
+Seat 4: Alameda22 ($23.05 in chips) 
+Seat 5: tb007all_in ($9 in chips) 
+Seat 6: jaibox ($14.65 in chips) 
+Seat 7: ChipKickers ($3.20 in chips) 
+Seat 8: Pioneer2001 ($19.30 in chips) 
+Seat 9: Tuwei168 ($27.75 in chips) 
+Pioneer2001: posts small blind $0.10
+Tuwei168: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Jh]
+weepeel: folds 
+WowSick: folds 
+CTtaxman: raises $0.75 to $1
+Alameda22: folds 
+tb007all_in: folds 
+jaibox: folds 
+ChipKickers: folds 
+Pioneer2001: folds 
+Tuwei168: folds 
+Uncalled bet ($0.75) returned to CTtaxman
+CTtaxman collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman collected ($0.60)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: tb007all_in folded before Flop (didn't bet)
+Seat 6: jaibox folded before Flop (didn't bet)
+Seat 7: ChipKickers (button) folded before Flop (didn't bet)
+Seat 8: Pioneer2001 (small blind) folded before Flop
+Seat 9: Tuwei168 (big blind) folded before Flop
+
+
+
+PokerStars Game #19903498283:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:44:20 (ET)
+Table 'Praxidike' 9-max Seat #8 is the button
+Seat 1: weepeel ($39.65 in chips) 
+Seat 2: WowSick ($24.65 in chips) 
+Seat 3: CTtaxman ($29.75 in chips) 
+Seat 4: Alameda22 ($23.05 in chips) 
+Seat 5: tb007all_in ($9 in chips) 
+Seat 6: jaibox ($14.65 in chips) 
+Seat 7: ChipKickers ($3.20 in chips) 
+Seat 8: Pioneer2001 ($19.20 in chips) 
+Seat 9: Tuwei168 ($27.50 in chips) 
+Tuwei168: posts small blind $0.10
+weepeel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 3d]
+WowSick: folds 
+CTtaxman: folds 
+Alameda22: folds 
+tb007all_in: folds 
+jaibox: folds 
+ChipKickers: folds 
+Pioneer2001: folds 
+Tuwei168: calls $0.15
+weepeel: checks 
+*** FLOP *** [5d Kc 6c]
+Tuwei168: checks 
+weepeel: checks 
+*** TURN *** [5d Kc 6c] [9h]
+Tuwei168: checks 
+weepeel: checks 
+*** RIVER *** [5d Kc 6c 9h] [Ad]
+Tuwei168: checks 
+weepeel: checks 
+*** SHOW DOWN ***
+Tuwei168: shows [Qs 6h] (a pair of Sixes)
+weepeel: mucks hand 
+Tuwei168 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [5d Kc 6c 9h Ad]
+Seat 1: weepeel (big blind) mucked [5h 3s]
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: tb007all_in folded before Flop (didn't bet)
+Seat 6: jaibox folded before Flop (didn't bet)
+Seat 7: ChipKickers folded before Flop (didn't bet)
+Seat 8: Pioneer2001 (button) folded before Flop (didn't bet)
+Seat 9: Tuwei168 (small blind) showed [Qs 6h] and won ($0.50) with a pair of Sixes
+
+
+
+PokerStars Game #19903521689:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:45:32 (ET)
+Table 'Praxidike' 9-max Seat #9 is the button
+Seat 1: weepeel ($39.40 in chips) 
+Seat 2: WowSick ($24.65 in chips) 
+Seat 3: CTtaxman ($29.75 in chips) 
+Seat 4: Alameda22 ($23.05 in chips) 
+Seat 5: tb007all_in ($9 in chips) 
+Seat 6: jaibox ($14.65 in chips) 
+Seat 7: ChipKickers ($3.20 in chips) 
+Seat 8: Pioneer2001 ($19.20 in chips) 
+Seat 9: Tuwei168 ($27.75 in chips) 
+weepeel: posts small blind $0.10
+WowSick: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 5d]
+CTtaxman: calls $0.25
+Alameda22: folds 
+tb007all_in: folds 
+jaibox: folds 
+ChipKickers: calls $0.25
+tb007all_in leaves the table
+Pioneer2001: folds 
+Tuwei168: folds 
+weepeel: calls $0.15
+WowSick: checks 
+*** FLOP *** [5c 3d 9c]
+weepeel: checks 
+WowSick: checks 
+CTtaxman: bets $0.50
+ChipKickers: calls $0.50
+weepeel: folds 
+WowSick: folds 
+*** TURN *** [5c 3d 9c] [Ac]
+CTtaxman: bets $0.50
+ChipKickers: calls $0.50
+*** RIVER *** [5c 3d 9c Ac] [8s]
+CTtaxman: checks 
+ChipKickers: bets $1.25
+CTtaxman: folds 
+Uncalled bet ($1.25) returned to ChipKickers
+silver2871 joins the table at seat #5 
+ChipKickers collected $2.90 from pot
+ChipKickers: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.10 
+Board [5c 3d 9c Ac 8s]
+Seat 1: weepeel (small blind) folded on the Flop
+Seat 2: WowSick (big blind) folded on the Flop
+Seat 3: CTtaxman folded on the River
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: tb007all_in folded before Flop (didn't bet)
+Seat 6: jaibox folded before Flop (didn't bet)
+Seat 7: ChipKickers collected ($2.90)
+Seat 8: Pioneer2001 folded before Flop (didn't bet)
+Seat 9: Tuwei168 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903551677:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:47:04 (ET)
+Table 'Praxidike' 9-max Seat #1 is the button
+Seat 1: weepeel ($39.15 in chips) 
+Seat 2: WowSick ($24.40 in chips) 
+Seat 3: CTtaxman ($28.50 in chips) 
+Seat 4: Alameda22 ($23.05 in chips) 
+Seat 6: jaibox ($14.65 in chips) 
+Seat 7: ChipKickers ($4.85 in chips) 
+Seat 8: Pioneer2001 ($19.20 in chips) 
+Seat 9: Tuwei168 ($27.75 in chips) 
+WowSick: posts small blind $0.10
+CTtaxman: posts big blind $0.25
+silver2871: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Ac]
+Alameda22: folds 
+jaibox: folds 
+ChipKickers: raises $0.25 to $0.50
+Pioneer2001: folds 
+Tuwei168: folds 
+weepeel: folds 
+WowSick: folds 
+CTtaxman: calls $0.25
+*** FLOP *** [6d Kd 8c]
+CTtaxman: checks 
+ChipKickers: bets $0.50
+CTtaxman: folds 
+Uncalled bet ($0.50) returned to ChipKickers
+ChipKickers collected $1.05 from pot
+ChipKickers: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [6d Kd 8c]
+Seat 1: weepeel (button) folded before Flop (didn't bet)
+Seat 2: WowSick (small blind) folded before Flop
+Seat 3: CTtaxman (big blind) folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: jaibox folded before Flop (didn't bet)
+Seat 7: ChipKickers collected ($1.05)
+Seat 8: Pioneer2001 folded before Flop (didn't bet)
+Seat 9: Tuwei168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903570519:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:48:02 (ET)
+Table 'Praxidike' 9-max Seat #2 is the button
+Seat 1: weepeel ($39.15 in chips) 
+Seat 2: WowSick ($24.30 in chips) 
+Seat 3: CTtaxman ($28 in chips) 
+Seat 4: Alameda22 ($23.05 in chips) 
+Seat 6: jaibox ($14.65 in chips) 
+Seat 7: ChipKickers ($5.40 in chips) 
+Seat 8: Pioneer2001 ($19.20 in chips) 
+Seat 9: Tuwei168 ($27.75 in chips) 
+CTtaxman: posts small blind $0.10
+Alameda22: posts big blind $0.25
+silver2871: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 7d]
+jaibox: folds 
+ChipKickers: folds 
+Pioneer2001: folds 
+Tuwei168: folds 
+weepeel: folds 
+WowSick: folds 
+CTtaxman: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Kd 3h 5d]
+CTtaxman: checks 
+Alameda22: checks 
+*** TURN *** [Kd 3h 5d] [5h]
+CTtaxman: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to CTtaxman
+CTtaxman collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Kd 3h 5d 5h]
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: WowSick (button) folded before Flop (didn't bet)
+Seat 3: CTtaxman (small blind) collected ($0.50)
+Seat 4: Alameda22 (big blind) folded on the Turn
+Seat 6: jaibox folded before Flop (didn't bet)
+Seat 7: ChipKickers folded before Flop (didn't bet)
+Seat 8: Pioneer2001 folded before Flop (didn't bet)
+Seat 9: Tuwei168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903602988:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:49:44 (ET)
+Table 'Praxidike' 9-max Seat #3 is the button
+Seat 1: weepeel ($39.15 in chips) 
+Seat 2: WowSick ($25 in chips) 
+Seat 3: CTtaxman ($28.25 in chips) 
+Seat 4: Alameda22 ($22.80 in chips) 
+Seat 5: silver2871 ($25 in chips) 
+Seat 6: jaibox ($14.65 in chips) 
+Seat 7: ChipKickers ($5.40 in chips) 
+Seat 8: Pioneer2001 ($19.20 in chips) 
+Seat 9: Tuwei168 ($27.75 in chips) 
+Alameda22: posts small blind $0.10
+silver2871: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Jc]
+jaibox: folds 
+ChipKickers: folds 
+Pioneer2001: folds 
+Tuwei168: folds 
+Tuwei168 leaves the table
+weepeel: folds 
+WowSick: folds 
+CTtaxman: calls $0.25
+Alameda22: folds 
+silver2871: checks 
+*** FLOP *** [9s 9h 4h]
+Travrock joins the table at seat #9 
+silver2871: checks 
+CTtaxman: checks 
+*** TURN *** [9s 9h 4h] [5h]
+silver2871: checks 
+CTtaxman: checks 
+*** RIVER *** [9s 9h 4h 5h] [Tc]
+silver2871: checks 
+CTtaxman: bets $0.75
+silver2871: calls $0.75
+*** SHOW DOWN ***
+CTtaxman: shows [7c Ac] (a pair of Nines)
+silver2871: shows [3h 4d] (two pair, Nines and Fours)
+silver2871 collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [9s 9h 4h 5h Tc]
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman (button) showed [7c Ac] and lost with a pair of Nines
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: silver2871 (big blind) showed [3h 4d] and won ($2) with two pair, Nines and Fours
+Seat 6: jaibox folded before Flop (didn't bet)
+Seat 7: ChipKickers folded before Flop (didn't bet)
+Seat 8: Pioneer2001 folded before Flop (didn't bet)
+Seat 9: Tuwei168 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903627357:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:51:00 (ET)
+Table 'Praxidike' 9-max Seat #4 is the button
+Seat 1: weepeel ($39.15 in chips) 
+Seat 2: WowSick ($25 in chips) 
+Seat 3: CTtaxman ($27.25 in chips) 
+Seat 4: Alameda22 ($22.70 in chips) 
+Seat 5: silver2871 ($26 in chips) 
+Seat 6: jaibox ($14.65 in chips) 
+Seat 7: ChipKickers ($5.40 in chips) 
+Seat 8: Pioneer2001 ($19.20 in chips) 
+Seat 9: Travrock ($12.70 in chips) 
+silver2871: posts small blind $0.10
+jaibox: posts big blind $0.25
+Travrock: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Ts]
+ChipKickers: folds 
+Pioneer2001: folds 
+Travrock: checks 
+weepeel: calls $0.25
+WowSick: folds 
+CTtaxman: folds 
+Alameda22: folds 
+silver2871: folds 
+jaibox: checks 
+*** FLOP *** [5s 4h 4c]
+jaibox: checks 
+Travrock: checks 
+weepeel: checks 
+*** TURN *** [5s 4h 4c] [3s]
+jaibox: checks 
+Travrock: bets $0.25
+weepeel: folds 
+jaibox: calls $0.25
+*** RIVER *** [5s 4h 4c 3s] [Th]
+jaibox: checks 
+Travrock: bets $0.50
+jaibox: raises $1 to $1.50
+Travrock: calls $1
+*** SHOW DOWN ***
+jaibox: shows [2h As] (a straight, Ace to Five)
+Travrock: mucks hand 
+jaibox collected $4.15 from pot
+Travrock said, "n"
+*** SUMMARY ***
+Total pot $4.35 | Rake $0.20 
+Board [5s 4h 4c 3s Th]
+Seat 1: weepeel folded on the Turn
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: silver2871 (small blind) folded before Flop
+Seat 6: jaibox (big blind) showed [2h As] and won ($4.15) with a straight, Ace to Five
+Seat 7: ChipKickers folded before Flop (didn't bet)
+Seat 8: Pioneer2001 folded before Flop (didn't bet)
+Seat 9: Travrock mucked [7h Tc]
+
+
+
+PokerStars Game #19903664029:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:52:56 (ET)
+Table 'Praxidike' 9-max Seat #5 is the button
+Seat 1: weepeel ($38.90 in chips) 
+Seat 2: WowSick ($25 in chips) 
+Seat 3: CTtaxman ($27.25 in chips) 
+Seat 4: Alameda22 ($22.70 in chips) 
+Seat 5: silver2871 ($25.90 in chips) 
+Seat 6: jaibox ($16.80 in chips) 
+Seat 7: ChipKickers ($5.40 in chips) 
+Seat 8: Pioneer2001 ($19.20 in chips) 
+Seat 9: Travrock ($10.70 in chips) 
+jaibox: posts small blind $0.10
+ChipKickers: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 6d]
+Pioneer2001: folds 
+Travrock: calls $0.25
+weepeel: folds 
+WowSick: folds 
+CTtaxman: folds 
+Alameda22: folds 
+silver2871: calls $0.25
+jaibox: raises $0.75 to $1
+ChipKickers: folds 
+Travrock: folds 
+silver2871: calls $0.75
+*** FLOP *** [4s Ah 8d]
+jaibox: checks 
+silver2871: bets $1.50
+jaibox: calls $1.50
+*** TURN *** [4s Ah 8d] [3d]
+jaibox: checks 
+silver2871: bets $2.75
+jaibox: folds 
+Uncalled bet ($2.75) returned to silver2871
+silver2871 collected $5.25 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25 
+Board [4s Ah 8d 3d]
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: silver2871 (button) collected ($5.25)
+Seat 6: jaibox (small blind) folded on the Turn
+Seat 7: ChipKickers (big blind) folded before Flop
+Seat 8: Pioneer2001 folded before Flop (didn't bet)
+Seat 9: Travrock folded before Flop
+
+
+
+PokerStars Game #19903694363:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:54:32 (ET)
+Table 'Praxidike' 9-max Seat #6 is the button
+Seat 1: weepeel ($38.90 in chips) 
+Seat 2: WowSick ($25 in chips) 
+Seat 3: CTtaxman ($27.25 in chips) 
+Seat 4: Alameda22 ($22.70 in chips) 
+Seat 5: silver2871 ($28.65 in chips) 
+Seat 6: jaibox ($14.30 in chips) 
+Seat 7: ChipKickers ($5.15 in chips) 
+Seat 9: Travrock ($10.45 in chips) 
+ChipKickers: posts small blind $0.10
+Pioneer2001: is sitting out 
+Pioneer2001 leaves the table
+Travrock: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 2d]
+weepeel: folds 
+jross430 joins the table at seat #8 
+WowSick: raises $0.75 to $1
+CTtaxman: folds 
+Alameda22: folds 
+silver2871: folds 
+jaibox: folds 
+ChipKickers: calls $0.90
+Travrock: calls $0.75
+*** FLOP *** [2c Kh 6d]
+ChipKickers: checks 
+Travrock: checks 
+WowSick: bets $1.80
+ChipKickers: folds 
+Travrock: folds 
+Uncalled bet ($1.80) returned to WowSick
+WowSick collected $2.85 from pot
+WowSick: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [2c Kh 6d]
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: WowSick collected ($2.85)
+Seat 3: CTtaxman folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: silver2871 folded before Flop (didn't bet)
+Seat 6: jaibox (button) folded before Flop (didn't bet)
+Seat 7: ChipKickers (small blind) folded on the Flop
+Seat 9: Travrock (big blind) folded on the Flop
+
+
+
+PokerStars Game #19903726638:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:56:15 (ET)
+Table 'Praxidike' 9-max Seat #7 is the button
+Seat 1: weepeel ($38.90 in chips) 
+Seat 2: WowSick ($26.85 in chips) 
+Seat 3: CTtaxman ($27.25 in chips) 
+Seat 4: Alameda22 ($22.70 in chips) 
+Seat 5: silver2871 ($28.65 in chips) 
+Seat 6: jaibox ($14.30 in chips) 
+Seat 7: ChipKickers ($4.15 in chips) 
+Seat 9: Travrock ($9.45 in chips) 
+jross430 will be allowed to play after the button
+Travrock: posts small blind $0.10
+weepeel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Ah]
+WowSick: folds 
+CTtaxman: folds 
+Alameda22: raises $0.50 to $0.75
+silver2871: calls $0.75
+jaibox: folds 
+ChipKickers: folds 
+Travrock: calls $0.65
+weepeel: folds 
+*** FLOP *** [Ts 7s 7c]
+Travrock: checks 
+Alameda22: checks 
+silver2871: bets $2
+Travrock: folds 
+Alameda22: folds 
+Uncalled bet ($2) returned to silver2871
+silver2871 collected $2.40 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Ts 7s 7c]
+Seat 1: weepeel (big blind) folded before Flop
+Seat 2: WowSick folded before Flop (didn't bet)
+Seat 3: CTtaxman folded before Flop (didn't bet)
+Seat 4: Alameda22 folded on the Flop
+Seat 5: silver2871 collected ($2.40)
+Seat 6: jaibox folded before Flop (didn't bet)
+Seat 7: ChipKickers (button) folded before Flop (didn't bet)
+Seat 9: Travrock (small blind) folded on the Flop
+
+
+
+PokerStars Game #19903750465:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:57:32 (ET)
+Table 'Praxidike' 9-max Seat #9 is the button
+Seat 1: weepeel ($38.65 in chips) 
+Seat 2: WowSick ($26.85 in chips) 
+Seat 3: CTtaxman ($27.25 in chips) 
+Seat 4: Alameda22 ($21.95 in chips) 
+Seat 5: silver2871 ($30.30 in chips) 
+Seat 6: jaibox ($14.30 in chips) 
+Seat 7: ChipKickers ($4.15 in chips) 
+Seat 8: jross430 ($15 in chips) 
+Seat 9: Travrock ($8.70 in chips) 
+weepeel: posts small blind $0.10
+WowSick: posts big blind $0.25
+jross430: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 4c]
+CTtaxman: calls $0.25
+Alameda22: folds 
+silver2871: calls $0.25
+jaibox: folds 
+ChipKickers: calls $0.25
+jross430: checks 
+Travrock: folds 
+weepeel: folds 
+WowSick: checks 
+*** FLOP *** [5h 2s Th]
+WowSick: checks 
+CTtaxman: checks 
+silver2871: checks 
+ChipKickers: bets $0.50
+jross430: folds 
+WowSick: folds 
+CTtaxman: folds 
+silver2871: calls $0.50
+*** TURN *** [5h 2s Th] [7d]
+silver2871: checks 
+ChipKickers: bets $1
+silver2871: calls $1
+*** RIVER *** [5h 2s Th 7d] [9d]
+silver2871: checks 
+CTtaxman leaves the table
+ChipKickers: checks 
+*** SHOW DOWN ***
+silver2871: shows [3s 4s] (high card Ten)
+ChipKickers: shows [5s 8s] (a pair of Fives)
+ChipKickers collected $4.15 from pot
+*** SUMMARY ***
+Total pot $4.35 | Rake $0.20 
+Board [5h 2s Th 7d 9d]
+Seat 1: weepeel (small blind) folded before Flop
+Seat 2: WowSick (big blind) folded on the Flop
+Seat 3: CTtaxman folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: silver2871 showed [3s 4s] and lost with high card Ten
+Seat 6: jaibox folded before Flop (didn't bet)
+Seat 7: ChipKickers showed [5s 8s] and won ($4.15) with a pair of Fives
+Seat 8: jross430 folded on the Flop
+Seat 9: Travrock (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903783675:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:59:20 (ET)
+Table 'Praxidike' 9-max Seat #1 is the button
+Seat 1: weepeel ($38.55 in chips) 
+Seat 2: WowSick ($26.60 in chips) 
+Seat 4: Alameda22 ($21.95 in chips) 
+Seat 5: silver2871 ($28.55 in chips) 
+Seat 6: jaibox ($25 in chips) 
+Seat 7: ChipKickers ($6.55 in chips) 
+Seat 8: jross430 ($14.75 in chips) 
+Seat 9: Travrock ($8.70 in chips) 
+WowSick: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 9h]
+silver2871: folds 
+jaibox: folds 
+ChipKickers: folds 
+jross430: folds 
+Travrock: folds 
+weepeel: folds 
+WowSick: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: weepeel (button) folded before Flop (didn't bet)
+Seat 2: WowSick (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) collected ($0.20)
+Seat 5: silver2871 folded before Flop (didn't bet)
+Seat 6: jaibox folded before Flop (didn't bet)
+Seat 7: ChipKickers folded before Flop (didn't bet)
+Seat 8: jross430 folded before Flop (didn't bet)
+Seat 9: Travrock folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903794214:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:59:54 (ET)
+Table 'Praxidike' 9-max Seat #2 is the button
+Seat 1: weepeel ($38.55 in chips) 
+Seat 2: WowSick ($26.50 in chips) 
+Seat 4: Alameda22 ($22.05 in chips) 
+Seat 5: silver2871 ($28.55 in chips) 
+Seat 6: jaibox ($25 in chips) 
+Seat 7: ChipKickers ($6.55 in chips) 
+Seat 8: jross430 ($14.75 in chips) 
+Seat 9: Travrock ($8.70 in chips) 
+Alameda22: posts small blind $0.10
+silver2871: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Qc]
+jaibox: folds 
+ChipKickers: calls $0.25
+jaibox leaves the table
+jross430: calls $0.25
+Travrock: folds 
+weepeel: folds 
+WowSick: folds 
+Alameda22: folds 
+silver2871: checks 
+*** FLOP *** [Qd 2c Ac]
+silver2871: checks 
+ChipKickers: bets $0.25
+jross430: calls $0.25
+silver2871: folds 
+*** TURN *** [Qd 2c Ac] [8c]
+ChipKickers: checks 
+jross430: checks 
+*** RIVER *** [Qd 2c Ac 8c] [6c]
+ChipKickers: checks 
+jross430: bets $1
+ChipKickers: folds 
+Uncalled bet ($1) returned to jross430
+jross430 collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [Qd 2c Ac 8c 6c]
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: WowSick (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: silver2871 (big blind) folded on the Flop
+Seat 6: jaibox folded before Flop (didn't bet)
+Seat 7: ChipKickers folded on the River
+Seat 8: jross430 collected ($1.30)
+Seat 9: Travrock folded before Flop (didn't bet)
+
+
+

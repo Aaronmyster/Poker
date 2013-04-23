@@ -1,0 +1,6179 @@
+PokerStars Game #20152941458:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:19:08 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($50 in chips) 
+Seat 2: steve517 ($28 in chips) 
+Seat 4: slickaaa ($47.65 in chips) 
+Seat 5: il conte ric ($29.95 in chips) 
+Seat 6: Ocean_13_777 ($246.60 in chips) 
+Seat 7: UBISHERE ($120.30 in chips) 
+Seat 8: drewbabez ($49.95 in chips) 
+drewbabez: posts small blind $0.25
+rAiZ2: is sitting out 
+Alameda22: posts big blind $0.50
+rAiZ2 leaves the table
+dwq2300: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Qh]
+steve517: folds 
+slickaaa: folds 
+il conte ric: folds 
+Ocean_13_777: raises $1.50 to $2
+UBISHERE: calls $2
+drewbabez: folds 
+Alameda22: folds 
+*** FLOP *** [5c Td 5s]
+Ocean_13_777: bets $3.50
+UBISHERE: calls $3.50
+*** TURN *** [5c Td 5s] [Ad]
+Ocean_13_777: checks 
+UBISHERE: checks 
+*** RIVER *** [5c Td 5s Ad] [2s]
+Ocean_13_777: checks 
+roozbeh15 joins the table at seat #9 
+UBISHERE: checks 
+*** SHOW DOWN ***
+Ocean_13_777: shows [3h 3s] (two pair, Fives and Threes)
+UBISHERE: shows [Ac 4c] (two pair, Aces and Fives)
+UBISHERE collected $11.20 from pot
+*** SUMMARY ***
+Total pot $11.75 | Rake $0.55 
+Board [5c Td 5s Ad 2s]
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 4: slickaaa folded before Flop (didn't bet)
+Seat 5: il conte ric folded before Flop (didn't bet)
+Seat 6: Ocean_13_777 showed [3h 3s] and lost with two pair, Fives and Threes
+Seat 7: UBISHERE (button) showed [Ac 4c] and won ($11.20) with two pair, Aces and Fives
+Seat 8: drewbabez (small blind) folded before Flop
+
+
+
+PokerStars Game #20152968858:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:20:21 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($49.50 in chips) 
+Seat 2: steve517 ($28 in chips) 
+Seat 4: slickaaa ($47.65 in chips) 
+Seat 5: il conte ric ($29.95 in chips) 
+Seat 6: Ocean_13_777 ($241.10 in chips) 
+Seat 7: UBISHERE ($126 in chips) 
+Seat 8: drewbabez ($49.70 in chips) 
+roozbeh15 will be allowed to play after the button
+Alameda22: posts small blind $0.25
+steve517: posts big blind $0.50
+dwq2300: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 2d]
+slickaaa: calls $0.50
+il conte ric: calls $0.50
+Ocean_13_777: folds 
+UBISHERE: folds 
+drewbabez: folds 
+Alameda22: folds 
+steve517: checks 
+*** FLOP *** [7d 5s 5c]
+steve517: checks 
+slickaaa: checks 
+il conte ric: checks 
+*** TURN *** [7d 5s 5c] [4h]
+steve517: bets $1.50
+slickaaa: calls $1.50
+il conte ric: folds 
+*** RIVER *** [7d 5s 5c 4h] [9d]
+steve517: checks 
+slickaaa: checks 
+*** SHOW DOWN ***
+steve517: shows [Qc Ad] (a pair of Fives)
+slickaaa: mucks hand 
+steve517 collected $4.55 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [7d 5s 5c 4h 9d]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: steve517 (big blind) showed [Qc Ad] and won ($4.55) with a pair of Fives
+Seat 4: slickaaa mucked [8h Ah]
+Seat 5: il conte ric folded on the Turn
+Seat 6: Ocean_13_777 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20152991890:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:21:24 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($49.25 in chips) 
+Seat 2: steve517 ($30.55 in chips) 
+Seat 3: dwq2300 ($10 in chips) 
+Seat 4: slickaaa ($45.65 in chips) 
+Seat 5: il conte ric ($29.45 in chips) 
+Seat 6: Ocean_13_777 ($241.10 in chips) 
+Seat 7: UBISHERE ($126 in chips) 
+Seat 8: drewbabez ($49.70 in chips) 
+steve517: posts small blind $0.25
+dwq2300: posts big blind $0.50
+roozbeh15: is sitting out 
+roozbeh15 leaves the table
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 3h]
+slickaaa: folds 
+il conte ric: folds 
+Ocean_13_777: folds 
+UBISHERE: folds 
+drewbabez: folds 
+Alameda22: folds 
+steve517: calls $0.25
+dwq2300: checks 
+*** FLOP *** [6s 4d Td]
+steve517: checks 
+dwq2300: bets $0.50
+steve517: folds 
+Uncalled bet ($0.50) returned to dwq2300
+dwq2300 collected $0.95 from pot
+dwq2300: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [6s 4d Td]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: steve517 (small blind) folded on the Flop
+Seat 3: dwq2300 (big blind) collected ($0.95)
+Seat 4: slickaaa folded before Flop (didn't bet)
+Seat 5: il conte ric folded before Flop (didn't bet)
+Seat 6: Ocean_13_777 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153017174:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:22:32 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($49.25 in chips) 
+Seat 2: steve517 ($30.05 in chips) 
+Seat 3: dwq2300 ($10.45 in chips) 
+Seat 4: slickaaa ($45.65 in chips) 
+Seat 5: il conte ric ($29.45 in chips) 
+Seat 6: Ocean_13_777 ($241.10 in chips) 
+Seat 7: UBISHERE ($126 in chips) 
+Seat 8: drewbabez ($49.70 in chips) 
+dwq2300: posts small blind $0.25
+slickaaa: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 7c]
+il conte ric: calls $0.50
+thrillboy21 joins the table at seat #9 
+Ocean_13_777: folds 
+UBISHERE: folds 
+drewbabez: folds 
+Alameda22: folds 
+steve517: calls $0.50
+dwq2300: calls $0.25
+slickaaa: checks 
+*** FLOP *** [6s 5d 5s]
+dwq2300: checks 
+slickaaa: bets $3
+il conte ric: folds 
+steve517: calls $3
+dwq2300: folds 
+*** TURN *** [6s 5d 5s] [2d]
+slickaaa: bets $6
+steve517: raises $6 to $12
+slickaaa: raises $6 to $18
+steve517: calls $6
+*** RIVER *** [6s 5d 5s 2d] [2s]
+slickaaa: bets $10
+steve517: calls $8.55 and is all-in
+Uncalled bet ($1.45) returned to slickaaa
+*** SHOW DOWN ***
+slickaaa: shows [2c 2h] (four of a kind, Deuces)
+steve517: mucks hand 
+slickaaa collected $58.20 from pot
+*** SUMMARY ***
+Total pot $61.10 | Rake $2.90 
+Board [6s 5d 5s 2d 2s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 (button) mucked [3h 5h]
+Seat 3: dwq2300 (small blind) folded on the Flop
+Seat 4: slickaaa (big blind) showed [2c 2h] and won ($58.20) with four of a kind, Deuces
+Seat 5: il conte ric folded on the Flop
+Seat 6: Ocean_13_777 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153053688:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:24:11 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($49.25 in chips) 
+Seat 3: dwq2300 ($9.95 in chips) 
+Seat 4: slickaaa ($73.80 in chips) 
+Seat 5: il conte ric ($28.95 in chips) 
+Seat 6: Ocean_13_777 ($241.10 in chips) 
+Seat 7: UBISHERE ($126 in chips) 
+Seat 8: drewbabez ($49.70 in chips) 
+Seat 9: thrillboy21 ($30 in chips) 
+slickaaa: posts small blind $0.25
+il conte ric: posts big blind $0.50
+thrillboy21: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 3d]
+Ocean_13_777: folds 
+UBISHERE: raises $1.50 to $2
+drewbabez: folds 
+thrillboy21: calls $1.50
+Alameda22: folds 
+dwq2300: folds 
+steve517 has returned
+slickaaa: calls $1.75
+il conte ric: folds 
+*** FLOP *** [6h 8c 8h]
+slickaaa: bets $5
+UBISHERE: calls $5
+thrillboy21: folds 
+*** TURN *** [6h 8c 8h] [8d]
+slickaaa: checks 
+UBISHERE: checks 
+*** RIVER *** [6h 8c 8h 8d] [2s]
+slickaaa: checks 
+UBISHERE: checks 
+*** SHOW DOWN ***
+slickaaa: shows [Ah Jd] (three of a kind, Eights)
+UBISHERE: shows [2d 2h] (a full house, Eights full of Deuces)
+UBISHERE collected $15.70 from pot
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.80 
+Board [6h 8c 8h 8d 2s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: dwq2300 (button) folded before Flop (didn't bet)
+Seat 4: slickaaa (small blind) showed [Ah Jd] and lost with three of a kind, Eights
+Seat 5: il conte ric (big blind) folded before Flop
+Seat 6: Ocean_13_777 folded before Flop (didn't bet)
+Seat 7: UBISHERE showed [2d 2h] and won ($15.70) with a full house, Eights full of Deuces
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: thrillboy21 folded on the Flop
+
+
+
+PokerStars Game #20153085658:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:25:38 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($49.25 in chips) 
+Seat 2: steve517 ($30 in chips) 
+Seat 3: dwq2300 ($9.95 in chips) 
+Seat 4: slickaaa ($66.80 in chips) 
+Seat 5: il conte ric ($28.45 in chips) 
+Seat 6: Ocean_13_777 ($241.10 in chips) 
+Seat 7: UBISHERE ($134.70 in chips) 
+Seat 8: drewbabez ($49.70 in chips) 
+Seat 9: thrillboy21 ($28 in chips) 
+il conte ric: posts small blind $0.25
+Ocean_13_777: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Td]
+UBISHERE: folds 
+drewbabez: folds 
+thrillboy21: folds 
+Alameda22: folds 
+steve517: calls $0.50
+dwq2300: folds 
+slickaaa: folds 
+il conte ric: folds 
+Ocean_13_777: checks 
+*** FLOP *** [Ks Th Jc]
+Ocean_13_777: bets $1
+steve517: calls $1
+*** TURN *** [Ks Th Jc] [Ac]
+Ocean_13_777: checks 
+steve517: bets $2
+Ocean_13_777: folds 
+Uncalled bet ($2) returned to steve517
+steve517 collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Ks Th Jc Ac]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 collected ($3.10)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa (button) folded before Flop (didn't bet)
+Seat 5: il conte ric (small blind) folded before Flop
+Seat 6: Ocean_13_777 (big blind) folded on the Turn
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: thrillboy21 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153115571:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:27:01 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($49.25 in chips) 
+Seat 2: steve517 ($31.60 in chips) 
+Seat 3: dwq2300 ($9.95 in chips) 
+Seat 4: slickaaa ($66.80 in chips) 
+Seat 5: il conte ric ($28.20 in chips) 
+Seat 6: Ocean_13_777 ($239.60 in chips) 
+Seat 7: UBISHERE ($134.70 in chips) 
+Seat 8: drewbabez ($49.70 in chips) 
+Seat 9: thrillboy21 ($28 in chips) 
+Ocean_13_777: posts small blind $0.25
+UBISHERE: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 9d]
+drewbabez: folds 
+thrillboy21: folds 
+Alameda22: folds 
+steve517: calls $0.50
+dwq2300: folds 
+slickaaa: folds 
+il conte ric: folds 
+Ocean_13_777: folds 
+UBISHERE: checks 
+*** FLOP *** [7s 9s 5d]
+UBISHERE: checks 
+steve517: bets $1.50
+UBISHERE: folds 
+Uncalled bet ($1.50) returned to steve517
+steve517 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [7s 9s 5d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 collected ($1.20)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa folded before Flop (didn't bet)
+Seat 5: il conte ric (button) folded before Flop (didn't bet)
+Seat 6: Ocean_13_777 (small blind) folded before Flop
+Seat 7: UBISHERE (big blind) folded on the Flop
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: thrillboy21 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153137247:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:28:00 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($49.25 in chips) 
+Seat 2: steve517 ($32.30 in chips) 
+Seat 3: dwq2300 ($9.95 in chips) 
+Seat 4: slickaaa ($66.80 in chips) 
+Seat 5: il conte ric ($28.20 in chips) 
+Seat 6: Ocean_13_777 ($239.35 in chips) 
+Seat 7: UBISHERE ($134.20 in chips) 
+Seat 8: drewbabez ($49.70 in chips) 
+Seat 9: thrillboy21 ($28 in chips) 
+UBISHERE: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 4d]
+thrillboy21: calls $0.50
+Alameda22: folds 
+steve517: calls $0.50
+dwq2300: folds 
+slickaaa: raises $1.50 to $2
+il conte ric: folds 
+Ocean_13_777: folds 
+UBISHERE: folds 
+drewbabez: folds 
+thrillboy21: calls $1.50
+steve517: folds 
+*** FLOP *** [2h 4s 3h]
+thrillboy21: checks 
+slickaaa: bets $3
+thrillboy21: folds 
+Uncalled bet ($3) returned to slickaaa
+slickaaa collected $5 from pot
+slickaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [2h 4s 3h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa collected ($5)
+Seat 5: il conte ric folded before Flop (didn't bet)
+Seat 6: Ocean_13_777 (button) folded before Flop (didn't bet)
+Seat 7: UBISHERE (small blind) folded before Flop
+Seat 8: drewbabez (big blind) folded before Flop
+Seat 9: thrillboy21 folded on the Flop
+
+
+
+PokerStars Game #20153170675:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:29:31 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($49.25 in chips) 
+Seat 2: steve517 ($31.80 in chips) 
+Seat 3: dwq2300 ($9.95 in chips) 
+Seat 4: slickaaa ($69.80 in chips) 
+Seat 5: il conte ric ($28.20 in chips) 
+Seat 6: Ocean_13_777 ($239.35 in chips) 
+Seat 7: UBISHERE ($133.95 in chips) 
+Seat 8: drewbabez ($49.20 in chips) 
+Seat 9: thrillboy21 ($26 in chips) 
+drewbabez: posts small blind $0.25
+thrillboy21: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Qh]
+Alameda22: raises $1.50 to $2
+steve517: folds 
+dwq2300: folds 
+slickaaa: folds 
+il conte ric: folds 
+Ocean_13_777: folds 
+UBISHERE: folds 
+drewbabez: folds 
+thrillboy21: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $1.25 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 collected ($1.25)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa folded before Flop (didn't bet)
+Seat 5: il conte ric folded before Flop (didn't bet)
+Seat 6: Ocean_13_777 folded before Flop (didn't bet)
+Seat 7: UBISHERE (button) folded before Flop (didn't bet)
+Seat 8: drewbabez (small blind) folded before Flop
+Seat 9: thrillboy21 (big blind) folded before Flop
+
+
+
+PokerStars Game #20153189402:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:30:21 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($50 in chips) 
+Seat 2: steve517 ($31.80 in chips) 
+Seat 3: dwq2300 ($9.95 in chips) 
+Seat 4: slickaaa ($69.80 in chips) 
+Seat 5: il conte ric ($28.20 in chips) 
+Seat 6: Ocean_13_777 ($239.35 in chips) 
+Seat 7: UBISHERE ($133.95 in chips) 
+Seat 8: drewbabez ($48.95 in chips) 
+Seat 9: thrillboy21 ($25.50 in chips) 
+thrillboy21: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 7h]
+steve517: folds 
+dwq2300: folds 
+slickaaa: folds 
+il conte ric: folds 
+Ocean_13_777: folds 
+UBISHERE: folds 
+drewbabez: raises $1.50 to $2
+thrillboy21: folds 
+Alameda22: folds 
+Uncalled bet ($1.50) returned to drewbabez
+drewbabez collected $1.25 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa folded before Flop (didn't bet)
+Seat 5: il conte ric folded before Flop (didn't bet)
+Seat 6: Ocean_13_777 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez (button) collected ($1.25)
+Seat 9: thrillboy21 (small blind) folded before Flop
+
+
+
+PokerStars Game #20153204871:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:31:04 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($49.50 in chips) 
+Seat 2: steve517 ($31.80 in chips) 
+Seat 3: dwq2300 ($9.95 in chips) 
+Seat 4: slickaaa ($69.80 in chips) 
+Seat 5: il conte ric ($28.20 in chips) 
+Seat 6: Ocean_13_777 ($239.35 in chips) 
+Seat 7: UBISHERE ($133.95 in chips) 
+Seat 8: drewbabez ($49.70 in chips) 
+Seat 9: thrillboy21 ($25.25 in chips) 
+Alameda22: posts small blind $0.25
+steve517: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Jh]
+dwq2300: folds 
+slickaaa: folds 
+il conte ric: calls $0.50
+Ocean_13_777: calls $0.50
+UBISHERE: folds 
+drewbabez: folds 
+thrillboy21: folds 
+Alameda22: folds 
+steve517: checks 
+*** FLOP *** [Ah 9s 2h]
+steve517: checks 
+il conte ric: bets $0.50
+Ocean_13_777: raises $1.50 to $2
+steve517: folds 
+il conte ric: calls $1.50
+*** TURN *** [Ah 9s 2h] [Kh]
+il conte ric: checks 
+Ocean_13_777: checks 
+*** RIVER *** [Ah 9s 2h Kh] [Ts]
+il conte ric: bets $1.50
+Ocean_13_777: calls $1.50
+*** SHOW DOWN ***
+il conte ric: shows [Ad 8d] (a pair of Aces)
+Ocean_13_777: mucks hand 
+il conte ric collected $8.35 from pot
+*** SUMMARY ***
+Total pot $8.75 | Rake $0.40 
+Board [Ah 9s 2h Kh Ts]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: steve517 (big blind) folded on the Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa folded before Flop (didn't bet)
+Seat 5: il conte ric showed [Ad 8d] and won ($8.35) with a pair of Aces
+Seat 6: Ocean_13_777 mucked [7d 9d]
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: thrillboy21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153230936:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:32:15 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($49.25 in chips) 
+Seat 2: steve517 ($31.30 in chips) 
+Seat 3: dwq2300 ($9.95 in chips) 
+Seat 4: slickaaa ($69.80 in chips) 
+Seat 5: il conte ric ($32.55 in chips) 
+Seat 6: Ocean_13_777 ($235.35 in chips) 
+Seat 7: UBISHERE ($133.95 in chips) 
+Seat 8: drewbabez ($49.70 in chips) 
+Seat 9: thrillboy21 ($25.25 in chips) 
+steve517: posts small blind $0.25
+dwq2300: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Kd]
+slickaaa: folds 
+il conte ric: calls $0.50
+Ocean_13_777: folds 
+UBISHERE: raises $1.50 to $2
+drewbabez: folds 
+thrillboy21: folds 
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+il conte ric: folds 
+Uncalled bet ($1.50) returned to UBISHERE
+UBISHERE collected $1.75 from pot
+UBISHERE: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: steve517 (small blind) folded before Flop
+Seat 3: dwq2300 (big blind) folded before Flop
+Seat 4: slickaaa folded before Flop (didn't bet)
+Seat 5: il conte ric folded before Flop
+Seat 6: Ocean_13_777 folded before Flop (didn't bet)
+Seat 7: UBISHERE collected ($1.75)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: thrillboy21 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153250781:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:33:09 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($49.25 in chips) 
+Seat 2: steve517 ($31.05 in chips) 
+Seat 3: dwq2300 ($9.45 in chips) 
+Seat 4: slickaaa ($69.80 in chips) 
+Seat 5: il conte ric ($32.05 in chips) 
+Seat 6: Ocean_13_777 ($235.35 in chips) 
+Seat 7: UBISHERE ($135.20 in chips) 
+Seat 8: drewbabez ($49.70 in chips) 
+Seat 9: thrillboy21 ($25.25 in chips) 
+dwq2300: posts small blind $0.25
+slickaaa: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 6h]
+il conte ric: folds 
+Ocean_13_777: folds 
+UBISHERE: folds 
+drewbabez: calls $0.50
+thrillboy21: folds 
+Alameda22: folds 
+steve517: calls $0.50
+dwq2300: calls $0.25
+slickaaa: checks 
+*** FLOP *** [4h Ks 9h]
+dwq2300: checks 
+slickaaa: checks 
+drewbabez: bets $2
+steve517: folds 
+dwq2300: folds 
+slickaaa: raises $4 to $6
+drewbabez: calls $4
+*** TURN *** [4h Ks 9h] [3s]
+slickaaa: checks 
+drewbabez: bets $12
+slickaaa: calls $12
+*** RIVER *** [4h Ks 9h 3s] [Td]
+slickaaa: checks 
+drewbabez: bets $31.20 and is all-in
+slickaaa: folds 
+Uncalled bet ($31.20) returned to drewbabez
+drewbabez collected $36.15 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $38 | Rake $1.85 
+Board [4h Ks 9h 3s Td]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 (button) folded on the Flop
+Seat 3: dwq2300 (small blind) folded on the Flop
+Seat 4: slickaaa (big blind) folded on the River
+Seat 5: il conte ric folded before Flop (didn't bet)
+Seat 6: Ocean_13_777 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez collected ($36.15)
+Seat 9: thrillboy21 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153304687:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:35:38 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($49.25 in chips) 
+Seat 2: steve517 ($30.55 in chips) 
+Seat 3: dwq2300 ($8.95 in chips) 
+Seat 4: slickaaa ($51.30 in chips) 
+Seat 5: il conte ric ($32.05 in chips) 
+Seat 6: Ocean_13_777 ($235.35 in chips) 
+Seat 7: UBISHERE ($135.20 in chips) 
+Seat 8: drewbabez ($67.35 in chips) 
+Seat 9: thrillboy21 ($25.25 in chips) 
+slickaaa: posts small blind $0.25
+il conte ric: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 4d]
+Ocean_13_777: folds 
+UBISHERE: folds 
+drewbabez: folds 
+thrillboy21: calls $0.50
+Alameda22: folds 
+steve517: folds 
+dwq2300: calls $0.50
+Ocean_13_777 leaves the table
+slickaaa: calls $0.25
+il conte ric: checks 
+*** FLOP *** [Qd 3c 5h]
+slickaaa: checks 
+il conte ric: checks 
+thrillboy21: checks 
+VascoFJV joins the table at seat #6 
+dwq2300: bets $1
+slickaaa: folds 
+il conte ric: folds 
+thrillboy21: folds 
+Uncalled bet ($1) returned to dwq2300
+dwq2300 collected $1.90 from pot
+dwq2300: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Qd 3c 5h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 (button) collected ($1.90)
+Seat 4: slickaaa (small blind) folded on the Flop
+Seat 5: il conte ric (big blind) folded on the Flop
+Seat 6: Ocean_13_777 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: thrillboy21 folded on the Flop
+
+
+
+PokerStars Game #20153339426:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:37:14 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($49.25 in chips) 
+Seat 2: steve517 ($30.55 in chips) 
+Seat 3: dwq2300 ($10.35 in chips) 
+Seat 4: slickaaa ($50.80 in chips) 
+Seat 5: il conte ric ($31.55 in chips) 
+Seat 6: VascoFJV ($25 in chips) 
+Seat 7: UBISHERE ($135.20 in chips) 
+Seat 8: drewbabez ($67.35 in chips) 
+Seat 9: thrillboy21 ($24.75 in chips) 
+il conte ric: posts small blind $0.25
+VascoFJV: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Jc]
+UBISHERE: folds 
+drewbabez: folds 
+thrillboy21: folds 
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+slickaaa: raises $0.50 to $1
+il conte ric: calls $0.75
+VascoFJV: calls $0.50
+*** FLOP *** [2h 4c Ks]
+il conte ric: checks 
+VascoFJV: checks 
+slickaaa: checks 
+*** TURN *** [2h 4c Ks] [Jh]
+il conte ric: checks 
+VascoFJV: bets $0.50
+slickaaa: calls $0.50
+il conte ric: calls $0.50
+*** RIVER *** [2h 4c Ks Jh] [Kc]
+il conte ric: checks 
+VascoFJV: checks 
+slickaaa: checks 
+*** SHOW DOWN ***
+il conte ric: shows [Ac Qc] (a pair of Kings)
+VascoFJV: shows [2c 5h] (two pair, Kings and Deuces)
+slickaaa: mucks hand 
+VascoFJV collected $4.30 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [2h 4c Ks Jh Kc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa (button) mucked [6c 5c]
+Seat 5: il conte ric (small blind) showed [Ac Qc] and lost with a pair of Kings
+Seat 6: VascoFJV (big blind) showed [2c 5h] and won ($4.30) with two pair, Kings and Deuces
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: thrillboy21 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153366755:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:38:29 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($49.25 in chips) 
+Seat 2: steve517 ($30.55 in chips) 
+Seat 3: dwq2300 ($10.35 in chips) 
+Seat 4: slickaaa ($49.30 in chips) 
+Seat 5: il conte ric ($30.05 in chips) 
+Seat 6: VascoFJV ($27.80 in chips) 
+Seat 7: UBISHERE ($135.20 in chips) 
+Seat 8: drewbabez ($67.35 in chips) 
+Seat 9: thrillboy21 ($24.75 in chips) 
+VascoFJV: posts small blind $0.25
+UBISHERE: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Th]
+drewbabez: folds 
+thrillboy21: calls $0.50
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+slickaaa: folds 
+il conte ric: calls $0.50
+VascoFJV: folds 
+UBISHERE: checks 
+*** FLOP *** [9s 6h Js]
+UBISHERE: checks 
+thrillboy21: bets $0.50
+il conte ric: raises $0.50 to $1
+UBISHERE: folds 
+thrillboy21: calls $0.50
+*** TURN *** [9s 6h Js] [Ac]
+thrillboy21: checks 
+il conte ric: bets $1.50
+thrillboy21: folds 
+Uncalled bet ($1.50) returned to il conte ric
+il conte ric collected $3.60 from pot
+il conte ric: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [9s 6h Js Ac]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa folded before Flop (didn't bet)
+Seat 5: il conte ric (button) collected ($3.60)
+Seat 6: VascoFJV (small blind) folded before Flop
+Seat 7: UBISHERE (big blind) folded on the Flop
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: thrillboy21 folded on the Turn
+
+
+
+PokerStars Game #20153397636:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:39:55 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($49.25 in chips) 
+Seat 2: steve517 ($30.55 in chips) 
+Seat 3: dwq2300 ($10.35 in chips) 
+Seat 4: slickaaa ($49.30 in chips) 
+Seat 5: il conte ric ($32.15 in chips) 
+Seat 6: VascoFJV ($27.55 in chips) 
+Seat 7: UBISHERE ($134.70 in chips) 
+Seat 8: drewbabez ($67.35 in chips) 
+Seat 9: thrillboy21 ($23.25 in chips) 
+UBISHERE: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 9c]
+thrillboy21: folds 
+Alameda22: folds 
+steve517: calls $0.50
+dwq2300: folds 
+slickaaa: calls $0.50
+il conte ric: folds 
+VascoFJV: raises $1.10 to $1.60
+UBISHERE: folds 
+drewbabez is disconnected 
+drewbabez has timed out while disconnected
+drewbabez: folds 
+drewbabez is sitting out
+steve517: raises $2.40 to $4
+slickaaa: folds 
+VascoFJV said, "vc esteve??????????"
+VascoFJV: folds 
+Uncalled bet ($2.40) returned to steve517
+steve517 collected $4.45 from pot
+*** SUMMARY ***
+Total pot $4.45 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 collected ($4.45)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa folded before Flop
+Seat 5: il conte ric folded before Flop (didn't bet)
+Seat 6: VascoFJV (button) folded before Flop
+Seat 7: UBISHERE (small blind) folded before Flop
+Seat 8: drewbabez (big blind) folded before Flop
+Seat 9: thrillboy21 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153446638:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:42:08 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($49.25 in chips) 
+Seat 2: steve517 ($33.40 in chips) 
+Seat 3: dwq2300 ($10.35 in chips) 
+Seat 4: slickaaa ($48.80 in chips) 
+Seat 5: il conte ric ($32.15 in chips) 
+Seat 6: VascoFJV ($25.95 in chips) 
+Seat 7: UBISHERE ($134.45 in chips) 
+Seat 9: thrillboy21 ($23.25 in chips) 
+thrillboy21: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 6c]
+steve517: folds 
+dwq2300: folds 
+slickaaa: folds 
+il conte ric: folds 
+VascoFJV: raises $0.50 to $1
+UBISHERE: folds 
+thrillboy21: calls $0.75
+Alameda22: folds 
+*** FLOP *** [Jd 4c 8h]
+thrillboy21: checks 
+VascoFJV: bets $1.25
+thrillboy21: calls $1.25
+*** TURN *** [Jd 4c 8h] [Ah]
+thrillboy21: bets $1
+VascoFJV: raises $3 to $4
+thrillboy21: calls $3
+*** RIVER *** [Jd 4c 8h Ah] [Ac]
+drewbabez is connected 
+thrillboy21: bets $1
+VascoFJV: raises $6 to $7
+thrillboy21: raises $10 to $17 and is all-in
+VascoFJV: calls $10
+*** SHOW DOWN ***
+thrillboy21: shows [Ad 3d] (three of a kind, Aces)
+VascoFJV: shows [4h 4d] (a full house, Fours full of Aces)
+VascoFJV collected $44.70 from pot
+*** SUMMARY ***
+Total pot $47 | Rake $2.30 
+Board [Jd 4c 8h Ah Ac]
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa folded before Flop (didn't bet)
+Seat 5: il conte ric folded before Flop (didn't bet)
+Seat 6: VascoFJV showed [4h 4d] and won ($44.70) with a full house, Fours full of Aces
+Seat 7: UBISHERE (button) folded before Flop (didn't bet)
+Seat 9: thrillboy21 (small blind) showed [Ad 3d] and lost with three of a kind, Aces
+
+
+
+PokerStars Game #20153485029:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:43:51 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($48.75 in chips) 
+Seat 2: steve517 ($33.40 in chips) 
+Seat 3: dwq2300 ($10.35 in chips) 
+Seat 4: slickaaa ($48.80 in chips) 
+Seat 5: il conte ric ($32.15 in chips) 
+Seat 6: VascoFJV ($47.40 in chips) 
+Seat 7: UBISHERE ($134.45 in chips) 
+steve517: posts small blind $0.25
+dwq2300: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Qc]
+thrillboy21 leaves the table
+slickaaa: folds 
+drewbabez has returned
+il conte ric: raises $0.50 to $1
+VascoFJV: folds 
+UBISHERE: folds 
+Alameda22: folds 
+steve517: folds 
+VascoFJV said, "my dream is fly rainbow so hight"
+dwq2300: folds 
+Uncalled bet ($0.50) returned to il conte ric
+il conte ric collected $1.25 from pot
+il conte ric: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: steve517 (small blind) folded before Flop
+Seat 3: dwq2300 (big blind) folded before Flop
+Seat 4: slickaaa folded before Flop (didn't bet)
+Seat 5: il conte ric collected ($1.25)
+Seat 6: VascoFJV folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153498369:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:44:28 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($48.75 in chips) 
+Seat 2: steve517 ($33.15 in chips) 
+Seat 3: dwq2300 ($9.85 in chips) 
+Seat 4: slickaaa ($48.80 in chips) 
+Seat 5: il conte ric ($32.90 in chips) 
+Seat 6: VascoFJV ($47.40 in chips) 
+Seat 7: UBISHERE ($134.45 in chips) 
+dwq2300: posts small blind $0.25
+slickaaa: posts big blind $0.50
+drewbabez: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Ad]
+cwp46 joins the table at seat #9 
+il conte ric: folds 
+VascoFJV: folds 
+UBISHERE: folds 
+Alameda22: folds 
+steve517: calls $0.50
+dwq2300: calls $0.25
+slickaaa: checks 
+*** FLOP *** [4c Td Th]
+dwq2300: checks 
+slickaaa: checks 
+steve517: checks 
+*** TURN *** [4c Td Th] [3d]
+dwq2300: checks 
+slickaaa: checks 
+VascoFJV said, "Vasco da Gama"
+steve517: bets $1.50
+dwq2300: folds 
+slickaaa: calls $1.50
+*** RIVER *** [4c Td Th 3d] [Qh]
+slickaaa: checks 
+steve517: bets $5
+slickaaa: folds 
+Uncalled bet ($5) returned to steve517
+steve517 collected $4.30 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [4c Td Th 3d Qh]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 (button) collected ($4.30)
+Seat 3: dwq2300 (small blind) folded on the Turn
+Seat 4: slickaaa (big blind) folded on the River
+Seat 5: il conte ric folded before Flop (didn't bet)
+Seat 6: VascoFJV folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153531924:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:45:59 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($48.75 in chips) 
+Seat 2: steve517 ($35.45 in chips) 
+Seat 3: dwq2300 ($9.35 in chips) 
+Seat 4: slickaaa ($46.80 in chips) 
+Seat 5: il conte ric ($32.90 in chips) 
+Seat 6: VascoFJV ($47.40 in chips) 
+Seat 7: UBISHERE ($134.45 in chips) 
+Seat 9: cwp46 ($16 in chips) 
+slickaaa: posts small blind $0.25
+il conte ric: posts big blind $0.50
+drewbabez: sits out 
+cwp46: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Th]
+VascoFJV: folds 
+UBISHERE: folds 
+cwp46: checks 
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+slickaaa: raises $0.50 to $1
+il conte ric: calls $0.50
+cwp46: folds 
+*** FLOP *** [3h 6h Ac]
+slickaaa: bets $3
+il conte ric: folds 
+Uncalled bet ($3) returned to slickaaa
+slickaaa collected $2.40 from pot
+slickaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [3h 6h Ac]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 (button) folded before Flop (didn't bet)
+Seat 4: slickaaa (small blind) collected ($2.40)
+Seat 5: il conte ric (big blind) folded on the Flop
+Seat 6: VascoFJV folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop
+
+
+
+PokerStars Game #20153546908:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:46:39 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($48.75 in chips) 
+Seat 2: steve517 ($35.45 in chips) 
+Seat 3: dwq2300 ($9.35 in chips) 
+Seat 4: slickaaa ($48.20 in chips) 
+Seat 5: il conte ric ($31.90 in chips) 
+Seat 7: UBISHERE ($134.45 in chips) 
+Seat 9: cwp46 ($15.50 in chips) 
+il conte ric: posts small blind $0.25
+VascoFJV: is sitting out 
+UBISHERE: posts big blind $0.50
+drewbabez: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 8c]
+VascoFJV leaves the table
+cwp46: folds 
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+fernandoagz joins the table at seat #6 
+slickaaa: raises $0.50 to $1
+il conte ric: folds 
+UBISHERE: folds 
+Uncalled bet ($0.50) returned to slickaaa
+slickaaa collected $1.25 from pot
+slickaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa (button) collected ($1.25)
+Seat 5: il conte ric (small blind) folded before Flop
+Seat 7: UBISHERE (big blind) folded before Flop
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153560520:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:47:16 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($48.75 in chips) 
+Seat 2: steve517 ($35.45 in chips) 
+Seat 3: dwq2300 ($9.35 in chips) 
+Seat 4: slickaaa ($48.95 in chips) 
+Seat 5: il conte ric ($31.65 in chips) 
+Seat 7: UBISHERE ($133.95 in chips) 
+Seat 8: drewbabez ($66.85 in chips) 
+Seat 9: cwp46 ($15.50 in chips) 
+fernandoagz will be allowed to play after the button
+UBISHERE: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Ah]
+cwp46: raises $0.50 to $1
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+slickaaa: folds 
+il conte ric: calls $1
+UBISHERE: folds 
+drewbabez: folds 
+*** FLOP *** [4d 7h 5h]
+cwp46: bets $1.50
+il conte ric: calls $1.50
+*** TURN *** [4d 7h 5h] [9d]
+cwp46: checks 
+il conte ric: bets $1.50
+cwp46: calls $1.50
+*** RIVER *** [4d 7h 5h 9d] [Ac]
+cwp46: checks 
+il conte ric: checks 
+*** SHOW DOWN ***
+cwp46: shows [Kh Kd] (a pair of Kings)
+il conte ric: mucks hand 
+cwp46 collected $8.35 from pot
+*** SUMMARY ***
+Total pot $8.75 | Rake $0.40 
+Board [4d 7h 5h 9d Ac]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa folded before Flop (didn't bet)
+Seat 5: il conte ric (button) mucked [Jc Js]
+Seat 7: UBISHERE (small blind) folded before Flop
+Seat 8: drewbabez (big blind) folded before Flop
+Seat 9: cwp46 showed [Kh Kd] and won ($8.35) with a pair of Kings
+
+
+
+PokerStars Game #20153587294:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:48:29 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($48.75 in chips) 
+Seat 2: steve517 ($35.45 in chips) 
+Seat 3: dwq2300 ($9.35 in chips) 
+Seat 4: slickaaa ($48.95 in chips) 
+Seat 5: il conte ric ($27.65 in chips) 
+Seat 7: UBISHERE ($133.70 in chips) 
+Seat 8: drewbabez ($66.35 in chips) 
+Seat 9: cwp46 ($19.85 in chips) 
+drewbabez: posts small blind $0.25
+cwp46: posts big blind $0.50
+fernandoagz: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 2c]
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+slickaaa: folds 
+il conte ric: folds 
+UBISHERE: folds 
+drewbabez: folds 
+Uncalled bet ($0.25) returned to cwp46
+cwp46 collected $0.50 from pot
+cwp46: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa folded before Flop (didn't bet)
+Seat 5: il conte ric folded before Flop (didn't bet)
+Seat 7: UBISHERE (button) folded before Flop (didn't bet)
+Seat 8: drewbabez (small blind) folded before Flop
+Seat 9: cwp46 (big blind) collected ($0.50)
+
+
+
+PokerStars Game #20153596623:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:48:54 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($48.75 in chips) 
+Seat 2: steve517 ($35.45 in chips) 
+Seat 3: dwq2300 ($9.35 in chips) 
+Seat 4: slickaaa ($48.95 in chips) 
+Seat 5: il conte ric ($27.65 in chips) 
+Seat 7: UBISHERE ($133.70 in chips) 
+Seat 8: drewbabez ($66.10 in chips) 
+Seat 9: cwp46 ($20.10 in chips) 
+cwp46: posts small blind $0.25
+Alameda22: posts big blind $0.50
+fernandoagz: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 9h]
+steve517: folds 
+dwq2300: folds 
+slickaaa: raises $0.50 to $1
+il conte ric: calls $1
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+*** FLOP *** [7d Ts Ks]
+slickaaa: bets $4
+il conte ric: folds 
+Uncalled bet ($4) returned to slickaaa
+slickaaa collected $2.65 from pot
+slickaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [7d Ts Ks]
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa collected ($2.65)
+Seat 5: il conte ric folded on the Flop
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: cwp46 (small blind) folded before Flop
+
+
+
+PokerStars Game #20153613633:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:49:41 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($48.25 in chips) 
+Seat 2: steve517 ($35.45 in chips) 
+Seat 3: dwq2300 ($9.35 in chips) 
+Seat 4: slickaaa ($50.60 in chips) 
+Seat 5: il conte ric ($26.65 in chips) 
+Seat 7: UBISHERE ($133.70 in chips) 
+Seat 8: drewbabez ($66.10 in chips) 
+Seat 9: cwp46 ($19.85 in chips) 
+Alameda22: posts small blind $0.25
+steve517: posts big blind $0.50
+fernandoagz: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Jc]
+dwq2300: folds 
+slickaaa: raises $0.50 to $1
+il conte ric: calls $1
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+steve517: folds 
+*** FLOP *** [3h 2c Qd]
+slickaaa: bets $4
+il conte ric: folds 
+Uncalled bet ($4) returned to slickaaa
+slickaaa collected $2.65 from pot
+slickaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [3h 2c Qd]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: steve517 (big blind) folded before Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa collected ($2.65)
+Seat 5: il conte ric folded on the Flop
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153631727:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:50:30 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($48 in chips) 
+Seat 2: steve517 ($34.95 in chips) 
+Seat 3: dwq2300 ($9.35 in chips) 
+Seat 4: slickaaa ($52.25 in chips) 
+Seat 5: il conte ric ($25.65 in chips) 
+Seat 7: UBISHERE ($133.70 in chips) 
+Seat 8: drewbabez ($66.10 in chips) 
+Seat 9: cwp46 ($19.85 in chips) 
+steve517: posts small blind $0.25
+dwq2300: posts big blind $0.50
+fernandoagz: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 3c]
+slickaaa: folds 
+il conte ric: calls $0.50
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+steve517: folds 
+dwq2300: checks 
+*** FLOP *** [Kc Ts 5s]
+dwq2300: bets $0.50
+il conte ric: calls $0.50
+*** TURN *** [Kc Ts 5s] [Qh]
+dwq2300: checks 
+il conte ric: checks 
+*** RIVER *** [Kc Ts 5s Qh] [9s]
+dwq2300: checks 
+il conte ric: checks 
+*** SHOW DOWN ***
+dwq2300: shows [3h 5h] (a pair of Fives)
+il conte ric: mucks hand 
+dwq2300 collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Kc Ts 5s Qh 9s]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: steve517 (small blind) folded before Flop
+Seat 3: dwq2300 (big blind) showed [3h 5h] and won ($2.15) with a pair of Fives
+Seat 4: slickaaa folded before Flop (didn't bet)
+Seat 5: il conte ric mucked [2d 2s]
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153666489:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:52:05 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($48 in chips) 
+Seat 2: steve517 ($34.70 in chips) 
+Seat 3: dwq2300 ($10.50 in chips) 
+Seat 4: slickaaa ($52.25 in chips) 
+Seat 5: il conte ric ($24.65 in chips) 
+Seat 7: UBISHERE ($133.70 in chips) 
+Seat 8: drewbabez ($66.10 in chips) 
+Seat 9: cwp46 ($19.85 in chips) 
+dwq2300: posts small blind $0.25
+slickaaa: posts big blind $0.50
+fernandoagz: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 2h]
+il conte ric: folds 
+UBISHERE: folds 
+il conte ric leaves the table
+FACUMDP joins the table at seat #5 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+steve517: calls $0.50
+dwq2300: calls $0.25
+slickaaa: checks 
+*** FLOP *** [4s 3d 3s]
+dwq2300: checks 
+slickaaa: bets $2
+steve517: folds 
+dwq2300: folds 
+Uncalled bet ($2) returned to slickaaa
+slickaaa collected $1.45 from pot
+slickaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [4s 3d 3s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 (button) folded on the Flop
+Seat 3: dwq2300 (small blind) folded on the Flop
+Seat 4: slickaaa (big blind) collected ($1.45)
+Seat 5: il conte ric folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153692222:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:53:16 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($48 in chips) 
+Seat 2: steve517 ($34.20 in chips) 
+Seat 3: dwq2300 ($10 in chips) 
+Seat 4: slickaaa ($53.20 in chips) 
+Seat 5: FACUMDP ($50 in chips) 
+Seat 7: UBISHERE ($133.70 in chips) 
+Seat 8: drewbabez ($66.10 in chips) 
+Seat 9: cwp46 ($19.85 in chips) 
+slickaaa: posts small blind $0.25
+FACUMDP: posts big blind $0.50
+fernandoagz: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 8h]
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+slickaaa is disconnected 
+slickaaa is connected 
+Alameda22: folds 
+steve517: calls $0.50
+dwq2300: folds 
+slickaaa: calls $0.25
+FACUMDP: checks 
+*** FLOP *** [Td 7s 4d]
+slickaaa: bets $2
+FACUMDP: folds 
+steve517: folds 
+Uncalled bet ($2) returned to slickaaa
+slickaaa collected $1.45 from pot
+slickaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Td 7s 4d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded on the Flop
+Seat 3: dwq2300 (button) folded before Flop (didn't bet)
+Seat 4: slickaaa (small blind) collected ($1.45)
+Seat 5: FACUMDP (big blind) folded on the Flop
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153718509:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:54:28 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($48 in chips) 
+Seat 2: steve517 ($33.70 in chips) 
+Seat 3: dwq2300 ($10 in chips) 
+Seat 4: slickaaa ($54.15 in chips) 
+Seat 5: FACUMDP ($49.50 in chips) 
+Seat 6: fernandoagz ($10 in chips) 
+Seat 7: UBISHERE ($133.70 in chips) 
+Seat 8: drewbabez ($66.10 in chips) 
+Seat 9: cwp46 ($19.85 in chips) 
+FACUMDP: posts small blind $0.25
+fernandoagz: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 5c]
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+slickaaa: raises $0.50 to $1
+FACUMDP: folds 
+fernandoagz: folds 
+Uncalled bet ($0.50) returned to slickaaa
+slickaaa collected $1.25 from pot
+slickaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa (button) collected ($1.25)
+Seat 5: FACUMDP (small blind) folded before Flop
+Seat 6: fernandoagz (big blind) folded before Flop
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153744553:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:55:39 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($48 in chips) 
+Seat 2: steve517 ($33.70 in chips) 
+Seat 3: dwq2300 ($10 in chips) 
+Seat 4: slickaaa ($54.90 in chips) 
+Seat 5: FACUMDP ($49.25 in chips) 
+Seat 6: fernandoagz ($9.50 in chips) 
+Seat 7: UBISHERE ($133.70 in chips) 
+Seat 8: drewbabez ($66.10 in chips) 
+Seat 9: cwp46 ($19.85 in chips) 
+fernandoagz: posts small blind $0.25
+UBISHERE: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Jc]
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+steve517: raises $1 to $1.50
+dwq2300: folds 
+slickaaa: folds 
+FACUMDP: folds 
+fernandoagz: folds 
+UBISHERE: folds 
+Uncalled bet ($1) returned to steve517
+steve517 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 collected ($1.25)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa folded before Flop (didn't bet)
+Seat 5: FACUMDP (button) folded before Flop (didn't bet)
+Seat 6: fernandoagz (small blind) folded before Flop
+Seat 7: UBISHERE (big blind) folded before Flop
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153765118:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:56:36 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($48 in chips) 
+Seat 2: steve517 ($34.45 in chips) 
+Seat 3: dwq2300 ($10 in chips) 
+Seat 4: slickaaa ($54.90 in chips) 
+Seat 5: FACUMDP ($49.25 in chips) 
+Seat 6: fernandoagz ($10 in chips) 
+Seat 7: UBISHERE ($133.20 in chips) 
+Seat 8: drewbabez ($66.10 in chips) 
+Seat 9: cwp46 ($19.85 in chips) 
+UBISHERE: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Js]
+cwp46: folds 
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+slickaaa: calls $0.50
+FACUMDP: folds 
+fernandoagz: folds 
+UBISHERE: folds 
+drewbabez: checks 
+*** FLOP *** [Ks Jh 4s]
+drewbabez: checks 
+slickaaa: bets $2
+drewbabez: folds 
+Uncalled bet ($2) returned to slickaaa
+slickaaa collected $1.20 from pot
+slickaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Ks Jh 4s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa collected ($1.20)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: fernandoagz (button) folded before Flop (didn't bet)
+Seat 7: UBISHERE (small blind) folded before Flop
+Seat 8: drewbabez (big blind) folded on the Flop
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153788559:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:57:41 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($48 in chips) 
+Seat 2: steve517 ($34.45 in chips) 
+Seat 3: dwq2300 ($10 in chips) 
+Seat 4: slickaaa ($55.60 in chips) 
+Seat 5: FACUMDP ($49.25 in chips) 
+Seat 6: fernandoagz ($10 in chips) 
+Seat 7: UBISHERE ($132.95 in chips) 
+Seat 8: drewbabez ($65.60 in chips) 
+Seat 9: cwp46 ($19.85 in chips) 
+drewbabez: posts small blind $0.25
+cwp46: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 3c]
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+slickaaa: raises $0.50 to $1
+FACUMDP: folds 
+fernandoagz: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Uncalled bet ($0.50) returned to slickaaa
+slickaaa collected $1.25 from pot
+slickaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa collected ($1.25)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: fernandoagz folded before Flop (didn't bet)
+Seat 7: UBISHERE (button) folded before Flop (didn't bet)
+Seat 8: drewbabez (small blind) folded before Flop
+Seat 9: cwp46 (big blind) folded before Flop
+
+
+
+PokerStars Game #20153800221:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:58:13 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($48 in chips) 
+Seat 2: steve517 ($34.45 in chips) 
+Seat 3: dwq2300 ($10 in chips) 
+Seat 4: slickaaa ($56.35 in chips) 
+Seat 5: FACUMDP ($49.25 in chips) 
+Seat 6: fernandoagz ($10 in chips) 
+Seat 7: UBISHERE ($132.95 in chips) 
+Seat 8: drewbabez ($65.35 in chips) 
+Seat 9: cwp46 ($19.35 in chips) 
+cwp46: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 2s]
+steve517: folds 
+dwq2300: folds 
+slickaaa: raises $0.50 to $1
+FACUMDP: folds 
+fernandoagz: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: calls $0.75
+Alameda22: folds 
+*** FLOP *** [8c Js 5d]
+cwp46: checks 
+slickaaa: bets $3
+cwp46: folds 
+Uncalled bet ($3) returned to slickaaa
+slickaaa collected $2.40 from pot
+slickaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [8c Js 5d]
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa collected ($2.40)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: fernandoagz folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: cwp46 (small blind) folded on the Flop
+
+
+
+PokerStars Game #20153824110:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 21:59:19 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($47.50 in chips) 
+Seat 2: steve517 ($34.45 in chips) 
+Seat 3: dwq2300 ($10 in chips) 
+Seat 4: slickaaa ($57.75 in chips) 
+Seat 5: FACUMDP ($49.25 in chips) 
+Seat 6: fernandoagz ($10 in chips) 
+Seat 7: UBISHERE ($132.95 in chips) 
+Seat 8: drewbabez ($65.35 in chips) 
+Seat 9: cwp46 ($18.35 in chips) 
+Alameda22: posts small blind $0.25
+steve517: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 8h]
+dwq2300: folds 
+slickaaa: folds 
+FACUMDP: raises $1.50 to $2
+fernandoagz: folds 
+UBISHERE: calls $2
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+steve517: folds 
+*** FLOP *** [7c 7d Kc]
+slickaaa leaves the table
+FACUMDP: checks 
+UBISHERE: bets $3.50
+FACUMDP: folds 
+Uncalled bet ($3.50) returned to UBISHERE
+UBISHERE collected $4.55 from pot
+UBISHERE: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [7c 7d Kc]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: steve517 (big blind) folded before Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: slickaaa folded before Flop (didn't bet)
+Seat 5: FACUMDP folded on the Flop
+Seat 6: fernandoagz folded before Flop (didn't bet)
+Seat 7: UBISHERE collected ($4.55)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153848383:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:00:25 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($47.25 in chips) 
+Seat 2: steve517 ($33.95 in chips) 
+Seat 3: dwq2300 ($10 in chips) 
+Seat 5: FACUMDP ($47.25 in chips) 
+Seat 6: fernandoagz ($10 in chips) 
+Seat 7: UBISHERE ($135.50 in chips) 
+Seat 8: drewbabez ($65.35 in chips) 
+Seat 9: cwp46 ($18.35 in chips) 
+steve517: posts small blind $0.25
+dwq2300: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Jc]
+FACUMDP: folds 
+fernandoagz: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+steve517: folds 
+Uncalled bet ($0.25) returned to dwq2300
+dwq2300 collected $0.50 from pot
+dwq2300: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: steve517 (small blind) folded before Flop
+Seat 3: dwq2300 (big blind) collected ($0.50)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: fernandoagz folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153866167:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:01:14 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($47.25 in chips) 
+Seat 2: steve517 ($33.70 in chips) 
+Seat 3: dwq2300 ($10.25 in chips) 
+Seat 5: FACUMDP ($47.25 in chips) 
+Seat 6: fernandoagz ($10 in chips) 
+Seat 7: UBISHERE ($135.50 in chips) 
+Seat 8: drewbabez ($65.35 in chips) 
+Seat 9: cwp46 ($18.35 in chips) 
+dwq2300: posts small blind $0.25
+FACUMDP: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 2c]
+fernandoagz: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+steve517: folds 
+dwq2300: calls $0.25
+FACUMDP: checks 
+*** FLOP *** [6s Tc 7h]
+dwq2300: bets $0.50
+FACUMDP: raises $1 to $1.50
+dwq2300: folds 
+Uncalled bet ($1) returned to FACUMDP
+FACUMDP collected $1.95 from pot
+FACUMDP: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [6s Tc 7h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 (button) folded before Flop (didn't bet)
+Seat 3: dwq2300 (small blind) folded on the Flop
+Seat 5: FACUMDP (big blind) collected ($1.95)
+Seat 6: fernandoagz folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153887340:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:02:13 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($47.25 in chips) 
+Seat 2: steve517 ($33.70 in chips) 
+Seat 3: dwq2300 ($9.25 in chips) 
+Seat 5: FACUMDP ($48.20 in chips) 
+Seat 6: fernandoagz ($10 in chips) 
+Seat 7: UBISHERE ($135.50 in chips) 
+Seat 8: drewbabez ($65.35 in chips) 
+Seat 9: cwp46 ($18.35 in chips) 
+FACUMDP: posts small blind $0.25
+fernandoagz: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 7d]
+UBISHERE: folds 
+drewbabez: calls $0.50
+cwp46: folds 
+bassin410 joins the table at seat #4 
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+FACUMDP: raises $1.50 to $2
+fernandoagz: raises $4 to $6
+drewbabez: folds 
+FACUMDP: raises $4 to $10
+fernandoagz: calls $4 and is all-in
+*** FLOP *** [8d Qd 9h]
+*** TURN *** [8d Qd 9h] [4s]
+*** RIVER *** [8d Qd 9h 4s] [6c]
+*** SHOW DOWN ***
+FACUMDP: shows [Kc Ks] (a pair of Kings)
+fernandoagz: mucks hand 
+FACUMDP collected $19.50 from pot
+*** SUMMARY ***
+Total pot $20.50 | Rake $1 
+Board [8d Qd 9h 4s 6c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 (button) folded before Flop (didn't bet)
+Seat 5: FACUMDP (small blind) showed [Kc Ks] and won ($19.50) with a pair of Kings
+Seat 6: fernandoagz (big blind) mucked [Kh Ah]
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153910344:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:03:17 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($47.25 in chips) 
+Seat 2: steve517 ($33.70 in chips) 
+Seat 3: dwq2300 ($9.25 in chips) 
+Seat 4: bassin410 ($10 in chips) 
+Seat 5: FACUMDP ($57.70 in chips) 
+Seat 6: fernandoagz ($20 in chips) 
+Seat 7: UBISHERE ($135.50 in chips) 
+Seat 8: drewbabez ($64.85 in chips) 
+Seat 9: cwp46 ($18.35 in chips) 
+fernandoagz: posts small blind $0.25
+UBISHERE: posts big blind $0.50
+bassin410: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 2c]
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+steve517: folds 
+dwq2300: raises $8.75 to $9.25 and is all-in
+bassin410: folds 
+FACUMDP: folds 
+fernandoagz: folds 
+UBISHERE: folds 
+Uncalled bet ($8.75) returned to dwq2300
+dwq2300 collected $1.75 from pot
+dwq2300: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 collected ($1.75)
+Seat 4: bassin410 folded before Flop
+Seat 5: FACUMDP (button) folded before Flop (didn't bet)
+Seat 6: fernandoagz (small blind) folded before Flop
+Seat 7: UBISHERE (big blind) folded before Flop
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153928162:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:04:06 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($47.25 in chips) 
+Seat 2: steve517 ($33.70 in chips) 
+Seat 3: dwq2300 ($10.50 in chips) 
+Seat 4: bassin410 ($9.50 in chips) 
+Seat 5: FACUMDP ($57.70 in chips) 
+Seat 6: fernandoagz ($19.75 in chips) 
+Seat 7: UBISHERE ($135 in chips) 
+Seat 8: drewbabez ($64.85 in chips) 
+Seat 9: cwp46 ($18.35 in chips) 
+UBISHERE: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Qh]
+cwp46: folds 
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+bassin410: calls $0.50
+FACUMDP: folds 
+fernandoagz: folds 
+UBISHERE: folds 
+drewbabez: checks 
+*** FLOP *** [2h Kc 7c]
+drewbabez: checks 
+bassin410: bets $1
+drewbabez: folds 
+Uncalled bet ($1) returned to bassin410
+bassin410 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [2h Kc 7c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: bassin410 collected ($1.20)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: fernandoagz (button) folded before Flop (didn't bet)
+Seat 7: UBISHERE (small blind) folded before Flop
+Seat 8: drewbabez (big blind) folded on the Flop
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20153956972:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:05:27 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($47.25 in chips) 
+Seat 2: steve517 ($33.70 in chips) 
+Seat 3: dwq2300 ($10.50 in chips) 
+Seat 4: bassin410 ($10.20 in chips) 
+Seat 5: FACUMDP ($57.70 in chips) 
+Seat 6: fernandoagz ($19.75 in chips) 
+Seat 7: UBISHERE ($134.75 in chips) 
+Seat 8: drewbabez ($64.35 in chips) 
+Seat 9: cwp46 ($18.35 in chips) 
+drewbabez: posts small blind $0.25
+cwp46: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Kd]
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+bassin410: raises $1 to $1.50
+FACUMDP: folds 
+fernandoagz: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Uncalled bet ($1) returned to bassin410
+bassin410 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: bassin410 collected ($1.25)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: fernandoagz folded before Flop (didn't bet)
+Seat 7: UBISHERE (button) folded before Flop (didn't bet)
+Seat 8: drewbabez (small blind) folded before Flop
+Seat 9: cwp46 (big blind) folded before Flop
+
+
+
+PokerStars Game #20153971202:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:06:06 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($47.25 in chips) 
+Seat 2: steve517 ($33.70 in chips) 
+Seat 3: dwq2300 ($10.50 in chips) 
+Seat 4: bassin410 ($10.95 in chips) 
+Seat 5: FACUMDP ($57.70 in chips) 
+Seat 6: fernandoagz ($19.75 in chips) 
+Seat 7: UBISHERE ($134.75 in chips) 
+Seat 8: drewbabez ($64.10 in chips) 
+Seat 9: cwp46 ($17.85 in chips) 
+cwp46: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 9c]
+steve517: folds 
+dwq2300: folds 
+bassin410: folds 
+FACUMDP: folds 
+fernandoagz: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Uncalled bet ($0.25) returned to Alameda22
+Alameda22 collected $0.50 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 (big blind) collected ($0.50)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: bassin410 folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: fernandoagz folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: cwp46 (small blind) folded before Flop
+
+
+
+PokerStars Game #20153984981:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:06:45 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($47.50 in chips) 
+Seat 2: steve517 ($33.70 in chips) 
+Seat 3: dwq2300 ($10.50 in chips) 
+Seat 4: bassin410 ($10.95 in chips) 
+Seat 5: FACUMDP ($57.70 in chips) 
+Seat 6: fernandoagz ($19.75 in chips) 
+Seat 7: UBISHERE ($134.75 in chips) 
+Seat 8: drewbabez ($64.10 in chips) 
+Seat 9: cwp46 ($17.60 in chips) 
+Alameda22: posts small blind $0.25
+steve517: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 7s]
+dwq2300: folds 
+bassin410: raises $1 to $1.50
+FACUMDP: folds 
+fernandoagz: raises $2 to $3.50
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+steve517: folds 
+bassin410: calls $2
+*** FLOP *** [6s Th Jd]
+bassin410: checks 
+fernandoagz: bets $4
+bassin410: calls $4
+*** TURN *** [6s Th Jd] [Ad]
+bassin410: bets $3.45 and is all-in
+fernandoagz: calls $3.45
+*** RIVER *** [6s Th Jd Ad] [Ks]
+*** SHOW DOWN ***
+bassin410: shows [Qh Kd] (a straight, Ten to Ace)
+fernandoagz: mucks hand 
+bassin410 collected $21.60 from pot
+*** SUMMARY ***
+Total pot $22.65 | Rake $1.05 
+Board [6s Th Jd Ad Ks]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: steve517 (big blind) folded before Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: bassin410 showed [Qh Kd] and won ($21.60) with a straight, Ten to Ace
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: fernandoagz mucked [Ah Ac]
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154021906:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:08:27 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($47.25 in chips) 
+Seat 2: steve517 ($33.20 in chips) 
+Seat 3: dwq2300 ($10.50 in chips) 
+Seat 4: bassin410 ($21.60 in chips) 
+Seat 5: FACUMDP ($57.70 in chips) 
+Seat 6: fernandoagz ($8.80 in chips) 
+Seat 7: UBISHERE ($134.75 in chips) 
+Seat 8: drewbabez ($64.10 in chips) 
+Seat 9: cwp46 ($17.60 in chips) 
+steve517: posts small blind $0.25
+dwq2300: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Jd]
+bassin410: calls $0.50
+FACUMDP: folds 
+fernandoagz: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+steve517: calls $0.25
+dwq2300: checks 
+*** FLOP *** [Ah 5s 7d]
+steve517: checks 
+dwq2300: checks 
+bassin410: bets $1
+steve517: folds 
+dwq2300: folds 
+Uncalled bet ($1) returned to bassin410
+bassin410 collected $1.45 from pot
+bassin410: shows [9s 9c] (a pair of Nines)
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Ah 5s 7d]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: steve517 (small blind) folded on the Flop
+Seat 3: dwq2300 (big blind) folded on the Flop
+Seat 4: bassin410 collected ($1.45)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: fernandoagz folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154038575:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:09:13 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($47.25 in chips) 
+Seat 2: steve517 ($32.70 in chips) 
+Seat 3: dwq2300 ($10 in chips) 
+Seat 4: bassin410 ($22.55 in chips) 
+Seat 5: FACUMDP ($57.70 in chips) 
+Seat 6: fernandoagz ($10 in chips) 
+Seat 7: UBISHERE ($134.75 in chips) 
+Seat 8: drewbabez ($64.10 in chips) 
+Seat 9: cwp46 ($17.60 in chips) 
+dwq2300: posts small blind $0.25
+bassin410: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Kc]
+FACUMDP: folds 
+fernandoagz: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+steve517: folds 
+dwq2300: calls $0.25
+bassin410: checks 
+*** FLOP *** [Js Ac Kh]
+dwq2300: bets $0.50
+bassin410: calls $0.50
+*** TURN *** [Js Ac Kh] [7d]
+dwq2300: bets $1
+bassin410: folds 
+Uncalled bet ($1) returned to dwq2300
+dwq2300 collected $1.95 from pot
+dwq2300: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [Js Ac Kh 7d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 (button) folded before Flop (didn't bet)
+Seat 3: dwq2300 (small blind) collected ($1.95)
+Seat 4: bassin410 (big blind) folded on the Turn
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: fernandoagz folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154063218:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:10:22 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($47.25 in chips) 
+Seat 2: steve517 ($32.70 in chips) 
+Seat 3: dwq2300 ($10.95 in chips) 
+Seat 4: bassin410 ($21.55 in chips) 
+Seat 5: FACUMDP ($57.70 in chips) 
+Seat 6: fernandoagz ($10 in chips) 
+Seat 7: UBISHERE ($134.75 in chips) 
+Seat 8: drewbabez ($64.10 in chips) 
+Seat 9: cwp46 ($17.60 in chips) 
+bassin410: posts small blind $0.25
+FACUMDP: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 3c]
+fernandoagz: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: calls $0.50
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+bassin410: calls $0.25
+FACUMDP: checks 
+*** FLOP *** [Kd 5h Jc]
+bassin410: bets $0.50
+FACUMDP: raises $1.50 to $2
+cwp46: folds 
+bassin410: folds 
+Uncalled bet ($1.50) returned to FACUMDP
+FACUMDP collected $2.40 from pot
+FACUMDP: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Kd 5h Jc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 (button) folded before Flop (didn't bet)
+Seat 4: bassin410 (small blind) folded on the Flop
+Seat 5: FACUMDP (big blind) collected ($2.40)
+Seat 6: fernandoagz folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded on the Flop
+
+
+
+PokerStars Game #20154084080:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:11:20 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($47.25 in chips) 
+Seat 2: steve517 ($32.70 in chips) 
+Seat 3: dwq2300 ($10.95 in chips) 
+Seat 4: bassin410 ($20.55 in chips) 
+Seat 5: FACUMDP ($59.10 in chips) 
+Seat 7: UBISHERE ($134.75 in chips) 
+Seat 8: drewbabez ($64.10 in chips) 
+Seat 9: cwp46 ($17.10 in chips) 
+FACUMDP: posts small blind $0.25
+fernandoagz: is sitting out 
+fernandoagz leaves the table
+UBISHERE: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 8s]
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+steve517: folds 
+richmnn joins the table at seat #6 
+dwq2300: folds 
+bassin410: folds 
+FACUMDP: folds 
+Uncalled bet ($0.25) returned to UBISHERE
+UBISHERE collected $0.50 from pot
+UBISHERE: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: bassin410 (button) folded before Flop (didn't bet)
+Seat 5: FACUMDP (small blind) folded before Flop
+Seat 7: UBISHERE (big blind) collected ($0.50)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154096919:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:11:56 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($47.25 in chips) 
+Seat 2: steve517 ($32.70 in chips) 
+Seat 3: dwq2300 ($10.95 in chips) 
+Seat 4: bassin410 ($20.55 in chips) 
+Seat 5: FACUMDP ($58.85 in chips) 
+Seat 7: UBISHERE ($135 in chips) 
+Seat 8: drewbabez ($64.10 in chips) 
+Seat 9: cwp46 ($17.10 in chips) 
+richmnn will be allowed to play after the button
+UBISHERE: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Kd]
+cwp46: folds 
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+bassin410: calls $0.50
+FACUMDP: folds 
+UBISHERE: folds 
+drewbabez: checks 
+*** FLOP *** [Ac 7s 9s]
+drewbabez: checks 
+bassin410: bets $1
+drewbabez: folds 
+Uncalled bet ($1) returned to bassin410
+bassin410 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Ac 7s 9s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: bassin410 collected ($1.20)
+Seat 5: FACUMDP (button) folded before Flop (didn't bet)
+Seat 7: UBISHERE (small blind) folded before Flop
+Seat 8: drewbabez (big blind) folded on the Flop
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154111734:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:12:38 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($47.25 in chips) 
+Seat 2: steve517 ($32.70 in chips) 
+Seat 3: dwq2300 ($10.95 in chips) 
+Seat 4: bassin410 ($21.25 in chips) 
+Seat 5: FACUMDP ($58.85 in chips) 
+Seat 6: richmnn ($30 in chips) 
+Seat 7: UBISHERE ($134.75 in chips) 
+Seat 8: drewbabez ($63.60 in chips) 
+Seat 9: cwp46 ($17.10 in chips) 
+drewbabez: posts small blind $0.25
+cwp46: posts big blind $0.50
+richmnn: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Jd]
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+bassin410: folds 
+FACUMDP: folds 
+richmnn: checks 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: checks 
+*** FLOP *** [Kh 7c As]
+cwp46: checks 
+richmnn: checks 
+*** TURN *** [Kh 7c As] [7d]
+cwp46: bets $1
+richmnn: folds 
+Uncalled bet ($1) returned to cwp46
+cwp46 collected $1.20 from pot
+cwp46: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Kh 7c As 7d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: bassin410 folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn folded on the Turn
+Seat 7: UBISHERE (button) folded before Flop (didn't bet)
+Seat 8: drewbabez (small blind) folded before Flop
+Seat 9: cwp46 (big blind) collected ($1.20)
+
+
+
+PokerStars Game #20154135528:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:13:45 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($47.25 in chips) 
+Seat 2: steve517 ($32.70 in chips) 
+Seat 3: dwq2300 ($10.95 in chips) 
+Seat 4: bassin410 ($21.25 in chips) 
+Seat 5: FACUMDP ($58.85 in chips) 
+Seat 6: richmnn ($29.50 in chips) 
+Seat 7: UBISHERE ($134.75 in chips) 
+Seat 8: drewbabez ($63.35 in chips) 
+Seat 9: cwp46 ($17.80 in chips) 
+cwp46: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 4c]
+steve517: folds 
+dwq2300: folds 
+bassin410: raises $1 to $1.50
+FACUMDP: folds 
+richmnn: calls $1.50
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+*** FLOP *** [Qd 9c 7c]
+bassin410: bets $1
+richmnn: calls $1
+*** TURN *** [Qd 9c 7c] [5h]
+bassin410: checks 
+richmnn: checks 
+*** RIVER *** [Qd 9c 7c 5h] [7h]
+bassin410: checks 
+richmnn: checks 
+*** SHOW DOWN ***
+bassin410: shows [Td Kh] (a pair of Sevens)
+richmnn: mucks hand 
+bassin410 collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.25 
+Board [Qd 9c 7c 5h 7h]
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: bassin410 showed [Td Kh] and won ($5.50) with a pair of Sevens
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn mucked [Jc Tc]
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: cwp46 (small blind) folded before Flop
+
+
+
+PokerStars Game #20154160612:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:14:55 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($46.75 in chips) 
+Seat 2: steve517 ($32.70 in chips) 
+Seat 3: dwq2300 ($10.95 in chips) 
+Seat 4: bassin410 ($24.25 in chips) 
+Seat 5: FACUMDP ($58.85 in chips) 
+Seat 6: richmnn ($27 in chips) 
+Seat 7: UBISHERE ($134.75 in chips) 
+Seat 8: drewbabez ($63.35 in chips) 
+Seat 9: cwp46 ($17.55 in chips) 
+Alameda22: posts small blind $0.25
+steve517: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 2h]
+dwq2300: folds 
+bassin410: calls $0.50
+FACUMDP: folds 
+richmnn: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+steve517: checks 
+*** FLOP *** [7h 5h 3h]
+steve517: checks 
+bassin410: checks 
+*** TURN *** [7h 5h 3h] [Ad]
+steve517: checks 
+bassin410: bets $1
+steve517: folds 
+Uncalled bet ($1) returned to bassin410
+bassin410 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [7h 5h 3h Ad]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: steve517 (big blind) folded on the Turn
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: bassin410 collected ($1.20)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154189614:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:16:16 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($46.50 in chips) 
+Seat 2: steve517 ($32.20 in chips) 
+Seat 3: dwq2300 ($10.95 in chips) 
+Seat 4: bassin410 ($24.95 in chips) 
+Seat 5: FACUMDP ($58.85 in chips) 
+Seat 6: richmnn ($27 in chips) 
+Seat 7: UBISHERE ($134.75 in chips) 
+Seat 8: drewbabez ($63.35 in chips) 
+Seat 9: cwp46 ($17.55 in chips) 
+steve517: posts small blind $0.25
+dwq2300: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Qs]
+bassin410: raises $1.50 to $2
+FACUMDP: folds 
+richmnn: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+steve517: folds 
+dwq2300: folds 
+Uncalled bet ($1.50) returned to bassin410
+bassin410 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: steve517 (small blind) folded before Flop
+Seat 3: dwq2300 (big blind) folded before Flop
+Seat 4: bassin410 collected ($1.25)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154201386:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:16:49 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($46.50 in chips) 
+Seat 2: steve517 ($31.95 in chips) 
+Seat 3: dwq2300 ($10.45 in chips) 
+Seat 4: bassin410 ($25.70 in chips) 
+Seat 5: FACUMDP ($58.85 in chips) 
+Seat 6: richmnn ($27 in chips) 
+Seat 7: UBISHERE ($134.75 in chips) 
+Seat 8: drewbabez ($63.35 in chips) 
+Seat 9: cwp46 ($17.55 in chips) 
+dwq2300: posts small blind $0.25
+bassin410: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 2d]
+FACUMDP: folds 
+richmnn: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: calls $0.50
+Alameda22: folds 
+steve517: raises $1.50 to $2
+dwq2300: folds 
+bassin410: folds 
+cwp46: folds 
+Uncalled bet ($1.50) returned to steve517
+steve517 collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 (button) collected ($1.75)
+Seat 3: dwq2300 (small blind) folded before Flop
+Seat 4: bassin410 (big blind) folded before Flop
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop
+
+
+
+PokerStars Game #20154216783:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:17:32 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($46.50 in chips) 
+Seat 2: steve517 ($33.20 in chips) 
+Seat 3: dwq2300 ($10.20 in chips) 
+Seat 4: bassin410 ($25.20 in chips) 
+Seat 5: FACUMDP ($58.85 in chips) 
+Seat 6: richmnn ($27 in chips) 
+Seat 7: UBISHERE ($134.75 in chips) 
+Seat 8: drewbabez ($63.35 in chips) 
+Seat 9: cwp46 ($17.05 in chips) 
+bassin410: posts small blind $0.25
+FACUMDP: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Ah]
+richmnn: calls $0.50
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+steve517: folds 
+steve517 leaves the table
+dwq2300: folds 
+bassin410: folds 
+FACUMDP: checks 
+*** FLOP *** [6d Qc Jd]
+FACUMDP: checks 
+richmnn: bets $1
+FACUMDP: folds 
+Uncalled bet ($1) returned to richmnn
+sahinbey joins the table at seat #2 
+richmnn collected $1.20 from pot
+richmnn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [6d Qc Jd]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: steve517 folded before Flop (didn't bet)
+Seat 3: dwq2300 (button) folded before Flop (didn't bet)
+Seat 4: bassin410 (small blind) folded before Flop
+Seat 5: FACUMDP (big blind) folded on the Flop
+Seat 6: richmnn collected ($1.20)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154232589:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:18:16 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($46.50 in chips) 
+Seat 2: sahinbey ($16 in chips) 
+Seat 3: dwq2300 ($10.20 in chips) 
+Seat 4: bassin410 ($24.95 in chips) 
+Seat 5: FACUMDP ($58.35 in chips) 
+Seat 6: richmnn ($27.70 in chips) 
+Seat 7: UBISHERE ($134.75 in chips) 
+Seat 8: drewbabez ($63.35 in chips) 
+Seat 9: cwp46 ($17.05 in chips) 
+FACUMDP: posts small blind $0.25
+richmnn: posts big blind $0.50
+sahinbey: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 2d]
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+sahinbey: checks 
+dwq2300: folds 
+bassin410: calls $0.50
+FACUMDP: folds 
+richmnn: checks 
+*** FLOP *** [Kc 5s Kh]
+richmnn: checks 
+sahinbey: checks 
+bassin410: bets $1
+richmnn: folds 
+sahinbey: folds 
+Uncalled bet ($1) returned to bassin410
+bassin410 collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Kc 5s Kh]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: sahinbey folded on the Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: bassin410 (button) collected ($1.70)
+Seat 5: FACUMDP (small blind) folded before Flop
+Seat 6: richmnn (big blind) folded on the Flop
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154251157:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:19:08 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($46.50 in chips) 
+Seat 2: sahinbey ($15.50 in chips) 
+Seat 3: dwq2300 ($10.20 in chips) 
+Seat 4: bassin410 ($26.15 in chips) 
+Seat 5: FACUMDP ($58.10 in chips) 
+Seat 6: richmnn ($27.20 in chips) 
+Seat 7: UBISHERE ($134.75 in chips) 
+Seat 8: drewbabez ($63.35 in chips) 
+Seat 9: cwp46 ($17.05 in chips) 
+richmnn: posts small blind $0.25
+UBISHERE: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 3c]
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+sahinbey: folds 
+dwq2300: folds 
+bassin410: folds 
+FACUMDP: folds 
+bassin410 leaves the table
+richmnn: calls $0.25
+UBISHERE: checks 
+*** FLOP *** [Th As 2c]
+strider4l joins the table at seat #4 
+richmnn: bets $1
+UBISHERE: folds 
+Uncalled bet ($1) returned to richmnn
+richmnn collected $0.95 from pot
+richmnn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Th As 2c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: sahinbey folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: bassin410 folded before Flop (didn't bet)
+Seat 5: FACUMDP (button) folded before Flop (didn't bet)
+Seat 6: richmnn (small blind) collected ($0.95)
+Seat 7: UBISHERE (big blind) folded on the Flop
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154269121:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:19:58 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($46.50 in chips) 
+Seat 2: sahinbey ($15.50 in chips) 
+Seat 3: dwq2300 ($10.20 in chips) 
+Seat 4: strider4l ($30 in chips) 
+Seat 5: FACUMDP ($58.10 in chips) 
+Seat 6: richmnn ($27.65 in chips) 
+Seat 7: UBISHERE ($134.25 in chips) 
+Seat 8: drewbabez ($63.35 in chips) 
+Seat 9: cwp46 ($17.05 in chips) 
+UBISHERE: posts small blind $0.25
+drewbabez: posts big blind $0.50
+strider4l: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 8h]
+cwp46: calls $0.50
+Alameda22: folds 
+sahinbey: calls $0.50
+dwq2300: folds 
+strider4l: checks 
+FACUMDP: folds 
+richmnn: folds 
+UBISHERE: raises $1.50 to $2
+drewbabez: folds 
+cwp46: calls $1.50
+sahinbey: calls $1.50
+strider4l: calls $1.50
+*** FLOP *** [Qd 6h Tc]
+UBISHERE: bets $6.50
+cwp46: folds 
+sahinbey: calls $6.50
+strider4l: folds 
+*** TURN *** [Qd 6h Tc] [Ts]
+UBISHERE: checks 
+sahinbey: bets $2
+UBISHERE: calls $2
+*** RIVER *** [Qd 6h Tc Ts] [Kd]
+UBISHERE: checks 
+sahinbey: bets $3
+UBISHERE: calls $3
+*** SHOW DOWN ***
+sahinbey: shows [6d Td] (a full house, Tens full of Sixes)
+UBISHERE: mucks hand 
+sahinbey collected $30 from pot
+*** SUMMARY ***
+Total pot $31.50 | Rake $1.50 
+Board [Qd 6h Tc Ts Kd]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: sahinbey showed [6d Td] and won ($30) with a full house, Tens full of Sixes
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l folded on the Flop
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn (button) folded before Flop (didn't bet)
+Seat 7: UBISHERE (small blind) mucked [Kh As]
+Seat 8: drewbabez (big blind) folded before Flop
+Seat 9: cwp46 folded on the Flop
+
+
+
+PokerStars Game #20154319316:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:22:19 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($46.50 in chips) 
+Seat 2: sahinbey ($32 in chips) 
+Seat 3: dwq2300 ($10.20 in chips) 
+Seat 4: strider4l ($28 in chips) 
+Seat 5: FACUMDP ($58.10 in chips) 
+Seat 6: richmnn ($27.65 in chips) 
+Seat 7: UBISHERE ($120.75 in chips) 
+Seat 8: drewbabez ($62.85 in chips) 
+Seat 9: cwp46 ($15.05 in chips) 
+drewbabez: posts small blind $0.25
+cwp46: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Qs]
+Alameda22: folds 
+sahinbey: calls $0.50
+dwq2300: calls $0.50
+strider4l: folds 
+FACUMDP: folds 
+richmnn: folds 
+UBISHERE: folds 
+drewbabez: calls $0.25
+cwp46: checks 
+*** FLOP *** [7h Tc 6c]
+drewbabez: checks 
+cwp46: checks 
+sahinbey: bets $2
+dwq2300: folds 
+drewbabez: folds 
+cwp46: folds 
+Uncalled bet ($2) returned to sahinbey
+sahinbey collected $1.90 from pot
+sahinbey: shows [7c 7s] (three of a kind, Sevens)
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [7h Tc 6c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: sahinbey collected ($1.90)
+Seat 3: dwq2300 folded on the Flop
+Seat 4: strider4l folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn folded before Flop (didn't bet)
+Seat 7: UBISHERE (button) folded before Flop (didn't bet)
+Seat 8: drewbabez (small blind) folded on the Flop
+Seat 9: cwp46 (big blind) folded on the Flop
+
+
+
+PokerStars Game #20154341312:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:23:21 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($46.50 in chips) 
+Seat 2: sahinbey ($33.40 in chips) 
+Seat 3: dwq2300 ($9.70 in chips) 
+Seat 4: strider4l ($28 in chips) 
+Seat 5: FACUMDP ($58.10 in chips) 
+Seat 6: richmnn ($27.65 in chips) 
+Seat 7: UBISHERE ($120.75 in chips) 
+Seat 8: drewbabez ($62.35 in chips) 
+Seat 9: cwp46 ($14.55 in chips) 
+cwp46: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 4d]
+sahinbey: folds 
+dwq2300: folds 
+strider4l: raises $1 to $1.50
+FACUMDP: folds 
+richmnn: folds 
+UBISHERE: calls $1.50
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+*** FLOP *** [5s 5h 3h]
+strider4l: bets $2
+UBISHERE: calls $2
+*** TURN *** [5s 5h 3h] [9h]
+strider4l: checks 
+UBISHERE: bets $5.50
+strider4l: calls $5.50
+*** RIVER *** [5s 5h 3h 9h] [3c]
+strider4l: checks 
+UBISHERE: checks 
+*** SHOW DOWN ***
+strider4l: shows [Kh Ac] (two pair, Fives and Threes)
+UBISHERE: shows [7s 7h] (two pair, Sevens and Fives)
+UBISHERE collected $17.85 from pot
+*** SUMMARY ***
+Total pot $18.75 | Rake $0.90 
+Board [5s 5h 3h 9h 3c]
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: sahinbey folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l showed [Kh Ac] and lost with two pair, Fives and Threes
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn folded before Flop (didn't bet)
+Seat 7: UBISHERE showed [7s 7h] and won ($17.85) with two pair, Sevens and Fives
+Seat 8: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: cwp46 (small blind) folded before Flop
+
+
+
+PokerStars Game #20154386940:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:25:30 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($46 in chips) 
+Seat 2: sahinbey ($33.40 in chips) 
+Seat 3: dwq2300 ($9.70 in chips) 
+Seat 4: strider4l ($19 in chips) 
+Seat 5: FACUMDP ($58.10 in chips) 
+Seat 6: richmnn ($27.65 in chips) 
+Seat 7: UBISHERE ($129.60 in chips) 
+Seat 8: drewbabez ($62.35 in chips) 
+Seat 9: cwp46 ($14.30 in chips) 
+Alameda22: posts small blind $0.25
+sahinbey: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 4h]
+dwq2300: folds 
+strider4l: folds 
+FACUMDP: folds 
+richmnn: folds 
+UBISHERE: folds 
+drewbabez: raises $1.50 to $2
+cwp46: folds 
+Alameda22: folds 
+sahinbey: calls $1.50
+*** FLOP *** [3c 2d 6s]
+sahinbey: checks 
+drewbabez: checks 
+*** TURN *** [3c 2d 6s] [9s]
+sahinbey: checks 
+drewbabez: checks 
+*** RIVER *** [3c 2d 6s 9s] [4c]
+sahinbey: checks 
+drewbabez: checks 
+*** SHOW DOWN ***
+sahinbey: shows [Th Jh] (high card Jack)
+drewbabez: shows [Ac Ks] (high card Ace)
+drewbabez collected $4.05 from pot
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [3c 2d 6s 9s 4c]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: sahinbey (big blind) showed [Th Jh] and lost with high card Jack
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez showed [Ac Ks] and won ($4.05) with high card Ace
+Seat 9: cwp46 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154418011:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:26:58 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($45.75 in chips) 
+Seat 2: sahinbey ($31.40 in chips) 
+Seat 3: dwq2300 ($9.70 in chips) 
+Seat 4: strider4l ($19 in chips) 
+Seat 5: FACUMDP ($58.10 in chips) 
+Seat 6: richmnn ($27.65 in chips) 
+Seat 7: UBISHERE ($129.60 in chips) 
+Seat 8: drewbabez ($64.40 in chips) 
+Seat 9: cwp46 ($14.30 in chips) 
+sahinbey: posts small blind $0.25
+dwq2300: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 3c]
+strider4l: folds 
+FACUMDP: folds 
+richmnn: calls $0.50
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+sahinbey: calls $0.25
+dwq2300: checks 
+*** FLOP *** [Ad 8h 4d]
+sahinbey: checks 
+dwq2300: checks 
+richmnn: checks 
+*** TURN *** [Ad 8h 4d] [7h]
+sahinbey: checks 
+dwq2300: checks 
+richmnn: checks 
+*** RIVER *** [Ad 8h 4d 7h] [Td]
+sahinbey: bets $2
+dwq2300: folds 
+richmnn: folds 
+Uncalled bet ($2) returned to sahinbey
+sahinbey collected $1.45 from pot
+sahinbey: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Ad 8h 4d 7h Td]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: sahinbey (small blind) collected ($1.45)
+Seat 3: dwq2300 (big blind) folded on the River
+Seat 4: strider4l folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn folded on the River
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154455213:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:28:43 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($45.75 in chips) 
+Seat 2: sahinbey ($32.35 in chips) 
+Seat 3: dwq2300 ($9.20 in chips) 
+Seat 4: strider4l ($19 in chips) 
+Seat 5: FACUMDP ($58.10 in chips) 
+Seat 6: richmnn ($27.15 in chips) 
+Seat 7: UBISHERE ($129.60 in chips) 
+Seat 8: drewbabez ($64.40 in chips) 
+Seat 9: cwp46 ($14.30 in chips) 
+dwq2300: posts small blind $0.25
+strider4l: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Ah]
+FACUMDP: folds 
+richmnn: folds 
+richmnn is sitting out
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: calls $0.50
+Alameda22: folds 
+sahinbey: folds 
+dwq2300: calls $0.25
+strider4l: raises $0.50 to $1
+cwp46: calls $0.50
+dwq2300: folds 
+*** FLOP *** [Qh Tc Ac]
+strider4l: bets $1
+cwp46: folds 
+Uncalled bet ($1) returned to strider4l
+strider4l collected $2.40 from pot
+strider4l: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Qh Tc Ac]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: sahinbey (button) folded before Flop (didn't bet)
+Seat 3: dwq2300 (small blind) folded before Flop
+Seat 4: strider4l (big blind) collected ($2.40)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded on the Flop
+
+
+
+PokerStars Game #20154493306:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:30:31 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($45.75 in chips) 
+Seat 2: sahinbey ($32.35 in chips) 
+Seat 3: dwq2300 ($8.70 in chips) 
+Seat 4: strider4l ($20.40 in chips) 
+Seat 5: FACUMDP ($58.10 in chips) 
+Seat 7: UBISHERE ($129.60 in chips) 
+Seat 8: drewbabez ($64.40 in chips) 
+Seat 9: cwp46 ($13.30 in chips) 
+strider4l: posts small blind $0.25
+FACUMDP: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 7s]
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+sahinbey: folds 
+dwq2300: calls $0.50
+strider4l: raises $1 to $1.50
+FACUMDP: folds 
+dwq2300: folds 
+Uncalled bet ($1) returned to strider4l
+strider4l collected $1.50 from pot
+strider4l: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: sahinbey folded before Flop (didn't bet)
+Seat 3: dwq2300 (button) folded before Flop
+Seat 4: strider4l (small blind) collected ($1.50)
+Seat 5: FACUMDP (big blind) folded before Flop
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154516955:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:31:33 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($45.75 in chips) 
+Seat 2: sahinbey ($32.35 in chips) 
+Seat 3: dwq2300 ($8.20 in chips) 
+Seat 4: strider4l ($21.40 in chips) 
+Seat 5: FACUMDP ($57.60 in chips) 
+Seat 7: UBISHERE ($129.60 in chips) 
+Seat 8: drewbabez ($64.40 in chips) 
+Seat 9: cwp46 ($13.30 in chips) 
+FACUMDP: posts small blind $0.25
+UBISHERE: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Ad]
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+sahinbey: calls $0.50
+dwq2300: folds 
+strider4l: raises $1.50 to $2
+FACUMDP: folds 
+UBISHERE: folds 
+sahinbey: calls $1.50
+*** FLOP *** [8s 8h 6c]
+sahinbey: checks 
+richmnn has returned
+strider4l: bets $2.50
+sahinbey: folds 
+Uncalled bet ($2.50) returned to strider4l
+strider4l collected $4.55 from pot
+strider4l: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [8s 8h 6c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: sahinbey folded on the Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l (button) collected ($4.55)
+Seat 5: FACUMDP (small blind) folded before Flop
+Seat 7: UBISHERE (big blind) folded before Flop
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154548469:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:32:57 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($45.75 in chips) 
+Seat 2: sahinbey ($30.35 in chips) 
+Seat 3: dwq2300 ($8.20 in chips) 
+Seat 4: strider4l ($23.95 in chips) 
+Seat 5: FACUMDP ($57.35 in chips) 
+Seat 7: UBISHERE ($129.10 in chips) 
+Seat 8: drewbabez ($64.40 in chips) 
+Seat 9: cwp46 ($13.30 in chips) 
+richmnn will be allowed to play after the button
+UBISHERE: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 4c]
+cwp46: folds 
+Alameda22: folds 
+sahinbey: folds 
+dwq2300: folds 
+strider4l: folds 
+sahinbey leaves the table
+FACUMDP: folds 
+UBISHERE: folds 
+Uncalled bet ($0.25) returned to drewbabez
+drewbabez collected $0.50 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: sahinbey folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l folded before Flop (didn't bet)
+Seat 5: FACUMDP (button) folded before Flop (didn't bet)
+Seat 7: UBISHERE (small blind) folded before Flop
+Seat 8: drewbabez (big blind) collected ($0.50)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154561022:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:33:31 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($45.75 in chips) 
+Seat 3: dwq2300 ($8.20 in chips) 
+Seat 4: strider4l ($23.95 in chips) 
+Seat 5: FACUMDP ($57.35 in chips) 
+Seat 6: richmnn ($27.15 in chips) 
+Seat 7: UBISHERE ($128.85 in chips) 
+Seat 8: drewbabez ($64.65 in chips) 
+Seat 9: cwp46 ($13.30 in chips) 
+drewbabez: posts small blind $0.25
+cwp46: posts big blind $0.50
+richmnn: posts small & big blinds $0.75
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 8s]
+Alameda22: folds 
+dwq2300: folds 
+strider4l: calls $0.50
+FACUMDP: calls $0.50
+richmnn: checks 
+UBISHERE: raises $2.50 to $3
+drewbabez: folds 
+cwp46: folds 
+strider4l: folds 
+FACUMDP: folds 
+richmnn: folds 
+Uncalled bet ($2.50) returned to UBISHERE
+UBISHERE collected $3 from pot
+UBISHERE: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l folded before Flop
+Seat 5: FACUMDP folded before Flop
+Seat 6: richmnn folded before Flop
+Seat 7: UBISHERE (button) collected ($3)
+Seat 8: drewbabez (small blind) folded before Flop
+Seat 9: cwp46 (big blind) folded before Flop
+
+
+
+PokerStars Game #20154580974:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:34:24 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($45.75 in chips) 
+Seat 3: dwq2300 ($8.20 in chips) 
+Seat 4: strider4l ($23.45 in chips) 
+Seat 5: FACUMDP ($56.85 in chips) 
+Seat 6: richmnn ($26.40 in chips) 
+Seat 7: UBISHERE ($131.35 in chips) 
+Seat 8: drewbabez ($64.40 in chips) 
+Seat 9: cwp46 ($12.80 in chips) 
+cwp46: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 3c]
+dwq2300: folds 
+strider4l: folds 
+FACUMDP: folds 
+richmnn: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: calls $0.25
+Alameda22: checks 
+*** FLOP *** [6c Jh 7s]
+mahew joins the table at seat #2 
+cwp46: checks 
+Alameda22: checks 
+*** TURN *** [6c Jh 7s] [Jd]
+cwp46: checks 
+Alameda22: checks 
+*** RIVER *** [6c Jh 7s Jd] [2h]
+cwp46: checks 
+Alameda22: checks 
+*** SHOW DOWN ***
+cwp46: shows [Ac 9h] (a pair of Jacks)
+Alameda22: shows [2c 3c] (two pair, Jacks and Deuces)
+mahew is sitting out
+Alameda22 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [6c Jh 7s Jd 2h]
+Seat 1: Alameda22 (big blind) showed [2c 3c] and won ($0.95) with two pair, Jacks and Deuces
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: cwp46 (small blind) showed [Ac 9h] and lost with a pair of Jacks
+
+
+
+PokerStars Game #20154607328:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:35:34 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($46.20 in chips) 
+Seat 3: dwq2300 ($8.20 in chips) 
+Seat 4: strider4l ($23.45 in chips) 
+Seat 5: FACUMDP ($56.85 in chips) 
+Seat 6: richmnn ($26.40 in chips) 
+Seat 7: UBISHERE ($131.35 in chips) 
+Seat 8: drewbabez ($64.40 in chips) 
+Seat 9: cwp46 ($12.30 in chips) 
+Alameda22: posts small blind $0.25
+dwq2300: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Qc]
+strider4l: folds 
+FACUMDP: folds 
+richmnn: folds 
+UBISHERE: raises $1.50 to $2
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+dwq2300: folds 
+Uncalled bet ($1.50) returned to UBISHERE
+UBISHERE collected $1.25 from pot
+UBISHERE: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 3: dwq2300 (big blind) folded before Flop
+Seat 4: strider4l folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn folded before Flop (didn't bet)
+Seat 7: UBISHERE collected ($1.25)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154619985:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:36:09 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($45.95 in chips) 
+Seat 3: dwq2300 ($7.70 in chips) 
+Seat 4: strider4l ($23.45 in chips) 
+Seat 5: FACUMDP ($56.85 in chips) 
+Seat 6: richmnn ($26.40 in chips) 
+Seat 7: UBISHERE ($132.10 in chips) 
+Seat 8: drewbabez ($64.40 in chips) 
+Seat 9: cwp46 ($12.30 in chips) 
+dwq2300: posts small blind $0.25
+strider4l: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 9d]
+FACUMDP: raises $1.50 to $2
+richmnn: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+dwq2300: folds 
+strider4l: raises $1.50 to $3.50
+FACUMDP: calls $1.50
+*** FLOP *** [7d As Qh]
+strider4l: bets $3
+FACUMDP: folds 
+Uncalled bet ($3) returned to strider4l
+strider4l collected $6.90 from pot
+strider4l: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [7d As Qh]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: dwq2300 (small blind) folded before Flop
+Seat 4: strider4l (big blind) collected ($6.90)
+Seat 5: FACUMDP folded on the Flop
+Seat 6: richmnn folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154647370:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:37:22 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($45.95 in chips) 
+Seat 3: dwq2300 ($7.45 in chips) 
+Seat 4: strider4l ($26.85 in chips) 
+Seat 5: FACUMDP ($53.35 in chips) 
+Seat 6: richmnn ($26.40 in chips) 
+Seat 7: UBISHERE ($132.10 in chips) 
+Seat 8: drewbabez ($64.40 in chips) 
+Seat 9: cwp46 ($12.30 in chips) 
+strider4l: posts small blind $0.25
+FACUMDP: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 7c]
+richmnn: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+dwq2300: calls $0.50
+strider4l: calls $0.25
+FACUMDP: checks 
+*** FLOP *** [4d Td 3s]
+mahew has returned
+strider4l: bets $1
+FACUMDP: folds 
+dwq2300: folds 
+Uncalled bet ($1) returned to strider4l
+strider4l collected $1.45 from pot
+strider4l: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [4d Td 3s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: dwq2300 (button) folded on the Flop
+Seat 4: strider4l (small blind) collected ($1.45)
+Seat 5: FACUMDP (big blind) folded on the Flop
+Seat 6: richmnn folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154675477:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:38:38 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($45.95 in chips) 
+Seat 2: mahew ($30 in chips) 
+Seat 3: dwq2300 ($6.95 in chips) 
+Seat 4: strider4l ($27.80 in chips) 
+Seat 5: FACUMDP ($52.85 in chips) 
+Seat 6: richmnn ($26.40 in chips) 
+Seat 7: UBISHERE ($132.10 in chips) 
+Seat 8: drewbabez ($64.40 in chips) 
+Seat 9: cwp46 ($12.30 in chips) 
+FACUMDP: posts small blind $0.25
+richmnn: posts big blind $0.50
+mahew: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 7d]
+UBISHERE: calls $0.50
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+mahew: checks 
+dwq2300: folds 
+strider4l: calls $0.50
+FACUMDP: calls $0.25
+richmnn: checks 
+*** FLOP *** [Js 2c Qh]
+FACUMDP: checks 
+richmnn: checks 
+UBISHERE: bets $2
+mahew: folds 
+strider4l: raises $2 to $4
+FACUMDP: folds 
+richmnn: calls $4
+UBISHERE: calls $2
+*** TURN *** [Js 2c Qh] [9s]
+richmnn: checks 
+UBISHERE: checks 
+strider4l: checks 
+*** RIVER *** [Js 2c Qh 9s] [5d]
+richmnn: bets $5
+UBISHERE: calls $5
+strider4l: folds 
+*** SHOW DOWN ***
+richmnn: shows [Qc 2s] (two pair, Queens and Deuces)
+UBISHERE: mucks hand 
+richmnn collected $23.35 from pot
+*** SUMMARY ***
+Total pot $24.50 | Rake $1.15 
+Board [Js 2c Qh 9s 5d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded on the Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l (button) folded on the River
+Seat 5: FACUMDP (small blind) folded on the Flop
+Seat 6: richmnn (big blind) showed [Qc 2s] and won ($23.35) with two pair, Queens and Deuces
+Seat 7: UBISHERE mucked [Kc Ks]
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154705640:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:40:09 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($45.95 in chips) 
+Seat 2: mahew ($29.50 in chips) 
+Seat 3: dwq2300 ($6.95 in chips) 
+Seat 4: strider4l ($23.30 in chips) 
+Seat 5: FACUMDP ($52.35 in chips) 
+Seat 6: richmnn ($40.25 in chips) 
+Seat 7: UBISHERE ($122.60 in chips) 
+Seat 8: drewbabez ($64.40 in chips) 
+Seat 9: cwp46 ($12.30 in chips) 
+richmnn: posts small blind $0.25
+UBISHERE: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Qc]
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+strider4l: folds 
+FACUMDP: folds 
+richmnn: calls $0.25
+UBISHERE: checks 
+*** FLOP *** [9s Qh Ks]
+richmnn: checks 
+UBISHERE: bets $1
+richmnn: folds 
+Uncalled bet ($1) returned to UBISHERE
+UBISHERE collected $0.95 from pot
+UBISHERE: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [9s Qh Ks]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l folded before Flop (didn't bet)
+Seat 5: FACUMDP (button) folded before Flop (didn't bet)
+Seat 6: richmnn (small blind) folded on the Flop
+Seat 7: UBISHERE (big blind) collected ($0.95)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154730451:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:41:16 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($45.95 in chips) 
+Seat 2: mahew ($29.50 in chips) 
+Seat 3: dwq2300 ($6.95 in chips) 
+Seat 4: strider4l ($23.30 in chips) 
+Seat 5: FACUMDP ($52.35 in chips) 
+Seat 6: richmnn ($39.75 in chips) 
+Seat 7: UBISHERE ($123.05 in chips) 
+Seat 8: drewbabez ($64.40 in chips) 
+Seat 9: cwp46 ($12.30 in chips) 
+UBISHERE: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Jc]
+cwp46: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+strider4l: raises $1 to $1.50
+FACUMDP: folds 
+richmnn: folds 
+UBISHERE: folds 
+drewbabez: calls $1
+*** FLOP *** [Jd Kc 4s]
+drewbabez: checks 
+strider4l: bets $2
+drewbabez: calls $2
+*** TURN *** [Jd Kc 4s] [8h]
+drewbabez: checks 
+strider4l: checks 
+*** RIVER *** [Jd Kc 4s 8h] [5c]
+drewbabez: checks 
+strider4l: bets $3
+drewbabez: folds 
+Uncalled bet ($3) returned to strider4l
+strider4l collected $6.90 from pot
+strider4l: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [Jd Kc 4s 8h 5c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l collected ($6.90)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn (button) folded before Flop (didn't bet)
+Seat 7: UBISHERE (small blind) folded before Flop
+Seat 8: drewbabez (big blind) folded on the River
+Seat 9: cwp46 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154769240:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:43:02 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($45.95 in chips) 
+Seat 2: mahew ($29.50 in chips) 
+Seat 3: dwq2300 ($6.95 in chips) 
+Seat 4: strider4l ($26.70 in chips) 
+Seat 5: FACUMDP ($52.35 in chips) 
+Seat 6: richmnn ($39.75 in chips) 
+Seat 7: UBISHERE ($122.80 in chips) 
+Seat 8: drewbabez ($60.90 in chips) 
+Seat 9: cwp46 ($12.30 in chips) 
+drewbabez: posts small blind $0.25
+cwp46: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Qh]
+Alameda22: folds 
+mahew: folds 
+dwq2300: calls $0.50
+strider4l: folds 
+FACUMDP: folds 
+richmnn: calls $0.50
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: checks 
+*** FLOP *** [8d Jd Ac]
+cwp46: checks 
+dwq2300: checks 
+richmnn: checks 
+*** TURN *** [8d Jd Ac] [8c]
+cwp46: checks 
+dwq2300: checks 
+richmnn: checks 
+*** RIVER *** [8d Jd Ac 8c] [8s]
+cwp46: checks 
+dwq2300: checks 
+richmnn: checks 
+*** SHOW DOWN ***
+cwp46: shows [6h 7h] (three of a kind, Eights)
+dwq2300: shows [Ad As] (a full house, Aces full of Eights)
+richmnn: mucks hand 
+dwq2300 collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [8d Jd Ac 8c 8s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 showed [Ad As] and won ($1.70) with a full house, Aces full of Eights
+Seat 4: strider4l folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn mucked [9c 2c]
+Seat 7: UBISHERE (button) folded before Flop (didn't bet)
+Seat 8: drewbabez (small blind) folded before Flop
+Seat 9: cwp46 (big blind) showed [6h 7h] and lost with three of a kind, Eights
+
+
+
+PokerStars Game #20154794831:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:44:11 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($45.95 in chips) 
+Seat 2: mahew ($29.50 in chips) 
+Seat 3: dwq2300 ($8.15 in chips) 
+Seat 4: strider4l ($26.70 in chips) 
+Seat 5: FACUMDP ($52.35 in chips) 
+Seat 6: richmnn ($39.25 in chips) 
+Seat 7: UBISHERE ($122.80 in chips) 
+Seat 8: drewbabez ($60.65 in chips) 
+Seat 9: cwp46 ($15.80 in chips) 
+cwp46: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 2c]
+mahew: folds 
+dwq2300: folds 
+richmnn said, "????"
+strider4l: raises $1.50 to $2
+FACUMDP: folds 
+richmnn: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: folds 
+Alameda22: folds 
+Uncalled bet ($1.50) returned to strider4l
+strider4l collected $1.25 from pot
+strider4l: shows [As Ad] (a pair of Aces)
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l collected ($1.25)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: cwp46 (small blind) folded before Flop
+
+
+
+PokerStars Game #20154815176:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:45:08 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($45.45 in chips) 
+Seat 2: mahew ($29.50 in chips) 
+Seat 3: dwq2300 ($8.15 in chips) 
+Seat 4: strider4l ($27.45 in chips) 
+Seat 5: FACUMDP ($52.35 in chips) 
+Seat 6: richmnn ($39.25 in chips) 
+Seat 7: UBISHERE ($122.80 in chips) 
+Seat 8: drewbabez ($60.65 in chips) 
+Seat 9: cwp46 ($15.55 in chips) 
+Alameda22: posts small blind $0.25
+mahew: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 5d]
+dwq2300: folds 
+strider4l: calls $0.50
+FACUMDP: folds 
+richmnn: folds 
+UBISHERE: folds 
+drewbabez: folds 
+cwp46: raises $1 to $1.50
+Alameda22: folds 
+mahew: folds 
+strider4l: calls $1
+*** FLOP *** [Kh 8h Qc]
+strider4l: bets $1.50
+cwp46: calls $1.50
+*** TURN *** [Kh 8h Qc] [3s]
+strider4l: bets $3
+cwp46: raises $9.55 to $12.55 and is all-in
+strider4l: calls $9.55
+*** RIVER *** [Kh 8h Qc 3s] [Qs]
+*** SHOW DOWN ***
+strider4l: shows [2h Qh] (three of a kind, Queens)
+cwp46: mucks hand 
+strider4l collected $30.30 from pot
+*** SUMMARY ***
+Total pot $31.85 | Rake $1.55 
+Board [Kh 8h Qc 3s Qs]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: mahew (big blind) folded before Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l showed [2h Qh] and won ($30.30) with three of a kind, Queens
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: cwp46 (button) mucked [Ac Ah]
+
+
+
+PokerStars Game #20154869978:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:47:40 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($45.20 in chips) 
+Seat 2: mahew ($29 in chips) 
+Seat 3: dwq2300 ($8.15 in chips) 
+Seat 4: strider4l ($42.20 in chips) 
+Seat 5: FACUMDP ($52.35 in chips) 
+Seat 6: richmnn ($39.25 in chips) 
+Seat 7: UBISHERE ($122.80 in chips) 
+Seat 8: drewbabez ($60.65 in chips) 
+mahew: posts small blind $0.25
+dwq2300: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 5s]
+cwp46 leaves the table
+strider4l: calls $0.50
+FACUMDP: folds 
+richmnn: folds 
+UBISHERE: folds 
+drewbabez: folds 
+Alameda22: folds 
+mahew: calls $0.25
+dwq2300: checks 
+*** FLOP *** [7d Jh 9h]
+mahew: checks 
+dwq2300: bets $1
+strider4l: calls $1
+mahew: folds 
+*** TURN *** [7d Jh 9h] [Qh]
+dwq2300: checks 
+strider4l: checks 
+*** RIVER *** [7d Jh 9h Qh] [6d]
+dwq2300: checks 
+strider4l: checks 
+*** SHOW DOWN ***
+dwq2300: shows [Js 6c] (two pair, Jacks and Sixes)
+strider4l: mucks hand 
+dwq2300 collected $3.35 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [7d Jh 9h Qh 6d]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: mahew (small blind) folded on the Flop
+Seat 3: dwq2300 (big blind) showed [Js 6c] and won ($3.35) with two pair, Jacks and Sixes
+Seat 4: strider4l mucked [7c 4c]
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154914648:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:49:44 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($45.20 in chips) 
+Seat 2: mahew ($28.50 in chips) 
+Seat 3: dwq2300 ($10 in chips) 
+Seat 4: strider4l ($40.70 in chips) 
+Seat 5: FACUMDP ($52.35 in chips) 
+Seat 6: richmnn ($39.25 in chips) 
+Seat 7: UBISHERE ($122.80 in chips) 
+Seat 8: drewbabez ($60.65 in chips) 
+dwq2300: posts small blind $0.25
+strider4l: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Qc]
+FACUMDP: folds 
+richmnn: folds 
+UBISHERE: folds 
+drewbabez: folds 
+Alameda22: folds 
+mahew: calls $0.50
+dwq2300: calls $0.25
+strider4l: checks 
+*** FLOP *** [Kd 6h 7c]
+dwq2300: checks 
+strider4l: checks 
+mahew: checks 
+*** TURN *** [Kd 6h 7c] [4h]
+dwq2300: checks 
+strider4l: bets $1
+mahew: calls $1
+dwq2300: folds 
+*** RIVER *** [Kd 6h 7c 4h] [9d]
+strider4l: bets $3
+mahew: folds 
+Uncalled bet ($3) returned to strider4l
+strider4l collected $3.35 from pot
+strider4l: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [Kd 6h 7c 4h 9d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew (button) folded on the River
+Seat 3: dwq2300 (small blind) folded on the Turn
+Seat 4: strider4l (big blind) collected ($3.35)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154950322:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:51:21 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($45.20 in chips) 
+Seat 2: mahew ($27 in chips) 
+Seat 3: dwq2300 ($9.50 in chips) 
+Seat 4: strider4l ($42.55 in chips) 
+Seat 5: FACUMDP ($52.35 in chips) 
+Seat 6: richmnn ($39.25 in chips) 
+Seat 7: UBISHERE ($122.80 in chips) 
+Seat 8: drewbabez ($60.65 in chips) 
+strider4l: posts small blind $0.25
+FACUMDP: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 3s]
+richmnn: folds 
+JoeIngram1 joins the table at seat #9 
+JoeIngram1 is sitting out
+UBISHERE: raises $1.50 to $2
+drewbabez: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+strider4l: calls $1.75
+FACUMDP: folds 
+*** FLOP *** [5c Ks 9s]
+strider4l: checks 
+UBISHERE: bets $4
+strider4l: folds 
+Uncalled bet ($4) returned to UBISHERE
+UBISHERE collected $4.30 from pot
+UBISHERE: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [5c Ks 9s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 (button) folded before Flop (didn't bet)
+Seat 4: strider4l (small blind) folded on the Flop
+Seat 5: FACUMDP (big blind) folded before Flop
+Seat 6: richmnn folded before Flop (didn't bet)
+Seat 7: UBISHERE collected ($4.30)
+Seat 8: drewbabez folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20154976709:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:52:34 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($45.20 in chips) 
+Seat 2: mahew ($27 in chips) 
+Seat 3: dwq2300 ($9.50 in chips) 
+Seat 4: strider4l ($40.55 in chips) 
+Seat 5: FACUMDP ($51.85 in chips) 
+Seat 6: richmnn ($39.25 in chips) 
+Seat 7: UBISHERE ($125.10 in chips) 
+Seat 8: drewbabez ($60.65 in chips) 
+FACUMDP: posts small blind $0.25
+richmnn: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 7c]
+UBISHERE: folds 
+drewbabez: folds 
+Alameda22: folds 
+mahew: calls $0.50
+dwq2300: folds 
+strider4l: raises $1.25 to $1.75
+FACUMDP: folds 
+richmnn: calls $1.25
+mahew: calls $1.25
+*** FLOP *** [8h 2c Js]
+richmnn: checks 
+mahew: checks 
+strider4l: bets $2.50
+richmnn: folds 
+mahew: folds 
+Uncalled bet ($2.50) returned to strider4l
+strider4l collected $5.25 from pot
+strider4l: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25 
+Board [8h 2c Js]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded on the Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l (button) collected ($5.25)
+Seat 5: FACUMDP (small blind) folded before Flop
+Seat 6: richmnn (big blind) folded on the Flop
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155000079:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:53:39 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($45.20 in chips) 
+Seat 2: mahew ($25.25 in chips) 
+Seat 3: dwq2300 ($9.50 in chips) 
+Seat 4: strider4l ($44.05 in chips) 
+Seat 5: FACUMDP ($51.60 in chips) 
+Seat 6: richmnn ($37.50 in chips) 
+Seat 7: UBISHERE ($125.10 in chips) 
+Seat 8: drewbabez ($60.65 in chips) 
+richmnn: posts small blind $0.25
+UBISHERE: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 7h]
+drewbabez: folds 
+JoeIngram1 has returned
+Alameda22 has timed out
+Alameda22: folds 
+Alameda22 is sitting out
+mahew: folds 
+Alameda22 has returned
+dwq2300: folds 
+strider4l: folds 
+FACUMDP: folds 
+richmnn: calls $0.25
+UBISHERE: raises $0.50 to $1
+richmnn: calls $0.50
+*** FLOP *** [3d 7c 3s]
+richmnn: checks 
+UBISHERE: bets $1.50
+richmnn: folds 
+Uncalled bet ($1.50) returned to UBISHERE
+UBISHERE collected $1.90 from pot
+UBISHERE: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [3d 7c 3s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l folded before Flop (didn't bet)
+Seat 5: FACUMDP (button) folded before Flop (didn't bet)
+Seat 6: richmnn (small blind) folded on the Flop
+Seat 7: UBISHERE (big blind) collected ($1.90)
+Seat 8: drewbabez folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155027518:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:54:55 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($45.20 in chips) 
+Seat 2: mahew ($25.25 in chips) 
+Seat 3: dwq2300 ($9.50 in chips) 
+Seat 4: strider4l ($44.05 in chips) 
+Seat 5: FACUMDP ($51.60 in chips) 
+Seat 6: richmnn ($36.50 in chips) 
+Seat 7: UBISHERE ($126 in chips) 
+Seat 8: drewbabez ($60.65 in chips) 
+UBISHERE: posts small blind $0.25
+drewbabez: posts big blind $0.50
+JoeIngram1: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 4d]
+Alameda22: folds 
+mahew: calls $0.50
+dwq2300: folds 
+strider4l: folds 
+FACUMDP: folds 
+richmnn: folds 
+richmnn is sitting out
+richmnn leaves the table
+UBISHERE: folds 
+drewbabez: checks 
+*** FLOP *** [6s 5d 8d]
+drewbabez: checks 
+mahew: checks 
+*** TURN *** [6s 5d 8d] [6h]
+drewbabez: checks 
+mahew: checks 
+*** RIVER *** [6s 5d 8d 6h] [3s]
+drewbabez: checks 
+mahew: checks 
+*** SHOW DOWN ***
+drewbabez: shows [Qd Jc] (a pair of Sixes)
+mahew: shows [9c Ac] (a pair of Sixes - Ace kicker)
+mahew collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [6s 5d 8d 6h 3s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew showed [9c Ac] and won ($1.20) with a pair of Sixes
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: richmnn (button) folded before Flop (didn't bet)
+Seat 7: UBISHERE (small blind) folded before Flop
+Seat 8: drewbabez (big blind) showed [Qd Jc] and lost with a pair of Sixes
+
+
+
+PokerStars Game #20155047758:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:55:51 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($45.20 in chips) 
+Seat 2: mahew ($25.95 in chips) 
+Seat 3: dwq2300 ($9.50 in chips) 
+Seat 4: strider4l ($44.05 in chips) 
+Seat 5: FACUMDP ($51.60 in chips) 
+Seat 7: UBISHERE ($125.75 in chips) 
+Seat 8: drewbabez ($60.15 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+drewbabez: posts small blind $0.25
+JoeIngram1: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 9h]
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+strider4l: raises $1 to $1.50
+FACUMDP: folds 
+UBISHERE: folds 
+drewbabez: calls $1.25
+JoeIngram1: folds 
+*** FLOP *** [6h Th 9c]
+drewbabez: checks 
+strider4l: bets $2
+drewbabez: folds 
+Uncalled bet ($2) returned to strider4l
+strider4l collected $3.35 from pot
+strider4l: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [6h Th 9c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l collected ($3.35)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 7: UBISHERE (button) folded before Flop (didn't bet)
+Seat 8: drewbabez (small blind) folded on the Flop
+Seat 9: JoeIngram1 (big blind) folded before Flop
+
+
+
+PokerStars Game #20155083278:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:57:31 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($45.20 in chips) 
+Seat 2: mahew ($25.95 in chips) 
+Seat 3: dwq2300 ($9.50 in chips) 
+Seat 4: strider4l ($45.90 in chips) 
+Seat 5: FACUMDP ($51.60 in chips) 
+Seat 7: UBISHERE ($125.75 in chips) 
+Seat 8: drewbabez ($58.65 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+JoeIngram1: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Ac]
+mahew: folds 
+dwq2300: folds 
+strider4l: folds 
+FACUMDP: folds 
+UBISHERE: folds 
+drewbabez: folds 
+JoeIngram1: raises $1 to $1.50
+Alameda22: raises $4 to $5.50
+JoeIngram1: raises $9.50 to $15
+Alameda22: raises $30.20 to $45.20 and is all-in
+JoeIngram1: calls $30.20
+*** FLOP *** [6h Jc 6s]
+*** TURN *** [6h Jc 6s] [Jd]
+*** RIVER *** [6h Jc 6s Jd] [5d]
+*** SHOW DOWN ***
+JoeIngram1: shows [Kh Kc] (two pair, Kings and Jacks)
+Alameda22: shows [As Ac] (two pair, Aces and Jacks)
+Alameda22 collected $87.40 from pot
+*** SUMMARY ***
+Total pot $90.40 | Rake $3 
+Board [6h Jc 6s Jd 5d]
+Seat 1: Alameda22 (big blind) showed [As Ac] and won ($87.40) with two pair, Aces and Jacks
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: JoeIngram1 (small blind) showed [Kh Kc] and lost with two pair, Kings and Jacks
+
+
+
+PokerStars Game #20155107121:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:58:38 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($87.40 in chips) 
+Seat 2: mahew ($25.95 in chips) 
+Seat 3: dwq2300 ($9.50 in chips) 
+Seat 4: strider4l ($45.90 in chips) 
+Seat 5: FACUMDP ($51.60 in chips) 
+Seat 7: UBISHERE ($125.75 in chips) 
+Seat 8: drewbabez ($58.65 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+Alameda22: posts small blind $0.25
+JoeIngram1 said, "lol pretty standard"
+mahew: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 9s]
+dwq2300: folds 
+strider4l: folds 
+JoeIngram1 said, "aces vs kings all day"
+FACUMDP: folds 
+UBISHERE: folds 
+drewbabez: folds 
+JoeIngram1: folds 
+jmbpga22 joins the table at seat #6 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to mahew
+mahew collected $0.50 from pot
+mahew: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: mahew (big blind) collected ($0.50)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: JoeIngram1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155124229:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 22:59:27 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($87.15 in chips) 
+Seat 2: mahew ($26.20 in chips) 
+Seat 3: dwq2300 ($9.50 in chips) 
+Seat 4: strider4l ($45.90 in chips) 
+Seat 5: FACUMDP ($51.60 in chips) 
+Seat 7: UBISHERE ($125.75 in chips) 
+Seat 8: drewbabez ($58.65 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+mahew: posts small blind $0.25
+dwq2300: posts big blind $0.50
+jmbpga22: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 6c]
+strider4l: raises $1.50 to $2
+FACUMDP: folds 
+UBISHERE: folds 
+drewbabez: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+Uncalled bet ($1.50) returned to strider4l
+strider4l collected $1.25 from pot
+strider4l: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: mahew (small blind) folded before Flop
+Seat 3: dwq2300 (big blind) folded before Flop
+Seat 4: strider4l collected ($1.25)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155138228:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:00:05 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($87.15 in chips) 
+Seat 2: mahew ($25.95 in chips) 
+Seat 3: dwq2300 ($9 in chips) 
+Seat 4: strider4l ($46.65 in chips) 
+Seat 5: FACUMDP ($51.60 in chips) 
+Seat 7: UBISHERE ($125.75 in chips) 
+Seat 8: drewbabez ($58.65 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+dwq2300: posts small blind $0.25
+strider4l: posts big blind $0.50
+jmbpga22: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 4c]
+FACUMDP: folds 
+UBISHERE: folds 
+drewbabez: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: calls $0.50
+dwq2300: calls $0.25
+strider4l: checks 
+*** FLOP *** [9h 3h 8s]
+dwq2300: checks 
+strider4l: bets $1
+mahew: folds 
+dwq2300: folds 
+Uncalled bet ($1) returned to strider4l
+strider4l collected $1.45 from pot
+strider4l: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [9h 3h 8s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew (button) folded on the Flop
+Seat 3: dwq2300 (small blind) folded on the Flop
+Seat 4: strider4l (big blind) collected ($1.45)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155161223:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:01:11 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($87.15 in chips) 
+Seat 2: mahew ($25.45 in chips) 
+Seat 3: dwq2300 ($8.50 in chips) 
+Seat 4: strider4l ($47.60 in chips) 
+Seat 5: FACUMDP ($51.60 in chips) 
+Seat 7: UBISHERE ($125.75 in chips) 
+Seat 8: drewbabez ($58.65 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+strider4l: posts small blind $0.25
+FACUMDP: posts big blind $0.50
+jmbpga22: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Ah]
+UBISHERE: folds 
+drewbabez: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: calls $0.50
+strider4l: raises $0.50 to $1
+FACUMDP: folds 
+dwq2300: folds 
+Uncalled bet ($0.50) returned to strider4l
+strider4l collected $1.50 from pot
+strider4l: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 (button) folded before Flop
+Seat 4: strider4l (small blind) collected ($1.50)
+Seat 5: FACUMDP (big blind) folded before Flop
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155176392:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:01:54 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($87.15 in chips) 
+Seat 2: mahew ($25.45 in chips) 
+Seat 3: dwq2300 ($8 in chips) 
+Seat 4: strider4l ($48.60 in chips) 
+Seat 5: FACUMDP ($51.10 in chips) 
+Seat 6: jmbpga22 ($30 in chips) 
+Seat 7: UBISHERE ($125.75 in chips) 
+Seat 8: drewbabez ($58.65 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+FACUMDP: posts small blind $0.25
+jmbpga22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Kh]
+UBISHERE: folds 
+drewbabez: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+strider4l: raises $1 to $1.50
+FACUMDP: folds 
+jmbpga22: folds 
+Uncalled bet ($1) returned to strider4l
+strider4l collected $1.25 from pot
+strider4l: shows [Qh Ac] (high card Ace)
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l (button) collected ($1.25)
+Seat 5: FACUMDP (small blind) folded before Flop
+Seat 6: jmbpga22 (big blind) folded before Flop
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155191934:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:02:39 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($87.15 in chips) 
+Seat 2: mahew ($25.45 in chips) 
+Seat 3: dwq2300 ($8 in chips) 
+Seat 4: strider4l ($49.35 in chips) 
+Seat 5: FACUMDP ($50.85 in chips) 
+Seat 6: jmbpga22 ($29.50 in chips) 
+Seat 7: UBISHERE ($125.75 in chips) 
+Seat 8: drewbabez ($58.65 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+jmbpga22: posts small blind $0.25
+UBISHERE: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 2s]
+drewbabez: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+strider4l: folds 
+FACUMDP: raises $1.50 to $2
+jmbpga22: calls $1.75
+UBISHERE: folds 
+*** FLOP *** [Ac Qs 6c]
+jmbpga22: checks 
+FACUMDP: checks 
+*** TURN *** [Ac Qs 6c] [6s]
+jmbpga22: checks 
+FACUMDP: bets $2
+jmbpga22: calls $2
+*** RIVER *** [Ac Qs 6c 6s] [Ks]
+jmbpga22: checks 
+FACUMDP: bets $10
+jmbpga22: folds 
+Uncalled bet ($10) returned to FACUMDP
+FACUMDP collected $8.10 from pot
+FACUMDP: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.40 
+Board [Ac Qs 6c 6s Ks]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l folded before Flop (didn't bet)
+Seat 5: FACUMDP (button) collected ($8.10)
+Seat 6: jmbpga22 (small blind) folded on the River
+Seat 7: UBISHERE (big blind) folded before Flop
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155220855:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:04:03 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($87.15 in chips) 
+Seat 2: mahew ($25.45 in chips) 
+Seat 3: dwq2300 ($8 in chips) 
+Seat 4: strider4l ($49.35 in chips) 
+Seat 5: FACUMDP ($54.95 in chips) 
+Seat 6: jmbpga22 ($25.50 in chips) 
+Seat 7: UBISHERE ($125.25 in chips) 
+Seat 8: drewbabez ($58.65 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+UBISHERE: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 8h]
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+strider4l: folds 
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: folds 
+Uncalled bet ($0.25) returned to drewbabez
+drewbabez collected $0.50 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 (button) folded before Flop (didn't bet)
+Seat 7: UBISHERE (small blind) folded before Flop
+Seat 8: drewbabez (big blind) collected ($0.50)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155230244:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:04:31 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($87.15 in chips) 
+Seat 2: mahew ($25.45 in chips) 
+Seat 3: dwq2300 ($8 in chips) 
+Seat 4: strider4l ($49.35 in chips) 
+Seat 5: FACUMDP ($54.95 in chips) 
+Seat 6: jmbpga22 ($25.50 in chips) 
+Seat 7: UBISHERE ($125 in chips) 
+Seat 8: drewbabez ($58.90 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+drewbabez: posts small blind $0.25
+JoeIngram1: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 6s]
+Alameda22: folds 
+mahew: raises $1 to $1.50
+dwq2300: folds 
+strider4l: calls $1.50
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: folds 
+drewbabez: folds 
+JoeIngram1: folds 
+*** FLOP *** [As 7d 9c]
+mahew: bets $2
+strider4l: folds 
+Uncalled bet ($2) returned to mahew
+mahew collected $3.60 from pot
+mahew: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [As 7d 9c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew collected ($3.60)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l folded on the Flop
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE (button) folded before Flop (didn't bet)
+Seat 8: drewbabez (small blind) folded before Flop
+Seat 9: JoeIngram1 (big blind) folded before Flop
+
+
+
+PokerStars Game #20155261025:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:06:02 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($87.15 in chips) 
+Seat 2: mahew ($27.55 in chips) 
+Seat 3: dwq2300 ($8 in chips) 
+Seat 4: strider4l ($47.85 in chips) 
+Seat 5: FACUMDP ($54.95 in chips) 
+Seat 6: jmbpga22 ($25.50 in chips) 
+Seat 7: UBISHERE ($125 in chips) 
+Seat 8: drewbabez ($58.65 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+JoeIngram1: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 8d]
+mahew: folds 
+dwq2300: folds 
+strider4l: calls $0.50
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: raises $1.50 to $2
+drewbabez: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+strider4l: calls $1.50
+*** FLOP *** [3c 3h 7d]
+strider4l: bets $3
+UBISHERE: calls $3
+*** TURN *** [3c 3h 7d] [Th]
+strider4l: bets $4
+UBISHERE: calls $4
+*** RIVER *** [3c 3h 7d Th] [9d]
+strider4l: checks 
+UBISHERE: checks 
+*** SHOW DOWN ***
+strider4l: shows [6h 6s] (two pair, Sixes and Threes)
+UBISHERE: mucks hand 
+strider4l collected $17.85 from pot
+*** SUMMARY ***
+Total pot $18.75 | Rake $0.90 
+Board [3c 3h 7d Th 9d]
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l showed [6h 6s] and won ($17.85) with two pair, Sixes and Threes
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE mucked [Kh Ad]
+Seat 8: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: JoeIngram1 (small blind) folded before Flop
+
+
+
+PokerStars Game #20155317180:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:08:47 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($86.65 in chips) 
+Seat 2: mahew ($27.55 in chips) 
+Seat 3: dwq2300 ($8 in chips) 
+Seat 4: strider4l ($56.70 in chips) 
+Seat 5: FACUMDP ($54.95 in chips) 
+Seat 6: jmbpga22 ($25.50 in chips) 
+Seat 7: UBISHERE ($116 in chips) 
+Seat 8: drewbabez ($58.65 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+Alameda22: posts small blind $0.25
+mahew: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 8d]
+dwq2300: folds 
+strider4l: folds 
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: folds 
+drewbabez: raises $1 to $1.50
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+Uncalled bet ($1) returned to drewbabez
+drewbabez collected $1.25 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: mahew (big blind) folded before Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: strider4l folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez collected ($1.25)
+Seat 9: JoeIngram1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155331252:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:09:29 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($86.40 in chips) 
+Seat 2: mahew ($27.05 in chips) 
+Seat 3: dwq2300 ($8 in chips) 
+Seat 4: strider4l ($56.70 in chips) 
+Seat 5: FACUMDP ($54.95 in chips) 
+Seat 6: jmbpga22 ($25.50 in chips) 
+Seat 7: UBISHERE ($116 in chips) 
+Seat 8: drewbabez ($59.40 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+mahew: posts small blind $0.25
+dwq2300: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 6d]
+strider4l: calls $0.50
+FACUMDP: folds 
+jmbpga22: calls $0.50
+UBISHERE: folds 
+drewbabez: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: calls $0.25
+dwq2300: checks 
+*** FLOP *** [Ks 8s Qh]
+mahew: checks 
+dwq2300: checks 
+strider4l: bets $1
+jmbpga22: folds 
+mahew: folds 
+dwq2300: folds 
+Uncalled bet ($1) returned to strider4l
+strider4l collected $1.90 from pot
+strider4l is sitting out
+strider4l: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Ks 8s Qh]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: mahew (small blind) folded on the Flop
+Seat 3: dwq2300 (big blind) folded on the Flop
+Seat 4: strider4l collected ($1.90)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded on the Flop
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155358441:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:10:50 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($86.40 in chips) 
+Seat 2: mahew ($26.55 in chips) 
+Seat 3: dwq2300 ($7.50 in chips) 
+Seat 5: FACUMDP ($54.95 in chips) 
+Seat 6: jmbpga22 ($25 in chips) 
+Seat 7: UBISHERE ($116 in chips) 
+Seat 8: drewbabez ($59.40 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+dwq2300: posts small blind $0.25
+FACUMDP: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 4h]
+jmbpga22: folds 
+UBISHERE: folds 
+drewbabez: calls $0.50
+strider4l leaves the table
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: calls $0.25
+FACUMDP: checks 
+*** FLOP *** [8h Qs 4c]
+dwq2300: checks 
+FACUMDP: checks 
+drewbabez: checks 
+*** TURN *** [8h Qs 4c] [5d]
+dwq2300: checks 
+FACUMDP: bets $1.50
+drewbabez: folds 
+DOBERMAN20 joins the table at seat #4 
+dwq2300: folds 
+Uncalled bet ($1.50) returned to FACUMDP
+FACUMDP collected $1.45 from pot
+FACUMDP: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [8h Qs 4c 5d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew (button) folded before Flop (didn't bet)
+Seat 3: dwq2300 (small blind) folded on the Turn
+Seat 5: FACUMDP (big blind) collected ($1.45)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded on the Turn
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155400471:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:12:55 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($86.40 in chips) 
+Seat 2: mahew ($26.55 in chips) 
+Seat 3: dwq2300 ($7 in chips) 
+Seat 5: FACUMDP ($55.90 in chips) 
+Seat 6: jmbpga22 ($25 in chips) 
+Seat 7: UBISHERE ($116 in chips) 
+Seat 8: drewbabez ($58.90 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+DOBERMAN20 will be allowed to play after the button
+FACUMDP: posts small blind $0.25
+jmbpga22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 5h]
+UBISHERE: folds 
+drewbabez: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: calls $0.50
+dwq2300: folds 
+FACUMDP: folds 
+jmbpga22: checks 
+*** FLOP *** [3s Ad 6c]
+jmbpga22: checks 
+mahew: bets $1
+jmbpga22: calls $1
+*** TURN *** [3s Ad 6c] [4d]
+jmbpga22: checks 
+mahew: checks 
+*** RIVER *** [3s Ad 6c 4d] [Tc]
+jmbpga22: checks 
+mahew: checks 
+*** SHOW DOWN ***
+jmbpga22: shows [8h 6d] (a pair of Sixes)
+mahew: shows [Ks Th] (a pair of Tens)
+mahew collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [3s Ad 6c 4d Tc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew showed [Ks Th] and won ($3.10) with a pair of Tens
+Seat 3: dwq2300 (button) folded before Flop (didn't bet)
+Seat 5: FACUMDP (small blind) folded before Flop
+Seat 6: jmbpga22 (big blind) showed [8h 6d] and lost with a pair of Sixes
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155424392:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:14:07 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($86.40 in chips) 
+Seat 2: mahew ($28.15 in chips) 
+Seat 3: dwq2300 ($7 in chips) 
+Seat 4: DOBERMAN20 ($30 in chips) 
+Seat 5: FACUMDP ($55.65 in chips) 
+Seat 6: jmbpga22 ($23.50 in chips) 
+Seat 7: UBISHERE ($116 in chips) 
+Seat 8: drewbabez ($58.90 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+jmbpga22: posts small blind $0.25
+UBISHERE: posts big blind $0.50
+DOBERMAN20: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Kd]
+drewbabez: folds 
+JoeIngram1: folds 
+Alameda22: raises $2 to $2.50
+mahew: folds 
+dwq2300: folds 
+DOBERMAN20: calls $2
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: folds 
+*** FLOP *** [Qs 4d Qc]
+Alameda22: checks 
+DOBERMAN20: checks 
+*** TURN *** [Qs 4d Qc] [9s]
+Alameda22: checks 
+DOBERMAN20: bets $1.50
+Alameda22: folds 
+Uncalled bet ($1.50) returned to DOBERMAN20
+DOBERMAN20 collected $5.50 from pot
+DOBERMAN20: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.25 
+Board [Qs 4d Qc 9s]
+Seat 1: Alameda22 folded on the Turn
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 collected ($5.50)
+Seat 5: FACUMDP (button) folded before Flop (didn't bet)
+Seat 6: jmbpga22 (small blind) folded before Flop
+Seat 7: UBISHERE (big blind) folded before Flop
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155453623:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:15:36 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($83.90 in chips) 
+Seat 2: mahew ($28.15 in chips) 
+Seat 3: dwq2300 ($7 in chips) 
+Seat 4: DOBERMAN20 ($33 in chips) 
+Seat 5: FACUMDP ($55.65 in chips) 
+Seat 6: jmbpga22 ($23.25 in chips) 
+Seat 7: UBISHERE ($115.50 in chips) 
+Seat 8: drewbabez ($58.90 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+UBISHERE: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 5h]
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+DOBERMAN20: calls $0.50
+FACUMDP: calls $0.50
+jmbpga22: folds 
+UBISHERE: folds 
+drewbabez: checks 
+*** FLOP *** [2s Qc 8s]
+drewbabez: bets $1
+DOBERMAN20: calls $1
+FACUMDP: raises $3 to $4
+drewbabez: folds 
+DOBERMAN20: folds 
+Uncalled bet ($3) returned to FACUMDP
+FACUMDP collected $4.55 from pot
+FACUMDP: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [2s Qc 8s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 folded on the Flop
+Seat 5: FACUMDP collected ($4.55)
+Seat 6: jmbpga22 (button) folded before Flop (didn't bet)
+Seat 7: UBISHERE (small blind) folded before Flop
+Seat 8: drewbabez (big blind) folded on the Flop
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155473744:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:16:36 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($83.90 in chips) 
+Seat 2: mahew ($28.15 in chips) 
+Seat 3: dwq2300 ($7 in chips) 
+Seat 4: DOBERMAN20 ($31.50 in chips) 
+Seat 5: FACUMDP ($58.70 in chips) 
+Seat 6: jmbpga22 ($23.25 in chips) 
+Seat 7: UBISHERE ($115.25 in chips) 
+Seat 8: drewbabez ($57.40 in chips) 
+Seat 9: JoeIngram1 ($50 in chips) 
+drewbabez: posts small blind $0.25
+JoeIngram1: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Td]
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+DOBERMAN20: calls $0.50
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: raises $1.50 to $2
+drewbabez: folds 
+JoeIngram1: folds 
+DOBERMAN20: calls $1.50
+*** FLOP *** [4s 4d 9s]
+DOBERMAN20: checks 
+UBISHERE: bets $4.50
+DOBERMAN20: calls $4.50
+*** TURN *** [4s 4d 9s] [9d]
+DOBERMAN20: checks 
+UBISHERE: checks 
+*** RIVER *** [4s 4d 9s 9d] [Jc]
+DOBERMAN20: bets $9
+UBISHERE: calls $9
+*** SHOW DOWN ***
+DOBERMAN20: shows [4c 3h] (a full house, Fours full of Nines)
+UBISHERE: mucks hand 
+DOBERMAN20 collected $30.20 from pot
+*** SUMMARY ***
+Total pot $31.75 | Rake $1.55 
+Board [4s 4d 9s 9d Jc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 showed [4c 3h] and won ($30.20) with a full house, Fours full of Nines
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE (button) mucked [Qc Ah]
+Seat 8: drewbabez (small blind) folded before Flop
+Seat 9: JoeIngram1 (big blind) folded before Flop
+
+
+
+PokerStars Game #20155503945:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:18:08 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($83.90 in chips) 
+Seat 2: mahew ($28.15 in chips) 
+Seat 3: dwq2300 ($7 in chips) 
+Seat 4: DOBERMAN20 ($46.20 in chips) 
+Seat 5: FACUMDP ($58.70 in chips) 
+Seat 6: jmbpga22 ($23.25 in chips) 
+Seat 7: UBISHERE ($99.75 in chips) 
+Seat 8: drewbabez ($57.15 in chips) 
+Seat 9: JoeIngram1 ($49.50 in chips) 
+JoeIngram1: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 2h]
+mahew: calls $0.50
+dwq2300: folds 
+DOBERMAN20: calls $0.50
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: folds 
+drewbabez: folds 
+JoeIngram1: calls $0.25
+Alameda22: checks 
+*** FLOP *** [Js 4s 7d]
+JoeIngram1: bets $1.50
+Alameda22: folds 
+mahew: folds 
+DOBERMAN20: calls $1.50
+*** TURN *** [Js 4s 7d] [Ts]
+JoeIngram1: checks 
+DOBERMAN20: bets $2
+JoeIngram1: calls $2
+*** RIVER *** [Js 4s 7d Ts] [Kc]
+JoeIngram1: bets $7
+DOBERMAN20: folds 
+Uncalled bet ($7) returned to JoeIngram1
+JoeIngram1 collected $8.60 from pot
+JoeIngram1: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.40 
+Board [Js 4s 7d Ts Kc]
+Seat 1: Alameda22 (big blind) folded on the Flop
+Seat 2: mahew folded on the Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 folded on the River
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez (button) folded before Flop (didn't bet)
+Seat 9: JoeIngram1 (small blind) collected ($8.60)
+
+
+
+PokerStars Game #20155526144:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:19:15 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($83.40 in chips) 
+Seat 2: mahew ($27.65 in chips) 
+Seat 3: dwq2300 ($7 in chips) 
+Seat 4: DOBERMAN20 ($42.20 in chips) 
+Seat 5: FACUMDP ($58.70 in chips) 
+Seat 6: jmbpga22 ($23.25 in chips) 
+Seat 7: UBISHERE ($99.75 in chips) 
+Seat 8: drewbabez ($57.15 in chips) 
+Seat 9: JoeIngram1 ($54.10 in chips) 
+Alameda22: posts small blind $0.25
+mahew: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Qc]
+dwq2300: folds 
+DOBERMAN20: raises $1 to $1.50
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: folds 
+drewbabez: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+Uncalled bet ($1) returned to DOBERMAN20
+DOBERMAN20 collected $1.25 from pot
+DOBERMAN20: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: mahew (big blind) folded before Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 collected ($1.25)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: JoeIngram1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155543725:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:20:09 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($83.15 in chips) 
+Seat 2: mahew ($27.15 in chips) 
+Seat 3: dwq2300 ($7 in chips) 
+Seat 4: DOBERMAN20 ($42.95 in chips) 
+Seat 5: FACUMDP ($58.70 in chips) 
+Seat 6: jmbpga22 ($23.25 in chips) 
+Seat 7: UBISHERE ($99.75 in chips) 
+Seat 8: drewbabez ($57.15 in chips) 
+Seat 9: JoeIngram1 ($54.10 in chips) 
+mahew: posts small blind $0.25
+dwq2300: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Ks]
+DOBERMAN20: calls $0.50
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: raises $1.50 to $2
+drewbabez: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+DOBERMAN20: folds 
+Uncalled bet ($1.50) returned to UBISHERE
+UBISHERE collected $1.75 from pot
+UBISHERE: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: mahew (small blind) folded before Flop
+Seat 3: dwq2300 (big blind) folded before Flop
+Seat 4: DOBERMAN20 folded before Flop
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE collected ($1.75)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155565890:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:21:16 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($83.15 in chips) 
+Seat 2: mahew ($26.90 in chips) 
+Seat 3: dwq2300 ($6.50 in chips) 
+Seat 4: DOBERMAN20 ($42.45 in chips) 
+Seat 5: FACUMDP ($58.70 in chips) 
+Seat 6: jmbpga22 ($23.25 in chips) 
+Seat 7: UBISHERE ($101 in chips) 
+Seat 8: drewbabez ($57.15 in chips) 
+Seat 9: JoeIngram1 ($54.10 in chips) 
+dwq2300: posts small blind $0.25
+DOBERMAN20: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Ts]
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: folds 
+drewbabez: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: raises $1 to $1.50
+dwq2300: folds 
+DOBERMAN20: calls $1
+*** FLOP *** [6d 4c As]
+DOBERMAN20: checks 
+mahew: bets $1.50
+DOBERMAN20: calls $1.50
+*** TURN *** [6d 4c As] [5d]
+DOBERMAN20: checks 
+mahew: checks 
+*** RIVER *** [6d 4c As 5d] [7h]
+DOBERMAN20: bets $3.50
+mahew: calls $3.50
+*** SHOW DOWN ***
+DOBERMAN20: shows [Ah 3h] (a straight, Three to Seven)
+mahew: mucks hand 
+DOBERMAN20 collected $12.65 from pot
+*** SUMMARY ***
+Total pot $13.25 | Rake $0.60 
+Board [6d 4c As 5d 7h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew (button) mucked [Kc Ad]
+Seat 3: dwq2300 (small blind) folded before Flop
+Seat 4: DOBERMAN20 (big blind) showed [Ah 3h] and won ($12.65) with a straight, Three to Seven
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155598168:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:22:56 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($83.15 in chips) 
+Seat 2: mahew ($20.40 in chips) 
+Seat 3: dwq2300 ($6.25 in chips) 
+Seat 4: DOBERMAN20 ($48.60 in chips) 
+Seat 5: FACUMDP ($58.70 in chips) 
+Seat 6: jmbpga22 ($23.25 in chips) 
+Seat 7: UBISHERE ($101 in chips) 
+Seat 8: drewbabez ($57.15 in chips) 
+Seat 9: JoeIngram1 ($54.10 in chips) 
+DOBERMAN20: posts small blind $0.25
+FACUMDP: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 8d]
+jmbpga22: folds 
+UBISHERE: folds 
+drewbabez: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: calls $0.50
+dwq2300: folds 
+DOBERMAN20: calls $0.25
+FACUMDP: checks 
+*** FLOP *** [2d 7d Ac]
+DOBERMAN20: bets $1
+FACUMDP: folds 
+mahew: raises $2.50 to $3.50
+DOBERMAN20: calls $2.50
+*** TURN *** [2d 7d Ac] [3h]
+DOBERMAN20: checks 
+mahew: checks 
+*** RIVER *** [2d 7d Ac 3h] [9c]
+DOBERMAN20: checks 
+mahew: bets $3
+DOBERMAN20: folds 
+Uncalled bet ($3) returned to mahew
+mahew collected $8.10 from pot
+mahew: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.40 
+Board [2d 7d Ac 3h 9c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew collected ($8.10)
+Seat 3: dwq2300 (button) folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 (small blind) folded on the River
+Seat 5: FACUMDP (big blind) folded on the Flop
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155631025:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:24:39 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($83.15 in chips) 
+Seat 2: mahew ($24.50 in chips) 
+Seat 3: dwq2300 ($6.25 in chips) 
+Seat 4: DOBERMAN20 ($44.60 in chips) 
+Seat 5: FACUMDP ($58.20 in chips) 
+Seat 6: jmbpga22 ($23.25 in chips) 
+Seat 7: UBISHERE ($101 in chips) 
+Seat 8: drewbabez ($57.15 in chips) 
+Seat 9: JoeIngram1 ($54.10 in chips) 
+FACUMDP: posts small blind $0.25
+jmbpga22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 9s]
+UBISHERE: folds 
+drewbabez: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+DOBERMAN20: calls $0.50
+FACUMDP: folds 
+jmbpga22: checks 
+*** FLOP *** [Qd 2d Ts]
+jmbpga22: checks 
+DOBERMAN20: bets $1
+jmbpga22: folds 
+Uncalled bet ($1) returned to DOBERMAN20
+DOBERMAN20 collected $1.20 from pot
+DOBERMAN20: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Qd 2d Ts]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 (button) collected ($1.20)
+Seat 5: FACUMDP (small blind) folded before Flop
+Seat 6: jmbpga22 (big blind) folded on the Flop
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155658493:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:26:06 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($83.15 in chips) 
+Seat 2: mahew ($24.50 in chips) 
+Seat 3: dwq2300 ($6.25 in chips) 
+Seat 4: DOBERMAN20 ($45.30 in chips) 
+Seat 5: FACUMDP ($57.95 in chips) 
+Seat 6: jmbpga22 ($22.75 in chips) 
+Seat 7: UBISHERE ($101 in chips) 
+Seat 8: drewbabez ($57.15 in chips) 
+Seat 9: JoeIngram1 ($54.10 in chips) 
+jmbpga22: posts small blind $0.25
+UBISHERE: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 6c]
+drewbabez: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: raises $1 to $1.50
+dwq2300: folds 
+DOBERMAN20: calls $1.50
+FACUMDP: folds 
+jmbpga22: calls $1.25
+UBISHERE: folds 
+*** FLOP *** [7h Kh Td]
+jmbpga22: checks 
+mahew: bets $3
+DOBERMAN20: folds 
+jmbpga22: folds 
+Uncalled bet ($3) returned to mahew
+mahew collected $4.75 from pot
+mahew: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [7h Kh Td]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew collected ($4.75)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 folded on the Flop
+Seat 5: FACUMDP (button) folded before Flop (didn't bet)
+Seat 6: jmbpga22 (small blind) folded on the Flop
+Seat 7: UBISHERE (big blind) folded before Flop
+Seat 8: drewbabez folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155682701:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:27:23 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($83.15 in chips) 
+Seat 2: mahew ($27.75 in chips) 
+Seat 3: dwq2300 ($6.25 in chips) 
+Seat 4: DOBERMAN20 ($43.80 in chips) 
+Seat 5: FACUMDP ($57.95 in chips) 
+Seat 6: jmbpga22 ($21.25 in chips) 
+Seat 7: UBISHERE ($100.50 in chips) 
+Seat 8: drewbabez ($57.15 in chips) 
+Seat 9: JoeIngram1 ($54.10 in chips) 
+UBISHERE: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 2h]
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+DOBERMAN20: calls $0.50
+FACUMDP: calls $0.50
+jmbpga22: folds 
+UBISHERE: folds 
+drewbabez: checks 
+*** FLOP *** [9c Ac 2d]
+drewbabez: checks 
+DOBERMAN20: bets $1
+FACUMDP: folds 
+drewbabez: folds 
+Uncalled bet ($1) returned to DOBERMAN20
+DOBERMAN20 collected $1.70 from pot
+DOBERMAN20: doesn't show hand 
+drewbabez leaves the table
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [9c Ac 2d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 collected ($1.70)
+Seat 5: FACUMDP folded on the Flop
+Seat 6: jmbpga22 (button) folded before Flop (didn't bet)
+Seat 7: UBISHERE (small blind) folded before Flop
+Seat 8: drewbabez (big blind) folded on the Flop
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155702805:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:28:27 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($83.15 in chips) 
+Seat 2: mahew ($27.75 in chips) 
+Seat 3: dwq2300 ($6.25 in chips) 
+Seat 4: DOBERMAN20 ($45 in chips) 
+Seat 5: FACUMDP ($57.45 in chips) 
+Seat 6: jmbpga22 ($21.25 in chips) 
+Seat 7: UBISHERE ($100.25 in chips) 
+Seat 9: JoeIngram1 ($54.10 in chips) 
+JoeIngram1: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 2d]
+mahew: folds 
+dwq2300: folds 
+DOBERMAN20: calls $0.50
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: raises $1.50 to $2
+JoeIngram1: folds 
+Alameda22: folds 
+DOBERMAN20: folds 
+Uncalled bet ($1.50) returned to UBISHERE
+UBISHERE collected $1.75 from pot
+UBISHERE: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 folded before Flop
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE (button) collected ($1.75)
+Seat 9: JoeIngram1 (small blind) folded before Flop
+
+
+
+PokerStars Game #20155720367:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:29:23 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($82.65 in chips) 
+Seat 2: mahew ($27.75 in chips) 
+Seat 3: dwq2300 ($6.25 in chips) 
+Seat 4: DOBERMAN20 ($44.50 in chips) 
+Seat 5: FACUMDP ($57.45 in chips) 
+Seat 6: jmbpga22 ($21.25 in chips) 
+Seat 7: UBISHERE ($101.50 in chips) 
+Seat 9: JoeIngram1 ($53.85 in chips) 
+Alameda22: posts small blind $0.25
+mahew: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Jh]
+dwq2300: folds 
+DOBERMAN20: calls $0.50
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: raises $1.50 to $2
+darkshade77 joins the table at seat #8 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+DOBERMAN20: folds 
+Uncalled bet ($1.50) returned to UBISHERE
+UBISHERE collected $1.75 from pot
+UBISHERE: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: mahew (big blind) folded before Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 folded before Flop
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE collected ($1.75)
+Seat 9: JoeIngram1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155734264:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:30:07 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($82.40 in chips) 
+Seat 2: mahew ($27.25 in chips) 
+Seat 3: dwq2300 ($6.25 in chips) 
+Seat 4: DOBERMAN20 ($44 in chips) 
+Seat 5: FACUMDP ($57.45 in chips) 
+Seat 6: jmbpga22 ($21.25 in chips) 
+Seat 7: UBISHERE ($102.75 in chips) 
+Seat 8: darkshade77 ($30 in chips) 
+Seat 9: JoeIngram1 ($53.85 in chips) 
+mahew: posts small blind $0.25
+dwq2300: posts big blind $0.50
+darkshade77: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 2h]
+DOBERMAN20: calls $0.50
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: raises $2 to $2.50
+darkshade77: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+DOBERMAN20: calls $2
+*** FLOP *** [3c 3d 3h]
+DOBERMAN20: checks 
+UBISHERE: bets $5.50
+DOBERMAN20: folds 
+Uncalled bet ($5.50) returned to UBISHERE
+UBISHERE collected $5.95 from pot
+UBISHERE: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.30 
+Board [3c 3d 3h]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: mahew (small blind) folded before Flop
+Seat 3: dwq2300 (big blind) folded before Flop
+Seat 4: DOBERMAN20 folded on the Flop
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE collected ($5.95)
+Seat 8: darkshade77 folded before Flop
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155758115:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:31:20 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($82.40 in chips) 
+Seat 2: mahew ($27 in chips) 
+Seat 3: dwq2300 ($5.75 in chips) 
+Seat 4: DOBERMAN20 ($41.50 in chips) 
+Seat 5: FACUMDP ($57.45 in chips) 
+Seat 6: jmbpga22 ($21.25 in chips) 
+Seat 7: UBISHERE ($106.20 in chips) 
+Seat 8: darkshade77 ($29.50 in chips) 
+Seat 9: JoeIngram1 ($53.85 in chips) 
+dwq2300: posts small blind $0.25
+DOBERMAN20: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 6s]
+FACUMDP: folds 
+jmbpga22: calls $0.50
+UBISHERE: folds 
+darkshade77: calls $0.50
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: calls $0.50
+dwq2300: calls $0.25
+DOBERMAN20: raises $0.50 to $1
+jmbpga22: calls $0.50
+darkshade77: calls $0.50
+mahew: calls $0.50
+dwq2300: folds 
+*** FLOP *** [2d Ks 7c]
+DOBERMAN20: checks 
+jmbpga22: bets $2.50
+darkshade77: folds 
+mahew: folds 
+DOBERMAN20: folds 
+Uncalled bet ($2.50) returned to jmbpga22
+jmbpga22 collected $4.30 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [2d Ks 7c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew (button) folded on the Flop
+Seat 3: dwq2300 (small blind) folded before Flop
+Seat 4: DOBERMAN20 (big blind) folded on the Flop
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 collected ($4.30)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: darkshade77 folded on the Flop
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155793667:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:33:11 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($82.40 in chips) 
+Seat 2: mahew ($26 in chips) 
+Seat 3: dwq2300 ($5.25 in chips) 
+Seat 4: DOBERMAN20 ($40.50 in chips) 
+Seat 5: FACUMDP ($57.45 in chips) 
+Seat 6: jmbpga22 ($24.55 in chips) 
+Seat 7: UBISHERE ($106.20 in chips) 
+Seat 8: darkshade77 ($28.50 in chips) 
+Seat 9: JoeIngram1 ($53.85 in chips) 
+DOBERMAN20: posts small blind $0.25
+FACUMDP: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 6c]
+jmbpga22: folds 
+UBISHERE: raises $2 to $2.50
+darkshade77: calls $2.50
+JoeIngram1: calls $2.50
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+DOBERMAN20: folds 
+FACUMDP: folds 
+*** FLOP *** [3c Kd Kh]
+UBISHERE: bets $5.50
+darkshade77: folds 
+JoeIngram1: folds 
+Uncalled bet ($5.50) returned to UBISHERE
+UBISHERE collected $7.85 from pot
+UBISHERE: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.40 
+Board [3c Kd Kh]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 (button) folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 (small blind) folded before Flop
+Seat 5: FACUMDP (big blind) folded before Flop
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE collected ($7.85)
+Seat 8: darkshade77 folded on the Flop
+Seat 9: JoeIngram1 folded on the Flop
+
+
+
+PokerStars Game #20155815368:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:34:20 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($82.40 in chips) 
+Seat 2: mahew ($26 in chips) 
+Seat 3: dwq2300 ($5.25 in chips) 
+Seat 4: DOBERMAN20 ($40.25 in chips) 
+Seat 5: FACUMDP ($56.95 in chips) 
+Seat 6: jmbpga22 ($24.55 in chips) 
+Seat 7: UBISHERE ($111.55 in chips) 
+Seat 8: darkshade77 ($26 in chips) 
+Seat 9: JoeIngram1 ($51.35 in chips) 
+FACUMDP: posts small blind $0.25
+jmbpga22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 9c]
+UBISHERE: folds 
+darkshade77: calls $0.50
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+DOBERMAN20: calls $0.50
+FACUMDP: calls $0.25
+jmbpga22: checks 
+*** FLOP *** [Qs 2c 5s]
+FACUMDP: checks 
+jmbpga22: bets $1
+darkshade77: folds 
+DOBERMAN20: calls $1
+FACUMDP: folds 
+*** TURN *** [Qs 2c 5s] [9s]
+jmbpga22: bets $3
+DOBERMAN20: folds 
+Uncalled bet ($3) returned to jmbpga22
+jmbpga22 collected $3.85 from pot
+jmbpga22: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.15 
+Board [Qs 2c 5s 9s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 (button) folded on the Turn
+Seat 5: FACUMDP (small blind) folded on the Flop
+Seat 6: jmbpga22 (big blind) collected ($3.85)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: darkshade77 folded on the Flop
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155840855:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:35:40 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($82.40 in chips) 
+Seat 2: mahew ($26 in chips) 
+Seat 3: dwq2300 ($5.25 in chips) 
+Seat 4: DOBERMAN20 ($38.75 in chips) 
+Seat 5: FACUMDP ($56.45 in chips) 
+Seat 6: jmbpga22 ($26.90 in chips) 
+Seat 7: UBISHERE ($111.55 in chips) 
+Seat 8: darkshade77 ($25.50 in chips) 
+Seat 9: JoeIngram1 ($51.35 in chips) 
+jmbpga22: posts small blind $0.25
+UBISHERE: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 4c]
+darkshade77: calls $0.50
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+DOBERMAN20: calls $0.50
+FACUMDP: calls $0.50
+jmbpga22: calls $0.25
+UBISHERE: raises $0.50 to $1
+darkshade77: calls $0.50
+DOBERMAN20: calls $0.50
+FACUMDP: calls $0.50
+jmbpga22: calls $0.50
+*** FLOP *** [Jd Th 8h]
+jmbpga22: checks 
+UBISHERE: bets $1.50
+darkshade77: calls $1.50
+DOBERMAN20: raises $3 to $4.50
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: folds 
+darkshade77: folds 
+Uncalled bet ($3) returned to DOBERMAN20
+DOBERMAN20 collected $9.05 from pot
+DOBERMAN20: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.45 
+Board [Jd Th 8h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 collected ($9.05)
+Seat 5: FACUMDP (button) folded on the Flop
+Seat 6: jmbpga22 (small blind) folded on the Flop
+Seat 7: UBISHERE (big blind) folded on the Flop
+Seat 8: darkshade77 folded on the Flop
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155864381:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:36:55 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($82.40 in chips) 
+Seat 2: mahew ($26 in chips) 
+Seat 3: dwq2300 ($5.25 in chips) 
+Seat 4: DOBERMAN20 ($45.30 in chips) 
+Seat 5: FACUMDP ($55.45 in chips) 
+Seat 6: jmbpga22 ($25.90 in chips) 
+Seat 7: UBISHERE ($109.05 in chips) 
+Seat 8: darkshade77 ($23 in chips) 
+Seat 9: JoeIngram1 ($51.35 in chips) 
+UBISHERE: posts small blind $0.25
+darkshade77: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 7c]
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: calls $0.50
+dwq2300 has timed out
+dwq2300: folds 
+dwq2300 is sitting out
+dwq2300 has returned
+DOBERMAN20: raises $1.50 to $2
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: folds 
+darkshade77: folds 
+darkshade77 is sitting out
+mahew: calls $1.50
+*** FLOP *** [6h 6s Ah]
+mahew: checks 
+DOBERMAN20: bets $2
+darkshade77 leaves the table
+mahew: folds 
+Uncalled bet ($2) returned to DOBERMAN20
+DOBERMAN20 collected $4.55 from pot
+DOBERMAN20: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [6h 6s Ah]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded on the Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 collected ($4.55)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 (button) folded before Flop (didn't bet)
+Seat 7: UBISHERE (small blind) folded before Flop
+Seat 8: darkshade77 (big blind) folded before Flop
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155897669:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:38:40 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($82.40 in chips) 
+Seat 2: mahew ($24 in chips) 
+Seat 3: dwq2300 ($5.25 in chips) 
+Seat 4: DOBERMAN20 ($47.85 in chips) 
+Seat 5: FACUMDP ($55.45 in chips) 
+Seat 6: jmbpga22 ($25.90 in chips) 
+Seat 7: UBISHERE ($108.80 in chips) 
+Seat 9: JoeIngram1 ($51.35 in chips) 
+JoeIngram1: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 3s]
+mahew: folds 
+dwq2300: folds 
+DOBERMAN20: raises $1 to $1.50
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+Uncalled bet ($1) returned to DOBERMAN20
+DOBERMAN20 collected $1.25 from pot
+DOBERMAN20: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 collected ($1.25)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE (button) folded before Flop (didn't bet)
+Seat 9: JoeIngram1 (small blind) folded before Flop
+
+
+
+PokerStars Game #20155926059:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:40:09 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($81.90 in chips) 
+Seat 2: mahew ($44 in chips) 
+Seat 3: dwq2300 ($5.25 in chips) 
+Seat 4: DOBERMAN20 ($48.60 in chips) 
+Seat 5: FACUMDP ($55.45 in chips) 
+Seat 6: jmbpga22 ($25.90 in chips) 
+Seat 7: UBISHERE ($108.80 in chips) 
+Seat 9: JoeIngram1 ($51.10 in chips) 
+Alameda22: posts small blind $0.25
+mahew: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 3s]
+dwq2300: calls $0.50
+DOBERMAN20: calls $0.50
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: checks 
+*** FLOP *** [Ts Kd 2s]
+mahew: checks 
+nykbbal joins the table at seat #8 
+dwq2300: bets $1
+DOBERMAN20: folds 
+mahew: folds 
+Uncalled bet ($1) returned to dwq2300
+dwq2300 collected $1.70 from pot
+dwq2300: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Ts Kd 2s]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: mahew (big blind) folded on the Flop
+Seat 3: dwq2300 collected ($1.70)
+Seat 4: DOBERMAN20 folded on the Flop
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 9: JoeIngram1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155946052:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:41:13 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($81.65 in chips) 
+Seat 2: mahew ($43.50 in chips) 
+Seat 3: dwq2300 ($6.45 in chips) 
+Seat 4: DOBERMAN20 ($48.10 in chips) 
+Seat 5: FACUMDP ($55.45 in chips) 
+Seat 6: jmbpga22 ($25.90 in chips) 
+Seat 7: UBISHERE ($108.80 in chips) 
+Seat 9: JoeIngram1 ($51.10 in chips) 
+mahew: posts small blind $0.25
+dwq2300: posts big blind $0.50
+nykbbal: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Ah]
+DOBERMAN20: calls $0.50
+FACUMDP: folds 
+jmbpga22: calls $0.50
+UBISHERE: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: calls $0.25
+dwq2300: checks 
+*** FLOP *** [Kc 5h 3c]
+mahew: checks 
+dwq2300: checks 
+DOBERMAN20: bets $0.50
+jmbpga22: folds 
+mahew: folds 
+dwq2300: folds 
+Uncalled bet ($0.50) returned to DOBERMAN20
+DOBERMAN20 collected $1.90 from pot
+DOBERMAN20: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Kc 5h 3c]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: mahew (small blind) folded on the Flop
+Seat 3: dwq2300 (big blind) folded on the Flop
+Seat 4: DOBERMAN20 collected ($1.90)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded on the Flop
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155969342:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:42:27 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($81.65 in chips) 
+Seat 2: mahew ($43 in chips) 
+Seat 3: dwq2300 ($5.95 in chips) 
+Seat 4: DOBERMAN20 ($49.50 in chips) 
+Seat 5: FACUMDP ($55.45 in chips) 
+Seat 6: jmbpga22 ($25.40 in chips) 
+Seat 7: UBISHERE ($108.80 in chips) 
+Seat 9: JoeIngram1 ($51.10 in chips) 
+dwq2300: posts small blind $0.25
+DOBERMAN20: posts big blind $0.50
+nykbbal: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 9d]
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: folds 
+JoeIngram1: folds 
+Alameda22: raises $1.50 to $2
+mahew: folds 
+dwq2300: folds 
+DOBERMAN20: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $1.25 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 collected ($1.25)
+Seat 2: mahew (button) folded before Flop (didn't bet)
+Seat 3: dwq2300 (small blind) folded before Flop
+Seat 4: DOBERMAN20 (big blind) folded before Flop
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20155986461:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:43:22 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($82.40 in chips) 
+Seat 2: mahew ($43 in chips) 
+Seat 3: dwq2300 ($5.70 in chips) 
+Seat 4: DOBERMAN20 ($49 in chips) 
+Seat 5: FACUMDP ($55.45 in chips) 
+Seat 6: jmbpga22 ($25.40 in chips) 
+Seat 7: UBISHERE ($108.80 in chips) 
+Seat 9: JoeIngram1 ($51.10 in chips) 
+DOBERMAN20: posts small blind $0.25
+FACUMDP: posts big blind $0.50
+nykbbal: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Th]
+jmbpga22: folds 
+UBISHERE: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: calls $0.50
+dwq2300: folds 
+DOBERMAN20: calls $0.25
+FACUMDP: checks 
+*** FLOP *** [As Jd 2h]
+DOBERMAN20: bets $0.50
+FACUMDP: folds 
+mahew: folds 
+Uncalled bet ($0.50) returned to DOBERMAN20
+DOBERMAN20 collected $1.45 from pot
+DOBERMAN20: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [As Jd 2h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded on the Flop
+Seat 3: dwq2300 (button) folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 (small blind) collected ($1.45)
+Seat 5: FACUMDP (big blind) folded on the Flop
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20156013219:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:44:47 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($82.40 in chips) 
+Seat 2: mahew ($42.50 in chips) 
+Seat 3: dwq2300 ($5.70 in chips) 
+Seat 4: DOBERMAN20 ($49.95 in chips) 
+Seat 5: FACUMDP ($54.95 in chips) 
+Seat 6: jmbpga22 ($25.40 in chips) 
+Seat 7: UBISHERE ($108.80 in chips) 
+Seat 9: JoeIngram1 ($51.10 in chips) 
+FACUMDP: posts small blind $0.25
+jmbpga22: posts big blind $0.50
+nykbbal: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Tc]
+UBISHERE: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+DOBERMAN20: calls $0.50
+FACUMDP: calls $0.25
+jmbpga22: checks 
+*** FLOP *** [6c Jh 9h]
+FACUMDP: checks 
+jmbpga22: checks 
+DOBERMAN20: bets $0.50
+FACUMDP: calls $0.50
+jmbpga22: folds 
+*** TURN *** [6c Jh 9h] [6h]
+FACUMDP: checks 
+DOBERMAN20: bets $1
+FACUMDP: raises $2.50 to $3.50
+DOBERMAN20: calls $2.50
+*** RIVER *** [6c Jh 9h 6h] [Td]
+FACUMDP: bets $5
+DOBERMAN20: raises $16 to $21
+FACUMDP: calls $16
+*** SHOW DOWN ***
+DOBERMAN20: shows [Ts 6d] (a full house, Sixes full of Tens)
+FACUMDP: mucks hand 
+DOBERMAN20 collected $48.95 from pot
+*** SUMMARY ***
+Total pot $51.50 | Rake $2.55 
+Board [6c Jh 9h 6h Td]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 (button) showed [Ts 6d] and won ($48.95) with a full house, Sixes full of Tens
+Seat 5: FACUMDP (small blind) mucked [5h Ah]
+Seat 6: jmbpga22 (big blind) folded on the Flop
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20156048395:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:46:39 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($82.40 in chips) 
+Seat 2: mahew ($42.50 in chips) 
+Seat 3: dwq2300 ($5.70 in chips) 
+Seat 4: DOBERMAN20 ($73.40 in chips) 
+Seat 5: FACUMDP ($50 in chips) 
+Seat 6: jmbpga22 ($24.90 in chips) 
+Seat 7: UBISHERE ($108.80 in chips) 
+Seat 9: JoeIngram1 ($51.10 in chips) 
+jmbpga22: posts small blind $0.25
+UBISHERE: posts big blind $0.50
+nykbbal: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Kh]
+JoeIngram1: raises $1.50 to $2
+Alameda22: folds 
+mahew: calls $2
+dwq2300: folds 
+DOBERMAN20: folds 
+FACUMDP: folds 
+jmbpga22 is disconnected 
+jmbpga22 is connected 
+jmbpga22: folds 
+UBISHERE: calls $1.50
+*** FLOP *** [Qd Qs 4d]
+UBISHERE: bets $3
+JoeIngram1: calls $3
+mahew: folds 
+*** TURN *** [Qd Qs 4d] [4c]
+UBISHERE: checks 
+JoeIngram1: bets $5
+UBISHERE: calls $5
+*** RIVER *** [Qd Qs 4d 4c] [8s]
+UBISHERE: checks 
+JoeIngram1: bets $22
+UBISHERE: folds 
+Uncalled bet ($22) returned to JoeIngram1
+JoeIngram1 collected $21.20 from pot
+JoeIngram1: shows [Qh Qc] (four of a kind, Queens)
+*** SUMMARY ***
+Total pot $22.25 | Rake $1.05 
+Board [Qd Qs 4d 4c 8s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded on the Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 folded before Flop (didn't bet)
+Seat 5: FACUMDP (button) folded before Flop (didn't bet)
+Seat 6: jmbpga22 (small blind) folded before Flop
+Seat 7: UBISHERE (big blind) folded on the River
+Seat 9: JoeIngram1 collected ($21.20)
+
+
+
+PokerStars Game #20156090018:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:48:52 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($82.40 in chips) 
+Seat 2: mahew ($40.50 in chips) 
+Seat 3: dwq2300 ($5.70 in chips) 
+Seat 4: DOBERMAN20 ($73.40 in chips) 
+Seat 5: FACUMDP ($50 in chips) 
+Seat 6: jmbpga22 ($24.65 in chips) 
+Seat 7: UBISHERE ($98.80 in chips) 
+Seat 8: nykbbal ($20 in chips) 
+Seat 9: JoeIngram1 ($62.30 in chips) 
+UBISHERE: posts small blind $0.25
+nykbbal: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 6s]
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+mahew said, "nice flop"
+dwq2300: folds 
+DOBERMAN20: calls $0.50
+FACUMDP: raises $2 to $2.50
+jmbpga22: folds 
+UBISHERE: folds 
+nykbbal: folds 
+DOBERMAN20: folds 
+Uncalled bet ($2) returned to FACUMDP
+FACUMDP collected $1.75 from pot
+FACUMDP: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 folded before Flop
+Seat 5: FACUMDP collected ($1.75)
+Seat 6: jmbpga22 (button) folded before Flop (didn't bet)
+Seat 7: UBISHERE (small blind) folded before Flop
+Seat 8: nykbbal (big blind) folded before Flop
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20156112488:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:50:05 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($82.40 in chips) 
+Seat 2: mahew ($40.50 in chips) 
+Seat 3: dwq2300 ($5.70 in chips) 
+Seat 4: DOBERMAN20 ($72.90 in chips) 
+Seat 5: FACUMDP ($51.25 in chips) 
+Seat 6: jmbpga22 ($24.65 in chips) 
+Seat 7: UBISHERE ($98.55 in chips) 
+Seat 8: nykbbal ($19.50 in chips) 
+Seat 9: JoeIngram1 ($62.30 in chips) 
+nykbbal: posts small blind $0.25
+JoeIngram1: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 9h]
+Alameda22: folds 
+mahew: folds 
+dwq2300: folds 
+DOBERMAN20: calls $0.50
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: folds 
+nykbbal: raises $1.50 to $2
+JoeIngram1: folds 
+DOBERMAN20: folds 
+Uncalled bet ($1.50) returned to nykbbal
+nykbbal collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 folded before Flop
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE (button) folded before Flop (didn't bet)
+Seat 8: nykbbal (small blind) collected ($1.50)
+Seat 9: JoeIngram1 (big blind) folded before Flop
+
+
+
+PokerStars Game #20156133651:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:51:14 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($82.40 in chips) 
+Seat 2: mahew ($40.50 in chips) 
+Seat 3: dwq2300 ($5.70 in chips) 
+Seat 4: DOBERMAN20 ($72.40 in chips) 
+Seat 5: FACUMDP ($51.25 in chips) 
+Seat 6: jmbpga22 ($24.65 in chips) 
+Seat 7: UBISHERE ($98.55 in chips) 
+Seat 8: nykbbal ($20.50 in chips) 
+Seat 9: JoeIngram1 ($61.80 in chips) 
+JoeIngram1: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Jd]
+mahew: folds 
+dwq2300: folds 
+DOBERMAN20: calls $0.50
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: raises $1.50 to $2
+nykbbal: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+DOBERMAN20: folds 
+Uncalled bet ($1.50) returned to UBISHERE
+UBISHERE collected $1.75 from pot
+UBISHERE: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 folded before Flop
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE collected ($1.75)
+Seat 8: nykbbal (button) folded before Flop (didn't bet)
+Seat 9: JoeIngram1 (small blind) folded before Flop
+
+
+
+PokerStars Game #20156149176:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:52:04 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($81.90 in chips) 
+Seat 2: mahew ($40.50 in chips) 
+Seat 3: dwq2300 ($5.70 in chips) 
+Seat 4: DOBERMAN20 ($71.90 in chips) 
+Seat 5: FACUMDP ($51.25 in chips) 
+Seat 6: jmbpga22 ($24.65 in chips) 
+Seat 7: UBISHERE ($99.80 in chips) 
+Seat 8: nykbbal ($20.50 in chips) 
+Seat 9: JoeIngram1 ($61.55 in chips) 
+Alameda22: posts small blind $0.25
+mahew: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Ac]
+dwq2300: folds 
+DOBERMAN20: calls $0.50
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: folds 
+nykbbal: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: checks 
+*** FLOP *** [9c 5c Jh]
+mahew: checks 
+DOBERMAN20: bets $1
+mahew: folds 
+Uncalled bet ($1) returned to DOBERMAN20
+DOBERMAN20 collected $1.20 from pot
+DOBERMAN20: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [9c 5c Jh]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: mahew (big blind) folded on the Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 collected ($1.20)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: nykbbal folded before Flop (didn't bet)
+Seat 9: JoeIngram1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20156166935:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:53:02 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($81.65 in chips) 
+Seat 2: mahew ($40 in chips) 
+Seat 3: dwq2300 ($5.70 in chips) 
+Seat 4: DOBERMAN20 ($72.60 in chips) 
+Seat 5: FACUMDP ($51.25 in chips) 
+Seat 6: jmbpga22 ($24.65 in chips) 
+Seat 7: UBISHERE ($99.80 in chips) 
+Seat 8: nykbbal ($20.50 in chips) 
+Seat 9: JoeIngram1 ($61.55 in chips) 
+mahew: posts small blind $0.25
+dwq2300: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Td]
+DOBERMAN20: raises $0.50 to $1
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: folds 
+nykbbal: calls $1
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: calls $0.75
+dwq2300: folds 
+*** FLOP *** [Qh 5s Kd]
+mahew: checks 
+DOBERMAN20: checks 
+nykbbal: checks 
+*** TURN *** [Qh 5s Kd] [6d]
+mahew: bets $1.50
+DOBERMAN20: folds 
+nykbbal: folds 
+Uncalled bet ($1.50) returned to mahew
+mahew collected $3.35 from pot
+mahew: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [Qh 5s Kd 6d]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: mahew (small blind) collected ($3.35)
+Seat 3: dwq2300 (big blind) folded before Flop
+Seat 4: DOBERMAN20 folded on the Turn
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: nykbbal folded on the Turn
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20156196580:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:54:39 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($81.65 in chips) 
+Seat 2: mahew ($42.35 in chips) 
+Seat 3: dwq2300 ($5.20 in chips) 
+Seat 4: DOBERMAN20 ($71.60 in chips) 
+Seat 5: FACUMDP ($51.25 in chips) 
+Seat 6: jmbpga22 ($24.65 in chips) 
+Seat 7: UBISHERE ($99.80 in chips) 
+Seat 8: nykbbal ($19.50 in chips) 
+Seat 9: JoeIngram1 ($61.55 in chips) 
+dwq2300: posts small blind $0.25
+DOBERMAN20: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 5c]
+FACUMDP: folds 
+jmbpga22: folds 
+UBISHERE: folds 
+nykbbal: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: calls $0.50
+dwq2300: calls $0.25
+DOBERMAN20: raises $1 to $1.50
+mahew: folds 
+dwq2300: folds 
+Uncalled bet ($1) returned to DOBERMAN20
+DOBERMAN20 collected $1.50 from pot
+DOBERMAN20: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew (button) folded before Flop
+Seat 3: dwq2300 (small blind) folded before Flop
+Seat 4: DOBERMAN20 (big blind) collected ($1.50)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: nykbbal folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20156217392:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:55:47 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($81.65 in chips) 
+Seat 2: mahew ($41.85 in chips) 
+Seat 3: dwq2300 ($4.70 in chips) 
+Seat 4: DOBERMAN20 ($72.60 in chips) 
+Seat 5: FACUMDP ($51.25 in chips) 
+Seat 6: jmbpga22 ($24.65 in chips) 
+Seat 7: UBISHERE ($99.80 in chips) 
+Seat 8: nykbbal ($19.50 in chips) 
+Seat 9: JoeIngram1 ($61.55 in chips) 
+DOBERMAN20: posts small blind $0.25
+FACUMDP: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Kh]
+jmbpga22: folds 
+UBISHERE: folds 
+nykbbal: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: folds 
+dwq2300: calls $0.50
+DOBERMAN20: calls $0.25
+FACUMDP: checks 
+*** FLOP *** [4h 7s 6h]
+DOBERMAN20: bets $0.50
+FACUMDP: folds 
+dwq2300: calls $0.50
+*** TURN *** [4h 7s 6h] [Ah]
+DOBERMAN20: bets $1.50
+dwq2300: folds 
+Uncalled bet ($1.50) returned to DOBERMAN20
+DOBERMAN20 collected $2.40 from pot
+DOBERMAN20: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [4h 7s 6h Ah]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop (didn't bet)
+Seat 3: dwq2300 (button) folded on the Turn
+Seat 4: DOBERMAN20 (small blind) collected ($2.40)
+Seat 5: FACUMDP (big blind) folded on the Flop
+Seat 6: jmbpga22 folded before Flop (didn't bet)
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: nykbbal folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20156247629:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:57:26 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($81.65 in chips) 
+Seat 2: mahew ($41.85 in chips) 
+Seat 3: dwq2300 ($3.70 in chips) 
+Seat 4: DOBERMAN20 ($74 in chips) 
+Seat 5: FACUMDP ($50.75 in chips) 
+Seat 6: jmbpga22 ($24.65 in chips) 
+Seat 7: UBISHERE ($99.80 in chips) 
+Seat 8: nykbbal ($19.50 in chips) 
+Seat 9: JoeIngram1 ($61.55 in chips) 
+FACUMDP: posts small blind $0.25
+jmbpga22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 9h]
+UBISHERE: folds 
+nykbbal: folds 
+JoeIngram1: raises $2 to $2.50
+Alameda22: folds 
+mahew: calls $2.50
+dwq2300: folds 
+DOBERMAN20: folds 
+FACUMDP: folds 
+jmbpga22: folds 
+*** FLOP *** [Ac Jd 4c]
+JoeIngram1: bets $4
+mahew: calls $4
+*** TURN *** [Ac Jd 4c] [Jh]
+JoeIngram1: checks 
+mahew: bets $4
+JoeIngram1: folds 
+Uncalled bet ($4) returned to mahew
+mahew collected $13.10 from pot
+mahew: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.75 | Rake $0.65 
+Board [Ac Jd 4c Jh]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew collected ($13.10)
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 (button) folded before Flop (didn't bet)
+Seat 5: FACUMDP (small blind) folded before Flop
+Seat 6: jmbpga22 (big blind) folded before Flop
+Seat 7: UBISHERE folded before Flop (didn't bet)
+Seat 8: nykbbal folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded on the Turn
+
+
+
+PokerStars Game #20156264303:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 23:58:21 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($81.65 in chips) 
+Seat 2: mahew ($48.45 in chips) 
+Seat 3: dwq2300 ($3.70 in chips) 
+Seat 4: DOBERMAN20 ($74 in chips) 
+Seat 5: FACUMDP ($50.50 in chips) 
+Seat 6: jmbpga22 ($24.15 in chips) 
+Seat 7: UBISHERE ($99.80 in chips) 
+Seat 8: nykbbal ($19.50 in chips) 
+Seat 9: JoeIngram1 ($55.05 in chips) 
+jmbpga22: posts small blind $0.25
+UBISHERE: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Tc]
+nykbbal: folds 
+JoeIngram1: folds 
+Alameda22: folds 
+mahew: calls $0.50
+JoeIngram1 leaves the table
+dwq2300: folds 
+DOBERMAN20: calls $0.50
+FACUMDP: folds 
+jmbpga22: calls $0.25
+UBISHERE: raises $1.50 to $2
+mahew: folds 
+DOBERMAN20: folds 
+jmbpga22: folds 
+Uncalled bet ($1.50) returned to UBISHERE
+UBISHERE collected $2 from pot
+UBISHERE: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: mahew folded before Flop
+Seat 3: dwq2300 folded before Flop (didn't bet)
+Seat 4: DOBERMAN20 folded before Flop
+Seat 5: FACUMDP (button) folded before Flop (didn't bet)
+Seat 6: jmbpga22 (small blind) folded before Flop
+Seat 7: UBISHERE (big blind) collected ($2)
+Seat 8: nykbbal folded before Flop (didn't bet)
+Seat 9: JoeIngram1 folded before Flop (didn't bet)
+
+
+

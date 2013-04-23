@@ -1,0 +1,3141 @@
+PokerStars Game #20142186491:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 13:45:11 ET
+Table 'Rhodia IV' 9-max Seat #5 is the button
+Seat 1: drewbabez ($67.25 in chips) 
+Seat 3: fioro ($46.25 in chips) 
+Seat 4: spenguin ($53.55 in chips) 
+Seat 5: FACUMDP ($54.40 in chips) 
+Seat 6: Timberinho ($50.25 in chips) 
+Seat 7: Alameda22 ($50 in chips) 
+Seat 8: OuweDibbes ($34.90 in chips) 
+Seat 9: vinvinsible ($42.80 in chips) 
+Timberinho: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 8s]
+OuweDibbes: folds 
+vinvinsible: folds 
+drewbabez: folds 
+fioro: folds 
+spenguin: raises $1.50 to $2
+FACUMDP: folds 
+Timberinho: folds 
+Alameda22: folds 
+Uncalled bet ($1.50) returned to spenguin
+spenguin collected $1.25 from pot
+spenguin: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin collected ($1.25)
+Seat 5: FACUMDP (button) folded before Flop (didn't bet)
+Seat 6: Timberinho (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 8: OuweDibbes folded before Flop (didn't bet)
+Seat 9: vinvinsible folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142202547:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 13:45:51 ET
+Table 'Rhodia IV' 9-max Seat #6 is the button
+Seat 1: drewbabez ($67.25 in chips) 
+Seat 3: fioro ($46.25 in chips) 
+Seat 4: spenguin ($54.30 in chips) 
+Seat 5: FACUMDP ($54.40 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($49.50 in chips) 
+Seat 8: OuweDibbes ($34.90 in chips) 
+Seat 9: vinvinsible ($42.80 in chips) 
+Alameda22: posts small blind $0.25
+OuweDibbes: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 6h]
+vinvinsible: calls $0.50
+drewbabez: folds 
+fioro: folds 
+spenguin: folds 
+FACUMDP: folds 
+Timberinho: folds 
+Alameda22: folds 
+OuweDibbes: checks 
+*** FLOP *** [6s 8d 4s]
+OuweDibbes: bets $1
+vinvinsible: raises $1 to $2
+OuweDibbes: calls $1
+*** TURN *** [6s 8d 4s] [3c]
+OuweDibbes: checks 
+vinvinsible: bets $2
+OuweDibbes: calls $2
+*** RIVER *** [6s 8d 4s 3c] [9d]
+OuweDibbes: checks 
+vinvinsible: bets $10
+OuweDibbes: calls $10
+*** SHOW DOWN ***
+vinvinsible: shows [Td 2d] (high card Ten)
+OuweDibbes: shows [8h Ac] (a pair of Eights)
+OuweDibbes collected $27.85 from pot
+*** SUMMARY ***
+Total pot $29.25 | Rake $1.40 
+Board [6s 8d 4s 3c 9d]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: OuweDibbes (big blind) showed [8h Ac] and won ($27.85) with a pair of Eights
+Seat 9: vinvinsible showed [Td 2d] and lost with high card Ten
+
+
+
+PokerStars Game #20142230429:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 13:46:59 ET
+Table 'Rhodia IV' 9-max Seat #7 is the button
+Seat 1: drewbabez ($67.25 in chips) 
+Seat 3: fioro ($46.25 in chips) 
+Seat 4: spenguin ($54.30 in chips) 
+Seat 5: FACUMDP ($54.40 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($49.25 in chips) 
+Seat 8: OuweDibbes ($48.25 in chips) 
+Seat 9: vinvinsible ($28.30 in chips) 
+OuweDibbes: posts small blind $0.25
+vinvinsible: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 6c]
+drewbabez: folds 
+fioro: folds 
+spenguin: folds 
+FACUMDP: raises $1.50 to $2
+Timberinho: folds 
+Alameda22: folds 
+OuweDibbes: folds 
+vinvinsible: calls $1.50
+*** FLOP *** [3h 7h 7c]
+vinvinsible: checks 
+FACUMDP: checks 
+*** TURN *** [3h 7h 7c] [2h]
+vinvinsible: checks 
+FACUMDP: checks 
+*** RIVER *** [3h 7h 7c 2h] [Th]
+vinvinsible: bets $1
+FACUMDP: folds 
+Uncalled bet ($1) returned to vinvinsible
+vinvinsible collected $4.05 from pot
+vinvinsible: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [3h 7h 7c 2h Th]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin folded before Flop (didn't bet)
+Seat 5: FACUMDP folded on the River
+Seat 6: Timberinho folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: OuweDibbes (small blind) folded before Flop
+Seat 9: vinvinsible (big blind) collected ($4.05)
+
+
+
+PokerStars Game #20142260563:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 13:48:12 ET
+Table 'Rhodia IV' 9-max Seat #8 is the button
+Seat 1: drewbabez ($67.25 in chips) 
+Seat 3: fioro ($46.25 in chips) 
+Seat 4: spenguin ($54.30 in chips) 
+Seat 5: FACUMDP ($52.40 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($49.25 in chips) 
+Seat 8: OuweDibbes ($48 in chips) 
+Seat 9: vinvinsible ($30.35 in chips) 
+vinvinsible: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 6d]
+tonybots has returned
+fioro: folds 
+spenguin: folds 
+FACUMDP: folds 
+Timberinho: raises $1.50 to $2
+Alameda22: folds 
+OuweDibbes: folds 
+vinvinsible: calls $1.75
+drewbabez: folds 
+*** FLOP *** [4c Kh Ah]
+vinvinsible: checks 
+Timberinho: bets $3
+vinvinsible: calls $3
+*** TURN *** [4c Kh Ah] [Js]
+vinvinsible: checks 
+Timberinho: bets $7.50
+vinvinsible: calls $7.50
+*** RIVER *** [4c Kh Ah Js] [2s]
+vinvinsible: bets $17.85 and is all-in
+Timberinho: calls $17.85
+*** SHOW DOWN ***
+vinvinsible: shows [Qc Td] (a straight, Ten to Ace)
+Timberinho: mucks hand 
+vinvinsible collected $58.25 from pot
+*** SUMMARY ***
+Total pot $61.20 | Rake $2.95 
+Board [4c Kh Ah Js 2s]
+Seat 1: drewbabez (big blind) folded before Flop
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho mucked [Jh Jc]
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: OuweDibbes (button) folded before Flop (didn't bet)
+Seat 9: vinvinsible (small blind) showed [Qc Td] and won ($58.25) with a straight, Ten to Ace
+
+
+
+PokerStars Game #20142308466:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 13:50:10 ET
+Table 'Rhodia IV' 9-max Seat #9 is the button
+Seat 1: drewbabez ($66.75 in chips) 
+Seat 2: tonybots ($74.50 in chips) 
+Seat 3: fioro ($46.25 in chips) 
+Seat 4: spenguin ($54.30 in chips) 
+Seat 5: FACUMDP ($52.40 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($49.25 in chips) 
+Seat 8: OuweDibbes ($48 in chips) 
+Seat 9: vinvinsible ($58.25 in chips) 
+drewbabez: posts small blind $0.25
+tonybots: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 6s]
+fioro: folds 
+spenguin: folds 
+FACUMDP: folds 
+Timberinho: folds 
+Alameda22: folds 
+OuweDibbes: folds 
+vinvinsible: calls $0.50
+drewbabez: folds 
+tonybots: checks 
+*** FLOP *** [9c 2h 4s]
+tonybots: bets $1.50
+vinvinsible: raises $1.50 to $3
+tonybots: calls $1.50
+*** TURN *** [9c 2h 4s] [4d]
+tonybots: checks 
+vinvinsible: bets $3
+tonybots: folds 
+Uncalled bet ($3) returned to vinvinsible
+vinvinsible collected $6.90 from pot
+vinvinsible: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [9c 2h 4s 4d]
+Seat 1: drewbabez (small blind) folded before Flop
+Seat 2: tonybots (big blind) folded on the Turn
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: OuweDibbes folded before Flop (didn't bet)
+Seat 9: vinvinsible (button) collected ($6.90)
+
+
+
+PokerStars Game #20142333212:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 13:51:10 ET
+Table 'Rhodia IV' 9-max Seat #1 is the button
+Seat 1: drewbabez ($66.50 in chips) 
+Seat 2: tonybots ($71 in chips) 
+Seat 3: fioro ($46.25 in chips) 
+Seat 4: spenguin ($54.30 in chips) 
+Seat 5: FACUMDP ($52.40 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($49.25 in chips) 
+Seat 8: OuweDibbes ($48 in chips) 
+Seat 9: vinvinsible ($61.65 in chips) 
+tonybots: posts small blind $0.25
+fioro: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 5h]
+spenguin: folds 
+FACUMDP: folds 
+Timberinho: folds 
+Alameda22: folds 
+OuweDibbes: folds 
+vinvinsible: calls $0.50
+drewbabez: folds 
+tonybots: folds 
+fioro: checks 
+*** FLOP *** [5s As 2c]
+fioro: checks 
+vinvinsible: checks 
+*** TURN *** [5s As 2c] [6h]
+fioro: checks 
+vinvinsible: checks 
+*** RIVER *** [5s As 2c 6h] [Tc]
+fioro: checks 
+vinvinsible: checks 
+*** SHOW DOWN ***
+fioro: shows [3d 8h] (high card Ace)
+vinvinsible: shows [7s Ks] (high card Ace - King kicker)
+vinvinsible collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [5s As 2c 6h Tc]
+Seat 1: drewbabez (button) folded before Flop (didn't bet)
+Seat 2: tonybots (small blind) folded before Flop
+Seat 3: fioro (big blind) showed [3d 8h] and lost with high card Ace
+Seat 4: spenguin folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: OuweDibbes folded before Flop (didn't bet)
+Seat 9: vinvinsible showed [7s Ks] and won ($1.20) with high card Ace
+
+
+
+PokerStars Game #20142360633:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 13:52:18 ET
+Table 'Rhodia IV' 9-max Seat #2 is the button
+Seat 1: drewbabez ($66.50 in chips) 
+Seat 2: tonybots ($70.75 in chips) 
+Seat 3: fioro ($45.75 in chips) 
+Seat 4: spenguin ($54.30 in chips) 
+Seat 5: FACUMDP ($52.40 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($49.25 in chips) 
+Seat 8: OuweDibbes ($48 in chips) 
+Seat 9: vinvinsible ($62.35 in chips) 
+fioro: posts small blind $0.25
+spenguin: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 2s]
+FACUMDP: folds 
+Timberinho: raises $1.50 to $2
+Alameda22: folds 
+OuweDibbes: folds 
+vinvinsible: folds 
+drewbabez: folds 
+tonybots: folds 
+fioro: folds 
+spenguin: folds 
+Uncalled bet ($1.50) returned to Timberinho
+Timberinho collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots (button) folded before Flop (didn't bet)
+Seat 3: fioro (small blind) folded before Flop
+Seat 4: spenguin (big blind) folded before Flop
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho collected ($1.25)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: OuweDibbes folded before Flop (didn't bet)
+Seat 9: vinvinsible folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142377346:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 13:52:59 ET
+Table 'Rhodia IV' 9-max Seat #3 is the button
+Seat 1: drewbabez ($66.50 in chips) 
+Seat 2: tonybots ($70.75 in chips) 
+Seat 3: fioro ($45.50 in chips) 
+Seat 4: spenguin ($53.80 in chips) 
+Seat 5: FACUMDP ($52.40 in chips) 
+Seat 6: Timberinho ($50.75 in chips) 
+Seat 7: Alameda22 ($49.25 in chips) 
+Seat 8: OuweDibbes ($48 in chips) 
+Seat 9: vinvinsible ($62.35 in chips) 
+spenguin: posts small blind $0.25
+FACUMDP: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 7c]
+Timberinho: folds 
+Alameda22: folds 
+OuweDibbes: raises $1.25 to $1.75
+vinvinsible: folds 
+drewbabez: folds 
+tonybots: folds 
+fioro: calls $1.75
+spenguin: folds 
+FACUMDP: folds 
+*** FLOP *** [As 3h 4c]
+OuweDibbes: checks 
+fioro: checks 
+*** TURN *** [As 3h 4c] [Qs]
+OuweDibbes: checks 
+fioro: checks 
+*** RIVER *** [As 3h 4c Qs] [Ac]
+OuweDibbes: bets $2
+fioro: calls $2
+*** SHOW DOWN ***
+OuweDibbes: shows [Ad Ah] (four of a kind, Aces)
+fioro: mucks hand 
+OuweDibbes collected $7.85 from pot
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.40 
+Board [As 3h 4c Qs Ac]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro (button) mucked [Th Ts]
+Seat 4: spenguin (small blind) folded before Flop
+Seat 5: FACUMDP (big blind) folded before Flop
+Seat 6: Timberinho folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: OuweDibbes showed [Ad Ah] and won ($7.85) with four of a kind, Aces
+Seat 9: vinvinsible folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142405402:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 13:54:09 ET
+Table 'Rhodia IV' 9-max Seat #4 is the button
+Seat 1: drewbabez ($66.50 in chips) 
+Seat 2: tonybots ($70.75 in chips) 
+Seat 3: fioro ($41.75 in chips) 
+Seat 4: spenguin ($53.55 in chips) 
+Seat 5: FACUMDP ($51.90 in chips) 
+Seat 6: Timberinho ($50.75 in chips) 
+Seat 7: Alameda22 ($49.25 in chips) 
+Seat 8: OuweDibbes ($52.10 in chips) 
+Seat 9: vinvinsible ($62.35 in chips) 
+FACUMDP: posts small blind $0.25
+Timberinho: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Td]
+Alameda22: folds 
+OuweDibbes: folds 
+vinvinsible: folds 
+drewbabez: folds 
+tonybots: raises $1.50 to $2
+fioro: folds 
+spenguin: folds 
+FACUMDP: folds 
+Timberinho: folds 
+Uncalled bet ($1.50) returned to tonybots
+tonybots collected $1.25 from pot
+tonybots: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots collected ($1.25)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin (button) folded before Flop (didn't bet)
+Seat 5: FACUMDP (small blind) folded before Flop
+Seat 6: Timberinho (big blind) folded before Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: OuweDibbes folded before Flop (didn't bet)
+Seat 9: vinvinsible folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142421065:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 13:54:49 ET
+Table 'Rhodia IV' 9-max Seat #5 is the button
+Seat 1: drewbabez ($66.50 in chips) 
+Seat 2: tonybots ($71.50 in chips) 
+Seat 3: fioro ($41.75 in chips) 
+Seat 4: spenguin ($53.55 in chips) 
+Seat 5: FACUMDP ($51.65 in chips) 
+Seat 6: Timberinho ($50.25 in chips) 
+Seat 7: Alameda22 ($49.25 in chips) 
+Seat 8: OuweDibbes ($52.10 in chips) 
+Seat 9: vinvinsible ($62.35 in chips) 
+Timberinho: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 9h]
+OuweDibbes: folds 
+vinvinsible: calls $0.50
+drewbabez: folds 
+tonybots: folds 
+fioro: raises $2.50 to $3
+spenguin: calls $3
+FACUMDP: folds 
+Timberinho: folds 
+Alameda22: folds 
+vinvinsible: folds 
+*** FLOP *** [6d 7c 8s]
+fioro: checks 
+spenguin: bets $3
+fioro: calls $3
+*** TURN *** [6d 7c 8s] [Kc]
+fioro: checks 
+spenguin: bets $3
+fioro: folds 
+Uncalled bet ($3) returned to spenguin
+spenguin collected $12.65 from pot
+spenguin: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.25 | Rake $0.60 
+Board [6d 7c 8s Kc]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro folded on the Turn
+Seat 4: spenguin collected ($12.65)
+Seat 5: FACUMDP (button) folded before Flop (didn't bet)
+Seat 6: Timberinho (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 8: OuweDibbes folded before Flop (didn't bet)
+Seat 9: vinvinsible folded before Flop
+
+
+
+PokerStars Game #20142444782:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 13:55:51 ET
+Table 'Rhodia IV' 9-max Seat #6 is the button
+Seat 1: drewbabez ($66.50 in chips) 
+Seat 2: tonybots ($71.50 in chips) 
+Seat 3: fioro ($50 in chips) 
+Seat 4: spenguin ($60.20 in chips) 
+Seat 5: FACUMDP ($51.65 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($48.75 in chips) 
+Seat 8: OuweDibbes ($52.10 in chips) 
+Seat 9: vinvinsible ($61.85 in chips) 
+Alameda22: posts small blind $0.25
+OuweDibbes: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 8s]
+vinvinsible: folds 
+drewbabez: folds 
+tonybots: folds 
+fioro: folds 
+spenguin: folds 
+FACUMDP: raises $1.50 to $2
+Timberinho: folds 
+Alameda22: folds 
+OuweDibbes: folds 
+Uncalled bet ($1.50) returned to FACUMDP
+FACUMDP collected $1.25 from pot
+FACUMDP: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin folded before Flop (didn't bet)
+Seat 5: FACUMDP collected ($1.25)
+Seat 6: Timberinho (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: OuweDibbes (big blind) folded before Flop
+Seat 9: vinvinsible folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142458894:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 13:56:28 ET
+Table 'Rhodia IV' 9-max Seat #7 is the button
+Seat 1: drewbabez ($66.50 in chips) 
+Seat 2: tonybots ($71.50 in chips) 
+Seat 3: fioro ($50 in chips) 
+Seat 4: spenguin ($60.20 in chips) 
+Seat 5: FACUMDP ($52.40 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($48.50 in chips) 
+Seat 8: OuweDibbes ($51.60 in chips) 
+Seat 9: vinvinsible ($61.85 in chips) 
+OuweDibbes: posts small blind $0.25
+vinvinsible: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 5d]
+drewbabez: folds 
+tonybots: folds 
+fioro: calls $0.50
+spenguin: folds 
+FACUMDP: folds 
+Timberinho: folds 
+Alameda22: folds 
+OuweDibbes: calls $0.25
+vinvinsible: checks 
+*** FLOP *** [Ad Jc 7c]
+OuweDibbes: checks 
+vinvinsible: checks 
+fioro: checks 
+*** TURN *** [Ad Jc 7c] [Jh]
+OuweDibbes: checks 
+vinvinsible: checks 
+fioro: checks 
+*** RIVER *** [Ad Jc 7c Jh] [8c]
+OuweDibbes: checks 
+vinvinsible: bets $0.50
+fioro: folds 
+OuweDibbes: folds 
+Uncalled bet ($0.50) returned to vinvinsible
+vinvinsible collected $1.45 from pot
+vinvinsible: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Ad Jc 7c Jh 8c]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro folded on the River
+Seat 4: spenguin folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: OuweDibbes (small blind) folded on the River
+Seat 9: vinvinsible (big blind) collected ($1.45)
+
+
+
+PokerStars Game #20142485782:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 13:57:36 ET
+Table 'Rhodia IV' 9-max Seat #8 is the button
+Seat 1: drewbabez ($66.50 in chips) 
+Seat 2: tonybots ($71.50 in chips) 
+Seat 3: fioro ($49.50 in chips) 
+Seat 4: spenguin ($60.20 in chips) 
+Seat 5: FACUMDP ($52.40 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($48.50 in chips) 
+Seat 8: OuweDibbes ($51.10 in chips) 
+Seat 9: vinvinsible ($62.80 in chips) 
+vinvinsible: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 9d]
+tonybots: folds 
+fioro: folds 
+spenguin: folds 
+FACUMDP: folds 
+Timberinho: folds 
+Alameda22: folds 
+OuweDibbes: folds 
+vinvinsible: calls $0.25
+drewbabez: checks 
+*** FLOP *** [7c 9s Ah]
+vinvinsible: bets $0.50
+drewbabez: folds 
+Uncalled bet ($0.50) returned to vinvinsible
+vinvinsible collected $0.95 from pot
+vinvinsible: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [7c 9s Ah]
+Seat 1: drewbabez (big blind) folded on the Flop
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: OuweDibbes (button) folded before Flop (didn't bet)
+Seat 9: vinvinsible (small blind) collected ($0.95)
+
+
+
+PokerStars Game #20142500834:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 13:58:14 ET
+Table 'Rhodia IV' 9-max Seat #9 is the button
+Seat 1: drewbabez ($66 in chips) 
+Seat 2: tonybots ($71.50 in chips) 
+Seat 3: fioro ($49.50 in chips) 
+Seat 4: spenguin ($60.20 in chips) 
+Seat 5: FACUMDP ($52.40 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($48.50 in chips) 
+Seat 8: OuweDibbes ($51.10 in chips) 
+Seat 9: vinvinsible ($63.25 in chips) 
+drewbabez: posts small blind $0.25
+tonybots: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Ad]
+fioro: folds 
+spenguin: folds 
+FACUMDP: folds 
+Timberinho: raises $1.50 to $2
+Alameda22: folds 
+OuweDibbes: folds 
+vinvinsible: folds 
+drewbabez: folds 
+tonybots: folds 
+Uncalled bet ($1.50) returned to Timberinho
+Timberinho collected $1.25 from pot
+Timberinho: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: drewbabez (small blind) folded before Flop
+Seat 2: tonybots (big blind) folded before Flop
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho collected ($1.25)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: OuweDibbes folded before Flop (didn't bet)
+Seat 9: vinvinsible (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142516448:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 13:58:54 ET
+Table 'Rhodia IV' 9-max Seat #1 is the button
+Seat 1: drewbabez ($65.75 in chips) 
+Seat 2: tonybots ($71 in chips) 
+Seat 3: fioro ($49.50 in chips) 
+Seat 4: spenguin ($60.20 in chips) 
+Seat 5: FACUMDP ($52.40 in chips) 
+Seat 6: Timberinho ($50.75 in chips) 
+Seat 7: Alameda22 ($48.50 in chips) 
+Seat 8: OuweDibbes ($51.10 in chips) 
+Seat 9: vinvinsible ($63.25 in chips) 
+tonybots: posts small blind $0.25
+fioro: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h As]
+spenguin: folds 
+FACUMDP: folds 
+Timberinho: folds 
+Alameda22: folds 
+OuweDibbes: folds 
+vinvinsible: folds 
+drewbabez: raises $1.50 to $2
+tonybots: folds 
+fioro: folds 
+Uncalled bet ($1.50) returned to drewbabez
+drewbabez collected $1.25 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: drewbabez (button) collected ($1.25)
+Seat 2: tonybots (small blind) folded before Flop
+Seat 3: fioro (big blind) folded before Flop
+Seat 4: spenguin folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: OuweDibbes folded before Flop (didn't bet)
+Seat 9: vinvinsible folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142530870:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 13:59:31 ET
+Table 'Rhodia IV' 9-max Seat #2 is the button
+Seat 1: drewbabez ($66.50 in chips) 
+Seat 2: tonybots ($70.75 in chips) 
+Seat 3: fioro ($49 in chips) 
+Seat 4: spenguin ($60.20 in chips) 
+Seat 5: FACUMDP ($52.40 in chips) 
+Seat 6: Timberinho ($50.75 in chips) 
+Seat 7: Alameda22 ($48.50 in chips) 
+Seat 8: OuweDibbes ($51.10 in chips) 
+Seat 9: vinvinsible ($63.25 in chips) 
+fioro: posts small blind $0.25
+spenguin: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 5c]
+FACUMDP: folds 
+Timberinho: folds 
+Alameda22: folds 
+OuweDibbes: folds 
+vinvinsible: calls $0.50
+drewbabez: folds 
+tonybots: folds 
+fioro: folds 
+spenguin: checks 
+*** FLOP *** [Jd 9c 4d]
+spenguin: bets $2
+vinvinsible: folds 
+Uncalled bet ($2) returned to spenguin
+spenguin collected $1.20 from pot
+spenguin: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Jd 9c 4d]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots (button) folded before Flop (didn't bet)
+Seat 3: fioro (small blind) folded before Flop
+Seat 4: spenguin (big blind) collected ($1.20)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: OuweDibbes folded before Flop (didn't bet)
+Seat 9: vinvinsible folded on the Flop
+
+
+
+PokerStars Game #20142552696:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:00:24 ET
+Table 'Rhodia IV' 9-max Seat #3 is the button
+Seat 1: drewbabez ($66.50 in chips) 
+Seat 2: tonybots ($70.75 in chips) 
+Seat 3: fioro ($48.75 in chips) 
+Seat 4: spenguin ($60.90 in chips) 
+Seat 5: FACUMDP ($52.40 in chips) 
+Seat 6: Timberinho ($50.75 in chips) 
+Seat 7: Alameda22 ($48.50 in chips) 
+Seat 8: OuweDibbes ($51.10 in chips) 
+Seat 9: vinvinsible ($62.75 in chips) 
+spenguin: posts small blind $0.25
+FACUMDP: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Jh]
+Timberinho: folds 
+Alameda22: folds 
+OuweDibbes: raises $1 to $1.50
+vinvinsible: calls $1.50
+drewbabez: folds 
+tonybots: raises $3 to $4.50
+fioro: folds 
+spenguin: folds 
+FACUMDP: folds 
+OuweDibbes: folds 
+vinvinsible: calls $3
+*** FLOP *** [Th 7s 3c]
+vinvinsible: bets $2
+tonybots: raises $8.50 to $10.50
+vinvinsible: folds 
+Uncalled bet ($8.50) returned to tonybots
+tonybots collected $14.55 from pot
+*** SUMMARY ***
+Total pot $15.25 | Rake $0.70 
+Board [Th 7s 3c]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots collected ($14.55)
+Seat 3: fioro (button) folded before Flop (didn't bet)
+Seat 4: spenguin (small blind) folded before Flop
+Seat 5: FACUMDP (big blind) folded before Flop
+Seat 6: Timberinho folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: OuweDibbes folded before Flop
+Seat 9: vinvinsible folded on the Flop
+
+
+
+PokerStars Game #20142590086:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:01:56 ET
+Table 'Rhodia IV' 9-max Seat #4 is the button
+Seat 1: drewbabez ($66.50 in chips) 
+Seat 2: tonybots ($78.80 in chips) 
+Seat 3: fioro ($48.75 in chips) 
+Seat 4: spenguin ($60.65 in chips) 
+Seat 5: FACUMDP ($51.90 in chips) 
+Seat 6: Timberinho ($50.75 in chips) 
+Seat 7: Alameda22 ($48.50 in chips) 
+Seat 8: OuweDibbes ($49.60 in chips) 
+Seat 9: vinvinsible ($56.25 in chips) 
+FACUMDP: posts small blind $0.25
+Timberinho: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 6d]
+Alameda22: folds 
+OuweDibbes: folds 
+vinvinsible: calls $0.50
+drewbabez: folds 
+tonybots: folds 
+fioro: raises $2 to $2.50
+spenguin: folds 
+FACUMDP: folds 
+Timberinho: folds 
+vinvinsible: calls $2
+*** FLOP *** [3h As 4d]
+vinvinsible: bets $2
+fioro: raises $4.50 to $6.50
+vinvinsible: folds 
+Uncalled bet ($4.50) returned to fioro
+fioro collected $9.30 from pot
+fioro: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.75 | Rake $0.45 
+Board [3h As 4d]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro collected ($9.30)
+Seat 4: spenguin (button) folded before Flop (didn't bet)
+Seat 5: FACUMDP (small blind) folded before Flop
+Seat 6: Timberinho (big blind) folded before Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: OuweDibbes folded before Flop (didn't bet)
+Seat 9: vinvinsible folded on the Flop
+
+
+
+PokerStars Game #20142617190:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:03:03 ET
+Table 'Rhodia IV' 9-max Seat #5 is the button
+Seat 1: drewbabez ($66.50 in chips) 
+Seat 2: tonybots ($78.80 in chips) 
+Seat 3: fioro ($53.55 in chips) 
+Seat 4: spenguin ($60.65 in chips) 
+Seat 5: FACUMDP ($51.65 in chips) 
+Seat 6: Timberinho ($50.25 in chips) 
+Seat 7: Alameda22 ($48.50 in chips) 
+Seat 8: OuweDibbes ($49.60 in chips) 
+Seat 9: vinvinsible ($51.75 in chips) 
+Timberinho: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 8d]
+OuweDibbes: folds 
+vinvinsible: folds 
+OuweDibbes is sitting out
+drewbabez: folds 
+tonybots: folds 
+fioro: folds 
+spenguin: folds 
+FACUMDP: folds 
+Timberinho: folds 
+Uncalled bet ($0.25) returned to Alameda22
+Alameda22 collected $0.50 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin folded before Flop (didn't bet)
+Seat 5: FACUMDP (button) folded before Flop (didn't bet)
+Seat 6: Timberinho (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) collected ($0.50)
+Seat 8: OuweDibbes folded before Flop (didn't bet)
+Seat 9: vinvinsible folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142635618:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:03:48 ET
+Table 'Rhodia IV' 9-max Seat #6 is the button
+Seat 1: drewbabez ($66.50 in chips) 
+Seat 2: tonybots ($78.80 in chips) 
+Seat 3: fioro ($53.55 in chips) 
+Seat 4: spenguin ($60.65 in chips) 
+Seat 5: FACUMDP ($51.65 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($48.75 in chips) 
+Seat 9: vinvinsible ($51.75 in chips) 
+Alameda22: posts small blind $0.25
+vinvinsible: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Jh]
+drewbabez: folds 
+tonybots: folds 
+fioro: folds 
+spenguin: folds 
+FACUMDP: folds 
+Timberinho: raises $1.50 to $2
+Alameda22: folds 
+vinvinsible: calls $1.50
+*** FLOP *** [6s Qh 4d]
+vinvinsible: bets $1
+Timberinho: raises $2.50 to $3.50
+vinvinsible: calls $2.50
+*** TURN *** [6s Qh 4d] [3s]
+vinvinsible: bets $1
+Timberinho: raises $6 to $7
+tonybots is sitting out
+vinvinsible: calls $6
+*** RIVER *** [6s Qh 4d 3s] [7s]
+vinvinsible: bets $38.50
+Timberinho: folds 
+Uncalled bet ($38.50) returned to vinvinsible
+vinvinsible collected $24.05 from pot
+vinvinsible: doesn't show hand 
+*** SUMMARY ***
+Total pot $25.25 | Rake $1.20 
+Board [6s Qh 4d 3s 7s]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho (button) folded on the River
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 9: vinvinsible (big blind) collected ($24.05)
+
+
+
+PokerStars Game #20142672182:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:05:17 ET
+Table 'Rhodia IV' 9-max Seat #7 is the button
+Seat 1: drewbabez ($66.50 in chips) 
+Seat 3: fioro ($53.55 in chips) 
+Seat 4: spenguin ($60.65 in chips) 
+Seat 5: FACUMDP ($51.65 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($48.50 in chips) 
+Seat 9: vinvinsible ($63.30 in chips) 
+vinvinsible: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 4d]
+fioro: folds 
+spenguin: folds 
+FACUMDP: folds 
+Timberinho: folds 
+Alameda22: folds 
+vinvinsible: calls $0.25
+drewbabez: checks 
+*** FLOP *** [7c 8d Js]
+vinvinsible: checks 
+drewbabez: checks 
+*** TURN *** [7c 8d Js] [Ah]
+vinvinsible: checks 
+drewbabez: checks 
+*** RIVER *** [7c 8d Js Ah] [5s]
+vinvinsible: bets $2
+drewbabez: folds 
+Uncalled bet ($2) returned to vinvinsible
+vinvinsible collected $0.95 from pot
+vinvinsible: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [7c 8d Js Ah 5s]
+Seat 1: drewbabez (big blind) folded on the River
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin folded before Flop (didn't bet)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: vinvinsible (small blind) collected ($0.95)
+
+
+
+PokerStars Game #20142692545:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:06:06 ET
+Table 'Rhodia IV' 9-max Seat #9 is the button
+Seat 1: drewbabez ($66 in chips) 
+Seat 3: fioro ($53.55 in chips) 
+Seat 4: spenguin ($60.65 in chips) 
+Seat 5: FACUMDP ($51.65 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($48.50 in chips) 
+Seat 9: vinvinsible ($63.75 in chips) 
+drewbabez: posts small blind $0.25
+fioro: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Jh]
+spenguin: raises $1.50 to $2
+FACUMDP: folds 
+Timberinho: folds 
+Alameda22: folds 
+vinvinsible: folds 
+drewbabez: folds 
+fioro: folds 
+Uncalled bet ($1.50) returned to spenguin
+spenguin collected $1.25 from pot
+spenguin: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: drewbabez (small blind) folded before Flop
+Seat 3: fioro (big blind) folded before Flop
+Seat 4: spenguin collected ($1.25)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: vinvinsible (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142706653:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:06:40 ET
+Table 'Rhodia IV' 9-max Seat #1 is the button
+Seat 1: drewbabez ($65.75 in chips) 
+Seat 3: fioro ($53.05 in chips) 
+Seat 4: spenguin ($61.40 in chips) 
+Seat 5: FACUMDP ($51.65 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($48.50 in chips) 
+Seat 9: vinvinsible ($63.75 in chips) 
+fioro: posts small blind $0.25
+spenguin: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 9d]
+FACUMDP: folds 
+Timberinho: folds 
+Alameda22: folds 
+vinvinsible: calls $0.50
+drewbabez: raises $2 to $2.50
+fioro: folds 
+spenguin: folds 
+vinvinsible: calls $2
+*** FLOP *** [3s 3c 4d]
+vinvinsible: checks 
+drewbabez: bets $3
+vinvinsible: folds 
+Uncalled bet ($3) returned to drewbabez
+drewbabez collected $5.50 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.25 
+Board [3s 3c 4d]
+Seat 1: drewbabez (button) collected ($5.50)
+Seat 3: fioro (small blind) folded before Flop
+Seat 4: spenguin (big blind) folded before Flop
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: vinvinsible folded on the Flop
+
+
+
+PokerStars Game #20142738656:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:07:57 ET
+Table 'Rhodia IV' 9-max Seat #3 is the button
+Seat 1: drewbabez ($68.75 in chips) 
+Seat 3: fioro ($52.80 in chips) 
+Seat 4: spenguin ($60.90 in chips) 
+Seat 5: FACUMDP ($51.65 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($48.50 in chips) 
+Seat 9: vinvinsible ($61.25 in chips) 
+spenguin: posts small blind $0.25
+FACUMDP: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Qc]
+Timberinho: folds 
+Alameda22: folds 
+vinvinsible: folds 
+drewbabez: folds 
+fioro: folds 
+spenguin: raises $1.50 to $2
+FACUMDP: folds 
+Uncalled bet ($1.50) returned to spenguin
+spenguin collected $1 from pot
+spenguin: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 3: fioro (button) folded before Flop (didn't bet)
+Seat 4: spenguin (small blind) collected ($1)
+Seat 5: FACUMDP (big blind) folded before Flop
+Seat 6: Timberinho folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: vinvinsible folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142752298:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:08:30 ET
+Table 'Rhodia IV' 9-max Seat #4 is the button
+Seat 1: drewbabez ($68.75 in chips) 
+Seat 3: fioro ($52.80 in chips) 
+Seat 4: spenguin ($61.40 in chips) 
+Seat 5: FACUMDP ($51.15 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($48.50 in chips) 
+Seat 9: vinvinsible ($61.25 in chips) 
+FACUMDP: posts small blind $0.25
+Timberinho: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 9c]
+Alameda22: folds 
+vinvinsible: calls $0.50
+drewbabez: folds 
+fioro: folds 
+spenguin: folds 
+FACUMDP: calls $0.25
+Timberinho: checks 
+*** FLOP *** [5s As 9d]
+FACUMDP: bets $1
+Timberinho: folds 
+vinvinsible: folds 
+Uncalled bet ($1) returned to FACUMDP
+FACUMDP collected $1.45 from pot
+FACUMDP: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [5s As 9d]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin (button) folded before Flop (didn't bet)
+Seat 5: FACUMDP (small blind) collected ($1.45)
+Seat 6: Timberinho (big blind) folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: vinvinsible folded on the Flop
+
+
+
+PokerStars Game #20142777987:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:09:32 ET
+Table 'Rhodia IV' 9-max Seat #5 is the button
+Seat 1: drewbabez ($68.75 in chips) 
+Seat 3: fioro ($52.80 in chips) 
+Seat 4: spenguin ($61.40 in chips) 
+Seat 5: FACUMDP ($52.10 in chips) 
+Seat 6: Timberinho ($49.50 in chips) 
+Seat 7: Alameda22 ($48.50 in chips) 
+Seat 9: vinvinsible ($60.75 in chips) 
+Timberinho: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 3d]
+vinvinsible: calls $0.50
+drewbabez: calls $0.50
+fioro: calls $0.50
+spenguin: folds 
+FACUMDP: folds 
+Timberinho: folds 
+Alameda22: checks 
+*** FLOP *** [Td Kc Ks]
+Alameda22: checks 
+vinvinsible: bets $1
+drewbabez: calls $1
+fioro: folds 
+Alameda22: folds 
+*** TURN *** [Td Kc Ks] [4c]
+vinvinsible: bets $3
+drewbabez: folds 
+Uncalled bet ($3) returned to vinvinsible
+vinvinsible collected $4.05 from pot
+vinvinsible: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [Td Kc Ks 4c]
+Seat 1: drewbabez folded on the Turn
+Seat 3: fioro folded on the Flop
+Seat 4: spenguin folded before Flop (didn't bet)
+Seat 5: FACUMDP (button) folded before Flop (didn't bet)
+Seat 6: Timberinho (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded on the Flop
+Seat 9: vinvinsible collected ($4.05)
+
+
+
+PokerStars Game #20142810409:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:10:49 ET
+Table 'Rhodia IV' 9-max Seat #6 is the button
+Seat 1: drewbabez ($67.25 in chips) 
+Seat 3: fioro ($52.30 in chips) 
+Seat 4: spenguin ($61.40 in chips) 
+Seat 5: FACUMDP ($52.10 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($48 in chips) 
+Seat 9: vinvinsible ($63.30 in chips) 
+Alameda22: posts small blind $0.25
+tonybots has returned
+vinvinsible: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 8c]
+drewbabez: folds 
+fioro: folds 
+spenguin: folds 
+FACUMDP: raises $1.50 to $2
+Timberinho: folds 
+Alameda22: folds 
+vinvinsible: calls $1.50
+*** FLOP *** [6d Js Ts]
+vinvinsible: bets $1
+FACUMDP: raises $2.50 to $3.50
+vinvinsible: folds 
+Uncalled bet ($2.50) returned to FACUMDP
+FACUMDP collected $5.95 from pot
+FACUMDP: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.30 
+Board [6d Js Ts]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin folded before Flop (didn't bet)
+Seat 5: FACUMDP collected ($5.95)
+Seat 6: Timberinho (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 9: vinvinsible (big blind) folded on the Flop
+
+
+
+PokerStars Game #20142831411:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:11:38 ET
+Table 'Rhodia IV' 9-max Seat #7 is the button
+Seat 1: drewbabez ($67.25 in chips) 
+Seat 2: tonybots ($78.80 in chips) 
+Seat 3: fioro ($52.30 in chips) 
+Seat 4: spenguin ($61.40 in chips) 
+Seat 5: FACUMDP ($55.05 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($47.75 in chips) 
+Seat 9: vinvinsible ($60.30 in chips) 
+vinvinsible: posts small blind $0.25
+drewbabez: posts big blind $0.50
+tonybots: posts small & big blinds $0.75
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Jd]
+tonybots: checks 
+fioro: folds 
+spenguin: raises $1.50 to $2
+FACUMDP: folds 
+Timberinho: folds 
+Alameda22: folds 
+vinvinsible: folds 
+drewbabez: folds 
+tonybots: folds 
+Uncalled bet ($1.50) returned to spenguin
+spenguin collected $2 from pot
+vinvinsible leaves the table
+spenguin: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: drewbabez (big blind) folded before Flop
+Seat 2: tonybots folded before Flop
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin collected ($2)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: vinvinsible (small blind) folded before Flop
+
+
+
+PokerStars Game #20142853994:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:12:32 ET
+Table 'Rhodia IV' 9-max Seat #1 is the button
+Seat 1: drewbabez ($66.75 in chips) 
+Seat 2: tonybots ($78.05 in chips) 
+Seat 3: fioro ($52.30 in chips) 
+Seat 4: spenguin ($62.90 in chips) 
+Seat 5: FACUMDP ($55.05 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($47.75 in chips) 
+tonybots: posts small blind $0.25
+fioro: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 4s]
+spenguin: raises $1.50 to $2
+Zeuwan07 joins the table at seat #9 
+FACUMDP: folds 
+Timberinho: folds 
+Alameda22: folds 
+drewbabez: folds 
+tonybots: folds 
+fioro: folds 
+Uncalled bet ($1.50) returned to spenguin
+spenguin collected $1.25 from pot
+spenguin: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: drewbabez (button) folded before Flop (didn't bet)
+Seat 2: tonybots (small blind) folded before Flop
+Seat 3: fioro (big blind) folded before Flop
+Seat 4: spenguin collected ($1.25)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142869121:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:13:09 ET
+Table 'Rhodia IV' 9-max Seat #2 is the button
+Seat 1: drewbabez ($66.75 in chips) 
+Seat 2: tonybots ($77.80 in chips) 
+Seat 3: fioro ($51.80 in chips) 
+Seat 4: spenguin ($63.65 in chips) 
+Seat 5: FACUMDP ($55.05 in chips) 
+Seat 6: Timberinho ($50 in chips) 
+Seat 7: Alameda22 ($47.75 in chips) 
+Seat 9: Zeuwan07 ($50 in chips) 
+fioro: posts small blind $0.25
+spenguin: posts big blind $0.50
+Zeuwan07: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Kd]
+FACUMDP: folds 
+Timberinho: folds 
+FACUMDP leaves the table
+Timberinho leaves the table
+Alameda22: folds 
+Zeuwan07: checks 
+drewbabez: folds 
+tonybots: folds 
+fioro: folds 
+spenguin: raises $1.50 to $2
+Zeuwan07: folds 
+Uncalled bet ($1.50) returned to spenguin
+spenguin collected $1.25 from pot
+spenguin: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots (button) folded before Flop (didn't bet)
+Seat 3: fioro (small blind) folded before Flop
+Seat 4: spenguin (big blind) collected ($1.25)
+Seat 5: FACUMDP folded before Flop (didn't bet)
+Seat 6: Timberinho folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 folded before Flop
+
+
+
+PokerStars Game #20142891591:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:14:03 ET
+Table 'Rhodia IV' 9-max Seat #3 is the button
+Seat 1: drewbabez ($66.75 in chips) 
+Seat 2: tonybots ($77.80 in chips) 
+Seat 3: fioro ($51.55 in chips) 
+Seat 4: spenguin ($64.40 in chips) 
+Seat 7: Alameda22 ($47.75 in chips) 
+Seat 9: Zeuwan07 ($49.50 in chips) 
+spenguin: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h As]
+Zeuwan07: folds 
+drewbabez: folds 
+tonybots: raises $1.50 to $2
+fioro: folds 
+spenguin: folds 
+Alameda22: folds 
+Uncalled bet ($1.50) returned to tonybots
+tonybots collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots collected ($1.25)
+Seat 3: fioro (button) folded before Flop (didn't bet)
+Seat 4: spenguin (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142904754:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:14:35 ET
+Table 'Rhodia IV' 9-max Seat #4 is the button
+Seat 1: drewbabez ($66.75 in chips) 
+Seat 2: tonybots ($78.55 in chips) 
+Seat 3: fioro ($51.55 in chips) 
+Seat 4: spenguin ($64.15 in chips) 
+Seat 7: Alameda22 ($47.25 in chips) 
+Seat 9: Zeuwan07 ($49.50 in chips) 
+Alameda22: posts small blind $0.25
+Zeuwan07: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 9h]
+drewbabez: folds 
+tonybots: folds 
+fioro: folds 
+spenguin: folds 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to Zeuwan07
+Zeuwan07 collected $0.50 from pot
+Zeuwan07: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 9: Zeuwan07 (big blind) collected ($0.50)
+
+
+
+PokerStars Game #20142913676:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:14:57 ET
+Table 'Rhodia IV' 9-max Seat #7 is the button
+Seat 1: drewbabez ($66.75 in chips) 
+Seat 2: tonybots ($78.55 in chips) 
+Seat 3: fioro ($51.55 in chips) 
+Seat 4: spenguin ($64.15 in chips) 
+Seat 7: Alameda22 ($47 in chips) 
+Seat 9: Zeuwan07 ($49.75 in chips) 
+Zeuwan07: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 9s]
+Karten Jo joins the table at seat #6 
+tonybots: folds 
+fioro: raises $1.50 to $2
+spenguin: calls $2
+Alameda22: folds 
+Zeuwan07: folds 
+drewbabez: folds 
+*** FLOP *** [9c Kc 8s]
+fioro: bets $3.50
+spenguin: raises $3.50 to $7
+fioro: folds 
+Uncalled bet ($3.50) returned to spenguin
+spenguin collected $11.20 from pot
+spenguin: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.75 | Rake $0.55 
+Board [9c Kc 8s]
+Seat 1: drewbabez (big blind) folded before Flop
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro folded on the Flop
+Seat 4: spenguin collected ($11.20)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: Zeuwan07 (small blind) folded before Flop
+
+
+
+PokerStars Game #20142934020:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:15:45 ET
+Table 'Rhodia IV' 9-max Seat #9 is the button
+Seat 1: drewbabez ($66.25 in chips) 
+Seat 2: tonybots ($78.55 in chips) 
+Seat 3: fioro ($46.05 in chips) 
+Seat 4: spenguin ($69.85 in chips) 
+Seat 7: Alameda22 ($47 in chips) 
+Seat 9: Zeuwan07 ($49.50 in chips) 
+drewbabez: posts small blind $0.25
+tonybots: posts big blind $0.50
+Karten Jo: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 3d]
+fioro: folds 
+spenguin: folds 
+Alameda22: folds 
+Zeuwan07: raises $1 to $1.50
+drewbabez: folds 
+tonybots: calls $1
+*** FLOP *** [7s 8d 8s]
+tonybots: checks 
+Zeuwan07: checks 
+*** TURN *** [7s 8d 8s] [9s]
+tonybots: bets $2
+Zeuwan07: folds 
+Uncalled bet ($2) returned to tonybots
+tonybots collected $3.10 from pot
+tonybots: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [7s 8d 8s 9s]
+Seat 1: drewbabez (small blind) folded before Flop
+Seat 2: tonybots (big blind) collected ($3.10)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: spenguin folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 (button) folded on the Turn
+
+
+
+PokerStars Game #20142953965:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:16:32 ET
+Table 'Rhodia IV' 9-max Seat #1 is the button
+Seat 1: drewbabez ($66 in chips) 
+Seat 2: tonybots ($80.15 in chips) 
+Seat 3: fioro ($46.05 in chips) 
+Seat 4: spenguin ($69.85 in chips) 
+Seat 7: Alameda22 ($47 in chips) 
+Seat 9: Zeuwan07 ($48 in chips) 
+tonybots: posts small blind $0.25
+fioro: posts big blind $0.50
+Karten Jo: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Ac]
+spenguin: raises $2.50 to $3
+Alameda22: folds 
+Zeuwan07: folds 
+drewbabez: folds 
+tonybots: folds 
+fioro: calls $2.50
+*** FLOP *** [Jd 9d 5s]
+fioro: checks 
+spenguin: bets $3
+fioro: calls $3
+*** TURN *** [Jd 9d 5s] [8h]
+fioro: checks 
+spenguin: bets $3
+fioro: calls $3
+*** RIVER *** [Jd 9d 5s 8h] [3d]
+fioro: checks 
+spenguin: checks 
+*** SHOW DOWN ***
+fioro: shows [Ks Ad] (high card Ace)
+spenguin: shows [3c 3s] (three of a kind, Threes)
+spenguin collected $17.40 from pot
+*** SUMMARY ***
+Total pot $18.25 | Rake $0.85 
+Board [Jd 9d 5s 8h 3d]
+Seat 1: drewbabez (button) folded before Flop (didn't bet)
+Seat 2: tonybots (small blind) folded before Flop
+Seat 3: fioro (big blind) showed [Ks Ad] and lost with high card Ace
+Seat 4: spenguin showed [3c 3s] and won ($17.40) with three of a kind, Threes
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142976027:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:17:26 ET
+Table 'Rhodia IV' 9-max Seat #2 is the button
+Seat 1: drewbabez ($66 in chips) 
+Seat 2: tonybots ($79.90 in chips) 
+Seat 3: fioro ($37.05 in chips) 
+Seat 6: Karten Jo ($30 in chips) 
+Seat 7: Alameda22 ($47 in chips) 
+Seat 9: Zeuwan07 ($48 in chips) 
+fioro: posts small blind $0.25
+spenguin: is sitting out 
+Karten Jo: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 5s]
+spenguin leaves the table
+Alameda22: folds 
+Zeuwan07: folds 
+drewbabez: folds 
+tonybots: raises $1.50 to $2
+fioro: folds 
+Karten Jo: folds 
+Uncalled bet ($1.50) returned to tonybots
+tonybots collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots (button) collected ($1.25)
+Seat 3: fioro (small blind) folded before Flop
+Seat 6: Karten Jo (big blind) folded before Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142988441:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:17:56 ET
+Table 'Rhodia IV' 9-max Seat #3 is the button
+Seat 1: drewbabez ($66 in chips) 
+Seat 2: tonybots ($80.65 in chips) 
+Seat 3: fioro ($50 in chips) 
+Seat 6: Karten Jo ($29.50 in chips) 
+Seat 7: Alameda22 ($47 in chips) 
+Seat 9: Zeuwan07 ($48 in chips) 
+Karten Jo: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Jh]
+Zeuwan07: folds 
+drewbabez: folds 
+tonybots: folds 
+fioro: folds 
+Karten Jo: folds 
+Uncalled bet ($0.25) returned to Alameda22
+Alameda22 collected $0.50 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro (button) folded before Flop (didn't bet)
+Seat 6: Karten Jo (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) collected ($0.50)
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143000488:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:18:25 ET
+Table 'Rhodia IV' 9-max Seat #6 is the button
+Seat 1: drewbabez ($66 in chips) 
+Seat 2: tonybots ($80.65 in chips) 
+Seat 3: fioro ($50 in chips) 
+Seat 6: Karten Jo ($29.25 in chips) 
+Seat 7: Alameda22 ($47.25 in chips) 
+Seat 9: Zeuwan07 ($48 in chips) 
+Alameda22: posts small blind $0.25
+Zeuwan07: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Tc]
+drewbabez: folds 
+tonybots: folds 
+fioro: folds 
+Karten Jo: folds 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to Zeuwan07
+Zeuwan07 collected $0.50 from pot
+Zeuwan07: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 6: Karten Jo (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 9: Zeuwan07 (big blind) collected ($0.50)
+
+
+
+PokerStars Game #20143007488:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:18:42 ET
+Table 'Rhodia IV' 9-max Seat #7 is the button
+Seat 1: drewbabez ($66 in chips) 
+Seat 2: tonybots ($80.65 in chips) 
+Seat 3: fioro ($50 in chips) 
+Seat 6: Karten Jo ($29.25 in chips) 
+Seat 7: Alameda22 ($47 in chips) 
+Seat 9: Zeuwan07 ($48.25 in chips) 
+Zeuwan07: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 5d]
+tonybots: folds 
+fioro: folds 
+Karten Jo: calls $0.50
+Alameda22: folds 
+Zeuwan07: calls $0.25
+drewbabez: checks 
+*** FLOP *** [5c 9s 6h]
+Zeuwan07: checks 
+drewbabez: checks 
+Karten Jo: checks 
+*** TURN *** [5c 9s 6h] [8d]
+Zeuwan07: checks 
+drewbabez: checks 
+Karten Jo: checks 
+*** RIVER *** [5c 9s 6h 8d] [Qc]
+Zeuwan07: checks 
+drewbabez: checks 
+Karten Jo: checks 
+*** SHOW DOWN ***
+Zeuwan07: shows [Th 2h] (high card Queen)
+drewbabez: shows [3h Ah] (high card Ace)
+Karten Jo: mucks hand 
+drewbabez collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [5c 9s 6h 8d Qc]
+Seat 1: drewbabez (big blind) showed [3h Ah] and won ($1.45) with high card Ace
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 6: Karten Jo mucked [Td Kh]
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: Zeuwan07 (small blind) showed [Th 2h] and lost with high card Queen
+
+
+
+PokerStars Game #20143039836:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:20:00 ET
+Table 'Rhodia IV' 9-max Seat #9 is the button
+Seat 1: drewbabez ($66.95 in chips) 
+Seat 2: tonybots ($80.65 in chips) 
+Seat 3: fioro ($50 in chips) 
+Seat 6: Karten Jo ($28.75 in chips) 
+Seat 7: Alameda22 ($47 in chips) 
+Seat 9: Zeuwan07 ($47.75 in chips) 
+drewbabez: posts small blind $0.25
+tonybots: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 2c]
+fioro: folds 
+Karten Jo: folds 
+Alameda22: folds 
+Zeuwan07: raises $0.50 to $1
+OuweDibbes leaves the table
+drewbabez: folds 
+tonybots: raises $2.50 to $3.50
+Zeuwan07: folds 
+Uncalled bet ($2.50) returned to tonybots
+tonybots collected $2.25 from pot
+tonybots: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0 
+Seat 1: drewbabez (small blind) folded before Flop
+Seat 2: tonybots (big blind) collected ($2.25)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 6: Karten Jo folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 (button) folded before Flop
+
+
+
+PokerStars Game #20143056904:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:20:41 ET
+Table 'Rhodia IV' 9-max Seat #1 is the button
+Seat 1: drewbabez ($66.70 in chips) 
+Seat 2: tonybots ($81.90 in chips) 
+Seat 3: fioro ($50 in chips) 
+Seat 6: Karten Jo ($28.75 in chips) 
+Seat 7: Alameda22 ($47 in chips) 
+Seat 9: Zeuwan07 ($46.75 in chips) 
+tonybots: posts small blind $0.25
+fioro: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Kc]
+Karten Jo: folds 
+Alameda22: folds 
+Zeuwan07: folds 
+drewbabez: raises $1.50 to $2
+tonybots: folds 
+fioro: folds 
+Uncalled bet ($1.50) returned to drewbabez
+drewbabez collected $1.25 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: drewbabez (button) collected ($1.25)
+Seat 2: tonybots (small blind) folded before Flop
+Seat 3: fioro (big blind) folded before Flop
+Seat 6: Karten Jo folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143067583:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:21:06 ET
+Table 'Rhodia IV' 9-max Seat #2 is the button
+Seat 1: drewbabez ($67.45 in chips) 
+Seat 2: tonybots ($81.65 in chips) 
+Seat 3: fioro ($49.50 in chips) 
+Seat 6: Karten Jo ($28.75 in chips) 
+Seat 7: Alameda22 ($47 in chips) 
+Seat 9: Zeuwan07 ($46.75 in chips) 
+fioro: posts small blind $0.25
+Karten Jo: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Kc]
+Alameda22: raises $1.50 to $2
+Zeuwan07: folds 
+drewbabez: folds 
+Godzilla43 joins the table at seat #8 
+tonybots: folds 
+fioro: folds 
+Karten Jo: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $1.25 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots (button) folded before Flop (didn't bet)
+Seat 3: fioro (small blind) folded before Flop
+Seat 6: Karten Jo (big blind) folded before Flop
+Seat 7: Alameda22 collected ($1.25)
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143077274:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:21:29 ET
+Table 'Rhodia IV' 9-max Seat #3 is the button
+Seat 1: drewbabez ($67.45 in chips) 
+Seat 2: tonybots ($81.65 in chips) 
+Seat 3: fioro ($49.25 in chips) 
+Seat 6: Karten Jo ($28.25 in chips) 
+Seat 7: Alameda22 ($47.75 in chips) 
+Seat 8: Godzilla43 ($50 in chips) 
+Seat 9: Zeuwan07 ($46.75 in chips) 
+Karten Jo: posts small blind $0.25
+Alameda22: posts big blind $0.50
+Godzilla43: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Qd]
+Godzilla43: checks 
+Zeuwan07: raises $1.50 to $2
+drewbabez: folds 
+tonybots: folds 
+fioro: folds 
+Karten Jo: calls $1.75
+Alameda22: folds 
+Godzilla43: calls $1.50
+*** FLOP *** [Jd 9s 9d]
+Karten Jo: checks 
+Godzilla43: checks 
+Zeuwan07: bets $4
+Karten Jo: folds 
+Godzilla43: folds 
+Uncalled bet ($4) returned to Zeuwan07
+Zeuwan07 collected $6.20 from pot
+Zeuwan07: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.30 
+Board [Jd 9s 9d]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro (button) folded before Flop (didn't bet)
+Seat 6: Karten Jo (small blind) folded on the Flop
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 8: Godzilla43 folded on the Flop
+Seat 9: Zeuwan07 collected ($6.20)
+
+
+
+PokerStars Game #20143108808:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:22:44 ET
+Table 'Rhodia IV' 9-max Seat #6 is the button
+Seat 1: drewbabez ($67.45 in chips) 
+Seat 2: tonybots ($81.65 in chips) 
+Seat 3: fioro ($49.25 in chips) 
+Seat 6: Karten Jo ($26.25 in chips) 
+Seat 7: Alameda22 ($47.25 in chips) 
+Seat 8: Godzilla43 ($48 in chips) 
+Seat 9: Zeuwan07 ($50.95 in chips) 
+Alameda22: posts small blind $0.25
+Godzilla43: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 6c]
+Zeuwan07: folds 
+drewbabez: folds 
+tonybots: folds 
+fioro: folds 
+Karten Jo: calls $0.50
+Alameda22: folds 
+Godzilla43: checks 
+*** FLOP *** [3s 5d 6s]
+Godzilla43: bets $0.50
+Karten Jo: raises $0.50 to $1
+Godzilla43: calls $0.50
+*** TURN *** [3s 5d 6s] [Kh]
+Godzilla43: checks 
+Karten Jo: checks 
+*** RIVER *** [3s 5d 6s Kh] [4c]
+Godzilla43: checks 
+Karten Jo: bets $2.50
+Godzilla43: folds 
+Uncalled bet ($2.50) returned to Karten Jo
+Karten Jo collected $3.10 from pot
+Karten Jo: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [3s 5d 6s Kh 4c]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 6: Karten Jo (button) collected ($3.10)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: Godzilla43 (big blind) folded on the River
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143144091:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:24:08 ET
+Table 'Rhodia IV' 9-max Seat #7 is the button
+Seat 1: drewbabez ($67.45 in chips) 
+Seat 2: tonybots ($81.65 in chips) 
+Seat 3: fioro ($49.25 in chips) 
+Seat 6: Karten Jo ($27.85 in chips) 
+Seat 7: Alameda22 ($47 in chips) 
+Seat 8: Godzilla43 ($46.50 in chips) 
+Seat 9: Zeuwan07 ($50.95 in chips) 
+Godzilla43: posts small blind $0.25
+Zeuwan07: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Ac]
+drewbabez: folds 
+tonybots: folds 
+fioro: folds 
+Karten Jo: folds 
+Alameda22: folds 
+Godzilla43: folds 
+Uncalled bet ($0.25) returned to Zeuwan07
+Zeuwan07 collected $0.50 from pot
+Zeuwan07: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 6: Karten Jo folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: Godzilla43 (small blind) folded before Flop
+Seat 9: Zeuwan07 (big blind) collected ($0.50)
+
+
+
+PokerStars Game #20143154863:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:24:34 ET
+Table 'Rhodia IV' 9-max Seat #8 is the button
+Seat 1: drewbabez ($67.45 in chips) 
+Seat 2: tonybots ($81.65 in chips) 
+Seat 3: fioro ($49.25 in chips) 
+Seat 6: Karten Jo ($27.85 in chips) 
+Seat 7: Alameda22 ($47 in chips) 
+Seat 8: Godzilla43 ($46.25 in chips) 
+Seat 9: Zeuwan07 ($51.20 in chips) 
+Zeuwan07: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Jh]
+tonybots: folds 
+fioro: folds 
+Karten Jo: folds 
+Alameda22: folds 
+Godzilla43: calls $0.50
+badbalkanboy joins the table at seat #5 
+Zeuwan07: calls $0.25
+drewbabez: checks 
+*** FLOP *** [Ad 2h 8c]
+Zeuwan07: checks 
+drewbabez: checks 
+Godzilla43: bets $1
+Zeuwan07: folds 
+drewbabez: folds 
+Uncalled bet ($1) returned to Godzilla43
+Godzilla43 collected $1.45 from pot
+Godzilla43: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Ad 2h 8c]
+Seat 1: drewbabez (big blind) folded on the Flop
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 6: Karten Jo folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 (button) collected ($1.45)
+Seat 9: Zeuwan07 (small blind) folded on the Flop
+
+
+
+PokerStars Game #20143175213:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:25:23 ET
+Table 'Rhodia IV' 9-max Seat #9 is the button
+Seat 1: drewbabez ($66.95 in chips) 
+Seat 2: tonybots ($81.65 in chips) 
+Seat 3: fioro ($49.25 in chips) 
+Seat 5: badbalkanboy ($25 in chips) 
+Seat 6: Karten Jo ($27.85 in chips) 
+Seat 7: Alameda22 ($47 in chips) 
+Seat 8: Godzilla43 ($47.20 in chips) 
+Seat 9: Zeuwan07 ($50.70 in chips) 
+drewbabez: posts small blind $0.25
+tonybots: posts big blind $0.50
+badbalkanboy: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 6d]
+fioro: raises $2.50 to $3
+badbalkanboy: folds 
+Karten Jo: folds 
+Alameda22: folds 
+Godzilla43: folds 
+Zeuwan07: folds 
+drewbabez: calls $2.75
+tonybots: folds 
+*** FLOP *** [Tc Qc Ac]
+drewbabez: checks 
+fioro: checks 
+*** TURN *** [Tc Qc Ac] [9h]
+drewbabez: checks 
+fioro: checks 
+*** RIVER *** [Tc Qc Ac 9h] [Kc]
+drewbabez: checks 
+fioro: checks 
+*** SHOW DOWN ***
+drewbabez: shows [Ad 4h] (a pair of Aces)
+fioro: mucks hand 
+drewbabez collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Tc Qc Ac 9h Kc]
+Seat 1: drewbabez (small blind) showed [Ad 4h] and won ($6.65) with a pair of Aces
+Seat 2: tonybots (big blind) folded before Flop
+Seat 3: fioro mucked [8s 8h]
+Seat 5: badbalkanboy folded before Flop
+Seat 6: Karten Jo folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143199005:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:26:20 ET
+Table 'Rhodia IV' 9-max Seat #1 is the button
+Seat 1: drewbabez ($70.60 in chips) 
+Seat 2: tonybots ($81.15 in chips) 
+Seat 3: fioro ($46.25 in chips) 
+Seat 5: badbalkanboy ($24.50 in chips) 
+Seat 6: Karten Jo ($27.85 in chips) 
+Seat 7: Alameda22 ($47 in chips) 
+Seat 8: Godzilla43 ($47.20 in chips) 
+Seat 9: Zeuwan07 ($50.70 in chips) 
+tonybots: posts small blind $0.25
+fioro: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 6d]
+badbalkanboy: folds 
+Karten Jo: folds 
+Alameda22: folds 
+Godzilla43: folds 
+Zeuwan07: folds 
+drewbabez: folds 
+tonybots: raises $1.50 to $2
+fioro: folds 
+Uncalled bet ($1.50) returned to tonybots
+tonybots collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: drewbabez (button) folded before Flop (didn't bet)
+Seat 2: tonybots (small blind) collected ($1)
+Seat 3: fioro (big blind) folded before Flop
+Seat 5: badbalkanboy folded before Flop (didn't bet)
+Seat 6: Karten Jo folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143210202:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:26:47 ET
+Table 'Rhodia IV' 9-max Seat #2 is the button
+Seat 1: drewbabez ($70.60 in chips) 
+Seat 2: tonybots ($81.65 in chips) 
+Seat 3: fioro ($45.75 in chips) 
+Seat 5: badbalkanboy ($24.50 in chips) 
+Seat 6: Karten Jo ($27.85 in chips) 
+Seat 7: Alameda22 ($47 in chips) 
+Seat 8: Godzilla43 ($47.20 in chips) 
+Seat 9: Zeuwan07 ($50.70 in chips) 
+fioro: posts small blind $0.25
+badbalkanboy: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 6s]
+Karten Jo: folds 
+Alameda22: folds 
+twente01 joins the table at seat #4 
+Godzilla43: folds 
+Zeuwan07: folds 
+drewbabez: folds 
+tonybots: raises $1.50 to $2
+fioro: folds 
+badbalkanboy: calls $1.50
+*** FLOP *** [Js 2h 4c]
+badbalkanboy: checks 
+tonybots: checks 
+*** TURN *** [Js 2h 4c] [Ac]
+badbalkanboy: bets $1
+tonybots: calls $1
+*** RIVER *** [Js 2h 4c Ac] [Ts]
+badbalkanboy: bets $1.50
+tonybots: folds 
+Uncalled bet ($1.50) returned to badbalkanboy
+badbalkanboy collected $5.95 from pot
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.30 
+Board [Js 2h 4c Ac Ts]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots (button) folded on the River
+Seat 3: fioro (small blind) folded before Flop
+Seat 5: badbalkanboy (big blind) collected ($5.95)
+Seat 6: Karten Jo folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143251777:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:28:28 ET
+Table 'Rhodia IV' 9-max Seat #3 is the button
+Seat 1: drewbabez ($70.60 in chips) 
+Seat 2: tonybots ($78.65 in chips) 
+Seat 3: fioro ($45.50 in chips) 
+Seat 5: badbalkanboy ($27.45 in chips) 
+Seat 6: Karten Jo ($27.85 in chips) 
+Seat 7: Alameda22 ($47 in chips) 
+Seat 8: Godzilla43 ($47.20 in chips) 
+Seat 9: Zeuwan07 ($50.70 in chips) 
+twente01 will be allowed to play after the button
+badbalkanboy: posts small blind $0.25
+Karten Jo: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 4s]
+Alameda22: folds 
+Godzilla43: folds 
+Zeuwan07: folds 
+drewbabez: folds 
+tonybots: folds 
+fioro: folds 
+badbalkanboy: calls $0.25
+Karten Jo: checks 
+*** FLOP *** [2h Ah Js]
+badbalkanboy: checks 
+Karten Jo: checks 
+*** TURN *** [2h Ah Js] [9c]
+badbalkanboy: checks 
+Karten Jo: checks 
+*** RIVER *** [2h Ah Js 9c] [7h]
+badbalkanboy: checks 
+Karten Jo: bets $1
+badbalkanboy: folds 
+Uncalled bet ($1) returned to Karten Jo
+Karten Jo collected $0.95 from pot
+Karten Jo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [2h Ah Js 9c 7h]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro (button) folded before Flop (didn't bet)
+Seat 5: badbalkanboy (small blind) folded on the River
+Seat 6: Karten Jo (big blind) collected ($0.95)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143286342:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:29:52 ET
+Table 'Rhodia IV' 9-max Seat #5 is the button
+Seat 1: drewbabez ($70.60 in chips) 
+Seat 2: tonybots ($78.65 in chips) 
+Seat 3: fioro ($45.50 in chips) 
+Seat 4: twente01 ($25 in chips) 
+Seat 5: badbalkanboy ($26.95 in chips) 
+Seat 6: Karten Jo ($28.30 in chips) 
+Seat 7: Alameda22 ($47 in chips) 
+Seat 8: Godzilla43 ($47.20 in chips) 
+Seat 9: Zeuwan07 ($50.70 in chips) 
+Karten Jo: posts small blind $0.25
+Alameda22: posts big blind $0.50
+twente01: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 8d]
+Godzilla43: folds 
+Zeuwan07: folds 
+drewbabez: folds 
+tonybots: raises $2 to $2.50
+fioro: folds 
+twente01: folds 
+badbalkanboy: folds 
+Karten Jo: folds 
+Alameda22: folds 
+Uncalled bet ($2) returned to tonybots
+tonybots collected $1.75 from pot
+tonybots: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots collected ($1.75)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: twente01 folded before Flop
+Seat 5: badbalkanboy (button) folded before Flop (didn't bet)
+Seat 6: Karten Jo (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 8: Godzilla43 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143308178:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:30:45 ET
+Table 'Rhodia IV' 9-max Seat #6 is the button
+Seat 1: drewbabez ($70.60 in chips) 
+Seat 2: tonybots ($79.90 in chips) 
+Seat 3: fioro ($45.50 in chips) 
+Seat 4: twente01 ($24.50 in chips) 
+Seat 5: badbalkanboy ($26.95 in chips) 
+Seat 6: Karten Jo ($28.05 in chips) 
+Seat 7: Alameda22 ($46.50 in chips) 
+Seat 8: Godzilla43 ($47.20 in chips) 
+Seat 9: Zeuwan07 ($50.70 in chips) 
+Alameda22: posts small blind $0.25
+Godzilla43: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 2c]
+Zeuwan07: folds 
+drewbabez: folds 
+tonybots: folds 
+tonybots leaves the table
+fioro: folds 
+twente01: folds 
+badbalkanboy: folds 
+Karten Jo: calls $0.50
+Alameda22: folds 
+Godzilla43: checks 
+*** FLOP *** [3c 3h Qd]
+Godzilla43: checks 
+Karten Jo: checks 
+*** TURN *** [3c 3h Qd] [3d]
+Godzilla43: checks 
+Karten Jo: checks 
+*** RIVER *** [3c 3h Qd 3d] [6c]
+Godzilla43: checks 
+Karten Jo: bets $0.50
+Krystyna51 joins the table at seat #2 
+Krystyna51 is sitting out
+Godzilla43: calls $0.50
+*** SHOW DOWN ***
+Karten Jo: shows [7c Ac] (three of a kind, Threes)
+Godzilla43: mucks hand 
+Karten Jo collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [3c 3h Qd 3d 6c]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: tonybots folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: twente01 folded before Flop (didn't bet)
+Seat 5: badbalkanboy folded before Flop (didn't bet)
+Seat 6: Karten Jo (button) showed [7c Ac] and won ($2.15) with three of a kind, Threes
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: Godzilla43 (big blind) mucked [8h Kd]
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143334049:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:31:51 ET
+Table 'Rhodia IV' 9-max Seat #7 is the button
+Seat 1: drewbabez ($70.60 in chips) 
+Seat 3: fioro ($45.50 in chips) 
+Seat 4: twente01 ($24.50 in chips) 
+Seat 5: badbalkanboy ($26.95 in chips) 
+Seat 6: Karten Jo ($29.20 in chips) 
+Seat 7: Alameda22 ($46.25 in chips) 
+Seat 8: Godzilla43 ($46.20 in chips) 
+Seat 9: Zeuwan07 ($50.70 in chips) 
+Godzilla43: posts small blind $0.25
+Zeuwan07: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 8d]
+drewbabez: folds 
+fioro: folds 
+twente01: calls $0.50
+badbalkanboy: folds 
+Karten Jo: calls $0.50
+Alameda22: folds 
+Godzilla43: calls $0.25
+Zeuwan07: checks 
+*** FLOP *** [Ks Tc Qh]
+Godzilla43: checks 
+Zeuwan07: checks 
+twente01: bets $2
+Karten Jo: folds 
+Godzilla43: folds 
+Zeuwan07: folds 
+Uncalled bet ($2) returned to twente01
+twente01 collected $1.90 from pot
+twente01: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Ks Tc Qh]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: twente01 collected ($1.90)
+Seat 5: badbalkanboy folded before Flop (didn't bet)
+Seat 6: Karten Jo folded on the Flop
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: Godzilla43 (small blind) folded on the Flop
+Seat 9: Zeuwan07 (big blind) folded on the Flop
+
+
+
+PokerStars Game #20143364843:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:33:09 ET
+Table 'Rhodia IV' 9-max Seat #8 is the button
+Seat 1: drewbabez ($70.60 in chips) 
+Seat 3: fioro ($45.50 in chips) 
+Seat 4: twente01 ($25.90 in chips) 
+Seat 5: badbalkanboy ($26.95 in chips) 
+Seat 6: Karten Jo ($28.70 in chips) 
+Seat 7: Alameda22 ($46.25 in chips) 
+Seat 8: Godzilla43 ($45.70 in chips) 
+Seat 9: Zeuwan07 ($50.20 in chips) 
+Zeuwan07: posts small blind $0.25
+drewbabez: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 5c]
+fioro: folds 
+twente01: folds 
+badbalkanboy: calls $0.50
+Karten Jo: folds 
+Alameda22: folds 
+Godzilla43: folds 
+Zeuwan07: folds 
+drewbabez: checks 
+*** FLOP *** [Jh Ah Qc]
+drewbabez: checks 
+badbalkanboy: checks 
+*** TURN *** [Jh Ah Qc] [Kh]
+drewbabez: checks 
+badbalkanboy: checks 
+*** RIVER *** [Jh Ah Qc Kh] [8h]
+drewbabez: checks 
+badbalkanboy: bets $1
+drewbabez: folds 
+Uncalled bet ($1) returned to badbalkanboy
+badbalkanboy collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Jh Ah Qc Kh 8h]
+Seat 1: drewbabez (big blind) folded on the River
+Seat 3: fioro folded before Flop (didn't bet)
+Seat 4: twente01 folded before Flop (didn't bet)
+Seat 5: badbalkanboy collected ($1.20)
+Seat 6: Karten Jo folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 (button) folded before Flop (didn't bet)
+Seat 9: Zeuwan07 (small blind) folded before Flop
+
+
+
+PokerStars Game #20143392952:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:34:21 ET
+Table 'Rhodia IV' 9-max Seat #9 is the button
+Seat 1: drewbabez ($70.10 in chips) 
+Seat 3: fioro ($45.50 in chips) 
+Seat 4: twente01 ($25.90 in chips) 
+Seat 5: badbalkanboy ($27.65 in chips) 
+Seat 6: Karten Jo ($28.70 in chips) 
+Seat 7: Alameda22 ($46.25 in chips) 
+Seat 8: Godzilla43 ($45.70 in chips) 
+Seat 9: Zeuwan07 ($49.95 in chips) 
+drewbabez: posts small blind $0.25
+fioro: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Kh]
+twente01: folds 
+badbalkanboy: calls $0.50
+Karten Jo: folds 
+Alameda22: folds 
+Godzilla43: folds 
+Zeuwan07: calls $0.50
+drewbabez: calls $0.25
+fioro: raises $3.50 to $4
+badbalkanboy: raises $11 to $15
+Zeuwan07: folds 
+drewbabez: folds 
+fioro: raises $11 to $26
+badbalkanboy: raises $1.65 to $27.65 and is all-in
+fioro: calls $1.65
+*** FLOP *** [3h Tc 4c]
+*** TURN *** [3h Tc 4c] [7s]
+*** RIVER *** [3h Tc 4c 7s] [9s]
+*** SHOW DOWN ***
+fioro: shows [As Kc] (high card Ace)
+badbalkanboy: shows [Ad Ah] (a pair of Aces)
+badbalkanboy collected $53.50 from pot
+*** SUMMARY ***
+Total pot $56.30 | Rake $2.80 
+Board [3h Tc 4c 7s 9s]
+Seat 1: drewbabez (small blind) folded before Flop
+Seat 3: fioro (big blind) showed [As Kc] and lost with high card Ace
+Seat 4: twente01 folded before Flop (didn't bet)
+Seat 5: badbalkanboy showed [Ad Ah] and won ($53.50) with a pair of Aces
+Seat 6: Karten Jo folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 (button) folded before Flop
+
+
+
+PokerStars Game #20143433479:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:36:05 ET
+Table 'Rhodia IV' 9-max Seat #1 is the button
+Seat 1: drewbabez ($69.60 in chips) 
+Seat 3: fioro ($50 in chips) 
+Seat 4: twente01 ($25.90 in chips) 
+Seat 5: badbalkanboy ($53.50 in chips) 
+Seat 6: Karten Jo ($28.70 in chips) 
+Seat 7: Alameda22 ($46.25 in chips) 
+Seat 8: Godzilla43 ($45.70 in chips) 
+Seat 9: Zeuwan07 ($49.45 in chips) 
+fioro: posts small blind $0.25
+twente01: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 4s]
+badbalkanboy: calls $0.50
+Karten Jo: folds 
+Alameda22: folds 
+Godzilla43: folds 
+Zeuwan07: folds 
+drewbabez: folds 
+fioro: folds 
+twente01: checks 
+*** FLOP *** [Kh 8d 9h]
+fioro leaves the table
+twente01: checks 
+badbalkanboy: checks 
+*** TURN *** [Kh 8d 9h] [Qc]
+InsaneCroat joins the table at seat #3 
+twente01: bets $1.50
+Krystyna51 has returned
+badbalkanboy: folds 
+Uncalled bet ($1.50) returned to twente01
+twente01 collected $1.20 from pot
+twente01: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Kh 8d 9h Qc]
+Seat 1: drewbabez (button) folded before Flop (didn't bet)
+Seat 3: fioro (small blind) folded before Flop
+Seat 4: twente01 (big blind) collected ($1.20)
+Seat 5: badbalkanboy folded on the Turn
+Seat 6: Karten Jo folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143466510:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:37:30 ET
+Table 'Rhodia IV' 9-max Seat #4 is the button
+Seat 1: drewbabez ($69.60 in chips) 
+Seat 3: InsaneCroat ($42.35 in chips) 
+Seat 4: twente01 ($26.60 in chips) 
+Seat 5: badbalkanboy ($53 in chips) 
+Seat 7: Alameda22 ($46.25 in chips) 
+Seat 8: Godzilla43 ($45.70 in chips) 
+Seat 9: Zeuwan07 ($49.45 in chips) 
+badbalkanboy: posts small blind $0.25
+Karten Jo: is sitting out 
+Alameda22: posts big blind $0.50
+Krystyna51: sits out 
+InsaneCroat: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 6c]
+Godzilla43: folds 
+Zeuwan07: folds 
+drewbabez: folds 
+InsaneCroat: checks 
+twente01: folds 
+badbalkanboy: calls $0.25
+Alameda22: checks 
+*** FLOP *** [4s As 9h]
+badbalkanboy: checks 
+Karten Jo leaves the table
+Alameda22: checks 
+InsaneCroat: bets $0.50
+badbalkanboy: folds 
+sacred7 joins the table at seat #6 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to InsaneCroat
+InsaneCroat collected $1.45 from pot
+InsaneCroat: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [4s As 9h]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 3: InsaneCroat collected ($1.45)
+Seat 4: twente01 (button) folded before Flop (didn't bet)
+Seat 5: badbalkanboy (small blind) folded on the Flop
+Seat 7: Alameda22 (big blind) folded on the Flop
+Seat 8: Godzilla43 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143492211:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:38:34 ET
+Table 'Rhodia IV' 9-max Seat #5 is the button
+Seat 1: drewbabez ($69.60 in chips) 
+Seat 3: InsaneCroat ($43.30 in chips) 
+Seat 4: twente01 ($26.60 in chips) 
+Seat 5: badbalkanboy ($52.50 in chips) 
+Seat 7: Alameda22 ($45.75 in chips) 
+Seat 8: Godzilla43 ($45.70 in chips) 
+Seat 9: Zeuwan07 ($49.45 in chips) 
+sacred7 will be allowed to play after the button
+Alameda22: posts small blind $0.25
+Godzilla43: posts big blind $0.50
+Krystyna51: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 2d]
+Zeuwan07: folds 
+drewbabez: folds 
+InsaneCroat: raises $0.50 to $1
+twente01 is disconnected 
+twente01 is connected 
+InsaneCroat said, "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"
+twente01: folds 
+badbalkanboy: calls $1
+Alameda22: folds 
+Godzilla43: calls $0.50
+*** FLOP *** [Qd 3c 7d]
+Godzilla43: checks 
+InsaneCroat: checks 
+badbalkanboy: bets $1.50
+Godzilla43: folds 
+InsaneCroat: folds 
+Uncalled bet ($1.50) returned to badbalkanboy
+badbalkanboy collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Qd 3c 7d]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 3: InsaneCroat folded on the Flop
+Seat 4: twente01 folded before Flop (didn't bet)
+Seat 5: badbalkanboy (button) collected ($3.10)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: Godzilla43 (big blind) folded on the Flop
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143521731:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:39:49 ET
+Table 'Rhodia IV' 9-max Seat #7 is the button
+Seat 1: drewbabez ($69.60 in chips) 
+Seat 3: InsaneCroat ($42.30 in chips) 
+Seat 4: twente01 ($26.60 in chips) 
+Seat 5: badbalkanboy ($54.60 in chips) 
+Seat 7: Alameda22 ($45.50 in chips) 
+Seat 8: Godzilla43 ($44.70 in chips) 
+Seat 9: Zeuwan07 ($49.45 in chips) 
+Godzilla43: posts small blind $0.25
+Zeuwan07: posts big blind $0.50
+Krystyna51: sits out 
+sacred7: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 3d]
+drewbabez: folds 
+InsaneCroat: folds 
+twente01: folds 
+badbalkanboy: calls $0.50
+Alameda22: folds 
+Godzilla43: calls $0.25
+Zeuwan07: checks 
+*** FLOP *** [Ts 8s Kd]
+Godzilla43: checks 
+Zeuwan07: checks 
+badbalkanboy: bets $1
+Godzilla43: folds 
+Zeuwan07: folds 
+Uncalled bet ($1) returned to badbalkanboy
+badbalkanboy collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Ts 8s Kd]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 3: InsaneCroat folded before Flop (didn't bet)
+Seat 4: twente01 folded before Flop (didn't bet)
+Seat 5: badbalkanboy collected ($1.45)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: Godzilla43 (small blind) folded on the Flop
+Seat 9: Zeuwan07 (big blind) folded on the Flop
+
+
+
+PokerStars Game #20143551347:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:41:05 ET
+Table 'Rhodia IV' 9-max Seat #8 is the button
+Seat 1: drewbabez ($69.60 in chips) 
+Seat 3: InsaneCroat ($42.30 in chips) 
+Seat 4: twente01 ($26.60 in chips) 
+Seat 5: badbalkanboy ($55.55 in chips) 
+Seat 7: Alameda22 ($45.50 in chips) 
+Seat 8: Godzilla43 ($44.20 in chips) 
+Seat 9: Zeuwan07 ($48.95 in chips) 
+Zeuwan07: posts small blind $0.25
+drewbabez: posts big blind $0.50
+Krystyna51: sits out 
+sacred7: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Kh]
+InsaneCroat: calls $0.50
+twente01: folds 
+badbalkanboy: calls $0.50
+Alameda22: raises $2 to $2.50
+Godzilla43: folds 
+Zeuwan07: folds 
+drewbabez: folds 
+InsaneCroat: folds 
+badbalkanboy: calls $2
+*** FLOP *** [9d 5c 6h]
+badbalkanboy: checks 
+Alameda22: checks 
+*** TURN *** [9d 5c 6h] [Qh]
+badbalkanboy: checks 
+Alameda22: bets $4
+badbalkanboy: folds 
+Uncalled bet ($4) returned to Alameda22
+Alameda22 collected $5.95 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.30 
+Board [9d 5c 6h Qh]
+Seat 1: drewbabez (big blind) folded before Flop
+Seat 3: InsaneCroat folded before Flop
+Seat 4: twente01 folded before Flop (didn't bet)
+Seat 5: badbalkanboy folded on the Turn
+Seat 7: Alameda22 collected ($5.95)
+Seat 8: Godzilla43 (button) folded before Flop (didn't bet)
+Seat 9: Zeuwan07 (small blind) folded before Flop
+
+
+
+PokerStars Game #20143582212:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:42:22 ET
+Table 'Rhodia IV' 9-max Seat #9 is the button
+Seat 1: drewbabez ($69.10 in chips) 
+Seat 2: Krystyna51 ($50 in chips) 
+Seat 3: InsaneCroat ($41.80 in chips) 
+Seat 4: twente01 ($26.60 in chips) 
+Seat 5: badbalkanboy ($53.05 in chips) 
+Seat 7: Alameda22 ($48.95 in chips) 
+Seat 8: Godzilla43 ($44.20 in chips) 
+Seat 9: Zeuwan07 ($48.70 in chips) 
+drewbabez: posts small blind $0.25
+Krystyna51: posts big blind $0.50
+sacred7: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 5s]
+InsaneCroat: folds 
+twente01: folds 
+badbalkanboy: calls $0.50
+Alameda22: folds 
+Godzilla43: folds 
+Zeuwan07: folds 
+drewbabez: folds 
+Krystyna51: checks 
+*** FLOP *** [Qd 9s Qc]
+Krystyna51: checks 
+badbalkanboy: bets $0.50
+Krystyna51: folds 
+Uncalled bet ($0.50) returned to badbalkanboy
+badbalkanboy collected $1.20 from pot
+badbalkanboy: shows [Ad Ah] (two pair, Aces and Queens)
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Qd 9s Qc]
+Seat 1: drewbabez (small blind) folded before Flop
+Seat 2: Krystyna51 (big blind) folded on the Flop
+Seat 3: InsaneCroat folded before Flop (didn't bet)
+Seat 4: twente01 folded before Flop (didn't bet)
+Seat 5: badbalkanboy collected ($1.20)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143606257:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:43:24 ET
+Table 'Rhodia IV' 9-max Seat #1 is the button
+Seat 1: drewbabez ($68.85 in chips) 
+Seat 2: Krystyna51 ($49.50 in chips) 
+Seat 3: InsaneCroat ($41.80 in chips) 
+Seat 4: twente01 ($26.60 in chips) 
+Seat 5: badbalkanboy ($53.75 in chips) 
+Seat 7: Alameda22 ($48.95 in chips) 
+Seat 8: Godzilla43 ($44.20 in chips) 
+Seat 9: Zeuwan07 ($48.70 in chips) 
+Krystyna51: posts small blind $0.25
+InsaneCroat: posts big blind $0.50
+sacred7: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Ac]
+twente01: folds 
+badbalkanboy: folds 
+Alameda22: folds 
+Godzilla43: folds 
+Zeuwan07: folds 
+drewbabez: raises $1.50 to $2
+Krystyna51: folds 
+InsaneCroat: folds 
+Uncalled bet ($1.50) returned to drewbabez
+drewbabez collected $1.25 from pot
+drewbabez: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: drewbabez (button) collected ($1.25)
+Seat 2: Krystyna51 (small blind) folded before Flop
+Seat 3: InsaneCroat (big blind) folded before Flop
+Seat 4: twente01 folded before Flop (didn't bet)
+Seat 5: badbalkanboy folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143622038:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:44:04 ET
+Table 'Rhodia IV' 9-max Seat #2 is the button
+Seat 1: drewbabez ($69.60 in chips) 
+Seat 2: Krystyna51 ($49.25 in chips) 
+Seat 3: InsaneCroat ($41.30 in chips) 
+Seat 4: twente01 ($26.60 in chips) 
+Seat 5: badbalkanboy ($53.75 in chips) 
+Seat 7: Alameda22 ($48.95 in chips) 
+Seat 8: Godzilla43 ($44.20 in chips) 
+Seat 9: Zeuwan07 ($48.70 in chips) 
+InsaneCroat: posts small blind $0.25
+twente01: posts big blind $0.50
+sacred7: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Qc]
+badbalkanboy: folds 
+Alameda22: folds 
+Godzilla43: calls $0.50
+Zeuwan07: folds 
+drewbabez: folds 
+Krystyna51: folds 
+InsaneCroat: calls $0.25
+twente01: raises $1 to $1.50
+Godzilla43: folds 
+InsaneCroat: calls $1
+*** FLOP *** [Ah Ks 5s]
+InsaneCroat: checks 
+twente01: bets $2.50
+InsaneCroat: folds 
+Uncalled bet ($2.50) returned to twente01
+InsaneCroat leaves the table
+twente01 collected $3.35 from pot
+twente01: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [Ah Ks 5s]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: Krystyna51 (button) folded before Flop (didn't bet)
+Seat 3: InsaneCroat (small blind) folded on the Flop
+Seat 4: twente01 (big blind) collected ($3.35)
+Seat 5: badbalkanboy folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 folded before Flop
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143648975:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:45:13 ET
+Table 'Rhodia IV' 9-max Seat #4 is the button
+Seat 1: drewbabez ($69.60 in chips) 
+Seat 2: Krystyna51 ($49.25 in chips) 
+Seat 4: twente01 ($28.45 in chips) 
+Seat 5: badbalkanboy ($53.75 in chips) 
+Seat 6: sacred7 ($50 in chips) 
+Seat 7: Alameda22 ($48.95 in chips) 
+Seat 8: Godzilla43 ($43.70 in chips) 
+Seat 9: Zeuwan07 ($48.70 in chips) 
+badbalkanboy: posts small blind $0.25
+DougieG20 joins the table at seat #3 
+sacred7: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 9s]
+Alameda22: folds 
+Godzilla43: calls $0.50
+Zeuwan07: folds 
+drewbabez: folds 
+Krystyna51: folds 
+twente01: raises $1 to $1.50
+badbalkanboy: calls $1.25
+sacred7: folds 
+Godzilla43: calls $1
+*** FLOP *** [Kd Js Ah]
+badbalkanboy: bets $2
+Godzilla43: folds 
+twente01: calls $2
+*** TURN *** [Kd Js Ah] [8h]
+badbalkanboy: bets $4.50
+twente01: calls $4.50
+*** RIVER *** [Kd Js Ah 8h] [7s]
+badbalkanboy: bets $5
+twente01: calls $5
+*** SHOW DOWN ***
+badbalkanboy: shows [Kh Th] (a pair of Kings)
+twente01: shows [6d Ac] (a pair of Aces)
+twente01 collected $26.65 from pot
+*** SUMMARY ***
+Total pot $28 | Rake $1.35 
+Board [Kd Js Ah 8h 7s]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: Krystyna51 folded before Flop (didn't bet)
+Seat 4: twente01 (button) showed [6d Ac] and won ($26.65) with a pair of Aces
+Seat 5: badbalkanboy (small blind) showed [Kh Th] and lost with a pair of Kings
+Seat 6: sacred7 (big blind) folded before Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 folded on the Flop
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143690903:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:46:55 ET
+Table 'Rhodia IV' 9-max Seat #5 is the button
+Seat 1: drewbabez ($69.60 in chips) 
+Seat 2: Krystyna51 ($49.25 in chips) 
+Seat 4: twente01 ($42.10 in chips) 
+Seat 5: badbalkanboy ($40.75 in chips) 
+Seat 6: sacred7 ($49.50 in chips) 
+Seat 7: Alameda22 ($48.95 in chips) 
+Seat 8: Godzilla43 ($42.20 in chips) 
+Seat 9: Zeuwan07 ($48.70 in chips) 
+sacred7: posts small blind $0.25
+Alameda22: posts big blind $0.50
+DougieG20: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js As]
+Godzilla43: folds 
+Zeuwan07: folds 
+drewbabez: folds 
+Krystyna51: folds 
+twente01: folds 
+badbalkanboy: calls $0.50
+sacred7: folds 
+Alameda22: checks 
+*** FLOP *** [4s Ks 5s]
+Alameda22: bets $1
+badbalkanboy: raises $2.50 to $3.50
+Alameda22: raises $6.50 to $10
+badbalkanboy: raises $15 to $25
+Alameda22: raises $23.45 to $48.45 and is all-in
+badbalkanboy: calls $15.25 and is all-in
+Uncalled bet ($8.20) returned to Alameda22
+*** TURN *** [4s Ks 5s] [8d]
+*** RIVER *** [4s Ks 5s 8d] [3d]
+*** SHOW DOWN ***
+Alameda22: shows [Js As] (a flush, Ace high)
+badbalkanboy: shows [Ts 2s] (a flush, King high)
+Alameda22 collected $78.75 from pot
+*** SUMMARY ***
+Total pot $81.75 | Rake $3 
+Board [4s Ks 5s 8d 3d]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: Krystyna51 folded before Flop (didn't bet)
+Seat 4: twente01 folded before Flop (didn't bet)
+Seat 5: badbalkanboy (button) showed [Ts 2s] and lost with a flush, King high
+Seat 6: sacred7 (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) showed [Js As] and won ($78.75) with a flush, Ace high
+Seat 8: Godzilla43 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143737695:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:48:49 ET
+Table 'Rhodia IV' 9-max Seat #6 is the button
+Seat 1: drewbabez ($69.60 in chips) 
+Seat 2: Krystyna51 ($49.25 in chips) 
+Seat 4: twente01 ($42.10 in chips) 
+Seat 6: sacred7 ($49.25 in chips) 
+Seat 7: Alameda22 ($86.95 in chips) 
+Seat 8: Godzilla43 ($42.20 in chips) 
+Seat 9: Zeuwan07 ($48.70 in chips) 
+Alameda22: posts small blind $0.25
+Godzilla43: posts big blind $0.50
+DougieG20: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 7h]
+Zeuwan07: folds 
+drewbabez: folds 
+Krystyna51: folds 
+twente01: calls $0.50
+badbalkanboy leaves the table
+sacred7: folds 
+Alameda22: folds 
+Godzilla43: checks 
+*** FLOP *** [6c Ts As]
+Godzilla43: checks 
+twente01: checks 
+*** TURN *** [6c Ts As] [Ks]
+Godzilla43: bets $0.50
+brutusmc joins the table at seat #5 
+twente01: calls $0.50
+*** RIVER *** [6c Ts As Ks] [8d]
+Godzilla43: bets $1
+twente01: calls $1
+*** SHOW DOWN ***
+Godzilla43: shows [Kh 9d] (a pair of Kings)
+twente01: mucks hand 
+Godzilla43 collected $4.05 from pot
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [6c Ts As Ks 8d]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: Krystyna51 folded before Flop (didn't bet)
+Seat 4: twente01 mucked [Kd 4d]
+Seat 6: sacred7 (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: Godzilla43 (big blind) showed [Kh 9d] and won ($4.05) with a pair of Kings
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143767064:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:50:01 ET
+Table 'Rhodia IV' 9-max Seat #7 is the button
+Seat 1: drewbabez ($69.60 in chips) 
+Seat 2: Krystyna51 ($49.25 in chips) 
+Seat 4: twente01 ($40.10 in chips) 
+Seat 5: brutusmc ($30 in chips) 
+Seat 6: sacred7 ($49.25 in chips) 
+Seat 7: Alameda22 ($86.70 in chips) 
+Seat 8: Godzilla43 ($44.25 in chips) 
+Seat 9: Zeuwan07 ($48.70 in chips) 
+Godzilla43: posts small blind $0.25
+Zeuwan07: posts big blind $0.50
+DougieG20: sits out 
+brutusmc: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 6c]
+drewbabez: folds 
+Krystyna51: folds 
+twente01: calls $0.50
+brutusmc: checks 
+sacred7: folds 
+Alameda22: folds 
+Godzilla43: calls $0.25
+Zeuwan07: checks 
+*** FLOP *** [As Tc Qd]
+Godzilla43: checks 
+Zeuwan07: checks 
+twente01: bets $1
+brutusmc: folds 
+Godzilla43: folds 
+Zeuwan07: folds 
+Uncalled bet ($1) returned to twente01
+twente01 collected $1.90 from pot
+twente01: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [As Tc Qd]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: Krystyna51 folded before Flop (didn't bet)
+Seat 4: twente01 collected ($1.90)
+Seat 5: brutusmc folded on the Flop
+Seat 6: sacred7 folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: Godzilla43 (small blind) folded on the Flop
+Seat 9: Zeuwan07 (big blind) folded on the Flop
+
+
+
+PokerStars Game #20143802230:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:51:26 ET
+Table 'Rhodia IV' 9-max Seat #8 is the button
+Seat 1: drewbabez ($69.60 in chips) 
+Seat 2: Krystyna51 ($49.25 in chips) 
+Seat 4: twente01 ($41.50 in chips) 
+Seat 5: brutusmc ($29.50 in chips) 
+Seat 6: sacred7 ($49.25 in chips) 
+Seat 7: Alameda22 ($86.70 in chips) 
+Seat 8: Godzilla43 ($43.75 in chips) 
+Seat 9: Zeuwan07 ($48.20 in chips) 
+Zeuwan07: posts small blind $0.25
+drewbabez: posts big blind $0.50
+DougieG20: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Td]
+Krystyna51: folds 
+twente01: folds 
+brutusmc: folds 
+sacred7: raises $1 to $1.50
+Alameda22: folds 
+Godzilla43: folds 
+Zeuwan07: folds 
+drewbabez: folds 
+Uncalled bet ($1) returned to sacred7
+sacred7 collected $1.25 from pot
+sacred7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: drewbabez (big blind) folded before Flop
+Seat 2: Krystyna51 folded before Flop (didn't bet)
+Seat 4: twente01 folded before Flop (didn't bet)
+Seat 5: brutusmc folded before Flop (didn't bet)
+Seat 6: sacred7 collected ($1.25)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 (button) folded before Flop (didn't bet)
+Seat 9: Zeuwan07 (small blind) folded before Flop
+
+
+
+PokerStars Game #20143822214:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:52:15 ET
+Table 'Rhodia IV' 9-max Seat #9 is the button
+Seat 1: drewbabez ($69.10 in chips) 
+Seat 2: Krystyna51 ($49.25 in chips) 
+Seat 4: twente01 ($41.50 in chips) 
+Seat 5: brutusmc ($29.50 in chips) 
+Seat 6: sacred7 ($50 in chips) 
+Seat 7: Alameda22 ($86.70 in chips) 
+Seat 8: Godzilla43 ($43.75 in chips) 
+Seat 9: Zeuwan07 ($47.95 in chips) 
+drewbabez: posts small blind $0.25
+Krystyna51: posts big blind $0.50
+DougieG20: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 6c]
+twente01: folds 
+brutusmc: folds 
+sacred7: folds 
+Alameda22: folds 
+Godzilla43: folds 
+Zeuwan07: calls $0.50
+drewbabez: folds 
+Krystyna51: checks 
+*** FLOP *** [7c 8d 3d]
+Krystyna51: checks 
+Zeuwan07: checks 
+*** TURN *** [7c 8d 3d] [Qd]
+Krystyna51: bets $1.50
+Zeuwan07: folds 
+Uncalled bet ($1.50) returned to Krystyna51
+Krystyna51 collected $1.20 from pot
+Krystyna51: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [7c 8d 3d Qd]
+Seat 1: drewbabez (small blind) folded before Flop
+Seat 2: Krystyna51 (big blind) collected ($1.20)
+Seat 4: twente01 folded before Flop (didn't bet)
+Seat 5: brutusmc folded before Flop (didn't bet)
+Seat 6: sacred7 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 (button) folded on the Turn
+
+
+
+PokerStars Game #20143855264:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:53:37 ET
+Table 'Rhodia IV' 9-max Seat #1 is the button
+Seat 1: drewbabez ($68.85 in chips) 
+Seat 2: Krystyna51 ($49.95 in chips) 
+Seat 3: DougieG20 ($50 in chips) 
+Seat 4: twente01 ($41.50 in chips) 
+Seat 5: brutusmc ($29.50 in chips) 
+Seat 6: sacred7 ($50 in chips) 
+Seat 7: Alameda22 ($86.70 in chips) 
+Seat 8: Godzilla43 ($43.75 in chips) 
+Seat 9: Zeuwan07 ($47.45 in chips) 
+Krystyna51: posts small blind $0.25
+DougieG20: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 8s]
+twente01: calls $0.50
+brutusmc: calls $0.50
+sacred7: folds 
+Alameda22: folds 
+Godzilla43: folds 
+Zeuwan07: folds 
+drewbabez: folds 
+Krystyna51: folds 
+DougieG20: checks 
+*** FLOP *** [3c Ts 6s]
+DougieG20: checks 
+twente01 is disconnected 
+twente01 is connected 
+twente01: bets $1.50
+brutusmc: calls $1.50
+DougieG20: folds 
+*** TURN *** [3c Ts 6s] [2d]
+twente01: bets $1.50
+brutusmc: raises $3.50 to $5
+twente01: calls $3.50
+*** RIVER *** [3c Ts 6s 2d] [8c]
+twente01: checks 
+brutusmc: checks 
+*** SHOW DOWN ***
+twente01: shows [6c 4c] (a pair of Sixes)
+brutusmc: mucks hand 
+twente01 collected $14.05 from pot
+*** SUMMARY ***
+Total pot $14.75 | Rake $0.70 
+Board [3c Ts 6s 2d 8c]
+Seat 1: drewbabez (button) folded before Flop (didn't bet)
+Seat 2: Krystyna51 (small blind) folded before Flop
+Seat 3: DougieG20 (big blind) folded on the Flop
+Seat 4: twente01 showed [6c 4c] and won ($14.05) with a pair of Sixes
+Seat 5: brutusmc mucked [4s 4d]
+Seat 6: sacred7 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143910146:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:55:51 ET
+Table 'Rhodia IV' 9-max Seat #2 is the button
+Seat 1: drewbabez ($68.85 in chips) 
+Seat 2: Krystyna51 ($49.70 in chips) 
+Seat 3: DougieG20 ($49.50 in chips) 
+Seat 4: twente01 ($48.55 in chips) 
+Seat 5: brutusmc ($22.50 in chips) 
+Seat 6: sacred7 ($50 in chips) 
+Seat 7: Alameda22 ($86.70 in chips) 
+Seat 8: Godzilla43 ($43.75 in chips) 
+Seat 9: Zeuwan07 ($47.45 in chips) 
+DougieG20: posts small blind $0.25
+twente01: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 7d]
+brutusmc: raises $1.50 to $2
+sacred7: folds 
+Alameda22: folds 
+Godzilla43: folds 
+Zeuwan07: folds 
+drewbabez: folds 
+Krystyna51: folds 
+DougieG20: folds 
+twente01: folds 
+Uncalled bet ($1.50) returned to brutusmc
+brutusmc collected $1.25 from pot
+brutusmc: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: Krystyna51 (button) folded before Flop (didn't bet)
+Seat 3: DougieG20 (small blind) folded before Flop
+Seat 4: twente01 (big blind) folded before Flop
+Seat 5: brutusmc collected ($1.25)
+Seat 6: sacred7 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143933602:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 14:56:48 ET
+Table 'Rhodia IV' 9-max Seat #3 is the button
+Seat 1: drewbabez ($68.85 in chips) 
+Seat 2: Krystyna51 ($49.70 in chips) 
+Seat 3: DougieG20 ($50 in chips) 
+Seat 4: twente01 ($48.05 in chips) 
+Seat 5: brutusmc ($23.25 in chips) 
+Seat 6: sacred7 ($50 in chips) 
+Seat 7: Alameda22 ($86.70 in chips) 
+Seat 8: Godzilla43 ($43.75 in chips) 
+Seat 9: Zeuwan07 ($47.45 in chips) 
+twente01: posts small blind $0.25
+brutusmc: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Jd]
+sacred7: folds 
+Alameda22: folds 
+Godzilla43: folds 
+Zeuwan07: folds 
+drewbabez: folds 
+Krystyna51: raises $1.50 to $2
+DougieG20: folds 
+twente01: calls $1.75
+brutusmc: folds 
+*** FLOP *** [3h 2c 7c]
+twente01: bets $3
+Krystyna51: folds 
+Uncalled bet ($3) returned to twente01
+twente01 collected $4.30 from pot
+twente01: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [3h 2c 7c]
+Seat 1: drewbabez folded before Flop (didn't bet)
+Seat 2: Krystyna51 folded on the Flop
+Seat 3: DougieG20 (button) folded before Flop (didn't bet)
+Seat 4: twente01 (small blind) collected ($4.30)
+Seat 5: brutusmc (big blind) folded before Flop
+Seat 6: sacred7 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Godzilla43 folded before Flop (didn't bet)
+Seat 9: Zeuwan07 folded before Flop (didn't bet)
+
+
+

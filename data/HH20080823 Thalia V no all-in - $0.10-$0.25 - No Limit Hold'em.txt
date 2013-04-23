@@ -1,0 +1,814 @@
+PokerStars Game #19837389093:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:36:52 (ET)
+Table 'Thalia V' 9-max Seat #9 is the button
+Seat 1: canazei ($39.75 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: deigojd ($42.85 in chips) 
+Seat 4: L1n0x ($29.90 in chips) 
+Seat 5: Che_Koarl ($25 in chips) 
+Seat 6: JRisinNY ($35.95 in chips) 
+Seat 7: mmffo ($24.10 in chips) 
+Seat 8: EL_JULI1982 ($41.80 in chips) 
+Seat 9: Florian77 ($10.60 in chips) 
+canazei: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 4d]
+deigojd: folds 
+L1n0x: folds 
+Che_Koarl: folds 
+JRisinNY: folds 
+mmffo: folds 
+EL_JULI1982: raises $0.75 to $1
+Florian77: calls $1
+canazei: folds 
+Alameda22: folds 
+*** FLOP *** [7h Js 5s]
+EL_JULI1982: bets $1.50
+Florian77: raises $8.10 to $9.60 and is all-in
+EL_JULI1982: folds 
+Uncalled bet ($8.10) returned to Florian77
+Florian77 collected $5.10 from pot
+Florian77: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [7h Js 5s]
+Seat 1: canazei (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: deigojd folded before Flop (didn't bet)
+Seat 4: L1n0x folded before Flop (didn't bet)
+Seat 5: Che_Koarl folded before Flop (didn't bet)
+Seat 6: JRisinNY folded before Flop (didn't bet)
+Seat 7: mmffo folded before Flop (didn't bet)
+Seat 8: EL_JULI1982 folded on the Flop
+Seat 9: Florian77 (button) collected ($5.10)
+
+
+
+PokerStars Game #19837403584:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:37:27 (ET)
+Table 'Thalia V' 9-max Seat #1 is the button
+Seat 1: canazei ($39.65 in chips) 
+Seat 2: Alameda22 ($24.75 in chips) 
+Seat 3: deigojd ($42.85 in chips) 
+Seat 4: L1n0x ($29.90 in chips) 
+Seat 5: Che_Koarl ($25 in chips) 
+Seat 6: JRisinNY ($35.95 in chips) 
+Seat 7: mmffo ($24.10 in chips) 
+Seat 8: EL_JULI1982 ($39.30 in chips) 
+Seat 9: Florian77 ($13.20 in chips) 
+Alameda22: posts small blind $0.10
+deigojd: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 6d]
+L1n0x: folds 
+Che_Koarl: raises $0.75 to $1
+JRisinNY: folds 
+mmffo: folds 
+EL_JULI1982: folds 
+Florian77: folds 
+canazei: folds 
+Alameda22: folds 
+deigojd: folds 
+Uncalled bet ($0.75) returned to Che_Koarl
+Che_Koarl collected $0.60 from pot
+Che_Koarl: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: canazei (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: deigojd (big blind) folded before Flop
+Seat 4: L1n0x folded before Flop (didn't bet)
+Seat 5: Che_Koarl collected ($0.60)
+Seat 6: JRisinNY folded before Flop (didn't bet)
+Seat 7: mmffo folded before Flop (didn't bet)
+Seat 8: EL_JULI1982 folded before Flop (didn't bet)
+Seat 9: Florian77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837416480:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:37:59 (ET)
+Table 'Thalia V' 9-max Seat #2 is the button
+Seat 1: canazei ($39.65 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: deigojd ($42.60 in chips) 
+Seat 4: L1n0x ($29.90 in chips) 
+Seat 5: Che_Koarl ($25.35 in chips) 
+Seat 6: JRisinNY ($35.95 in chips) 
+Seat 7: mmffo ($24.10 in chips) 
+Seat 8: EL_JULI1982 ($39.30 in chips) 
+Seat 9: Florian77 ($13.20 in chips) 
+deigojd: posts small blind $0.10
+L1n0x: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Jc]
+Che_Koarl: folds 
+JRisinNY: calls $0.25
+mmffo: folds 
+EL_JULI1982: folds 
+Florian77: folds 
+canazei: calls $0.25
+Alameda22: folds 
+deigojd: folds 
+L1n0x: checks 
+*** FLOP *** [Jd 2s Tc]
+L1n0x: bets $0.50
+JRisinNY: folds 
+canazei: calls $0.50
+*** TURN *** [Jd 2s Tc] [Ac]
+L1n0x: bets $1
+canazei: raises $2 to $3
+L1n0x: folds 
+Uncalled bet ($2) returned to canazei
+canazei collected $3.70 from pot
+canazei: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [Jd 2s Tc Ac]
+Seat 1: canazei collected ($3.70)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: deigojd (small blind) folded before Flop
+Seat 4: L1n0x (big blind) folded on the Turn
+Seat 5: Che_Koarl folded before Flop (didn't bet)
+Seat 6: JRisinNY folded on the Flop
+Seat 7: mmffo folded before Flop (didn't bet)
+Seat 8: EL_JULI1982 folded before Flop (didn't bet)
+Seat 9: Florian77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837445527:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:39:10 (ET)
+Table 'Thalia V' 9-max Seat #3 is the button
+Seat 1: canazei ($41.60 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: deigojd ($42.50 in chips) 
+Seat 4: L1n0x ($28.15 in chips) 
+Seat 5: Che_Koarl ($25.35 in chips) 
+Seat 6: JRisinNY ($35.70 in chips) 
+Seat 7: mmffo ($24.10 in chips) 
+Seat 8: EL_JULI1982 ($39.30 in chips) 
+Seat 9: Florian77 ($13.20 in chips) 
+L1n0x: posts small blind $0.10
+Che_Koarl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 3s]
+JRisinNY: folds 
+mmffo: folds 
+EL_JULI1982: raises $0.75 to $1
+Florian77: folds 
+canazei: calls $1
+Alameda22: folds 
+deigojd: folds 
+L1n0x: folds 
+Che_Koarl: folds 
+*** FLOP *** [8c Kd 2h]
+EL_JULI1982: bets $1.50
+canazei: calls $1.50
+*** TURN *** [8c Kd 2h] [Jc]
+EL_JULI1982: checks 
+canazei: bets $3.25
+EL_JULI1982: folds 
+Uncalled bet ($3.25) returned to canazei
+canazei collected $5.10 from pot
+canazei: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [8c Kd 2h Jc]
+Seat 1: canazei collected ($5.10)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: deigojd (button) folded before Flop (didn't bet)
+Seat 4: L1n0x (small blind) folded before Flop
+Seat 5: Che_Koarl (big blind) folded before Flop
+Seat 6: JRisinNY folded before Flop (didn't bet)
+Seat 7: mmffo folded before Flop (didn't bet)
+Seat 8: EL_JULI1982 folded on the Turn
+Seat 9: Florian77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837466215:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:40:01 (ET)
+Table 'Thalia V' 9-max Seat #4 is the button
+Seat 1: canazei ($44.20 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: deigojd ($42.50 in chips) 
+Seat 4: L1n0x ($28.05 in chips) 
+Seat 5: Che_Koarl ($25.10 in chips) 
+Seat 6: JRisinNY ($35.70 in chips) 
+Seat 7: mmffo ($24.10 in chips) 
+Seat 8: EL_JULI1982 ($36.80 in chips) 
+Seat 9: Florian77 ($13.20 in chips) 
+Che_Koarl: posts small blind $0.10
+JRisinNY: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 2c]
+mmffo: folds 
+EL_JULI1982: raises $0.75 to $1
+Florian77: folds 
+canazei: folds 
+Alameda22: folds 
+deigojd: folds 
+L1n0x: folds 
+Che_Koarl: folds 
+JRisinNY: folds 
+Uncalled bet ($0.75) returned to EL_JULI1982
+EL_JULI1982 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: canazei folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: deigojd folded before Flop (didn't bet)
+Seat 4: L1n0x (button) folded before Flop (didn't bet)
+Seat 5: Che_Koarl (small blind) folded before Flop
+Seat 6: JRisinNY (big blind) folded before Flop
+Seat 7: mmffo folded before Flop (didn't bet)
+Seat 8: EL_JULI1982 collected ($0.60)
+Seat 9: Florian77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837478576:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:40:32 (ET)
+Table 'Thalia V' 9-max Seat #5 is the button
+Seat 1: canazei ($44.20 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 3: deigojd ($42.50 in chips) 
+Seat 4: L1n0x ($28.05 in chips) 
+Seat 5: Che_Koarl ($25 in chips) 
+Seat 6: JRisinNY ($35.45 in chips) 
+Seat 7: mmffo ($24.10 in chips) 
+Seat 8: EL_JULI1982 ($37.15 in chips) 
+Seat 9: Florian77 ($13.20 in chips) 
+JRisinNY: posts small blind $0.10
+mmffo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Kh]
+EL_JULI1982: folds 
+Florian77: folds 
+canazei: folds 
+Alameda22: raises $0.50 to $0.75
+deigojd: folds 
+L1n0x: calls $0.75
+Che_Koarl: folds 
+JRisinNY: folds 
+mmffo: folds 
+*** FLOP *** [Kc 3c 7c]
+Alameda22: bets $1.25
+L1n0x: raises $2.25 to $3.50
+Alameda22: calls $2.25
+*** TURN *** [Kc 3c 7c] [Kd]
+Alameda22: checks 
+L1n0x: bets $3.25
+Alameda22: raises $7 to $10.25
+L1n0x: folds 
+Uncalled bet ($7) returned to Alameda22
+Alameda22 collected $14.65 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.35 | Rake $0.70 
+Board [Kc 3c 7c Kd]
+Seat 1: canazei folded before Flop (didn't bet)
+Seat 2: Alameda22 collected ($14.65)
+Seat 3: deigojd folded before Flop (didn't bet)
+Seat 4: L1n0x folded on the Turn
+Seat 5: Che_Koarl (button) folded before Flop (didn't bet)
+Seat 6: JRisinNY (small blind) folded before Flop
+Seat 7: mmffo (big blind) folded before Flop
+Seat 8: EL_JULI1982 folded before Flop (didn't bet)
+Seat 9: Florian77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837512049:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:41:55 (ET)
+Table 'Thalia V' 9-max Seat #6 is the button
+Seat 1: canazei ($44.20 in chips) 
+Seat 2: Alameda22 ($31.80 in chips) 
+Seat 3: deigojd ($42.50 in chips) 
+Seat 4: L1n0x ($20.55 in chips) 
+Seat 5: Che_Koarl ($25 in chips) 
+Seat 6: JRisinNY ($35.35 in chips) 
+Seat 7: mmffo ($23.85 in chips) 
+Seat 8: EL_JULI1982 ($37.15 in chips) 
+Seat 9: Florian77 ($13.20 in chips) 
+mmffo: posts small blind $0.10
+EL_JULI1982: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 7h]
+Florian77: folds 
+canazei: calls $0.25
+Alameda22: folds 
+deigojd: folds 
+L1n0x: folds 
+L1n0x leaves the table
+Che_Koarl: raises $1 to $1.25
+JRisinNY: folds 
+mmffo: folds 
+EL_JULI1982: folds 
+canazei: folds 
+Uncalled bet ($1) returned to Che_Koarl
+Che_Koarl collected $0.85 from pot
+Che_Koarl: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: canazei folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: deigojd folded before Flop (didn't bet)
+Seat 4: L1n0x folded before Flop (didn't bet)
+Seat 5: Che_Koarl collected ($0.85)
+Seat 6: JRisinNY (button) folded before Flop (didn't bet)
+Seat 7: mmffo (small blind) folded before Flop
+Seat 8: EL_JULI1982 (big blind) folded before Flop
+Seat 9: Florian77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837536579:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:42:57 (ET)
+Table 'Thalia V' 9-max Seat #7 is the button
+Seat 1: canazei ($43.95 in chips) 
+Seat 2: Alameda22 ($31.80 in chips) 
+Seat 3: deigojd ($42.50 in chips) 
+Seat 5: Che_Koarl ($25.60 in chips) 
+Seat 6: JRisinNY ($35.35 in chips) 
+Seat 7: mmffo ($23.75 in chips) 
+Seat 8: EL_JULI1982 ($36.90 in chips) 
+Seat 9: Florian77 ($13.20 in chips) 
+EL_JULI1982: posts small blind $0.10
+Florian77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Ad]
+canazei: folds 
+Alameda22: folds 
+deigojd: folds 
+Che_Koarl: calls $0.25
+JRisinNY: calls $0.25
+mmffo: folds 
+EL_JULI1982: folds 
+Florian77: checks 
+*** FLOP *** [3h Jh Ks]
+Florian77: checks 
+ColaCat joins the table at seat #4 
+Che_Koarl: checks 
+JRisinNY: checks 
+*** TURN *** [3h Jh Ks] [5s]
+Florian77: bets $0.25
+Che_Koarl: calls $0.25
+JRisinNY: calls $0.25
+*** RIVER *** [3h Jh Ks 5s] [7s]
+Florian77: checks 
+Che_Koarl: checks 
+JRisinNY: checks 
+*** SHOW DOWN ***
+Florian77: shows [Js 3d] (two pair, Jacks and Threes)
+Che_Koarl: mucks hand 
+JRisinNY: mucks hand 
+Florian77 collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [3h Jh Ks 5s 7s]
+Seat 1: canazei folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: deigojd folded before Flop (didn't bet)
+Seat 5: Che_Koarl mucked [7h 6h]
+Seat 6: JRisinNY mucked [Ah 2c]
+Seat 7: mmffo (button) folded before Flop (didn't bet)
+Seat 8: EL_JULI1982 (small blind) folded before Flop
+Seat 9: Florian77 (big blind) showed [Js 3d] and won ($1.55) with two pair, Jacks and Threes
+
+
+
+PokerStars Game #19837563040:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:44:04 (ET)
+Table 'Thalia V' 9-max Seat #8 is the button
+Seat 1: canazei ($43.95 in chips) 
+Seat 2: Alameda22 ($31.80 in chips) 
+Seat 3: deigojd ($42.50 in chips) 
+Seat 5: Che_Koarl ($25.10 in chips) 
+Seat 6: JRisinNY ($34.85 in chips) 
+Seat 7: mmffo ($23.75 in chips) 
+Seat 8: EL_JULI1982 ($36.80 in chips) 
+Seat 9: Florian77 ($14.25 in chips) 
+Florian77: posts small blind $0.10
+canazei: posts big blind $0.25
+ColaCat: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d As]
+Alameda22: folds 
+deigojd: folds 
+Che_Koarl: folds 
+JRisinNY: folds 
+mmffo: folds 
+EL_JULI1982: folds 
+Florian77: folds 
+Uncalled bet ($0.15) returned to canazei
+canazei collected $0.20 from pot
+canazei: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: canazei (big blind) collected ($0.20)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: deigojd folded before Flop (didn't bet)
+Seat 5: Che_Koarl folded before Flop (didn't bet)
+Seat 6: JRisinNY folded before Flop (didn't bet)
+Seat 7: mmffo folded before Flop (didn't bet)
+Seat 8: EL_JULI1982 (button) folded before Flop (didn't bet)
+Seat 9: Florian77 (small blind) folded before Flop
+
+
+
+PokerStars Game #19837573781:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:44:31 (ET)
+Table 'Thalia V' 9-max Seat #9 is the button
+Seat 1: canazei ($44.05 in chips) 
+Seat 2: Alameda22 ($31.80 in chips) 
+Seat 3: deigojd ($42.50 in chips) 
+Seat 5: Che_Koarl ($25.10 in chips) 
+Seat 6: JRisinNY ($34.85 in chips) 
+Seat 7: mmffo ($23.75 in chips) 
+Seat 8: EL_JULI1982 ($36.80 in chips) 
+Seat 9: Florian77 ($14.15 in chips) 
+canazei: posts small blind $0.10
+Alameda22: posts big blind $0.25
+ColaCat: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 8h]
+deigojd: folds 
+Che_Koarl: folds 
+JRisinNY: folds 
+mmffo: raises $1 to $1.25
+EL_JULI1982: folds 
+Florian77: folds 
+canazei: folds 
+Alameda22: folds 
+Uncalled bet ($1) returned to mmffo
+mmffo collected $0.60 from pot
+mmffo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: canazei (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: deigojd folded before Flop (didn't bet)
+Seat 5: Che_Koarl folded before Flop (didn't bet)
+Seat 6: JRisinNY folded before Flop (didn't bet)
+Seat 7: mmffo collected ($0.60)
+Seat 8: EL_JULI1982 folded before Flop (didn't bet)
+Seat 9: Florian77 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837584743:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:44:59 (ET)
+Table 'Thalia V' 9-max Seat #1 is the button
+Seat 1: canazei ($43.95 in chips) 
+Seat 2: Alameda22 ($31.55 in chips) 
+Seat 3: deigojd ($42.50 in chips) 
+Seat 5: Che_Koarl ($25.10 in chips) 
+Seat 6: JRisinNY ($34.85 in chips) 
+Seat 7: mmffo ($24.10 in chips) 
+Seat 8: EL_JULI1982 ($36.80 in chips) 
+Seat 9: Florian77 ($14.15 in chips) 
+Alameda22: posts small blind $0.10
+deigojd: posts big blind $0.25
+ColaCat: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Qd]
+Che_Koarl: folds 
+JRisinNY: folds 
+mmffo: folds 
+EL_JULI1982: raises $0.75 to $1
+Florian77: folds 
+canazei: folds 
+Alameda22: folds 
+deigojd: calls $0.75
+*** FLOP *** [8h 2d Jd]
+deigojd: checks 
+EL_JULI1982: bets $1.75
+deigojd: folds 
+Uncalled bet ($1.75) returned to EL_JULI1982
+deigojd leaves the table
+EL_JULI1982 collected $2 from pot
+EL_JULI1982: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [8h 2d Jd]
+Seat 1: canazei (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: deigojd (big blind) folded on the Flop
+Seat 5: Che_Koarl folded before Flop (didn't bet)
+Seat 6: JRisinNY folded before Flop (didn't bet)
+Seat 7: mmffo folded before Flop (didn't bet)
+Seat 8: EL_JULI1982 collected ($2)
+Seat 9: Florian77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837607545:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:45:54 (ET)
+Table 'Thalia V' 9-max Seat #2 is the button
+Seat 1: canazei ($43.95 in chips) 
+Seat 2: Alameda22 ($31.45 in chips) 
+Seat 5: Che_Koarl ($25.10 in chips) 
+Seat 6: JRisinNY ($34.85 in chips) 
+Seat 7: mmffo ($24.10 in chips) 
+Seat 8: EL_JULI1982 ($37.80 in chips) 
+Seat 9: Florian77 ($14.15 in chips) 
+ColaCat will be allowed to play after the button
+Che_Koarl: posts small blind $0.10
+JRisinNY: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 7s]
+mmffo: folds 
+EL_JULI1982: folds 
+Florian77: folds 
+canazei: folds 
+Alameda22: folds 
+Che_Koarl: folds 
+Uncalled bet ($0.15) returned to JRisinNY
+JRisinNY collected $0.20 from pot
+JRisinNY: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: canazei folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: Che_Koarl (small blind) folded before Flop
+Seat 6: JRisinNY (big blind) collected ($0.20)
+Seat 7: mmffo folded before Flop (didn't bet)
+Seat 8: EL_JULI1982 folded before Flop (didn't bet)
+Seat 9: Florian77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837615678:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:46:14 (ET)
+Table 'Thalia V' 9-max Seat #5 is the button
+Seat 1: canazei ($43.95 in chips) 
+Seat 2: Alameda22 ($31.45 in chips) 
+Seat 4: ColaCat ($25 in chips) 
+Seat 5: Che_Koarl ($25 in chips) 
+Seat 6: JRisinNY ($34.95 in chips) 
+Seat 7: mmffo ($24.10 in chips) 
+Seat 8: EL_JULI1982 ($37.80 in chips) 
+Seat 9: Florian77 ($14.15 in chips) 
+JRisinNY: posts small blind $0.10
+mmffo: posts big blind $0.25
+ColaCat: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 8s]
+EL_JULI1982: folds 
+Florian77: folds 
+canazei: folds 
+Alameda22: folds 
+ColaCat: raises $0.50 to $0.75
+Che_Koarl: folds 
+JRisinNY: folds 
+mmffo: folds 
+Uncalled bet ($0.50) returned to ColaCat
+ColaCat collected $0.60 from pot
+ColaCat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: canazei folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: ColaCat collected ($0.60)
+Seat 5: Che_Koarl (button) folded before Flop (didn't bet)
+Seat 6: JRisinNY (small blind) folded before Flop
+Seat 7: mmffo (big blind) folded before Flop
+Seat 8: EL_JULI1982 folded before Flop (didn't bet)
+Seat 9: Florian77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837629107:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:46:46 (ET)
+Table 'Thalia V' 9-max Seat #6 is the button
+Seat 1: canazei ($43.95 in chips) 
+Seat 2: Alameda22 ($31.45 in chips) 
+Seat 4: ColaCat ($25.35 in chips) 
+Seat 5: Che_Koarl ($25 in chips) 
+Seat 6: JRisinNY ($34.85 in chips) 
+Seat 7: mmffo ($23.85 in chips) 
+Seat 8: EL_JULI1982 ($37.80 in chips) 
+Seat 9: Florian77 ($14.15 in chips) 
+mmffo: posts small blind $0.10
+EL_JULI1982: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Ah]
+Florian77: folds 
+canazei: calls $0.25
+Alameda22: raises $0.75 to $1
+ColaCat: folds 
+Che_Koarl: folds 
+JRisinNY: calls $1
+mmffo: folds 
+EL_JULI1982: folds 
+canazei: calls $0.75
+*** FLOP *** [Td Qc Qs]
+canazei: checks 
+Alameda22: bets $2
+JRisinNY: calls $2
+canazei: folds 
+*** TURN *** [Td Qc Qs] [Qd]
+Alameda22: bets $5
+JRisinNY: folds 
+Uncalled bet ($5) returned to Alameda22
+Alameda22 collected $7 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.35 | Rake $0.35 
+Board [Td Qc Qs Qd]
+Seat 1: canazei folded on the Flop
+Seat 2: Alameda22 collected ($7)
+Seat 4: ColaCat folded before Flop (didn't bet)
+Seat 5: Che_Koarl folded before Flop (didn't bet)
+Seat 6: JRisinNY (button) folded on the Turn
+Seat 7: mmffo (small blind) folded before Flop
+Seat 8: EL_JULI1982 (big blind) folded before Flop
+Seat 9: Florian77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837655860:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:47:52 (ET)
+Table 'Thalia V' 9-max Seat #7 is the button
+Seat 2: Alameda22 ($35.45 in chips) 
+Seat 4: ColaCat ($25.35 in chips) 
+Seat 5: Che_Koarl ($25 in chips) 
+Seat 6: JRisinNY ($31.85 in chips) 
+Seat 7: mmffo ($23.75 in chips) 
+Seat 8: EL_JULI1982 ($37.55 in chips) 
+EL_JULI1982: posts small blind $0.10
+Florian77 is disconnected 
+Florian77 has timed out while disconnected
+Florian77: is sitting out 
+canazei: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 6h]
+ColaCat: folds 
+Che_Koarl: folds 
+JRisinNY: folds 
+canazei leaves the table
+mmffo: folds 
+EL_JULI1982: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 (big blind) collected ($0.20)
+Seat 4: ColaCat folded before Flop (didn't bet)
+Seat 5: Che_Koarl folded before Flop (didn't bet)
+Seat 6: JRisinNY folded before Flop (didn't bet)
+Seat 7: mmffo (button) folded before Flop (didn't bet)
+Seat 8: EL_JULI1982 (small blind) folded before Flop
+
+
+
+PokerStars Game #19837678511:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:48:48 (ET)
+Table 'Thalia V' 9-max Seat #8 is the button
+Seat 2: Alameda22 ($35.55 in chips) 
+Seat 5: Che_Koarl ($25 in chips) 
+Seat 6: JRisinNY ($31.85 in chips) 
+Seat 7: mmffo ($23.75 in chips) 
+Seat 8: EL_JULI1982 ($37.45 in chips) 
+Alameda22: posts small blind $0.10
+ColaCat: is sitting out 
+Che_Koarl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Qs]
+JRisinNY: folds 
+mmffo: folds 
+EL_JULI1982: raises $0.75 to $1
+Alameda22: folds 
+Che_Koarl: folds 
+Uncalled bet ($0.75) returned to EL_JULI1982
+EL_JULI1982 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 5: Che_Koarl (big blind) folded before Flop
+Seat 6: JRisinNY folded before Flop (didn't bet)
+Seat 7: mmffo folded before Flop (didn't bet)
+Seat 8: EL_JULI1982 (button) collected ($0.60)
+
+
+
+PokerStars Game #19837689452:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:49:15 (ET)
+Table 'Thalia V' 9-max Seat #2 is the button
+Seat 2: Alameda22 ($35.45 in chips) 
+Seat 5: Che_Koarl ($24.75 in chips) 
+Seat 7: mmffo ($23.75 in chips) 
+Seat 8: EL_JULI1982 ($37.80 in chips) 
+Che_Koarl: posts small blind $0.10
+JRisinNY: is sitting out 
+mmffo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 7s]
+EL_JULI1982: raises $0.75 to $1
+Alameda22: folds 
+Che_Koarl: folds 
+mmffo: folds 
+Uncalled bet ($0.75) returned to EL_JULI1982
+EL_JULI1982 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: Che_Koarl (small blind) folded before Flop
+Seat 7: mmffo (big blind) folded before Flop
+Seat 8: EL_JULI1982 collected ($0.60)
+
+
+
+PokerStars Game #19837705837:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:49:56 (ET)
+Table 'Thalia V' 9-max Seat #5 is the button
+Seat 2: Alameda22 ($35.45 in chips) 
+Seat 5: Che_Koarl ($24.65 in chips) 
+Seat 7: mmffo ($23.50 in chips) 
+Seat 8: EL_JULI1982 ($38.15 in chips) 
+mmffo: posts small blind $0.10
+EL_JULI1982: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 7c]
+Alameda22: folds 
+ColaCat leaves the table
+Che_Koarl: folds 
+mmffo: folds 
+Uncalled bet ($0.15) returned to EL_JULI1982
+EL_JULI1982 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 5: Che_Koarl (button) folded before Flop (didn't bet)
+Seat 7: mmffo (small blind) folded before Flop
+Seat 8: EL_JULI1982 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19837716557:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:50:24 (ET)
+Table 'Thalia V' 9-max Seat #7 is the button
+Seat 2: Alameda22 ($35.45 in chips) 
+Seat 5: Che_Koarl ($24.65 in chips) 
+Seat 7: mmffo ($23.40 in chips) 
+Seat 8: EL_JULI1982 ($38.25 in chips) 
+EL_JULI1982: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Jh]
+Che_Koarl: calls $0.25
+mmffo: folds 
+EL_JULI1982: folds 
+Alameda22: checks 
+*** FLOP *** [6s 8h 5c]
+Alameda22: checks 
+Che_Koarl: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to Che_Koarl
+Che_Koarl collected $0.60 from pot
+Che_Koarl: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6s 8h 5c]
+Seat 2: Alameda22 (big blind) folded on the Flop
+Seat 5: Che_Koarl collected ($0.60)
+Seat 7: mmffo (button) folded before Flop (didn't bet)
+Seat 8: EL_JULI1982 (small blind) folded before Flop
+
+
+
+PokerStars Game #19837732454:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:51:03 (ET)
+Table 'Thalia V' 9-max Seat #8 is the button
+Seat 2: Alameda22 ($35.20 in chips) 
+Seat 5: Che_Koarl ($25 in chips) 
+Seat 7: mmffo ($23.40 in chips) 
+Seat 8: EL_JULI1982 ($38.15 in chips) 
+Alameda22: posts small blind $0.10
+Che_Koarl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Jd]
+mmffo: folds 
+EL_JULI1982: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to Che_Koarl
+Che_Koarl collected $0.20 from pot
+Che_Koarl: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 5: Che_Koarl (big blind) collected ($0.20)
+Seat 7: mmffo folded before Flop (didn't bet)
+Seat 8: EL_JULI1982 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19837737422:  Hold'em No Limit ($0.10/$0.25) - 2008/08/23 - 13:51:16 (ET)
+Table 'Thalia V' 9-max Seat #2 is the button
+Seat 2: Alameda22 ($35.10 in chips) 
+Seat 5: Che_Koarl ($25.10 in chips) 
+Seat 8: EL_JULI1982 ($38.15 in chips) 
+Che_Koarl: posts small blind $0.10
+mmffo: is sitting out 
+EL_JULI1982: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Kh]
+mmffo leaves the table
+Alameda22: raises $0.50 to $0.75
+Che_Koarl: folds 
+EL_JULI1982: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Alameda22 (button) collected ($0.60)
+Seat 5: Che_Koarl (small blind) folded before Flop
+Seat 8: EL_JULI1982 (big blind) folded before Flop
+
+
+

@@ -1,0 +1,203 @@
+PokerStars Game #19929091939:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 23:54:28 (ET)
+Table 'Himalia' 9-max Seat #3 is the button
+Seat 1: betojch ($26 in chips) 
+Seat 2: garrymdp ($11 in chips) 
+Seat 3: omar_braves ($24 in chips) 
+Seat 4: SoupRFreak ($16.30 in chips) 
+Seat 5: Alameda22 ($25 in chips) 
+Seat 6: madasspossie ($13.85 in chips) 
+Seat 7: k030101 ($25.45 in chips) 
+Seat 8: srawd ($19.70 in chips) 
+Seat 9: boof1 ($23.75 in chips) 
+SoupRFreak: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 5d]
+madasspossie: calls $0.25
+k030101: folds 
+srawd: calls $0.25
+boof1: folds 
+betojch: folds 
+garrymdp: folds 
+omar_braves: folds 
+SoupRFreak: folds 
+Alameda22: checks 
+*** FLOP *** [5h Kc Td]
+Alameda22: checks 
+madasspossie: bets $0.50
+srawd: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to madasspossie
+madasspossie collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [5h Kc Td]
+Seat 1: betojch folded before Flop (didn't bet)
+Seat 2: garrymdp folded before Flop (didn't bet)
+Seat 3: omar_braves (button) folded before Flop (didn't bet)
+Seat 4: SoupRFreak (small blind) folded before Flop
+Seat 5: Alameda22 (big blind) folded on the Flop
+Seat 6: madasspossie collected ($0.85)
+Seat 7: k030101 folded before Flop (didn't bet)
+Seat 8: srawd folded on the Flop
+Seat 9: boof1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929112379:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 23:55:33 (ET)
+Table 'Himalia' 9-max Seat #4 is the button
+Seat 1: betojch ($26 in chips) 
+Seat 2: garrymdp ($11 in chips) 
+Seat 3: omar_braves ($24 in chips) 
+Seat 4: SoupRFreak ($16.20 in chips) 
+Seat 5: Alameda22 ($24.75 in chips) 
+Seat 6: madasspossie ($14.45 in chips) 
+Seat 7: k030101 ($25.45 in chips) 
+Seat 8: srawd ($19.45 in chips) 
+Seat 9: boof1 ($23.75 in chips) 
+Alameda22: posts small blind $0.10
+madasspossie: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 3d]
+k030101: folds 
+srawd: calls $0.25
+boof1: folds 
+betojch: folds 
+garrymdp: folds 
+omar_braves: folds 
+SoupRFreak: folds 
+Alameda22: folds 
+madasspossie: checks 
+*** FLOP *** [Ks 3h Kc]
+madasspossie: checks 
+srawd: checks 
+*** TURN *** [Ks 3h Kc] [6d]
+madasspossie: bets $0.50
+srawd: folds 
+Uncalled bet ($0.50) returned to madasspossie
+madasspossie collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ks 3h Kc 6d]
+Seat 1: betojch folded before Flop (didn't bet)
+Seat 2: garrymdp folded before Flop (didn't bet)
+Seat 3: omar_braves folded before Flop (didn't bet)
+Seat 4: SoupRFreak (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 6: madasspossie (big blind) collected ($0.60)
+Seat 7: k030101 folded before Flop (didn't bet)
+Seat 8: srawd folded on the Turn
+Seat 9: boof1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929130405:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 23:56:30 (ET)
+Table 'Himalia' 9-max Seat #5 is the button
+Seat 1: betojch ($26 in chips) 
+Seat 2: garrymdp ($11 in chips) 
+Seat 3: omar_braves ($24 in chips) 
+Seat 4: SoupRFreak ($16.20 in chips) 
+Seat 5: Alameda22 ($24.65 in chips) 
+Seat 6: madasspossie ($14.80 in chips) 
+Seat 7: k030101 ($25.45 in chips) 
+Seat 8: srawd ($19.20 in chips) 
+Seat 9: boof1 ($23.75 in chips) 
+madasspossie: posts small blind $0.10
+k030101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 7c]
+srawd: raises $0.25 to $0.50
+boof1: folds 
+betojch: folds 
+garrymdp: calls $0.50
+omar_braves: calls $0.50
+SoupRFreak: folds 
+Alameda22: folds 
+madasspossie: folds 
+k030101: folds 
+*** FLOP *** [Ah 4h 6d]
+srawd: checks 
+garrymdp: checks 
+omar_braves: checks 
+*** TURN *** [Ah 4h 6d] [Qc]
+srawd: bets $0.75
+garrymdp: raises $1.25 to $2
+omar_braves: folds 
+srawd: calls $1.25
+*** RIVER *** [Ah 4h 6d Qc] [Kh]
+srawd: bets $2
+garrymdp: calls $2
+*** SHOW DOWN ***
+srawd: shows [Ac Kc] (two pair, Aces and Kings)
+garrymdp: shows [Qd Qs] (three of a kind, Queens)
+garrymdp collected $9.40 from pot
+*** SUMMARY ***
+Total pot $9.85 | Rake $0.45 
+Board [Ah 4h 6d Qc Kh]
+Seat 1: betojch folded before Flop (didn't bet)
+Seat 2: garrymdp showed [Qd Qs] and won ($9.40) with three of a kind, Queens
+Seat 3: omar_braves folded on the Turn
+Seat 4: SoupRFreak folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: madasspossie (small blind) folded before Flop
+Seat 7: k030101 (big blind) folded before Flop
+Seat 8: srawd showed [Ac Kc] and lost with two pair, Aces and Kings
+Seat 9: boof1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929167227:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 23:58:27 (ET)
+Table 'Himalia' 9-max Seat #6 is the button
+Seat 1: betojch ($26 in chips) 
+Seat 2: garrymdp ($15.90 in chips) 
+Seat 3: omar_braves ($23.50 in chips) 
+Seat 4: SoupRFreak ($16.20 in chips) 
+Seat 5: Alameda22 ($24.65 in chips) 
+Seat 6: madasspossie ($14.70 in chips) 
+Seat 7: k030101 ($25.20 in chips) 
+Seat 8: srawd ($14.70 in chips) 
+Seat 9: boof1 ($23.75 in chips) 
+k030101: posts small blind $0.10
+srawd: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 6h]
+boof1: folds 
+betojch: folds 
+garrymdp: folds 
+omar_braves: calls $0.25
+SoupRFreak: folds 
+Alameda22: calls $0.25
+madasspossie: calls $0.25
+k030101: folds 
+srawd: checks 
+*** FLOP *** [8c 7d 6s]
+srawd: bets $0.25
+omar_braves: calls $0.25
+Alameda22: calls $0.25
+madasspossie: folds 
+*** TURN *** [8c 7d 6s] [Kh]
+srawd: bets $0.25
+omar_braves: calls $0.25
+Alameda22: folds 
+*** RIVER *** [8c 7d 6s Kh] [Jh]
+srawd: bets $0.25
+omar_braves: calls $0.25
+*** SHOW DOWN ***
+srawd: shows [5c 7c] (a pair of Sevens)
+omar_braves: shows [Kc Tc] (a pair of Kings)
+omar_braves collected $2.75 from pot
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [8c 7d 6s Kh Jh]
+Seat 1: betojch folded before Flop (didn't bet)
+Seat 2: garrymdp folded before Flop (didn't bet)
+Seat 3: omar_braves showed [Kc Tc] and won ($2.75) with a pair of Kings
+Seat 4: SoupRFreak folded before Flop (didn't bet)
+Seat 5: Alameda22 folded on the Turn
+Seat 6: madasspossie (button) folded on the Flop
+Seat 7: k030101 (small blind) folded before Flop
+Seat 8: srawd (big blind) showed [5c 7c] and lost with a pair of Sevens
+Seat 9: boof1 folded before Flop (didn't bet)
+
+
+

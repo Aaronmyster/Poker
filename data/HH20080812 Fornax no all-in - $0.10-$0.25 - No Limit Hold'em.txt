@@ -1,0 +1,3840 @@
+PokerStars Game #19570090432:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:37:56 (ET)
+Table 'Fornax' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($25 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($27.25 in chips) 
+Seat 5: vegas400 ($2.70 in chips) 
+Seat 6: ashiXIII ($19.45 in chips) 
+Seat 7: Odilla ($26.75 in chips) 
+Seat 8: TecateJack ($24.65 in chips) 
+Seat 9: GordoSenador ($22.85 in chips) 
+GordoSenador: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Qh]
+new_draks: folds 
+soup87: folds 
+vegas400: raises $0.50 to $0.75
+ashiXIII: folds 
+Odilla: calls $0.75
+TecateJack: folds 
+GordoSenador: raises $4.25 to $5
+Alameda22: folds 
+vegas400: calls $1.95 and is all-in
+Odilla: folds 
+Uncalled bet ($2.30) returned to GordoSenador
+*** FLOP *** [9d 2s Qd]
+*** TURN *** [9d 2s Qd] [Qs]
+*** RIVER *** [9d 2s Qd Qs] [4s]
+*** SHOW DOWN ***
+GordoSenador: shows [Kd Ac] (a pair of Queens)
+vegas400: mucks hand 
+GordoSenador collected $6.10 from pot
+*** SUMMARY ***
+Total pot $6.40 | Rake $0.30 
+Board [9d 2s Qd Qs 4s]
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 5: vegas400 mucked [Kh Th]
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla folded before Flop
+Seat 8: TecateJack (button) folded before Flop (didn't bet)
+Seat 9: GordoSenador (small blind) showed [Kd Ac] and won ($6.10) with a pair of Queens
+
+
+
+PokerStars Game #19570116803:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:39:03 (ET)
+Table 'Fornax' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($24.75 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($27.25 in chips) 
+Seat 6: ashiXIII ($19.45 in chips) 
+Seat 7: Odilla ($26 in chips) 
+Seat 8: TecateJack ($24.65 in chips) 
+Seat 9: GordoSenador ($26.25 in chips) 
+vegas400 leaves the table
+Alameda22: posts small blind $0.10
+new_draks: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Ad]
+soup87: folds 
+ashiXIII: folds 
+Odilla: folds 
+DERUY joins the table at seat #5 
+TecateJack: folds 
+GordoSenador: calls $0.25
+Alameda22: folds 
+new_draks: checks 
+*** FLOP *** [Qh Qc Jc]
+new_draks: checks 
+GordoSenador: bets $0.75
+new_draks: folds 
+Uncalled bet ($0.75) returned to GordoSenador
+GordoSenador collected $0.60 from pot
+GordoSenador: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qh Qc Jc]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: new_draks (big blind) folded on the Flop
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla folded before Flop (didn't bet)
+Seat 8: TecateJack folded before Flop (didn't bet)
+Seat 9: GordoSenador (button) collected ($0.60)
+
+
+
+PokerStars Game #19570140476:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:40:02 (ET)
+Table 'Fornax' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 2: new_draks ($24.75 in chips) 
+Seat 3: soup87 ($27.25 in chips) 
+Seat 6: ashiXIII ($19.45 in chips) 
+Seat 7: Odilla ($26 in chips) 
+Seat 8: TecateJack ($24.65 in chips) 
+Seat 9: GordoSenador ($26.60 in chips) 
+new_draks: posts small blind $0.10
+soup87: posts big blind $0.25
+DERUY: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 5s]
+ashiXIII: folds 
+Odilla: folds 
+TecateJack: folds 
+GordoSenador: calls $0.25
+Alameda22: folds 
+new_draks: folds 
+soup87: checks 
+*** FLOP *** [4d As Ah]
+soup87: checks 
+GordoSenador: checks 
+*** TURN *** [4d As Ah] [Ac]
+soup87: checks 
+GordoSenador: checks 
+*** RIVER *** [4d As Ah Ac] [Qd]
+soup87: checks 
+GordoSenador: checks 
+*** SHOW DOWN ***
+soup87: shows [Js 8d] (three of a kind, Aces)
+GordoSenador: mucks hand 
+soup87 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4d As Ah Ac Qd]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: new_draks (small blind) folded before Flop
+Seat 3: soup87 (big blind) showed [Js 8d] and won ($0.60) with three of a kind, Aces
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla folded before Flop (didn't bet)
+Seat 8: TecateJack folded before Flop (didn't bet)
+Seat 9: GordoSenador mucked [Th 6h]
+
+
+
+PokerStars Game #19570169729:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:41:16 (ET)
+Table 'Fornax' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 2: new_draks ($24.65 in chips) 
+Seat 3: soup87 ($27.60 in chips) 
+Seat 5: DERUY ($25 in chips) 
+Seat 6: ashiXIII ($19.45 in chips) 
+Seat 7: Odilla ($26 in chips) 
+Seat 8: TecateJack ($24.65 in chips) 
+Seat 9: GordoSenador ($26.35 in chips) 
+soup87: posts small blind $0.10
+DERUY: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 9s]
+ashiXIII: folds 
+Odilla: raises $0.50 to $0.75
+TecateJack: folds 
+GordoSenador: folds 
+Alameda22: folds 
+new_draks: folds 
+GordoSenador leaves the table
+soup87: folds 
+DERUY: calls $0.50
+*** FLOP *** [6s 4s Qh]
+DERUY: checks 
+Resab joins the table at seat #9 
+Odilla: bets $1.25
+DERUY: folds 
+Uncalled bet ($1.25) returned to Odilla
+Odilla collected $1.55 from pot
+Odilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [6s 4s Qh]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks (button) folded before Flop (didn't bet)
+Seat 3: soup87 (small blind) folded before Flop
+Seat 5: DERUY (big blind) folded on the Flop
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla collected ($1.55)
+Seat 8: TecateJack folded before Flop (didn't bet)
+Seat 9: GordoSenador folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570190812:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:42:10 (ET)
+Table 'Fornax' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 2: new_draks ($24.65 in chips) 
+Seat 3: soup87 ($27.50 in chips) 
+Seat 5: DERUY ($24.25 in chips) 
+Seat 6: ashiXIII ($19.45 in chips) 
+Seat 7: Odilla ($26.80 in chips) 
+Seat 8: TecateJack ($24.65 in chips) 
+DERUY: posts small blind $0.10
+ashiXIII: posts big blind $0.25
+Resab: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 5s]
+Odilla: folds 
+TecateJack: folds 
+Alameda22: folds 
+new_draks: raises $0.75 to $1
+soup87: folds 
+DERUY: folds 
+ashiXIII: folds 
+Uncalled bet ($0.75) returned to new_draks
+new_draks collected $0.60 from pot
+new_draks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks collected ($0.60)
+Seat 3: soup87 (button) folded before Flop (didn't bet)
+Seat 5: DERUY (small blind) folded before Flop
+Seat 6: ashiXIII (big blind) folded before Flop
+Seat 7: Odilla folded before Flop (didn't bet)
+Seat 8: TecateJack folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570205464:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:42:47 (ET)
+Table 'Fornax' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($27.50 in chips) 
+Seat 5: DERUY ($24.15 in chips) 
+Seat 6: ashiXIII ($19.20 in chips) 
+Seat 7: Odilla ($26.80 in chips) 
+Seat 8: TecateJack ($24.65 in chips) 
+ashiXIII: posts small blind $0.10
+Odilla: posts big blind $0.25
+Resab: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 2d]
+TecateJack: folds 
+Alameda22: folds 
+new_draks: folds 
+soup87: folds 
+DERUY: folds 
+ashiXIII: folds 
+Uncalled bet ($0.15) returned to Odilla
+Odilla collected $0.20 from pot
+Odilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 5: DERUY (button) folded before Flop (didn't bet)
+Seat 6: ashiXIII (small blind) folded before Flop
+Seat 7: Odilla (big blind) collected ($0.20)
+Seat 8: TecateJack folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570227264:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:43:43 (ET)
+Table 'Fornax' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($27.50 in chips) 
+Seat 5: DERUY ($24.15 in chips) 
+Seat 6: ashiXIII ($19.10 in chips) 
+Seat 7: Odilla ($26.90 in chips) 
+Seat 8: TecateJack ($24.65 in chips) 
+Odilla: posts small blind $0.10
+TecateJack: posts big blind $0.25
+Resab: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 9h]
+Alameda22: folds 
+new_draks: folds 
+soup87: folds 
+DERUY: folds 
+ashiXIII: raises $0.75 to $1
+Odilla: folds 
+TecateJack: folds 
+Uncalled bet ($0.75) returned to ashiXIII
+ashiXIII collected $0.60 from pot
+ashiXIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII (button) collected ($0.60)
+Seat 7: Odilla (small blind) folded before Flop
+Seat 8: TecateJack (big blind) folded before Flop
+
+
+
+PokerStars Game #19570248385:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:44:36 (ET)
+Table 'Fornax' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($27.50 in chips) 
+Seat 5: DERUY ($24.15 in chips) 
+Seat 6: ashiXIII ($19.45 in chips) 
+Seat 7: Odilla ($26.80 in chips) 
+Seat 8: TecateJack ($24.40 in chips) 
+Seat 9: Resab ($15 in chips) 
+TecateJack: posts small blind $0.10
+Resab: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Ks]
+Alameda22: folds 
+new_draks: folds 
+soup87: folds 
+DERUY: folds 
+ashiXIII: folds 
+Odilla: raises $1.50 to $1.75
+TecateJack: folds 
+Resab: folds 
+Uncalled bet ($1.50) returned to Odilla
+Odilla collected $0.60 from pot
+Odilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla (button) collected ($0.60)
+Seat 8: TecateJack (small blind) folded before Flop
+Seat 9: Resab (big blind) folded before Flop
+
+
+
+PokerStars Game #19570272137:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:45:37 (ET)
+Table 'Fornax' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($27.50 in chips) 
+Seat 5: DERUY ($24.15 in chips) 
+Seat 6: ashiXIII ($19.45 in chips) 
+Seat 7: Odilla ($27.15 in chips) 
+Seat 8: TecateJack ($24.30 in chips) 
+Seat 9: Resab ($14.75 in chips) 
+Resab: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Th]
+new_draks: folds 
+soup87: folds 
+DERUY: folds 
+ashiXIII: folds 
+Odilla: folds 
+TecateJack: folds 
+Resab: raises $0.75 to $1
+Alameda22: calls $0.75
+*** FLOP *** [Ks Ad 5d]
+Resab: bets $0.50
+Alameda22: calls $0.50
+*** TURN *** [Ks Ad 5d] [Qd]
+Resab: bets $1.50
+Alameda22: calls $1.50
+*** RIVER *** [Ks Ad 5d Qd] [6c]
+Resab: bets $4
+Alameda22: folds 
+Uncalled bet ($4) returned to Resab
+Resab collected $5.75 from pot
+Resab: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.25 
+Board [Ks Ad 5d Qd 6c]
+Seat 1: Alameda22 (big blind) folded on the River
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla folded before Flop (didn't bet)
+Seat 8: TecateJack (button) folded before Flop (didn't bet)
+Seat 9: Resab (small blind) collected ($5.75)
+
+
+
+PokerStars Game #19570315745:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:47:28 (ET)
+Table 'Fornax' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($21.65 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($27.50 in chips) 
+Seat 5: DERUY ($24.15 in chips) 
+Seat 6: ashiXIII ($19.45 in chips) 
+Seat 7: Odilla ($27.15 in chips) 
+Seat 8: TecateJack ($24.30 in chips) 
+Seat 9: Resab ($17.50 in chips) 
+Alameda22: posts small blind $0.10
+new_draks: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Td]
+soup87: folds 
+DERUY: folds 
+ashiXIII: folds 
+Odilla: folds 
+TecateJack: folds 
+Resab: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to new_draks
+new_draks collected $0.20 from pot
+new_draks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: new_draks (big blind) collected ($0.20)
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla folded before Flop (didn't bet)
+Seat 8: TecateJack folded before Flop (didn't bet)
+Seat 9: Resab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570326078:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:47:55 (ET)
+Table 'Fornax' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($21.55 in chips) 
+Seat 2: new_draks ($25.10 in chips) 
+Seat 3: soup87 ($27.50 in chips) 
+Seat 5: DERUY ($24.15 in chips) 
+Seat 6: ashiXIII ($19.45 in chips) 
+Seat 7: Odilla ($27.15 in chips) 
+Seat 8: TecateJack ($24.30 in chips) 
+Seat 9: Resab ($17.50 in chips) 
+new_draks: posts small blind $0.10
+soup87: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Jc]
+DERUY: folds 
+ashiXIII: folds 
+Odilla: folds 
+TecateJack: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+Uncalled bet ($0.15) returned to soup87
+soup87 collected $0.20 from pot
+soup87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: new_draks (small blind) folded before Flop
+Seat 3: soup87 (big blind) collected ($0.20)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla folded before Flop (didn't bet)
+Seat 8: TecateJack folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570338951:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:48:28 (ET)
+Table 'Fornax' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($21.55 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($27.60 in chips) 
+Seat 5: DERUY ($24.15 in chips) 
+Seat 6: ashiXIII ($19.45 in chips) 
+Seat 7: Odilla ($27.15 in chips) 
+Seat 8: TecateJack ($24.30 in chips) 
+Seat 9: Resab ($17.50 in chips) 
+soup87: posts small blind $0.10
+DERUY: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 5c]
+ashiXIII: folds 
+Odilla: folds 
+TecateJack: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+soup87: raises $0.50 to $0.75
+DERUY: folds 
+Uncalled bet ($0.50) returned to soup87
+soup87 collected $0.50 from pot
+soup87: doesn't show hand 
+Han_Solo_71 has returned
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks (button) folded before Flop (didn't bet)
+Seat 3: soup87 (small blind) collected ($0.50)
+Seat 5: DERUY (big blind) folded before Flop
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla folded before Flop (didn't bet)
+Seat 8: TecateJack folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570352657:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:49:03 (ET)
+Table 'Fornax' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($21.55 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($27.85 in chips) 
+Seat 5: DERUY ($23.90 in chips) 
+Seat 6: ashiXIII ($19.45 in chips) 
+Seat 7: Odilla ($27.15 in chips) 
+Seat 8: TecateJack ($24.30 in chips) 
+Seat 9: Resab ($17.50 in chips) 
+Han_Solo_71 will be allowed to play after the button
+DERUY: posts small blind $0.10
+ashiXIII: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 3s]
+Odilla: calls $0.25
+TecateJack: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+soup87: folds 
+DERUY: folds 
+ashiXIII: checks 
+*** FLOP *** [Kd Kc 3h]
+ashiXIII: checks 
+Odilla: bets $0.50
+ashiXIII: folds 
+Uncalled bet ($0.50) returned to Odilla
+Odilla collected $0.60 from pot
+Odilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kd Kc 3h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 (button) folded before Flop (didn't bet)
+Seat 5: DERUY (small blind) folded before Flop
+Seat 6: ashiXIII (big blind) folded on the Flop
+Seat 7: Odilla collected ($0.60)
+Seat 8: TecateJack folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570381198:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:50:16 (ET)
+Table 'Fornax' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($21.55 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($27.85 in chips) 
+Seat 5: DERUY ($23.80 in chips) 
+Seat 6: ashiXIII ($19.20 in chips) 
+Seat 7: Odilla ($27.50 in chips) 
+Seat 8: TecateJack ($24.30 in chips) 
+Seat 9: Resab ($17.50 in chips) 
+ashiXIII: posts small blind $0.10
+Odilla: posts big blind $0.25
+Han_Solo_71: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 6d]
+TecateJack: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+soup87: folds 
+DERUY: folds 
+ashiXIII: folds 
+Uncalled bet ($0.15) returned to Odilla
+Odilla collected $0.20 from pot
+Odilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 5: DERUY (button) folded before Flop (didn't bet)
+Seat 6: ashiXIII (small blind) folded before Flop
+Seat 7: Odilla (big blind) collected ($0.20)
+Seat 8: TecateJack folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570400970:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:51:07 (ET)
+Table 'Fornax' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($21.55 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($27.85 in chips) 
+Seat 5: DERUY ($23.80 in chips) 
+Seat 6: ashiXIII ($19.10 in chips) 
+Seat 7: Odilla ($27.60 in chips) 
+Seat 8: TecateJack ($24.30 in chips) 
+Seat 9: Resab ($17.50 in chips) 
+Odilla: posts small blind $0.10
+TecateJack: posts big blind $0.25
+Han_Solo_71: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 2s]
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+soup87: folds 
+DERUY: folds 
+ashiXIII: folds 
+Odilla: calls $0.15
+TecateJack: checks 
+*** FLOP *** [Qh Jd 6c]
+Odilla: checks 
+TecateJack: checks 
+*** TURN *** [Qh Jd 6c] [4c]
+Odilla: bets $0.50
+TecateJack: calls $0.50
+*** RIVER *** [Qh Jd 6c 4c] [6s]
+Odilla: bets $0.50
+TecateJack: calls $0.50
+*** SHOW DOWN ***
+Odilla: shows [Td Qs] (two pair, Queens and Sixes)
+TecateJack: mucks hand 
+Odilla collected $2.40 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Qh Jd 6c 4c 6s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII (button) folded before Flop (didn't bet)
+Seat 7: Odilla (small blind) showed [Td Qs] and won ($2.40) with two pair, Queens and Sixes
+Seat 8: TecateJack (big blind) mucked [4s 3d]
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570425010:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:52:09 (ET)
+Table 'Fornax' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($21.55 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($27.85 in chips) 
+Seat 5: DERUY ($23.80 in chips) 
+Seat 6: ashiXIII ($19.10 in chips) 
+Seat 7: Odilla ($28.75 in chips) 
+Seat 8: TecateJack ($23.05 in chips) 
+Seat 9: Resab ($17.50 in chips) 
+TecateJack: posts small blind $0.10
+Resab: posts big blind $0.25
+Han_Solo_71: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Jd]
+Alameda22: folds 
+new_draks: folds 
+soup87: folds 
+DERUY: folds 
+ashiXIII: folds 
+Odilla: raises $0.50 to $0.75
+TecateJack: folds 
+Resab: folds 
+Uncalled bet ($0.50) returned to Odilla
+Odilla collected $0.60 from pot
+Odilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla (button) collected ($0.60)
+Seat 8: TecateJack (small blind) folded before Flop
+Seat 9: Resab (big blind) folded before Flop
+
+
+
+PokerStars Game #19570446308:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:53:04 (ET)
+Table 'Fornax' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($21.55 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($27.85 in chips) 
+Seat 5: DERUY ($23.80 in chips) 
+Seat 6: ashiXIII ($19.10 in chips) 
+Seat 7: Odilla ($29.10 in chips) 
+Seat 8: TecateJack ($22.95 in chips) 
+Seat 9: Resab ($17.25 in chips) 
+Resab: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Han_Solo_71: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 4s]
+new_draks: folds 
+soup87: folds 
+DERUY: folds 
+ashiXIII: folds 
+Odilla: folds 
+TecateJack: folds 
+Resab: raises $0.75 to $1
+Alameda22: folds 
+Uncalled bet ($0.75) returned to Resab
+Resab collected $0.50 from pot
+Resab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla folded before Flop (didn't bet)
+Seat 8: TecateJack (button) folded before Flop (didn't bet)
+Seat 9: Resab (small blind) collected ($0.50)
+
+
+
+PokerStars Game #19570476218:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:54:22 (ET)
+Table 'Fornax' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($21.30 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($27.85 in chips) 
+Seat 5: DERUY ($23.80 in chips) 
+Seat 6: ashiXIII ($19.10 in chips) 
+Seat 7: Odilla ($29.10 in chips) 
+Seat 8: TecateJack ($22.95 in chips) 
+Seat 9: Resab ($17.50 in chips) 
+Alameda22: posts small blind $0.10
+new_draks: posts big blind $0.25
+Han_Solo_71: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 8c]
+soup87: raises $0.50 to $0.75
+DERUY: folds 
+DERUY is sitting out
+ashiXIII: folds 
+Odilla: folds 
+TecateJack: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+Uncalled bet ($0.50) returned to soup87
+soup87 collected $0.60 from pot
+soup87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: new_draks (big blind) folded before Flop
+Seat 3: soup87 collected ($0.60)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla folded before Flop (didn't bet)
+Seat 8: TecateJack folded before Flop (didn't bet)
+Seat 9: Resab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570494768:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:55:10 (ET)
+Table 'Fornax' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($21.20 in chips) 
+Seat 2: new_draks ($24.75 in chips) 
+Seat 3: soup87 ($28.20 in chips) 
+Seat 6: ashiXIII ($19.10 in chips) 
+Seat 7: Odilla ($29.10 in chips) 
+Seat 8: TecateJack ($22.95 in chips) 
+Seat 9: Resab ($17.50 in chips) 
+new_draks: posts small blind $0.10
+soup87: posts big blind $0.25
+Han_Solo_71: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 8d]
+ashiXIII: folds 
+Odilla: raises $0.50 to $0.75
+TecateJack: folds 
+Resab: folds 
+Alameda22: calls $0.75
+new_draks: folds 
+soup87: raises $2.75 to $3.50
+Odilla: folds 
+Alameda22: folds 
+Uncalled bet ($2.75) returned to soup87
+soup87 collected $2.35 from pot
+soup87: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop
+Seat 2: new_draks (small blind) folded before Flop
+Seat 3: soup87 (big blind) collected ($2.35)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla folded before Flop
+Seat 8: TecateJack folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570532276:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:56:47 (ET)
+Table 'Fornax' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($20.45 in chips) 
+Seat 2: new_draks ($24.65 in chips) 
+Seat 3: soup87 ($29.80 in chips) 
+Seat 4: Han_Solo_71 ($10.50 in chips) 
+Seat 6: ashiXIII ($19.10 in chips) 
+Seat 7: Odilla ($28.35 in chips) 
+Seat 8: TecateJack ($22.95 in chips) 
+Seat 9: Resab ($17.50 in chips) 
+soup87: posts small blind $0.10
+Han_Solo_71: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 4d]
+ashiXIII: folds 
+Odilla: folds 
+TecateJack: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+soup87: raises $0.50 to $0.75
+Han_Solo_71: folds 
+Uncalled bet ($0.50) returned to soup87
+soup87 collected $0.50 from pot
+soup87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks (button) folded before Flop (didn't bet)
+Seat 3: soup87 (small blind) collected ($0.50)
+Seat 4: Han_Solo_71 (big blind) folded before Flop
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla folded before Flop (didn't bet)
+Seat 8: TecateJack folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570546014:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:57:23 (ET)
+Table 'Fornax' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($20.45 in chips) 
+Seat 2: new_draks ($24.65 in chips) 
+Seat 3: soup87 ($30.05 in chips) 
+Seat 4: Han_Solo_71 ($10.25 in chips) 
+Seat 6: ashiXIII ($19.10 in chips) 
+Seat 7: Odilla ($28.35 in chips) 
+Seat 8: TecateJack ($22.95 in chips) 
+Seat 9: Resab ($17.50 in chips) 
+Han_Solo_71: posts small blind $0.10
+ashiXIII: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 9s]
+Odilla: calls $0.25
+TecateJack: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+soup87: folds 
+Han_Solo_71: folds 
+ashiXIII: checks 
+*** FLOP *** [Kh Qs 6d]
+ashiXIII: checks 
+Odilla: checks 
+*** TURN *** [Kh Qs 6d] [Th]
+ashiXIII: checks 
+Odilla: checks 
+*** RIVER *** [Kh Qs 6d Th] [5h]
+ashiXIII: checks 
+Odilla: checks 
+*** SHOW DOWN ***
+ashiXIII: shows [3h 6s] (a pair of Sixes)
+Odilla: mucks hand 
+ashiXIII collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kh Qs 6d Th 5h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 (button) folded before Flop (didn't bet)
+Seat 4: Han_Solo_71 (small blind) folded before Flop
+Seat 6: ashiXIII (big blind) showed [3h 6s] and won ($0.60) with a pair of Sixes
+Seat 7: Odilla mucked [As 8h]
+Seat 8: TecateJack folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570568624:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:58:22 (ET)
+Table 'Fornax' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($20.45 in chips) 
+Seat 2: new_draks ($24.65 in chips) 
+Seat 3: soup87 ($30.05 in chips) 
+Seat 4: Han_Solo_71 ($10.15 in chips) 
+Seat 6: ashiXIII ($19.45 in chips) 
+Seat 7: Odilla ($28.10 in chips) 
+Seat 8: TecateJack ($22.95 in chips) 
+Seat 9: Resab ($17.50 in chips) 
+ashiXIII: posts small blind $0.10
+Odilla: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Qh]
+TecateJack: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+soup87: folds 
+Han_Solo_71: folds 
+ashiXIII: calls $0.15
+Odilla: checks 
+*** FLOP *** [8s 3h 6c]
+ashiXIII: bets $0.50
+Odilla: calls $0.50
+*** TURN *** [8s 3h 6c] [5h]
+ashiXIII: checks 
+Odilla: bets $1
+ashiXIII: calls $1
+*** RIVER *** [8s 3h 6c 5h] [2c]
+ashiXIII: checks 
+Odilla: checks 
+*** SHOW DOWN ***
+ashiXIII: shows [7d 6d] (a pair of Sixes)
+Odilla: shows [Tc 8h] (a pair of Eights)
+Odilla collected $3.35 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [8s 3h 6c 5h 2c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 4: Han_Solo_71 (button) folded before Flop (didn't bet)
+Seat 6: ashiXIII (small blind) showed [7d 6d] and lost with a pair of Sixes
+Seat 7: Odilla (big blind) showed [Tc 8h] and won ($3.35) with a pair of Eights
+Seat 8: TecateJack folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570599696:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:59:44 (ET)
+Table 'Fornax' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($20.45 in chips) 
+Seat 2: new_draks ($24.65 in chips) 
+Seat 3: soup87 ($30.05 in chips) 
+Seat 4: Han_Solo_71 ($10.15 in chips) 
+Seat 6: ashiXIII ($17.70 in chips) 
+Seat 7: Odilla ($29.70 in chips) 
+Seat 8: TecateJack ($22.95 in chips) 
+Seat 9: Resab ($17.50 in chips) 
+Odilla: posts small blind $0.10
+TecateJack: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Qd]
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+soup87: folds 
+Han_Solo_71: folds 
+ashiXIII: folds 
+Odilla: calls $0.15
+TecateJack: raises $0.65 to $0.90
+Odilla: calls $0.65
+*** FLOP *** [6h Ac 7d]
+Odilla: checks 
+TecateJack: bets $1.30
+Odilla: calls $1.30
+*** TURN *** [6h Ac 7d] [Qc]
+Odilla: checks 
+TecateJack: checks 
+*** RIVER *** [6h Ac 7d Qc] [7h]
+Odilla: bets $3.50
+TecateJack: calls $3.50
+*** SHOW DOWN ***
+Odilla: shows [Ts 9h] (a pair of Sevens)
+TecateJack: shows [As Td] (two pair, Aces and Sevens)
+TecateJack collected $10.85 from pot
+*** SUMMARY ***
+Total pot $11.40 | Rake $0.55 
+Board [6h Ac 7d Qc 7h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 4: Han_Solo_71 folded before Flop (didn't bet)
+Seat 6: ashiXIII (button) folded before Flop (didn't bet)
+Seat 7: Odilla (small blind) showed [Ts 9h] and lost with a pair of Sevens
+Seat 8: TecateJack (big blind) showed [As Td] and won ($10.85) with two pair, Aces and Sevens
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570644878:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:01:41 (ET)
+Table 'Fornax' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($20.45 in chips) 
+Seat 2: new_draks ($24.65 in chips) 
+Seat 3: soup87 ($30.05 in chips) 
+Seat 4: Han_Solo_71 ($10.15 in chips) 
+Seat 6: ashiXIII ($17.70 in chips) 
+Seat 7: Odilla ($24 in chips) 
+Seat 8: TecateJack ($28.10 in chips) 
+Seat 9: Resab ($17.50 in chips) 
+TecateJack: posts small blind $0.10
+Resab: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 2c]
+Alameda22: folds 
+new_draks: folds 
+soup87: folds 
+Han_Solo_71: folds 
+Han_Solo_71 is sitting out
+Han_Solo_71 leaves the table
+ashiXIII: folds 
+Odilla: calls $0.25
+TecateJack: raises $0.85 to $1.10
+Resab: calls $0.85
+Odilla: calls $0.85
+*** FLOP *** [8c 5s Ad]
+TecateJack: bets $2.30
+Resab: calls $2.30
+Odilla: calls $2.30
+*** TURN *** [8c 5s Ad] [Ts]
+TecateJack: bets $24.70 and is all-in
+Resab: calls $14.10 and is all-in
+Odilla: folds 
+Uncalled bet ($10.60) returned to TecateJack
+*** RIVER *** [8c 5s Ad Ts] [Jh]
+*** SHOW DOWN ***
+TecateJack: shows [7h 9d] (a straight, Seven to Jack)
+Resab: shows [8h 8s] (three of a kind, Eights)
+TecateJack collected $36.55 from pot
+jerscho joins the table at seat #4 
+DERUY has returned
+*** SUMMARY ***
+Total pot $38.40 | Rake $1.85 
+Board [8c 5s Ad Ts Jh]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 4: Han_Solo_71 folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla (button) folded on the Turn
+Seat 8: TecateJack (small blind) showed [7h 9d] and won ($36.55) with a straight, Seven to Jack
+Seat 9: Resab (big blind) showed [8h 8s] and lost with three of a kind, Eights
+
+
+
+PokerStars Game #19570675984:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:03:00 (ET)
+Table 'Fornax' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($20.45 in chips) 
+Seat 2: new_draks ($24.65 in chips) 
+Seat 3: soup87 ($30.05 in chips) 
+Seat 4: jerscho ($20 in chips) 
+Seat 6: ashiXIII ($17.70 in chips) 
+Seat 7: Odilla ($20.60 in chips) 
+Seat 8: TecateJack ($47.15 in chips) 
+Alameda22: posts small blind $0.10
+new_draks: posts big blind $0.25
+jerscho: posts big blind $0.25
+DERUY: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 3h]
+soup87: folds 
+jerscho: checks 
+Resab said, "donk"
+ashiXIII: calls $0.25
+Odilla: calls $0.25
+TecateJack: folds 
+Alameda22: folds 
+new_draks: checks 
+*** FLOP *** [Tc Td 6h]
+Resab has returned
+new_draks: checks 
+jerscho: checks 
+ashiXIII: checks 
+Odilla: checks 
+*** TURN *** [Tc Td 6h] [Kh]
+new_draks: checks 
+jerscho: checks 
+ashiXIII: checks 
+Odilla: checks 
+*** RIVER *** [Tc Td 6h Kh] [3d]
+new_draks: checks 
+jerscho: checks 
+ashiXIII: checks 
+Odilla: checks 
+*** SHOW DOWN ***
+new_draks: shows [Jc 9d] (a pair of Tens)
+jerscho: mucks hand 
+ashiXIII: shows [4h 4s] (two pair, Tens and Fours)
+Odilla: mucks hand 
+ashiXIII collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Tc Td 6h Kh 3d]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: new_draks (big blind) showed [Jc 9d] and lost with a pair of Tens
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 4: jerscho mucked [5h 8c]
+Seat 6: ashiXIII showed [4h 4s] and won ($1.05) with two pair, Tens and Fours
+Seat 7: Odilla mucked [2c As]
+Seat 8: TecateJack (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570720547:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:04:54 (ET)
+Table 'Fornax' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($20.35 in chips) 
+Seat 2: new_draks ($24.40 in chips) 
+Seat 3: soup87 ($30.05 in chips) 
+Seat 4: jerscho ($19.75 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 7: Odilla ($20.35 in chips) 
+Seat 8: TecateJack ($47.15 in chips) 
+new_draks: posts small blind $0.10
+soup87: posts big blind $0.25
+DERUY: sits out 
+Resab: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s As]
+jerscho: raises $0.50 to $0.75
+ashiXIII: folds 
+Odilla: folds 
+TecateJack: folds 
+Alameda22: folds 
+new_draks: folds 
+soup87: folds 
+Uncalled bet ($0.50) returned to jerscho
+jerscho collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: new_draks (small blind) folded before Flop
+Seat 3: soup87 (big blind) folded before Flop
+Seat 4: jerscho collected ($0.60)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla folded before Flop (didn't bet)
+Seat 8: TecateJack folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570745452:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:05:59 (ET)
+Table 'Fornax' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($20.35 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($29.80 in chips) 
+Seat 4: jerscho ($20.10 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 7: Odilla ($20.35 in chips) 
+Seat 8: TecateJack ($47.15 in chips) 
+soup87: posts small blind $0.10
+jerscho: posts big blind $0.25
+DERUY: sits out 
+Resab: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 3c]
+ashiXIII: folds 
+Odilla: folds 
+TecateJack: folds 
+Alameda22: folds 
+new_draks: folds 
+soup87: folds 
+Uncalled bet ($0.15) returned to jerscho
+jerscho collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks (button) folded before Flop (didn't bet)
+Seat 3: soup87 (small blind) folded before Flop
+Seat 4: jerscho (big blind) collected ($0.20)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla folded before Flop (didn't bet)
+Seat 8: TecateJack folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570756937:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:06:28 (ET)
+Table 'Fornax' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($20.35 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($29.70 in chips) 
+Seat 4: jerscho ($20.20 in chips) 
+Seat 5: DERUY ($23.80 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 7: Odilla ($20.35 in chips) 
+Seat 8: TecateJack ($47.15 in chips) 
+Seat 9: Resab ($15 in chips) 
+jerscho: posts small blind $0.10
+DERUY: posts big blind $0.25
+Resab: posts small blind $0.10
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Ac]
+ashiXIII: folds 
+Odilla: calls $0.25
+TecateJack: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+soup87: folds 
+jerscho: calls $0.15
+DERUY: checks 
+*** FLOP *** [9s 5d Kd]
+jerscho: bets $0.25
+DERUY: folds 
+Odilla: calls $0.25
+*** TURN *** [9s 5d Kd] [5h]
+jerscho: bets $0.25
+Odilla: calls $0.25
+*** RIVER *** [9s 5d Kd 5h] [Jd]
+jerscho: bets $0.50
+Odilla: calls $0.50
+*** SHOW DOWN ***
+jerscho: shows [Td 4d] (a flush, King high)
+Odilla: mucks hand 
+jerscho collected $2.75 from pot
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [9s 5d Kd 5h Jd]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 (button) folded before Flop (didn't bet)
+Seat 4: jerscho (small blind) showed [Td 4d] and won ($2.75) with a flush, King high
+Seat 5: DERUY (big blind) folded on the Flop
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla mucked [9h Qh]
+Seat 8: TecateJack folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop
+
+
+
+PokerStars Game #19570804381:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:08:30 (ET)
+Table 'Fornax' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($20.35 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($29.70 in chips) 
+Seat 4: jerscho ($21.70 in chips) 
+Seat 5: DERUY ($23.55 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 7: Odilla ($19.10 in chips) 
+Seat 8: TecateJack ($47.15 in chips) 
+Seat 9: Resab ($14.90 in chips) 
+DERUY: posts small blind $0.10
+ashiXIII: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 3d]
+Odilla: folds 
+TecateJack: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+soup87: folds 
+jerscho: folds 
+DERUY: folds 
+Uncalled bet ($0.15) returned to ashiXIII
+ashiXIII collected $0.20 from pot
+ashiXIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 4: jerscho (button) folded before Flop (didn't bet)
+Seat 5: DERUY (small blind) folded before Flop
+Seat 6: ashiXIII (big blind) collected ($0.20)
+Seat 7: Odilla folded before Flop (didn't bet)
+Seat 8: TecateJack folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570820809:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:09:13 (ET)
+Table 'Fornax' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($20.35 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: soup87 ($29.70 in chips) 
+Seat 4: jerscho ($21.70 in chips) 
+Seat 5: DERUY ($23.45 in chips) 
+Seat 6: ashiXIII ($18.60 in chips) 
+Seat 7: Odilla ($25 in chips) 
+Seat 8: TecateJack ($47.15 in chips) 
+Seat 9: Resab ($14.90 in chips) 
+ashiXIII: posts small blind $0.10
+Odilla: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 6s]
+TecateJack: folds 
+Resab: folds 
+TecateJack is sitting out
+Alameda22: folds 
+new_draks: folds 
+soup87: folds 
+soup87 is sitting out
+jerscho: folds 
+DERUY: folds 
+ashiXIII: folds 
+Uncalled bet ($0.15) returned to Odilla
+Odilla collected $0.20 from pot
+Odilla: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: soup87 folded before Flop (didn't bet)
+Seat 4: jerscho folded before Flop (didn't bet)
+Seat 5: DERUY (button) folded before Flop (didn't bet)
+Seat 6: ashiXIII (small blind) folded before Flop
+Seat 7: Odilla (big blind) collected ($0.20)
+Seat 8: TecateJack folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570839841:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:10:02 (ET)
+Table 'Fornax' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($20.35 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 4: jerscho ($21.70 in chips) 
+Seat 5: DERUY ($23.45 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 7: Odilla ($25.10 in chips) 
+Seat 9: Resab ($14.90 in chips) 
+Odilla: posts small blind $0.10
+Resab: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 6h]
+Alameda22: folds 
+new_draks: folds 
+TecateJack leaves the table
+jerscho: calls $0.25
+DERUY: folds 
+ashiXIII: folds 
+Odilla: calls $0.15
+Resab: checks 
+*** FLOP *** [4c Ad 9d]
+Eliminator6 joins the table at seat #8 
+Odilla: checks 
+Resab: checks 
+jerscho: checks 
+*** TURN *** [4c Ad 9d] [Kc]
+Odilla: bets $1
+Resab: folds 
+jerscho: folds 
+Uncalled bet ($1) returned to Odilla
+Odilla collected $0.75 from pot
+soup87 leaves the table
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [4c Ad 9d Kc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 4: jerscho folded on the Turn
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII (button) folded before Flop (didn't bet)
+Seat 7: Odilla (small blind) collected ($0.75)
+Seat 9: Resab (big blind) folded on the Turn
+
+
+
+PokerStars Game #19570885981:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:12:01 (ET)
+Table 'Fornax' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($20.35 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 4: jerscho ($21.45 in chips) 
+Seat 5: DERUY ($23.45 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 7: Odilla ($25.60 in chips) 
+Seat 9: Resab ($14.65 in chips) 
+Eliminator6 will be allowed to play after the button
+Resab: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Ks]
+new_draks: folds 
+jerscho: folds 
+DERUY: folds 
+ashiXIII: folds 
+Odilla: folds 
+Resab: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 (big blind) collected ($0.20)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 4: jerscho folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla (button) folded before Flop (didn't bet)
+Seat 9: Resab (small blind) folded before Flop
+
+
+
+PokerStars Game #19570904235:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:12:48 (ET)
+Table 'Fornax' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($20.45 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 4: jerscho ($21.45 in chips) 
+Seat 5: DERUY ($23.45 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 7: Odilla ($25.60 in chips) 
+Seat 9: Resab ($14.55 in chips) 
+Alameda22: posts small blind $0.10
+new_draks: posts big blind $0.25
+Eliminator6: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Tc]
+jerscho: calls $0.25
+DERUY: folds 
+ashiXIII: folds 
+Primos-Poker joins the table at seat #3 
+Odilla: raises $0.75 to $1
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+jerscho: folds 
+Uncalled bet ($0.75) returned to Odilla
+Odilla collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: new_draks (big blind) folded before Flop
+Seat 4: jerscho folded before Flop
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla collected ($0.85)
+Seat 9: Resab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570928088:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:13:53 (ET)
+Table 'Fornax' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($20.35 in chips) 
+Seat 2: new_draks ($24.75 in chips) 
+Seat 3: Primos-Poker ($15 in chips) 
+Seat 4: jerscho ($21.20 in chips) 
+Seat 5: DERUY ($23.45 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 7: Odilla ($26.20 in chips) 
+Seat 9: Resab ($14.55 in chips) 
+new_draks: posts small blind $0.10
+Primos-Poker: posts big blind $0.25
+Eliminator6: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 2c]
+jerscho: folds 
+DERUY: folds 
+ashiXIII: folds 
+Odilla: folds 
+Odilla leaves the table
+Resab: folds 
+Alameda22: folds 
+DaDalein joins the table at seat #7 
+new_draks: folds 
+Uncalled bet ($0.15) returned to Primos-Poker
+Primos-Poker collected $0.20 from pot
+Primos-Poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: new_draks (small blind) folded before Flop
+Seat 3: Primos-Poker (big blind) collected ($0.20)
+Seat 4: jerscho folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: Odilla folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570951575:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:14:55 (ET)
+Table 'Fornax' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($20.35 in chips) 
+Seat 2: new_draks ($24.65 in chips) 
+Seat 3: Primos-Poker ($15.10 in chips) 
+Seat 4: jerscho ($21.20 in chips) 
+Seat 5: DERUY ($23.45 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 9: Resab ($14.55 in chips) 
+Primos-Poker: posts small blind $0.10
+jerscho: posts big blind $0.25
+DaDalein: sits out 
+Eliminator6: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Jd]
+DERUY: folds 
+ashiXIII: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: raises $0.75 to $1
+Primos-Poker: calls $0.90
+jerscho: folds 
+*** FLOP *** [6s 6d 3d]
+Primos-Poker: checks 
+new_draks: checks 
+*** TURN *** [6s 6d 3d] [5d]
+Primos-Poker: checks 
+new_draks: checks 
+*** RIVER *** [6s 6d 3d 5d] [5c]
+Primos-Poker: checks 
+new_draks: checks 
+*** SHOW DOWN ***
+Primos-Poker: shows [Jc Qh] (two pair, Sixes and Fives)
+new_draks: shows [Ks Qc] (two pair, Sixes and Fives - King kicker)
+new_draks collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [6s 6d 3d 5d 5c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks (button) showed [Ks Qc] and won ($2.15) with two pair, Sixes and Fives
+Seat 3: Primos-Poker (small blind) showed [Jc Qh] and lost with two pair, Sixes and Fives
+Seat 4: jerscho (big blind) folded before Flop
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570978451:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:16:05 (ET)
+Table 'Fornax' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($20.35 in chips) 
+Seat 2: new_draks ($25.80 in chips) 
+Seat 3: Primos-Poker ($14.10 in chips) 
+Seat 4: jerscho ($20.95 in chips) 
+Seat 5: DERUY ($23.45 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 9: Resab ($14.55 in chips) 
+jerscho: posts small blind $0.10
+DERUY: posts big blind $0.25
+DaDalein: sits out 
+Eliminator6: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 5s]
+ashiXIII: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: folds 
+jerscho: calls $0.15
+DERUY: checks 
+*** FLOP *** [4h 8h 2s]
+jerscho: checks 
+DERUY: bets $0.75
+jerscho: folds 
+Uncalled bet ($0.75) returned to DERUY
+DERUY collected $0.50 from pot
+DERUY: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [4h 8h 2s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker (button) folded before Flop (didn't bet)
+Seat 4: jerscho (small blind) folded on the Flop
+Seat 5: DERUY (big blind) collected ($0.50)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571018084:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:17:49 (ET)
+Table 'Fornax' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($20.35 in chips) 
+Seat 2: new_draks ($25.80 in chips) 
+Seat 3: Primos-Poker ($14.10 in chips) 
+Seat 4: jerscho ($20.70 in chips) 
+Seat 5: DERUY ($23.70 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 9: Resab ($14.55 in chips) 
+DERUY: posts small blind $0.10
+ashiXIII: posts big blind $0.25
+DaDalein: sits out 
+Eliminator6: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 5s]
+Resab: folds 
+Alameda22: folds 
+new_draks: raises $0.75 to $1
+Primos-Poker: folds 
+jerscho: folds 
+DERUY: folds 
+ashiXIII: folds 
+Uncalled bet ($0.75) returned to new_draks
+new_draks collected $0.60 from pot
+new_draks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks collected ($0.60)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 4: jerscho (button) folded before Flop (didn't bet)
+Seat 5: DERUY (small blind) folded before Flop
+Seat 6: ashiXIII (big blind) folded before Flop
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571032259:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:18:27 (ET)
+Table 'Fornax' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($20.35 in chips) 
+Seat 2: new_draks ($26.15 in chips) 
+Seat 3: Primos-Poker ($14.10 in chips) 
+Seat 4: jerscho ($20.70 in chips) 
+Seat 5: DERUY ($23.60 in chips) 
+Seat 6: ashiXIII ($18.25 in chips) 
+Seat 7: DaDalein ($25 in chips) 
+Seat 9: Resab ($14.55 in chips) 
+ashiXIII: posts small blind $0.10
+DaDalein: posts big blind $0.25
+Eliminator6: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Kc]
+Resab: calls $0.25
+Alameda22: folds 
+new_draks: raises $1 to $1.25
+Primos-Poker: folds 
+jerscho: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Resab: raises $1.25 to $2.50
+new_draks: calls $1.25
+*** FLOP *** [2d 4d Js]
+Resab: bets $2
+new_draks: folds 
+Uncalled bet ($2) returned to Resab
+Resab collected $5.10 from pot
+Resab: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [2d 4d Js]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded on the Flop
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 4: jerscho folded before Flop (didn't bet)
+Seat 5: DERUY (button) folded before Flop (didn't bet)
+Seat 6: ashiXIII (small blind) folded before Flop
+Seat 7: DaDalein (big blind) folded before Flop
+Seat 9: Resab collected ($5.10)
+
+
+
+PokerStars Game #19571069130:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:20:03 (ET)
+Table 'Fornax' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($20.35 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: Primos-Poker ($14.10 in chips) 
+Seat 4: jerscho ($20.70 in chips) 
+Seat 5: DERUY ($23.60 in chips) 
+Seat 6: ashiXIII ($18.15 in chips) 
+Seat 7: DaDalein ($24.75 in chips) 
+Seat 8: Eliminator6 ($25 in chips) 
+Seat 9: Resab ($17.15 in chips) 
+DaDalein: posts small blind $0.10
+Eliminator6: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 6h]
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: folds 
+jerscho: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Uncalled bet ($0.15) returned to Eliminator6
+Eliminator6 collected $0.20 from pot
+Eliminator6: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 4: jerscho folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII (button) folded before Flop (didn't bet)
+Seat 7: DaDalein (small blind) folded before Flop
+Seat 8: Eliminator6 (big blind) collected ($0.20)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571088087:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:20:52 (ET)
+Table 'Fornax' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($20.35 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: Primos-Poker ($14.10 in chips) 
+Seat 4: jerscho ($20.70 in chips) 
+Seat 5: DERUY ($23.60 in chips) 
+Seat 6: ashiXIII ($18.15 in chips) 
+Seat 7: DaDalein ($24.65 in chips) 
+Seat 8: Eliminator6 ($25.10 in chips) 
+Seat 9: Resab ($17.15 in chips) 
+Eliminator6: posts small blind $0.10
+Resab: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 9s]
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: folds 
+jerscho: folds 
+DERUY: folds 
+ashiXIII: raises $0.75 to $1
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Uncalled bet ($0.75) returned to ashiXIII
+ashiXIII collected $0.60 from pot
+ashiXIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 4: jerscho folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII collected ($0.60)
+Seat 7: DaDalein (button) folded before Flop (didn't bet)
+Seat 8: Eliminator6 (small blind) folded before Flop
+Seat 9: Resab (big blind) folded before Flop
+
+
+
+PokerStars Game #19571109727:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:21:49 (ET)
+Table 'Fornax' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($20.35 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: Primos-Poker ($14.10 in chips) 
+Seat 4: jerscho ($20.70 in chips) 
+Seat 5: DERUY ($23.60 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 7: DaDalein ($24.65 in chips) 
+Seat 8: Eliminator6 ($25 in chips) 
+Seat 9: Resab ($16.90 in chips) 
+Resab: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 3h]
+new_draks: folds 
+Primos-Poker: folds 
+jerscho: calls $0.25
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: checks 
+*** FLOP *** [9c Tc 5d]
+Alameda22: checks 
+jerscho: checks 
+*** TURN *** [9c Tc 5d] [Kd]
+Alameda22: checks 
+jerscho: checks 
+*** RIVER *** [9c Tc 5d Kd] [5h]
+Alameda22: checks 
+jerscho: checks 
+*** SHOW DOWN ***
+Alameda22: shows [Js 3h] (a pair of Fives)
+jerscho: shows [7d Ah] (a pair of Fives - Ace kicker)
+jerscho collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9c Tc 5d Kd 5h]
+Seat 1: Alameda22 (big blind) showed [Js 3h] and lost with a pair of Fives
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 4: jerscho showed [7d Ah] and won ($0.60) with a pair of Fives
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 (button) folded before Flop (didn't bet)
+Seat 9: Resab (small blind) folded before Flop
+
+
+
+PokerStars Game #19571138401:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:23:04 (ET)
+Table 'Fornax' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($20.10 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: Primos-Poker ($14.10 in chips) 
+Seat 4: jerscho ($21.05 in chips) 
+Seat 5: DERUY ($23.60 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 7: DaDalein ($24.65 in chips) 
+Seat 8: Eliminator6 ($25 in chips) 
+Seat 9: Resab ($16.80 in chips) 
+Alameda22: posts small blind $0.10
+new_draks: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 9d]
+Primos-Poker: folds 
+jerscho: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to new_draks
+new_draks collected $0.20 from pot
+new_draks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: new_draks (big blind) collected ($0.20)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 4: jerscho folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571154448:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:23:46 (ET)
+Table 'Fornax' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($20 in chips) 
+Seat 2: new_draks ($25.10 in chips) 
+Seat 3: Primos-Poker ($14.10 in chips) 
+Seat 4: jerscho ($21.05 in chips) 
+Seat 5: DERUY ($23.60 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 7: DaDalein ($24.65 in chips) 
+Seat 8: Eliminator6 ($25 in chips) 
+Seat 9: Resab ($16.80 in chips) 
+new_draks: posts small blind $0.10
+Primos-Poker: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 3s]
+jerscho: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: calls $0.25
+Eliminator6: folds 
+Resab: calls $0.25
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: checks 
+*** FLOP *** [7c 2s 4c]
+Primos-Poker: checks 
+DaDalein: checks 
+Resab: checks 
+*** TURN *** [7c 2s 4c] [Ad]
+Primos-Poker: checks 
+DaDalein: checks 
+Resab: bets $0.50
+Primos-Poker: folds 
+DaDalein: folds 
+Uncalled bet ($0.50) returned to Resab
+Resab collected $0.85 from pot
+Resab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [7c 2s 4c Ad]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: new_draks (small blind) folded before Flop
+Seat 3: Primos-Poker (big blind) folded on the Turn
+Seat 4: jerscho folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded on the Turn
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab collected ($0.85)
+
+
+
+PokerStars Game #19571188880:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:25:17 (ET)
+Table 'Fornax' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($20 in chips) 
+Seat 2: new_draks ($25 in chips) 
+Seat 3: Primos-Poker ($13.85 in chips) 
+Seat 4: jerscho ($21.05 in chips) 
+Seat 5: DERUY ($23.60 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 7: DaDalein ($24.40 in chips) 
+Seat 8: Eliminator6 ($25 in chips) 
+Seat 9: Resab ($17.40 in chips) 
+Primos-Poker: posts small blind $0.10
+jerscho: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 2c]
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: raises $0.75 to $1
+Primos-Poker: calls $0.90
+jerscho: folds 
+*** FLOP *** [Th 5d 4c]
+Primos-Poker: checks 
+new_draks: bets $1.75
+Primos-Poker: folds 
+Uncalled bet ($1.75) returned to new_draks
+new_draks collected $2.15 from pot
+new_draks: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Th 5d 4c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks (button) collected ($2.15)
+Seat 3: Primos-Poker (small blind) folded on the Flop
+Seat 4: jerscho (big blind) folded before Flop
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571218741:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:26:36 (ET)
+Table 'Fornax' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($20 in chips) 
+Seat 2: new_draks ($26.15 in chips) 
+Seat 3: Primos-Poker ($12.85 in chips) 
+Seat 4: jerscho ($20.80 in chips) 
+Seat 5: DERUY ($23.60 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 7: DaDalein ($24.40 in chips) 
+Seat 8: Eliminator6 ($25 in chips) 
+Seat 9: Resab ($17.40 in chips) 
+jerscho: posts small blind $0.10
+DERUY: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 6s]
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: raises $0.75 to $1
+Primos-Poker: calls $1
+jerscho: folds 
+DERUY: folds 
+*** FLOP *** [Js Tc 2d]
+new_draks: bets $1.75
+Primos-Poker: folds 
+Uncalled bet ($1.75) returned to new_draks
+new_draks collected $2.25 from pot
+new_draks: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Js Tc 2d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks collected ($2.25)
+Seat 3: Primos-Poker (button) folded on the Flop
+Seat 4: jerscho (small blind) folded before Flop
+Seat 5: DERUY (big blind) folded before Flop
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571244248:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:27:43 (ET)
+Table 'Fornax' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($20 in chips) 
+Seat 2: new_draks ($27.40 in chips) 
+Seat 3: Primos-Poker ($11.85 in chips) 
+Seat 4: jerscho ($20.70 in chips) 
+Seat 5: DERUY ($23.35 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 7: DaDalein ($24.40 in chips) 
+Seat 8: Eliminator6 ($25 in chips) 
+Seat 9: Resab ($17.40 in chips) 
+DERUY: posts small blind $0.10
+ashiXIII: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 2h]
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: folds 
+jerscho: folds 
+DERUY: folds 
+Uncalled bet ($0.15) returned to ashiXIII
+ashiXIII collected $0.20 from pot
+ashiXIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 4: jerscho (button) folded before Flop (didn't bet)
+Seat 5: DERUY (small blind) folded before Flop
+Seat 6: ashiXIII (big blind) collected ($0.20)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571260146:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:28:25 (ET)
+Table 'Fornax' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($20 in chips) 
+Seat 2: new_draks ($27.40 in chips) 
+Seat 3: Primos-Poker ($11.85 in chips) 
+Seat 4: jerscho ($20.70 in chips) 
+Seat 5: DERUY ($23.25 in chips) 
+Seat 6: ashiXIII ($18.60 in chips) 
+Seat 7: DaDalein ($24.40 in chips) 
+Seat 8: Eliminator6 ($25 in chips) 
+Seat 9: Resab ($17.40 in chips) 
+ashiXIII: posts small blind $0.10
+DaDalein: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Jc]
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: folds 
+jerscho: calls $0.25
+DERUY: raises $0.75 to $1
+ashiXIII: folds 
+DaDalein: folds 
+jerscho: folds 
+Uncalled bet ($0.75) returned to DERUY
+jerscho is sitting out
+DERUY collected $0.85 from pot
+DERUY: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 4: jerscho folded before Flop
+Seat 5: DERUY (button) collected ($0.85)
+Seat 6: ashiXIII (small blind) folded before Flop
+Seat 7: DaDalein (big blind) folded before Flop
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571286133:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:29:33 (ET)
+Table 'Fornax' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($20 in chips) 
+Seat 2: new_draks ($27.40 in chips) 
+Seat 3: Primos-Poker ($11.85 in chips) 
+Seat 5: DERUY ($23.85 in chips) 
+Seat 6: ashiXIII ($18.50 in chips) 
+Seat 7: DaDalein ($24.15 in chips) 
+Seat 8: Eliminator6 ($25 in chips) 
+Seat 9: Resab ($17.40 in chips) 
+DaDalein: posts small blind $0.10
+Eliminator6: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Kc]
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: folds 
+DERUY: folds 
+ashiXIII: raises $0.75 to $1
+DaDalein: folds 
+Eliminator6: folds 
+Uncalled bet ($0.75) returned to ashiXIII
+ashiXIII collected $0.60 from pot
+ashiXIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII (button) collected ($0.60)
+Seat 7: DaDalein (small blind) folded before Flop
+Seat 8: Eliminator6 (big blind) folded before Flop
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571302976:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:30:18 (ET)
+Table 'Fornax' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($20 in chips) 
+Seat 2: new_draks ($27.40 in chips) 
+Seat 3: Primos-Poker ($11.85 in chips) 
+Seat 5: DERUY ($23.85 in chips) 
+Seat 6: ashiXIII ($18.85 in chips) 
+Seat 7: DaDalein ($24.05 in chips) 
+Seat 8: Eliminator6 ($24.75 in chips) 
+Seat 9: Resab ($17.40 in chips) 
+Eliminator6: posts small blind $0.10
+Resab: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 7d]
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Uncalled bet ($0.15) returned to Resab
+Resab collected $0.20 from pot
+Resab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein (button) folded before Flop (didn't bet)
+Seat 8: Eliminator6 (small blind) folded before Flop
+Seat 9: Resab (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19571332297:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:31:35 (ET)
+Table 'Fornax' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($20 in chips) 
+Seat 2: new_draks ($27.40 in chips) 
+Seat 3: Primos-Poker ($11.85 in chips) 
+Seat 5: DERUY ($23.85 in chips) 
+Seat 6: ashiXIII ($18.85 in chips) 
+Seat 7: DaDalein ($24.05 in chips) 
+Seat 8: Eliminator6 ($24.65 in chips) 
+Seat 9: Resab ($17.50 in chips) 
+Resab: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 4d]
+new_draks: folds 
+Primos-Poker: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: raises $0.75 to $1
+Alameda22: folds 
+Uncalled bet ($0.75) returned to Resab
+Resab collected $0.50 from pot
+Resab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 (button) folded before Flop (didn't bet)
+Seat 9: Resab (small blind) collected ($0.50)
+
+
+
+PokerStars Game #19571360123:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:32:46 (ET)
+Table 'Fornax' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($19.75 in chips) 
+Seat 2: new_draks ($27.40 in chips) 
+Seat 3: Primos-Poker ($11.85 in chips) 
+Seat 5: DERUY ($23.85 in chips) 
+Seat 6: ashiXIII ($18.85 in chips) 
+Seat 7: DaDalein ($24.05 in chips) 
+Seat 8: Eliminator6 ($24.65 in chips) 
+Seat 9: Resab ($17.75 in chips) 
+Alameda22: posts small blind $0.10
+new_draks: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 2s]
+Primos-Poker: folds 
+DERUY: raises $0.75 to $1
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+Uncalled bet ($0.75) returned to DERUY
+DERUY collected $0.60 from pot
+DERUY: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: new_draks (big blind) folded before Flop
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 5: DERUY collected ($0.60)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571379463:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:33:36 (ET)
+Table 'Fornax' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($19.65 in chips) 
+Seat 2: new_draks ($27.15 in chips) 
+Seat 3: Primos-Poker ($11.85 in chips) 
+Seat 5: DERUY ($24.20 in chips) 
+Seat 6: ashiXIII ($18.85 in chips) 
+Seat 7: DaDalein ($24.05 in chips) 
+Seat 8: Eliminator6 ($24.65 in chips) 
+Seat 9: Resab ($17.75 in chips) 
+new_draks: posts small blind $0.10
+Primos-Poker: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 5h]
+DERUY: raises $0.75 to $1
+ashiXIII: calls $1
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: folds 
+*** FLOP *** [Kh 4s 7h]
+DERUY: bets $1.50
+ashiXIII: calls $1.50
+*** TURN *** [Kh 4s 7h] [8c]
+DERUY: checks 
+ashiXIII: bets $3
+DERUY: folds 
+Uncalled bet ($3) returned to ashiXIII
+ashiXIII collected $5.10 from pot
+ashiXIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [Kh 4s 7h 8c]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: new_draks (small blind) folded before Flop
+Seat 3: Primos-Poker (big blind) folded before Flop
+Seat 5: DERUY folded on the Turn
+Seat 6: ashiXIII collected ($5.10)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571404931:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:34:42 (ET)
+Table 'Fornax' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($19.65 in chips) 
+Seat 2: new_draks ($27.05 in chips) 
+Seat 3: Primos-Poker ($11.60 in chips) 
+Seat 5: DERUY ($25 in chips) 
+Seat 6: ashiXIII ($21.45 in chips) 
+Seat 7: DaDalein ($24.05 in chips) 
+Seat 8: Eliminator6 ($24.65 in chips) 
+Seat 9: Resab ($17.75 in chips) 
+Primos-Poker: posts small blind $0.10
+DERUY: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 5c]
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: raises $0.75 to $1
+Primos-Poker: folds 
+DERUY: calls $0.75
+*** FLOP *** [Th 6c Ah]
+DERUY: checks 
+new_draks: bets $1.50
+DERUY: folds 
+Uncalled bet ($1.50) returned to new_draks
+new_draks collected $2 from pot
+new_draks: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Th 6c Ah]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks (button) collected ($2)
+Seat 3: Primos-Poker (small blind) folded before Flop
+Seat 5: DERUY (big blind) folded on the Flop
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571424787:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:35:34 (ET)
+Table 'Fornax' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($19.65 in chips) 
+Seat 2: new_draks ($28.05 in chips) 
+Seat 3: Primos-Poker ($11.50 in chips) 
+Seat 5: DERUY ($24 in chips) 
+Seat 6: ashiXIII ($21.45 in chips) 
+Seat 7: DaDalein ($24.05 in chips) 
+Seat 8: Eliminator6 ($24.65 in chips) 
+Seat 9: Resab ($17.75 in chips) 
+DERUY: posts small blind $0.10
+ashiXIII: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 6h]
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: folds 
+DERUY: folds 
+Uncalled bet ($0.15) returned to ashiXIII
+ashiXIII collected $0.20 from pot
+ashiXIII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker (button) folded before Flop (didn't bet)
+Seat 5: DERUY (small blind) folded before Flop
+Seat 6: ashiXIII (big blind) collected ($0.20)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571440654:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:36:15 (ET)
+Table 'Fornax' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($19.65 in chips) 
+Seat 2: new_draks ($28.05 in chips) 
+Seat 3: Primos-Poker ($11.50 in chips) 
+Seat 5: DERUY ($23.90 in chips) 
+Seat 6: ashiXIII ($21.55 in chips) 
+Seat 7: DaDalein ($24.05 in chips) 
+Seat 8: Eliminator6 ($24.65 in chips) 
+Seat 9: Resab ($17.75 in chips) 
+ashiXIII: posts small blind $0.10
+DaDalein: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 2c]
+Eliminator6: folds 
+Resab: calls $0.25
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: checks 
+*** FLOP *** [3c 4s 8d]
+DaDalein: checks 
+Resab: bets $0.25
+DaDalein: folds 
+Uncalled bet ($0.25) returned to Resab
+Resab collected $0.60 from pot
+Resab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3c 4s 8d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 5: DERUY (button) folded before Flop (didn't bet)
+Seat 6: ashiXIII (small blind) folded before Flop
+Seat 7: DaDalein (big blind) folded on the Flop
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab collected ($0.60)
+
+
+
+PokerStars Game #19571464384:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:37:18 (ET)
+Table 'Fornax' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($19.65 in chips) 
+Seat 2: new_draks ($28.05 in chips) 
+Seat 3: Primos-Poker ($11.50 in chips) 
+Seat 5: DERUY ($23.90 in chips) 
+Seat 6: ashiXIII ($21.45 in chips) 
+Seat 7: DaDalein ($23.80 in chips) 
+Seat 8: Eliminator6 ($24.65 in chips) 
+Seat 9: Resab ($18.10 in chips) 
+DaDalein: posts small blind $0.10
+Eliminator6: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 6s]
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: calls $0.15
+Eliminator6: checks 
+*** FLOP *** [2d 8s Qs]
+DaDalein: checks 
+Eliminator6: bets $0.25
+DaDalein: folds 
+Uncalled bet ($0.25) returned to Eliminator6
+Eliminator6 collected $0.50 from pot
+Eliminator6: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [2d 8s Qs]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII (button) folded before Flop (didn't bet)
+Seat 7: DaDalein (small blind) folded on the Flop
+Seat 8: Eliminator6 (big blind) collected ($0.50)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571485283:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:38:13 (ET)
+Table 'Fornax' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($19.65 in chips) 
+Seat 2: new_draks ($28.05 in chips) 
+Seat 3: Primos-Poker ($11.50 in chips) 
+Seat 5: DERUY ($23.90 in chips) 
+Seat 6: ashiXIII ($21.45 in chips) 
+Seat 7: DaDalein ($23.55 in chips) 
+Seat 8: Eliminator6 ($24.90 in chips) 
+Seat 9: Resab ($18.10 in chips) 
+Eliminator6: posts small blind $0.10
+Resab: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Kc]
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: calls $0.25
+Eliminator6: folds 
+Resab: raises $0.75 to $1
+DaDalein: folds 
+Uncalled bet ($0.75) returned to Resab
+Resab collected $0.60 from pot
+Resab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein (button) folded before Flop
+Seat 8: Eliminator6 (small blind) folded before Flop
+Seat 9: Resab (big blind) collected ($0.60)
+
+
+
+PokerStars Game #19571503033:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:39:00 (ET)
+Table 'Fornax' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($19.65 in chips) 
+Seat 2: new_draks ($28.05 in chips) 
+Seat 3: Primos-Poker ($11.50 in chips) 
+Seat 5: DERUY ($23.90 in chips) 
+Seat 6: ashiXIII ($21.45 in chips) 
+Seat 7: DaDalein ($23.30 in chips) 
+Seat 8: Eliminator6 ($24.80 in chips) 
+Seat 9: Resab ($18.45 in chips) 
+Resab: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 5c]
+new_draks: folds 
+Primos-Poker: calls $0.25
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Kh As Jh]
+Resab: bets $0.50
+Alameda22: folds 
+Primos-Poker: raises $1.50 to $2
+Resab: folds 
+Uncalled bet ($1.50) returned to Primos-Poker
+Primos-Poker collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Kh As Jh]
+Seat 1: Alameda22 (big blind) folded on the Flop
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker collected ($1.70)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 (button) folded before Flop (didn't bet)
+Seat 9: Resab (small blind) folded on the Flop
+
+
+
+PokerStars Game #19571533009:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:40:17 (ET)
+Table 'Fornax' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($19.40 in chips) 
+Seat 2: new_draks ($28.05 in chips) 
+Seat 3: Primos-Poker ($12.45 in chips) 
+Seat 5: DERUY ($23.90 in chips) 
+Seat 6: ashiXIII ($21.45 in chips) 
+Seat 7: DaDalein ($23.30 in chips) 
+Seat 8: Eliminator6 ($24.80 in chips) 
+Seat 9: Resab ($17.70 in chips) 
+Alameda22: posts small blind $0.10
+new_draks: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 6s]
+Primos-Poker: folds 
+jerscho leaves the table
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: raises $0.75 to $1
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+Uncalled bet ($0.75) returned to DaDalein
+DaDalein collected $0.60 from pot
+DaDalein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: new_draks (big blind) folded before Flop
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein collected ($0.60)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571550487:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:41:03 (ET)
+Table 'Fornax' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($19.30 in chips) 
+Seat 2: new_draks ($27.80 in chips) 
+Seat 3: Primos-Poker ($12.45 in chips) 
+Seat 5: DERUY ($23.90 in chips) 
+Seat 6: ashiXIII ($21.45 in chips) 
+Seat 7: DaDalein ($23.65 in chips) 
+Seat 8: Eliminator6 ($24.80 in chips) 
+Seat 9: Resab ($17.70 in chips) 
+new_draks: posts small blind $0.10
+Primos-Poker: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 3d]
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: raises $0.75 to $1
+Primos-Poker: folds 
+Uncalled bet ($0.75) returned to new_draks
+new_draks collected $0.50 from pot
+new_draks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: new_draks (small blind) collected ($0.50)
+Seat 3: Primos-Poker (big blind) folded before Flop
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571569218:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:41:51 (ET)
+Table 'Fornax' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($19.30 in chips) 
+Seat 2: new_draks ($28.05 in chips) 
+Seat 3: Primos-Poker ($12.20 in chips) 
+Seat 5: DERUY ($23.90 in chips) 
+Seat 6: ashiXIII ($21.45 in chips) 
+Seat 7: DaDalein ($23.65 in chips) 
+Seat 8: Eliminator6 ($24.80 in chips) 
+Seat 9: Resab ($17.70 in chips) 
+Primos-Poker: posts small blind $0.10
+DERUY: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 8h]
+ashiXIII: folds 
+DaDalein: calls $0.25
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: folds 
+DERUY: checks 
+*** FLOP *** [5h 2s 6s]
+DERUY: checks 
+DaDalein: checks 
+*** TURN *** [5h 2s 6s] [Qh]
+DERUY: bets $0.75
+DaDalein: folds 
+Uncalled bet ($0.75) returned to DERUY
+DERUY collected $0.60 from pot
+DERUY: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [5h 2s 6s Qh]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks (button) folded before Flop (didn't bet)
+Seat 3: Primos-Poker (small blind) folded before Flop
+Seat 5: DERUY (big blind) collected ($0.60)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded on the Turn
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571594862:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:42:58 (ET)
+Table 'Fornax' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($19.30 in chips) 
+Seat 2: new_draks ($28.05 in chips) 
+Seat 3: Primos-Poker ($12.10 in chips) 
+Seat 5: DERUY ($24.25 in chips) 
+Seat 6: ashiXIII ($21.45 in chips) 
+Seat 7: DaDalein ($23.40 in chips) 
+Seat 8: Eliminator6 ($24.80 in chips) 
+Seat 9: Resab ($17.70 in chips) 
+DERUY: posts small blind $0.10
+ashiXIII: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Jd]
+DaDalein: folds 
+Eliminator6: calls $0.25
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: calls $0.25
+DERUY: folds 
+ashiXIII: checks 
+*** FLOP *** [Qd 3d Qh]
+ashiXIII: checks 
+Eliminator6: checks 
+Primos-Poker: checks 
+*** TURN *** [Qd 3d Qh] [Ts]
+ashiXIII: checks 
+Eliminator6: checks 
+Primos-Poker: bets $0.50
+ashiXIII: folds 
+Eliminator6: folds 
+Uncalled bet ($0.50) returned to Primos-Poker
+Primos-Poker collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Qd 3d Qh Ts]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker (button) collected ($0.85)
+Seat 5: DERUY (small blind) folded before Flop
+Seat 6: ashiXIII (big blind) folded on the Turn
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded on the Turn
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571620954:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:44:06 (ET)
+Table 'Fornax' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($19.30 in chips) 
+Seat 2: new_draks ($28.05 in chips) 
+Seat 3: Primos-Poker ($12.70 in chips) 
+Seat 5: DERUY ($24.15 in chips) 
+Seat 6: ashiXIII ($21.20 in chips) 
+Seat 7: DaDalein ($23.40 in chips) 
+Seat 8: Eliminator6 ($24.55 in chips) 
+Seat 9: Resab ($17.70 in chips) 
+ashiXIII: posts small blind $0.10
+DaDalein: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 5c]
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: calls $0.25
+DERUY: folds 
+ashiXIII: calls $0.15
+njshore9 joins the table at seat #4 
+DaDalein: checks 
+*** FLOP *** [Kh 4h Ad]
+ashiXIII: checks 
+DaDalein: checks 
+Primos-Poker: bets $0.75
+ashiXIII: folds 
+DaDalein: folds 
+Uncalled bet ($0.75) returned to Primos-Poker
+Primos-Poker collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Kh 4h Ad]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker collected ($0.75)
+Seat 5: DERUY (button) folded before Flop (didn't bet)
+Seat 6: ashiXIII (small blind) folded on the Flop
+Seat 7: DaDalein (big blind) folded on the Flop
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571662973:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:45:57 (ET)
+Table 'Fornax' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($19.30 in chips) 
+Seat 2: new_draks ($28.05 in chips) 
+Seat 3: Primos-Poker ($13.20 in chips) 
+Seat 4: njshore9 ($15 in chips) 
+Seat 5: DERUY ($24.15 in chips) 
+Seat 6: ashiXIII ($20.95 in chips) 
+Seat 7: DaDalein ($23.15 in chips) 
+Seat 8: Eliminator6 ($24.55 in chips) 
+Seat 9: Resab ($17.70 in chips) 
+DaDalein: posts small blind $0.10
+Eliminator6: posts big blind $0.25
+njshore9: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Ad]
+Resab: raises $0.75 to $1
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: folds 
+njshore9: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Uncalled bet ($0.75) returned to Resab
+Resab collected $0.85 from pot
+Resab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 4: njshore9 folded before Flop
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII (button) folded before Flop (didn't bet)
+Seat 7: DaDalein (small blind) folded before Flop
+Seat 8: Eliminator6 (big blind) folded before Flop
+Seat 9: Resab collected ($0.85)
+
+
+
+PokerStars Game #19571688004:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:47:04 (ET)
+Table 'Fornax' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($19.30 in chips) 
+Seat 2: new_draks ($28.05 in chips) 
+Seat 3: Primos-Poker ($13.20 in chips) 
+Seat 4: njshore9 ($14.75 in chips) 
+Seat 5: DERUY ($24.15 in chips) 
+Seat 6: ashiXIII ($20.95 in chips) 
+Seat 7: DaDalein ($23.05 in chips) 
+Seat 8: Eliminator6 ($24.30 in chips) 
+Seat 9: Resab ($18.30 in chips) 
+Eliminator6: posts small blind $0.10
+Resab: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Kd]
+Alameda22: folds 
+new_draks: folds 
+Primos-Poker: folds 
+njshore9: folds 
+njshore9 is sitting out
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: raises $0.75 to $1
+Eliminator6: folds 
+Resab: folds 
+Uncalled bet ($0.75) returned to DaDalein
+DaDalein collected $0.60 from pot
+DaDalein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 4: njshore9 folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein (button) collected ($0.60)
+Seat 8: Eliminator6 (small blind) folded before Flop
+Seat 9: Resab (big blind) folded before Flop
+
+
+
+PokerStars Game #19571709488:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:48:00 (ET)
+Table 'Fornax' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($19.30 in chips) 
+Seat 2: new_draks ($28.05 in chips) 
+Seat 3: Primos-Poker ($13.20 in chips) 
+Seat 5: DERUY ($24.15 in chips) 
+Seat 6: ashiXIII ($20.95 in chips) 
+Seat 7: DaDalein ($23.40 in chips) 
+Seat 8: Eliminator6 ($24.20 in chips) 
+Seat 9: Resab ($18.05 in chips) 
+Resab: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Ad]
+new_draks: folds 
+new_draks leaves the table
+Primos-Poker: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: calls $0.25
+Eliminator6: folds 
+Resab: calls $0.15
+esmerine joins the table at seat #2 
+Alameda22: checks 
+*** FLOP *** [Kc 5h 5c]
+Resab: checks 
+Alameda22: checks 
+DaDalein: checks 
+*** TURN *** [Kc 5h 5c] [Td]
+Resab: checks 
+Alameda22: checks 
+DaDalein: checks 
+*** RIVER *** [Kc 5h 5c Td] [3h]
+Resab: checks 
+Alameda22: checks 
+DaDalein: checks 
+*** SHOW DOWN ***
+Resab: shows [6d 9d] (a pair of Fives)
+Alameda22: shows [9s Ad] (a pair of Fives - Ace kicker)
+DaDalein: shows [4c 4d] (two pair, Fives and Fours)
+DaDalein collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Kc 5h 5c Td 3h]
+Seat 1: Alameda22 (big blind) showed [9s Ad] and lost with a pair of Fives
+Seat 2: new_draks folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein showed [4c 4d] and won ($0.75) with two pair, Fives and Fours
+Seat 8: Eliminator6 (button) folded before Flop (didn't bet)
+Seat 9: Resab (small blind) showed [6d 9d] and lost with a pair of Fives
+
+
+
+PokerStars Game #19571746263:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:49:38 (ET)
+Table 'Fornax' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($19.05 in chips) 
+Seat 2: esmerine ($10 in chips) 
+Seat 3: Primos-Poker ($13.20 in chips) 
+Seat 5: DERUY ($24.15 in chips) 
+Seat 6: ashiXIII ($20.95 in chips) 
+Seat 7: DaDalein ($23.90 in chips) 
+Seat 8: Eliminator6 ($24.20 in chips) 
+Seat 9: Resab ($17.80 in chips) 
+Alameda22: posts small blind $0.10
+esmerine: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 3h]
+Primos-Poker: folds 
+njshore9 has returned
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: calls $0.25
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+esmerine: checks 
+*** FLOP *** [Js 7c 8c]
+esmerine: checks 
+DaDalein: bets $0.50
+esmerine: folds 
+Uncalled bet ($0.50) returned to DaDalein
+DaDalein collected $0.60 from pot
+DaDalein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Js 7c 8c]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: esmerine (big blind) folded on the Flop
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein collected ($0.60)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571770546:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:50:42 (ET)
+Table 'Fornax' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($18.95 in chips) 
+Seat 2: esmerine ($9.75 in chips) 
+Seat 3: Primos-Poker ($13.20 in chips) 
+Seat 4: njshore9 ($14.75 in chips) 
+Seat 5: DERUY ($24.15 in chips) 
+Seat 6: ashiXIII ($20.95 in chips) 
+Seat 7: DaDalein ($24.25 in chips) 
+Seat 8: Eliminator6 ($24.20 in chips) 
+Seat 9: Resab ($17.80 in chips) 
+esmerine: posts small blind $0.10
+Primos-Poker: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Jh]
+njshore9: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: raises $0.50 to $0.75
+esmerine: folds 
+Primos-Poker: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 (button) collected ($0.60)
+Seat 2: esmerine (small blind) folded before Flop
+Seat 3: Primos-Poker (big blind) folded before Flop
+Seat 4: njshore9 folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571785251:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:51:21 (ET)
+Table 'Fornax' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($19.30 in chips) 
+Seat 2: esmerine ($9.65 in chips) 
+Seat 3: Primos-Poker ($12.95 in chips) 
+Seat 4: njshore9 ($14.75 in chips) 
+Seat 5: DERUY ($24.15 in chips) 
+Seat 6: ashiXIII ($20.95 in chips) 
+Seat 7: DaDalein ($24.25 in chips) 
+Seat 8: Eliminator6 ($24.20 in chips) 
+Seat 9: Resab ($17.80 in chips) 
+Primos-Poker: posts small blind $0.10
+njshore9: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 2c]
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+esmerine: raises $0.25 to $0.50
+Primos-Poker: calls $0.40
+njshore9: calls $0.25
+*** FLOP *** [Tc 9s Ad]
+Primos-Poker: checks 
+njshore9: bets $0.25
+esmerine: raises $0.50 to $0.75
+Primos-Poker: folds 
+njshore9: raises $0.50 to $1.25
+esmerine: raises $0.50 to $1.75
+njshore9: raises $0.50 to $2.25
+esmerine: calls $0.50
+*** TURN *** [Tc 9s Ad] [3c]
+njshore9: bets $1
+esmerine: calls $1
+*** RIVER *** [Tc 9s Ad 3c] [6d]
+njshore9: bets $1
+esmerine: calls $1
+*** SHOW DOWN ***
+njshore9: shows [Th 9c] (two pair, Tens and Nines)
+esmerine: mucks hand 
+njshore9 collected $9.55 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.45 
+Board [Tc 9s Ad 3c 6d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: esmerine (button) mucked [8h As]
+Seat 3: Primos-Poker (small blind) folded on the Flop
+Seat 4: njshore9 (big blind) showed [Th 9c] and won ($9.55) with two pair, Tens and Nines
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571816785:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:52:45 (ET)
+Table 'Fornax' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($25 in chips) 
+Seat 2: esmerine ($4.90 in chips) 
+Seat 3: Primos-Poker ($12.45 in chips) 
+Seat 4: njshore9 ($19.55 in chips) 
+Seat 5: DERUY ($24.15 in chips) 
+Seat 6: ashiXIII ($20.95 in chips) 
+Seat 7: DaDalein ($24.25 in chips) 
+Seat 8: Eliminator6 ($24.20 in chips) 
+Seat 9: Resab ($17.80 in chips) 
+njshore9: posts small blind $0.10
+DERUY: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 4h]
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+esmerine: folds 
+Primos-Poker: calls $0.25
+njshore9: calls $0.15
+DERUY: checks 
+*** FLOP *** [8d 7c 9h]
+njshore9: checks 
+DERUY: checks 
+Primos-Poker: checks 
+*** TURN *** [8d 7c 9h] [6d]
+njshore9: checks 
+DERUY: checks 
+Primos-Poker: checks 
+*** RIVER *** [8d 7c 9h 6d] [6h]
+njshore9: checks 
+DERUY: checks 
+Primos-Poker: checks 
+*** SHOW DOWN ***
+njshore9: shows [Kc 3h] (a pair of Sixes)
+DERUY: mucks hand 
+Primos-Poker: shows [Kh Qs] (a pair of Sixes - King+Queen kicker)
+Primos-Poker collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [8d 7c 9h 6d 6h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: esmerine folded before Flop (didn't bet)
+Seat 3: Primos-Poker (button) showed [Kh Qs] and won ($0.75) with a pair of Sixes
+Seat 4: njshore9 (small blind) showed [Kc 3h] and lost with a pair of Sixes
+Seat 5: DERUY (big blind) mucked [2h Qh]
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571852891:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:54:21 (ET)
+Table 'Fornax' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($25 in chips) 
+Seat 2: esmerine ($5 in chips) 
+Seat 3: Primos-Poker ($12.95 in chips) 
+Seat 4: njshore9 ($19.30 in chips) 
+Seat 5: DERUY ($23.90 in chips) 
+Seat 6: ashiXIII ($20.95 in chips) 
+Seat 7: DaDalein ($24.25 in chips) 
+Seat 8: Eliminator6 ($24.20 in chips) 
+Seat 9: Resab ($17.80 in chips) 
+DERUY: posts small blind $0.10
+ashiXIII: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Tc]
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+esmerine: calls $0.25
+Primos-Poker: folds 
+njshore9: folds 
+DERUY: folds 
+ashiXIII: checks 
+*** FLOP *** [4c 9h Jc]
+ashiXIII: checks 
+esmerine: bets $0.25
+ashiXIII: folds 
+Uncalled bet ($0.25) returned to esmerine
+esmerine collected $0.60 from pot
+esmerine: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4c 9h Jc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: esmerine collected ($0.60)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 4: njshore9 (button) folded before Flop (didn't bet)
+Seat 5: DERUY (small blind) folded before Flop
+Seat 6: ashiXIII (big blind) folded on the Flop
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571867625:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:55:00 (ET)
+Table 'Fornax' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($25 in chips) 
+Seat 2: esmerine ($5.35 in chips) 
+Seat 3: Primos-Poker ($12.95 in chips) 
+Seat 4: njshore9 ($19.30 in chips) 
+Seat 5: DERUY ($23.80 in chips) 
+Seat 6: ashiXIII ($20.70 in chips) 
+Seat 7: DaDalein ($24.25 in chips) 
+Seat 8: Eliminator6 ($24.20 in chips) 
+Seat 9: Resab ($17.80 in chips) 
+ashiXIII: posts small blind $0.10
+DaDalein: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 6c]
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+esmerine: folds 
+Primos-Poker: folds 
+njshore9: calls $0.25
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: checks 
+*** FLOP *** [7h 3c Qs]
+DaDalein: checks 
+njshore9: bets $0.25
+DaDalein: folds 
+Uncalled bet ($0.25) returned to njshore9
+njshore9 collected $0.60 from pot
+njshore9: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7h 3c Qs]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: esmerine folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 4: njshore9 collected ($0.60)
+Seat 5: DERUY (button) folded before Flop (didn't bet)
+Seat 6: ashiXIII (small blind) folded before Flop
+Seat 7: DaDalein (big blind) folded on the Flop
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571891211:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:56:03 (ET)
+Table 'Fornax' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($25 in chips) 
+Seat 2: esmerine ($5.35 in chips) 
+Seat 3: Primos-Poker ($12.95 in chips) 
+Seat 4: njshore9 ($19.65 in chips) 
+Seat 5: DERUY ($23.80 in chips) 
+Seat 6: ashiXIII ($20.60 in chips) 
+Seat 7: DaDalein ($24 in chips) 
+Seat 8: Eliminator6 ($24.20 in chips) 
+Seat 9: Resab ($17.80 in chips) 
+DaDalein: posts small blind $0.10
+Eliminator6: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Qs]
+Resab: folds 
+Alameda22: folds 
+esmerine: folds 
+Primos-Poker: folds 
+njshore9: calls $0.25
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: calls $0.15
+Eliminator6: checks 
+*** FLOP *** [4c Qc Kc]
+DaDalein: checks 
+Eliminator6: bets $0.25
+njshore9: folds 
+DaDalein: folds 
+Uncalled bet ($0.25) returned to Eliminator6
+Eliminator6 collected $0.75 from pot
+Eliminator6: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [4c Qc Kc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: esmerine folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 4: njshore9 folded on the Flop
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII (button) folded before Flop (didn't bet)
+Seat 7: DaDalein (small blind) folded on the Flop
+Seat 8: Eliminator6 (big blind) collected ($0.75)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571921902:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:57:26 (ET)
+Table 'Fornax' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($25 in chips) 
+Seat 2: esmerine ($5.35 in chips) 
+Seat 3: Primos-Poker ($12.95 in chips) 
+Seat 4: njshore9 ($19.40 in chips) 
+Seat 5: DERUY ($23.80 in chips) 
+Seat 6: ashiXIII ($20.60 in chips) 
+Seat 7: DaDalein ($23.75 in chips) 
+Seat 8: Eliminator6 ($24.70 in chips) 
+Seat 9: Resab ($17.80 in chips) 
+Eliminator6: posts small blind $0.10
+Resab: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 5c]
+Alameda22: folds 
+esmerine: folds 
+Primos-Poker: calls $0.25
+njshore9: calls $0.25
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: calls $0.15
+Resab: checks 
+*** FLOP *** [As 9d 2s]
+Eliminator6: bets $0.75
+Resab: folds 
+Primos-Poker: folds 
+njshore9: folds 
+Uncalled bet ($0.75) returned to Eliminator6
+Eliminator6 collected $0.95 from pot
+Eliminator6: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [As 9d 2s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: esmerine folded before Flop (didn't bet)
+Seat 3: Primos-Poker folded on the Flop
+Seat 4: njshore9 folded on the Flop
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein (button) folded before Flop (didn't bet)
+Seat 8: Eliminator6 (small blind) collected ($0.95)
+Seat 9: Resab (big blind) folded on the Flop
+
+
+
+PokerStars Game #19571959469:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:59:06 (ET)
+Table 'Fornax' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($25 in chips) 
+Seat 2: esmerine ($5.35 in chips) 
+Seat 3: Primos-Poker ($12.70 in chips) 
+Seat 4: njshore9 ($19.15 in chips) 
+Seat 5: DERUY ($23.80 in chips) 
+Seat 6: ashiXIII ($20.60 in chips) 
+Seat 7: DaDalein ($23.75 in chips) 
+Seat 8: Eliminator6 ($25.40 in chips) 
+Seat 9: Resab ($17.55 in chips) 
+Resab: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Qs]
+esmerine: raises $0.50 to $0.75
+Primos-Poker: folds 
+njshore9: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to esmerine
+esmerine collected $0.60 from pot
+esmerine: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: esmerine collected ($0.60)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 4: njshore9 folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 (button) folded before Flop (didn't bet)
+Seat 9: Resab (small blind) folded before Flop
+
+
+
+PokerStars Game #19571979868:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:00:00 (ET)
+Table 'Fornax' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($24.75 in chips) 
+Seat 2: esmerine ($5.70 in chips) 
+Seat 3: Primos-Poker ($12.70 in chips) 
+Seat 4: njshore9 ($19.15 in chips) 
+Seat 5: DERUY ($23.80 in chips) 
+Seat 6: ashiXIII ($20.60 in chips) 
+Seat 7: DaDalein ($23.75 in chips) 
+Seat 8: Eliminator6 ($25.40 in chips) 
+Seat 9: Resab ($17.45 in chips) 
+Alameda22: posts small blind $0.10
+esmerine: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Tc]
+Primos-Poker is disconnected 
+Primos-Poker has timed out while disconnected
+Primos-Poker: folds 
+Primos-Poker is sitting out
+njshore9: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to esmerine
+esmerine collected $0.20 from pot
+esmerine: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: esmerine (big blind) collected ($0.20)
+Seat 3: Primos-Poker folded before Flop (didn't bet)
+Seat 4: njshore9 folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572001958:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:00:58 (ET)
+Table 'Fornax' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 2: esmerine ($5.80 in chips) 
+Seat 4: njshore9 ($19.15 in chips) 
+Seat 5: DERUY ($23.80 in chips) 
+Seat 6: ashiXIII ($20.60 in chips) 
+Seat 7: DaDalein ($23.75 in chips) 
+Seat 8: Eliminator6 ($25.40 in chips) 
+Seat 9: Resab ($17.45 in chips) 
+esmerine: posts small blind $0.10
+njshore9: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 9h]
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: raises $0.75 to $1
+Alameda22: folds 
+esmerine: folds 
+njshore9: folds 
+Uncalled bet ($0.75) returned to Resab
+Resab collected $0.60 from pot
+Resab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: esmerine (small blind) folded before Flop
+Seat 4: njshore9 (big blind) folded before Flop
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab collected ($0.60)
+
+
+
+PokerStars Game #19572019124:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:01:43 (ET)
+Table 'Fornax' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 2: esmerine ($5.70 in chips) 
+Seat 4: njshore9 ($18.90 in chips) 
+Seat 5: DERUY ($23.80 in chips) 
+Seat 6: ashiXIII ($20.60 in chips) 
+Seat 7: DaDalein ($23.75 in chips) 
+Seat 8: Eliminator6 ($25.40 in chips) 
+Seat 9: Resab ($17.80 in chips) 
+njshore9: posts small blind $0.10
+DERUY: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 6h]
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+esmerine: raises $0.50 to $0.75
+njshore9: calls $0.65
+DERUY: folds 
+*** FLOP *** [4c 3h Qd]
+njshore9: checks 
+esmerine: bets $0.75
+njshore9: folds 
+Uncalled bet ($0.75) returned to esmerine
+esmerine collected $1.70 from pot
+esmerine: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [4c 3h Qd]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: esmerine (button) collected ($1.70)
+Seat 4: njshore9 (small blind) folded on the Flop
+Seat 5: DERUY (big blind) folded before Flop
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572037186:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:02:31 (ET)
+Table 'Fornax' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 2: esmerine ($6.65 in chips) 
+Seat 4: njshore9 ($18.15 in chips) 
+Seat 5: DERUY ($23.55 in chips) 
+Seat 6: ashiXIII ($20.60 in chips) 
+Seat 7: DaDalein ($23.75 in chips) 
+Seat 8: Eliminator6 ($25.40 in chips) 
+Seat 9: Resab ($17.80 in chips) 
+DERUY: posts small blind $0.10
+ashiXIII: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Kh]
+DaDalein: raises $0.75 to $1
+Primos-Poker is connected 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+esmerine: folds 
+njshore9: folds 
+DERUY: folds 
+ashiXIII: folds 
+Uncalled bet ($0.75) returned to DaDalein
+DaDalein collected $0.60 from pot
+DaDalein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: esmerine folded before Flop (didn't bet)
+Seat 4: njshore9 (button) folded before Flop (didn't bet)
+Seat 5: DERUY (small blind) folded before Flop
+Seat 6: ashiXIII (big blind) folded before Flop
+Seat 7: DaDalein collected ($0.60)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572050054:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:03:05 (ET)
+Table 'Fornax' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 2: esmerine ($6.65 in chips) 
+Seat 4: njshore9 ($18.15 in chips) 
+Seat 5: DERUY ($23.45 in chips) 
+Seat 6: ashiXIII ($20.35 in chips) 
+Seat 7: DaDalein ($24.10 in chips) 
+Seat 8: Eliminator6 ($25.40 in chips) 
+Seat 9: Resab ($17.80 in chips) 
+ashiXIII: posts small blind $0.10
+DaDalein: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 4h]
+Primos-Poker leaves the table
+Eliminator6: folds 
+Resab: calls $0.25
+Alameda22: folds 
+esmerine: calls $0.25
+njshore9: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: checks 
+*** FLOP *** [5s 3c 6s]
+DaDalein: checks 
+Resab: checks 
+esmerine: checks 
+*** TURN *** [5s 3c 6s] [Jh]
+DaDalein: checks 
+Resab: checks 
+esmerine: checks 
+*** RIVER *** [5s 3c 6s Jh] [8s]
+DaDalein: bets $1
+Resab: raises $2 to $3
+esmerine: raises $3.40 to $6.40 and is all-in
+DaDalein: folds 
+Resab: calls $3.40
+*** SHOW DOWN ***
+esmerine: shows [As 9s] (a flush, Ace high)
+Resab: shows [Ts Ks] (a flush, King high)
+esmerine collected $13.95 from pot
+*** SUMMARY ***
+Total pot $14.65 | Rake $0.70 
+Board [5s 3c 6s Jh 8s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: esmerine showed [As 9s] and won ($13.95) with a flush, Ace high
+Seat 4: njshore9 folded before Flop (didn't bet)
+Seat 5: DERUY (button) folded before Flop (didn't bet)
+Seat 6: ashiXIII (small blind) folded before Flop
+Seat 7: DaDalein (big blind) folded on the River
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab showed [Ts Ks] and lost with a flush, King high
+
+
+
+PokerStars Game #19572084025:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:04:35 (ET)
+Table 'Fornax' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 2: esmerine ($13.95 in chips) 
+Seat 4: njshore9 ($18.15 in chips) 
+Seat 5: DERUY ($23.45 in chips) 
+Seat 6: ashiXIII ($20.25 in chips) 
+Seat 7: DaDalein ($22.85 in chips) 
+Seat 8: Eliminator6 ($25.40 in chips) 
+Seat 9: Resab ($11.15 in chips) 
+DaDalein: posts small blind $0.10
+Eliminator6: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 3c]
+Resab: folds 
+schiz joins the table at seat #3 
+Alameda22: folds 
+esmerine: folds 
+njshore9: folds 
+DERUY: raises $0.75 to $1
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Uncalled bet ($0.75) returned to DERUY
+DERUY collected $0.60 from pot
+DERUY: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: esmerine folded before Flop (didn't bet)
+Seat 4: njshore9 folded before Flop (didn't bet)
+Seat 5: DERUY collected ($0.60)
+Seat 6: ashiXIII (button) folded before Flop (didn't bet)
+Seat 7: DaDalein (small blind) folded before Flop
+Seat 8: Eliminator6 (big blind) folded before Flop
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572096752:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:05:09 (ET)
+Table 'Fornax' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 2: esmerine ($13.95 in chips) 
+Seat 4: njshore9 ($18.15 in chips) 
+Seat 5: DERUY ($23.80 in chips) 
+Seat 6: ashiXIII ($20.25 in chips) 
+Seat 7: DaDalein ($22.75 in chips) 
+Seat 8: Eliminator6 ($25.15 in chips) 
+Seat 9: Resab ($11.15 in chips) 
+Eliminator6: posts small blind $0.10
+Resab: posts big blind $0.25
+schiz: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 7h]
+Alameda22: folds 
+esmerine: raises $0.50 to $0.75
+njshore9: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Uncalled bet ($0.50) returned to esmerine
+esmerine collected $0.60 from pot
+esmerine: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: esmerine collected ($0.60)
+Seat 4: njshore9 folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein (button) folded before Flop (didn't bet)
+Seat 8: Eliminator6 (small blind) folded before Flop
+Seat 9: Resab (big blind) folded before Flop
+
+
+
+PokerStars Game #19572110873:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:05:47 (ET)
+Table 'Fornax' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 2: esmerine ($14.30 in chips) 
+Seat 4: njshore9 ($18.15 in chips) 
+Seat 5: DERUY ($23.80 in chips) 
+Seat 6: ashiXIII ($20.25 in chips) 
+Seat 7: DaDalein ($22.75 in chips) 
+Seat 8: Eliminator6 ($25.05 in chips) 
+Seat 9: Resab ($14.90 in chips) 
+Resab: posts small blind $0.10
+Alameda22: posts big blind $0.25
+schiz: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 8s]
+esmerine: folds 
+njshore9: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: raises $0.75 to $1
+Alameda22: folds 
+Uncalled bet ($0.75) returned to Resab
+Resab collected $0.50 from pot
+Resab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: esmerine folded before Flop (didn't bet)
+Seat 4: njshore9 folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 (button) folded before Flop (didn't bet)
+Seat 9: Resab (small blind) collected ($0.50)
+
+
+
+PokerStars Game #19572125300:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:06:26 (ET)
+Table 'Fornax' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($24.40 in chips) 
+Seat 2: esmerine ($14.30 in chips) 
+Seat 4: njshore9 ($18.15 in chips) 
+Seat 5: DERUY ($23.80 in chips) 
+Seat 6: ashiXIII ($20.25 in chips) 
+Seat 7: DaDalein ($22.75 in chips) 
+Seat 8: Eliminator6 ($25.05 in chips) 
+Seat 9: Resab ($15.15 in chips) 
+Alameda22: posts small blind $0.10
+esmerine: posts big blind $0.25
+schiz: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Ks]
+njshore9: folds 
+DERUY: folds 
+ashiXIII: folds 
+DaDalein: folds 
+DERUY leaves the table
+Eliminator6: folds 
+Resab: folds 
+dobieatwar joins the table at seat #5 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to esmerine
+esmerine collected $0.20 from pot
+esmerine: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: esmerine (big blind) collected ($0.20)
+Seat 4: njshore9 folded before Flop (didn't bet)
+Seat 5: DERUY folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572149129:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:07:29 (ET)
+Table 'Fornax' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($24.30 in chips) 
+Seat 2: esmerine ($14.40 in chips) 
+Seat 3: schiz ($25 in chips) 
+Seat 4: njshore9 ($18.15 in chips) 
+Seat 6: ashiXIII ($20.25 in chips) 
+Seat 7: DaDalein ($22.75 in chips) 
+Seat 8: Eliminator6 ($25.05 in chips) 
+Seat 9: Resab ($15.15 in chips) 
+esmerine: posts small blind $0.10
+schiz: posts big blind $0.25
+dobieatwar: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 8d]
+njshore9: folds 
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+esmerine: raises $0.50 to $0.75
+schiz: folds 
+Uncalled bet ($0.50) returned to esmerine
+esmerine collected $0.50 from pot
+esmerine: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: esmerine (small blind) collected ($0.50)
+Seat 3: schiz (big blind) folded before Flop
+Seat 4: njshore9 folded before Flop (didn't bet)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572173767:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:08:35 (ET)
+Table 'Fornax' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($24.30 in chips) 
+Seat 2: esmerine ($14.65 in chips) 
+Seat 3: schiz ($24.75 in chips) 
+Seat 4: njshore9 ($18.15 in chips) 
+Seat 6: ashiXIII ($20.25 in chips) 
+Seat 7: DaDalein ($22.75 in chips) 
+Seat 8: Eliminator6 ($25.05 in chips) 
+Seat 9: Resab ($15.15 in chips) 
+schiz: posts small blind $0.10
+njshore9: posts big blind $0.25
+dobieatwar: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 2d]
+ashiXIII: folds 
+DaDalein: folds 
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+esmerine: folds 
+schiz: folds 
+Uncalled bet ($0.15) returned to njshore9
+njshore9 collected $0.20 from pot
+njshore9: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: esmerine (button) folded before Flop (didn't bet)
+Seat 3: schiz (small blind) folded before Flop
+Seat 4: njshore9 (big blind) collected ($0.20)
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572185796:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:09:06 (ET)
+Table 'Fornax' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($24.30 in chips) 
+Seat 2: esmerine ($14.65 in chips) 
+Seat 3: schiz ($24.65 in chips) 
+Seat 4: njshore9 ($18.25 in chips) 
+Seat 5: dobieatwar ($25 in chips) 
+Seat 6: ashiXIII ($20.25 in chips) 
+Seat 7: DaDalein ($22.75 in chips) 
+Seat 8: Eliminator6 ($25.05 in chips) 
+Seat 9: Resab ($15.15 in chips) 
+njshore9: posts small blind $0.10
+dobieatwar: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 3s]
+ashiXIII: folds 
+DaDalein: calls $0.25
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+esmerine: folds 
+schiz: folds 
+njshore9: calls $0.15
+dobieatwar: checks 
+*** FLOP *** [9c 8c 3h]
+njshore9: checks 
+dobieatwar: checks 
+DaDalein: checks 
+*** TURN *** [9c 8c 3h] [Qs]
+njshore9: checks 
+dobieatwar: checks 
+DaDalein: bets $0.75
+njshore9: folds 
+dobieatwar: folds 
+Uncalled bet ($0.75) returned to DaDalein
+DaDalein collected $0.75 from pot
+DaDalein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [9c 8c 3h Qs]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: esmerine folded before Flop (didn't bet)
+Seat 3: schiz (button) folded before Flop (didn't bet)
+Seat 4: njshore9 (small blind) folded on the Turn
+Seat 5: dobieatwar (big blind) folded on the Turn
+Seat 6: ashiXIII folded before Flop (didn't bet)
+Seat 7: DaDalein collected ($0.75)
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572219606:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:10:37 (ET)
+Table 'Fornax' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($24.30 in chips) 
+Seat 2: esmerine ($14.65 in chips) 
+Seat 3: schiz ($24.65 in chips) 
+Seat 4: njshore9 ($18 in chips) 
+Seat 5: dobieatwar ($24.75 in chips) 
+Seat 6: ashiXIII ($20.25 in chips) 
+Seat 7: DaDalein ($23.25 in chips) 
+Seat 8: Eliminator6 ($25.05 in chips) 
+Seat 9: Resab ($15.15 in chips) 
+dobieatwar: posts small blind $0.10
+ashiXIII: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Qh]
+DaDalein: folds 
+Eliminator6: raises $0.75 to $1
+Resab: folds 
+Alameda22: raises $2 to $3
+esmerine: folds 
+schiz: folds 
+njshore9: folds 
+dobieatwar: folds 
+ashiXIII: folds 
+Eliminator6: calls $2
+*** FLOP *** [9h 7s 8c]
+Eliminator6: checks 
+Alameda22: bets $4
+Eliminator6: folds 
+Uncalled bet ($4) returned to Alameda22
+Alameda22 collected $6.05 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.30 
+Board [9h 7s 8c]
+Seat 1: Alameda22 collected ($6.05)
+Seat 2: esmerine folded before Flop (didn't bet)
+Seat 3: schiz folded before Flop (didn't bet)
+Seat 4: njshore9 (button) folded before Flop (didn't bet)
+Seat 5: dobieatwar (small blind) folded before Flop
+Seat 6: ashiXIII (big blind) folded before Flop
+Seat 7: DaDalein folded before Flop (didn't bet)
+Seat 8: Eliminator6 folded on the Flop
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572252650:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:12:06 (ET)
+Table 'Fornax' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($27.35 in chips) 
+Seat 2: esmerine ($14.65 in chips) 
+Seat 3: schiz ($24.65 in chips) 
+Seat 4: njshore9 ($18 in chips) 
+Seat 5: dobieatwar ($24.65 in chips) 
+Seat 6: ashiXIII ($20 in chips) 
+Seat 7: DaDalein ($23.25 in chips) 
+Seat 8: Eliminator6 ($22.05 in chips) 
+Seat 9: Resab ($15.15 in chips) 
+ashiXIII: posts small blind $0.10
+DaDalein: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 4h]
+Eliminator6: folds 
+Resab: folds 
+Alameda22: folds 
+esmerine: folds 
+schiz: folds 
+njshore9: folds 
+dobieatwar: raises $0.50 to $0.75
+ashiXIII: folds 
+DaDalein: calls $0.50
+*** FLOP *** [Ks Jc Ac]
+DaDalein: checks 
+dobieatwar: bets $0.75
+DaDalein: calls $0.75
+*** TURN *** [Ks Jc Ac] [Js]
+DaDalein: checks 
+dobieatwar: checks 
+*** RIVER *** [Ks Jc Ac Js] [Td]
+DaDalein: checks 
+dobieatwar: bets $1.50
+DaDalein: folds 
+Uncalled bet ($1.50) returned to dobieatwar
+dobieatwar collected $2.95 from pot
+dobieatwar: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [Ks Jc Ac Js Td]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: esmerine folded before Flop (didn't bet)
+Seat 3: schiz folded before Flop (didn't bet)
+Seat 4: njshore9 folded before Flop (didn't bet)
+Seat 5: dobieatwar (button) collected ($2.95)
+Seat 6: ashiXIII (small blind) folded before Flop
+Seat 7: DaDalein (big blind) folded on the River
+Seat 8: Eliminator6 folded before Flop (didn't bet)
+Seat 9: Resab folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,1853 @@
+PokerStars Game #20078982878:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:11:55 (ET)
+Table 'Ruchbah III' 9-max Seat #2 is the button
+Seat 1: martij28 ($4.70 in chips) 
+Seat 2: crazyman124 ($17.45 in chips) 
+Seat 3: romrom95000 ($25.85 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 5: yjqian23 ($24.85 in chips) 
+Seat 7: magic26v ($30.15 in chips) 
+Seat 8: BadBeat69 ($14 in chips) 
+Seat 9: de captain ($30.95 in chips) 
+romrom95000: posts small blind $0.10
+Alameda22: posts big blind $0.25
+sayahh: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Qd]
+yjqian23: folds 
+magic26v: folds 
+BadBeat69: folds 
+de captain: folds 
+martij28: calls $0.25
+crazyman124: calls $0.25
+romrom95000: folds 
+Alameda22: checks 
+*** FLOP *** [7h 5c 6c]
+Alameda22: checks 
+martij28: checks 
+crazyman124: checks 
+*** TURN *** [7h 5c 6c] [2d]
+Alameda22: checks 
+martij28: bets $0.75
+crazyman124: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to martij28
+martij28 collected $0.85 from pot
+martij28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [7h 5c 6c 2d]
+Seat 1: martij28 collected ($0.85)
+Seat 2: crazyman124 (button) folded on the Turn
+Seat 3: romrom95000 (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded on the Turn
+Seat 5: yjqian23 folded before Flop (didn't bet)
+Seat 7: magic26v folded before Flop (didn't bet)
+Seat 8: BadBeat69 folded before Flop (didn't bet)
+Seat 9: de captain folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079013961:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:13:17 (ET)
+Table 'Ruchbah III' 9-max Seat #3 is the button
+Seat 1: martij28 ($5.30 in chips) 
+Seat 2: crazyman124 ($17.20 in chips) 
+Seat 3: romrom95000 ($25.75 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 6: sayahh ($5 in chips) 
+Seat 7: magic26v ($30.15 in chips) 
+Seat 8: BadBeat69 ($14 in chips) 
+Seat 9: de captain ($30.95 in chips) 
+Alameda22: posts small blind $0.10
+yjqian23: is sitting out 
+yjqian23 leaves the table
+sayahh: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Ah]
+magic26v: calls $0.25
+BadBeat69: folds 
+de captain: folds 
+martij28: calls $0.25
+crazyman124: folds 
+romrom95000: folds 
+Alameda22: calls $0.15
+sayahh: checks 
+*** FLOP *** [Tc 4s Td]
+Alameda22: checks 
+sayahh: checks 
+magic26v: bets $0.75
+martij28: folds 
+martij28 leaves the table
+Alameda22: raises $1.50 to $2.25
+sayahh: folds 
+magic26v: raises $27.65 to $29.90 and is all-in
+Alameda22: folds 
+Uncalled bet ($27.65) returned to magic26v
+magic26v collected $5.25 from pot
+magic26v: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25 
+Board [Tc 4s Td]
+Seat 1: martij28 folded on the Flop
+Seat 2: crazyman124 folded before Flop (didn't bet)
+Seat 3: romrom95000 (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded on the Flop
+Seat 6: sayahh (big blind) folded on the Flop
+Seat 7: magic26v collected ($5.25)
+Seat 8: BadBeat69 folded before Flop (didn't bet)
+Seat 9: de captain folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079072992:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:15:53 (ET)
+Table 'Ruchbah III' 9-max Seat #4 is the button
+Seat 2: crazyman124 ($17.20 in chips) 
+Seat 3: romrom95000 ($25.75 in chips) 
+Seat 4: Alameda22 ($22.25 in chips) 
+Seat 6: sayahh ($4.75 in chips) 
+Seat 7: magic26v ($32.90 in chips) 
+Seat 8: BadBeat69 ($14 in chips) 
+Seat 9: de captain ($30.95 in chips) 
+sayahh: posts small blind $0.10
+magic26v: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Kh]
+BadBeat69: folds 
+de captain: folds 
+crazyman124: folds 
+romrom95000: folds 
+romrom95000 leaves the table
+Alameda22: folds 
+sayahh: calls $0.15
+magic26v: checks 
+*** FLOP *** [2s Ad 8d]
+sayahh: checks 
+magic26v: checks 
+*** TURN *** [2s Ad 8d] [3d]
+sayahh: checks 
+magic26v: checks 
+*** RIVER *** [2s Ad 8d 3d] [4c]
+sayahh: checks 
+magic26v: checks 
+*** SHOW DOWN ***
+sayahh: shows [3c 2h] (two pair, Threes and Deuces)
+magic26v: shows [8c 5h] (a straight, Ace to Five)
+magic26v collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [2s Ad 8d 3d 4c]
+Seat 2: crazyman124 folded before Flop (didn't bet)
+Seat 3: romrom95000 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: sayahh (small blind) showed [3c 2h] and lost with two pair, Threes and Deuces
+Seat 7: magic26v (big blind) showed [8c 5h] and won ($0.50) with a straight, Ace to Five
+Seat 8: BadBeat69 folded before Flop (didn't bet)
+Seat 9: de captain folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079106484:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:17:21 (ET)
+Table 'Ruchbah III' 9-max Seat #6 is the button
+Seat 2: crazyman124 ($17.20 in chips) 
+Seat 4: Alameda22 ($22.25 in chips) 
+Seat 6: sayahh ($4.50 in chips) 
+Seat 7: magic26v ($33.15 in chips) 
+Seat 8: BadBeat69 ($14 in chips) 
+Seat 9: de captain ($30.95 in chips) 
+magic26v: posts small blind $0.10
+BadBeat69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Td]
+de captain: folds 
+crazyman124: calls $0.25
+de captain leaves the table
+Alameda22: folds 
+sayahh: calls $0.25
+magic26v: folds 
+BadBeat69: checks 
+*** FLOP *** [9s 3s 4c]
+BadBeat69: checks 
+crazyman124: checks 
+sayahh: checks 
+*** TURN *** [9s 3s 4c] [Ac]
+BadBeat69: checks 
+crazyman124: bets $0.75
+sayahh: folds 
+BadBeat69: folds 
+Uncalled bet ($0.75) returned to crazyman124
+crazyman124 collected $0.85 from pot
+crazyman124: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [9s 3s 4c Ac]
+Seat 2: crazyman124 collected ($0.85)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: sayahh (button) folded on the Turn
+Seat 7: magic26v (small blind) folded before Flop
+Seat 8: BadBeat69 (big blind) folded on the Turn
+Seat 9: de captain folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081836133:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:20:49 (ET)
+Table 'Ruchbah III' 9-max Seat #4 is the button
+Seat 1: Denmark15 ($10.75 in chips) 
+Seat 2: satflag ($24.05 in chips) 
+Seat 3: wezvidzz ($13.20 in chips) 
+Seat 4: jasons0147 ($25 in chips) 
+Seat 5: Ezebrook ($10.25 in chips) 
+Seat 6: Alameda22 ($25 in chips) 
+Seat 8: omar_braves ($42.75 in chips) 
+Seat 9: jmillerdls ($25 in chips) 
+Ezebrook: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Cardini 23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 8c]
+omar_braves: folds 
+jmillerdls: folds 
+Denmark15: folds 
+satflag: folds 
+wezvidzz: folds 
+jasons0147: raises $0.50 to $0.75
+Ezebrook: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to jasons0147
+jasons0147 collected $0.60 from pot
+jasons0147: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Denmark15 folded before Flop (didn't bet)
+Seat 2: satflag folded before Flop (didn't bet)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: jasons0147 (button) collected ($0.60)
+Seat 5: Ezebrook (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 8: omar_braves folded before Flop (didn't bet)
+Seat 9: jmillerdls folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081852576:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:21:39 (ET)
+Table 'Ruchbah III' 9-max Seat #5 is the button
+Seat 1: Denmark15 ($10.75 in chips) 
+Seat 2: satflag ($24.05 in chips) 
+Seat 3: wezvidzz ($13.20 in chips) 
+Seat 4: jasons0147 ($25.35 in chips) 
+Seat 5: Ezebrook ($10.15 in chips) 
+Seat 6: Alameda22 ($24.75 in chips) 
+Seat 7: Cardini 23 ($25 in chips) 
+Seat 8: omar_braves ($42.75 in chips) 
+Seat 9: jmillerdls ($25 in chips) 
+Alameda22: posts small blind $0.10
+Cardini 23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 4d]
+omar_braves: folds 
+jmillerdls: folds 
+Denmark15: calls $0.25
+satflag: calls $0.25
+wezvidzz: folds 
+jasons0147: folds 
+Ezebrook: calls $0.25
+Alameda22: folds 
+Cardini 23: checks 
+*** FLOP *** [8c 3h Qd]
+Cardini 23: checks 
+Denmark15: checks 
+satflag: checks 
+Ezebrook: bets $1
+Cardini 23: folds 
+Denmark15: folds 
+satflag: folds 
+Uncalled bet ($1) returned to Ezebrook
+Ezebrook collected $1.05 from pot
+Ezebrook: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [8c 3h Qd]
+Seat 1: Denmark15 folded on the Flop
+Seat 2: satflag folded on the Flop
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: jasons0147 folded before Flop (didn't bet)
+Seat 5: Ezebrook (button) collected ($1.05)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: Cardini 23 (big blind) folded on the Flop
+Seat 8: omar_braves folded before Flop (didn't bet)
+Seat 9: jmillerdls folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081875199:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:22:48 (ET)
+Table 'Ruchbah III' 9-max Seat #6 is the button
+Seat 1: Denmark15 ($10.50 in chips) 
+Seat 2: satflag ($23.80 in chips) 
+Seat 3: wezvidzz ($13.20 in chips) 
+Seat 4: jasons0147 ($25.35 in chips) 
+Seat 5: Ezebrook ($10.95 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 8: omar_braves ($42.75 in chips) 
+Seat 9: jmillerdls ($25 in chips) 
+Cardini 23: is sitting out 
+omar_braves: posts small blind $0.10
+jmillerdls: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 5s]
+Cardini 23 leaves the table
+Denmark15: folds 
+satflag: folds 
+wezvidzz: folds 
+tripa22 joins the table at seat #7 
+tripa22 is sitting out
+jasons0147: folds 
+Ezebrook: raises $0.25 to $0.50
+Alameda22: folds 
+omar_braves: folds 
+jmillerdls: folds 
+Uncalled bet ($0.25) returned to Ezebrook
+Ezebrook collected $0.60 from pot
+Ezebrook: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Denmark15 folded before Flop (didn't bet)
+Seat 2: satflag folded before Flop (didn't bet)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: jasons0147 folded before Flop (didn't bet)
+Seat 5: Ezebrook collected ($0.60)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: omar_braves (small blind) folded before Flop
+Seat 9: jmillerdls (big blind) folded before Flop
+
+
+
+PokerStars Game #20081891886:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:23:40 (ET)
+Table 'Ruchbah III' 9-max Seat #8 is the button
+Seat 1: Denmark15 ($10.50 in chips) 
+Seat 2: satflag ($23.80 in chips) 
+Seat 3: wezvidzz ($13.20 in chips) 
+Seat 4: jasons0147 ($25.35 in chips) 
+Seat 5: Ezebrook ($11.30 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 8: omar_braves ($42.65 in chips) 
+Seat 9: jmillerdls ($25 in chips) 
+jmillerdls: posts small blind $0.10
+Denmark15: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Kc]
+satflag: folds 
+wezvidzz: folds 
+jasons0147: folds 
+Ezebrook: calls $0.25
+Alameda22: folds 
+omar_braves: folds 
+jmillerdls: folds 
+Denmark15: checks 
+*** FLOP *** [Ks 7c 4c]
+Denmark15: checks 
+Ezebrook: bets $0.25
+Denmark15: folds 
+Uncalled bet ($0.25) returned to Ezebrook
+tripa22 has returned
+Ezebrook collected $0.60 from pot
+Ezebrook: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ks 7c 4c]
+Seat 1: Denmark15 (big blind) folded on the Flop
+Seat 2: satflag folded before Flop (didn't bet)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: jasons0147 folded before Flop (didn't bet)
+Seat 5: Ezebrook collected ($0.60)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: omar_braves (button) folded before Flop (didn't bet)
+Seat 9: jmillerdls (small blind) folded before Flop
+
+
+
+PokerStars Game #20081918045:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:25:01 (ET)
+Table 'Ruchbah III' 9-max Seat #9 is the button
+Seat 1: Denmark15 ($10.25 in chips) 
+Seat 2: satflag ($23.80 in chips) 
+Seat 3: wezvidzz ($13.20 in chips) 
+Seat 4: jasons0147 ($25.35 in chips) 
+Seat 5: Ezebrook ($11.65 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 7: tripa22 ($25 in chips) 
+Seat 8: omar_braves ($42.65 in chips) 
+Seat 9: jmillerdls ($24.90 in chips) 
+Denmark15: posts small blind $0.10
+satflag: posts big blind $0.25
+tripa22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Qd]
+wezvidzz: folds 
+jasons0147: folds 
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: checks 
+omar_braves: raises $0.75 to $1
+jmillerdls: folds 
+Denmark15: folds 
+satflag: folds 
+tripa22: folds 
+Uncalled bet ($0.75) returned to omar_braves
+omar_braves collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Denmark15 (small blind) folded before Flop
+Seat 2: satflag (big blind) folded before Flop
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: jasons0147 folded before Flop (didn't bet)
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 folded before Flop
+Seat 8: omar_braves collected ($0.85)
+Seat 9: jmillerdls (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081938103:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:26:03 (ET)
+Table 'Ruchbah III' 9-max Seat #1 is the button
+Seat 1: Denmark15 ($10.15 in chips) 
+Seat 2: satflag ($23.55 in chips) 
+Seat 3: wezvidzz ($13.20 in chips) 
+Seat 4: jasons0147 ($25.35 in chips) 
+Seat 5: Ezebrook ($11.65 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 7: tripa22 ($24.75 in chips) 
+Seat 8: omar_braves ($43.25 in chips) 
+Seat 9: jmillerdls ($24.90 in chips) 
+satflag: posts small blind $0.10
+wezvidzz: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 4h]
+jasons0147: folds 
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: folds 
+omar_braves: folds 
+jmillerdls: folds 
+Denmark15: calls $0.25
+satflag: calls $0.15
+wezvidzz: checks 
+*** FLOP *** [9s 3h Tc]
+satflag: checks 
+wezvidzz: bets $0.50
+Denmark15: calls $0.50
+satflag: folds 
+*** TURN *** [9s 3h Tc] [Td]
+wezvidzz: bets $0.75
+Denmark15: calls $0.75
+*** RIVER *** [9s 3h Tc Td] [7d]
+wezvidzz: bets $1.50
+Denmark15: calls $1.50
+*** SHOW DOWN ***
+wezvidzz: shows [Ts Th] (four of a kind, Tens)
+Denmark15: mucks hand 
+wezvidzz collected $5.95 from pot
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.30 
+Board [9s 3h Tc Td 7d]
+Seat 1: Denmark15 (button) mucked [As 9d]
+Seat 2: satflag (small blind) folded on the Flop
+Seat 3: wezvidzz (big blind) showed [Ts Th] and won ($5.95) with four of a kind, Tens
+Seat 4: jasons0147 folded before Flop (didn't bet)
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 folded before Flop (didn't bet)
+Seat 8: omar_braves folded before Flop (didn't bet)
+Seat 9: jmillerdls folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081963860:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:27:24 (ET)
+Table 'Ruchbah III' 9-max Seat #2 is the button
+Seat 1: Denmark15 ($7.15 in chips) 
+Seat 2: satflag ($23.30 in chips) 
+Seat 3: wezvidzz ($16.15 in chips) 
+Seat 4: jasons0147 ($25.35 in chips) 
+Seat 5: Ezebrook ($11.65 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 7: tripa22 ($24.75 in chips) 
+Seat 8: omar_braves ($43.25 in chips) 
+Seat 9: jmillerdls ($24.90 in chips) 
+wezvidzz: posts small blind $0.10
+jasons0147: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Ts]
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: folds 
+Denmark15 said, "wow"
+omar_braves: folds 
+jmillerdls: folds 
+Denmark15: folds 
+satflag: folds 
+wezvidzz: raises $0.50 to $0.75
+jasons0147: folds 
+Uncalled bet ($0.50) returned to wezvidzz
+wezvidzz collected $0.50 from pot
+wezvidzz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Denmark15 folded before Flop (didn't bet)
+Seat 2: satflag (button) folded before Flop (didn't bet)
+Seat 3: wezvidzz (small blind) collected ($0.50)
+Seat 4: jasons0147 (big blind) folded before Flop
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 folded before Flop (didn't bet)
+Seat 8: omar_braves folded before Flop (didn't bet)
+Seat 9: jmillerdls folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081978126:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:28:09 (ET)
+Table 'Ruchbah III' 9-max Seat #3 is the button
+Seat 1: Denmark15 ($7.15 in chips) 
+Seat 2: satflag ($23.30 in chips) 
+Seat 3: wezvidzz ($16.40 in chips) 
+Seat 4: jasons0147 ($25.10 in chips) 
+Seat 5: Ezebrook ($11.65 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 7: tripa22 ($24.75 in chips) 
+Seat 8: omar_braves ($43.25 in chips) 
+Seat 9: jmillerdls ($24.90 in chips) 
+jasons0147: posts small blind $0.10
+Ezebrook: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 7c]
+Alameda22: folds 
+tripa22: folds 
+omar_braves: folds 
+jmillerdls: folds 
+Denmark15: folds 
+satflag: calls $0.25
+wezvidzz: folds 
+jasons0147: folds 
+Ezebrook: checks 
+*** FLOP *** [4s Qs Kd]
+Ezebrook: checks 
+satflag: checks 
+*** TURN *** [4s Qs Kd] [7d]
+Ezebrook: checks 
+satflag: checks 
+*** RIVER *** [4s Qs Kd 7d] [Qd]
+Ezebrook: bets $0.60
+satflag: folds 
+Uncalled bet ($0.60) returned to Ezebrook
+Ezebrook collected $0.60 from pot
+Ezebrook: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4s Qs Kd 7d Qd]
+Seat 1: Denmark15 folded before Flop (didn't bet)
+Seat 2: satflag folded on the River
+Seat 3: wezvidzz (button) folded before Flop (didn't bet)
+Seat 4: jasons0147 (small blind) folded before Flop
+Seat 5: Ezebrook (big blind) collected ($0.60)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 folded before Flop (didn't bet)
+Seat 8: omar_braves folded before Flop (didn't bet)
+Seat 9: jmillerdls folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082000395:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:29:20 (ET)
+Table 'Ruchbah III' 9-max Seat #4 is the button
+Seat 1: Denmark15 ($7.15 in chips) 
+Seat 2: satflag ($23.05 in chips) 
+Seat 3: wezvidzz ($16.40 in chips) 
+Seat 4: jasons0147 ($25 in chips) 
+Seat 5: Ezebrook ($12 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 7: tripa22 ($24.75 in chips) 
+Seat 8: omar_braves ($43.25 in chips) 
+Seat 9: jmillerdls ($24.90 in chips) 
+Ezebrook: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Ah]
+tripa22: folds 
+omar_braves: folds 
+jmillerdls: folds 
+Denmark15: folds 
+satflag: calls $0.25
+wezvidzz: folds 
+jasons0147: folds 
+Ezebrook: calls $0.15
+Alameda22: checks 
+*** FLOP *** [3d 7d Jc]
+Ezebrook: checks 
+Alameda22: checks 
+satflag: checks 
+*** TURN *** [3d 7d Jc] [2d]
+Ezebrook: checks 
+Alameda22: checks 
+satflag: checks 
+*** RIVER *** [3d 7d Jc 2d] [7c]
+Ezebrook: checks 
+Alameda22: checks 
+satflag: checks 
+*** SHOW DOWN ***
+Ezebrook: shows [9d 8c] (a pair of Sevens)
+Alameda22: shows [5s Ah] (a pair of Sevens - Ace kicker)
+satflag: mucks hand 
+Alameda22 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [3d 7d Jc 2d 7c]
+Seat 1: Denmark15 folded before Flop (didn't bet)
+Seat 2: satflag mucked [4s As]
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: jasons0147 (button) folded before Flop (didn't bet)
+Seat 5: Ezebrook (small blind) showed [9d 8c] and lost with a pair of Sevens
+Seat 6: Alameda22 (big blind) showed [5s Ah] and won ($0.75) with a pair of Sevens
+Seat 7: tripa22 folded before Flop (didn't bet)
+Seat 8: omar_braves folded before Flop (didn't bet)
+Seat 9: jmillerdls folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082028624:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:30:48 (ET)
+Table 'Ruchbah III' 9-max Seat #5 is the button
+Seat 1: Denmark15 ($7.15 in chips) 
+Seat 2: satflag ($22.80 in chips) 
+Seat 3: wezvidzz ($16.40 in chips) 
+Seat 4: jasons0147 ($25 in chips) 
+Seat 5: Ezebrook ($11.75 in chips) 
+Seat 6: Alameda22 ($25.15 in chips) 
+Seat 7: tripa22 ($24.75 in chips) 
+Seat 8: omar_braves ($43.25 in chips) 
+Seat 9: jmillerdls ($24.90 in chips) 
+Alameda22: posts small blind $0.10
+tripa22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Ac]
+omar_braves: folds 
+jmillerdls: folds 
+Denmark15: calls $0.25
+satflag: folds 
+wezvidzz: folds 
+jasons0147: folds 
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: checks 
+*** FLOP *** [4d Tc Js]
+tripa22: checks 
+Denmark15: checks 
+*** TURN *** [4d Tc Js] [2d]
+tripa22: checks 
+Denmark15: checks 
+*** RIVER *** [4d Tc Js 2d] [Ts]
+tripa22: checks 
+Denmark15: checks 
+*** SHOW DOWN ***
+tripa22: shows [Ad 5c] (a pair of Tens)
+Denmark15: mucks hand 
+tripa22 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4d Tc Js 2d Ts]
+Seat 1: Denmark15 mucked [5h Kh]
+Seat 2: satflag folded before Flop (didn't bet)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: jasons0147 folded before Flop (didn't bet)
+Seat 5: Ezebrook (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: tripa22 (big blind) showed [Ad 5c] and won ($0.60) with a pair of Tens
+Seat 8: omar_braves folded before Flop (didn't bet)
+Seat 9: jmillerdls folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082048132:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:31:48 (ET)
+Table 'Ruchbah III' 9-max Seat #6 is the button
+Seat 1: Denmark15 ($6.90 in chips) 
+Seat 2: satflag ($22.80 in chips) 
+Seat 3: wezvidzz ($16.40 in chips) 
+Seat 4: jasons0147 ($25 in chips) 
+Seat 5: Ezebrook ($11.75 in chips) 
+Seat 6: Alameda22 ($25.05 in chips) 
+Seat 7: tripa22 ($25.10 in chips) 
+Seat 8: omar_braves ($43.25 in chips) 
+Seat 9: jmillerdls ($24.90 in chips) 
+tripa22: posts small blind $0.10
+omar_braves: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Kh]
+jmillerdls: folds 
+Denmark15: folds 
+satflag: folds 
+wezvidzz: folds 
+jasons0147: raises $0.50 to $0.75
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: folds 
+omar_braves: calls $0.50
+*** FLOP *** [6h 9d Jd]
+omar_braves: checks 
+jasons0147: bets $1.50
+omar_braves: folds 
+Uncalled bet ($1.50) returned to jasons0147
+jasons0147 collected $1.55 from pot
+jasons0147: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [6h 9d Jd]
+Seat 1: Denmark15 folded before Flop (didn't bet)
+Seat 2: satflag folded before Flop (didn't bet)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: jasons0147 collected ($1.55)
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: tripa22 (small blind) folded before Flop
+Seat 8: omar_braves (big blind) folded on the Flop
+Seat 9: jmillerdls folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082074554:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:33:11 (ET)
+Table 'Ruchbah III' 9-max Seat #7 is the button
+Seat 1: Denmark15 ($6.90 in chips) 
+Seat 2: satflag ($22.80 in chips) 
+Seat 3: wezvidzz ($16.40 in chips) 
+Seat 4: jasons0147 ($25.80 in chips) 
+Seat 5: Ezebrook ($11.75 in chips) 
+Seat 6: Alameda22 ($25.05 in chips) 
+Seat 7: tripa22 ($25 in chips) 
+Seat 8: omar_braves ($42.50 in chips) 
+omar_braves: posts small blind $0.10
+jmillerdls: is sitting out 
+jmillerdls leaves the table
+Denmark15: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Ts]
+satflag: folds 
+Hunraken88 joins the table at seat #9 
+wezvidzz: folds 
+jasons0147: folds 
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: folds 
+omar_braves: folds 
+Uncalled bet ($0.15) returned to Denmark15
+Denmark15 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Denmark15 (big blind) collected ($0.20)
+Seat 2: satflag folded before Flop (didn't bet)
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: jasons0147 folded before Flop (didn't bet)
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 (button) folded before Flop (didn't bet)
+Seat 8: omar_braves (small blind) folded before Flop
+
+
+
+PokerStars Game #20082090519:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:34:02 (ET)
+Table 'Ruchbah III' 9-max Seat #8 is the button
+Seat 1: Denmark15 ($7 in chips) 
+Seat 2: satflag ($22.80 in chips) 
+Seat 3: wezvidzz ($16.40 in chips) 
+Seat 4: jasons0147 ($25.80 in chips) 
+Seat 5: Ezebrook ($11.75 in chips) 
+Seat 6: Alameda22 ($25.05 in chips) 
+Seat 7: tripa22 ($25 in chips) 
+Seat 8: omar_braves ($42.40 in chips) 
+Hunraken88 will be allowed to play after the button
+Denmark15: posts small blind $0.10
+satflag: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 3h]
+wezvidzz: folds 
+jasons0147: folds 
+Ezebrook: calls $0.25
+wezvidzz leaves the table
+Alameda22: folds 
+tripa22: raises $1 to $1.25
+omar_braves: folds 
+Denmark15: folds 
+satflag: folds 
+Ezebrook: folds 
+Uncalled bet ($1) returned to tripa22
+tripa22 collected $0.85 from pot
+tripa22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Denmark15 (small blind) folded before Flop
+Seat 2: satflag (big blind) folded before Flop
+Seat 3: wezvidzz folded before Flop (didn't bet)
+Seat 4: jasons0147 folded before Flop (didn't bet)
+Seat 5: Ezebrook folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 collected ($0.85)
+Seat 8: omar_braves (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082103111:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:34:41 (ET)
+Table 'Ruchbah III' 9-max Seat #1 is the button
+Seat 1: Denmark15 ($6.90 in chips) 
+Seat 2: satflag ($22.55 in chips) 
+Seat 4: jasons0147 ($25.80 in chips) 
+Seat 5: Ezebrook ($11.50 in chips) 
+Seat 6: Alameda22 ($25.05 in chips) 
+Seat 7: tripa22 ($25.60 in chips) 
+Seat 8: omar_braves ($42.40 in chips) 
+satflag: posts small blind $0.10
+jasons0147: posts big blind $0.25
+Hunraken88: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Jc]
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: folds 
+omar_braves: folds 
+Denmark15: calls $0.25
+satflag: calls $0.15
+Tee Munny joins the table at seat #3 
+jasons0147: checks 
+*** FLOP *** [6d 9s 3s]
+satflag: checks 
+jasons0147: checks 
+Denmark15: bets $0.25
+satflag: folds 
+jasons0147: folds 
+Uncalled bet ($0.25) returned to Denmark15
+Denmark15 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [6d 9s 3s]
+Seat 1: Denmark15 (button) collected ($0.75)
+Seat 2: satflag (small blind) folded on the Flop
+Seat 4: jasons0147 (big blind) folded on the Flop
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 folded before Flop (didn't bet)
+Seat 8: omar_braves folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082123211:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:35:45 (ET)
+Table 'Ruchbah III' 9-max Seat #2 is the button
+Seat 1: Denmark15 ($7.40 in chips) 
+Seat 2: satflag ($22.30 in chips) 
+Seat 4: jasons0147 ($25.55 in chips) 
+Seat 5: Ezebrook ($11.50 in chips) 
+Seat 6: Alameda22 ($25.05 in chips) 
+Seat 7: tripa22 ($25.60 in chips) 
+Seat 8: omar_braves ($42.40 in chips) 
+Tee Munny will be allowed to play after the button
+jasons0147: posts small blind $0.10
+Ezebrook: posts big blind $0.25
+Hunraken88: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Qs]
+Alameda22: folds 
+tripa22: folds 
+omar_braves: folds 
+Denmark15: calls $0.25
+satflag: folds 
+jasons0147: raises $1 to $1.25
+Ezebrook: folds 
+Denmark15: raises $1 to $2.25
+jasons0147: raises $23.30 to $25.55 and is all-in
+Denmark15: calls $5.15 and is all-in
+Uncalled bet ($18.15) returned to jasons0147
+*** FLOP *** [9s 8d 3c]
+*** TURN *** [9s 8d 3c] [5s]
+*** RIVER *** [9s 8d 3c 5s] [7s]
+*** SHOW DOWN ***
+jasons0147: shows [Jh Jd] (a pair of Jacks)
+Denmark15: shows [7c 8h] (two pair, Eights and Sevens)
+Denmark15 collected $14.30 from pot
+*** SUMMARY ***
+Total pot $15.05 | Rake $0.75 
+Board [9s 8d 3c 5s 7s]
+Seat 1: Denmark15 showed [7c 8h] and won ($14.30) with two pair, Eights and Sevens
+Seat 2: satflag (button) folded before Flop (didn't bet)
+Seat 4: jasons0147 (small blind) showed [Jh Jd] and lost with a pair of Jacks
+Seat 5: Ezebrook (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 folded before Flop (didn't bet)
+Seat 8: omar_braves folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082140452:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:36:40 (ET)
+Table 'Ruchbah III' 9-max Seat #4 is the button
+Seat 1: Denmark15 ($14.30 in chips) 
+Seat 2: satflag ($22.30 in chips) 
+Seat 3: Tee Munny ($5 in chips) 
+Seat 4: jasons0147 ($25 in chips) 
+Seat 5: Ezebrook ($11.25 in chips) 
+Seat 6: Alameda22 ($25.05 in chips) 
+Seat 7: tripa22 ($25.60 in chips) 
+Seat 8: omar_braves ($42.40 in chips) 
+Ezebrook: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Hunraken88: sits out 
+Tee Munny: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Js]
+tripa22: calls $0.25
+omar_braves: folds 
+jasons0147 said, "nh sir"
+Denmark15: raises $0.75 to $1
+satflag: folds 
+Tee Munny: folds 
+jasons0147: raises $2.50 to $3.50
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: folds 
+Denmark15: calls $2.50
+*** FLOP *** [Kh 9h As]
+Denmark15: checks 
+jasons0147: checks 
+*** TURN *** [Kh 9h As] [Jh]
+Denmark15: checks 
+jasons0147: checks 
+*** RIVER *** [Kh 9h As Jh] [Th]
+Denmark15: bets $3
+jasons0147: calls $3
+*** SHOW DOWN ***
+Denmark15: shows [3s 2s] (high card Ace)
+jasons0147: shows [Kc Qc] (a straight, Ten to Ace)
+jasons0147 collected $13.20 from pot
+*** SUMMARY ***
+Total pot $13.85 | Rake $0.65 
+Board [Kh 9h As Jh Th]
+Seat 1: Denmark15 showed [3s 2s] and lost with high card Ace
+Seat 2: satflag folded before Flop (didn't bet)
+Seat 3: Tee Munny folded before Flop
+Seat 4: jasons0147 (button) showed [Kc Qc] and won ($13.20) with a straight, Ten to Ace
+Seat 5: Ezebrook (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: tripa22 folded before Flop
+Seat 8: omar_braves folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082170465:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:38:15 (ET)
+Table 'Ruchbah III' 9-max Seat #5 is the button
+Seat 1: Denmark15 ($7.80 in chips) 
+Seat 2: satflag ($22.30 in chips) 
+Seat 3: Tee Munny ($4.75 in chips) 
+Seat 4: jasons0147 ($31.70 in chips) 
+Seat 5: Ezebrook ($11.15 in chips) 
+Seat 6: Alameda22 ($24.80 in chips) 
+Seat 7: tripa22 ($25.35 in chips) 
+Seat 8: omar_braves ($42.40 in chips) 
+Alameda22: posts small blind $0.10
+tripa22: posts big blind $0.25
+Hunraken88: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 2h]
+omar_braves: raises $0.75 to $1
+Denmark15: folds 
+satflag: folds 
+Tee Munny: folds 
+jasons0147: folds 
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: raises $3 to $4
+omar_braves: folds 
+Uncalled bet ($3) returned to tripa22
+tripa22 collected $2.10 from pot
+tripa22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0 
+Seat 1: Denmark15 folded before Flop (didn't bet)
+Seat 2: satflag folded before Flop (didn't bet)
+Seat 3: Tee Munny folded before Flop (didn't bet)
+Seat 4: jasons0147 folded before Flop (didn't bet)
+Seat 5: Ezebrook (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: tripa22 (big blind) collected ($2.10)
+Seat 8: omar_braves folded before Flop
+
+
+
+PokerStars Game #20082184148:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:38:59 (ET)
+Table 'Ruchbah III' 9-max Seat #6 is the button
+Seat 1: Denmark15 ($7.80 in chips) 
+Seat 2: satflag ($22.30 in chips) 
+Seat 3: Tee Munny ($4.75 in chips) 
+Seat 4: jasons0147 ($31.70 in chips) 
+Seat 5: Ezebrook ($11.15 in chips) 
+Seat 6: Alameda22 ($24.70 in chips) 
+Seat 7: tripa22 ($26.45 in chips) 
+Seat 8: omar_braves ($41.40 in chips) 
+tripa22: posts small blind $0.10
+omar_braves: posts big blind $0.25
+Hunraken88: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Kh]
+Denmark15: folds 
+satflag: calls $0.25
+Tee Munny: raises $0.75 to $1
+jasons0147: folds 
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: raises $4 to $5
+omar_braves: folds 
+satflag: folds 
+Tee Munny: calls $3.75 and is all-in
+Uncalled bet ($0.25) returned to tripa22
+*** FLOP *** [4d 8h 9c]
+*** TURN *** [4d 8h 9c] [4h]
+*** RIVER *** [4d 8h 9c 4h] [9d]
+*** SHOW DOWN ***
+tripa22: shows [Tc Th] (two pair, Tens and Nines)
+Tee Munny: mucks hand 
+tripa22 collected $9.50 from pot
+Tee Munny leaves the table
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [4d 8h 9c 4h 9d]
+Seat 1: Denmark15 folded before Flop (didn't bet)
+Seat 2: satflag folded before Flop
+Seat 3: Tee Munny mucked [Jc Ks]
+Seat 4: jasons0147 folded before Flop (didn't bet)
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: tripa22 (small blind) showed [Tc Th] and won ($9.50) with two pair, Tens and Nines
+Seat 8: omar_braves (big blind) folded before Flop
+
+
+
+PokerStars Game #20082209187:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:40:18 (ET)
+Table 'Ruchbah III' 9-max Seat #7 is the button
+Seat 1: Denmark15 ($7.80 in chips) 
+Seat 2: satflag ($22.05 in chips) 
+Seat 4: jasons0147 ($31.70 in chips) 
+Seat 5: Ezebrook ($11.15 in chips) 
+Seat 6: Alameda22 ($24.70 in chips) 
+Seat 7: tripa22 ($31.20 in chips) 
+Seat 8: omar_braves ($41.15 in chips) 
+Seat 9: Hunraken88 ($15 in chips) 
+omar_braves: posts small blind $0.10
+Hunraken88: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 5s]
+Denmark15: raises $0.50 to $0.75
+satflag: folds 
+jasons0147: folds 
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: calls $0.75
+omar_braves: folds 
+Hunraken88: calls $0.50
+*** FLOP *** [8s 7s Qc]
+Hunraken88: checks 
+Denmark15: bets $5
+tripa22: folds 
+Hunraken88: folds 
+Uncalled bet ($5) returned to Denmark15
+Denmark15 collected $2.25 from pot
+Denmark15: shows [Jh 9h] (high card Queen)
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [8s 7s Qc]
+Seat 1: Denmark15 collected ($2.25)
+Seat 2: satflag folded before Flop (didn't bet)
+Seat 4: jasons0147 folded before Flop (didn't bet)
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 (button) folded on the Flop
+Seat 8: omar_braves (small blind) folded before Flop
+Seat 9: Hunraken88 (big blind) folded on the Flop
+
+
+
+PokerStars Game #20082236899:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:41:48 (ET)
+Table 'Ruchbah III' 9-max Seat #8 is the button
+Seat 1: Denmark15 ($9.30 in chips) 
+Seat 2: satflag ($22.05 in chips) 
+Seat 4: jasons0147 ($31.70 in chips) 
+Seat 5: Ezebrook ($11.15 in chips) 
+Seat 6: Alameda22 ($24.70 in chips) 
+Seat 7: tripa22 ($30.45 in chips) 
+Seat 8: omar_braves ($41.05 in chips) 
+Seat 9: Hunraken88 ($14.25 in chips) 
+Hunraken88: posts small blind $0.10
+Denmark15: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Tc]
+satflag: folds 
+jasons0147: folds 
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: folds 
+omar_braves: folds 
+Hunraken88: calls $0.15
+Denmark15: checks 
+*** FLOP *** [Qs 5s Kd]
+Hunraken88: bets $0.50
+Denmark15: folds 
+Uncalled bet ($0.50) returned to Hunraken88
+Hunraken88 collected $0.50 from pot
+Hunraken88: doesn't show hand 
+Tom Robin joins the table at seat #3 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Qs 5s Kd]
+Seat 1: Denmark15 (big blind) folded on the Flop
+Seat 2: satflag folded before Flop (didn't bet)
+Seat 4: jasons0147 folded before Flop (didn't bet)
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 folded before Flop (didn't bet)
+Seat 8: omar_braves (button) folded before Flop (didn't bet)
+Seat 9: Hunraken88 (small blind) collected ($0.50)
+
+
+
+PokerStars Game #20082250336:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:42:31 (ET)
+Table 'Ruchbah III' 9-max Seat #9 is the button
+Seat 1: Denmark15 ($9.05 in chips) 
+Seat 2: satflag ($22.05 in chips) 
+Seat 3: Tom Robin ($25 in chips) 
+Seat 4: jasons0147 ($31.70 in chips) 
+Seat 5: Ezebrook ($11.15 in chips) 
+Seat 6: Alameda22 ($24.70 in chips) 
+Seat 7: tripa22 ($30.45 in chips) 
+Seat 8: omar_braves ($41.05 in chips) 
+Seat 9: Hunraken88 ($14.50 in chips) 
+Denmark15: posts small blind $0.10
+satflag: posts big blind $0.25
+Tom Robin: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 8s]
+Tom Robin: raises $0.50 to $0.75
+jasons0147: folds 
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: folds 
+omar_braves: folds 
+Hunraken88: folds 
+Denmark15: folds 
+satflag: calls $0.50
+*** FLOP *** [9s Qd 4h]
+satflag: checks 
+Tom Robin: bets $1
+satflag: raises $2 to $3
+Tom Robin: calls $2
+*** TURN *** [9s Qd 4h] [2c]
+satflag: bets $5
+Tom Robin: folds 
+Uncalled bet ($5) returned to satflag
+satflag collected $7.25 from pot
+satflag: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.60 | Rake $0.35 
+Board [9s Qd 4h 2c]
+Seat 1: Denmark15 (small blind) folded before Flop
+Seat 2: satflag (big blind) collected ($7.25)
+Seat 3: Tom Robin folded on the Turn
+Seat 4: jasons0147 folded before Flop (didn't bet)
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 folded before Flop (didn't bet)
+Seat 8: omar_braves folded before Flop (didn't bet)
+Seat 9: Hunraken88 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082281448:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:44:13 (ET)
+Table 'Ruchbah III' 9-max Seat #1 is the button
+Seat 1: Denmark15 ($8.95 in chips) 
+Seat 2: satflag ($25.55 in chips) 
+Seat 3: Tom Robin ($21.25 in chips) 
+Seat 4: jasons0147 ($31.70 in chips) 
+Seat 5: Ezebrook ($11.15 in chips) 
+Seat 6: Alameda22 ($24.70 in chips) 
+Seat 7: tripa22 ($30.45 in chips) 
+Seat 8: omar_braves ($41.05 in chips) 
+Seat 9: Hunraken88 ($14.50 in chips) 
+satflag: posts small blind $0.10
+Tom Robin: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 8d]
+jasons0147: folds 
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: folds 
+omar_braves: calls $0.25
+Hunraken88: calls $0.25
+Denmark15: raises $0.25 to $0.50
+satflag: folds 
+Tom Robin: folds 
+omar_braves: calls $0.25
+Hunraken88: calls $0.25
+*** FLOP *** [Kh 3c Td]
+omar_braves: checks 
+Hunraken88: checks 
+Denmark15: checks 
+*** TURN *** [Kh 3c Td] [7s]
+omar_braves: checks 
+Hunraken88: checks 
+Denmark15: checks 
+*** RIVER *** [Kh 3c Td 7s] [Ah]
+omar_braves: bets $0.75
+Hunraken88: folds 
+Denmark15: folds 
+Uncalled bet ($0.75) returned to omar_braves
+omar_braves collected $1.80 from pot
+omar_braves: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [Kh 3c Td 7s Ah]
+Seat 1: Denmark15 (button) folded on the River
+Seat 2: satflag (small blind) folded before Flop
+Seat 3: Tom Robin (big blind) folded before Flop
+Seat 4: jasons0147 folded before Flop (didn't bet)
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 folded before Flop (didn't bet)
+Seat 8: omar_braves collected ($1.80)
+Seat 9: Hunraken88 folded on the River
+
+
+
+PokerStars Game #20082310188:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:45:47 (ET)
+Table 'Ruchbah III' 9-max Seat #2 is the button
+Seat 1: Denmark15 ($8.45 in chips) 
+Seat 2: satflag ($25.45 in chips) 
+Seat 3: Tom Robin ($21 in chips) 
+Seat 5: Ezebrook ($11.15 in chips) 
+Seat 6: Alameda22 ($24.70 in chips) 
+Seat 7: tripa22 ($30.45 in chips) 
+Seat 8: omar_braves ($42.35 in chips) 
+Seat 9: Hunraken88 ($14 in chips) 
+Tom Robin: posts small blind $0.10
+jasons0147: is sitting out 
+jasons0147 leaves the table
+Ezebrook: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 8h]
+Alameda22: folds 
+tripa22: folds 
+omar_braves: folds 
+Hunraken88: folds 
+Denmark15: folds 
+satflag: calls $0.25
+Tom Robin: raises $0.75 to $1
+Ezebrook: folds 
+satflag: calls $0.75
+*** FLOP *** [Kh 9s Ac]
+Tom Robin: bets $2
+satflag: calls $2
+*** TURN *** [Kh 9s Ac] [3s]
+Tom Robin: checks 
+satflag: checks 
+*** RIVER *** [Kh 9s Ac 3s] [9h]
+Tom Robin: checks 
+satflag: checks 
+*** SHOW DOWN ***
+Tom Robin: shows [Qd Qs] (two pair, Queens and Nines)
+satflag: shows [As Ts] (two pair, Aces and Nines)
+satflag collected $5.95 from pot
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.30 
+Board [Kh 9s Ac 3s 9h]
+Seat 1: Denmark15 folded before Flop (didn't bet)
+Seat 2: satflag (button) showed [As Ts] and won ($5.95) with two pair, Aces and Nines
+Seat 3: Tom Robin (small blind) showed [Qd Qs] and lost with two pair, Queens and Nines
+Seat 5: Ezebrook (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 folded before Flop (didn't bet)
+Seat 8: omar_braves folded before Flop (didn't bet)
+Seat 9: Hunraken88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082326996:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:46:43 (ET)
+Table 'Ruchbah III' 9-max Seat #3 is the button
+Seat 1: Denmark15 ($8.45 in chips) 
+Seat 2: satflag ($28.40 in chips) 
+Seat 3: Tom Robin ($18 in chips) 
+Seat 5: Ezebrook ($10.90 in chips) 
+Seat 6: Alameda22 ($24.70 in chips) 
+Seat 7: tripa22 ($30.45 in chips) 
+Seat 8: omar_braves ($42.35 in chips) 
+Seat 9: Hunraken88 ($14 in chips) 
+Ezebrook: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Kh]
+tripa22: folds 
+omar_braves: folds 
+Hunraken88: folds 
+Denmark15: folds 
+satflag: folds 
+Tom Robin: raises $0.75 to $1
+Ezebrook: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to Tom Robin
+Tom Robin collected $0.60 from pot
+Tom Robin: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Denmark15 folded before Flop (didn't bet)
+Seat 2: satflag folded before Flop (didn't bet)
+Seat 3: Tom Robin (button) collected ($0.60)
+Seat 5: Ezebrook (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: tripa22 folded before Flop (didn't bet)
+Seat 8: omar_braves folded before Flop (didn't bet)
+Seat 9: Hunraken88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082336142:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:47:14 (ET)
+Table 'Ruchbah III' 9-max Seat #5 is the button
+Seat 1: Denmark15 ($8.45 in chips) 
+Seat 2: satflag ($28.40 in chips) 
+Seat 3: Tom Robin ($18.35 in chips) 
+Seat 5: Ezebrook ($10.80 in chips) 
+Seat 6: Alameda22 ($24.45 in chips) 
+Seat 7: tripa22 ($30.45 in chips) 
+Seat 8: omar_braves ($42.35 in chips) 
+Seat 9: Hunraken88 ($14 in chips) 
+Alameda22: posts small blind $0.10
+tripa22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 9d]
+omar_braves: folds 
+Hunraken88: folds 
+Denmark15: calls $0.25
+satflag: calls $0.25
+Tom Robin: folds 
+Ezebrook: calls $0.25
+Alameda22: calls $0.15
+tripa22: checks 
+*** FLOP *** [4c 5s 4s]
+Alameda22: checks 
+tripa22: checks 
+Denmark15: bets $2
+satflag: folds 
+Ezebrook: calls $2
+Alameda22: folds 
+tripa22: folds 
+*** TURN *** [4c 5s 4s] [6d]
+Denmark15: checks 
+Ezebrook: bets $5
+Denmark15: folds 
+Uncalled bet ($5) returned to Ezebrook
+Ezebrook collected $5 from pot
+Ezebrook: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [4c 5s 4s 6d]
+Seat 1: Denmark15 folded on the Turn
+Seat 2: satflag folded on the Flop
+Seat 3: Tom Robin folded before Flop (didn't bet)
+Seat 5: Ezebrook (button) collected ($5)
+Seat 6: Alameda22 (small blind) folded on the Flop
+Seat 7: tripa22 (big blind) folded on the Flop
+Seat 8: omar_braves folded before Flop (didn't bet)
+Seat 9: Hunraken88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082367314:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:48:57 (ET)
+Table 'Ruchbah III' 9-max Seat #6 is the button
+Seat 1: Denmark15 ($6.20 in chips) 
+Seat 2: satflag ($28.15 in chips) 
+Seat 3: Tom Robin ($18.35 in chips) 
+Seat 5: Ezebrook ($13.55 in chips) 
+Seat 6: Alameda22 ($24.20 in chips) 
+Seat 7: tripa22 ($30.20 in chips) 
+Seat 8: omar_braves ($42.35 in chips) 
+Seat 9: Hunraken88 ($14 in chips) 
+tripa22: posts small blind $0.10
+omar_braves: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 2h]
+Hunraken88: folds 
+Denmark15: folds 
+satflag: folds 
+Tom Robin: raises $0.75 to $1
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: folds 
+omar_braves: folds 
+Uncalled bet ($0.75) returned to Tom Robin
+Tom Robin collected $0.60 from pot
+Tom Robin: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Denmark15 folded before Flop (didn't bet)
+Seat 2: satflag folded before Flop (didn't bet)
+Seat 3: Tom Robin collected ($0.60)
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: tripa22 (small blind) folded before Flop
+Seat 8: omar_braves (big blind) folded before Flop
+Seat 9: Hunraken88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082380697:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:49:43 (ET)
+Table 'Ruchbah III' 9-max Seat #7 is the button
+Seat 1: Denmark15 ($6.20 in chips) 
+Seat 2: satflag ($28.15 in chips) 
+Seat 3: Tom Robin ($18.70 in chips) 
+Seat 5: Ezebrook ($13.55 in chips) 
+Seat 6: Alameda22 ($24.20 in chips) 
+Seat 7: tripa22 ($30.10 in chips) 
+Seat 8: omar_braves ($42.10 in chips) 
+Seat 9: Hunraken88 ($14 in chips) 
+omar_braves: posts small blind $0.10
+Hunraken88: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 2c]
+Denmark15: folds 
+satflag: raises $0.25 to $0.50
+Tom Robin: calls $0.50
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: folds 
+omar_braves: folds 
+Hunraken88: calls $0.25
+*** FLOP *** [2d 5s 7d]
+Hunraken88: checks 
+satflag: bets $1
+Tom Robin: raises $1 to $2
+Hunraken88: folds 
+satflag: calls $1
+*** TURN *** [2d 5s 7d] [4d]
+satflag: checks 
+Tom Robin: checks 
+*** RIVER *** [2d 5s 7d 4d] [Qs]
+satflag: bets $1
+Tom Robin: raises $2.75 to $3.75
+satflag: folds 
+Uncalled bet ($2.75) returned to Tom Robin
+Tom Robin collected $7.25 from pot
+Tom Robin: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.60 | Rake $0.35 
+Board [2d 5s 7d 4d Qs]
+Seat 1: Denmark15 folded before Flop (didn't bet)
+Seat 2: satflag folded on the River
+Seat 3: Tom Robin collected ($7.25)
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 (button) folded before Flop (didn't bet)
+Seat 8: omar_braves (small blind) folded before Flop
+Seat 9: Hunraken88 (big blind) folded on the Flop
+
+
+
+PokerStars Game #20082405709:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:51:08 (ET)
+Table 'Ruchbah III' 9-max Seat #8 is the button
+Seat 1: Denmark15 ($6.20 in chips) 
+Seat 2: satflag ($24.65 in chips) 
+Seat 3: Tom Robin ($22.45 in chips) 
+Seat 5: Ezebrook ($13.55 in chips) 
+Seat 6: Alameda22 ($24.20 in chips) 
+Seat 7: tripa22 ($30.10 in chips) 
+Seat 8: omar_braves ($42 in chips) 
+Seat 9: Hunraken88 ($13.50 in chips) 
+Hunraken88: posts small blind $0.10
+Denmark15: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 5s]
+satflag: calls $0.25
+Tom Robin: raises $0.75 to $1
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: folds 
+omar_braves: folds 
+Hunraken88: folds 
+Denmark15: calls $0.75
+satflag: calls $0.75
+*** FLOP *** [3h 5h 4s]
+Denmark15: bets $4
+satflag: folds 
+Tom Robin: raises $4 to $8
+Denmark15: calls $1.20 and is all-in
+Uncalled bet ($2.80) returned to Tom Robin
+*** TURN *** [3h 5h 4s] [7d]
+*** RIVER *** [3h 5h 4s 7d] [Js]
+*** SHOW DOWN ***
+Denmark15: shows [As 7c] (a pair of Sevens)
+Tom Robin: mucks hand 
+Denmark15 collected $12.85 from pot
+*** SUMMARY ***
+Total pot $13.50 | Rake $0.65 
+Board [3h 5h 4s 7d Js]
+Seat 1: Denmark15 (big blind) showed [As 7c] and won ($12.85) with a pair of Sevens
+Seat 2: satflag folded on the Flop
+Seat 3: Tom Robin mucked [Ah 9h]
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 folded before Flop (didn't bet)
+Seat 8: omar_braves (button) folded before Flop (didn't bet)
+Seat 9: Hunraken88 (small blind) folded before Flop
+
+
+
+PokerStars Game #20082430850:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:52:33 (ET)
+Table 'Ruchbah III' 9-max Seat #9 is the button
+Seat 1: Denmark15 ($12.85 in chips) 
+Seat 2: satflag ($23.65 in chips) 
+Seat 3: Tom Robin ($16.25 in chips) 
+Seat 5: Ezebrook ($13.55 in chips) 
+Seat 6: Alameda22 ($24.20 in chips) 
+Seat 7: tripa22 ($30.10 in chips) 
+Seat 8: omar_braves ($42 in chips) 
+Seat 9: Hunraken88 ($13.40 in chips) 
+Denmark15: posts small blind $0.10
+satflag: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Kd]
+Tom Robin: folds 
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: raises $0.75 to $1
+omar_braves: folds 
+Hunraken88: folds 
+Denmark15: folds 
+satflag: folds 
+Uncalled bet ($0.75) returned to tripa22
+tripa22 collected $0.60 from pot
+tripa22: doesn't show hand 
+Bob Essensa joins the table at seat #4 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Denmark15 (small blind) folded before Flop
+Seat 2: satflag (big blind) folded before Flop
+Seat 3: Tom Robin folded before Flop (didn't bet)
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 collected ($0.60)
+Seat 8: omar_braves folded before Flop (didn't bet)
+Seat 9: Hunraken88 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082442398:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:53:13 (ET)
+Table 'Ruchbah III' 9-max Seat #1 is the button
+Seat 1: Denmark15 ($12.75 in chips) 
+Seat 2: satflag ($23.40 in chips) 
+Seat 3: Tom Robin ($16.25 in chips) 
+Seat 4: Bob Essensa ($15 in chips) 
+Seat 5: Ezebrook ($13.55 in chips) 
+Seat 6: Alameda22 ($24.20 in chips) 
+Seat 7: tripa22 ($30.45 in chips) 
+Seat 8: omar_braves ($42 in chips) 
+Seat 9: Hunraken88 ($13.40 in chips) 
+satflag: posts small blind $0.10
+Tom Robin: posts big blind $0.25
+Bob Essensa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 2s]
+Bob Essensa: checks 
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: folds 
+omar_braves: folds 
+Hunraken88: folds 
+Denmark15: folds 
+satflag: calls $0.15
+Tom Robin: checks 
+*** FLOP *** [Ad 5d 4c]
+satflag: checks 
+Tom Robin: checks 
+Bob Essensa: checks 
+*** TURN *** [Ad 5d 4c] [4h]
+satflag: checks 
+Tom Robin: bets $0.50
+Bob Essensa: folds 
+satflag: folds 
+Uncalled bet ($0.50) returned to Tom Robin
+Tom Robin collected $0.75 from pot
+Tom Robin: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Ad 5d 4c 4h]
+Seat 1: Denmark15 (button) folded before Flop (didn't bet)
+Seat 2: satflag (small blind) folded on the Turn
+Seat 3: Tom Robin (big blind) collected ($0.75)
+Seat 4: Bob Essensa folded on the Turn
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 folded before Flop (didn't bet)
+Seat 8: omar_braves folded before Flop (didn't bet)
+Seat 9: Hunraken88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082458663:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:54:09 (ET)
+Table 'Ruchbah III' 9-max Seat #2 is the button
+Seat 1: Denmark15 ($12.75 in chips) 
+Seat 2: satflag ($23.15 in chips) 
+Seat 3: Tom Robin ($16.75 in chips) 
+Seat 4: Bob Essensa ($14.75 in chips) 
+Seat 5: Ezebrook ($13.55 in chips) 
+Seat 6: Alameda22 ($24.20 in chips) 
+Seat 7: tripa22 ($30.45 in chips) 
+Seat 8: omar_braves ($42 in chips) 
+Seat 9: Hunraken88 ($13.40 in chips) 
+Tom Robin: posts small blind $0.10
+Bob Essensa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 6s]
+Ezebrook: calls $0.25
+Alameda22: folds 
+tripa22: folds 
+omar_braves: calls $0.25
+Hunraken88: folds 
+Denmark15: calls $0.25
+satflag: calls $0.25
+Tom Robin: calls $0.15
+Bob Essensa: checks 
+*** FLOP *** [Qd 5d 7s]
+Tom Robin: checks 
+Bob Essensa: checks 
+Ezebrook: checks 
+omar_braves: checks 
+Denmark15: checks 
+satflag: checks 
+*** TURN *** [Qd 5d 7s] [6c]
+Tom Robin: checks 
+Bob Essensa: checks 
+Ezebrook: checks 
+omar_braves: checks 
+Denmark15: checks 
+satflag: checks 
+*** RIVER *** [Qd 5d 7s 6c] [7d]
+Tom Robin: checks 
+Bob Essensa: bets $0.25
+Ezebrook: calls $0.25
+omar_braves: folds 
+Denmark15: calls $0.25
+satflag: folds 
+Tom Robin: folds 
+*** SHOW DOWN ***
+Bob Essensa: shows [5h Kc] (two pair, Sevens and Fives)
+Ezebrook: mucks hand 
+Denmark15: shows [Kh 5c] (two pair, Sevens and Fives)
+Bob Essensa collected $1.10 from pot
+Denmark15 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Qd 5d 7s 6c 7d]
+Seat 1: Denmark15 showed [Kh 5c] and won ($1.05) with two pair, Sevens and Fives
+Seat 2: satflag (button) folded on the River
+Seat 3: Tom Robin (small blind) folded on the River
+Seat 4: Bob Essensa (big blind) showed [5h Kc] and won ($1.10) with two pair, Sevens and Fives
+Seat 5: Ezebrook mucked [Jc Kd]
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 folded before Flop (didn't bet)
+Seat 8: omar_braves folded on the River
+Seat 9: Hunraken88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082497561:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:56:23 (ET)
+Table 'Ruchbah III' 9-max Seat #3 is the button
+Seat 1: Denmark15 ($13.30 in chips) 
+Seat 2: satflag ($22.90 in chips) 
+Seat 3: Tom Robin ($16.50 in chips) 
+Seat 4: Bob Essensa ($15.35 in chips) 
+Seat 5: Ezebrook ($13.05 in chips) 
+Seat 6: Alameda22 ($24.20 in chips) 
+Seat 7: tripa22 ($30.45 in chips) 
+Seat 8: omar_braves ($41.75 in chips) 
+Seat 9: Hunraken88 ($13.40 in chips) 
+Bob Essensa: posts small blind $0.10
+Ezebrook: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Jc]
+Alameda22: folds 
+tripa22: folds 
+omar_braves: folds 
+Hunraken88: folds 
+Denmark15: calls $0.25
+satflag: folds 
+Tom Robin: folds 
+Bob Essensa: calls $0.15
+Ezebrook: checks 
+*** FLOP *** [Kd Qs 9h]
+Bob Essensa: checks 
+Ezebrook: checks 
+Denmark15: checks 
+*** TURN *** [Kd Qs 9h] [Jh]
+Bob Essensa: checks 
+Ezebrook: checks 
+Denmark15: checks 
+*** RIVER *** [Kd Qs 9h Jh] [Ts]
+Bob Essensa: checks 
+Ezebrook: checks 
+Denmark15: checks 
+*** SHOW DOWN ***
+Bob Essensa: shows [Tc 3h] (a straight, Nine to King)
+Ezebrook: shows [8c Th] (a straight, Nine to King)
+Denmark15: shows [5s 6h] (a straight, Nine to King)
+Bob Essensa collected $0.25 from pot
+Ezebrook collected $0.25 from pot
+Denmark15 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Kd Qs 9h Jh Ts]
+Seat 1: Denmark15 showed [5s 6h] and won ($0.25) with a straight, Nine to King
+Seat 2: satflag folded before Flop (didn't bet)
+Seat 3: Tom Robin (button) folded before Flop (didn't bet)
+Seat 4: Bob Essensa (small blind) showed [Tc 3h] and won ($0.25) with a straight, Nine to King
+Seat 5: Ezebrook (big blind) showed [8c Th] and won ($0.25) with a straight, Nine to King
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: tripa22 folded before Flop (didn't bet)
+Seat 8: omar_braves folded before Flop (didn't bet)
+Seat 9: Hunraken88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082518680:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:57:37 (ET)
+Table 'Ruchbah III' 9-max Seat #4 is the button
+Seat 1: Denmark15 ($13.30 in chips) 
+Seat 2: satflag ($22.90 in chips) 
+Seat 3: Tom Robin ($16.50 in chips) 
+Seat 4: Bob Essensa ($15.35 in chips) 
+Seat 5: Ezebrook ($13.05 in chips) 
+Seat 6: Alameda22 ($24.20 in chips) 
+Seat 7: tripa22 ($30.45 in chips) 
+Seat 8: omar_braves ($41.75 in chips) 
+Seat 9: Hunraken88 ($13.40 in chips) 
+Ezebrook: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 5d]
+tripa22: calls $0.25
+omar_braves: calls $0.25
+Hunraken88: folds 
+Denmark15: folds 
+satflag: folds 
+Tom Robin: raises $0.75 to $1
+Bob Essensa: folds 
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: folds 
+omar_braves: folds 
+Uncalled bet ($0.75) returned to Tom Robin
+Tom Robin collected $1.10 from pot
+Tom Robin: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: Denmark15 folded before Flop (didn't bet)
+Seat 2: satflag folded before Flop (didn't bet)
+Seat 3: Tom Robin collected ($1.10)
+Seat 4: Bob Essensa (button) folded before Flop (didn't bet)
+Seat 5: Ezebrook (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: tripa22 folded before Flop
+Seat 8: omar_braves folded before Flop
+Seat 9: Hunraken88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082533032:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:58:27 (ET)
+Table 'Ruchbah III' 9-max Seat #5 is the button
+Seat 1: Denmark15 ($13.30 in chips) 
+Seat 2: satflag ($22.90 in chips) 
+Seat 3: Tom Robin ($17.35 in chips) 
+Seat 4: Bob Essensa ($15.35 in chips) 
+Seat 5: Ezebrook ($12.95 in chips) 
+Seat 6: Alameda22 ($23.95 in chips) 
+Seat 7: tripa22 ($30.20 in chips) 
+Seat 8: omar_braves ($41.50 in chips) 
+Seat 9: Hunraken88 ($13.40 in chips) 
+Alameda22: posts small blind $0.10
+tripa22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Kh]
+omar_braves: folds 
+Hunraken88: folds 
+Denmark15: calls $0.25
+satflag: folds 
+Tom Robin: raises $1 to $1.25
+Bob Essensa: calls $1.25
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: folds 
+Denmark15: calls $1
+*** FLOP *** [8c 4s As]
+Denmark15: checks 
+Tom Robin: checks 
+Bob Essensa: checks 
+*** TURN *** [8c 4s As] [4d]
+Denmark15: checks 
+Tom Robin: checks 
+Bob Essensa: bets $0.25
+Denmark15: folds 
+Tom Robin: raises $0.75 to $1
+Bob Essensa: calls $0.75
+*** RIVER *** [8c 4s As 4d] [8d]
+Tom Robin: checks 
+Bob Essensa: checks 
+*** SHOW DOWN ***
+Tom Robin: shows [Td Th] (two pair, Tens and Eights)
+Bob Essensa: shows [Kc Ks] (two pair, Kings and Eights)
+Bob Essensa collected $5.85 from pot
+*** SUMMARY ***
+Total pot $6.10 | Rake $0.25 
+Board [8c 4s As 4d 8d]
+Seat 1: Denmark15 folded on the Turn
+Seat 2: satflag folded before Flop (didn't bet)
+Seat 3: Tom Robin showed [Td Th] and lost with two pair, Tens and Eights
+Seat 4: Bob Essensa showed [Kc Ks] and won ($5.85) with two pair, Kings and Eights
+Seat 5: Ezebrook (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: tripa22 (big blind) folded before Flop
+Seat 8: omar_braves folded before Flop (didn't bet)
+Seat 9: Hunraken88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082559187:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:59:59 (ET)
+Table 'Ruchbah III' 9-max Seat #6 is the button
+Seat 1: Denmark15 ($12.05 in chips) 
+Seat 2: satflag ($22.90 in chips) 
+Seat 3: Tom Robin ($15.10 in chips) 
+Seat 4: Bob Essensa ($18.95 in chips) 
+Seat 5: Ezebrook ($12.95 in chips) 
+Seat 6: Alameda22 ($23.85 in chips) 
+Seat 7: tripa22 ($29.95 in chips) 
+Seat 8: omar_braves ($41.50 in chips) 
+Seat 9: Hunraken88 ($13.40 in chips) 
+tripa22: posts small blind $0.10
+omar_braves: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 9c]
+Hunraken88: folds 
+Denmark15: folds 
+satflag: calls $0.25
+Tom Robin: raises $0.75 to $1
+Bob Essensa: folds 
+Ezebrook: folds 
+Alameda22: folds 
+tripa22: folds 
+omar_braves: folds 
+satflag: folds 
+Uncalled bet ($0.75) returned to Tom Robin
+Tom Robin collected $0.85 from pot
+Tom Robin is sitting out
+Tom Robin: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Denmark15 folded before Flop (didn't bet)
+Seat 2: satflag folded before Flop
+Seat 3: Tom Robin collected ($0.85)
+Seat 4: Bob Essensa folded before Flop (didn't bet)
+Seat 5: Ezebrook folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: tripa22 (small blind) folded before Flop
+Seat 8: omar_braves (big blind) folded before Flop
+Seat 9: Hunraken88 folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,1911 @@
+PokerStars Game #20082561538:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:00:06 (ET)
+Table 'Lugduna' 9-max Seat #4 is the button
+Seat 1: jmillerdls ($24.90 in chips) 
+Seat 2: FARPCOL ($25.55 in chips) 
+Seat 3: szil79 ($25 in chips) 
+Seat 4: AtrY ($24.85 in chips) 
+Seat 5: Law_man_Luke ($13.05 in chips) 
+Seat 6: Alameda22 ($30.40 in chips) 
+Seat 7: bluecuracao2 ($28.10 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+Law_man_Luke: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Tc]
+bluecuracao2: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: folds 
+szil79: folds 
+AtrY: folds 
+Law_man_Luke: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Qs 7s 2s]
+Law_man_Luke: checks 
+Alameda22: checks 
+*** TURN *** [Qs 7s 2s] [3c]
+Law_man_Luke: checks 
+Alameda22: bets $0.25
+Law_man_Luke: calls $0.25
+*** RIVER *** [Qs 7s 2s 3c] [7c]
+Law_man_Luke: checks 
+lindsaygirl has returned
+Alameda22: checks 
+*** SHOW DOWN ***
+Law_man_Luke: shows [5s 9d] (a pair of Sevens)
+Alameda22: shows [Ks Tc] (a pair of Sevens - King kicker)
+Alameda22 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Qs 7s 2s 3c 7c]
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY (button) folded before Flop (didn't bet)
+Seat 5: Law_man_Luke (small blind) showed [5s 9d] and lost with a pair of Sevens
+Seat 6: Alameda22 (big blind) showed [Ks Tc] and won ($0.95) with a pair of Sevens
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082586203:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:01:34 (ET)
+Table 'Lugduna' 9-max Seat #5 is the button
+Seat 1: jmillerdls ($24.90 in chips) 
+Seat 2: FARPCOL ($25.55 in chips) 
+Seat 3: szil79 ($25 in chips) 
+Seat 4: AtrY ($24.85 in chips) 
+Seat 5: Law_man_Luke ($12.55 in chips) 
+Seat 6: Alameda22 ($30.85 in chips) 
+Seat 7: bluecuracao2 ($28.10 in chips) 
+Seat 8: lindsaygirl ($49.95 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+Alameda22: posts small blind $0.10
+bluecuracao2: posts big blind $0.25
+lindsaygirl: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 3h]
+lindsaygirl: checks 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: raises $1 to $1.25
+szil79: folds 
+AtrY: folds 
+Law_man_Luke: calls $1.25
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: folds 
+*** FLOP *** [Td 7s Qc]
+FARPCOL: bets $2
+Law_man_Luke: calls $2
+*** TURN *** [Td 7s Qc] [4s]
+FARPCOL: bets $11.25
+Law_man_Luke: folds 
+Uncalled bet ($11.25) returned to FARPCOL
+FARPCOL collected $6.85 from pot
+*** SUMMARY ***
+Total pot $7.20 | Rake $0.35 
+Board [Td 7s Qc 4s]
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL collected ($6.85)
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: Law_man_Luke (button) folded on the Turn
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: bluecuracao2 (big blind) folded before Flop
+Seat 8: lindsaygirl folded before Flop
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082602090:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:02:31 (ET)
+Table 'Lugduna' 9-max Seat #6 is the button
+Seat 1: jmillerdls ($24.90 in chips) 
+Seat 2: FARPCOL ($29.15 in chips) 
+Seat 3: szil79 ($25 in chips) 
+Seat 4: AtrY ($24.85 in chips) 
+Seat 5: Law_man_Luke ($9.30 in chips) 
+Seat 6: Alameda22 ($30.75 in chips) 
+Seat 7: bluecuracao2 ($27.85 in chips) 
+Seat 8: lindsaygirl ($49.60 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+bluecuracao2: posts small blind $0.10
+lindsaygirl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Ts]
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: folds 
+szil79: folds 
+AtrY: folds 
+Law_man_Luke: folds 
+Alameda22: folds 
+bluecuracao2: folds 
+Uncalled bet ($0.15) returned to lindsaygirl
+lindsaygirl collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: Law_man_Luke folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: bluecuracao2 (small blind) folded before Flop
+Seat 8: lindsaygirl (big blind) collected ($0.20)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082610967:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:03:02 (ET)
+Table 'Lugduna' 9-max Seat #7 is the button
+Seat 1: jmillerdls ($24.90 in chips) 
+Seat 2: FARPCOL ($29.15 in chips) 
+Seat 3: szil79 ($25 in chips) 
+Seat 4: AtrY ($24.85 in chips) 
+Seat 5: Law_man_Luke ($9.30 in chips) 
+Seat 6: Alameda22 ($30.75 in chips) 
+Seat 7: bluecuracao2 ($27.75 in chips) 
+Seat 8: lindsaygirl ($49.70 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+lindsaygirl: posts small blind $0.10
+PiS.AA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 2c]
+jmillerdls: folds 
+FARPCOL: folds 
+szil79: folds 
+AtrY: folds 
+Law_man_Luke: raises $0.25 to $0.50
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: calls $0.40
+PiS.AA: folds 
+*** FLOP *** [Kc Ad 8h]
+lindsaygirl: checks 
+Law_man_Luke: bets $0.75
+lindsaygirl: calls $0.75
+*** TURN *** [Kc Ad 8h] [9s]
+lindsaygirl: checks 
+Law_man_Luke: bets $1.50
+lindsaygirl: calls $1.50
+*** RIVER *** [Kc Ad 8h 9s] [Qh]
+lindsaygirl: checks 
+Law_man_Luke: bets $6.55 and is all-in
+lindsaygirl: folds 
+Uncalled bet ($6.55) returned to Law_man_Luke
+Law_man_Luke collected $5.50 from pot
+Law_man_Luke: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.25 
+Board [Kc Ad 8h 9s Qh]
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: Law_man_Luke collected ($5.50)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: bluecuracao2 (button) folded before Flop (didn't bet)
+Seat 8: lindsaygirl (small blind) folded on the River
+Seat 9: PiS.AA (big blind) folded before Flop
+
+
+
+PokerStars Game #20082634252:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:04:26 (ET)
+Table 'Lugduna' 9-max Seat #8 is the button
+Seat 1: jmillerdls ($24.90 in chips) 
+Seat 2: FARPCOL ($29.15 in chips) 
+Seat 3: szil79 ($25 in chips) 
+Seat 4: AtrY ($24.85 in chips) 
+Seat 5: Law_man_Luke ($12.05 in chips) 
+Seat 6: Alameda22 ($30.75 in chips) 
+Seat 7: bluecuracao2 ($27.75 in chips) 
+Seat 8: lindsaygirl ($46.95 in chips) 
+Seat 9: PiS.AA ($24.75 in chips) 
+PiS.AA: posts small blind $0.10
+jmillerdls: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 3c]
+FARPCOL: folds 
+szil79: raises $0.75 to $1
+AtrY: folds 
+Law_man_Luke: folds 
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+Uncalled bet ($0.75) returned to szil79
+szil79 collected $0.60 from pot
+szil79: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jmillerdls (big blind) folded before Flop
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: szil79 collected ($0.60)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: Law_man_Luke folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 8: lindsaygirl (button) folded before Flop (didn't bet)
+Seat 9: PiS.AA (small blind) folded before Flop
+
+
+
+PokerStars Game #20082643781:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:05:00 (ET)
+Table 'Lugduna' 9-max Seat #9 is the button
+Seat 1: jmillerdls ($25 in chips) 
+Seat 2: FARPCOL ($29.15 in chips) 
+Seat 3: szil79 ($25.35 in chips) 
+Seat 4: AtrY ($24.85 in chips) 
+Seat 5: Law_man_Luke ($12.05 in chips) 
+Seat 6: Alameda22 ($30.75 in chips) 
+Seat 7: bluecuracao2 ($27.75 in chips) 
+Seat 8: lindsaygirl ($46.95 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+jmillerdls: posts small blind $0.10
+FARPCOL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Tc]
+szil79: folds 
+AtrY: folds 
+Law_man_Luke: folds 
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: raises $1 to $1.25
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: folds 
+Uncalled bet ($1) returned to lindsaygirl
+lindsaygirl collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jmillerdls (small blind) folded before Flop
+Seat 2: FARPCOL (big blind) folded before Flop
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: Law_man_Luke folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 8: lindsaygirl collected ($0.60)
+Seat 9: PiS.AA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082657704:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:05:50 (ET)
+Table 'Lugduna' 9-max Seat #1 is the button
+Seat 1: jmillerdls ($24.90 in chips) 
+Seat 2: FARPCOL ($28.90 in chips) 
+Seat 3: szil79 ($25.35 in chips) 
+Seat 4: AtrY ($24.85 in chips) 
+Seat 5: Law_man_Luke ($12.05 in chips) 
+Seat 6: Alameda22 ($30.75 in chips) 
+Seat 7: bluecuracao2 ($27.75 in chips) 
+Seat 8: lindsaygirl ($47.30 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+FARPCOL: posts small blind $0.10
+szil79: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 5d]
+AtrY: raises $0.75 to $1
+Law_man_Luke: calls $1
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: folds 
+PiS.AA: folds 
+jmillerdls: calls $1
+FARPCOL: calls $0.90
+szil79: folds 
+*** FLOP *** [Js Tc Qs]
+FARPCOL: checks 
+AtrY: bets $3
+Law_man_Luke: raises $3 to $6
+jmillerdls: folds 
+FARPCOL: folds 
+AtrY: raises $7 to $13
+Law_man_Luke: calls $5.05 and is all-in
+Uncalled bet ($1.95) returned to AtrY
+*** TURN *** [Js Tc Qs] [3d]
+*** RIVER *** [Js Tc Qs 3d] [9s]
+*** SHOW DOWN ***
+AtrY: shows [Ks Ac] (a straight, Ten to Ace)
+Law_man_Luke: shows [Qd 9h] (two pair, Queens and Nines)
+AtrY collected $25.05 from pot
+*** SUMMARY ***
+Total pot $26.35 | Rake $1.30 
+Board [Js Tc Qs 3d 9s]
+Seat 1: jmillerdls (button) folded on the Flop
+Seat 2: FARPCOL (small blind) folded on the Flop
+Seat 3: szil79 (big blind) folded before Flop
+Seat 4: AtrY showed [Ks Ac] and won ($25.05) with a straight, Ten to Ace
+Seat 5: Law_man_Luke showed [Qd 9h] and lost with two pair, Queens and Nines
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 8: lindsaygirl folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082680340:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:07:11 (ET)
+Table 'Lugduna' 9-max Seat #2 is the button
+Seat 1: jmillerdls ($25 in chips) 
+Seat 2: FARPCOL ($27.90 in chips) 
+Seat 3: szil79 ($25.10 in chips) 
+Seat 4: AtrY ($37.85 in chips) 
+Seat 6: Alameda22 ($30.75 in chips) 
+Seat 7: bluecuracao2 ($27.75 in chips) 
+Seat 8: lindsaygirl ($47.30 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+szil79: posts small blind $0.10
+AtrY: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 6s]
+Alameda22: folds 
+bluecuracao2: folds 
+Law_man_Luke leaves the table
+lindsaygirl: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: raises $0.75 to $1
+szil79: folds 
+AtrY: folds 
+Uncalled bet ($0.75) returned to FARPCOL
+FARPCOL collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL (button) collected ($0.60)
+Seat 3: szil79 (small blind) folded before Flop
+Seat 4: AtrY (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 8: lindsaygirl folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082689573:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:07:45 (ET)
+Table 'Lugduna' 9-max Seat #3 is the button
+Seat 1: jmillerdls ($25 in chips) 
+Seat 2: FARPCOL ($28.25 in chips) 
+Seat 3: szil79 ($25 in chips) 
+Seat 4: AtrY ($37.60 in chips) 
+Seat 6: Alameda22 ($30.75 in chips) 
+Seat 7: bluecuracao2 ($27.75 in chips) 
+Seat 8: lindsaygirl ($47.30 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+AtrY: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 4c]
+bluecuracao2: folds 
+lindsaygirl: folds 
+*Cafo* joins the table at seat #5 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: folds 
+szil79: folds 
+AtrY: calls $0.15
+Alameda22: checks 
+*** FLOP *** [6d Ah Qh]
+AtrY: checks 
+Alameda22: checks 
+*** TURN *** [6d Ah Qh] [9s]
+AtrY: checks 
+Alameda22: checks 
+*** RIVER *** [6d Ah Qh 9s] [7d]
+AtrY: checks 
+Alameda22: checks 
+*** SHOW DOWN ***
+AtrY: shows [Ad 2d] (a pair of Aces)
+Alameda22: mucks hand 
+AtrY collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [6d Ah Qh 9s 7d]
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: szil79 (button) folded before Flop (didn't bet)
+Seat 4: AtrY (small blind) showed [Ad 2d] and won ($0.50) with a pair of Aces
+Seat 6: Alameda22 (big blind) mucked [Qc 4c]
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 8: lindsaygirl folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082707205:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:08:48 (ET)
+Table 'Lugduna' 9-max Seat #4 is the button
+Seat 1: jmillerdls ($25 in chips) 
+Seat 2: FARPCOL ($28.25 in chips) 
+Seat 3: szil79 ($25 in chips) 
+Seat 4: AtrY ($37.85 in chips) 
+Seat 6: Alameda22 ($30.50 in chips) 
+Seat 7: bluecuracao2 ($27.75 in chips) 
+Seat 8: lindsaygirl ($47.30 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+*Cafo* will be allowed to play after the button
+Alameda22: posts small blind $0.10
+bluecuracao2: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th As]
+lindsaygirl: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: folds 
+szil79: folds 
+AtrY: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to bluecuracao2
+bluecuracao2 collected $0.20 from pot
+bluecuracao2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: bluecuracao2 (big blind) collected ($0.20)
+Seat 8: lindsaygirl folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082715757:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:09:19 (ET)
+Table 'Lugduna' 9-max Seat #6 is the button
+Seat 1: jmillerdls ($25 in chips) 
+Seat 2: FARPCOL ($28.25 in chips) 
+Seat 3: szil79 ($25 in chips) 
+Seat 4: AtrY ($37.85 in chips) 
+Seat 5: *Cafo* ($5 in chips) 
+Seat 6: Alameda22 ($30.40 in chips) 
+Seat 7: bluecuracao2 ($27.85 in chips) 
+Seat 8: lindsaygirl ($47.30 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+bluecuracao2: posts small blind $0.10
+lindsaygirl: posts big blind $0.25
+*Cafo*: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 4h]
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: folds 
+szil79: folds 
+AtrY: folds 
+*Cafo*: checks 
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: checks 
+*** FLOP *** [5c 8d 4s]
+lindsaygirl: bets $0.25
+*Cafo*: folds 
+Uncalled bet ($0.25) returned to lindsaygirl
+lindsaygirl collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [5c 8d 4s]
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: *Cafo* folded on the Flop
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: bluecuracao2 (small blind) folded before Flop
+Seat 8: lindsaygirl (big blind) collected ($0.60)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082731462:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:10:17 (ET)
+Table 'Lugduna' 9-max Seat #7 is the button
+Seat 1: jmillerdls ($25 in chips) 
+Seat 2: FARPCOL ($28.25 in chips) 
+Seat 3: szil79 ($25 in chips) 
+Seat 4: AtrY ($37.85 in chips) 
+Seat 5: *Cafo* ($4.75 in chips) 
+Seat 6: Alameda22 ($30.40 in chips) 
+Seat 7: bluecuracao2 ($27.75 in chips) 
+Seat 8: lindsaygirl ($47.65 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+lindsaygirl: posts small blind $0.10
+PiS.AA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 4h]
+jmillerdls: folds 
+FARPCOL: folds 
+szil79: raises $0.75 to $1
+AtrY: folds 
+*Cafo*: folds 
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: folds 
+PiS.AA: folds 
+Uncalled bet ($0.75) returned to szil79
+szil79 collected $0.60 from pot
+szil79: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: szil79 collected ($0.60)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: *Cafo* folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: bluecuracao2 (button) folded before Flop (didn't bet)
+Seat 8: lindsaygirl (small blind) folded before Flop
+Seat 9: PiS.AA (big blind) folded before Flop
+
+
+
+PokerStars Game #20082739142:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:10:45 (ET)
+Table 'Lugduna' 9-max Seat #8 is the button
+Seat 1: jmillerdls ($25 in chips) 
+Seat 2: FARPCOL ($28.25 in chips) 
+Seat 3: szil79 ($25.35 in chips) 
+Seat 4: AtrY ($37.85 in chips) 
+Seat 5: *Cafo* ($4.75 in chips) 
+Seat 6: Alameda22 ($30.40 in chips) 
+Seat 7: bluecuracao2 ($27.75 in chips) 
+Seat 8: lindsaygirl ($47.55 in chips) 
+Seat 9: PiS.AA ($24.75 in chips) 
+PiS.AA: posts small blind $0.10
+jmillerdls: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 4c]
+FARPCOL: folds 
+szil79: folds 
+AtrY: folds 
+*Cafo*: folds 
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: folds 
+PiS.AA: raises $0.50 to $0.75
+jmillerdls: folds 
+Uncalled bet ($0.50) returned to PiS.AA
+PiS.AA collected $0.50 from pot
+PiS.AA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: jmillerdls (big blind) folded before Flop
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: *Cafo* folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 8: lindsaygirl (button) folded before Flop (didn't bet)
+Seat 9: PiS.AA (small blind) collected ($0.50)
+
+
+
+PokerStars Game #20082755958:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:11:46 (ET)
+Table 'Lugduna' 9-max Seat #9 is the button
+Seat 1: jmillerdls ($25 in chips) 
+Seat 2: FARPCOL ($28.25 in chips) 
+Seat 3: szil79 ($25.35 in chips) 
+Seat 4: AtrY ($37.85 in chips) 
+Seat 5: *Cafo* ($4.75 in chips) 
+Seat 6: Alameda22 ($30.40 in chips) 
+Seat 7: bluecuracao2 ($27.75 in chips) 
+Seat 8: lindsaygirl ($47.55 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+jmillerdls: posts small blind $0.10
+FARPCOL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 8s]
+szil79: folds 
+AtrY: folds 
+*Cafo*: calls $0.25
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: folds 
+PiS.AA: calls $0.25
+jmillerdls: calls $0.15
+FARPCOL: checks 
+*** FLOP *** [2s 3s 7d]
+jmillerdls: bets $0.75
+FARPCOL: calls $0.75
+*Cafo*: folds 
+PiS.AA: folds 
+*** TURN *** [2s 3s 7d] [Ac]
+jmillerdls: bets $1.50
+FARPCOL: calls $1.50
+*** RIVER *** [2s 3s 7d Ac] [3h]
+jmillerdls: checks 
+FARPCOL: checks 
+*** SHOW DOWN ***
+jmillerdls: shows [Js Qs] (a pair of Threes)
+FARPCOL: shows [5d Ah] (two pair, Aces and Threes)
+FARPCOL collected $5.25 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25 
+Board [2s 3s 7d Ac 3h]
+Seat 1: jmillerdls (small blind) showed [Js Qs] and lost with a pair of Threes
+Seat 2: FARPCOL (big blind) showed [5d Ah] and won ($5.25) with two pair, Aces and Threes
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: *Cafo* folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 8: lindsaygirl folded before Flop (didn't bet)
+Seat 9: PiS.AA (button) folded on the Flop
+
+
+
+PokerStars Game #20082776800:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:13:04 (ET)
+Table 'Lugduna' 9-max Seat #1 is the button
+Seat 1: jmillerdls ($22.75 in chips) 
+Seat 2: FARPCOL ($31 in chips) 
+Seat 3: szil79 ($25.35 in chips) 
+Seat 4: AtrY ($37.85 in chips) 
+Seat 5: *Cafo* ($4.50 in chips) 
+Seat 6: Alameda22 ($30.40 in chips) 
+Seat 7: bluecuracao2 ($27.75 in chips) 
+Seat 8: lindsaygirl ($47.55 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+FARPCOL: posts small blind $0.10
+szil79: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 5h]
+AtrY: folds 
+*Cafo*: folds 
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: calls $0.15
+szil79: checks 
+*** FLOP *** [2s Kd 9h]
+FARPCOL: checks 
+szil79: bets $0.50
+FARPCOL: folds 
+Uncalled bet ($0.50) returned to szil79
+szil79 collected $0.50 from pot
+szil79: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [2s Kd 9h]
+Seat 1: jmillerdls (button) folded before Flop (didn't bet)
+Seat 2: FARPCOL (small blind) folded on the Flop
+Seat 3: szil79 (big blind) collected ($0.50)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: *Cafo* folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 8: lindsaygirl folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082785410:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:13:36 (ET)
+Table 'Lugduna' 9-max Seat #2 is the button
+Seat 1: jmillerdls ($25 in chips) 
+Seat 2: FARPCOL ($30.75 in chips) 
+Seat 3: szil79 ($25.60 in chips) 
+Seat 4: AtrY ($37.85 in chips) 
+Seat 5: *Cafo* ($4.50 in chips) 
+Seat 6: Alameda22 ($30.40 in chips) 
+Seat 7: bluecuracao2 ($27.75 in chips) 
+Seat 8: lindsaygirl ($47.55 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+szil79: posts small blind $0.10
+AtrY: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Ks]
+*Cafo*: folds 
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: folds 
+szil79: calls $0.15
+AtrY: checks 
+*** FLOP *** [9h Ah 5h]
+szil79: bets $0.50
+AtrY: folds 
+Uncalled bet ($0.50) returned to szil79
+szil79 collected $0.50 from pot
+szil79: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [9h Ah 5h]
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL (button) folded before Flop (didn't bet)
+Seat 3: szil79 (small blind) collected ($0.50)
+Seat 4: AtrY (big blind) folded on the Flop
+Seat 5: *Cafo* folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 8: lindsaygirl folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082793504:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:14:06 (ET)
+Table 'Lugduna' 9-max Seat #3 is the button
+Seat 1: jmillerdls ($25 in chips) 
+Seat 2: FARPCOL ($30.75 in chips) 
+Seat 3: szil79 ($25.85 in chips) 
+Seat 4: AtrY ($37.60 in chips) 
+Seat 5: *Cafo* ($4.50 in chips) 
+Seat 6: Alameda22 ($30.40 in chips) 
+Seat 7: bluecuracao2 ($27.75 in chips) 
+Seat 8: lindsaygirl ($47.55 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+AtrY: posts small blind $0.10
+*Cafo*: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 3c]
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: calls $0.25
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: folds 
+szil79: folds 
+AtrY: folds 
+*Cafo*: checks 
+*** FLOP *** [Js Th 4c]
+*Cafo*: checks 
+lindsaygirl: bets $0.25
+*Cafo*: folds 
+Uncalled bet ($0.25) returned to lindsaygirl
+lindsaygirl collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Js Th 4c]
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: szil79 (button) folded before Flop (didn't bet)
+Seat 4: AtrY (small blind) folded before Flop
+Seat 5: *Cafo* (big blind) folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 8: lindsaygirl collected ($0.60)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082807641:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:14:59 (ET)
+Table 'Lugduna' 9-max Seat #4 is the button
+Seat 1: jmillerdls ($25 in chips) 
+Seat 2: FARPCOL ($30.75 in chips) 
+Seat 3: szil79 ($25.85 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: *Cafo* ($4.25 in chips) 
+Seat 6: Alameda22 ($30.40 in chips) 
+Seat 7: bluecuracao2 ($27.75 in chips) 
+Seat 8: lindsaygirl ($47.90 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+*Cafo*: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Ac]
+bluecuracao2: folds 
+lindsaygirl: raises $0.75 to $1
+PiS.AA: folds 
+jmillerdls: calls $1
+FARPCOL: folds 
+szil79: folds 
+AtrY: folds 
+*Cafo*: folds 
+Alameda22: folds 
+*** FLOP *** [2c 5c 2s]
+lindsaygirl: checks 
+*Cafo* leaves the table
+jmillerdls: bets $2
+lindsaygirl: calls $2
+*** TURN *** [2c 5c 2s] [4c]
+lindsaygirl: checks 
+jmillerdls: checks 
+*** RIVER *** [2c 5c 2s 4c] [Td]
+lindsaygirl: checks 
+jmillerdls: bets $3
+lindsaygirl: calls $3
+*** SHOW DOWN ***
+jmillerdls: shows [Qs Qh] (two pair, Queens and Deuces)
+lindsaygirl: mucks hand 
+cwexler joins the table at seat #5 
+jmillerdls collected $11.75 from pot
+*** SUMMARY ***
+Total pot $12.35 | Rake $0.60 
+Board [2c 5c 2s 4c Td]
+Seat 1: jmillerdls showed [Qs Qh] and won ($11.75) with two pair, Queens and Deuces
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY (button) folded before Flop (didn't bet)
+Seat 5: *Cafo* (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 8: lindsaygirl mucked [4s As]
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082835150:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:16:42 (ET)
+Table 'Lugduna' 9-max Seat #6 is the button
+Seat 1: jmillerdls ($30.75 in chips) 
+Seat 2: FARPCOL ($30.75 in chips) 
+Seat 3: szil79 ($25.85 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($20 in chips) 
+Seat 6: Alameda22 ($30.15 in chips) 
+Seat 7: bluecuracao2 ($27.75 in chips) 
+Seat 8: lindsaygirl ($41.90 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+bluecuracao2: posts small blind $0.10
+lindsaygirl: posts big blind $0.25
+cwexler: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Kc]
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: folds 
+szil79: folds 
+AtrY: folds 
+cwexler: raises $0.75 to $1
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: folds 
+Uncalled bet ($0.75) returned to cwexler
+lindsaygirl is sitting out
+cwexler collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: cwexler collected ($0.60)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: bluecuracao2 (small blind) folded before Flop
+Seat 8: lindsaygirl (big blind) folded before Flop
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082845079:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:17:20 (ET)
+Table 'Lugduna' 9-max Seat #7 is the button
+Seat 1: jmillerdls ($30.75 in chips) 
+Seat 2: FARPCOL ($30.75 in chips) 
+Seat 3: szil79 ($25.85 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($20.35 in chips) 
+Seat 6: Alameda22 ($30.15 in chips) 
+Seat 7: bluecuracao2 ($27.65 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+PiS.AA: posts small blind $0.10
+jmillerdls: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c As]
+FARPCOL: folds 
+szil79: folds 
+AtrY: folds 
+cwexler: raises $0.75 to $1
+Alameda22: folds 
+bluecuracao2: calls $1
+PiS.AA: folds 
+jmillerdls: folds 
+*** FLOP *** [5c 2s 3h]
+cwexler: bets $1.75
+bluecuracao2: calls $1.75
+*** TURN *** [5c 2s 3h] [3s]
+lindsaygirl has returned
+cwexler: checks 
+bluecuracao2: bets $2.50
+cwexler: folds 
+Uncalled bet ($2.50) returned to bluecuracao2
+bluecuracao2 collected $5.60 from pot
+bluecuracao2: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.85 | Rake $0.25 
+Board [5c 2s 3h 3s]
+Seat 1: jmillerdls (big blind) folded before Flop
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: cwexler folded on the Turn
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: bluecuracao2 (button) collected ($5.60)
+Seat 9: PiS.AA (small blind) folded before Flop
+
+
+
+PokerStars Game #20082862745:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:18:26 (ET)
+Table 'Lugduna' 9-max Seat #9 is the button
+Seat 1: jmillerdls ($30.50 in chips) 
+Seat 2: FARPCOL ($30.75 in chips) 
+Seat 3: szil79 ($25.85 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($17.60 in chips) 
+Seat 6: Alameda22 ($30.15 in chips) 
+Seat 7: bluecuracao2 ($30.50 in chips) 
+Seat 8: lindsaygirl ($41.65 in chips) 
+Seat 9: PiS.AA ($24.90 in chips) 
+jmillerdls: posts small blind $0.10
+FARPCOL: posts big blind $0.25
+lindsaygirl: posts small blind $0.10
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 2d]
+szil79: folds 
+AtrY: folds 
+cwexler: folds 
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: folds 
+PiS.AA: raises $0.75 to $1
+jmillerdls: folds 
+FARPCOL: folds 
+Uncalled bet ($0.75) returned to PiS.AA
+PiS.AA collected $0.70 from pot
+PiS.AA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: jmillerdls (small blind) folded before Flop
+Seat 2: FARPCOL (big blind) folded before Flop
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: cwexler folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 8: lindsaygirl folded before Flop
+Seat 9: PiS.AA (button) collected ($0.70)
+
+
+
+PokerStars Game #20082875985:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:19:17 (ET)
+Table 'Lugduna' 9-max Seat #1 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($30.50 in chips) 
+Seat 3: szil79 ($25.85 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($17.60 in chips) 
+Seat 6: Alameda22 ($30.15 in chips) 
+Seat 7: bluecuracao2 ($30.50 in chips) 
+Seat 8: lindsaygirl ($41.55 in chips) 
+Seat 9: PiS.AA ($25.35 in chips) 
+FARPCOL: posts small blind $0.10
+szil79: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Qs]
+AtrY: folds 
+cwexler: folds 
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: folds 
+Uncalled bet ($0.15) returned to szil79
+szil79 collected $0.20 from pot
+szil79: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jmillerdls (button) folded before Flop (didn't bet)
+Seat 2: FARPCOL (small blind) folded before Flop
+Seat 3: szil79 (big blind) collected ($0.20)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: cwexler folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 8: lindsaygirl folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082887771:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:20:01 (ET)
+Table 'Lugduna' 9-max Seat #2 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($30.40 in chips) 
+Seat 3: szil79 ($25.95 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($17.60 in chips) 
+Seat 6: Alameda22 ($30.15 in chips) 
+Seat 7: bluecuracao2 ($30.50 in chips) 
+Seat 8: lindsaygirl ($41.55 in chips) 
+Seat 9: PiS.AA ($25.35 in chips) 
+szil79: posts small blind $0.10
+AtrY: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 5c]
+cwexler: folds 
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: folds 
+szil79: folds 
+Uncalled bet ($0.15) returned to AtrY
+AtrY collected $0.20 from pot
+AtrY: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL (button) folded before Flop (didn't bet)
+Seat 3: szil79 (small blind) folded before Flop
+Seat 4: AtrY (big blind) collected ($0.20)
+Seat 5: cwexler folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 8: lindsaygirl folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082893103:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:20:21 (ET)
+Table 'Lugduna' 9-max Seat #3 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($30.40 in chips) 
+Seat 3: szil79 ($25.85 in chips) 
+Seat 4: AtrY ($37.60 in chips) 
+Seat 5: cwexler ($17.60 in chips) 
+Seat 6: Alameda22 ($30.15 in chips) 
+Seat 7: bluecuracao2 ($30.50 in chips) 
+Seat 8: lindsaygirl ($41.55 in chips) 
+Seat 9: PiS.AA ($25.35 in chips) 
+AtrY: posts small blind $0.10
+cwexler: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 2c]
+Alameda22: folds 
+bluecuracao2: folds 
+lindsaygirl: folds 
+PiS.AA: raises $0.50 to $0.75
+jmillerdls: folds 
+FARPCOL: calls $0.75
+szil79: folds 
+AtrY: folds 
+cwexler: calls $0.50
+*** FLOP *** [6s 7c Ad]
+cwexler: checks 
+PiS.AA: checks 
+FARPCOL: checks 
+*** TURN *** [6s 7c Ad] [9s]
+cwexler: checks 
+PiS.AA: checks 
+FARPCOL: bets $1.50
+cwexler: calls $1.50
+PiS.AA: folds 
+*** RIVER *** [6s 7c Ad 9s] [2d]
+cwexler: checks 
+FARPCOL: checks 
+*** SHOW DOWN ***
+cwexler: shows [2s 3s] (a pair of Deuces)
+FARPCOL: shows [8s 8h] (a pair of Eights)
+FARPCOL collected $5.10 from pot
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [6s 7c Ad 9s 2d]
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL showed [8s 8h] and won ($5.10) with a pair of Eights
+Seat 3: szil79 (button) folded before Flop (didn't bet)
+Seat 4: AtrY (small blind) folded before Flop
+Seat 5: cwexler (big blind) showed [2s 3s] and lost with a pair of Deuces
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 8: lindsaygirl folded before Flop (didn't bet)
+Seat 9: PiS.AA folded on the Turn
+
+
+
+PokerStars Game #20082910183:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:21:27 (ET)
+Table 'Lugduna' 9-max Seat #4 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($33.25 in chips) 
+Seat 3: szil79 ($25.85 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($15.35 in chips) 
+Seat 6: Alameda22 ($30.15 in chips) 
+Seat 7: bluecuracao2 ($30.50 in chips) 
+Seat 8: lindsaygirl ($41.55 in chips) 
+Seat 9: PiS.AA ($24.60 in chips) 
+cwexler: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 5c]
+bluecuracao2: folds 
+lindsaygirl: folds 
+PiS.AA: raises $0.25 to $0.50
+jmillerdls: folds 
+FARPCOL: folds 
+szil79: folds 
+AtrY: folds 
+cwexler: calls $0.40
+Alameda22: calls $0.25
+*** FLOP *** [Qd Qs Qh]
+cwexler: checks 
+Alameda22: checks 
+PiS.AA: bets $1
+cwexler: calls $1
+Alameda22: folds 
+*** TURN *** [Qd Qs Qh] [Jh]
+cwexler: checks 
+PiS.AA: checks 
+*** RIVER *** [Qd Qs Qh Jh] [6s]
+cwexler: checks 
+PiS.AA: checks 
+*** SHOW DOWN ***
+cwexler: shows [9h 9c] (a full house, Queens full of Nines)
+PiS.AA: mucks hand 
+cwexler collected $3.35 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [Qd Qs Qh Jh 6s]
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY (button) folded before Flop (didn't bet)
+Seat 5: cwexler (small blind) showed [9h 9c] and won ($3.35) with a full house, Queens full of Nines
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: bluecuracao2 folded before Flop (didn't bet)
+Seat 8: lindsaygirl folded before Flop (didn't bet)
+Seat 9: PiS.AA mucked [2c 2d]
+
+
+
+PokerStars Game #20082937900:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:23:13 (ET)
+Table 'Lugduna' 9-max Seat #5 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($33.25 in chips) 
+Seat 3: szil79 ($25.85 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($17.20 in chips) 
+Seat 6: Alameda22 ($29.65 in chips) 
+Seat 8: lindsaygirl ($41.55 in chips) 
+Seat 9: PiS.AA ($23.10 in chips) 
+Alameda22: posts small blind $0.10
+bluecuracao2: is sitting out 
+lindsaygirl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Ah]
+bluecuracao2 leaves the table
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: raises $0.75 to $1
+szil79: folds 
+AtrY: folds 
+cwexler: folds 
+Alameda22: folds 
+lindsaygirl: calls $0.75
+*** FLOP *** [7s 2h Kh]
+lindsaygirl: checks 
+FARPCOL: bets $1.75
+lindsaygirl: calls $1.75
+*** TURN *** [7s 2h Kh] [8h]
+nickx883 joins the table at seat #7 
+lindsaygirl: checks 
+FARPCOL: bets $3.75
+lindsaygirl: folds 
+Uncalled bet ($3.75) returned to FARPCOL
+FARPCOL collected $5.35 from pot
+FARPCOL: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.25 
+Board [7s 2h Kh 8h]
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL collected ($5.35)
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: cwexler (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 8: lindsaygirl (big blind) folded on the Turn
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20082954197:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:24:16 (ET)
+Table 'Lugduna' 9-max Seat #6 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($35.85 in chips) 
+Seat 3: szil79 ($25.85 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($17.20 in chips) 
+Seat 6: Alameda22 ($29.55 in chips) 
+Seat 8: lindsaygirl ($38.80 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+nickx883 will be allowed to play after the button
+lindsaygirl: posts small blind $0.10
+PiS.AA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Qd]
+jmillerdls: folds 
+FARPCOL: folds 
+szil79: folds 
+AtrY: folds 
+cwexler: folds 
+Alameda22: folds 
+lindsaygirl: calls $0.15
+PiS.AA: checks 
+*** FLOP *** [Qh 5c 4d]
+lindsaygirl: checks 
+PiS.AA: checks 
+*** TURN *** [Qh 5c 4d] [Kh]
+lindsaygirl: checks 
+PiS.AA: checks 
+*** RIVER *** [Qh 5c 4d Kh] [3c]
+lindsaygirl: checks 
+PiS.AA: checks 
+*** SHOW DOWN ***
+lindsaygirl: shows [2d 2h] (a pair of Deuces)
+PiS.AA: mucks hand 
+lindsaygirl collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Qh 5c 4d Kh 3c]
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: cwexler folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: lindsaygirl (small blind) showed [2d 2h] and won ($0.50) with a pair of Deuces
+Seat 9: PiS.AA (big blind) mucked [2s Jd]
+
+
+
+PokerStars Game #20082969538:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:25:15 (ET)
+Table 'Lugduna' 9-max Seat #8 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($35.85 in chips) 
+Seat 3: szil79 ($25.85 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($17.20 in chips) 
+Seat 6: Alameda22 ($29.55 in chips) 
+Seat 8: lindsaygirl ($39.05 in chips) 
+Seat 9: PiS.AA ($24.75 in chips) 
+PiS.AA: posts small blind $0.10
+jmillerdls: posts big blind $0.25
+nickx883: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 8s]
+FARPCOL: folds 
+szil79: folds 
+AtrY: folds 
+cwexler: folds 
+Alameda22: folds 
+lindsaygirl: folds 
+PiS.AA: folds 
+Uncalled bet ($0.15) returned to jmillerdls
+jmillerdls collected $0.20 from pot
+jmillerdls: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jmillerdls (big blind) collected ($0.20)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: cwexler folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: lindsaygirl (button) folded before Flop (didn't bet)
+Seat 9: PiS.AA (small blind) folded before Flop
+
+
+
+PokerStars Game #20082982097:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:26:03 (ET)
+Table 'Lugduna' 9-max Seat #9 is the button
+Seat 1: jmillerdls ($30.50 in chips) 
+Seat 2: FARPCOL ($35.85 in chips) 
+Seat 3: szil79 ($25.85 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($17.20 in chips) 
+Seat 6: Alameda22 ($29.55 in chips) 
+Seat 8: lindsaygirl ($39.05 in chips) 
+Seat 9: PiS.AA ($25 in chips) 
+jmillerdls: posts small blind $0.10
+FARPCOL: posts big blind $0.25
+nickx883: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Ac]
+szil79: folds 
+AtrY: folds 
+cwexler has timed out
+cwexler: folds 
+cwexler is sitting out
+Alameda22: folds 
+lindsaygirl: folds 
+PiS.AA: raises $0.50 to $0.75
+jmillerdls: folds 
+FARPCOL: folds 
+Uncalled bet ($0.50) returned to PiS.AA
+PiS.AA collected $0.60 from pot
+PiS.AA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jmillerdls (small blind) folded before Flop
+Seat 2: FARPCOL (big blind) folded before Flop
+Seat 3: szil79 folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: cwexler folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: lindsaygirl folded before Flop (didn't bet)
+Seat 9: PiS.AA (button) collected ($0.60)
+
+
+
+PokerStars Game #20083002804:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:27:22 (ET)
+Table 'Lugduna' 9-max Seat #1 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($35.60 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 6: Alameda22 ($29.55 in chips) 
+Seat 8: lindsaygirl ($39.05 in chips) 
+Seat 9: PiS.AA ($25.35 in chips) 
+FARPCOL: posts small blind $0.10
+szil79: is sitting out 
+AtrY: posts big blind $0.25
+nickx883: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 6h]
+Alameda22: folds 
+lindsaygirl: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: folds 
+Uncalled bet ($0.15) returned to AtrY
+cwexler has returned
+AtrY collected $0.20 from pot
+AtrY: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jmillerdls (button) folded before Flop (didn't bet)
+Seat 2: FARPCOL (small blind) folded before Flop
+Seat 4: AtrY (big blind) collected ($0.20)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: lindsaygirl folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083011513:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:27:56 (ET)
+Table 'Lugduna' 9-max Seat #2 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($35.50 in chips) 
+Seat 4: AtrY ($37.60 in chips) 
+Seat 5: cwexler ($17.20 in chips) 
+Seat 6: Alameda22 ($29.55 in chips) 
+Seat 8: lindsaygirl ($39.05 in chips) 
+Seat 9: PiS.AA ($25.35 in chips) 
+AtrY: posts small blind $0.10
+cwexler: posts big blind $0.25
+nickx883: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 5s]
+Alameda22: folds 
+lindsaygirl: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: folds 
+AtrY: folds 
+Uncalled bet ($0.15) returned to cwexler
+cwexler collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL (button) folded before Flop (didn't bet)
+Seat 4: AtrY (small blind) folded before Flop
+Seat 5: cwexler (big blind) collected ($0.20)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: lindsaygirl folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083017928:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:28:21 (ET)
+Table 'Lugduna' 9-max Seat #4 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($35.50 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($17.30 in chips) 
+Seat 6: Alameda22 ($29.55 in chips) 
+Seat 8: lindsaygirl ($39.05 in chips) 
+Seat 9: PiS.AA ($25.35 in chips) 
+cwexler: posts small blind $0.10
+Alameda22: posts big blind $0.25
+nickx883: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Jd]
+szil79 leaves the table
+lindsaygirl: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: folds 
+AtrY: folds 
+cwexler: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 4: AtrY (button) folded before Flop (didn't bet)
+Seat 5: cwexler (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) collected ($0.20)
+Seat 8: lindsaygirl folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083023763:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:28:44 (ET)
+Table 'Lugduna' 9-max Seat #5 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($35.50 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($17.20 in chips) 
+Seat 6: Alameda22 ($29.65 in chips) 
+Seat 7: nickx883 ($5 in chips) 
+Seat 8: lindsaygirl ($39.05 in chips) 
+Seat 9: PiS.AA ($25.35 in chips) 
+Alameda22: posts small blind $0.10
+nickx883: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 5c]
+lindsaygirl: folds 
+PiS.AA: raises $0.75 to $1
+jmillerdls: folds 
+FARPCOL: folds 
+AtrY: folds 
+cwexler: folds 
+Alameda22: folds 
+nickx883: calls $0.75
+*** FLOP *** [As Ts Jd]
+nickx883: checks 
+PiS.AA: bets $1.25
+nickx883: folds 
+Uncalled bet ($1.25) returned to PiS.AA
+PiS.AA collected $2 from pot
+PiS.AA: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [As Ts Jd]
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: cwexler (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: nickx883 (big blind) folded on the Flop
+Seat 8: lindsaygirl folded before Flop (didn't bet)
+Seat 9: PiS.AA collected ($2)
+
+
+
+PokerStars Game #20083043498:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:30:01 (ET)
+Table 'Lugduna' 9-max Seat #6 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($35.50 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($17.20 in chips) 
+Seat 6: Alameda22 ($29.55 in chips) 
+Seat 7: nickx883 ($4 in chips) 
+Seat 8: lindsaygirl ($39.05 in chips) 
+Seat 9: PiS.AA ($26.35 in chips) 
+nickx883: posts small blind $0.10
+lindsaygirl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Qh]
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: raises $0.75 to $1
+AtrY: folds 
+cwexler: folds 
+Alameda22: folds 
+nickx883: folds 
+lindsaygirl: folds 
+Uncalled bet ($0.75) returned to FARPCOL
+lindsaygirl is sitting out
+FARPCOL collected $0.60 from pot
+FARPCOL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL collected ($0.60)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: cwexler folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: nickx883 (small blind) folded before Flop
+Seat 8: lindsaygirl (big blind) folded before Flop
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083053316:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:30:40 (ET)
+Table 'Lugduna' 9-max Seat #7 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($35.85 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($17.20 in chips) 
+Seat 6: Alameda22 ($29.55 in chips) 
+Seat 7: nickx883 ($3.90 in chips) 
+Seat 9: PiS.AA ($26.35 in chips) 
+PiS.AA: posts small blind $0.10
+jmillerdls: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 4d]
+FARPCOL: folds 
+AtrY: folds 
+cwexler: folds 
+Alameda22: folds 
+nickx883: folds 
+PiS.AA: folds 
+Uncalled bet ($0.15) returned to jmillerdls
+jmillerdls collected $0.20 from pot
+jmillerdls: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jmillerdls (big blind) collected ($0.20)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: cwexler folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: nickx883 (button) folded before Flop (didn't bet)
+Seat 9: PiS.AA (small blind) folded before Flop
+
+
+
+PokerStars Game #20083062154:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:31:09 (ET)
+Table 'Lugduna' 9-max Seat #9 is the button
+Seat 1: jmillerdls ($30.50 in chips) 
+Seat 2: FARPCOL ($35.85 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($17.20 in chips) 
+Seat 6: Alameda22 ($29.55 in chips) 
+Seat 7: nickx883 ($3.90 in chips) 
+Seat 9: PiS.AA ($26.25 in chips) 
+jmillerdls: posts small blind $0.10
+FARPCOL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 2c]
+AtrY: folds 
+cwexler: raises $0.75 to $1
+Alameda22: folds 
+nickx883: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: calls $0.75
+*** FLOP *** [7d 4d Ac]
+FARPCOL: checks 
+cwexler: bets $1.50
+FARPCOL: calls $1.50
+*** TURN *** [7d 4d Ac] [Qd]
+FARPCOL: checks 
+cwexler: bets $3.50
+FARPCOL: folds 
+Uncalled bet ($3.50) returned to cwexler
+cwexler collected $4.85 from pot
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.25 
+Board [7d 4d Ac Qd]
+Seat 1: jmillerdls (small blind) folded before Flop
+Seat 2: FARPCOL (big blind) folded on the Turn
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: cwexler collected ($4.85)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: nickx883 folded before Flop (didn't bet)
+Seat 9: PiS.AA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083077657:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:32:08 (ET)
+Table 'Lugduna' 9-max Seat #1 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($33.35 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($19.55 in chips) 
+Seat 6: Alameda22 ($29.55 in chips) 
+Seat 7: nickx883 ($3.90 in chips) 
+Seat 9: PiS.AA ($26.25 in chips) 
+FARPCOL: posts small blind $0.10
+AtrY: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 4d]
+cwexler: folds 
+Alameda22: folds 
+nickx883: calls $0.25
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: calls $0.15
+AtrY: checks 
+*** FLOP *** [Tc Qd 3s]
+FARPCOL: checks 
+AtrY: checks 
+nickx883: checks 
+*** TURN *** [Tc Qd 3s] [Ks]
+FARPCOL: bets $0.50
+AtrY: folds 
+nickx883: raises $0.50 to $1
+FARPCOL: calls $0.50
+*** RIVER *** [Tc Qd 3s Ks] [8s]
+FARPCOL: bets $2.75
+nickx883: folds 
+Uncalled bet ($2.75) returned to FARPCOL
+FARPCOL collected $2.65 from pot
+FARPCOL: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [Tc Qd 3s Ks 8s]
+Seat 1: jmillerdls (button) folded before Flop (didn't bet)
+Seat 2: FARPCOL (small blind) collected ($2.65)
+Seat 4: AtrY (big blind) folded on the Turn
+Seat 5: cwexler folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: nickx883 folded on the River
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083098518:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:33:24 (ET)
+Table 'Lugduna' 9-max Seat #2 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($34.75 in chips) 
+Seat 4: AtrY ($37.25 in chips) 
+Seat 5: cwexler ($19.55 in chips) 
+Seat 6: Alameda22 ($29.55 in chips) 
+Seat 7: nickx883 ($2.65 in chips) 
+Seat 9: PiS.AA ($26.25 in chips) 
+AtrY: posts small blind $0.10
+cwexler: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 5d]
+Alameda22: folds 
+nickx883: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: raises $0.75 to $1
+AtrY: folds 
+lindsaygirl leaves the table
+cwexler: folds 
+Uncalled bet ($0.75) returned to FARPCOL
+FARPCOL collected $0.60 from pot
+FARPCOL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL (button) collected ($0.60)
+Seat 4: AtrY (small blind) folded before Flop
+Seat 5: cwexler (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: nickx883 folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083106133:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:33:52 (ET)
+Table 'Lugduna' 9-max Seat #4 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($35.10 in chips) 
+Seat 4: AtrY ($37.15 in chips) 
+Seat 5: cwexler ($19.30 in chips) 
+Seat 6: Alameda22 ($29.55 in chips) 
+Seat 7: nickx883 ($2.65 in chips) 
+Seat 9: PiS.AA ($26.25 in chips) 
+cwexler: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 9h]
+nickx883: folds 
+PiS.AA: folds 
+nickx883 is sitting out
+jmillerdls: folds 
+FARPCOL: raises $0.75 to $1
+AtrY: folds 
+cwexler: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to FARPCOL
+FARPCOL collected $0.60 from pot
+FARPCOL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL collected ($0.60)
+Seat 4: AtrY (button) folded before Flop (didn't bet)
+Seat 5: cwexler (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: nickx883 folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083115483:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:34:26 (ET)
+Table 'Lugduna' 9-max Seat #5 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($35.45 in chips) 
+Seat 4: AtrY ($37.15 in chips) 
+Seat 5: cwexler ($19.20 in chips) 
+Seat 6: Alameda22 ($29.30 in chips) 
+Seat 9: PiS.AA ($26.25 in chips) 
+Alameda22: posts small blind $0.10
+PiS.AA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Kc]
+jmillerdls: folds 
+FARPCOL: folds 
+AtrY: folds 
+cwexler: raises $0.75 to $1
+Alameda22: folds 
+PiS.AA: folds 
+Uncalled bet ($0.75) returned to cwexler
+cwexler collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: cwexler (button) collected ($0.60)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 9: PiS.AA (big blind) folded before Flop
+
+
+
+PokerStars Game #20083125799:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:35:05 (ET)
+Table 'Lugduna' 9-max Seat #6 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($35.45 in chips) 
+Seat 4: AtrY ($37.15 in chips) 
+Seat 5: cwexler ($19.55 in chips) 
+Seat 6: Alameda22 ($29.20 in chips) 
+Seat 9: PiS.AA ($26 in chips) 
+PiS.AA: posts small blind $0.10
+jmillerdls: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Qs]
+FARPCOL: folds 
+IR0NCHEF joins the table at seat #3 
+AtrY: folds 
+cwexler: folds 
+Alameda22: folds 
+PiS.AA: folds 
+Uncalled bet ($0.15) returned to jmillerdls
+jmillerdls collected $0.20 from pot
+jmillerdls: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jmillerdls (big blind) collected ($0.20)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: cwexler folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: PiS.AA (small blind) folded before Flop
+
+
+
+PokerStars Game #20083137162:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:35:47 (ET)
+Table 'Lugduna' 9-max Seat #9 is the button
+Seat 1: jmillerdls ($30.50 in chips) 
+Seat 2: FARPCOL ($35.45 in chips) 
+Seat 4: AtrY ($37.15 in chips) 
+Seat 5: cwexler ($19.55 in chips) 
+Seat 6: Alameda22 ($29.20 in chips) 
+Seat 9: PiS.AA ($25.90 in chips) 
+jmillerdls: posts small blind $0.10
+FARPCOL: posts big blind $0.25
+IR0NCHEF: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Ts]
+AtrY: folds 
+cwexler: folds 
+Alameda22: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+Uncalled bet ($0.15) returned to FARPCOL
+FARPCOL collected $0.20 from pot
+FARPCOL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jmillerdls (small blind) folded before Flop
+Seat 2: FARPCOL (big blind) collected ($0.20)
+Seat 4: AtrY folded before Flop (didn't bet)
+Seat 5: cwexler folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 9: PiS.AA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083144727:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:36:15 (ET)
+Table 'Lugduna' 9-max Seat #1 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($35.55 in chips) 
+Seat 3: IR0NCHEF ($25 in chips) 
+Seat 4: AtrY ($37.15 in chips) 
+Seat 5: cwexler ($19.55 in chips) 
+Seat 6: Alameda22 ($29.20 in chips) 
+Seat 9: PiS.AA ($25.90 in chips) 
+FARPCOL: posts small blind $0.10
+IR0NCHEF: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 3s]
+AtrY: raises $0.75 to $1
+cwexler: folds 
+Alameda22: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: folds 
+IR0NCHEF: folds 
+Uncalled bet ($0.75) returned to AtrY
+AtrY collected $0.60 from pot
+AtrY: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jmillerdls (button) folded before Flop (didn't bet)
+Seat 2: FARPCOL (small blind) folded before Flop
+Seat 3: IR0NCHEF (big blind) folded before Flop
+Seat 4: AtrY collected ($0.60)
+Seat 5: cwexler folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083151422:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:36:40 (ET)
+Table 'Lugduna' 9-max Seat #2 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($35.45 in chips) 
+Seat 3: IR0NCHEF ($24.75 in chips) 
+Seat 4: AtrY ($37.50 in chips) 
+Seat 5: cwexler ($19.55 in chips) 
+Seat 6: Alameda22 ($29.20 in chips) 
+Seat 9: PiS.AA ($25.90 in chips) 
+IR0NCHEF: posts small blind $0.10
+AtrY: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 8d]
+cwexler: folds 
+Alameda22: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: raises $0.75 to $1
+IR0NCHEF: folds 
+AtrY: folds 
+Uncalled bet ($0.75) returned to FARPCOL
+FARPCOL collected $0.60 from pot
+FARPCOL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL (button) collected ($0.60)
+Seat 3: IR0NCHEF (small blind) folded before Flop
+Seat 4: AtrY (big blind) folded before Flop
+Seat 5: cwexler folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20083158723:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:37:07 (ET)
+Table 'Lugduna' 9-max Seat #3 is the button
+Seat 1: jmillerdls ($30.40 in chips) 
+Seat 2: FARPCOL ($35.80 in chips) 
+Seat 3: IR0NCHEF ($24.65 in chips) 
+Seat 4: AtrY ($37.25 in chips) 
+Seat 5: cwexler ($19.55 in chips) 
+Seat 6: Alameda22 ($29.20 in chips) 
+Seat 9: PiS.AA ($25.90 in chips) 
+AtrY: posts small blind $0.10
+cwexler: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 8s]
+David_3112 joins the table at seat #8 
+nickx883 has returned
+Alameda22: folds 
+PiS.AA: folds 
+jmillerdls: folds 
+FARPCOL: folds 
+IR0NCHEF: folds 
+AtrY: folds 
+Uncalled bet ($0.15) returned to cwexler
+cwexler collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jmillerdls folded before Flop (didn't bet)
+Seat 2: FARPCOL folded before Flop (didn't bet)
+Seat 3: IR0NCHEF (button) folded before Flop (didn't bet)
+Seat 4: AtrY (small blind) folded before Flop
+Seat 5: cwexler (big blind) collected ($0.20)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 9: PiS.AA folded before Flop (didn't bet)
+
+
+

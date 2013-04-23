@@ -1,0 +1,2792 @@
+PokerStars Game #19577317173:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:01:16 (ET)
+Table 'Skuld' 9-max Seat #4 is the button
+Seat 2: KarnackII ($55.05 in chips) 
+Seat 3: lata33 ($3.35 in chips) 
+Seat 4: Alameda22 ($40.95 in chips) 
+Seat 5: bunderlog ($49.45 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: LiLPrawN ($24.90 in chips) 
+Seat 9: Pioneer2001 ($32.40 in chips) 
+bunderlog: posts small blind $0.10
+wezvidzz leaves the table
+wasserss: posts big blind $0.25
+Kimiochang: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 2h]
+LiLPrawN: folds 
+Pioneer2001: folds 
+KarnackII: folds 
+lata33: calls $0.25
+Alameda22: folds 
+bunderlog: folds 
+FARPCOL joins the table at seat #6 
+wasserss: checks 
+*** FLOP *** [4c Jd 7c]
+wasserss: checks 
+lata33: checks 
+*** TURN *** [4c Jd 7c] [7h]
+wasserss: checks 
+lata33: checks 
+*** RIVER *** [4c Jd 7c 7h] [3d]
+wasserss: checks 
+lata33: bets $0.50
+wasserss: folds 
+Uncalled bet ($0.50) returned to lata33
+lata33 collected $0.60 from pot
+lata33: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4c Jd 7c 7h 3d]
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 collected ($0.60)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: bunderlog (small blind) folded before Flop
+Seat 7: wasserss (big blind) folded on the River
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: Pioneer2001 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577342909:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:02:42 (ET)
+Table 'Skuld' 9-max Seat #5 is the button
+Seat 2: KarnackII ($55.05 in chips) 
+Seat 3: lata33 ($13.70 in chips) 
+Seat 4: Alameda22 ($40.95 in chips) 
+Seat 5: bunderlog ($49.35 in chips) 
+Seat 7: wasserss ($4.75 in chips) 
+Seat 8: LiLPrawN ($24.90 in chips) 
+Seat 9: Pioneer2001 ($32.40 in chips) 
+FARPCOL will be allowed to play after the button
+wasserss: posts small blind $0.10
+LiLPrawN: posts big blind $0.25
+Kimiochang: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Kh]
+Pioneer2001: folds 
+KarnackII: raises $1 to $1.25
+lata33: calls $1.25
+Alameda22: folds 
+bunderlog: folds 
+wasserss: folds 
+LiLPrawN: folds 
+*** FLOP *** [6c 8c 3s]
+KarnackII: checks 
+lata33: checks 
+*** TURN *** [6c 8c 3s] [3d]
+KarnackII: checks 
+lata33: checks 
+*** RIVER *** [6c 8c 3s 3d] [6h]
+KarnackII: bets $2
+lata33: folds 
+Uncalled bet ($2) returned to KarnackII
+KarnackII collected $2.75 from pot
+KarnackII: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [6c 8c 3s 3d 6h]
+Seat 2: KarnackII collected ($2.75)
+Seat 3: lata33 folded on the River
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bunderlog (button) folded before Flop (didn't bet)
+Seat 7: wasserss (small blind) folded before Flop
+Seat 8: LiLPrawN (big blind) folded before Flop
+Seat 9: Pioneer2001 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577365210:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:03:56 (ET)
+Table 'Skuld' 9-max Seat #7 is the button
+Seat 1: Kimiochang ($25 in chips) 
+Seat 2: KarnackII ($56.55 in chips) 
+Seat 3: lata33 ($12.45 in chips) 
+Seat 4: Alameda22 ($40.95 in chips) 
+Seat 5: bunderlog ($49.35 in chips) 
+Seat 6: FARPCOL ($25 in chips) 
+Seat 7: wasserss ($4.65 in chips) 
+Seat 8: LiLPrawN ($24.65 in chips) 
+LiLPrawN: posts small blind $0.10
+Pioneer2001: is sitting out 
+Kimiochang: posts big blind $0.25
+FARPCOL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 6s]
+Pioneer2001 leaves the table
+KarnackII: folds 
+lata33: raises $0.25 to $0.50
+Alameda22: folds 
+bunderlog: folds 
+FARPCOL: calls $0.25
+wasserss: raises $4.15 to $4.65 and is all-in
+LiLPrawN: folds 
+Kimiochang: folds 
+lata33: calls $4.15
+FARPCOL: folds 
+FARPCOL is sitting out
+*** FLOP *** [2h 2d 8c]
+*** TURN *** [2h 2d 8c] [4d]
+*** RIVER *** [2h 2d 8c 4d] [Kh]
+*** SHOW DOWN ***
+lata33: shows [Ac 2c] (three of a kind, Deuces)
+wasserss: mucks hand 
+lata33 collected $9.65 from pot
+*** SUMMARY ***
+Total pot $10.15 | Rake $0.50 
+Board [2h 2d 8c 4d Kh]
+Seat 1: Kimiochang (big blind) folded before Flop
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 showed [Ac 2c] and won ($9.65) with three of a kind, Deuces
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bunderlog folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop
+Seat 7: wasserss (button) mucked [As Ah]
+Seat 8: LiLPrawN (small blind) folded before Flop
+
+
+
+PokerStars Game #19577384661:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:05:02 (ET)
+Table 'Skuld' 9-max Seat #8 is the button
+Seat 1: Kimiochang ($24.75 in chips) 
+Seat 2: KarnackII ($56.55 in chips) 
+Seat 3: lata33 ($17.45 in chips) 
+Seat 4: Alameda22 ($40.95 in chips) 
+Seat 5: bunderlog ($49.35 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: LiLPrawN ($24.55 in chips) 
+Kimiochang: posts small blind $0.10
+heffs976 joins the table at seat #9 
+KarnackII: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 6s]
+lata33: calls $0.25
+Alameda22: folds 
+bunderlog: folds 
+wasserss: folds 
+LiLPrawN: folds 
+Kimiochang: calls $0.15
+KarnackII: raises $1 to $1.25
+lata33: folds 
+Kimiochang: folds 
+Uncalled bet ($1) returned to KarnackII
+KarnackII collected $0.75 from pot
+KarnackII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Kimiochang (small blind) folded before Flop
+Seat 2: KarnackII (big blind) collected ($0.75)
+Seat 3: lata33 folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bunderlog folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: LiLPrawN (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577396112:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:05:40 (ET)
+Table 'Skuld' 9-max Seat #1 is the button
+Seat 1: Kimiochang ($24.50 in chips) 
+Seat 2: KarnackII ($57.05 in chips) 
+Seat 3: lata33 ($17.20 in chips) 
+Seat 4: Alameda22 ($40.95 in chips) 
+Seat 5: bunderlog ($49.35 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: LiLPrawN ($24.55 in chips) 
+Seat 9: heffs976 ($22.40 in chips) 
+KarnackII: posts small blind $0.10
+lata33: posts big blind $0.25
+heffs976: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 6c]
+Alameda22: folds 
+bunderlog: folds 
+wasserss: folds 
+LiLPrawN: folds 
+heffs976: checks 
+FARPCOL has returned
+Kimiochang: calls $0.25
+KarnackII: calls $0.15
+lata33: checks 
+*** FLOP *** [Jc 6h 6d]
+KarnackII: checks 
+lata33: checks 
+heffs976: checks 
+Kimiochang: checks 
+*** TURN *** [Jc 6h 6d] [7s]
+KarnackII: checks 
+lata33: checks 
+heffs976: checks 
+Kimiochang: checks 
+*** RIVER *** [Jc 6h 6d 7s] [As]
+KarnackII: checks 
+lata33: checks 
+heffs976: checks 
+Kimiochang: checks 
+*** SHOW DOWN ***
+KarnackII: shows [Kh 4s] (a pair of Sixes)
+lata33: shows [7d Tc] (two pair, Sevens and Sixes)
+heffs976: mucks hand 
+Kimiochang: shows [5d Ac] (two pair, Aces and Sixes)
+Kimiochang collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Jc 6h 6d 7s As]
+Seat 1: Kimiochang (button) showed [5d Ac] and won ($0.95) with two pair, Aces and Sixes
+Seat 2: KarnackII (small blind) showed [Kh 4s] and lost with a pair of Sixes
+Seat 3: lata33 (big blind) showed [7d Tc] and lost with two pair, Sevens and Sixes
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: bunderlog folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 mucked [Ts Qd]
+
+
+
+PokerStars Game #19577419671:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:07:00 (ET)
+Table 'Skuld' 9-max Seat #2 is the button
+Seat 1: Kimiochang ($25.20 in chips) 
+Seat 2: KarnackII ($56.80 in chips) 
+Seat 3: lata33 ($16.95 in chips) 
+Seat 4: Alameda22 ($40.95 in chips) 
+Seat 5: bunderlog ($49.35 in chips) 
+Seat 6: FARPCOL ($24.50 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: LiLPrawN ($24.55 in chips) 
+Seat 9: heffs976 ($22.15 in chips) 
+lata33: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Jh]
+bunderlog: folds 
+FARPCOL: folds 
+wasserss: folds 
+LiLPrawN: folds 
+heffs976: folds 
+Kimiochang: raises $0.25 to $0.50
+KarnackII: folds 
+lata33: folds 
+Alameda22: calls $0.25
+*** FLOP *** [Ks 5h 8h]
+Alameda22: checks 
+Kimiochang: bets $0.25
+Alameda22: folds 
+Uncalled bet ($0.25) returned to Kimiochang
+Kimiochang collected $1.05 from pot
+Kimiochang: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Ks 5h 8h]
+Seat 1: Kimiochang collected ($1.05)
+Seat 2: KarnackII (button) folded before Flop (didn't bet)
+Seat 3: lata33 (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 5: bunderlog folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577440992:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:08:14 (ET)
+Table 'Skuld' 9-max Seat #3 is the button
+Seat 1: Kimiochang ($25.75 in chips) 
+Seat 2: KarnackII ($56.80 in chips) 
+Seat 3: lata33 ($16.85 in chips) 
+Seat 4: Alameda22 ($40.45 in chips) 
+Seat 6: FARPCOL ($24.50 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: LiLPrawN ($24.55 in chips) 
+Seat 9: heffs976 ($22.15 in chips) 
+Alameda22: posts small blind $0.10
+bunderlog: is sitting out 
+FARPCOL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 5s]
+bunderlog leaves the table
+wasserss: folds 
+LiLPrawN: folds 
+heffs976: raises $0.50 to $0.75
+Kimiochang: calls $0.75
+KarnackII: folds 
+Jimbo4328 joins the table at seat #5 
+lata33: raises $0.50 to $1.25
+Alameda22: folds 
+FARPCOL: folds 
+heffs976: calls $0.50
+Kimiochang: folds 
+*** FLOP *** [5h 5d 7c]
+heffs976: checks 
+lata33: bets $1.25
+heffs976: folds 
+Uncalled bet ($1.25) returned to lata33
+lata33 collected $3.45 from pot
+lata33: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.15 
+Board [5h 5d 7c]
+Seat 1: Kimiochang folded before Flop
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 (button) collected ($3.45)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 6: FARPCOL (big blind) folded before Flop
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 folded on the Flop
+
+
+
+PokerStars Game #19577457874:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:09:11 (ET)
+Table 'Skuld' 9-max Seat #4 is the button
+Seat 1: Kimiochang ($25 in chips) 
+Seat 2: KarnackII ($56.80 in chips) 
+Seat 3: lata33 ($19.05 in chips) 
+Seat 4: Alameda22 ($40.35 in chips) 
+Seat 6: FARPCOL ($24.25 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: LiLPrawN ($24.55 in chips) 
+Seat 9: heffs976 ($20.90 in chips) 
+Jimbo4328 will be allowed to play after the button
+FARPCOL: posts small blind $0.10
+wasserss: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 8h]
+LiLPrawN: folds 
+heffs976: raises $0.75 to $1
+Kimiochang: folds 
+KarnackII: folds 
+lata33: folds 
+Alameda22: folds 
+FARPCOL: folds 
+wasserss: folds 
+Uncalled bet ($0.75) returned to heffs976
+heffs976 collected $0.60 from pot
+heffs976: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: FARPCOL (small blind) folded before Flop
+Seat 7: wasserss (big blind) folded before Flop
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 collected ($0.60)
+
+
+
+PokerStars Game #19577468978:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:09:49 (ET)
+Table 'Skuld' 9-max Seat #6 is the button
+Seat 1: Kimiochang ($25 in chips) 
+Seat 2: KarnackII ($56.80 in chips) 
+Seat 3: lata33 ($19.05 in chips) 
+Seat 4: Alameda22 ($40.35 in chips) 
+Seat 6: FARPCOL ($24.15 in chips) 
+Seat 7: wasserss ($4.75 in chips) 
+Seat 8: LiLPrawN ($25 in chips) 
+Seat 9: heffs976 ($21.25 in chips) 
+wasserss: posts small blind $0.10
+LiLPrawN: posts big blind $0.25
+Jimbo4328: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Kc]
+heffs976: folds 
+Kimiochang: folds 
+KarnackII: folds 
+lata33: folds 
+Alameda22: folds 
+FARPCOL: folds 
+wasserss: raises $0.75 to $1
+LiLPrawN: folds 
+Uncalled bet ($0.75) returned to wasserss
+wasserss collected $0.50 from pot
+wasserss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: FARPCOL (button) folded before Flop (didn't bet)
+Seat 7: wasserss (small blind) collected ($0.50)
+Seat 8: LiLPrawN (big blind) folded before Flop
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577479656:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:10:26 (ET)
+Table 'Skuld' 9-max Seat #7 is the button
+Seat 1: Kimiochang ($25 in chips) 
+Seat 2: KarnackII ($56.80 in chips) 
+Seat 3: lata33 ($19.05 in chips) 
+Seat 4: Alameda22 ($40.35 in chips) 
+Seat 6: FARPCOL ($24.15 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: LiLPrawN ($24.75 in chips) 
+Seat 9: heffs976 ($21.25 in chips) 
+LiLPrawN: posts small blind $0.10
+heffs976: posts big blind $0.25
+Jimbo4328: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 5c]
+Kimiochang: calls $0.25
+KarnackII: folds 
+lata33: raises $0.50 to $0.75
+Alameda22: folds 
+FARPCOL: folds 
+wasserss: folds 
+LiLPrawN: folds 
+heffs976: folds 
+Kimiochang: folds 
+Uncalled bet ($0.50) returned to lata33
+lata33 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Kimiochang folded before Flop
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 collected ($0.85)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: wasserss (button) folded before Flop (didn't bet)
+Seat 8: LiLPrawN (small blind) folded before Flop
+Seat 9: heffs976 (big blind) folded before Flop
+
+
+
+PokerStars Game #19577496514:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:11:25 (ET)
+Table 'Skuld' 9-max Seat #8 is the button
+Seat 1: Kimiochang ($24.75 in chips) 
+Seat 2: KarnackII ($56.80 in chips) 
+Seat 3: lata33 ($19.65 in chips) 
+Seat 4: Alameda22 ($40.35 in chips) 
+Seat 6: FARPCOL ($24.15 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: LiLPrawN ($24.65 in chips) 
+Seat 9: heffs976 ($21 in chips) 
+heffs976: posts small blind $0.10
+Kimiochang: posts big blind $0.25
+Jimbo4328: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 7h]
+KarnackII: folds 
+lata33: calls $0.25
+Alameda22: folds 
+FARPCOL: folds 
+wasserss: folds 
+LiLPrawN: folds 
+heffs976: raises $0.75 to $1
+Kimiochang: folds 
+lata33: folds 
+Uncalled bet ($0.75) returned to heffs976
+heffs976 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Kimiochang (big blind) folded before Flop
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: LiLPrawN (button) folded before Flop (didn't bet)
+Seat 9: heffs976 (small blind) collected ($0.75)
+
+
+
+PokerStars Game #19577513218:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:12:23 (ET)
+Table 'Skuld' 9-max Seat #9 is the button
+Seat 1: Kimiochang ($24.50 in chips) 
+Seat 2: KarnackII ($56.80 in chips) 
+Seat 3: lata33 ($19.40 in chips) 
+Seat 4: Alameda22 ($40.35 in chips) 
+Seat 6: FARPCOL ($24.15 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: LiLPrawN ($24.65 in chips) 
+Seat 9: heffs976 ($21.50 in chips) 
+Kimiochang: posts small blind $0.10
+KarnackII: posts big blind $0.25
+Jimbo4328: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 9d]
+lata33: raises $0.25 to $0.50
+Alameda22: folds 
+FARPCOL: folds 
+wasserss: folds 
+LiLPrawN: calls $0.50
+heffs976: calls $0.50
+Kimiochang: folds 
+KarnackII: folds 
+*** FLOP *** [9s Th Kc]
+lata33: bets $1
+LiLPrawN: folds 
+heffs976: folds 
+Uncalled bet ($1) returned to lata33
+lata33 collected $1.80 from pot
+lata33: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [9s Th Kc]
+Seat 1: Kimiochang (small blind) folded before Flop
+Seat 2: KarnackII (big blind) folded before Flop
+Seat 3: lata33 collected ($1.80)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: LiLPrawN folded on the Flop
+Seat 9: heffs976 (button) folded on the Flop
+
+
+
+PokerStars Game #19577537611:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:13:48 (ET)
+Table 'Skuld' 9-max Seat #1 is the button
+Seat 1: Kimiochang ($24.40 in chips) 
+Seat 2: KarnackII ($56.55 in chips) 
+Seat 3: lata33 ($20.70 in chips) 
+Seat 4: Alameda22 ($40.35 in chips) 
+Seat 6: FARPCOL ($24.15 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: LiLPrawN ($25 in chips) 
+Seat 9: heffs976 ($21 in chips) 
+KarnackII: posts small blind $0.10
+lata33: posts big blind $0.25
+Jimbo4328: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Ah]
+Alameda22: folds 
+FARPCOL: calls $0.25
+wasserss: folds 
+LiLPrawN: raises $1 to $1.25
+heffs976: folds 
+Kimiochang: folds 
+KarnackII: folds 
+lata33: folds 
+FARPCOL: folds 
+Uncalled bet ($1) returned to LiLPrawN
+LiLPrawN collected $0.85 from pot
+LiLPrawN: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Kimiochang (button) folded before Flop (didn't bet)
+Seat 2: KarnackII (small blind) folded before Flop
+Seat 3: lata33 (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: LiLPrawN collected ($0.85)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577547951:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:14:24 (ET)
+Table 'Skuld' 9-max Seat #2 is the button
+Seat 1: Kimiochang ($24.40 in chips) 
+Seat 2: KarnackII ($56.45 in chips) 
+Seat 3: lata33 ($20.45 in chips) 
+Seat 4: Alameda22 ($40.35 in chips) 
+Seat 6: FARPCOL ($23.90 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: LiLPrawN ($25.60 in chips) 
+Seat 9: heffs976 ($21 in chips) 
+lata33: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Jimbo4328: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Ad]
+FARPCOL: folds 
+wasserss: folds 
+LiLPrawN: folds 
+heffs976: raises $0.75 to $1
+Kimiochang: calls $1
+KarnackII: folds 
+lata33: calls $0.90
+Alameda22: folds 
+*** FLOP *** [Tc 3d 7h]
+lata33: checks 
+heffs976: bets $3.75
+Kimiochang: folds 
+lata33: folds 
+Uncalled bet ($3.75) returned to heffs976
+heffs976 collected $3.10 from pot
+heffs976: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Tc 3d 7h]
+Seat 1: Kimiochang folded on the Flop
+Seat 2: KarnackII (button) folded before Flop (didn't bet)
+Seat 3: lata33 (small blind) folded on the Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 collected ($3.10)
+
+
+
+PokerStars Game #19577565668:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:15:27 (ET)
+Table 'Skuld' 9-max Seat #3 is the button
+Seat 1: Kimiochang ($23.40 in chips) 
+Seat 2: KarnackII ($56.45 in chips) 
+Seat 3: lata33 ($19.45 in chips) 
+Seat 4: Alameda22 ($40.10 in chips) 
+Seat 5: Jimbo4328 ($15 in chips) 
+Seat 6: FARPCOL ($23.90 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: LiLPrawN ($25.60 in chips) 
+Seat 9: heffs976 ($23.10 in chips) 
+Alameda22: posts small blind $0.10
+Jimbo4328: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 6s]
+FARPCOL: folds 
+wasserss: folds 
+LiLPrawN: folds 
+heffs976: raises $0.75 to $1
+Kimiochang: calls $1
+KarnackII: folds 
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: folds 
+*** FLOP *** [7h 7s Jh]
+heffs976: bets $2
+Kimiochang: folds 
+Uncalled bet ($2) returned to heffs976
+heffs976 collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [7h 7s Jh]
+Seat 1: Kimiochang folded on the Flop
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: Jimbo4328 (big blind) folded before Flop
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 collected ($2.25)
+
+
+
+PokerStars Game #19577583197:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:16:30 (ET)
+Table 'Skuld' 9-max Seat #4 is the button
+Seat 1: Kimiochang ($22.40 in chips) 
+Seat 2: KarnackII ($56.45 in chips) 
+Seat 3: lata33 ($19.45 in chips) 
+Seat 4: Alameda22 ($40 in chips) 
+Seat 5: Jimbo4328 ($14.75 in chips) 
+Seat 6: FARPCOL ($23.90 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: LiLPrawN ($25.60 in chips) 
+Seat 9: heffs976 ($24.35 in chips) 
+Jimbo4328: posts small blind $0.10
+FARPCOL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 8d]
+wasserss: folds 
+LiLPrawN: folds 
+heffs976: folds 
+Kimiochang: folds 
+KarnackII: folds 
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: calls $0.15
+FARPCOL: checks 
+*** FLOP *** [8c Js Jc]
+Jimbo4328: bets $0.50
+FARPCOL: folds 
+Uncalled bet ($0.50) returned to Jimbo4328
+Jimbo4328 collected $0.50 from pot
+Jimbo4328: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [8c Js Jc]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: Jimbo4328 (small blind) collected ($0.50)
+Seat 6: FARPCOL (big blind) folded on the Flop
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577599644:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:17:28 (ET)
+Table 'Skuld' 9-max Seat #5 is the button
+Seat 1: Kimiochang ($22.40 in chips) 
+Seat 2: KarnackII ($56.45 in chips) 
+Seat 3: lata33 ($19.45 in chips) 
+Seat 4: Alameda22 ($40 in chips) 
+Seat 5: Jimbo4328 ($15 in chips) 
+Seat 6: FARPCOL ($23.65 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: LiLPrawN ($25.60 in chips) 
+Seat 9: heffs976 ($24.35 in chips) 
+FARPCOL: posts small blind $0.10
+wasserss: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Jd]
+LiLPrawN: folds 
+heffs976: folds 
+Kimiochang: folds 
+KarnackII: raises $1 to $1.25
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+wasserss: folds 
+Uncalled bet ($1) returned to KarnackII
+KarnackII collected $0.60 from pot
+KarnackII: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII collected ($0.60)
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 (button) folded before Flop (didn't bet)
+Seat 6: FARPCOL (small blind) folded before Flop
+Seat 7: wasserss (big blind) folded before Flop
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577613835:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:18:20 (ET)
+Table 'Skuld' 9-max Seat #6 is the button
+Seat 1: Kimiochang ($22.40 in chips) 
+Seat 2: KarnackII ($56.80 in chips) 
+Seat 3: lata33 ($19.45 in chips) 
+Seat 4: Alameda22 ($40 in chips) 
+Seat 5: Jimbo4328 ($15 in chips) 
+Seat 6: FARPCOL ($23.55 in chips) 
+Seat 7: wasserss ($4.75 in chips) 
+Seat 8: LiLPrawN ($25.60 in chips) 
+Seat 9: heffs976 ($24.35 in chips) 
+wasserss: posts small blind $0.10
+LiLPrawN: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 7h]
+heffs976: calls $0.25
+Kimiochang: folds 
+KarnackII: calls $0.25
+lata33: calls $0.25
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: calls $0.25
+wasserss: folds 
+LiLPrawN: checks 
+*** FLOP *** [9s 3d As]
+LiLPrawN: checks 
+heffs976: bets $1
+KarnackII: raises $2 to $3
+lata33: folds 
+FARPCOL: folds 
+LiLPrawN: folds 
+heffs976: folds 
+Uncalled bet ($2) returned to KarnackII
+KarnackII collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [9s 3d As]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII collected ($3.20)
+Seat 3: lata33 folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL (button) folded on the Flop
+Seat 7: wasserss (small blind) folded before Flop
+Seat 8: LiLPrawN (big blind) folded on the Flop
+Seat 9: heffs976 folded on the Flop
+
+
+
+PokerStars Game #19577631012:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:19:22 (ET)
+Table 'Skuld' 9-max Seat #7 is the button
+Seat 1: Kimiochang ($22.40 in chips) 
+Seat 2: KarnackII ($58.75 in chips) 
+Seat 3: lata33 ($19.20 in chips) 
+Seat 4: Alameda22 ($40 in chips) 
+Seat 5: Jimbo4328 ($15 in chips) 
+Seat 6: FARPCOL ($25 in chips) 
+Seat 7: wasserss ($4.65 in chips) 
+Seat 8: LiLPrawN ($25.35 in chips) 
+Seat 9: heffs976 ($23.10 in chips) 
+LiLPrawN: posts small blind $0.10
+heffs976: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Tc]
+Kimiochang: folds 
+KarnackII: folds 
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: raises $0.50 to $0.75
+FARPCOL: folds 
+wasserss: folds 
+LiLPrawN: calls $0.65
+heffs976: calls $0.50
+*** FLOP *** [Ac 6d Kd]
+LiLPrawN: checks 
+heffs976: checks 
+Jimbo4328: bets $1
+LiLPrawN: calls $1
+heffs976: folds 
+*** TURN *** [Ac 6d Kd] [Th]
+LiLPrawN: checks 
+Jimbo4328: bets $1.50
+LiLPrawN: calls $1.50
+*** RIVER *** [Ac 6d Kd Th] [4c]
+LiLPrawN: checks 
+Jimbo4328: checks 
+*** SHOW DOWN ***
+LiLPrawN: shows [As Qh] (a pair of Aces)
+Jimbo4328: mucks hand 
+LiLPrawN collected $6.90 from pot
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [Ac 6d Kd Th 4c]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 mucked [Qc Kc]
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: wasserss (button) folded before Flop (didn't bet)
+Seat 8: LiLPrawN (small blind) showed [As Qh] and won ($6.90) with a pair of Aces
+Seat 9: heffs976 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19577650754:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:20:34 (ET)
+Table 'Skuld' 9-max Seat #8 is the button
+Seat 1: Kimiochang ($22.40 in chips) 
+Seat 2: KarnackII ($58.75 in chips) 
+Seat 3: lata33 ($19.20 in chips) 
+Seat 4: Alameda22 ($40 in chips) 
+Seat 5: Jimbo4328 ($11.75 in chips) 
+Seat 6: FARPCOL ($25 in chips) 
+Seat 7: wasserss ($4.65 in chips) 
+Seat 8: LiLPrawN ($29 in chips) 
+Seat 9: heffs976 ($22.35 in chips) 
+heffs976: posts small blind $0.10
+Kimiochang: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Qd]
+KarnackII: folds 
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+wasserss: folds 
+LiLPrawN: raises $0.75 to $1
+heffs976: folds 
+Kimiochang: folds 
+Uncalled bet ($0.75) returned to LiLPrawN
+LiLPrawN collected $0.60 from pot
+LiLPrawN: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Kimiochang (big blind) folded before Flop
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: LiLPrawN (button) collected ($0.60)
+Seat 9: heffs976 (small blind) folded before Flop
+
+
+
+PokerStars Game #19577664941:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:21:26 (ET)
+Table 'Skuld' 9-max Seat #9 is the button
+Seat 1: Kimiochang ($22.15 in chips) 
+Seat 2: KarnackII ($58.75 in chips) 
+Seat 3: lata33 ($19.20 in chips) 
+Seat 4: Alameda22 ($40 in chips) 
+Seat 5: Jimbo4328 ($11.75 in chips) 
+Seat 6: FARPCOL ($25 in chips) 
+Seat 7: wasserss ($4.65 in chips) 
+Seat 8: LiLPrawN ($29.35 in chips) 
+Seat 9: heffs976 ($22.25 in chips) 
+Kimiochang: posts small blind $0.10
+KarnackII: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Ac]
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+wasserss: folds 
+LiLPrawN: folds 
+heffs976: folds 
+Kimiochang: folds 
+Uncalled bet ($0.15) returned to KarnackII
+KarnackII collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Kimiochang (small blind) folded before Flop
+Seat 2: KarnackII (big blind) collected ($0.20)
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577675844:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:22:05 (ET)
+Table 'Skuld' 9-max Seat #1 is the button
+Seat 1: Kimiochang ($22.05 in chips) 
+Seat 2: KarnackII ($58.85 in chips) 
+Seat 3: lata33 ($19.20 in chips) 
+Seat 4: Alameda22 ($40 in chips) 
+Seat 5: Jimbo4328 ($11.75 in chips) 
+Seat 6: FARPCOL ($25 in chips) 
+Seat 7: wasserss ($4.65 in chips) 
+Seat 8: LiLPrawN ($29.35 in chips) 
+Seat 9: heffs976 ($22.25 in chips) 
+KarnackII: posts small blind $0.10
+lata33: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Qc]
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+wasserss: folds 
+LiLPrawN: folds 
+heffs976: folds 
+Kimiochang: folds 
+KarnackII: calls $0.15
+lata33: checks 
+*** FLOP *** [As 9d 3h]
+KarnackII: checks 
+lata33: checks 
+*** TURN *** [As 9d 3h] [4d]
+KarnackII: bets $0.25
+lata33: raises $0.25 to $0.50
+KarnackII: calls $0.25
+*** RIVER *** [As 9d 3h 4d] [Qh]
+KarnackII: checks 
+lata33: checks 
+*** SHOW DOWN ***
+KarnackII: shows [6h Ac] (a pair of Aces)
+lata33: shows [8c Ah] (a pair of Aces - Queen+Nine+Eight kicker)
+lata33 collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [As 9d 3h 4d Qh]
+Seat 1: Kimiochang (button) folded before Flop (didn't bet)
+Seat 2: KarnackII (small blind) showed [6h Ac] and lost with a pair of Aces
+Seat 3: lata33 (big blind) showed [8c Ah] and won ($1.45) with a pair of Aces
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577700961:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:23:37 (ET)
+Table 'Skuld' 9-max Seat #2 is the button
+Seat 1: Kimiochang ($22.05 in chips) 
+Seat 2: KarnackII ($58.10 in chips) 
+Seat 3: lata33 ($19.90 in chips) 
+Seat 4: Alameda22 ($40 in chips) 
+Seat 5: Jimbo4328 ($11.75 in chips) 
+Seat 6: FARPCOL ($25 in chips) 
+Seat 7: wasserss ($4.65 in chips) 
+Seat 8: LiLPrawN ($29.35 in chips) 
+Seat 9: heffs976 ($22.25 in chips) 
+lata33: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 4s]
+Jimbo4328: folds 
+FARPCOL: folds 
+wasserss: folds 
+LiLPrawN: folds 
+heffs976: folds 
+Kimiochang: raises $0.25 to $0.50
+KarnackII: calls $0.50
+lata33: calls $0.40
+Alameda22: calls $0.25
+*** FLOP *** [Tc 3d Kd]
+lata33: checks 
+Alameda22: checks 
+Kimiochang: bets $0.50
+KarnackII: raises $1.25 to $1.75
+lata33: folds 
+Alameda22: folds 
+Kimiochang: folds 
+Uncalled bet ($1.25) returned to KarnackII
+KarnackII collected $2.90 from pot
+KarnackII: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.10 
+Board [Tc 3d Kd]
+Seat 1: Kimiochang folded on the Flop
+Seat 2: KarnackII (button) collected ($2.90)
+Seat 3: lata33 (small blind) folded on the Flop
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577719294:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:24:45 (ET)
+Table 'Skuld' 9-max Seat #3 is the button
+Seat 1: Kimiochang ($21.05 in chips) 
+Seat 2: KarnackII ($60 in chips) 
+Seat 3: lata33 ($19.40 in chips) 
+Seat 4: Alameda22 ($39.50 in chips) 
+Seat 5: Jimbo4328 ($11.75 in chips) 
+Seat 6: FARPCOL ($25 in chips) 
+Seat 7: wasserss ($4.65 in chips) 
+Seat 8: LiLPrawN ($29.35 in chips) 
+Seat 9: heffs976 ($22.25 in chips) 
+Alameda22: posts small blind $0.10
+Jimbo4328: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Ts]
+FARPCOL: raises $0.75 to $1
+wasserss: folds 
+LiLPrawN: folds 
+heffs976: folds 
+Kimiochang: folds 
+KarnackII: folds 
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: folds 
+Uncalled bet ($0.75) returned to FARPCOL
+FARPCOL collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: Jimbo4328 (big blind) folded before Flop
+Seat 6: FARPCOL collected ($0.60)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577729099:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:25:21 (ET)
+Table 'Skuld' 9-max Seat #4 is the button
+Seat 1: Kimiochang ($21.05 in chips) 
+Seat 2: KarnackII ($60 in chips) 
+Seat 3: lata33 ($19.40 in chips) 
+Seat 4: Alameda22 ($39.40 in chips) 
+Seat 5: Jimbo4328 ($11.50 in chips) 
+Seat 6: FARPCOL ($25.35 in chips) 
+Seat 7: wasserss ($4.65 in chips) 
+Seat 8: LiLPrawN ($29.35 in chips) 
+Seat 9: heffs976 ($22.25 in chips) 
+Jimbo4328: posts small blind $0.10
+FARPCOL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 8h]
+wasserss: folds 
+LiLPrawN: folds 
+heffs976: folds 
+Kimiochang: folds 
+KarnackII: folds 
+lata33: calls $0.25
+Alameda22: calls $0.25
+Jimbo4328: calls $0.15
+FARPCOL: checks 
+*** FLOP *** [8s Ts Tc]
+Jimbo4328: checks 
+FARPCOL: checks 
+lata33: checks 
+Alameda22: bets $0.50
+Jimbo4328: folds 
+FARPCOL: calls $0.50
+lata33: calls $0.50
+*** TURN *** [8s Ts Tc] [9h]
+FARPCOL: checks 
+lata33: bets $1
+Alameda22: folds 
+FARPCOL: calls $1
+*** RIVER *** [8s Ts Tc 9h] [As]
+FARPCOL: checks 
+lata33: bets $1
+FARPCOL: raises $3 to $4
+lata33: calls $3
+*** SHOW DOWN ***
+FARPCOL: shows [5s 9s] (a flush, Ace high)
+lata33: mucks hand 
+FARPCOL collected $11.90 from pot
+*** SUMMARY ***
+Total pot $12.50 | Rake $0.60 
+Board [8s Ts Tc 9h As]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 mucked [6d 7c]
+Seat 4: Alameda22 (button) folded on the Turn
+Seat 5: Jimbo4328 (small blind) folded on the Flop
+Seat 6: FARPCOL (big blind) showed [5s 9s] and won ($11.90) with a flush, Ace high
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577763919:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:27:30 (ET)
+Table 'Skuld' 9-max Seat #5 is the button
+Seat 1: Kimiochang ($21.05 in chips) 
+Seat 2: KarnackII ($60 in chips) 
+Seat 3: lata33 ($13.65 in chips) 
+Seat 4: Alameda22 ($38.65 in chips) 
+Seat 5: Jimbo4328 ($11.25 in chips) 
+Seat 6: FARPCOL ($31.50 in chips) 
+Seat 8: LiLPrawN ($29.35 in chips) 
+Seat 9: heffs976 ($22.25 in chips) 
+FARPCOL: posts small blind $0.10
+wasserss: is sitting out 
+wasserss leaves the table
+LiLPrawN: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 5d]
+heffs976: raises $1 to $1.25
+Kimiochang: folds 
+KarnackII: folds 
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+LiLPrawN: folds 
+Uncalled bet ($1) returned to heffs976
+heffs976 collected $0.60 from pot
+heffs976 is sitting out
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 (button) folded before Flop (didn't bet)
+Seat 6: FARPCOL (small blind) folded before Flop
+Seat 8: LiLPrawN (big blind) folded before Flop
+Seat 9: heffs976 collected ($0.60)
+
+
+
+PokerStars Game #19577772322:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:28:01 (ET)
+Table 'Skuld' 9-max Seat #6 is the button
+Seat 1: Kimiochang ($21.05 in chips) 
+Seat 2: KarnackII ($60 in chips) 
+Seat 3: lata33 ($13.65 in chips) 
+Seat 4: Alameda22 ($38.65 in chips) 
+Seat 5: Jimbo4328 ($11.25 in chips) 
+Seat 6: FARPCOL ($31.40 in chips) 
+Seat 8: LiLPrawN ($29.10 in chips) 
+LiLPrawN: posts small blind $0.10
+Kimiochang: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 8d]
+KarnackII: folds 
+lata33: raises $0.25 to $0.50
+Alameda22: folds 
+Jimbo4328: calls $0.50
+FARPCOL: folds 
+LiLPrawN: folds 
+Kimiochang: calls $0.25
+*** FLOP *** [5d 3c 6d]
+Kimiochang: checks 
+lata33: checks 
+Jimbo4328: checks 
+*** TURN *** [5d 3c 6d] [9d]
+Kimiochang: checks 
+lata33: checks 
+Jimbo4328: checks 
+*** RIVER *** [5d 3c 6d 9d] [8s]
+Kimiochang: checks 
+lata33: checks 
+Jimbo4328: checks 
+*** SHOW DOWN ***
+Kimiochang: shows [Tc Td] (a pair of Tens)
+lata33: mucks hand 
+Jimbo4328: mucks hand 
+Kimiochang collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [5d 3c 6d 9d 8s]
+Seat 1: Kimiochang (big blind) showed [Tc Td] and won ($1.55) with a pair of Tens
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 mucked [Kc 8c]
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 mucked [Kh Ad]
+Seat 6: FARPCOL (button) folded before Flop (didn't bet)
+Seat 8: LiLPrawN (small blind) folded before Flop
+
+
+
+PokerStars Game #19577798278:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:29:38 (ET)
+Table 'Skuld' 9-max Seat #8 is the button
+Seat 1: Kimiochang ($22.10 in chips) 
+Seat 2: KarnackII ($60 in chips) 
+Seat 3: lata33 ($13.15 in chips) 
+Seat 4: Alameda22 ($38.65 in chips) 
+Seat 5: Jimbo4328 ($10.75 in chips) 
+Seat 6: FARPCOL ($31.40 in chips) 
+Seat 8: LiLPrawN ($29 in chips) 
+Kimiochang: posts small blind $0.10
+KarnackII: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Kc]
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+Jnguyen1988 joins the table at seat #7 
+LiLPrawN: raises $0.75 to $1
+Kimiochang: folds 
+KarnackII: folds 
+Uncalled bet ($0.75) returned to LiLPrawN
+LiLPrawN collected $0.60 from pot
+LiLPrawN: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Kimiochang (small blind) folded before Flop
+Seat 2: KarnackII (big blind) folded before Flop
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 8: LiLPrawN (button) collected ($0.60)
+
+
+
+PokerStars Game #19577808935:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:30:18 (ET)
+Table 'Skuld' 9-max Seat #1 is the button
+Seat 1: Kimiochang ($22 in chips) 
+Seat 2: KarnackII ($59.75 in chips) 
+Seat 3: lata33 ($13.15 in chips) 
+Seat 4: Alameda22 ($38.65 in chips) 
+Seat 5: Jimbo4328 ($10.75 in chips) 
+Seat 6: FARPCOL ($31.40 in chips) 
+Seat 7: Jnguyen1988 ($5.45 in chips) 
+Seat 8: LiLPrawN ($29.35 in chips) 
+KarnackII: posts small blind $0.10
+lata33: posts big blind $0.25
+Jnguyen1988: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 5d]
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+Jnguyen1988: checks 
+LiLPrawN: folds 
+Kimiochang: calls $0.25
+KarnackII: calls $0.15
+lata33: checks 
+*** FLOP *** [6c Jd 3c]
+KarnackII: checks 
+lata33: checks 
+Jnguyen1988: bets $1
+Kimiochang: folds 
+KarnackII: folds 
+lata33: folds 
+Uncalled bet ($1) returned to Jnguyen1988
+Jnguyen1988 collected $0.95 from pot
+Jnguyen1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [6c Jd 3c]
+Seat 1: Kimiochang (button) folded on the Flop
+Seat 2: KarnackII (small blind) folded on the Flop
+Seat 3: lata33 (big blind) folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: Jnguyen1988 collected ($0.95)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577827633:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:31:28 (ET)
+Table 'Skuld' 9-max Seat #2 is the button
+Seat 1: Kimiochang ($21.75 in chips) 
+Seat 2: KarnackII ($59.50 in chips) 
+Seat 3: lata33 ($12.90 in chips) 
+Seat 4: Alameda22 ($38.65 in chips) 
+Seat 5: Jimbo4328 ($10.75 in chips) 
+Seat 6: FARPCOL ($31.40 in chips) 
+Seat 7: Jnguyen1988 ($6.15 in chips) 
+Seat 8: LiLPrawN ($29.35 in chips) 
+lata33: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Qd]
+Jimbo4328: folds 
+heffs976 has returned
+FARPCOL: raises $0.75 to $1
+Jnguyen1988: folds 
+LiLPrawN: folds 
+Kimiochang: folds 
+KarnackII: folds 
+lata33: calls $0.90
+Alameda22: folds 
+*** FLOP *** [9d 6d Kc]
+lata33: checks 
+FARPCOL: checks 
+*** TURN *** [9d 6d Kc] [Ad]
+lata33: checks 
+FARPCOL: checks 
+*** RIVER *** [9d 6d Kc Ad] [Qc]
+lata33: checks 
+FARPCOL: checks 
+*** SHOW DOWN ***
+lata33: shows [8c Jd] (high card Ace)
+FARPCOL: shows [Ts Td] (a pair of Tens)
+FARPCOL collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [9d 6d Kc Ad Qc]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII (button) folded before Flop (didn't bet)
+Seat 3: lata33 (small blind) showed [8c Jd] and lost with high card Ace
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL showed [Ts Td] and won ($2.15) with a pair of Tens
+Seat 7: Jnguyen1988 folded before Flop (didn't bet)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577852533:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:32:54 (ET)
+Table 'Skuld' 9-max Seat #3 is the button
+Seat 1: Kimiochang ($21.75 in chips) 
+Seat 2: KarnackII ($59.50 in chips) 
+Seat 3: lata33 ($11.90 in chips) 
+Seat 4: Alameda22 ($38.40 in chips) 
+Seat 5: Jimbo4328 ($10.75 in chips) 
+Seat 6: FARPCOL ($32.55 in chips) 
+Seat 7: Jnguyen1988 ($6.15 in chips) 
+Seat 8: LiLPrawN ($29.35 in chips) 
+Seat 9: heffs976 ($22.60 in chips) 
+Alameda22: posts small blind $0.10
+Jimbo4328: posts big blind $0.25
+heffs976: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 2s]
+FARPCOL: calls $0.25
+Jnguyen1988: calls $0.25
+LiLPrawN: folds 
+heffs976: checks 
+Kimiochang: folds 
+KarnackII: folds 
+lata33: raises $0.50 to $0.75
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: calls $0.50
+Jnguyen1988: calls $0.50
+heffs976: calls $0.50
+*** FLOP *** [4s 8c 6h]
+FARPCOL: checks 
+Jnguyen1988: bets $2
+heffs976: calls $2
+lata33: calls $2
+FARPCOL: folds 
+*** TURN *** [4s 8c 6h] [Kc]
+Jnguyen1988: checks 
+heffs976: checks 
+lata33: bets $1
+Jnguyen1988: folds 
+heffs976: folds 
+Uncalled bet ($1) returned to lata33
+lata33 collected $9 from pot
+lata33: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.45 | Rake $0.45 
+Board [4s 8c 6h Kc]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 (button) collected ($9)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: Jimbo4328 (big blind) folded before Flop
+Seat 6: FARPCOL folded on the Flop
+Seat 7: Jnguyen1988 folded on the Turn
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 folded on the Turn
+
+
+
+PokerStars Game #19577884783:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:34:49 (ET)
+Table 'Skuld' 9-max Seat #4 is the button
+Seat 1: Kimiochang ($21.75 in chips) 
+Seat 2: KarnackII ($59.50 in chips) 
+Seat 3: lata33 ($18.15 in chips) 
+Seat 4: Alameda22 ($38.30 in chips) 
+Seat 5: Jimbo4328 ($10.50 in chips) 
+Seat 6: FARPCOL ($31.80 in chips) 
+Seat 7: Jnguyen1988 ($3.40 in chips) 
+Seat 8: LiLPrawN ($29.35 in chips) 
+Seat 9: heffs976 ($19.75 in chips) 
+Jimbo4328: posts small blind $0.10
+FARPCOL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 7s]
+Jnguyen1988: calls $0.25
+LiLPrawN: folds 
+heffs976: folds 
+Kimiochang: calls $0.25
+KarnackII: folds 
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: calls $0.15
+FARPCOL: checks 
+*** FLOP *** [7d Kh 4s]
+Jimbo4328: checks 
+FARPCOL: checks 
+Jnguyen1988: bets $0.75
+Kimiochang: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+Uncalled bet ($0.75) returned to Jnguyen1988
+Jnguyen1988 collected $0.95 from pot
+Jnguyen1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [7d Kh 4s]
+Seat 1: Kimiochang folded on the Flop
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: Jimbo4328 (small blind) folded on the Flop
+Seat 6: FARPCOL (big blind) folded on the Flop
+Seat 7: Jnguyen1988 collected ($0.95)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577899626:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:35:43 (ET)
+Table 'Skuld' 9-max Seat #5 is the button
+Seat 1: Kimiochang ($21.50 in chips) 
+Seat 2: KarnackII ($59.50 in chips) 
+Seat 3: lata33 ($18.15 in chips) 
+Seat 4: Alameda22 ($38.30 in chips) 
+Seat 5: Jimbo4328 ($10.25 in chips) 
+Seat 6: FARPCOL ($31.55 in chips) 
+Seat 7: Jnguyen1988 ($4.10 in chips) 
+Seat 8: LiLPrawN ($29.35 in chips) 
+Seat 9: heffs976 ($19.75 in chips) 
+FARPCOL: posts small blind $0.10
+Jnguyen1988: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Qs]
+LiLPrawN: folds 
+heffs976: folds 
+Kimiochang: folds 
+KarnackII: raises $1 to $1.25
+lata33: calls $1.25
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+Jnguyen1988: calls $1
+*** FLOP *** [Kc 6s 9h]
+Jnguyen1988: bets $1
+KarnackII: folds 
+lata33: folds 
+Uncalled bet ($1) returned to Jnguyen1988
+Jnguyen1988 collected $3.70 from pot
+Jnguyen1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [Kc 6s 9h]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded on the Flop
+Seat 3: lata33 folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 (button) folded before Flop (didn't bet)
+Seat 6: FARPCOL (small blind) folded before Flop
+Seat 7: Jnguyen1988 (big blind) collected ($3.70)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577917061:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:36:46 (ET)
+Table 'Skuld' 9-max Seat #6 is the button
+Seat 1: Kimiochang ($21.50 in chips) 
+Seat 2: KarnackII ($58.25 in chips) 
+Seat 3: lata33 ($16.90 in chips) 
+Seat 4: Alameda22 ($38.30 in chips) 
+Seat 5: Jimbo4328 ($10.25 in chips) 
+Seat 6: FARPCOL ($31.45 in chips) 
+Seat 7: Jnguyen1988 ($6.55 in chips) 
+Seat 8: LiLPrawN ($29.35 in chips) 
+Seat 9: heffs976 ($19.75 in chips) 
+Jnguyen1988: posts small blind $0.10
+LiLPrawN: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 7s]
+heffs976: folds 
+Kimiochang: folds 
+KarnackII: folds 
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: raises $0.75 to $1
+Jnguyen1988: calls $0.90
+LiLPrawN: folds 
+*** FLOP *** [Ah Jh Ts]
+Jnguyen1988: checks 
+FARPCOL: checks 
+*** TURN *** [Ah Jh Ts] [8h]
+Jnguyen1988: bets $1
+FARPCOL: folds 
+Uncalled bet ($1) returned to Jnguyen1988
+Jnguyen1988 collected $2.15 from pot
+Jnguyen1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Ah Jh Ts 8h]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL (button) folded on the Turn
+Seat 7: Jnguyen1988 (small blind) collected ($2.15)
+Seat 8: LiLPrawN (big blind) folded before Flop
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19577932287:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:37:41 (ET)
+Table 'Skuld' 9-max Seat #7 is the button
+Seat 1: Kimiochang ($21.50 in chips) 
+Seat 2: KarnackII ($58.25 in chips) 
+Seat 3: lata33 ($16.90 in chips) 
+Seat 4: Alameda22 ($38.30 in chips) 
+Seat 5: Jimbo4328 ($10.25 in chips) 
+Seat 6: FARPCOL ($30.45 in chips) 
+Seat 7: Jnguyen1988 ($7.70 in chips) 
+Seat 8: LiLPrawN ($29.10 in chips) 
+Seat 9: heffs976 ($19.75 in chips) 
+LiLPrawN: posts small blind $0.10
+heffs976: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 5d]
+Kimiochang: folds 
+KarnackII: folds 
+lata33: raises $0.25 to $0.50
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: calls $0.50
+Jnguyen1988: calls $0.50
+LiLPrawN: raises $2 to $2.50
+heffs976: folds 
+lata33: calls $2
+FARPCOL: folds 
+Jnguyen1988: calls $2
+*** FLOP *** [7s 4c 2c]
+LiLPrawN: bets $4
+lata33: folds 
+Jnguyen1988: folds 
+Uncalled bet ($4) returned to LiLPrawN
+LiLPrawN collected $7.85 from pot
+LiLPrawN: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.40 
+Board [7s 4c 2c]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop
+Seat 7: Jnguyen1988 (button) folded on the Flop
+Seat 8: LiLPrawN (small blind) collected ($7.85)
+Seat 9: heffs976 (big blind) folded before Flop
+
+
+
+PokerStars Game #19577952658:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:38:56 (ET)
+Table 'Skuld' 9-max Seat #8 is the button
+Seat 1: Kimiochang ($21.50 in chips) 
+Seat 2: KarnackII ($58.25 in chips) 
+Seat 3: lata33 ($14.40 in chips) 
+Seat 4: Alameda22 ($38.30 in chips) 
+Seat 5: Jimbo4328 ($10.25 in chips) 
+Seat 6: FARPCOL ($29.95 in chips) 
+Seat 7: Jnguyen1988 ($5.20 in chips) 
+Seat 8: LiLPrawN ($34.45 in chips) 
+Seat 9: heffs976 ($19.50 in chips) 
+heffs976: posts small blind $0.10
+Kimiochang: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 2d]
+KarnackII: folds 
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+Jnguyen1988: calls $0.25
+LiLPrawN: folds 
+heffs976: calls $0.15
+Kimiochang: checks 
+*** FLOP *** [2c Jd 5h]
+heffs976: checks 
+Kimiochang: checks 
+Jnguyen1988: bets $0.75
+heffs976: folds 
+Kimiochang: folds 
+Uncalled bet ($0.75) returned to Jnguyen1988
+Jnguyen1988 collected $0.75 from pot
+Jnguyen1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [2c Jd 5h]
+Seat 1: Kimiochang (big blind) folded on the Flop
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: Jnguyen1988 collected ($0.75)
+Seat 8: LiLPrawN (button) folded before Flop (didn't bet)
+Seat 9: heffs976 (small blind) folded on the Flop
+
+
+
+PokerStars Game #19577970447:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:40:00 (ET)
+Table 'Skuld' 9-max Seat #9 is the button
+Seat 1: Kimiochang ($21.25 in chips) 
+Seat 2: KarnackII ($58.25 in chips) 
+Seat 3: lata33 ($14.40 in chips) 
+Seat 4: Alameda22 ($38.30 in chips) 
+Seat 5: Jimbo4328 ($10.25 in chips) 
+Seat 6: FARPCOL ($29.95 in chips) 
+Seat 7: Jnguyen1988 ($5.70 in chips) 
+Seat 8: LiLPrawN ($34.45 in chips) 
+Seat 9: heffs976 ($19.25 in chips) 
+Kimiochang: posts small blind $0.10
+KarnackII: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Ac]
+lata33: calls $0.25
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+Jnguyen1988: calls $0.25
+LiLPrawN: calls $0.25
+heffs976: calls $0.25
+Kimiochang: calls $0.15
+KarnackII: checks 
+*** FLOP *** [4d 5c Td]
+Kimiochang: checks 
+KarnackII: checks 
+lata33: bets $0.50
+Jnguyen1988: calls $0.50
+LiLPrawN: folds 
+heffs976: calls $0.50
+Kimiochang: folds 
+KarnackII: folds 
+*** TURN *** [4d 5c Td] [9d]
+lata33: bets $0.75
+Jnguyen1988: raises $4.20 to $4.95 and is all-in
+heffs976: folds 
+lata33: calls $4.20
+*** RIVER *** [4d 5c Td 9d] [9c]
+*** SHOW DOWN ***
+lata33: shows [Jd Tc] (two pair, Tens and Nines)
+Jnguyen1988: shows [Ts Qd] (two pair, Tens and Nines - Queen kicker)
+Jnguyen1988 collected $12.30 from pot
+*** SUMMARY ***
+Total pot $12.90 | Rake $0.60 
+Board [4d 5c Td 9d 9c]
+Seat 1: Kimiochang (small blind) folded on the Flop
+Seat 2: KarnackII (big blind) folded on the Flop
+Seat 3: lata33 showed [Jd Tc] and lost with two pair, Tens and Nines
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: Jnguyen1988 showed [Ts Qd] and won ($12.30) with two pair, Tens and Nines
+Seat 8: LiLPrawN folded on the Flop
+Seat 9: heffs976 (button) folded on the Turn
+
+
+
+PokerStars Game #19577998251:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:41:43 (ET)
+Table 'Skuld' 9-max Seat #1 is the button
+Seat 1: Kimiochang ($21 in chips) 
+Seat 2: KarnackII ($58 in chips) 
+Seat 3: lata33 ($8.70 in chips) 
+Seat 4: Alameda22 ($38.30 in chips) 
+Seat 5: Jimbo4328 ($10.25 in chips) 
+Seat 6: FARPCOL ($29.95 in chips) 
+Seat 7: Jnguyen1988 ($12.30 in chips) 
+Seat 8: LiLPrawN ($34.20 in chips) 
+Seat 9: heffs976 ($18.50 in chips) 
+KarnackII: posts small blind $0.10
+lata33: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Ad]
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: raises $0.75 to $1
+Jnguyen1988: calls $1
+LiLPrawN: folds 
+heffs976: folds 
+Kimiochang: folds 
+KarnackII: folds 
+lata33: raises $0.75 to $1.75
+FARPCOL: calls $0.75
+Jnguyen1988: calls $0.75
+*** FLOP *** [4d Tc Kh]
+lata33: bets $1.50
+FARPCOL: folds 
+Jnguyen1988: calls $1.50
+*** TURN *** [4d Tc Kh] [6s]
+lata33: bets $2
+Jnguyen1988: calls $2
+*** RIVER *** [4d Tc Kh 6s] [8c]
+lata33: bets $3.45 and is all-in
+Jnguyen1988: folds 
+Uncalled bet ($3.45) returned to lata33
+lata33 collected $11.80 from pot
+lata33: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.35 | Rake $0.55 
+Board [4d Tc Kh 6s 8c]
+Seat 1: Kimiochang (button) folded before Flop (didn't bet)
+Seat 2: KarnackII (small blind) folded before Flop
+Seat 3: lata33 (big blind) collected ($11.80)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded on the Flop
+Seat 7: Jnguyen1988 folded on the River
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19578022714:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:43:13 (ET)
+Table 'Skuld' 9-max Seat #2 is the button
+Seat 1: Kimiochang ($21 in chips) 
+Seat 2: KarnackII ($57.90 in chips) 
+Seat 3: lata33 ($15.25 in chips) 
+Seat 4: Alameda22 ($38.30 in chips) 
+Seat 5: Jimbo4328 ($10.25 in chips) 
+Seat 6: FARPCOL ($28.20 in chips) 
+Seat 7: Jnguyen1988 ($7.05 in chips) 
+Seat 8: LiLPrawN ($34.20 in chips) 
+Seat 9: heffs976 ($18.50 in chips) 
+lata33: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 2c]
+Jimbo4328: folds 
+FARPCOL: calls $0.25
+Jnguyen1988: folds 
+LiLPrawN: folds 
+heffs976: folds 
+Kimiochang: folds 
+KarnackII: folds 
+lata33: raises $0.25 to $0.50
+Alameda22: folds 
+FARPCOL: calls $0.25
+*** FLOP *** [5d Tc 7d]
+lata33: bets $1.25
+FARPCOL: folds 
+Uncalled bet ($1.25) returned to lata33
+lata33 collected $1.20 from pot
+lata33: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [5d Tc 7d]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII (button) folded before Flop (didn't bet)
+Seat 3: lata33 (small blind) collected ($1.20)
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded on the Flop
+Seat 7: Jnguyen1988 folded before Flop (didn't bet)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19578035799:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:44:02 (ET)
+Table 'Skuld' 9-max Seat #3 is the button
+Seat 1: Kimiochang ($21 in chips) 
+Seat 2: KarnackII ($57.90 in chips) 
+Seat 3: lata33 ($15.95 in chips) 
+Seat 4: Alameda22 ($38.05 in chips) 
+Seat 5: Jimbo4328 ($10.25 in chips) 
+Seat 6: FARPCOL ($27.70 in chips) 
+Seat 7: Jnguyen1988 ($7.05 in chips) 
+Seat 8: LiLPrawN ($34.20 in chips) 
+Seat 9: heffs976 ($18.50 in chips) 
+Alameda22: posts small blind $0.10
+Jimbo4328: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 9h]
+FARPCOL: folds 
+Jnguyen1988: calls $0.25
+LiLPrawN: folds 
+heffs976: folds 
+Kimiochang: folds 
+KarnackII: folds 
+lata33: calls $0.25
+Alameda22: folds 
+Jimbo4328: checks 
+*** FLOP *** [Kc Qc 8h]
+Jimbo4328: checks 
+Jnguyen1988: checks 
+lata33: checks 
+*** TURN *** [Kc Qc 8h] [2c]
+Jimbo4328: checks 
+Jnguyen1988: bets $0.25
+lata33: calls $0.25
+Jimbo4328: folds 
+*** RIVER *** [Kc Qc 8h 2c] [2h]
+Jnguyen1988: bets $1
+lata33: calls $1
+*** SHOW DOWN ***
+Jnguyen1988: shows [Kh 4h] (two pair, Kings and Deuces)
+lata33: mucks hand 
+Jnguyen1988 collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [Kc Qc 8h 2c 2h]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 (button) mucked [7c Ad]
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: Jimbo4328 (big blind) folded on the Turn
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: Jnguyen1988 showed [Kh 4h] and won ($3.20) with two pair, Kings and Deuces
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19578059885:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:45:32 (ET)
+Table 'Skuld' 9-max Seat #4 is the button
+Seat 1: Kimiochang ($21 in chips) 
+Seat 2: KarnackII ($57.90 in chips) 
+Seat 3: lata33 ($14.45 in chips) 
+Seat 4: Alameda22 ($37.95 in chips) 
+Seat 5: Jimbo4328 ($10 in chips) 
+Seat 6: FARPCOL ($27.70 in chips) 
+Seat 7: Jnguyen1988 ($8.75 in chips) 
+Seat 8: LiLPrawN ($34.20 in chips) 
+Seat 9: heffs976 ($18.50 in chips) 
+Jimbo4328: posts small blind $0.10
+FARPCOL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Qs]
+Jnguyen1988: folds 
+LiLPrawN: folds 
+heffs976: raises $0.75 to $1
+Kimiochang: folds 
+KarnackII: folds 
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+Uncalled bet ($0.75) returned to heffs976
+heffs976 collected $0.60 from pot
+heffs976: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: Jimbo4328 (small blind) folded before Flop
+Seat 6: FARPCOL (big blind) folded before Flop
+Seat 7: Jnguyen1988 folded before Flop (didn't bet)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 collected ($0.60)
+
+
+
+PokerStars Game #19578072533:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:46:20 (ET)
+Table 'Skuld' 9-max Seat #5 is the button
+Seat 1: Kimiochang ($21 in chips) 
+Seat 2: KarnackII ($57.90 in chips) 
+Seat 3: lata33 ($14.45 in chips) 
+Seat 4: Alameda22 ($37.95 in chips) 
+Seat 5: Jimbo4328 ($9.90 in chips) 
+Seat 6: FARPCOL ($27.45 in chips) 
+Seat 7: Jnguyen1988 ($8.75 in chips) 
+Seat 8: LiLPrawN ($34.20 in chips) 
+Seat 9: heffs976 ($18.85 in chips) 
+FARPCOL: posts small blind $0.10
+Jnguyen1988: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Jc]
+LiLPrawN: folds 
+heffs976: raises $0.50 to $0.75
+LiLPrawN leaves the table
+Kimiochang: folds 
+KarnackII: calls $0.75
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+Jnguyen1988: calls $0.50
+*** FLOP *** [Ah Jd Js]
+Jnguyen1988: bets $1
+heffs976: folds 
+KarnackII: folds 
+Uncalled bet ($1) returned to Jnguyen1988
+Jnguyen1988 collected $2.25 from pot
+Jnguyen1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Ah Jd Js]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded on the Flop
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 (button) folded before Flop (didn't bet)
+Seat 6: FARPCOL (small blind) folded before Flop
+Seat 7: Jnguyen1988 (big blind) collected ($2.25)
+Seat 8: LiLPrawN folded before Flop (didn't bet)
+Seat 9: heffs976 folded on the Flop
+
+
+
+PokerStars Game #19578085586:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:47:09 (ET)
+Table 'Skuld' 9-max Seat #6 is the button
+Seat 1: Kimiochang ($21 in chips) 
+Seat 2: KarnackII ($57.15 in chips) 
+Seat 3: lata33 ($14.45 in chips) 
+Seat 4: Alameda22 ($37.95 in chips) 
+Seat 5: Jimbo4328 ($9.90 in chips) 
+Seat 6: FARPCOL ($27.35 in chips) 
+Seat 7: Jnguyen1988 ($10.25 in chips) 
+Seat 9: heffs976 ($18.10 in chips) 
+Jnguyen1988: posts small blind $0.10
+heffs976: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 7h]
+Kimiochang: folds 
+KarnackII: folds 
+lata33: calls $0.25
+Alameda22: folds 
+Jimbo4328: folds 
+charlingo1 joins the table at seat #8 
+FARPCOL: raises $0.75 to $1
+Jnguyen1988: calls $0.90
+heffs976: folds 
+lata33: folds 
+*** FLOP *** [Js 8s Qh]
+Jnguyen1988: checks 
+FARPCOL: checks 
+*** TURN *** [Js 8s Qh] [6s]
+Jnguyen1988: bets $1
+FARPCOL: raises $2 to $3
+Jnguyen1988: raises $6.25 to $9.25 and is all-in
+Jnguyen1988 said, "suck me"
+FARPCOL: calls $6.25
+*** RIVER *** [Js 8s Qh 6s] [Kc]
+*** SHOW DOWN ***
+Jnguyen1988: shows [5s As] (a flush, Ace high)
+FARPCOL: mucks hand 
+Jnguyen1988 collected $20 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $1 
+Board [Js 8s Qh 6s Kc]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL (button) mucked [Ts Qs]
+Seat 7: Jnguyen1988 (small blind) showed [5s As] and won ($20) with a flush, Ace high
+Seat 9: heffs976 (big blind) folded before Flop
+
+
+
+PokerStars Game #19578113429:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:48:53 (ET)
+Table 'Skuld' 9-max Seat #7 is the button
+Seat 1: Kimiochang ($21 in chips) 
+Seat 2: KarnackII ($57.15 in chips) 
+Seat 3: lata33 ($14.20 in chips) 
+Seat 4: Alameda22 ($37.95 in chips) 
+Seat 5: Jimbo4328 ($9.90 in chips) 
+Seat 6: FARPCOL ($17.10 in chips) 
+Seat 7: Jnguyen1988 ($20 in chips) 
+Seat 9: heffs976 ($17.85 in chips) 
+charlingo1 will be allowed to play after the button
+heffs976: posts small blind $0.10
+Kimiochang: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Qc]
+KarnackII: folds 
+lata33: folds 
+Alameda22: raises $0.50 to $0.75
+Jimbo4328: folds 
+FARPCOL: folds 
+Jnguyen1988: folds 
+heffs976: folds 
+Kimiochang: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Kimiochang (big blind) folded before Flop
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 collected ($0.60)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: Jnguyen1988 (button) folded before Flop (didn't bet)
+Seat 9: heffs976 (small blind) folded before Flop
+
+
+
+PokerStars Game #19578125959:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:49:40 (ET)
+Table 'Skuld' 9-max Seat #9 is the button
+Seat 1: Kimiochang ($20.75 in chips) 
+Seat 2: KarnackII ($57.15 in chips) 
+Seat 3: lata33 ($14.20 in chips) 
+Seat 4: Alameda22 ($38.30 in chips) 
+Seat 5: Jimbo4328 ($9.90 in chips) 
+Seat 6: FARPCOL ($25 in chips) 
+Seat 7: Jnguyen1988 ($20 in chips) 
+Seat 8: charlingo1 ($25 in chips) 
+Seat 9: heffs976 ($17.75 in chips) 
+Kimiochang: posts small blind $0.10
+KarnackII: posts big blind $0.25
+charlingo1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Kc]
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+Jnguyen1988: calls $0.25
+charlingo1: checks 
+heffs976: folds 
+Kimiochang: calls $0.15
+KarnackII: checks 
+*** FLOP *** [3d Js Qs]
+Kimiochang: checks 
+KarnackII: bets $0.50
+Jnguyen1988: calls $0.50
+charlingo1: folds 
+Kimiochang: calls $0.50
+*** TURN *** [3d Js Qs] [4h]
+Kimiochang: checks 
+KarnackII: bets $3
+Jnguyen1988: raises $5 to $8
+Kimiochang: folds 
+KarnackII: raises $48.40 to $56.40 and is all-in
+Jnguyen1988: calls $11.25 and is all-in
+Uncalled bet ($37.15) returned to KarnackII
+*** RIVER *** [3d Js Qs 4h] [2s]
+*** SHOW DOWN ***
+KarnackII: shows [Qd 4s] (two pair, Queens and Fours)
+Jnguyen1988: mucks hand 
+KarnackII collected $39 from pot
+*** SUMMARY ***
+Total pot $41 | Rake $2 
+Board [3d Js Qs 4h 2s]
+Seat 1: Kimiochang (small blind) folded on the Turn
+Seat 2: KarnackII (big blind) showed [Qd 4s] and won ($39) with two pair, Queens and Fours
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: Jnguyen1988 mucked [7c Qc]
+Seat 8: charlingo1 folded on the Flop
+Seat 9: heffs976 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19578159047:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:51:45 (ET)
+Table 'Skuld' 9-max Seat #1 is the button
+Seat 1: Kimiochang ($20 in chips) 
+Seat 2: KarnackII ($76.15 in chips) 
+Seat 3: lata33 ($14.20 in chips) 
+Seat 4: Alameda22 ($38.30 in chips) 
+Seat 5: Jimbo4328 ($9.90 in chips) 
+Seat 6: FARPCOL ($25 in chips) 
+Seat 8: charlingo1 ($24.75 in chips) 
+Seat 9: heffs976 ($17.75 in chips) 
+KarnackII: posts small blind $0.10
+Jnguyen1988 leaves the table
+lata33: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 3d]
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+yordestine joins the table at seat #7 
+charlingo1: folds 
+heffs976: folds 
+Kimiochang: folds 
+KarnackII: calls $0.15
+lata33: checks 
+*** FLOP *** [Ts 8h 7c]
+KarnackII: checks 
+lata33: checks 
+*** TURN *** [Ts 8h 7c] [9c]
+KarnackII: checks 
+lata33: checks 
+*** RIVER *** [Ts 8h 7c 9c] [7d]
+KarnackII: bets $1
+lata33: calls $1
+*** SHOW DOWN ***
+KarnackII: shows [Qc 7h] (three of a kind, Sevens)
+lata33: mucks hand 
+KarnackII collected $2.40 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Ts 8h 7c 9c 7d]
+Seat 1: Kimiochang (button) folded before Flop (didn't bet)
+Seat 2: KarnackII (small blind) showed [Qc 7h] and won ($2.40) with three of a kind, Sevens
+Seat 3: lata33 (big blind) mucked [Qh Kc]
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 8: charlingo1 folded before Flop (didn't bet)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19578186217:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:53:28 (ET)
+Table 'Skuld' 9-max Seat #2 is the button
+Seat 1: Kimiochang ($20 in chips) 
+Seat 2: KarnackII ($77.30 in chips) 
+Seat 3: lata33 ($12.95 in chips) 
+Seat 4: Alameda22 ($38.30 in chips) 
+Seat 5: Jimbo4328 ($9.90 in chips) 
+Seat 6: FARPCOL ($25 in chips) 
+Seat 7: yordestine ($6 in chips) 
+Seat 8: charlingo1 ($24.75 in chips) 
+Seat 9: heffs976 ($17.75 in chips) 
+lata33: posts small blind $0.10
+Alameda22: posts big blind $0.25
+yordestine: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 8c]
+Jimbo4328: folds 
+FARPCOL: calls $0.25
+yordestine: raises $0.75 to $1
+charlingo1: folds 
+heffs976: folds 
+Kimiochang: folds 
+KarnackII: raises $1.50 to $2.50
+lata33: folds 
+Alameda22: folds 
+FARPCOL: folds 
+yordestine: calls $1.50
+*** FLOP *** [3c 8h 9c]
+yordestine: bets $3.50 and is all-in
+KarnackII: calls $3.50
+*** TURN *** [3c 8h 9c] [Qd]
+*** RIVER *** [3c 8h 9c Qd] [9d]
+*** SHOW DOWN ***
+yordestine: shows [Ac Qc] (two pair, Queens and Nines)
+KarnackII: shows [Ts Tc] (two pair, Tens and Nines)
+yordestine collected $12 from pot
+*** SUMMARY ***
+Total pot $12.60 | Rake $0.60 
+Board [3c 8h 9c Qd 9d]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII (button) showed [Ts Tc] and lost with two pair, Tens and Nines
+Seat 3: lata33 (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop
+Seat 7: yordestine showed [Ac Qc] and won ($12) with two pair, Queens and Nines
+Seat 8: charlingo1 folded before Flop (didn't bet)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19578203274:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:54:33 (ET)
+Table 'Skuld' 9-max Seat #3 is the button
+Seat 1: Kimiochang ($20 in chips) 
+Seat 2: KarnackII ($71.30 in chips) 
+Seat 3: lata33 ($12.85 in chips) 
+Seat 4: Alameda22 ($38.05 in chips) 
+Seat 5: Jimbo4328 ($9.90 in chips) 
+Seat 6: FARPCOL ($24.75 in chips) 
+Seat 7: yordestine ($12 in chips) 
+Seat 8: charlingo1 ($24.75 in chips) 
+Seat 9: heffs976 ($17.75 in chips) 
+Alameda22: posts small blind $0.10
+Jimbo4328: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Jc]
+FARPCOL: calls $0.25
+yordestine: folds 
+charlingo1: calls $0.25
+heffs976: folds 
+Kimiochang: calls $0.25
+KarnackII: folds 
+lata33: calls $0.25
+Alameda22: folds 
+Jimbo4328: checks 
+*** FLOP *** [7s 6s 4c]
+Jimbo4328: checks 
+FARPCOL: bets $0.50
+charlingo1: folds 
+Kimiochang: calls $0.50
+lata33: calls $0.50
+Jimbo4328: folds 
+*** TURN *** [7s 6s 4c] [3c]
+FARPCOL: bets $1.50
+Kimiochang: folds 
+lata33: calls $1.50
+*** RIVER *** [7s 6s 4c 3c] [7d]
+FARPCOL: bets $2.25
+lata33: calls $2.25
+*** SHOW DOWN ***
+FARPCOL: shows [5s 5d] (a straight, Three to Seven)
+lata33: mucks hand 
+FARPCOL collected $9.85 from pot
+*** SUMMARY ***
+Total pot $10.35 | Rake $0.50 
+Board [7s 6s 4c 3c 7d]
+Seat 1: Kimiochang folded on the Turn
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 (button) mucked [9d 6c]
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: Jimbo4328 (big blind) folded on the Flop
+Seat 6: FARPCOL showed [5s 5d] and won ($9.85) with a straight, Three to Seven
+Seat 7: yordestine folded before Flop (didn't bet)
+Seat 8: charlingo1 folded on the Flop
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19578226504:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:56:03 (ET)
+Table 'Skuld' 9-max Seat #4 is the button
+Seat 1: Kimiochang ($19.25 in chips) 
+Seat 2: KarnackII ($71.30 in chips) 
+Seat 3: lata33 ($8.35 in chips) 
+Seat 4: Alameda22 ($37.95 in chips) 
+Seat 5: Jimbo4328 ($9.65 in chips) 
+Seat 6: FARPCOL ($30.10 in chips) 
+Seat 7: yordestine ($12 in chips) 
+Seat 8: charlingo1 ($24.50 in chips) 
+Seat 9: heffs976 ($17.75 in chips) 
+Jimbo4328: posts small blind $0.10
+FARPCOL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 8h]
+yordestine: calls $0.25
+charlingo1: folds 
+heffs976: raises $0.75 to $1
+Kimiochang: calls $1
+KarnackII: calls $1
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+yordestine: calls $0.75
+*** FLOP *** [Kd 5h 2h]
+yordestine: bets $0.25
+heffs976: raises $2 to $2.25
+Kimiochang: folds 
+KarnackII: folds 
+yordestine: folds 
+Uncalled bet ($2) returned to heffs976
+heffs976 collected $4.65 from pot
+heffs976: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [Kd 5h 2h]
+Seat 1: Kimiochang folded on the Flop
+Seat 2: KarnackII folded on the Flop
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: Jimbo4328 (small blind) folded before Flop
+Seat 6: FARPCOL (big blind) folded before Flop
+Seat 7: yordestine folded on the Flop
+Seat 8: charlingo1 folded before Flop (didn't bet)
+Seat 9: heffs976 collected ($4.65)
+
+
+
+PokerStars Game #19578240635:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:56:58 (ET)
+Table 'Skuld' 9-max Seat #5 is the button
+Seat 1: Kimiochang ($18.25 in chips) 
+Seat 2: KarnackII ($70.30 in chips) 
+Seat 3: lata33 ($8.35 in chips) 
+Seat 4: Alameda22 ($37.95 in chips) 
+Seat 5: Jimbo4328 ($9.55 in chips) 
+Seat 6: FARPCOL ($29.85 in chips) 
+Seat 7: yordestine ($10.75 in chips) 
+Seat 8: charlingo1 ($24.50 in chips) 
+Seat 9: heffs976 ($21.15 in chips) 
+FARPCOL: posts small blind $0.10
+yordestine: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 8s]
+charlingo1: calls $0.25
+heffs976: folds 
+Kimiochang: folds 
+KarnackII: raises $1 to $1.25
+lata33: calls $1.25
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+yordestine: folds 
+charlingo1: calls $1
+*** FLOP *** [Jh 6h 4s]
+charlingo1: checks 
+KarnackII: checks 
+lata33: bets $0.50
+charlingo1: calls $0.50
+KarnackII: calls $0.50
+*** TURN *** [Jh 6h 4s] [9s]
+charlingo1: checks 
+KarnackII: checks 
+lata33: bets $1.25
+charlingo1: calls $1.25
+KarnackII: folds 
+*** RIVER *** [Jh 6h 4s 9s] [3s]
+charlingo1: checks 
+lata33: bets $1.50
+charlingo1: calls $1.50
+*** SHOW DOWN ***
+lata33: shows [Js 9d] (two pair, Jacks and Nines)
+charlingo1: mucks hand 
+lata33 collected $10.60 from pot
+*** SUMMARY ***
+Total pot $11.10 | Rake $0.50 
+Board [Jh 6h 4s 9s 3s]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded on the Turn
+Seat 3: lata33 showed [Js 9d] and won ($10.60) with two pair, Jacks and Nines
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 (button) folded before Flop (didn't bet)
+Seat 6: FARPCOL (small blind) folded before Flop
+Seat 7: yordestine (big blind) folded before Flop
+Seat 8: charlingo1 mucked [2s 2h]
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19578276199:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 00:59:19 (ET)
+Table 'Skuld' 9-max Seat #6 is the button
+Seat 1: Kimiochang ($18.25 in chips) 
+Seat 2: KarnackII ($68.55 in chips) 
+Seat 3: lata33 ($14.45 in chips) 
+Seat 4: Alameda22 ($37.95 in chips) 
+Seat 5: Jimbo4328 ($9.55 in chips) 
+Seat 6: FARPCOL ($29.75 in chips) 
+Seat 7: yordestine ($10.50 in chips) 
+Seat 8: charlingo1 ($20 in chips) 
+Seat 9: heffs976 ($21.15 in chips) 
+yordestine: posts small blind $0.10
+charlingo1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Qd]
+heffs976: folds 
+Kimiochang: folds 
+KarnackII: folds 
+lata33: calls $0.25
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+yordestine: calls $0.15
+charlingo1: checks 
+*** FLOP *** [As 4h Jc]
+yordestine: checks 
+charlingo1: bets $0.55
+lata33: folds 
+yordestine: folds 
+Uncalled bet ($0.55) returned to charlingo1
+charlingo1 collected $0.75 from pot
+charlingo1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [As 4h Jc]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL (button) folded before Flop (didn't bet)
+Seat 7: yordestine (small blind) folded on the Flop
+Seat 8: charlingo1 (big blind) collected ($0.75)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19578293621:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 01:00:28 (ET)
+Table 'Skuld' 9-max Seat #7 is the button
+Seat 1: Kimiochang ($18.25 in chips) 
+Seat 2: KarnackII ($68.55 in chips) 
+Seat 3: lata33 ($14.20 in chips) 
+Seat 4: Alameda22 ($37.95 in chips) 
+Seat 5: Jimbo4328 ($9.55 in chips) 
+Seat 6: FARPCOL ($29.75 in chips) 
+Seat 7: yordestine ($10.25 in chips) 
+Seat 8: charlingo1 ($20.50 in chips) 
+Seat 9: heffs976 ($21.15 in chips) 
+charlingo1: posts small blind $0.10
+heffs976: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Td]
+Kimiochang: calls $0.25
+KarnackII: folds 
+lata33: raises $0.25 to $0.50
+Alameda22: folds 
+Jimbo4328: folds 
+KarnackII is sitting out
+FARPCOL: folds 
+yordestine: calls $0.50
+charlingo1: folds 
+heffs976: calls $0.25
+Kimiochang: calls $0.25
+*** FLOP *** [8s Kd Qs]
+heffs976: checks 
+Kimiochang: checks 
+lata33: bets $1
+yordestine: folds 
+heffs976: folds 
+Kimiochang: calls $1
+*** TURN *** [8s Kd Qs] [Jh]
+Kimiochang: checks 
+lata33: checks 
+*** RIVER *** [8s Kd Qs Jh] [9h]
+Kimiochang: bets $1
+lata33: calls $1
+*** SHOW DOWN ***
+Kimiochang: shows [9c Jc] (two pair, Jacks and Nines)
+lata33: mucks hand 
+Kimiochang collected $5.85 from pot
+*** SUMMARY ***
+Total pot $6.10 | Rake $0.25 
+Board [8s Kd Qs Jh 9h]
+Seat 1: Kimiochang showed [9c Jc] and won ($5.85) with two pair, Jacks and Nines
+Seat 2: KarnackII folded before Flop (didn't bet)
+Seat 3: lata33 mucked [Ah Ks]
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: yordestine (button) folded on the Flop
+Seat 8: charlingo1 (small blind) folded before Flop
+Seat 9: heffs976 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19578325214:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 01:02:36 (ET)
+Table 'Skuld' 9-max Seat #8 is the button
+Seat 1: Kimiochang ($21.60 in chips) 
+Seat 3: lata33 ($11.70 in chips) 
+Seat 4: Alameda22 ($37.95 in chips) 
+Seat 5: Jimbo4328 ($9.55 in chips) 
+Seat 6: FARPCOL ($29.75 in chips) 
+Seat 7: yordestine ($9.75 in chips) 
+Seat 8: charlingo1 ($20.40 in chips) 
+Seat 9: heffs976 ($20.65 in chips) 
+heffs976: posts small blind $0.10
+Kimiochang: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 8h]
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: raises $1 to $1.25
+FARPCOL: folds 
+yordestine: folds 
+charlingo1: folds 
+heffs976: folds 
+Kimiochang: folds 
+Uncalled bet ($1) returned to Jimbo4328
+Jimbo4328 collected $0.60 from pot
+Jimbo4328: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Kimiochang (big blind) folded before Flop
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 collected ($0.60)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: yordestine folded before Flop (didn't bet)
+Seat 8: charlingo1 (button) folded before Flop (didn't bet)
+Seat 9: heffs976 (small blind) folded before Flop
+
+
+
+PokerStars Game #19578337412:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 01:03:24 (ET)
+Table 'Skuld' 9-max Seat #9 is the button
+Seat 1: Kimiochang ($21.35 in chips) 
+Seat 3: lata33 ($11.70 in chips) 
+Seat 4: Alameda22 ($37.95 in chips) 
+Seat 5: Jimbo4328 ($9.90 in chips) 
+Seat 6: FARPCOL ($29.75 in chips) 
+Seat 7: yordestine ($9.75 in chips) 
+Seat 8: charlingo1 ($20.40 in chips) 
+Seat 9: heffs976 ($20.55 in chips) 
+Kimiochang: posts small blind $0.10
+lata33: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Qh]
+Alameda22: raises $0.50 to $0.75
+Jimbo4328: folds 
+FARPCOL: folds 
+yordestine: folds 
+charlingo1: calls $0.75
+heffs976: calls $0.75
+Kimiochang: folds 
+lata33: calls $0.50
+*** FLOP *** [Tc 7d 5d]
+lata33: checks 
+Alameda22: bets $2
+charlingo1: calls $2
+heffs976: calls $2
+lata33: folds 
+*** TURN *** [Tc 7d 5d] [9h]
+Alameda22: bets $5.75
+charlingo1: folds 
+heffs976: folds 
+Uncalled bet ($5.75) returned to Alameda22
+Alameda22 collected $8.70 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.10 | Rake $0.40 
+Board [Tc 7d 5d 9h]
+Seat 1: Kimiochang (small blind) folded before Flop
+Seat 3: lata33 (big blind) folded on the Flop
+Seat 4: Alameda22 collected ($8.70)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: yordestine folded before Flop (didn't bet)
+Seat 8: charlingo1 folded on the Turn
+Seat 9: heffs976 (button) folded on the Turn
+
+
+
+PokerStars Game #19578366406:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 01:05:20 (ET)
+Table 'Skuld' 9-max Seat #1 is the button
+Seat 1: Kimiochang ($21.25 in chips) 
+Seat 3: lata33 ($10.95 in chips) 
+Seat 4: Alameda22 ($43.90 in chips) 
+Seat 5: Jimbo4328 ($9.90 in chips) 
+Seat 6: FARPCOL ($29.75 in chips) 
+Seat 7: yordestine ($9.75 in chips) 
+Seat 8: charlingo1 ($17.65 in chips) 
+Seat 9: heffs976 ($17.80 in chips) 
+lata33: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 8d]
+Jimbo4328: folds 
+FARPCOL: folds 
+yordestine: folds 
+charlingo1: folds 
+heffs976: calls $0.25
+Kimiochang: folds 
+lata33: calls $0.15
+Alameda22: checks 
+*** FLOP *** [3h 5c Kc]
+lata33: checks 
+Alameda22: checks 
+heffs976: bets $2
+lata33: calls $2
+Alameda22: folds 
+*** TURN *** [3h 5c Kc] [2s]
+lata33: checks 
+heffs976: bets $15.55 and is all-in
+lata33: folds 
+Uncalled bet ($15.55) returned to heffs976
+heffs976 collected $4.55 from pot
+heffs976: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [3h 5c Kc 2s]
+Seat 1: Kimiochang (button) folded before Flop (didn't bet)
+Seat 3: lata33 (small blind) folded on the Turn
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: yordestine folded before Flop (didn't bet)
+Seat 8: charlingo1 folded before Flop (didn't bet)
+Seat 9: heffs976 collected ($4.55)
+
+
+
+PokerStars Game #19578387301:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 01:06:44 (ET)
+Table 'Skuld' 9-max Seat #3 is the button
+Seat 1: Kimiochang ($21.25 in chips) 
+Seat 3: lata33 ($8.70 in chips) 
+Seat 4: Alameda22 ($43.65 in chips) 
+Seat 5: Jimbo4328 ($9.90 in chips) 
+Seat 6: FARPCOL ($29.75 in chips) 
+Seat 7: yordestine ($9.75 in chips) 
+Seat 8: charlingo1 ($17.65 in chips) 
+Seat 9: heffs976 ($20.10 in chips) 
+Alameda22: posts small blind $0.10
+Jimbo4328: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 2s]
+FARPCOL: folds 
+yordestine: folds 
+charlingo1: folds 
+heffs976: folds 
+Kimiochang: folds 
+lata33: raises $0.25 to $0.50
+Alameda22: folds 
+Jimbo4328: folds 
+Uncalled bet ($0.25) returned to lata33
+lata33 collected $0.60 from pot
+lata33: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 3: lata33 (button) collected ($0.60)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: Jimbo4328 (big blind) folded before Flop
+Seat 6: FARPCOL folded before Flop (didn't bet)
+Seat 7: yordestine folded before Flop (didn't bet)
+Seat 8: charlingo1 folded before Flop (didn't bet)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19578397809:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 01:07:26 (ET)
+Table 'Skuld' 9-max Seat #4 is the button
+Seat 1: Kimiochang ($21.25 in chips) 
+Seat 3: lata33 ($9.05 in chips) 
+Seat 4: Alameda22 ($43.55 in chips) 
+Seat 5: Jimbo4328 ($9.65 in chips) 
+Seat 6: FARPCOL ($29.75 in chips) 
+Seat 7: yordestine ($9.75 in chips) 
+Seat 8: charlingo1 ($17.65 in chips) 
+Seat 9: heffs976 ($20.10 in chips) 
+Jimbo4328: posts small blind $0.10
+FARPCOL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 3s]
+yordestine: calls $0.25
+charlingo1: folds 
+heffs976: raises $1 to $1.25
+Kimiochang: calls $1.25
+lata33: calls $1.25
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+yordestine: calls $1
+*** FLOP *** [9s 4s Ah]
+yordestine: checks 
+heffs976: bets $3.75
+Kimiochang: folds 
+lata33: calls $3.75
+yordestine: folds 
+*** TURN *** [9s 4s Ah] [4c]
+heffs976: bets $14.25
+lata33: calls $4.05 and is all-in
+Uncalled bet ($10.20) returned to heffs976
+*** RIVER *** [9s 4s Ah 4c] [2d]
+*** SHOW DOWN ***
+heffs976: shows [Ad Qh] (two pair, Aces and Fours)
+lata33: mucks hand 
+heffs976 collected $19.95 from pot
+*** SUMMARY ***
+Total pot $20.95 | Rake $1 
+Board [9s 4s Ah 4c 2d]
+Seat 1: Kimiochang folded on the Flop
+Seat 3: lata33 mucked [5d 5h]
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: Jimbo4328 (small blind) folded before Flop
+Seat 6: FARPCOL (big blind) folded before Flop
+Seat 7: yordestine folded on the Flop
+Seat 8: charlingo1 folded before Flop (didn't bet)
+Seat 9: heffs976 showed [Ad Qh] and won ($19.95) with two pair, Aces and Fours
+
+
+
+PokerStars Game #19578421782:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 01:09:04 (ET)
+Table 'Skuld' 9-max Seat #5 is the button
+Seat 1: Kimiochang ($20 in chips) 
+Seat 4: Alameda22 ($43.55 in chips) 
+Seat 5: Jimbo4328 ($9.55 in chips) 
+Seat 6: FARPCOL ($29.50 in chips) 
+Seat 8: charlingo1 ($17.65 in chips) 
+Seat 9: heffs976 ($31 in chips) 
+FARPCOL: posts small blind $0.10
+lata33 has returned
+yordestine: is sitting out 
+yordestine leaves the table
+charlingo1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Js]
+heffs976: folds 
+Kimiochang: calls $0.25
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: calls $0.15
+charlingo1: raises $0.55 to $0.80
+Kimiochang: folds 
+FARPCOL: folds 
+Uncalled bet ($0.55) returned to charlingo1
+charlingo1 collected $0.75 from pot
+charlingo1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Kimiochang folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 (button) folded before Flop (didn't bet)
+Seat 6: FARPCOL (small blind) folded before Flop
+Seat 8: charlingo1 (big blind) collected ($0.75)
+Seat 9: heffs976 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19578434539:  Hold'em No Limit ($0.10/$0.25) - 2008/08/13 - 01:09:56 (ET)
+Table 'Skuld' 9-max Seat #6 is the button
+Seat 1: Kimiochang ($19.75 in chips) 
+Seat 3: lata33 ($10 in chips) 
+Seat 4: Alameda22 ($43.55 in chips) 
+Seat 5: Jimbo4328 ($9.55 in chips) 
+Seat 6: FARPCOL ($29.25 in chips) 
+Seat 8: charlingo1 ($18.15 in chips) 
+Seat 9: heffs976 ($31 in chips) 
+charlingo1: posts small blind $0.10
+heffs976: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 8h]
+Kimiochang: folds 
+lata33: folds 
+Alameda22: folds 
+Jimbo4328: folds 
+FARPCOL: folds 
+stationbc joins the table at seat #7 
+charlingo1: calls $0.15
+heffs976: checks 
+*** FLOP *** [Th 6d 7c]
+charlingo1: bets $0.25
+heffs976: calls $0.25
+*** TURN *** [Th 6d 7c] [4c]
+charlingo1: checks 
+heffs976: bets $0.75
+charlingo1: raises $2.25 to $3
+heffs976: folds 
+Uncalled bet ($2.25) returned to charlingo1
+charlingo1 collected $2.40 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Th 6d 7c 4c]
+Seat 1: Kimiochang folded before Flop (didn't bet)
+Seat 3: lata33 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Jimbo4328 folded before Flop (didn't bet)
+Seat 6: FARPCOL (button) folded before Flop (didn't bet)
+Seat 8: charlingo1 (small blind) collected ($2.40)
+Seat 9: heffs976 (big blind) folded on the Turn
+
+
+

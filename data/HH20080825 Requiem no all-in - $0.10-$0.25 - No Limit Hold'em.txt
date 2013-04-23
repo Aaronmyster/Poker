@@ -1,0 +1,1795 @@
+PokerStars Game #19903052457:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:22:08 (ET)
+Table 'Requiem' 9-max Seat #4 is the button
+Seat 1: shipedallday ($42.70 in chips) 
+Seat 2: Hiper2 ($15.95 in chips) 
+Seat 3: ponyxxxpress ($10 in chips) 
+Seat 4: msna ($53.80 in chips) 
+Seat 5: tbxterra ($24.75 in chips) 
+Seat 6: Alameda22 ($25 in chips) 
+Seat 7: jonyctt ($88.70 in chips) 
+Seat 8: mmffo ($32.65 in chips) 
+Seat 9: freekystar ($4.85 in chips) 
+tbxterra: posts small blind $0.10
+Alameda22: posts big blind $0.25
+ponyxxxpress: posts small blind $0.10
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 7d]
+jonyctt: folds 
+mmffo: folds 
+freekystar: folds 
+shipedallday: calls $0.25
+Hiper2: calls $0.25
+ponyxxxpress: calls $0.25
+msna: folds 
+tbxterra: calls $0.15
+Alameda22: checks 
+*** FLOP *** [4h 4s 3c]
+tbxterra: checks 
+Alameda22: checks 
+shipedallday: bets $1.50
+Hiper2: folds 
+ponyxxxpress: folds 
+tbxterra: folds 
+Alameda22: folds 
+Uncalled bet ($1.50) returned to shipedallday
+shipedallday collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [4h 4s 3c]
+Seat 1: shipedallday collected ($1.30)
+Seat 2: Hiper2 folded on the Flop
+Seat 3: ponyxxxpress folded on the Flop
+Seat 4: msna (button) folded before Flop (didn't bet)
+Seat 5: tbxterra (small blind) folded on the Flop
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: freekystar folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903071444:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:23:03 (ET)
+Table 'Requiem' 9-max Seat #5 is the button
+Seat 1: shipedallday ($43.75 in chips) 
+Seat 2: Hiper2 ($15.70 in chips) 
+Seat 3: ponyxxxpress ($9.65 in chips) 
+Seat 4: msna ($53.80 in chips) 
+Seat 5: tbxterra ($24.50 in chips) 
+Seat 6: Alameda22 ($24.75 in chips) 
+Seat 7: jonyctt ($88.70 in chips) 
+Seat 8: mmffo ($32.65 in chips) 
+Seat 9: freekystar ($4.85 in chips) 
+Alameda22: posts small blind $0.10
+jonyctt: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 8d]
+mmffo: folds 
+freekystar: folds 
+shipedallday: folds 
+Hiper2: raises $0.50 to $0.75
+ponyxxxpress: calls $0.75
+msna: folds 
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+*** FLOP *** [As Jc 6h]
+Hiper2: bets $0.50
+ponyxxxpress: calls $0.50
+*** TURN *** [As Jc 6h] [9s]
+Hiper2: bets $0.75
+ponyxxxpress: folds 
+Uncalled bet ($0.75) returned to Hiper2
+Hiper2 collected $2.75 from pot
+Hiper2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [As Jc 6h 9s]
+Seat 1: shipedallday folded before Flop (didn't bet)
+Seat 2: Hiper2 collected ($2.75)
+Seat 3: ponyxxxpress folded on the Turn
+Seat 4: msna folded before Flop (didn't bet)
+Seat 5: tbxterra (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: jonyctt (big blind) folded before Flop
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: freekystar folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903093091:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:24:07 (ET)
+Table 'Requiem' 9-max Seat #6 is the button
+Seat 1: shipedallday ($43.75 in chips) 
+Seat 2: Hiper2 ($17.20 in chips) 
+Seat 3: ponyxxxpress ($8.40 in chips) 
+Seat 4: msna ($53.80 in chips) 
+Seat 5: tbxterra ($24.50 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 7: jonyctt ($88.45 in chips) 
+Seat 8: mmffo ($32.65 in chips) 
+Seat 9: freekystar ($4.85 in chips) 
+jonyctt: posts small blind $0.10
+mmffo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 7c]
+freekystar: raises $4.60 to $4.85 and is all-in
+shipedallday: folds 
+Hiper2: folds 
+ponyxxxpress: calls $4.85
+msna: folds 
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+*** FLOP *** [3d 5d Kh]
+*** TURN *** [3d 5d Kh] [Tc]
+*** RIVER *** [3d 5d Kh Tc] [Ah]
+*** SHOW DOWN ***
+freekystar: shows [Qd Jh] (a straight, Ten to Ace)
+ponyxxxpress: mucks hand 
+freekystar collected $9.55 from pot
+*** SUMMARY ***
+Total pot $10.05 | Rake $0.50 
+Board [3d 5d Kh Tc Ah]
+Seat 1: shipedallday folded before Flop (didn't bet)
+Seat 2: Hiper2 folded before Flop (didn't bet)
+Seat 3: ponyxxxpress mucked [Qc Ks]
+Seat 4: msna folded before Flop (didn't bet)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: jonyctt (small blind) folded before Flop
+Seat 8: mmffo (big blind) folded before Flop
+Seat 9: freekystar showed [Qd Jh] and won ($9.55) with a straight, Ten to Ace
+
+
+
+PokerStars Game #19903106784:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:24:47 (ET)
+Table 'Requiem' 9-max Seat #7 is the button
+Seat 1: shipedallday ($43.75 in chips) 
+Seat 2: Hiper2 ($17.20 in chips) 
+Seat 3: ponyxxxpress ($3.55 in chips) 
+Seat 4: msna ($53.80 in chips) 
+Seat 5: tbxterra ($24.50 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 7: jonyctt ($88.35 in chips) 
+Seat 8: mmffo ($32.40 in chips) 
+Seat 9: freekystar ($11.50 in chips) 
+mmffo: posts small blind $0.10
+freekystar: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Jh]
+shipedallday: raises $1 to $1.25
+Hiper2: calls $1.25
+ponyxxxpress: calls $1.25
+msna: folds 
+tbxterra: calls $1.25
+Alameda22: raises $3 to $4.25
+jonyctt: folds 
+mmffo: folds 
+freekystar: folds 
+shipedallday: calls $3
+Hiper2: calls $3
+ponyxxxpress: calls $2.30 and is all-in
+tbxterra: calls $3
+*** FLOP *** [8h As Ah]
+shipedallday: bets $10
+Hiper2: folds 
+tbxterra: folds 
+Alameda22: folds 
+Uncalled bet ($10) returned to shipedallday
+*** TURN *** [8h As Ah] [2d]
+*** RIVER *** [8h As Ah 2d] [5d]
+*** SHOW DOWN ***
+shipedallday: shows [Ad Kc] (three of a kind, Aces)
+shipedallday collected $2.70 from side pot
+ponyxxxpress: mucks hand 
+shipedallday collected $17.20 from main pot
+*** SUMMARY ***
+Total pot $20.90 Main pot $17.20. Side pot $2.70. | Rake $1 
+Board [8h As Ah 2d 5d]
+Seat 1: shipedallday showed [Ad Kc] and won ($19.90) with three of a kind, Aces
+Seat 2: Hiper2 folded on the Flop
+Seat 3: ponyxxxpress mucked [Kh Qh]
+Seat 4: msna folded before Flop (didn't bet)
+Seat 5: tbxterra folded on the Flop
+Seat 6: Alameda22 folded on the Flop
+Seat 7: jonyctt (button) folded before Flop (didn't bet)
+Seat 8: mmffo (small blind) folded before Flop
+Seat 9: freekystar (big blind) folded before Flop
+
+
+
+PokerStars Game #19903144555:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:26:39 (ET)
+Table 'Requiem' 9-max Seat #8 is the button
+Seat 1: shipedallday ($59.40 in chips) 
+Seat 2: Hiper2 ($12.95 in chips) 
+Seat 4: msna ($53.80 in chips) 
+Seat 5: tbxterra ($20.25 in chips) 
+Seat 6: Alameda22 ($20.40 in chips) 
+Seat 7: jonyctt ($88.35 in chips) 
+Seat 8: mmffo ($32.30 in chips) 
+Seat 9: freekystar ($11.25 in chips) 
+freekystar: posts small blind $0.10
+shipedallday: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 6s]
+Hiper2: folds 
+msna: folds 
+tbxterra: folds 
+ponyxxxpress leaves the table
+Alameda22: folds 
+LUCKYMONSTER joins the table at seat #3 
+jonyctt: folds 
+mmffo: calls $0.25
+freekystar: calls $0.15
+shipedallday: checks 
+*** FLOP *** [8h Ks Tc]
+freekystar: checks 
+shipedallday: checks 
+mmffo: checks 
+*** TURN *** [8h Ks Tc] [2c]
+freekystar: bets $0.50
+shipedallday: folds 
+mmffo: calls $0.50
+*** RIVER *** [8h Ks Tc 2c] [As]
+freekystar: checks 
+mmffo: checks 
+*** SHOW DOWN ***
+freekystar: shows [Kh 5s] (a pair of Kings)
+mmffo: mucks hand 
+freekystar collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [8h Ks Tc 2c As]
+Seat 1: shipedallday (big blind) folded on the Turn
+Seat 2: Hiper2 folded before Flop (didn't bet)
+Seat 4: msna folded before Flop (didn't bet)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo (button) mucked [8c 5c]
+Seat 9: freekystar (small blind) showed [Kh 5s] and won ($1.70) with a pair of Kings
+
+
+
+PokerStars Game #19903165416:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:27:41 (ET)
+Table 'Requiem' 9-max Seat #9 is the button
+Seat 1: shipedallday ($59.15 in chips) 
+Seat 2: Hiper2 ($12.95 in chips) 
+Seat 4: msna ($53.80 in chips) 
+Seat 5: tbxterra ($20.25 in chips) 
+Seat 6: Alameda22 ($20.40 in chips) 
+Seat 7: jonyctt ($88.35 in chips) 
+Seat 8: mmffo ($31.55 in chips) 
+Seat 9: freekystar ($12.20 in chips) 
+shipedallday: posts small blind $0.10
+Hiper2: posts big blind $0.25
+LUCKYMONSTER: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Kc]
+msna: folds 
+tbxterra: folds 
+Alameda22: raises $0.50 to $0.75
+jonyctt: folds 
+mmffo: folds 
+freekystar: calls $0.75
+shipedallday: folds 
+Hiper2: folds 
+*** FLOP *** [5d 5s 3s]
+Alameda22: bets $1.25
+freekystar: calls $1.25
+*** TURN *** [5d 5s 3s] [Jh]
+Alameda22: checks 
+freekystar: checks 
+*** RIVER *** [5d 5s 3s Jh] [9s]
+Alameda22: checks 
+freekystar: bets $1.75
+Alameda22: folds 
+Uncalled bet ($1.75) returned to freekystar
+freekystar collected $4.15 from pot
+freekystar: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.35 | Rake $0.20 
+Board [5d 5s 3s Jh 9s]
+Seat 1: shipedallday (small blind) folded before Flop
+Seat 2: Hiper2 (big blind) folded before Flop
+Seat 4: msna folded before Flop (didn't bet)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded on the River
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: freekystar (button) collected ($4.15)
+
+
+
+PokerStars Game #19903192401:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:29:02 (ET)
+Table 'Requiem' 9-max Seat #1 is the button
+Seat 1: shipedallday ($59.05 in chips) 
+Seat 2: Hiper2 ($12.70 in chips) 
+Seat 3: LUCKYMONSTER ($25 in chips) 
+Seat 4: msna ($53.80 in chips) 
+Seat 5: tbxterra ($20.25 in chips) 
+Seat 6: Alameda22 ($18.40 in chips) 
+Seat 7: jonyctt ($88.35 in chips) 
+Seat 8: mmffo ($31.55 in chips) 
+Seat 9: freekystar ($14.35 in chips) 
+Hiper2: posts small blind $0.10
+LUCKYMONSTER: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 4d]
+msna: folds 
+tbxterra: folds 
+Alameda22: folds 
+msna is sitting out
+jonyctt: raises $0.75 to $1
+mmffo: calls $1
+freekystar: raises $13.35 to $14.35 and is all-in
+shipedallday: folds 
+Hiper2: folds 
+LUCKYMONSTER: folds 
+jonyctt: folds 
+msna leaves the table
+mmffo: calls $13.35
+*** FLOP *** [4h Qc Qs]
+*** TURN *** [4h Qc Qs] [9s]
+patorojas86 joins the table at seat #4 
+*** RIVER *** [4h Qc Qs 9s] [9c]
+*** SHOW DOWN ***
+mmffo: shows [Qh Ac] (a full house, Queens full of Nines)
+freekystar: mucks hand 
+mmffo collected $28.55 from pot
+*** SUMMARY ***
+Total pot $30.05 | Rake $1.50 
+Board [4h Qc Qs 9s 9c]
+Seat 1: shipedallday (button) folded before Flop (didn't bet)
+Seat 2: Hiper2 (small blind) folded before Flop
+Seat 3: LUCKYMONSTER (big blind) folded before Flop
+Seat 4: msna folded before Flop (didn't bet)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt folded before Flop
+Seat 8: mmffo showed [Qh Ac] and won ($28.55) with a full house, Queens full of Nines
+Seat 9: freekystar mucked [8h 8d]
+
+
+
+PokerStars Game #19903214132:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:30:07 (ET)
+Table 'Requiem' 9-max Seat #2 is the button
+Seat 1: shipedallday ($59.05 in chips) 
+Seat 2: Hiper2 ($12.60 in chips) 
+Seat 3: LUCKYMONSTER ($24.75 in chips) 
+Seat 5: tbxterra ($20.25 in chips) 
+Seat 6: Alameda22 ($18.40 in chips) 
+Seat 7: jonyctt ($87.35 in chips) 
+Seat 8: mmffo ($45.75 in chips) 
+LUCKYMONSTER: posts small blind $0.10
+patorojas86: is sitting out 
+tbxterra: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 6h]
+patorojas86 has returned
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+shipedallday: folds 
+Hiper2: calls $0.25
+LUCKYMONSTER: folds 
+tbxterra: checks 
+*** FLOP *** [Ks 6c Jd]
+tbxterra: checks 
+Hiper2: bets $0.50
+tbxterra: folds 
+Uncalled bet ($0.50) returned to Hiper2
+Hiper2 collected $0.60 from pot
+Hiper2: doesn't show hand 
+freekystar said, "nice call u fucin idiot"
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ks 6c Jd]
+Seat 1: shipedallday folded before Flop (didn't bet)
+Seat 2: Hiper2 (button) collected ($0.60)
+Seat 3: LUCKYMONSTER (small blind) folded before Flop
+Seat 5: tbxterra (big blind) folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903223900:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:30:37 (ET)
+Table 'Requiem' 9-max Seat #3 is the button
+Seat 1: shipedallday ($59.05 in chips) 
+Seat 2: Hiper2 ($12.95 in chips) 
+Seat 3: LUCKYMONSTER ($24.65 in chips) 
+Seat 5: tbxterra ($20 in chips) 
+Seat 6: Alameda22 ($18.40 in chips) 
+Seat 7: jonyctt ($87.35 in chips) 
+Seat 8: mmffo ($45.75 in chips) 
+patorojas86 will be allowed to play after the button
+tbxterra: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 6c]
+freekystar leaves the table
+jonyctt: folds 
+mmffo: folds 
+shipedallday: calls $0.25
+Hiper2: calls $0.25
+LUCKYMONSTER: folds 
+tbxterra: calls $0.15
+Alameda22: checks 
+*** FLOP *** [3c 9h Ad]
+zippo420 joins the table at seat #9 
+tbxterra: checks 
+Alameda22: checks 
+shipedallday: checks 
+Hiper2: checks 
+*** TURN *** [3c 9h Ad] [Ah]
+tbxterra: checks 
+Alameda22: checks 
+shipedallday: checks 
+Hiper2: checks 
+*** RIVER *** [3c 9h Ad Ah] [Qh]
+tbxterra: checks 
+Alameda22: checks 
+shipedallday: checks 
+Hiper2: bets $1.25
+tbxterra: calls $1.25
+Alameda22: folds 
+shipedallday: folds 
+*** SHOW DOWN ***
+Hiper2: shows [7c Qc] (two pair, Aces and Queens)
+tbxterra: shows [Qs Ts] (two pair, Aces and Queens - Ten kicker)
+tbxterra collected $3.35 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [3c 9h Ad Ah Qh]
+Seat 1: shipedallday folded on the River
+Seat 2: Hiper2 showed [7c Qc] and lost with two pair, Aces and Queens
+Seat 3: LUCKYMONSTER (button) folded before Flop (didn't bet)
+Seat 5: tbxterra (small blind) showed [Qs Ts] and won ($3.35) with two pair, Aces and Queens
+Seat 6: Alameda22 (big blind) folded on the River
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903247665:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:31:45 (ET)
+Table 'Requiem' 9-max Seat #5 is the button
+Seat 1: shipedallday ($58.80 in chips) 
+Seat 2: Hiper2 ($11.45 in chips) 
+Seat 3: LUCKYMONSTER ($24.65 in chips) 
+Seat 5: tbxterra ($21.85 in chips) 
+Seat 6: Alameda22 ($18.15 in chips) 
+Seat 7: jonyctt ($87.35 in chips) 
+Seat 8: mmffo ($45.75 in chips) 
+Seat 9: zippo420 ($25 in chips) 
+Alameda22: posts small blind $0.10
+jonyctt: posts big blind $0.25
+zippo420: posts big blind $0.25
+patorojas86: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Kd]
+mmffo: calls $0.25
+zippo420: checks 
+shipedallday: folds 
+Hiper2: calls $0.25
+LUCKYMONSTER: folds 
+tbxterra: raises $1.25 to $1.50
+Alameda22: folds 
+jonyctt: folds 
+mmffo: calls $1.25
+zippo420: folds 
+Hiper2: calls $1.25
+*** FLOP *** [Js 7s 6s]
+mmffo: checks 
+Hiper2: checks 
+tbxterra: bets $2
+mmffo: folds 
+Hiper2: calls $2
+*** TURN *** [Js 7s 6s] [8s]
+Hiper2: checks 
+tbxterra: bets $2.50
+Hiper2: raises $5.45 to $7.95 and is all-in
+tbxterra: folds 
+Uncalled bet ($5.45) returned to Hiper2
+Hiper2 collected $13.45 from pot
+Hiper2: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.10 | Rake $0.65 
+Board [Js 7s 6s 8s]
+Seat 1: shipedallday folded before Flop (didn't bet)
+Seat 2: Hiper2 collected ($13.45)
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 5: tbxterra (button) folded on the Turn
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: jonyctt (big blind) folded before Flop
+Seat 8: mmffo folded on the Flop
+Seat 9: zippo420 folded before Flop
+
+
+
+PokerStars Game #19903273206:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:33:01 (ET)
+Table 'Requiem' 9-max Seat #6 is the button
+Seat 1: shipedallday ($58.80 in chips) 
+Seat 2: Hiper2 ($18.90 in chips) 
+Seat 3: LUCKYMONSTER ($24.65 in chips) 
+Seat 5: tbxterra ($15.85 in chips) 
+Seat 6: Alameda22 ($18.05 in chips) 
+Seat 7: jonyctt ($87.10 in chips) 
+Seat 8: mmffo ($44.25 in chips) 
+Seat 9: zippo420 ($24.75 in chips) 
+jonyctt: posts small blind $0.10
+mmffo: posts big blind $0.25
+patorojas86: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 2d]
+zippo420: calls $0.25
+shipedallday: folds 
+Hiper2: folds 
+LUCKYMONSTER: folds 
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+mmffo: checks 
+*** FLOP *** [Ac 6d 9c]
+mmffo: checks 
+zippo420: bets $0.50
+mmffo: folds 
+Uncalled bet ($0.50) returned to zippo420
+zippo420 collected $0.60 from pot
+zippo420: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ac 6d 9c]
+Seat 1: shipedallday folded before Flop (didn't bet)
+Seat 2: Hiper2 folded before Flop (didn't bet)
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: jonyctt (small blind) folded before Flop
+Seat 8: mmffo (big blind) folded on the Flop
+Seat 9: zippo420 collected ($0.60)
+
+
+
+PokerStars Game #19903285957:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:33:38 (ET)
+Table 'Requiem' 9-max Seat #7 is the button
+Seat 1: shipedallday ($58.80 in chips) 
+Seat 2: Hiper2 ($18.90 in chips) 
+Seat 3: LUCKYMONSTER ($24.65 in chips) 
+Seat 5: tbxterra ($15.85 in chips) 
+Seat 6: Alameda22 ($18.05 in chips) 
+Seat 7: jonyctt ($87 in chips) 
+Seat 8: mmffo ($44 in chips) 
+Seat 9: zippo420 ($25.10 in chips) 
+mmffo: posts small blind $0.10
+zippo420: posts big blind $0.25
+patorojas86: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 6d]
+shipedallday: folds 
+Hiper2: folds 
+LUCKYMONSTER: folds 
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+Uncalled bet ($0.15) returned to zippo420
+zippo420 collected $0.20 from pot
+zippo420: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: shipedallday folded before Flop (didn't bet)
+Seat 2: Hiper2 folded before Flop (didn't bet)
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt (button) folded before Flop (didn't bet)
+Seat 8: mmffo (small blind) folded before Flop
+Seat 9: zippo420 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19903297766:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:34:14 (ET)
+Table 'Requiem' 9-max Seat #8 is the button
+Seat 1: shipedallday ($58.80 in chips) 
+Seat 2: Hiper2 ($18.90 in chips) 
+Seat 3: LUCKYMONSTER ($24.65 in chips) 
+Seat 5: tbxterra ($15.85 in chips) 
+Seat 6: Alameda22 ($18.05 in chips) 
+Seat 7: jonyctt ($87 in chips) 
+Seat 8: mmffo ($43.90 in chips) 
+Seat 9: zippo420 ($25.20 in chips) 
+zippo420: posts small blind $0.10
+shipedallday: posts big blind $0.25
+patorojas86: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Jd]
+Hiper2: folds 
+LUCKYMONSTER: folds 
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+zippo420: folds 
+Uncalled bet ($0.15) returned to shipedallday
+shipedallday collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: shipedallday (big blind) collected ($0.20)
+Seat 2: Hiper2 folded before Flop (didn't bet)
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo (button) folded before Flop (didn't bet)
+Seat 9: zippo420 (small blind) folded before Flop
+
+
+
+PokerStars Game #19903310559:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:34:51 (ET)
+Table 'Requiem' 9-max Seat #9 is the button
+Seat 1: shipedallday ($58.90 in chips) 
+Seat 2: Hiper2 ($18.90 in chips) 
+Seat 3: LUCKYMONSTER ($24.65 in chips) 
+Seat 5: tbxterra ($15.85 in chips) 
+Seat 6: Alameda22 ($18.05 in chips) 
+Seat 7: jonyctt ($87 in chips) 
+Seat 8: mmffo ($43.90 in chips) 
+Seat 9: zippo420 ($25.10 in chips) 
+shipedallday: posts small blind $0.10
+Hiper2: posts big blind $0.25
+patorojas86: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 9h]
+LUCKYMONSTER: folds 
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+zippo420: raises $0.50 to $0.75
+shipedallday: folds 
+Hiper2: calls $0.50
+*** FLOP *** [3h Ah 3d]
+Hiper2: checks 
+zippo420: bets $1.25
+Hiper2: folds 
+Uncalled bet ($1.25) returned to zippo420
+zippo420 collected $1.55 from pot
+zippo420: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [3h Ah 3d]
+Seat 1: shipedallday (small blind) folded before Flop
+Seat 2: Hiper2 (big blind) folded on the Flop
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: zippo420 (button) collected ($1.55)
+
+
+
+PokerStars Game #19903327199:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:35:41 (ET)
+Table 'Requiem' 9-max Seat #1 is the button
+Seat 1: shipedallday ($58.80 in chips) 
+Seat 2: Hiper2 ($18.15 in chips) 
+Seat 3: LUCKYMONSTER ($24.65 in chips) 
+Seat 5: tbxterra ($15.85 in chips) 
+Seat 6: Alameda22 ($18.05 in chips) 
+Seat 7: jonyctt ($87 in chips) 
+Seat 8: mmffo ($43.90 in chips) 
+Seat 9: zippo420 ($25.90 in chips) 
+Hiper2: posts small blind $0.10
+LUCKYMONSTER: posts big blind $0.25
+patorojas86: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 8s]
+tbxterra: raises $0.50 to $0.75
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+zippo420: folds 
+shipedallday: folds 
+Hiper2: calls $0.65
+LUCKYMONSTER: folds 
+*** FLOP *** [8d 7s 6s]
+Hiper2: bets $0.50
+tbxterra: calls $0.50
+*** TURN *** [8d 7s 6s] [Jh]
+Hiper2: bets $0.50
+tbxterra: calls $0.50
+*** RIVER *** [8d 7s 6s Jh] [6d]
+Hiper2: bets $2.25
+tbxterra: folds 
+Uncalled bet ($2.25) returned to Hiper2
+Hiper2 collected $3.60 from pot
+Hiper2: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [8d 7s 6s Jh 6d]
+Seat 1: shipedallday (button) folded before Flop (didn't bet)
+Seat 2: Hiper2 (small blind) collected ($3.60)
+Seat 3: LUCKYMONSTER (big blind) folded before Flop
+Seat 5: tbxterra folded on the River
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: zippo420 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903346998:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:36:41 (ET)
+Table 'Requiem' 9-max Seat #2 is the button
+Seat 1: shipedallday ($58.80 in chips) 
+Seat 2: Hiper2 ($20 in chips) 
+Seat 3: LUCKYMONSTER ($24.40 in chips) 
+Seat 4: patorojas86 ($15 in chips) 
+Seat 5: tbxterra ($14.10 in chips) 
+Seat 6: Alameda22 ($18.05 in chips) 
+Seat 7: jonyctt ($87 in chips) 
+Seat 8: mmffo ($43.90 in chips) 
+Seat 9: zippo420 ($25.90 in chips) 
+LUCKYMONSTER: posts small blind $0.10
+patorojas86: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Qh]
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+zippo420: folds 
+shipedallday: folds 
+Hiper2: calls $0.25
+LUCKYMONSTER: folds 
+patorojas86: checks 
+*** FLOP *** [9s Ad 5d]
+patorojas86: checks 
+Hiper2: bets $1.25
+patorojas86: folds 
+Uncalled bet ($1.25) returned to Hiper2
+Hiper2 collected $0.60 from pot
+Hiper2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9s Ad 5d]
+Seat 1: shipedallday folded before Flop (didn't bet)
+Seat 2: Hiper2 (button) collected ($0.60)
+Seat 3: LUCKYMONSTER (small blind) folded before Flop
+Seat 4: patorojas86 (big blind) folded on the Flop
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: zippo420 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903365840:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:37:38 (ET)
+Table 'Requiem' 9-max Seat #3 is the button
+Seat 1: shipedallday ($58.80 in chips) 
+Seat 2: Hiper2 ($20.35 in chips) 
+Seat 3: LUCKYMONSTER ($24.30 in chips) 
+Seat 4: patorojas86 ($14.75 in chips) 
+Seat 5: tbxterra ($14.10 in chips) 
+Seat 6: Alameda22 ($18.05 in chips) 
+Seat 7: jonyctt ($87 in chips) 
+Seat 8: mmffo ($43.90 in chips) 
+Seat 9: zippo420 ($25.90 in chips) 
+patorojas86: posts small blind $0.10
+tbxterra: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 2h]
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+zippo420: folds 
+shipedallday: folds 
+Hiper2: folds 
+LUCKYMONSTER: folds 
+patorojas86: calls $0.15
+tbxterra: raises $1.25 to $1.50
+patorojas86: folds 
+Uncalled bet ($1.25) returned to tbxterra
+tbxterra collected $0.50 from pot
+tbxterra: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: shipedallday folded before Flop (didn't bet)
+Seat 2: Hiper2 folded before Flop (didn't bet)
+Seat 3: LUCKYMONSTER (button) folded before Flop (didn't bet)
+Seat 4: patorojas86 (small blind) folded before Flop
+Seat 5: tbxterra (big blind) collected ($0.50)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: zippo420 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903383703:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:38:31 (ET)
+Table 'Requiem' 9-max Seat #4 is the button
+Seat 1: shipedallday ($58.80 in chips) 
+Seat 2: Hiper2 ($20.35 in chips) 
+Seat 3: LUCKYMONSTER ($24.30 in chips) 
+Seat 4: patorojas86 ($14.50 in chips) 
+Seat 5: tbxterra ($14.35 in chips) 
+Seat 6: Alameda22 ($18.05 in chips) 
+Seat 7: jonyctt ($87 in chips) 
+Seat 8: mmffo ($43.90 in chips) 
+Seat 9: zippo420 ($25.90 in chips) 
+tbxterra: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 6d]
+jonyctt: folds 
+mmffo: folds 
+zippo420: raises $0.75 to $1
+shipedallday: folds 
+Hiper2: calls $1
+LUCKYMONSTER: folds 
+patorojas86: folds 
+tbxterra: folds 
+Alameda22: folds 
+*** FLOP *** [7h Ah Kc]
+zippo420: bets $1
+Hiper2: calls $1
+*** TURN *** [7h Ah Kc] [Qd]
+zippo420: bets $3
+Hiper2: folds 
+Uncalled bet ($3) returned to zippo420
+zippo420 collected $4.15 from pot
+zippo420: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.35 | Rake $0.20 
+Board [7h Ah Kc Qd]
+Seat 1: shipedallday folded before Flop (didn't bet)
+Seat 2: Hiper2 folded on the Turn
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 4: patorojas86 (button) folded before Flop (didn't bet)
+Seat 5: tbxterra (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: zippo420 collected ($4.15)
+
+
+
+PokerStars Game #19903408323:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:39:46 (ET)
+Table 'Requiem' 9-max Seat #5 is the button
+Seat 1: shipedallday ($58.80 in chips) 
+Seat 2: Hiper2 ($18.35 in chips) 
+Seat 3: LUCKYMONSTER ($24.30 in chips) 
+Seat 4: patorojas86 ($14.50 in chips) 
+Seat 5: tbxterra ($14.25 in chips) 
+Seat 6: Alameda22 ($17.80 in chips) 
+Seat 7: jonyctt ($87 in chips) 
+Seat 8: mmffo ($43.90 in chips) 
+Seat 9: zippo420 ($28.05 in chips) 
+Alameda22: posts small blind $0.10
+jonyctt: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 6s]
+mmffo: folds 
+zippo420: calls $0.25
+shipedallday: raises $1 to $1.25
+Hiper2: calls $1.25
+LUCKYMONSTER: folds 
+patorojas86: folds 
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+zippo420: calls $1
+*** FLOP *** [8h Qh 6c]
+zippo420: checks 
+shipedallday: bets $4.75
+Hiper2: folds 
+zippo420: folds 
+Uncalled bet ($4.75) returned to shipedallday
+shipedallday collected $3.90 from pot
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [8h Qh 6c]
+Seat 1: shipedallday collected ($3.90)
+Seat 2: Hiper2 folded on the Flop
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 4: patorojas86 folded before Flop (didn't bet)
+Seat 5: tbxterra (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: jonyctt (big blind) folded before Flop
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: zippo420 folded on the Flop
+
+
+
+PokerStars Game #19903424836:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:40:36 (ET)
+Table 'Requiem' 9-max Seat #6 is the button
+Seat 1: shipedallday ($61.45 in chips) 
+Seat 2: Hiper2 ($17.10 in chips) 
+Seat 3: LUCKYMONSTER ($24.30 in chips) 
+Seat 4: patorojas86 ($14.50 in chips) 
+Seat 5: tbxterra ($25 in chips) 
+Seat 6: Alameda22 ($17.70 in chips) 
+Seat 7: jonyctt ($86.75 in chips) 
+Seat 8: mmffo ($43.90 in chips) 
+Seat 9: zippo420 ($26.80 in chips) 
+jonyctt: posts small blind $0.10
+mmffo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Qh]
+zippo420: folds 
+shipedallday: calls $0.25
+Hiper2: folds 
+LUCKYMONSTER: folds 
+patorojas86: folds 
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+mmffo: checks 
+*** FLOP *** [2s 7h Qd]
+mmffo: checks 
+shipedallday: checks 
+*** TURN *** [2s 7h Qd] [9h]
+mmffo: checks 
+shipedallday: checks 
+*** RIVER *** [2s 7h Qd 9h] [Ks]
+mmffo: checks 
+shipedallday: checks 
+*** SHOW DOWN ***
+mmffo: shows [3d Jd] (high card King)
+shipedallday: shows [2d Ad] (a pair of Deuces)
+shipedallday collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [2s 7h Qd 9h Ks]
+Seat 1: shipedallday showed [2d Ad] and won ($0.60) with a pair of Deuces
+Seat 2: Hiper2 folded before Flop (didn't bet)
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 4: patorojas86 folded before Flop (didn't bet)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: jonyctt (small blind) folded before Flop
+Seat 8: mmffo (big blind) showed [3d Jd] and lost with high card King
+Seat 9: zippo420 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903439965:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:41:22 (ET)
+Table 'Requiem' 9-max Seat #7 is the button
+Seat 1: shipedallday ($61.80 in chips) 
+Seat 2: Hiper2 ($17.10 in chips) 
+Seat 3: LUCKYMONSTER ($24.30 in chips) 
+Seat 4: patorojas86 ($14.50 in chips) 
+Seat 5: tbxterra ($25 in chips) 
+Seat 6: Alameda22 ($25 in chips) 
+Seat 7: jonyctt ($86.65 in chips) 
+Seat 8: mmffo ($43.65 in chips) 
+Seat 9: zippo420 ($26.80 in chips) 
+mmffo: posts small blind $0.10
+zippo420: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 5h]
+shipedallday: folds 
+Hiper2: calls $0.25
+LUCKYMONSTER: folds 
+patorojas86: calls $0.25
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+zippo420: checks 
+*** FLOP *** [6d 3s 4d]
+zippo420: checks 
+Hiper2: checks 
+patorojas86: bets $0.75
+zippo420: folds 
+Hiper2: calls $0.75
+*** TURN *** [6d 3s 4d] [Kd]
+Hiper2: checks 
+patorojas86: checks 
+*** RIVER *** [6d 3s 4d Kd] [4h]
+Hiper2: checks 
+patorojas86: checks 
+*** SHOW DOWN ***
+Hiper2: shows [7h Th] (a pair of Fours)
+patorojas86: shows [5d 5s] (two pair, Fives and Fours)
+patorojas86 collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [6d 3s 4d Kd 4h]
+Seat 1: shipedallday folded before Flop (didn't bet)
+Seat 2: Hiper2 showed [7h Th] and lost with a pair of Fours
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 4: patorojas86 showed [5d 5s] and won ($2.25) with two pair, Fives and Fours
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt (button) folded before Flop (didn't bet)
+Seat 8: mmffo (small blind) folded before Flop
+Seat 9: zippo420 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19903462798:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:42:32 (ET)
+Table 'Requiem' 9-max Seat #8 is the button
+Seat 1: shipedallday ($61.80 in chips) 
+Seat 2: Hiper2 ($16.10 in chips) 
+Seat 3: LUCKYMONSTER ($24.30 in chips) 
+Seat 4: patorojas86 ($15.75 in chips) 
+Seat 5: tbxterra ($25 in chips) 
+Seat 6: Alameda22 ($25 in chips) 
+Seat 7: jonyctt ($86.65 in chips) 
+Seat 8: mmffo ($43.55 in chips) 
+Seat 9: zippo420 ($26.55 in chips) 
+zippo420: posts small blind $0.10
+shipedallday: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Js]
+Hiper2: calls $0.25
+LUCKYMONSTER: folds 
+patorojas86: folds 
+tbxterra: folds 
+Alameda22: raises $0.75 to $1
+jonyctt: folds 
+mmffo: folds 
+zippo420: folds 
+shipedallday: calls $0.75
+Hiper2: calls $0.75
+*** FLOP *** [6h Qh 7d]
+shipedallday: checks 
+Hiper2: checks 
+Alameda22: bets $2
+shipedallday: folds 
+Hiper2: folds 
+Uncalled bet ($2) returned to Alameda22
+Alameda22 collected $2.95 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [6h Qh 7d]
+Seat 1: shipedallday (big blind) folded on the Flop
+Seat 2: Hiper2 folded on the Flop
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 4: patorojas86 folded before Flop (didn't bet)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 collected ($2.95)
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo (button) folded before Flop (didn't bet)
+Seat 9: zippo420 (small blind) folded before Flop
+
+
+
+PokerStars Game #19903484696:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:43:38 (ET)
+Table 'Requiem' 9-max Seat #9 is the button
+Seat 1: shipedallday ($60.80 in chips) 
+Seat 2: Hiper2 ($15.10 in chips) 
+Seat 3: LUCKYMONSTER ($24.30 in chips) 
+Seat 4: patorojas86 ($15.75 in chips) 
+Seat 5: tbxterra ($25 in chips) 
+Seat 6: Alameda22 ($26.95 in chips) 
+Seat 7: jonyctt ($86.65 in chips) 
+Seat 8: mmffo ($43.55 in chips) 
+Seat 9: zippo420 ($26.45 in chips) 
+shipedallday: posts small blind $0.10
+Hiper2: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Tc]
+LUCKYMONSTER: folds 
+patorojas86: folds 
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+zippo420: folds 
+shipedallday: folds 
+Uncalled bet ($0.15) returned to Hiper2
+Hiper2 collected $0.20 from pot
+Hiper2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: shipedallday (small blind) folded before Flop
+Seat 2: Hiper2 (big blind) collected ($0.20)
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 4: patorojas86 folded before Flop (didn't bet)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: zippo420 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903498179:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:44:19 (ET)
+Table 'Requiem' 9-max Seat #1 is the button
+Seat 1: shipedallday ($60.70 in chips) 
+Seat 2: Hiper2 ($15.20 in chips) 
+Seat 3: LUCKYMONSTER ($24.30 in chips) 
+Seat 4: patorojas86 ($15.75 in chips) 
+Seat 5: tbxterra ($25 in chips) 
+Seat 6: Alameda22 ($26.95 in chips) 
+Seat 7: jonyctt ($86.65 in chips) 
+Seat 8: mmffo ($43.55 in chips) 
+Seat 9: zippo420 ($26.45 in chips) 
+Hiper2: posts small blind $0.10
+LUCKYMONSTER: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Qc]
+patorojas86: raises $0.75 to $1
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+zippo420: folds 
+shipedallday: calls $1
+Hiper2: folds 
+LUCKYMONSTER: folds 
+*** FLOP *** [6d 9c 4c]
+patorojas86: bets $1.75
+shipedallday: folds 
+Uncalled bet ($1.75) returned to patorojas86
+patorojas86 collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [6d 9c 4c]
+Seat 1: shipedallday (button) folded on the Flop
+Seat 2: Hiper2 (small blind) folded before Flop
+Seat 3: LUCKYMONSTER (big blind) folded before Flop
+Seat 4: patorojas86 collected ($2.25)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: zippo420 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903512974:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:45:05 (ET)
+Table 'Requiem' 9-max Seat #2 is the button
+Seat 1: shipedallday ($59.70 in chips) 
+Seat 2: Hiper2 ($15.10 in chips) 
+Seat 3: LUCKYMONSTER ($24.05 in chips) 
+Seat 4: patorojas86 ($17 in chips) 
+Seat 5: tbxterra ($25 in chips) 
+Seat 6: Alameda22 ($26.95 in chips) 
+Seat 7: jonyctt ($86.65 in chips) 
+Seat 8: mmffo ($43.55 in chips) 
+Seat 9: zippo420 ($26.45 in chips) 
+LUCKYMONSTER: posts small blind $0.10
+patorojas86: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Qd]
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+zippo420: folds 
+shipedallday: folds 
+Hiper2: folds 
+LUCKYMONSTER: raises $0.75 to $1
+patorojas86: folds 
+Uncalled bet ($0.75) returned to LUCKYMONSTER
+LUCKYMONSTER collected $0.50 from pot
+LUCKYMONSTER: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: shipedallday folded before Flop (didn't bet)
+Seat 2: Hiper2 (button) folded before Flop (didn't bet)
+Seat 3: LUCKYMONSTER (small blind) collected ($0.50)
+Seat 4: patorojas86 (big blind) folded before Flop
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: zippo420 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903526761:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:45:47 (ET)
+Table 'Requiem' 9-max Seat #3 is the button
+Seat 1: shipedallday ($59.70 in chips) 
+Seat 2: Hiper2 ($15.10 in chips) 
+Seat 3: LUCKYMONSTER ($24.30 in chips) 
+Seat 4: patorojas86 ($16.75 in chips) 
+Seat 5: tbxterra ($25 in chips) 
+Seat 6: Alameda22 ($26.95 in chips) 
+Seat 7: jonyctt ($86.65 in chips) 
+Seat 8: mmffo ($43.55 in chips) 
+Seat 9: zippo420 ($26.45 in chips) 
+patorojas86: posts small blind $0.10
+tbxterra: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 5h]
+Alameda22: folds 
+jonyctt: folds 
+mmffo: calls $0.25
+zippo420: folds 
+shipedallday: folds 
+Hiper2: calls $0.25
+LUCKYMONSTER: folds 
+patorojas86: calls $0.15
+tbxterra: checks 
+*** FLOP *** [8c 3d 3c]
+patorojas86: checks 
+tbxterra: checks 
+mmffo: checks 
+Hiper2: checks 
+*** TURN *** [8c 3d 3c] [Qc]
+patorojas86: bets $0.50
+tbxterra: folds 
+mmffo: calls $0.50
+Hiper2: calls $0.50
+*** RIVER *** [8c 3d 3c Qc] [2h]
+patorojas86: bets $0.50
+mmffo: folds 
+Hiper2: folds 
+Uncalled bet ($0.50) returned to patorojas86
+patorojas86 collected $2.40 from pot
+patorojas86: shows [3h 9c] (three of a kind, Threes)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [8c 3d 3c Qc 2h]
+Seat 1: shipedallday folded before Flop (didn't bet)
+Seat 2: Hiper2 folded on the River
+Seat 3: LUCKYMONSTER (button) folded before Flop (didn't bet)
+Seat 4: patorojas86 (small blind) collected ($2.40)
+Seat 5: tbxterra (big blind) folded on the Turn
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo folded on the River
+Seat 9: zippo420 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903553897:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:47:11 (ET)
+Table 'Requiem' 9-max Seat #4 is the button
+Seat 1: shipedallday ($59.70 in chips) 
+Seat 2: Hiper2 ($14.35 in chips) 
+Seat 3: LUCKYMONSTER ($24.30 in chips) 
+Seat 4: patorojas86 ($18.40 in chips) 
+Seat 5: tbxterra ($24.75 in chips) 
+Seat 6: Alameda22 ($26.95 in chips) 
+Seat 7: jonyctt ($86.65 in chips) 
+Seat 8: mmffo ($42.80 in chips) 
+Seat 9: zippo420 ($26.45 in chips) 
+tbxterra: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Kc]
+jonyctt: raises $0.75 to $1
+mmffo: folds 
+zippo420: folds 
+shipedallday: raises $1.50 to $2.50
+Hiper2: calls $2.50
+LUCKYMONSTER: folds 
+patorojas86: folds 
+tbxterra: folds 
+Alameda22: raises $4.50 to $7
+jonyctt: folds 
+shipedallday: calls $4.50
+Hiper2: calls $4.50
+*** FLOP *** [6d 3h Ah]
+Alameda22: checks 
+shipedallday: bets $52.70 and is all-in
+Hiper2: calls $7.35 and is all-in
+Alameda22: folds 
+Uncalled bet ($45.35) returned to shipedallday
+*** TURN *** [6d 3h Ah] [3s]
+*** RIVER *** [6d 3h Ah 3s] [Jh]
+*** SHOW DOWN ***
+shipedallday: shows [As Js] (two pair, Aces and Jacks)
+Hiper2: mucks hand 
+shipedallday collected $35.05 from pot
+*** SUMMARY ***
+Total pot $36.80 | Rake $1.75 
+Board [6d 3h Ah 3s Jh]
+Seat 1: shipedallday showed [As Js] and won ($35.05) with two pair, Aces and Jacks
+Seat 2: Hiper2 mucked [9d Ad]
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 4: patorojas86 (button) folded before Flop (didn't bet)
+Seat 5: tbxterra (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: jonyctt folded before Flop
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: zippo420 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903598836:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:49:31 (ET)
+Table 'Requiem' 9-max Seat #5 is the button
+Seat 1: shipedallday ($80.40 in chips) 
+Seat 3: LUCKYMONSTER ($24.30 in chips) 
+Seat 4: patorojas86 ($18.40 in chips) 
+Seat 5: tbxterra ($24.65 in chips) 
+Seat 6: Alameda22 ($19.95 in chips) 
+Seat 7: jonyctt ($85.65 in chips) 
+Seat 8: mmffo ($42.80 in chips) 
+Seat 9: zippo420 ($26.45 in chips) 
+Alameda22: posts small blind $0.10
+jonyctt: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 5h]
+mmffo: folds 
+zippo420: folds 
+shipedallday: folds 
+Hiper2 has returned
+LUCKYMONSTER: folds 
+patorojas86: folds 
+tbxterra: raises $0.75 to $1
+Alameda22: folds 
+jonyctt: raises $1.75 to $2.75
+tbxterra: folds 
+Uncalled bet ($1.75) returned to jonyctt
+jonyctt collected $2.10 from pot
+jonyctt: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0 
+Seat 1: shipedallday folded before Flop (didn't bet)
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 4: patorojas86 folded before Flop (didn't bet)
+Seat 5: tbxterra (button) folded before Flop
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: jonyctt (big blind) collected ($2.10)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: zippo420 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903609856:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:50:05 (ET)
+Table 'Requiem' 9-max Seat #6 is the button
+Seat 1: shipedallday ($80.40 in chips) 
+Seat 2: Hiper2 ($15 in chips) 
+Seat 3: LUCKYMONSTER ($24.30 in chips) 
+Seat 4: patorojas86 ($18.40 in chips) 
+Seat 5: tbxterra ($23.65 in chips) 
+Seat 6: Alameda22 ($19.85 in chips) 
+Seat 7: jonyctt ($86.75 in chips) 
+Seat 8: mmffo ($42.80 in chips) 
+Seat 9: zippo420 ($26.45 in chips) 
+jonyctt: posts small blind $0.10
+mmffo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d As]
+zippo420: folds 
+shipedallday: folds 
+Hiper2: calls $0.25
+LUCKYMONSTER: folds 
+patorojas86: folds 
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: raises $0.75 to $1
+mmffo: folds 
+Hiper2: calls $0.75
+*** FLOP *** [Ac 4h Jd]
+jonyctt: bets $1.25
+Hiper2: raises $1.25 to $2.50
+jonyctt: calls $1.25
+*** TURN *** [Ac 4h Jd] [6c]
+jonyctt: checks 
+Hiper2: bets $11.50 and is all-in
+jonyctt: folds 
+Uncalled bet ($11.50) returned to Hiper2
+Hiper2 collected $6.90 from pot
+Hiper2: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [Ac 4h Jd 6c]
+Seat 1: shipedallday folded before Flop (didn't bet)
+Seat 2: Hiper2 collected ($6.90)
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 4: patorojas86 folded before Flop (didn't bet)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: jonyctt (small blind) folded on the Turn
+Seat 8: mmffo (big blind) folded before Flop
+Seat 9: zippo420 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903639190:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:51:38 (ET)
+Table 'Requiem' 9-max Seat #7 is the button
+Seat 1: shipedallday ($80.40 in chips) 
+Seat 2: Hiper2 ($18.40 in chips) 
+Seat 3: LUCKYMONSTER ($24.30 in chips) 
+Seat 4: patorojas86 ($18.40 in chips) 
+Seat 5: tbxterra ($23.65 in chips) 
+Seat 6: Alameda22 ($19.85 in chips) 
+Seat 7: jonyctt ($83.25 in chips) 
+Seat 8: mmffo ($42.55 in chips) 
+Seat 9: zippo420 ($26.45 in chips) 
+mmffo: posts small blind $0.10
+zippo420: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Ks]
+shipedallday: folds 
+Hiper2: raises $3.25 to $3.50
+LUCKYMONSTER: folds 
+patorojas86: folds 
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+zippo420: folds 
+Uncalled bet ($3.25) returned to Hiper2
+Hiper2 collected $0.60 from pot
+Hiper2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: shipedallday folded before Flop (didn't bet)
+Seat 2: Hiper2 collected ($0.60)
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 4: patorojas86 folded before Flop (didn't bet)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt (button) folded before Flop (didn't bet)
+Seat 8: mmffo (small blind) folded before Flop
+Seat 9: zippo420 (big blind) folded before Flop
+
+
+
+PokerStars Game #19903654815:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:52:27 (ET)
+Table 'Requiem' 9-max Seat #8 is the button
+Seat 1: shipedallday ($80.40 in chips) 
+Seat 2: Hiper2 ($18.75 in chips) 
+Seat 3: LUCKYMONSTER ($24.30 in chips) 
+Seat 4: patorojas86 ($18.40 in chips) 
+Seat 5: tbxterra ($23.65 in chips) 
+Seat 6: Alameda22 ($19.85 in chips) 
+Seat 7: jonyctt ($83.25 in chips) 
+Seat 8: mmffo ($42.45 in chips) 
+Seat 9: zippo420 ($26.20 in chips) 
+zippo420: posts small blind $0.10
+shipedallday: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Jh]
+Hiper2: calls $0.25
+LUCKYMONSTER: folds 
+patorojas86: raises $0.75 to $1
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+zippo420: folds 
+shipedallday: folds 
+Hiper2: calls $0.75
+*** FLOP *** [7d 7s 8s]
+Hiper2: bets $1.25
+patorojas86: raises $1.75 to $3
+Hiper2: calls $1.75
+*** TURN *** [7d 7s 8s] [Td]
+Hiper2: checks 
+patorojas86: bets $4.30
+Hiper2: folds 
+Uncalled bet ($4.30) returned to patorojas86
+patorojas86 collected $7.95 from pot
+patorojas86: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.35 | Rake $0.40 
+Board [7d 7s 8s Td]
+Seat 1: shipedallday (big blind) folded before Flop
+Seat 2: Hiper2 folded on the Turn
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 4: patorojas86 collected ($7.95)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo (button) folded before Flop (didn't bet)
+Seat 9: zippo420 (small blind) folded before Flop
+
+
+
+PokerStars Game #19903675514:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:53:32 (ET)
+Table 'Requiem' 9-max Seat #9 is the button
+Seat 1: shipedallday ($80.15 in chips) 
+Seat 2: Hiper2 ($14.75 in chips) 
+Seat 3: LUCKYMONSTER ($24.30 in chips) 
+Seat 4: patorojas86 ($22.35 in chips) 
+Seat 5: tbxterra ($23.65 in chips) 
+Seat 6: Alameda22 ($19.85 in chips) 
+Seat 7: jonyctt ($83.25 in chips) 
+Seat 8: mmffo ($42.45 in chips) 
+Seat 9: zippo420 ($26.10 in chips) 
+shipedallday: posts small blind $0.10
+Hiper2: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Tc]
+LUCKYMONSTER: folds 
+patorojas86: folds 
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+zippo420: raises $0.75 to $1
+shipedallday: calls $0.90
+Hiper2: calls $0.75
+*** FLOP *** [8s 5s 6s]
+shipedallday: checks 
+Hiper2: checks 
+zippo420: bets $2
+shipedallday: folds 
+Hiper2: folds 
+Uncalled bet ($2) returned to zippo420
+zippo420 collected $2.85 from pot
+zippo420: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [8s 5s 6s]
+Seat 1: shipedallday (small blind) folded on the Flop
+Seat 2: Hiper2 (big blind) folded on the Flop
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 4: patorojas86 folded before Flop (didn't bet)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: zippo420 (button) collected ($2.85)
+
+
+
+PokerStars Game #19903692146:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:54:25 (ET)
+Table 'Requiem' 9-max Seat #1 is the button
+Seat 1: shipedallday ($79.15 in chips) 
+Seat 2: Hiper2 ($13.75 in chips) 
+Seat 3: LUCKYMONSTER ($24.30 in chips) 
+Seat 4: patorojas86 ($22.35 in chips) 
+Seat 5: tbxterra ($23.65 in chips) 
+Seat 6: Alameda22 ($19.85 in chips) 
+Seat 7: jonyctt ($83.25 in chips) 
+Seat 8: mmffo ($42.45 in chips) 
+Seat 9: zippo420 ($27.95 in chips) 
+Hiper2: posts small blind $0.10
+LUCKYMONSTER: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Ad]
+patorojas86: folds 
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: raises $0.75 to $1
+mmffo: folds 
+zippo420: folds 
+shipedallday: folds 
+Hiper2: calls $0.90
+LUCKYMONSTER: folds 
+*** FLOP *** [5c Qh As]
+Hiper2: checks 
+jonyctt: bets $1.75
+Hiper2: calls $1.75
+*** TURN *** [5c Qh As] [6c]
+Hiper2: checks 
+jonyctt: bets $4
+Hiper2: folds 
+Uncalled bet ($4) returned to jonyctt
+jonyctt collected $5.50 from pot
+jonyctt: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.25 
+Board [5c Qh As 6c]
+Seat 1: shipedallday (button) folded before Flop (didn't bet)
+Seat 2: Hiper2 (small blind) folded on the Turn
+Seat 3: LUCKYMONSTER (big blind) folded before Flop
+Seat 4: patorojas86 folded before Flop (didn't bet)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt collected ($5.50)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: zippo420 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903712525:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:55:30 (ET)
+Table 'Requiem' 9-max Seat #2 is the button
+Seat 1: shipedallday ($79.15 in chips) 
+Seat 2: Hiper2 ($11 in chips) 
+Seat 3: LUCKYMONSTER ($24.05 in chips) 
+Seat 5: tbxterra ($23.65 in chips) 
+Seat 6: Alameda22 ($19.85 in chips) 
+Seat 7: jonyctt ($86 in chips) 
+Seat 8: mmffo ($42.45 in chips) 
+Seat 9: zippo420 ($27.95 in chips) 
+LUCKYMONSTER: posts small blind $0.10
+patorojas86: is sitting out 
+patorojas86 leaves the table
+tbxterra: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Jc]
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+zippo420: folds 
+shipedallday: folds 
+shipedallday is sitting out
+Hiper2: folds 
+Hiper2 is sitting out
+LUCKYMONSTER: folds 
+Uncalled bet ($0.15) returned to tbxterra
+tbxterra collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: shipedallday folded before Flop (didn't bet)
+Seat 2: Hiper2 (button) folded before Flop (didn't bet)
+Seat 3: LUCKYMONSTER (small blind) folded before Flop
+Seat 5: tbxterra (big blind) collected ($0.20)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: zippo420 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903722150:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:56:01 (ET)
+Table 'Requiem' 9-max Seat #3 is the button
+Seat 3: LUCKYMONSTER ($23.95 in chips) 
+Seat 5: tbxterra ($23.75 in chips) 
+Seat 6: Alameda22 ($19.85 in chips) 
+Seat 7: jonyctt ($86 in chips) 
+Seat 8: mmffo ($42.45 in chips) 
+Seat 9: zippo420 ($27.95 in chips) 
+tbxterra: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 6s]
+jonyctt: folds 
+mmffo: folds 
+zippo420: folds 
+LUCKYMONSTER: folds 
+tbxterra: raises $0.50 to $0.75
+Alameda22: folds 
+Uncalled bet ($0.50) returned to tbxterra
+tbxterra collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: LUCKYMONSTER (button) folded before Flop (didn't bet)
+Seat 5: tbxterra (small blind) collected ($0.50)
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: zippo420 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903733471:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:56:37 (ET)
+Table 'Requiem' 9-max Seat #5 is the button
+Seat 3: LUCKYMONSTER ($23.95 in chips) 
+Seat 5: tbxterra ($24 in chips) 
+Seat 6: Alameda22 ($19.60 in chips) 
+Seat 7: jonyctt ($86 in chips) 
+Seat 8: mmffo ($42.45 in chips) 
+Seat 9: zippo420 ($27.95 in chips) 
+Alameda22: posts small blind $0.10
+jonyctt: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 6h]
+mmffo: folds 
+zippo420: folds 
+LUCKYMONSTER: folds 
+tbxterra: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to jonyctt
+jonyctt collected $0.20 from pot
+jonyctt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 5: tbxterra (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: jonyctt (big blind) collected ($0.20)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: zippo420 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903743182:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:57:08 (ET)
+Table 'Requiem' 9-max Seat #6 is the button
+Seat 3: LUCKYMONSTER ($23.95 in chips) 
+Seat 5: tbxterra ($24 in chips) 
+Seat 6: Alameda22 ($19.50 in chips) 
+Seat 7: jonyctt ($86.10 in chips) 
+Seat 8: mmffo ($42.45 in chips) 
+Seat 9: zippo420 ($27.95 in chips) 
+jonyctt: posts small blind $0.10
+mmffo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 4d]
+zippo420: folds 
+LUCKYMONSTER: folds 
+tbxterra: raises $0.50 to $0.75
+Alameda22: folds 
+jonyctt: folds 
+mmffo: calls $0.50
+*** FLOP *** [Tc 6s Kd]
+mmffo: checks 
+tbxterra: checks 
+*** TURN *** [Tc 6s Kd] [3c]
+mmffo: checks 
+tbxterra: bets $0.50
+mmffo: calls $0.50
+*** RIVER *** [Tc 6s Kd 3c] [2s]
+mmffo: checks 
+tbxterra: checks 
+*** SHOW DOWN ***
+mmffo: shows [5h 5d] (a pair of Fives)
+tbxterra: mucks hand 
+mmffo collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Tc 6s Kd 3c 2s]
+Seat 3: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 5: tbxterra mucked [Ad Jc]
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: jonyctt (small blind) folded before Flop
+Seat 8: mmffo (big blind) showed [5h 5d] and won ($2.50) with a pair of Fives
+Seat 9: zippo420 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903762054:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:58:09 (ET)
+Table 'Requiem' 9-max Seat #7 is the button
+Seat 3: LUCKYMONSTER ($23.95 in chips) 
+Seat 5: tbxterra ($22.75 in chips) 
+Seat 6: Alameda22 ($19.50 in chips) 
+Seat 7: jonyctt ($86 in chips) 
+Seat 8: mmffo ($43.70 in chips) 
+mmffo: posts small blind $0.10
+Dontdoit108 joins the table at seat #4 
+zippo420: is sitting out 
+zippo420 leaves the table
+LUCKYMONSTER: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 3d]
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+Uncalled bet ($0.15) returned to LUCKYMONSTER
+LUCKYMONSTER collected $0.20 from pot
+LUCKYMONSTER: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: LUCKYMONSTER (big blind) collected ($0.20)
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt (button) folded before Flop (didn't bet)
+Seat 8: mmffo (small blind) folded before Flop
+
+
+
+PokerStars Game #19903775817:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:58:54 (ET)
+Table 'Requiem' 9-max Seat #8 is the button
+Seat 3: LUCKYMONSTER ($24.05 in chips) 
+Seat 4: Dontdoit108 ($25 in chips) 
+Seat 5: tbxterra ($22.75 in chips) 
+Seat 6: Alameda22 ($19.50 in chips) 
+Seat 7: jonyctt ($86 in chips) 
+Seat 8: mmffo ($43.60 in chips) 
+LUCKYMONSTER: posts small blind $0.10
+Dontdoit108: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 4d]
+tbxterra: folds 
+Alameda22: folds 
+jonyctt: folds 
+mmffo: folds 
+LUCKYMONSTER: raises $0.75 to $1
+Dontdoit108: calls $0.75
+*** FLOP *** [4h Jh 5c]
+Hiper2 has returned
+LUCKYMONSTER: checks 
+Dontdoit108: bets $1
+LUCKYMONSTER: raises $2 to $3
+Dontdoit108: folds 
+Uncalled bet ($2) returned to LUCKYMONSTER
+FARPCOL joins the table at seat #9 
+FARPCOL is sitting out
+LUCKYMONSTER collected $3.85 from pot
+LUCKYMONSTER: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.15 
+Board [4h Jh 5c]
+Seat 3: LUCKYMONSTER (small blind) collected ($3.85)
+Seat 4: Dontdoit108 (big blind) folded on the Flop
+Seat 5: tbxterra folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: jonyctt folded before Flop (didn't bet)
+Seat 8: mmffo (button) folded before Flop (didn't bet)
+
+
+

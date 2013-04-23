@@ -1,0 +1,1580 @@
+PokerStars Game #19903030553:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:21:04 (ET)
+Table 'Ymir II' 9-max Seat #7 is the button
+Seat 1: howlkal ($37.95 in chips) 
+Seat 2: MikeLef ($14.05 in chips) 
+Seat 4: ironman0909 ($36 in chips) 
+Seat 6: Alameda22 ($25 in chips) 
+Seat 7: hitman95741 ($23.95 in chips) 
+Seat 8: Bras64076 ($7.90 in chips) 
+Seat 9: iwillneverbe ($25.50 in chips) 
+Bras64076: posts small blind $0.10
+iwillneverbe: posts big blind $0.25
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 9h]
+howlkal: folds 
+MikeLef: folds 
+ironman0909: calls $0.25
+Alameda22: checks 
+hitman95741: calls $0.25
+Bras64076: calls $0.15
+iwillneverbe: checks 
+*** FLOP *** [Th 2c 4c]
+Bras64076: checks 
+iwillneverbe: checks 
+ironman0909: bets $0.25
+Alameda22: folds 
+hitman95741: folds 
+Bras64076: folds 
+iwillneverbe: folds 
+Uncalled bet ($0.25) returned to ironman0909
+ironman0909 collected $1.20 from pot
+ironman0909: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Th 2c 4c]
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef folded before Flop (didn't bet)
+Seat 4: ironman0909 collected ($1.20)
+Seat 6: Alameda22 folded on the Flop
+Seat 7: hitman95741 (button) folded on the Flop
+Seat 8: Bras64076 (small blind) folded on the Flop
+Seat 9: iwillneverbe (big blind) folded on the Flop
+
+
+
+PokerStars Game #19903057023:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:22:21 (ET)
+Table 'Ymir II' 9-max Seat #8 is the button
+Seat 1: howlkal ($37.95 in chips) 
+Seat 2: MikeLef ($14.05 in chips) 
+Seat 4: ironman0909 ($36.95 in chips) 
+Seat 6: Alameda22 ($24.75 in chips) 
+Seat 7: hitman95741 ($23.70 in chips) 
+Seat 8: Bras64076 ($7.65 in chips) 
+Seat 9: iwillneverbe ($25.25 in chips) 
+iwillneverbe: posts small blind $0.10
+howlkal: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Qc]
+MikeLef: folds 
+ironman0909: calls $0.25
+Alameda22: folds 
+hitman95741: calls $0.25
+Bras64076: folds 
+iwillneverbe: folds 
+howlkal: checks 
+*** FLOP *** [8s 5s Qh]
+howlkal: checks 
+ironman0909: bets $1
+hitman95741: folds 
+howlkal: folds 
+Uncalled bet ($1) returned to ironman0909
+ironman0909 collected $0.85 from pot
+ironman0909: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [8s 5s Qh]
+Seat 1: howlkal (big blind) folded on the Flop
+Seat 2: MikeLef folded before Flop (didn't bet)
+Seat 4: ironman0909 collected ($0.85)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 folded on the Flop
+Seat 8: Bras64076 (button) folded before Flop (didn't bet)
+Seat 9: iwillneverbe (small blind) folded before Flop
+
+
+
+PokerStars Game #19903076665:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:23:18 (ET)
+Table 'Ymir II' 9-max Seat #9 is the button
+Seat 1: howlkal ($37.70 in chips) 
+Seat 2: MikeLef ($14.05 in chips) 
+Seat 4: ironman0909 ($37.55 in chips) 
+Seat 6: Alameda22 ($24.75 in chips) 
+Seat 7: hitman95741 ($23.45 in chips) 
+Seat 8: Bras64076 ($7.65 in chips) 
+Seat 9: iwillneverbe ($25.15 in chips) 
+howlkal: posts small blind $0.10
+MikeLef: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 2c]
+ironman0909: folds 
+Alameda22: folds 
+hitman95741: calls $0.25
+Bras64076: calls $0.25
+iwillneverbe: folds 
+howlkal: folds 
+MikeLef: checks 
+*** FLOP *** [Td 4s 8h]
+MikeLef: checks 
+hitman95741: checks 
+Bras64076: checks 
+*** TURN *** [Td 4s 8h] [Ad]
+MikeLef: checks 
+hitman95741: checks 
+Bras64076: checks 
+*** RIVER *** [Td 4s 8h Ad] [Ac]
+MikeLef: checks 
+hitman95741: checks 
+Bras64076: checks 
+*** SHOW DOWN ***
+MikeLef: shows [3c 6c] (a pair of Aces)
+hitman95741: shows [5c Ks] (a pair of Aces - King kicker)
+Bras64076: shows [Tc Qs] (two pair, Aces and Tens)
+Bras64076 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Td 4s 8h Ad Ac]
+Seat 1: howlkal (small blind) folded before Flop
+Seat 2: MikeLef (big blind) showed [3c 6c] and lost with a pair of Aces
+Seat 4: ironman0909 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 showed [5c Ks] and lost with a pair of Aces
+Seat 8: Bras64076 showed [Tc Qs] and won ($0.85) with two pair, Aces and Tens
+Seat 9: iwillneverbe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903095659:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:24:14 (ET)
+Table 'Ymir II' 9-max Seat #1 is the button
+Seat 1: howlkal ($37.60 in chips) 
+Seat 2: MikeLef ($13.80 in chips) 
+Seat 4: ironman0909 ($37.55 in chips) 
+Seat 6: Alameda22 ($24.75 in chips) 
+Seat 7: hitman95741 ($23.20 in chips) 
+Seat 8: Bras64076 ($8.25 in chips) 
+Seat 9: iwillneverbe ($25.15 in chips) 
+MikeLef: posts small blind $0.10
+ironman0909: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Kd]
+Alameda22: folds 
+hitman95741: calls $0.25
+Bras64076: folds 
+iwillneverbe: raises $0.50 to $0.75
+howlkal: calls $0.75
+MikeLef: folds 
+ironman0909: folds 
+hitman95741: calls $0.50
+*** FLOP *** [7c Tc 2c]
+hitman95741: checks 
+iwillneverbe: bets $2.50
+howlkal: folds 
+hitman95741: folds 
+Uncalled bet ($2.50) returned to iwillneverbe
+iwillneverbe collected $2.50 from pot
+iwillneverbe: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [7c Tc 2c]
+Seat 1: howlkal (button) folded on the Flop
+Seat 2: MikeLef (small blind) folded before Flop
+Seat 4: ironman0909 (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 folded on the Flop
+Seat 8: Bras64076 folded before Flop (didn't bet)
+Seat 9: iwillneverbe collected ($2.50)
+
+
+
+PokerStars Game #19903113343:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:25:07 (ET)
+Table 'Ymir II' 9-max Seat #2 is the button
+Seat 1: howlkal ($36.85 in chips) 
+Seat 2: MikeLef ($13.70 in chips) 
+Seat 4: ironman0909 ($37.30 in chips) 
+Seat 6: Alameda22 ($24.75 in chips) 
+Seat 7: hitman95741 ($22.45 in chips) 
+Seat 8: Bras64076 ($8.25 in chips) 
+Seat 9: iwillneverbe ($26.90 in chips) 
+ironman0909: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 4h]
+hitman95741: folds 
+Bras64076: calls $0.25
+iwillneverbe: folds 
+howlkal: folds 
+MikeLef: calls $0.25
+ironman0909: calls $0.15
+Alameda22: checks 
+*** FLOP *** [4d 6c Ac]
+ironman0909: checks 
+Alameda22: checks 
+Bras64076: checks 
+MikeLef: bets $0.75
+ironman0909: folds 
+Alameda22: folds 
+Bras64076: folds 
+Uncalled bet ($0.75) returned to MikeLef
+MikeLef collected $0.95 from pot
+MikeLef: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [4d 6c Ac]
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef (button) collected ($0.95)
+Seat 4: ironman0909 (small blind) folded on the Flop
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: hitman95741 folded before Flop (didn't bet)
+Seat 8: Bras64076 folded on the Flop
+Seat 9: iwillneverbe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903132783:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:26:05 (ET)
+Table 'Ymir II' 9-max Seat #4 is the button
+Seat 1: howlkal ($36.85 in chips) 
+Seat 2: MikeLef ($14.40 in chips) 
+Seat 4: ironman0909 ($37.05 in chips) 
+Seat 6: Alameda22 ($24.50 in chips) 
+Seat 7: hitman95741 ($22.45 in chips) 
+Seat 8: Bras64076 ($8 in chips) 
+Seat 9: iwillneverbe ($26.90 in chips) 
+Alameda22: posts small blind $0.10
+hitman95741: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 5d]
+Bras64076: calls $0.25
+iwillneverbe: raises $0.75 to $1
+howlkal: folds 
+MikeLef: folds 
+ironman0909: folds 
+Alameda22: folds 
+hitman95741: folds 
+Bras64076: folds 
+Uncalled bet ($0.75) returned to iwillneverbe
+iwillneverbe collected $0.85 from pot
+iwillneverbe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef folded before Flop (didn't bet)
+Seat 4: ironman0909 (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: hitman95741 (big blind) folded before Flop
+Seat 8: Bras64076 folded before Flop
+Seat 9: iwillneverbe collected ($0.85)
+
+
+
+PokerStars Game #19903149922:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:26:55 (ET)
+Table 'Ymir II' 9-max Seat #6 is the button
+Seat 1: howlkal ($36.85 in chips) 
+Seat 2: MikeLef ($14.40 in chips) 
+Seat 4: ironman0909 ($37.05 in chips) 
+Seat 6: Alameda22 ($24.40 in chips) 
+Seat 7: hitman95741 ($22.20 in chips) 
+Seat 8: Bras64076 ($7.75 in chips) 
+Seat 9: iwillneverbe ($27.50 in chips) 
+hitman95741: posts small blind $0.10
+Bras64076: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Qd]
+iwillneverbe: folds 
+howlkal: folds 
+MikeLef: folds 
+ironman0909: folds 
+Alameda22: raises $0.50 to $0.75
+hitman95741: folds 
+Bras64076: calls $0.50
+*** FLOP *** [Kc Ts 9s]
+Bras64076: checks 
+Alameda22: bets $1
+Bras64076: folds 
+Uncalled bet ($1) returned to Alameda22
+Alameda22 collected $1.55 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Kc Ts 9s]
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef folded before Flop (didn't bet)
+Seat 4: ironman0909 folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) collected ($1.55)
+Seat 7: hitman95741 (small blind) folded before Flop
+Seat 8: Bras64076 (big blind) folded on the Flop
+Seat 9: iwillneverbe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903169790:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:27:54 (ET)
+Table 'Ymir II' 9-max Seat #7 is the button
+Seat 1: howlkal ($36.85 in chips) 
+Seat 2: MikeLef ($14.40 in chips) 
+Seat 4: ironman0909 ($37.05 in chips) 
+Seat 6: Alameda22 ($25.20 in chips) 
+Seat 7: hitman95741 ($22.10 in chips) 
+Seat 8: Bras64076 ($7 in chips) 
+Seat 9: iwillneverbe ($27.50 in chips) 
+Bras64076: posts small blind $0.10
+iwillneverbe: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Qh]
+howlkal: folds 
+MikeLef: folds 
+ironman0909: calls $0.25
+Alameda22: raises $0.75 to $1
+hitman95741: folds 
+Bras64076: calls $0.90
+iwillneverbe: folds 
+ironman0909: calls $0.75
+*** FLOP *** [Jd 4d 9c]
+Bras64076: checks 
+ironman0909: checks 
+Alameda22: bets $2
+Bras64076: folds 
+ironman0909: folds 
+Uncalled bet ($2) returned to Alameda22
+Alameda22 collected $3.10 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Jd 4d 9c]
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef folded before Flop (didn't bet)
+Seat 4: ironman0909 folded on the Flop
+Seat 6: Alameda22 collected ($3.10)
+Seat 7: hitman95741 (button) folded before Flop (didn't bet)
+Seat 8: Bras64076 (small blind) folded on the Flop
+Seat 9: iwillneverbe (big blind) folded before Flop
+
+
+
+PokerStars Game #19903189811:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:28:54 (ET)
+Table 'Ymir II' 9-max Seat #8 is the button
+Seat 1: howlkal ($36.85 in chips) 
+Seat 2: MikeLef ($14.40 in chips) 
+Seat 4: ironman0909 ($36.05 in chips) 
+Seat 6: Alameda22 ($27.30 in chips) 
+Seat 7: hitman95741 ($22.10 in chips) 
+Seat 8: Bras64076 ($6 in chips) 
+Seat 9: iwillneverbe ($27.25 in chips) 
+iwillneverbe: posts small blind $0.10
+howlkal: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Td]
+MikeLef: folds 
+ironman0909: folds 
+Alameda22: folds 
+hitman95741: calls $0.25
+Bras64076: calls $0.25
+iwillneverbe: calls $0.15
+howlkal: checks 
+*** FLOP *** [5d Kh 4c]
+iwillneverbe: checks 
+howlkal: checks 
+hitman95741: checks 
+Bras64076: checks 
+*** TURN *** [5d Kh 4c] [As]
+iwillneverbe: checks 
+howlkal: checks 
+hitman95741: bets $0.75
+Bras64076: folds 
+iwillneverbe: folds 
+howlkal: folds 
+Uncalled bet ($0.75) returned to hitman95741
+hitman95741 collected $0.95 from pot
+hitman95741: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [5d Kh 4c As]
+Seat 1: howlkal (big blind) folded on the Turn
+Seat 2: MikeLef folded before Flop (didn't bet)
+Seat 4: ironman0909 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 collected ($0.95)
+Seat 8: Bras64076 (button) folded on the Turn
+Seat 9: iwillneverbe (small blind) folded on the Turn
+
+
+
+PokerStars Game #19903214508:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:30:08 (ET)
+Table 'Ymir II' 9-max Seat #9 is the button
+Seat 1: howlkal ($36.60 in chips) 
+Seat 2: MikeLef ($14.40 in chips) 
+Seat 4: ironman0909 ($36.05 in chips) 
+Seat 6: Alameda22 ($27.30 in chips) 
+Seat 7: hitman95741 ($22.80 in chips) 
+Seat 8: Bras64076 ($5.75 in chips) 
+Seat 9: iwillneverbe ($27 in chips) 
+howlkal: posts small blind $0.10
+MikeLef: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 4s]
+ironman0909: folds 
+Alameda22: folds 
+hitman95741: raises $0.25 to $0.50
+Bras64076: folds 
+iwillneverbe: folds 
+howlkal: calls $0.40
+MikeLef: calls $0.25
+*** FLOP *** [Qd 6h 6c]
+howlkal: checks 
+MikeLef: checks 
+hitman95741: checks 
+*** TURN *** [Qd 6h 6c] [5h]
+howlkal: checks 
+MikeLef: checks 
+hitman95741: bets $0.50
+howlkal: folds 
+MikeLef: folds 
+Uncalled bet ($0.50) returned to hitman95741
+hitman95741 collected $1.45 from pot
+hitman95741: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Qd 6h 6c 5h]
+Seat 1: howlkal (small blind) folded on the Turn
+Seat 2: MikeLef (big blind) folded on the Turn
+Seat 4: ironman0909 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 collected ($1.45)
+Seat 8: Bras64076 folded before Flop (didn't bet)
+Seat 9: iwillneverbe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903236470:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:31:14 (ET)
+Table 'Ymir II' 9-max Seat #1 is the button
+Seat 1: howlkal ($36.10 in chips) 
+Seat 2: MikeLef ($13.90 in chips) 
+Seat 4: ironman0909 ($36.05 in chips) 
+Seat 6: Alameda22 ($27.30 in chips) 
+Seat 7: hitman95741 ($23.75 in chips) 
+Seat 8: Bras64076 ($5.75 in chips) 
+Seat 9: iwillneverbe ($27 in chips) 
+MikeLef: posts small blind $0.10
+ironman0909: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Tc]
+Alameda22: folds 
+hitman95741: calls $0.25
+Bras64076: calls $0.25
+iwillneverbe: folds 
+howlkal: calls $0.25
+MikeLef: folds 
+ironman0909: checks 
+*** FLOP *** [8c 8s 8h]
+ironman0909: checks 
+hitman95741: checks 
+Bras64076: checks 
+howlkal: checks 
+*** TURN *** [8c 8s 8h] [2s]
+ironman0909: checks 
+hitman95741: checks 
+Bras64076: checks 
+howlkal: checks 
+*** RIVER *** [8c 8s 8h 2s] [4c]
+ironman0909: checks 
+hitman95741: checks 
+Bras64076: checks 
+howlkal: checks 
+*** SHOW DOWN ***
+ironman0909: shows [7d Jc] (three of a kind, Eights)
+hitman95741: mucks hand 
+Bras64076: shows [Jd Kd] (three of a kind, Eights - King kicker)
+howlkal: mucks hand 
+Bras64076 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [8c 8s 8h 2s 4c]
+Seat 1: howlkal (button) mucked [Js Qs]
+Seat 2: MikeLef (small blind) folded before Flop
+Seat 4: ironman0909 (big blind) showed [7d Jc] and lost with three of a kind, Eights
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 mucked [7s Ts]
+Seat 8: Bras64076 showed [Jd Kd] and won ($1.05) with three of a kind, Eights
+Seat 9: iwillneverbe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903254844:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:32:07 (ET)
+Table 'Ymir II' 9-max Seat #2 is the button
+Seat 1: howlkal ($35.85 in chips) 
+Seat 2: MikeLef ($13.80 in chips) 
+Seat 4: ironman0909 ($35.80 in chips) 
+Seat 6: Alameda22 ($27.30 in chips) 
+Seat 7: hitman95741 ($23.50 in chips) 
+Seat 8: Bras64076 ($6.55 in chips) 
+Seat 9: iwillneverbe ($27 in chips) 
+ironman0909: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Qc]
+hitman95741: folds 
+Bras64076: folds 
+iwillneverbe: folds 
+howlkal: folds 
+MikeLef: folds 
+ironman0909: calls $0.15
+Alameda22: raises $0.75 to $1
+ironman0909: folds 
+Uncalled bet ($0.75) returned to Alameda22
+Alameda22 collected $0.50 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef (button) folded before Flop (didn't bet)
+Seat 4: ironman0909 (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) collected ($0.50)
+Seat 7: hitman95741 folded before Flop (didn't bet)
+Seat 8: Bras64076 folded before Flop (didn't bet)
+Seat 9: iwillneverbe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903264364:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:32:35 (ET)
+Table 'Ymir II' 9-max Seat #4 is the button
+Seat 1: howlkal ($35.85 in chips) 
+Seat 2: MikeLef ($13.80 in chips) 
+Seat 4: ironman0909 ($35.55 in chips) 
+Seat 6: Alameda22 ($27.55 in chips) 
+Seat 7: hitman95741 ($23.50 in chips) 
+Seat 8: Bras64076 ($6.55 in chips) 
+Seat 9: iwillneverbe ($27 in chips) 
+malh0tra was removed from the table for failing to post
+Alameda22: posts small blind $0.10
+hitman95741: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 5c]
+Bras64076: calls $0.25
+iwillneverbe: folds 
+howlkal: folds 
+MikeLef: folds 
+ironman0909: calls $0.25
+Alameda22: folds 
+LUCKYMONSTER joins the table at seat #5 
+hitman95741: checks 
+*** FLOP *** [3c 8c 7c]
+hitman95741: checks 
+Bras64076: checks 
+ironman0909: checks 
+*** TURN *** [3c 8c 7c] [6c]
+hitman95741: checks 
+Bras64076: bets $0.25
+ironman0909: raises $0.25 to $0.50
+hitman95741: folds 
+Bras64076: raises $1.50 to $2
+ironman0909: folds 
+Uncalled bet ($1.50) returned to Bras64076
+Bras64076 collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [3c 8c 7c 6c]
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef folded before Flop (didn't bet)
+Seat 4: ironman0909 (button) folded on the Turn
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: hitman95741 (big blind) folded on the Turn
+Seat 8: Bras64076 collected ($1.80)
+Seat 9: iwillneverbe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903293299:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:34:00 (ET)
+Table 'Ymir II' 9-max Seat #6 is the button
+Seat 1: howlkal ($35.85 in chips) 
+Seat 2: MikeLef ($13.80 in chips) 
+Seat 4: ironman0909 ($34.80 in chips) 
+Seat 5: LUCKYMONSTER ($25 in chips) 
+Seat 6: Alameda22 ($27.45 in chips) 
+Seat 7: hitman95741 ($23.25 in chips) 
+Seat 8: Bras64076 ($7.60 in chips) 
+Seat 9: iwillneverbe ($27 in chips) 
+hitman95741: posts small blind $0.10
+Bras64076: posts big blind $0.25
+LUCKYMONSTER: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 5c]
+iwillneverbe: calls $0.25
+howlkal: folds 
+MikeLef: folds 
+ironman0909: raises $0.25 to $0.50
+LUCKYMONSTER: folds 
+Alameda22: calls $0.50
+hitman95741: raises $1.75 to $2.25
+Bras64076: folds 
+iwillneverbe: folds 
+ironman0909: folds 
+Alameda22: folds 
+Uncalled bet ($1.75) returned to hitman95741
+hitman95741 collected $2.25 from pot
+hitman95741: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0 
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef folded before Flop (didn't bet)
+Seat 4: ironman0909 folded before Flop
+Seat 5: LUCKYMONSTER folded before Flop
+Seat 6: Alameda22 (button) folded before Flop
+Seat 7: hitman95741 (small blind) collected ($2.25)
+Seat 8: Bras64076 (big blind) folded before Flop
+Seat 9: iwillneverbe folded before Flop
+
+
+
+PokerStars Game #19903314045:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:35:02 (ET)
+Table 'Ymir II' 9-max Seat #7 is the button
+Seat 1: howlkal ($35.85 in chips) 
+Seat 2: MikeLef ($13.80 in chips) 
+Seat 4: ironman0909 ($34.30 in chips) 
+Seat 5: LUCKYMONSTER ($24.75 in chips) 
+Seat 6: Alameda22 ($26.95 in chips) 
+Seat 7: hitman95741 ($25 in chips) 
+Seat 8: Bras64076 ($7.35 in chips) 
+Seat 9: iwillneverbe ($26.75 in chips) 
+Bras64076: posts small blind $0.10
+iwillneverbe: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 7h]
+howlkal: folds 
+MikeLef: calls $0.25
+ironman0909: folds 
+LUCKYMONSTER: folds 
+Alameda22: folds 
+hitman95741: folds 
+hitman95741 is sitting out
+Bras64076: calls $0.15
+iwillneverbe: raises $0.50 to $0.75
+MikeLef: calls $0.50
+Bras64076: calls $0.50
+*** FLOP *** [7s 4c 3d]
+Bras64076: checks 
+iwillneverbe: bets $1
+MikeLef: calls $1
+Bras64076: folds 
+*** TURN *** [7s 4c 3d] [2s]
+iwillneverbe: bets $3
+MikeLef: calls $3
+*** RIVER *** [7s 4c 3d 2s] [Qh]
+iwillneverbe: bets $7
+MikeLef: calls $7
+*** SHOW DOWN ***
+iwillneverbe: shows [9h 9c] (a pair of Nines)
+MikeLef: mucks hand 
+iwillneverbe collected $23.10 from pot
+*** SUMMARY ***
+Total pot $24.25 | Rake $1.15 
+Board [7s 4c 3d 2s Qh]
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef mucked [Tc 7c]
+Seat 4: ironman0909 folded before Flop (didn't bet)
+Seat 5: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 (button) folded before Flop (didn't bet)
+Seat 8: Bras64076 (small blind) folded on the Flop
+Seat 9: iwillneverbe (big blind) showed [9h 9c] and won ($23.10) with a pair of Nines
+
+
+
+PokerStars Game #19903335839:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:36:07 (ET)
+Table 'Ymir II' 9-max Seat #8 is the button
+Seat 1: howlkal ($35.85 in chips) 
+Seat 2: MikeLef ($2.05 in chips) 
+Seat 4: ironman0909 ($34.30 in chips) 
+Seat 5: LUCKYMONSTER ($24.75 in chips) 
+Seat 6: Alameda22 ($26.95 in chips) 
+Seat 8: Bras64076 ($6.60 in chips) 
+Seat 9: iwillneverbe ($38.10 in chips) 
+iwillneverbe: posts small blind $0.10
+howlkal: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 5d]
+MikeLef: folds 
+ironman0909: folds 
+LUCKYMONSTER: folds 
+Alameda22: folds 
+Bras64076: folds 
+iwillneverbe: folds 
+Uncalled bet ($0.15) returned to howlkal
+howlkal collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: howlkal (big blind) collected ($0.20)
+Seat 2: MikeLef folded before Flop (didn't bet)
+Seat 4: ironman0909 folded before Flop (didn't bet)
+Seat 5: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: Bras64076 (button) folded before Flop (didn't bet)
+Seat 9: iwillneverbe (small blind) folded before Flop
+
+
+
+PokerStars Game #19903343638:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:36:31 (ET)
+Table 'Ymir II' 9-max Seat #9 is the button
+Seat 1: howlkal ($35.95 in chips) 
+Seat 2: MikeLef ($12.05 in chips) 
+Seat 4: ironman0909 ($34.30 in chips) 
+Seat 5: LUCKYMONSTER ($24.75 in chips) 
+Seat 6: Alameda22 ($26.95 in chips) 
+Seat 8: Bras64076 ($6.60 in chips) 
+Seat 9: iwillneverbe ($38 in chips) 
+howlkal: posts small blind $0.10
+MikeLef: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 8h]
+hitman95741 has returned
+ironman0909: raises $0.50 to $0.75
+LUCKYMONSTER: folds 
+Alameda22: folds 
+Bras64076: folds 
+Bras64076 leaves the table
+iwillneverbe: calls $0.75
+howlkal: folds 
+MikeLef: folds 
+*** FLOP *** [Qd 3h 9c]
+ironman0909: bets $1.50
+iwillneverbe: folds 
+Uncalled bet ($1.50) returned to ironman0909
+ironman0909 collected $1.80 from pot
+ironman0909: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [Qd 3h 9c]
+Seat 1: howlkal (small blind) folded before Flop
+Seat 2: MikeLef (big blind) folded before Flop
+Seat 4: ironman0909 collected ($1.80)
+Seat 5: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: Bras64076 folded before Flop (didn't bet)
+Seat 9: iwillneverbe (button) folded on the Flop
+
+
+
+PokerStars Game #19903363126:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:37:30 (ET)
+Table 'Ymir II' 9-max Seat #1 is the button
+Seat 1: howlkal ($35.85 in chips) 
+Seat 2: MikeLef ($11.80 in chips) 
+Seat 4: ironman0909 ($35.35 in chips) 
+Seat 5: LUCKYMONSTER ($24.75 in chips) 
+Seat 6: Alameda22 ($26.95 in chips) 
+Seat 7: hitman95741 ($25 in chips) 
+Seat 9: iwillneverbe ($37.25 in chips) 
+MikeLef: posts small blind $0.10
+ironman0909: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Qd]
+LUCKYMONSTER: folds 
+Alameda22: folds 
+hitman95741: calls $0.25
+iwillneverbe: folds 
+howlkal: folds 
+MikeLef: calls $0.15
+ironman0909: checks 
+*** FLOP *** [3h 6c 8h]
+MikeLef: checks 
+ironman0909: checks 
+hitman95741: bets $0.75
+MikeLef: folds 
+ironman0909: folds 
+Uncalled bet ($0.75) returned to hitman95741
+hitman95741 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [3h 6c 8h]
+Seat 1: howlkal (button) folded before Flop (didn't bet)
+Seat 2: MikeLef (small blind) folded on the Flop
+Seat 4: ironman0909 (big blind) folded on the Flop
+Seat 5: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 collected ($0.75)
+Seat 9: iwillneverbe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903384054:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:38:33 (ET)
+Table 'Ymir II' 9-max Seat #2 is the button
+Seat 1: howlkal ($35.85 in chips) 
+Seat 2: MikeLef ($11.55 in chips) 
+Seat 4: ironman0909 ($35.10 in chips) 
+Seat 5: LUCKYMONSTER ($24.75 in chips) 
+Seat 6: Alameda22 ($26.95 in chips) 
+Seat 7: hitman95741 ($25.50 in chips) 
+Seat 9: iwillneverbe ($37.25 in chips) 
+ironman0909: posts small blind $0.10
+LUCKYMONSTER: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 8s]
+Fishmarino joins the table at seat #8 
+Alameda22: folds 
+hitman95741: calls $0.25
+iwillneverbe: folds 
+howlkal: folds 
+MikeLef: calls $0.25
+ironman0909: calls $0.15
+LUCKYMONSTER: checks 
+*** FLOP *** [9c 6s Ad]
+ironman0909: checks 
+LUCKYMONSTER: checks 
+hitman95741: checks 
+MikeLef: bets $0.50
+ironman0909: folds 
+LUCKYMONSTER: folds 
+hitman95741: folds 
+Uncalled bet ($0.50) returned to MikeLef
+MikeLef collected $0.95 from pot
+MikeLef: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [9c 6s Ad]
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef (button) collected ($0.95)
+Seat 4: ironman0909 (small blind) folded on the Flop
+Seat 5: LUCKYMONSTER (big blind) folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 folded on the Flop
+Seat 9: iwillneverbe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903403660:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:39:32 (ET)
+Table 'Ymir II' 9-max Seat #4 is the button
+Seat 1: howlkal ($35.85 in chips) 
+Seat 2: MikeLef ($12.25 in chips) 
+Seat 4: ironman0909 ($34.85 in chips) 
+Seat 5: LUCKYMONSTER ($24.50 in chips) 
+Seat 6: Alameda22 ($26.95 in chips) 
+Seat 7: hitman95741 ($25.25 in chips) 
+Seat 8: Fishmarino ($5 in chips) 
+Seat 9: iwillneverbe ($37.25 in chips) 
+LUCKYMONSTER: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Fishmarino: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 3s]
+hitman95741: folds 
+Fishmarino: checks 
+iwillneverbe: folds 
+howlkal: folds 
+MikeLef: calls $0.25
+ironman0909: calls $0.25
+LUCKYMONSTER: folds 
+Alameda22: checks 
+*** FLOP *** [Td 2h 5c]
+Alameda22: checks 
+Fishmarino: checks 
+MikeLef: checks 
+ironman0909: bets $1
+Alameda22: folds 
+Fishmarino: folds 
+MikeLef: folds 
+Uncalled bet ($1) returned to ironman0909
+ironman0909 collected $1.05 from pot
+ironman0909: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Td 2h 5c]
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef folded on the Flop
+Seat 4: ironman0909 (button) collected ($1.05)
+Seat 5: LUCKYMONSTER (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: hitman95741 folded before Flop (didn't bet)
+Seat 8: Fishmarino folded on the Flop
+Seat 9: iwillneverbe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903426755:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:40:42 (ET)
+Table 'Ymir II' 9-max Seat #5 is the button
+Seat 1: howlkal ($35.85 in chips) 
+Seat 2: MikeLef ($12 in chips) 
+Seat 4: ironman0909 ($35.65 in chips) 
+Seat 5: LUCKYMONSTER ($24.40 in chips) 
+Seat 6: Alameda22 ($26.70 in chips) 
+Seat 7: hitman95741 ($25.25 in chips) 
+Seat 8: Fishmarino ($4.75 in chips) 
+Seat 9: iwillneverbe ($37.25 in chips) 
+Alameda22: posts small blind $0.10
+hitman95741: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Jc]
+Fishmarino: folds 
+iwillneverbe: folds 
+howlkal: folds 
+MikeLef: folds 
+ironman0909: calls $0.25
+LUCKYMONSTER: raises $1 to $1.25
+Alameda22: raises $2.50 to $3.75
+hitman95741: folds 
+ironman0909: folds 
+LUCKYMONSTER: calls $2.50
+*** FLOP *** [6d 5d 7d]
+Alameda22: bets $5
+LUCKYMONSTER: folds 
+Uncalled bet ($5) returned to Alameda22
+Alameda22 collected $7.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [6d 5d 7d]
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef folded before Flop (didn't bet)
+Seat 4: ironman0909 folded before Flop
+Seat 5: LUCKYMONSTER (button) folded on the Flop
+Seat 6: Alameda22 (small blind) collected ($7.60)
+Seat 7: hitman95741 (big blind) folded before Flop
+Seat 8: Fishmarino folded before Flop (didn't bet)
+Seat 9: iwillneverbe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903455091:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:42:09 (ET)
+Table 'Ymir II' 9-max Seat #6 is the button
+Seat 1: howlkal ($35.85 in chips) 
+Seat 2: MikeLef ($12 in chips) 
+Seat 4: ironman0909 ($35.40 in chips) 
+Seat 5: LUCKYMONSTER ($25 in chips) 
+Seat 6: Alameda22 ($30.55 in chips) 
+Seat 7: hitman95741 ($25 in chips) 
+Seat 8: Fishmarino ($4.75 in chips) 
+Seat 9: iwillneverbe ($37.25 in chips) 
+hitman95741: posts small blind $0.10
+Fishmarino: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 3d]
+iwillneverbe: raises $0.50 to $0.75
+howlkal: folds 
+MikeLef: folds 
+ironman0909: folds 
+LUCKYMONSTER: folds 
+Alameda22: folds 
+hitman95741: folds 
+Fishmarino: folds 
+Uncalled bet ($0.50) returned to iwillneverbe
+iwillneverbe collected $0.60 from pot
+iwillneverbe: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef folded before Flop (didn't bet)
+Seat 4: ironman0909 folded before Flop (didn't bet)
+Seat 5: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: hitman95741 (small blind) folded before Flop
+Seat 8: Fishmarino (big blind) folded before Flop
+Seat 9: iwillneverbe collected ($0.60)
+
+
+
+PokerStars Game #19903471686:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:42:59 (ET)
+Table 'Ymir II' 9-max Seat #7 is the button
+Seat 1: howlkal ($35.85 in chips) 
+Seat 2: MikeLef ($12 in chips) 
+Seat 4: ironman0909 ($35.40 in chips) 
+Seat 5: LUCKYMONSTER ($25 in chips) 
+Seat 6: Alameda22 ($30.55 in chips) 
+Seat 7: hitman95741 ($24.90 in chips) 
+Seat 8: Fishmarino ($4.50 in chips) 
+Seat 9: iwillneverbe ($37.60 in chips) 
+Fishmarino: posts small blind $0.10
+iwillneverbe: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Qc]
+howlkal: folds 
+MikeLef: calls $0.25
+ironman0909: raises $1 to $1.25
+LUCKYMONSTER: folds 
+Alameda22: folds 
+hitman95741: folds 
+Fishmarino: calls $1.15
+iwillneverbe: folds 
+MikeLef: calls $1
+*** FLOP *** [2c 5d 5c]
+Fishmarino: checks 
+MikeLef: checks 
+ironman0909: bets $4.50
+Fishmarino: folds 
+MikeLef: folds 
+Uncalled bet ($4.50) returned to ironman0909
+ironman0909 collected $3.80 from pot
+ironman0909: shows [Tc Th] (two pair, Tens and Fives)
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [2c 5d 5c]
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef folded on the Flop
+Seat 4: ironman0909 collected ($3.80)
+Seat 5: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 (button) folded before Flop (didn't bet)
+Seat 8: Fishmarino (small blind) folded on the Flop
+Seat 9: iwillneverbe (big blind) folded before Flop
+
+
+
+PokerStars Game #19903490469:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:43:56 (ET)
+Table 'Ymir II' 9-max Seat #8 is the button
+Seat 1: howlkal ($35.85 in chips) 
+Seat 2: MikeLef ($10.75 in chips) 
+Seat 4: ironman0909 ($37.95 in chips) 
+Seat 5: LUCKYMONSTER ($25 in chips) 
+Seat 6: Alameda22 ($30.55 in chips) 
+Seat 7: hitman95741 ($24.90 in chips) 
+Seat 8: Fishmarino ($3.25 in chips) 
+Seat 9: iwillneverbe ($37.35 in chips) 
+iwillneverbe: posts small blind $0.10
+howlkal: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Jh]
+MikeLef: calls $0.25
+ironman0909: folds 
+LUCKYMONSTER: folds 
+Alameda22: folds 
+hitman95741: calls $0.25
+Fishmarino: raises $0.75 to $1
+iwillneverbe: raises $0.75 to $1.75
+howlkal: folds 
+MikeLef: folds 
+hitman95741: folds 
+Fishmarino: raises $0.75 to $2.50
+iwillneverbe: calls $0.75
+*** FLOP *** [3c 9h 5c]
+iwillneverbe: bets $1
+Fishmarino: calls $0.75 and is all-in
+Uncalled bet ($0.25) returned to iwillneverbe
+*** TURN *** [3c 9h 5c] [4s]
+*** RIVER *** [3c 9h 5c 4s] [As]
+*** SHOW DOWN ***
+iwillneverbe: shows [Kd Ah] (a pair of Aces)
+Fishmarino: shows [Ac Kh] (a pair of Aces)
+iwillneverbe collected $3.45 from pot
+Fishmarino collected $3.45 from pot
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [3c 9h 5c 4s As]
+Seat 1: howlkal (big blind) folded before Flop
+Seat 2: MikeLef folded before Flop
+Seat 4: ironman0909 folded before Flop (didn't bet)
+Seat 5: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 folded before Flop
+Seat 8: Fishmarino (button) showed [Ac Kh] and won ($3.45) with a pair of Aces
+Seat 9: iwillneverbe (small blind) showed [Kd Ah] and won ($3.45) with a pair of Aces
+
+
+
+PokerStars Game #19903513680:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:45:07 (ET)
+Table 'Ymir II' 9-max Seat #9 is the button
+Seat 1: howlkal ($35.60 in chips) 
+Seat 2: MikeLef ($10.50 in chips) 
+Seat 4: ironman0909 ($37.95 in chips) 
+Seat 5: LUCKYMONSTER ($25 in chips) 
+Seat 6: Alameda22 ($30.55 in chips) 
+Seat 7: hitman95741 ($24.65 in chips) 
+Seat 8: Fishmarino ($3.45 in chips) 
+Seat 9: iwillneverbe ($37.55 in chips) 
+howlkal: posts small blind $0.10
+MikeLef: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Kd]
+ironman0909: raises $1.25 to $1.50
+LUCKYMONSTER: folds 
+Alameda22: folds 
+hitman95741: folds 
+Fishmarino: folds 
+iwillneverbe: raises $1.25 to $2.75
+howlkal: folds 
+MikeLef: folds 
+ironman0909: calls $1.25
+*** FLOP *** [Kc Tc Jd]
+ironman0909: bets $2.75
+iwillneverbe: folds 
+Uncalled bet ($2.75) returned to ironman0909
+ironman0909 collected $5.60 from pot
+ironman0909: shows [Kh Ac] (a pair of Kings)
+*** SUMMARY ***
+Total pot $5.85 | Rake $0.25 
+Board [Kc Tc Jd]
+Seat 1: howlkal (small blind) folded before Flop
+Seat 2: MikeLef (big blind) folded before Flop
+Seat 4: ironman0909 collected ($5.60)
+Seat 5: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 folded before Flop (didn't bet)
+Seat 8: Fishmarino folded before Flop (didn't bet)
+Seat 9: iwillneverbe (button) folded on the Flop
+
+
+
+PokerStars Game #19903530251:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:45:58 (ET)
+Table 'Ymir II' 9-max Seat #1 is the button
+Seat 1: howlkal ($35.50 in chips) 
+Seat 2: MikeLef ($10.25 in chips) 
+Seat 4: ironman0909 ($40.80 in chips) 
+Seat 5: LUCKYMONSTER ($25 in chips) 
+Seat 6: Alameda22 ($30.55 in chips) 
+Seat 7: hitman95741 ($24.65 in chips) 
+Seat 8: Fishmarino ($3.45 in chips) 
+Seat 9: iwillneverbe ($34.80 in chips) 
+MikeLef: posts small blind $0.10
+ironman0909: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 3h]
+LUCKYMONSTER: folds 
+Alameda22: folds 
+hitman95741: calls $0.25
+Fishmarino: folds 
+iwillneverbe: folds 
+howlkal: calls $0.25
+MikeLef: folds 
+ironman0909: checks 
+*** FLOP *** [9h 8h 2s]
+ironman0909: bets $0.75
+hitman95741: calls $0.75
+howlkal: folds 
+*** TURN *** [9h 8h 2s] [7c]
+ironman0909: bets $2
+hitman95741: calls $2
+*** RIVER *** [9h 8h 2s 7c] [Qc]
+ironman0909: bets $2.25
+hitman95741: folds 
+Uncalled bet ($2.25) returned to ironman0909
+ironman0909 collected $6.05 from pot
+ironman0909: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.30 
+Board [9h 8h 2s 7c Qc]
+Seat 1: howlkal (button) folded on the Flop
+Seat 2: MikeLef (small blind) folded before Flop
+Seat 4: ironman0909 (big blind) collected ($6.05)
+Seat 5: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 folded on the River
+Seat 8: Fishmarino folded before Flop (didn't bet)
+Seat 9: iwillneverbe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903560890:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:47:33 (ET)
+Table 'Ymir II' 9-max Seat #2 is the button
+Seat 1: howlkal ($35.25 in chips) 
+Seat 2: MikeLef ($10.15 in chips) 
+Seat 4: ironman0909 ($43.85 in chips) 
+Seat 5: LUCKYMONSTER ($25 in chips) 
+Seat 6: Alameda22 ($30.55 in chips) 
+Seat 7: hitman95741 ($21.65 in chips) 
+Seat 8: Fishmarino ($3.45 in chips) 
+Seat 9: iwillneverbe ($34.80 in chips) 
+inn0va was removed from the table for failing to post
+ironman0909: posts small blind $0.10
+LUCKYMONSTER: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 5c]
+Alameda22: folds 
+hitman95741: raises $0.50 to $0.75
+Fishmarino: folds 
+iwillneverbe: folds 
+howlkal: folds 
+MikeLef: calls $0.75
+ironman0909: folds 
+LUCKYMONSTER: folds 
+*** FLOP *** [8d 4h Ac]
+hitman95741: checks 
+MikeLef: bets $0.75
+hitman95741: folds 
+Uncalled bet ($0.75) returned to MikeLef
+MikeLef collected $1.80 from pot
+MikeLef: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [8d 4h Ac]
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef (button) collected ($1.80)
+Seat 4: ironman0909 (small blind) folded before Flop
+Seat 5: LUCKYMONSTER (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 folded on the Flop
+Seat 8: Fishmarino folded before Flop (didn't bet)
+Seat 9: iwillneverbe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903584029:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:48:44 (ET)
+Table 'Ymir II' 9-max Seat #4 is the button
+Seat 1: howlkal ($35.25 in chips) 
+Seat 2: MikeLef ($11.20 in chips) 
+Seat 4: ironman0909 ($43.75 in chips) 
+Seat 5: LUCKYMONSTER ($24.75 in chips) 
+Seat 6: Alameda22 ($30.55 in chips) 
+Seat 7: hitman95741 ($20.90 in chips) 
+Seat 8: Fishmarino ($3.45 in chips) 
+Seat 9: iwillneverbe ($34.80 in chips) 
+LUCKYMONSTER: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 8h]
+hitman95741: calls $0.25
+Fishmarino: raises $0.75 to $1
+iwillneverbe: folds 
+howlkal: folds 
+MikeLef: folds 
+ironman0909: folds 
+ironman0909 leaves the table
+LUCKYMONSTER: folds 
+Alameda22: folds 
+hitman95741: calls $0.75
+*** FLOP *** [4s 2s Ac]
+hitman95741: bets $0.75
+Fishmarino: raises $1.70 to $2.45 and is all-in
+hitman95741: calls $1.70
+*** TURN *** [4s 2s Ac] [Ks]
+*** RIVER *** [4s 2s Ac Ks] [8s]
+*** SHOW DOWN ***
+hitman95741: shows [Qd 4d] (a pair of Fours)
+Fishmarino: shows [Ts Td] (a flush, King high)
+Fishmarino collected $6.90 from pot
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [4s 2s Ac Ks 8s]
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef folded before Flop (didn't bet)
+Seat 4: ironman0909 (button) folded before Flop (didn't bet)
+Seat 5: LUCKYMONSTER (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: hitman95741 showed [Qd 4d] and lost with a pair of Fours
+Seat 8: Fishmarino showed [Ts Td] and won ($6.90) with a flush, King high
+Seat 9: iwillneverbe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903613673:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:50:17 (ET)
+Table 'Ymir II' 9-max Seat #5 is the button
+Seat 1: howlkal ($35.25 in chips) 
+Seat 2: MikeLef ($11.20 in chips) 
+Seat 5: LUCKYMONSTER ($24.65 in chips) 
+Seat 6: Alameda22 ($30.30 in chips) 
+Seat 7: hitman95741 ($17.45 in chips) 
+Seat 8: Fishmarino ($6.90 in chips) 
+Seat 9: iwillneverbe ($34.80 in chips) 
+Alameda22: posts small blind $0.10
+hitman95741: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 4h]
+Fishmarino: folds 
+iwillneverbe: folds 
+howlkal: folds 
+MikeLef: calls $0.25
+LUCKYMONSTER: raises $1 to $1.25
+Alameda22: folds 
+hitman95741: calls $1
+MikeLef: calls $1
+*** FLOP *** [9d 3s 8c]
+hitman95741: checks 
+MikeLef: checks 
+LUCKYMONSTER: bets $2.75
+hitman95741: calls $2.75
+MikeLef: folds 
+*** TURN *** [9d 3s 8c] [5c]
+hitman95741: checks 
+LUCKYMONSTER: checks 
+*** RIVER *** [9d 3s 8c 5c] [6s]
+hitman95741: checks 
+LUCKYMONSTER: checks 
+*** SHOW DOWN ***
+hitman95741: shows [Qd Ts] (high card Queen)
+LUCKYMONSTER: shows [Kd Kc] (a pair of Kings)
+LUCKYMONSTER collected $8.90 from pot
+*** SUMMARY ***
+Total pot $9.35 | Rake $0.45 
+Board [9d 3s 8c 5c 6s]
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef folded on the Flop
+Seat 5: LUCKYMONSTER (button) showed [Kd Kc] and won ($8.90) with a pair of Kings
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: hitman95741 (big blind) showed [Qd Ts] and lost with high card Queen
+Seat 8: Fishmarino folded before Flop (didn't bet)
+Seat 9: iwillneverbe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903645155:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:51:56 (ET)
+Table 'Ymir II' 9-max Seat #6 is the button
+Seat 1: howlkal ($35.25 in chips) 
+Seat 2: MikeLef ($9.95 in chips) 
+Seat 5: LUCKYMONSTER ($29.55 in chips) 
+Seat 6: Alameda22 ($30.20 in chips) 
+Seat 7: hitman95741 ($13.45 in chips) 
+Seat 8: Fishmarino ($6.90 in chips) 
+Seat 9: iwillneverbe ($34.80 in chips) 
+hitman95741: posts small blind $0.10
+Fishmarino: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Kd]
+iwillneverbe: folds 
+howlkal: folds 
+MikeLef: calls $0.25
+LUCKYMONSTER: folds 
+Alameda22: folds 
+hitman95741: calls $0.15
+Fishmarino: checks 
+*** FLOP *** [Jc 4h 6s]
+hitman95741: checks 
+Fishmarino: checks 
+MikeLef: checks 
+*** TURN *** [Jc 4h 6s] [2d]
+hitman95741: bets $0.25
+Fishmarino: calls $0.25
+MikeLef: folds 
+*** RIVER *** [Jc 4h 6s 2d] [9h]
+hitman95741: bets $1.75
+Fishmarino: calls $1.75
+*** SHOW DOWN ***
+hitman95741: shows [Jd 3h] (a pair of Jacks)
+Fishmarino: mucks hand 
+hitman95741 collected $4.55 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [Jc 4h 6s 2d 9h]
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef folded on the Turn
+Seat 5: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: hitman95741 (small blind) showed [Jd 3h] and won ($4.55) with a pair of Jacks
+Seat 8: Fishmarino (big blind) mucked [Kh 4c]
+Seat 9: iwillneverbe folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903672379:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:53:22 (ET)
+Table 'Ymir II' 9-max Seat #7 is the button
+Seat 1: howlkal ($35.25 in chips) 
+Seat 2: MikeLef ($9.70 in chips) 
+Seat 5: LUCKYMONSTER ($29.55 in chips) 
+Seat 6: Alameda22 ($30.20 in chips) 
+Seat 7: hitman95741 ($15.75 in chips) 
+Seat 8: Fishmarino ($4.65 in chips) 
+Fishmarino: posts small blind $0.10
+iwillneverbe: is sitting out 
+howlkal: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 6c]
+MikeLef: folds 
+LUCKYMONSTER: folds 
+Alameda22: folds 
+hitman95741: calls $0.25
+Fishmarino: raises $0.75 to $1
+howlkal: calls $0.75
+iwillneverbe leaves the table
+hitman95741: calls $0.75
+*** FLOP *** [Jh Th Kc]
+Fishmarino: checks 
+howlkal: bets $1.75
+hitman95741: raises $1.75 to $3.50
+Fishmarino: folds 
+oddzmnpul8r joins the table at seat #3 
+howlkal: raises $30.75 to $34.25 and is all-in
+hitman95741: calls $11.25 and is all-in
+Uncalled bet ($19.50) returned to howlkal
+*** TURN *** [Jh Th Kc] [7h]
+*** RIVER *** [Jh Th Kc 7h] [Qh]
+*** SHOW DOWN ***
+howlkal: shows [Ks Qs] (two pair, Kings and Queens)
+hitman95741: shows [2h Kh] (a flush, King high)
+hitman95741 collected $30.90 from pot
+*** SUMMARY ***
+Total pot $32.50 | Rake $1.60 
+Board [Jh Th Kc 7h Qh]
+Seat 1: howlkal (big blind) showed [Ks Qs] and lost with two pair, Kings and Queens
+Seat 2: MikeLef folded before Flop (didn't bet)
+Seat 5: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 (button) showed [2h Kh] and won ($30.90) with a flush, King high
+Seat 8: Fishmarino (small blind) folded on the Flop
+
+
+
+PokerStars Game #19903695222:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:54:35 (ET)
+Table 'Ymir II' 9-max Seat #8 is the button
+Seat 1: howlkal ($19.50 in chips) 
+Seat 2: MikeLef ($9.70 in chips) 
+Seat 5: LUCKYMONSTER ($29.55 in chips) 
+Seat 6: Alameda22 ($30.20 in chips) 
+Seat 7: hitman95741 ($30.90 in chips) 
+Seat 8: Fishmarino ($3.65 in chips) 
+howlkal: posts small blind $0.10
+MikeLef: posts big blind $0.25
+oddzmnpul8r: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 8h]
+LUCKYMONSTER: folds 
+Alameda22: folds 
+hitman95741: calls $0.25
+Fishmarino: raises $1 to $1.25
+howlkal: folds 
+MikeLef: folds 
+hitman95741: folds 
+Uncalled bet ($1) returned to Fishmarino
+Tnsdriller joins the table at seat #9 
+Fishmarino collected $0.85 from pot
+Fishmarino: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: howlkal (small blind) folded before Flop
+Seat 2: MikeLef (big blind) folded before Flop
+Seat 5: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 folded before Flop
+Seat 8: Fishmarino (button) collected ($0.85)
+
+
+
+PokerStars Game #19903714630:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:55:37 (ET)
+Table 'Ymir II' 9-max Seat #1 is the button
+Seat 1: howlkal ($19.40 in chips) 
+Seat 2: MikeLef ($9.45 in chips) 
+Seat 3: oddzmnpul8r ($15 in chips) 
+Seat 5: LUCKYMONSTER ($29.55 in chips) 
+Seat 6: Alameda22 ($30.20 in chips) 
+Seat 7: hitman95741 ($30.65 in chips) 
+Seat 8: Fishmarino ($4.25 in chips) 
+Seat 9: Tnsdriller ($15 in chips) 
+MikeLef: posts small blind $0.10
+oddzmnpul8r: posts big blind $0.25
+Tnsdriller: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Ad]
+LUCKYMONSTER: folds 
+Alameda22: raises $0.75 to $1
+hitman95741: folds 
+Fishmarino: folds 
+Tnsdriller: calls $0.75
+howlkal: folds 
+MikeLef: folds 
+oddzmnpul8r: folds 
+*** FLOP *** [2s 8h Qc]
+patorojas86 joins the table at seat #4 
+Alameda22: bets $1.50
+Tnsdriller: calls $1.50
+*** TURN *** [2s 8h Qc] [As]
+Alameda22: bets $3.25
+Tnsdriller: calls $3.25
+*** RIVER *** [2s 8h Qc As] [Qd]
+Alameda22: bets $7
+Tnsdriller: calls $7
+*** SHOW DOWN ***
+Alameda22: shows [Qs Ad] (a full house, Queens full of Aces)
+Tnsdriller: mucks hand 
+Alameda22 collected $24.60 from pot
+*** SUMMARY ***
+Total pot $25.85 | Rake $1.25 
+Board [2s 8h Qc As Qd]
+Seat 1: howlkal (button) folded before Flop (didn't bet)
+Seat 2: MikeLef (small blind) folded before Flop
+Seat 3: oddzmnpul8r (big blind) folded before Flop
+Seat 5: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 6: Alameda22 showed [Qs Ad] and won ($24.60) with a full house, Queens full of Aces
+Seat 7: hitman95741 folded before Flop (didn't bet)
+Seat 8: Fishmarino folded before Flop (didn't bet)
+Seat 9: Tnsdriller mucked [Ac Jh]
+
+
+
+PokerStars Game #19903739824:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:56:57 (ET)
+Table 'Ymir II' 9-max Seat #2 is the button
+Seat 1: howlkal ($19.40 in chips) 
+Seat 2: MikeLef ($9.35 in chips) 
+Seat 3: oddzmnpul8r ($14.75 in chips) 
+Seat 4: patorojas86 ($15 in chips) 
+Seat 5: LUCKYMONSTER ($29.55 in chips) 
+Seat 6: Alameda22 ($42.05 in chips) 
+Seat 7: hitman95741 ($30.65 in chips) 
+Seat 8: Fishmarino ($4.25 in chips) 
+Seat 9: Tnsdriller ($2.25 in chips) 
+oddzmnpul8r: posts small blind $0.10
+patorojas86: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Qc]
+LUCKYMONSTER: folds 
+Alameda22: folds 
+hitman95741: calls $0.25
+Fishmarino: folds 
+Tnsdriller: folds 
+howlkal: folds 
+MikeLef: folds 
+oddzmnpul8r: folds 
+patorojas86: checks 
+*** FLOP *** [5c 6s Jc]
+patorojas86: checks 
+hitman95741: bets $0.50
+patorojas86: folds 
+Uncalled bet ($0.50) returned to hitman95741
+hitman95741 collected $0.60 from pot
+hitman95741: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [5c 6s Jc]
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef (button) folded before Flop (didn't bet)
+Seat 3: oddzmnpul8r (small blind) folded before Flop
+Seat 4: patorojas86 (big blind) folded on the Flop
+Seat 5: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 collected ($0.60)
+Seat 8: Fishmarino folded before Flop (didn't bet)
+Seat 9: Tnsdriller folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903763821:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:58:15 (ET)
+Table 'Ymir II' 9-max Seat #3 is the button
+Seat 1: howlkal ($19.40 in chips) 
+Seat 2: MikeLef ($9.35 in chips) 
+Seat 3: oddzmnpul8r ($14.65 in chips) 
+Seat 4: patorojas86 ($14.75 in chips) 
+Seat 5: LUCKYMONSTER ($29.55 in chips) 
+Seat 6: Alameda22 ($42.05 in chips) 
+Seat 7: hitman95741 ($31 in chips) 
+Seat 8: Fishmarino ($4.25 in chips) 
+Seat 9: Tnsdriller ($2.25 in chips) 
+patorojas86: posts small blind $0.10
+LUCKYMONSTER: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 5h]
+Alameda22: folds 
+hitman95741: calls $0.25
+Fishmarino: folds 
+Tnsdriller: calls $0.25
+howlkal: folds 
+MikeLef: calls $0.25
+oddzmnpul8r: folds 
+patorojas86: folds 
+LUCKYMONSTER: checks 
+*** FLOP *** [4s 6h 3c]
+LUCKYMONSTER: checks 
+hitman95741: checks 
+Tnsdriller: checks 
+MikeLef: bets $1
+LUCKYMONSTER: folds 
+hitman95741: calls $1
+Tnsdriller: calls $1
+*** TURN *** [4s 6h 3c] [Kd]
+hitman95741: checks 
+Tnsdriller: checks 
+MikeLef: bets $2
+hitman95741: calls $2
+Tnsdriller: calls $1 and is all-in
+*** RIVER *** [4s 6h 3c Kd] [Td]
+hitman95741: checks 
+MikeLef: checks 
+*** SHOW DOWN ***
+hitman95741: shows [As 5c] (high card Ace)
+MikeLef: mucks hand 
+hitman95741 collected $1.90 from side pot
+Tnsdriller: mucks hand 
+hitman95741 collected $6.80 from main pot
+*** SUMMARY ***
+Total pot $9.10 Main pot $6.80. Side pot $1.90. | Rake $0.40 
+Board [4s 6h 3c Kd Td]
+Seat 1: howlkal folded before Flop (didn't bet)
+Seat 2: MikeLef mucked [2s Ac]
+Seat 3: oddzmnpul8r (button) folded before Flop (didn't bet)
+Seat 4: patorojas86 (small blind) folded before Flop
+Seat 5: LUCKYMONSTER (big blind) folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: hitman95741 showed [As 5c] and won ($8.70) with high card Ace
+Seat 8: Fishmarino folded before Flop (didn't bet)
+Seat 9: Tnsdriller mucked [5d 9d]
+
+
+

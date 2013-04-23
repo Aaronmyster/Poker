@@ -1,0 +1,739 @@
+PokerStars Game #20028739160:  Hold'em No Limit ($0.10/$0.25) - 2008/08/30 - 23:32:45 (ET)
+Table 'Regulus II' 9-max Seat #2 is the button
+Seat 1: jasons0147 ($42.05 in chips) 
+Seat 2: SkankPeddlin ($21.90 in chips) 
+Seat 3: Barbelith ($17.95 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 5: momocgn ($5.20 in chips) 
+Seat 6: fnoldfart ($13.30 in chips) 
+Seat 7: mspitolai ($32.30 in chips) 
+Seat 9: le survenant ($52.95 in chips) 
+Barbelith: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 9s]
+momocgn: folds 
+fnoldfart: calls $0.25
+mspitolai: calls $0.25
+le survenant: folds 
+jasons0147: folds 
+SkankPeddlin: folds 
+Barbelith: calls $0.15
+Alameda22: checks 
+*** FLOP *** [4h 4d 2s]
+Barbelith: checks 
+Alameda22: checks 
+fnoldfart: bets $0.50
+mspitolai: folds 
+Barbelith: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to fnoldfart
+fnoldfart collected $0.95 from pot
+fnoldfart: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [4h 4d 2s]
+Seat 1: jasons0147 folded before Flop (didn't bet)
+Seat 2: SkankPeddlin (button) folded before Flop (didn't bet)
+Seat 3: Barbelith (small blind) folded on the Flop
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 5: momocgn folded before Flop (didn't bet)
+Seat 6: fnoldfart collected ($0.95)
+Seat 7: mspitolai folded on the Flop
+Seat 9: le survenant folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20028771455:  Hold'em No Limit ($0.10/$0.25) - 2008/08/30 - 23:34:30 (ET)
+Table 'Regulus II' 9-max Seat #3 is the button
+Seat 1: jasons0147 ($42.05 in chips) 
+Seat 2: SkankPeddlin ($21.90 in chips) 
+Seat 3: Barbelith ($17.70 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: momocgn ($5.20 in chips) 
+Seat 6: fnoldfart ($14 in chips) 
+Seat 7: mspitolai ($32.05 in chips) 
+Seat 9: le survenant ($52.95 in chips) 
+Alameda22: posts small blind $0.10
+momocgn: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 5s]
+fnoldfart: folds 
+mspitolai: folds 
+ehle11 joins the table at seat #8 
+le survenant: calls $0.25
+jasons0147: folds 
+SkankPeddlin: calls $0.25
+Barbelith: folds 
+Alameda22: folds 
+momocgn: checks 
+*** FLOP *** [Jh Qs Td]
+momocgn: checks 
+le survenant: checks 
+SkankPeddlin: checks 
+*** TURN *** [Jh Qs Td] [Js]
+momocgn: checks 
+le survenant: bets $0.25
+SkankPeddlin: folds 
+momocgn: calls $0.25
+*** RIVER *** [Jh Qs Td Js] [5h]
+momocgn: checks 
+le survenant: bets $0.25
+momocgn: calls $0.25
+*** SHOW DOWN ***
+le survenant: shows [7c 7d] (two pair, Jacks and Sevens)
+momocgn: shows [Ad Qd] (two pair, Queens and Jacks)
+momocgn collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [Jh Qs Td Js 5h]
+Seat 1: jasons0147 folded before Flop (didn't bet)
+Seat 2: SkankPeddlin folded on the Turn
+Seat 3: Barbelith (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: momocgn (big blind) showed [Ad Qd] and won ($1.80) with two pair, Queens and Jacks
+Seat 6: fnoldfart folded before Flop (didn't bet)
+Seat 7: mspitolai folded before Flop (didn't bet)
+Seat 9: le survenant showed [7c 7d] and lost with two pair, Jacks and Sevens
+
+
+
+PokerStars Game #20028791749:  Hold'em No Limit ($0.10/$0.25) - 2008/08/30 - 23:35:37 (ET)
+Table 'Regulus II' 9-max Seat #4 is the button
+Seat 1: jasons0147 ($42.05 in chips) 
+Seat 2: SkankPeddlin ($21.65 in chips) 
+Seat 3: Barbelith ($17.70 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: momocgn ($6.25 in chips) 
+Seat 6: fnoldfart ($14 in chips) 
+Seat 7: mspitolai ($32.05 in chips) 
+Seat 9: le survenant ($52.20 in chips) 
+momocgn: posts small blind $0.10
+fnoldfart: posts big blind $0.25
+ehle11: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Ah]
+mspitolai: folds 
+mspitolai leaves the table
+le survenant: folds 
+jasons0147: folds 
+SkankPeddlin: calls $0.25
+Barbelith: folds 
+Alameda22: folds 
+momocgn: folds 
+fnoldfart: checks 
+*** FLOP *** [Kc 4h 9c]
+le survenant is sitting out
+fnoldfart: checks 
+SkankPeddlin: checks 
+*** TURN *** [Kc 4h 9c] [9d]
+fnoldfart: bets $0.25
+SkankPeddlin: calls $0.25
+*** RIVER *** [Kc 4h 9c 9d] [7d]
+fnoldfart: checks 
+SkankPeddlin: bets $0.75
+fnoldfart: calls $0.75
+*** SHOW DOWN ***
+SkankPeddlin: shows [9h As] (three of a kind, Nines)
+fnoldfart: mucks hand 
+SkankPeddlin collected $2.50 from pot
+wasserss joins the table at seat #7 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Kc 4h 9c 9d 7d]
+Seat 1: jasons0147 folded before Flop (didn't bet)
+Seat 2: SkankPeddlin showed [9h As] and won ($2.50) with three of a kind, Nines
+Seat 3: Barbelith folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: momocgn (small blind) folded before Flop
+Seat 6: fnoldfart (big blind) mucked [2h 2d]
+Seat 7: mspitolai folded before Flop (didn't bet)
+Seat 9: le survenant folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20028818902:  Hold'em No Limit ($0.10/$0.25) - 2008/08/30 - 23:37:07 (ET)
+Table 'Regulus II' 9-max Seat #5 is the button
+Seat 1: jasons0147 ($42.05 in chips) 
+Seat 2: SkankPeddlin ($22.90 in chips) 
+Seat 3: Barbelith ($17.70 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: momocgn ($6.15 in chips) 
+Seat 6: fnoldfart ($12.75 in chips) 
+Seat 7: wasserss ($5 in chips) 
+fnoldfart: posts small blind $0.10
+wasserss: posts big blind $0.25
+ehle11: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Js]
+jasons0147: folds 
+SkankPeddlin: folds 
+Barbelith: folds 
+Alameda22: folds 
+momocgn: calls $0.25
+fnoldfart: calls $0.15
+wasserss: checks 
+*** FLOP *** [Tc Ac 7c]
+fnoldfart: checks 
+wasserss: checks 
+momocgn: checks 
+*** TURN *** [Tc Ac 7c] [2c]
+fnoldfart: checks 
+wasserss: checks 
+momocgn: checks 
+*** RIVER *** [Tc Ac 7c 2c] [Kd]
+fnoldfart: checks 
+wasserss: checks 
+momocgn: checks 
+*** SHOW DOWN ***
+fnoldfart: shows [Ts 6c] (a flush, Ace high)
+wasserss: mucks hand 
+momocgn: mucks hand 
+fnoldfart collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Tc Ac 7c 2c Kd]
+Seat 1: jasons0147 folded before Flop (didn't bet)
+Seat 2: SkankPeddlin folded before Flop (didn't bet)
+Seat 3: Barbelith folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: momocgn (button) mucked [Ah 2h]
+Seat 6: fnoldfart (small blind) showed [Ts 6c] and won ($0.75) with a flush, Ace high
+Seat 7: wasserss (big blind) mucked [3h 6h]
+
+
+
+PokerStars Game #20028840106:  Hold'em No Limit ($0.10/$0.25) - 2008/08/30 - 23:38:16 (ET)
+Table 'Regulus II' 9-max Seat #6 is the button
+Seat 1: jasons0147 ($42.05 in chips) 
+Seat 2: SkankPeddlin ($22.90 in chips) 
+Seat 3: Barbelith ($17.70 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: momocgn ($5.90 in chips) 
+Seat 6: fnoldfart ($13.25 in chips) 
+Seat 7: wasserss ($4.75 in chips) 
+Seat 8: ehle11 ($25 in chips) 
+wasserss: posts small blind $0.10
+ehle11: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Qh]
+jasons0147: folds 
+SkankPeddlin: calls $0.25
+Barbelith: calls $0.25
+Alameda22: folds 
+momocgn: folds 
+fnoldfart: folds 
+wasserss: folds 
+ehle11: checks 
+*** FLOP *** [Th 5c 3c]
+ehle11: checks 
+SkankPeddlin: checks 
+Barbelith: bets $0.75
+ehle11: folds 
+SkankPeddlin: folds 
+Uncalled bet ($0.75) returned to Barbelith
+Barbelith collected $0.85 from pot
+Barbelith: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Th 5c 3c]
+Seat 1: jasons0147 folded before Flop (didn't bet)
+Seat 2: SkankPeddlin folded on the Flop
+Seat 3: Barbelith collected ($0.85)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: momocgn folded before Flop (didn't bet)
+Seat 6: fnoldfart (button) folded before Flop (didn't bet)
+Seat 7: wasserss (small blind) folded before Flop
+Seat 8: ehle11 (big blind) folded on the Flop
+
+
+
+PokerStars Game #20028857142:  Hold'em No Limit ($0.10/$0.25) - 2008/08/30 - 23:39:13 (ET)
+Table 'Regulus II' 9-max Seat #7 is the button
+Seat 1: jasons0147 ($42.05 in chips) 
+Seat 2: SkankPeddlin ($22.65 in chips) 
+Seat 3: Barbelith ($18.30 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: momocgn ($5.90 in chips) 
+Seat 6: fnoldfart ($13.25 in chips) 
+Seat 7: wasserss ($4.65 in chips) 
+Seat 8: ehle11 ($24.75 in chips) 
+ehle11: posts small blind $0.10
+jasons0147: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 4c]
+SkankPeddlin: calls $0.25
+Barbelith: folds 
+Alameda22: folds 
+momocgn: folds 
+fnoldfart: folds 
+fnoldfart leaves the table
+Barbelith leaves the table
+wasserss: folds 
+ehle11: folds 
+jasons0147: checks 
+*** FLOP *** [6d 7s Kc]
+jasons0147: bets $0.50
+SkankPeddlin: folds 
+Uncalled bet ($0.50) returned to jasons0147
+jasons0147 collected $0.60 from pot
+jasons0147: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6d 7s Kc]
+Seat 1: jasons0147 (big blind) collected ($0.60)
+Seat 2: SkankPeddlin folded on the Flop
+Seat 3: Barbelith folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: momocgn folded before Flop (didn't bet)
+Seat 6: fnoldfart folded before Flop (didn't bet)
+Seat 7: wasserss (button) folded before Flop (didn't bet)
+Seat 8: ehle11 (small blind) folded before Flop
+
+
+
+PokerStars Game #20028874240:  Hold'em No Limit ($0.10/$0.25) - 2008/08/30 - 23:40:10 (ET)
+Table 'Regulus II' 9-max Seat #8 is the button
+Seat 1: jasons0147 ($42.40 in chips) 
+Seat 2: SkankPeddlin ($22.40 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: momocgn ($5.90 in chips) 
+Seat 7: wasserss ($4.65 in chips) 
+Seat 8: ehle11 ($24.65 in chips) 
+jasons0147: posts small blind $0.10
+SkankPeddlin: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 5h]
+Alameda22: folds 
+momocgn: raises $0.75 to $1
+wasserss: folds 
+ehle11: folds 
+jasons0147: folds 
+SkankPeddlin: folds 
+Uncalled bet ($0.75) returned to momocgn
+le survenant has returned
+momocgn collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jasons0147 (small blind) folded before Flop
+Seat 2: SkankPeddlin (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: momocgn collected ($0.60)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: ehle11 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20028885155:  Hold'em No Limit ($0.10/$0.25) - 2008/08/30 - 23:40:46 (ET)
+Table 'Regulus II' 9-max Seat #1 is the button
+Seat 1: jasons0147 ($42.30 in chips) 
+Seat 2: SkankPeddlin ($22.15 in chips) 
+Seat 4: Alameda22 ($24.65 in chips) 
+Seat 5: momocgn ($6.25 in chips) 
+Seat 7: wasserss ($4.65 in chips) 
+Seat 8: ehle11 ($24.65 in chips) 
+Seat 9: le survenant ($52.20 in chips) 
+SkankPeddlin: posts small blind $0.10
+Alameda22: posts big blind $0.25
+le survenant: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 4d]
+momocgn: folds 
+wasserss: folds 
+ehle11: folds 
+le survenant: checks 
+jasons0147: raises $1 to $1.25
+SkankPeddlin: folds 
+Alameda22: folds 
+le survenant: folds 
+Uncalled bet ($1) returned to jasons0147
+J0rdn.13 joins the table at seat #6 
+jasons0147 collected $0.95 from pot
+jasons0147: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0 
+Seat 1: jasons0147 (button) collected ($0.95)
+Seat 2: SkankPeddlin (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: momocgn folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: ehle11 folded before Flop (didn't bet)
+Seat 9: le survenant folded before Flop
+
+
+
+PokerStars Game #20028897158:  Hold'em No Limit ($0.10/$0.25) - 2008/08/30 - 23:41:26 (ET)
+Table 'Regulus II' 9-max Seat #2 is the button
+Seat 1: jasons0147 ($43 in chips) 
+Seat 2: SkankPeddlin ($22.05 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: momocgn ($6.25 in chips) 
+Seat 6: J0rdn.13 ($15 in chips) 
+Seat 7: wasserss ($4.65 in chips) 
+Seat 8: ehle11 ($24.65 in chips) 
+Seat 9: le survenant ($51.85 in chips) 
+Alameda22: posts small blind $0.10
+momocgn: posts big blind $0.25
+J0rdn.13: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d As]
+J0rdn.13: checks 
+wasserss: folds 
+ehle11: folds 
+le survenant: calls $0.25
+jasons0147: raises $1.25 to $1.50
+SkankPeddlin: folds 
+Alameda22: folds 
+momocgn: folds 
+J0rdn.13: folds 
+le survenant: folds 
+Uncalled bet ($1.25) returned to jasons0147
+jasons0147 collected $1.10 from pot
+jasons0147: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: jasons0147 collected ($1.10)
+Seat 2: SkankPeddlin (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: momocgn (big blind) folded before Flop
+Seat 6: J0rdn.13 folded before Flop
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: ehle11 folded before Flop (didn't bet)
+Seat 9: le survenant folded before Flop
+
+
+
+PokerStars Game #20028916866:  Hold'em No Limit ($0.10/$0.25) - 2008/08/30 - 23:42:31 (ET)
+Table 'Regulus II' 9-max Seat #4 is the button
+Seat 1: jasons0147 ($43.85 in chips) 
+Seat 2: SkankPeddlin ($22.05 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: momocgn ($6 in chips) 
+Seat 6: J0rdn.13 ($14.75 in chips) 
+Seat 7: wasserss ($4.65 in chips) 
+Seat 8: ehle11 ($24.65 in chips) 
+Seat 9: le survenant ($51.60 in chips) 
+momocgn: posts small blind $0.10
+jackspur joins the table at seat #3 
+J0rdn.13: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 7h]
+wasserss: folds 
+ehle11: folds 
+le survenant: folds 
+jasons0147: folds 
+SkankPeddlin: folds 
+Alameda22: folds 
+momocgn: folds 
+Uncalled bet ($0.15) returned to J0rdn.13
+J0rdn.13 collected $0.20 from pot
+J0rdn.13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jasons0147 folded before Flop (didn't bet)
+Seat 2: SkankPeddlin folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: momocgn (small blind) folded before Flop
+Seat 6: J0rdn.13 (big blind) collected ($0.20)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: ehle11 folded before Flop (didn't bet)
+Seat 9: le survenant folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20028929421:  Hold'em No Limit ($0.10/$0.25) - 2008/08/30 - 23:43:13 (ET)
+Table 'Regulus II' 9-max Seat #5 is the button
+Seat 1: jasons0147 ($43.85 in chips) 
+Seat 2: SkankPeddlin ($22.05 in chips) 
+Seat 3: jackspur ($25 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: momocgn ($5.90 in chips) 
+Seat 6: J0rdn.13 ($14.85 in chips) 
+Seat 7: wasserss ($4.65 in chips) 
+Seat 8: ehle11 ($24.65 in chips) 
+Seat 9: le survenant ($51.60 in chips) 
+J0rdn.13: posts small blind $0.10
+wasserss: posts big blind $0.25
+jackspur: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 5c]
+ehle11: folds 
+le survenant: folds 
+jasons0147: folds 
+SkankPeddlin: folds 
+jackspur: checks 
+Alameda22: folds 
+momocgn: raises $0.25 to $0.50
+J0rdn.13: folds 
+wasserss: folds 
+jackspur: folds 
+Uncalled bet ($0.25) returned to momocgn
+momocgn collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: jasons0147 folded before Flop (didn't bet)
+Seat 2: SkankPeddlin folded before Flop (didn't bet)
+Seat 3: jackspur folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: momocgn (button) collected ($0.85)
+Seat 6: J0rdn.13 (small blind) folded before Flop
+Seat 7: wasserss (big blind) folded before Flop
+Seat 8: ehle11 folded before Flop (didn't bet)
+Seat 9: le survenant folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20028945676:  Hold'em No Limit ($0.10/$0.25) - 2008/08/30 - 23:44:07 (ET)
+Table 'Regulus II' 9-max Seat #6 is the button
+Seat 1: jasons0147 ($43.85 in chips) 
+Seat 2: SkankPeddlin ($22.05 in chips) 
+Seat 3: jackspur ($24.75 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: momocgn ($6.50 in chips) 
+Seat 6: J0rdn.13 ($14.75 in chips) 
+Seat 7: wasserss ($4.40 in chips) 
+Seat 8: ehle11 ($24.65 in chips) 
+Seat 9: le survenant ($51.60 in chips) 
+wasserss: posts small blind $0.10
+ehle11: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Qd]
+le survenant: folds 
+jasons0147: folds 
+SkankPeddlin: folds 
+jackspur: folds 
+jackspur leaves the table
+Alameda22: folds 
+momocgn: calls $0.25
+J0rdn.13: calls $0.25
+wasserss: folds 
+ehle11: checks 
+*** FLOP *** [Ts Kc 4h]
+ehle11: checks 
+momocgn: bets $0.50
+J0rdn.13: folds 
+ehle11: folds 
+Uncalled bet ($0.50) returned to momocgn
+momocgn collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Ts Kc 4h]
+Seat 1: jasons0147 folded before Flop (didn't bet)
+Seat 2: SkankPeddlin folded before Flop (didn't bet)
+Seat 3: jackspur folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: momocgn collected ($0.85)
+Seat 6: J0rdn.13 (button) folded on the Flop
+Seat 7: wasserss (small blind) folded before Flop
+Seat 8: ehle11 (big blind) folded on the Flop
+Seat 9: le survenant folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20028967797:  Hold'em No Limit ($0.10/$0.25) - 2008/08/30 - 23:45:22 (ET)
+Table 'Regulus II' 9-max Seat #7 is the button
+Seat 1: jasons0147 ($43.85 in chips) 
+Seat 2: SkankPeddlin ($22.05 in chips) 
+Seat 4: Alameda22 ($24.30 in chips) 
+Seat 5: momocgn ($7.10 in chips) 
+Seat 6: J0rdn.13 ($14.50 in chips) 
+Seat 7: wasserss ($4.30 in chips) 
+Seat 8: ehle11 ($24.40 in chips) 
+Seat 9: le survenant ($51.60 in chips) 
+ehle11: posts small blind $0.10
+le survenant: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 8c]
+jasons0147: folds 
+SkankPeddlin: folds 
+Alameda22: calls $0.25
+momocgn: folds 
+momocgn leaves the table
+J0rdn.13: calls $0.25
+dragginpot42 joins the table at seat #3 
+wasserss: folds 
+ehle11: folds 
+le survenant: checks 
+*** FLOP *** [Qs Ts 5d]
+le survenant: checks 
+Alameda22: checks 
+J0rdn.13: bets $0.50
+le survenant: calls $0.50
+Alameda22: folds 
+*** TURN *** [Qs Ts 5d] [Qh]
+le survenant: checks 
+J0rdn.13: checks 
+*** RIVER *** [Qs Ts 5d Qh] [Ks]
+le survenant: bets $0.75
+J0rdn.13: calls $0.75
+*** SHOW DOWN ***
+le survenant: shows [Ac Jh] (a straight, Ten to Ace)
+J0rdn.13: mucks hand 
+le survenant collected $3.20 from pot
+Eksal joins the table at seat #5 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [Qs Ts 5d Qh Ks]
+Seat 1: jasons0147 folded before Flop (didn't bet)
+Seat 2: SkankPeddlin folded before Flop (didn't bet)
+Seat 4: Alameda22 folded on the Flop
+Seat 5: momocgn folded before Flop (didn't bet)
+Seat 6: J0rdn.13 mucked [4d 4h]
+Seat 7: wasserss (button) folded before Flop (didn't bet)
+Seat 8: ehle11 (small blind) folded before Flop
+Seat 9: le survenant (big blind) showed [Ac Jh] and won ($3.20) with a straight, Ten to Ace
+
+
+
+PokerStars Game #20029000953:  Hold'em No Limit ($0.10/$0.25) - 2008/08/30 - 23:47:13 (ET)
+Table 'Regulus II' 9-max Seat #8 is the button
+Seat 1: jasons0147 ($43.85 in chips) 
+Seat 2: SkankPeddlin ($22.05 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 6: J0rdn.13 ($13 in chips) 
+Seat 7: wasserss ($4.30 in chips) 
+Seat 8: ehle11 ($24.30 in chips) 
+Seat 9: le survenant ($53.30 in chips) 
+le survenant: posts small blind $0.10
+jasons0147: posts big blind $0.25
+dragginpot42 has timed out
+dragginpot42: is sitting out 
+le survenant said, "go habs go"
+Eksal: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 7s]
+SkankPeddlin: folds 
+Alameda22: folds 
+J0rdn.13: folds 
+wasserss: folds 
+ehle11: folds 
+le survenant: calls $0.15
+jasons0147: checks 
+*** FLOP *** [4s Kh 5s]
+le survenant: checks 
+jasons0147: checks 
+*** TURN *** [4s Kh 5s] [Qs]
+le survenant: checks 
+jasons0147: checks 
+*** RIVER *** [4s Kh 5s Qs] [As]
+le survenant: bets $0.25
+jasons0147: folds 
+Uncalled bet ($0.25) returned to le survenant
+dragginpot42 has returned
+le survenant collected $0.50 from pot
+dragginpot42 is sitting out
+le survenant: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [4s Kh 5s Qs As]
+Seat 1: jasons0147 (big blind) folded on the River
+Seat 2: SkankPeddlin folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: J0rdn.13 folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: ehle11 (button) folded before Flop (didn't bet)
+Seat 9: le survenant (small blind) collected ($0.50)
+
+
+
+PokerStars Game #20029040798:  Hold'em No Limit ($0.10/$0.25) - 2008/08/30 - 23:49:30 (ET)
+Table 'Regulus II' 9-max Seat #9 is the button
+Seat 1: jasons0147 ($43.60 in chips) 
+Seat 2: SkankPeddlin ($22.05 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 6: J0rdn.13 ($13 in chips) 
+Seat 7: wasserss ($4.30 in chips) 
+Seat 8: ehle11 ($24.30 in chips) 
+Seat 9: le survenant ($53.55 in chips) 
+jasons0147: posts small blind $0.10
+SkankPeddlin: posts big blind $0.25
+Eksal: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Th]
+Alameda22: folds 
+J0rdn.13: calls $0.25
+wasserss: folds 
+ehle11: folds 
+le survenant: calls $0.25
+jasons0147: calls $0.15
+SkankPeddlin: checks 
+*** FLOP *** [Kh 6s 3d]
+jasons0147: checks 
+SkankPeddlin: checks 
+J0rdn.13: bets $0.25
+le survenant: calls $0.25
+jasons0147: folds 
+SkankPeddlin: folds 
+*** TURN *** [Kh 6s 3d] [Ad]
+J0rdn.13: bets $0.25
+le survenant: folds 
+Uncalled bet ($0.25) returned to J0rdn.13
+J0rdn.13 collected $1.45 from pot
+J0rdn.13: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Kh 6s 3d Ad]
+Seat 1: jasons0147 (small blind) folded on the Flop
+Seat 2: SkankPeddlin (big blind) folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: J0rdn.13 collected ($1.45)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: ehle11 folded before Flop (didn't bet)
+Seat 9: le survenant (button) folded on the Turn
+
+
+
+PokerStars Game #20029056123:  Hold'em No Limit ($0.10/$0.25) - 2008/08/30 - 23:50:22 (ET)
+Table 'Regulus II' 9-max Seat #1 is the button
+Seat 1: jasons0147 ($43.35 in chips) 
+Seat 2: SkankPeddlin ($21.80 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 6: J0rdn.13 ($13.95 in chips) 
+Seat 7: wasserss ($4.30 in chips) 
+Seat 8: ehle11 ($24.30 in chips) 
+Seat 9: le survenant ($53.05 in chips) 
+SkankPeddlin: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Eksal: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Ts]
+J0rdn.13: calls $0.25
+wasserss: folds 
+ehle11: folds 
+le survenant: calls $0.25
+jasons0147: folds 
+SkankPeddlin: calls $0.15
+Alameda22: checks 
+*** FLOP *** [4s 8s 3d]
+SkankPeddlin: checks 
+Alameda22: checks 
+J0rdn.13: bets $0.25
+le survenant: folds 
+SkankPeddlin: folds 
+Alameda22: raises $0.75 to $1
+J0rdn.13: raises $0.75 to $1.75
+Alameda22: calls $0.75
+*** TURN *** [4s 8s 3d] [Jd]
+Alameda22: checks 
+J0rdn.13: bets $0.50
+Alameda22: calls $0.50
+*** RIVER *** [4s 8s 3d Jd] [7s]
+Alameda22: bets $3.75
+J0rdn.13: calls $3.75
+*** SHOW DOWN ***
+Alameda22: shows [3s Ts] (a flush, Ten high)
+J0rdn.13: mucks hand 
+Alameda22 collected $12.40 from pot
+*** SUMMARY ***
+Total pot $13 | Rake $0.60 
+Board [4s 8s 3d Jd 7s]
+Seat 1: jasons0147 (button) folded before Flop (didn't bet)
+Seat 2: SkankPeddlin (small blind) folded on the Flop
+Seat 4: Alameda22 (big blind) showed [3s Ts] and won ($12.40) with a flush, Ten high
+Seat 6: J0rdn.13 mucked [8d Kh]
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: ehle11 folded before Flop (didn't bet)
+Seat 9: le survenant folded on the Flop
+
+
+

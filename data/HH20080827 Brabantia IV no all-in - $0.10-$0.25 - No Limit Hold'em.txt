@@ -1,0 +1,4755 @@
+PokerStars Game #19951644781:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:56:52 (ET)
+Table 'Brabantia IV' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($25 in chips) 
+Seat 2: tlh22 ($8.80 in chips) 
+Seat 3: zingzhang182 ($12.90 in chips) 
+Seat 4: Rapha23 ($14.25 in chips) 
+Seat 5: WhiteApe777 ($25 in chips) 
+Seat 6: WilGhy ($35.45 in chips) 
+Seat 7: ajvchuk ($4 in chips) 
+Seat 8: jacky20 ($27.30 in chips) 
+Seat 9: steveo5701 ($30.30 in chips) 
+steveo5701: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 3s]
+tlh22: folds 
+zingzhang182: folds 
+tlh22 leaves the table
+Rapha23: folds 
+WhiteApe777: folds 
+WilGhy: folds 
+ajvchuk: folds 
+jacky20: calls $0.25
+steveo5701: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Jh Jd 9c]
+steveo5701: checks 
+Alameda22: checks 
+jacky20: checks 
+*** TURN *** [Jh Jd 9c] [7d]
+steveo5701: checks 
+Alameda22: checks 
+jacky20: checks 
+*** RIVER *** [Jh Jd 9c 7d] [7h]
+steveo5701: checks 
+Alameda22: checks 
+jacky20: checks 
+*** SHOW DOWN ***
+steveo5701: shows [4s 2d] (two pair, Jacks and Sevens)
+Alameda22: shows [8h 3s] (two pair, Jacks and Sevens)
+jacky20: shows [Td As] (two pair, Jacks and Sevens - Ace kicker)
+jacky20 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Jh Jd 9c 7d 7h]
+Seat 1: Alameda22 (big blind) showed [8h 3s] and lost with two pair, Jacks and Sevens
+Seat 2: tlh22 folded before Flop (didn't bet)
+Seat 3: zingzhang182 folded before Flop (didn't bet)
+Seat 4: Rapha23 folded before Flop (didn't bet)
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: ajvchuk folded before Flop (didn't bet)
+Seat 8: jacky20 (button) showed [Td As] and won ($0.75) with two pair, Jacks and Sevens
+Seat 9: steveo5701 (small blind) showed [4s 2d] and lost with two pair, Jacks and Sevens
+
+
+
+PokerStars Game #19951680781:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:58:27 (ET)
+Table 'Brabantia IV' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($24.75 in chips) 
+Seat 3: zingzhang182 ($12.90 in chips) 
+Seat 4: Rapha23 ($14.25 in chips) 
+Seat 5: WhiteApe777 ($25 in chips) 
+Seat 6: WilGhy ($35.45 in chips) 
+Seat 7: ajvchuk ($4 in chips) 
+Seat 8: jacky20 ($27.80 in chips) 
+Seat 9: steveo5701 ($30.05 in chips) 
+Alameda22: posts small blind $0.10
+zingzhang182: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 9c]
+Rapha23: folds 
+WhiteApe777: raises $0.75 to $1
+WilGhy: folds 
+Rapha23 leaves the table
+ajvchuk: folds 
+jacky20: folds 
+steveo5701: folds 
+jacky20 is sitting out
+Alameda22: folds 
+zingzhang182: folds 
+Uncalled bet ($0.75) returned to WhiteApe777
+WhiteApe777 collected $0.60 from pot
+WhiteApe777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 3: zingzhang182 (big blind) folded before Flop
+Seat 4: Rapha23 folded before Flop (didn't bet)
+Seat 5: WhiteApe777 collected ($0.60)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: ajvchuk folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951699218:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:59:16 (ET)
+Table 'Brabantia IV' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 3: zingzhang182 ($12.65 in chips) 
+Seat 5: WhiteApe777 ($25.35 in chips) 
+Seat 6: WilGhy ($35.45 in chips) 
+Seat 7: ajvchuk ($4 in chips) 
+Seat 9: steveo5701 ($30.05 in chips) 
+zingzhang182: posts small blind $0.10
+WhiteApe777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h As]
+WilGhy: folds 
+ajvchuk: folds 
+steveo5701: folds 
+Alameda22: folds 
+zingzhang182: calls $0.15
+WhiteApe777: checks 
+*** FLOP *** [Ts 5d Jh]
+zingzhang182: checks 
+WhiteApe777: checks 
+*** TURN *** [Ts 5d Jh] [3d]
+zingzhang182: checks 
+WhiteApe777: checks 
+*** RIVER *** [Ts 5d Jh 3d] [4d]
+zingzhang182: checks 
+WhiteApe777: checks 
+*** SHOW DOWN ***
+zingzhang182: shows [8s 7c] (high card Jack)
+WhiteApe777: shows [Ah 9d] (high card Ace)
+WhiteApe777 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Ts 5d Jh 3d 4d]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: zingzhang182 (small blind) showed [8s 7c] and lost with high card Jack
+Seat 5: WhiteApe777 (big blind) showed [Ah 9d] and won ($0.50) with high card Ace
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: ajvchuk folded before Flop (didn't bet)
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951719657:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:00:07 (ET)
+Table 'Brabantia IV' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 3: zingzhang182 ($12.40 in chips) 
+Seat 5: WhiteApe777 ($25.60 in chips) 
+Seat 6: WilGhy ($35.45 in chips) 
+Seat 7: ajvchuk ($4 in chips) 
+Seat 9: steveo5701 ($30.05 in chips) 
+WhiteApe777: posts small blind $0.10
+WilGhy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 7s]
+ajvchuk: folds 
+shaeNinness joins the table at seat #4 
+steveo5701: folds 
+Alameda22: folds 
+zingzhang182: folds 
+WhiteApe777: folds 
+Uncalled bet ($0.15) returned to WilGhy
+WilGhy collected $0.20 from pot
+WilGhy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: zingzhang182 (button) folded before Flop (didn't bet)
+Seat 5: WhiteApe777 (small blind) folded before Flop
+Seat 6: WilGhy (big blind) collected ($0.20)
+Seat 7: ajvchuk folded before Flop (didn't bet)
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951739875:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:01:01 (ET)
+Table 'Brabantia IV' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 3: zingzhang182 ($12.40 in chips) 
+Seat 4: shaeNinness ($6 in chips) 
+Seat 5: WhiteApe777 ($25.50 in chips) 
+Seat 6: WilGhy ($35.55 in chips) 
+Seat 7: ajvchuk ($4 in chips) 
+Seat 9: steveo5701 ($30.05 in chips) 
+WilGhy: posts small blind $0.10
+ajvchuk: posts big blind $0.25
+shaeNinness: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Th]
+steveo5701: folds 
+Alameda22: folds 
+DizzyWhizzy joins the table at seat #2 
+zingzhang182: raises $1 to $1.25
+shaeNinness: folds 
+WhiteApe777: folds 
+WilGhy: folds 
+ajvchuk: folds 
+Uncalled bet ($1) returned to zingzhang182
+zingzhang182 collected $0.85 from pot
+zingzhang182: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: zingzhang182 collected ($0.85)
+Seat 4: shaeNinness folded before Flop
+Seat 5: WhiteApe777 (button) folded before Flop (didn't bet)
+Seat 6: WilGhy (small blind) folded before Flop
+Seat 7: ajvchuk (big blind) folded before Flop
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951756485:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:01:45 (ET)
+Table 'Brabantia IV' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 3: zingzhang182 ($13 in chips) 
+Seat 4: shaeNinness ($5.75 in chips) 
+Seat 5: WhiteApe777 ($25.50 in chips) 
+Seat 6: WilGhy ($35.45 in chips) 
+Seat 7: ajvchuk ($3.75 in chips) 
+Seat 9: steveo5701 ($30.05 in chips) 
+ajvchuk: posts small blind $0.10
+steveo5701: posts big blind $0.25
+DizzyWhizzy: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Ad]
+Alameda22: folds 
+zingzhang182: folds 
+shaeNinness: folds 
+WhiteApe777: folds 
+WilGhy: folds 
+ajvchuk: calls $0.15
+steveo5701: checks 
+*** FLOP *** [2s 2h Kd]
+ajvchuk: bets $0.25
+steveo5701: folds 
+Uncalled bet ($0.25) returned to ajvchuk
+ajvchuk collected $0.50 from pot
+ajvchuk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [2s 2h Kd]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: zingzhang182 folded before Flop (didn't bet)
+Seat 4: shaeNinness folded before Flop (didn't bet)
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy (button) folded before Flop (didn't bet)
+Seat 7: ajvchuk (small blind) collected ($0.50)
+Seat 9: steveo5701 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19951771667:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:02:25 (ET)
+Table 'Brabantia IV' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($24.65 in chips) 
+Seat 3: zingzhang182 ($13 in chips) 
+Seat 4: shaeNinness ($5.75 in chips) 
+Seat 5: WhiteApe777 ($25.50 in chips) 
+Seat 6: WilGhy ($35.45 in chips) 
+Seat 7: ajvchuk ($4 in chips) 
+Seat 9: steveo5701 ($29.80 in chips) 
+steveo5701: posts small blind $0.10
+Alameda22: posts big blind $0.25
+DizzyWhizzy: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Js]
+zingzhang182: calls $0.25
+shaeNinness: folds 
+WhiteApe777: folds 
+WilGhy: folds 
+ajvchuk: folds 
+steveo5701: calls $0.15
+Alameda22: checks 
+*** FLOP *** [3h Ks 2d]
+steveo5701: checks 
+Alameda22: checks 
+zingzhang182: checks 
+*** TURN *** [3h Ks 2d] [Jd]
+steveo5701: checks 
+Alameda22: checks 
+zingzhang182: bets $0.50
+steveo5701: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to zingzhang182
+zingzhang182 collected $0.75 from pot
+zingzhang182: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [3h Ks 2d Jd]
+Seat 1: Alameda22 (big blind) folded on the Turn
+Seat 3: zingzhang182 collected ($0.75)
+Seat 4: shaeNinness folded before Flop (didn't bet)
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: ajvchuk (button) folded before Flop (didn't bet)
+Seat 9: steveo5701 (small blind) folded on the Turn
+
+
+
+PokerStars Game #19951799541:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:03:39 (ET)
+Table 'Brabantia IV' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($24.40 in chips) 
+Seat 2: DizzyWhizzy ($5 in chips) 
+Seat 3: zingzhang182 ($13.50 in chips) 
+Seat 4: shaeNinness ($5.75 in chips) 
+Seat 5: WhiteApe777 ($25.50 in chips) 
+Seat 6: WilGhy ($35.45 in chips) 
+Seat 7: ajvchuk ($4 in chips) 
+Seat 9: steveo5701 ($29.55 in chips) 
+Alameda22: posts small blind $0.10
+DizzyWhizzy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Jc]
+zingzhang182: folds 
+shaeNinness: calls $0.25
+WhiteApe777: folds 
+WilGhy: calls $0.25
+ajvchuk: folds 
+steveo5701: folds 
+Alameda22: folds 
+DizzyWhizzy: checks 
+*** FLOP *** [8s 3c 2c]
+DizzyWhizzy: checks 
+shaeNinness: bets $0.25
+WilGhy: folds 
+DizzyWhizzy: folds 
+Uncalled bet ($0.25) returned to shaeNinness
+shaeNinness collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [8s 3c 2c]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: DizzyWhizzy (big blind) folded on the Flop
+Seat 3: zingzhang182 folded before Flop (didn't bet)
+Seat 4: shaeNinness collected ($0.85)
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy folded on the Flop
+Seat 7: ajvchuk folded before Flop (didn't bet)
+Seat 9: steveo5701 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951825368:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:04:48 (ET)
+Table 'Brabantia IV' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($24.30 in chips) 
+Seat 2: DizzyWhizzy ($4.75 in chips) 
+Seat 3: zingzhang182 ($13.50 in chips) 
+Seat 4: shaeNinness ($6.35 in chips) 
+Seat 5: WhiteApe777 ($25.50 in chips) 
+Seat 6: WilGhy ($35.20 in chips) 
+Seat 7: ajvchuk ($4 in chips) 
+Seat 9: steveo5701 ($29.55 in chips) 
+DizzyWhizzy: posts small blind $0.10
+zingzhang182: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Qc]
+shaeNinness: calls $0.25
+WhiteApe777: folds 
+WilGhy: folds 
+ajvchuk: folds 
+steveo5701: raises $0.75 to $1
+Alameda22: folds 
+jacky20 has returned
+DizzyWhizzy: folds 
+zingzhang182: folds 
+shaeNinness: folds 
+Uncalled bet ($0.75) returned to steveo5701
+steveo5701 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy (small blind) folded before Flop
+Seat 3: zingzhang182 (big blind) folded before Flop
+Seat 4: shaeNinness folded before Flop
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: ajvchuk folded before Flop (didn't bet)
+Seat 9: steveo5701 collected ($0.85)
+
+
+
+PokerStars Game #19951849541:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:05:52 (ET)
+Table 'Brabantia IV' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($24.30 in chips) 
+Seat 2: DizzyWhizzy ($4.65 in chips) 
+Seat 3: zingzhang182 ($13.25 in chips) 
+Seat 4: shaeNinness ($6.10 in chips) 
+Seat 5: WhiteApe777 ($25.50 in chips) 
+Seat 6: WilGhy ($35.20 in chips) 
+Seat 7: ajvchuk ($4 in chips) 
+Seat 8: jacky20 ($27.80 in chips) 
+Seat 9: steveo5701 ($30.15 in chips) 
+zingzhang182: posts small blind $0.10
+shaeNinness: posts big blind $0.25
+jacky20: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Jc]
+WhiteApe777: folds 
+WilGhy: calls $0.25
+ajvchuk: calls $0.25
+jacky20: checks 
+steveo5701: calls $0.25
+Alameda22: folds 
+DizzyWhizzy: folds 
+zingzhang182: calls $0.15
+shaeNinness: raises $0.50 to $0.75
+WilGhy: calls $0.50
+ajvchuk: folds 
+jacky20: folds 
+steveo5701: calls $0.50
+zingzhang182: calls $0.50
+*** FLOP *** [2c 8s 9h]
+zingzhang182: checks 
+shaeNinness: bets $0.50
+WilGhy: folds 
+steveo5701: raises $1 to $1.50
+zingzhang182: folds 
+shaeNinness: folds 
+Uncalled bet ($1) returned to steveo5701
+steveo5701 collected $4.40 from pot
+steveo5701: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.20 
+Board [2c 8s 9h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy (button) folded before Flop (didn't bet)
+Seat 3: zingzhang182 (small blind) folded on the Flop
+Seat 4: shaeNinness (big blind) folded on the Flop
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy folded on the Flop
+Seat 7: ajvchuk folded before Flop
+Seat 8: jacky20 folded before Flop
+Seat 9: steveo5701 collected ($4.40)
+
+
+
+PokerStars Game #19951879046:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:07:10 (ET)
+Table 'Brabantia IV' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($24.30 in chips) 
+Seat 2: DizzyWhizzy ($4.65 in chips) 
+Seat 3: zingzhang182 ($12.50 in chips) 
+Seat 4: shaeNinness ($4.85 in chips) 
+Seat 5: WhiteApe777 ($25.50 in chips) 
+Seat 6: WilGhy ($34.45 in chips) 
+Seat 7: ajvchuk ($3.75 in chips) 
+Seat 8: jacky20 ($27.45 in chips) 
+Seat 9: steveo5701 ($33.30 in chips) 
+shaeNinness: posts small blind $0.10
+WhiteApe777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Jh]
+WilGhy: raises $0.50 to $0.75
+ajvchuk: folds 
+jacky20: calls $0.75
+steveo5701: folds 
+Alameda22: folds 
+DizzyWhizzy: calls $0.75
+zingzhang182: folds 
+shaeNinness: folds 
+WhiteApe777: folds 
+*** FLOP *** [5h 3d 3s]
+WilGhy: checks 
+jacky20: checks 
+DizzyWhizzy: bets $0.75
+WilGhy: folds 
+jacky20: folds 
+Uncalled bet ($0.75) returned to DizzyWhizzy
+DizzyWhizzy collected $2.50 from pot
+DizzyWhizzy: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [5h 3d 3s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy collected ($2.50)
+Seat 3: zingzhang182 (button) folded before Flop (didn't bet)
+Seat 4: shaeNinness (small blind) folded before Flop
+Seat 5: WhiteApe777 (big blind) folded before Flop
+Seat 6: WilGhy folded on the Flop
+Seat 7: ajvchuk folded before Flop (didn't bet)
+Seat 8: jacky20 folded on the Flop
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951899544:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:08:04 (ET)
+Table 'Brabantia IV' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($24.30 in chips) 
+Seat 2: DizzyWhizzy ($6.40 in chips) 
+Seat 3: zingzhang182 ($12.50 in chips) 
+Seat 4: shaeNinness ($4.75 in chips) 
+Seat 5: WhiteApe777 ($25.25 in chips) 
+Seat 6: WilGhy ($33.70 in chips) 
+Seat 7: ajvchuk ($3.75 in chips) 
+Seat 8: jacky20 ($26.70 in chips) 
+Seat 9: steveo5701 ($33.30 in chips) 
+WhiteApe777: posts small blind $0.10
+WilGhy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 2h]
+ajvchuk: folds 
+jacky20: folds 
+steveo5701: folds 
+Alameda22: folds 
+DizzyWhizzy: folds 
+zingzhang182: folds 
+shaeNinness: calls $0.25
+WhiteApe777: folds 
+WilGhy: checks 
+*** FLOP *** [Ah 2s Qs]
+WilGhy: checks 
+shaeNinness: bets $0.25
+WilGhy: raises $0.25 to $0.50
+shaeNinness: calls $0.25
+*** TURN *** [Ah 2s Qs] [2d]
+WilGhy: checks 
+shaeNinness: checks 
+*** RIVER *** [Ah 2s Qs 2d] [Ad]
+WilGhy: bets $0.75
+shaeNinness: raises $0.75 to $1.50
+WilGhy: folds 
+Uncalled bet ($0.75) returned to shaeNinness
+shaeNinness collected $2.95 from pot
+shaeNinness: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [Ah 2s Qs 2d Ad]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy folded before Flop (didn't bet)
+Seat 3: zingzhang182 folded before Flop (didn't bet)
+Seat 4: shaeNinness (button) collected ($2.95)
+Seat 5: WhiteApe777 (small blind) folded before Flop
+Seat 6: WilGhy (big blind) folded on the River
+Seat 7: ajvchuk folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951933631:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:09:34 (ET)
+Table 'Brabantia IV' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($24.30 in chips) 
+Seat 2: DizzyWhizzy ($6.40 in chips) 
+Seat 3: zingzhang182 ($12.50 in chips) 
+Seat 4: shaeNinness ($6.20 in chips) 
+Seat 5: WhiteApe777 ($25.15 in chips) 
+Seat 6: WilGhy ($32.20 in chips) 
+Seat 7: ajvchuk ($3.75 in chips) 
+Seat 8: jacky20 ($26.70 in chips) 
+Seat 9: steveo5701 ($33.30 in chips) 
+WilGhy: posts small blind $0.10
+ajvchuk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Qd]
+jacky20: folds 
+steveo5701: calls $0.25
+Alameda22: folds 
+DizzyWhizzy: folds 
+zingzhang182: calls $0.25
+shaeNinness: folds 
+WhiteApe777: raises $1.25 to $1.50
+WilGhy: calls $1.40
+ajvchuk: folds 
+steveo5701: folds 
+zingzhang182: folds 
+*** FLOP *** [Ac 3c 3d]
+WilGhy: checks 
+WhiteApe777: bets $2.70
+WilGhy: calls $2.70
+*** TURN *** [Ac 3c 3d] [5c]
+WilGhy: checks 
+WhiteApe777: checks 
+*** RIVER *** [Ac 3c 3d 5c] [Jc]
+WilGhy: bets $2
+WhiteApe777: folds 
+Uncalled bet ($2) returned to WilGhy
+WilGhy collected $8.70 from pot
+WilGhy: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.15 | Rake $0.45 
+Board [Ac 3c 3d 5c Jc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy folded before Flop (didn't bet)
+Seat 3: zingzhang182 folded before Flop
+Seat 4: shaeNinness folded before Flop (didn't bet)
+Seat 5: WhiteApe777 (button) folded on the River
+Seat 6: WilGhy (small blind) collected ($8.70)
+Seat 7: ajvchuk (big blind) folded before Flop
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 folded before Flop
+
+
+
+PokerStars Game #19951962247:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:10:50 (ET)
+Table 'Brabantia IV' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($24.30 in chips) 
+Seat 2: DizzyWhizzy ($6.40 in chips) 
+Seat 3: zingzhang182 ($12.25 in chips) 
+Seat 4: shaeNinness ($6.20 in chips) 
+Seat 5: WhiteApe777 ($25 in chips) 
+Seat 6: WilGhy ($36.70 in chips) 
+Seat 7: ajvchuk ($3.50 in chips) 
+Seat 8: jacky20 ($26.70 in chips) 
+Seat 9: steveo5701 ($33.05 in chips) 
+ajvchuk: posts small blind $0.10
+jacky20: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Ah]
+steveo5701: folds 
+Alameda22: folds 
+DizzyWhizzy: folds 
+zingzhang182: calls $0.25
+shaeNinness: calls $0.25
+WhiteApe777: folds 
+WilGhy: folds 
+ajvchuk: calls $0.15
+jacky20: checks 
+*** FLOP *** [Th 5s 7c]
+ajvchuk: checks 
+jacky20: checks 
+WilGhy is sitting out
+zingzhang182: checks 
+shaeNinness: bets $0.95
+ajvchuk: folds 
+jacky20: calls $0.95
+zingzhang182: folds 
+*** TURN *** [Th 5s 7c] [9d]
+zingzhang182 leaves the table
+jacky20: checks 
+shaeNinness: checks 
+*** RIVER *** [Th 5s 7c 9d] [Jd]
+jacky20: bets $1.25
+shaeNinness: calls $1.25
+*** SHOW DOWN ***
+jacky20: shows [4h 8c] (a straight, Seven to Jack)
+shaeNinness: mucks hand 
+jacky20 collected $5.15 from pot
+*** SUMMARY ***
+Total pot $5.40 | Rake $0.25 
+Board [Th 5s 7c 9d Jd]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy folded before Flop (didn't bet)
+Seat 3: zingzhang182 folded on the Flop
+Seat 4: shaeNinness mucked [Ac Tc]
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy (button) folded before Flop (didn't bet)
+Seat 7: ajvchuk (small blind) folded on the Flop
+Seat 8: jacky20 (big blind) showed [4h 8c] and won ($5.15) with a straight, Seven to Jack
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952011855:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:13:02 (ET)
+Table 'Brabantia IV' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($24.30 in chips) 
+Seat 2: DizzyWhizzy ($6.40 in chips) 
+Seat 4: shaeNinness ($3.75 in chips) 
+Seat 5: WhiteApe777 ($25 in chips) 
+Seat 7: ajvchuk ($3.25 in chips) 
+Seat 8: jacky20 ($29.40 in chips) 
+Seat 9: steveo5701 ($33.05 in chips) 
+jacky20: posts small blind $0.10
+steveo5701: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 7h]
+Alameda22: folds 
+shaeNinness said, "wha"
+DizzyWhizzy: raises $0.25 to $0.50
+shaeNinness: folds 
+WhiteApe777: folds 
+ajvchuk: folds 
+jacky20: folds 
+steveo5701: calls $0.25
+*** FLOP *** [Jh Ts 2h]
+steveo5701: bets $0.75
+DizzyWhizzy: folds 
+Uncalled bet ($0.75) returned to steveo5701
+steveo5701 collected $1.05 from pot
+steveo5701: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Jh Ts 2h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy folded on the Flop
+Seat 4: shaeNinness folded before Flop (didn't bet)
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 7: ajvchuk (button) folded before Flop (didn't bet)
+Seat 8: jacky20 (small blind) folded before Flop
+Seat 9: steveo5701 (big blind) collected ($1.05)
+
+
+
+PokerStars Game #19952034956:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:14:03 (ET)
+Table 'Brabantia IV' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($24.30 in chips) 
+Seat 2: DizzyWhizzy ($5.90 in chips) 
+Seat 4: shaeNinness ($3.75 in chips) 
+Seat 5: WhiteApe777 ($25 in chips) 
+Seat 7: ajvchuk ($3.25 in chips) 
+Seat 8: jacky20 ($29.30 in chips) 
+Seat 9: steveo5701 ($33.60 in chips) 
+steveo5701: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 8d]
+DizzyWhizzy: calls $0.25
+shaeNinness: folds 
+WhiteApe777: folds 
+ajvchuk: folds 
+jacky20: folds 
+steveo5701: calls $0.15
+Alameda22: checks 
+*** FLOP *** [8h 2h 5h]
+steveo5701: checks 
+Alameda22: checks 
+DizzyWhizzy: bets $0.50
+steveo5701: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to DizzyWhizzy
+DizzyWhizzy collected $0.75 from pot
+DizzyWhizzy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [8h 2h 5h]
+Seat 1: Alameda22 (big blind) folded on the Flop
+Seat 2: DizzyWhizzy collected ($0.75)
+Seat 4: shaeNinness folded before Flop (didn't bet)
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 7: ajvchuk folded before Flop (didn't bet)
+Seat 8: jacky20 (button) folded before Flop (didn't bet)
+Seat 9: steveo5701 (small blind) folded on the Flop
+
+
+
+PokerStars Game #19952065076:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:15:23 (ET)
+Table 'Brabantia IV' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($24.05 in chips) 
+Seat 2: DizzyWhizzy ($6.40 in chips) 
+Seat 4: shaeNinness ($5 in chips) 
+Seat 5: WhiteApe777 ($25 in chips) 
+Seat 7: ajvchuk ($3.25 in chips) 
+Seat 8: jacky20 ($29.30 in chips) 
+Seat 9: steveo5701 ($33.35 in chips) 
+Alameda22: posts small blind $0.10
+DizzyWhizzy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Th]
+shaeNinness: folds 
+WhiteApe777: folds 
+ajvchuk: folds 
+jacky20: folds 
+steveo5701: folds 
+yjqian23 joins the table at seat #3 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to DizzyWhizzy
+DizzyWhizzy collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: DizzyWhizzy (big blind) collected ($0.20)
+Seat 4: shaeNinness folded before Flop (didn't bet)
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 7: ajvchuk folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952075974:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:15:52 (ET)
+Table 'Brabantia IV' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($23.95 in chips) 
+Seat 2: DizzyWhizzy ($6.50 in chips) 
+Seat 3: yjqian23 ($25 in chips) 
+Seat 4: shaeNinness ($5 in chips) 
+Seat 5: WhiteApe777 ($25 in chips) 
+Seat 7: ajvchuk ($3.25 in chips) 
+Seat 8: jacky20 ($29.30 in chips) 
+Seat 9: steveo5701 ($33.35 in chips) 
+DizzyWhizzy: posts small blind $0.10
+yjqian23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 5c]
+shaeNinness: folds 
+WhiteApe777: folds 
+ajvchuk: raises $0.35 to $0.60
+jacky20: folds 
+steveo5701: calls $0.60
+Alameda22: folds 
+DizzyWhizzy: folds 
+WilGhy has returned
+yjqian23: folds 
+*** FLOP *** [Qs 3s 8d]
+ajvchuk: checks 
+steveo5701: bets $1
+ajvchuk: folds 
+Uncalled bet ($1) returned to steveo5701
+steveo5701 collected $1.50 from pot
+steveo5701: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.05 
+Board [Qs 3s 8d]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy (small blind) folded before Flop
+Seat 3: yjqian23 (big blind) folded before Flop
+Seat 4: shaeNinness folded before Flop (didn't bet)
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 7: ajvchuk folded on the Flop
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 collected ($1.50)
+
+
+
+PokerStars Game #19952100616:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:16:57 (ET)
+Table 'Brabantia IV' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($23.95 in chips) 
+Seat 2: DizzyWhizzy ($6.40 in chips) 
+Seat 3: yjqian23 ($24.75 in chips) 
+Seat 4: shaeNinness ($5 in chips) 
+Seat 5: WhiteApe777 ($25 in chips) 
+Seat 6: WilGhy ($36.70 in chips) 
+Seat 7: ajvchuk ($2.65 in chips) 
+Seat 8: jacky20 ($29.30 in chips) 
+Seat 9: steveo5701 ($34.25 in chips) 
+yjqian23: posts small blind $0.10
+shaeNinness: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Jc]
+WhiteApe777: raises $0.75 to $1
+WilGhy: folds 
+ajvchuk: folds 
+jacky20: folds 
+steveo5701: folds 
+Alameda22: folds 
+DizzyWhizzy is disconnected 
+DizzyWhizzy is connected 
+DizzyWhizzy: folds 
+yjqian23: folds 
+shaeNinness: calls $0.75
+*** FLOP *** [7c 2c Ts]
+shaeNinness: checks 
+WhiteApe777: bets $2
+shaeNinness: folds 
+Uncalled bet ($2) returned to WhiteApe777
+WhiteApe777 collected $2 from pot
+WhiteApe777: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [7c 2c Ts]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy (button) folded before Flop (didn't bet)
+Seat 3: yjqian23 (small blind) folded before Flop
+Seat 4: shaeNinness (big blind) folded on the Flop
+Seat 5: WhiteApe777 collected ($2)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: ajvchuk folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952137561:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:18:35 (ET)
+Table 'Brabantia IV' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($23.95 in chips) 
+Seat 2: DizzyWhizzy ($6.40 in chips) 
+Seat 3: yjqian23 ($24.65 in chips) 
+Seat 4: shaeNinness ($4 in chips) 
+Seat 5: WhiteApe777 ($26 in chips) 
+Seat 6: WilGhy ($36.70 in chips) 
+Seat 7: ajvchuk ($2.65 in chips) 
+Seat 8: jacky20 ($29.30 in chips) 
+Seat 9: steveo5701 ($34.25 in chips) 
+shaeNinness: posts small blind $0.10
+WhiteApe777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Td]
+WilGhy: folds 
+ajvchuk: folds 
+DizzyWhizzy is disconnected 
+jacky20: folds 
+steveo5701: raises $0.75 to $1
+DizzyWhizzy is connected 
+Alameda22: calls $1
+DizzyWhizzy: calls $1
+yjqian23: folds 
+shaeNinness: folds 
+WhiteApe777: folds 
+*** FLOP *** [9c 4h 2d]
+steveo5701: bets $2.50
+Alameda22: folds 
+DizzyWhizzy: folds 
+Uncalled bet ($2.50) returned to steveo5701
+steveo5701 collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [9c 4h 2d]
+Seat 1: Alameda22 folded on the Flop
+Seat 2: DizzyWhizzy folded on the Flop
+Seat 3: yjqian23 (button) folded before Flop (didn't bet)
+Seat 4: shaeNinness (small blind) folded before Flop
+Seat 5: WhiteApe777 (big blind) folded before Flop
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: ajvchuk folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 collected ($3.20)
+
+
+
+PokerStars Game #19952173536:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:20:10 (ET)
+Table 'Brabantia IV' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: DizzyWhizzy ($5.40 in chips) 
+Seat 3: yjqian23 ($24.65 in chips) 
+Seat 4: shaeNinness ($3.90 in chips) 
+Seat 5: WhiteApe777 ($25.75 in chips) 
+Seat 6: WilGhy ($36.70 in chips) 
+Seat 7: ajvchuk ($2.65 in chips) 
+Seat 8: jacky20 ($29.30 in chips) 
+Seat 9: steveo5701 ($36.45 in chips) 
+WhiteApe777: posts small blind $0.10
+WilGhy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Ks]
+ajvchuk: folds 
+jacky20: folds 
+steveo5701: folds 
+Alameda22: folds 
+DizzyWhizzy: raises $0.75 to $1
+yjqian23: folds 
+shaeNinness: folds 
+WhiteApe777: folds 
+WilGhy: folds 
+Uncalled bet ($0.75) returned to DizzyWhizzy
+DizzyWhizzy collected $0.60 from pot
+DizzyWhizzy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy collected ($0.60)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: shaeNinness (button) folded before Flop (didn't bet)
+Seat 5: WhiteApe777 (small blind) folded before Flop
+Seat 6: WilGhy (big blind) folded before Flop
+Seat 7: ajvchuk folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952190361:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:20:55 (ET)
+Table 'Brabantia IV' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: DizzyWhizzy ($5.75 in chips) 
+Seat 3: yjqian23 ($24.65 in chips) 
+Seat 4: shaeNinness ($3.90 in chips) 
+Seat 5: WhiteApe777 ($25.65 in chips) 
+Seat 6: WilGhy ($36.45 in chips) 
+Seat 7: ajvchuk ($2.65 in chips) 
+Seat 8: jacky20 ($29.30 in chips) 
+Seat 9: steveo5701 ($36.45 in chips) 
+WilGhy: posts small blind $0.10
+ajvchuk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 7s]
+jacky20: folds 
+steveo5701: folds 
+Alameda22: folds 
+DizzyWhizzy: folds 
+yjqian23: folds 
+shaeNinness: folds 
+WhiteApe777: folds 
+WilGhy: folds 
+Uncalled bet ($0.15) returned to ajvchuk
+ajvchuk collected $0.20 from pot
+ajvchuk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy folded before Flop (didn't bet)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: shaeNinness folded before Flop (didn't bet)
+Seat 5: WhiteApe777 (button) folded before Flop (didn't bet)
+Seat 6: WilGhy (small blind) folded before Flop
+Seat 7: ajvchuk (big blind) collected ($0.20)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952200289:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:21:21 (ET)
+Table 'Brabantia IV' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: DizzyWhizzy ($5.75 in chips) 
+Seat 3: yjqian23 ($24.65 in chips) 
+Seat 4: shaeNinness ($3.90 in chips) 
+Seat 5: WhiteApe777 ($25.65 in chips) 
+Seat 6: WilGhy ($36.35 in chips) 
+Seat 7: ajvchuk ($2.75 in chips) 
+Seat 8: jacky20 ($29.30 in chips) 
+Seat 9: steveo5701 ($36.45 in chips) 
+ajvchuk: posts small blind $0.10
+jacky20: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 4d]
+steveo5701: calls $0.25
+Alameda22: folds 
+DizzyWhizzy: folds 
+yjqian23: folds 
+shaeNinness: calls $0.25
+WhiteApe777: folds 
+WilGhy: folds 
+ajvchuk: folds 
+jacky20: checks 
+*** FLOP *** [9c 3d Kh]
+jacky20: bets $0.75
+steveo5701: calls $0.75
+shaeNinness: raises $1.25 to $2
+jacky20: folds 
+steveo5701: calls $1.25
+*** TURN *** [9c 3d Kh] [7c]
+steveo5701: checks 
+shaeNinness: bets $1.65 and is all-in
+steveo5701: calls $1.65
+*** RIVER *** [9c 3d Kh 7c] [4h]
+*** SHOW DOWN ***
+steveo5701: shows [8s Kc] (a pair of Kings)
+shaeNinness: shows [9s Kd] (two pair, Kings and Nines)
+shaeNinness collected $8.50 from pot
+*** SUMMARY ***
+Total pot $8.90 | Rake $0.40 
+Board [9c 3d Kh 7c 4h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy folded before Flop (didn't bet)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: shaeNinness showed [9s Kd] and won ($8.50) with two pair, Kings and Nines
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy (button) folded before Flop (didn't bet)
+Seat 7: ajvchuk (small blind) folded before Flop
+Seat 8: jacky20 (big blind) folded on the Flop
+Seat 9: steveo5701 showed [8s Kc] and lost with a pair of Kings
+
+
+
+PokerStars Game #19952227269:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:22:32 (ET)
+Table 'Brabantia IV' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: DizzyWhizzy ($5.75 in chips) 
+Seat 3: yjqian23 ($24.65 in chips) 
+Seat 4: shaeNinness ($8.50 in chips) 
+Seat 5: WhiteApe777 ($25.65 in chips) 
+Seat 6: WilGhy ($36.35 in chips) 
+Seat 7: ajvchuk ($2.65 in chips) 
+Seat 8: jacky20 ($28.30 in chips) 
+Seat 9: steveo5701 ($32.55 in chips) 
+jacky20: posts small blind $0.10
+steveo5701: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Jd]
+Alameda22: folds 
+DizzyWhizzy: folds 
+yjqian23: folds 
+shaeNinness: folds 
+WhiteApe777: calls $0.25
+WilGhy: raises $0.50 to $0.75
+ajvchuk: folds 
+jacky20: calls $0.65
+steveo5701: folds 
+WhiteApe777: calls $0.50
+*** FLOP *** [Qc 8s Qh]
+jacky20: checks 
+WhiteApe777: checks 
+WilGhy: bets $0.50
+jacky20: calls $0.50
+WhiteApe777: folds 
+*** TURN *** [Qc 8s Qh] [Ts]
+jacky20: checks 
+WilGhy: bets $0.75
+jacky20: calls $0.75
+*** RIVER *** [Qc 8s Qh Ts] [Js]
+jacky20: bets $3
+WilGhy said, "KK"
+WilGhy: folds 
+Uncalled bet ($3) returned to jacky20
+jacky20 collected $4.80 from pot
+jacky20: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.20 
+Board [Qc 8s Qh Ts Js]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy folded before Flop (didn't bet)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: shaeNinness folded before Flop (didn't bet)
+Seat 5: WhiteApe777 folded on the Flop
+Seat 6: WilGhy folded on the River
+Seat 7: ajvchuk (button) folded before Flop (didn't bet)
+Seat 8: jacky20 (small blind) collected ($4.80)
+Seat 9: steveo5701 (big blind) folded before Flop
+
+
+
+PokerStars Game #19952265495:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:24:13 (ET)
+Table 'Brabantia IV' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: DizzyWhizzy ($5.75 in chips) 
+Seat 3: yjqian23 ($24.65 in chips) 
+Seat 4: shaeNinness ($8.50 in chips) 
+Seat 5: WhiteApe777 ($24.90 in chips) 
+Seat 6: WilGhy ($34.35 in chips) 
+Seat 7: ajvchuk ($2.65 in chips) 
+Seat 8: jacky20 ($31.10 in chips) 
+Seat 9: steveo5701 ($32.30 in chips) 
+steveo5701: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 5h]
+DizzyWhizzy: folds 
+yjqian23: folds 
+shaeNinness: calls $0.25
+WhiteApe777: raises $1.20 to $1.45
+WilGhy: folds 
+ajvchuk: folds 
+jacky20: folds 
+steveo5701: folds 
+Alameda22: folds 
+shaeNinness: calls $1.20
+*** FLOP *** [Td 3d 8d]
+shaeNinness: bets $1
+WhiteApe777: folds 
+Uncalled bet ($1) returned to shaeNinness
+shaeNinness collected $3.10 from pot
+shaeNinness: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Td 3d 8d]
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: DizzyWhizzy folded before Flop (didn't bet)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: shaeNinness collected ($3.10)
+Seat 5: WhiteApe777 folded on the Flop
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: ajvchuk folded before Flop (didn't bet)
+Seat 8: jacky20 (button) folded before Flop (didn't bet)
+Seat 9: steveo5701 (small blind) folded before Flop
+
+
+
+PokerStars Game #19952289358:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:25:16 (ET)
+Table 'Brabantia IV' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($22.70 in chips) 
+Seat 2: DizzyWhizzy ($5.75 in chips) 
+Seat 3: yjqian23 ($24.65 in chips) 
+Seat 4: shaeNinness ($10.15 in chips) 
+Seat 5: WhiteApe777 ($23.45 in chips) 
+Seat 6: WilGhy ($34.35 in chips) 
+Seat 7: ajvchuk ($2.65 in chips) 
+Seat 8: jacky20 ($31.10 in chips) 
+Seat 9: steveo5701 ($32.20 in chips) 
+Alameda22: posts small blind $0.10
+DizzyWhizzy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Kd]
+yjqian23: folds 
+shaeNinness: folds 
+WhiteApe777: folds 
+WilGhy: folds 
+ajvchuk: raises $2.40 to $2.65 and is all-in
+jacky20: folds 
+steveo5701: calls $2.65
+Alameda22: folds 
+DizzyWhizzy: folds 
+*** FLOP *** [7d 4s 2s]
+*** TURN *** [7d 4s 2s] [9h]
+*** RIVER *** [7d 4s 2s 9h] [Js]
+*** SHOW DOWN ***
+ajvchuk: shows [Ad Qd] (high card Ace)
+steveo5701: shows [Ts Jc] (a pair of Jacks)
+steveo5701 collected $5.40 from pot
+ajvchuk said, "sigh"
+ajvchuk said, "nice river"
+*** SUMMARY ***
+Total pot $5.65 | Rake $0.25 
+Board [7d 4s 2s 9h Js]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: DizzyWhizzy (big blind) folded before Flop
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: shaeNinness folded before Flop (didn't bet)
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: ajvchuk showed [Ad Qd] and lost with high card Ace
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 (button) showed [Ts Jc] and won ($5.40) with a pair of Jacks
+
+
+
+PokerStars Game #19952318165:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:26:31 (ET)
+Table 'Brabantia IV' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($22.60 in chips) 
+Seat 2: DizzyWhizzy ($5.50 in chips) 
+Seat 4: shaeNinness ($10.15 in chips) 
+Seat 5: WhiteApe777 ($25 in chips) 
+Seat 6: WilGhy ($34.35 in chips) 
+Seat 8: jacky20 ($31.10 in chips) 
+Seat 9: steveo5701 ($34.95 in chips) 
+DizzyWhizzy: posts small blind $0.10
+ajvchuk leaves the table
+yjqian23: is sitting out 
+yjqian23 leaves the table
+shaeNinness: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 6d]
+WhiteApe777: calls $0.25
+WilGhy: folds 
+Hayter78 joins the table at seat #3 
+jacky20: folds 
+steveo5701: folds 
+Alameda22: folds 
+DizzyWhizzy: folds 
+shaeNinness: raises $0.25 to $0.50
+WhiteApe777: calls $0.25
+*** FLOP *** [Kc 8s 3c]
+shaeNinness: checks 
+WhiteApe777: bets $0.70
+shaeNinness: folds 
+Uncalled bet ($0.70) returned to WhiteApe777
+WhiteApe777 collected $1.05 from pot
+WhiteApe777: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Kc 8s 3c]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy (small blind) folded before Flop
+Seat 4: shaeNinness (big blind) folded on the Flop
+Seat 5: WhiteApe777 collected ($1.05)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952335778:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:27:17 (ET)
+Table 'Brabantia IV' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($22.60 in chips) 
+Seat 2: DizzyWhizzy ($5.40 in chips) 
+Seat 4: shaeNinness ($9.65 in chips) 
+Seat 5: WhiteApe777 ($25.55 in chips) 
+Seat 6: WilGhy ($34.35 in chips) 
+Seat 8: jacky20 ($31.10 in chips) 
+Seat 9: steveo5701 ($34.95 in chips) 
+Hayter78 will be allowed to play after the button
+shaeNinness: posts small blind $0.10
+WhiteApe777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 4c]
+WilGhy: folds 
+jacky20: folds 
+steveo5701: folds 
+allingwynn joins the table at seat #7 
+Alameda22: folds 
+DizzyWhizzy: folds 
+shaeNinness: folds 
+Uncalled bet ($0.15) returned to WhiteApe777
+WhiteApe777 collected $0.20 from pot
+WhiteApe777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy (button) folded before Flop (didn't bet)
+Seat 4: shaeNinness (small blind) folded before Flop
+Seat 5: WhiteApe777 (big blind) collected ($0.20)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952344714:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:27:41 (ET)
+Table 'Brabantia IV' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($22.60 in chips) 
+Seat 2: DizzyWhizzy ($5.40 in chips) 
+Seat 3: Hayter78 ($5 in chips) 
+Seat 4: shaeNinness ($9.55 in chips) 
+Seat 5: WhiteApe777 ($25.65 in chips) 
+Seat 6: WilGhy ($34.35 in chips) 
+Seat 7: allingwynn ($5.50 in chips) 
+Seat 8: jacky20 ($31.10 in chips) 
+Seat 9: steveo5701 ($34.95 in chips) 
+WhiteApe777: posts small blind $0.10
+WilGhy: posts big blind $0.25
+allingwynn: posts big blind $0.25
+Hayter78: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Kd]
+allingwynn: checks 
+jacky20: calls $0.25
+steveo5701: folds 
+Alameda22: folds 
+DizzyWhizzy: folds 
+Hayter78: checks 
+shaeNinness: calls $0.25
+WhiteApe777: folds 
+WilGhy: checks 
+*** FLOP *** [9s 7h 8d]
+WilGhy: checks 
+allingwynn: checks 
+jacky20: checks 
+Hayter78: checks 
+shaeNinness: bets $0.50
+WilGhy: folds 
+allingwynn: folds 
+jacky20: folds 
+Hayter78: folds 
+Uncalled bet ($0.50) returned to shaeNinness
+shaeNinness collected $1.30 from pot
+shaeNinness: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [9s 7h 8d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy folded before Flop (didn't bet)
+Seat 3: Hayter78 folded on the Flop
+Seat 4: shaeNinness (button) collected ($1.30)
+Seat 5: WhiteApe777 (small blind) folded before Flop
+Seat 6: WilGhy (big blind) folded on the Flop
+Seat 7: allingwynn folded on the Flop
+Seat 8: jacky20 folded on the Flop
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952379571:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:29:13 (ET)
+Table 'Brabantia IV' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($22.60 in chips) 
+Seat 2: DizzyWhizzy ($5.40 in chips) 
+Seat 3: Hayter78 ($4.75 in chips) 
+Seat 4: shaeNinness ($10.60 in chips) 
+Seat 5: WhiteApe777 ($25.55 in chips) 
+Seat 6: WilGhy ($34.10 in chips) 
+Seat 7: allingwynn ($5.25 in chips) 
+Seat 8: jacky20 ($30.85 in chips) 
+Seat 9: steveo5701 ($34.95 in chips) 
+WilGhy: posts small blind $0.10
+allingwynn: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Td]
+shaeNinness said, "hayter got any smoke?"
+jacky20: folds 
+steveo5701: folds 
+Alameda22: folds 
+DizzyWhizzy: folds 
+Hayter78: folds 
+shaeNinness: calls $0.25
+WhiteApe777: folds 
+WilGhy: folds 
+allingwynn: checks 
+*** FLOP *** [Ad 2s Kh]
+allingwynn: checks 
+shaeNinness: bets $0.25
+allingwynn: folds 
+Uncalled bet ($0.25) returned to shaeNinness
+shaeNinness collected $0.60 from pot
+shaeNinness: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ad 2s Kh]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy folded before Flop (didn't bet)
+Seat 3: Hayter78 folded before Flop (didn't bet)
+Seat 4: shaeNinness collected ($0.60)
+Seat 5: WhiteApe777 (button) folded before Flop (didn't bet)
+Seat 6: WilGhy (small blind) folded before Flop
+Seat 7: allingwynn (big blind) folded on the Flop
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952406197:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:30:21 (ET)
+Table 'Brabantia IV' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($22.60 in chips) 
+Seat 2: DizzyWhizzy ($5.40 in chips) 
+Seat 3: Hayter78 ($4.75 in chips) 
+Seat 4: shaeNinness ($10.95 in chips) 
+Seat 5: WhiteApe777 ($25.55 in chips) 
+Seat 6: WilGhy ($34 in chips) 
+Seat 7: allingwynn ($5 in chips) 
+Seat 8: jacky20 ($30.85 in chips) 
+Seat 9: steveo5701 ($34.95 in chips) 
+allingwynn: posts small blind $0.10
+jacky20: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Js]
+steveo5701: folds 
+Alameda22: folds 
+DizzyWhizzy: folds 
+Hayter78: folds 
+shaeNinness: calls $0.25
+WhiteApe777: raises $0.95 to $1.20
+WilGhy: folds 
+allingwynn: folds 
+jacky20: folds 
+shaeNinness: folds 
+Uncalled bet ($0.95) returned to WhiteApe777
+WhiteApe777 collected $0.85 from pot
+WhiteApe777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy folded before Flop (didn't bet)
+Seat 3: Hayter78 folded before Flop (didn't bet)
+Seat 4: shaeNinness folded before Flop
+Seat 5: WhiteApe777 collected ($0.85)
+Seat 6: WilGhy (button) folded before Flop (didn't bet)
+Seat 7: allingwynn (small blind) folded before Flop
+Seat 8: jacky20 (big blind) folded before Flop
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952436315:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:31:35 (ET)
+Table 'Brabantia IV' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($22.60 in chips) 
+Seat 2: DizzyWhizzy ($5.40 in chips) 
+Seat 3: Hayter78 ($4.75 in chips) 
+Seat 4: shaeNinness ($10.70 in chips) 
+Seat 5: WhiteApe777 ($26.15 in chips) 
+Seat 6: WilGhy ($34 in chips) 
+Seat 7: allingwynn ($4.90 in chips) 
+Seat 8: jacky20 ($30.60 in chips) 
+Seat 9: steveo5701 ($34.95 in chips) 
+jacky20: posts small blind $0.10
+steveo5701: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 3d]
+Alameda22: folds 
+DizzyWhizzy: raises $0.25 to $0.50
+Hayter78: folds 
+shaeNinness: calls $0.50
+WhiteApe777: folds 
+WilGhy: folds 
+allingwynn: folds 
+jacky20: calls $0.40
+steveo5701: calls $0.25
+*** FLOP *** [8h 2s Qd]
+jacky20: checks 
+steveo5701: checks 
+DizzyWhizzy: checks 
+shaeNinness: bets $0.75
+jacky20: folds 
+steveo5701: calls $0.75
+DizzyWhizzy: folds 
+*** TURN *** [8h 2s Qd] [2h]
+steveo5701: checks 
+shaeNinness: checks 
+*** RIVER *** [8h 2s Qd 2h] [Jc]
+steveo5701: bets $1.25
+shaeNinness: raises $2.75 to $4
+steveo5701: raises $4 to $8
+shaeNinness: calls $4
+*** SHOW DOWN ***
+steveo5701: shows [Ac 2c] (three of a kind, Deuces)
+shaeNinness: mucks hand 
+steveo5701 collected $18.55 from pot
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.95 
+Board [8h 2s Qd 2h Jc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy folded on the Flop
+Seat 3: Hayter78 folded before Flop (didn't bet)
+Seat 4: shaeNinness mucked [Qh Ad]
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: allingwynn (button) folded before Flop (didn't bet)
+Seat 8: jacky20 (small blind) folded on the Flop
+Seat 9: steveo5701 (big blind) showed [Ac 2c] and won ($18.55) with three of a kind, Deuces
+
+
+
+PokerStars Game #19952474209:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:33:09 (ET)
+Table 'Brabantia IV' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($22.60 in chips) 
+Seat 2: DizzyWhizzy ($4.90 in chips) 
+Seat 3: Hayter78 ($4.75 in chips) 
+Seat 4: shaeNinness ($1.45 in chips) 
+Seat 5: WhiteApe777 ($26.15 in chips) 
+Seat 6: WilGhy ($34 in chips) 
+Seat 7: allingwynn ($4.90 in chips) 
+Seat 8: jacky20 ($30.10 in chips) 
+Seat 9: steveo5701 ($44.25 in chips) 
+steveo5701: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Kc]
+DizzyWhizzy: folds 
+shaeNinness said, "2?"
+Hayter78: folds 
+shaeNinness said, "wtf"
+shaeNinness: folds 
+WhiteApe777: folds 
+WilGhy: folds 
+allingwynn: raises $1.25 to $1.50
+jacky20: folds 
+steveo5701: folds 
+Alameda22: folds 
+Uncalled bet ($1.25) returned to allingwynn
+allingwynn collected $0.60 from pot
+allingwynn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: DizzyWhizzy folded before Flop (didn't bet)
+Seat 3: Hayter78 folded before Flop (didn't bet)
+Seat 4: shaeNinness folded before Flop (didn't bet)
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: allingwynn collected ($0.60)
+Seat 8: jacky20 (button) folded before Flop (didn't bet)
+Seat 9: steveo5701 (small blind) folded before Flop
+
+
+
+PokerStars Game #19952494022:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:33:57 (ET)
+Table 'Brabantia IV' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($22.35 in chips) 
+Seat 2: DizzyWhizzy ($4.90 in chips) 
+Seat 3: Hayter78 ($4.75 in chips) 
+Seat 4: shaeNinness ($5 in chips) 
+Seat 5: WhiteApe777 ($26.15 in chips) 
+Seat 6: WilGhy ($34 in chips) 
+Seat 7: allingwynn ($5.25 in chips) 
+Seat 8: jacky20 ($30.10 in chips) 
+Seat 9: steveo5701 ($44.15 in chips) 
+Alameda22: posts small blind $0.10
+DizzyWhizzy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 9s]
+Hayter78: folds 
+shaeNinness: folds 
+WhiteApe777: folds 
+WilGhy: folds 
+allingwynn: calls $0.25
+jacky20: calls $0.25
+steveo5701: folds 
+Alameda22: folds 
+DizzyWhizzy: checks 
+*** FLOP *** [4c Qd Qh]
+DizzyWhizzy: checks 
+allingwynn: checks 
+jacky20: checks 
+*** TURN *** [4c Qd Qh] [4s]
+DizzyWhizzy: bets $0.25
+allingwynn: folds 
+jacky20: calls $0.25
+*** RIVER *** [4c Qd Qh 4s] [Ac]
+DizzyWhizzy: bets $0.50
+jacky20: calls $0.50
+*** SHOW DOWN ***
+DizzyWhizzy: shows [2d 4d] (a full house, Fours full of Queens)
+jacky20: mucks hand 
+DizzyWhizzy collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [4c Qd Qh 4s Ac]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: DizzyWhizzy (big blind) showed [2d 4d] and won ($2.25) with a full house, Fours full of Queens
+Seat 3: Hayter78 folded before Flop (didn't bet)
+Seat 4: shaeNinness folded before Flop (didn't bet)
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: allingwynn folded on the Turn
+Seat 8: jacky20 mucked [Ah 7d]
+Seat 9: steveo5701 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952532600:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:35:32 (ET)
+Table 'Brabantia IV' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($22.25 in chips) 
+Seat 2: DizzyWhizzy ($6.15 in chips) 
+Seat 3: Hayter78 ($4.75 in chips) 
+Seat 4: shaeNinness ($5 in chips) 
+Seat 5: WhiteApe777 ($26.15 in chips) 
+Seat 6: WilGhy ($34 in chips) 
+Seat 7: allingwynn ($5 in chips) 
+Seat 8: jacky20 ($29.10 in chips) 
+Seat 9: steveo5701 ($44.15 in chips) 
+DizzyWhizzy: posts small blind $0.10
+Hayter78: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Qh]
+shaeNinness: raises $0.25 to $0.50
+WhiteApe777: folds 
+WilGhy: folds 
+allingwynn: raises $1 to $1.50
+jacky20: folds 
+steveo5701: folds 
+Alameda22: folds 
+DizzyWhizzy: folds 
+Hayter78: folds 
+shaeNinness: calls $1
+*** FLOP *** [6d Tc 9s]
+shaeNinness: checks 
+allingwynn: checks 
+*** TURN *** [6d Tc 9s] [8s]
+shaeNinness: bets $0.75
+allingwynn: raises $2.25 to $3
+shaeNinness: calls $2.25
+*** RIVER *** [6d Tc 9s 8s] [Th]
+shaeNinness: bets $0.50 and is all-in
+allingwynn: calls $0.50 and is all-in
+*** SHOW DOWN ***
+shaeNinness: shows [As Jh] (a pair of Tens)
+allingwynn: shows [Ah Kc] (a pair of Tens - Ace+King kicker)
+allingwynn collected $9.90 from pot
+*** SUMMARY ***
+Total pot $10.35 | Rake $0.45 
+Board [6d Tc 9s 8s Th]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy (small blind) folded before Flop
+Seat 3: Hayter78 (big blind) folded before Flop
+Seat 4: shaeNinness showed [As Jh] and lost with a pair of Tens
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: allingwynn showed [Ah Kc] and won ($9.90) with a pair of Tens
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952559075:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:36:39 (ET)
+Table 'Brabantia IV' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($22.25 in chips) 
+Seat 2: DizzyWhizzy ($6.05 in chips) 
+Seat 3: Hayter78 ($4.50 in chips) 
+Seat 5: WhiteApe777 ($26.15 in chips) 
+Seat 6: WilGhy ($34 in chips) 
+Seat 7: allingwynn ($9.90 in chips) 
+Seat 8: jacky20 ($29.10 in chips) 
+Seat 9: steveo5701 ($44.15 in chips) 
+Hayter78: posts small blind $0.10
+WhiteApe777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Ts]
+shaeNinness leaves the table
+WilGhy: folds 
+allingwynn: folds 
+jacky20: folds 
+steveo5701: raises $0.50 to $0.75
+Alameda22: folds 
+DizzyWhizzy: folds 
+Hayter78: calls $0.65
+WhiteApe777: folds 
+*** FLOP *** [Qc 7h 6c]
+Hayter78: checks 
+steveo5701: bets $1
+Hayter78: raises $1 to $2
+steveo5701: raises $2 to $4
+Hayter78: calls $1.75 and is all-in
+Uncalled bet ($0.25) returned to steveo5701
+*** TURN *** [Qc 7h 6c] [7s]
+*** RIVER *** [Qc 7h 6c 7s] [6d]
+*** SHOW DOWN ***
+Hayter78: shows [Js Qh] (two pair, Queens and Sevens)
+steveo5701: shows [Kd Ks] (two pair, Kings and Sevens)
+steveo5701 collected $8.80 from pot
+*** SUMMARY ***
+Total pot $9.25 | Rake $0.45 
+Board [Qc 7h 6c 7s 6d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy (button) folded before Flop (didn't bet)
+Seat 3: Hayter78 (small blind) showed [Js Qh] and lost with two pair, Queens and Sevens
+Seat 5: WhiteApe777 (big blind) folded before Flop
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: allingwynn folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 showed [Kd Ks] and won ($8.80) with two pair, Kings and Sevens
+
+
+
+PokerStars Game #19952578766:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:37:28 (ET)
+Table 'Brabantia IV' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($22.25 in chips) 
+Seat 2: DizzyWhizzy ($6.05 in chips) 
+Seat 5: WhiteApe777 ($25.90 in chips) 
+Seat 6: WilGhy ($34 in chips) 
+Seat 7: allingwynn ($9.90 in chips) 
+Seat 8: jacky20 ($29.10 in chips) 
+Seat 9: steveo5701 ($48.45 in chips) 
+WilGhy: posts small blind $0.10
+allingwynn: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 6d]
+jacky20: raises $0.25 to $0.50
+steveo5701: raises $0.50 to $1
+Hayter78 leaves the table
+Alameda22: folds 
+DizzyWhizzy: folds 
+WhiteApe777: folds 
+WilGhy: folds 
+pcb2000 joins the table at seat #4 
+allingwynn: calls $0.75
+jacky20: calls $0.50
+*** FLOP *** [8h 7c 2d]
+allingwynn: checks 
+jacky20: checks 
+steveo5701: checks 
+*** TURN *** [8h 7c 2d] [5s]
+allingwynn: checks 
+jacky20: checks 
+steveo5701: checks 
+*** RIVER *** [8h 7c 2d 5s] [9d]
+allingwynn: checks 
+jacky20: checks 
+steveo5701: checks 
+*** SHOW DOWN ***
+allingwynn: shows [Qc Tc] (high card Queen)
+jacky20: shows [Kh Ac] (high card Ace)
+steveo5701: mucks hand 
+jacky20 collected $2.95 from pot
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [8h 7c 2d 5s 9d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy folded before Flop (didn't bet)
+Seat 5: WhiteApe777 (button) folded before Flop (didn't bet)
+Seat 6: WilGhy (small blind) folded before Flop
+Seat 7: allingwynn (big blind) showed [Qc Tc] and lost with high card Queen
+Seat 8: jacky20 showed [Kh Ac] and won ($2.95) with high card Ace
+Seat 9: steveo5701 mucked [Ah Jd]
+
+
+
+PokerStars Game #19952604998:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:38:33 (ET)
+Table 'Brabantia IV' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($22.25 in chips) 
+Seat 2: DizzyWhizzy ($6.05 in chips) 
+Seat 4: pcb2000 ($15 in chips) 
+Seat 5: WhiteApe777 ($25.90 in chips) 
+Seat 6: WilGhy ($33.90 in chips) 
+Seat 7: allingwynn ($8.90 in chips) 
+Seat 8: jacky20 ($31.05 in chips) 
+Seat 9: steveo5701 ($47.45 in chips) 
+allingwynn: posts small blind $0.10
+jacky20: posts big blind $0.25
+pcb2000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 5h]
+steveo5701: calls $0.25
+Alameda22: folds 
+DizzyWhizzy: folds 
+pcb2000: checks 
+WhiteApe777: folds 
+WilGhy: folds 
+allingwynn: calls $0.15
+jacky20: checks 
+*** FLOP *** [6c 5s 9d]
+allingwynn: bets $0.75
+jacky20: calls $0.75
+steveo5701: calls $0.75
+pcb2000: folds 
+*** TURN *** [6c 5s 9d] [5c]
+allingwynn: bets $1.25
+jacky20: folds 
+steveo5701: folds 
+Uncalled bet ($1.25) returned to allingwynn
+allingwynn collected $3.10 from pot
+allingwynn: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [6c 5s 9d 5c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy folded before Flop (didn't bet)
+Seat 4: pcb2000 folded on the Flop
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy (button) folded before Flop (didn't bet)
+Seat 7: allingwynn (small blind) collected ($3.10)
+Seat 8: jacky20 (big blind) folded on the Turn
+Seat 9: steveo5701 folded on the Turn
+
+
+
+PokerStars Game #19952633178:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:39:43 (ET)
+Table 'Brabantia IV' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($22.25 in chips) 
+Seat 2: DizzyWhizzy ($6.05 in chips) 
+Seat 4: pcb2000 ($14.75 in chips) 
+Seat 5: WhiteApe777 ($25.90 in chips) 
+Seat 6: WilGhy ($33.90 in chips) 
+Seat 7: allingwynn ($11 in chips) 
+Seat 8: jacky20 ($30.05 in chips) 
+Seat 9: steveo5701 ($46.45 in chips) 
+jacky20: posts small blind $0.10
+steveo5701: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 8d]
+Alameda22: folds 
+DizzyWhizzy: raises $0.25 to $0.50
+pcb2000: folds 
+WhiteApe777: folds 
+WilGhy: folds 
+allingwynn: calls $0.50
+unevrno joins the table at seat #3 
+jacky20: folds 
+steveo5701: folds 
+*** FLOP *** [9c 3d 8h]
+DizzyWhizzy: bets $0.50
+allingwynn: calls $0.50
+*** TURN *** [9c 3d 8h] [2c]
+DizzyWhizzy: bets $0.50
+allingwynn: raises $1 to $1.50
+DizzyWhizzy: folds 
+Uncalled bet ($1) returned to allingwynn
+allingwynn collected $3.20 from pot
+allingwynn: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [9c 3d 8h 2c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: DizzyWhizzy folded on the Turn
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: allingwynn (button) collected ($3.20)
+Seat 8: jacky20 (small blind) folded before Flop
+Seat 9: steveo5701 (big blind) folded before Flop
+
+
+
+PokerStars Game #19952664258:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:40:59 (ET)
+Table 'Brabantia IV' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($22.25 in chips) 
+Seat 2: DizzyWhizzy ($4.55 in chips) 
+Seat 4: pcb2000 ($14.75 in chips) 
+Seat 5: WhiteApe777 ($25.90 in chips) 
+Seat 6: WilGhy ($33.90 in chips) 
+Seat 7: allingwynn ($12.70 in chips) 
+Seat 8: jacky20 ($29.95 in chips) 
+Seat 9: steveo5701 ($46.20 in chips) 
+steveo5701: posts small blind $0.10
+Alameda22: posts big blind $0.25
+unevrno: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Ad]
+DizzyWhizzy: folds 
+pcb2000: calls $0.25
+WhiteApe777: folds 
+WilGhy: folds 
+allingwynn: folds 
+jacky20: folds 
+steveo5701: calls $0.15
+Alameda22: checks 
+*** FLOP *** [6c Jd 7s]
+steveo5701: checks 
+Alameda22: checks 
+pcb2000: bets $0.50
+steveo5701: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to pcb2000
+pcb2000 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [6c Jd 7s]
+Seat 1: Alameda22 (big blind) folded on the Flop
+Seat 2: DizzyWhizzy folded before Flop (didn't bet)
+Seat 4: pcb2000 collected ($0.75)
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: allingwynn folded before Flop (didn't bet)
+Seat 8: jacky20 (button) folded before Flop (didn't bet)
+Seat 9: steveo5701 (small blind) folded on the Flop
+
+
+
+PokerStars Game #19952683778:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:41:47 (ET)
+Table 'Brabantia IV' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($22 in chips) 
+Seat 2: DizzyWhizzy ($4.55 in chips) 
+Seat 4: pcb2000 ($15.25 in chips) 
+Seat 5: WhiteApe777 ($25.90 in chips) 
+Seat 6: WilGhy ($33.90 in chips) 
+Seat 7: allingwynn ($12.70 in chips) 
+Seat 8: jacky20 ($29.95 in chips) 
+Seat 9: steveo5701 ($45.95 in chips) 
+Alameda22: posts small blind $0.10
+DizzyWhizzy: posts big blind $0.25
+unevrno: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 7d]
+pcb2000: calls $0.25
+WhiteApe777: folds 
+WilGhy: folds 
+allingwynn: folds 
+jacky20: folds 
+steveo5701: calls $0.25
+Alameda22: calls $0.15
+DizzyWhizzy: checks 
+*** FLOP *** [4s Kh Qd]
+Alameda22: checks 
+DizzyWhizzy: bets $0.50
+pcb2000: calls $0.50
+steveo5701: folds 
+Alameda22: folds 
+*** TURN *** [4s Kh Qd] [Tc]
+DizzyWhizzy: bets $0.75
+pcb2000: raises $13.75 to $14.50 and is all-in
+DizzyWhizzy: calls $3.05 and is all-in
+Uncalled bet ($10.70) returned to pcb2000
+*** RIVER *** [4s Kh Qd Tc] [Qh]
+*** SHOW DOWN ***
+DizzyWhizzy: shows [2s Kd] (two pair, Kings and Queens)
+pcb2000: shows [Qc Ks] (a full house, Queens full of Kings)
+pcb2000 collected $9.15 from pot
+*** SUMMARY ***
+Total pot $9.60 | Rake $0.45 
+Board [4s Kh Qd Tc Qh]
+Seat 1: Alameda22 (small blind) folded on the Flop
+Seat 2: DizzyWhizzy (big blind) showed [2s Kd] and lost with two pair, Kings and Queens
+Seat 4: pcb2000 showed [Qc Ks] and won ($9.15) with a full house, Queens full of Kings
+Seat 5: WhiteApe777 folded before Flop (didn't bet)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: allingwynn folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 (button) folded on the Flop
+
+
+
+PokerStars Game #19952729454:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:43:42 (ET)
+Table 'Brabantia IV' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($21.75 in chips) 
+Seat 4: pcb2000 ($19.85 in chips) 
+Seat 6: WilGhy ($33.90 in chips) 
+Seat 7: allingwynn ($12.70 in chips) 
+Seat 8: jacky20 ($29.95 in chips) 
+Seat 9: steveo5701 ($45.70 in chips) 
+unevrno will be allowed to play after the button
+pcb2000: posts small blind $0.10
+DizzyWhizzy has returned
+WhiteApe777: is sitting out 
+WilGhy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 9d]
+WhiteApe777 leaves the table
+allingwynn: folds 
+DizzyWhizzy leaves the table
+jacky20: folds 
+steveo5701: folds 
+Alameda22: folds 
+pcb2000: calls $0.15
+WilGhy: raises $0.50 to $0.75
+pcb2000: folds 
+Uncalled bet ($0.50) returned to WilGhy
+WilGhy collected $0.50 from pot
+WilGhy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: pcb2000 (small blind) folded before Flop
+Seat 6: WilGhy (big blind) collected ($0.50)
+Seat 7: allingwynn folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952741229:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:44:11 (ET)
+Table 'Brabantia IV' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($21.75 in chips) 
+Seat 4: pcb2000 ($19.60 in chips) 
+Seat 6: WilGhy ($34.15 in chips) 
+Seat 7: allingwynn ($12.70 in chips) 
+Seat 8: jacky20 ($29.95 in chips) 
+Seat 9: steveo5701 ($45.70 in chips) 
+WilGhy: posts small blind $0.10
+allingwynn: posts big blind $0.25
+unevrno: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 3d]
+unevrno leaves the table
+jacky20: folds 
+Trog joins the table at seat #5 
+steveo5701: calls $0.25
+Alameda22: folds 
+pcb2000: calls $0.25
+WilGhy: folds 
+allingwynn: raises $1.50 to $1.75
+steveo5701: calls $1.50
+pcb2000: folds 
+*** FLOP *** [Kh As 4d]
+allingwynn: bets $1
+steveo5701: folds 
+Uncalled bet ($1) returned to allingwynn
+allingwynn collected $3.70 from pot
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [Kh As 4d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 4: pcb2000 (button) folded before Flop
+Seat 6: WilGhy (small blind) folded before Flop
+Seat 7: allingwynn (big blind) collected ($3.70)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 folded on the Flop
+
+
+
+PokerStars Game #19952759009:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:44:55 (ET)
+Table 'Brabantia IV' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($21.75 in chips) 
+Seat 4: pcb2000 ($19.35 in chips) 
+Seat 5: Trog ($15 in chips) 
+Seat 6: WilGhy ($34.05 in chips) 
+Seat 7: allingwynn ($14.65 in chips) 
+Seat 8: jacky20 ($29.95 in chips) 
+Seat 9: steveo5701 ($43.95 in chips) 
+allingwynn: posts small blind $0.10
+Alexandro611 joins the table at seat #3 
+jacky20: posts big blind $0.25
+Trog: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Ac]
+steveo5701: raises $0.75 to $1
+Alameda22: folds 
+pcb2000: folds 
+Trog: calls $0.75
+WilGhy: folds 
+allingwynn: folds 
+928racer joins the table at seat #2 
+jacky20: folds 
+*** FLOP *** [Js 2h Th]
+steveo5701: bets $1.25
+Trog: folds 
+Uncalled bet ($1.25) returned to steveo5701
+steveo5701 collected $2.25 from pot
+steveo5701: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Js 2h Th]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Trog folded on the Flop
+Seat 6: WilGhy (button) folded before Flop (didn't bet)
+Seat 7: allingwynn (small blind) folded before Flop
+Seat 8: jacky20 (big blind) folded before Flop
+Seat 9: steveo5701 collected ($2.25)
+
+
+
+PokerStars Game #19952780965:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:45:49 (ET)
+Table 'Brabantia IV' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($21.75 in chips) 
+Seat 3: Alexandro611 ($5 in chips) 
+Seat 4: pcb2000 ($19.35 in chips) 
+Seat 5: Trog ($14 in chips) 
+Seat 6: WilGhy ($34.05 in chips) 
+Seat 7: allingwynn ($14.55 in chips) 
+Seat 8: jacky20 ($29.70 in chips) 
+Seat 9: steveo5701 ($45.20 in chips) 
+jacky20: posts small blind $0.10
+steveo5701: posts big blind $0.25
+928racer: sits out 
+Alexandro611: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Qh]
+Alameda22: folds 
+Alexandro611: checks 
+pcb2000: folds 
+Trog: folds 
+WilGhy: folds 
+allingwynn: folds 
+jacky20: folds 
+steveo5701: checks 
+*** FLOP *** [4s 4c Ac]
+steveo5701: checks 
+Alexandro611: bets $0.80
+steveo5701: folds 
+Uncalled bet ($0.80) returned to Alexandro611
+Alexandro611 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4s 4c Ac]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: Alexandro611 collected ($0.60)
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Trog folded before Flop (didn't bet)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: allingwynn (button) folded before Flop (didn't bet)
+Seat 8: jacky20 (small blind) folded before Flop
+Seat 9: steveo5701 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19952810532:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:47:03 (ET)
+Table 'Brabantia IV' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($21.75 in chips) 
+Seat 3: Alexandro611 ($5.35 in chips) 
+Seat 4: pcb2000 ($19.35 in chips) 
+Seat 5: Trog ($14 in chips) 
+Seat 6: WilGhy ($34.05 in chips) 
+Seat 7: allingwynn ($14.55 in chips) 
+Seat 8: jacky20 ($29.60 in chips) 
+Seat 9: steveo5701 ($44.95 in chips) 
+steveo5701: posts small blind $0.10
+Alameda22: posts big blind $0.25
+928racer: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 9h]
+Alexandro611: calls $0.25
+pcb2000: calls $0.25
+Trog: folds 
+WilGhy: folds 
+allingwynn: calls $0.25
+jacky20: folds 
+steveo5701: raises $0.75 to $1
+Alameda22: folds 
+Alexandro611: calls $0.75
+pcb2000: folds 
+allingwynn: calls $0.75
+*** FLOP *** [4h As 3s]
+steveo5701: checks 
+Alexandro611: checks 
+allingwynn: bets $2
+steveo5701: calls $2
+Alexandro611: folds 
+*** TURN *** [4h As 3s] [Jc]
+steveo5701: checks 
+allingwynn: bets $3.75
+steveo5701: folds 
+Uncalled bet ($3.75) returned to allingwynn
+allingwynn collected $7.15 from pot
+allingwynn: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.35 
+Board [4h As 3s Jc]
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 3: Alexandro611 folded on the Flop
+Seat 4: pcb2000 folded before Flop
+Seat 5: Trog folded before Flop (didn't bet)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: allingwynn collected ($7.15)
+Seat 8: jacky20 (button) folded before Flop (didn't bet)
+Seat 9: steveo5701 (small blind) folded on the Turn
+
+
+
+PokerStars Game #19952839641:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:48:16 (ET)
+Table 'Brabantia IV' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($21.50 in chips) 
+Seat 2: 928racer ($25 in chips) 
+Seat 3: Alexandro611 ($4.35 in chips) 
+Seat 4: pcb2000 ($19.10 in chips) 
+Seat 5: Trog ($14 in chips) 
+Seat 6: WilGhy ($34.05 in chips) 
+Seat 7: allingwynn ($18.70 in chips) 
+Seat 8: jacky20 ($29.60 in chips) 
+Seat 9: steveo5701 ($41.95 in chips) 
+Alameda22: posts small blind $0.10
+928racer: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 4h]
+Alexandro611: folds 
+pcb2000: calls $0.25
+Trog: calls $0.25
+WilGhy: folds 
+allingwynn: calls $0.25
+jacky20: folds 
+steveo5701: folds 
+Alameda22: calls $0.15
+928racer: checks 
+*** FLOP *** [Kc 2d 7h]
+Alameda22: checks 
+928racer: checks 
+pcb2000: checks 
+Trog: bets $0.50
+allingwynn: folds 
+Alameda22: folds 
+928racer: folds 
+pcb2000: folds 
+Uncalled bet ($0.50) returned to Trog
+Trog collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Kc 2d 7h]
+Seat 1: Alameda22 (small blind) folded on the Flop
+Seat 2: 928racer (big blind) folded on the Flop
+Seat 3: Alexandro611 folded before Flop (didn't bet)
+Seat 4: pcb2000 folded on the Flop
+Seat 5: Trog collected ($1.20)
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: allingwynn folded on the Flop
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952877192:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:49:49 (ET)
+Table 'Brabantia IV' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($21.25 in chips) 
+Seat 2: 928racer ($24.75 in chips) 
+Seat 3: Alexandro611 ($4.35 in chips) 
+Seat 4: pcb2000 ($18.85 in chips) 
+Seat 5: Trog ($14.95 in chips) 
+Seat 6: WilGhy ($34.05 in chips) 
+Seat 7: allingwynn ($18.45 in chips) 
+Seat 8: jacky20 ($29.60 in chips) 
+Seat 9: steveo5701 ($41.95 in chips) 
+928racer: posts small blind $0.10
+Alexandro611: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d As]
+pcb2000: folds 
+Trog: calls $0.25
+WilGhy: folds 
+allingwynn: calls $0.25
+jacky20: calls $0.25
+steveo5701: folds 
+Alameda22: folds 
+928racer: calls $0.15
+Alexandro611: checks 
+*** FLOP *** [6c 4s 2d]
+928racer: checks 
+Alexandro611: checks 
+Trog: checks 
+allingwynn: checks 
+jacky20: checks 
+*** TURN *** [6c 4s 2d] [6h]
+928racer: checks 
+Alexandro611: checks 
+Trog: bets $0.50
+allingwynn: folds 
+WilGhy leaves the table
+jacky20: calls $0.50
+928racer: folds 
+Alexandro611: folds 
+*** RIVER *** [6c 4s 2d 6h] [Jc]
+Trog: checks 
+jacky20: checks 
+*** SHOW DOWN ***
+Trog: shows [3c 3s] (two pair, Sixes and Threes)
+jacky20: mucks hand 
+Trog collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [6c 4s 2d 6h Jc]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: 928racer (small blind) folded on the Turn
+Seat 3: Alexandro611 (big blind) folded on the Turn
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Trog showed [3c 3s] and won ($2.15) with two pair, Sixes and Threes
+Seat 6: WilGhy folded before Flop (didn't bet)
+Seat 7: allingwynn folded on the Turn
+Seat 8: jacky20 mucked [Ad 5d]
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952922583:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:51:42 (ET)
+Table 'Brabantia IV' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($21.25 in chips) 
+Seat 2: 928racer ($24.50 in chips) 
+Seat 3: Alexandro611 ($4.10 in chips) 
+Seat 4: pcb2000 ($18.85 in chips) 
+Seat 5: Trog ($16.35 in chips) 
+Seat 7: allingwynn ($18.20 in chips) 
+Seat 8: jacky20 ($28.85 in chips) 
+Seat 9: steveo5701 ($41.95 in chips) 
+Alexandro611: posts small blind $0.10
+pcb2000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 8d]
+Trog: folds 
+allingwynn: raises $1.50 to $1.75
+jacky20: folds 
+steveo5701: folds 
+steveo5701 leaves the table
+TJSDADDY04 joins the table at seat #6 
+Alameda22: folds 
+silver2871 joins the table at seat #9 
+928racer: folds 
+Alexandro611: raises $2.35 to $4.10 and is all-in
+pcb2000: folds 
+allingwynn: calls $2.35
+*** FLOP *** [6c 7h 6s]
+*** TURN *** [6c 7h 6s] [Kc]
+*** RIVER *** [6c 7h 6s Kc] [2d]
+*** SHOW DOWN ***
+Alexandro611: shows [Th Qd] (a pair of Sixes)
+allingwynn: shows [8h 8s] (two pair, Eights and Sixes)
+allingwynn collected $8.05 from pot
+*** SUMMARY ***
+Total pot $8.45 | Rake $0.40 
+Board [6c 7h 6s Kc 2d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: 928racer (button) folded before Flop (didn't bet)
+Seat 3: Alexandro611 (small blind) showed [Th Qd] and lost with a pair of Sixes
+Seat 4: pcb2000 (big blind) folded before Flop
+Seat 5: Trog folded before Flop (didn't bet)
+Seat 7: allingwynn showed [8h 8s] and won ($8.05) with two pair, Eights and Sixes
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: steveo5701 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952947085:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:52:43 (ET)
+Table 'Brabantia IV' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($21.25 in chips) 
+Seat 2: 928racer ($24.50 in chips) 
+Seat 4: pcb2000 ($18.60 in chips) 
+Seat 5: Trog ($16.35 in chips) 
+Seat 6: TJSDADDY04 ($5 in chips) 
+Seat 7: allingwynn ($22.15 in chips) 
+Seat 8: jacky20 ($28.85 in chips) 
+Seat 9: silver2871 ($25 in chips) 
+Trog: posts small blind $0.10
+Alexandro611 leaves the table
+TJSDADDY04: posts big blind $0.25
+silver2871: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Tc]
+pcb2000 said, "hi penut  pop"
+allingwynn: calls $0.25
+jacky20: folds 
+silver2871: checks 
+Alameda22: folds 
+928racer: calls $0.25
+pcb2000: calls $0.25
+Trog: folds 
+yjqian23 joins the table at seat #3 
+TJSDADDY04: checks 
+*** FLOP *** [3s 6d 7h]
+Trog leaves the table
+TJSDADDY04: checks 
+allingwynn: bets $0.50
+silver2871: folds 
+928racer: folds 
+Jumper280 joins the table at seat #5 
+pcb2000: folds 
+TJSDADDY04: folds 
+Uncalled bet ($0.50) returned to allingwynn
+allingwynn collected $1.30 from pot
+allingwynn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [3s 6d 7h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: 928racer folded on the Flop
+Seat 4: pcb2000 (button) folded on the Flop
+Seat 5: Trog (small blind) folded before Flop
+Seat 6: TJSDADDY04 (big blind) folded on the Flop
+Seat 7: allingwynn collected ($1.30)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 folded on the Flop
+
+
+
+PokerStars Game #19952990439:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:54:32 (ET)
+Table 'Brabantia IV' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($21.25 in chips) 
+Seat 2: 928racer ($24.25 in chips) 
+Seat 4: pcb2000 ($18.35 in chips) 
+Seat 5: Jumper280 ($15 in chips) 
+Seat 6: TJSDADDY04 ($4.75 in chips) 
+Seat 7: allingwynn ($23.20 in chips) 
+Seat 8: jacky20 ($28.85 in chips) 
+Seat 9: silver2871 ($24.75 in chips) 
+allingwynn: posts small blind $0.10
+jacky20: posts big blind $0.25
+yjqian23: sits out 
+Jumper280: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 5c]
+silver2871: calls $0.25
+Alameda22: folds 
+928racer: calls $0.25
+pcb2000: folds 
+Jumper280: checks 
+TJSDADDY04: folds 
+allingwynn: calls $0.15
+jacky20: checks 
+*** FLOP *** [4h 6h 4c]
+allingwynn: bets $0.50
+jacky20: folds 
+silver2871: folds 
+928racer: calls $0.50
+Jumper280: folds 
+*** TURN *** [4h 6h 4c] [5s]
+allingwynn: bets $1.25
+928racer: calls $1.25
+*** RIVER *** [4h 6h 4c 5s] [Th]
+allingwynn: bets $2
+928racer: raises $3 to $5
+allingwynn: calls $3
+*** SHOW DOWN ***
+928racer: shows [2h Ah] (a flush, Ace high)
+allingwynn: mucks hand 
+928racer collected $14.05 from pot
+*** SUMMARY ***
+Total pot $14.75 | Rake $0.70 
+Board [4h 6h 4c 5s Th]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: 928racer showed [2h Ah] and won ($14.05) with a flush, Ace high
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Jumper280 folded on the Flop
+Seat 6: TJSDADDY04 (button) folded before Flop (didn't bet)
+Seat 7: allingwynn (small blind) mucked [Kd 6s]
+Seat 8: jacky20 (big blind) folded on the Flop
+Seat 9: silver2871 folded on the Flop
+
+
+
+PokerStars Game #19953036908:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:56:32 (ET)
+Table 'Brabantia IV' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($21.25 in chips) 
+Seat 2: 928racer ($31.30 in chips) 
+Seat 4: pcb2000 ($18.35 in chips) 
+Seat 5: Jumper280 ($14.75 in chips) 
+Seat 6: TJSDADDY04 ($4.75 in chips) 
+Seat 7: allingwynn ($16.20 in chips) 
+Seat 8: jacky20 ($28.60 in chips) 
+Seat 9: silver2871 ($24.50 in chips) 
+jacky20: posts small blind $0.10
+silver2871: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Qs]
+Alameda22: folds 
+928racer: folds 
+pcb2000: calls $0.25
+Jumper280: calls $0.25
+TJSDADDY04: folds 
+allingwynn: raises $0.50 to $0.75
+jacky20: folds 
+silver2871: calls $0.50
+pcb2000: calls $0.50
+Jumper280: calls $0.50
+*** FLOP *** [7d 9c Ts]
+silver2871: checks 
+pcb2000: checks 
+Jumper280: checks 
+allingwynn: bets $2.50
+silver2871: folds 
+pcb2000: folds 
+Jumper280: folds 
+Uncalled bet ($2.50) returned to allingwynn
+allingwynn collected $2.95 from pot
+allingwynn: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [7d 9c Ts]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: 928racer folded before Flop (didn't bet)
+Seat 4: pcb2000 folded on the Flop
+Seat 5: Jumper280 folded on the Flop
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: allingwynn (button) collected ($2.95)
+Seat 8: jacky20 (small blind) folded before Flop
+Seat 9: silver2871 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19953068098:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:57:53 (ET)
+Table 'Brabantia IV' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($21.25 in chips) 
+Seat 2: 928racer ($31.30 in chips) 
+Seat 4: pcb2000 ($17.60 in chips) 
+Seat 5: Jumper280 ($14 in chips) 
+Seat 6: TJSDADDY04 ($4.75 in chips) 
+Seat 7: allingwynn ($18.40 in chips) 
+Seat 8: jacky20 ($28.50 in chips) 
+Seat 9: silver2871 ($23.75 in chips) 
+silver2871: posts small blind $0.10
+Alameda22: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 7c]
+928racer: folds 
+pcb2000: calls $0.25
+928racer is sitting out
+Jumper280: folds 
+TJSDADDY04: folds 
+allingwynn: folds 
+jacky20: calls $0.25
+silver2871: calls $0.15
+Alameda22: checks 
+*** FLOP *** [4c Th 9h]
+silver2871: checks 
+Alameda22: checks 
+pcb2000: bets $0.50
+jacky20: folds 
+silver2871: calls $0.50
+Alameda22: folds 
+*** TURN *** [4c Th 9h] [6h]
+silver2871: checks 
+pcb2000: bets $0.75
+silver2871: raises $1.50 to $2.25
+pcb2000: calls $1.50
+*** RIVER *** [4c Th 9h 6h] [6d]
+silver2871: bets $2.50
+pcb2000: calls $2.50
+*** SHOW DOWN ***
+silver2871: shows [7d 8s] (a straight, Six to Ten)
+pcb2000: shows [Qh Kh] (a flush, King high)
+pcb2000 collected $10.95 from pot
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.55 
+Board [4c Th 9h 6h 6d]
+Seat 1: Alameda22 (big blind) folded on the Flop
+Seat 2: 928racer folded before Flop (didn't bet)
+Seat 4: pcb2000 showed [Qh Kh] and won ($10.95) with a flush, King high
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: allingwynn folded before Flop (didn't bet)
+Seat 8: jacky20 (button) folded on the Flop
+Seat 9: silver2871 (small blind) showed [7d 8s] and lost with a straight, Six to Ten
+
+
+
+PokerStars Game #19953093695:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:58:59 (ET)
+Table 'Brabantia IV' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($21 in chips) 
+Seat 3: yjqian23 ($25 in chips) 
+Seat 4: pcb2000 ($23.05 in chips) 
+Seat 5: Jumper280 ($14 in chips) 
+Seat 6: TJSDADDY04 ($4.75 in chips) 
+Seat 7: allingwynn ($18.40 in chips) 
+Seat 8: jacky20 ($28.25 in chips) 
+Seat 9: silver2871 ($25 in chips) 
+Alameda22: posts small blind $0.10
+yjqian23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 2c]
+pcb2000: folds 
+Jumper280: calls $0.25
+TJSDADDY04: folds 
+allingwynn: raises $1 to $1.25
+jacky20: folds 
+silver2871: folds 
+Alameda22: folds 
+yjqian23: folds 
+Jumper280: calls $1
+*** FLOP *** [2h 4d Kh]
+Jumper280: bets $0.50
+allingwynn: raises $1 to $1.50
+Jumper280: folds 
+Uncalled bet ($1) returned to allingwynn
+allingwynn collected $3.70 from pot
+allingwynn: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [2h 4d Kh]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 3: yjqian23 (big blind) folded before Flop
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Jumper280 folded on the Flop
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: allingwynn collected ($3.70)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953122755:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:00:11 (ET)
+Table 'Brabantia IV' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($20.90 in chips) 
+Seat 3: yjqian23 ($24.75 in chips) 
+Seat 4: pcb2000 ($23.05 in chips) 
+Seat 5: Jumper280 ($12.25 in chips) 
+Seat 6: TJSDADDY04 ($4.75 in chips) 
+Seat 7: allingwynn ($20.35 in chips) 
+Seat 8: jacky20 ($28.25 in chips) 
+Seat 9: silver2871 ($25 in chips) 
+yjqian23: posts small blind $0.10
+pcb2000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 9d]
+Jumper280: calls $0.25
+TJSDADDY04: calls $0.25
+allingwynn: calls $0.25
+jacky20: folds 
+silver2871: calls $0.25
+Alameda22: folds 
+yjqian23: folds 
+pcb2000: checks 
+*** FLOP *** [4d 3d Js]
+pcb2000: checks 
+Jumper280: checks 
+TJSDADDY04: checks 
+allingwynn: checks 
+silver2871: bets $1
+pcb2000: folds 
+Jumper280: folds 
+TJSDADDY04: folds 
+allingwynn: folds 
+Uncalled bet ($1) returned to silver2871
+silver2871 collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [4d 3d Js]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: yjqian23 (small blind) folded before Flop
+Seat 4: pcb2000 (big blind) folded on the Flop
+Seat 5: Jumper280 folded on the Flop
+Seat 6: TJSDADDY04 folded on the Flop
+Seat 7: allingwynn folded on the Flop
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 collected ($1.30)
+
+
+
+PokerStars Game #19953165127:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:01:57 (ET)
+Table 'Brabantia IV' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($20.90 in chips) 
+Seat 3: yjqian23 ($24.65 in chips) 
+Seat 4: pcb2000 ($22.80 in chips) 
+Seat 5: Jumper280 ($12 in chips) 
+Seat 6: TJSDADDY04 ($4.50 in chips) 
+Seat 7: allingwynn ($20.10 in chips) 
+Seat 8: jacky20 ($28.25 in chips) 
+Seat 9: silver2871 ($26.05 in chips) 
+pcb2000: posts small blind $0.10
+Jumper280: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Kc]
+TJSDADDY04: folds 
+allingwynn: folds 
+jacky20: raises $0.50 to $0.75
+silver2871: calls $0.75
+Alameda22: folds 
+yjqian23: folds 
+pcb2000: calls $0.65
+Jumper280: folds 
+*** FLOP *** [8s Ac Kh]
+pcb2000: checks 
+jacky20: checks 
+silver2871: checks 
+*** TURN *** [8s Ac Kh] [Jc]
+pcb2000: checks 
+jacky20: bets $1
+silver2871: calls $1
+pcb2000: calls $1
+*** RIVER *** [8s Ac Kh Jc] [3d]
+pcb2000: checks 
+jacky20: bets $1.75
+silver2871: folds 
+pcb2000: folds 
+Uncalled bet ($1.75) returned to jacky20
+jacky20 collected $5.25 from pot
+jacky20: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25 
+Board [8s Ac Kh Jc 3d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: yjqian23 (button) folded before Flop (didn't bet)
+Seat 4: pcb2000 (small blind) folded on the River
+Seat 5: Jumper280 (big blind) folded before Flop
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: allingwynn folded before Flop (didn't bet)
+Seat 8: jacky20 collected ($5.25)
+Seat 9: silver2871 folded on the River
+
+
+
+PokerStars Game #19953203353:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:03:34 (ET)
+Table 'Brabantia IV' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($20.90 in chips) 
+Seat 3: yjqian23 ($24.65 in chips) 
+Seat 4: pcb2000 ($21.05 in chips) 
+Seat 5: Jumper280 ($11.75 in chips) 
+Seat 6: TJSDADDY04 ($4.50 in chips) 
+Seat 7: allingwynn ($20.10 in chips) 
+Seat 8: jacky20 ($31.75 in chips) 
+Seat 9: silver2871 ($24.30 in chips) 
+Jumper280: posts small blind $0.10
+TJSDADDY04: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 8h]
+allingwynn: folds 
+jacky20: folds 
+silver2871: folds 
+Alameda22: folds 
+yjqian23: folds 
+pcb2000: calls $0.25
+Jumper280: calls $0.15
+TJSDADDY04: checks 
+*** FLOP *** [Tc 7c 4d]
+Jumper280: checks 
+TJSDADDY04: checks 
+pcb2000: checks 
+*** TURN *** [Tc 7c 4d] [Jd]
+Jumper280: checks 
+TJSDADDY04: checks 
+pcb2000: checks 
+*** RIVER *** [Tc 7c 4d Jd] [Js]
+jacky20 is sitting out
+Jumper280: bets $1
+TJSDADDY04: folds 
+pcb2000: folds 
+Uncalled bet ($1) returned to Jumper280
+Jumper280 collected $0.75 from pot
+Jumper280: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Tc 7c 4d Jd Js]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: pcb2000 (button) folded on the River
+Seat 5: Jumper280 (small blind) collected ($0.75)
+Seat 6: TJSDADDY04 (big blind) folded on the River
+Seat 7: allingwynn folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953238332:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:05:02 (ET)
+Table 'Brabantia IV' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($20.90 in chips) 
+Seat 3: yjqian23 ($24.65 in chips) 
+Seat 4: pcb2000 ($20.80 in chips) 
+Seat 5: Jumper280 ($12.25 in chips) 
+Seat 6: TJSDADDY04 ($4.25 in chips) 
+Seat 7: allingwynn ($20.10 in chips) 
+Seat 9: silver2871 ($24.30 in chips) 
+TJSDADDY04: posts small blind $0.10
+allingwynn: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 7s]
+silver2871: raises $0.75 to $1
+Alameda22: folds 
+yjqian23: folds 
+pcb2000: folds 
+Jumper280: folds 
+TJSDADDY04: folds 
+allingwynn: folds 
+Uncalled bet ($0.75) returned to silver2871
+silver2871 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Jumper280 (button) folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 (small blind) folded before Flop
+Seat 7: allingwynn (big blind) folded before Flop
+Seat 9: silver2871 collected ($0.60)
+
+
+
+PokerStars Game #19953250944:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:05:34 (ET)
+Table 'Brabantia IV' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($20.90 in chips) 
+Seat 3: yjqian23 ($24.65 in chips) 
+Seat 4: pcb2000 ($20.80 in chips) 
+Seat 5: Jumper280 ($12.25 in chips) 
+Seat 6: TJSDADDY04 ($4.15 in chips) 
+Seat 7: allingwynn ($19.85 in chips) 
+Seat 9: silver2871 ($24.65 in chips) 
+allingwynn: posts small blind $0.10
+silver2871: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Qc]
+Alameda22: raises $0.50 to $0.75
+yjqian23: folds 
+pcb2000: folds 
+Jumper280: folds 
+TJSDADDY04: folds 
+allingwynn: folds 
+silver2871: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 collected ($0.60)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 (button) folded before Flop (didn't bet)
+Seat 7: allingwynn (small blind) folded before Flop
+Seat 9: silver2871 (big blind) folded before Flop
+
+
+
+PokerStars Game #19953265337:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:06:10 (ET)
+Table 'Brabantia IV' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($21.25 in chips) 
+Seat 3: yjqian23 ($24.65 in chips) 
+Seat 4: pcb2000 ($20.80 in chips) 
+Seat 5: Jumper280 ($12.25 in chips) 
+Seat 6: TJSDADDY04 ($4.15 in chips) 
+Seat 7: allingwynn ($19.75 in chips) 
+Seat 9: silver2871 ($24.40 in chips) 
+silver2871: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Kh]
+yjqian23: folds 
+pcb2000: folds 
+Jumper280: folds 
+TJSDADDY04: calls $0.25
+allingwynn: folds 
+silver2871: folds 
+Alameda22: checks 
+*** FLOP *** [8d 7s Kd]
+Alameda22: checks 
+TJSDADDY04: checks 
+*** TURN *** [8d 7s Kd] [7d]
+Alameda22: checks 
+TJSDADDY04: checks 
+*** RIVER *** [8d 7s Kd 7d] [8s]
+Alameda22: checks 
+TJSDADDY04: checks 
+*** SHOW DOWN ***
+Alameda22: shows [3s Kh] (two pair, Kings and Eights)
+TJSDADDY04: mucks hand 
+Alameda22 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8d 7s Kd 7d 8s]
+Seat 1: Alameda22 (big blind) showed [3s Kh] and won ($0.60) with two pair, Kings and Eights
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 mucked [Td Jc]
+Seat 7: allingwynn (button) folded before Flop (didn't bet)
+Seat 9: silver2871 (small blind) folded before Flop
+
+
+
+PokerStars Game #19953287450:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:07:06 (ET)
+Table 'Brabantia IV' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($21.60 in chips) 
+Seat 4: pcb2000 ($20.80 in chips) 
+Seat 5: Jumper280 ($12.25 in chips) 
+Seat 6: TJSDADDY04 ($3.90 in chips) 
+Seat 7: allingwynn ($19.75 in chips) 
+Seat 9: silver2871 ($24.30 in chips) 
+Alameda22: posts small blind $0.10
+yjqian23: is sitting out 
+yjqian23 leaves the table
+pcb2000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 6s]
+Jumper280: folds 
+TJSDADDY04: calls $0.25
+allingwynn: calls $0.25
+silver2871: folds 
+Alameda22: folds 
+pcb2000: checks 
+*** FLOP *** [5h Tc 9c]
+pcb2000: checks 
+TJSDADDY04: checks 
+allingwynn: bets $0.75
+pcb2000: folds 
+TJSDADDY04: raises $0.75 to $1.50
+jacky20 has returned
+allingwynn: calls $0.75
+*** TURN *** [5h Tc 9c] [Jd]
+TJSDADDY04: bets $2.15 and is all-in
+allingwynn: calls $2.15
+*** RIVER *** [5h Tc 9c Jd] [6h]
+*** SHOW DOWN ***
+TJSDADDY04: shows [9h Td] (two pair, Tens and Nines)
+allingwynn: mucks hand 
+TJSDADDY04 collected $7.75 from pot
+*** SUMMARY ***
+Total pot $8.15 | Rake $0.40 
+Board [5h Tc 9c Jd 6h]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 4: pcb2000 (big blind) folded on the Flop
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 showed [9h Td] and won ($7.75) with two pair, Tens and Nines
+Seat 7: allingwynn mucked [8d Ts]
+Seat 9: silver2871 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953319591:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:08:28 (ET)
+Table 'Brabantia IV' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($21.50 in chips) 
+Seat 4: pcb2000 ($20.55 in chips) 
+Seat 5: Jumper280 ($12.25 in chips) 
+Seat 6: TJSDADDY04 ($7.75 in chips) 
+Seat 7: allingwynn ($15.85 in chips) 
+Seat 8: jacky20 ($31.75 in chips) 
+Seat 9: silver2871 ($24.30 in chips) 
+pcb2000: posts small blind $0.10
+Jumper280: posts big blind $0.25
+jacky20: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 7s]
+TJSDADDY04: folds 
+allingwynn: folds 
+jacky20: raises $0.75 to $1
+silver2871: folds 
+Alameda22: folds 
+pcb2000: folds 
+Jumper280: folds 
+Uncalled bet ($0.75) returned to jacky20
+jacky20 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: pcb2000 (small blind) folded before Flop
+Seat 5: Jumper280 (big blind) folded before Flop
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: allingwynn folded before Flop (didn't bet)
+Seat 8: jacky20 collected ($0.70)
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953336211:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:09:11 (ET)
+Table 'Brabantia IV' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($21.50 in chips) 
+Seat 4: pcb2000 ($20.45 in chips) 
+Seat 5: Jumper280 ($12 in chips) 
+Seat 6: TJSDADDY04 ($7.75 in chips) 
+Seat 7: allingwynn ($15.85 in chips) 
+Seat 8: jacky20 ($32.10 in chips) 
+Seat 9: silver2871 ($24.30 in chips) 
+Jumper280: posts small blind $0.10
+TJSDADDY04: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 9h]
+allingwynn: folds 
+jacky20: calls $0.25
+silver2871: folds 
+Alameda22: folds 
+pcb2000: folds 
+Jumper280: folds 
+TJSDADDY04: checks 
+*** FLOP *** [2s 8s 5s]
+TJSDADDY04: bets $0.50
+jacky20: folds 
+Uncalled bet ($0.50) returned to TJSDADDY04
+TJSDADDY04 collected $0.60 from pot
+TJSDADDY04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [2s 8s 5s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 4: pcb2000 (button) folded before Flop (didn't bet)
+Seat 5: Jumper280 (small blind) folded before Flop
+Seat 6: TJSDADDY04 (big blind) collected ($0.60)
+Seat 7: allingwynn folded before Flop (didn't bet)
+Seat 8: jacky20 folded on the Flop
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953365911:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:10:28 (ET)
+Table 'Brabantia IV' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($21.50 in chips) 
+Seat 4: pcb2000 ($20.45 in chips) 
+Seat 5: Jumper280 ($11.90 in chips) 
+Seat 6: TJSDADDY04 ($8.10 in chips) 
+Seat 7: allingwynn ($15.85 in chips) 
+Seat 8: jacky20 ($31.85 in chips) 
+Seat 9: silver2871 ($24.30 in chips) 
+TJSDADDY04: posts small blind $0.10
+allingwynn: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 8c]
+jacky20: folds 
+silver2871: folds 
+Alameda22: folds 
+pcb2000: folds 
+Jumper280: folds 
+TJSDADDY04: calls $0.15
+All Donk joins the table at seat #3 
+allingwynn: checks 
+*** FLOP *** [6s 5c 2s]
+TJSDADDY04: checks 
+allingwynn: bets $0.75
+TJSDADDY04: folds 
+Uncalled bet ($0.75) returned to allingwynn
+allingwynn collected $0.50 from pot
+allingwynn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [6s 5c 2s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Jumper280 (button) folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 (small blind) folded on the Flop
+Seat 7: allingwynn (big blind) collected ($0.50)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953385186:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:11:18 (ET)
+Table 'Brabantia IV' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($21.50 in chips) 
+Seat 4: pcb2000 ($20.45 in chips) 
+Seat 5: Jumper280 ($11.90 in chips) 
+Seat 6: TJSDADDY04 ($7.85 in chips) 
+Seat 7: allingwynn ($16.10 in chips) 
+Seat 8: jacky20 ($31.85 in chips) 
+Seat 9: silver2871 ($24.30 in chips) 
+allingwynn: posts small blind $0.10
+jacky20: posts big blind $0.25
+All Donk: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Qc]
+allingwynn said, "night"
+silver2871: folds 
+Alameda22: raises $0.50 to $0.75
+pcb2000: folds 
+Jumper280: folds 
+TJSDADDY04: folds 
+allingwynn: folds 
+jacky20: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 collected ($0.60)
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 (button) folded before Flop (didn't bet)
+Seat 7: allingwynn (small blind) folded before Flop
+Seat 8: jacky20 (big blind) folded before Flop
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953401950:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:12:02 (ET)
+Table 'Brabantia IV' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($21.85 in chips) 
+Seat 4: pcb2000 ($20.45 in chips) 
+Seat 5: Jumper280 ($11.90 in chips) 
+Seat 6: TJSDADDY04 ($7.85 in chips) 
+Seat 7: allingwynn ($16 in chips) 
+Seat 8: jacky20 ($31.60 in chips) 
+Seat 9: silver2871 ($24.30 in chips) 
+jacky20: posts small blind $0.10
+silver2871: posts big blind $0.25
+All Donk: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 5c]
+Alameda22: folds 
+pcb2000: raises $0.25 to $0.50
+Jumper280: folds 
+TJSDADDY04: folds 
+allingwynn: calls $0.50
+jacky20: folds 
+silver2871: calls $0.25
+*** FLOP *** [8d 8c Kd]
+928racer leaves the table
+silver2871: checks 
+pcb2000: checks 
+allingwynn: checks 
+*** TURN *** [8d 8c Kd] [8s]
+silver2871: checks 
+pcb2000: checks 
+allingwynn: bets $1.50
+silver2871: folds 
+pcb2000: folds 
+Uncalled bet ($1.50) returned to allingwynn
+allingwynn collected $1.55 from pot
+allingwynn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [8d 8c Kd 8s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 4: pcb2000 folded on the Turn
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: allingwynn (button) collected ($1.55)
+Seat 8: jacky20 (small blind) folded before Flop
+Seat 9: silver2871 (big blind) folded on the Turn
+
+
+
+PokerStars Game #19953425146:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:13:04 (ET)
+Table 'Brabantia IV' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($21.85 in chips) 
+Seat 4: pcb2000 ($19.95 in chips) 
+Seat 5: Jumper280 ($11.90 in chips) 
+Seat 6: TJSDADDY04 ($7.85 in chips) 
+Seat 7: allingwynn ($17.05 in chips) 
+Seat 8: jacky20 ($31.50 in chips) 
+Seat 9: silver2871 ($23.80 in chips) 
+silver2871: posts small blind $0.10
+Alameda22: posts big blind $0.25
+All Donk: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s As]
+pcb2000: calls $0.25
+Jumper280: folds 
+TJSDADDY04: calls $0.25
+allingwynn: folds 
+jacky20: folds 
+silver2871: folds 
+Alameda22: checks 
+*** FLOP *** [2h Td 7c]
+Alameda22: checks 
+pcb2000: checks 
+TJSDADDY04: bets $0.50
+Alameda22: folds 
+pcb2000: folds 
+Uncalled bet ($0.50) returned to TJSDADDY04
+TJSDADDY04 collected $0.85 from pot
+TJSDADDY04: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [2h Td 7c]
+Seat 1: Alameda22 (big blind) folded on the Flop
+Seat 4: pcb2000 folded on the Flop
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 collected ($0.85)
+Seat 7: allingwynn folded before Flop (didn't bet)
+Seat 8: jacky20 (button) folded before Flop (didn't bet)
+Seat 9: silver2871 (small blind) folded before Flop
+
+
+
+PokerStars Game #19953448840:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:14:06 (ET)
+Table 'Brabantia IV' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($21.60 in chips) 
+Seat 3: All Donk ($25 in chips) 
+Seat 4: pcb2000 ($19.70 in chips) 
+Seat 5: Jumper280 ($11.90 in chips) 
+Seat 6: TJSDADDY04 ($8.45 in chips) 
+Seat 7: allingwynn ($17.05 in chips) 
+Seat 8: jacky20 ($31.50 in chips) 
+Seat 9: silver2871 ($23.70 in chips) 
+Alameda22: posts small blind $0.10
+All Donk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 8c]
+pcb2000: folds 
+Jumper280: folds 
+TJSDADDY04: calls $0.25
+allingwynn: folds 
+jacky20: calls $0.25
+silver2871: folds 
+Alameda22: folds 
+All Donk: checks 
+*** FLOP *** [Th Qc 2h]
+All Donk: checks 
+TJSDADDY04: checks 
+jacky20: bets $0.75
+All Donk: folds 
+TJSDADDY04: calls $0.75
+*** TURN *** [Th Qc 2h] [Jc]
+TJSDADDY04: checks 
+jacky20: bets $1.50
+TJSDADDY04: calls $1.50
+*** RIVER *** [Th Qc 2h Jc] [4d]
+TJSDADDY04: checks 
+jacky20: checks 
+*** SHOW DOWN ***
+TJSDADDY04: shows [Ah Js] (a pair of Jacks)
+jacky20: shows [As Qh] (a pair of Queens)
+jacky20 collected $5.10 from pot
+weepeel joins the table at seat #2 
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [Th Qc 2h Jc 4d]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 3: All Donk (big blind) folded on the Flop
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 showed [Ah Js] and lost with a pair of Jacks
+Seat 7: allingwynn folded before Flop (didn't bet)
+Seat 8: jacky20 showed [As Qh] and won ($5.10) with a pair of Queens
+Seat 9: silver2871 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953473600:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:15:04 (ET)
+Table 'Brabantia IV' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($21.50 in chips) 
+Seat 3: All Donk ($24.75 in chips) 
+Seat 4: pcb2000 ($19.70 in chips) 
+Seat 5: Jumper280 ($11.90 in chips) 
+Seat 6: TJSDADDY04 ($5.95 in chips) 
+Seat 7: allingwynn ($17.05 in chips) 
+Seat 8: jacky20 ($34.10 in chips) 
+Seat 9: silver2871 ($23.70 in chips) 
+weepeel will be allowed to play after the button
+All Donk: posts small blind $0.10
+pcb2000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s As]
+Jumper280: folds 
+TJSDADDY04: calls $0.25
+allingwynn: folds 
+jacky20: folds 
+silver2871: calls $0.25
+Alameda22: folds 
+All Donk: calls $0.15
+pcb2000: checks 
+*** FLOP *** [Js 6s Kd]
+All Donk: checks 
+pcb2000: checks 
+TJSDADDY04: checks 
+silver2871: checks 
+*** TURN *** [Js 6s Kd] [2h]
+All Donk: checks 
+pcb2000: checks 
+TJSDADDY04: checks 
+silver2871: checks 
+*** RIVER *** [Js 6s Kd 2h] [8c]
+All Donk: checks 
+pcb2000: checks 
+TJSDADDY04: checks 
+silver2871: checks 
+*** SHOW DOWN ***
+All Donk: shows [3d 4h] (high card King)
+pcb2000: shows [2d 3h] (a pair of Deuces)
+TJSDADDY04: mucks hand 
+silver2871: mucks hand 
+pcb2000 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Js 6s Kd 2h 8c]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: All Donk (small blind) showed [3d 4h] and lost with high card King
+Seat 4: pcb2000 (big blind) showed [2d 3h] and won ($0.95) with a pair of Deuces
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 mucked [9h Ts]
+Seat 7: allingwynn folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 mucked [5c 4c]
+
+
+
+PokerStars Game #19953518088:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:16:48 (ET)
+Table 'Brabantia IV' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($21.50 in chips) 
+Seat 3: All Donk ($24.50 in chips) 
+Seat 4: pcb2000 ($20.40 in chips) 
+Seat 5: Jumper280 ($11.90 in chips) 
+Seat 6: TJSDADDY04 ($5.70 in chips) 
+Seat 7: allingwynn ($17.05 in chips) 
+Seat 8: jacky20 ($34.10 in chips) 
+Seat 9: silver2871 ($23.45 in chips) 
+pcb2000: posts small blind $0.10
+Jumper280: posts big blind $0.25
+weepeel: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 6h]
+TJSDADDY04: folds 
+allingwynn: raises $0.75 to $1
+jacky20: folds 
+silver2871: calls $1
+Alameda22: folds 
+All Donk: folds 
+pcb2000: folds 
+Jumper280: folds 
+*** FLOP *** [Jc 4s 8s]
+allingwynn: bets $1
+silver2871: raises $2.50 to $3.50
+allingwynn: raises $4.50 to $8
+silver2871: calls $4.50
+*** TURN *** [Jc 4s 8s] [Ah]
+allingwynn: bets $8.05 and is all-in
+silver2871: folds 
+Uncalled bet ($8.05) returned to allingwynn
+allingwynn collected $17.45 from pot
+allingwynn: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.35 | Rake $0.90 
+Board [Jc 4s 8s Ah]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: All Donk (button) folded before Flop (didn't bet)
+Seat 4: pcb2000 (small blind) folded before Flop
+Seat 5: Jumper280 (big blind) folded before Flop
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: allingwynn collected ($17.45)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 folded on the Turn
+
+
+
+PokerStars Game #19953565900:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:18:40 (ET)
+Table 'Brabantia IV' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($21.50 in chips) 
+Seat 3: All Donk ($24.50 in chips) 
+Seat 4: pcb2000 ($20.30 in chips) 
+Seat 5: Jumper280 ($11.65 in chips) 
+Seat 6: TJSDADDY04 ($5.70 in chips) 
+Seat 7: allingwynn ($25.50 in chips) 
+Seat 8: jacky20 ($34.10 in chips) 
+Seat 9: silver2871 ($14.45 in chips) 
+Jumper280: posts small blind $0.10
+TJSDADDY04: posts big blind $0.25
+weepeel: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 9h]
+allingwynn: folds 
+jacky20: folds 
+silver2871: calls $0.25
+Alameda22: folds 
+All Donk: raises $0.75 to $1
+pcb2000: folds 
+Jumper280: folds 
+TJSDADDY04: folds 
+silver2871: calls $0.75
+*** FLOP *** [8d 4d 8h]
+silver2871: checks 
+All Donk: checks 
+*** TURN *** [8d 4d 8h] [Ts]
+silver2871: checks 
+All Donk: checks 
+*** RIVER *** [8d 4d 8h Ts] [9c]
+silver2871: checks 
+All Donk: checks 
+*** SHOW DOWN ***
+silver2871: shows [3d 5d] (a pair of Eights)
+All Donk: shows [Ah Kc] (a pair of Eights - Ace kicker)
+All Donk collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [8d 4d 8h Ts 9c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: All Donk showed [Ah Kc] and won ($2.25) with a pair of Eights
+Seat 4: pcb2000 (button) folded before Flop (didn't bet)
+Seat 5: Jumper280 (small blind) folded before Flop
+Seat 6: TJSDADDY04 (big blind) folded before Flop
+Seat 7: allingwynn folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 showed [3d 5d] and lost with a pair of Eights
+
+
+
+PokerStars Game #19953604216:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:20:12 (ET)
+Table 'Brabantia IV' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($21.50 in chips) 
+Seat 3: All Donk ($25.75 in chips) 
+Seat 4: pcb2000 ($20.30 in chips) 
+Seat 5: Jumper280 ($11.55 in chips) 
+Seat 6: TJSDADDY04 ($5.45 in chips) 
+Seat 7: allingwynn ($25.50 in chips) 
+Seat 8: jacky20 ($34.10 in chips) 
+Seat 9: silver2871 ($13.45 in chips) 
+TJSDADDY04: posts small blind $0.10
+allingwynn: posts big blind $0.25
+weepeel: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Qh]
+jacky20: folds 
+silver2871: folds 
+Alameda22: folds 
+All Donk: folds 
+pcb2000: folds 
+Jumper280: folds 
+TJSDADDY04: calls $0.15
+allingwynn: checks 
+*** FLOP *** [Ad 7d 9h]
+TJSDADDY04: bets $0.50
+allingwynn: calls $0.50
+*** TURN *** [Ad 7d 9h] [Kh]
+TJSDADDY04: checks 
+allingwynn: bets $2
+TJSDADDY04: folds 
+Uncalled bet ($2) returned to allingwynn
+allingwynn collected $1.45 from pot
+allingwynn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Ad 7d 9h Kh]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Jumper280 (button) folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 (small blind) folded on the Turn
+Seat 7: allingwynn (big blind) collected ($1.45)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953627106:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:21:08 (ET)
+Table 'Brabantia IV' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($21.50 in chips) 
+Seat 3: All Donk ($25.75 in chips) 
+Seat 4: pcb2000 ($20.30 in chips) 
+Seat 5: Jumper280 ($11.55 in chips) 
+Seat 6: TJSDADDY04 ($4.70 in chips) 
+Seat 7: allingwynn ($26.20 in chips) 
+Seat 8: jacky20 ($34.10 in chips) 
+Seat 9: silver2871 ($25 in chips) 
+allingwynn: posts small blind $0.10
+jacky20: posts big blind $0.25
+weepeel: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 9h]
+silver2871: calls $0.25
+Alameda22: folds 
+All Donk: folds 
+pcb2000: calls $0.25
+Jumper280: folds 
+TJSDADDY04: calls $0.25
+allingwynn: calls $0.15
+jacky20: checks 
+*** FLOP *** [4d Js 8h]
+allingwynn: checks 
+jacky20: checks 
+silver2871: checks 
+pcb2000: checks 
+TJSDADDY04: checks 
+*** TURN *** [4d Js 8h] [3c]
+allingwynn: checks 
+jacky20: checks 
+silver2871: checks 
+pcb2000: checks 
+TJSDADDY04: bets $0.50
+allingwynn: folds 
+jacky20: folds 
+silver2871: folds 
+pcb2000: folds 
+Uncalled bet ($0.50) returned to TJSDADDY04
+TJSDADDY04 collected $1.20 from pot
+TJSDADDY04: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [4d Js 8h 3c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 4: pcb2000 folded on the Turn
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 (button) collected ($1.20)
+Seat 7: allingwynn (small blind) folded on the Turn
+Seat 8: jacky20 (big blind) folded on the Turn
+Seat 9: silver2871 folded on the Turn
+
+
+
+PokerStars Game #19953671314:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:22:56 (ET)
+Table 'Brabantia IV' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($21.50 in chips) 
+Seat 3: All Donk ($25.75 in chips) 
+Seat 4: pcb2000 ($20.05 in chips) 
+Seat 5: Jumper280 ($11.55 in chips) 
+Seat 6: TJSDADDY04 ($5.65 in chips) 
+Seat 7: allingwynn ($25.95 in chips) 
+Seat 8: jacky20 ($33.85 in chips) 
+Seat 9: silver2871 ($24.75 in chips) 
+jacky20: posts small blind $0.10
+silver2871: posts big blind $0.25
+weepeel: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 5s]
+Alameda22: folds 
+All Donk: folds 
+pcb2000: folds 
+Jumper280: folds 
+TJSDADDY04: folds 
+allingwynn: folds 
+jacky20: calls $0.15
+silver2871: raises $1 to $1.25
+jacky20: folds 
+Uncalled bet ($1) returned to silver2871
+silver2871 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: allingwynn (button) folded before Flop (didn't bet)
+Seat 8: jacky20 (small blind) folded before Flop
+Seat 9: silver2871 (big blind) collected ($0.50)
+
+
+
+PokerStars Game #19953684875:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:23:29 (ET)
+Table 'Brabantia IV' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($21.50 in chips) 
+Seat 3: All Donk ($25.75 in chips) 
+Seat 4: pcb2000 ($20.05 in chips) 
+Seat 5: Jumper280 ($11.55 in chips) 
+Seat 6: TJSDADDY04 ($5.65 in chips) 
+Seat 7: allingwynn ($25.95 in chips) 
+Seat 8: jacky20 ($33.60 in chips) 
+Seat 9: silver2871 ($25 in chips) 
+silver2871: posts small blind $0.10
+Alameda22: posts big blind $0.25
+weepeel: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Kc]
+All Donk: folds 
+pcb2000: folds 
+Jumper280: folds 
+TJSDADDY04: folds 
+allingwynn: calls $0.25
+jacky20: calls $0.25
+silver2871: calls $0.15
+Alameda22: checks 
+*** FLOP *** [7c 4s 9s]
+silver2871: checks 
+Alameda22: checks 
+allingwynn: checks 
+jacky20: checks 
+*** TURN *** [7c 4s 9s] [6s]
+silver2871: bets $0.75
+Alameda22: folds 
+allingwynn: folds 
+jacky20: calls $0.75
+*** RIVER *** [7c 4s 9s 6s] [7d]
+silver2871: bets $1.75
+jacky20: calls $1.75
+*** SHOW DOWN ***
+silver2871: shows [8s Td] (a straight, Six to Ten)
+jacky20: mucks hand 
+silver2871 collected $5.75 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.25 
+Board [7c 4s 9s 6s 7d]
+Seat 1: Alameda22 (big blind) folded on the Turn
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: allingwynn folded on the Turn
+Seat 8: jacky20 (button) mucked [6d 4d]
+Seat 9: silver2871 (small blind) showed [8s Td] and won ($5.75) with a straight, Six to Ten
+
+
+
+PokerStars Game #19953726180:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:25:12 (ET)
+Table 'Brabantia IV' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($21.25 in chips) 
+Seat 2: weepeel ($25 in chips) 
+Seat 3: All Donk ($25.75 in chips) 
+Seat 4: pcb2000 ($20.05 in chips) 
+Seat 5: Jumper280 ($11.55 in chips) 
+Seat 6: TJSDADDY04 ($5.65 in chips) 
+Seat 7: allingwynn ($25.70 in chips) 
+Seat 8: jacky20 ($30.85 in chips) 
+Seat 9: silver2871 ($28 in chips) 
+Alameda22: posts small blind $0.10
+weepeel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 8c]
+All Donk: folds 
+pcb2000: folds 
+Jumper280: folds 
+TJSDADDY04: folds 
+allingwynn: raises $0.25 to $0.50
+jacky20: folds 
+silver2871: folds 
+Alameda22: folds 
+weepeel: calls $0.25
+*** FLOP *** [6h 8h 6d]
+weepeel: checks 
+allingwynn: bets $1.25
+weepeel: calls $1.25
+*** TURN *** [6h 8h 6d] [Qs]
+weepeel: checks 
+allingwynn: bets $1.50
+weepeel: folds 
+Uncalled bet ($1.50) returned to allingwynn
+allingwynn collected $3.45 from pot
+allingwynn: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.15 
+Board [6h 8h 6d Qs]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: weepeel (big blind) folded on the Turn
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: allingwynn collected ($3.45)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953754101:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:26:22 (ET)
+Table 'Brabantia IV' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($21.15 in chips) 
+Seat 2: weepeel ($25 in chips) 
+Seat 3: All Donk ($25.75 in chips) 
+Seat 4: pcb2000 ($20.05 in chips) 
+Seat 5: Jumper280 ($11.55 in chips) 
+Seat 6: TJSDADDY04 ($5.65 in chips) 
+Seat 7: allingwynn ($27.40 in chips) 
+Seat 8: jacky20 ($30.85 in chips) 
+Seat 9: silver2871 ($28 in chips) 
+weepeel: posts small blind $0.10
+All Donk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Ac]
+pcb2000: folds 
+Jumper280: calls $0.25
+TJSDADDY04: folds 
+allingwynn: calls $0.25
+jacky20: folds 
+silver2871: calls $0.25
+Alameda22: folds 
+weepeel: calls $0.15
+All Donk: checks 
+*** FLOP *** [3d 3c Qh]
+weepeel: checks 
+All Donk: checks 
+Jumper280: checks 
+allingwynn: checks 
+silver2871: checks 
+*** TURN *** [3d 3c Qh] [Qd]
+weepeel: checks 
+All Donk: checks 
+Jumper280: checks 
+allingwynn: checks 
+silver2871: checks 
+*** RIVER *** [3d 3c Qh Qd] [Td]
+weepeel: bets $0.75
+All Donk: folds 
+Jumper280: folds 
+allingwynn: folds 
+silver2871: folds 
+Uncalled bet ($0.75) returned to weepeel
+weepeel collected $1.20 from pot
+weepeel: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [3d 3c Qh Qd Td]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: weepeel (small blind) collected ($1.20)
+Seat 3: All Donk (big blind) folded on the River
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Jumper280 folded on the River
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: allingwynn folded on the River
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 folded on the River
+
+
+
+PokerStars Game #19953801072:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:28:21 (ET)
+Table 'Brabantia IV' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($21.15 in chips) 
+Seat 2: weepeel ($25.95 in chips) 
+Seat 3: All Donk ($25.50 in chips) 
+Seat 4: pcb2000 ($20.05 in chips) 
+Seat 5: Jumper280 ($11.30 in chips) 
+Seat 6: TJSDADDY04 ($5.65 in chips) 
+Seat 7: allingwynn ($27.15 in chips) 
+Seat 8: jacky20 ($30.85 in chips) 
+Seat 9: silver2871 ($27.75 in chips) 
+All Donk: posts small blind $0.10
+pcb2000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Jc]
+Jumper280: folds 
+TJSDADDY04: calls $0.25
+allingwynn: folds 
+jacky20: calls $0.25
+silver2871: folds 
+Alameda22: folds 
+weepeel: folds 
+All Donk: folds 
+pcb2000: checks 
+*** FLOP *** [5c 2c 4h]
+pcb2000: checks 
+TJSDADDY04: checks 
+jacky20: checks 
+*** TURN *** [5c 2c 4h] [Th]
+pcb2000: checks 
+TJSDADDY04: checks 
+jacky20: checks 
+*** RIVER *** [5c 2c 4h Th] [Kd]
+pcb2000: checks 
+TJSDADDY04: checks 
+jacky20: checks 
+*** SHOW DOWN ***
+pcb2000: shows [As 9c] (high card Ace)
+TJSDADDY04: mucks hand 
+jacky20: mucks hand 
+pcb2000 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [5c 2c 4h Th Kd]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: weepeel (button) folded before Flop (didn't bet)
+Seat 3: All Donk (small blind) folded before Flop
+Seat 4: pcb2000 (big blind) showed [As 9c] and won ($0.85) with high card Ace
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 mucked [6s 9s]
+Seat 7: allingwynn folded before Flop (didn't bet)
+Seat 8: jacky20 mucked [7d Jd]
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953837930:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:29:55 (ET)
+Table 'Brabantia IV' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($21.15 in chips) 
+Seat 2: weepeel ($25.95 in chips) 
+Seat 3: All Donk ($25.40 in chips) 
+Seat 4: pcb2000 ($20.65 in chips) 
+Seat 5: Jumper280 ($11.30 in chips) 
+Seat 6: TJSDADDY04 ($5.40 in chips) 
+Seat 7: allingwynn ($27.15 in chips) 
+Seat 8: jacky20 ($30.60 in chips) 
+Seat 9: silver2871 ($27.75 in chips) 
+pcb2000: posts small blind $0.10
+Jumper280: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 5d]
+TJSDADDY04: folds 
+allingwynn: folds 
+jacky20: calls $0.25
+silver2871: calls $0.25
+Alameda22: folds 
+weepeel: calls $0.25
+All Donk: folds 
+pcb2000: folds 
+Jumper280: checks 
+*** FLOP *** [Td Js 6c]
+Jumper280: checks 
+jacky20: checks 
+silver2871: checks 
+weepeel: checks 
+*** TURN *** [Td Js 6c] [Th]
+Jumper280: checks 
+jacky20: checks 
+silver2871: checks 
+weepeel: checks 
+*** RIVER *** [Td Js 6c Th] [Kh]
+Jumper280: checks 
+jacky20: checks 
+silver2871: checks 
+weepeel: checks 
+*** SHOW DOWN ***
+Jumper280: shows [4s Qc] (a pair of Tens)
+jacky20: shows [As 6h] (two pair, Tens and Sixes)
+silver2871: mucks hand 
+weepeel: mucks hand 
+jacky20 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Td Js 6c Th Kh]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: weepeel mucked [6s 8s]
+Seat 3: All Donk (button) folded before Flop (didn't bet)
+Seat 4: pcb2000 (small blind) folded before Flop
+Seat 5: Jumper280 (big blind) showed [4s Qc] and lost with a pair of Tens
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: allingwynn folded before Flop (didn't bet)
+Seat 8: jacky20 showed [As 6h] and won ($1.05) with two pair, Tens and Sixes
+Seat 9: silver2871 mucked [2s 3s]
+
+
+
+PokerStars Game #19953880206:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:31:43 (ET)
+Table 'Brabantia IV' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($21.15 in chips) 
+Seat 2: weepeel ($25.70 in chips) 
+Seat 3: All Donk ($25.40 in chips) 
+Seat 4: pcb2000 ($20.55 in chips) 
+Seat 5: Jumper280 ($11.05 in chips) 
+Seat 6: TJSDADDY04 ($5.40 in chips) 
+Seat 7: allingwynn ($27.15 in chips) 
+Seat 8: jacky20 ($31.40 in chips) 
+Seat 9: silver2871 ($27.50 in chips) 
+Jumper280: posts small blind $0.10
+TJSDADDY04: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 8d]
+allingwynn: folds 
+jacky20: folds 
+allingwynn leaves the table
+silver2871: calls $0.25
+Alameda22: folds 
+weepeel: calls $0.25
+All Donk: folds 
+pcb2000: calls $0.25
+Jumper280: folds 
+TJSDADDY04: checks 
+*** FLOP *** [2h 5c 4d]
+rjr3143 joins the table at seat #7 
+TJSDADDY04: checks 
+silver2871: checks 
+weepeel: checks 
+pcb2000: checks 
+*** TURN *** [2h 5c 4d] [8h]
+TJSDADDY04: checks 
+silver2871: checks 
+weepeel: checks 
+pcb2000: bets $0.75
+TJSDADDY04: folds 
+silver2871: folds 
+weepeel: folds 
+Uncalled bet ($0.75) returned to pcb2000
+pcb2000 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [2h 5c 4d 8h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: weepeel folded on the Turn
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 4: pcb2000 (button) collected ($1.05)
+Seat 5: Jumper280 (small blind) folded before Flop
+Seat 6: TJSDADDY04 (big blind) folded on the Turn
+Seat 7: allingwynn folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 folded on the Turn
+
+
+
+PokerStars Game #19953917960:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:33:18 (ET)
+Table 'Brabantia IV' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($21.15 in chips) 
+Seat 2: weepeel ($25.45 in chips) 
+Seat 3: All Donk ($25.40 in chips) 
+Seat 4: pcb2000 ($21.35 in chips) 
+Seat 5: Jumper280 ($10.95 in chips) 
+Seat 6: TJSDADDY04 ($5.15 in chips) 
+Seat 7: rjr3143 ($15 in chips) 
+Seat 8: jacky20 ($31.40 in chips) 
+Seat 9: silver2871 ($27.25 in chips) 
+TJSDADDY04: posts small blind $0.10
+rjr3143: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 9c]
+jacky20: folds 
+silver2871: folds 
+Alameda22: folds 
+weepeel: folds 
+All Donk: folds 
+pcb2000: folds 
+Jumper280: folds 
+TJSDADDY04: calls $0.15
+rjr3143: checks 
+*** FLOP *** [9h Ad 4d]
+TJSDADDY04: checks 
+rjr3143: checks 
+*** TURN *** [9h Ad 4d] [4c]
+TJSDADDY04: checks 
+rjr3143: checks 
+*** RIVER *** [9h Ad 4d 4c] [Tc]
+TJSDADDY04: bets $0.25
+rjr3143: raises $0.75 to $1
+TJSDADDY04: calls $0.75
+*** SHOW DOWN ***
+rjr3143: shows [4h Jh] (three of a kind, Fours)
+TJSDADDY04: mucks hand 
+rjr3143 collected $2.40 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [9h Ad 4d 4c Tc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Jumper280 (button) folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 (small blind) mucked [Ts 2s]
+Seat 7: rjr3143 (big blind) showed [4h Jh] and won ($2.40) with three of a kind, Fours
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953956613:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:34:56 (ET)
+Table 'Brabantia IV' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($21.15 in chips) 
+Seat 2: weepeel ($25.45 in chips) 
+Seat 3: All Donk ($25.40 in chips) 
+Seat 4: pcb2000 ($21.35 in chips) 
+Seat 5: Jumper280 ($10.95 in chips) 
+Seat 6: TJSDADDY04 ($3.90 in chips) 
+Seat 7: rjr3143 ($16.15 in chips) 
+Seat 8: jacky20 ($31.40 in chips) 
+Seat 9: silver2871 ($27.25 in chips) 
+rjr3143: posts small blind $0.10
+jacky20: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 8c]
+silver2871: folds 
+Alameda22: folds 
+weepeel: folds 
+All Donk: folds 
+pcb2000: calls $0.25
+Jumper280: folds 
+TJSDADDY04: calls $0.25
+rjr3143: calls $0.15
+jacky20: checks 
+*** FLOP *** [9c 2d Kd]
+rjr3143: checks 
+jacky20: checks 
+pcb2000: bets $0.75
+TJSDADDY04: folds 
+rjr3143: folds 
+jacky20: folds 
+Uncalled bet ($0.75) returned to pcb2000
+pcb2000 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [9c 2d Kd]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 4: pcb2000 collected ($0.95)
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 (button) folded on the Flop
+Seat 7: rjr3143 (small blind) folded on the Flop
+Seat 8: jacky20 (big blind) folded on the Flop
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953988436:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:36:16 (ET)
+Table 'Brabantia IV' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($21.15 in chips) 
+Seat 2: weepeel ($25.45 in chips) 
+Seat 3: All Donk ($25.40 in chips) 
+Seat 4: pcb2000 ($22.05 in chips) 
+Seat 5: Jumper280 ($10.95 in chips) 
+Seat 6: TJSDADDY04 ($3.65 in chips) 
+Seat 7: rjr3143 ($15.90 in chips) 
+Seat 8: jacky20 ($31.15 in chips) 
+Seat 9: silver2871 ($27.25 in chips) 
+jacky20: posts small blind $0.10
+silver2871: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 9h]
+Alameda22: folds 
+weepeel: folds 
+All Donk: folds 
+pcb2000: folds 
+Jumper280: calls $0.25
+TJSDADDY04: folds 
+rjr3143: folds 
+jacky20: calls $0.15
+silver2871: checks 
+*** FLOP *** [7d 8h 3d]
+jacky20: checks 
+silver2871: bets $0.75
+Jumper280: raises $0.75 to $1.50
+jacky20: folds 
+silver2871: calls $0.75
+*** TURN *** [7d 8h 3d] [3h]
+silver2871: checks 
+Jumper280: bets $1.25
+silver2871: calls $1.25
+*** RIVER *** [7d 8h 3d 3h] [Ah]
+silver2871: checks 
+Jumper280: checks 
+*** SHOW DOWN ***
+silver2871: shows [Ad 4d] (two pair, Aces and Threes)
+Jumper280: mucks hand 
+silver2871 collected $5.95 from pot
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.30 
+Board [7d 8h 3d 3h Ah]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Jumper280 mucked [Kd Kc]
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: rjr3143 (button) folded before Flop (didn't bet)
+Seat 8: jacky20 (small blind) folded on the Flop
+Seat 9: silver2871 (big blind) showed [Ad 4d] and won ($5.95) with two pair, Aces and Threes
+
+
+
+PokerStars Game #19954026496:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:37:53 (ET)
+Table 'Brabantia IV' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($21.15 in chips) 
+Seat 2: weepeel ($25.45 in chips) 
+Seat 3: All Donk ($25.40 in chips) 
+Seat 4: pcb2000 ($22.05 in chips) 
+Seat 5: Jumper280 ($7.95 in chips) 
+Seat 6: TJSDADDY04 ($3.65 in chips) 
+Seat 7: rjr3143 ($15.90 in chips) 
+Seat 8: jacky20 ($30.90 in chips) 
+Seat 9: silver2871 ($30.20 in chips) 
+silver2871: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 6s]
+weepeel: folds 
+All Donk: folds 
+pcb2000: raises $0.50 to $0.75
+Jumper280: folds 
+TJSDADDY04: folds 
+rjr3143: folds 
+jacky20: folds 
+silver2871: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to pcb2000
+pcb2000 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 4: pcb2000 collected ($0.60)
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: rjr3143 folded before Flop (didn't bet)
+Seat 8: jacky20 (button) folded before Flop (didn't bet)
+Seat 9: silver2871 (small blind) folded before Flop
+
+
+
+PokerStars Game #19954044451:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:38:40 (ET)
+Table 'Brabantia IV' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($20.90 in chips) 
+Seat 2: weepeel ($25.45 in chips) 
+Seat 3: All Donk ($25.40 in chips) 
+Seat 4: pcb2000 ($22.40 in chips) 
+Seat 5: Jumper280 ($7.95 in chips) 
+Seat 6: TJSDADDY04 ($3.65 in chips) 
+Seat 7: rjr3143 ($15.90 in chips) 
+Seat 8: jacky20 ($30.90 in chips) 
+Seat 9: silver2871 ($30.10 in chips) 
+Alameda22: posts small blind $0.10
+weepeel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Td]
+All Donk: folds 
+pcb2000: folds 
+Jumper280: calls $0.25
+TJSDADDY04: folds 
+rjr3143: folds 
+jacky20: folds 
+silver2871: calls $0.25
+Alameda22: folds 
+weepeel: checks 
+*** FLOP *** [8h 4h Ks]
+weepeel: checks 
+Jumper280: checks 
+silver2871: bets $0.75
+weepeel: folds 
+Jumper280: raises $6.95 to $7.70 and is all-in
+silver2871: folds 
+Uncalled bet ($6.95) returned to Jumper280
+Jumper280 collected $2.25 from pot
+Jumper280: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [8h 4h Ks]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: weepeel (big blind) folded on the Flop
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 4: pcb2000 folded before Flop (didn't bet)
+Seat 5: Jumper280 collected ($2.25)
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: rjr3143 folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 (button) folded on the Flop
+
+
+
+PokerStars Game #19954063853:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:39:29 (ET)
+Table 'Brabantia IV' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($20.80 in chips) 
+Seat 2: weepeel ($25.20 in chips) 
+Seat 3: All Donk ($25.40 in chips) 
+Seat 4: pcb2000 ($22.40 in chips) 
+Seat 5: Jumper280 ($9.20 in chips) 
+Seat 6: TJSDADDY04 ($3.65 in chips) 
+Seat 7: rjr3143 ($15.90 in chips) 
+Seat 8: jacky20 ($30.90 in chips) 
+Seat 9: silver2871 ($29.10 in chips) 
+weepeel: posts small blind $0.10
+All Donk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 5d]
+pcb2000: raises $0.50 to $0.75
+Jumper280: folds 
+TJSDADDY04: folds 
+rjr3143: folds 
+jacky20: folds 
+silver2871: folds 
+Alameda22: folds 
+weepeel: raises $2.25 to $3
+All Donk: folds 
+pcb2000: calls $2.25
+*** FLOP *** [3h 2h Td]
+weepeel: bets $4
+pcb2000: raises $15.40 to $19.40 and is all-in
+weepeel: calls $15.40
+*** TURN *** [3h 2h Td] [8h]
+*** RIVER *** [3h 2h Td 8h] [Jd]
+*** SHOW DOWN ***
+weepeel: shows [Ah As] (a pair of Aces)
+pcb2000: mucks hand 
+weepeel collected $42.85 from pot
+*** SUMMARY ***
+Total pot $45.05 | Rake $2.20 
+Board [3h 2h Td 8h Jd]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: weepeel (small blind) showed [Ah As] and won ($42.85) with a pair of Aces
+Seat 3: All Donk (big blind) folded before Flop
+Seat 4: pcb2000 mucked [Kc Kh]
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: rjr3143 folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954092917:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:40:44 (ET)
+Table 'Brabantia IV' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($20.80 in chips) 
+Seat 2: weepeel ($45.65 in chips) 
+Seat 3: All Donk ($25.15 in chips) 
+Seat 5: Jumper280 ($9.20 in chips) 
+Seat 6: TJSDADDY04 ($3.65 in chips) 
+Seat 7: rjr3143 ($15.90 in chips) 
+Seat 8: jacky20 ($30.90 in chips) 
+Seat 9: silver2871 ($29.10 in chips) 
+All Donk: posts small blind $0.10
+Jumper280: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Tc]
+TJSDADDY04: calls $0.25
+pcb2000 leaves the table
+rjr3143: calls $0.25
+jacky20: calls $0.25
+silver2871: folds 
+Alameda22: folds 
+weepeel: folds 
+ThannTheOne joins the table at seat #4 
+All Donk: folds 
+Jumper280: checks 
+*** FLOP *** [Qc 5c 2s]
+Jumper280: checks 
+TJSDADDY04: checks 
+rjr3143: checks 
+jacky20: checks 
+*** TURN *** [Qc 5c 2s] [8h]
+Jumper280: checks 
+TJSDADDY04: checks 
+rjr3143: checks 
+jacky20: bets $0.50
+Jumper280: calls $0.50
+TJSDADDY04: folds 
+rjr3143: folds 
+*** RIVER *** [Qc 5c 2s 8h] [7s]
+Jumper280: checks 
+jacky20: checks 
+*** SHOW DOWN ***
+Jumper280: shows [6c 2c] (a pair of Deuces)
+jacky20: shows [8d 9d] (a pair of Eights)
+jacky20 collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Qc 5c 2s 8h 7s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: weepeel (button) folded before Flop (didn't bet)
+Seat 3: All Donk (small blind) folded before Flop
+Seat 5: Jumper280 (big blind) showed [6c 2c] and lost with a pair of Deuces
+Seat 6: TJSDADDY04 folded on the Turn
+Seat 7: rjr3143 folded on the Turn
+Seat 8: jacky20 showed [8d 9d] and won ($2) with a pair of Eights
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954133332:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:42:30 (ET)
+Table 'Brabantia IV' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($20.80 in chips) 
+Seat 2: weepeel ($45.65 in chips) 
+Seat 3: All Donk ($25.05 in chips) 
+Seat 5: Jumper280 ($8.45 in chips) 
+Seat 6: TJSDADDY04 ($3.40 in chips) 
+Seat 7: rjr3143 ($15.65 in chips) 
+Seat 8: jacky20 ($32.15 in chips) 
+Seat 9: silver2871 ($29.10 in chips) 
+ThannTheOne will be allowed to play after the button
+Jumper280: posts small blind $0.10
+TJSDADDY04: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Ad]
+rjr3143: raises $0.50 to $0.75
+jacky20: folds 
+silver2871: folds 
+Alameda22: folds 
+weepeel: folds 
+All Donk: folds 
+Jumper280: folds 
+TJSDADDY04: folds 
+Uncalled bet ($0.50) returned to rjr3143
+rjr3143 collected $0.60 from pot
+rjr3143: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: All Donk (button) folded before Flop (didn't bet)
+Seat 5: Jumper280 (small blind) folded before Flop
+Seat 6: TJSDADDY04 (big blind) folded before Flop
+Seat 7: rjr3143 collected ($0.60)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954149780:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:43:14 (ET)
+Table 'Brabantia IV' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($20.80 in chips) 
+Seat 2: weepeel ($45.65 in chips) 
+Seat 3: All Donk ($25.05 in chips) 
+Seat 5: Jumper280 ($8.35 in chips) 
+Seat 6: TJSDADDY04 ($3.15 in chips) 
+Seat 7: rjr3143 ($16 in chips) 
+Seat 8: jacky20 ($32.15 in chips) 
+Seat 9: silver2871 ($29.10 in chips) 
+TJSDADDY04: posts small blind $0.10
+rjr3143: posts big blind $0.25
+ThannTheOne: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 7h]
+jacky20: folds 
+silver2871: calls $0.25
+Alameda22: folds 
+weepeel: calls $0.25
+All Donk: folds 
+Jumper280: folds 
+TJSDADDY04: calls $0.15
+rjr3143: checks 
+*** FLOP *** [9d 7c Ts]
+TJSDADDY04: bets $0.25
+rjr3143: folds 
+silver2871: folds 
+weepeel: calls $0.25
+*** TURN *** [9d 7c Ts] [2h]
+TJSDADDY04: bets $0.25
+weepeel: calls $0.25
+*** RIVER *** [9d 7c Ts 2h] [Qd]
+TJSDADDY04: bets $0.25
+weepeel: raises $0.75 to $1
+TJSDADDY04: folds 
+Uncalled bet ($0.75) returned to weepeel
+weepeel collected $2.40 from pot
+weepeel: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [9d 7c Ts 2h Qd]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: weepeel collected ($2.40)
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 5: Jumper280 (button) folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 (small blind) folded on the River
+Seat 7: rjr3143 (big blind) folded on the Flop
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 folded on the Flop
+
+
+
+PokerStars Game #19954182426:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:44:39 (ET)
+Table 'Brabantia IV' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($20.80 in chips) 
+Seat 2: weepeel ($47.05 in chips) 
+Seat 3: All Donk ($25.05 in chips) 
+Seat 5: Jumper280 ($8.35 in chips) 
+Seat 6: TJSDADDY04 ($2.15 in chips) 
+Seat 7: rjr3143 ($15.75 in chips) 
+Seat 8: jacky20 ($32.15 in chips) 
+Seat 9: silver2871 ($28.85 in chips) 
+rjr3143: posts small blind $0.10
+jacky20: posts big blind $0.25
+ThannTheOne: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Ac]
+silver2871: folds 
+Alameda22: folds 
+weepeel: folds 
+All Donk: folds 
+Jumper280: calls $0.25
+TJSDADDY04: calls $0.25
+rjr3143: calls $0.15
+jacky20: checks 
+*** FLOP *** [2d Jd Kh]
+rjr3143: checks 
+jacky20: checks 
+Jumper280: checks 
+TJSDADDY04: bets $1.90 and is all-in
+rjr3143: folds 
+jacky20: folds 
+Jumper280: calls $1.90
+*** TURN *** [2d Jd Kh] [5s]
+*** RIVER *** [2d Jd Kh 5s] [Th]
+*** SHOW DOWN ***
+Jumper280: shows [Td Qs] (a pair of Tens)
+TJSDADDY04: shows [Ks Tc] (two pair, Kings and Tens)
+TJSDADDY04 collected $4.60 from pot
+*** SUMMARY ***
+Total pot $4.80 | Rake $0.20 
+Board [2d Jd Kh 5s Th]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 5: Jumper280 showed [Td Qs] and lost with a pair of Tens
+Seat 6: TJSDADDY04 (button) showed [Ks Tc] and won ($4.60) with two pair, Kings and Tens
+Seat 7: rjr3143 (small blind) folded on the Flop
+Seat 8: jacky20 (big blind) folded on the Flop
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954208134:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:45:49 (ET)
+Table 'Brabantia IV' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($20.80 in chips) 
+Seat 2: weepeel ($47.05 in chips) 
+Seat 3: All Donk ($25.05 in chips) 
+Seat 5: Jumper280 ($6.20 in chips) 
+Seat 6: TJSDADDY04 ($4.60 in chips) 
+Seat 7: rjr3143 ($15.50 in chips) 
+Seat 8: jacky20 ($31.90 in chips) 
+Seat 9: silver2871 ($28.85 in chips) 
+jacky20: posts small blind $0.10
+silver2871: posts big blind $0.25
+ThannTheOne: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 4s]
+Alameda22: folds 
+weepeel: folds 
+All Donk: folds 
+Jumper280: folds 
+TJSDADDY04: calls $0.25
+rjr3143: folds 
+jacky20: calls $0.15
+silver2871: checks 
+*** FLOP *** [8s Qh 6s]
+jacky20: checks 
+silver2871: checks 
+TJSDADDY04: checks 
+*** TURN *** [8s Qh 6s] [4d]
+jacky20: checks 
+silver2871: checks 
+TJSDADDY04: checks 
+*** RIVER *** [8s Qh 6s 4d] [Ah]
+jacky20: checks 
+silver2871: checks 
+TJSDADDY04: checks 
+*** SHOW DOWN ***
+jacky20: shows [Kh 7c] (high card Ace)
+silver2871: mucks hand 
+TJSDADDY04: shows [Jc 8c] (a pair of Eights)
+TJSDADDY04 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [8s Qh 6s 4d Ah]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 showed [Jc 8c] and won ($0.75) with a pair of Eights
+Seat 7: rjr3143 (button) folded before Flop (didn't bet)
+Seat 8: jacky20 (small blind) showed [Kh 7c] and lost with high card Ace
+Seat 9: silver2871 (big blind) mucked [Jd 9s]
+
+
+
+PokerStars Game #19954234061:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:46:57 (ET)
+Table 'Brabantia IV' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($20.80 in chips) 
+Seat 2: weepeel ($47.05 in chips) 
+Seat 3: All Donk ($25.05 in chips) 
+Seat 5: Jumper280 ($6.20 in chips) 
+Seat 6: TJSDADDY04 ($5.10 in chips) 
+Seat 7: rjr3143 ($15.50 in chips) 
+Seat 8: jacky20 ($31.65 in chips) 
+Seat 9: silver2871 ($28.60 in chips) 
+silver2871: posts small blind $0.10
+Alameda22: posts big blind $0.25
+ThannTheOne: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Qc]
+weepeel: folds 
+All Donk: folds 
+Jumper280: folds 
+TJSDADDY04: folds 
+rjr3143: calls $0.25
+jacky20: calls $0.25
+silver2871: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Qs 5s 7d]
+silver2871: checks 
+Alameda22: checks 
+rjr3143: checks 
+jacky20: checks 
+*** TURN *** [Qs 5s 7d] [Ah]
+silver2871: checks 
+Alameda22: checks 
+rjr3143: checks 
+jacky20: checks 
+*** RIVER *** [Qs 5s 7d Ah] [8h]
+silver2871: checks 
+Alameda22: checks 
+rjr3143: bets $0.25
+jacky20: calls $0.25
+silver2871: folds 
+Alameda22: folds 
+*** SHOW DOWN ***
+rjr3143: shows [Ac 4h] (a pair of Aces)
+jacky20: mucks hand 
+rjr3143 collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Qs 5s 7d Ah 8h]
+Seat 1: Alameda22 (big blind) folded on the River
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: rjr3143 showed [Ac 4h] and won ($1.45) with a pair of Aces
+Seat 8: jacky20 (button) mucked [2c Jc]
+Seat 9: silver2871 (small blind) folded on the River
+
+
+
+PokerStars Game #19954287226:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:49:23 (ET)
+Table 'Brabantia IV' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($20.55 in chips) 
+Seat 2: weepeel ($47.05 in chips) 
+Seat 3: All Donk ($25.05 in chips) 
+Seat 5: Jumper280 ($6.20 in chips) 
+Seat 6: TJSDADDY04 ($5.10 in chips) 
+Seat 7: rjr3143 ($16.45 in chips) 
+Seat 8: jacky20 ($31.15 in chips) 
+Seat 9: silver2871 ($28.35 in chips) 
+Alameda22: posts small blind $0.10
+weepeel: posts big blind $0.25
+ThannTheOne: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Ts]
+All Donk: folds 
+Jumper280: folds 
+TJSDADDY04: calls $0.25
+rjr3143: calls $0.25
+jacky20: folds 
+silver2871: calls $0.25
+Alameda22: calls $0.15
+weepeel: checks 
+*** FLOP *** [3d Kc 7h]
+Alameda22: checks 
+weepeel: checks 
+TJSDADDY04: checks 
+rjr3143: checks 
+silver2871: checks 
+*** TURN *** [3d Kc 7h] [Qd]
+Alameda22: checks 
+weepeel: checks 
+TJSDADDY04: bets $0.25
+rjr3143: calls $0.25
+silver2871: folds 
+Alameda22: folds 
+weepeel: calls $0.25
+*** RIVER *** [3d Kc 7h Qd] [9d]
+weepeel: checks 
+TJSDADDY04: bets $1
+rjr3143: folds 
+weepeel: folds 
+Uncalled bet ($1) returned to TJSDADDY04
+TJSDADDY04 collected $1.95 from pot
+TJSDADDY04: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [3d Kc 7h Qd 9d]
+Seat 1: Alameda22 (small blind) folded on the Turn
+Seat 2: weepeel (big blind) folded on the River
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 collected ($1.95)
+Seat 7: rjr3143 folded on the River
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 (button) folded on the Turn
+
+
+
+PokerStars Game #19954331675:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:51:27 (ET)
+Table 'Brabantia IV' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($20.30 in chips) 
+Seat 2: weepeel ($46.55 in chips) 
+Seat 3: All Donk ($25.05 in chips) 
+Seat 5: Jumper280 ($6.20 in chips) 
+Seat 6: TJSDADDY04 ($6.55 in chips) 
+Seat 7: rjr3143 ($15.95 in chips) 
+Seat 8: jacky20 ($31.15 in chips) 
+Seat 9: silver2871 ($28.10 in chips) 
+weepeel: posts small blind $0.10
+All Donk: posts big blind $0.25
+ThannTheOne: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Ad]
+Jumper280: folds 
+TJSDADDY04: folds 
+rjr3143: folds 
+jacky20: calls $0.25
+silver2871: folds 
+Alameda22: folds 
+weepeel: calls $0.15
+All Donk: checks 
+*** FLOP *** [4h 8h 9c]
+weepeel: checks 
+All Donk: checks 
+jacky20: checks 
+*** TURN *** [4h 8h 9c] [2s]
+weepeel: bets $0.75
+All Donk: folds 
+jacky20: calls $0.75
+*** RIVER *** [4h 8h 9c 2s] [8s]
+weepeel: checks 
+jacky20: checks 
+*** SHOW DOWN ***
+weepeel: shows [7d Td] (a pair of Eights)
+jacky20: shows [Kc Ac] (a pair of Eights - Ace kicker)
+jacky20 collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [4h 8h 9c 2s 8s]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: weepeel (small blind) showed [7d Td] and lost with a pair of Eights
+Seat 3: All Donk (big blind) folded on the Turn
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: rjr3143 folded before Flop (didn't bet)
+Seat 8: jacky20 showed [Kc Ac] and won ($2.15) with a pair of Eights
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954360344:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:52:47 (ET)
+Table 'Brabantia IV' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($20.30 in chips) 
+Seat 2: weepeel ($45.55 in chips) 
+Seat 3: All Donk ($24.80 in chips) 
+Seat 4: ThannTheOne ($5 in chips) 
+Seat 5: Jumper280 ($6.20 in chips) 
+Seat 6: TJSDADDY04 ($6.55 in chips) 
+Seat 7: rjr3143 ($15.95 in chips) 
+Seat 8: jacky20 ($32.30 in chips) 
+Seat 9: silver2871 ($28.10 in chips) 
+All Donk: posts small blind $0.10
+ThannTheOne: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 3c]
+Jumper280: folds 
+TJSDADDY04 has timed out
+TJSDADDY04: folds 
+TJSDADDY04 is sitting out
+rjr3143: raises $0.50 to $0.75
+jacky20: calls $0.75
+TJSDADDY04 has returned
+silver2871: folds 
+Alameda22: folds 
+weepeel: folds 
+All Donk: folds 
+ThannTheOne: folds 
+*** FLOP *** [Kc 3s 7s]
+rjr3143: bets $1
+jacky20: folds 
+Uncalled bet ($1) returned to rjr3143
+rjr3143 collected $1.80 from pot
+rjr3143: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [Kc 3s 7s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: weepeel (button) folded before Flop (didn't bet)
+Seat 3: All Donk (small blind) folded before Flop
+Seat 4: ThannTheOne (big blind) folded before Flop
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: rjr3143 collected ($1.80)
+Seat 8: jacky20 folded on the Flop
+Seat 9: silver2871 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954395085:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:54:25 (ET)
+Table 'Brabantia IV' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($20.30 in chips) 
+Seat 2: weepeel ($45.55 in chips) 
+Seat 3: All Donk ($24.70 in chips) 
+Seat 4: ThannTheOne ($4.75 in chips) 
+Seat 5: Jumper280 ($6.20 in chips) 
+Seat 6: TJSDADDY04 ($6.55 in chips) 
+Seat 7: rjr3143 ($17 in chips) 
+Seat 8: jacky20 ($31.55 in chips) 
+Seat 9: silver2871 ($28.10 in chips) 
+ThannTheOne: posts small blind $0.10
+Jumper280: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 8c]
+TJSDADDY04: folds 
+rjr3143: folds 
+jacky20: folds 
+silver2871: calls $0.25
+Alameda22: folds 
+jacky20 leaves the table
+weepeel: folds 
+All Donk: folds 
+ThannTheOne: folds 
+Jumper280: checks 
+*** FLOP *** [Tc 8h 3d]
+Jumper280: checks 
+silver2871: bets $0.50
+Jumper280: folds 
+Uncalled bet ($0.50) returned to silver2871
+KilgoreT420 joins the table at seat #8 
+silver2871 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Tc 8h 3d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: All Donk (button) folded before Flop (didn't bet)
+Seat 4: ThannTheOne (small blind) folded before Flop
+Seat 5: Jumper280 (big blind) folded on the Flop
+Seat 6: TJSDADDY04 folded before Flop (didn't bet)
+Seat 7: rjr3143 folded before Flop (didn't bet)
+Seat 8: jacky20 folded before Flop (didn't bet)
+Seat 9: silver2871 collected ($0.60)
+
+
+
+PokerStars Game #19954415343:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:55:23 (ET)
+Table 'Brabantia IV' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($20.30 in chips) 
+Seat 2: weepeel ($45.55 in chips) 
+Seat 3: All Donk ($24.70 in chips) 
+Seat 4: ThannTheOne ($4.65 in chips) 
+Seat 5: Jumper280 ($5.95 in chips) 
+Seat 6: TJSDADDY04 ($6.55 in chips) 
+Seat 7: rjr3143 ($17 in chips) 
+Seat 8: KilgoreT420 ($25 in chips) 
+Seat 9: silver2871 ($28.45 in chips) 
+Jumper280: posts small blind $0.10
+TJSDADDY04: posts big blind $0.25
+KilgoreT420: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 2h]
+rjr3143: folds 
+KilgoreT420: checks 
+silver2871: calls $0.25
+Alameda22: folds 
+weepeel: folds 
+All Donk: folds 
+ThannTheOne: folds 
+Jumper280: raises $5.70 to $5.95 and is all-in
+TJSDADDY04: folds 
+KilgoreT420: folds 
+silver2871: folds 
+Uncalled bet ($5.70) returned to Jumper280
+Jumper280 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 4: ThannTheOne (button) folded before Flop (didn't bet)
+Seat 5: Jumper280 (small blind) collected ($1)
+Seat 6: TJSDADDY04 (big blind) folded before Flop
+Seat 7: rjr3143 folded before Flop (didn't bet)
+Seat 8: KilgoreT420 folded before Flop
+Seat 9: silver2871 folded before Flop
+
+
+
+PokerStars Game #19954430037:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:56:04 (ET)
+Table 'Brabantia IV' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($25 in chips) 
+Seat 2: weepeel ($45.55 in chips) 
+Seat 3: All Donk ($24.70 in chips) 
+Seat 4: ThannTheOne ($4.65 in chips) 
+Seat 5: Jumper280 ($6.70 in chips) 
+Seat 6: TJSDADDY04 ($6.30 in chips) 
+Seat 7: rjr3143 ($17 in chips) 
+Seat 8: KilgoreT420 ($24.75 in chips) 
+Seat 9: silver2871 ($28.20 in chips) 
+TJSDADDY04: posts small blind $0.10
+rjr3143: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Ad]
+KilgoreT420: folds 
+silver2871: calls $0.25
+Alameda22: folds 
+weepeel: folds 
+All Donk: folds 
+ThannTheOne: folds 
+Jumper280: folds 
+TJSDADDY04: calls $0.15
+rjr3143: checks 
+*** FLOP *** [Td 6d 8c]
+TJSDADDY04: checks 
+rjr3143: bets $0.50
+silver2871: folds 
+TJSDADDY04: folds 
+Uncalled bet ($0.50) returned to rjr3143
+rjr3143 collected $0.75 from pot
+rjr3143: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Td 6d 8c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 4: ThannTheOne folded before Flop (didn't bet)
+Seat 5: Jumper280 (button) folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 (small blind) folded on the Flop
+Seat 7: rjr3143 (big blind) collected ($0.75)
+Seat 8: KilgoreT420 folded before Flop (didn't bet)
+Seat 9: silver2871 folded on the Flop
+
+
+
+PokerStars Game #19954454420:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:57:15 (ET)
+Table 'Brabantia IV' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($25 in chips) 
+Seat 2: weepeel ($45.55 in chips) 
+Seat 3: All Donk ($24.70 in chips) 
+Seat 4: ThannTheOne ($4.65 in chips) 
+Seat 5: Jumper280 ($6.70 in chips) 
+Seat 6: TJSDADDY04 ($6.05 in chips) 
+Seat 7: rjr3143 ($17.50 in chips) 
+Seat 8: KilgoreT420 ($24.75 in chips) 
+Seat 9: silver2871 ($27.95 in chips) 
+rjr3143: posts small blind $0.10
+KilgoreT420: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Kc]
+silver2871: calls $0.25
+Alameda22: folds 
+weepeel: folds 
+All Donk: folds 
+ThannTheOne: raises $1 to $1.25
+Jumper280: folds 
+TJSDADDY04: folds 
+rjr3143: folds 
+KilgoreT420: folds 
+silver2871: calls $1
+*** FLOP *** [8c 5d Jd]
+silver2871: bets $6.25
+ThannTheOne: calls $3.40 and is all-in
+Uncalled bet ($2.85) returned to silver2871
+*** TURN *** [8c 5d Jd] [5c]
+*** RIVER *** [8c 5d Jd 5c] [6s]
+*** SHOW DOWN ***
+silver2871: shows [6h 6c] (a full house, Sixes full of Fives)
+ThannTheOne: mucks hand 
+silver2871 collected $9.20 from pot
+*** SUMMARY ***
+Total pot $9.65 | Rake $0.45 
+Board [8c 5d Jd 5c 6s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: All Donk folded before Flop (didn't bet)
+Seat 4: ThannTheOne mucked [Ks Ac]
+Seat 5: Jumper280 folded before Flop (didn't bet)
+Seat 6: TJSDADDY04 (button) folded before Flop (didn't bet)
+Seat 7: rjr3143 (small blind) folded before Flop
+Seat 8: KilgoreT420 (big blind) folded before Flop
+Seat 9: silver2871 showed [6h 6c] and won ($9.20) with a full house, Sixes full of Fives
+
+
+

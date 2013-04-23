@@ -1,0 +1,4939 @@
+PokerStars Game #19971631101:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:35:43 (ET)
+Table 'Lucina IV' 9-max Seat #6 is the button
+Seat 1: lyonsj ($23.50 in chips) 
+Seat 2: CheifNegro ($33.90 in chips) 
+Seat 3: AhmedBond ($27.75 in chips) 
+Seat 4: TKG03 ($15.65 in chips) 
+Seat 5: jordyun ($26.50 in chips) 
+Seat 6: MarbleRem's ($24.15 in chips) 
+Seat 7: mwt6776 ($27.55 in chips) 
+Seat 8: Alameda22 ($25 in chips) 
+Seat 9: HANDSK ($3.75 in chips) 
+mwt6776: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 2c]
+HANDSK: calls $0.25
+lyonsj: folds 
+CheifNegro: folds 
+TKG03 said, "nh though"
+AhmedBond: raises $1.25 to $1.50
+TKG03: folds 
+jordyun: folds 
+MarbleRem's: folds 
+mwt6776: folds 
+Alameda22: folds 
+HANDSK: calls $1.25
+*** FLOP *** [Qs Kd Tc]
+HANDSK: checks 
+AhmedBond: bets $1.50
+HANDSK: raises $0.75 to $2.25 and is all-in
+AhmedBond: calls $0.75
+*** TURN *** [Qs Kd Tc] [Qd]
+*** RIVER *** [Qs Kd Tc Qd] [5c]
+*** SHOW DOWN ***
+HANDSK: shows [6c 7c] (a pair of Queens)
+AhmedBond: shows [7s 7h] (two pair, Queens and Sevens)
+AhmedBond collected $7.50 from pot
+*** SUMMARY ***
+Total pot $7.85 | Rake $0.35 
+Board [Qs Kd Tc Qd 5c]
+Seat 1: lyonsj folded before Flop (didn't bet)
+Seat 2: CheifNegro folded before Flop (didn't bet)
+Seat 3: AhmedBond showed [7s 7h] and won ($7.50) with two pair, Queens and Sevens
+Seat 4: TKG03 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: MarbleRem's (button) folded before Flop (didn't bet)
+Seat 7: mwt6776 (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) folded before Flop
+Seat 9: HANDSK showed [6c 7c] and lost with a pair of Queens
+
+
+
+PokerStars Game #19971660113:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:36:54 (ET)
+Table 'Lucina IV' 9-max Seat #7 is the button
+Seat 1: lyonsj ($23.50 in chips) 
+Seat 2: CheifNegro ($33.90 in chips) 
+Seat 3: AhmedBond ($31.50 in chips) 
+Seat 4: TKG03 ($15.65 in chips) 
+Seat 5: jordyun ($26.50 in chips) 
+Seat 6: MarbleRem's ($24.15 in chips) 
+Seat 7: mwt6776 ($27.45 in chips) 
+Seat 8: Alameda22 ($24.75 in chips) 
+Alameda22: posts small blind $0.10
+lyonsj: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Jh]
+CheifNegro: folds 
+AhmedBond: folds 
+TKG03: raises $0.25 to $0.50
+jordyun: folds 
+MarbleRem's: folds 
+mwt6776: folds 
+Alameda22: folds 
+lyonsj: calls $0.25
+*** FLOP *** [Ac 3h Kh]
+lyonsj: checks 
+TKG03: bets $0.50
+lyonsj: calls $0.50
+*** TURN *** [Ac 3h Kh] [2c]
+lyonsj: checks 
+TKG03: checks 
+*** RIVER *** [Ac 3h Kh 2c] [9s]
+lyonsj: checks 
+TKG03: bets $1
+lyonsj: calls $1
+*** SHOW DOWN ***
+TKG03: shows [Kc 7c] (a pair of Kings)
+lyonsj: mucks hand 
+TKG03 collected $3.90 from pot
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [Ac 3h Kh 2c 9s]
+Seat 1: lyonsj (big blind) mucked [6c 6s]
+Seat 2: CheifNegro folded before Flop (didn't bet)
+Seat 3: AhmedBond folded before Flop (didn't bet)
+Seat 4: TKG03 showed [Kc 7c] and won ($3.90) with a pair of Kings
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: MarbleRem's folded before Flop (didn't bet)
+Seat 7: mwt6776 (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19971687923:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:38:02 (ET)
+Table 'Lucina IV' 9-max Seat #8 is the button
+Seat 1: lyonsj ($21.50 in chips) 
+Seat 2: CheifNegro ($33.90 in chips) 
+Seat 3: AhmedBond ($31.50 in chips) 
+Seat 4: TKG03 ($17.55 in chips) 
+Seat 5: jordyun ($26.50 in chips) 
+Seat 6: MarbleRem's ($24.15 in chips) 
+Seat 7: mwt6776 ($27.45 in chips) 
+Seat 8: Alameda22 ($24.65 in chips) 
+lyonsj: posts small blind $0.10
+CheifNegro: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Qc]
+AhmedBond: raises $1.25 to $1.50
+TKG03: calls $1.50
+jordyun: calls $1.50
+MarbleRem's: folds 
+mwt6776: folds 
+Alameda22: folds 
+lyonsj: folds 
+CheifNegro: folds 
+*** FLOP *** [9s 9h Ah]
+AhmedBond: bets $2.75
+TKG03: calls $2.75
+jordyun: calls $2.75
+*** TURN *** [9s 9h Ah] [8h]
+AhmedBond: bets $6
+TKG03: folds 
+jordyun: calls $6
+*** RIVER *** [9s 9h Ah 8h] [Jc]
+AhmedBond: checks 
+jordyun: checks 
+*** SHOW DOWN ***
+AhmedBond: shows [Ac Qs] (two pair, Aces and Nines)
+jordyun: shows [Qd Ad] (two pair, Aces and Nines)
+AhmedBond collected $11.95 from pot
+jordyun collected $11.95 from pot
+*** SUMMARY ***
+Total pot $25.10 | Rake $1.20 
+Board [9s 9h Ah 8h Jc]
+Seat 1: lyonsj (small blind) folded before Flop
+Seat 2: CheifNegro (big blind) folded before Flop
+Seat 3: AhmedBond showed [Ac Qs] and won ($11.95) with two pair, Aces and Nines
+Seat 4: TKG03 folded on the Turn
+Seat 5: jordyun showed [Qd Ad] and won ($11.95) with two pair, Aces and Nines
+Seat 6: MarbleRem's folded before Flop (didn't bet)
+Seat 7: mwt6776 folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19971714324:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:39:06 (ET)
+Table 'Lucina IV' 9-max Seat #1 is the button
+Seat 1: lyonsj ($21.40 in chips) 
+Seat 2: CheifNegro ($33.65 in chips) 
+Seat 3: AhmedBond ($33.20 in chips) 
+Seat 4: TKG03 ($13.30 in chips) 
+Seat 5: jordyun ($28.20 in chips) 
+Seat 6: MarbleRem's ($24.15 in chips) 
+Seat 7: mwt6776 ($27.45 in chips) 
+Seat 8: Alameda22 ($24.65 in chips) 
+CheifNegro: posts small blind $0.10
+AhmedBond: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 7h]
+TKG03: calls $0.25
+jordyun: folds 
+MarbleRem's: calls $0.25
+mwt6776: folds 
+Alameda22: folds 
+lyonsj: folds 
+CheifNegro: folds 
+AhmedBond: raises $1.25 to $1.50
+TKG03: folds 
+MarbleRem's: calls $1.25
+*** FLOP *** [3h Ac 3s]
+AhmedBond: checks 
+MarbleRem's: checks 
+*** TURN *** [3h Ac 3s] [6d]
+AhmedBond: checks 
+MarbleRem's: bets $1.25
+AhmedBond: calls $1.25
+*** RIVER *** [3h Ac 3s 6d] [Td]
+AhmedBond: checks 
+MarbleRem's: checks 
+*** SHOW DOWN ***
+AhmedBond: shows [3d Ad] (a full house, Threes full of Aces)
+MarbleRem's: mucks hand 
+AhmedBond collected $5.60 from pot
+*** SUMMARY ***
+Total pot $5.85 | Rake $0.25 
+Board [3h Ac 3s 6d Td]
+Seat 1: lyonsj (button) folded before Flop (didn't bet)
+Seat 2: CheifNegro (small blind) folded before Flop
+Seat 3: AhmedBond (big blind) showed [3d Ad] and won ($5.60) with a full house, Threes full of Aces
+Seat 4: TKG03 folded before Flop
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: MarbleRem's mucked [7c 7s]
+Seat 7: mwt6776 folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19971759858:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:40:58 (ET)
+Table 'Lucina IV' 9-max Seat #2 is the button
+Seat 1: lyonsj ($21.40 in chips) 
+Seat 2: CheifNegro ($33.55 in chips) 
+Seat 3: AhmedBond ($36.05 in chips) 
+Seat 4: TKG03 ($13.05 in chips) 
+Seat 5: jordyun ($28.20 in chips) 
+Seat 6: MarbleRem's ($21.40 in chips) 
+Seat 7: mwt6776 ($27.45 in chips) 
+Seat 8: Alameda22 ($24.65 in chips) 
+AhmedBond: posts small blind $0.10
+TKG03: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s As]
+jordyun: folds 
+MarbleRem's: calls $0.25
+mwt6776: calls $0.25
+Alameda22: folds 
+lyonsj: calls $0.25
+CheifNegro: folds 
+AhmedBond: calls $0.15
+TKG03: checks 
+*** FLOP *** [5h 5c Qh]
+AhmedBond: checks 
+TKG03: bets $0.50
+MarbleRem's: folds 
+mwt6776: calls $0.50
+lyonsj: folds 
+AhmedBond: folds 
+*** TURN *** [5h 5c Qh] [3d]
+TKG03: checks 
+mwt6776: checks 
+*** RIVER *** [5h 5c Qh 3d] [Kh]
+TKG03: checks 
+mwt6776: bets $1.50
+TKG03: calls $1.50
+*** SHOW DOWN ***
+mwt6776: shows [7h 6h] (a flush, King high)
+TKG03: mucks hand 
+mwt6776 collected $5 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [5h 5c Qh 3d Kh]
+Seat 1: lyonsj folded on the Flop
+Seat 2: CheifNegro (button) folded before Flop (didn't bet)
+Seat 3: AhmedBond (small blind) folded on the Flop
+Seat 4: TKG03 (big blind) mucked [Qs 6d]
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: MarbleRem's folded on the Flop
+Seat 7: mwt6776 showed [7h 6h] and won ($5) with a flush, King high
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19971802202:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:42:42 (ET)
+Table 'Lucina IV' 9-max Seat #3 is the button
+Seat 1: lyonsj ($21.15 in chips) 
+Seat 2: CheifNegro ($33.55 in chips) 
+Seat 3: AhmedBond ($35.80 in chips) 
+Seat 4: TKG03 ($10.80 in chips) 
+Seat 5: jordyun ($28.20 in chips) 
+Seat 6: MarbleRem's ($21.15 in chips) 
+Seat 7: mwt6776 ($30.20 in chips) 
+Seat 8: Alameda22 ($24.65 in chips) 
+TKG03: posts small blind $0.10
+jordyun: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 2h]
+MarbleRem's: calls $0.25
+mwt6776: folds 
+Alameda22: folds 
+lyonsj: folds 
+CheifNegro: raises $1 to $1.25
+AhmedBond: calls $1.25
+TKG03: calls $1.15
+jordyun: folds 
+MarbleRem's: calls $1
+*** FLOP *** [2d Th 8h]
+TKG03: bets $1
+MarbleRem's: calls $1
+CheifNegro: folds 
+AhmedBond: folds 
+*** TURN *** [2d Th 8h] [Jc]
+TKG03: bets $2
+MarbleRem's: raises $2 to $4
+TKG03: calls $2
+*** RIVER *** [2d Th 8h Jc] [5s]
+TKG03: bets $4.55 and is all-in
+MarbleRem's: calls $4.55
+*** SHOW DOWN ***
+TKG03: shows [3s 3h] (a pair of Threes)
+MarbleRem's: shows [Qs 9s] (a straight, Eight to Queen)
+MarbleRem's collected $23.20 from pot
+*** SUMMARY ***
+Total pot $24.35 | Rake $1.15 
+Board [2d Th 8h Jc 5s]
+Seat 1: lyonsj folded before Flop (didn't bet)
+Seat 2: CheifNegro folded on the Flop
+Seat 3: AhmedBond (button) folded on the Flop
+Seat 4: TKG03 (small blind) showed [3s 3h] and lost with a pair of Threes
+Seat 5: jordyun (big blind) folded before Flop
+Seat 6: MarbleRem's showed [Qs 9s] and won ($23.20) with a straight, Eight to Queen
+Seat 7: mwt6776 folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19971842074:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:44:21 (ET)
+Table 'Lucina IV' 9-max Seat #5 is the button
+Seat 1: lyonsj ($21.15 in chips) 
+Seat 2: CheifNegro ($32.30 in chips) 
+Seat 3: AhmedBond ($34.55 in chips) 
+Seat 5: jordyun ($27.95 in chips) 
+Seat 6: MarbleRem's ($33.55 in chips) 
+Seat 7: mwt6776 ($30.20 in chips) 
+Seat 8: Alameda22 ($24.65 in chips) 
+MarbleRem's: posts small blind $0.10
+mwt6776: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 9d]
+Alameda22: folds 
+lyonsj: calls $0.25
+TKG03 leaves the table
+CheifNegro: folds 
+mrHat2 joins the table at seat #4 
+AhmedBond: raises $0.50 to $0.75
+jordyun: folds 
+MarbleRem's: calls $0.65
+mwt6776: folds 
+lyonsj: calls $0.50
+*** FLOP *** [4c 7d 2d]
+MarbleRem's: checks 
+lyonsj: bets $1
+AhmedBond: folds 
+MarbleRem's: calls $1
+*** TURN *** [4c 7d 2d] [6d]
+MarbleRem's: checks 
+lyonsj: checks 
+*** RIVER *** [4c 7d 2d 6d] [Ts]
+MarbleRem's: bets $1.50
+lyonsj: calls $1.50
+*** SHOW DOWN ***
+MarbleRem's: shows [Jc Jh] (a pair of Jacks)
+lyonsj: mucks hand 
+MarbleRem's collected $7.15 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.35 
+Board [4c 7d 2d 6d Ts]
+Seat 1: lyonsj mucked [Ah 4h]
+Seat 2: CheifNegro folded before Flop (didn't bet)
+Seat 3: AhmedBond folded on the Flop
+Seat 5: jordyun (button) folded before Flop (didn't bet)
+Seat 6: MarbleRem's (small blind) showed [Jc Jh] and won ($7.15) with a pair of Jacks
+Seat 7: mwt6776 (big blind) folded before Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19971877242:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:45:48 (ET)
+Table 'Lucina IV' 9-max Seat #6 is the button
+Seat 1: lyonsj ($17.90 in chips) 
+Seat 2: CheifNegro ($32.30 in chips) 
+Seat 3: AhmedBond ($33.80 in chips) 
+Seat 5: jordyun ($27.95 in chips) 
+Seat 6: MarbleRem's ($37.45 in chips) 
+Seat 7: mwt6776 ($29.95 in chips) 
+Seat 8: Alameda22 ($24.65 in chips) 
+mwt6776: posts small blind $0.10
+Alameda22: posts big blind $0.25
+mrHat2: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Th]
+lyonsj: folds 
+CheifNegro: folds 
+AhmedBond: folds 
+jordyun: folds 
+MarbleRem's: folds 
+mwt6776: raises $0.50 to $0.75
+Alameda22: folds 
+Uncalled bet ($0.50) returned to mwt6776
+mwt6776 collected $0.50 from pot
+mwt6776: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: lyonsj folded before Flop (didn't bet)
+Seat 2: CheifNegro folded before Flop (didn't bet)
+Seat 3: AhmedBond folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: MarbleRem's (button) folded before Flop (didn't bet)
+Seat 7: mwt6776 (small blind) collected ($0.50)
+Seat 8: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #19971892154:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:46:25 (ET)
+Table 'Lucina IV' 9-max Seat #7 is the button
+Seat 2: CheifNegro ($32.30 in chips) 
+Seat 3: AhmedBond ($33.80 in chips) 
+Seat 5: jordyun ($27.95 in chips) 
+Seat 6: MarbleRem's ($37.45 in chips) 
+Seat 7: mwt6776 ($30.20 in chips) 
+Seat 8: Alameda22 ($24.40 in chips) 
+Alameda22: posts small blind $0.10
+lyonsj: is sitting out 
+lyonsj leaves the table
+CheifNegro: posts big blind $0.25
+mrHat2: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 2c]
+Tanker815 joins the table at seat #1 
+AhmedBond: folds 
+jordyun: folds 
+MarbleRem's: folds 
+mwt6776: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to CheifNegro
+CheifNegro collected $0.20 from pot
+CheifNegro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: CheifNegro (big blind) collected ($0.20)
+Seat 3: AhmedBond folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: MarbleRem's folded before Flop (didn't bet)
+Seat 7: mwt6776 (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19971908190:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:47:04 (ET)
+Table 'Lucina IV' 9-max Seat #8 is the button
+Seat 2: CheifNegro ($32.40 in chips) 
+Seat 3: AhmedBond ($33.80 in chips) 
+Seat 5: jordyun ($27.95 in chips) 
+Seat 6: MarbleRem's ($37.45 in chips) 
+Seat 7: mwt6776 ($30.20 in chips) 
+Seat 8: Alameda22 ($24.30 in chips) 
+Tanker815 will be allowed to play after the button
+CheifNegro: posts small blind $0.10
+AhmedBond: posts big blind $0.25
+mrHat2: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 2c]
+jordyun: folds 
+MarbleRem's: folds 
+mwt6776: raises $0.50 to $0.75
+Alameda22: folds 
+CheifNegro: folds 
+AhmedBond: calls $0.50
+*** FLOP *** [Qs 8s 4s]
+AhmedBond: bets $0.50
+mwt6776: folds 
+Uncalled bet ($0.50) returned to AhmedBond
+AhmedBond collected $1.55 from pot
+AhmedBond: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Qs 8s 4s]
+Seat 2: CheifNegro (small blind) folded before Flop
+Seat 3: AhmedBond (big blind) collected ($1.55)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: MarbleRem's folded before Flop (didn't bet)
+Seat 7: mwt6776 folded on the Flop
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19971933007:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:48:05 (ET)
+Table 'Lucina IV' 9-max Seat #2 is the button
+Seat 1: Tanker815 ($12 in chips) 
+Seat 2: CheifNegro ($32.30 in chips) 
+Seat 3: AhmedBond ($34.60 in chips) 
+Seat 4: mrHat2 ($5.35 in chips) 
+Seat 5: jordyun ($27.95 in chips) 
+Seat 6: MarbleRem's ($37.45 in chips) 
+Seat 7: mwt6776 ($29.45 in chips) 
+Seat 8: Alameda22 ($24.30 in chips) 
+AhmedBond: posts small blind $0.10
+mrHat2: posts big blind $0.25
+Tanker815: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 9h]
+jordyun: folds 
+MarbleRem's: folds 
+mwt6776: calls $0.25
+Alameda22: folds 
+Tanker815: checks 
+CheifNegro: folds 
+AhmedBond: calls $0.15
+mrHat2: checks 
+*** FLOP *** [5h 8d Kc]
+AhmedBond: bets $0.75
+mrHat2: folds 
+mwt6776: folds 
+Tanker815: folds 
+Uncalled bet ($0.75) returned to AhmedBond
+AhmedBond collected $0.95 from pot
+AhmedBond: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [5h 8d Kc]
+Seat 1: Tanker815 folded on the Flop
+Seat 2: CheifNegro (button) folded before Flop (didn't bet)
+Seat 3: AhmedBond (small blind) collected ($0.95)
+Seat 4: mrHat2 (big blind) folded on the Flop
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: MarbleRem's folded before Flop (didn't bet)
+Seat 7: mwt6776 folded on the Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19971961227:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:49:15 (ET)
+Table 'Lucina IV' 9-max Seat #3 is the button
+Seat 1: Tanker815 ($11.75 in chips) 
+Seat 2: CheifNegro ($32.30 in chips) 
+Seat 3: AhmedBond ($35.30 in chips) 
+Seat 4: mrHat2 ($5.10 in chips) 
+Seat 5: jordyun ($27.95 in chips) 
+Seat 6: MarbleRem's ($37.45 in chips) 
+Seat 7: mwt6776 ($29.20 in chips) 
+Seat 8: Alameda22 ($24.30 in chips) 
+mrHat2: posts small blind $0.10
+jordyun: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Ah]
+MarbleRem's: folds 
+mwt6776: folds 
+MarbleRem's leaves the table
+Alameda22: folds 
+Tanker815: folds 
+CheifNegro: folds 
+AhmedBond: calls $0.25
+Frank2104 joins the table at seat #6 
+mrHat2: raises $1 to $1.25
+mwt6776 leaves the table
+jordyun: folds 
+AhmedBond: calls $1
+*** FLOP *** [8d 2h 4d]
+mrHat2: bets $1.50
+AhmedBond: raises $2.50 to $4
+mrHat2: folds 
+Uncalled bet ($2.50) returned to AhmedBond
+AhmedBond collected $5.50 from pot
+AhmedBond: shows [Kc 8h] (a pair of Eights)
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.25 
+Board [8d 2h 4d]
+Seat 1: Tanker815 folded before Flop (didn't bet)
+Seat 2: CheifNegro folded before Flop (didn't bet)
+Seat 3: AhmedBond (button) collected ($5.50)
+Seat 4: mrHat2 (small blind) folded on the Flop
+Seat 5: jordyun (big blind) folded before Flop
+Seat 6: MarbleRem's folded before Flop (didn't bet)
+Seat 7: mwt6776 folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19971985708:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:50:15 (ET)
+Table 'Lucina IV' 9-max Seat #4 is the button
+Seat 1: Tanker815 ($11.75 in chips) 
+Seat 2: CheifNegro ($32.30 in chips) 
+Seat 3: AhmedBond ($38.05 in chips) 
+Seat 4: mrHat2 ($5 in chips) 
+Seat 5: jordyun ($27.70 in chips) 
+Seat 6: Frank2104 ($25 in chips) 
+Seat 8: Alameda22 ($24.30 in chips) 
+jordyun: posts small blind $0.10
+Frank2104: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 3h]
+Alameda22: folds 
+Tanker815: folds 
+CheifNegro: raises $0.75 to $1
+EREDAYHUSLIN joins the table at seat #7 
+AhmedBond: calls $1
+mrHat2: folds 
+jordyun: folds 
+Frank2104: folds 
+*** FLOP *** [Kc Js 2c]
+CheifNegro: checks 
+AhmedBond: checks 
+*** TURN *** [Kc Js 2c] [Ks]
+CheifNegro: checks 
+AhmedBond: checks 
+*** RIVER *** [Kc Js 2c Ks] [3d]
+CheifNegro: checks 
+AhmedBond: checks 
+*** SHOW DOWN ***
+CheifNegro: shows [Ad 9d] (a pair of Kings)
+AhmedBond: shows [8h As] (a pair of Kings - lower kicker)
+CheifNegro collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Kc Js 2c Ks 3d]
+Seat 1: Tanker815 folded before Flop (didn't bet)
+Seat 2: CheifNegro showed [Ad 9d] and won ($2.25) with a pair of Kings
+Seat 3: AhmedBond showed [8h As] and lost with a pair of Kings
+Seat 4: mrHat2 (button) folded before Flop (didn't bet)
+Seat 5: jordyun (small blind) folded before Flop
+Seat 6: Frank2104 (big blind) folded before Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972005832:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:51:04 (ET)
+Table 'Lucina IV' 9-max Seat #5 is the button
+Seat 1: Tanker815 ($11.75 in chips) 
+Seat 2: CheifNegro ($33.55 in chips) 
+Seat 3: AhmedBond ($37.05 in chips) 
+Seat 4: mrHat2 ($5 in chips) 
+Seat 5: jordyun ($27.60 in chips) 
+Seat 6: Frank2104 ($24.75 in chips) 
+Seat 7: EREDAYHUSLIN ($15 in chips) 
+Seat 8: Alameda22 ($24.30 in chips) 
+Frank2104: posts small blind $0.10
+EREDAYHUSLIN: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Qh]
+Alameda22: folds 
+Tanker815: calls $0.25
+CheifNegro: folds 
+AhmedBond: calls $0.25
+mrHat2: folds 
+jordyun: folds 
+Frank2104: calls $0.15
+EREDAYHUSLIN: checks 
+*** FLOP *** [Qc 5d 6h]
+Frank2104: checks 
+EREDAYHUSLIN: checks 
+Tanker815: checks 
+AhmedBond: bets $3
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Tanker815: folds 
+Uncalled bet ($3) returned to AhmedBond
+AhmedBond collected $0.95 from pot
+AhmedBond: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Qc 5d 6h]
+Seat 1: Tanker815 folded on the Flop
+Seat 2: CheifNegro folded before Flop (didn't bet)
+Seat 3: AhmedBond collected ($0.95)
+Seat 4: mrHat2 folded before Flop (didn't bet)
+Seat 5: jordyun (button) folded before Flop (didn't bet)
+Seat 6: Frank2104 (small blind) folded on the Flop
+Seat 7: EREDAYHUSLIN (big blind) folded on the Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972039706:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:52:28 (ET)
+Table 'Lucina IV' 9-max Seat #6 is the button
+Seat 1: Tanker815 ($11.50 in chips) 
+Seat 2: CheifNegro ($33.55 in chips) 
+Seat 3: AhmedBond ($37.75 in chips) 
+Seat 4: mrHat2 ($5 in chips) 
+Seat 5: jordyun ($27.60 in chips) 
+Seat 6: Frank2104 ($24.50 in chips) 
+Seat 7: EREDAYHUSLIN ($14.75 in chips) 
+Seat 8: Alameda22 ($24.30 in chips) 
+EREDAYHUSLIN: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 6s]
+Tanker815: folds 
+CheifNegro: folds 
+AhmedBond: folds 
+mrHat2: folds 
+jordyun: raises $0.75 to $1
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to jordyun
+jordyun collected $0.60 from pot
+jordyun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Tanker815 folded before Flop (didn't bet)
+Seat 2: CheifNegro folded before Flop (didn't bet)
+Seat 3: AhmedBond folded before Flop (didn't bet)
+Seat 4: mrHat2 folded before Flop (didn't bet)
+Seat 5: jordyun collected ($0.60)
+Seat 6: Frank2104 (button) folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #19972051307:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:52:57 (ET)
+Table 'Lucina IV' 9-max Seat #7 is the button
+Seat 1: Tanker815 ($11.50 in chips) 
+Seat 2: CheifNegro ($33.55 in chips) 
+Seat 3: AhmedBond ($37.75 in chips) 
+Seat 4: mrHat2 ($5 in chips) 
+Seat 5: jordyun ($27.95 in chips) 
+Seat 6: Frank2104 ($24.50 in chips) 
+Seat 7: EREDAYHUSLIN ($14.65 in chips) 
+Seat 8: Alameda22 ($24.05 in chips) 
+Alameda22: posts small blind $0.10
+Tanker815: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 6h]
+CheifNegro: folds 
+AhmedBond: raises $1 to $1.25
+mrHat2: folds 
+jordyun: folds 
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Tanker815: folds 
+Uncalled bet ($1) returned to AhmedBond
+AhmedBond collected $0.60 from pot
+AhmedBond: shows [As Jd] (high card Ace)
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Tanker815 (big blind) folded before Flop
+Seat 2: CheifNegro folded before Flop (didn't bet)
+Seat 3: AhmedBond collected ($0.60)
+Seat 4: mrHat2 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: Frank2104 folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19972067527:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:53:37 (ET)
+Table 'Lucina IV' 9-max Seat #8 is the button
+Seat 1: Tanker815 ($11.25 in chips) 
+Seat 2: CheifNegro ($33.55 in chips) 
+Seat 3: AhmedBond ($38.10 in chips) 
+Seat 4: mrHat2 ($5 in chips) 
+Seat 5: jordyun ($27.95 in chips) 
+Seat 6: Frank2104 ($24.50 in chips) 
+Seat 7: EREDAYHUSLIN ($14.65 in chips) 
+Seat 8: Alameda22 ($23.95 in chips) 
+Tanker815: posts small blind $0.10
+CheifNegro: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 5d]
+AhmedBond: folds 
+mrHat2: folds 
+jordyun: folds 
+Frank2104: calls $0.25
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Tanker815: calls $0.15
+CheifNegro: checks 
+*** FLOP *** [9s As Kc]
+Tanker815: checks 
+CheifNegro: bets $0.50
+Frank2104: calls $0.50
+Tanker815: folds 
+*** TURN *** [9s As Kc] [Jh]
+CheifNegro: checks 
+Frank2104: bets $1
+CheifNegro: folds 
+Uncalled bet ($1) returned to Frank2104
+Frank2104 collected $1.70 from pot
+Frank2104: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [9s As Kc Jh]
+Seat 1: Tanker815 (small blind) folded on the Flop
+Seat 2: CheifNegro (big blind) folded on the Turn
+Seat 3: AhmedBond folded before Flop (didn't bet)
+Seat 4: mrHat2 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: Frank2104 collected ($1.70)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972100112:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:54:58 (ET)
+Table 'Lucina IV' 9-max Seat #1 is the button
+Seat 1: Tanker815 ($11 in chips) 
+Seat 2: CheifNegro ($32.80 in chips) 
+Seat 3: AhmedBond ($38.10 in chips) 
+Seat 4: mrHat2 ($5 in chips) 
+Seat 5: jordyun ($27.95 in chips) 
+Seat 6: Frank2104 ($25.45 in chips) 
+Seat 7: EREDAYHUSLIN ($14.65 in chips) 
+Seat 8: Alameda22 ($23.95 in chips) 
+CheifNegro: posts small blind $0.10
+AhmedBond: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 8d]
+mrHat2: folds 
+jordyun: folds 
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Tanker815: folds 
+CheifNegro: calls $0.15
+AhmedBond: checks 
+*** FLOP *** [6c 2c 4c]
+CheifNegro: checks 
+AhmedBond: checks 
+*** TURN *** [6c 2c 4c] [Ah]
+CheifNegro: checks 
+AhmedBond: bets $0.50
+CheifNegro: calls $0.50
+*** RIVER *** [6c 2c 4c Ah] [8s]
+CheifNegro: checks 
+AhmedBond: checks 
+*** SHOW DOWN ***
+CheifNegro: shows [5s 5h] (a pair of Fives)
+AhmedBond: shows [9d As] (a pair of Aces)
+AhmedBond collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [6c 2c 4c Ah 8s]
+Seat 1: Tanker815 (button) folded before Flop (didn't bet)
+Seat 2: CheifNegro (small blind) showed [5s 5h] and lost with a pair of Fives
+Seat 3: AhmedBond (big blind) showed [9d As] and won ($1.45) with a pair of Aces
+Seat 4: mrHat2 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: Frank2104 folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972136960:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:56:31 (ET)
+Table 'Lucina IV' 9-max Seat #2 is the button
+Seat 1: Tanker815 ($11 in chips) 
+Seat 2: CheifNegro ($32.05 in chips) 
+Seat 3: AhmedBond ($38.80 in chips) 
+Seat 4: mrHat2 ($5 in chips) 
+Seat 5: jordyun ($27.95 in chips) 
+Seat 6: Frank2104 ($25.45 in chips) 
+Seat 7: EREDAYHUSLIN ($14.65 in chips) 
+Seat 8: Alameda22 ($23.95 in chips) 
+AhmedBond: posts small blind $0.10
+mrHat2: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 3s]
+jordyun: folds 
+Frank2104: folds 
+EREDAYHUSLIN: raises $0.75 to $1
+Alameda22: folds 
+Tanker815: folds 
+CheifNegro: folds 
+AhmedBond: calls $0.90
+mrHat2: folds 
+*** FLOP *** [3d Td Js]
+AhmedBond: checks 
+EREDAYHUSLIN: bets $1.50
+AhmedBond: folds 
+Uncalled bet ($1.50) returned to EREDAYHUSLIN
+EREDAYHUSLIN collected $2.15 from pot
+EREDAYHUSLIN: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [3d Td Js]
+Seat 1: Tanker815 folded before Flop (didn't bet)
+Seat 2: CheifNegro (button) folded before Flop (didn't bet)
+Seat 3: AhmedBond (small blind) folded on the Flop
+Seat 4: mrHat2 (big blind) folded before Flop
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: Frank2104 folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN collected ($2.15)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972164129:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:57:38 (ET)
+Table 'Lucina IV' 9-max Seat #3 is the button
+Seat 1: Tanker815 ($11 in chips) 
+Seat 2: CheifNegro ($32.05 in chips) 
+Seat 3: AhmedBond ($37.80 in chips) 
+Seat 4: mrHat2 ($5.10 in chips) 
+Seat 5: jordyun ($27.95 in chips) 
+Seat 6: Frank2104 ($25.45 in chips) 
+Seat 7: EREDAYHUSLIN ($15.80 in chips) 
+Seat 8: Alameda22 ($23.95 in chips) 
+mrHat2: posts small blind $0.10
+jordyun: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 7c]
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Tanker815: raises $0.50 to $0.75
+CheifNegro: folds 
+AhmedBond: calls $0.75
+mrHat2: folds 
+jordyun: folds 
+*** FLOP *** [3c 3s 3d]
+Tanker815: checks 
+AhmedBond: bets $1
+Tanker815: calls $1
+*** TURN *** [3c 3s 3d] [2s]
+Tanker815: checks 
+AhmedBond: bets $1
+Tanker815: calls $1
+*** RIVER *** [3c 3s 3d 2s] [2c]
+Tanker815: checks 
+AhmedBond: bets $5
+Tanker815 said, "hmmmm"
+Tanker815: folds 
+Uncalled bet ($5) returned to AhmedBond
+AhmedBond collected $5.60 from pot
+AhmedBond: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.85 | Rake $0.25 
+Board [3c 3s 3d 2s 2c]
+Seat 1: Tanker815 folded on the River
+Seat 2: CheifNegro folded before Flop (didn't bet)
+Seat 3: AhmedBond (button) collected ($5.60)
+Seat 4: mrHat2 (small blind) folded before Flop
+Seat 5: jordyun (big blind) folded before Flop
+Seat 6: Frank2104 folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972198762:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:59:05 (ET)
+Table 'Lucina IV' 9-max Seat #4 is the button
+Seat 1: Tanker815 ($8.25 in chips) 
+Seat 2: CheifNegro ($32.05 in chips) 
+Seat 3: AhmedBond ($40.65 in chips) 
+Seat 4: mrHat2 ($5 in chips) 
+Seat 5: jordyun ($27.70 in chips) 
+Seat 6: Frank2104 ($25.45 in chips) 
+Seat 7: EREDAYHUSLIN ($15.80 in chips) 
+Seat 8: Alameda22 ($23.95 in chips) 
+jordyun: posts small blind $0.10
+Frank2104: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Ks]
+Tanker815 said, "board good there?"
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Tanker815: folds 
+CheifNegro: folds 
+AhmedBond: folds 
+mrHat2: folds 
+jordyun: calls $0.15
+Frank2104: checks 
+*** FLOP *** [3c As Ad]
+AhmedBond said, "55"
+jordyun: checks 
+Frank2104: checks 
+*** TURN *** [3c As Ad] [8c]
+jordyun: checks 
+Frank2104: checks 
+*** RIVER *** [3c As Ad 8c] [3s]
+jordyun: checks 
+Frank2104: checks 
+*** SHOW DOWN ***
+jordyun: shows [9c 6c] (two pair, Aces and Threes)
+Frank2104: shows [9h 5s] (two pair, Aces and Threes)
+jordyun collected $0.25 from pot
+Frank2104 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [3c As Ad 8c 3s]
+Seat 1: Tanker815 folded before Flop (didn't bet)
+Seat 2: CheifNegro folded before Flop (didn't bet)
+Seat 3: AhmedBond folded before Flop (didn't bet)
+Seat 4: mrHat2 (button) folded before Flop (didn't bet)
+Seat 5: jordyun (small blind) showed [9c 6c] and won ($0.25) with two pair, Aces and Threes
+Seat 6: Frank2104 (big blind) showed [9h 5s] and won ($0.25) with two pair, Aces and Threes
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972219023:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:59:56 (ET)
+Table 'Lucina IV' 9-max Seat #5 is the button
+Seat 1: Tanker815 ($8.25 in chips) 
+Seat 2: CheifNegro ($32.05 in chips) 
+Seat 3: AhmedBond ($40.65 in chips) 
+Seat 4: mrHat2 ($5 in chips) 
+Seat 5: jordyun ($27.70 in chips) 
+Seat 6: Frank2104 ($25.45 in chips) 
+Seat 7: EREDAYHUSLIN ($15.80 in chips) 
+Seat 8: Alameda22 ($23.95 in chips) 
+Frank2104: posts small blind $0.10
+EREDAYHUSLIN: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Kc]
+Alameda22: folds 
+Tanker815: folds 
+CheifNegro: folds 
+AhmedBond: raises $1.50 to $1.75
+mrHat2: folds 
+jordyun: folds 
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Uncalled bet ($1.50) returned to AhmedBond
+AhmedBond collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Tanker815 folded before Flop (didn't bet)
+Seat 2: CheifNegro folded before Flop (didn't bet)
+Seat 3: AhmedBond collected ($0.60)
+Seat 4: mrHat2 folded before Flop (didn't bet)
+Seat 5: jordyun (button) folded before Flop (didn't bet)
+Seat 6: Frank2104 (small blind) folded before Flop
+Seat 7: EREDAYHUSLIN (big blind) folded before Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972240857:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:00:50 (ET)
+Table 'Lucina IV' 9-max Seat #6 is the button
+Seat 1: Tanker815 ($10 in chips) 
+Seat 2: CheifNegro ($32.05 in chips) 
+Seat 3: AhmedBond ($41 in chips) 
+Seat 4: mrHat2 ($5 in chips) 
+Seat 5: jordyun ($27.70 in chips) 
+Seat 6: Frank2104 ($25.35 in chips) 
+Seat 7: EREDAYHUSLIN ($15.55 in chips) 
+Seat 8: Alameda22 ($23.95 in chips) 
+EREDAYHUSLIN: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Td]
+Tanker815: folds 
+CheifNegro: raises $0.75 to $1
+AhmedBond: calls $1
+mrHat2: raises $4 to $5 and is all-in
+jordyun: folds 
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+CheifNegro: folds 
+AhmedBond: calls $4
+*** FLOP *** [7s 7h Kd]
+*** TURN *** [7s 7h Kd] [2s]
+*** RIVER *** [7s 7h Kd 2s] [Ac]
+*** SHOW DOWN ***
+AhmedBond: shows [9c Ts] (a pair of Sevens)
+mrHat2: shows [Qd Qh] (two pair, Queens and Sevens)
+mrHat2 collected $10.80 from pot
+*** SUMMARY ***
+Total pot $11.35 | Rake $0.55 
+Board [7s 7h Kd 2s Ac]
+Seat 1: Tanker815 folded before Flop (didn't bet)
+Seat 2: CheifNegro folded before Flop
+Seat 3: AhmedBond showed [9c Ts] and lost with a pair of Sevens
+Seat 4: mrHat2 showed [Qd Qh] and won ($10.80) with two pair, Queens and Sevens
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: Frank2104 (button) folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #19972266916:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:01:54 (ET)
+Table 'Lucina IV' 9-max Seat #7 is the button
+Seat 1: Tanker815 ($10 in chips) 
+Seat 2: CheifNegro ($31.05 in chips) 
+Seat 3: AhmedBond ($36 in chips) 
+Seat 4: mrHat2 ($10.80 in chips) 
+Seat 5: jordyun ($27.70 in chips) 
+Seat 6: Frank2104 ($25.35 in chips) 
+Seat 7: EREDAYHUSLIN ($15.45 in chips) 
+Seat 8: Alameda22 ($23.70 in chips) 
+Alameda22: posts small blind $0.10
+Tanker815: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Kc]
+CheifNegro: folds 
+AhmedBond: folds 
+AhmedBond leaves the table
+mrHat2: folds 
+BigSoonerFan joins the table at seat #3 
+jordyun: folds 
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to Tanker815
+Tanker815 collected $0.20 from pot
+Tanker815 leaves the table
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Tanker815 (big blind) collected ($0.20)
+Seat 2: CheifNegro folded before Flop (didn't bet)
+Seat 3: AhmedBond folded before Flop (didn't bet)
+Seat 4: mrHat2 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: Frank2104 folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19972285546:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:02:41 (ET)
+Table 'Lucina IV' 9-max Seat #8 is the button
+Seat 2: CheifNegro ($31.05 in chips) 
+Seat 3: BigSoonerFan ($15 in chips) 
+Seat 4: mrHat2 ($10.80 in chips) 
+Seat 5: jordyun ($27.70 in chips) 
+Seat 6: Frank2104 ($25.35 in chips) 
+Seat 7: EREDAYHUSLIN ($15.45 in chips) 
+Seat 8: Alameda22 ($23.60 in chips) 
+HANDSK was removed from the table for failing to post
+CheifNegro: posts small blind $0.10
+EnjoyLife73 joins the table at seat #1 
+BigSoonerFan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 5c]
+mrHat2: folds 
+jordyun: folds 
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+CheifNegro: calls $0.15
+BigSoonerFan: checks 
+*** FLOP *** [Qd 6h Ks]
+CheifNegro: checks 
+BigSoonerFan: checks 
+*** TURN *** [Qd 6h Ks] [Kc]
+CheifNegro: checks 
+BigSoonerFan: checks 
+*** RIVER *** [Qd 6h Ks Kc] [9s]
+CheifNegro: checks 
+BigSoonerFan: checks 
+*** SHOW DOWN ***
+CheifNegro: shows [8s 7d] (a pair of Kings)
+BigSoonerFan: shows [2h 2c] (two pair, Kings and Deuces)
+BigSoonerFan collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Qd 6h Ks Kc 9s]
+Seat 2: CheifNegro (small blind) showed [8s 7d] and lost with a pair of Kings
+Seat 3: BigSoonerFan (big blind) showed [2h 2c] and won ($0.50) with two pair, Kings and Deuces
+Seat 4: mrHat2 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: Frank2104 folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972302039:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:03:22 (ET)
+Table 'Lucina IV' 9-max Seat #2 is the button
+Seat 2: CheifNegro ($30.80 in chips) 
+Seat 3: BigSoonerFan ($15.25 in chips) 
+Seat 5: jordyun ($27.70 in chips) 
+Seat 6: Frank2104 ($25.35 in chips) 
+Seat 7: EREDAYHUSLIN ($15.45 in chips) 
+Seat 8: Alameda22 ($23.60 in chips) 
+BigSoonerFan: posts small blind $0.10
+titanabe9 joins the table at seat #9 
+mrHat2: is sitting out 
+jordyun: posts big blind $0.25
+mrHat2 leaves the table
+EnjoyLife73: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 2d]
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+CheifNegro: raises $0.75 to $1
+BigSoonerFan: folds 
+jordyun: calls $0.75
+*** FLOP *** [Tc 6s 8s]
+jordyun: checks 
+CheifNegro: bets $1
+jordyun: calls $1
+*** TURN *** [Tc 6s 8s] [Qs]
+jordyun: checks 
+CheifNegro: bets $3
+jordyun: calls $3
+*** RIVER *** [Tc 6s 8s Qs] [Jh]
+jordyun: checks 
+CheifNegro: bets $9
+jordyun: folds 
+Uncalled bet ($9) returned to CheifNegro
+CheifNegro collected $9.65 from pot
+CheifNegro: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.10 | Rake $0.45 
+Board [Tc 6s 8s Qs Jh]
+Seat 2: CheifNegro (button) collected ($9.65)
+Seat 3: BigSoonerFan (small blind) folded before Flop
+Seat 5: jordyun (big blind) folded on the River
+Seat 6: Frank2104 folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972336050:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:04:46 (ET)
+Table 'Lucina IV' 9-max Seat #3 is the button
+Seat 2: CheifNegro ($35.45 in chips) 
+Seat 3: BigSoonerFan ($15.15 in chips) 
+Seat 5: jordyun ($25 in chips) 
+Seat 6: Frank2104 ($25.35 in chips) 
+Seat 7: EREDAYHUSLIN ($15.45 in chips) 
+Seat 8: Alameda22 ($23.60 in chips) 
+Seat 9: titanabe9 ($25 in chips) 
+jordyun: posts small blind $0.10
+Frank2104: posts big blind $0.25
+titanabe9: posts big blind $0.25
+EnjoyLife73: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 3s]
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+titanabe9: checks 
+CheifNegro: raises $1 to $1.25
+BigSoonerFan: folds 
+jordyun: folds 
+Frank2104: folds 
+titanabe9: folds 
+Uncalled bet ($1) returned to CheifNegro
+CheifNegro collected $0.85 from pot
+CheifNegro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 2: CheifNegro collected ($0.85)
+Seat 3: BigSoonerFan (button) folded before Flop (didn't bet)
+Seat 5: jordyun (small blind) folded before Flop
+Seat 6: Frank2104 (big blind) folded before Flop
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: titanabe9 folded before Flop
+
+
+
+PokerStars Game #19972348654:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:05:18 (ET)
+Table 'Lucina IV' 9-max Seat #5 is the button
+Seat 2: CheifNegro ($36.05 in chips) 
+Seat 3: BigSoonerFan ($15.15 in chips) 
+Seat 5: jordyun ($24.90 in chips) 
+Seat 6: Frank2104 ($25.10 in chips) 
+Seat 7: EREDAYHUSLIN ($15.45 in chips) 
+Seat 8: Alameda22 ($23.60 in chips) 
+Seat 9: titanabe9 ($24.75 in chips) 
+Frank2104: posts small blind $0.10
+EREDAYHUSLIN: posts big blind $0.25
+EnjoyLife73: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Qh]
+Alameda22: folds 
+titanabe9: folds 
+CheifNegro: folds 
+BigSoonerFan: folds 
+jordyun: folds 
+Frank2104: raises $0.50 to $0.75
+EREDAYHUSLIN: folds 
+Uncalled bet ($0.50) returned to Frank2104
+Frank2104 collected $0.50 from pot
+Frank2104: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: CheifNegro folded before Flop (didn't bet)
+Seat 3: BigSoonerFan folded before Flop (didn't bet)
+Seat 5: jordyun (button) folded before Flop (didn't bet)
+Seat 6: Frank2104 (small blind) collected ($0.50)
+Seat 7: EREDAYHUSLIN (big blind) folded before Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: titanabe9 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972358703:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:05:43 (ET)
+Table 'Lucina IV' 9-max Seat #6 is the button
+Seat 2: CheifNegro ($36.05 in chips) 
+Seat 3: BigSoonerFan ($15.15 in chips) 
+Seat 5: jordyun ($24.90 in chips) 
+Seat 6: Frank2104 ($25.35 in chips) 
+Seat 7: EREDAYHUSLIN ($15.20 in chips) 
+Seat 8: Alameda22 ($23.60 in chips) 
+Seat 9: titanabe9 ($24.75 in chips) 
+EREDAYHUSLIN: posts small blind $0.10
+Alameda22: posts big blind $0.25
+EnjoyLife73: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Ad]
+titanabe9: folds 
+CheifNegro: folds 
+BigSoonerFan: folds 
+jordyun: folds 
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: CheifNegro folded before Flop (didn't bet)
+Seat 3: BigSoonerFan folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: Frank2104 (button) folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) collected ($0.20)
+Seat 9: titanabe9 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972367996:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:06:06 (ET)
+Table 'Lucina IV' 9-max Seat #7 is the button
+Seat 2: CheifNegro ($36.05 in chips) 
+Seat 3: BigSoonerFan ($15.15 in chips) 
+Seat 5: jordyun ($24.90 in chips) 
+Seat 6: Frank2104 ($25.35 in chips) 
+Seat 7: EREDAYHUSLIN ($15.10 in chips) 
+Seat 8: Alameda22 ($23.70 in chips) 
+Seat 9: titanabe9 ($24.75 in chips) 
+Alameda22: posts small blind $0.10
+titanabe9: posts big blind $0.25
+EnjoyLife73: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Qh]
+CheifNegro: folds 
+BigSoonerFan: calls $0.25
+jordyun: folds 
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+titanabe9: checks 
+*** FLOP *** [7s 8d Qd]
+titanabe9: checks 
+BigSoonerFan: bets $0.50
+titanabe9: folds 
+Uncalled bet ($0.50) returned to BigSoonerFan
+BigSoonerFan collected $0.60 from pot
+BigSoonerFan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7s 8d Qd]
+Seat 2: CheifNegro folded before Flop (didn't bet)
+Seat 3: BigSoonerFan collected ($0.60)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: Frank2104 folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: titanabe9 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19972384689:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:06:48 (ET)
+Table 'Lucina IV' 9-max Seat #8 is the button
+Seat 1: EnjoyLife73 ($25 in chips) 
+Seat 2: CheifNegro ($36.05 in chips) 
+Seat 3: BigSoonerFan ($15.50 in chips) 
+Seat 5: jordyun ($24.90 in chips) 
+Seat 6: Frank2104 ($25.35 in chips) 
+Seat 7: EREDAYHUSLIN ($15.10 in chips) 
+Seat 8: Alameda22 ($23.60 in chips) 
+Seat 9: titanabe9 ($24.50 in chips) 
+titanabe9: posts small blind $0.10
+EnjoyLife73: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 7h]
+CheifNegro: folds 
+BigSoonerFan: folds 
+jordyun: folds 
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+titanabe9: folds 
+Uncalled bet ($0.15) returned to EnjoyLife73
+EnjoyLife73 collected $0.20 from pot
+EnjoyLife73: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: EnjoyLife73 (big blind) collected ($0.20)
+Seat 2: CheifNegro folded before Flop (didn't bet)
+Seat 3: BigSoonerFan folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: Frank2104 folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: titanabe9 (small blind) folded before Flop
+
+
+
+PokerStars Game #19972394273:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:07:12 (ET)
+Table 'Lucina IV' 9-max Seat #9 is the button
+Seat 1: EnjoyLife73 ($25.10 in chips) 
+Seat 3: BigSoonerFan ($15.50 in chips) 
+Seat 5: jordyun ($24.90 in chips) 
+Seat 6: Frank2104 ($25.35 in chips) 
+Seat 7: EREDAYHUSLIN ($15.10 in chips) 
+Seat 8: Alameda22 ($23.60 in chips) 
+Seat 9: titanabe9 ($24.40 in chips) 
+EnjoyLife73: posts small blind $0.10
+CheifNegro: is sitting out 
+BigSoonerFan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 7h]
+CheifNegro leaves the table
+jordyun: folds 
+Frank2104: raises $0.50 to $0.75
+EREDAYHUSLIN: folds 
+ML-Krieger joins the table at seat #2 
+Alameda22: folds 
+titanabe9: folds 
+janko12 joins the table at seat #4 
+EnjoyLife73: raises $2.25 to $3
+BigSoonerFan: folds 
+Frank2104: folds 
+Uncalled bet ($2.25) returned to EnjoyLife73
+EnjoyLife73 collected $1.75 from pot
+EnjoyLife73: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: EnjoyLife73 (small blind) collected ($1.75)
+Seat 3: BigSoonerFan (big blind) folded before Flop
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: Frank2104 folded before Flop
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: titanabe9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972417714:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:08:11 (ET)
+Table 'Lucina IV' 9-max Seat #1 is the button
+Seat 1: EnjoyLife73 ($26.10 in chips) 
+Seat 3: BigSoonerFan ($15.25 in chips) 
+Seat 4: janko12 ($10 in chips) 
+Seat 5: jordyun ($24.90 in chips) 
+Seat 6: Frank2104 ($24.60 in chips) 
+Seat 7: EREDAYHUSLIN ($15.10 in chips) 
+Seat 8: Alameda22 ($23.60 in chips) 
+Seat 9: titanabe9 ($24.40 in chips) 
+ML-Krieger will be allowed to play after the button
+BigSoonerFan: posts small blind $0.10
+janko12: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 8d]
+jordyun: calls $0.25
+Frank2104: raises $0.75 to $1
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+titanabe9: folds 
+EnjoyLife73: folds 
+BigSoonerFan: folds 
+janko12: folds 
+jordyun: calls $0.75
+*** FLOP *** [8s 2d 6c]
+jordyun: checks 
+Frank2104: bets $1.75
+jordyun: raises $2.25 to $4
+Frank2104: calls $2.25
+*** TURN *** [8s 2d 6c] [Js]
+jordyun: checks 
+Frank2104: checks 
+*** RIVER *** [8s 2d 6c Js] [Ad]
+jordyun: checks 
+Frank2104: checks 
+*** SHOW DOWN ***
+jordyun: shows [4c 4s] (a pair of Fours)
+Frank2104: shows [Ts Th] (a pair of Tens)
+Frank2104 collected $9.85 from pot
+*** SUMMARY ***
+Total pot $10.35 | Rake $0.50 
+Board [8s 2d 6c Js Ad]
+Seat 1: EnjoyLife73 (button) folded before Flop (didn't bet)
+Seat 3: BigSoonerFan (small blind) folded before Flop
+Seat 4: janko12 (big blind) folded before Flop
+Seat 5: jordyun showed [4c 4s] and lost with a pair of Fours
+Seat 6: Frank2104 showed [Ts Th] and won ($9.85) with a pair of Tens
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: titanabe9 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972443155:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:09:14 (ET)
+Table 'Lucina IV' 9-max Seat #3 is the button
+Seat 1: EnjoyLife73 ($26.10 in chips) 
+Seat 2: ML-Krieger ($25 in chips) 
+Seat 3: BigSoonerFan ($15.15 in chips) 
+Seat 4: janko12 ($9.75 in chips) 
+Seat 5: jordyun ($19.90 in chips) 
+Seat 6: Frank2104 ($29.45 in chips) 
+Seat 7: EREDAYHUSLIN ($15.10 in chips) 
+Seat 8: Alameda22 ($23.60 in chips) 
+Seat 9: titanabe9 ($24.40 in chips) 
+janko12: posts small blind $0.10
+jordyun: posts big blind $0.25
+ML-Krieger: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 7d]
+Frank2104: calls $0.25
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+titanabe9: folds 
+EnjoyLife73: folds 
+ML-Krieger: checks 
+BigSoonerFan: folds 
+janko12: calls $0.15
+jordyun: checks 
+*** FLOP *** [7c Ah 2s]
+janko12: checks 
+jordyun: checks 
+Frank2104: checks 
+ML-Krieger: checks 
+*** TURN *** [7c Ah 2s] [2d]
+janko12: checks 
+jordyun: checks 
+Frank2104: checks 
+ML-Krieger: checks 
+*** RIVER *** [7c Ah 2s 2d] [7s]
+janko12: checks 
+jordyun: checks 
+Frank2104: checks 
+ML-Krieger: checks 
+*** SHOW DOWN ***
+janko12: shows [3s 4s] (two pair, Sevens and Deuces)
+jordyun: shows [Kd 4d] (two pair, Sevens and Deuces)
+Frank2104: shows [Jd Td] (two pair, Sevens and Deuces)
+ML-Krieger: shows [5s Qh] (two pair, Sevens and Deuces)
+janko12 collected $0.25 from pot
+jordyun collected $0.25 from pot
+Frank2104 collected $0.25 from pot
+ML-Krieger collected $0.20 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [7c Ah 2s 2d 7s]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger showed [5s Qh] and won ($0.20) with two pair, Sevens and Deuces
+Seat 3: BigSoonerFan (button) folded before Flop (didn't bet)
+Seat 4: janko12 (small blind) showed [3s 4s] and won ($0.25) with two pair, Sevens and Deuces
+Seat 5: jordyun (big blind) showed [Kd 4d] and won ($0.25) with two pair, Sevens and Deuces
+Seat 6: Frank2104 showed [Jd Td] and won ($0.25) with two pair, Sevens and Deuces
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: titanabe9 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972473752:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:10:32 (ET)
+Table 'Lucina IV' 9-max Seat #4 is the button
+Seat 1: EnjoyLife73 ($26.10 in chips) 
+Seat 2: ML-Krieger ($24.95 in chips) 
+Seat 3: BigSoonerFan ($15.15 in chips) 
+Seat 4: janko12 ($9.75 in chips) 
+Seat 5: jordyun ($25 in chips) 
+Seat 6: Frank2104 ($29.45 in chips) 
+Seat 7: EREDAYHUSLIN ($15.10 in chips) 
+Seat 8: Alameda22 ($23.60 in chips) 
+Seat 9: titanabe9 ($24.40 in chips) 
+jordyun: posts small blind $0.10
+Frank2104: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 3c]
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+titanabe9: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+BigSoonerFan: raises $0.75 to $1
+janko12: folds 
+jordyun: folds 
+Frank2104: folds 
+Uncalled bet ($0.75) returned to BigSoonerFan
+BigSoonerFan collected $0.60 from pot
+BigSoonerFan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: BigSoonerFan collected ($0.60)
+Seat 4: janko12 (button) folded before Flop (didn't bet)
+Seat 5: jordyun (small blind) folded before Flop
+Seat 6: Frank2104 (big blind) folded before Flop
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: titanabe9 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972497158:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:11:31 (ET)
+Table 'Lucina IV' 9-max Seat #5 is the button
+Seat 1: EnjoyLife73 ($26.10 in chips) 
+Seat 2: ML-Krieger ($24.95 in chips) 
+Seat 3: BigSoonerFan ($15.50 in chips) 
+Seat 4: janko12 ($9.75 in chips) 
+Seat 5: jordyun ($24.90 in chips) 
+Seat 6: Frank2104 ($29.20 in chips) 
+Seat 7: EREDAYHUSLIN ($15.10 in chips) 
+Seat 8: Alameda22 ($23.60 in chips) 
+Seat 9: titanabe9 ($24.40 in chips) 
+Frank2104: posts small blind $0.10
+EREDAYHUSLIN: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 8h]
+Alameda22: folds 
+titanabe9: raises $0.50 to $0.75
+EnjoyLife73: calls $0.75
+ML-Krieger: folds 
+BigSoonerFan: folds 
+janko12: calls $0.75
+jordyun: folds 
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+*** FLOP *** [6s 2s 5s]
+titanabe9: bets $0.75
+EnjoyLife73: calls $0.75
+janko12: folds 
+*** TURN *** [6s 2s 5s] [Jd]
+titanabe9: bets $1.50
+EnjoyLife73: calls $1.50
+*** RIVER *** [6s 2s 5s Jd] [6h]
+titanabe9: bets $3
+EnjoyLife73: folds 
+Uncalled bet ($3) returned to titanabe9
+titanabe9 collected $6.80 from pot
+*** SUMMARY ***
+Total pot $7.10 | Rake $0.30 
+Board [6s 2s 5s Jd 6h]
+Seat 1: EnjoyLife73 folded on the River
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: BigSoonerFan folded before Flop (didn't bet)
+Seat 4: janko12 folded on the Flop
+Seat 5: jordyun (button) folded before Flop (didn't bet)
+Seat 6: Frank2104 (small blind) folded before Flop
+Seat 7: EREDAYHUSLIN (big blind) folded before Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: titanabe9 collected ($6.80)
+
+
+
+PokerStars Game #19972550751:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:13:48 (ET)
+Table 'Lucina IV' 9-max Seat #6 is the button
+Seat 1: EnjoyLife73 ($23.10 in chips) 
+Seat 2: ML-Krieger ($24.95 in chips) 
+Seat 3: BigSoonerFan ($15.50 in chips) 
+Seat 4: janko12 ($9 in chips) 
+Seat 5: jordyun ($24.90 in chips) 
+Seat 6: Frank2104 ($29.10 in chips) 
+Seat 7: EREDAYHUSLIN ($14.85 in chips) 
+Seat 8: Alameda22 ($23.60 in chips) 
+Seat 9: titanabe9 ($28.20 in chips) 
+EREDAYHUSLIN: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Jc]
+titanabe9: calls $0.25
+EnjoyLife73: folds 
+ML-Krieger: folds 
+BigSoonerFan: folds 
+janko12: folds 
+jordyun: folds 
+Frank2104: folds 
+EREDAYHUSLIN: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Kh 9c Qd]
+EREDAYHUSLIN: bets $0.50
+Alameda22: folds 
+titanabe9: calls $0.50
+*** TURN *** [Kh 9c Qd] [8h]
+EREDAYHUSLIN: checks 
+titanabe9: bets $1.25
+EREDAYHUSLIN: calls $1.25
+*** RIVER *** [Kh 9c Qd 8h] [4d]
+EREDAYHUSLIN: checks 
+titanabe9: bets $1.50
+EREDAYHUSLIN: folds 
+Uncalled bet ($1.50) returned to titanabe9
+titanabe9 collected $4.05 from pot
+titanabe9: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [Kh 9c Qd 8h 4d]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: BigSoonerFan folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: Frank2104 (button) folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (small blind) folded on the River
+Seat 8: Alameda22 (big blind) folded on the Flop
+Seat 9: titanabe9 collected ($4.05)
+
+
+
+PokerStars Game #19972603595:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:16:02 (ET)
+Table 'Lucina IV' 9-max Seat #7 is the button
+Seat 1: EnjoyLife73 ($23.10 in chips) 
+Seat 2: ML-Krieger ($24.95 in chips) 
+Seat 3: BigSoonerFan ($15.50 in chips) 
+Seat 4: janko12 ($9 in chips) 
+Seat 5: jordyun ($24.90 in chips) 
+Seat 6: Frank2104 ($29.10 in chips) 
+Seat 7: EREDAYHUSLIN ($12.85 in chips) 
+Seat 8: Alameda22 ($23.35 in chips) 
+Seat 9: titanabe9 ($30.25 in chips) 
+Alameda22: posts small blind $0.10
+titanabe9: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Ah]
+EnjoyLife73: folds 
+ML-Krieger: calls $0.25
+BigSoonerFan: folds 
+janko12: calls $0.25
+jordyun: folds 
+Frank2104: calls $0.25
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+titanabe9: checks 
+*** FLOP *** [9h 4h 8h]
+titanabe9: bets $0.50
+ML-Krieger: folds 
+janko12: folds 
+Frank2104: folds 
+Uncalled bet ($0.50) returned to titanabe9
+titanabe9 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [9h 4h 8h]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded on the Flop
+Seat 3: BigSoonerFan folded before Flop (didn't bet)
+Seat 4: janko12 folded on the Flop
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: Frank2104 folded on the Flop
+Seat 7: EREDAYHUSLIN (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: titanabe9 (big blind) collected ($1.05)
+
+
+
+PokerStars Game #19972623120:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:16:51 (ET)
+Table 'Lucina IV' 9-max Seat #8 is the button
+Seat 1: EnjoyLife73 ($23.10 in chips) 
+Seat 2: ML-Krieger ($24.70 in chips) 
+Seat 3: BigSoonerFan ($15.50 in chips) 
+Seat 4: janko12 ($8.75 in chips) 
+Seat 5: jordyun ($24.90 in chips) 
+Seat 6: Frank2104 ($28.85 in chips) 
+Seat 7: EREDAYHUSLIN ($12.85 in chips) 
+Seat 8: Alameda22 ($23.25 in chips) 
+Seat 9: titanabe9 ($31.05 in chips) 
+titanabe9: posts small blind $0.10
+EnjoyLife73: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 5h]
+ML-Krieger: calls $0.25
+BigSoonerFan: folds 
+janko12: calls $0.25
+jordyun: folds 
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+titanabe9: calls $0.15
+EnjoyLife73: checks 
+*** FLOP *** [9d Qd Jd]
+titanabe9: checks 
+EnjoyLife73: checks 
+ML-Krieger: checks 
+janko12: checks 
+*** TURN *** [9d Qd Jd] [2c]
+titanabe9: checks 
+EnjoyLife73: checks 
+ML-Krieger: checks 
+janko12: checks 
+*** RIVER *** [9d Qd Jd 2c] [Kh]
+titanabe9: checks 
+EnjoyLife73: bets $0.75
+ML-Krieger: folds 
+janko12: calls $0.75
+titanabe9: folds 
+*** SHOW DOWN ***
+EnjoyLife73: shows [Ks 4c] (a pair of Kings)
+janko12: shows [Tc 9c] (a straight, Nine to King)
+janko12 collected $2.40 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [9d Qd Jd 2c Kh]
+Seat 1: EnjoyLife73 (big blind) showed [Ks 4c] and lost with a pair of Kings
+Seat 2: ML-Krieger folded on the River
+Seat 3: BigSoonerFan folded before Flop (didn't bet)
+Seat 4: janko12 showed [Tc 9c] and won ($2.40) with a straight, Nine to King
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: Frank2104 folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: titanabe9 (small blind) folded on the River
+
+
+
+PokerStars Game #19972684909:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:19:28 (ET)
+Table 'Lucina IV' 9-max Seat #9 is the button
+Seat 1: EnjoyLife73 ($22.10 in chips) 
+Seat 2: ML-Krieger ($24.45 in chips) 
+Seat 3: BigSoonerFan ($15.50 in chips) 
+Seat 4: janko12 ($10.15 in chips) 
+Seat 5: jordyun ($24.90 in chips) 
+Seat 6: Frank2104 ($28.85 in chips) 
+Seat 7: EREDAYHUSLIN ($12.85 in chips) 
+Seat 8: Alameda22 ($23.25 in chips) 
+Seat 9: titanabe9 ($30.80 in chips) 
+EnjoyLife73: posts small blind $0.10
+ML-Krieger: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 3d]
+BigSoonerFan: folds 
+janko12: folds 
+jordyun: raises $0.75 to $1
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+titanabe9: calls $1
+EnjoyLife73: folds 
+ML-Krieger: calls $0.75
+*** FLOP *** [Ad Kh 9h]
+ML-Krieger: bets $3.50
+jordyun: raises $5 to $8.50
+titanabe9: folds 
+ML-Krieger: raises $5 to $13.50
+jordyun: raises $10.40 to $23.90 and is all-in
+ML-Krieger: calls $9.95 and is all-in
+Uncalled bet ($0.45) returned to jordyun
+*** TURN *** [Ad Kh 9h] [Td]
+*** RIVER *** [Ad Kh 9h Td] [8c]
+*** SHOW DOWN ***
+ML-Krieger: shows [As Kc] (two pair, Aces and Kings)
+jordyun: shows [Ks Ac] (two pair, Aces and Kings)
+ML-Krieger collected $23.80 from pot
+jordyun collected $23.75 from pot
+*** SUMMARY ***
+Total pot $50 | Rake $2.45 
+Board [Ad Kh 9h Td 8c]
+Seat 1: EnjoyLife73 (small blind) folded before Flop
+Seat 2: ML-Krieger (big blind) showed [As Kc] and won ($23.80) with two pair, Aces and Kings
+Seat 3: BigSoonerFan folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun showed [Ks Ac] and won ($23.75) with two pair, Aces and Kings
+Seat 6: Frank2104 folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: titanabe9 (button) folded on the Flop
+
+
+
+PokerStars Game #19972724795:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:21:11 (ET)
+Table 'Lucina IV' 9-max Seat #1 is the button
+Seat 1: EnjoyLife73 ($22 in chips) 
+Seat 2: ML-Krieger ($23.80 in chips) 
+Seat 3: BigSoonerFan ($15.50 in chips) 
+Seat 4: janko12 ($10.15 in chips) 
+Seat 5: jordyun ($24.20 in chips) 
+Seat 6: Frank2104 ($28.85 in chips) 
+Seat 7: EREDAYHUSLIN ($12.85 in chips) 
+Seat 8: Alameda22 ($23.25 in chips) 
+Seat 9: titanabe9 ($29.80 in chips) 
+ML-Krieger: posts small blind $0.10
+BigSoonerFan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Qc]
+janko12: folds 
+jordyun: folds 
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+titanabe9: folds 
+EnjoyLife73: folds 
+ML-Krieger: calls $0.15
+BigSoonerFan: checks 
+*** FLOP *** [Qd 9h Qh]
+ML-Krieger: checks 
+BigSoonerFan: bets $0.50
+ML-Krieger: folds 
+Uncalled bet ($0.50) returned to BigSoonerFan
+BigSoonerFan collected $0.50 from pot
+BigSoonerFan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Qd 9h Qh]
+Seat 1: EnjoyLife73 (button) folded before Flop (didn't bet)
+Seat 2: ML-Krieger (small blind) folded on the Flop
+Seat 3: BigSoonerFan (big blind) collected ($0.50)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: Frank2104 folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: titanabe9 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972748291:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:22:12 (ET)
+Table 'Lucina IV' 9-max Seat #2 is the button
+Seat 1: EnjoyLife73 ($22 in chips) 
+Seat 2: ML-Krieger ($23.55 in chips) 
+Seat 3: BigSoonerFan ($15.75 in chips) 
+Seat 4: janko12 ($10.15 in chips) 
+Seat 5: jordyun ($25 in chips) 
+Seat 6: Frank2104 ($28.85 in chips) 
+Seat 7: EREDAYHUSLIN ($12.85 in chips) 
+Seat 8: Alameda22 ($23.25 in chips) 
+Seat 9: titanabe9 ($29.80 in chips) 
+BigSoonerFan: posts small blind $0.10
+janko12: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 5s]
+jordyun: folds 
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+titanabe9: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+BigSoonerFan: folds 
+Uncalled bet ($0.15) returned to janko12
+janko12 collected $0.20 from pot
+janko12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger (button) folded before Flop (didn't bet)
+Seat 3: BigSoonerFan (small blind) folded before Flop
+Seat 4: janko12 (big blind) collected ($0.20)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: Frank2104 folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: titanabe9 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972765512:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:22:56 (ET)
+Table 'Lucina IV' 9-max Seat #3 is the button
+Seat 1: EnjoyLife73 ($22 in chips) 
+Seat 2: ML-Krieger ($23.55 in chips) 
+Seat 3: BigSoonerFan ($15.65 in chips) 
+Seat 4: janko12 ($10.25 in chips) 
+Seat 5: jordyun ($25 in chips) 
+Seat 6: Frank2104 ($28.85 in chips) 
+Seat 7: EREDAYHUSLIN ($12.85 in chips) 
+Seat 8: Alameda22 ($23.25 in chips) 
+Seat 9: titanabe9 ($29.80 in chips) 
+janko12: posts small blind $0.10
+jordyun: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Ad]
+Frank2104: folds 
+EREDAYHUSLIN: folds 
+Alameda22: raises $0.50 to $0.75
+titanabe9: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+BigSoonerFan: folds 
+janko12: folds 
+jordyun: calls $0.50
+*** FLOP *** [7s 4s Jh]
+jordyun: checks 
+Alameda22: bets $1
+jordyun: calls $1
+*** TURN *** [7s 4s Jh] [Kd]
+jordyun: checks 
+Alameda22: checks 
+*** RIVER *** [7s 4s Jh Kd] [5d]
+jordyun: bets $2
+Alameda22: folds 
+Uncalled bet ($2) returned to jordyun
+jordyun collected $3.45 from pot
+jordyun: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.15 
+Board [7s 4s Jh Kd 5d]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: BigSoonerFan (button) folded before Flop (didn't bet)
+Seat 4: janko12 (small blind) folded before Flop
+Seat 5: jordyun (big blind) collected ($3.45)
+Seat 6: Frank2104 folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded on the River
+Seat 9: titanabe9 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972789050:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:23:57 (ET)
+Table 'Lucina IV' 9-max Seat #4 is the button
+Seat 1: EnjoyLife73 ($22 in chips) 
+Seat 2: ML-Krieger ($23.55 in chips) 
+Seat 3: BigSoonerFan ($15.65 in chips) 
+Seat 4: janko12 ($10.15 in chips) 
+Seat 5: jordyun ($26.70 in chips) 
+Seat 7: EREDAYHUSLIN ($12.85 in chips) 
+Seat 8: Alameda22 ($21.50 in chips) 
+Seat 9: titanabe9 ($29.80 in chips) 
+jordyun: posts small blind $0.10
+Frank2104: is sitting out 
+EREDAYHUSLIN: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 3c]
+Frank2104 leaves the table
+ddluvdl joins the table at seat #6 
+Alameda22: folds 
+titanabe9: folds 
+EnjoyLife73: folds 
+ML-Krieger: calls $0.25
+BigSoonerFan: calls $0.25
+janko12: folds 
+jordyun: folds 
+EREDAYHUSLIN: checks 
+*** FLOP *** [4d 2c Tc]
+EREDAYHUSLIN: checks 
+ML-Krieger: checks 
+BigSoonerFan: bets $0.75
+EREDAYHUSLIN: folds 
+ML-Krieger: folds 
+Uncalled bet ($0.75) returned to BigSoonerFan
+BigSoonerFan collected $0.85 from pot
+BigSoonerFan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [4d 2c Tc]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded on the Flop
+Seat 3: BigSoonerFan collected ($0.85)
+Seat 4: janko12 (button) folded before Flop (didn't bet)
+Seat 5: jordyun (small blind) folded before Flop
+Seat 7: EREDAYHUSLIN (big blind) folded on the Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: titanabe9 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972814573:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:25:02 (ET)
+Table 'Lucina IV' 9-max Seat #5 is the button
+Seat 1: EnjoyLife73 ($22 in chips) 
+Seat 2: ML-Krieger ($23.30 in chips) 
+Seat 3: BigSoonerFan ($16.25 in chips) 
+Seat 4: janko12 ($10.15 in chips) 
+Seat 5: jordyun ($26.60 in chips) 
+Seat 7: EREDAYHUSLIN ($12.60 in chips) 
+Seat 8: Alameda22 ($21.50 in chips) 
+Seat 9: titanabe9 ($29.80 in chips) 
+ddluvdl will be allowed to play after the button
+EREDAYHUSLIN: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Js]
+titanabe9: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+BigSoonerFan: folds 
+janko12: folds 
+jordyun: folds 
+EREDAYHUSLIN: raises $0.50 to $0.75
+Alameda22: folds 
+Uncalled bet ($0.50) returned to EREDAYHUSLIN
+EREDAYHUSLIN collected $0.50 from pot
+EREDAYHUSLIN: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: BigSoonerFan folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun (button) folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (small blind) collected ($0.50)
+Seat 8: Alameda22 (big blind) folded before Flop
+Seat 9: titanabe9 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972825283:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:25:30 (ET)
+Table 'Lucina IV' 9-max Seat #7 is the button
+Seat 1: EnjoyLife73 ($22 in chips) 
+Seat 2: ML-Krieger ($23.30 in chips) 
+Seat 3: BigSoonerFan ($16.25 in chips) 
+Seat 4: janko12 ($10.15 in chips) 
+Seat 5: jordyun ($26.60 in chips) 
+Seat 7: EREDAYHUSLIN ($12.85 in chips) 
+Seat 8: Alameda22 ($21.25 in chips) 
+Seat 9: titanabe9 ($29.80 in chips) 
+Alameda22: posts small blind $0.10
+titanabe9: posts big blind $0.25
+ddluvdl has timed out
+ddluvdl: is sitting out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Ks]
+EnjoyLife73: folds 
+ML-Krieger: folds 
+BigSoonerFan: folds 
+janko12: folds 
+jordyun: folds 
+EREDAYHUSLIN: folds 
+Alameda22: raises $0.50 to $0.75
+titanabe9: calls $0.50
+*** FLOP *** [3h 2c 4s]
+Alameda22: bets $1
+titanabe9: folds 
+Uncalled bet ($1) returned to Alameda22
+Alameda22 collected $1.45 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [3h 2c 4s]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: BigSoonerFan folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) collected ($1.45)
+Seat 9: titanabe9 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19972857620:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:26:55 (ET)
+Table 'Lucina IV' 9-max Seat #8 is the button
+Seat 1: EnjoyLife73 ($22 in chips) 
+Seat 2: ML-Krieger ($23.30 in chips) 
+Seat 3: BigSoonerFan ($16.25 in chips) 
+Seat 4: janko12 ($10.15 in chips) 
+Seat 5: jordyun ($26.60 in chips) 
+Seat 7: EREDAYHUSLIN ($12.85 in chips) 
+Seat 8: Alameda22 ($21.95 in chips) 
+Seat 9: titanabe9 ($29.05 in chips) 
+titanabe9: posts small blind $0.10
+EnjoyLife73: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 8c]
+ML-Krieger: folds 
+BigSoonerFan: folds 
+janko12: folds 
+jordyun: raises $0.75 to $1
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+titanabe9: folds 
+EnjoyLife73: folds 
+Uncalled bet ($0.75) returned to jordyun
+jordyun collected $0.60 from pot
+jordyun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 (big blind) folded before Flop
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: BigSoonerFan folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun collected ($0.60)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: titanabe9 (small blind) folded before Flop
+
+
+
+PokerStars Game #19972874648:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:27:40 (ET)
+Table 'Lucina IV' 9-max Seat #9 is the button
+Seat 1: EnjoyLife73 ($21.75 in chips) 
+Seat 2: ML-Krieger ($23.30 in chips) 
+Seat 3: BigSoonerFan ($16.25 in chips) 
+Seat 4: janko12 ($10.15 in chips) 
+Seat 5: jordyun ($26.95 in chips) 
+Seat 7: EREDAYHUSLIN ($12.85 in chips) 
+Seat 8: Alameda22 ($21.95 in chips) 
+Seat 9: titanabe9 ($28.95 in chips) 
+EnjoyLife73: posts small blind $0.10
+ML-Krieger: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 8h]
+BigSoonerFan: folds 
+janko12: folds 
+BigSoonerFan leaves the table
+jordyun: folds 
+EREDAYHUSLIN: folds 
+t3stark joins the table at seat #3 
+Alameda22: folds 
+titanabe9: folds 
+EnjoyLife73: folds 
+Uncalled bet ($0.15) returned to ML-Krieger
+ML-Krieger collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: EnjoyLife73 (small blind) folded before Flop
+Seat 2: ML-Krieger (big blind) collected ($0.20)
+Seat 3: BigSoonerFan folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: titanabe9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972888405:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:28:16 (ET)
+Table 'Lucina IV' 9-max Seat #1 is the button
+Seat 1: EnjoyLife73 ($21.65 in chips) 
+Seat 2: ML-Krieger ($23.40 in chips) 
+Seat 3: t3stark ($25 in chips) 
+Seat 4: janko12 ($10.15 in chips) 
+Seat 5: jordyun ($26.95 in chips) 
+Seat 7: EREDAYHUSLIN ($12.85 in chips) 
+Seat 8: Alameda22 ($21.95 in chips) 
+Seat 9: titanabe9 ($28.95 in chips) 
+ML-Krieger: posts small blind $0.10
+t3stark: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Qc]
+janko12: calls $0.25
+jordyun: folds 
+EREDAYHUSLIN: calls $0.25
+Alameda22: folds 
+titanabe9: folds 
+EnjoyLife73: folds 
+ML-Krieger: calls $0.15
+t3stark: checks 
+*** FLOP *** [2s 2c Kh]
+ML-Krieger: bets $0.50
+t3stark: folds 
+titanabe9 leaves the table
+janko12: folds 
+EREDAYHUSLIN: calls $0.50
+*** TURN *** [2s 2c Kh] [4d]
+ML-Krieger: bets $0.75
+EREDAYHUSLIN: raises $0.75 to $1.50
+ML-Krieger: calls $0.75
+*** RIVER *** [2s 2c Kh 4d] [Jd]
+ML-Krieger: checks 
+EREDAYHUSLIN: bets $2.25
+ML-Krieger: folds 
+Uncalled bet ($2.25) returned to EREDAYHUSLIN
+EREDAYHUSLIN collected $4.80 from pot
+EREDAYHUSLIN: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.20 
+Board [2s 2c Kh 4d Jd]
+Seat 1: EnjoyLife73 (button) folded before Flop (didn't bet)
+Seat 2: ML-Krieger (small blind) folded on the River
+Seat 3: t3stark (big blind) folded on the Flop
+Seat 4: janko12 folded on the Flop
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN collected ($4.80)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: titanabe9 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972929410:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:30:04 (ET)
+Table 'Lucina IV' 9-max Seat #2 is the button
+Seat 1: EnjoyLife73 ($21.65 in chips) 
+Seat 2: ML-Krieger ($21.15 in chips) 
+Seat 3: t3stark ($24.75 in chips) 
+Seat 4: janko12 ($9.90 in chips) 
+Seat 5: jordyun ($26.95 in chips) 
+Seat 7: EREDAYHUSLIN ($15.40 in chips) 
+Seat 8: Alameda22 ($21.95 in chips) 
+t3stark: posts small blind $0.10
+janko12: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Qd]
+jordyun: folds 
+EREDAYHUSLIN: folds 
+Alameda22: raises $0.50 to $0.75
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger (button) folded before Flop (didn't bet)
+Seat 3: t3stark (small blind) folded before Flop
+Seat 4: janko12 (big blind) folded before Flop
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 collected ($0.60)
+
+
+
+PokerStars Game #19972943283:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:30:41 (ET)
+Table 'Lucina IV' 9-max Seat #3 is the button
+Seat 1: EnjoyLife73 ($21.65 in chips) 
+Seat 2: ML-Krieger ($21.15 in chips) 
+Seat 3: t3stark ($24.65 in chips) 
+Seat 4: janko12 ($9.65 in chips) 
+Seat 5: jordyun ($26.95 in chips) 
+Seat 7: EREDAYHUSLIN ($15.40 in chips) 
+Seat 8: Alameda22 ($22.30 in chips) 
+janko12: posts small blind $0.10
+jordyun: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 8c]
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+EnjoyLife73: raises $0.75 to $1
+ML-Krieger: folds 
+t3stark: folds 
+janko12: folds 
+jordyun: folds 
+Uncalled bet ($0.75) returned to EnjoyLife73
+EnjoyLife73 collected $0.60 from pot
+EnjoyLife73: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 collected ($0.60)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark (button) folded before Flop (didn't bet)
+Seat 4: janko12 (small blind) folded before Flop
+Seat 5: jordyun (big blind) folded before Flop
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972952221:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:31:04 (ET)
+Table 'Lucina IV' 9-max Seat #4 is the button
+Seat 1: EnjoyLife73 ($22 in chips) 
+Seat 2: ML-Krieger ($21.15 in chips) 
+Seat 3: t3stark ($24.65 in chips) 
+Seat 4: janko12 ($9.55 in chips) 
+Seat 5: jordyun ($26.70 in chips) 
+Seat 7: EREDAYHUSLIN ($15.40 in chips) 
+Seat 8: Alameda22 ($22.30 in chips) 
+jordyun: posts small blind $0.10
+EREDAYHUSLIN: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 2c]
+Alameda22: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: raises $0.75 to $1
+janko12: folds 
+jordyun: folds 
+EREDAYHUSLIN: calls $0.75
+*** FLOP *** [Tc Td Qd]
+EREDAYHUSLIN: bets $1
+t3stark: raises $2 to $3
+EREDAYHUSLIN: calls $2
+*** TURN *** [Tc Td Qd] [Kc]
+EREDAYHUSLIN: checks 
+allisgut joins the table at seat #9 
+t3stark: bets $4
+EREDAYHUSLIN: raises $7.40 to $11.40 and is all-in
+t3stark: folds 
+Uncalled bet ($7.40) returned to EREDAYHUSLIN
+EREDAYHUSLIN collected $15.35 from pot
+EREDAYHUSLIN: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.10 | Rake $0.75 
+Board [Tc Td Qd Kc]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded on the Turn
+Seat 4: janko12 (button) folded before Flop (didn't bet)
+Seat 5: jordyun (small blind) folded before Flop
+Seat 7: EREDAYHUSLIN (big blind) collected ($15.35)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973001332:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:33:15 (ET)
+Table 'Lucina IV' 9-max Seat #5 is the button
+Seat 1: EnjoyLife73 ($22 in chips) 
+Seat 2: ML-Krieger ($21.15 in chips) 
+Seat 3: t3stark ($16.65 in chips) 
+Seat 4: janko12 ($9.55 in chips) 
+Seat 5: jordyun ($26.60 in chips) 
+Seat 7: EREDAYHUSLIN ($22.75 in chips) 
+Seat 8: Alameda22 ($22.30 in chips) 
+Seat 9: allisgut ($15 in chips) 
+EREDAYHUSLIN: posts small blind $0.10
+Alameda22: posts big blind $0.25
+allisgut: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Tc]
+allisgut: checks 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: folds 
+jordyun: calls $0.25
+EREDAYHUSLIN: folds 
+Alameda22: checks 
+*** FLOP *** [9h Ad 9d]
+Alameda22: checks 
+allisgut: checks 
+jordyun: checks 
+*** TURN *** [9h Ad 9d] [Kc]
+Alameda22: checks 
+allisgut: checks 
+jordyun: checks 
+*** RIVER *** [9h Ad 9d Kc] [4d]
+Alameda22: checks 
+allisgut: checks 
+ddluvdl has returned
+jordyun: checks 
+*** SHOW DOWN ***
+Alameda22: shows [Jh Tc] (a pair of Nines)
+allisgut: mucks hand 
+jordyun: shows [7c 7d] (two pair, Nines and Sevens)
+jordyun collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [9h Ad 9d Kc 4d]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun (button) showed [7c 7d] and won ($0.85) with two pair, Nines and Sevens
+Seat 7: EREDAYHUSLIN (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) showed [Jh Tc] and lost with a pair of Nines
+Seat 9: allisgut mucked [5d 2c]
+
+
+
+PokerStars Game #19973027366:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:34:24 (ET)
+Table 'Lucina IV' 9-max Seat #7 is the button
+Seat 1: EnjoyLife73 ($22 in chips) 
+Seat 2: ML-Krieger ($21.15 in chips) 
+Seat 3: t3stark ($16.65 in chips) 
+Seat 4: janko12 ($9.55 in chips) 
+Seat 5: jordyun ($27.20 in chips) 
+Seat 6: ddluvdl ($11 in chips) 
+Seat 7: EREDAYHUSLIN ($22.65 in chips) 
+Seat 8: Alameda22 ($22.05 in chips) 
+Seat 9: allisgut ($14.75 in chips) 
+Alameda22: posts small blind $0.10
+allisgut: posts big blind $0.25
+ddluvdl: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 4s]
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: folds 
+jordyun: folds 
+ddluvdl: raises $1.50 to $1.75
+EREDAYHUSLIN: calls $1.75
+Alameda22: folds 
+allisgut: folds 
+*** FLOP *** [Jh Td 8d]
+ddluvdl: bets $2
+EREDAYHUSLIN: folds 
+Uncalled bet ($2) returned to ddluvdl
+ddluvdl collected $3.80 from pot
+*** SUMMARY ***
+Total pot $3.95 | Rake $0.15 
+Board [Jh Td 8d]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: ddluvdl collected ($3.80)
+Seat 7: EREDAYHUSLIN (button) folded on the Flop
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: allisgut (big blind) folded before Flop
+
+
+
+PokerStars Game #19973056210:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:35:41 (ET)
+Table 'Lucina IV' 9-max Seat #8 is the button
+Seat 1: EnjoyLife73 ($22 in chips) 
+Seat 2: ML-Krieger ($21.15 in chips) 
+Seat 3: t3stark ($16.65 in chips) 
+Seat 4: janko12 ($9.55 in chips) 
+Seat 5: jordyun ($27.20 in chips) 
+Seat 6: ddluvdl ($12.95 in chips) 
+Seat 7: EREDAYHUSLIN ($20.90 in chips) 
+Seat 8: Alameda22 ($21.95 in chips) 
+Seat 9: allisgut ($14.50 in chips) 
+allisgut: posts small blind $0.10
+EnjoyLife73: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Kd]
+ML-Krieger: folds 
+t3stark: raises $0.75 to $1
+janko12: folds 
+jordyun: folds 
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+allisgut: calls $0.90
+EnjoyLife73: folds 
+*** FLOP *** [9d 4s 6h]
+allisgut: checks 
+t3stark: bets $1
+allisgut: folds 
+Uncalled bet ($1) returned to t3stark
+t3stark collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [9d 4s 6h]
+Seat 1: EnjoyLife73 (big blind) folded before Flop
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark collected ($2.15)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: ddluvdl folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: allisgut (small blind) folded on the Flop
+
+
+
+PokerStars Game #19973082915:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:36:52 (ET)
+Table 'Lucina IV' 9-max Seat #9 is the button
+Seat 1: EnjoyLife73 ($21.75 in chips) 
+Seat 2: ML-Krieger ($21.15 in chips) 
+Seat 3: t3stark ($17.80 in chips) 
+Seat 4: janko12 ($9.55 in chips) 
+Seat 5: jordyun ($27.20 in chips) 
+Seat 6: ddluvdl ($12.95 in chips) 
+Seat 7: EREDAYHUSLIN ($20.90 in chips) 
+Seat 8: Alameda22 ($21.95 in chips) 
+Seat 9: allisgut ($13.50 in chips) 
+EnjoyLife73: posts small blind $0.10
+ML-Krieger: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 7s]
+t3stark: folds 
+janko12: calls $0.25
+jordyun: folds 
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+allisgut: folds 
+EnjoyLife73: folds 
+ML-Krieger: checks 
+*** FLOP *** [As Js 3s]
+ML-Krieger: bets $0.25
+janko12: raises $1.25 to $1.50
+ML-Krieger: folds 
+Uncalled bet ($1.25) returned to janko12
+janko12 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [As Js 3s]
+Seat 1: EnjoyLife73 (small blind) folded before Flop
+Seat 2: ML-Krieger (big blind) folded on the Flop
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 collected ($1.05)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: ddluvdl folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: allisgut (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973111478:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:38:09 (ET)
+Table 'Lucina IV' 9-max Seat #1 is the button
+Seat 1: EnjoyLife73 ($21.65 in chips) 
+Seat 2: ML-Krieger ($20.65 in chips) 
+Seat 3: t3stark ($17.80 in chips) 
+Seat 4: janko12 ($10.10 in chips) 
+Seat 5: jordyun ($27.20 in chips) 
+Seat 6: ddluvdl ($12.95 in chips) 
+Seat 7: EREDAYHUSLIN ($20.90 in chips) 
+Seat 8: Alameda22 ($21.95 in chips) 
+Seat 9: allisgut ($13.50 in chips) 
+ML-Krieger: posts small blind $0.10
+t3stark: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 5s]
+janko12: folds 
+jordyun: folds 
+ddluvdl: calls $0.25
+EREDAYHUSLIN: calls $0.25
+Alameda22: folds 
+allisgut: calls $0.25
+EnjoyLife73: folds 
+ML-Krieger: calls $0.15
+t3stark: checks 
+*** FLOP *** [8d Jc Qd]
+ML-Krieger: checks 
+t3stark: bets $0.50
+ddluvdl: calls $0.50
+EREDAYHUSLIN: folds 
+allisgut: folds 
+ML-Krieger: folds 
+*** TURN *** [8d Jc Qd] [6c]
+t3stark: bets $1
+ddluvdl: raises $3 to $4
+t3stark: folds 
+Uncalled bet ($3) returned to ddluvdl
+ddluvdl collected $4.05 from pot
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [8d Jc Qd 6c]
+Seat 1: EnjoyLife73 (button) folded before Flop (didn't bet)
+Seat 2: ML-Krieger (small blind) folded on the Flop
+Seat 3: t3stark (big blind) folded on the Turn
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: ddluvdl collected ($4.05)
+Seat 7: EREDAYHUSLIN folded on the Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: allisgut folded on the Flop
+
+
+
+PokerStars Game #19973147834:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:39:45 (ET)
+Table 'Lucina IV' 9-max Seat #2 is the button
+Seat 1: EnjoyLife73 ($21.65 in chips) 
+Seat 2: ML-Krieger ($20.40 in chips) 
+Seat 3: t3stark ($16.05 in chips) 
+Seat 4: janko12 ($10.10 in chips) 
+Seat 5: jordyun ($27.20 in chips) 
+Seat 6: ddluvdl ($15.25 in chips) 
+Seat 7: EREDAYHUSLIN ($20.65 in chips) 
+Seat 8: Alameda22 ($21.95 in chips) 
+Seat 9: allisgut ($13.25 in chips) 
+t3stark: posts small blind $0.10
+janko12: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Ah]
+jordyun: folds 
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+allisgut: calls $0.25
+EnjoyLife73: folds 
+ML-Krieger: raises $0.25 to $0.50
+t3stark: folds 
+janko12: folds 
+allisgut: calls $0.25
+*** FLOP *** [6h 4h 8c]
+allisgut: checks 
+ML-Krieger: bets $0.50
+allisgut: folds 
+Uncalled bet ($0.50) returned to ML-Krieger
+ML-Krieger collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [6h 4h 8c]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger (button) collected ($1.30)
+Seat 3: t3stark (small blind) folded before Flop
+Seat 4: janko12 (big blind) folded before Flop
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: ddluvdl folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: allisgut folded on the Flop
+
+
+
+PokerStars Game #19973167177:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:40:36 (ET)
+Table 'Lucina IV' 9-max Seat #3 is the button
+Seat 1: EnjoyLife73 ($21.65 in chips) 
+Seat 2: ML-Krieger ($21.20 in chips) 
+Seat 3: t3stark ($15.95 in chips) 
+Seat 4: janko12 ($9.85 in chips) 
+Seat 5: jordyun ($27.20 in chips) 
+Seat 6: ddluvdl ($15.25 in chips) 
+Seat 7: EREDAYHUSLIN ($20.65 in chips) 
+Seat 8: Alameda22 ($21.95 in chips) 
+Seat 9: allisgut ($12.75 in chips) 
+janko12: posts small blind $0.10
+jordyun: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 5h]
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+allisgut: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: raises $0.50 to $0.75
+janko12: calls $0.65
+jordyun: folds 
+*** FLOP *** [7c 8h Ac]
+janko12: checks 
+t3stark: bets $0.75
+janko12: folds 
+Uncalled bet ($0.75) returned to t3stark
+t3stark collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [7c 8h Ac]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark (button) collected ($1.70)
+Seat 4: janko12 (small blind) folded on the Flop
+Seat 5: jordyun (big blind) folded before Flop
+Seat 6: ddluvdl folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: allisgut folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973187185:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:41:29 (ET)
+Table 'Lucina IV' 9-max Seat #4 is the button
+Seat 1: EnjoyLife73 ($21.65 in chips) 
+Seat 2: ML-Krieger ($21.20 in chips) 
+Seat 3: t3stark ($16.90 in chips) 
+Seat 4: janko12 ($9.10 in chips) 
+Seat 5: jordyun ($26.95 in chips) 
+Seat 6: ddluvdl ($15.25 in chips) 
+Seat 7: EREDAYHUSLIN ($20.65 in chips) 
+Seat 8: Alameda22 ($21.95 in chips) 
+Seat 9: allisgut ($12.75 in chips) 
+jordyun: posts small blind $0.10
+ddluvdl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 4h]
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+allisgut: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: raises $0.75 to $1
+janko12: folds 
+jordyun: folds 
+ddluvdl: folds 
+Uncalled bet ($0.75) returned to t3stark
+t3stark collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark collected ($0.60)
+Seat 4: janko12 (button) folded before Flop (didn't bet)
+Seat 5: jordyun (small blind) folded before Flop
+Seat 6: ddluvdl (big blind) folded before Flop
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: allisgut folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973206848:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:42:21 (ET)
+Table 'Lucina IV' 9-max Seat #5 is the button
+Seat 1: EnjoyLife73 ($21.65 in chips) 
+Seat 2: ML-Krieger ($21.20 in chips) 
+Seat 3: t3stark ($17.25 in chips) 
+Seat 4: janko12 ($9.10 in chips) 
+Seat 5: jordyun ($26.85 in chips) 
+Seat 6: ddluvdl ($15 in chips) 
+Seat 7: EREDAYHUSLIN ($20.65 in chips) 
+Seat 8: Alameda22 ($21.95 in chips) 
+Seat 9: allisgut ($12.75 in chips) 
+ddluvdl: posts small blind $0.10
+EREDAYHUSLIN: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 5d]
+Alameda22: folds 
+allisgut: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: folds 
+jordyun: raises $0.75 to $1
+ddluvdl: calls $0.90
+EREDAYHUSLIN: folds 
+*** FLOP *** [9h 9c Ah]
+ddluvdl: checks 
+jordyun: checks 
+*** TURN *** [9h 9c Ah] [3h]
+ddluvdl: checks 
+jordyun: bets $1.25
+ddluvdl: folds 
+Uncalled bet ($1.25) returned to jordyun
+jordyun collected $2.15 from pot
+jordyun: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [9h 9c Ah 3h]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun (button) collected ($2.15)
+Seat 6: ddluvdl (small blind) folded on the Turn
+Seat 7: EREDAYHUSLIN (big blind) folded before Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: allisgut folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973225093:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:43:10 (ET)
+Table 'Lucina IV' 9-max Seat #6 is the button
+Seat 1: EnjoyLife73 ($21.65 in chips) 
+Seat 2: ML-Krieger ($21.20 in chips) 
+Seat 3: t3stark ($17.25 in chips) 
+Seat 4: janko12 ($9.10 in chips) 
+Seat 5: jordyun ($28 in chips) 
+Seat 6: ddluvdl ($14 in chips) 
+Seat 7: EREDAYHUSLIN ($20.40 in chips) 
+Seat 8: Alameda22 ($21.95 in chips) 
+Seat 9: allisgut ($12.75 in chips) 
+EREDAYHUSLIN: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Ad]
+allisgut: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: calls $0.25
+jordyun: folds 
+ddluvdl: folds 
+EREDAYHUSLIN: calls $0.15
+Alameda22: raises $0.75 to $1
+janko12: calls $0.75
+EREDAYHUSLIN: folds 
+*** FLOP *** [2s 7s 7c]
+Alameda22: bets $1.50
+janko12: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $2.15 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [2s 7s 7c]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded on the Flop
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: ddluvdl (button) folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) collected ($2.15)
+Seat 9: allisgut folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973242033:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:43:56 (ET)
+Table 'Lucina IV' 9-max Seat #7 is the button
+Seat 1: EnjoyLife73 ($21.65 in chips) 
+Seat 2: ML-Krieger ($21.20 in chips) 
+Seat 3: t3stark ($17.25 in chips) 
+Seat 4: janko12 ($8.10 in chips) 
+Seat 5: jordyun ($28 in chips) 
+Seat 6: ddluvdl ($14 in chips) 
+Seat 7: EREDAYHUSLIN ($20.15 in chips) 
+Seat 8: Alameda22 ($23.10 in chips) 
+Seat 9: allisgut ($12.75 in chips) 
+Alameda22: posts small blind $0.10
+allisgut: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 9d]
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: calls $0.25
+jordyun: folds 
+ddluvdl: raises $1.50 to $1.75
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+allisgut: folds 
+janko12: calls $1.50
+*** FLOP *** [7d Td 5d]
+janko12: bets $6.35 and is all-in
+ddluvdl: calls $6.35
+*** TURN *** [7d Td 5d] [Ks]
+*** RIVER *** [7d Td 5d Ks] [3h]
+*** SHOW DOWN ***
+janko12: shows [6h 6c] (a pair of Sixes)
+ddluvdl: mucks hand 
+janko12 collected $15.75 from pot
+*** SUMMARY ***
+Total pot $16.55 | Rake $0.80 
+Board [7d Td 5d Ks 3h]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 showed [6h 6c] and won ($15.75) with a pair of Sixes
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: ddluvdl mucked [Ac Jd]
+Seat 7: EREDAYHUSLIN (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: allisgut (big blind) folded before Flop
+
+
+
+PokerStars Game #19973263604:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:44:54 (ET)
+Table 'Lucina IV' 9-max Seat #8 is the button
+Seat 1: EnjoyLife73 ($21.65 in chips) 
+Seat 2: ML-Krieger ($21.20 in chips) 
+Seat 3: t3stark ($17.25 in chips) 
+Seat 4: janko12 ($15.75 in chips) 
+Seat 5: jordyun ($28 in chips) 
+Seat 6: ddluvdl ($5.90 in chips) 
+Seat 7: EREDAYHUSLIN ($20.15 in chips) 
+Seat 8: Alameda22 ($23 in chips) 
+Seat 9: allisgut ($12.50 in chips) 
+allisgut: posts small blind $0.10
+EnjoyLife73: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Ts]
+ML-Krieger: folds 
+t3stark: folds 
+janko12: folds 
+jordyun: folds 
+ddluvdl: raises $1.50 to $1.75
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+allisgut: folds 
+EnjoyLife73: folds 
+Uncalled bet ($1.50) returned to ddluvdl
+ddluvdl collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 (big blind) folded before Flop
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: ddluvdl collected ($0.60)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: allisgut (small blind) folded before Flop
+
+
+
+PokerStars Game #19973281734:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:45:42 (ET)
+Table 'Lucina IV' 9-max Seat #9 is the button
+Seat 1: EnjoyLife73 ($21.40 in chips) 
+Seat 2: ML-Krieger ($21.20 in chips) 
+Seat 3: t3stark ($17.25 in chips) 
+Seat 4: janko12 ($15.75 in chips) 
+Seat 5: jordyun ($28 in chips) 
+Seat 6: ddluvdl ($6.25 in chips) 
+Seat 7: EREDAYHUSLIN ($20.15 in chips) 
+Seat 8: Alameda22 ($23 in chips) 
+Seat 9: allisgut ($12.40 in chips) 
+EnjoyLife73: posts small blind $0.10
+ML-Krieger: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Qh]
+t3stark: folds 
+janko12: folds 
+jordyun: folds 
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+allisgut: folds 
+EnjoyLife73: folds 
+Uncalled bet ($0.15) returned to ML-Krieger
+allisgut leaves the table
+ML-Krieger collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: EnjoyLife73 (small blind) folded before Flop
+Seat 2: ML-Krieger (big blind) collected ($0.20)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: ddluvdl folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: allisgut (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973299653:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:46:31 (ET)
+Table 'Lucina IV' 9-max Seat #1 is the button
+Seat 1: EnjoyLife73 ($21.30 in chips) 
+Seat 2: ML-Krieger ($21.30 in chips) 
+Seat 3: t3stark ($17.25 in chips) 
+Seat 4: janko12 ($15.75 in chips) 
+Seat 5: jordyun ($28 in chips) 
+Seat 6: ddluvdl ($6.25 in chips) 
+Seat 7: EREDAYHUSLIN ($20.15 in chips) 
+Seat 8: Alameda22 ($23 in chips) 
+Fredzon88 joins the table at seat #9 
+ML-Krieger: posts small blind $0.10
+t3stark: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 5h]
+janko12: calls $0.25
+jordyun: folds 
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+EnjoyLife73: folds 
+ML-Krieger: calls $0.15
+t3stark: checks 
+*** FLOP *** [4d Th 5c]
+ML-Krieger: bets $0.50
+t3stark: folds 
+janko12: folds 
+Uncalled bet ($0.50) returned to ML-Krieger
+ML-Krieger collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [4d Th 5c]
+Seat 1: EnjoyLife73 (button) folded before Flop (didn't bet)
+Seat 2: ML-Krieger (small blind) collected ($0.75)
+Seat 3: t3stark (big blind) folded on the Flop
+Seat 4: janko12 folded on the Flop
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: ddluvdl folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973316148:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:47:15 (ET)
+Table 'Lucina IV' 9-max Seat #2 is the button
+Seat 1: EnjoyLife73 ($21.30 in chips) 
+Seat 2: ML-Krieger ($21.80 in chips) 
+Seat 3: t3stark ($17 in chips) 
+Seat 4: janko12 ($15.50 in chips) 
+Seat 5: jordyun ($28 in chips) 
+Seat 6: ddluvdl ($6.25 in chips) 
+Seat 7: EREDAYHUSLIN ($20.15 in chips) 
+Seat 8: Alameda22 ($23 in chips) 
+t3stark: posts small blind $0.10
+janko12: posts big blind $0.25
+Fredzon88: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 2s]
+jordyun: folds 
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+EnjoyLife73: folds 
+ML-Krieger: calls $0.25
+t3stark: calls $0.15
+janko12: checks 
+*** FLOP *** [Jc Jh 9s]
+t3stark: checks 
+janko12: bets $0.75
+ML-Krieger: calls $0.75
+t3stark: folds 
+*** TURN *** [Jc Jh 9s] [9c]
+janko12: checks 
+ML-Krieger: bets $1.50
+janko12: folds 
+Uncalled bet ($1.50) returned to ML-Krieger
+ML-Krieger collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Jc Jh 9s 9c]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger (button) collected ($2.15)
+Seat 3: t3stark (small blind) folded on the Flop
+Seat 4: janko12 (big blind) folded on the Turn
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 6: ddluvdl folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973343623:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:48:29 (ET)
+Table 'Lucina IV' 9-max Seat #3 is the button
+Seat 1: EnjoyLife73 ($21.30 in chips) 
+Seat 2: ML-Krieger ($22.95 in chips) 
+Seat 3: t3stark ($16.75 in chips) 
+Seat 4: janko12 ($14.50 in chips) 
+Seat 5: jordyun ($28 in chips) 
+Seat 6: ddluvdl ($6.25 in chips) 
+Seat 7: EREDAYHUSLIN ($20.15 in chips) 
+Seat 8: Alameda22 ($23 in chips) 
+janko12: posts small blind $0.10
+jordyun: posts big blind $0.25
+Fredzon88: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Th]
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: raises $0.50 to $0.75
+janko12: folds 
+jordyun: folds 
+Uncalled bet ($0.50) returned to t3stark
+t3stark collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark (button) collected ($0.60)
+Seat 4: janko12 (small blind) folded before Flop
+Seat 5: jordyun (big blind) folded before Flop
+Seat 6: ddluvdl folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973357234:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:49:05 (ET)
+Table 'Lucina IV' 9-max Seat #4 is the button
+Seat 1: EnjoyLife73 ($21.30 in chips) 
+Seat 2: ML-Krieger ($22.95 in chips) 
+Seat 3: t3stark ($17.10 in chips) 
+Seat 4: janko12 ($14.40 in chips) 
+Seat 5: jordyun ($27.75 in chips) 
+Seat 6: ddluvdl ($6.25 in chips) 
+Seat 7: EREDAYHUSLIN ($20.15 in chips) 
+Seat 8: Alameda22 ($23 in chips) 
+jordyun: posts small blind $0.10
+ddluvdl: posts big blind $0.25
+Fredzon88: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 2s]
+EREDAYHUSLIN: calls $0.25
+Alameda22: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: raises $0.75 to $1
+janko12: folds 
+jordyun: folds 
+ddluvdl: folds 
+EREDAYHUSLIN: calls $0.75
+*** FLOP *** [4s Kd Tc]
+EREDAYHUSLIN: bets $1
+t3stark: calls $1
+*** TURN *** [4s Kd Tc] [Qh]
+EREDAYHUSLIN: checks 
+t3stark: bets $2
+EREDAYHUSLIN: calls $2
+*** RIVER *** [4s Kd Tc Qh] [Ts]
+EREDAYHUSLIN: checks 
+t3stark: bets $5
+EREDAYHUSLIN: calls $5
+*** SHOW DOWN ***
+t3stark: shows [Jh As] (a straight, Ten to Ace)
+EREDAYHUSLIN: mucks hand 
+t3stark collected $17.50 from pot
+*** SUMMARY ***
+Total pot $18.35 | Rake $0.85 
+Board [4s Kd Tc Qh Ts]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark showed [Jh As] and won ($17.50) with a straight, Ten to Ace
+Seat 4: janko12 (button) folded before Flop (didn't bet)
+Seat 5: jordyun (small blind) folded before Flop
+Seat 6: ddluvdl (big blind) folded before Flop
+Seat 7: EREDAYHUSLIN mucked [Td Jd]
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973403303:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:51:09 (ET)
+Table 'Lucina IV' 9-max Seat #5 is the button
+Seat 1: EnjoyLife73 ($21.30 in chips) 
+Seat 2: ML-Krieger ($22.95 in chips) 
+Seat 3: t3stark ($25.60 in chips) 
+Seat 4: janko12 ($14.40 in chips) 
+Seat 5: jordyun ($27.65 in chips) 
+Seat 6: ddluvdl ($6 in chips) 
+Seat 7: EREDAYHUSLIN ($11.15 in chips) 
+Seat 8: Alameda22 ($23 in chips) 
+ddluvdl: posts small blind $0.10
+EREDAYHUSLIN: posts big blind $0.25
+Fredzon88: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 6c]
+Alameda22: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: calls $0.25
+jordyun: folds 
+ddluvdl: calls $0.15
+EREDAYHUSLIN: checks 
+*** FLOP *** [2h Ad 4d]
+ddluvdl: bets $2.50
+EREDAYHUSLIN: folds 
+janko12: raises $4.50 to $7
+ddluvdl: calls $3.25 and is all-in
+Uncalled bet ($1.25) returned to janko12
+*** TURN *** [2h Ad 4d] [8d]
+*** RIVER *** [2h Ad 4d 8d] [8s]
+*** SHOW DOWN ***
+ddluvdl: shows [Ac 5d] (two pair, Aces and Eights)
+janko12: shows [Jd As] (two pair, Aces and Eights - Jack kicker)
+janko12 collected $11.65 from pot
+*** SUMMARY ***
+Total pot $12.25 | Rake $0.60 
+Board [2h Ad 4d 8d 8s]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 showed [Jd As] and won ($11.65) with two pair, Aces and Eights
+Seat 5: jordyun (button) folded before Flop (didn't bet)
+Seat 6: ddluvdl (small blind) showed [Ac 5d] and lost with two pair, Aces and Eights
+Seat 7: EREDAYHUSLIN (big blind) folded on the Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973424228:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:52:05 (ET)
+Table 'Lucina IV' 9-max Seat #7 is the button
+Seat 1: EnjoyLife73 ($21.30 in chips) 
+Seat 2: ML-Krieger ($22.95 in chips) 
+Seat 3: t3stark ($25.60 in chips) 
+Seat 4: janko12 ($20.05 in chips) 
+Seat 5: jordyun ($27.65 in chips) 
+Seat 7: EREDAYHUSLIN ($10.90 in chips) 
+Seat 8: Alameda22 ($23 in chips) 
+Seat 9: Fredzon88 ($25 in chips) 
+Alameda22: posts small blind $0.10
+Fredzon88: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 7s]
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: calls $0.25
+jordyun: folds 
+EREDAYHUSLIN: raises $0.75 to $1
+Alameda22: folds 
+Fredzon88: folds 
+janko12: folds 
+Uncalled bet ($0.75) returned to EREDAYHUSLIN
+EREDAYHUSLIN collected $0.85 from pot
+EREDAYHUSLIN: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (button) collected ($0.85)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: Fredzon88 (big blind) folded before Flop
+
+
+
+PokerStars Game #19973445306:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:53:02 (ET)
+Table 'Lucina IV' 9-max Seat #8 is the button
+Seat 1: EnjoyLife73 ($21.30 in chips) 
+Seat 2: ML-Krieger ($22.95 in chips) 
+Seat 3: t3stark ($25.60 in chips) 
+Seat 4: janko12 ($19.80 in chips) 
+Seat 5: jordyun ($27.65 in chips) 
+Seat 7: EREDAYHUSLIN ($11.50 in chips) 
+Seat 8: Alameda22 ($22.90 in chips) 
+Seat 9: Fredzon88 ($24.75 in chips) 
+Fredzon88: posts small blind $0.10
+EnjoyLife73: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 9d]
+ML-Krieger: folds 
+t3stark: folds 
+janko12: folds 
+jordyun: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: folds 
+Uncalled bet ($0.15) returned to EnjoyLife73
+EnjoyLife73 collected $0.20 from pot
+EnjoyLife73: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: EnjoyLife73 (big blind) collected ($0.20)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: Fredzon88 (small blind) folded before Flop
+
+
+
+PokerStars Game #19973457067:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:53:34 (ET)
+Table 'Lucina IV' 9-max Seat #9 is the button
+Seat 1: EnjoyLife73 ($21.40 in chips) 
+Seat 2: ML-Krieger ($22.95 in chips) 
+Seat 3: t3stark ($25.60 in chips) 
+Seat 4: janko12 ($19.80 in chips) 
+Seat 5: jordyun ($27.65 in chips) 
+Seat 7: EREDAYHUSLIN ($11.50 in chips) 
+Seat 8: Alameda22 ($22.90 in chips) 
+Seat 9: Fredzon88 ($24.65 in chips) 
+EnjoyLife73: posts small blind $0.10
+ML-Krieger: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Ac]
+t3stark: folds 
+janko12: folds 
+jordyun: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+Uncalled bet ($0.15) returned to ML-Krieger
+ML-Krieger collected $0.20 from pot
+ML-Krieger: doesn't show hand 
+ddluvdl has returned
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: EnjoyLife73 (small blind) folded before Flop
+Seat 2: ML-Krieger (big blind) collected ($0.20)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973469309:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:54:07 (ET)
+Table 'Lucina IV' 9-max Seat #1 is the button
+Seat 1: EnjoyLife73 ($21.30 in chips) 
+Seat 2: ML-Krieger ($23.05 in chips) 
+Seat 3: t3stark ($25.60 in chips) 
+Seat 4: janko12 ($19.80 in chips) 
+Seat 5: jordyun ($27.65 in chips) 
+Seat 7: EREDAYHUSLIN ($11.50 in chips) 
+Seat 8: Alameda22 ($22.90 in chips) 
+Seat 9: Fredzon88 ($24.65 in chips) 
+ML-Krieger: posts small blind $0.10
+t3stark: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 7s]
+janko12: folds 
+jordyun: raises $0.75 to $1
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+Uncalled bet ($0.75) returned to jordyun
+jordyun collected $0.60 from pot
+jordyun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 (button) folded before Flop (didn't bet)
+Seat 2: ML-Krieger (small blind) folded before Flop
+Seat 3: t3stark (big blind) folded before Flop
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: jordyun collected ($0.60)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973480947:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:54:39 (ET)
+Table 'Lucina IV' 9-max Seat #2 is the button
+Seat 1: EnjoyLife73 ($21.30 in chips) 
+Seat 2: ML-Krieger ($22.95 in chips) 
+Seat 3: t3stark ($25.35 in chips) 
+Seat 4: janko12 ($19.80 in chips) 
+Seat 5: jordyun ($28 in chips) 
+Seat 7: EREDAYHUSLIN ($11.50 in chips) 
+Seat 8: Alameda22 ($22.90 in chips) 
+Seat 9: Fredzon88 ($24.65 in chips) 
+t3stark: posts small blind $0.10
+janko12: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 8d]
+ddluvdl has returned
+jordyun: folds 
+jordyun leaves the table
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: folds 
+ddluvdl is sitting out
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: calls $0.15
+janko12: checks 
+*** FLOP *** [Qh 6d Td]
+t3stark: checks 
+janko12: checks 
+*** TURN *** [Qh 6d Td] [7d]
+t3stark: checks 
+janko12: bets $1
+t3stark: calls $1
+*** RIVER *** [Qh 6d Td 7d] [2s]
+t3stark: checks 
+janko12: bets $2
+t3stark: folds 
+Uncalled bet ($2) returned to janko12
+janko12 collected $2.40 from pot
+janko12: doesn't show hand 
+HyperionMark joins the table at seat #5 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Qh 6d Td 7d 2s]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger (button) folded before Flop (didn't bet)
+Seat 3: t3stark (small blind) folded on the River
+Seat 4: janko12 (big blind) collected ($2.40)
+Seat 5: jordyun folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973509776:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:55:57 (ET)
+Table 'Lucina IV' 9-max Seat #3 is the button
+Seat 1: EnjoyLife73 ($21.30 in chips) 
+Seat 2: ML-Krieger ($22.95 in chips) 
+Seat 3: t3stark ($24.10 in chips) 
+Seat 4: janko12 ($20.95 in chips) 
+Seat 5: HyperionMark ($25 in chips) 
+Seat 7: EREDAYHUSLIN ($11.50 in chips) 
+Seat 8: Alameda22 ($22.90 in chips) 
+Seat 9: Fredzon88 ($24.65 in chips) 
+janko12: posts small blind $0.10
+ddluvdl has returned
+HyperionMark: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 7s]
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: calls $0.15
+HyperionMark: raises $0.50 to $0.75
+janko12: folds 
+Uncalled bet ($0.50) returned to HyperionMark
+HyperionMark collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark (button) folded before Flop (didn't bet)
+Seat 4: janko12 (small blind) folded before Flop
+Seat 5: HyperionMark (big blind) collected ($0.50)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973525570:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:56:40 (ET)
+Table 'Lucina IV' 9-max Seat #4 is the button
+Seat 1: EnjoyLife73 ($21.30 in chips) 
+Seat 2: ML-Krieger ($22.95 in chips) 
+Seat 3: t3stark ($24.10 in chips) 
+Seat 4: janko12 ($20.70 in chips) 
+Seat 5: HyperionMark ($25.25 in chips) 
+Seat 6: ddluvdl ($12 in chips) 
+Seat 7: EREDAYHUSLIN ($11.50 in chips) 
+Seat 8: Alameda22 ($22.90 in chips) 
+Seat 9: Fredzon88 ($24.65 in chips) 
+HyperionMark: posts small blind $0.10
+ddluvdl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Ad]
+EREDAYHUSLIN: calls $0.25
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: folds 
+HyperionMark: folds 
+ddluvdl: checks 
+*** FLOP *** [Kh 3s Tc]
+ddluvdl: checks 
+EREDAYHUSLIN: checks 
+*** TURN *** [Kh 3s Tc] [4d]
+ddluvdl: checks 
+EREDAYHUSLIN: bets $0.50
+ddluvdl: folds 
+Uncalled bet ($0.50) returned to EREDAYHUSLIN
+EREDAYHUSLIN collected $0.60 from pot
+EREDAYHUSLIN: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kh 3s Tc 4d]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 (button) folded before Flop (didn't bet)
+Seat 5: HyperionMark (small blind) folded before Flop
+Seat 6: ddluvdl (big blind) folded on the Turn
+Seat 7: EREDAYHUSLIN collected ($0.60)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973550794:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:57:48 (ET)
+Table 'Lucina IV' 9-max Seat #5 is the button
+Seat 1: EnjoyLife73 ($21.30 in chips) 
+Seat 2: ML-Krieger ($22.95 in chips) 
+Seat 3: t3stark ($24.10 in chips) 
+Seat 4: janko12 ($20.70 in chips) 
+Seat 5: HyperionMark ($25.15 in chips) 
+Seat 6: ddluvdl ($11.75 in chips) 
+Seat 7: EREDAYHUSLIN ($11.85 in chips) 
+Seat 8: Alameda22 ($22.90 in chips) 
+Seat 9: Fredzon88 ($24.65 in chips) 
+ddluvdl: posts small blind $0.10
+EREDAYHUSLIN: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 8c]
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: raises $0.50 to $0.75
+janko12: folds 
+HyperionMark: folds 
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Uncalled bet ($0.50) returned to t3stark
+t3stark collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark collected ($0.60)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: HyperionMark (button) folded before Flop (didn't bet)
+Seat 6: ddluvdl (small blind) folded before Flop
+Seat 7: EREDAYHUSLIN (big blind) folded before Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973572019:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:58:47 (ET)
+Table 'Lucina IV' 9-max Seat #6 is the button
+Seat 1: EnjoyLife73 ($21.30 in chips) 
+Seat 2: ML-Krieger ($22.95 in chips) 
+Seat 3: t3stark ($24.45 in chips) 
+Seat 4: janko12 ($20.70 in chips) 
+Seat 5: HyperionMark ($25.15 in chips) 
+Seat 6: ddluvdl ($11.65 in chips) 
+Seat 7: EREDAYHUSLIN ($11.60 in chips) 
+Seat 8: Alameda22 ($22.90 in chips) 
+Seat 9: Fredzon88 ($24.65 in chips) 
+EREDAYHUSLIN: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 4s]
+Fredzon88: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: raises $0.50 to $0.75
+janko12: folds 
+HyperionMark: folds 
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to t3stark
+t3stark collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark collected ($0.60)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: HyperionMark folded before Flop (didn't bet)
+Seat 6: ddluvdl (button) folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) folded before Flop
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973594370:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:59:48 (ET)
+Table 'Lucina IV' 9-max Seat #7 is the button
+Seat 1: EnjoyLife73 ($21.30 in chips) 
+Seat 2: ML-Krieger ($22.95 in chips) 
+Seat 3: t3stark ($24.80 in chips) 
+Seat 4: janko12 ($20.70 in chips) 
+Seat 5: HyperionMark ($25.15 in chips) 
+Seat 6: ddluvdl ($11.65 in chips) 
+Seat 7: EREDAYHUSLIN ($11.50 in chips) 
+Seat 8: Alameda22 ($22.65 in chips) 
+Seat 9: Fredzon88 ($24.65 in chips) 
+Alameda22: posts small blind $0.10
+Fredzon88: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 9s]
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: calls $0.25
+HyperionMark: folds 
+ddluvdl: folds 
+EREDAYHUSLIN: raises $1 to $1.25
+Alameda22: folds 
+Fredzon88: folds 
+janko12: folds 
+Uncalled bet ($1) returned to EREDAYHUSLIN
+EREDAYHUSLIN collected $0.85 from pot
+EREDAYHUSLIN: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop
+Seat 5: HyperionMark folded before Flop (didn't bet)
+Seat 6: ddluvdl folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (button) collected ($0.85)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: Fredzon88 (big blind) folded before Flop
+
+
+
+PokerStars Game #19973616677:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:00:48 (ET)
+Table 'Lucina IV' 9-max Seat #8 is the button
+Seat 1: EnjoyLife73 ($21.30 in chips) 
+Seat 2: ML-Krieger ($22.95 in chips) 
+Seat 3: t3stark ($24.80 in chips) 
+Seat 4: janko12 ($20.45 in chips) 
+Seat 5: HyperionMark ($25.15 in chips) 
+Seat 6: ddluvdl ($11.65 in chips) 
+Seat 7: EREDAYHUSLIN ($12.10 in chips) 
+Seat 8: Alameda22 ($22.55 in chips) 
+Seat 9: Fredzon88 ($24.40 in chips) 
+Fredzon88: posts small blind $0.10
+EnjoyLife73: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 9s]
+ML-Krieger: calls $0.25
+t3stark: folds 
+janko12: folds 
+HyperionMark: folds 
+ddluvdl: folds 
+EREDAYHUSLIN: raises $1 to $1.25
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+Uncalled bet ($1) returned to EREDAYHUSLIN
+EREDAYHUSLIN collected $0.85 from pot
+EREDAYHUSLIN: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: EnjoyLife73 (big blind) folded before Flop
+Seat 2: ML-Krieger folded before Flop
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: HyperionMark folded before Flop (didn't bet)
+Seat 6: ddluvdl folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN collected ($0.85)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: Fredzon88 (small blind) folded before Flop
+
+
+
+PokerStars Game #19973646560:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:02:08 (ET)
+Table 'Lucina IV' 9-max Seat #9 is the button
+Seat 1: EnjoyLife73 ($21.05 in chips) 
+Seat 2: ML-Krieger ($22.70 in chips) 
+Seat 3: t3stark ($24.80 in chips) 
+Seat 4: janko12 ($20.45 in chips) 
+Seat 5: HyperionMark ($25.15 in chips) 
+Seat 6: ddluvdl ($11.65 in chips) 
+Seat 7: EREDAYHUSLIN ($12.70 in chips) 
+Seat 8: Alameda22 ($22.55 in chips) 
+Seat 9: Fredzon88 ($24.30 in chips) 
+EnjoyLife73: posts small blind $0.10
+ML-Krieger: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 9s]
+t3stark: folds 
+janko12: calls $0.25
+HyperionMark: folds 
+ddluvdl has timed out
+ddluvdl: folds 
+ddluvdl is sitting out
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+ML-Krieger: checks 
+*** FLOP *** [9c 7d 6s]
+ML-Krieger: bets $0.25
+janko12: calls $0.25
+*** TURN *** [9c 7d 6s] [3h]
+ML-Krieger: bets $0.25
+janko12: calls $0.25
+*** RIVER *** [9c 7d 6s 3h] [3c]
+ML-Krieger: bets $0.25
+janko12: folds 
+Uncalled bet ($0.25) returned to ML-Krieger
+ML-Krieger collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [9c 7d 6s 3h 3c]
+Seat 1: EnjoyLife73 (small blind) folded before Flop
+Seat 2: ML-Krieger (big blind) collected ($1.55)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded on the River
+Seat 5: HyperionMark folded before Flop (didn't bet)
+Seat 6: ddluvdl folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973686960:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:03:57 (ET)
+Table 'Lucina IV' 9-max Seat #1 is the button
+Seat 1: EnjoyLife73 ($20.95 in chips) 
+Seat 2: ML-Krieger ($23.50 in chips) 
+Seat 3: t3stark ($24.80 in chips) 
+Seat 4: janko12 ($19.70 in chips) 
+Seat 5: HyperionMark ($25.15 in chips) 
+Seat 7: EREDAYHUSLIN ($12.70 in chips) 
+Seat 8: Alameda22 ($22.55 in chips) 
+Seat 9: Fredzon88 ($24.30 in chips) 
+ML-Krieger: posts small blind $0.10
+t3stark: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Kd]
+ddluvdl has returned
+janko12: folds 
+HyperionMark: folds 
+EREDAYHUSLIN: calls $0.25
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+ML-Krieger: calls $0.15
+t3stark: checks 
+*** FLOP *** [Qh Ts 4s]
+ML-Krieger: bets $0.75
+t3stark: folds 
+EREDAYHUSLIN: folds 
+Uncalled bet ($0.75) returned to ML-Krieger
+ML-Krieger collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Qh Ts 4s]
+Seat 1: EnjoyLife73 (button) folded before Flop (didn't bet)
+Seat 2: ML-Krieger (small blind) collected ($0.75)
+Seat 3: t3stark (big blind) folded on the Flop
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: HyperionMark folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded on the Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973715239:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:05:14 (ET)
+Table 'Lucina IV' 9-max Seat #2 is the button
+Seat 1: EnjoyLife73 ($20.95 in chips) 
+Seat 2: ML-Krieger ($24 in chips) 
+Seat 3: t3stark ($24.55 in chips) 
+Seat 4: janko12 ($19.70 in chips) 
+Seat 5: HyperionMark ($25.15 in chips) 
+Seat 6: ddluvdl ($11.65 in chips) 
+Seat 7: EREDAYHUSLIN ($12.45 in chips) 
+Seat 8: Alameda22 ($22.55 in chips) 
+Seat 9: Fredzon88 ($24.30 in chips) 
+t3stark: posts small blind $0.10
+janko12: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 4s]
+HyperionMark: folds 
+ddluvdl: calls $0.25
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: raises $0.75 to $1
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: calls $0.90
+janko12: folds 
+ddluvdl: calls $0.75
+*** FLOP *** [9h 7c Qc]
+t3stark: checks 
+ddluvdl: bets $2.50
+Fredzon88: folds 
+t3stark: folds 
+Uncalled bet ($2.50) returned to ddluvdl
+ddluvdl collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [9h 7c Qc]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger (button) folded before Flop (didn't bet)
+Seat 3: t3stark (small blind) folded on the Flop
+Seat 4: janko12 (big blind) folded before Flop
+Seat 5: HyperionMark folded before Flop (didn't bet)
+Seat 6: ddluvdl collected ($3.10)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded on the Flop
+
+
+
+PokerStars Game #19973732306:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:06:00 (ET)
+Table 'Lucina IV' 9-max Seat #3 is the button
+Seat 1: EnjoyLife73 ($20.95 in chips) 
+Seat 2: ML-Krieger ($24 in chips) 
+Seat 3: t3stark ($23.55 in chips) 
+Seat 4: janko12 ($19.45 in chips) 
+Seat 5: HyperionMark ($25.15 in chips) 
+Seat 6: ddluvdl ($13.75 in chips) 
+Seat 7: EREDAYHUSLIN ($12.45 in chips) 
+Seat 8: Alameda22 ($22.55 in chips) 
+Seat 9: Fredzon88 ($23.30 in chips) 
+janko12: posts small blind $0.10
+HyperionMark: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Jd]
+ddluvdl: calls $0.25
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: calls $0.15
+HyperionMark: checks 
+*** FLOP *** [3h 5c 6h]
+janko12: bets $0.75
+HyperionMark: folds 
+ddluvdl: folds 
+Uncalled bet ($0.75) returned to janko12
+janko12 collected $0.75 from pot
+janko12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [3h 5c 6h]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark (button) folded before Flop (didn't bet)
+Seat 4: janko12 (small blind) collected ($0.75)
+Seat 5: HyperionMark (big blind) folded on the Flop
+Seat 6: ddluvdl folded on the Flop
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973756607:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:07:06 (ET)
+Table 'Lucina IV' 9-max Seat #4 is the button
+Seat 1: EnjoyLife73 ($20.95 in chips) 
+Seat 2: ML-Krieger ($24 in chips) 
+Seat 3: t3stark ($23.55 in chips) 
+Seat 4: janko12 ($19.95 in chips) 
+Seat 5: HyperionMark ($24.90 in chips) 
+Seat 6: ddluvdl ($13.50 in chips) 
+Seat 7: EREDAYHUSLIN ($12.45 in chips) 
+Seat 8: Alameda22 ($22.55 in chips) 
+Seat 9: Fredzon88 ($23.30 in chips) 
+HyperionMark: posts small blind $0.10
+ddluvdl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 7c]
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: raises $0.50 to $0.75
+EnjoyLife73: calls $0.75
+ML-Krieger: folds 
+t3stark: folds 
+janko12: folds 
+HyperionMark: folds 
+ddluvdl: calls $0.50
+*** FLOP *** [Jd 9s 4s]
+ddluvdl: checks 
+Fredzon88: bets $1.25
+EnjoyLife73: raises $1.25 to $2.50
+ddluvdl: folds 
+Fredzon88: folds 
+Uncalled bet ($1.25) returned to EnjoyLife73
+EnjoyLife73 collected $4.65 from pot
+EnjoyLife73: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [Jd 9s 4s]
+Seat 1: EnjoyLife73 collected ($4.65)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 (button) folded before Flop (didn't bet)
+Seat 5: HyperionMark (small blind) folded before Flop
+Seat 6: ddluvdl (big blind) folded on the Flop
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded on the Flop
+
+
+
+PokerStars Game #19973779008:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:08:07 (ET)
+Table 'Lucina IV' 9-max Seat #5 is the button
+Seat 1: EnjoyLife73 ($23.60 in chips) 
+Seat 2: ML-Krieger ($24 in chips) 
+Seat 3: t3stark ($23.55 in chips) 
+Seat 4: janko12 ($19.95 in chips) 
+Seat 5: HyperionMark ($24.80 in chips) 
+Seat 6: ddluvdl ($12.75 in chips) 
+Seat 7: EREDAYHUSLIN ($12.45 in chips) 
+Seat 8: Alameda22 ($22.55 in chips) 
+Seat 9: Fredzon88 ($25 in chips) 
+ddluvdl: posts small blind $0.10
+EREDAYHUSLIN: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 6s]
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: folds 
+HyperionMark: folds 
+ddluvdl: folds 
+Uncalled bet ($0.15) returned to EREDAYHUSLIN
+EREDAYHUSLIN collected $0.20 from pot
+EREDAYHUSLIN: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: HyperionMark (button) folded before Flop (didn't bet)
+Seat 6: ddluvdl (small blind) folded before Flop
+Seat 7: EREDAYHUSLIN (big blind) collected ($0.20)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973788565:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:08:33 (ET)
+Table 'Lucina IV' 9-max Seat #6 is the button
+Seat 1: EnjoyLife73 ($23.60 in chips) 
+Seat 2: ML-Krieger ($24 in chips) 
+Seat 3: t3stark ($23.55 in chips) 
+Seat 4: janko12 ($19.95 in chips) 
+Seat 5: HyperionMark ($24.80 in chips) 
+Seat 6: ddluvdl ($12.65 in chips) 
+Seat 7: EREDAYHUSLIN ($12.55 in chips) 
+Seat 8: Alameda22 ($22.55 in chips) 
+Seat 9: Fredzon88 ($25 in chips) 
+EREDAYHUSLIN: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 3c]
+Fredzon88: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: raises $0.75 to $1
+janko12: calls $1
+HyperionMark: folds 
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+*** FLOP *** [Jc Ac 7d]
+t3stark: checks 
+janko12: bets $3.50
+t3stark: folds 
+Uncalled bet ($3.50) returned to janko12
+janko12 collected $2.25 from pot
+janko12: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Jc Ac 7d]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded on the Flop
+Seat 4: janko12 collected ($2.25)
+Seat 5: HyperionMark folded before Flop (didn't bet)
+Seat 6: ddluvdl (button) folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) folded before Flop
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973807112:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:09:24 (ET)
+Table 'Lucina IV' 9-max Seat #7 is the button
+Seat 1: EnjoyLife73 ($23.60 in chips) 
+Seat 2: ML-Krieger ($24 in chips) 
+Seat 3: t3stark ($22.55 in chips) 
+Seat 4: janko12 ($21.20 in chips) 
+Seat 5: HyperionMark ($24.80 in chips) 
+Seat 6: ddluvdl ($12.65 in chips) 
+Seat 7: EREDAYHUSLIN ($12.45 in chips) 
+Seat 8: Alameda22 ($22.30 in chips) 
+Seat 9: Fredzon88 ($25 in chips) 
+Alameda22: posts small blind $0.10
+Fredzon88: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Ks]
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: raises $1.75 to $2
+HyperionMark: folds 
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: folds 
+Uncalled bet ($1.75) returned to janko12
+janko12 collected $0.60 from pot
+janko12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 collected ($0.60)
+Seat 5: HyperionMark folded before Flop (didn't bet)
+Seat 6: ddluvdl folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: Fredzon88 (big blind) folded before Flop
+
+
+
+PokerStars Game #19973822021:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:10:04 (ET)
+Table 'Lucina IV' 9-max Seat #8 is the button
+Seat 1: EnjoyLife73 ($23.60 in chips) 
+Seat 2: ML-Krieger ($24 in chips) 
+Seat 3: t3stark ($22.55 in chips) 
+Seat 4: janko12 ($21.55 in chips) 
+Seat 5: HyperionMark ($24.80 in chips) 
+Seat 6: ddluvdl ($12.65 in chips) 
+Seat 7: EREDAYHUSLIN ($12.45 in chips) 
+Seat 8: Alameda22 ($22.20 in chips) 
+Seat 9: Fredzon88 ($24.75 in chips) 
+Fredzon88: posts small blind $0.10
+EnjoyLife73: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 4s]
+ML-Krieger: folds 
+t3stark: raises $0.50 to $0.75
+janko12: calls $0.75
+HyperionMark: folds 
+ddluvdl: calls $0.75
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+*** FLOP *** [8d 2s 3c]
+t3stark: checks 
+janko12: bets $1
+ddluvdl: folds 
+t3stark: folds 
+Uncalled bet ($1) returned to janko12
+janko12 collected $2.50 from pot
+janko12: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [8d 2s 3c]
+Seat 1: EnjoyLife73 (big blind) folded before Flop
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded on the Flop
+Seat 4: janko12 collected ($2.50)
+Seat 5: HyperionMark folded before Flop (didn't bet)
+Seat 6: ddluvdl folded on the Flop
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: Fredzon88 (small blind) folded before Flop
+
+
+
+PokerStars Game #19973840665:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:10:55 (ET)
+Table 'Lucina IV' 9-max Seat #9 is the button
+Seat 1: EnjoyLife73 ($23.35 in chips) 
+Seat 2: ML-Krieger ($24 in chips) 
+Seat 3: t3stark ($21.80 in chips) 
+Seat 4: janko12 ($23.30 in chips) 
+Seat 5: HyperionMark ($24.80 in chips) 
+Seat 6: ddluvdl ($11.90 in chips) 
+Seat 7: EREDAYHUSLIN ($12.45 in chips) 
+Seat 8: Alameda22 ($22.20 in chips) 
+Seat 9: Fredzon88 ($24.65 in chips) 
+EnjoyLife73: posts small blind $0.10
+ML-Krieger: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Ts]
+t3stark: folds 
+janko12: raises $0.75 to $1
+HyperionMark: folds 
+ddluvdl: calls $1
+EREDAYHUSLIN: calls $1
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+ML-Krieger: calls $0.75
+*** FLOP *** [Ah 3c 5c]
+ML-Krieger: checks 
+janko12: bets $2
+ddluvdl: folds 
+EREDAYHUSLIN is disconnected 
+EREDAYHUSLIN has timed out while disconnected
+EREDAYHUSLIN: folds 
+EREDAYHUSLIN is sitting out
+ML-Krieger: folds 
+Uncalled bet ($2) returned to janko12
+janko12 collected $3.90 from pot
+janko12: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [Ah 3c 5c]
+Seat 1: EnjoyLife73 (small blind) folded before Flop
+Seat 2: ML-Krieger (big blind) folded on the Flop
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 collected ($3.90)
+Seat 5: HyperionMark folded before Flop (didn't bet)
+Seat 6: ddluvdl folded on the Flop
+Seat 7: EREDAYHUSLIN folded on the Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973902307:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:13:43 (ET)
+Table 'Lucina IV' 9-max Seat #1 is the button
+Seat 1: EnjoyLife73 ($23.25 in chips) 
+Seat 2: ML-Krieger ($23 in chips) 
+Seat 3: t3stark ($21.80 in chips) 
+Seat 4: janko12 ($26.20 in chips) 
+Seat 5: HyperionMark ($24.80 in chips) 
+Seat 6: ddluvdl ($10.90 in chips) 
+Seat 8: Alameda22 ($22.20 in chips) 
+Seat 9: Fredzon88 ($24.65 in chips) 
+EREDAYHUSLIN is connected 
+ML-Krieger: posts small blind $0.10
+t3stark: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 8s]
+janko12: folds 
+EREDAYHUSLIN has returned
+HyperionMark: folds 
+ddluvdl: calls $0.25
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+ML-Krieger: calls $0.15
+t3stark: checks 
+*** FLOP *** [Qc 9d Ah]
+ML-Krieger: checks 
+t3stark: checks 
+ddluvdl: checks 
+*** TURN *** [Qc 9d Ah] [5c]
+ML-Krieger: checks 
+t3stark: bets $0.75
+ddluvdl: folds 
+ML-Krieger: folds 
+Uncalled bet ($0.75) returned to t3stark
+t3stark collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Qc 9d Ah 5c]
+Seat 1: EnjoyLife73 (button) folded before Flop (didn't bet)
+Seat 2: ML-Krieger (small blind) folded on the Turn
+Seat 3: t3stark (big blind) collected ($0.75)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: HyperionMark folded before Flop (didn't bet)
+Seat 6: ddluvdl folded on the Turn
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973935137:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:15:11 (ET)
+Table 'Lucina IV' 9-max Seat #2 is the button
+Seat 1: EnjoyLife73 ($23.25 in chips) 
+Seat 2: ML-Krieger ($22.75 in chips) 
+Seat 3: t3stark ($22.30 in chips) 
+Seat 4: janko12 ($26.20 in chips) 
+Seat 5: HyperionMark ($24.80 in chips) 
+Seat 6: ddluvdl ($10.65 in chips) 
+Seat 7: EREDAYHUSLIN ($11.45 in chips) 
+Seat 8: Alameda22 ($22.20 in chips) 
+Seat 9: Fredzon88 ($24.65 in chips) 
+t3stark: posts small blind $0.10
+janko12: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 9h]
+HyperionMark: folds 
+ddluvdl: raises $1.50 to $1.75
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: folds 
+Uncalled bet ($1.50) returned to ddluvdl
+ddluvdl collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger (button) folded before Flop (didn't bet)
+Seat 3: t3stark (small blind) folded before Flop
+Seat 4: janko12 (big blind) folded before Flop
+Seat 5: HyperionMark folded before Flop (didn't bet)
+Seat 6: ddluvdl collected ($0.60)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973953935:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:16:02 (ET)
+Table 'Lucina IV' 9-max Seat #3 is the button
+Seat 1: EnjoyLife73 ($23.25 in chips) 
+Seat 2: ML-Krieger ($22.75 in chips) 
+Seat 3: t3stark ($22.20 in chips) 
+Seat 4: janko12 ($25.95 in chips) 
+Seat 5: HyperionMark ($24.80 in chips) 
+Seat 6: ddluvdl ($11 in chips) 
+Seat 7: EREDAYHUSLIN ($11.45 in chips) 
+Seat 8: Alameda22 ($22.20 in chips) 
+Seat 9: Fredzon88 ($24.65 in chips) 
+janko12: posts small blind $0.10
+HyperionMark: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 4h]
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+ML-Krieger: calls $0.25
+t3stark: folds 
+janko12: folds 
+HyperionMark: checks 
+*** FLOP *** [9c 5d 2s]
+HyperionMark: checks 
+ML-Krieger: bets $0.25
+HyperionMark: folds 
+Uncalled bet ($0.25) returned to ML-Krieger
+ML-Krieger collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9c 5d 2s]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger collected ($0.60)
+Seat 3: t3stark (button) folded before Flop (didn't bet)
+Seat 4: janko12 (small blind) folded before Flop
+Seat 5: HyperionMark (big blind) folded on the Flop
+Seat 6: ddluvdl folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973973964:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:16:57 (ET)
+Table 'Lucina IV' 9-max Seat #4 is the button
+Seat 1: EnjoyLife73 ($23.25 in chips) 
+Seat 2: ML-Krieger ($23.10 in chips) 
+Seat 3: t3stark ($22.20 in chips) 
+Seat 4: janko12 ($25.85 in chips) 
+Seat 5: HyperionMark ($24.55 in chips) 
+Seat 6: ddluvdl ($11 in chips) 
+Seat 7: EREDAYHUSLIN ($11.45 in chips) 
+Seat 8: Alameda22 ($22.20 in chips) 
+Seat 9: Fredzon88 ($24.65 in chips) 
+HyperionMark: posts small blind $0.10
+ddluvdl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 2s]
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: calls $0.25
+HyperionMark: calls $0.15
+ddluvdl: checks 
+*** FLOP *** [Qc Ks Th]
+HyperionMark: checks 
+ddluvdl: checks 
+janko12: checks 
+*** TURN *** [Qc Ks Th] [Tc]
+HyperionMark: checks 
+ddluvdl: bets $2
+janko12: folds 
+HyperionMark: folds 
+Uncalled bet ($2) returned to ddluvdl
+ddluvdl collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Qc Ks Th Tc]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 (button) folded on the Turn
+Seat 5: HyperionMark (small blind) folded on the Turn
+Seat 6: ddluvdl (big blind) collected ($0.75)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19974000435:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:18:10 (ET)
+Table 'Lucina IV' 9-max Seat #5 is the button
+Seat 1: EnjoyLife73 ($23.25 in chips) 
+Seat 2: ML-Krieger ($23.10 in chips) 
+Seat 3: t3stark ($22.20 in chips) 
+Seat 4: janko12 ($25.60 in chips) 
+Seat 5: HyperionMark ($24.30 in chips) 
+Seat 6: ddluvdl ($11.50 in chips) 
+Seat 7: EREDAYHUSLIN ($11.45 in chips) 
+Seat 8: Alameda22 ($22.20 in chips) 
+Seat 9: Fredzon88 ($24.65 in chips) 
+ddluvdl: posts small blind $0.10
+EREDAYHUSLIN: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 3c]
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: raises $1 to $1.25
+ML-Krieger: folds 
+t3stark: folds 
+janko12: folds 
+HyperionMark: folds 
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Uncalled bet ($1) returned to EnjoyLife73
+EnjoyLife73 collected $0.60 from pot
+EnjoyLife73: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 collected ($0.60)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: HyperionMark (button) folded before Flop (didn't bet)
+Seat 6: ddluvdl (small blind) folded before Flop
+Seat 7: EREDAYHUSLIN (big blind) folded before Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19974018560:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:18:59 (ET)
+Table 'Lucina IV' 9-max Seat #6 is the button
+Seat 1: EnjoyLife73 ($23.60 in chips) 
+Seat 2: ML-Krieger ($23.10 in chips) 
+Seat 3: t3stark ($22.20 in chips) 
+Seat 4: janko12 ($25.60 in chips) 
+Seat 5: HyperionMark ($24.30 in chips) 
+Seat 6: ddluvdl ($11.40 in chips) 
+Seat 7: EREDAYHUSLIN ($11.20 in chips) 
+Seat 8: Alameda22 ($22.20 in chips) 
+Seat 9: Fredzon88 ($24.65 in chips) 
+EREDAYHUSLIN: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Ah]
+Fredzon88: calls $0.25
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: folds 
+HyperionMark: folds 
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Alameda22: checks 
+*** FLOP *** [Ks Ac 6d]
+Alameda22: checks 
+Fredzon88: bets $0.75
+Alameda22: calls $0.75
+*** TURN *** [Ks Ac 6d] [As]
+Alameda22: checks 
+Fredzon88: bets $1
+Alameda22: raises $2 to $3
+Fredzon88: calls $2
+*** RIVER *** [Ks Ac 6d As] [Jh]
+Alameda22: bets $5
+Fredzon88: folds 
+Uncalled bet ($5) returned to Alameda22
+Alameda22 collected $7.70 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.10 | Rake $0.40 
+Board [Ks Ac 6d As Jh]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: HyperionMark folded before Flop (didn't bet)
+Seat 6: ddluvdl (button) folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) collected ($7.70)
+Seat 9: Fredzon88 folded on the River
+
+
+
+PokerStars Game #19974049559:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:20:24 (ET)
+Table 'Lucina IV' 9-max Seat #7 is the button
+Seat 1: EnjoyLife73 ($23.60 in chips) 
+Seat 2: ML-Krieger ($23.10 in chips) 
+Seat 3: t3stark ($22.20 in chips) 
+Seat 4: janko12 ($25.60 in chips) 
+Seat 5: HyperionMark ($24.30 in chips) 
+Seat 6: ddluvdl ($11.40 in chips) 
+Seat 7: EREDAYHUSLIN ($11.10 in chips) 
+Seat 8: Alameda22 ($25.90 in chips) 
+Seat 9: Fredzon88 ($25 in chips) 
+Alameda22: posts small blind $0.10
+Fredzon88: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 7s]
+EnjoyLife73: folds 
+ML-Krieger: folds 
+t3stark: folds 
+janko12: folds 
+HyperionMark: folds 
+ddluvdl: raises $2.25 to $2.50
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: folds 
+Uncalled bet ($2.25) returned to ddluvdl
+ddluvdl collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: HyperionMark folded before Flop (didn't bet)
+Seat 6: ddluvdl collected ($0.60)
+Seat 7: EREDAYHUSLIN (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: Fredzon88 (big blind) folded before Flop
+
+
+
+PokerStars Game #19974067875:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:21:15 (ET)
+Table 'Lucina IV' 9-max Seat #8 is the button
+Seat 1: EnjoyLife73 ($23.60 in chips) 
+Seat 2: ML-Krieger ($23.10 in chips) 
+Seat 3: t3stark ($22.20 in chips) 
+Seat 4: janko12 ($25.60 in chips) 
+Seat 5: HyperionMark ($24.30 in chips) 
+Seat 6: ddluvdl ($11.75 in chips) 
+Seat 7: EREDAYHUSLIN ($11.10 in chips) 
+Seat 8: Alameda22 ($25.80 in chips) 
+Seat 9: Fredzon88 ($24.75 in chips) 
+Fredzon88: posts small blind $0.10
+EnjoyLife73: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Ah]
+ML-Krieger: folds 
+t3stark: folds 
+janko12: folds 
+HyperionMark: folds 
+ddluvdl: calls $0.25
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: raises $0.75 to $1
+EnjoyLife73: folds 
+ddluvdl: calls $0.75
+*** FLOP *** [6d 2s 5h]
+Fredzon88: bets $2.25
+ddluvdl: folds 
+Uncalled bet ($2.25) returned to Fredzon88
+Fredzon88 collected $2.15 from pot
+Fredzon88: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [6d 2s 5h]
+Seat 1: EnjoyLife73 (big blind) folded before Flop
+Seat 2: ML-Krieger folded before Flop (didn't bet)
+Seat 3: t3stark folded before Flop (didn't bet)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 5: HyperionMark folded before Flop (didn't bet)
+Seat 6: ddluvdl folded on the Flop
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: Fredzon88 (small blind) collected ($2.15)
+
+
+
+PokerStars Game #19974092486:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:22:23 (ET)
+Table 'Lucina IV' 9-max Seat #9 is the button
+Seat 1: EnjoyLife73 ($23.35 in chips) 
+Seat 4: janko12 ($25.60 in chips) 
+Seat 5: HyperionMark ($24.30 in chips) 
+Seat 6: ddluvdl ($10.75 in chips) 
+Seat 7: EREDAYHUSLIN ($11.10 in chips) 
+Seat 8: Alameda22 ($25.80 in chips) 
+Seat 9: Fredzon88 ($25.90 in chips) 
+EnjoyLife73: posts small blind $0.10
+ML-Krieger: is sitting out 
+ML-Krieger leaves the table
+t3stark: is sitting out 
+janko12: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Qh]
+t3stark leaves the table
+HyperionMark: folds 
+scotty_h joins the table at seat #3 
+ddluvdl: calls $0.25
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+janko12: checks 
+*** FLOP *** [Ad 3d 3s]
+janko12: checks 
+ddluvdl: bets $1.50
+janko12: calls $1.50
+*** TURN *** [Ad 3d 3s] [Ac]
+janko12: checks 
+ddluvdl: checks 
+*** RIVER *** [Ad 3d 3s Ac] [4s]
+janko12: checks 
+ddluvdl: bets $0.75
+janko12: calls $0.75
+*** SHOW DOWN ***
+ddluvdl: shows [Js Kd] (two pair, Aces and Threes)
+janko12: shows [8d 3c] (a full house, Threes full of Aces)
+janko12 collected $4.90 from pot
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.20 
+Board [Ad 3d 3s Ac 4s]
+Seat 1: EnjoyLife73 (small blind) folded before Flop
+Seat 4: janko12 (big blind) showed [8d 3c] and won ($4.90) with a full house, Threes full of Aces
+Seat 5: HyperionMark folded before Flop (didn't bet)
+Seat 6: ddluvdl showed [Js Kd] and lost with two pair, Aces and Threes
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19974120993:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:23:41 (ET)
+Table 'Lucina IV' 9-max Seat #1 is the button
+Seat 1: EnjoyLife73 ($23.25 in chips) 
+Seat 4: janko12 ($28 in chips) 
+Seat 6: ddluvdl ($8.25 in chips) 
+Seat 7: EREDAYHUSLIN ($11.10 in chips) 
+Seat 8: Alameda22 ($25.80 in chips) 
+Seat 9: Fredzon88 ($25.90 in chips) 
+scotty_h will be allowed to play after the button
+janko12: posts small blind $0.10
+HyperionMark: is sitting out 
+ddluvdl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 5h]
+EREDAYHUSLIN: raises $0.75 to $1
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+janko12: calls $0.90
+ddluvdl: folds 
+*** FLOP *** [4s 5c Jc]
+janko12: checks 
+EREDAYHUSLIN: bets $1.50
+janko12: raises $2.50 to $4
+EREDAYHUSLIN: raises $6.10 to $10.10 and is all-in
+janko12: calls $6.10
+*** TURN *** [4s 5c Jc] [2d]
+*** RIVER *** [4s 5c Jc 2d] [3c]
+*** SHOW DOWN ***
+janko12: shows [Qs Jd] (a pair of Jacks)
+EREDAYHUSLIN: shows [Js As] (a straight, Ace to Five)
+EREDAYHUSLIN collected $21.35 from pot
+*** SUMMARY ***
+Total pot $22.45 | Rake $1.10 
+Board [4s 5c Jc 2d 3c]
+Seat 1: EnjoyLife73 (button) folded before Flop (didn't bet)
+Seat 4: janko12 (small blind) showed [Qs Jd] and lost with a pair of Jacks
+Seat 6: ddluvdl (big blind) folded before Flop
+Seat 7: EREDAYHUSLIN showed [Js As] and won ($21.35) with a straight, Ace to Five
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19974155130:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:25:16 (ET)
+Table 'Lucina IV' 9-max Seat #4 is the button
+Seat 1: EnjoyLife73 ($23.25 in chips) 
+Seat 4: janko12 ($16.90 in chips) 
+Seat 6: ddluvdl ($8 in chips) 
+Seat 7: EREDAYHUSLIN ($21.35 in chips) 
+Seat 8: Alameda22 ($25.80 in chips) 
+Seat 9: Fredzon88 ($25.90 in chips) 
+ddluvdl: posts small blind $0.10
+EREDAYHUSLIN: posts big blind $0.25
+scotty_h: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Td]
+Alameda22: folds 
+Fredzon88: folds 
+EnjoyLife73: folds 
+janko12: calls $0.25
+ddluvdl: calls $0.15
+EREDAYHUSLIN: checks 
+*** FLOP *** [5d Ah 6s]
+HyperionMark leaves the table
+ddluvdl: checks 
+EREDAYHUSLIN: checks 
+janko12: checks 
+*** TURN *** [5d Ah 6s] [Ac]
+ddluvdl: checks 
+EREDAYHUSLIN: checks 
+janko12: checks 
+*** RIVER *** [5d Ah 6s Ac] [4d]
+ddluvdl: checks 
+EREDAYHUSLIN: checks 
+janko12: bets $0.50
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Uncalled bet ($0.50) returned to janko12
+janko12 collected $0.75 from pot
+janko12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [5d Ah 6s Ac 4d]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 4: janko12 (button) collected ($0.75)
+Seat 6: ddluvdl (small blind) folded on the River
+Seat 7: EREDAYHUSLIN (big blind) folded on the River
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19974195708:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:27:08 (ET)
+Table 'Lucina IV' 9-max Seat #6 is the button
+Seat 1: EnjoyLife73 ($23.25 in chips) 
+Seat 4: janko12 ($17.40 in chips) 
+Seat 6: ddluvdl ($7.75 in chips) 
+Seat 7: EREDAYHUSLIN ($21.10 in chips) 
+Seat 8: Alameda22 ($25.80 in chips) 
+Seat 9: Fredzon88 ($25.90 in chips) 
+EREDAYHUSLIN: posts small blind $0.10
+Alameda22: posts big blind $0.25
+scotty_h: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 2h]
+Fredzon88: folds 
+EnjoyLife73: folds 
+janko12: calls $0.25
+ddluvdl: calls $0.25
+EREDAYHUSLIN: folds 
+Alameda22: checks 
+*** FLOP *** [Jc Kc Th]
+Alameda22: checks 
+Fredzon88 leaves the table
+janko12: checks 
+ddluvdl: bets $2
+Alameda22: folds 
+janko12: folds 
+Uncalled bet ($2) returned to ddluvdl
+ddluvdl collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Jc Kc Th]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 4: janko12 folded on the Flop
+Seat 6: ddluvdl (button) collected ($0.85)
+Seat 7: EREDAYHUSLIN (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) folded on the Flop
+Seat 9: Fredzon88 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19974221189:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:28:19 (ET)
+Table 'Lucina IV' 9-max Seat #7 is the button
+Seat 1: EnjoyLife73 ($23.25 in chips) 
+Seat 4: janko12 ($17.15 in chips) 
+Seat 6: ddluvdl ($8.35 in chips) 
+Seat 7: EREDAYHUSLIN ($21 in chips) 
+Seat 8: Alameda22 ($25.55 in chips) 
+Alameda22: posts small blind $0.10
+EnjoyLife73: posts big blind $0.25
+scotty_h: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Tc]
+janko12: raises $0.75 to $1
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+EnjoyLife73: folds 
+Uncalled bet ($0.75) returned to janko12
+janko12 collected $0.60 from pot
+janko12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 (big blind) folded before Flop
+Seat 4: janko12 collected ($0.60)
+Seat 6: ddluvdl folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19974238997:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:29:08 (ET)
+Table 'Lucina IV' 9-max Seat #8 is the button
+Seat 1: EnjoyLife73 ($23 in chips) 
+Seat 3: scotty_h ($25 in chips) 
+Seat 4: janko12 ($17.50 in chips) 
+Seat 6: ddluvdl ($8.35 in chips) 
+Seat 7: EREDAYHUSLIN ($21 in chips) 
+Seat 8: Alameda22 ($25.45 in chips) 
+EnjoyLife73: posts small blind $0.10
+scotty_h: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 3s]
+janko12: folds 
+ddluvdl: raises $1.75 to $2
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+EnjoyLife73: folds 
+scotty_h: folds 
+Uncalled bet ($1.75) returned to ddluvdl
+ddluvdl collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 (small blind) folded before Flop
+Seat 3: scotty_h (big blind) folded before Flop
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 6: ddluvdl collected ($0.60)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19974257462:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:29:59 (ET)
+Table 'Lucina IV' 9-max Seat #1 is the button
+Seat 1: EnjoyLife73 ($22.90 in chips) 
+Seat 3: scotty_h ($24.75 in chips) 
+Seat 4: janko12 ($17.50 in chips) 
+Seat 6: ddluvdl ($8.70 in chips) 
+Seat 7: EREDAYHUSLIN ($21 in chips) 
+Seat 8: Alameda22 ($25.45 in chips) 
+scotty_h: posts small blind $0.10
+janko12: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Qc]
+ddluvdl: folds 
+EREDAYHUSLIN: folds 
+Alameda22: raises $0.50 to $0.75
+EnjoyLife73: folds 
+scotty_h: folds 
+janko12: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 (button) folded before Flop (didn't bet)
+Seat 3: scotty_h (small blind) folded before Flop
+Seat 4: janko12 (big blind) folded before Flop
+Seat 6: ddluvdl folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 collected ($0.60)
+
+
+
+PokerStars Game #19974277290:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:30:54 (ET)
+Table 'Lucina IV' 9-max Seat #3 is the button
+Seat 1: EnjoyLife73 ($22.90 in chips) 
+Seat 3: scotty_h ($24.65 in chips) 
+Seat 4: janko12 ($17.25 in chips) 
+Seat 6: ddluvdl ($8.70 in chips) 
+Seat 7: EREDAYHUSLIN ($21 in chips) 
+Seat 8: Alameda22 ($25.80 in chips) 
+janko12: posts small blind $0.10
+ddluvdl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 9h]
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+EnjoyLife73: folds 
+scotty_h: raises $0.50 to $0.75
+janko12: folds 
+ddluvdl: calls $0.50
+*** FLOP *** [Qs 7c Ts]
+ddluvdl: bets $2
+scotty_h: calls $2
+*** TURN *** [Qs 7c Ts] [5h]
+ddluvdl: bets $3.50
+scotty_h: calls $3.50
+*** RIVER *** [Qs 7c Ts 5h] [Td]
+ddluvdl: bets $2.45 and is all-in
+scotty_h: calls $2.45
+*** SHOW DOWN ***
+ddluvdl: shows [Qc Kd] (two pair, Queens and Tens)
+scotty_h: shows [Tc 8c] (three of a kind, Tens)
+scotty_h collected $16.70 from pot
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.80 
+Board [Qs 7c Ts 5h Td]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 3: scotty_h (button) showed [Tc 8c] and won ($16.70) with three of a kind, Tens
+Seat 4: janko12 (small blind) folded before Flop
+Seat 6: ddluvdl (big blind) showed [Qc Kd] and lost with two pair, Queens and Tens
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19974312975:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:32:29 (ET)
+Table 'Lucina IV' 9-max Seat #4 is the button
+Seat 1: EnjoyLife73 ($22.90 in chips) 
+Seat 3: scotty_h ($32.65 in chips) 
+Seat 4: janko12 ($17.15 in chips) 
+Seat 7: EREDAYHUSLIN ($21 in chips) 
+Seat 8: Alameda22 ($25.80 in chips) 
+EREDAYHUSLIN: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 9d]
+EnjoyLife73: folds 
+scotty_h: folds 
+ddluvdl has returned
+janko12: folds 
+EREDAYHUSLIN: folds 
+Uncalled bet ($0.15) returned to Alameda22
+ddluvdl leaves the table
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 3: scotty_h folded before Flop (didn't bet)
+Seat 4: janko12 (button) folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19974322386:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:32:54 (ET)
+Table 'Lucina IV' 9-max Seat #7 is the button
+Seat 3: scotty_h ($32.65 in chips) 
+Seat 4: janko12 ($17.15 in chips) 
+Seat 7: EREDAYHUSLIN ($20.90 in chips) 
+Seat 8: Alameda22 ($25.90 in chips) 
+Alameda22: posts small blind $0.10
+EnjoyLife73: is sitting out 
+EnjoyLife73 leaves the table
+scotty_h: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 7c]
+janko12: folds 
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to scotty_h
+scotty_h collected $0.20 from pot
+scotty_h: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: scotty_h (big blind) collected ($0.20)
+Seat 4: janko12 folded before Flop (didn't bet)
+Seat 7: EREDAYHUSLIN (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19974330498:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:33:15 (ET)
+Table 'Lucina IV' 9-max Seat #8 is the button
+Seat 3: scotty_h ($32.75 in chips) 
+Seat 4: janko12 ($17.15 in chips) 
+Seat 7: EREDAYHUSLIN ($20.90 in chips) 
+Seat 8: Alameda22 ($25.80 in chips) 
+scotty_h: posts small blind $0.10
+janko12: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 2s]
+EREDAYHUSLIN: folds 
+Alameda22: folds 
+scotty_h: raises $0.50 to $0.75
+janko12: calls $0.50
+*** FLOP *** [Qs 4c 7s]
+scotty_h: checks 
+janko12: bets $0.75
+scotty_h: folds 
+Uncalled bet ($0.75) returned to janko12
+janko12 collected $1.45 from pot
+janko12: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Qs 4c 7s]
+Seat 3: scotty_h (small blind) folded on the Flop
+Seat 4: janko12 (big blind) collected ($1.45)
+Seat 7: EREDAYHUSLIN folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19974354863:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:34:20 (ET)
+Table 'Lucina IV' 9-max Seat #3 is the button
+Seat 3: scotty_h ($32 in chips) 
+Seat 4: janko12 ($17.85 in chips) 
+Seat 7: EREDAYHUSLIN ($20.90 in chips) 
+Seat 8: Alameda22 ($25.80 in chips) 
+janko12: posts small blind $0.10
+EREDAYHUSLIN: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Kc]
+Alameda22: folds 
+scotty_h: folds 
+janko12: calls $0.15
+EREDAYHUSLIN: raises $1 to $1.25
+janko12: calls $1
+*** FLOP *** [5d 5h 8h]
+janko12: bets $2
+EREDAYHUSLIN: folds 
+Uncalled bet ($2) returned to janko12
+janko12 collected $2.40 from pot
+janko12: doesn't show hand 
+janko12 leaves the table
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [5d 5h 8h]
+Seat 3: scotty_h (button) folded before Flop (didn't bet)
+Seat 4: janko12 (small blind) collected ($2.40)
+Seat 7: EREDAYHUSLIN (big blind) folded on the Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19974372893:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 19:35:09 (ET)
+Table 'Lucina IV' 9-max Seat #8 is the button
+Seat 7: EREDAYHUSLIN ($19.65 in chips) 
+Seat 8: Alameda22 ($25.80 in chips) 
+Alameda22: posts small blind $0.10
+scotty_h: is sitting out 
+EREDAYHUSLIN: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 4s]
+scotty_h leaves the table
+mcdougal2 joins the table at seat #6 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to EREDAYHUSLIN
+EREDAYHUSLIN collected $0.20 from pot
+EREDAYHUSLIN: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 7: EREDAYHUSLIN (big blind) collected ($0.20)
+Seat 8: Alameda22 (button) (small blind) folded before Flop
+
+
+

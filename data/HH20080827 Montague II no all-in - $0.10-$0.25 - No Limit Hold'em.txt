@@ -1,0 +1,5877 @@
+PokerStars Game #19950976746:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:27:57 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 1: Romain Greco ($10.95 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: Kukoc69 ($33.80 in chips) 
+Seat 4: MtnClimber22 ($19.65 in chips) 
+Seat 5: FlagellumD ($27.80 in chips) 
+Seat 6: Warrick69 ($32.10 in chips) 
+Seat 8: magic26v ($24.65 in chips) 
+Seat 9: mspitolai ($30.55 in chips) 
+MtnClimber22: posts small blind $0.10
+FlagellumD: posts big blind $0.25
+yjqian23: sits out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Jh]
+Warrick69: folds 
+magic26v: folds 
+mspitolai: folds 
+Romain Greco: folds 
+Alameda22: checks 
+Kukoc69: folds 
+MtnClimber22: calls $0.15
+FlagellumD: checks 
+*** FLOP *** [9h 4h 5c]
+MtnClimber22: checks 
+FlagellumD: bets $0.25
+Alameda22: folds 
+MtnClimber22: folds 
+Uncalled bet ($0.25) returned to FlagellumD
+FlagellumD collected $0.75 from pot
+FlagellumD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [9h 4h 5c]
+Seat 1: Romain Greco folded before Flop (didn't bet)
+Seat 2: Alameda22 folded on the Flop
+Seat 3: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 4: MtnClimber22 (small blind) folded on the Flop
+Seat 5: FlagellumD (big blind) collected ($0.75)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951012432:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:29:29 (ET)
+Table 'Montague II' 9-max Seat #4 is the button
+Seat 1: Romain Greco ($10.95 in chips) 
+Seat 2: Alameda22 ($24.75 in chips) 
+Seat 3: Kukoc69 ($33.80 in chips) 
+Seat 4: MtnClimber22 ($19.40 in chips) 
+Seat 5: FlagellumD ($28.30 in chips) 
+Seat 6: Warrick69 ($32.10 in chips) 
+Seat 8: magic26v ($25 in chips) 
+Seat 9: mspitolai ($30.55 in chips) 
+FlagellumD: posts small blind $0.10
+Warrick69: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 3d]
+magic26v: calls $0.25
+mspitolai: calls $0.25
+Romain Greco: folds 
+Alameda22: folds 
+Kukoc69: folds 
+MtnClimber22: folds 
+FlagellumD: calls $0.15
+Warrick69: checks 
+*** FLOP *** [7h 7s Ad]
+FlagellumD: bets $0.25
+Warrick69: folds 
+magic26v: folds 
+mspitolai: calls $0.25
+*** TURN *** [7h 7s Ad] [9d]
+FlagellumD: bets $0.50
+mspitolai: folds 
+Uncalled bet ($0.50) returned to FlagellumD
+FlagellumD collected $1.45 from pot
+FlagellumD: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [7h 7s Ad 9d]
+Seat 1: Romain Greco folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: MtnClimber22 (button) folded before Flop (didn't bet)
+Seat 5: FlagellumD (small blind) collected ($1.45)
+Seat 6: Warrick69 (big blind) folded on the Flop
+Seat 8: magic26v folded on the Flop
+Seat 9: mspitolai folded on the Turn
+
+
+
+PokerStars Game #19951040174:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:30:41 (ET)
+Table 'Montague II' 9-max Seat #5 is the button
+Seat 1: Romain Greco ($10.95 in chips) 
+Seat 2: Alameda22 ($24.75 in chips) 
+Seat 3: Kukoc69 ($33.80 in chips) 
+Seat 4: MtnClimber22 ($19.40 in chips) 
+Seat 5: FlagellumD ($29.25 in chips) 
+Seat 6: Warrick69 ($31.85 in chips) 
+Seat 7: yjqian23 ($25 in chips) 
+Seat 8: magic26v ($24.75 in chips) 
+Seat 9: mspitolai ($30.05 in chips) 
+Warrick69: posts small blind $0.10
+yjqian23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Ts]
+magic26v: folds 
+mspitolai: folds 
+Romain Greco: folds 
+Alameda22: folds 
+Kukoc69: folds 
+MtnClimber22: folds 
+FlagellumD: folds 
+Warrick69: calls $0.15
+yjqian23: checks 
+*** FLOP *** [6h 9c Qh]
+Warrick69: bets $0.50
+yjqian23: calls $0.50
+*** TURN *** [6h 9c Qh] [Qs]
+Warrick69: bets $0.75
+yjqian23: folds 
+Uncalled bet ($0.75) returned to Warrick69
+Warrick69 collected $1.45 from pot
+Warrick69: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [6h 9c Qh Qs]
+Seat 1: Romain Greco folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: MtnClimber22 folded before Flop (didn't bet)
+Seat 5: FlagellumD (button) folded before Flop (didn't bet)
+Seat 6: Warrick69 (small blind) collected ($1.45)
+Seat 7: yjqian23 (big blind) folded on the Turn
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951066111:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:31:48 (ET)
+Table 'Montague II' 9-max Seat #6 is the button
+Seat 1: Romain Greco ($10.95 in chips) 
+Seat 2: Alameda22 ($24.75 in chips) 
+Seat 3: Kukoc69 ($33.80 in chips) 
+Seat 4: MtnClimber22 ($19.40 in chips) 
+Seat 5: FlagellumD ($29.25 in chips) 
+Seat 6: Warrick69 ($32.55 in chips) 
+Seat 7: yjqian23 ($24.25 in chips) 
+Seat 8: magic26v ($24.75 in chips) 
+Seat 9: mspitolai ($30.05 in chips) 
+yjqian23: posts small blind $0.10
+magic26v: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Jd]
+mspitolai: folds 
+Romain Greco: folds 
+Alameda22: folds 
+Kukoc69: folds 
+MtnClimber22: folds 
+FlagellumD: calls $0.25
+Warrick69: raises $1 to $1.25
+yjqian23: folds 
+magic26v: folds 
+FlagellumD: folds 
+Uncalled bet ($1) returned to Warrick69
+Warrick69 collected $0.85 from pot
+Warrick69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Romain Greco folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: MtnClimber22 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop
+Seat 6: Warrick69 (button) collected ($0.85)
+Seat 7: yjqian23 (small blind) folded before Flop
+Seat 8: magic26v (big blind) folded before Flop
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951102777:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:33:24 (ET)
+Table 'Montague II' 9-max Seat #7 is the button
+Seat 1: Romain Greco ($10.95 in chips) 
+Seat 2: Alameda22 ($24.75 in chips) 
+Seat 3: Kukoc69 ($33.80 in chips) 
+Seat 4: MtnClimber22 ($19.40 in chips) 
+Seat 5: FlagellumD ($29 in chips) 
+Seat 6: Warrick69 ($33.15 in chips) 
+Seat 7: yjqian23 ($24.15 in chips) 
+Seat 8: magic26v ($24.50 in chips) 
+Seat 9: mspitolai ($30.05 in chips) 
+magic26v: posts small blind $0.10
+mspitolai: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 7d]
+Romain Greco: calls $0.25
+Alameda22: folds 
+Kukoc69: folds 
+MtnClimber22: folds 
+FlagellumD: folds 
+Warrick69: folds 
+yjqian23: folds 
+magic26v: folds 
+mspitolai: checks 
+*** FLOP *** [2c 5c Jd]
+mspitolai: checks 
+Romain Greco: bets $0.50
+mspitolai: raises $1 to $1.50
+Romain Greco: calls $1
+*** TURN *** [2c 5c Jd] [Kh]
+mspitolai: bets $2.25
+Romain Greco: calls $2.25
+*** RIVER *** [2c 5c Jd Kh] [Qh]
+mspitolai: checks 
+Romain Greco: checks 
+*** SHOW DOWN ***
+mspitolai: shows [2d Js] (two pair, Jacks and Deuces)
+Romain Greco: mucks hand 
+mspitolai collected $7.75 from pot
+Romain Greco leaves the table
+*** SUMMARY ***
+Total pot $8.10 | Rake $0.35 
+Board [2c 5c Jd Kh Qh]
+Seat 1: Romain Greco mucked [Jc Ah]
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: MtnClimber22 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 7: yjqian23 (button) folded before Flop (didn't bet)
+Seat 8: magic26v (small blind) folded before Flop
+Seat 9: mspitolai (big blind) showed [2d Js] and won ($7.75) with two pair, Jacks and Deuces
+
+
+
+PokerStars Game #19951136080:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:34:52 (ET)
+Table 'Montague II' 9-max Seat #8 is the button
+Seat 2: Alameda22 ($24.75 in chips) 
+Seat 3: Kukoc69 ($33.80 in chips) 
+Seat 4: MtnClimber22 ($19.40 in chips) 
+Seat 5: FlagellumD ($29 in chips) 
+Seat 6: Warrick69 ($33.15 in chips) 
+Seat 7: yjqian23 ($24.15 in chips) 
+Seat 8: magic26v ($25 in chips) 
+Seat 9: mspitolai ($33.80 in chips) 
+mspitolai: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 9c]
+Kukoc69: folds 
+MtnClimber22: folds 
+FlagellumD: folds 
+Warrick69: raises $0.75 to $1
+yjqian23: folds 
+magic26v: folds 
+mspitolai: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to Warrick69
+Warrick69 collected $0.60 from pot
+Warrick69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: MtnClimber22 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 collected ($0.60)
+Seat 7: yjqian23 folded before Flop (didn't bet)
+Seat 8: magic26v (button) folded before Flop (didn't bet)
+Seat 9: mspitolai (small blind) folded before Flop
+
+
+
+PokerStars Game #19951153398:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:35:38 (ET)
+Table 'Montague II' 9-max Seat #9 is the button
+Seat 2: Alameda22 ($24.50 in chips) 
+Seat 3: Kukoc69 ($33.80 in chips) 
+Seat 4: MtnClimber22 ($19.40 in chips) 
+Seat 5: FlagellumD ($29 in chips) 
+Seat 6: Warrick69 ($33.50 in chips) 
+Seat 7: yjqian23 ($24.15 in chips) 
+Seat 8: magic26v ($25 in chips) 
+Seat 9: mspitolai ($33.70 in chips) 
+Alameda22: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Tc]
+MtnClimber22: folds 
+FlagellumD: folds 
+Warrick69: folds 
+yjqian23: folds 
+magic26v: folds 
+mspitolai: folds 
+maluko_br joins the table at seat #1 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to Kukoc69
+Kukoc69 collected $0.20 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Kukoc69 (big blind) collected ($0.20)
+Seat 4: MtnClimber22 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 7: yjqian23 folded before Flop (didn't bet)
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951171023:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:36:24 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 1: maluko_br ($15 in chips) 
+Seat 2: Alameda22 ($24.40 in chips) 
+Seat 3: Kukoc69 ($33.90 in chips) 
+Seat 4: MtnClimber22 ($19.40 in chips) 
+Seat 5: FlagellumD ($29 in chips) 
+Seat 6: Warrick69 ($33.50 in chips) 
+Seat 7: yjqian23 ($24.15 in chips) 
+Seat 8: magic26v ($25 in chips) 
+Seat 9: mspitolai ($33.70 in chips) 
+Kukoc69: posts small blind $0.10
+MtnClimber22: posts big blind $0.25
+maluko_br: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Qh]
+FlagellumD: folds 
+Warrick69: folds 
+yjqian23: folds 
+magic26v: folds 
+mspitolai: folds 
+maluko_br: checks 
+Alameda22: raises $0.75 to $1
+Kukoc69: folds 
+MtnClimber22: folds 
+maluko_br: folds 
+Uncalled bet ($0.75) returned to Alameda22
+Alameda22 collected $0.85 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: maluko_br folded before Flop
+Seat 2: Alameda22 (button) collected ($0.85)
+Seat 3: Kukoc69 (small blind) folded before Flop
+Seat 4: MtnClimber22 (big blind) folded before Flop
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 7: yjqian23 folded before Flop (didn't bet)
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951190271:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:37:15 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 1: maluko_br ($14.75 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: Kukoc69 ($33.80 in chips) 
+Seat 4: MtnClimber22 ($19.15 in chips) 
+Seat 5: FlagellumD ($29 in chips) 
+Seat 6: Warrick69 ($33.50 in chips) 
+Seat 7: yjqian23 ($24.15 in chips) 
+Seat 8: magic26v ($25 in chips) 
+Seat 9: mspitolai ($33.70 in chips) 
+MtnClimber22: posts small blind $0.10
+FlagellumD: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Js]
+Warrick69: folds 
+yjqian23: folds 
+magic26v: folds 
+mspitolai: folds 
+maluko_br: raises $0.50 to $0.75
+Alameda22: folds 
+Kukoc69: folds 
+MtnClimber22: folds 
+FlagellumD: folds 
+Uncalled bet ($0.50) returned to maluko_br
+maluko_br collected $0.60 from pot
+maluko_br: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maluko_br collected ($0.60)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 4: MtnClimber22 (small blind) folded before Flop
+Seat 5: FlagellumD (big blind) folded before Flop
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 7: yjqian23 folded before Flop (didn't bet)
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951217396:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:38:27 (ET)
+Table 'Montague II' 9-max Seat #4 is the button
+Seat 1: maluko_br ($15.10 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: Kukoc69 ($33.80 in chips) 
+Seat 4: MtnClimber22 ($19.05 in chips) 
+Seat 5: FlagellumD ($28.75 in chips) 
+Seat 6: Warrick69 ($33.50 in chips) 
+Seat 7: yjqian23 ($24.15 in chips) 
+Seat 8: magic26v ($25 in chips) 
+Seat 9: mspitolai ($33.70 in chips) 
+FlagellumD: posts small blind $0.10
+Warrick69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 7h]
+yjqian23: folds 
+magic26v: folds 
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+MtnClimber22: folds 
+FlagellumD: folds 
+Uncalled bet ($0.15) returned to Warrick69
+Warrick69 collected $0.20 from pot
+Warrick69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: MtnClimber22 (button) folded before Flop (didn't bet)
+Seat 5: FlagellumD (small blind) folded before Flop
+Seat 6: Warrick69 (big blind) collected ($0.20)
+Seat 7: yjqian23 folded before Flop (didn't bet)
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951236958:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:39:17 (ET)
+Table 'Montague II' 9-max Seat #5 is the button
+Seat 1: maluko_br ($15.10 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: Kukoc69 ($33.80 in chips) 
+Seat 4: MtnClimber22 ($19.05 in chips) 
+Seat 5: FlagellumD ($28.65 in chips) 
+Seat 6: Warrick69 ($33.60 in chips) 
+Seat 8: magic26v ($25 in chips) 
+Seat 9: mspitolai ($33.70 in chips) 
+Warrick69: posts small blind $0.10
+yjqian23: is sitting out 
+yjqian23 leaves the table
+magic26v: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 2c]
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+MtnClimber22: folds 
+FlagellumD: raises $0.25 to $0.50
+Warrick69: folds 
+magic26v: folds 
+Uncalled bet ($0.25) returned to FlagellumD
+FlagellumD collected $0.60 from pot
+FlagellumD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: MtnClimber22 folded before Flop (didn't bet)
+Seat 5: FlagellumD (button) collected ($0.60)
+Seat 6: Warrick69 (small blind) folded before Flop
+Seat 8: magic26v (big blind) folded before Flop
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951254216:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:40:03 (ET)
+Table 'Montague II' 9-max Seat #6 is the button
+Seat 1: maluko_br ($15.10 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: Kukoc69 ($33.80 in chips) 
+Seat 4: MtnClimber22 ($19.05 in chips) 
+Seat 5: FlagellumD ($29 in chips) 
+Seat 6: Warrick69 ($33.50 in chips) 
+Seat 8: magic26v ($25 in chips) 
+Seat 9: mspitolai ($33.70 in chips) 
+magic26v: posts small blind $0.10
+mspitolai: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Ts]
+maluko_br: calls $0.25
+Alameda22: folds 
+Kukoc69: folds 
+MtnClimber22: folds 
+FlagellumD: calls $0.25
+Warrick69: folds 
+magic26v: folds 
+mspitolai: checks 
+*** FLOP *** [9d 6h Td]
+mspitolai: checks 
+maluko_br: checks 
+FlagellumD: bets $0.25
+mspitolai: folds 
+maluko_br: calls $0.25
+*** TURN *** [9d 6h Td] [5h]
+maluko_br: checks 
+NikoBuddah joins the table at seat #7 
+FlagellumD: bets $0.25
+maluko_br: calls $0.25
+*** RIVER *** [9d 6h Td 5h] [Kc]
+maluko_br: checks 
+FlagellumD: checks 
+*** SHOW DOWN ***
+maluko_br: shows [Jc Kh] (a pair of Kings)
+FlagellumD: mucks hand 
+maluko_br collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [9d 6h Td 5h Kc]
+Seat 1: maluko_br showed [Jc Kh] and won ($1.80) with a pair of Kings
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: MtnClimber22 folded before Flop (didn't bet)
+Seat 5: FlagellumD mucked [9h Ac]
+Seat 6: Warrick69 (button) folded before Flop (didn't bet)
+Seat 8: magic26v (small blind) folded before Flop
+Seat 9: mspitolai (big blind) folded on the Flop
+
+
+
+PokerStars Game #19951287443:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:41:28 (ET)
+Table 'Montague II' 9-max Seat #8 is the button
+Seat 1: maluko_br ($16.15 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: Kukoc69 ($33.80 in chips) 
+Seat 4: MtnClimber22 ($19.05 in chips) 
+Seat 5: FlagellumD ($28.25 in chips) 
+Seat 6: Warrick69 ($33.50 in chips) 
+Seat 8: magic26v ($25 in chips) 
+Seat 9: mspitolai ($33.45 in chips) 
+mspitolai: posts small blind $0.10
+maluko_br: posts big blind $0.25
+NikoBuddah: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 4s]
+Alameda22: folds 
+Kukoc69: folds 
+MtnClimber22: folds 
+FlagellumD: folds 
+Warrick69: raises $0.75 to $1
+magic26v: calls $1
+mspitolai: folds 
+maluko_br: folds 
+*** FLOP *** [8c Th 3d]
+Warrick69: checks 
+magic26v: bets $1.50
+Warrick69: folds 
+Uncalled bet ($1.50) returned to magic26v
+magic26v collected $2.25 from pot
+magic26v: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [8c Th 3d]
+Seat 1: maluko_br (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: MtnClimber22 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded on the Flop
+Seat 8: magic26v (button) collected ($2.25)
+Seat 9: mspitolai (small blind) folded before Flop
+
+
+
+PokerStars Game #19951318729:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:42:49 (ET)
+Table 'Montague II' 9-max Seat #9 is the button
+Seat 1: maluko_br ($15.90 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: Kukoc69 ($33.80 in chips) 
+Seat 4: MtnClimber22 ($19.05 in chips) 
+Seat 5: FlagellumD ($28.25 in chips) 
+Seat 6: Warrick69 ($32.50 in chips) 
+Seat 8: magic26v ($26.25 in chips) 
+Seat 9: mspitolai ($33.35 in chips) 
+maluko_br: posts small blind $0.10
+Alameda22: posts big blind $0.25
+NikoBuddah: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 2d]
+Kukoc69: folds 
+MtnClimber22: folds 
+FlagellumD: folds 
+Warrick69: folds 
+magic26v: folds 
+mspitolai: folds 
+maluko_br: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: maluko_br (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) collected ($0.20)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: MtnClimber22 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951334096:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:43:29 (ET)
+Table 'Montague II' 9-max Seat #1 is the button
+Seat 1: maluko_br ($15.80 in chips) 
+Seat 2: Alameda22 ($25.10 in chips) 
+Seat 3: Kukoc69 ($33.80 in chips) 
+Seat 4: MtnClimber22 ($19.05 in chips) 
+Seat 5: FlagellumD ($28.25 in chips) 
+Seat 6: Warrick69 ($32.50 in chips) 
+Seat 8: magic26v ($26.25 in chips) 
+Seat 9: mspitolai ($33.35 in chips) 
+Alameda22: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+NikoBuddah: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 8h]
+MtnClimber22: folds 
+FlagellumD: folds 
+MtnClimber22 leaves the table
+Warrick69: folds 
+magic26v: folds 
+mspitolai: folds 
+maluko_br: calls $0.25
+Alameda22: folds 
+Kukoc69: checks 
+*** FLOP *** [Ts 2s 9d]
+Kukoc69: checks 
+maluko_br: checks 
+*** TURN *** [Ts 2s 9d] [3c]
+Kukoc69: folds 
+maluko_br collected $0.60 from pot
+maluko_br: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ts 2s 9d 3c]
+Seat 1: maluko_br (button) collected ($0.60)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Kukoc69 (big blind) folded on the Turn
+Seat 4: MtnClimber22 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951357613:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:44:30 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 1: maluko_br ($16.15 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: Kukoc69 ($33.55 in chips) 
+Seat 5: FlagellumD ($28.25 in chips) 
+Seat 6: Warrick69 ($32.50 in chips) 
+Seat 8: magic26v ($26.25 in chips) 
+Seat 9: mspitolai ($33.35 in chips) 
+Kukoc69: posts small blind $0.10
+FlagellumD: posts big blind $0.25
+NikoBuddah: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 9h]
+Warrick69: folds 
+magic26v: folds 
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+Uncalled bet ($0.15) returned to FlagellumD
+FlagellumD collected $0.20 from pot
+FlagellumD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Kukoc69 (small blind) folded before Flop
+Seat 5: FlagellumD (big blind) collected ($0.20)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951380546:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:45:29 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 1: maluko_br ($16.15 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: Kukoc69 ($33.45 in chips) 
+Seat 5: FlagellumD ($28.35 in chips) 
+Seat 6: Warrick69 ($32.50 in chips) 
+Seat 8: magic26v ($26.25 in chips) 
+Seat 9: mspitolai ($33.35 in chips) 
+FlagellumD: posts small blind $0.10
+Warrick69: posts big blind $0.25
+NikoBuddah: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 5c]
+magic26v: folds 
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+FlagellumD: raises $0.25 to $0.50
+Warrick69: calls $0.25
+*** FLOP *** [3s 2c Th]
+FlagellumD: bets $0.25
+Warrick69: calls $0.25
+*** TURN *** [3s 2c Th] [Kd]
+FlagellumD: bets $0.25
+yjqian23 joins the table at seat #4 
+Warrick69: calls $0.25
+*** RIVER *** [3s 2c Th Kd] [6c]
+FlagellumD: checks 
+Warrick69: checks 
+*** SHOW DOWN ***
+FlagellumD: shows [4d Ac] (high card Ace)
+Warrick69: shows [7h Tc] (a pair of Tens)
+Warrick69 collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [3s 2c Th Kd 6c]
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 5: FlagellumD (small blind) showed [4d Ac] and lost with high card Ace
+Seat 6: Warrick69 (big blind) showed [7h Tc] and won ($1.95) with a pair of Tens
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951421242:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:47:13 (ET)
+Table 'Montague II' 9-max Seat #5 is the button
+Seat 1: maluko_br ($16.15 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: Kukoc69 ($33.45 in chips) 
+Seat 5: FlagellumD ($27.35 in chips) 
+Seat 6: Warrick69 ($33.45 in chips) 
+Seat 7: NikoBuddah ($5 in chips) 
+Seat 8: magic26v ($26.25 in chips) 
+Seat 9: mspitolai ($33.35 in chips) 
+Warrick69: posts small blind $0.10
+NikoBuddah: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 8d]
+magic26v: folds 
+mspitolai: calls $0.25
+maluko_br: calls $0.25
+Alameda22: calls $0.25
+Kukoc69: folds 
+FlagellumD: folds 
+Warrick69: folds 
+NikoBuddah: checks 
+*** FLOP *** [Td 9h 7c]
+NikoBuddah: checks 
+mspitolai: checks 
+maluko_br: checks 
+Alameda22: bets $0.75
+NikoBuddah: folds 
+mspitolai: calls $0.75
+maluko_br: folds 
+*** TURN *** [Td 9h 7c] [7d]
+mspitolai: checks 
+Alameda22: bets $1.75
+mspitolai: folds 
+Uncalled bet ($1.75) returned to Alameda22
+Alameda22 collected $2.50 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Td 9h 7c 7d]
+Seat 1: maluko_br folded on the Flop
+Seat 2: Alameda22 collected ($2.50)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: FlagellumD (button) folded before Flop (didn't bet)
+Seat 6: Warrick69 (small blind) folded before Flop
+Seat 7: NikoBuddah (big blind) folded on the Flop
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai folded on the Turn
+
+
+
+PokerStars Game #19951466470:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:49:09 (ET)
+Table 'Montague II' 9-max Seat #6 is the button
+Seat 1: maluko_br ($15.90 in chips) 
+Seat 2: Alameda22 ($26.50 in chips) 
+Seat 3: Kukoc69 ($33.45 in chips) 
+Seat 5: FlagellumD ($27.35 in chips) 
+Seat 6: Warrick69 ($33.35 in chips) 
+Seat 7: NikoBuddah ($4.75 in chips) 
+Seat 8: magic26v ($26.25 in chips) 
+Seat 9: mspitolai ($32.35 in chips) 
+NikoBuddah: posts small blind $0.10
+magic26v: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 6s]
+mspitolai: folds 
+maluko_br: raises $0.50 to $0.75
+Alameda22: folds 
+Kukoc69: folds 
+FlagellumD: folds 
+Warrick69: folds 
+NikoBuddah: folds 
+magic26v: folds 
+Uncalled bet ($0.50) returned to maluko_br
+maluko_br collected $0.60 from pot
+maluko_br: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maluko_br collected ($0.60)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 (button) folded before Flop (didn't bet)
+Seat 7: NikoBuddah (small blind) folded before Flop
+Seat 8: magic26v (big blind) folded before Flop
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951491778:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:50:15 (ET)
+Table 'Montague II' 9-max Seat #7 is the button
+Seat 1: maluko_br ($16.25 in chips) 
+Seat 2: Alameda22 ($26.50 in chips) 
+Seat 3: Kukoc69 ($33.45 in chips) 
+Seat 5: FlagellumD ($27.35 in chips) 
+Seat 6: Warrick69 ($33.35 in chips) 
+Seat 7: NikoBuddah ($4.65 in chips) 
+Seat 8: magic26v ($26 in chips) 
+Seat 9: mspitolai ($32.35 in chips) 
+magic26v: posts small blind $0.10
+mspitolai: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 7c]
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+FlagellumD: calls $0.25
+Warrick69: folds 
+NikoBuddah: calls $0.25
+magic26v: folds 
+mspitolai: checks 
+*** FLOP *** [Kc 6c 5c]
+mspitolai: checks 
+FlagellumD: checks 
+NikoBuddah: bets $1.50
+mspitolai: folds 
+FlagellumD: folds 
+Uncalled bet ($1.50) returned to NikoBuddah
+NikoBuddah collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Kc 6c 5c]
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded on the Flop
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 7: NikoBuddah (button) collected ($0.85)
+Seat 8: magic26v (small blind) folded before Flop
+Seat 9: mspitolai (big blind) folded on the Flop
+
+
+
+PokerStars Game #19951525605:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:51:42 (ET)
+Table 'Montague II' 9-max Seat #8 is the button
+Seat 1: maluko_br ($16.25 in chips) 
+Seat 2: Alameda22 ($26.50 in chips) 
+Seat 3: Kukoc69 ($33.45 in chips) 
+Seat 5: FlagellumD ($27.10 in chips) 
+Seat 6: Warrick69 ($33.35 in chips) 
+Seat 7: NikoBuddah ($5.25 in chips) 
+Seat 8: magic26v ($25.90 in chips) 
+Seat 9: mspitolai ($32.10 in chips) 
+mspitolai: posts small blind $0.10
+maluko_br: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 5d]
+Alameda22: folds 
+Kukoc69: folds 
+FlagellumD: folds 
+Warrick69: raises $0.75 to $1
+NikoBuddah: folds 
+magic26v: folds 
+mspitolai: calls $0.90
+maluko_br: folds 
+*** FLOP *** [4s 3h 9d]
+mspitolai: checks 
+Warrick69: bets $1.35
+mspitolai: calls $1.35
+*** TURN *** [4s 3h 9d] [3s]
+mspitolai: checks 
+Warrick69: bets $1.50
+mspitolai: raises $2 to $3.50
+Warrick69: folds 
+Uncalled bet ($2) returned to mspitolai
+mspitolai collected $7.60 from pot
+mspitolai: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.95 | Rake $0.35 
+Board [4s 3h 9d 3s]
+Seat 1: maluko_br (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded on the Turn
+Seat 7: NikoBuddah folded before Flop (didn't bet)
+Seat 8: magic26v (button) folded before Flop (didn't bet)
+Seat 9: mspitolai (small blind) collected ($7.60)
+
+
+
+PokerStars Game #19951564410:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:53:23 (ET)
+Table 'Montague II' 9-max Seat #9 is the button
+Seat 1: maluko_br ($16 in chips) 
+Seat 2: Alameda22 ($26.50 in chips) 
+Seat 3: Kukoc69 ($33.45 in chips) 
+Seat 5: FlagellumD ($27.10 in chips) 
+Seat 6: Warrick69 ($29.50 in chips) 
+Seat 7: NikoBuddah ($5.25 in chips) 
+Seat 8: magic26v ($25.90 in chips) 
+Seat 9: mspitolai ($35.85 in chips) 
+maluko_br: posts small blind $0.10
+Alameda22: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Js]
+Kukoc69: folds 
+FlagellumD: folds 
+Warrick69: folds 
+NikoBuddah: folds 
+magic26v: folds 
+mspitolai: folds 
+maluko_br: calls $0.15
+Alameda22: checks 
+*** FLOP *** [3d 2c Kc]
+maluko_br: checks 
+Alameda22: checks 
+*** TURN *** [3d 2c Kc] [6c]
+maluko_br: bets $0.25
+Alameda22: folds 
+Uncalled bet ($0.25) returned to maluko_br
+maluko_br collected $0.50 from pot
+maluko_br: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [3d 2c Kc 6c]
+Seat 1: maluko_br (small blind) collected ($0.50)
+Seat 2: Alameda22 (big blind) folded on the Turn
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 7: NikoBuddah folded before Flop (didn't bet)
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951591201:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:54:33 (ET)
+Table 'Montague II' 9-max Seat #1 is the button
+Seat 1: maluko_br ($16.25 in chips) 
+Seat 2: Alameda22 ($26.25 in chips) 
+Seat 3: Kukoc69 ($33.45 in chips) 
+Seat 5: FlagellumD ($27.10 in chips) 
+Seat 6: Warrick69 ($29.50 in chips) 
+Seat 7: NikoBuddah ($5.25 in chips) 
+Seat 8: magic26v ($25.90 in chips) 
+Seat 9: mspitolai ($35.85 in chips) 
+Alameda22: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 9h]
+FlagellumD: folds 
+Warrick69: folds 
+NikoBuddah: folds 
+magic26v: folds 
+mspitolai: folds 
+maluko_br: raises $0.25 to $0.50
+Alameda22: calls $0.40
+Kukoc69: folds 
+*** FLOP *** [3d 6d 9d]
+Alameda22: checks 
+maluko_br: checks 
+*** TURN *** [3d 6d 9d] [Qd]
+Alameda22: checks 
+maluko_br: checks 
+*** RIVER *** [3d 6d 9d Qd] [6c]
+Alameda22: checks 
+maluko_br: checks 
+*** SHOW DOWN ***
+Alameda22: shows [Jh 9h] (two pair, Nines and Sixes)
+maluko_br: shows [Qs Kh] (two pair, Queens and Sixes)
+maluko_br collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [3d 6d 9d Qd 6c]
+Seat 1: maluko_br (button) showed [Qs Kh] and won ($1.20) with two pair, Queens and Sixes
+Seat 2: Alameda22 (small blind) showed [Jh 9h] and lost with two pair, Nines and Sixes
+Seat 3: Kukoc69 (big blind) folded before Flop
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 7: NikoBuddah folded before Flop (didn't bet)
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951619347:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:55:46 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 1: maluko_br ($16.95 in chips) 
+Seat 2: Alameda22 ($25.75 in chips) 
+Seat 3: Kukoc69 ($33.20 in chips) 
+Seat 4: yjqian23 ($25 in chips) 
+Seat 5: FlagellumD ($27.10 in chips) 
+Seat 6: Warrick69 ($29.50 in chips) 
+Seat 7: NikoBuddah ($5.25 in chips) 
+Seat 8: magic26v ($25.90 in chips) 
+Seat 9: mspitolai ($35.85 in chips) 
+Kukoc69: posts small blind $0.10
+yjqian23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 7d]
+FlagellumD: folds 
+Warrick69: folds 
+NikoBuddah: folds 
+magic26v: folds 
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+Uncalled bet ($0.15) returned to yjqian23
+yjqian23 collected $0.20 from pot
+yjqian23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Kukoc69 (small blind) folded before Flop
+Seat 4: yjqian23 (big blind) collected ($0.20)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 7: NikoBuddah folded before Flop (didn't bet)
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951643415:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:56:49 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 1: maluko_br ($16.95 in chips) 
+Seat 2: Alameda22 ($25.75 in chips) 
+Seat 3: Kukoc69 ($33.10 in chips) 
+Seat 4: yjqian23 ($25.10 in chips) 
+Seat 5: FlagellumD ($27.10 in chips) 
+Seat 6: Warrick69 ($29.50 in chips) 
+Seat 7: NikoBuddah ($5.25 in chips) 
+Seat 8: magic26v ($25.90 in chips) 
+Seat 9: mspitolai ($35.85 in chips) 
+yjqian23: posts small blind $0.10
+FlagellumD: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 6h]
+Warrick69: folds 
+NikoBuddah: folds 
+magic26v: raises $0.50 to $0.75
+NikoBuddah is sitting out
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+yjqian23: folds 
+FlagellumD: folds 
+Uncalled bet ($0.50) returned to magic26v
+magic26v collected $0.60 from pot
+magic26v: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 4: yjqian23 (small blind) folded before Flop
+Seat 5: FlagellumD (big blind) folded before Flop
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 7: NikoBuddah folded before Flop (didn't bet)
+Seat 8: magic26v collected ($0.60)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951674167:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:58:10 (ET)
+Table 'Montague II' 9-max Seat #4 is the button
+Seat 1: maluko_br ($16.95 in chips) 
+Seat 2: Alameda22 ($25.75 in chips) 
+Seat 3: Kukoc69 ($33.10 in chips) 
+Seat 4: yjqian23 ($25 in chips) 
+Seat 5: FlagellumD ($26.85 in chips) 
+Seat 6: Warrick69 ($29.50 in chips) 
+Seat 8: magic26v ($26.25 in chips) 
+Seat 9: mspitolai ($35.85 in chips) 
+FlagellumD: posts small blind $0.10
+Warrick69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Jd]
+magic26v: folds 
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+yjqian23: raises $0.25 to $0.50
+FlagellumD: calls $0.40
+Warrick69: calls $0.25
+*** FLOP *** [Qh 7d 3h]
+FlagellumD: checks 
+Warrick69: checks 
+yjqian23: bets $0.50
+FlagellumD: folds 
+Warrick69: folds 
+Uncalled bet ($0.50) returned to yjqian23
+yjqian23 collected $1.45 from pot
+yjqian23: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Qh 7d 3h]
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: yjqian23 (button) collected ($1.45)
+Seat 5: FlagellumD (small blind) folded on the Flop
+Seat 6: Warrick69 (big blind) folded on the Flop
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951702100:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:59:24 (ET)
+Table 'Montague II' 9-max Seat #5 is the button
+Seat 1: maluko_br ($16.95 in chips) 
+Seat 2: Alameda22 ($25.75 in chips) 
+Seat 3: Kukoc69 ($33.10 in chips) 
+Seat 4: yjqian23 ($25.95 in chips) 
+Seat 5: FlagellumD ($26.35 in chips) 
+Seat 6: Warrick69 ($29 in chips) 
+Seat 8: magic26v ($26.25 in chips) 
+Seat 9: mspitolai ($35.85 in chips) 
+Warrick69: posts small blind $0.10
+magic26v: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 4c]
+mspitolai: raises $1 to $1.25
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+yjqian23: folds 
+FlagellumD: folds 
+Warrick69: folds 
+magic26v: folds 
+Uncalled bet ($1) returned to mspitolai
+mspitolai collected $0.60 from pot
+mspitolai: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: yjqian23 folded before Flop (didn't bet)
+Seat 5: FlagellumD (button) folded before Flop (didn't bet)
+Seat 6: Warrick69 (small blind) folded before Flop
+Seat 8: magic26v (big blind) folded before Flop
+Seat 9: mspitolai collected ($0.60)
+
+
+
+PokerStars Game #19951717061:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:00:01 (ET)
+Table 'Montague II' 9-max Seat #6 is the button
+Seat 1: maluko_br ($16.95 in chips) 
+Seat 2: Alameda22 ($25.75 in chips) 
+Seat 3: Kukoc69 ($33.10 in chips) 
+Seat 4: yjqian23 ($25.95 in chips) 
+Seat 5: FlagellumD ($26.35 in chips) 
+Seat 6: Warrick69 ($28.90 in chips) 
+Seat 8: magic26v ($26 in chips) 
+Seat 9: mspitolai ($36.20 in chips) 
+magic26v: posts small blind $0.10
+mspitolai: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 6c]
+maluko_br: raises $0.50 to $0.75
+Alameda22: folds 
+Kukoc69: folds 
+yjqian23: folds 
+FlagellumD: folds 
+Warrick69: folds 
+magic26v: folds 
+mspitolai: calls $0.50
+*** FLOP *** [3h 9h 8h]
+mspitolai: checks 
+maluko_br: bets $0.50
+mspitolai: folds 
+Uncalled bet ($0.50) returned to maluko_br
+maluko_br collected $1.55 from pot
+maluko_br: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [3h 9h 8h]
+Seat 1: maluko_br collected ($1.55)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: yjqian23 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 (button) folded before Flop (didn't bet)
+Seat 8: magic26v (small blind) folded before Flop
+Seat 9: mspitolai (big blind) folded on the Flop
+
+
+
+PokerStars Game #19951739958:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:01:01 (ET)
+Table 'Montague II' 9-max Seat #8 is the button
+Seat 1: maluko_br ($17.75 in chips) 
+Seat 2: Alameda22 ($25.75 in chips) 
+Seat 3: Kukoc69 ($33.10 in chips) 
+Seat 4: yjqian23 ($25.95 in chips) 
+Seat 5: FlagellumD ($26.35 in chips) 
+Seat 6: Warrick69 ($28.90 in chips) 
+Seat 8: magic26v ($25.90 in chips) 
+Seat 9: mspitolai ($35.45 in chips) 
+mspitolai: posts small blind $0.10
+maluko_br: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 2s]
+Alameda22: folds 
+Kukoc69: folds 
+yjqian23: calls $0.25
+FlagellumD: folds 
+Warrick69: folds 
+magic26v: folds 
+mspitolai: folds 
+maluko_br: checks 
+*** FLOP *** [7d 9h 8h]
+maluko_br: bets $0.25
+yjqian23: calls $0.25
+*** TURN *** [7d 9h 8h] [7s]
+maluko_br: bets $0.50
+yjqian23: raises $0.50 to $1
+maluko_br: calls $0.50
+*** RIVER *** [7d 9h 8h 7s] [7c]
+maluko_br: checks 
+yjqian23: bets $2
+maluko_br: folds 
+Uncalled bet ($2) returned to yjqian23
+yjqian23 collected $2.95 from pot
+yjqian23: doesn't show hand 
+maluko_br said, "four"
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [7d 9h 8h 7s 7c]
+Seat 1: maluko_br (big blind) folded on the River
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: yjqian23 collected ($2.95)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 8: magic26v (button) folded before Flop (didn't bet)
+Seat 9: mspitolai (small blind) folded before Flop
+
+
+
+PokerStars Game #19951785119:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:03:01 (ET)
+Table 'Montague II' 9-max Seat #9 is the button
+Seat 1: maluko_br ($16.25 in chips) 
+Seat 2: Alameda22 ($25.75 in chips) 
+Seat 3: Kukoc69 ($33.10 in chips) 
+Seat 4: yjqian23 ($27.40 in chips) 
+Seat 5: FlagellumD ($26.35 in chips) 
+Seat 6: Warrick69 ($28.90 in chips) 
+Seat 8: magic26v ($25.90 in chips) 
+Seat 9: mspitolai ($35.35 in chips) 
+maluko_br: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 7c]
+maluko_br said, "yj"
+Kukoc69: folds 
+yjqian23: folds 
+FlagellumD: folds 
+Warrick69: folds 
+magic26v: raises $0.50 to $0.75
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to magic26v
+magic26v collected $0.60 from pot
+magic26v: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maluko_br (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: yjqian23 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 8: magic26v collected ($0.60)
+Seat 9: mspitolai (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951804857:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:03:53 (ET)
+Table 'Montague II' 9-max Seat #1 is the button
+Seat 1: maluko_br ($16.15 in chips) 
+Seat 2: Alameda22 ($25.50 in chips) 
+Seat 3: Kukoc69 ($33.10 in chips) 
+Seat 4: yjqian23 ($27.40 in chips) 
+Seat 5: FlagellumD ($26.35 in chips) 
+Seat 6: Warrick69 ($28.90 in chips) 
+Seat 8: magic26v ($26.25 in chips) 
+Seat 9: mspitolai ($35.35 in chips) 
+Alameda22: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 6h]
+yjqian23: folds 
+FlagellumD: folds 
+Warrick69: folds 
+magic26v: folds 
+mspitolai: folds 
+maluko_br: calls $0.25
+Alameda22: folds 
+Kukoc69: checks 
+*** FLOP *** [Qd 8d 7c]
+Kukoc69: bets $0.50
+maluko_br: folds 
+Uncalled bet ($0.50) returned to Kukoc69
+Kukoc69 collected $0.60 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qd 8d 7c]
+Seat 1: maluko_br (button) folded on the Flop
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Kukoc69 (big blind) collected ($0.60)
+Seat 4: yjqian23 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951830510:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:05:01 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 1: maluko_br ($15.90 in chips) 
+Seat 2: Alameda22 ($25.40 in chips) 
+Seat 3: Kukoc69 ($33.45 in chips) 
+Seat 5: FlagellumD ($26.35 in chips) 
+Seat 6: Warrick69 ($28.90 in chips) 
+Seat 8: magic26v ($26.25 in chips) 
+Seat 9: mspitolai ($35.35 in chips) 
+Kukoc69: posts small blind $0.10
+NikoBuddah has returned
+yjqian23: is sitting out 
+yjqian23 leaves the table
+FlagellumD: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Ah]
+Warrick69: folds 
+magic26v: folds 
+L3inad joins the table at seat #4 
+mspitolai: folds 
+maluko_br: calls $0.25
+Alameda22: folds 
+Kukoc69: calls $0.15
+FlagellumD: checks 
+*** FLOP *** [8c 4d Qd]
+Kukoc69: checks 
+FlagellumD: checks 
+maluko_br: checks 
+*** TURN *** [8c 4d Qd] [Kc]
+Kukoc69: checks 
+FlagellumD: checks 
+maluko_br: checks 
+*** RIVER *** [8c 4d Qd Kc] [8h]
+Kukoc69: checks 
+FlagellumD: checks 
+maluko_br: checks 
+*** SHOW DOWN ***
+Kukoc69: shows [6s 6d] (two pair, Eights and Sixes)
+FlagellumD: mucks hand 
+maluko_br: mucks hand 
+Kukoc69 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [8c 4d Qd Kc 8h]
+Seat 1: maluko_br mucked [Td Jh]
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Kukoc69 (small blind) showed [6s 6d] and won ($0.75) with two pair, Eights and Sixes
+Seat 5: FlagellumD (big blind) mucked [9s 5h]
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951866546:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:06:37 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 1: maluko_br ($15.65 in chips) 
+Seat 2: Alameda22 ($25.40 in chips) 
+Seat 3: Kukoc69 ($33.95 in chips) 
+Seat 5: FlagellumD ($26.10 in chips) 
+Seat 6: Warrick69 ($28.90 in chips) 
+Seat 7: NikoBuddah ($5.25 in chips) 
+Seat 8: magic26v ($26.25 in chips) 
+Seat 9: mspitolai ($35.35 in chips) 
+L3inad will be allowed to play after the button
+FlagellumD: posts small blind $0.10
+Warrick69: posts big blind $0.25
+NikoBuddah: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Ad]
+NikoBuddah: checks 
+magic26v: folds 
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+FlagellumD: raises $0.25 to $0.50
+Warrick69: calls $0.25
+NikoBuddah: calls $0.25
+*** FLOP *** [9c 6d 3c]
+FlagellumD: bets $0.75
+Warrick69: folds 
+NikoBuddah: calls $0.75
+*** TURN *** [9c 6d 3c] [8d]
+FlagellumD: bets $2
+NikoBuddah: raises $1.90 to $3.90 and is all-in
+FlagellumD: calls $1.90
+*** RIVER *** [9c 6d 3c 8d] [3d]
+*** SHOW DOWN ***
+FlagellumD: shows [Ts Td] (two pair, Tens and Threes)
+NikoBuddah: shows [9d 7d] (a flush, Nine high)
+NikoBuddah collected $10.40 from pot
+*** SUMMARY ***
+Total pot $10.90 | Rake $0.50 
+Board [9c 6d 3c 8d 3d]
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 5: FlagellumD (small blind) showed [Ts Td] and lost with two pair, Tens and Threes
+Seat 6: Warrick69 (big blind) folded on the Flop
+Seat 7: NikoBuddah showed [9d 7d] and won ($10.40) with a flush, Nine high
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951901398:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:08:09 (ET)
+Table 'Montague II' 9-max Seat #5 is the button
+Seat 1: maluko_br ($15.65 in chips) 
+Seat 2: Alameda22 ($25.40 in chips) 
+Seat 3: Kukoc69 ($33.95 in chips) 
+Seat 5: FlagellumD ($20.95 in chips) 
+Seat 6: Warrick69 ($28.40 in chips) 
+Seat 7: NikoBuddah ($10.40 in chips) 
+Seat 8: magic26v ($26.25 in chips) 
+Seat 9: mspitolai ($35.35 in chips) 
+Warrick69: posts small blind $0.10
+NikoBuddah: posts big blind $0.25
+L3inad: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 8d]
+magic26v: folds 
+mspitolai: folds 
+maluko_br: calls $0.25
+Alameda22: folds 
+Kukoc69: folds 
+FlagellumD: folds 
+Warrick69: folds 
+NikoBuddah: checks 
+*** FLOP *** [8s 7h 9c]
+NikoBuddah: checks 
+maluko_br: bets $0.25
+NikoBuddah: calls $0.25
+*** TURN *** [8s 7h 9c] [Jh]
+NikoBuddah: checks 
+maluko_br: bets $0.25
+NikoBuddah: raises $1.25 to $1.50
+maluko_br: raises $3 to $4.50
+NikoBuddah: calls $3
+*** RIVER *** [8s 7h 9c Jh] [4d]
+NikoBuddah: checks 
+maluko_br: bets $5
+NikoBuddah: calls $5
+*** SHOW DOWN ***
+maluko_br: shows [Qd Th] (a straight, Eight to Queen)
+NikoBuddah: mucks hand 
+maluko_br collected $19.15 from pot
+*** SUMMARY ***
+Total pot $20.10 | Rake $0.95 
+Board [8s 7h 9c Jh 4d]
+Seat 1: maluko_br showed [Qd Th] and won ($19.15) with a straight, Eight to Queen
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: FlagellumD (button) folded before Flop (didn't bet)
+Seat 6: Warrick69 (small blind) folded before Flop
+Seat 7: NikoBuddah (big blind) mucked [Ks Jd]
+Seat 8: magic26v folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951943987:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:10:02 (ET)
+Table 'Montague II' 9-max Seat #6 is the button
+Seat 1: maluko_br ($24.80 in chips) 
+Seat 2: Alameda22 ($25.40 in chips) 
+Seat 3: Kukoc69 ($33.95 in chips) 
+Seat 5: FlagellumD ($20.95 in chips) 
+Seat 6: Warrick69 ($28.30 in chips) 
+Seat 9: mspitolai ($35.35 in chips) 
+NikoBuddah: is sitting out 
+NikoBuddah leaves the table
+magic26v: is sitting out 
+magic26v leaves the table
+mspitolai: posts small blind $0.10
+maluko_br: posts big blind $0.25
+L3inad: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Qs]
+Alameda22: folds 
+Kukoc69: folds 
+FlagellumD: calls $0.25
+Warrick69: folds 
+mspitolai: raises $1 to $1.25
+maluko_br: folds 
+FlagellumD: folds 
+Uncalled bet ($1) returned to mspitolai
+mspitolai collected $0.75 from pot
+mspitolai: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: maluko_br (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop
+Seat 6: Warrick69 (button) folded before Flop (didn't bet)
+Seat 9: mspitolai (small blind) collected ($0.75)
+
+
+
+PokerStars Game #19951961260:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:10:48 (ET)
+Table 'Montague II' 9-max Seat #9 is the button
+Seat 1: maluko_br ($24.55 in chips) 
+Seat 2: Alameda22 ($25.40 in chips) 
+Seat 3: Kukoc69 ($33.95 in chips) 
+Seat 5: FlagellumD ($20.70 in chips) 
+Seat 6: Warrick69 ($28.30 in chips) 
+Seat 9: mspitolai ($35.85 in chips) 
+maluko_br: posts small blind $0.10
+Alameda22: posts big blind $0.25
+L3inad: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 2c]
+Kukoc69: folds 
+FlagellumD: folds 
+Warrick69: folds 
+mspitolai: raises $1 to $1.25
+maluko_br: calls $1.15
+Alameda22: folds 
+*** FLOP *** [As 9h 4s]
+maluko_br: checks 
+mspitolai: checks 
+*** TURN *** [As 9h 4s] [9c]
+maluko_br: checks 
+mspitolai: checks 
+*** RIVER *** [As 9h 4s 9c] [9d]
+maluko_br: checks 
+mspitolai: checks 
+*** SHOW DOWN ***
+maluko_br: shows [8h Qh] (three of a kind, Nines)
+mspitolai: shows [Ks Jd] (three of a kind, Nines - Ace+King kicker)
+mspitolai collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [As 9h 4s 9c 9d]
+Seat 1: maluko_br (small blind) showed [8h Qh] and lost with three of a kind, Nines
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 9: mspitolai (button) showed [Ks Jd] and won ($2.65) with three of a kind, Nines
+
+
+
+PokerStars Game #19951987900:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:11:58 (ET)
+Table 'Montague II' 9-max Seat #1 is the button
+Seat 1: maluko_br ($23.30 in chips) 
+Seat 2: Alameda22 ($25.15 in chips) 
+Seat 3: Kukoc69 ($33.95 in chips) 
+Seat 5: FlagellumD ($20.70 in chips) 
+Seat 6: Warrick69 ($28.30 in chips) 
+Seat 9: mspitolai ($37.25 in chips) 
+Alameda22: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+L3inad: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Td]
+FlagellumD: calls $0.25
+Warrick69: folds 
+mspitolai: folds 
+maluko_br: calls $0.25
+Alameda22: folds 
+spartans1192 joins the table at seat #7 
+Kukoc69: checks 
+*** FLOP *** [5c Ks Js]
+Kukoc69: bets $0.75
+veritopoker joins the table at seat #8 
+FlagellumD: calls $0.75
+maluko_br: folds 
+*** TURN *** [5c Ks Js] [7d]
+Kukoc69: bets $1.25
+FlagellumD: calls $1.25
+*** RIVER *** [5c Ks Js 7d] [9s]
+Kukoc69: checks 
+FlagellumD: checks 
+*** SHOW DOWN ***
+Kukoc69: shows [9h Kc] (two pair, Kings and Nines)
+FlagellumD: mucks hand 
+Kukoc69 collected $4.65 from pot
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [5c Ks Js 7d 9s]
+Seat 1: maluko_br (button) folded on the Flop
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Kukoc69 (big blind) showed [9h Kc] and won ($4.65) with two pair, Kings and Nines
+Seat 5: FlagellumD mucked [Kd Qc]
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952016802:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:13:15 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 1: maluko_br ($23.05 in chips) 
+Seat 2: Alameda22 ($25.05 in chips) 
+Seat 3: Kukoc69 ($36.35 in chips) 
+Seat 4: L3inad ($25 in chips) 
+Seat 5: FlagellumD ($18.45 in chips) 
+Seat 6: Warrick69 ($28.30 in chips) 
+Seat 7: spartans1192 ($5.05 in chips) 
+Seat 9: mspitolai ($37.25 in chips) 
+Kukoc69: posts small blind $0.10
+L3inad: posts big blind $0.25
+spartans1192: posts big blind $0.25
+veritopoker: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 5s]
+FlagellumD: folds 
+Warrick69: folds 
+spartans1192: checks 
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: calls $0.15
+L3inad: checks 
+*** FLOP *** [Ad 4h Qc]
+Kukoc69: checks 
+L3inad: checks 
+spartans1192: checks 
+*** TURN *** [Ad 4h Qc] [7c]
+Kukoc69: checks 
+L3inad: checks 
+spartans1192: bets $0.50
+Kukoc69: folds 
+L3inad: folds 
+Uncalled bet ($0.50) returned to spartans1192
+spartans1192 collected $0.75 from pot
+spartans1192: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Ad 4h Qc 7c]
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Kukoc69 (small blind) folded on the Turn
+Seat 4: L3inad (big blind) folded on the Turn
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 7: spartans1192 collected ($0.75)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952063188:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:15:18 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 1: maluko_br ($23.05 in chips) 
+Seat 2: Alameda22 ($25.05 in chips) 
+Seat 3: Kukoc69 ($36.10 in chips) 
+Seat 4: L3inad ($24.75 in chips) 
+Seat 5: FlagellumD ($23.45 in chips) 
+Seat 6: Warrick69 ($28.30 in chips) 
+Seat 7: spartans1192 ($5.55 in chips) 
+Seat 9: mspitolai ($37.25 in chips) 
+L3inad: posts small blind $0.10
+FlagellumD: posts big blind $0.25
+veritopoker: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Kd]
+Warrick69: folds 
+spartans1192: folds 
+mspitolai: folds 
+maluko_br: calls $0.25
+Alameda22: raises $0.75 to $1
+Kukoc69: folds 
+L3inad: folds 
+FlagellumD: folds 
+maluko_br: folds 
+Uncalled bet ($0.75) returned to Alameda22
+Alameda22 collected $0.85 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: maluko_br folded before Flop
+Seat 2: Alameda22 collected ($0.85)
+Seat 3: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 4: L3inad (small blind) folded before Flop
+Seat 5: FlagellumD (big blind) folded before Flop
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952082334:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:16:09 (ET)
+Table 'Montague II' 9-max Seat #4 is the button
+Seat 1: maluko_br ($22.80 in chips) 
+Seat 2: Alameda22 ($25.65 in chips) 
+Seat 3: Kukoc69 ($36.10 in chips) 
+Seat 4: L3inad ($24.65 in chips) 
+Seat 5: FlagellumD ($23.20 in chips) 
+Seat 6: Warrick69 ($28.30 in chips) 
+Seat 7: spartans1192 ($5.55 in chips) 
+Seat 9: mspitolai ($37.25 in chips) 
+FlagellumD: posts small blind $0.10
+Warrick69: posts big blind $0.25
+veritopoker: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Td]
+spartans1192: folds 
+mspitolai: folds 
+maluko_br: calls $0.25
+Alameda22: raises $0.75 to $1
+Kukoc69: folds 
+L3inad: calls $1
+FlagellumD: folds 
+Warrick69: folds 
+maluko_br: calls $0.75
+*** FLOP *** [Kh 8s Qd]
+maluko_br: checks 
+Alameda22: bets $2
+L3inad: folds 
+maluko_br: folds 
+Uncalled bet ($2) returned to Alameda22
+Alameda22 collected $3.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [Kh 8s Qd]
+Seat 1: maluko_br folded on the Flop
+Seat 2: Alameda22 collected ($3.20)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: L3inad (button) folded on the Flop
+Seat 5: FlagellumD (small blind) folded before Flop
+Seat 6: Warrick69 (big blind) folded before Flop
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952111217:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:17:25 (ET)
+Table 'Montague II' 9-max Seat #5 is the button
+Seat 1: maluko_br ($21.80 in chips) 
+Seat 2: Alameda22 ($27.85 in chips) 
+Seat 3: Kukoc69 ($36.10 in chips) 
+Seat 4: L3inad ($23.65 in chips) 
+Seat 5: FlagellumD ($24.30 in chips) 
+Seat 6: Warrick69 ($28.05 in chips) 
+Seat 7: spartans1192 ($5.55 in chips) 
+Seat 9: mspitolai ($37.25 in chips) 
+Warrick69: posts small blind $0.10
+spartans1192: posts big blind $0.25
+veritopoker: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Qs]
+mspitolai: calls $0.25
+maluko_br: raises $0.50 to $0.75
+Alameda22: folds 
+Kukoc69: folds 
+L3inad: folds 
+FlagellumD: folds 
+Warrick69: calls $0.65
+spartans1192: folds 
+mspitolai: calls $0.50
+*** FLOP *** [6d 4s 8d]
+Warrick69: checks 
+mspitolai: checks 
+maluko_br: bets $1.50
+Warrick69: calls $1.50
+mspitolai: folds 
+*** TURN *** [6d 4s 8d] [3h]
+Warrick69: checks 
+maluko_br: bets $1.50
+Warrick69: raises $1.50 to $3
+maluko_br: calls $1.50
+*** RIVER *** [6d 4s 8d 3h] [Jc]
+Warrick69: bets $4.40
+maluko_br: folds 
+Uncalled bet ($4.40) returned to Warrick69
+Warrick69 collected $10.95 from pot
+Warrick69: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.55 
+Board [6d 4s 8d 3h Jc]
+Seat 1: maluko_br folded on the River
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: L3inad folded before Flop (didn't bet)
+Seat 5: FlagellumD (button) folded before Flop (didn't bet)
+Seat 6: Warrick69 (small blind) collected ($10.95)
+Seat 7: spartans1192 (big blind) folded before Flop
+Seat 9: mspitolai folded on the Flop
+
+
+
+PokerStars Game #19952149666:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:19:07 (ET)
+Table 'Montague II' 9-max Seat #6 is the button
+Seat 1: maluko_br ($16.55 in chips) 
+Seat 2: Alameda22 ($27.85 in chips) 
+Seat 3: Kukoc69 ($36.10 in chips) 
+Seat 4: L3inad ($23.65 in chips) 
+Seat 5: FlagellumD ($24.30 in chips) 
+Seat 6: Warrick69 ($33.75 in chips) 
+Seat 7: spartans1192 ($5.30 in chips) 
+Seat 8: veritopoker ($6.40 in chips) 
+Seat 9: mspitolai ($36.50 in chips) 
+spartans1192: posts small blind $0.10
+veritopoker: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Qc]
+mspitolai: folds 
+maluko_br: calls $0.25
+Alameda22: raises $0.75 to $1
+Kukoc69: folds 
+L3inad: folds 
+FlagellumD: folds 
+Warrick69: folds 
+spartans1192: folds 
+veritopoker: calls $0.75
+maluko_br: folds 
+*** FLOP *** [2c 9c 5c]
+veritopoker: checks 
+Alameda22: bets $1.50
+veritopoker: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $2.25 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [2c 9c 5c]
+Seat 1: maluko_br folded before Flop
+Seat 2: Alameda22 collected ($2.25)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: L3inad folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 (button) folded before Flop (didn't bet)
+Seat 7: spartans1192 (small blind) folded before Flop
+Seat 8: veritopoker (big blind) folded on the Flop
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952182097:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:20:33 (ET)
+Table 'Montague II' 9-max Seat #7 is the button
+Seat 1: maluko_br ($16.30 in chips) 
+Seat 2: Alameda22 ($29.10 in chips) 
+Seat 3: Kukoc69 ($36.10 in chips) 
+Seat 4: L3inad ($23.65 in chips) 
+Seat 5: FlagellumD ($24.30 in chips) 
+Seat 6: Warrick69 ($33.75 in chips) 
+Seat 7: spartans1192 ($5.20 in chips) 
+Seat 8: veritopoker ($5.40 in chips) 
+Seat 9: mspitolai ($36.50 in chips) 
+veritopoker: posts small blind $0.10
+mspitolai: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Qc]
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+L3inad: folds 
+FlagellumD: folds 
+Warrick69: folds 
+spartans1192: calls $0.25
+veritopoker: calls $0.15
+mspitolai: checks 
+*** FLOP *** [5h 4h Kh]
+veritopoker: checks 
+mspitolai: checks 
+spartans1192: checks 
+*** TURN *** [5h 4h Kh] [Th]
+veritopoker: checks 
+mspitolai: checks 
+spartans1192: checks 
+*** RIVER *** [5h 4h Kh Th] [Qd]
+veritopoker: bets $1
+mspitolai: folds 
+spartans1192: folds 
+Uncalled bet ($1) returned to veritopoker
+veritopoker collected $0.75 from pot
+veritopoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [5h 4h Kh Th Qd]
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: L3inad folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 7: spartans1192 (button) folded on the River
+Seat 8: veritopoker (small blind) collected ($0.75)
+Seat 9: mspitolai (big blind) folded on the River
+
+
+
+PokerStars Game #19952219589:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:22:12 (ET)
+Table 'Montague II' 9-max Seat #8 is the button
+Seat 1: maluko_br ($16.30 in chips) 
+Seat 2: Alameda22 ($29.10 in chips) 
+Seat 3: Kukoc69 ($36.10 in chips) 
+Seat 4: L3inad ($23.65 in chips) 
+Seat 5: FlagellumD ($24.30 in chips) 
+Seat 6: Warrick69 ($33.75 in chips) 
+Seat 7: spartans1192 ($4.95 in chips) 
+Seat 8: veritopoker ($7.90 in chips) 
+Seat 9: mspitolai ($36.25 in chips) 
+mspitolai: posts small blind $0.10
+maluko_br: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 7h]
+Alameda22: folds 
+Kukoc69: folds 
+L3inad: folds 
+FlagellumD: folds 
+Warrick69: calls $0.25
+spartans1192: folds 
+veritopoker: folds 
+mspitolai: raises $1 to $1.25
+maluko_br: folds 
+Warrick69: folds 
+Uncalled bet ($1) returned to mspitolai
+mspitolai collected $0.75 from pot
+mspitolai: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: maluko_br (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: L3inad folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded before Flop
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 8: veritopoker (button) folded before Flop (didn't bet)
+Seat 9: mspitolai (small blind) collected ($0.75)
+
+
+
+PokerStars Game #19952245017:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:23:19 (ET)
+Table 'Montague II' 9-max Seat #9 is the button
+Seat 1: maluko_br ($16.05 in chips) 
+Seat 2: Alameda22 ($29.10 in chips) 
+Seat 3: Kukoc69 ($36.10 in chips) 
+Seat 4: L3inad ($23.65 in chips) 
+Seat 5: FlagellumD ($24.30 in chips) 
+Seat 6: Warrick69 ($33.50 in chips) 
+Seat 7: spartans1192 ($4.95 in chips) 
+Seat 8: veritopoker ($7.90 in chips) 
+Seat 9: mspitolai ($36.75 in chips) 
+maluko_br: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 6c]
+Kukoc69: folds 
+L3inad: folds 
+FlagellumD: calls $0.25
+Warrick69: folds 
+spartans1192: folds 
+veritopoker: calls $0.25
+mspitolai: folds 
+maluko_br: calls $0.15
+Alameda22: checks 
+*** FLOP *** [2c 9s 2h]
+maluko_br: checks 
+Alameda22: checks 
+FlagellumD: checks 
+veritopoker: checks 
+*** TURN *** [2c 9s 2h] [Ad]
+maluko_br: bets $0.50
+Alameda22: folds 
+FlagellumD: calls $0.50
+veritopoker: folds 
+*** RIVER *** [2c 9s 2h Ad] [2d]
+maluko_br: checks 
+FlagellumD: bets $2
+maluko_br: calls $2
+*** SHOW DOWN ***
+FlagellumD: shows [Js Ac] (a full house, Deuces full of Aces)
+maluko_br: shows [Ah 4d] (a full house, Deuces full of Aces)
+maluko_br collected $2.90 from pot
+FlagellumD collected $2.85 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.25 
+Board [2c 9s 2h Ad 2d]
+Seat 1: maluko_br (small blind) showed [Ah 4d] and won ($2.90) with a full house, Deuces full of Aces
+Seat 2: Alameda22 (big blind) folded on the Turn
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: L3inad folded before Flop (didn't bet)
+Seat 5: FlagellumD showed [Js Ac] and won ($2.85) with a full house, Deuces full of Aces
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 8: veritopoker folded on the Turn
+Seat 9: mspitolai (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952285828:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:25:07 (ET)
+Table 'Montague II' 9-max Seat #1 is the button
+Seat 1: maluko_br ($16.20 in chips) 
+Seat 2: Alameda22 ($28.85 in chips) 
+Seat 3: Kukoc69 ($36.10 in chips) 
+Seat 4: L3inad ($23.65 in chips) 
+Seat 5: FlagellumD ($24.40 in chips) 
+Seat 6: Warrick69 ($33.50 in chips) 
+Seat 7: spartans1192 ($4.95 in chips) 
+Seat 8: veritopoker ($7.65 in chips) 
+Seat 9: mspitolai ($36.75 in chips) 
+Alameda22: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 9d]
+L3inad: folds 
+L3inad leaves the table
+FlagellumD: folds 
+Warrick69: folds 
+spartans1192: raises $0.50 to $0.75
+veritopoker: calls $0.75
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: calls $0.50
+*** FLOP *** [8c 2s 4h]
+Kukoc69: bets $1.50
+spartans1192: folds 
+veritopoker: folds 
+Uncalled bet ($1.50) returned to Kukoc69
+Kukoc69 collected $2.25 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [8c 2s 4h]
+Seat 1: maluko_br (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Kukoc69 (big blind) collected ($2.25)
+Seat 4: L3inad folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 7: spartans1192 folded on the Flop
+Seat 8: veritopoker folded on the Flop
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952310925:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:26:12 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 1: maluko_br ($16.20 in chips) 
+Seat 2: Alameda22 ($28.75 in chips) 
+Seat 3: Kukoc69 ($37.60 in chips) 
+Seat 5: FlagellumD ($24.40 in chips) 
+Seat 6: Warrick69 ($33.50 in chips) 
+Seat 7: spartans1192 ($4.20 in chips) 
+Seat 8: veritopoker ($6.90 in chips) 
+Seat 9: mspitolai ($36.75 in chips) 
+Kukoc69: posts small blind $0.10
+FlagellumD: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 2c]
+Warrick69: folds 
+spartans1192: folds 
+veritopoker: folds 
+mspitolai: folds 
+maluko_br: calls $0.25
+Alameda22: folds 
+Kukoc69: calls $0.15
+FlagellumD: raises $0.75 to $1
+maluko_br: calls $0.75
+Kukoc69: folds 
+*** FLOP *** [6d Jh 6c]
+FlagellumD: bets $1
+maluko_br: folds 
+Uncalled bet ($1) returned to FlagellumD
+FlagellumD collected $2.15 from pot
+FlagellumD: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [6d Jh 6c]
+Seat 1: maluko_br folded on the Flop
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Kukoc69 (small blind) folded before Flop
+Seat 5: FlagellumD (big blind) collected ($2.15)
+Seat 6: Warrick69 folded before Flop (didn't bet)
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 8: veritopoker folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952329779:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:27:01 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 1: maluko_br ($15.20 in chips) 
+Seat 2: Alameda22 ($28.75 in chips) 
+Seat 3: Kukoc69 ($37.35 in chips) 
+Seat 5: FlagellumD ($25.55 in chips) 
+Seat 7: spartans1192 ($4.20 in chips) 
+Seat 8: veritopoker ($6.90 in chips) 
+Seat 9: mspitolai ($36.75 in chips) 
+FlagellumD: posts small blind $0.10
+Warrick69: is sitting out 
+Warrick69 leaves the table
+spartans1192: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Ks]
+veritopoker: folds 
+mspitolai: folds 
+maluko_br: raises $0.25 to $0.50
+Alameda22: folds 
+Kukoc69: folds 
+FlagellumD: folds 
+spartans1192: calls $0.25
+*** FLOP *** [Td Jh 7d]
+spartans1192: checks 
+maluko_br: bets $0.50
+spartans1192: folds 
+Uncalled bet ($0.50) returned to maluko_br
+maluko_br collected $1.05 from pot
+maluko_br: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Td Jh 7d]
+Seat 1: maluko_br collected ($1.05)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 5: FlagellumD (small blind) folded before Flop
+Seat 7: spartans1192 (big blind) folded on the Flop
+Seat 8: veritopoker folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952351316:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:27:59 (ET)
+Table 'Montague II' 9-max Seat #5 is the button
+Seat 1: maluko_br ($15.75 in chips) 
+Seat 2: Alameda22 ($28.75 in chips) 
+Seat 3: Kukoc69 ($37.35 in chips) 
+Seat 5: FlagellumD ($25.45 in chips) 
+Seat 7: spartans1192 ($3.70 in chips) 
+Seat 8: veritopoker ($6.90 in chips) 
+Seat 9: mspitolai ($36.75 in chips) 
+spartans1192: posts small blind $0.10
+veritopoker: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Tc]
+mspitolai: folds 
+maluko_br: calls $0.25
+Alameda22: folds 
+Kukoc69: folds 
+FlagellumD: folds 
+spartans1192: calls $0.15
+veritopoker: checks 
+*** FLOP *** [2h Js 6h]
+spartans1192: checks 
+veritopoker: bets $1
+maluko_br: folds 
+spartans1192: folds 
+Uncalled bet ($1) returned to veritopoker
+veritopoker collected $0.75 from pot
+veritopoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [2h Js 6h]
+Seat 1: maluko_br folded on the Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: FlagellumD (button) folded before Flop (didn't bet)
+Seat 7: spartans1192 (small blind) folded on the Flop
+Seat 8: veritopoker (big blind) collected ($0.75)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952378948:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:29:11 (ET)
+Table 'Montague II' 9-max Seat #7 is the button
+Seat 1: maluko_br ($15.50 in chips) 
+Seat 2: Alameda22 ($28.75 in chips) 
+Seat 3: Kukoc69 ($37.35 in chips) 
+Seat 5: FlagellumD ($25.45 in chips) 
+Seat 7: spartans1192 ($3.45 in chips) 
+Seat 8: veritopoker ($7.40 in chips) 
+Seat 9: mspitolai ($36.75 in chips) 
+veritopoker: posts small blind $0.10
+mspitolai: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 4d]
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+FlagellumD: folds 
+spartans1192: folds 
+ppzgenome joins the table at seat #4 
+veritopoker: folds 
+Uncalled bet ($0.15) returned to mspitolai
+mspitolai collected $0.20 from pot
+mspitolai: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 7: spartans1192 (button) folded before Flop (didn't bet)
+Seat 8: veritopoker (small blind) folded before Flop
+Seat 9: mspitolai (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19952393070:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:29:47 (ET)
+Table 'Montague II' 9-max Seat #8 is the button
+Seat 1: maluko_br ($15.50 in chips) 
+Seat 2: Alameda22 ($28.75 in chips) 
+Seat 3: Kukoc69 ($37.35 in chips) 
+Seat 5: FlagellumD ($25.45 in chips) 
+Seat 7: spartans1192 ($3.45 in chips) 
+Seat 8: veritopoker ($7.30 in chips) 
+Seat 9: mspitolai ($36.85 in chips) 
+mspitolai: posts small blind $0.10
+maluko_br: posts big blind $0.25
+ppzgenome: is sitting out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Jd]
+Alameda22: folds 
+Kukoc69: folds 
+FlagellumD: calls $0.25
+ppzgenome leaves the table
+spartans1192: folds 
+veritopoker: folds 
+mspitolai: calls $0.15
+maluko_br: raises $0.50 to $0.75
+FlagellumD: folds 
+mspitolai: calls $0.50
+*** FLOP *** [Tc 3d As]
+mspitolai: checks 
+maluko_br: bets $0.50
+mspitolai: calls $0.50
+*** TURN *** [Tc 3d As] [5h]
+mspitolai: checks 
+maluko_br: checks 
+*** RIVER *** [Tc 3d As 5h] [3s]
+mspitolai: checks 
+maluko_br: checks 
+*** SHOW DOWN ***
+mspitolai: shows [Qs Jc] (a pair of Threes)
+maluko_br: shows [6c 6s] (two pair, Sixes and Threes)
+maluko_br collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [Tc 3d As 5h 3s]
+Seat 1: maluko_br (big blind) showed [6c 6s] and won ($2.65) with two pair, Sixes and Threes
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 8: veritopoker (button) folded before Flop (didn't bet)
+Seat 9: mspitolai (small blind) showed [Qs Jc] and lost with a pair of Threes
+
+
+
+PokerStars Game #19952426833:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:31:14 (ET)
+Table 'Montague II' 9-max Seat #9 is the button
+Seat 1: maluko_br ($16.90 in chips) 
+Seat 2: Alameda22 ($28.75 in chips) 
+Seat 3: Kukoc69 ($37.35 in chips) 
+Seat 5: FlagellumD ($25.20 in chips) 
+Seat 7: spartans1192 ($3.45 in chips) 
+Seat 8: veritopoker ($7.30 in chips) 
+Seat 9: mspitolai ($35.60 in chips) 
+maluko_br: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 4c]
+Kukoc69: folds 
+FlagellumD: folds 
+spartans1192: raises $3.20 to $3.45 and is all-in
+veritopoker: folds 
+mspitolai: folds 
+maluko_br: folds 
+patientplay1 joins the table at seat #4 
+Alameda22: folds 
+Uncalled bet ($3.20) returned to spartans1192
+spartans1192 collected $0.60 from pot
+spartans1192: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maluko_br (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 7: spartans1192 collected ($0.60)
+Seat 8: veritopoker folded before Flop (didn't bet)
+Seat 9: mspitolai (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952443618:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:31:54 (ET)
+Table 'Montague II' 9-max Seat #1 is the button
+Seat 1: maluko_br ($16.80 in chips) 
+Seat 2: Alameda22 ($28.50 in chips) 
+Seat 3: Kukoc69 ($37.35 in chips) 
+Seat 5: FlagellumD ($25.20 in chips) 
+Seat 7: spartans1192 ($3.80 in chips) 
+Seat 8: veritopoker ($7.30 in chips) 
+Seat 9: mspitolai ($35.60 in chips) 
+Alameda22: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+patientplay1: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 3h]
+FlagellumD: calls $0.25
+spartans1192: folds 
+veritopoker: folds 
+mspitolai: folds 
+maluko_br: calls $0.25
+Alameda22: folds 
+Kukoc69: raises $1 to $1.25
+FlagellumD: folds 
+maluko_br: folds 
+Uncalled bet ($1) returned to Kukoc69
+Kukoc69 collected $0.85 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: maluko_br (button) folded before Flop
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Kukoc69 (big blind) collected ($0.85)
+Seat 5: FlagellumD folded before Flop
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 8: veritopoker folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952461426:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:32:38 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 1: maluko_br ($16.55 in chips) 
+Seat 2: Alameda22 ($28.40 in chips) 
+Seat 3: Kukoc69 ($37.95 in chips) 
+Seat 4: patientplay1 ($5 in chips) 
+Seat 5: FlagellumD ($24.95 in chips) 
+Seat 7: spartans1192 ($3.80 in chips) 
+Seat 8: veritopoker ($7.30 in chips) 
+Seat 9: mspitolai ($35.60 in chips) 
+Kukoc69: posts small blind $0.10
+patientplay1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Jh]
+FlagellumD: folds 
+spartans1192: folds 
+veritopoker: raises $0.75 to $1
+mspitolai: calls $1
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+patientplay1: folds 
+*** FLOP *** [Qh Qs Qd]
+veritopoker: checks 
+mspitolai: bets $0.75
+veritopoker: folds 
+Uncalled bet ($0.75) returned to mspitolai
+mspitolai collected $2.25 from pot
+mspitolai: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Qh Qs Qd]
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Kukoc69 (small blind) folded before Flop
+Seat 4: patientplay1 (big blind) folded before Flop
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 8: veritopoker folded on the Flop
+Seat 9: mspitolai collected ($2.25)
+
+
+
+PokerStars Game #19952480824:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:33:25 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 1: maluko_br ($16.55 in chips) 
+Seat 2: Alameda22 ($28.40 in chips) 
+Seat 3: Kukoc69 ($37.85 in chips) 
+Seat 4: patientplay1 ($4.75 in chips) 
+Seat 5: FlagellumD ($24.95 in chips) 
+Seat 7: spartans1192 ($3.80 in chips) 
+Seat 8: veritopoker ($6.30 in chips) 
+Seat 9: mspitolai ($36.85 in chips) 
+patientplay1: posts small blind $0.10
+FlagellumD: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 6d]
+spartans1192: folds 
+veritopoker: folds 
+mspitolai: calls $0.25
+maluko_br: folds 
+maluko_br is sitting out
+Alameda22: folds 
+Kukoc69: folds 
+patientplay1: folds 
+FlagellumD: checks 
+*** FLOP *** [5h Ks Th]
+FlagellumD: checks 
+mspitolai: bets $0.50
+FlagellumD: folds 
+Uncalled bet ($0.50) returned to mspitolai
+mspitolai collected $0.60 from pot
+mspitolai: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [5h Ks Th]
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 4: patientplay1 (small blind) folded before Flop
+Seat 5: FlagellumD (big blind) folded on the Flop
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 8: veritopoker folded before Flop (didn't bet)
+Seat 9: mspitolai collected ($0.60)
+
+
+
+PokerStars Game #19952499511:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:34:10 (ET)
+Table 'Montague II' 9-max Seat #4 is the button
+Seat 2: Alameda22 ($28.40 in chips) 
+Seat 3: Kukoc69 ($37.85 in chips) 
+Seat 4: patientplay1 ($4.65 in chips) 
+Seat 5: FlagellumD ($24.70 in chips) 
+Seat 7: spartans1192 ($3.80 in chips) 
+Seat 8: veritopoker ($6.30 in chips) 
+Seat 9: mspitolai ($37.20 in chips) 
+FlagellumD: posts small blind $0.10
+spartans1192: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 3c]
+veritopoker: folds 
+mspitolai: folds 
+Alameda22: folds 
+Kukoc69: folds 
+patientplay1: folds 
+FlagellumD: calls $0.15
+spartans1192: checks 
+*** FLOP *** [Kc 2d 3s]
+FlagellumD: bets $0.25
+spartans1192: folds 
+Uncalled bet ($0.25) returned to FlagellumD
+FlagellumD collected $0.50 from pot
+FlagellumD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Kc 2d 3s]
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: patientplay1 (button) folded before Flop (didn't bet)
+Seat 5: FlagellumD (small blind) collected ($0.50)
+Seat 7: spartans1192 (big blind) folded on the Flop
+Seat 8: veritopoker folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952519322:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:34:59 (ET)
+Table 'Montague II' 9-max Seat #5 is the button
+Seat 2: Alameda22 ($28.40 in chips) 
+Seat 3: Kukoc69 ($37.85 in chips) 
+Seat 4: patientplay1 ($4.65 in chips) 
+Seat 5: FlagellumD ($24.95 in chips) 
+Seat 7: spartans1192 ($3.55 in chips) 
+Seat 8: veritopoker ($6.30 in chips) 
+Seat 9: mspitolai ($37.20 in chips) 
+ElSaNTiX joins the table at seat #6 
+spartans1192: posts small blind $0.10
+veritopoker: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 6c]
+mspitolai: calls $0.25
+Alameda22: folds 
+Kukoc69: folds 
+patientplay1: folds 
+FlagellumD: raises $0.25 to $0.50
+spartans1192: folds 
+veritopoker: calls $0.25
+mspitolai: calls $0.25
+*** FLOP *** [6s 3s Ts]
+veritopoker: checks 
+mspitolai: checks 
+FlagellumD: bets $0.25
+veritopoker: folds 
+mspitolai: calls $0.25
+*** TURN *** [6s 3s Ts] [8c]
+mspitolai: checks 
+FlagellumD: bets $0.50
+mspitolai: calls $0.50
+*** RIVER *** [6s 3s Ts 8c] [Kd]
+mspitolai: checks 
+maluko_br has returned
+FlagellumD: bets $1.50
+mspitolai: folds 
+Uncalled bet ($1.50) returned to FlagellumD
+FlagellumD collected $2.95 from pot
+FlagellumD: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [6s 3s Ts 8c Kd]
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: patientplay1 folded before Flop (didn't bet)
+Seat 5: FlagellumD (button) collected ($2.95)
+Seat 7: spartans1192 (small blind) folded before Flop
+Seat 8: veritopoker (big blind) folded on the Flop
+Seat 9: mspitolai folded on the River
+
+
+
+PokerStars Game #19952563786:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:36:51 (ET)
+Table 'Montague II' 9-max Seat #7 is the button
+Seat 1: maluko_br ($16.55 in chips) 
+Seat 2: Alameda22 ($28.40 in chips) 
+Seat 3: Kukoc69 ($37.85 in chips) 
+Seat 4: patientplay1 ($4.65 in chips) 
+Seat 5: FlagellumD ($26.65 in chips) 
+Seat 6: ElSaNTiX ($10 in chips) 
+Seat 7: spartans1192 ($3.45 in chips) 
+Seat 8: veritopoker ($5.80 in chips) 
+Seat 9: mspitolai ($35.95 in chips) 
+veritopoker: posts small blind $0.10
+mspitolai: posts big blind $0.25
+ElSaNTiX: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 8h]
+maluko_br: raises $0.25 to $0.50
+Alameda22: folds 
+Kukoc69: folds 
+patientplay1: calls $0.50
+FlagellumD: folds 
+ElSaNTiX: folds 
+spartans1192: raises $2.95 to $3.45 and is all-in
+veritopoker: folds 
+mspitolai: folds 
+maluko_br: folds 
+patientplay1: calls $2.95
+*** FLOP *** [7d 6s Qc]
+*** TURN *** [7d 6s Qc] [Js]
+*** RIVER *** [7d 6s Qc Js] [Kc]
+*** SHOW DOWN ***
+patientplay1: shows [7s As] (a pair of Sevens)
+spartans1192: shows [8c Kd] (a pair of Kings)
+spartans1192 collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [7d 6s Qc Js Kc]
+Seat 1: maluko_br folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: patientplay1 showed [7s As] and lost with a pair of Sevens
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: ElSaNTiX folded before Flop
+Seat 7: spartans1192 (button) showed [8c Kd] and won ($7.60) with a pair of Kings
+Seat 8: veritopoker (small blind) folded before Flop
+Seat 9: mspitolai (big blind) folded before Flop
+
+
+
+PokerStars Game #19952592335:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:38:01 (ET)
+Table 'Montague II' 9-max Seat #8 is the button
+Seat 1: maluko_br ($16.05 in chips) 
+Seat 2: Alameda22 ($28.40 in chips) 
+Seat 3: Kukoc69 ($37.85 in chips) 
+Seat 4: patientplay1 ($1.20 in chips) 
+Seat 5: FlagellumD ($26.65 in chips) 
+Seat 6: ElSaNTiX ($9.75 in chips) 
+Seat 7: spartans1192 ($7.60 in chips) 
+Seat 8: veritopoker ($5.70 in chips) 
+Seat 9: mspitolai ($35.70 in chips) 
+mspitolai: posts small blind $0.10
+maluko_br: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 6d]
+Alameda22: folds 
+Kukoc69: folds 
+spartans1192 said, "thanks for the money......CHUMP"
+patientplay1: raises $0.95 to $1.20 and is all-in
+FlagellumD: folds 
+ElSaNTiX: folds 
+spartans1192: folds 
+maluko_br said, "k8 spartans"
+veritopoker: calls $1.20
+mspitolai: folds 
+maluko_br: folds 
+*** FLOP *** [2s Th Jh]
+*** TURN *** [2s Th Jh] [4s]
+*** RIVER *** [2s Th Jh 4s] [4h]
+*** SHOW DOWN ***
+patientplay1: shows [5h 5c] (two pair, Fives and Fours)
+veritopoker: shows [Jd Js] (a full house, Jacks full of Fours)
+veritopoker collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [2s Th Jh 4s 4h]
+Seat 1: maluko_br (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: patientplay1 showed [5h 5c] and lost with two pair, Fives and Fours
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: ElSaNTiX folded before Flop (didn't bet)
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 8: veritopoker (button) showed [Jd Js] and won ($2.65) with a full house, Jacks full of Fours
+Seat 9: mspitolai (small blind) folded before Flop
+
+
+
+PokerStars Game #19952613604:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:38:54 (ET)
+Table 'Montague II' 9-max Seat #9 is the button
+Seat 1: maluko_br ($15.80 in chips) 
+Seat 2: Alameda22 ($28.40 in chips) 
+Seat 3: Kukoc69 ($37.85 in chips) 
+Seat 5: FlagellumD ($26.65 in chips) 
+Seat 6: ElSaNTiX ($9.75 in chips) 
+Seat 7: spartans1192 ($7.60 in chips) 
+Seat 8: veritopoker ($7.15 in chips) 
+Seat 9: mspitolai ($35.60 in chips) 
+maluko_br: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 5c]
+patientplay1 leaves the table
+maluko_br said, "strong"
+Kukoc69: folds 
+FlagellumD: folds 
+spartans1192 said, "strong enough to double me up"
+ElSaNTiX: folds 
+spartans1192: calls $0.25
+veritopoker: folds 
+mspitolai: folds 
+maluko_br: raises $0.25 to $0.50
+Alameda22: calls $0.25
+spartans1192: calls $0.25
+*** FLOP *** [4c 5h 8s]
+maluko_br: bets $1.50
+ventura1969 joins the table at seat #4 
+Alameda22: folds 
+spartans1192: raises $3 to $4.50
+spartans1192 said, "k8 again"
+maluko_br said, "eh"
+maluko_br said, "what"
+spartans1192 said, "thats what i have"
+maluko_br: raises $3 to $7.50
+spartans1192 said, "if youre wondering"
+spartans1192: calls $2.60 and is all-in
+Uncalled bet ($0.40) returned to maluko_br
+*** TURN *** [4c 5h 8s] [Kd]
+*** RIVER *** [4c 5h 8s Kd] [2h]
+*** SHOW DOWN ***
+maluko_br: shows [4d 4s] (three of a kind, Fours)
+spartans1192: shows [6d 7d] (a straight, Four to Eight)
+spartans1192 collected $14.95 from pot
+maluko_br said, "fish"
+*** SUMMARY ***
+Total pot $15.70 | Rake $0.75 
+Board [4c 5h 8s Kd 2h]
+Seat 1: maluko_br (small blind) showed [4d 4s] and lost with three of a kind, Fours
+Seat 2: Alameda22 (big blind) folded on the Flop
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: ElSaNTiX folded before Flop (didn't bet)
+Seat 7: spartans1192 showed [6d 7d] and won ($14.95) with a straight, Four to Eight
+Seat 8: veritopoker folded before Flop (didn't bet)
+Seat 9: mspitolai (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952660632:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:40:50 (ET)
+Table 'Montague II' 9-max Seat #1 is the button
+Seat 1: maluko_br ($8.20 in chips) 
+Seat 2: Alameda22 ($27.90 in chips) 
+Seat 3: Kukoc69 ($37.85 in chips) 
+Seat 5: FlagellumD ($26.65 in chips) 
+Seat 6: ElSaNTiX ($9.75 in chips) 
+Seat 7: spartans1192 ($14.95 in chips) 
+Seat 8: veritopoker ($7.15 in chips) 
+Seat 9: mspitolai ($35.60 in chips) 
+Alameda22: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+ventura1969: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Ks]
+FlagellumD: folds 
+ElSaNTiX: folds 
+spartans1192: folds 
+maluko_br said, "my money"
+veritopoker: folds 
+maluko_br said, "return"
+spartans1192 said, "hUh?"
+maluko_br said, "kkkkk"
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to Kukoc69
+Kukoc69 collected $0.20 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: maluko_br (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Kukoc69 (big blind) collected ($0.20)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: ElSaNTiX folded before Flop (didn't bet)
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 8: veritopoker folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952685334:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:41:51 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 1: maluko_br ($8.20 in chips) 
+Seat 2: Alameda22 ($27.80 in chips) 
+Seat 3: Kukoc69 ($37.95 in chips) 
+Seat 4: ventura1969 ($15 in chips) 
+Seat 5: FlagellumD ($26.65 in chips) 
+Seat 6: ElSaNTiX ($9.75 in chips) 
+Seat 7: spartans1192 ($14.95 in chips) 
+Seat 8: veritopoker ($7.15 in chips) 
+Seat 9: mspitolai ($35.60 in chips) 
+Kukoc69: posts small blind $0.10
+spartans1192 said, "dont be mad cause you overvalued bottom set"
+ventura1969: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 4h]
+FlagellumD: calls $0.25
+ElSaNTiX: folds 
+spartans1192: folds 
+veritopoker: folds 
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: calls $0.25
+Kukoc69: folds 
+ventura1969: checks 
+*** FLOP *** [3c 5c Js]
+ventura1969: checks 
+FlagellumD: checks 
+Alameda22: checks 
+*** TURN *** [3c 5c Js] [2h]
+ventura1969: checks 
+FlagellumD: bets $0.25
+Alameda22: calls $0.25
+ventura1969: folds 
+*** RIVER *** [3c 5c Js 2h] [2d]
+FlagellumD: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to FlagellumD
+FlagellumD collected $1.30 from pot
+FlagellumD: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [3c 5c Js 2h 2d]
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded on the River
+Seat 3: Kukoc69 (small blind) folded before Flop
+Seat 4: ventura1969 (big blind) folded on the Turn
+Seat 5: FlagellumD collected ($1.30)
+Seat 6: ElSaNTiX folded before Flop (didn't bet)
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 8: veritopoker folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952735328:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:43:56 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 1: maluko_br ($8.20 in chips) 
+Seat 2: Alameda22 ($27.30 in chips) 
+Seat 3: Kukoc69 ($37.85 in chips) 
+Seat 4: ventura1969 ($14.75 in chips) 
+Seat 5: FlagellumD ($27.45 in chips) 
+Seat 6: ElSaNTiX ($9.75 in chips) 
+Seat 7: spartans1192 ($14.95 in chips) 
+Seat 8: veritopoker ($7.15 in chips) 
+Seat 9: mspitolai ($35.60 in chips) 
+ventura1969: posts small blind $0.10
+FlagellumD: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 8d]
+ElSaNTiX: folds 
+spartans1192: folds 
+veritopoker: raises $0.75 to $1
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+ventura1969: folds 
+FlagellumD: folds 
+Uncalled bet ($0.75) returned to veritopoker
+maluko_br said, "what you would make with 444"
+veritopoker collected $0.60 from pot
+veritopoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 4: ventura1969 (small blind) folded before Flop
+Seat 5: FlagellumD (big blind) folded before Flop
+Seat 6: ElSaNTiX folded before Flop (didn't bet)
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 8: veritopoker collected ($0.60)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952754074:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:44:42 (ET)
+Table 'Montague II' 9-max Seat #4 is the button
+Seat 1: maluko_br ($8.20 in chips) 
+Seat 2: Alameda22 ($27.30 in chips) 
+Seat 3: Kukoc69 ($37.85 in chips) 
+Seat 4: ventura1969 ($14.65 in chips) 
+Seat 5: FlagellumD ($27.20 in chips) 
+Seat 6: ElSaNTiX ($9.75 in chips) 
+Seat 7: spartans1192 ($14.95 in chips) 
+Seat 8: veritopoker ($7.50 in chips) 
+Seat 9: mspitolai ($35.60 in chips) 
+FlagellumD: posts small blind $0.10
+ElSaNTiX: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 8d]
+spartans1192: folds 
+veritopoker: folds 
+mspitolai: folds 
+spartans1192 said, "i would have figured that its pstars so obviously somebody has the nuts"
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: raises $0.75 to $1
+ventura1969: folds 
+FlagellumD: folds 
+ElSaNTiX: folds 
+Uncalled bet ($0.75) returned to Kukoc69
+Kukoc69 collected $0.60 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 collected ($0.60)
+Seat 4: ventura1969 (button) folded before Flop (didn't bet)
+Seat 5: FlagellumD (small blind) folded before Flop
+Seat 6: ElSaNTiX (big blind) folded before Flop
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 8: veritopoker folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952783414:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:45:55 (ET)
+Table 'Montague II' 9-max Seat #5 is the button
+Seat 1: maluko_br ($8.20 in chips) 
+Seat 2: Alameda22 ($27.30 in chips) 
+Seat 3: Kukoc69 ($38.20 in chips) 
+Seat 4: ventura1969 ($14.65 in chips) 
+Seat 5: FlagellumD ($27.10 in chips) 
+Seat 6: ElSaNTiX ($9.50 in chips) 
+Seat 7: spartans1192 ($14.95 in chips) 
+Seat 8: veritopoker ($7.50 in chips) 
+Seat 9: mspitolai ($35.60 in chips) 
+ElSaNTiX: posts small blind $0.10
+spartans1192: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 8c]
+veritopoker: folds 
+mspitolai: folds 
+maluko_br: calls $0.25
+Alameda22: folds 
+Kukoc69: folds 
+ventura1969: calls $0.25
+maluko_br said, "it is possible no turn or the river"
+FlagellumD: calls $0.25
+ElSaNTiX: folds 
+spartans1192: checks 
+*** FLOP *** [Th 8h 5s]
+spartans1192: checks 
+maluko_br: checks 
+ventura1969: checks 
+FlagellumD: checks 
+*** TURN *** [Th 8h 5s] [7s]
+spartans1192: bets $0.75
+maluko_br: folds 
+ventura1969: raises $2.25 to $3
+FlagellumD: folds 
+spartans1192: calls $2.25
+*** RIVER *** [Th 8h 5s 7s] [9h]
+spartans1192: checks 
+ventura1969: checks 
+*** SHOW DOWN ***
+spartans1192: shows [6s 9c] (a straight, Six to Ten)
+ventura1969: shows [Jh 9s] (a straight, Seven to Jack)
+ventura1969 collected $6.75 from pot
+*** SUMMARY ***
+Total pot $7.10 | Rake $0.35 
+Board [Th 8h 5s 7s 9h]
+Seat 1: maluko_br folded on the Turn
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: ventura1969 showed [Jh 9s] and won ($6.75) with a straight, Seven to Jack
+Seat 5: FlagellumD (button) folded on the Turn
+Seat 6: ElSaNTiX (small blind) folded before Flop
+Seat 7: spartans1192 (big blind) showed [6s 9c] and lost with a straight, Six to Ten
+Seat 8: veritopoker folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952840203:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:48:17 (ET)
+Table 'Montague II' 9-max Seat #6 is the button
+Seat 1: maluko_br ($7.95 in chips) 
+Seat 2: Alameda22 ($27.30 in chips) 
+Seat 3: Kukoc69 ($38.20 in chips) 
+Seat 4: ventura1969 ($18.15 in chips) 
+Seat 5: FlagellumD ($26.85 in chips) 
+Seat 6: ElSaNTiX ($9.40 in chips) 
+Seat 7: spartans1192 ($11.70 in chips) 
+Seat 8: veritopoker ($7.50 in chips) 
+Seat 9: mspitolai ($35.60 in chips) 
+spartans1192: posts small blind $0.10
+veritopoker: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 4h]
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+ventura1969: folds 
+FlagellumD: folds 
+ElSaNTiX: folds 
+spartans1192: folds 
+Uncalled bet ($0.15) returned to veritopoker
+veritopoker collected $0.20 from pot
+veritopoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: ventura1969 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: ElSaNTiX (button) folded before Flop (didn't bet)
+Seat 7: spartans1192 (small blind) folded before Flop
+Seat 8: veritopoker (big blind) collected ($0.20)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952861683:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:49:10 (ET)
+Table 'Montague II' 9-max Seat #7 is the button
+Seat 1: maluko_br ($17.95 in chips) 
+Seat 2: Alameda22 ($27.30 in chips) 
+Seat 3: Kukoc69 ($38.20 in chips) 
+Seat 4: ventura1969 ($18.15 in chips) 
+Seat 5: FlagellumD ($26.85 in chips) 
+Seat 6: ElSaNTiX ($9.40 in chips) 
+Seat 7: spartans1192 ($11.60 in chips) 
+Seat 8: veritopoker ($7.60 in chips) 
+Seat 9: mspitolai ($35.60 in chips) 
+veritopoker: posts small blind $0.10
+mspitolai: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 3d]
+maluko_br: calls $0.25
+Alameda22: folds 
+Kukoc69: folds 
+ventura1969: folds 
+FlagellumD: folds 
+ElSaNTiX: calls $0.25
+spartans1192: folds 
+veritopoker: folds 
+mspitolai: checks 
+*** FLOP *** [Js Qd 2c]
+mspitolai: checks 
+maluko_br: checks 
+ElSaNTiX: bets $0.50
+mspitolai: folds 
+maluko_br: folds 
+Uncalled bet ($0.50) returned to ElSaNTiX
+ElSaNTiX collected $0.85 from pot
+ElSaNTiX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Js Qd 2c]
+Seat 1: maluko_br folded on the Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: ventura1969 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: ElSaNTiX collected ($0.85)
+Seat 7: spartans1192 (button) folded before Flop (didn't bet)
+Seat 8: veritopoker (small blind) folded before Flop
+Seat 9: mspitolai (big blind) folded on the Flop
+
+
+
+PokerStars Game #19952892625:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:50:27 (ET)
+Table 'Montague II' 9-max Seat #8 is the button
+Seat 1: maluko_br ($17.70 in chips) 
+Seat 2: Alameda22 ($27.30 in chips) 
+Seat 3: Kukoc69 ($38.20 in chips) 
+Seat 4: ventura1969 ($18.15 in chips) 
+Seat 5: FlagellumD ($26.85 in chips) 
+Seat 6: ElSaNTiX ($10 in chips) 
+Seat 7: spartans1192 ($11.60 in chips) 
+Seat 8: veritopoker ($7.50 in chips) 
+Seat 9: mspitolai ($35.35 in chips) 
+mspitolai: posts small blind $0.10
+maluko_br: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Td]
+Alameda22: folds 
+Kukoc69: folds 
+ventura1969: folds 
+FlagellumD: folds 
+ElSaNTiX: folds 
+spartans1192: calls $0.25
+veritopoker: folds 
+mspitolai: folds 
+maluko_br: checks 
+*** FLOP *** [2c 4s 9d]
+maluko_br: bets $0.50
+spartans1192: folds 
+Uncalled bet ($0.50) returned to maluko_br
+maluko_br collected $0.60 from pot
+maluko_br: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [2c 4s 9d]
+Seat 1: maluko_br (big blind) collected ($0.60)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: ventura1969 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: ElSaNTiX folded before Flop (didn't bet)
+Seat 7: spartans1192 folded on the Flop
+Seat 8: veritopoker (button) folded before Flop (didn't bet)
+Seat 9: mspitolai (small blind) folded before Flop
+
+
+
+PokerStars Game #19952920799:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:51:37 (ET)
+Table 'Montague II' 9-max Seat #9 is the button
+Seat 1: maluko_br ($18.05 in chips) 
+Seat 2: Alameda22 ($27.30 in chips) 
+Seat 3: Kukoc69 ($38.20 in chips) 
+Seat 4: ventura1969 ($18.15 in chips) 
+Seat 5: FlagellumD ($26.85 in chips) 
+Seat 6: ElSaNTiX ($10 in chips) 
+Seat 7: spartans1192 ($11.35 in chips) 
+Seat 8: veritopoker ($7.50 in chips) 
+Seat 9: mspitolai ($35.25 in chips) 
+maluko_br: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 8h]
+Kukoc69: folds 
+ventura1969: folds 
+FlagellumD: folds 
+ElSaNTiX: folds 
+spartans1192: folds 
+veritopoker: folds 
+mspitolai: folds 
+maluko_br: raises $0.25 to $0.50
+Alameda22: folds 
+Uncalled bet ($0.25) returned to maluko_br
+maluko_br collected $0.50 from pot
+maluko_br: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: maluko_br (small blind) collected ($0.50)
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: ventura1969 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: ElSaNTiX folded before Flop (didn't bet)
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 8: veritopoker folded before Flop (didn't bet)
+Seat 9: mspitolai (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952938320:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:52:21 (ET)
+Table 'Montague II' 9-max Seat #1 is the button
+Seat 1: maluko_br ($18.30 in chips) 
+Seat 2: Alameda22 ($27.05 in chips) 
+Seat 3: Kukoc69 ($38.20 in chips) 
+Seat 4: ventura1969 ($18.15 in chips) 
+Seat 5: FlagellumD ($26.85 in chips) 
+Seat 6: ElSaNTiX ($10 in chips) 
+Seat 7: spartans1192 ($11.35 in chips) 
+Seat 8: veritopoker ($7.50 in chips) 
+Seat 9: mspitolai ($35.25 in chips) 
+Alameda22: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Qc]
+ventura1969: folds 
+FlagellumD: folds 
+ElSaNTiX: folds 
+spartans1192: folds 
+veritopoker: folds 
+mspitolai: folds 
+maluko_br: calls $0.25
+Alameda22: raises $0.75 to $1
+Kukoc69: folds 
+maluko_br: folds 
+Uncalled bet ($0.75) returned to Alameda22
+Alameda22 collected $0.75 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: maluko_br (button) folded before Flop
+Seat 2: Alameda22 (small blind) collected ($0.75)
+Seat 3: Kukoc69 (big blind) folded before Flop
+Seat 4: ventura1969 folded before Flop (didn't bet)
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: ElSaNTiX folded before Flop (didn't bet)
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 8: veritopoker folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952958745:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:53:13 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 1: maluko_br ($18.05 in chips) 
+Seat 2: Alameda22 ($27.55 in chips) 
+Seat 3: Kukoc69 ($37.95 in chips) 
+Seat 4: ventura1969 ($18.15 in chips) 
+Seat 5: FlagellumD ($26.85 in chips) 
+Seat 6: ElSaNTiX ($10 in chips) 
+Seat 7: spartans1192 ($11.35 in chips) 
+Seat 8: veritopoker ($7.50 in chips) 
+Seat 9: mspitolai ($35.25 in chips) 
+Kukoc69: posts small blind $0.10
+ventura1969: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Jd]
+FlagellumD: folds 
+ElSaNTiX: folds 
+spartans1192: folds 
+veritopoker: raises $0.75 to $1
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+ventura1969: folds 
+Uncalled bet ($0.75) returned to veritopoker
+veritopoker collected $0.60 from pot
+veritopoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Kukoc69 (small blind) folded before Flop
+Seat 4: ventura1969 (big blind) folded before Flop
+Seat 5: FlagellumD folded before Flop (didn't bet)
+Seat 6: ElSaNTiX folded before Flop (didn't bet)
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 8: veritopoker collected ($0.60)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952975244:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:53:54 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 1: maluko_br ($18.05 in chips) 
+Seat 2: Alameda22 ($27.55 in chips) 
+Seat 3: Kukoc69 ($37.85 in chips) 
+Seat 4: ventura1969 ($17.90 in chips) 
+Seat 6: ElSaNTiX ($10 in chips) 
+Seat 7: spartans1192 ($11.35 in chips) 
+Seat 8: veritopoker ($7.85 in chips) 
+Seat 9: mspitolai ($35.25 in chips) 
+ventura1969: posts small blind $0.10
+FlagellumD: is sitting out 
+ElSaNTiX: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Ad]
+spartans1192: folds 
+spartans1192 leaves the table
+veritopoker: folds 
+WhiteApe777 joins the table at seat #7 
+WhiteApe777 is sitting out
+mspitolai: calls $0.25
+maluko_br: folds 
+Alameda22: folds 
+FlagellumD leaves the table
+Kukoc69: folds 
+ventura1969: calls $0.15
+ElSaNTiX: checks 
+*** FLOP *** [As 2s Kc]
+ventura1969: bets $0.50
+ElSaNTiX: folds 
+mspitolai: folds 
+Uncalled bet ($0.50) returned to ventura1969
+ventura1969 collected $0.75 from pot
+ventura1969: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [As 2s Kc]
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 4: ventura1969 (small blind) collected ($0.75)
+Seat 6: ElSaNTiX (big blind) folded on the Flop
+Seat 7: spartans1192 folded before Flop (didn't bet)
+Seat 8: veritopoker folded before Flop (didn't bet)
+Seat 9: mspitolai folded on the Flop
+
+
+
+PokerStars Game #19953001232:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:55:00 (ET)
+Table 'Montague II' 9-max Seat #4 is the button
+Seat 1: maluko_br ($18.05 in chips) 
+Seat 2: Alameda22 ($27.55 in chips) 
+Seat 3: Kukoc69 ($37.85 in chips) 
+Seat 4: ventura1969 ($18.40 in chips) 
+Seat 6: ElSaNTiX ($9.75 in chips) 
+Seat 8: veritopoker ($7.85 in chips) 
+Seat 9: mspitolai ($35 in chips) 
+ElSaNTiX: posts small blind $0.10
+veritopoker: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 3c]
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+ventura1969: folds 
+ElSaNTiX: folds 
+Uncalled bet ($0.15) returned to veritopoker
+veritopoker collected $0.20 from pot
+veritopoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: ventura1969 (button) folded before Flop (didn't bet)
+Seat 6: ElSaNTiX (small blind) folded before Flop
+Seat 8: veritopoker (big blind) collected ($0.20)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953014165:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:55:34 (ET)
+Table 'Montague II' 9-max Seat #6 is the button
+Seat 1: maluko_br ($18.05 in chips) 
+Seat 2: Alameda22 ($27.55 in chips) 
+Seat 3: Kukoc69 ($37.85 in chips) 
+Seat 4: ventura1969 ($18.40 in chips) 
+Seat 6: ElSaNTiX ($9.65 in chips) 
+Seat 8: veritopoker ($7.95 in chips) 
+Seat 9: mspitolai ($35 in chips) 
+veritopoker: posts small blind $0.10
+mspitolai: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 8h]
+molyen joins the table at seat #5 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+ventura1969: folds 
+ElSaNTiX: folds 
+veritopoker: folds 
+Uncalled bet ($0.15) returned to mspitolai
+WhiteApe777 has returned
+mspitolai collected $0.20 from pot
+mspitolai: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: ventura1969 folded before Flop (didn't bet)
+Seat 6: ElSaNTiX (button) folded before Flop (didn't bet)
+Seat 8: veritopoker (small blind) folded before Flop
+Seat 9: mspitolai (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19953029247:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:56:13 (ET)
+Table 'Montague II' 9-max Seat #8 is the button
+Seat 1: maluko_br ($18.05 in chips) 
+Seat 2: Alameda22 ($27.55 in chips) 
+Seat 3: Kukoc69 ($37.85 in chips) 
+Seat 4: ventura1969 ($18.40 in chips) 
+Seat 6: ElSaNTiX ($9.65 in chips) 
+Seat 8: veritopoker ($7.85 in chips) 
+Seat 9: mspitolai ($35.10 in chips) 
+mspitolai: posts small blind $0.10
+maluko_br: posts big blind $0.25
+molyen: sits out 
+WhiteApe777: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Js]
+Alameda22: folds 
+Kukoc69: raises $0.75 to $1
+ventura1969: folds 
+ElSaNTiX: calls $1
+veritopoker: folds 
+mspitolai: folds 
+maluko_br: folds 
+*** FLOP *** [4d 3s Th]
+Kukoc69: bets $0.50
+ElSaNTiX: folds 
+Uncalled bet ($0.50) returned to Kukoc69
+Kukoc69 collected $2.25 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [4d 3s Th]
+Seat 1: maluko_br (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 collected ($2.25)
+Seat 4: ventura1969 folded before Flop (didn't bet)
+Seat 6: ElSaNTiX folded on the Flop
+Seat 8: veritopoker (button) folded before Flop (didn't bet)
+Seat 9: mspitolai (small blind) folded before Flop
+
+
+
+PokerStars Game #19953052687:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:57:13 (ET)
+Table 'Montague II' 9-max Seat #9 is the button
+Seat 1: maluko_br ($17.80 in chips) 
+Seat 2: Alameda22 ($27.55 in chips) 
+Seat 3: Kukoc69 ($39.10 in chips) 
+Seat 4: ventura1969 ($18.40 in chips) 
+Seat 6: ElSaNTiX ($8.65 in chips) 
+Seat 8: veritopoker ($7.85 in chips) 
+Seat 9: mspitolai ($35 in chips) 
+maluko_br: posts small blind $0.10
+Alameda22: posts big blind $0.25
+molyen: sits out 
+WhiteApe777: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 3c]
+Kukoc69: raises $0.75 to $1
+ventura1969: folds 
+ElSaNTiX: folds 
+veritopoker: folds 
+mspitolai: calls $1
+maluko_br: folds 
+Alameda22: folds 
+*** FLOP *** [4d 4c 9c]
+Kukoc69: bets $1.75
+mspitolai: folds 
+Uncalled bet ($1.75) returned to Kukoc69
+Kukoc69 collected $2.25 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [4d 4c 9c]
+Seat 1: maluko_br (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: Kukoc69 collected ($2.25)
+Seat 4: ventura1969 folded before Flop (didn't bet)
+Seat 6: ElSaNTiX folded before Flop (didn't bet)
+Seat 8: veritopoker folded before Flop (didn't bet)
+Seat 9: mspitolai (button) folded on the Flop
+
+
+
+PokerStars Game #19953079197:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:58:21 (ET)
+Table 'Montague II' 9-max Seat #1 is the button
+Seat 1: maluko_br ($17.70 in chips) 
+Seat 2: Alameda22 ($27.30 in chips) 
+Seat 3: Kukoc69 ($40.35 in chips) 
+Seat 4: ventura1969 ($18.40 in chips) 
+Seat 6: ElSaNTiX ($8.65 in chips) 
+Seat 8: veritopoker ($7.85 in chips) 
+Seat 9: mspitolai ($34 in chips) 
+Alameda22: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+molyen: sits out 
+WhiteApe777: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 2s]
+ventura1969: folds 
+ElSaNTiX: folds 
+veritopoker: raises $0.75 to $1
+mspitolai: folds 
+maluko_br: calls $1
+Alameda22: folds 
+Kukoc69: folds 
+*** FLOP *** [2c 7c Qh]
+ventura1969 leaves the table
+veritopoker: bets $1.75
+maluko_br: calls $1.75
+*** TURN *** [2c 7c Qh] [Jd]
+veritopoker: checks 
+maluko_br: bets $1.50
+veritopoker: calls $1.50
+*** RIVER *** [2c 7c Qh Jd] [Ts]
+veritopoker: bets $3.60 and is all-in
+maluko_br: folds 
+Uncalled bet ($3.60) returned to veritopoker
+veritopoker collected $8.45 from pot
+veritopoker: shows [6d 6s] (a pair of Sixes)
+*** SUMMARY ***
+Total pot $8.85 | Rake $0.40 
+Board [2c 7c Qh Jd Ts]
+Seat 1: maluko_br (button) folded on the River
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Kukoc69 (big blind) folded before Flop
+Seat 4: ventura1969 folded before Flop (didn't bet)
+Seat 6: ElSaNTiX folded before Flop (didn't bet)
+Seat 8: veritopoker collected ($8.45)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953106341:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:59:30 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 1: maluko_br ($13.45 in chips) 
+Seat 2: Alameda22 ($27.20 in chips) 
+Seat 3: Kukoc69 ($40.10 in chips) 
+Seat 5: molyen ($5 in chips) 
+Seat 6: ElSaNTiX ($8.65 in chips) 
+Seat 8: veritopoker ($12.05 in chips) 
+Seat 9: mspitolai ($34 in chips) 
+Kukoc69: posts small blind $0.10
+molyen: posts big blind $0.25
+WhiteApe777: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Jd]
+ElSaNTiX: calls $0.25
+veritopoker: raises $1 to $1.25
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+molyen: folds 
+helios25 joins the table at seat #4 
+ElSaNTiX: calls $1
+*** FLOP *** [Ts Qd 5s]
+ElSaNTiX: bets $0.50
+veritopoker: calls $0.50
+*** TURN *** [Ts Qd 5s] [3c]
+ElSaNTiX: bets $0.50
+veritopoker: folds 
+Uncalled bet ($0.50) returned to ElSaNTiX
+ElSaNTiX collected $3.70 from pot
+ElSaNTiX: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [Ts Qd 5s 3c]
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Kukoc69 (small blind) folded before Flop
+Seat 5: molyen (big blind) folded before Flop
+Seat 6: ElSaNTiX collected ($3.70)
+Seat 8: veritopoker folded on the Turn
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953139915:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:00:54 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 1: maluko_br ($23.45 in chips) 
+Seat 2: Alameda22 ($27.20 in chips) 
+Seat 3: Kukoc69 ($40 in chips) 
+Seat 5: molyen ($4.75 in chips) 
+Seat 6: ElSaNTiX ($10.60 in chips) 
+Seat 8: veritopoker ($10.30 in chips) 
+Seat 9: mspitolai ($34 in chips) 
+helios25 will be allowed to play after the button
+molyen: posts small blind $0.10
+ElSaNTiX: posts big blind $0.25
+WhiteApe777: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Qs]
+veritopoker: raises $0.75 to $1
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+molyen: folds 
+ElSaNTiX: raises $1.25 to $2.25
+veritopoker: raises $8.05 to $10.30 and is all-in
+ElSaNTiX: calls $8.05
+*** FLOP *** [8d Ah 4c]
+*** TURN *** [8d Ah 4c] [Ts]
+*** RIVER *** [8d Ah 4c Ts] [2s]
+*** SHOW DOWN ***
+ElSaNTiX: shows [Ac As] (three of a kind, Aces)
+veritopoker: shows [Td Tc] (three of a kind, Tens)
+ElSaNTiX collected $19.70 from pot
+*** SUMMARY ***
+Total pot $20.70 | Rake $1 
+Board [8d Ah 4c Ts 2s]
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 5: molyen (small blind) folded before Flop
+Seat 6: ElSaNTiX (big blind) showed [Ac As] and won ($19.70) with three of a kind, Aces
+Seat 8: veritopoker showed [Td Tc] and lost with three of a kind, Tens
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953163565:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:01:53 (ET)
+Table 'Montague II' 9-max Seat #5 is the button
+Seat 1: maluko_br ($23.45 in chips) 
+Seat 2: Alameda22 ($27.20 in chips) 
+Seat 3: Kukoc69 ($40 in chips) 
+Seat 5: molyen ($4.65 in chips) 
+Seat 6: ElSaNTiX ($20 in chips) 
+Seat 7: WhiteApe777 ($25 in chips) 
+Seat 9: mspitolai ($34 in chips) 
+ElSaNTiX: posts small blind $0.10
+WhiteApe777: posts big blind $0.25
+veritopoker leaves the table
+helios25: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Kd]
+mspitolai: folds 
+maluko_br: raises $0.50 to $0.75
+Alameda22: folds 
+Kukoc69: folds 
+molyen: folds 
+ElSaNTiX: folds 
+WhiteApe777: folds 
+Uncalled bet ($0.50) returned to maluko_br
+maluko_br collected $0.60 from pot
+maluko_br: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maluko_br collected ($0.60)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: molyen (button) folded before Flop (didn't bet)
+Seat 6: ElSaNTiX (small blind) folded before Flop
+Seat 7: WhiteApe777 (big blind) folded before Flop
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953184657:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:02:46 (ET)
+Table 'Montague II' 9-max Seat #6 is the button
+Seat 1: maluko_br ($23.80 in chips) 
+Seat 2: Alameda22 ($27.20 in chips) 
+Seat 3: Kukoc69 ($40 in chips) 
+Seat 5: molyen ($4.65 in chips) 
+Seat 6: ElSaNTiX ($19.90 in chips) 
+Seat 7: WhiteApe777 ($24.75 in chips) 
+Seat 9: mspitolai ($34 in chips) 
+WhiteApe777: posts small blind $0.10
+mspitolai: posts big blind $0.25
+helios25: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 8c]
+maluko_br: folds 
+Alameda22: folds 
+NikoBuddah joins the table at seat #8 
+Kukoc69: folds 
+molyen: raises $0.50 to $0.75
+ElSaNTiX: folds 
+WhiteApe777: calls $0.65
+mspitolai: folds 
+*** FLOP *** [4c 5c 7d]
+WhiteApe777: bets $1.20
+molyen: calls $1.20
+*** TURN *** [4c 5c 7d] [Ts]
+WhiteApe777: checks 
+molyen: checks 
+*** RIVER *** [4c 5c 7d Ts] [Qh]
+WhiteApe777: checks 
+molyen: checks 
+*** SHOW DOWN ***
+WhiteApe777: shows [9d 9s] (a pair of Nines)
+molyen: mucks hand 
+WhiteApe777 collected $3.95 from pot
+*** SUMMARY ***
+Total pot $4.15 | Rake $0.20 
+Board [4c 5c 7d Ts Qh]
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: molyen mucked [2h 5h]
+Seat 6: ElSaNTiX (button) folded before Flop (didn't bet)
+Seat 7: WhiteApe777 (small blind) showed [9d 9s] and won ($3.95) with a pair of Nines
+Seat 9: mspitolai (big blind) folded before Flop
+
+
+
+PokerStars Game #19953209118:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:03:48 (ET)
+Table 'Montague II' 9-max Seat #7 is the button
+Seat 1: maluko_br ($23.80 in chips) 
+Seat 2: Alameda22 ($27.20 in chips) 
+Seat 3: Kukoc69 ($40 in chips) 
+Seat 5: molyen ($2.70 in chips) 
+Seat 6: ElSaNTiX ($19.90 in chips) 
+Seat 7: WhiteApe777 ($26.75 in chips) 
+Seat 9: mspitolai ($33.75 in chips) 
+NikoBuddah will be allowed to play after the button
+mspitolai: posts small blind $0.10
+maluko_br: posts big blind $0.25
+helios25: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Kh]
+Alameda22: raises $0.50 to $0.75
+Kukoc69: folds 
+molyen: folds 
+ElSaNTiX: folds 
+WhiteApe777: folds 
+mspitolai: folds 
+maluko_br: calls $0.50
+*** FLOP *** [Ad 5d 2c]
+maluko_br: checks 
+Alameda22: bets $1
+maluko_br: folds 
+Uncalled bet ($1) returned to Alameda22
+Alameda22 collected $1.55 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Ad 5d 2c]
+Seat 1: maluko_br (big blind) folded on the Flop
+Seat 2: Alameda22 collected ($1.55)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: ElSaNTiX folded before Flop (didn't bet)
+Seat 7: WhiteApe777 (button) folded before Flop (didn't bet)
+Seat 9: mspitolai (small blind) folded before Flop
+
+
+
+PokerStars Game #19953235454:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:04:55 (ET)
+Table 'Montague II' 9-max Seat #9 is the button
+Seat 1: maluko_br ($25 in chips) 
+Seat 2: Alameda22 ($28 in chips) 
+Seat 3: Kukoc69 ($40 in chips) 
+Seat 5: molyen ($2.70 in chips) 
+Seat 6: ElSaNTiX ($19.90 in chips) 
+Seat 7: WhiteApe777 ($26.75 in chips) 
+Seat 8: NikoBuddah ($5 in chips) 
+Seat 9: mspitolai ($33.65 in chips) 
+maluko_br: posts small blind $0.10
+Alameda22: posts big blind $0.25
+helios25: sits out 
+NikoBuddah: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Qs]
+Kukoc69: folds 
+molyen: folds 
+ElSaNTiX: folds 
+WhiteApe777: folds 
+NikoBuddah: checks 
+mspitolai: folds 
+maluko_br: calls $0.15
+Alameda22: checks 
+*** FLOP *** [6d 7c 4s]
+maluko_br: checks 
+Alameda22: checks 
+NikoBuddah: bets $1.75
+maluko_br: calls $1.75
+Alameda22: folds 
+*** TURN *** [6d 7c 4s] [Jd]
+maluko_br: checks 
+NikoBuddah: bets $3 and is all-in
+maluko_br: folds 
+Uncalled bet ($3) returned to NikoBuddah
+NikoBuddah collected $4.05 from pot
+NikoBuddah: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [6d 7c 4s Jd]
+Seat 1: maluko_br (small blind) folded on the Turn
+Seat 2: Alameda22 (big blind) folded on the Flop
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: ElSaNTiX folded before Flop (didn't bet)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: NikoBuddah collected ($4.05)
+Seat 9: mspitolai (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953274175:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:06:32 (ET)
+Table 'Montague II' 9-max Seat #1 is the button
+Seat 1: maluko_br ($24.45 in chips) 
+Seat 2: Alameda22 ($27.75 in chips) 
+Seat 3: Kukoc69 ($40 in chips) 
+Seat 5: molyen ($2.70 in chips) 
+Seat 6: ElSaNTiX ($19.90 in chips) 
+Seat 7: WhiteApe777 ($26.75 in chips) 
+Seat 8: NikoBuddah ($7.05 in chips) 
+Seat 9: mspitolai ($33.65 in chips) 
+Alameda22: posts small blind $0.10
+Kukoc69: posts big blind $0.25
+helios25: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c As]
+molyen: raises $0.75 to $1
+ElSaNTiX: folds 
+WhiteApe777: folds 
+NikoBuddah: calls $1
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+*** FLOP *** [Kc Th 2h]
+molyen: bets $1.70 and is all-in
+NikoBuddah: calls $1.70
+*** TURN *** [Kc Th 2h] [Jh]
+*** RIVER *** [Kc Th 2h Jh] [4s]
+*** SHOW DOWN ***
+molyen: shows [Qd Ac] (a straight, Ten to Ace)
+NikoBuddah: shows [Ad Qh] (a straight, Ten to Ace)
+molyen collected $2.75 from pot
+NikoBuddah collected $2.75 from pot
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.25 
+Board [Kc Th 2h Jh 4s]
+Seat 1: maluko_br (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Kukoc69 (big blind) folded before Flop
+Seat 5: molyen showed [Qd Ac] and won ($2.75) with a straight, Ten to Ace
+Seat 6: ElSaNTiX folded before Flop (didn't bet)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: NikoBuddah showed [Ad Qh] and won ($2.75) with a straight, Ten to Ace
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953296193:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:07:28 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 1: maluko_br ($24.45 in chips) 
+Seat 2: Alameda22 ($27.65 in chips) 
+Seat 3: Kukoc69 ($39.75 in chips) 
+Seat 4: helios25 ($25 in chips) 
+Seat 5: molyen ($2.75 in chips) 
+Seat 6: ElSaNTiX ($19.90 in chips) 
+Seat 7: WhiteApe777 ($26.75 in chips) 
+Seat 8: NikoBuddah ($7.10 in chips) 
+Seat 9: mspitolai ($33.65 in chips) 
+Kukoc69: posts small blind $0.10
+helios25: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah As]
+molyen: folds 
+ElSaNTiX: folds 
+WhiteApe777: folds 
+NikoBuddah: raises $0.75 to $1
+mspitolai: folds 
+maluko_br: calls $1
+Alameda22: raises $2 to $3
+Kukoc69: folds 
+helios25: folds 
+NikoBuddah: raises $4.10 to $7.10 and is all-in
+maluko_br: calls $6.10
+Alameda22: raises $20.55 to $27.65 and is all-in
+maluko_br: calls $17.35 and is all-in
+Uncalled bet ($3.20) returned to Alameda22
+*** FLOP *** [9h 6c 5d]
+*** TURN *** [9h 6c 5d] [Qs]
+*** RIVER *** [9h 6c 5d Qs] [7s]
+*** SHOW DOWN ***
+maluko_br: shows [7h 8h] (a straight, Five to Nine)
+Alameda22: mucks hand 
+maluko_br collected $32.95 from side pot
+NikoBuddah: mucks hand 
+maluko_br collected $20.60 from main pot
+maluko_br said, "nh"
+*** SUMMARY ***
+Total pot $56.35 Main pot $20.60. Side pot $32.95. | Rake $2.80 
+Board [9h 6c 5d Qs 7s]
+Seat 1: maluko_br showed [7h 8h] and won ($53.55) with a straight, Five to Nine
+Seat 2: Alameda22 (button) mucked [Ah As]
+Seat 3: Kukoc69 (small blind) folded before Flop
+Seat 4: helios25 (big blind) folded before Flop
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: ElSaNTiX folded before Flop (didn't bet)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: NikoBuddah mucked [Ks Ac]
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953337822:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:09:15 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 1: maluko_br ($53.55 in chips) 
+Seat 2: Alameda22 ($3.20 in chips) 
+Seat 3: Kukoc69 ($39.65 in chips) 
+Seat 4: helios25 ($24.75 in chips) 
+Seat 5: molyen ($2.75 in chips) 
+Seat 6: ElSaNTiX ($19.90 in chips) 
+Seat 7: WhiteApe777 ($26.75 in chips) 
+Seat 9: mspitolai ($33.65 in chips) 
+helios25: posts small blind $0.10
+molyen: posts big blind $0.25
+maluko_br said, "maluko"
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 4h]
+ElSaNTiX: folds 
+WhiteApe777: raises $0.75 to $1
+mspitolai: calls $1
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+maluko_br said, "ufa"
+helios25: folds 
+NikoBuddah has returned
+ElSaNTiX leaves the table
+molyen: folds 
+*** FLOP *** [5c 7d Qh]
+WhiteApe777: bets $1.60
+mspitolai: folds 
+Uncalled bet ($1.60) returned to WhiteApe777
+WhiteApe777 collected $2.25 from pot
+WhiteApe777: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [5c 7d Qh]
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 (button) folded before Flop (didn't bet)
+Seat 4: helios25 (small blind) folded before Flop
+Seat 5: molyen (big blind) folded before Flop
+Seat 6: ElSaNTiX folded before Flop (didn't bet)
+Seat 7: WhiteApe777 collected ($2.25)
+Seat 9: mspitolai folded on the Flop
+
+
+
+PokerStars Game #19953365579:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:10:27 (ET)
+Table 'Montague II' 9-max Seat #4 is the button
+Seat 1: maluko_br ($53.55 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: Kukoc69 ($39.65 in chips) 
+Seat 4: helios25 ($24.65 in chips) 
+Seat 5: molyen ($2.50 in chips) 
+Seat 7: WhiteApe777 ($28 in chips) 
+Seat 8: NikoBuddah ($5 in chips) 
+Seat 9: mspitolai ($32.65 in chips) 
+molyen: posts small blind $0.10
+WhiteApe777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 8s]
+NikoBuddah: folds 
+mspitolai: folds 
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: raises $0.75 to $1
+littlesammy2 joins the table at seat #6 
+helios25: folds 
+molyen: folds 
+WhiteApe777: folds 
+Uncalled bet ($0.75) returned to Kukoc69
+Kukoc69 collected $0.60 from pot
+Kukoc69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 collected ($0.60)
+Seat 4: helios25 (button) folded before Flop (didn't bet)
+Seat 5: molyen (small blind) folded before Flop
+Seat 7: WhiteApe777 (big blind) folded before Flop
+Seat 8: NikoBuddah folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953385217:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:11:18 (ET)
+Table 'Montague II' 9-max Seat #5 is the button
+Seat 1: maluko_br ($53.55 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: Kukoc69 ($40 in chips) 
+Seat 4: helios25 ($24.65 in chips) 
+Seat 5: molyen ($2.40 in chips) 
+Seat 7: WhiteApe777 ($27.75 in chips) 
+Seat 8: NikoBuddah ($5 in chips) 
+Seat 9: mspitolai ($32.65 in chips) 
+littlesammy2 will be allowed to play after the button
+WhiteApe777: posts small blind $0.10
+NikoBuddah: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 8h]
+mspitolai: raises $1 to $1.25
+maluko_br: folds 
+Alameda22: folds 
+Kukoc69: folds 
+Kukoc69 leaves the table
+helios25: folds 
+molyen: folds 
+WhiteApe777: folds 
+NikoBuddah: folds 
+Uncalled bet ($1) returned to mspitolai
+mspitolai collected $0.60 from pot
+mspitolai: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: maluko_br folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Kukoc69 folded before Flop (didn't bet)
+Seat 4: helios25 folded before Flop (didn't bet)
+Seat 5: molyen (button) folded before Flop (didn't bet)
+Seat 7: WhiteApe777 (small blind) folded before Flop
+Seat 8: NikoBuddah (big blind) folded before Flop
+Seat 9: mspitolai collected ($0.60)
+
+
+
+PokerStars Game #19953402717:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:12:04 (ET)
+Table 'Montague II' 9-max Seat #7 is the button
+Seat 1: maluko_br ($53.55 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 4: helios25 ($24.65 in chips) 
+Seat 5: molyen ($2.40 in chips) 
+Seat 6: littlesammy2 ($15 in chips) 
+Seat 7: WhiteApe777 ($27.65 in chips) 
+Seat 8: NikoBuddah ($4.75 in chips) 
+Seat 9: mspitolai ($33 in chips) 
+NikoBuddah: posts small blind $0.10
+yjqian23 joins the table at seat #3 
+mspitolai: posts big blind $0.25
+littlesammy2: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Qc]
+maluko_br: calls $0.25
+Alameda22: folds 
+helios25: calls $0.25
+molyen: raises $2.15 to $2.40 and is all-in
+littlesammy2: folds 
+WhiteApe777: folds 
+NikoBuddah: folds 
+mspitolai: folds 
+maluko_br: folds 
+helios25: folds 
+Uncalled bet ($2.15) returned to molyen
+molyen collected $1.35 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0 
+Seat 1: maluko_br folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: helios25 folded before Flop
+Seat 5: molyen collected ($1.35)
+Seat 6: littlesammy2 folded before Flop
+Seat 7: WhiteApe777 (button) folded before Flop (didn't bet)
+Seat 8: NikoBuddah (small blind) folded before Flop
+Seat 9: mspitolai (big blind) folded before Flop
+
+
+
+PokerStars Game #19953424951:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:13:03 (ET)
+Table 'Montague II' 9-max Seat #8 is the button
+Seat 1: maluko_br ($53.30 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 4: helios25 ($24.40 in chips) 
+Seat 5: molyen ($3.50 in chips) 
+Seat 6: littlesammy2 ($14.75 in chips) 
+Seat 7: WhiteApe777 ($27.65 in chips) 
+Seat 8: NikoBuddah ($4.65 in chips) 
+Seat 9: mspitolai ($32.75 in chips) 
+mspitolai: posts small blind $0.10
+maluko_br: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Kd]
+Alameda22: folds 
+helios25: raises $0.75 to $1
+molyen: folds 
+littlesammy2: folds 
+WhiteApe777: folds 
+NikoBuddah: folds 
+mspitolai: raises $1.25 to $2.25
+maluko_br: folds 
+helios25: calls $1.25
+*** FLOP *** [5s Kh 4c]
+mspitolai: bets $2
+helios25: folds 
+Uncalled bet ($2) returned to mspitolai
+maluko_br is sitting out
+mspitolai collected $4.55 from pot
+mspitolai: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [5s Kh 4c]
+Seat 1: maluko_br (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: helios25 folded on the Flop
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: NikoBuddah (button) folded before Flop (didn't bet)
+Seat 9: mspitolai (small blind) collected ($4.55)
+
+
+
+PokerStars Game #19953450440:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:14:11 (ET)
+Table 'Montague II' 9-max Seat #9 is the button
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: yjqian23 ($25 in chips) 
+Seat 4: helios25 ($22.15 in chips) 
+Seat 5: molyen ($3.50 in chips) 
+Seat 6: littlesammy2 ($14.75 in chips) 
+Seat 7: WhiteApe777 ($27.65 in chips) 
+Seat 8: NikoBuddah ($4.65 in chips) 
+Seat 9: mspitolai ($35.05 in chips) 
+Alameda22: posts small blind $0.10
+yjqian23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 2h]
+helios25: folds 
+molyen: folds 
+littlesammy2: folds 
+WhiteApe777: folds 
+NikoBuddah: calls $0.25
+mspitolai: folds 
+maluko_br leaves the table
+Alameda22: folds 
+yjqian23: checks 
+*** FLOP *** [2c 8d Ac]
+yjqian23: bets $0.25
+NikoBuddah: raises $1 to $1.25
+yjqian23: calls $1
+*** TURN *** [2c 8d Ac] [Kc]
+yjqian23: checks 
+NikoBuddah: bets $3.15 and is all-in
+yjqian23: calls $3.15
+*** RIVER *** [2c 8d Ac Kc] [Qh]
+*** SHOW DOWN ***
+yjqian23: shows [Jc 7c] (a flush, Ace high)
+WongPlayer joins the table at seat #1 
+NikoBuddah: mucks hand 
+yjqian23 collected $8.95 from pot
+NikoBuddah leaves the table
+*** SUMMARY ***
+Total pot $9.40 | Rake $0.45 
+Board [2c 8d Ac Kc Qh]
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: yjqian23 (big blind) showed [Jc 7c] and won ($8.95) with a flush, Ace high
+Seat 4: helios25 folded before Flop (didn't bet)
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: NikoBuddah mucked [4d Ad]
+Seat 9: mspitolai (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953482771:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:15:25 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 1: WongPlayer ($20 in chips) 
+Seat 2: Alameda22 ($24.90 in chips) 
+Seat 3: yjqian23 ($29.30 in chips) 
+Seat 4: helios25 ($25 in chips) 
+Seat 5: molyen ($3.50 in chips) 
+Seat 6: littlesammy2 ($14.75 in chips) 
+Seat 7: WhiteApe777 ($27.65 in chips) 
+Seat 9: mspitolai ($35.05 in chips) 
+yjqian23: posts small blind $0.10
+helios25: posts big blind $0.25
+WongPlayer: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Td]
+molyen: folds 
+littlesammy2: folds 
+WhiteApe777: folds 
+mspitolai: folds 
+WongPlayer: checks 
+sqwegy sqwee joins the table at seat #8 
+Alameda22: raises $0.75 to $1
+yjqian23: calls $0.90
+helios25: folds 
+WongPlayer: calls $0.75
+*** FLOP *** [2d Qd Tc]
+yjqian23: bets $0.25
+WongPlayer: folds 
+Alameda22: raises $2 to $2.25
+yjqian23: calls $2
+*** TURN *** [2d Qd Tc] [5s]
+yjqian23: bets $0.25
+Alameda22: raises $5 to $5.25
+yjqian23: raises $5 to $10.25
+Alameda22: raises $11.40 to $21.65 and is all-in
+yjqian23: calls $11.40
+*** RIVER *** [2d Qd Tc 5s] [5c]
+*** SHOW DOWN ***
+yjqian23: shows [Kc Kd] (two pair, Kings and Fives)
+Alameda22: shows [Th Td] (a full house, Tens full of Fives)
+Alameda22 collected $48.55 from pot
+*** SUMMARY ***
+Total pot $51.05 | Rake $2.50 
+Board [2d Qd Tc 5s 5c]
+Seat 1: WongPlayer folded on the Flop
+Seat 2: Alameda22 (button) showed [Th Td] and won ($48.55) with a full house, Tens full of Fives
+Seat 3: yjqian23 (small blind) showed [Kc Kd] and lost with two pair, Kings and Fives
+Seat 4: helios25 (big blind) folded before Flop
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953538011:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:17:34 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 1: WongPlayer ($19 in chips) 
+Seat 2: Alameda22 ($48.55 in chips) 
+Seat 3: yjqian23 ($4.40 in chips) 
+Seat 4: helios25 ($24.75 in chips) 
+Seat 5: molyen ($3.50 in chips) 
+Seat 6: littlesammy2 ($14.75 in chips) 
+Seat 7: WhiteApe777 ($27.65 in chips) 
+Seat 8: sqwegy sqwee ($15 in chips) 
+Seat 9: mspitolai ($35.05 in chips) 
+helios25: posts small blind $0.10
+molyen: posts big blind $0.25
+sqwegy sqwee: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 2h]
+littlesammy2: folds 
+WhiteApe777: folds 
+sqwegy sqwee: raises $0.25 to $0.50
+mspitolai: folds 
+WongPlayer: folds 
+Alameda22: folds 
+yjqian23: calls $0.50
+helios25: folds 
+molyen: folds 
+*** FLOP *** [6s 2d Jc]
+sqwegy sqwee: bets $0.75
+yjqian23: folds 
+Uncalled bet ($0.75) returned to sqwegy sqwee
+sqwegy sqwee collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [6s 2d Jc]
+Seat 1: WongPlayer folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: yjqian23 (button) folded on the Flop
+Seat 4: helios25 (small blind) folded before Flop
+Seat 5: molyen (big blind) folded before Flop
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: sqwegy sqwee collected ($1.30)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953562777:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:18:33 (ET)
+Table 'Montague II' 9-max Seat #4 is the button
+Seat 1: WongPlayer ($19 in chips) 
+Seat 2: Alameda22 ($48.55 in chips) 
+Seat 3: yjqian23 ($23.90 in chips) 
+Seat 4: helios25 ($24.65 in chips) 
+Seat 5: molyen ($3.25 in chips) 
+Seat 6: littlesammy2 ($14.75 in chips) 
+Seat 7: WhiteApe777 ($27.65 in chips) 
+Seat 8: sqwegy sqwee ($15.80 in chips) 
+Seat 9: mspitolai ($35.05 in chips) 
+molyen: posts small blind $0.10
+littlesammy2: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Jc]
+WhiteApe777: folds 
+sqwegy sqwee: raises $0.50 to $0.75
+mspitolai: folds 
+WongPlayer: folds 
+Alameda22: raises $1.50 to $2.25
+yjqian23: folds 
+helios25: folds 
+molyen: folds 
+littlesammy2: folds 
+sqwegy sqwee: calls $1.50
+*** FLOP *** [4c Td 7h]
+sqwegy sqwee: bets $1.50
+Alameda22: raises $3 to $4.50
+sqwegy sqwee: raises $9.05 to $13.55 and is all-in
+Alameda22: calls $9.05
+*** TURN *** [4c Td 7h] [Ts]
+*** RIVER *** [4c Td 7h Ts] [8d]
+*** SHOW DOWN ***
+sqwegy sqwee: shows [Ac 9c] (a pair of Tens)
+Alameda22: shows [Jd Jc] (two pair, Jacks and Tens)
+Alameda22 collected $30.40 from pot
+*** SUMMARY ***
+Total pot $31.95 | Rake $1.55 
+Board [4c Td 7h Ts 8d]
+Seat 1: WongPlayer folded before Flop (didn't bet)
+Seat 2: Alameda22 showed [Jd Jc] and won ($30.40) with two pair, Jacks and Tens
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: helios25 (button) folded before Flop (didn't bet)
+Seat 5: molyen (small blind) folded before Flop
+Seat 6: littlesammy2 (big blind) folded before Flop
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: sqwegy sqwee showed [Ac 9c] and lost with a pair of Tens
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953600430:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:20:03 (ET)
+Table 'Montague II' 9-max Seat #5 is the button
+Seat 1: WongPlayer ($19 in chips) 
+Seat 2: Alameda22 ($63.15 in chips) 
+Seat 3: yjqian23 ($23.90 in chips) 
+Seat 4: helios25 ($24.65 in chips) 
+Seat 5: molyen ($3.15 in chips) 
+Seat 6: littlesammy2 ($14.50 in chips) 
+Seat 7: WhiteApe777 ($27.65 in chips) 
+Seat 9: mspitolai ($35.05 in chips) 
+littlesammy2: posts small blind $0.10
+WhiteApe777 is disconnected 
+WhiteApe777 is connected 
+WhiteApe777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 2d]
+sqwegy sqwee leaves the table
+mspitolai: folds 
+WongPlayer: folds 
+Alameda22: folds 
+yjqian23: folds 
+helios25: raises $0.75 to $1
+molyen: folds 
+littlesammy2: folds 
+WhiteApe777: folds 
+Uncalled bet ($0.75) returned to helios25
+helios25 collected $0.60 from pot
+helios25: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: WongPlayer folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: helios25 collected ($0.60)
+Seat 5: molyen (button) folded before Flop (didn't bet)
+Seat 6: littlesammy2 (small blind) folded before Flop
+Seat 7: WhiteApe777 (big blind) folded before Flop
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953621102:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:20:53 (ET)
+Table 'Montague II' 9-max Seat #6 is the button
+Seat 1: WongPlayer ($19 in chips) 
+Seat 2: Alameda22 ($63.15 in chips) 
+Seat 3: yjqian23 ($23.90 in chips) 
+Seat 4: helios25 ($25 in chips) 
+Seat 5: molyen ($3.15 in chips) 
+Seat 6: littlesammy2 ($14.40 in chips) 
+Seat 7: WhiteApe777 ($27.40 in chips) 
+Seat 9: mspitolai ($35.05 in chips) 
+WhiteApe777: posts small blind $0.10
+mspitolai: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 7d]
+WongPlayer: calls $0.25
+Alameda22: folds 
+yjqian23: calls $0.25
+helios25: calls $0.25
+molyen: folds 
+littlesammy2: folds 
+WhiteApe777: calls $0.15
+mspitolai: checks 
+*** FLOP *** [3c 2c 7c]
+WhiteApe777: checks 
+Molkosk1 joins the table at seat #8 
+mspitolai: checks 
+WongPlayer: checks 
+yjqian23: checks 
+helios25: checks 
+*** TURN *** [3c 2c 7c] [6d]
+WhiteApe777: bets $1.10
+mspitolai: folds 
+WongPlayer: folds 
+yjqian23: calls $1.10
+helios25: folds 
+*** RIVER *** [3c 2c 7c 6d] [8h]
+WhiteApe777: checks 
+yjqian23: bets $2
+WhiteApe777: calls $2
+*** SHOW DOWN ***
+yjqian23: shows [6c 6s] (three of a kind, Sixes)
+WhiteApe777: mucks hand 
+yjqian23 collected $7.10 from pot
+*** SUMMARY ***
+Total pot $7.45 | Rake $0.35 
+Board [3c 2c 7c 6d 8h]
+Seat 1: WongPlayer folded on the Turn
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: yjqian23 showed [6c 6s] and won ($7.10) with three of a kind, Sixes
+Seat 4: helios25 folded on the Turn
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 (button) folded before Flop (didn't bet)
+Seat 7: WhiteApe777 (small blind) mucked [3d 3s]
+Seat 9: mspitolai (big blind) folded on the Turn
+
+
+
+PokerStars Game #19953665834:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:22:42 (ET)
+Table 'Montague II' 9-max Seat #7 is the button
+Seat 1: WongPlayer ($18.75 in chips) 
+Seat 2: Alameda22 ($63.15 in chips) 
+Seat 3: yjqian23 ($27.65 in chips) 
+Seat 4: helios25 ($24.75 in chips) 
+Seat 5: molyen ($3.15 in chips) 
+Seat 6: littlesammy2 ($14.40 in chips) 
+Seat 7: WhiteApe777 ($24.05 in chips) 
+Seat 9: mspitolai ($34.80 in chips) 
+Molkosk1 will be allowed to play after the button
+mspitolai: posts small blind $0.10
+WongPlayer: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 8h]
+Alameda22: folds 
+yjqian23: folds 
+helios25: raises $0.75 to $1
+molyen: folds 
+littlesammy2: calls $1
+WhiteApe777: raises $3.50 to $4.50
+mspitolai: folds 
+WongPlayer: folds 
+helios25: folds 
+littlesammy2: folds 
+Uncalled bet ($3.50) returned to WhiteApe777
+WhiteApe777 collected $3.35 from pot
+WhiteApe777: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0 
+Seat 1: WongPlayer (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: helios25 folded before Flop
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 folded before Flop
+Seat 7: WhiteApe777 (button) collected ($3.35)
+Seat 9: mspitolai (small blind) folded before Flop
+
+
+
+PokerStars Game #19953683987:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:23:27 (ET)
+Table 'Montague II' 9-max Seat #9 is the button
+Seat 1: WongPlayer ($18.50 in chips) 
+Seat 2: Alameda22 ($63.15 in chips) 
+Seat 3: yjqian23 ($27.65 in chips) 
+Seat 4: helios25 ($23.75 in chips) 
+Seat 5: molyen ($3.15 in chips) 
+Seat 6: littlesammy2 ($13.40 in chips) 
+Seat 7: WhiteApe777 ($26.40 in chips) 
+Seat 8: Molkosk1 ($15 in chips) 
+Seat 9: mspitolai ($34.70 in chips) 
+WongPlayer: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Molkosk1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 6s]
+yjqian23: folds 
+helios25: folds 
+molyen: folds 
+littlesammy2: folds 
+WhiteApe777: folds 
+Molkosk1: checks 
+mspitolai: folds 
+WongPlayer: calls $0.15
+Alameda22: checks 
+*** FLOP *** [4s As Th]
+WongPlayer: checks 
+Alameda22: checks 
+Molkosk1: checks 
+*** TURN *** [4s As Th] [Jc]
+WongPlayer: checks 
+Alameda22: checks 
+Molkosk1: checks 
+*** RIVER *** [4s As Th Jc] [8c]
+WongPlayer: checks 
+Alameda22: checks 
+Molkosk1: bets $0.50
+WongPlayer: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to Molkosk1
+Molkosk1 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [4s As Th Jc 8c]
+Seat 1: WongPlayer (small blind) folded on the River
+Seat 2: Alameda22 (big blind) folded on the River
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: helios25 folded before Flop (didn't bet)
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: Molkosk1 collected ($0.75)
+Seat 9: mspitolai (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953732271:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:25:27 (ET)
+Table 'Montague II' 9-max Seat #1 is the button
+Seat 1: WongPlayer ($18.25 in chips) 
+Seat 2: Alameda22 ($62.90 in chips) 
+Seat 4: helios25 ($23.75 in chips) 
+Seat 5: molyen ($3.15 in chips) 
+Seat 6: littlesammy2 ($13.40 in chips) 
+Seat 7: WhiteApe777 ($26.40 in chips) 
+Seat 8: Molkosk1 ($15.50 in chips) 
+Seat 9: mspitolai ($34.70 in chips) 
+Alameda22: posts small blind $0.10
+yjqian23: is sitting out 
+yjqian23 leaves the table
+helios25: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 8s]
+molyen: folds 
+littlesammy2: calls $0.25
+WhiteApe777: folds 
+Molkosk1: calls $0.25
+mspitolai: folds 
+WongPlayer: folds 
+Alameda22: calls $0.15
+helios25: checks 
+*** FLOP *** [7s 6c Ks]
+Alameda22: bets $0.50
+helios25: folds 
+littlesammy2: folds 
+RemcoB joins the table at seat #3 
+Molkosk1: calls $0.50
+*** TURN *** [7s 6c Ks] [9d]
+Alameda22: checks 
+Molkosk1: bets $0.75
+Alameda22: calls $0.75
+*** RIVER *** [7s 6c Ks 9d] [Kd]
+Alameda22: checks 
+Molkosk1: checks 
+*** SHOW DOWN ***
+Alameda22: shows [As 8s] (a pair of Kings)
+Molkosk1: shows [Qs 9s] (two pair, Kings and Nines)
+Molkosk1 collected $3.35 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [7s 6c Ks 9d Kd]
+Seat 1: WongPlayer (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) showed [As 8s] and lost with a pair of Kings
+Seat 4: helios25 (big blind) folded on the Flop
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 folded on the Flop
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: Molkosk1 showed [Qs 9s] and won ($3.35) with two pair, Kings and Nines
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953765325:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:26:50 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 1: WongPlayer ($18.25 in chips) 
+Seat 2: Alameda22 ($61.40 in chips) 
+Seat 4: helios25 ($23.50 in chips) 
+Seat 5: molyen ($3.15 in chips) 
+Seat 6: littlesammy2 ($13.15 in chips) 
+Seat 7: WhiteApe777 ($26.40 in chips) 
+Seat 8: Molkosk1 ($17.35 in chips) 
+Seat 9: mspitolai ($34.70 in chips) 
+RemcoB will be allowed to play after the button
+helios25: posts small blind $0.10
+molyen: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Jd]
+littlesammy2: folds 
+WhiteApe777: raises $0.75 to $1
+Molkosk1: folds 
+mspitolai: folds 
+WongPlayer: folds 
+WongPlayer is sitting out
+Alameda22: folds 
+helios25: folds 
+molyen: raises $2.15 to $3.15 and is all-in
+WhiteApe777: calls $2.15
+*** FLOP *** [2d 9s 3d]
+*** TURN *** [2d 9s 3d] [Jh]
+*** RIVER *** [2d 9s 3d Jh] [Kd]
+*** SHOW DOWN ***
+molyen: shows [Js Jc] (three of a kind, Jacks)
+WhiteApe777: mucks hand 
+molyen collected $6.10 from pot
+*** SUMMARY ***
+Total pot $6.40 | Rake $0.30 
+Board [2d 9s 3d Jh Kd]
+Seat 1: WongPlayer folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: helios25 (small blind) folded before Flop
+Seat 5: molyen (big blind) showed [Js Jc] and won ($6.10) with three of a kind, Jacks
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 7: WhiteApe777 mucked [Kh As]
+Seat 8: Molkosk1 folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953785482:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:27:41 (ET)
+Table 'Montague II' 9-max Seat #4 is the button
+Seat 2: Alameda22 ($61.40 in chips) 
+Seat 4: helios25 ($23.40 in chips) 
+Seat 5: molyen ($6.10 in chips) 
+Seat 6: littlesammy2 ($13.15 in chips) 
+Seat 7: WhiteApe777 ($23.25 in chips) 
+Seat 8: Molkosk1 ($17.35 in chips) 
+Seat 9: mspitolai ($34.70 in chips) 
+molyen: posts small blind $0.10
+littlesammy2: posts big blind $0.25
+RemcoB: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Th]
+WhiteApe777: folds 
+Molkosk1: folds 
+mspitolai: folds 
+Alameda22: folds 
+helios25: folds 
+molyen: calls $0.15
+littlesammy2: checks 
+*** FLOP *** [Kc 7s Jc]
+molyen: bets $0.50
+littlesammy2: calls $0.50
+*** TURN *** [Kc 7s Jc] [Kd]
+molyen: bets $1.50
+littlesammy2: folds 
+Uncalled bet ($1.50) returned to molyen
+molyen collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Kc 7s Jc Kd]
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: helios25 (button) folded before Flop (didn't bet)
+Seat 5: molyen (small blind) collected ($1.45)
+Seat 6: littlesammy2 (big blind) folded on the Turn
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: Molkosk1 folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953810695:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:28:45 (ET)
+Table 'Montague II' 9-max Seat #5 is the button
+Seat 2: Alameda22 ($61.40 in chips) 
+Seat 4: helios25 ($23.40 in chips) 
+Seat 5: molyen ($6.80 in chips) 
+Seat 6: littlesammy2 ($12.40 in chips) 
+Seat 8: Molkosk1 ($17.35 in chips) 
+Seat 9: mspitolai ($34.70 in chips) 
+littlesammy2: posts small blind $0.10
+WhiteApe777: is sitting out 
+Molkosk1: posts big blind $0.25
+RemcoB: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 9s]
+mspitolai: folds 
+Alameda22: folds 
+helios25: folds 
+molyen: calls $0.25
+littlesammy2: folds 
+Molkosk1: checks 
+*** FLOP *** [4d 2d Ac]
+Molkosk1: checks 
+molyen: bets $0.50
+Molkosk1: folds 
+Uncalled bet ($0.50) returned to molyen
+molyen collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4d 2d Ac]
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: helios25 folded before Flop (didn't bet)
+Seat 5: molyen (button) collected ($0.60)
+Seat 6: littlesammy2 (small blind) folded before Flop
+Seat 8: Molkosk1 (big blind) folded on the Flop
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953831906:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:29:40 (ET)
+Table 'Montague II' 9-max Seat #6 is the button
+Seat 2: Alameda22 ($61.40 in chips) 
+Seat 4: helios25 ($23.40 in chips) 
+Seat 5: molyen ($7.15 in chips) 
+Seat 6: littlesammy2 ($12.30 in chips) 
+Seat 8: Molkosk1 ($17.10 in chips) 
+Seat 9: mspitolai ($34.70 in chips) 
+Molkosk1: posts small blind $0.10
+mspitolai: posts big blind $0.25
+RemcoB: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Tc]
+Alameda22: folds 
+helios25: folds 
+molyen: folds 
+littlesammy2: folds 
+Molkosk1: folds 
+Uncalled bet ($0.15) returned to mspitolai
+mspitolai collected $0.20 from pot
+mspitolai: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: helios25 folded before Flop (didn't bet)
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 (button) folded before Flop (didn't bet)
+Seat 8: Molkosk1 (small blind) folded before Flop
+Seat 9: mspitolai (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19953842744:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:30:08 (ET)
+Table 'Montague II' 9-max Seat #8 is the button
+Seat 2: Alameda22 ($61.40 in chips) 
+Seat 4: helios25 ($23.40 in chips) 
+Seat 5: molyen ($7.15 in chips) 
+Seat 6: littlesammy2 ($12.30 in chips) 
+Seat 8: Molkosk1 ($17 in chips) 
+Seat 9: mspitolai ($34.80 in chips) 
+mspitolai: posts small blind $0.10
+Alameda22: posts big blind $0.25
+RemcoB: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 3h]
+WongPlayer has returned
+helios25: folds 
+molyen: folds 
+littlesammy2: calls $0.25
+Molkosk1: folds 
+mspitolai: calls $0.15
+Alameda22: checks 
+*** FLOP *** [7h 7s 6s]
+mspitolai: checks 
+Alameda22: checks 
+littlesammy2: checks 
+*** TURN *** [7h 7s 6s] [7d]
+mspitolai: checks 
+Alameda22: checks 
+littlesammy2: checks 
+*** RIVER *** [7h 7s 6s 7d] [9c]
+mspitolai: checks 
+Alameda22: checks 
+littlesammy2: checks 
+*** SHOW DOWN ***
+mspitolai: shows [8s Ks] (three of a kind, Sevens)
+Alameda22: mucks hand 
+littlesammy2: shows [Jc 9h] (a full house, Sevens full of Nines)
+littlesammy2 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [7h 7s 6s 7d 9c]
+Seat 2: Alameda22 (big blind) mucked [8h 3h]
+Seat 4: helios25 folded before Flop (didn't bet)
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 showed [Jc 9h] and won ($0.75) with a full house, Sevens full of Nines
+Seat 8: Molkosk1 (button) folded before Flop (didn't bet)
+Seat 9: mspitolai (small blind) showed [8s Ks] and lost with three of a kind, Sevens
+
+
+
+PokerStars Game #19953885606:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:31:57 (ET)
+Table 'Montague II' 9-max Seat #9 is the button
+Seat 2: Alameda22 ($61.15 in chips) 
+Seat 3: RemcoB ($25 in chips) 
+Seat 4: helios25 ($23.40 in chips) 
+Seat 5: molyen ($7.15 in chips) 
+Seat 6: littlesammy2 ($12.80 in chips) 
+Seat 8: Molkosk1 ($17 in chips) 
+Seat 9: mspitolai ($34.55 in chips) 
+WongPlayer will be allowed to play after the button
+Alameda22: posts small blind $0.10
+WhiteApe777 leaves the table
+RemcoB: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 6s]
+helios25: folds 
+molyen: calls $0.25
+gaybar joins the table at seat #7 
+littlesammy2: folds 
+Molkosk1: folds 
+gaybar leaves the table
+mspitolai: folds 
+michael234 joins the table at seat #7 
+Alameda22: folds 
+RemcoB: checks 
+*** FLOP *** [Kc 8s 7s]
+RemcoB: checks 
+molyen: bets $0.50
+RemcoB: folds 
+Uncalled bet ($0.50) returned to molyen
+molyen collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kc 8s 7s]
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: RemcoB (big blind) folded on the Flop
+Seat 4: helios25 folded before Flop (didn't bet)
+Seat 5: molyen collected ($0.60)
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 8: Molkosk1 folded before Flop (didn't bet)
+Seat 9: mspitolai (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953909020:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:32:56 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 1: WongPlayer ($18.25 in chips) 
+Seat 2: Alameda22 ($61.05 in chips) 
+Seat 3: RemcoB ($24.75 in chips) 
+Seat 4: helios25 ($23.40 in chips) 
+Seat 5: molyen ($7.50 in chips) 
+Seat 6: littlesammy2 ($12.80 in chips) 
+Seat 8: Molkosk1 ($17 in chips) 
+Seat 9: mspitolai ($34.55 in chips) 
+RemcoB: posts small blind $0.10
+helios25: posts big blind $0.25
+michael234: sits out 
+WongPlayer: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 8c]
+molyen: calls $0.25
+littlesammy2: calls $0.25
+Molkosk1: folds 
+mspitolai: calls $0.25
+WongPlayer: checks 
+Alameda22: folds 
+RemcoB: calls $0.15
+helios25: checks 
+*** FLOP *** [Jh Kc Jc]
+RemcoB: checks 
+helios25: checks 
+molyen: checks 
+littlesammy2: checks 
+mspitolai: checks 
+WongPlayer: checks 
+*** TURN *** [Jh Kc Jc] [5d]
+RemcoB: bets $1
+helios25: folds 
+molyen: folds 
+littlesammy2: calls $1
+mspitolai: calls $1
+WongPlayer: folds 
+*** RIVER *** [Jh Kc Jc 5d] [3c]
+RemcoB: checks 
+littlesammy2: bets $1
+mspitolai: calls $1
+RemcoB: folds 
+*** SHOW DOWN ***
+littlesammy2: shows [Qd Js] (three of a kind, Jacks)
+mspitolai: mucks hand 
+littlesammy2 collected $6.30 from pot
+michael234 leaves the table
+*** SUMMARY ***
+Total pot $6.60 | Rake $0.30 
+Board [Jh Kc Jc 5d 3c]
+Seat 1: WongPlayer folded on the Turn
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: RemcoB (small blind) folded on the River
+Seat 4: helios25 (big blind) folded on the Turn
+Seat 5: molyen folded on the Turn
+Seat 6: littlesammy2 showed [Qd Js] and won ($6.30) with three of a kind, Jacks
+Seat 8: Molkosk1 folded before Flop (didn't bet)
+Seat 9: mspitolai mucked [Kh Qc]
+
+
+
+PokerStars Game #19953961032:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:35:07 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 1: WongPlayer ($17.90 in chips) 
+Seat 2: Alameda22 ($61.05 in chips) 
+Seat 3: RemcoB ($25 in chips) 
+Seat 4: helios25 ($23.15 in chips) 
+Seat 5: molyen ($7.25 in chips) 
+Seat 6: littlesammy2 ($16.85 in chips) 
+Seat 8: Molkosk1 ($17 in chips) 
+Seat 9: mspitolai ($32.30 in chips) 
+helios25: posts small blind $0.10
+molyen: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 6d]
+littlesammy2: folds 
+omar_braves joins the table at seat #7 
+Molkosk1: raises $0.50 to $0.75
+mspitolai: folds 
+WongPlayer: folds 
+Alameda22: folds 
+RemcoB: folds 
+helios25: folds 
+molyen: calls $0.50
+*** FLOP *** [Qd Ad 3s]
+molyen: checks 
+Molkosk1: checks 
+*** TURN *** [Qd Ad 3s] [4h]
+molyen: bets $1
+Molkosk1: calls $1
+*** RIVER *** [Qd Ad 3s 4h] [3c]
+molyen: bets $1
+Molkosk1: calls $1
+*** SHOW DOWN ***
+molyen: shows [Jd Jc] (two pair, Jacks and Threes)
+Molkosk1: shows [Qh Ks] (two pair, Queens and Threes)
+Molkosk1 collected $5.35 from pot
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.25 
+Board [Qd Ad 3s 4h 3c]
+Seat 1: WongPlayer folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: RemcoB (button) folded before Flop (didn't bet)
+Seat 4: helios25 (small blind) folded before Flop
+Seat 5: molyen (big blind) showed [Jd Jc] and lost with two pair, Jacks and Threes
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 8: Molkosk1 showed [Qh Ks] and won ($5.35) with two pair, Queens and Threes
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953981035:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:35:58 (ET)
+Table 'Montague II' 9-max Seat #4 is the button
+Seat 1: WongPlayer ($17.90 in chips) 
+Seat 2: Alameda22 ($61.05 in chips) 
+Seat 3: RemcoB ($25 in chips) 
+Seat 4: helios25 ($23.05 in chips) 
+Seat 5: molyen ($4.50 in chips) 
+Seat 6: littlesammy2 ($16.85 in chips) 
+Seat 7: omar_braves ($25 in chips) 
+Seat 8: Molkosk1 ($19.60 in chips) 
+Seat 9: mspitolai ($32.30 in chips) 
+molyen: posts small blind $0.10
+littlesammy2: posts big blind $0.25
+omar_braves: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 5h]
+omar_braves: checks 
+Molkosk1: raises $0.75 to $1
+mspitolai: folds 
+WongPlayer: folds 
+Alameda22: folds 
+RemcoB: folds 
+helios25: folds 
+molyen: folds 
+littlesammy2: folds 
+omar_braves: folds 
+Uncalled bet ($0.75) returned to Molkosk1
+Molkosk1 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: WongPlayer folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 4: helios25 (button) folded before Flop (didn't bet)
+Seat 5: molyen (small blind) folded before Flop
+Seat 6: littlesammy2 (big blind) folded before Flop
+Seat 7: omar_braves folded before Flop
+Seat 8: Molkosk1 collected ($0.85)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954005890:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:37:01 (ET)
+Table 'Montague II' 9-max Seat #5 is the button
+Seat 1: WongPlayer ($17.90 in chips) 
+Seat 2: Alameda22 ($61.05 in chips) 
+Seat 3: RemcoB ($25 in chips) 
+Seat 4: helios25 ($23.05 in chips) 
+Seat 5: molyen ($4.40 in chips) 
+Seat 6: littlesammy2 ($16.60 in chips) 
+Seat 7: omar_braves ($24.75 in chips) 
+Seat 8: Molkosk1 ($20.20 in chips) 
+Seat 9: mspitolai ($32.30 in chips) 
+littlesammy2: posts small blind $0.10
+omar_braves: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 6c]
+Molkosk1: folds 
+mspitolai: folds 
+WongPlayer: calls $0.25
+Alameda22: folds 
+RemcoB: folds 
+helios25: calls $0.25
+molyen: raises $4.15 to $4.40 and is all-in
+littlesammy2: folds 
+omar_braves: folds 
+WongPlayer: folds 
+helios25: folds 
+Uncalled bet ($4.15) returned to molyen
+helios25 leaves the table
+molyen collected $1.10 from pot
+Superflush joins the table at seat #4 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: WongPlayer folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 4: helios25 folded before Flop
+Seat 5: molyen (button) collected ($1.10)
+Seat 6: littlesammy2 (small blind) folded before Flop
+Seat 7: omar_braves (big blind) folded before Flop
+Seat 8: Molkosk1 folded before Flop (didn't bet)
+Seat 9: mspitolai folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954024656:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:37:48 (ET)
+Table 'Montague II' 9-max Seat #6 is the button
+Seat 1: WongPlayer ($17.65 in chips) 
+Seat 2: Alameda22 ($61.05 in chips) 
+Seat 3: RemcoB ($25 in chips) 
+Seat 5: molyen ($5.25 in chips) 
+Seat 6: littlesammy2 ($16.50 in chips) 
+Seat 7: omar_braves ($24.50 in chips) 
+Seat 8: Molkosk1 ($20.20 in chips) 
+Seat 9: mspitolai ($32.30 in chips) 
+omar_braves: posts small blind $0.10
+Molkosk1: posts big blind $0.25
+Superflush: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Ac]
+mspitolai: calls $0.25
+WongPlayer: raises $0.25 to $0.50
+Alameda22: folds 
+RemcoB: folds 
+molyen: folds 
+littlesammy2: folds 
+omar_braves: folds 
+Molkosk1: folds 
+mspitolai: calls $0.25
+*** FLOP *** [7s Qd 3c]
+mspitolai: checks 
+WongPlayer: bets $1
+mspitolai: folds 
+Uncalled bet ($1) returned to WongPlayer
+WongPlayer collected $1.30 from pot
+WongPlayer: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [7s Qd 3c]
+Seat 1: WongPlayer collected ($1.30)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 (button) folded before Flop (didn't bet)
+Seat 7: omar_braves (small blind) folded before Flop
+Seat 8: Molkosk1 (big blind) folded before Flop
+Seat 9: mspitolai folded on the Flop
+
+
+
+PokerStars Game #19954056921:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:39:11 (ET)
+Table 'Montague II' 9-max Seat #7 is the button
+Seat 1: WongPlayer ($18.45 in chips) 
+Seat 2: Alameda22 ($61.05 in chips) 
+Seat 3: RemcoB ($25 in chips) 
+Seat 5: molyen ($5.25 in chips) 
+Seat 6: littlesammy2 ($16.50 in chips) 
+Seat 7: omar_braves ($24.40 in chips) 
+Seat 8: Molkosk1 ($19.95 in chips) 
+Molkosk1: posts small blind $0.10
+mspitolai: is sitting out 
+mspitolai leaves the table
+WongPlayer: posts big blind $0.25
+Superflush: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 7s]
+Alameda22: folds 
+RemcoB: folds 
+molyen: folds 
+littlesammy2: folds 
+11pokeras11 joins the table at seat #9 
+omar_braves: folds 
+Molkosk1: calls $0.15
+WongPlayer: raises $0.75 to $1
+Molkosk1: folds 
+Uncalled bet ($0.75) returned to WongPlayer
+WongPlayer collected $0.50 from pot
+WongPlayer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: WongPlayer (big blind) collected ($0.50)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 7: omar_braves (button) folded before Flop (didn't bet)
+Seat 8: Molkosk1 (small blind) folded before Flop
+
+
+
+PokerStars Game #19954077743:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:40:05 (ET)
+Table 'Montague II' 9-max Seat #8 is the button
+Seat 1: WongPlayer ($18.70 in chips) 
+Seat 2: Alameda22 ($61.05 in chips) 
+Seat 3: RemcoB ($25 in chips) 
+Seat 5: molyen ($5.25 in chips) 
+Seat 6: littlesammy2 ($16.50 in chips) 
+Seat 7: omar_braves ($24.40 in chips) 
+Seat 8: Molkosk1 ($19.70 in chips) 
+11pokeras11 will be allowed to play after the button
+WongPlayer: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Superflush: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 4d]
+RemcoB: folds 
+molyen: folds 
+littlesammy2: calls $0.25
+omar_braves: folds 
+Molkosk1: folds 
+WongPlayer: folds 
+Alameda22: checks 
+*** FLOP *** [3c 6d 8d]
+Alameda22: checks 
+littlesammy2: checks 
+*** TURN *** [3c 6d 8d] [Kh]
+Alameda22: checks 
+littlesammy2: checks 
+*** RIVER *** [3c 6d 8d Kh] [4s]
+Alameda22: bets $0.50
+littlesammy2: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3c 6d 8d Kh 4s]
+Seat 1: WongPlayer (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) collected ($0.60)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 folded on the River
+Seat 7: omar_braves folded before Flop (didn't bet)
+Seat 8: Molkosk1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954093477:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:40:46 (ET)
+Table 'Montague II' 9-max Seat #1 is the button
+Seat 1: WongPlayer ($18.60 in chips) 
+Seat 2: Alameda22 ($61.40 in chips) 
+Seat 3: RemcoB ($25 in chips) 
+Seat 5: molyen ($5.25 in chips) 
+Seat 6: littlesammy2 ($16.25 in chips) 
+Seat 7: omar_braves ($24.40 in chips) 
+Seat 8: Molkosk1 ($19.70 in chips) 
+Alameda22: posts small blind $0.10
+RemcoB: posts big blind $0.25
+Superflush: sits out 
+11pokeras11: sits out 
+11pokeras11 is sitting out
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 8d]
+molyen: folds 
+littlesammy2: folds 
+omar_braves: calls $0.25
+Molkosk1: calls $0.25
+WongPlayer: folds 
+Alameda22: folds 
+RemcoB: checks 
+*** FLOP *** [Kd Jh 2d]
+RemcoB: bets $0.75
+omar_braves: folds 
+Molkosk1: calls $0.75
+*** TURN *** [Kd Jh 2d] [8c]
+RemcoB: bets $1.75
+Molkosk1: folds 
+Uncalled bet ($1.75) returned to RemcoB
+RemcoB collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Kd Jh 2d 8c]
+Seat 1: WongPlayer (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: RemcoB (big blind) collected ($2.25)
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 7: omar_braves folded on the Flop
+Seat 8: Molkosk1 folded on the Turn
+
+
+
+PokerStars Game #19954121723:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:42:00 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 1: WongPlayer ($18.60 in chips) 
+Seat 2: Alameda22 ($61.30 in chips) 
+Seat 3: RemcoB ($26.25 in chips) 
+Seat 4: Superflush ($25 in chips) 
+Seat 5: molyen ($5.25 in chips) 
+Seat 6: littlesammy2 ($16.25 in chips) 
+Seat 7: omar_braves ($24.15 in chips) 
+Seat 8: Molkosk1 ($18.70 in chips) 
+RemcoB: posts small blind $0.10
+Superflush: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 4h]
+molyen: folds 
+littlesammy2: folds 
+omar_braves: folds 
+Molkosk1: folds 
+WongPlayer: raises $0.50 to $0.75
+Alameda22: folds 
+RemcoB: folds 
+Superflush: folds 
+Uncalled bet ($0.50) returned to WongPlayer
+WongPlayer collected $0.60 from pot
+WongPlayer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: WongPlayer collected ($0.60)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: RemcoB (small blind) folded before Flop
+Seat 4: Superflush (big blind) folded before Flop
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 7: omar_braves folded before Flop (didn't bet)
+Seat 8: Molkosk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954138131:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:42:43 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 1: WongPlayer ($18.95 in chips) 
+Seat 2: Alameda22 ($61.30 in chips) 
+Seat 3: RemcoB ($26.15 in chips) 
+Seat 4: Superflush ($24.75 in chips) 
+Seat 5: molyen ($5.25 in chips) 
+Seat 6: littlesammy2 ($16.25 in chips) 
+Seat 7: omar_braves ($24.15 in chips) 
+Seat 8: Molkosk1 ($18.70 in chips) 
+Superflush: posts small blind $0.10
+molyen: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 4h]
+littlesammy2: folds 
+omar_braves: folds 
+Molkosk1: folds 
+WongPlayer: folds 
+Alameda22: folds 
+RemcoB: folds 
+Superflush: folds 
+Uncalled bet ($0.15) returned to molyen
+11pokeras11 is disconnected 
+molyen collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: WongPlayer folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: RemcoB (button) folded before Flop (didn't bet)
+Seat 4: Superflush (small blind) folded before Flop
+Seat 5: molyen (big blind) collected ($0.20)
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 7: omar_braves folded before Flop (didn't bet)
+Seat 8: Molkosk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954155417:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:43:28 (ET)
+Table 'Montague II' 9-max Seat #4 is the button
+Seat 1: WongPlayer ($18.95 in chips) 
+Seat 2: Alameda22 ($61.30 in chips) 
+Seat 3: RemcoB ($26.15 in chips) 
+Seat 4: Superflush ($24.65 in chips) 
+Seat 5: molyen ($5.35 in chips) 
+Seat 6: littlesammy2 ($16.25 in chips) 
+Seat 7: omar_braves ($24.15 in chips) 
+Seat 8: Molkosk1 ($18.70 in chips) 
+molyen: posts small blind $0.10
+littlesammy2: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 7c]
+omar_braves: folds 
+Molkosk1: folds 
+WongPlayer: folds 
+Alameda22: folds 
+RemcoB: folds 
+Superflush: folds 
+molyen: calls $0.15
+littlesammy2: checks 
+*** FLOP *** [4h Qs Jh]
+molyen: checks 
+littlesammy2: checks 
+*** TURN *** [4h Qs Jh] [9c]
+molyen: checks 
+littlesammy2: checks 
+*** RIVER *** [4h Qs Jh 9c] [8h]
+molyen: bets $0.25
+littlesammy2: folds 
+Uncalled bet ($0.25) returned to molyen
+molyen collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [4h Qs Jh 9c 8h]
+Seat 1: WongPlayer folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 4: Superflush (button) folded before Flop (didn't bet)
+Seat 5: molyen (small blind) collected ($0.50)
+Seat 6: littlesammy2 (big blind) folded on the River
+Seat 7: omar_braves folded before Flop (didn't bet)
+Seat 8: Molkosk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954175519:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:44:20 (ET)
+Table 'Montague II' 9-max Seat #5 is the button
+Seat 1: WongPlayer ($18.95 in chips) 
+Seat 2: Alameda22 ($61.30 in chips) 
+Seat 3: RemcoB ($26.15 in chips) 
+Seat 4: Superflush ($24.65 in chips) 
+Seat 5: molyen ($5.60 in chips) 
+Seat 6: littlesammy2 ($16 in chips) 
+Seat 7: omar_braves ($24.15 in chips) 
+Seat 8: Molkosk1 ($18.70 in chips) 
+littlesammy2: posts small blind $0.10
+omar_braves: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 8s]
+Molkosk1: raises $0.50 to $0.75
+WongPlayer: calls $0.75
+Alameda22: folds 
+RemcoB: folds 
+Superflush: folds 
+molyen: folds 
+littlesammy2: folds 
+omar_braves: calls $0.50
+*** FLOP *** [Qc Js 6c]
+omar_braves: checks 
+Molkosk1: bets $2.50
+WongPlayer: folds 
+omar_braves: folds 
+Uncalled bet ($2.50) returned to Molkosk1
+Molkosk1 collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Qc Js 6c]
+Seat 1: WongPlayer folded on the Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 4: Superflush folded before Flop (didn't bet)
+Seat 5: molyen (button) folded before Flop (didn't bet)
+Seat 6: littlesammy2 (small blind) folded before Flop
+Seat 7: omar_braves (big blind) folded on the Flop
+Seat 8: Molkosk1 collected ($2.25)
+
+
+
+PokerStars Game #19954199983:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:45:26 (ET)
+Table 'Montague II' 9-max Seat #6 is the button
+Seat 1: WongPlayer ($18.20 in chips) 
+Seat 2: Alameda22 ($61.30 in chips) 
+Seat 3: RemcoB ($26.15 in chips) 
+Seat 4: Superflush ($24.65 in chips) 
+Seat 5: molyen ($5.60 in chips) 
+Seat 6: littlesammy2 ($15.90 in chips) 
+Seat 7: omar_braves ($23.40 in chips) 
+Seat 8: Molkosk1 ($20.20 in chips) 
+omar_braves: posts small blind $0.10
+Molkosk1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Jh]
+WongPlayer: folds 
+Alameda22: folds 
+RemcoB: folds 
+Superflush: folds 
+molyen: folds 
+littlesammy2: calls $0.25
+omar_braves: raises $0.75 to $1
+Molkosk1: calls $0.75
+littlesammy2: calls $0.75
+*** FLOP *** [9h 2d 6c]
+omar_braves: bets $1.25
+Molkosk1: raises $1.75 to $3
+littlesammy2: folds 
+omar_braves: folds 
+Uncalled bet ($1.75) returned to Molkosk1
+Molkosk1 collected $5.25 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25 
+Board [9h 2d 6c]
+Seat 1: WongPlayer folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 4: Superflush folded before Flop (didn't bet)
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 (button) folded on the Flop
+Seat 7: omar_braves (small blind) folded on the Flop
+Seat 8: Molkosk1 (big blind) collected ($5.25)
+
+
+
+PokerStars Game #19954224977:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:46:32 (ET)
+Table 'Montague II' 9-max Seat #7 is the button
+Seat 1: WongPlayer ($18.20 in chips) 
+Seat 2: Alameda22 ($61.30 in chips) 
+Seat 3: RemcoB ($26.15 in chips) 
+Seat 4: Superflush ($24.65 in chips) 
+Seat 5: molyen ($5.60 in chips) 
+Seat 6: littlesammy2 ($14.90 in chips) 
+Seat 7: omar_braves ($25 in chips) 
+Seat 8: Molkosk1 ($23.20 in chips) 
+Molkosk1: posts small blind $0.10
+WongPlayer: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 6h]
+Alameda22: folds 
+RemcoB: folds 
+Superflush: raises $0.75 to $1
+molyen: folds 
+littlesammy2: folds 
+omar_braves: folds 
+Molkosk1: folds 
+WongPlayer: folds 
+Uncalled bet ($0.75) returned to Superflush
+Superflush collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: WongPlayer (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 4: Superflush collected ($0.60)
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 7: omar_braves (button) folded before Flop (didn't bet)
+Seat 8: Molkosk1 (small blind) folded before Flop
+
+
+
+PokerStars Game #19954235935:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:47:02 (ET)
+Table 'Montague II' 9-max Seat #8 is the button
+Seat 1: WongPlayer ($17.95 in chips) 
+Seat 2: Alameda22 ($61.30 in chips) 
+Seat 3: RemcoB ($26.15 in chips) 
+Seat 4: Superflush ($25 in chips) 
+Seat 5: molyen ($5.60 in chips) 
+Seat 6: littlesammy2 ($14.90 in chips) 
+Seat 7: omar_braves ($25 in chips) 
+Seat 8: Molkosk1 ($23.10 in chips) 
+WongPlayer: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 9h]
+RemcoB: folds 
+Superflush: folds 
+molyen: folds 
+littlesammy2: folds 
+omar_braves: folds 
+Molkosk1: folds 
+WongPlayer: raises $0.75 to $1
+Alameda22: folds 
+Uncalled bet ($0.75) returned to WongPlayer
+WongPlayer collected $0.50 from pot
+WongPlayer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: WongPlayer (small blind) collected ($0.50)
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 4: Superflush folded before Flop (didn't bet)
+Seat 5: molyen folded before Flop (didn't bet)
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 7: omar_braves folded before Flop (didn't bet)
+Seat 8: Molkosk1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954254681:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:47:54 (ET)
+Table 'Montague II' 9-max Seat #1 is the button
+Seat 1: WongPlayer ($18.20 in chips) 
+Seat 2: Alameda22 ($61.05 in chips) 
+Seat 3: RemcoB ($26.15 in chips) 
+Seat 4: Superflush ($25 in chips) 
+Seat 5: molyen ($5.60 in chips) 
+Seat 6: littlesammy2 ($14.90 in chips) 
+Seat 7: omar_braves ($25 in chips) 
+Seat 8: Molkosk1 ($23.10 in chips) 
+Alameda22: posts small blind $0.10
+RemcoB: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 3c]
+Superflush: folds 
+molyen: calls $0.25
+littlesammy2: calls $0.25
+omar_braves: calls $0.25
+Molkosk1: raises $1.25 to $1.50
+WongPlayer: folds 
+Alameda22: folds 
+RemcoB: folds 
+molyen: calls $1.25
+littlesammy2: folds 
+omar_braves: calls $1.25
+*** FLOP *** [5d Kd 4c]
+molyen: checks 
+omar_braves: checks 
+Molkosk1: bets $2.25
+molyen: folds 
+omar_braves: folds 
+Uncalled bet ($2.25) returned to Molkosk1
+Molkosk1 collected $4.85 from pot
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.25 
+Board [5d Kd 4c]
+Seat 1: WongPlayer (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: RemcoB (big blind) folded before Flop
+Seat 4: Superflush folded before Flop (didn't bet)
+Seat 5: molyen folded on the Flop
+Seat 6: littlesammy2 folded before Flop
+Seat 7: omar_braves folded on the Flop
+Seat 8: Molkosk1 collected ($4.85)
+
+
+
+PokerStars Game #19954285023:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:49:16 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 1: WongPlayer ($18.20 in chips) 
+Seat 2: Alameda22 ($60.95 in chips) 
+Seat 3: RemcoB ($25.90 in chips) 
+Seat 4: Superflush ($25 in chips) 
+Seat 5: molyen ($4.10 in chips) 
+Seat 6: littlesammy2 ($14.65 in chips) 
+Seat 7: omar_braves ($25 in chips) 
+Seat 8: Molkosk1 ($26.45 in chips) 
+RemcoB: posts small blind $0.10
+Superflush: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Ah]
+molyen: raises $1 to $1.25
+littlesammy2: calls $1.25
+omar_braves: folds 
+Molkosk1: folds 
+WongPlayer: folds 
+Alameda22: folds 
+RemcoB: folds 
+Superflush: calls $1
+*** FLOP *** [4s Jc 5h]
+Superflush: checks 
+molyen: bets $2.85 and is all-in
+littlesammy2: folds 
+Superflush: calls $2.85
+*** TURN *** [4s Jc 5h] [5d]
+*** RIVER *** [4s Jc 5h 5d] [Js]
+*** SHOW DOWN ***
+Superflush: shows [Jd Jh] (four of a kind, Jacks)
+molyen: mucks hand 
+Superflush collected $9.10 from pot
+molyen leaves the table
+Molkosk1 said, "nh"
+*** SUMMARY ***
+Total pot $9.55 | Rake $0.45 
+Board [4s Jc 5h 5d Js]
+Seat 1: WongPlayer folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: RemcoB (small blind) folded before Flop
+Seat 4: Superflush (big blind) showed [Jd Jh] and won ($9.10) with four of a kind, Jacks
+Seat 5: molyen mucked [Ac Qs]
+Seat 6: littlesammy2 folded on the Flop
+Seat 7: omar_braves folded before Flop (didn't bet)
+Seat 8: Molkosk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954309789:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:50:26 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 1: WongPlayer ($18.20 in chips) 
+Seat 2: Alameda22 ($60.95 in chips) 
+Seat 3: RemcoB ($25.80 in chips) 
+Seat 4: Superflush ($30 in chips) 
+Seat 6: littlesammy2 ($13.40 in chips) 
+Seat 7: omar_braves ($25 in chips) 
+Seat 8: Molkosk1 ($26.45 in chips) 
+Superflush: posts small blind $0.10
+littlesammy2: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 6h]
+omar_braves: folds 
+dapriest20 joins the table at seat #5 
+Molkosk1: folds 
+WongPlayer: raises $0.25 to $0.50
+Alameda22: folds 
+RemcoB: folds 
+Superflush: folds 
+littlesammy2: calls $0.25
+*** FLOP *** [8c 2s 9c]
+littlesammy2: checks 
+WongPlayer: bets $0.75
+littlesammy2: folds 
+Uncalled bet ($0.75) returned to WongPlayer
+WongPlayer collected $1.05 from pot
+WongPlayer: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [8c 2s 9c]
+Seat 1: WongPlayer collected ($1.05)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: RemcoB (button) folded before Flop (didn't bet)
+Seat 4: Superflush (small blind) folded before Flop
+Seat 6: littlesammy2 (big blind) folded on the Flop
+Seat 7: omar_braves folded before Flop (didn't bet)
+Seat 8: Molkosk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954326309:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:51:12 (ET)
+Table 'Montague II' 9-max Seat #4 is the button
+Seat 1: WongPlayer ($18.75 in chips) 
+Seat 2: Alameda22 ($60.95 in chips) 
+Seat 3: RemcoB ($25.80 in chips) 
+Seat 4: Superflush ($29.90 in chips) 
+Seat 6: littlesammy2 ($12.90 in chips) 
+Seat 7: omar_braves ($25 in chips) 
+Seat 8: Molkosk1 ($26.45 in chips) 
+dapriest20 will be allowed to play after the button
+littlesammy2: posts small blind $0.10
+omar_braves: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Qd]
+Molkosk1: folds 
+WongPlayer: raises $0.50 to $0.75
+Alameda22: raises $1.50 to $2.25
+RemcoB is disconnected 
+RemcoB is connected 
+RemcoB: folds 
+Superflush: folds 
+littlesammy2: folds 
+omar_braves: folds 
+WongPlayer: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $1.85 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 1: WongPlayer folded before Flop
+Seat 2: Alameda22 collected ($1.85)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 4: Superflush (button) folded before Flop (didn't bet)
+Seat 6: littlesammy2 (small blind) folded before Flop
+Seat 7: omar_braves (big blind) folded before Flop
+Seat 8: Molkosk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954345622:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:52:06 (ET)
+Table 'Montague II' 9-max Seat #6 is the button
+Seat 1: WongPlayer ($18 in chips) 
+Seat 2: Alameda22 ($62.05 in chips) 
+Seat 3: RemcoB ($25.80 in chips) 
+Seat 4: Superflush ($29.90 in chips) 
+Seat 6: littlesammy2 ($12.80 in chips) 
+Seat 7: omar_braves ($24.75 in chips) 
+Seat 8: Molkosk1 ($26.45 in chips) 
+omar_braves: posts small blind $0.10
+Molkosk1: posts big blind $0.25
+dapriest20: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 4h]
+WongPlayer: folds 
+Alameda22: folds 
+RemcoB: folds 
+Superflush: folds 
+littlesammy2: folds 
+omar_braves: folds 
+Uncalled bet ($0.15) returned to Molkosk1
+Molkosk1 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: WongPlayer folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 4: Superflush folded before Flop (didn't bet)
+Seat 6: littlesammy2 (button) folded before Flop (didn't bet)
+Seat 7: omar_braves (small blind) folded before Flop
+Seat 8: Molkosk1 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19954366081:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:53:03 (ET)
+Table 'Montague II' 9-max Seat #7 is the button
+Seat 1: WongPlayer ($18 in chips) 
+Seat 2: Alameda22 ($62.05 in chips) 
+Seat 3: RemcoB ($25.80 in chips) 
+Seat 4: Superflush ($29.90 in chips) 
+Seat 6: littlesammy2 ($12.80 in chips) 
+Seat 7: omar_braves ($24.65 in chips) 
+Seat 8: Molkosk1 ($26.55 in chips) 
+Molkosk1: posts small blind $0.10
+WongPlayer: posts big blind $0.25
+dapriest20: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 2d]
+Alameda22: folds 
+RemcoB: folds 
+Superflush: folds 
+littlesammy2: calls $0.25
+omar_braves: folds 
+Molkosk1: folds 
+11pokeras11 was removed from the table for failing to post
+WongPlayer: checks 
+*** FLOP *** [2s 6h 9s]
+WongPlayer: bets $0.50
+littlesammy2: folds 
+Uncalled bet ($0.50) returned to WongPlayer
+WongPlayer collected $0.60 from pot
+WongPlayer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [2s 6h 9s]
+Seat 1: WongPlayer (big blind) collected ($0.60)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 4: Superflush folded before Flop (didn't bet)
+Seat 6: littlesammy2 folded on the Flop
+Seat 7: omar_braves (button) folded before Flop (didn't bet)
+Seat 8: Molkosk1 (small blind) folded before Flop
+
+
+
+PokerStars Game #19954380268:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:53:43 (ET)
+Table 'Montague II' 9-max Seat #8 is the button
+Seat 1: WongPlayer ($18.35 in chips) 
+Seat 2: Alameda22 ($62.05 in chips) 
+Seat 3: RemcoB ($25.80 in chips) 
+Seat 4: Superflush ($29.90 in chips) 
+Seat 6: littlesammy2 ($12.55 in chips) 
+Seat 7: omar_braves ($24.65 in chips) 
+Seat 8: Molkosk1 ($26.45 in chips) 
+WongPlayer: posts small blind $0.10
+Alameda22: posts big blind $0.25
+dapriest20: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 8c]
+RemcoB: folds 
+Superflush: folds 
+littlesammy2: folds 
+omar_braves: folds 
+Molkosk1: folds 
+WongPlayer: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: WongPlayer (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) collected ($0.20)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 4: Superflush folded before Flop (didn't bet)
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 7: omar_braves folded before Flop (didn't bet)
+Seat 8: Molkosk1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954389055:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:54:08 (ET)
+Table 'Montague II' 9-max Seat #1 is the button
+Seat 1: WongPlayer ($18.25 in chips) 
+Seat 2: Alameda22 ($62.15 in chips) 
+Seat 3: RemcoB ($25.80 in chips) 
+Seat 4: Superflush ($29.90 in chips) 
+Seat 6: littlesammy2 ($12.55 in chips) 
+Seat 7: omar_braves ($24.65 in chips) 
+Seat 8: Molkosk1 ($26.45 in chips) 
+Alameda22: posts small blind $0.10
+RemcoB: posts big blind $0.25
+dapriest20: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 3h]
+Superflush: folds 
+littlesammy2: folds 
+omar_braves: folds 
+Molkosk1: folds 
+WongPlayer: folds 
+WongPlayer is sitting out
+Alameda22: folds 
+Uncalled bet ($0.15) returned to RemcoB
+RemcoB collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: WongPlayer (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: RemcoB (big blind) collected ($0.20)
+Seat 4: Superflush folded before Flop (didn't bet)
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 7: omar_braves folded before Flop (didn't bet)
+Seat 8: Molkosk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954399273:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:54:37 (ET)
+Table 'Montague II' 9-max Seat #2 is the button
+Seat 2: Alameda22 ($62.05 in chips) 
+Seat 3: RemcoB ($25.90 in chips) 
+Seat 4: Superflush ($29.90 in chips) 
+Seat 6: littlesammy2 ($12.55 in chips) 
+Seat 7: omar_braves ($24.65 in chips) 
+Seat 8: Molkosk1 ($26.45 in chips) 
+RemcoB: posts small blind $0.10
+Superflush: posts big blind $0.25
+dapriest20: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 9d]
+WongPlayer leaves the table
+littlesammy2: raises $0.75 to $1
+omar_braves: folds 
+Molkosk1: folds 
+Alameda22: folds 
+RemcoB: folds 
+Superflush: folds 
+Uncalled bet ($0.75) returned to littlesammy2
+littlesammy2 collected $0.60 from pot
+littlesammy2: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: RemcoB (small blind) folded before Flop
+Seat 4: Superflush (big blind) folded before Flop
+Seat 6: littlesammy2 collected ($0.60)
+Seat 7: omar_braves folded before Flop (didn't bet)
+Seat 8: Molkosk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954408668:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:55:04 (ET)
+Table 'Montague II' 9-max Seat #3 is the button
+Seat 2: Alameda22 ($62.05 in chips) 
+Seat 3: RemcoB ($25.80 in chips) 
+Seat 4: Superflush ($29.65 in chips) 
+Seat 5: dapriest20 ($13 in chips) 
+Seat 6: littlesammy2 ($12.90 in chips) 
+Seat 7: omar_braves ($24.65 in chips) 
+Seat 8: Molkosk1 ($26.45 in chips) 
+Superflush: posts small blind $0.10
+dapriest20: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 6d]
+littlesammy2: folds 
+omar_braves: folds 
+Molkosk1: folds 
+Alameda22: folds 
+RemcoB: raises $0.75 to $1
+Superflush: folds 
+dapriest20: calls $0.75
+*** FLOP *** [Ac 5h Qh]
+dapriest20: checks 
+RemcoB: bets $1.50
+dapriest20: folds 
+Uncalled bet ($1.50) returned to RemcoB
+RemcoB collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Ac 5h Qh]
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: RemcoB (button) collected ($2)
+Seat 4: Superflush (small blind) folded before Flop
+Seat 5: dapriest20 (big blind) folded on the Flop
+Seat 6: littlesammy2 folded before Flop (didn't bet)
+Seat 7: omar_braves folded before Flop (didn't bet)
+Seat 8: Molkosk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954431374:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:56:09 (ET)
+Table 'Montague II' 9-max Seat #4 is the button
+Seat 2: Alameda22 ($62.05 in chips) 
+Seat 3: RemcoB ($26.80 in chips) 
+Seat 4: Superflush ($29.55 in chips) 
+Seat 5: dapriest20 ($12 in chips) 
+Seat 6: littlesammy2 ($12.90 in chips) 
+Seat 7: omar_braves ($24.65 in chips) 
+Seat 8: Molkosk1 ($26.45 in chips) 
+dapriest20: posts small blind $0.10
+littlesammy2: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 3h]
+omar_braves: folds 
+Molkosk1: folds 
+Alameda22: folds 
+RemcoB: folds 
+Superflush: raises $0.50 to $0.75
+dapriest20: calls $0.65
+littlesammy2: calls $0.50
+*** FLOP *** [2d Jh Qs]
+dapriest20: bets $0.50
+littlesammy2: raises $1 to $1.50
+Superflush: folds 
+dapriest20: calls $1
+*** TURN *** [2d Jh Qs] [2s]
+dapriest20: checks 
+littlesammy2: bets $2.75
+dapriest20: folds 
+Uncalled bet ($2.75) returned to littlesammy2
+littlesammy2 collected $5 from pot
+littlesammy2: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [2d Jh Qs 2s]
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 4: Superflush (button) folded on the Flop
+Seat 5: dapriest20 (small blind) folded on the Turn
+Seat 6: littlesammy2 (big blind) collected ($5)
+Seat 7: omar_braves folded before Flop (didn't bet)
+Seat 8: Molkosk1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954458731:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:57:27 (ET)
+Table 'Montague II' 9-max Seat #5 is the button
+Seat 2: Alameda22 ($62.05 in chips) 
+Seat 3: RemcoB ($26.80 in chips) 
+Seat 4: Superflush ($28.80 in chips) 
+Seat 5: dapriest20 ($9.75 in chips) 
+Seat 6: littlesammy2 ($15.65 in chips) 
+Seat 7: omar_braves ($24.65 in chips) 
+Seat 8: Molkosk1 ($26.45 in chips) 
+littlesammy2: posts small blind $0.10
+omar_braves: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 6s]
+Molkosk1: folds 
+Alameda22: folds 
+RemcoB: folds 
+Superflush: folds 
+dapriest20: folds 
+littlesammy2: folds 
+Uncalled bet ($0.15) returned to omar_braves
+omar_braves collected $0.20 from pot
+omar_braves: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 4: Superflush folded before Flop (didn't bet)
+Seat 5: dapriest20 (button) folded before Flop (didn't bet)
+Seat 6: littlesammy2 (small blind) folded before Flop
+Seat 7: omar_braves (big blind) collected ($0.20)
+Seat 8: Molkosk1 folded before Flop (didn't bet)
+
+
+

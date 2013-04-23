@@ -1,0 +1,3345 @@
+PokerStars Game #20148228911:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 17:45:59 ET
+Table 'Tomyris II' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($50 in chips) 
+Seat 2: LIONHEARTFF8 ($72.35 in chips) 
+Seat 3: jonyctt ($69.10 in chips) 
+Seat 4: CrazymanUC ($36.85 in chips) 
+Seat 5: Uhnihilator ($50 in chips) 
+Seat 6: Hangman1604 ($82.40 in chips) 
+Seat 7: jd185152 ($23.25 in chips) 
+Seat 8: r2d2bot ($49.40 in chips) 
+Seat 9: IRhys $ UKI ($48.50 in chips) 
+IRhys $ UKI: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 3h]
+LIONHEARTFF8: folds 
+jonyctt: folds 
+CrazymanUC: folds 
+Uhnihilator: raises $1 to $1.50
+Hangman1604: folds 
+jd185152: folds 
+r2d2bot: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+Uncalled bet ($1) returned to Uhnihilator
+Uhnihilator collected $1.25 from pot
+Uhnihilator: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: LIONHEARTFF8 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: CrazymanUC folded before Flop (didn't bet)
+Seat 5: Uhnihilator collected ($1.25)
+Seat 6: Hangman1604 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: r2d2bot (button) folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI (small blind) folded before Flop
+
+
+
+PokerStars Game #20148253031:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 17:46:58 ET
+Table 'Tomyris II' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($49.50 in chips) 
+Seat 2: LIONHEARTFF8 ($72.35 in chips) 
+Seat 3: jonyctt ($69.10 in chips) 
+Seat 4: CrazymanUC ($36.85 in chips) 
+Seat 5: Uhnihilator ($50.75 in chips) 
+Seat 6: Hangman1604 ($82.40 in chips) 
+Seat 7: jd185152 ($23.25 in chips) 
+Seat 8: r2d2bot ($49.40 in chips) 
+Seat 9: IRhys $ UKI ($48.25 in chips) 
+Alameda22: posts small blind $0.25
+LIONHEARTFF8: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 6c]
+jonyctt: folds 
+CrazymanUC: calls $0.50
+Uhnihilator: calls $0.50
+Hangman1604: folds 
+jd185152: folds 
+r2d2bot: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+LIONHEARTFF8: checks 
+*** FLOP *** [Qh 3c Kd]
+LIONHEARTFF8: checks 
+CrazymanUC: checks 
+Uhnihilator: checks 
+*** TURN *** [Qh 3c Kd] [Js]
+LIONHEARTFF8: checks 
+CrazymanUC: bets $0.50
+Uhnihilator: raises $4.50 to $5
+LIONHEARTFF8: folds 
+CrazymanUC: folds 
+Uncalled bet ($4.50) returned to Uhnihilator
+Uhnihilator collected $2.65 from pot
+Uhnihilator: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [Qh 3c Kd Js]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: LIONHEARTFF8 (big blind) folded on the Turn
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: CrazymanUC folded on the Turn
+Seat 5: Uhnihilator collected ($2.65)
+Seat 6: Hangman1604 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: r2d2bot folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148280197:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 17:48:04 ET
+Table 'Tomyris II' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($49.25 in chips) 
+Seat 2: LIONHEARTFF8 ($71.85 in chips) 
+Seat 3: jonyctt ($69.10 in chips) 
+Seat 4: CrazymanUC ($35.85 in chips) 
+Seat 5: Uhnihilator ($52.40 in chips) 
+Seat 6: Hangman1604 ($82.40 in chips) 
+Seat 7: jd185152 ($23.25 in chips) 
+Seat 8: r2d2bot ($49.40 in chips) 
+Seat 9: IRhys $ UKI ($48.25 in chips) 
+LIONHEARTFF8: posts small blind $0.25
+jonyctt: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 5h]
+CrazymanUC: calls $0.50
+Uhnihilator: folds 
+Hangman1604: folds 
+jd185152: folds 
+r2d2bot: folds 
+IRhys $ UKI: calls $0.50
+Alameda22: folds 
+LIONHEARTFF8: folds 
+jonyctt: checks 
+*** FLOP *** [6c 2d Ts]
+jonyctt: checks 
+CrazymanUC: checks 
+IRhys $ UKI: checks 
+*** TURN *** [6c 2d Ts] [Qd]
+jonyctt: checks 
+CrazymanUC: bets $1.50
+IRhys $ UKI: calls $1.50
+jonyctt: folds 
+*** RIVER *** [6c 2d Ts Qd] [Ac]
+CrazymanUC: bets $1
+IRhys $ UKI: calls $1
+*** SHOW DOWN ***
+CrazymanUC: shows [8s Jd] (high card Ace)
+IRhys $ UKI: shows [As Jc] (a pair of Aces)
+IRhys $ UKI collected $6.45 from pot
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.30 
+Board [6c 2d Ts Qd Ac]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 (small blind) folded before Flop
+Seat 3: jonyctt (big blind) folded on the Turn
+Seat 4: CrazymanUC showed [8s Jd] and lost with high card Ace
+Seat 5: Uhnihilator folded before Flop (didn't bet)
+Seat 6: Hangman1604 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: r2d2bot folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI showed [As Jc] and won ($6.45) with a pair of Aces
+
+
+
+PokerStars Game #20148320085:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 17:49:43 ET
+Table 'Tomyris II' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($49.25 in chips) 
+Seat 2: LIONHEARTFF8 ($71.60 in chips) 
+Seat 3: jonyctt ($68.60 in chips) 
+Seat 4: CrazymanUC ($32.85 in chips) 
+Seat 5: Uhnihilator ($52.40 in chips) 
+Seat 6: Hangman1604 ($82.40 in chips) 
+Seat 7: jd185152 ($23.25 in chips) 
+Seat 8: r2d2bot ($49.40 in chips) 
+Seat 9: IRhys $ UKI ($51.70 in chips) 
+jonyctt: posts small blind $0.25
+CrazymanUC: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh As]
+Uhnihilator: folds 
+Hangman1604: folds 
+jd185152: folds 
+r2d2bot: folds 
+IRhys $ UKI: folds 
+Alameda22: raises $1.50 to $2
+LIONHEARTFF8: folds 
+jonyctt: folds 
+CrazymanUC: calls $1.50
+*** FLOP *** [Td Ks 7s]
+CrazymanUC: checks 
+Alameda22: bets $3
+CrazymanUC: folds 
+Uncalled bet ($3) returned to Alameda22
+Alameda22 collected $4.05 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [Td Ks 7s]
+Seat 1: Alameda22 collected ($4.05)
+Seat 2: LIONHEARTFF8 (button) folded before Flop (didn't bet)
+Seat 3: jonyctt (small blind) folded before Flop
+Seat 4: CrazymanUC (big blind) folded on the Flop
+Seat 5: Uhnihilator folded before Flop (didn't bet)
+Seat 6: Hangman1604 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: r2d2bot folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148343190:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 17:50:40 ET
+Table 'Tomyris II' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($51.30 in chips) 
+Seat 2: LIONHEARTFF8 ($71.60 in chips) 
+Seat 3: jonyctt ($68.35 in chips) 
+Seat 4: CrazymanUC ($30.85 in chips) 
+Seat 5: Uhnihilator ($52.40 in chips) 
+Seat 6: Hangman1604 ($82.40 in chips) 
+Seat 7: jd185152 ($23.25 in chips) 
+Seat 8: r2d2bot ($49.40 in chips) 
+Seat 9: IRhys $ UKI ($51.70 in chips) 
+CrazymanUC: posts small blind $0.25
+Uhnihilator: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Ad]
+Hangman1604: folds 
+jd185152: folds 
+r2d2bot: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+LIONHEARTFF8: folds 
+jonyctt: raises $1.50 to $2
+CrazymanUC: calls $1.75
+Uhnihilator: folds 
+*** FLOP *** [3c As 4s]
+CrazymanUC: bets $1
+jonyctt: raises $3 to $4
+CrazymanUC: folds 
+Uncalled bet ($3) returned to jonyctt
+jonyctt collected $6.20 from pot
+jonyctt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.30 
+Board [3c As 4s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 folded before Flop (didn't bet)
+Seat 3: jonyctt (button) collected ($6.20)
+Seat 4: CrazymanUC (small blind) folded on the Flop
+Seat 5: Uhnihilator (big blind) folded before Flop
+Seat 6: Hangman1604 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: r2d2bot folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148373156:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 17:51:54 ET
+Table 'Tomyris II' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($51.30 in chips) 
+Seat 2: LIONHEARTFF8 ($71.60 in chips) 
+Seat 3: jonyctt ($71.55 in chips) 
+Seat 4: CrazymanUC ($27.85 in chips) 
+Seat 5: Uhnihilator ($51.90 in chips) 
+Seat 6: Hangman1604 ($82.40 in chips) 
+Seat 7: jd185152 ($23.25 in chips) 
+Seat 8: r2d2bot ($49.40 in chips) 
+Seat 9: IRhys $ UKI ($51.70 in chips) 
+Uhnihilator: posts small blind $0.25
+Hangman1604: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Kh]
+jd185152: calls $0.50
+r2d2bot: raises $2 to $2.50
+IRhys $ UKI: folds 
+Alameda22: folds 
+LIONHEARTFF8: folds 
+jonyctt: folds 
+CrazymanUC: folds 
+CrazymanUC leaves the table
+Uhnihilator: folds 
+Hangman1604: folds 
+jd185152: folds 
+Uncalled bet ($2) returned to r2d2bot
+r2d2bot collected $1.75 from pot
+r2d2bot: doesn't show hand 
+Hangman1604 leaves the table
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: CrazymanUC (button) folded before Flop (didn't bet)
+Seat 5: Uhnihilator (small blind) folded before Flop
+Seat 6: Hangman1604 (big blind) folded before Flop
+Seat 7: jd185152 folded before Flop
+Seat 8: r2d2bot collected ($1.75)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148394055:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 17:52:46 ET
+Table 'Tomyris II' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($51.30 in chips) 
+Seat 2: LIONHEARTFF8 ($71.60 in chips) 
+Seat 3: jonyctt ($71.55 in chips) 
+Seat 5: Uhnihilator ($51.65 in chips) 
+Seat 7: jd185152 ($22.75 in chips) 
+Seat 9: IRhys $ UKI ($51.70 in chips) 
+jd185152: posts small blind $0.25
+r2d2bot: is sitting out 
+IRhys $ UKI: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 5d]
+r2d2bot leaves the table
+Alameda22: folds 
+LIONHEARTFF8: raises $1 to $1.50
+jonyctt: folds 
+Descartes10 joins the table at seat #6 
+Uhnihilator: folds 
+jd185152: folds 
+IRhys $ UKI: folds 
+Uncalled bet ($1) returned to LIONHEARTFF8
+LIONHEARTFF8 collected $1.25 from pot
+LIONHEARTFF8: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 collected ($1.25)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 5: Uhnihilator (button) folded before Flop (didn't bet)
+Seat 7: jd185152 (small blind) folded before Flop
+Seat 9: IRhys $ UKI (big blind) folded before Flop
+
+
+
+PokerStars Game #20148404559:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 17:53:12 ET
+Table 'Tomyris II' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($51.30 in chips) 
+Seat 2: LIONHEARTFF8 ($72.35 in chips) 
+Seat 3: jonyctt ($71.55 in chips) 
+Seat 5: Uhnihilator ($51.65 in chips) 
+Seat 6: Descartes10 ($50 in chips) 
+Seat 7: jd185152 ($22.50 in chips) 
+Seat 9: IRhys $ UKI ($51.20 in chips) 
+IRhys $ UKI: posts small blind $0.25
+Alameda22: posts big blind $0.50
+Descartes10: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Qd]
+LIONHEARTFF8: folds 
+jonyctt: folds 
+Uhnihilator: folds 
+Descartes10: checks 
+jd185152: folds 
+IRhys $ UKI: raises $1 to $1.50
+Alameda22: calls $1
+Descartes10: folds 
+*** FLOP *** [3h Qc As]
+IRhys $ UKI: bets $1
+Alameda22: raises $2 to $3
+IRhys $ UKI: calls $2
+*** TURN *** [3h Qc As] [2h]
+IRhys $ UKI: checks 
+Alameda22: bets $6
+IRhys $ UKI: folds 
+Uncalled bet ($6) returned to Alameda22
+Alameda22 collected $9.05 from pot
+Alameda22: doesn't show hand 
+jahmada joins the table at seat #4 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.45 
+Board [3h Qc As 2h]
+Seat 1: Alameda22 (big blind) collected ($9.05)
+Seat 2: LIONHEARTFF8 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 5: Uhnihilator folded before Flop (didn't bet)
+Seat 6: Descartes10 folded before Flop
+Seat 7: jd185152 (button) folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI (small blind) folded on the Turn
+
+
+
+PokerStars Game #20148440647:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 17:54:42 ET
+Table 'Tomyris II' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($55.85 in chips) 
+Seat 2: LIONHEARTFF8 ($72.35 in chips) 
+Seat 3: jonyctt ($71.55 in chips) 
+Seat 5: Uhnihilator ($51.65 in chips) 
+Seat 6: Descartes10 ($49.50 in chips) 
+Seat 7: jd185152 ($22.50 in chips) 
+Seat 9: IRhys $ UKI ($46.70 in chips) 
+Alameda22: posts small blind $0.25
+LIONHEARTFF8: posts big blind $0.50
+jahmada: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 5s]
+jonyctt: folds 
+Uhnihilator: folds 
+Descartes10: folds 
+jd185152: folds 
+IRhys $ UKI: folds 
+Alameda22: calls $0.25
+LIONHEARTFF8: raises $1.50 to $2
+Alameda22: calls $1.50
+*** FLOP *** [8c Jd 5c]
+Alameda22: checks 
+LIONHEARTFF8: bets $2
+Alameda22: raises $4 to $6
+LIONHEARTFF8: raises $10 to $16
+Alameda22: raises $37.85 to $53.85 and is all-in
+LIONHEARTFF8: calls $37.85
+*** TURN *** [8c Jd 5c] [8h]
+*** RIVER *** [8c Jd 5c 8h] [7d]
+*** SHOW DOWN ***
+Alameda22: shows [5h 5s] (a full house, Fives full of Eights)
+LIONHEARTFF8: mucks hand 
+Alameda22 collected $108.70 from pot
+*** SUMMARY ***
+Total pot $111.70 | Rake $3 
+Board [8c Jd 5c 8h 7d]
+Seat 1: Alameda22 (small blind) showed [5h 5s] and won ($108.70) with a full house, Fives full of Eights
+Seat 2: LIONHEARTFF8 (big blind) mucked [Qs Qc]
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 5: Uhnihilator folded before Flop (didn't bet)
+Seat 6: Descartes10 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148473275:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 17:56:04 ET
+Table 'Tomyris II' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($108.70 in chips) 
+Seat 2: LIONHEARTFF8 ($16.50 in chips) 
+Seat 3: jonyctt ($71.55 in chips) 
+Seat 5: Uhnihilator ($51.65 in chips) 
+Seat 6: Descartes10 ($49.50 in chips) 
+Seat 7: jd185152 ($22.50 in chips) 
+Seat 9: IRhys $ UKI ($46.70 in chips) 
+LIONHEARTFF8: posts small blind $0.25
+jonyctt: posts big blind $0.50
+jahmada: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 8s]
+Uhnihilator: folds 
+Descartes10: folds 
+KingGraf90 joins the table at seat #8 
+jd185152: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+LIONHEARTFF8: raises $1 to $1.50
+jonyctt: folds 
+Uncalled bet ($1) returned to LIONHEARTFF8
+LIONHEARTFF8 collected $1 from pot
+LIONHEARTFF8: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 (small blind) collected ($1)
+Seat 3: jonyctt (big blind) folded before Flop
+Seat 5: Uhnihilator folded before Flop (didn't bet)
+Seat 6: Descartes10 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148482765:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 17:56:27 ET
+Table 'Tomyris II' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($108.70 in chips) 
+Seat 2: LIONHEARTFF8 ($50 in chips) 
+Seat 3: jonyctt ($71.05 in chips) 
+Seat 4: jahmada ($50 in chips) 
+Seat 5: Uhnihilator ($51.65 in chips) 
+Seat 6: Descartes10 ($49.50 in chips) 
+Seat 7: jd185152 ($22.50 in chips) 
+Seat 9: IRhys $ UKI ($46.70 in chips) 
+jonyctt: posts small blind $0.25
+jahmada: posts big blind $0.50
+KingGraf90: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 3h]
+Uhnihilator: folds 
+Descartes10: folds 
+jd185152 has timed out
+jd185152: folds 
+jd185152 is sitting out
+jd185152 has returned
+IRhys $ UKI: folds 
+Alameda22: folds 
+LIONHEARTFF8: folds 
+jonyctt: folds 
+Uncalled bet ($0.25) returned to jahmada
+jahmada collected $0.50 from pot
+jahmada: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 (button) folded before Flop (didn't bet)
+Seat 3: jonyctt (small blind) folded before Flop
+Seat 4: jahmada (big blind) collected ($0.50)
+Seat 5: Uhnihilator folded before Flop (didn't bet)
+Seat 6: Descartes10 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148518238:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 17:57:57 ET
+Table 'Tomyris II' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($108.70 in chips) 
+Seat 2: LIONHEARTFF8 ($50 in chips) 
+Seat 3: jonyctt ($70.80 in chips) 
+Seat 4: jahmada ($50.25 in chips) 
+Seat 5: Uhnihilator ($51.65 in chips) 
+Seat 6: Descartes10 ($49.50 in chips) 
+Seat 7: jd185152 ($22.50 in chips) 
+Seat 9: IRhys $ UKI ($46.70 in chips) 
+jahmada: posts small blind $0.25
+Uhnihilator: posts big blind $0.50
+KingGraf90: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 4h]
+Descartes10: folds 
+jd185152: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+LIONHEARTFF8: folds 
+jonyctt: folds 
+jahmada: calls $0.25
+Uhnihilator: checks 
+*** FLOP *** [Td 5s Jc]
+jahmada: bets $1
+Uhnihilator: folds 
+Uncalled bet ($1) returned to jahmada
+jahmada collected $0.95 from pot
+jahmada: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Td 5s Jc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 folded before Flop (didn't bet)
+Seat 3: jonyctt (button) folded before Flop (didn't bet)
+Seat 4: jahmada (small blind) collected ($0.95)
+Seat 5: Uhnihilator (big blind) folded on the Flop
+Seat 6: Descartes10 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148540956:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 17:58:55 ET
+Table 'Tomyris II' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($108.70 in chips) 
+Seat 2: LIONHEARTFF8 ($50 in chips) 
+Seat 3: jonyctt ($70.80 in chips) 
+Seat 4: jahmada ($50.70 in chips) 
+Seat 5: Uhnihilator ($51.15 in chips) 
+Seat 6: Descartes10 ($49.50 in chips) 
+Seat 7: jd185152 ($22.50 in chips) 
+Seat 9: IRhys $ UKI ($46.70 in chips) 
+Uhnihilator: posts small blind $0.25
+Descartes10: posts big blind $0.50
+KingGraf90: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 5c]
+jd185152: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+LIONHEARTFF8: folds 
+jonyctt: folds 
+jahmada: folds 
+Uhnihilator: folds 
+Uncalled bet ($0.25) returned to Descartes10
+Descartes10 collected $0.50 from pot
+Descartes10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada (button) folded before Flop (didn't bet)
+Seat 5: Uhnihilator (small blind) folded before Flop
+Seat 6: Descartes10 (big blind) collected ($0.50)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148555365:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 17:59:32 ET
+Table 'Tomyris II' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($108.70 in chips) 
+Seat 2: LIONHEARTFF8 ($50 in chips) 
+Seat 3: jonyctt ($70.80 in chips) 
+Seat 4: jahmada ($50.70 in chips) 
+Seat 5: Uhnihilator ($50.90 in chips) 
+Seat 6: Descartes10 ($49.75 in chips) 
+Seat 7: jd185152 ($22.50 in chips) 
+Seat 9: IRhys $ UKI ($46.70 in chips) 
+Descartes10: posts small blind $0.25
+jd185152: posts big blind $0.50
+KingGraf90: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 4s]
+IRhys $ UKI: folds 
+Alameda22: folds 
+LIONHEARTFF8: folds 
+jonyctt: folds 
+jahmada: folds 
+Uhnihilator: folds 
+Descartes10: folds 
+Uncalled bet ($0.25) returned to jd185152
+jd185152 collected $0.50 from pot
+jd185152: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 5: Uhnihilator (button) folded before Flop (didn't bet)
+Seat 6: Descartes10 (small blind) folded before Flop
+Seat 7: jd185152 (big blind) collected ($0.50)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148568460:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:00:04 ET
+Table 'Tomyris II' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($108.70 in chips) 
+Seat 2: LIONHEARTFF8 ($50 in chips) 
+Seat 3: jonyctt ($70.80 in chips) 
+Seat 4: jahmada ($50.70 in chips) 
+Seat 5: Uhnihilator ($50.90 in chips) 
+Seat 6: Descartes10 ($49.50 in chips) 
+Seat 7: jd185152 ($22.75 in chips) 
+Seat 8: KingGraf90 ($50 in chips) 
+Seat 9: IRhys $ UKI ($46.70 in chips) 
+jd185152: posts small blind $0.25
+KingGraf90: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 8h]
+IRhys $ UKI: folds 
+Alameda22: folds 
+LIONHEARTFF8: folds 
+jonyctt: folds 
+jahmada: folds 
+Uhnihilator: folds 
+Descartes10: raises $1 to $1.50
+jd185152: folds 
+KingGraf90: folds 
+Uncalled bet ($1) returned to Descartes10
+Descartes10 collected $1.25 from pot
+Descartes10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 5: Uhnihilator folded before Flop (didn't bet)
+Seat 6: Descartes10 (button) collected ($1.25)
+Seat 7: jd185152 (small blind) folded before Flop
+Seat 8: KingGraf90 (big blind) folded before Flop
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148582387:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:00:40 ET
+Table 'Tomyris II' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($108.70 in chips) 
+Seat 2: LIONHEARTFF8 ($50 in chips) 
+Seat 3: jonyctt ($70.80 in chips) 
+Seat 4: jahmada ($50.70 in chips) 
+Seat 5: Uhnihilator ($50.90 in chips) 
+Seat 6: Descartes10 ($50.25 in chips) 
+Seat 7: jd185152 ($22.50 in chips) 
+Seat 8: KingGraf90 ($49.50 in chips) 
+Seat 9: IRhys $ UKI ($46.70 in chips) 
+KingGraf90: posts small blind $0.25
+IRhys $ UKI: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 7s]
+Alameda22: folds 
+LIONHEARTFF8: folds 
+jonyctt: folds 
+jahmada: folds 
+Uhnihilator: folds 
+Descartes10: folds 
+jd185152: raises $1 to $1.50
+KingGraf90: folds 
+IRhys $ UKI: calls $1
+*** FLOP *** [7d Qc 6h]
+IRhys $ UKI: checks 
+jd185152: bets $1.50
+IRhys $ UKI: folds 
+Uncalled bet ($1.50) returned to jd185152
+jd185152 collected $3.10 from pot
+jd185152: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [7d Qc 6h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 5: Uhnihilator folded before Flop (didn't bet)
+Seat 6: Descartes10 folded before Flop (didn't bet)
+Seat 7: jd185152 (button) collected ($3.10)
+Seat 8: KingGraf90 (small blind) folded before Flop
+Seat 9: IRhys $ UKI (big blind) folded on the Flop
+
+
+
+PokerStars Game #20148609449:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:01:49 ET
+Table 'Tomyris II' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($108.70 in chips) 
+Seat 2: LIONHEARTFF8 ($50 in chips) 
+Seat 3: jonyctt ($70.80 in chips) 
+Seat 4: jahmada ($50.70 in chips) 
+Seat 5: Uhnihilator ($50.90 in chips) 
+Seat 6: Descartes10 ($50.25 in chips) 
+Seat 7: jd185152 ($24.10 in chips) 
+Seat 8: KingGraf90 ($49.25 in chips) 
+Seat 9: IRhys $ UKI ($45.20 in chips) 
+IRhys $ UKI: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 7s]
+LIONHEARTFF8: folds 
+jonyctt: raises $1.50 to $2
+jahmada: folds 
+Uhnihilator: folds 
+Descartes10: folds 
+jd185152: folds 
+KingGraf90: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+Uncalled bet ($1.50) returned to jonyctt
+jonyctt collected $1.25 from pot
+jonyctt: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: LIONHEARTFF8 folded before Flop (didn't bet)
+Seat 3: jonyctt collected ($1.25)
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 5: Uhnihilator folded before Flop (didn't bet)
+Seat 6: Descartes10 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: KingGraf90 (button) folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI (small blind) folded before Flop
+
+
+
+PokerStars Game #20148629438:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:02:42 ET
+Table 'Tomyris II' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($108.20 in chips) 
+Seat 2: LIONHEARTFF8 ($50 in chips) 
+Seat 3: jonyctt ($71.55 in chips) 
+Seat 4: jahmada ($50.70 in chips) 
+Seat 5: Uhnihilator ($50.90 in chips) 
+Seat 6: Descartes10 ($50.25 in chips) 
+Seat 7: jd185152 ($24.10 in chips) 
+Seat 8: KingGraf90 ($49.25 in chips) 
+Seat 9: IRhys $ UKI ($44.95 in chips) 
+Alameda22: posts small blind $0.25
+LIONHEARTFF8: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 6c]
+jonyctt: folds 
+jahmada: folds 
+Uhnihilator: folds 
+Descartes10: folds 
+jd185152: calls $0.50
+KingGraf90: folds 
+IRhys $ UKI: calls $0.50
+Uhnihilator leaves the table
+Alameda22: folds 
+LIONHEARTFF8: checks 
+*** FLOP *** [3h Ad 8s]
+LIONHEARTFF8: checks 
+jd185152: checks 
+IRhys $ UKI: checks 
+*** TURN *** [3h Ad 8s] [2h]
+LSGx joins the table at seat #5 
+LIONHEARTFF8: checks 
+jd185152: checks 
+IRhys $ UKI: checks 
+*** RIVER *** [3h Ad 8s 2h] [7d]
+LIONHEARTFF8: bets $1
+jd185152: folds 
+IRhys $ UKI: folds 
+Uncalled bet ($1) returned to LIONHEARTFF8
+LIONHEARTFF8 collected $1.70 from pot
+LIONHEARTFF8: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [3h Ad 8s 2h 7d]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: LIONHEARTFF8 (big blind) collected ($1.70)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 5: Uhnihilator folded before Flop (didn't bet)
+Seat 6: Descartes10 folded before Flop (didn't bet)
+Seat 7: jd185152 folded on the River
+Seat 8: KingGraf90 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI (button) folded on the River
+
+
+
+PokerStars Game #20148654899:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:03:47 ET
+Table 'Tomyris II' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($107.95 in chips) 
+Seat 2: LIONHEARTFF8 ($51.20 in chips) 
+Seat 3: jonyctt ($71.55 in chips) 
+Seat 4: jahmada ($50.70 in chips) 
+Seat 6: Descartes10 ($50.25 in chips) 
+Seat 7: jd185152 ($23.60 in chips) 
+Seat 8: KingGraf90 ($49.25 in chips) 
+Seat 9: IRhys $ UKI ($44.45 in chips) 
+LIONHEARTFF8: posts small blind $0.25
+jonyctt: posts big blind $0.50
+LSGx: is sitting out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 6d]
+LSGx leaves the table
+jahmada: folds 
+Descartes10: calls $0.50
+jd185152: folds 
+rabbit1388 joins the table at seat #5 
+KingGraf90: calls $0.50
+IRhys $ UKI: folds 
+Alameda22: folds 
+LIONHEARTFF8: folds 
+jonyctt: checks 
+*** FLOP *** [2d 8s 6c]
+jonyctt: checks 
+Descartes10: checks 
+KingGraf90: checks 
+*** TURN *** [2d 8s 6c] [Ah]
+jonyctt: checks 
+Descartes10: bets $2
+KingGraf90: folds 
+jonyctt: folds 
+Uncalled bet ($2) returned to Descartes10
+Descartes10 collected $1.70 from pot
+Descartes10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [2d 8s 6c Ah]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 (small blind) folded before Flop
+Seat 3: jonyctt (big blind) folded on the Turn
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 6: Descartes10 collected ($1.70)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: KingGraf90 folded on the Turn
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148693354:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:05:26 ET
+Table 'Tomyris II' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($107.95 in chips) 
+Seat 2: LIONHEARTFF8 ($50.95 in chips) 
+Seat 3: jonyctt ($71.05 in chips) 
+Seat 4: jahmada ($50.70 in chips) 
+Seat 6: Descartes10 ($51.45 in chips) 
+Seat 7: jd185152 ($23.60 in chips) 
+Seat 8: KingGraf90 ($48.75 in chips) 
+Seat 9: IRhys $ UKI ($44.45 in chips) 
+jonyctt: posts small blind $0.25
+jahmada: posts big blind $0.50
+rabbit1388: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 6h]
+Descartes10: folds 
+jd185152: folds 
+KingGraf90: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+LIONHEARTFF8: folds 
+jonyctt: folds 
+Uncalled bet ($0.25) returned to jahmada
+jahmada collected $0.50 from pot
+jahmada: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 (button) folded before Flop (didn't bet)
+Seat 3: jonyctt (small blind) folded before Flop
+Seat 4: jahmada (big blind) collected ($0.50)
+Seat 6: Descartes10 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: KingGraf90 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148705169:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:05:57 ET
+Table 'Tomyris II' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($107.95 in chips) 
+Seat 2: LIONHEARTFF8 ($50.95 in chips) 
+Seat 3: jonyctt ($70.80 in chips) 
+Seat 4: jahmada ($50.95 in chips) 
+Seat 5: rabbit1388 ($30 in chips) 
+Seat 6: Descartes10 ($51.45 in chips) 
+Seat 7: jd185152 ($23.60 in chips) 
+Seat 8: KingGraf90 ($48.75 in chips) 
+Seat 9: IRhys $ UKI ($44.45 in chips) 
+jahmada: posts small blind $0.25
+rabbit1388: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 3s]
+Descartes10: calls $0.50
+jd185152: folds 
+KingGraf90: folds 
+KingGraf90 leaves the table
+IRhys $ UKI: folds 
+Alameda22: folds 
+LIONHEARTFF8: folds 
+jonyctt: folds 
+jahmada: calls $0.25
+rabbit1388: checks 
+*** FLOP *** [3d As 7h]
+jahmada: checks 
+rabbit1388: checks 
+Descartes10: checks 
+*** TURN *** [3d As 7h] [9s]
+jahmada: checks 
+rabbit1388: checks 
+Descartes10: bets $0.50
+jahmada: folds 
+rabbit1388: calls $0.50
+*** RIVER *** [3d As 7h 9s] [Jc]
+rabbit1388: checks 
+Descartes10: bets $0.50
+rabbit1388: folds 
+Uncalled bet ($0.50) returned to Descartes10
+Descartes10 collected $2.40 from pot
+Descartes10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [3d As 7h 9s Jc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 folded before Flop (didn't bet)
+Seat 3: jonyctt (button) folded before Flop (didn't bet)
+Seat 4: jahmada (small blind) folded on the Turn
+Seat 5: rabbit1388 (big blind) folded on the River
+Seat 6: Descartes10 collected ($2.40)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: KingGraf90 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148737369:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:07:20 ET
+Table 'Tomyris II' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($107.95 in chips) 
+Seat 2: LIONHEARTFF8 ($50.95 in chips) 
+Seat 3: jonyctt ($70.80 in chips) 
+Seat 4: jahmada ($50.45 in chips) 
+Seat 5: rabbit1388 ($29 in chips) 
+Seat 6: Descartes10 ($52.85 in chips) 
+Seat 7: jd185152 ($23.60 in chips) 
+Seat 9: IRhys $ UKI ($44.45 in chips) 
+rabbit1388: posts small blind $0.25
+Descartes10: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Jc]
+jd185152: folds 
+rudinho15 joins the table at seat #8 
+IRhys $ UKI: folds 
+Alameda22: folds 
+LIONHEARTFF8: folds 
+jonyctt: folds 
+jahmada: raises $1 to $1.50
+rabbit1388: folds 
+Descartes10: calls $1
+*** FLOP *** [7s 9d Tc]
+Descartes10: checks 
+jahmada: bets $2.50
+Descartes10: calls $2.50
+*** TURN *** [7s 9d Tc] [7h]
+Descartes10: checks 
+jahmada: bets $4.50
+Descartes10: calls $4.50
+*** RIVER *** [7s 9d Tc 7h] [4s]
+Descartes10: bets $15
+jahmada: calls $15
+*** SHOW DOWN ***
+Descartes10: shows [8h 9h] (two pair, Nines and Sevens)
+jahmada: shows [7d 6h] (three of a kind, Sevens)
+jahmada collected $44.95 from pot
+*** SUMMARY ***
+Total pot $47.25 | Rake $2.30 
+Board [7s 9d Tc 7h 4s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada (button) showed [7d 6h] and won ($44.95) with three of a kind, Sevens
+Seat 5: rabbit1388 (small blind) folded before Flop
+Seat 6: Descartes10 (big blind) showed [8h 9h] and lost with two pair, Nines and Sevens
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148770463:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:08:45 ET
+Table 'Tomyris II' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($107.95 in chips) 
+Seat 2: LIONHEARTFF8 ($50.95 in chips) 
+Seat 3: jonyctt ($70.80 in chips) 
+Seat 4: jahmada ($71.90 in chips) 
+Seat 5: rabbit1388 ($28.75 in chips) 
+Seat 6: Descartes10 ($29.35 in chips) 
+Seat 7: jd185152 ($23.60 in chips) 
+Seat 8: rudinho15 ($50 in chips) 
+Seat 9: IRhys $ UKI ($44.45 in chips) 
+Descartes10: posts small blind $0.25
+jd185152: posts big blind $0.50
+rudinho15: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 7h]
+rudinho15: checks 
+IRhys $ UKI: folds 
+Alameda22: folds 
+LIONHEARTFF8: folds 
+jonyctt: folds 
+jahmada: folds 
+rabbit1388: folds 
+Descartes10: calls $0.25
+jd185152: raises $1 to $1.50
+rudinho15: calls $1
+Descartes10: folds 
+*** FLOP *** [Ah 7d 9d]
+jd185152: bets $2
+rudinho15: folds 
+Uncalled bet ($2) returned to jd185152
+jd185152 collected $3.35 from pot
+jd185152: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [Ah 7d 9d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 5: rabbit1388 (button) folded before Flop (didn't bet)
+Seat 6: Descartes10 (small blind) folded before Flop
+Seat 7: jd185152 (big blind) collected ($3.35)
+Seat 8: rudinho15 folded on the Flop
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148788085:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:09:30 ET
+Table 'Tomyris II' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($107.95 in chips) 
+Seat 2: LIONHEARTFF8 ($50.95 in chips) 
+Seat 3: jonyctt ($70.80 in chips) 
+Seat 4: jahmada ($71.90 in chips) 
+Seat 5: rabbit1388 ($28.75 in chips) 
+Seat 6: Descartes10 ($49.50 in chips) 
+Seat 7: jd185152 ($25.45 in chips) 
+Seat 8: rudinho15 ($48.50 in chips) 
+Seat 9: IRhys $ UKI ($44.45 in chips) 
+jd185152: posts small blind $0.25
+rudinho15: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c As]
+IRhys $ UKI: calls $0.50
+Alameda22: folds 
+LIONHEARTFF8: folds 
+jonyctt: folds 
+jahmada: folds 
+rabbit1388: folds 
+Descartes10: raises $0.50 to $1
+jd185152: calls $0.75
+rudinho15: folds 
+IRhys $ UKI: calls $0.50
+*** FLOP *** [Ac Tc Td]
+jd185152: checks 
+IRhys $ UKI: checks 
+Descartes10: bets $3
+jd185152: folds 
+IRhys $ UKI: calls $3
+*** TURN *** [Ac Tc Td] [9s]
+IRhys $ UKI: checks 
+Descartes10: checks 
+*** RIVER *** [Ac Tc Td 9s] [9h]
+IRhys $ UKI: checks 
+Descartes10: bets $4
+IRhys $ UKI: folds 
+Uncalled bet ($4) returned to Descartes10
+Descartes10 collected $9.05 from pot
+Descartes10: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.45 
+Board [Ac Tc Td 9s 9h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 (button) collected ($9.05)
+Seat 7: jd185152 (small blind) folded on the Flop
+Seat 8: rudinho15 (big blind) folded before Flop
+Seat 9: IRhys $ UKI folded on the River
+
+
+
+PokerStars Game #20148821012:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:10:55 ET
+Table 'Tomyris II' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($107.95 in chips) 
+Seat 2: LIONHEARTFF8 ($50.95 in chips) 
+Seat 3: jonyctt ($70.80 in chips) 
+Seat 4: jahmada ($71.90 in chips) 
+Seat 5: rabbit1388 ($28.75 in chips) 
+Seat 6: Descartes10 ($54.55 in chips) 
+Seat 7: jd185152 ($24.45 in chips) 
+Seat 8: rudinho15 ($48 in chips) 
+Seat 9: IRhys $ UKI ($40.45 in chips) 
+rudinho15: posts small blind $0.25
+IRhys $ UKI: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 7d]
+Alameda22: folds 
+LIONHEARTFF8: folds 
+jonyctt: folds 
+jahmada: folds 
+rabbit1388: folds 
+Descartes10: folds 
+Descartes10 is sitting out
+jd185152: calls $0.50
+rudinho15: calls $0.25
+IRhys $ UKI: checks 
+*** FLOP *** [Ah Tc 5s]
+rudinho15: checks 
+IRhys $ UKI: checks 
+jd185152: bets $0.50
+rudinho15: folds 
+IRhys $ UKI: calls $0.50
+*** TURN *** [Ah Tc 5s] [Jh]
+IRhys $ UKI: checks 
+jd185152: bets $1
+IRhys $ UKI: calls $1
+*** RIVER *** [Ah Tc 5s Jh] [Td]
+IRhys $ UKI: checks 
+jd185152: checks 
+*** SHOW DOWN ***
+IRhys $ UKI: shows [7h Ts] (three of a kind, Tens)
+jd185152: mucks hand 
+IRhys $ UKI collected $4.30 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [Ah Tc 5s Jh Td]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: LIONHEARTFF8 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 folded before Flop (didn't bet)
+Seat 7: jd185152 (button) mucked [6d 6c]
+Seat 8: rudinho15 (small blind) folded on the Flop
+Seat 9: IRhys $ UKI (big blind) showed [7h Ts] and won ($4.30) with three of a kind, Tens
+
+
+
+PokerStars Game #20148843033:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:11:52 ET
+Table 'Tomyris II' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($107.95 in chips) 
+Seat 2: LIONHEARTFF8 ($50.95 in chips) 
+Seat 3: jonyctt ($70.80 in chips) 
+Seat 4: jahmada ($71.90 in chips) 
+Seat 5: rabbit1388 ($28.75 in chips) 
+Seat 7: jd185152 ($22.45 in chips) 
+Seat 8: rudinho15 ($47.50 in chips) 
+Seat 9: IRhys $ UKI ($42.75 in chips) 
+IRhys $ UKI: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 4c]
+LIONHEARTFF8: folds 
+jonyctt: folds 
+jahmada: raises $1.50 to $2
+rabbit1388: raises $3 to $5
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+jahmada: calls $3
+*** FLOP *** [7s Qh 5d]
+jahmada: checks 
+rabbit1388: bets $12
+jahmada: raises $54.90 to $66.90 and is all-in
+rabbit1388: calls $11.75 and is all-in
+Uncalled bet ($43.15) returned to jahmada
+*** TURN *** [7s Qh 5d] [Ts]
+*** RIVER *** [7s Qh 5d Ts] [4d]
+*** SHOW DOWN ***
+jahmada: shows [9h 9d] (a pair of Nines)
+rabbit1388: shows [Kc Kd] (a pair of Kings)
+rabbit1388 collected $55.40 from pot
+*** SUMMARY ***
+Total pot $58.25 | Rake $2.85 
+Board [7s Qh 5d Ts 4d]
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: LIONHEARTFF8 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada showed [9h 9d] and lost with a pair of Nines
+Seat 5: rabbit1388 showed [Kc Kd] and won ($55.40) with a pair of Kings
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 (button) folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI (small blind) folded before Flop
+
+
+
+PokerStars Game #20148884744:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:13:40 ET
+Table 'Tomyris II' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($107.45 in chips) 
+Seat 3: jonyctt ($70.80 in chips) 
+Seat 4: jahmada ($43.15 in chips) 
+Seat 5: rabbit1388 ($55.40 in chips) 
+Seat 7: jd185152 ($22.45 in chips) 
+Seat 8: rudinho15 ($47.50 in chips) 
+Seat 9: IRhys $ UKI ($42.50 in chips) 
+Alameda22: posts small blind $0.25
+LIONHEARTFF8: is sitting out 
+jonyctt: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks As]
+jahmada: calls $0.50
+rabbit1388: folds 
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: raises $2 to $2.50
+jonyctt: folds 
+jahmada: calls $2
+*** FLOP *** [2h Qs Qh]
+Alameda22: checks 
+LIONHEARTFF8 leaves the table
+jahmada: checks 
+*** TURN *** [2h Qs Qh] [7d]
+Alameda22: checks 
+jahmada: checks 
+*** RIVER *** [2h Qs Qh 7d] [5c]
+Alameda22: checks 
+jahmada: checks 
+*** SHOW DOWN ***
+Alameda22: shows [Ks As] (a pair of Queens)
+jahmada: shows [7c 8c] (two pair, Queens and Sevens)
+jahmada collected $5.25 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25 
+Board [2h Qs Qh 7d 5c]
+Seat 1: Alameda22 (small blind) showed [Ks As] and lost with a pair of Queens
+Seat 3: jonyctt (big blind) folded before Flop
+Seat 4: jahmada showed [7c 8c] and won ($5.25) with two pair, Queens and Sevens
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148927825:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:15:32 ET
+Table 'Tomyris II' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($104.95 in chips) 
+Seat 3: jonyctt ($70.30 in chips) 
+Seat 4: jahmada ($45.90 in chips) 
+Seat 5: rabbit1388 ($55.40 in chips) 
+Seat 7: jd185152 ($22.45 in chips) 
+Seat 8: rudinho15 ($47.50 in chips) 
+Seat 9: IRhys $ UKI ($42.50 in chips) 
+jonyctt: posts small blind $0.25
+jahmada: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 7s]
+rabbit1388: folds 
+jd185152: calls $0.50
+Monk300187 joins the table at seat #2 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+jonyctt: folds 
+jahmada: checks 
+*** FLOP *** [Ac As 7h]
+jahmada: checks 
+jd185152: checks 
+*** TURN *** [Ac As 7h] [Td]
+jahmada: checks 
+jd185152: checks 
+*** RIVER *** [Ac As 7h Td] [Qd]
+jahmada: checks 
+jd185152: bets $1
+jahmada: calls $1
+*** SHOW DOWN ***
+jd185152: shows [Qh Jh] (two pair, Aces and Queens)
+jahmada: mucks hand 
+jd185152 collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Ac As 7h Td Qd]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: jonyctt (small blind) folded before Flop
+Seat 4: jahmada (big blind) mucked [2d 2h]
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 7: jd185152 showed [Qh Jh] and won ($3.10) with two pair, Aces and Queens
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148961773:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:16:59 ET
+Table 'Tomyris II' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($104.95 in chips) 
+Seat 2: Monk300187 ($30 in chips) 
+Seat 3: jonyctt ($70.05 in chips) 
+Seat 4: jahmada ($44.40 in chips) 
+Seat 5: rabbit1388 ($55.40 in chips) 
+Seat 7: jd185152 ($24.05 in chips) 
+Seat 8: rudinho15 ($47.50 in chips) 
+Seat 9: IRhys $ UKI ($42.50 in chips) 
+jahmada: posts small blind $0.25
+rabbit1388: posts big blind $0.50
+Monk300187: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 3c]
+jd185152: folds 
+rudinho15: raises $1.50 to $2
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: folds 
+jonyctt: folds 
+jahmada: folds 
+rabbit1388: folds 
+Uncalled bet ($1.50) returned to rudinho15
+rudinho15 collected $1.75 from pot
+rudinho15: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 folded before Flop
+Seat 3: jonyctt (button) folded before Flop (didn't bet)
+Seat 4: jahmada (small blind) folded before Flop
+Seat 5: rabbit1388 (big blind) folded before Flop
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 collected ($1.75)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20148975452:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:17:35 ET
+Table 'Tomyris II' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($104.95 in chips) 
+Seat 2: Monk300187 ($29.50 in chips) 
+Seat 3: jonyctt ($70.05 in chips) 
+Seat 4: jahmada ($44.15 in chips) 
+Seat 5: rabbit1388 ($54.90 in chips) 
+Seat 7: jd185152 ($24.05 in chips) 
+Seat 8: rudinho15 ($48.75 in chips) 
+Seat 9: IRhys $ UKI ($42.50 in chips) 
+rabbit1388: posts small blind $0.25
+jd185152: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 9d]
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: folds 
+jonyctt: folds 
+jahmada: raises $1 to $1.50
+rabbit1388: folds 
+jd185152: calls $1
+*** FLOP *** [7h Tc Qs]
+jd185152: checks 
+jahmada: bets $2.50
+jd185152: raises $4.50 to $7
+jahmada: folds 
+Uncalled bet ($4.50) returned to jd185152
+jd185152 collected $7.85 from pot
+jd185152: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.40 
+Board [7h Tc Qs]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada (button) folded on the Flop
+Seat 5: rabbit1388 (small blind) folded before Flop
+Seat 7: jd185152 (big blind) collected ($7.85)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149000679:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:18:41 ET
+Table 'Tomyris II' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($104.95 in chips) 
+Seat 2: Monk300187 ($29.50 in chips) 
+Seat 3: jonyctt ($70.05 in chips) 
+Seat 4: jahmada ($40.15 in chips) 
+Seat 5: rabbit1388 ($54.65 in chips) 
+Seat 7: jd185152 ($27.90 in chips) 
+Seat 8: rudinho15 ($48.75 in chips) 
+Seat 9: IRhys $ UKI ($42.50 in chips) 
+jd185152: posts small blind $0.25
+rudinho15: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Td]
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: raises $0.50 to $1
+jonyctt: folds 
+jahmada: folds 
+rabbit1388: folds 
+jd185152: folds 
+rudinho15: folds 
+Uncalled bet ($0.50) returned to Monk300187
+Monk300187 collected $1.25 from pot
+Monk300187: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 collected ($1.25)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 5: rabbit1388 (button) folded before Flop (didn't bet)
+Seat 7: jd185152 (small blind) folded before Flop
+Seat 8: rudinho15 (big blind) folded before Flop
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149009496:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:19:03 ET
+Table 'Tomyris II' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($104.95 in chips) 
+Seat 2: Monk300187 ($30.25 in chips) 
+Seat 3: jonyctt ($70.05 in chips) 
+Seat 4: jahmada ($40.15 in chips) 
+Seat 5: rabbit1388 ($54.65 in chips) 
+Seat 7: jd185152 ($27.65 in chips) 
+Seat 8: rudinho15 ($48.25 in chips) 
+Seat 9: IRhys $ UKI ($42.50 in chips) 
+rudinho15: posts small blind $0.25
+IRhys $ UKI: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 8s]
+Alameda22: folds 
+Monk300187: folds 
+jonyctt: folds 
+jahmada: folds 
+rabbit1388: folds 
+jd185152: folds 
+rudinho15: folds 
+Uncalled bet ($0.25) returned to IRhys $ UKI
+IRhys $ UKI collected $0.50 from pot
+IRhys $ UKI: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 7: jd185152 (button) folded before Flop (didn't bet)
+Seat 8: rudinho15 (small blind) folded before Flop
+Seat 9: IRhys $ UKI (big blind) collected ($0.50)
+
+
+
+PokerStars Game #20149018645:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:19:27 ET
+Table 'Tomyris II' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($104.95 in chips) 
+Seat 2: Monk300187 ($30.25 in chips) 
+Seat 3: jonyctt ($70.05 in chips) 
+Seat 4: jahmada ($40.15 in chips) 
+Seat 5: rabbit1388 ($54.65 in chips) 
+Seat 7: jd185152 ($27.65 in chips) 
+Seat 8: rudinho15 ($48 in chips) 
+Seat 9: IRhys $ UKI ($42.75 in chips) 
+IRhys $ UKI: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Qh]
+Monk300187: calls $0.50
+jonyctt: raises $2 to $2.50
+jahmada: folds 
+rabbit1388: folds 
+jd185152: folds 
+rudinho15: calls $2.50
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: calls $2
+*** FLOP *** [7s 5s 8d]
+Monk300187: checks 
+jonyctt: bets $4.50
+rudinho15: calls $4.50
+Monk300187: raises $23.25 to $27.75 and is all-in
+jonyctt: folds 
+rudinho15: calls $23.25
+*** TURN *** [7s 5s 8d] [4c]
+*** RIVER *** [7s 5s 8d 4c] [2c]
+*** SHOW DOWN ***
+Monk300187: shows [8c 8h] (three of a kind, Eights)
+rudinho15: mucks hand 
+Monk300187 collected $65.25 from pot
+*** SUMMARY ***
+Total pot $68.25 | Rake $3 
+Board [7s 5s 8d 4c 2c]
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: Monk300187 showed [8c 8h] and won ($65.25) with three of a kind, Eights
+Seat 3: jonyctt folded on the Flop
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 (button) mucked [9d 9c]
+Seat 9: IRhys $ UKI (small blind) folded before Flop
+
+
+
+PokerStars Game #20149042304:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:20:29 ET
+Table 'Tomyris II' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($104.45 in chips) 
+Seat 2: Monk300187 ($65.25 in chips) 
+Seat 3: jonyctt ($63.05 in chips) 
+Seat 4: jahmada ($40.15 in chips) 
+Seat 5: rabbit1388 ($54.65 in chips) 
+Seat 7: jd185152 ($27.65 in chips) 
+Seat 8: rudinho15 ($17.75 in chips) 
+Seat 9: IRhys $ UKI ($42.50 in chips) 
+Alameda22: posts small blind $0.25
+Monk300187: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Jh]
+jonyctt: folds 
+jahmada: folds 
+rabbit1388: folds 
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: calls $0.50
+Alameda22: folds 
+Monk300187: checks 
+*** FLOP *** [9s 7c Qh]
+Monk300187: checks 
+IRhys $ UKI: bets $1
+Monk300187: folds 
+Uncalled bet ($1) returned to IRhys $ UKI
+IRhys $ UKI collected $1.20 from pot
+IRhys $ UKI: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [9s 7c Qh]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: Monk300187 (big blind) folded on the Flop
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI (button) collected ($1.20)
+
+
+
+PokerStars Game #20149058680:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:21:12 ET
+Table 'Tomyris II' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($104.20 in chips) 
+Seat 2: Monk300187 ($64.75 in chips) 
+Seat 3: jonyctt ($63.05 in chips) 
+Seat 4: jahmada ($40.15 in chips) 
+Seat 5: rabbit1388 ($54.65 in chips) 
+Seat 7: jd185152 ($27.65 in chips) 
+Seat 8: rudinho15 ($50 in chips) 
+Seat 9: IRhys $ UKI ($43.20 in chips) 
+Monk300187: posts small blind $0.25
+jonyctt: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Ks]
+jahmada: folds 
+rabbit1388: folds 
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: calls $0.25
+jonyctt: checks 
+*** FLOP *** [7d 6c Td]
+Monk300187: bets $1
+jonyctt: folds 
+Uncalled bet ($1) returned to Monk300187
+Monk300187 collected $0.95 from pot
+Monk300187: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [7d 6c Td]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: Monk300187 (small blind) collected ($0.95)
+Seat 3: jonyctt (big blind) folded on the Flop
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149072673:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:21:49 ET
+Table 'Tomyris II' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($104.20 in chips) 
+Seat 2: Monk300187 ($65.20 in chips) 
+Seat 3: jonyctt ($62.55 in chips) 
+Seat 4: jahmada ($40.15 in chips) 
+Seat 5: rabbit1388 ($54.65 in chips) 
+Seat 7: jd185152 ($27.65 in chips) 
+Seat 8: rudinho15 ($50 in chips) 
+Seat 9: IRhys $ UKI ($43.20 in chips) 
+jonyctt: posts small blind $0.25
+jahmada: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 7d]
+rabbit1388: folds 
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: folds 
+jonyctt: raises $1.50 to $2
+jahmada: folds 
+Uncalled bet ($1.50) returned to jonyctt
+jonyctt collected $1 from pot
+jonyctt: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 (button) folded before Flop (didn't bet)
+Seat 3: jonyctt (small blind) collected ($1)
+Seat 4: jahmada (big blind) folded before Flop
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149081942:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:22:13 ET
+Table 'Tomyris II' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($104.20 in chips) 
+Seat 2: Monk300187 ($65.20 in chips) 
+Seat 3: jonyctt ($63.05 in chips) 
+Seat 4: jahmada ($39.65 in chips) 
+Seat 5: rabbit1388 ($54.65 in chips) 
+Seat 7: jd185152 ($27.65 in chips) 
+Seat 8: rudinho15 ($50 in chips) 
+Seat 9: IRhys $ UKI ($43.20 in chips) 
+jahmada: posts small blind $0.25
+rabbit1388: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 8s]
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: calls $0.50
+Alameda22: folds 
+Monk300187: raises $1 to $1.50
+jonyctt: folds 
+jahmada: folds 
+rabbit1388: folds 
+IRhys $ UKI: calls $1
+*** FLOP *** [Jd 5s 2h]
+IRhys $ UKI: checks 
+Monk300187: bets $1.50
+IRhys $ UKI: calls $1.50
+*** TURN *** [Jd 5s 2h] [7c]
+IRhys $ UKI: checks 
+Monk300187: bets $2
+IRhys $ UKI: calls $2
+*** RIVER *** [Jd 5s 2h 7c] [Ad]
+IRhys $ UKI: bets $5
+Monk300187: folds 
+Uncalled bet ($5) returned to IRhys $ UKI
+IRhys $ UKI collected $10.25 from pot
+IRhys $ UKI: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.75 | Rake $0.50 
+Board [Jd 5s 2h 7c Ad]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 folded on the River
+Seat 3: jonyctt (button) folded before Flop (didn't bet)
+Seat 4: jahmada (small blind) folded before Flop
+Seat 5: rabbit1388 (big blind) folded before Flop
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI collected ($10.25)
+
+
+
+PokerStars Game #20149108116:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:23:22 ET
+Table 'Tomyris II' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($104.20 in chips) 
+Seat 2: Monk300187 ($60.20 in chips) 
+Seat 3: jonyctt ($63.05 in chips) 
+Seat 4: jahmada ($39.40 in chips) 
+Seat 5: rabbit1388 ($54.15 in chips) 
+Seat 7: jd185152 ($27.65 in chips) 
+Seat 8: rudinho15 ($50 in chips) 
+Seat 9: IRhys $ UKI ($48.45 in chips) 
+rabbit1388: posts small blind $0.25
+jd185152: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 7h]
+rudinho15: raises $1.50 to $2
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: folds 
+jonyctt: folds 
+jahmada: folds 
+rabbit1388: folds 
+jd185152: folds 
+Uncalled bet ($1.50) returned to rudinho15
+rudinho15 collected $1.25 from pot
+rudinho15: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada (button) folded before Flop (didn't bet)
+Seat 5: rabbit1388 (small blind) folded before Flop
+Seat 7: jd185152 (big blind) folded before Flop
+Seat 8: rudinho15 collected ($1.25)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149118913:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:23:51 ET
+Table 'Tomyris II' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($104.20 in chips) 
+Seat 2: Monk300187 ($60.20 in chips) 
+Seat 3: jonyctt ($63.05 in chips) 
+Seat 4: jahmada ($39.40 in chips) 
+Seat 5: rabbit1388 ($53.90 in chips) 
+Seat 7: jd185152 ($27.15 in chips) 
+Seat 8: rudinho15 ($50.75 in chips) 
+Seat 9: IRhys $ UKI ($48.45 in chips) 
+jd185152: posts small blind $0.25
+rudinho15: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 2s]
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: calls $0.50
+jonyctt: raises $2 to $2.50
+jahmada: calls $2.50
+rabbit1388: folds 
+jd185152: folds 
+rudinho15: folds 
+Monk300187: folds 
+*** FLOP *** [7c 5h Qs]
+jonyctt: bets $4
+jahmada: folds 
+Uncalled bet ($4) returned to jonyctt
+jonyctt collected $5.95 from pot
+jonyctt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.30 
+Board [7c 5h Qs]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 folded before Flop
+Seat 3: jonyctt collected ($5.95)
+Seat 4: jahmada folded on the Flop
+Seat 5: rabbit1388 (button) folded before Flop (didn't bet)
+Seat 7: jd185152 (small blind) folded before Flop
+Seat 8: rudinho15 (big blind) folded before Flop
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149137980:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:24:41 ET
+Table 'Tomyris II' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($104.20 in chips) 
+Seat 2: Monk300187 ($59.70 in chips) 
+Seat 3: jonyctt ($66.50 in chips) 
+Seat 4: jahmada ($36.90 in chips) 
+Seat 5: rabbit1388 ($53.90 in chips) 
+Seat 7: jd185152 ($26.90 in chips) 
+Seat 8: rudinho15 ($50.25 in chips) 
+Seat 9: IRhys $ UKI ($48.45 in chips) 
+rudinho15: posts small blind $0.25
+IRhys $ UKI: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 7h]
+Alameda22: folds 
+Monk300187: raises $0.50 to $1
+jonyctt: folds 
+jahmada: folds 
+rabbit1388: folds 
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Uncalled bet ($0.50) returned to Monk300187
+Monk300187 collected $1.25 from pot
+Monk300187: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 collected ($1.25)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 7: jd185152 (button) folded before Flop (didn't bet)
+Seat 8: rudinho15 (small blind) folded before Flop
+Seat 9: IRhys $ UKI (big blind) folded before Flop
+
+
+
+PokerStars Game #20149147291:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:25:06 ET
+Table 'Tomyris II' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($104.20 in chips) 
+Seat 2: Monk300187 ($60.45 in chips) 
+Seat 3: jonyctt ($66.50 in chips) 
+Seat 4: jahmada ($36.90 in chips) 
+Seat 5: rabbit1388 ($53.90 in chips) 
+Seat 7: jd185152 ($26.90 in chips) 
+Seat 8: rudinho15 ($50 in chips) 
+Seat 9: IRhys $ UKI ($47.95 in chips) 
+IRhys $ UKI: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 2d]
+Monk300187: folds 
+jonyctt: folds 
+jahmada: folds 
+rabbit1388: folds 
+jd185152: folds 
+rudinho15: raises $1 to $1.50
+IRhys $ UKI: folds 
+Alameda22: folds 
+Uncalled bet ($1) returned to rudinho15
+rudinho15 collected $1.25 from pot
+rudinho15: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: Monk300187 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 (button) collected ($1.25)
+Seat 9: IRhys $ UKI (small blind) folded before Flop
+
+
+
+PokerStars Game #20149164230:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:25:50 ET
+Table 'Tomyris II' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($103.70 in chips) 
+Seat 2: Monk300187 ($60.45 in chips) 
+Seat 3: jonyctt ($66.50 in chips) 
+Seat 4: jahmada ($36.90 in chips) 
+Seat 5: rabbit1388 ($53.90 in chips) 
+Seat 7: jd185152 ($26.90 in chips) 
+Seat 8: rudinho15 ($50.75 in chips) 
+Seat 9: IRhys $ UKI ($47.70 in chips) 
+Alameda22: posts small blind $0.25
+Monk300187: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 5h]
+jonyctt: folds 
+jahmada: folds 
+rabbit1388: folds 
+jd185152: folds 
+rudinho15: raises $1 to $1.50
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: calls $1
+*** FLOP *** [2s 5c 7c]
+Monk300187: checks 
+rudinho15: bets $2
+Monk300187: calls $2
+*** TURN *** [2s 5c 7c] [Th]
+Monk300187: checks 
+rudinho15: checks 
+*** RIVER *** [2s 5c 7c Th] [3h]
+Monk300187: checks 
+rudinho15: checks 
+*** SHOW DOWN ***
+Monk300187: shows [Ac 3s] (a pair of Threes)
+rudinho15: mucks hand 
+Monk300187 collected $6.90 from pot
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [2s 5c 7c Th 3h]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: Monk300187 (big blind) showed [Ac 3s] and won ($6.90) with a pair of Threes
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: jahmada folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 mucked [Qd Ah]
+Seat 9: IRhys $ UKI (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149194118:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:27:09 ET
+Table 'Tomyris II' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($103.45 in chips) 
+Seat 2: Monk300187 ($63.85 in chips) 
+Seat 3: jonyctt ($66.50 in chips) 
+Seat 4: jahmada ($36.90 in chips) 
+Seat 5: rabbit1388 ($53.90 in chips) 
+Seat 7: jd185152 ($26.90 in chips) 
+Seat 8: rudinho15 ($47.25 in chips) 
+Seat 9: IRhys $ UKI ($47.70 in chips) 
+Monk300187: posts small blind $0.25
+jonyctt: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Kh]
+jahmada: raises $1.50 to $2
+rabbit1388: folds 
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: calls $1.75
+jonyctt: folds 
+*** FLOP *** [7d Td Qs]
+Monk300187: bets $1.50
+jahmada: raises $3 to $4.50
+Monk300187: calls $3
+*** TURN *** [7d Td Qs] [Ad]
+Monk300187: bets $4
+jahmada: folds 
+Uncalled bet ($4) returned to Monk300187
+Monk300187 collected $12.85 from pot
+Monk300187: shows [Qd As] (two pair, Aces and Queens)
+jahmada leaves the table
+*** SUMMARY ***
+Total pot $13.50 | Rake $0.65 
+Board [7d Td Qs Ad]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: Monk300187 (small blind) collected ($12.85)
+Seat 3: jonyctt (big blind) folded before Flop
+Seat 4: jahmada folded on the Turn
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149222723:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:28:25 ET
+Table 'Tomyris II' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($103.45 in chips) 
+Seat 2: Monk300187 ($70.20 in chips) 
+Seat 3: jonyctt ($66 in chips) 
+Seat 5: rabbit1388 ($53.90 in chips) 
+Seat 7: jd185152 ($26.90 in chips) 
+Seat 8: rudinho15 ($47.25 in chips) 
+Seat 9: IRhys $ UKI ($47.70 in chips) 
+jonyctt: posts small blind $0.25
+rabbit1388: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 9h]
+jd185152: calls $0.50
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: folds 
+jonyctt: folds 
+rabbit1388: checks 
+*** FLOP *** [Qd Ac 8d]
+rabbit1388: checks 
+jd185152: bets $1
+rabbit1388: folds 
+Uncalled bet ($1) returned to jd185152
+jd185152 collected $1.20 from pot
+jd185152: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Qd Ac 8d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 (button) folded before Flop (didn't bet)
+Seat 3: jonyctt (small blind) folded before Flop
+Seat 5: rabbit1388 (big blind) folded on the Flop
+Seat 7: jd185152 collected ($1.20)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149243650:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:29:20 ET
+Table 'Tomyris II' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($103.45 in chips) 
+Seat 2: Monk300187 ($70.20 in chips) 
+Seat 3: jonyctt ($65.75 in chips) 
+Seat 5: rabbit1388 ($53.40 in chips) 
+Seat 7: jd185152 ($27.60 in chips) 
+Seat 8: rudinho15 ($47.25 in chips) 
+Seat 9: IRhys $ UKI ($47.70 in chips) 
+rabbit1388: posts small blind $0.25
+jd185152: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 9h]
+rudinho15: folds 
+00Tom00 joins the table at seat #4 
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: raises $1 to $1.50
+jonyctt: folds 
+rabbit1388: folds 
+jd185152: folds 
+Uncalled bet ($1) returned to Monk300187
+Monk300187 collected $1.25 from pot
+Monk300187: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 collected ($1.25)
+Seat 3: jonyctt (button) folded before Flop (didn't bet)
+Seat 5: rabbit1388 (small blind) folded before Flop
+Seat 7: jd185152 (big blind) folded before Flop
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149255009:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:29:51 ET
+Table 'Tomyris II' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($103.45 in chips) 
+Seat 2: Monk300187 ($70.95 in chips) 
+Seat 3: jonyctt ($65.75 in chips) 
+Seat 4: 00Tom00 ($50 in chips) 
+Seat 5: rabbit1388 ($53.15 in chips) 
+Seat 7: jd185152 ($27.10 in chips) 
+Seat 8: rudinho15 ($47.25 in chips) 
+Seat 9: IRhys $ UKI ($47.70 in chips) 
+jd185152: posts small blind $0.25
+rudinho15: posts big blind $0.50
+00Tom00: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 7d]
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: raises $1 to $1.50
+jonyctt: folds 
+00Tom00: folds 
+rabbit1388: calls $1.50
+jd185152: folds 
+rudinho15: folds 
+*** FLOP *** [3s 2d 9d]
+Monk300187: bets $1
+rabbit1388: raises $2 to $3
+Monk300187: calls $2
+*** TURN *** [3s 2d 9d] [3d]
+Monk300187: bets $1
+rabbit1388: raises $3 to $4
+Monk300187: calls $3
+*** RIVER *** [3s 2d 9d 3d] [9c]
+Monk300187: bets $3.50
+rabbit1388: calls $3.50
+*** SHOW DOWN ***
+Monk300187: shows [Th Ah] (two pair, Nines and Threes)
+rabbit1388: shows [Jd Ad] (a flush, Ace high)
+rabbit1388 collected $24.05 from pot
+*** SUMMARY ***
+Total pot $25.25 | Rake $1.20 
+Board [3s 2d 9d 3d 9c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 showed [Th Ah] and lost with two pair, Nines and Threes
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 folded before Flop
+Seat 5: rabbit1388 (button) showed [Jd Ad] and won ($24.05) with a flush, Ace high
+Seat 7: jd185152 (small blind) folded before Flop
+Seat 8: rudinho15 (big blind) folded before Flop
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149294652:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:31:37 ET
+Table 'Tomyris II' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($103.45 in chips) 
+Seat 2: Monk300187 ($58.95 in chips) 
+Seat 3: jonyctt ($65.75 in chips) 
+Seat 4: 00Tom00 ($49.50 in chips) 
+Seat 5: rabbit1388 ($65.20 in chips) 
+Seat 7: jd185152 ($26.85 in chips) 
+Seat 8: rudinho15 ($46.75 in chips) 
+Seat 9: IRhys $ UKI ($47.70 in chips) 
+rudinho15: posts small blind $0.25
+IRhys $ UKI: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 6c]
+Alameda22: folds 
+Monk300187: folds 
+jonyctt: folds 
+00Tom00: calls $0.50
+rabbit1388: folds 
+jd185152: folds 
+Descartes10 has returned
+rudinho15: folds 
+IRhys $ UKI: checks 
+*** FLOP *** [Qc 6s 5c]
+IRhys $ UKI: checks 
+00Tom00: bets $0.50
+IRhys $ UKI: folds 
+Uncalled bet ($0.50) returned to 00Tom00
+00Tom00 collected $1.20 from pot
+00Tom00: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Qc 6s 5c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 collected ($1.20)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 7: jd185152 (button) folded before Flop (didn't bet)
+Seat 8: rudinho15 (small blind) folded before Flop
+Seat 9: IRhys $ UKI (big blind) folded on the Flop
+
+
+
+PokerStars Game #20149310674:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:32:19 ET
+Table 'Tomyris II' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($103.45 in chips) 
+Seat 2: Monk300187 ($58.95 in chips) 
+Seat 3: jonyctt ($65.75 in chips) 
+Seat 4: 00Tom00 ($50.20 in chips) 
+Seat 5: rabbit1388 ($65.20 in chips) 
+Seat 6: Descartes10 ($54.55 in chips) 
+Seat 7: jd185152 ($26.85 in chips) 
+Seat 8: rudinho15 ($46.50 in chips) 
+Seat 9: IRhys $ UKI ($47.20 in chips) 
+IRhys $ UKI: posts small blind $0.25
+Alameda22: posts big blind $0.50
+Descartes10: posts small & big blinds $0.75
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 6d]
+Monk300187: folds 
+jonyctt: calls $0.50
+00Tom00: calls $0.50
+rabbit1388: folds 
+Descartes10: checks 
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: checks 
+*** FLOP *** [5s Ad 8s]
+Alameda22: checks 
+jonyctt: checks 
+00Tom00: checks 
+Descartes10: bets $2
+Alameda22: folds 
+jonyctt: folds 
+00Tom00: folds 
+Uncalled bet ($2) returned to Descartes10
+Descartes10 collected $2.40 from pot
+Descartes10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [5s Ad 8s]
+Seat 1: Alameda22 (big blind) folded on the Flop
+Seat 2: Monk300187 folded before Flop (didn't bet)
+Seat 3: jonyctt folded on the Flop
+Seat 4: 00Tom00 folded on the Flop
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 collected ($2.40)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 (button) folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI (small blind) folded before Flop
+
+
+
+PokerStars Game #20149333172:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:33:21 ET
+Table 'Tomyris II' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($102.95 in chips) 
+Seat 2: Monk300187 ($58.95 in chips) 
+Seat 3: jonyctt ($65.25 in chips) 
+Seat 4: 00Tom00 ($49.70 in chips) 
+Seat 5: rabbit1388 ($65.20 in chips) 
+Seat 6: Descartes10 ($56.20 in chips) 
+Seat 7: jd185152 ($26.85 in chips) 
+Seat 8: rudinho15 ($46.50 in chips) 
+Seat 9: IRhys $ UKI ($46.95 in chips) 
+Alameda22: posts small blind $0.25
+Monk300187: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 3s]
+jonyctt: folds 
+00Tom00: folds 
+rabbit1388: folds 
+Descartes10: raises $0.50 to $1
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: calls $0.50
+*** FLOP *** [3h 8c 5s]
+Monk300187: checks 
+Descartes10: checks 
+*** TURN *** [3h 8c 5s] [2s]
+Monk300187: bets $1
+Descartes10: calls $1
+*** RIVER *** [3h 8c 5s 2s] [Kh]
+Monk300187: bets $1.50
+Descartes10: folds 
+Uncalled bet ($1.50) returned to Monk300187
+Monk300187 collected $4.05 from pot
+Monk300187: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [3h 8c 5s 2s Kh]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: Monk300187 (big blind) collected ($4.05)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 folded on the River
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149351353:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:34:10 ET
+Table 'Tomyris II' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($102.70 in chips) 
+Seat 2: Monk300187 ($61 in chips) 
+Seat 3: jonyctt ($65.25 in chips) 
+Seat 4: 00Tom00 ($49.70 in chips) 
+Seat 5: rabbit1388 ($65.20 in chips) 
+Seat 6: Descartes10 ($54.20 in chips) 
+Seat 7: jd185152 ($26.85 in chips) 
+Seat 8: rudinho15 ($46.50 in chips) 
+Seat 9: IRhys $ UKI ($46.95 in chips) 
+Monk300187: posts small blind $0.25
+jonyctt: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Td]
+00Tom00: folds 
+rabbit1388: folds 
+Descartes10: folds 
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: calls $0.25
+jonyctt: checks 
+*** FLOP *** [2c 6h Ac]
+Monk300187: checks 
+jonyctt: bets $1
+Monk300187: folds 
+Uncalled bet ($1) returned to jonyctt
+jonyctt collected $0.95 from pot
+jonyctt: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [2c 6h Ac]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: Monk300187 (small blind) folded on the Flop
+Seat 3: jonyctt (big blind) collected ($0.95)
+Seat 4: 00Tom00 folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149365974:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:34:49 ET
+Table 'Tomyris II' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($102.70 in chips) 
+Seat 2: Monk300187 ($60.50 in chips) 
+Seat 3: jonyctt ($65.70 in chips) 
+Seat 4: 00Tom00 ($49.70 in chips) 
+Seat 5: rabbit1388 ($65.20 in chips) 
+Seat 6: Descartes10 ($54.20 in chips) 
+Seat 7: jd185152 ($26.85 in chips) 
+Seat 8: rudinho15 ($46.50 in chips) 
+Seat 9: IRhys $ UKI ($46.95 in chips) 
+jonyctt: posts small blind $0.25
+00Tom00: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 4d]
+rabbit1388: raises $2 to $2.50
+Descartes10: folds 
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: folds 
+jonyctt: calls $2.25
+00Tom00: folds 
+*** FLOP *** [Qh 5s Kc]
+jonyctt: checks 
+rabbit1388: bets $4.50
+jonyctt: folds 
+Uncalled bet ($4.50) returned to rabbit1388
+rabbit1388 collected $5.25 from pot
+rabbit1388: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25 
+Board [Qh 5s Kc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 (button) folded before Flop (didn't bet)
+Seat 3: jonyctt (small blind) folded on the Flop
+Seat 4: 00Tom00 (big blind) folded before Flop
+Seat 5: rabbit1388 collected ($5.25)
+Seat 6: Descartes10 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149384131:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:35:38 ET
+Table 'Tomyris II' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($102.70 in chips) 
+Seat 2: Monk300187 ($60.50 in chips) 
+Seat 3: jonyctt ($63.20 in chips) 
+Seat 4: 00Tom00 ($49.20 in chips) 
+Seat 5: rabbit1388 ($67.95 in chips) 
+Seat 6: Descartes10 ($54.20 in chips) 
+Seat 7: jd185152 ($26.85 in chips) 
+Seat 8: rudinho15 ($46.50 in chips) 
+Seat 9: IRhys $ UKI ($46.95 in chips) 
+00Tom00: posts small blind $0.25
+rabbit1388: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 6c]
+Descartes10: folds 
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: calls $0.50
+Alameda22: folds 
+Monk300187: folds 
+jonyctt: folds 
+00Tom00: folds 
+rabbit1388: checks 
+*** FLOP *** [5s 3s Ac]
+rabbit1388: checks 
+IRhys $ UKI: checks 
+*** TURN *** [5s 3s Ac] [5d]
+rabbit1388: checks 
+IRhys $ UKI: bets $0.50
+rabbit1388: folds 
+Uncalled bet ($0.50) returned to IRhys $ UKI
+IRhys $ UKI collected $1.20 from pot
+IRhys $ UKI: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [5s 3s Ac 5d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 folded before Flop (didn't bet)
+Seat 3: jonyctt (button) folded before Flop (didn't bet)
+Seat 4: 00Tom00 (small blind) folded before Flop
+Seat 5: rabbit1388 (big blind) folded on the Turn
+Seat 6: Descartes10 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI collected ($1.20)
+
+
+
+PokerStars Game #20149406970:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:36:40 ET
+Table 'Tomyris II' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($102.70 in chips) 
+Seat 2: Monk300187 ($60.50 in chips) 
+Seat 3: jonyctt ($63.20 in chips) 
+Seat 4: 00Tom00 ($48.95 in chips) 
+Seat 5: rabbit1388 ($67.45 in chips) 
+Seat 6: Descartes10 ($54.20 in chips) 
+Seat 7: jd185152 ($26.85 in chips) 
+Seat 8: rudinho15 ($46.50 in chips) 
+Seat 9: IRhys $ UKI ($47.65 in chips) 
+rabbit1388: posts small blind $0.25
+Descartes10: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 9s]
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: raises $0.50 to $1
+Alameda22: folds 
+Monk300187: folds 
+jonyctt: calls $1
+00Tom00: folds 
+rabbit1388: folds 
+Descartes10: folds 
+*** FLOP *** [3s As Qd]
+IRhys $ UKI: checks 
+jonyctt: checks 
+*** TURN *** [3s As Qd] [Qc]
+IRhys $ UKI: checks 
+jonyctt: bets $2
+IRhys $ UKI: calls $2
+*** RIVER *** [3s As Qd Qc] [Ks]
+IRhys $ UKI: bets $5
+jonyctt: raises $5 to $10
+IRhys $ UKI: calls $5
+*** SHOW DOWN ***
+jonyctt: shows [Kd Qh] (a full house, Queens full of Kings)
+IRhys $ UKI: shows [Kh Kc] (a full house, Kings full of Queens)
+IRhys $ UKI collected $25.45 from pot
+*** SUMMARY ***
+Total pot $26.75 | Rake $1.30 
+Board [3s As Qd Qc Ks]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 folded before Flop (didn't bet)
+Seat 3: jonyctt showed [Kd Qh] and lost with a full house, Queens full of Kings
+Seat 4: 00Tom00 (button) folded before Flop (didn't bet)
+Seat 5: rabbit1388 (small blind) folded before Flop
+Seat 6: Descartes10 (big blind) folded before Flop
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI showed [Kh Kc] and won ($25.45) with a full house, Kings full of Queens
+
+
+
+PokerStars Game #20149434332:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:37:52 ET
+Table 'Tomyris II' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($102.70 in chips) 
+Seat 2: Monk300187 ($60.50 in chips) 
+Seat 3: jonyctt ($50.20 in chips) 
+Seat 4: 00Tom00 ($48.95 in chips) 
+Seat 5: rabbit1388 ($67.20 in chips) 
+Seat 6: Descartes10 ($53.70 in chips) 
+Seat 7: jd185152 ($26.85 in chips) 
+Seat 8: rudinho15 ($46.50 in chips) 
+Seat 9: IRhys $ UKI ($60.10 in chips) 
+Descartes10: posts small blind $0.25
+jd185152: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 7s]
+jonyctt said, "donk"
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: folds 
+IRhys $ UKI said, "steam much"
+jonyctt: folds 
+00Tom00: folds 
+rabbit1388: folds 
+Descartes10: raises $0.50 to $1
+jd185152: folds 
+Uncalled bet ($0.50) returned to Descartes10
+Descartes10 collected $1 from pot
+Descartes10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 folded before Flop (didn't bet)
+Seat 5: rabbit1388 (button) folded before Flop (didn't bet)
+Seat 6: Descartes10 (small blind) collected ($1)
+Seat 7: jd185152 (big blind) folded before Flop
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149450087:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:38:34 ET
+Table 'Tomyris II' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($102.70 in chips) 
+Seat 2: Monk300187 ($60.50 in chips) 
+Seat 3: jonyctt ($50.20 in chips) 
+Seat 4: 00Tom00 ($48.95 in chips) 
+Seat 5: rabbit1388 ($67.20 in chips) 
+Seat 6: Descartes10 ($54.20 in chips) 
+Seat 7: jd185152 ($26.35 in chips) 
+Seat 8: rudinho15 ($46.50 in chips) 
+Seat 9: IRhys $ UKI ($60.10 in chips) 
+jd185152: posts small blind $0.25
+rudinho15: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 2d]
+IRhys $ UKI: folds 
+Alameda22: folds 
+Monk300187: folds 
+jonyctt: folds 
+00Tom00: folds 
+rabbit1388: folds 
+Descartes10: folds 
+jd185152: folds 
+Uncalled bet ($0.25) returned to rudinho15
+rudinho15 collected $0.50 from pot
+rudinho15: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 (button) folded before Flop (didn't bet)
+Seat 7: jd185152 (small blind) folded before Flop
+Seat 8: rudinho15 (big blind) collected ($0.50)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149461661:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:39:05 ET
+Table 'Tomyris II' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($102.70 in chips) 
+Seat 2: Monk300187 ($60.50 in chips) 
+Seat 3: jonyctt ($50.20 in chips) 
+Seat 4: 00Tom00 ($48.95 in chips) 
+Seat 5: rabbit1388 ($67.20 in chips) 
+Seat 6: Descartes10 ($54.20 in chips) 
+Seat 7: jd185152 ($26.10 in chips) 
+Seat 8: rudinho15 ($46.75 in chips) 
+Seat 9: IRhys $ UKI ($60.10 in chips) 
+rudinho15: posts small blind $0.25
+IRhys $ UKI: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Qc]
+Alameda22: folds 
+Monk300187: folds 
+jonyctt: folds 
+00Tom00: calls $0.50
+rabbit1388: folds 
+Descartes10: raises $0.50 to $1
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+00Tom00: calls $0.50
+*** FLOP *** [5h 4c Kc]
+00Tom00: checks 
+Descartes10: checks 
+*** TURN *** [5h 4c Kc] [2h]
+00Tom00: checks 
+Descartes10: bets $2
+00Tom00: folds 
+Uncalled bet ($2) returned to Descartes10
+Descartes10 collected $2.65 from pot
+Descartes10: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [5h 4c Kc 2h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Monk300187 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 folded on the Turn
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 collected ($2.65)
+Seat 7: jd185152 (button) folded before Flop (didn't bet)
+Seat 8: rudinho15 (small blind) folded before Flop
+Seat 9: IRhys $ UKI (big blind) folded before Flop
+
+
+
+PokerStars Game #20149482538:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:40:01 ET
+Table 'Tomyris II' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($102.70 in chips) 
+Seat 2: Monk300187 ($60.50 in chips) 
+Seat 3: jonyctt ($50.20 in chips) 
+Seat 4: 00Tom00 ($47.95 in chips) 
+Seat 5: rabbit1388 ($67.20 in chips) 
+Seat 6: Descartes10 ($55.85 in chips) 
+Seat 7: jd185152 ($26.10 in chips) 
+Seat 8: rudinho15 ($46.50 in chips) 
+Seat 9: IRhys $ UKI ($59.60 in chips) 
+IRhys $ UKI: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Ks]
+Monk300187: folds 
+jonyctt: folds 
+00Tom00: folds 
+rabbit1388: calls $0.50
+Descartes10: folds 
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: raises $2 to $2.50
+rabbit1388: folds 
+Uncalled bet ($2) returned to Alameda22
+Alameda22 collected $1.25 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 (big blind) collected ($1.25)
+Seat 2: Monk300187 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop
+Seat 6: Descartes10 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 (button) folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI (small blind) folded before Flop
+
+
+
+PokerStars Game #20149495667:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:40:36 ET
+Table 'Tomyris II' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($103.45 in chips) 
+Seat 2: Monk300187 ($60.50 in chips) 
+Seat 3: jonyctt ($50.20 in chips) 
+Seat 4: 00Tom00 ($47.95 in chips) 
+Seat 5: rabbit1388 ($66.70 in chips) 
+Seat 6: Descartes10 ($55.85 in chips) 
+Seat 7: jd185152 ($26.10 in chips) 
+Seat 8: rudinho15 ($46.50 in chips) 
+Seat 9: IRhys $ UKI ($59.35 in chips) 
+Alameda22: posts small blind $0.25
+Monk300187: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 3c]
+jonyctt: folds 
+00Tom00: folds 
+rabbit1388: folds 
+Descartes10: folds 
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: calls $0.25
+Monk300187: checks 
+*** FLOP *** [4s 5d Kd]
+Alameda22: checks 
+Monk300187: checks 
+*** TURN *** [4s 5d Kd] [5h]
+Alameda22: checks 
+Monk300187: checks 
+*** RIVER *** [4s 5d Kd 5h] [Qs]
+Alameda22: checks 
+Monk300187: checks 
+*** SHOW DOWN ***
+Alameda22: shows [3h 3c] (two pair, Fives and Threes)
+Monk300187: mucks hand 
+Alameda22 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [4s 5d Kd 5h Qs]
+Seat 1: Alameda22 (small blind) showed [3h 3c] and won ($0.95) with two pair, Fives and Threes
+Seat 2: Monk300187 (big blind) mucked [8s 3d]
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149517208:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:41:35 ET
+Table 'Tomyris II' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($103.90 in chips) 
+Seat 3: jonyctt ($50.20 in chips) 
+Seat 4: 00Tom00 ($47.95 in chips) 
+Seat 5: rabbit1388 ($66.70 in chips) 
+Seat 6: Descartes10 ($55.85 in chips) 
+Seat 7: jd185152 ($26.10 in chips) 
+Seat 8: rudinho15 ($46.50 in chips) 
+Seat 9: IRhys $ UKI ($59.35 in chips) 
+Monk300187: is sitting out 
+jonyctt: posts small blind $0.25
+00Tom00: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Qc]
+rabbit1388: folds 
+Monk300187 leaves the table
+Descartes10: folds 
+jd185152: folds 
+rudinho15: calls $0.50
+IRhys $ UKI: folds 
+Alameda22: folds 
+jonyctt: raises $2 to $2.50
+00Tom00: folds 
+rudinho15: calls $2
+*** FLOP *** [3s 5s Kd]
+jonyctt: bets $4
+rudinho15: folds 
+Uncalled bet ($4) returned to jonyctt
+jonyctt collected $5.25 from pot
+jonyctt: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25 
+Board [3s 5s Kd]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: jonyctt (small blind) collected ($5.25)
+Seat 4: 00Tom00 (big blind) folded before Flop
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded on the Flop
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149534282:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:42:21 ET
+Table 'Tomyris II' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($103.90 in chips) 
+Seat 3: jonyctt ($52.95 in chips) 
+Seat 4: 00Tom00 ($47.45 in chips) 
+Seat 5: rabbit1388 ($66.70 in chips) 
+Seat 6: Descartes10 ($55.85 in chips) 
+Seat 7: jd185152 ($26.10 in chips) 
+Seat 8: rudinho15 ($44 in chips) 
+Seat 9: IRhys $ UKI ($59.35 in chips) 
+00Tom00: posts small blind $0.25
+rabbit1388: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 4s]
+Descartes10: folds 
+jd185152: folds 
+rudinho15: calls $0.50
+IRhys $ UKI: calls $0.50
+Alameda22: folds 
+jonyctt: folds 
+00Tom00: folds 
+rabbit1388: checks 
+*** FLOP *** [7s 7d Jc]
+rabbit1388: checks 
+rudinho15: bets $1
+IRhys $ UKI: calls $1
+rabbit1388: folds 
+*** TURN *** [7s 7d Jc] [Qh]
+rudinho15: bets $2
+IRhys $ UKI: calls $2
+*** RIVER *** [7s 7d Jc Qh] [5s]
+rudinho15: bets $3
+IRhys $ UKI: calls $3
+*** SHOW DOWN ***
+rudinho15: shows [Js Kd] (two pair, Jacks and Sevens)
+IRhys $ UKI: shows [Jh Kh] (two pair, Jacks and Sevens)
+rudinho15 collected $6.55 from pot
+IRhys $ UKI collected $6.55 from pot
+*** SUMMARY ***
+Total pot $13.75 | Rake $0.65 
+Board [7s 7d Jc Qh 5s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: jonyctt (button) folded before Flop (didn't bet)
+Seat 4: 00Tom00 (small blind) folded before Flop
+Seat 5: rabbit1388 (big blind) folded on the Flop
+Seat 6: Descartes10 folded before Flop (didn't bet)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 showed [Js Kd] and won ($6.55) with two pair, Jacks and Sevens
+Seat 9: IRhys $ UKI showed [Jh Kh] and won ($6.55) with two pair, Jacks and Sevens
+
+
+
+PokerStars Game #20149555970:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:43:20 ET
+Table 'Tomyris II' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($103.90 in chips) 
+Seat 3: jonyctt ($52.95 in chips) 
+Seat 4: 00Tom00 ($47.20 in chips) 
+Seat 5: rabbit1388 ($66.20 in chips) 
+Seat 6: Descartes10 ($55.85 in chips) 
+Seat 7: jd185152 ($26.10 in chips) 
+Seat 8: rudinho15 ($44.05 in chips) 
+Seat 9: IRhys $ UKI ($59.40 in chips) 
+rabbit1388: posts small blind $0.25
+Descartes10: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Qh]
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+jonyctt: raises $1.50 to $2
+00Tom00: folds 
+rabbit1388: folds 
+Descartes10: folds 
+Uncalled bet ($1.50) returned to jonyctt
+jonyctt collected $1.25 from pot
+jonyctt: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: jonyctt collected ($1.25)
+Seat 4: 00Tom00 (button) folded before Flop (didn't bet)
+Seat 5: rabbit1388 (small blind) folded before Flop
+Seat 6: Descartes10 (big blind) folded before Flop
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149569789:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:43:58 ET
+Table 'Tomyris II' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($103.90 in chips) 
+Seat 3: jonyctt ($53.70 in chips) 
+Seat 4: 00Tom00 ($47.20 in chips) 
+Seat 5: rabbit1388 ($65.95 in chips) 
+Seat 6: Descartes10 ($55.35 in chips) 
+Seat 7: jd185152 ($26.10 in chips) 
+Seat 8: rudinho15 ($44.05 in chips) 
+Seat 9: IRhys $ UKI ($59.40 in chips) 
+Descartes10: posts small blind $0.25
+jd185152: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 8s]
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+jonyctt: folds 
+00Tom00: calls $0.50
+rabbit1388: raises $1.50 to $2
+Descartes10: folds 
+jd185152: calls $1.50
+00Tom00: calls $1.50
+*** FLOP *** [2h As 6d]
+jd185152: checks 
+00Tom00: checks 
+rabbit1388: bets $3.50
+jd185152: folds 
+00Tom00: folds 
+Uncalled bet ($3.50) returned to rabbit1388
+rabbit1388 collected $5.95 from pot
+rabbit1388: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.30 
+Board [2h As 6d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 folded on the Flop
+Seat 5: rabbit1388 (button) collected ($5.95)
+Seat 6: Descartes10 (small blind) folded before Flop
+Seat 7: jd185152 (big blind) folded on the Flop
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149593327:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:45:02 ET
+Table 'Tomyris II' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($103.90 in chips) 
+Seat 3: jonyctt ($53.70 in chips) 
+Seat 4: 00Tom00 ($45.20 in chips) 
+Seat 5: rabbit1388 ($69.90 in chips) 
+Seat 6: Descartes10 ($55.10 in chips) 
+Seat 7: jd185152 ($24.10 in chips) 
+Seat 8: rudinho15 ($44.05 in chips) 
+Seat 9: IRhys $ UKI ($59.40 in chips) 
+jd185152: posts small blind $0.25
+rudinho15: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh As]
+IRhys $ UKI: folds 
+Alameda22: raises $1.50 to $2
+jonyctt: folds 
+00Tom00: folds 
+rabbit1388: folds 
+Descartes10: folds 
+jd185152: folds 
+rudinho15: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $1.25 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 collected ($1.25)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 (button) folded before Flop (didn't bet)
+Seat 7: jd185152 (small blind) folded before Flop
+Seat 8: rudinho15 (big blind) folded before Flop
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149613424:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:45:57 ET
+Table 'Tomyris II' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($104.65 in chips) 
+Seat 3: jonyctt ($53.70 in chips) 
+Seat 4: 00Tom00 ($45.20 in chips) 
+Seat 5: rabbit1388 ($69.90 in chips) 
+Seat 6: Descartes10 ($55.10 in chips) 
+Seat 7: jd185152 ($23.85 in chips) 
+Seat 8: rudinho15 ($43.55 in chips) 
+Seat 9: IRhys $ UKI ($59.40 in chips) 
+rudinho15: posts small blind $0.25
+IRhys $ UKI: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 6s]
+Alameda22: folds 
+jonyctt: folds 
+00Tom00: folds 
+rabbit1388: folds 
+Descartes10: raises $1 to $1.50
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Uncalled bet ($1) returned to Descartes10
+Descartes10 collected $1.25 from pot
+Descartes10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 collected ($1.25)
+Seat 7: jd185152 (button) folded before Flop (didn't bet)
+Seat 8: rudinho15 (small blind) folded before Flop
+Seat 9: IRhys $ UKI (big blind) folded before Flop
+
+
+
+PokerStars Game #20149634834:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:46:55 ET
+Table 'Tomyris II' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($104.65 in chips) 
+Seat 3: jonyctt ($53.70 in chips) 
+Seat 4: 00Tom00 ($45.20 in chips) 
+Seat 5: rabbit1388 ($69.90 in chips) 
+Seat 6: Descartes10 ($55.85 in chips) 
+Seat 7: jd185152 ($23.85 in chips) 
+Seat 8: rudinho15 ($50 in chips) 
+Seat 9: IRhys $ UKI ($58.90 in chips) 
+IRhys $ UKI: posts small blind $0.25
+Alameda22: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 5h]
+jonyctt: folds 
+00Tom00: calls $0.50
+rabbit1388: folds 
+Descartes10: calls $0.50
+aristocrat72 joins the table at seat #2 
+jd185152 has timed out
+jd185152: folds 
+jd185152 is sitting out
+rudinho15: folds 
+IRhys $ UKI: raises $1 to $1.50
+Alameda22: folds 
+00Tom00: calls $1
+Descartes10: calls $1
+*** FLOP *** [3d 8s 3c]
+IRhys $ UKI: checks 
+00Tom00: checks 
+Descartes10: bets $4
+IRhys $ UKI: folds 
+00Tom00: folds 
+Uncalled bet ($4) returned to Descartes10
+jd185152 has returned
+Descartes10 collected $4.75 from pot
+Descartes10: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [3d 8s 3c]
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 folded on the Flop
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 collected ($4.75)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 (button) folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI (small blind) folded on the Flop
+
+
+
+PokerStars Game #20149670696:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:48:32 ET
+Table 'Tomyris II' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($104.15 in chips) 
+Seat 2: aristocrat72 ($25 in chips) 
+Seat 3: jonyctt ($53.70 in chips) 
+Seat 4: 00Tom00 ($43.70 in chips) 
+Seat 5: rabbit1388 ($69.90 in chips) 
+Seat 6: Descartes10 ($59.10 in chips) 
+Seat 7: jd185152 ($23.85 in chips) 
+Seat 8: rudinho15 ($50 in chips) 
+Seat 9: IRhys $ UKI ($57.40 in chips) 
+Alameda22: posts small blind $0.25
+aristocrat72: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Jc]
+jonyctt: folds 
+00Tom00: folds 
+rabbit1388: folds 
+Descartes10: raises $0.50 to $1
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+aristocrat72: folds 
+Uncalled bet ($0.50) returned to Descartes10
+Descartes10 collected $1.25 from pot
+Descartes10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: aristocrat72 (big blind) folded before Flop
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 collected ($1.25)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149689211:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:49:22 ET
+Table 'Tomyris II' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($103.90 in chips) 
+Seat 2: aristocrat72 ($24.50 in chips) 
+Seat 3: jonyctt ($53.70 in chips) 
+Seat 4: 00Tom00 ($43.70 in chips) 
+Seat 5: rabbit1388 ($69.90 in chips) 
+Seat 6: Descartes10 ($59.85 in chips) 
+Seat 7: jd185152 ($23.85 in chips) 
+Seat 8: rudinho15 ($50 in chips) 
+Seat 9: IRhys $ UKI ($57.40 in chips) 
+aristocrat72: posts small blind $0.25
+jonyctt: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 4c]
+00Tom00: folds 
+rabbit1388: folds 
+Descartes10: raises $0.50 to $1
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: calls $1
+Alameda22: folds 
+aristocrat72: folds 
+jonyctt: calls $0.50
+*** FLOP *** [Jc 8h 6d]
+jonyctt: checks 
+Descartes10: checks 
+IRhys $ UKI: checks 
+*** TURN *** [Jc 8h 6d] [2c]
+jonyctt: checks 
+Descartes10: checks 
+IRhys $ UKI: checks 
+*** RIVER *** [Jc 8h 6d 2c] [4h]
+jonyctt: checks 
+Descartes10: checks 
+IRhys $ UKI: bets $1
+jonyctt: folds 
+Descartes10: folds 
+Uncalled bet ($1) returned to IRhys $ UKI
+IRhys $ UKI collected $3.10 from pot
+IRhys $ UKI: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Jc 8h 6d 2c 4h]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: aristocrat72 (small blind) folded before Flop
+Seat 3: jonyctt (big blind) folded on the River
+Seat 4: 00Tom00 folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 folded on the River
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI collected ($3.10)
+
+
+
+PokerStars Game #20149716899:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:50:38 ET
+Table 'Tomyris II' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($103.90 in chips) 
+Seat 2: aristocrat72 ($24.25 in chips) 
+Seat 3: jonyctt ($52.70 in chips) 
+Seat 4: 00Tom00 ($43.70 in chips) 
+Seat 5: rabbit1388 ($69.90 in chips) 
+Seat 6: Descartes10 ($58.85 in chips) 
+Seat 7: jd185152 ($23.85 in chips) 
+Seat 8: rudinho15 ($50 in chips) 
+Seat 9: IRhys $ UKI ($59.50 in chips) 
+jonyctt: posts small blind $0.25
+00Tom00: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 4d]
+rabbit1388: folds 
+Descartes10: raises $0.50 to $1
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+aristocrat72: folds 
+jonyctt: calls $0.75
+00Tom00: calls $0.50
+*** FLOP *** [Kd 5s 2d]
+jonyctt: checks 
+00Tom00: checks 
+Descartes10: bets $3
+jonyctt: folds 
+00Tom00: folds 
+Uncalled bet ($3) returned to Descartes10
+Descartes10 collected $2.85 from pot
+Descartes10: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Kd 5s 2d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: aristocrat72 (button) folded before Flop (didn't bet)
+Seat 3: jonyctt (small blind) folded on the Flop
+Seat 4: 00Tom00 (big blind) folded on the Flop
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 collected ($2.85)
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149737841:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:51:35 ET
+Table 'Tomyris II' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($103.90 in chips) 
+Seat 2: aristocrat72 ($24.25 in chips) 
+Seat 3: jonyctt ($51.70 in chips) 
+Seat 4: 00Tom00 ($42.70 in chips) 
+Seat 5: rabbit1388 ($69.90 in chips) 
+Seat 6: Descartes10 ($60.70 in chips) 
+Seat 7: jd185152 ($23.85 in chips) 
+Seat 8: rudinho15 ($50 in chips) 
+Seat 9: IRhys $ UKI ($59.50 in chips) 
+00Tom00: posts small blind $0.25
+rabbit1388: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Ah]
+Descartes10: raises $0.50 to $1
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: calls $1
+Alameda22: folds 
+aristocrat72: folds 
+jonyctt: folds 
+00Tom00: folds 
+rabbit1388: calls $0.50
+*** FLOP *** [6s 7d Jh]
+rabbit1388: checks 
+Descartes10: checks 
+IRhys $ UKI: bets $1.50
+rabbit1388: folds 
+Descartes10: calls $1.50
+*** TURN *** [6s 7d Jh] [8d]
+Descartes10: checks 
+IRhys $ UKI: checks 
+*** RIVER *** [6s 7d Jh 8d] [6h]
+Descartes10: bets $3
+IRhys $ UKI: calls $3
+*** SHOW DOWN ***
+Descartes10: shows [Kh Ad] (a pair of Sixes)
+IRhys $ UKI: shows [Jc Kc] (two pair, Jacks and Sixes)
+IRhys $ UKI collected $11.70 from pot
+*** SUMMARY ***
+Total pot $12.25 | Rake $0.55 
+Board [6s 7d Jh 8d 6h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: aristocrat72 folded before Flop (didn't bet)
+Seat 3: jonyctt (button) folded before Flop (didn't bet)
+Seat 4: 00Tom00 (small blind) folded before Flop
+Seat 5: rabbit1388 (big blind) folded on the Flop
+Seat 6: Descartes10 showed [Kh Ad] and lost with a pair of Sixes
+Seat 7: jd185152 folded before Flop (didn't bet)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI showed [Jc Kc] and won ($11.70) with two pair, Jacks and Sixes
+
+
+
+PokerStars Game #20149758205:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:52:30 ET
+Table 'Tomyris II' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($103.90 in chips) 
+Seat 2: aristocrat72 ($24.25 in chips) 
+Seat 3: jonyctt ($51.70 in chips) 
+Seat 4: 00Tom00 ($42.45 in chips) 
+Seat 5: rabbit1388 ($68.90 in chips) 
+Seat 6: Descartes10 ($55.20 in chips) 
+Seat 7: jd185152 ($23.85 in chips) 
+Seat 8: rudinho15 ($50 in chips) 
+Seat 9: IRhys $ UKI ($65.70 in chips) 
+rabbit1388: posts small blind $0.25
+Descartes10: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 6h]
+jd185152: calls $0.50
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+aristocrat72: folds 
+jonyctt: folds 
+00Tom00: folds 
+rabbit1388: calls $0.25
+Descartes10: checks 
+*** FLOP *** [Th 3c 7d]
+rabbit1388: checks 
+Descartes10: checks 
+jd185152: checks 
+*** TURN *** [Th 3c 7d] [7s]
+rabbit1388: checks 
+Descartes10: checks 
+jd185152: checks 
+*** RIVER *** [Th 3c 7d 7s] [Js]
+rabbit1388: checks 
+Descartes10: checks 
+jd185152: checks 
+*** SHOW DOWN ***
+rabbit1388: shows [4d 5s] (a pair of Sevens)
+Descartes10: shows [6d Kh] (a pair of Sevens - King kicker)
+jd185152: shows [8c Ac] (a pair of Sevens - Ace kicker)
+jd185152 collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Th 3c 7d 7s Js]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: aristocrat72 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 (button) folded before Flop (didn't bet)
+Seat 5: rabbit1388 (small blind) showed [4d 5s] and lost with a pair of Sevens
+Seat 6: Descartes10 (big blind) showed [6d Kh] and lost with a pair of Sevens
+Seat 7: jd185152 showed [8c Ac] and won ($1.45) with a pair of Sevens
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149786878:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:53:49 ET
+Table 'Tomyris II' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($103.90 in chips) 
+Seat 2: aristocrat72 ($24.25 in chips) 
+Seat 3: jonyctt ($51.70 in chips) 
+Seat 4: 00Tom00 ($42.45 in chips) 
+Seat 5: rabbit1388 ($68.40 in chips) 
+Seat 6: Descartes10 ($54.70 in chips) 
+Seat 7: jd185152 ($24.80 in chips) 
+Seat 8: rudinho15 ($50 in chips) 
+Seat 9: IRhys $ UKI ($65.70 in chips) 
+Descartes10: posts small blind $0.25
+jd185152: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 3c]
+rudinho15: folds 
+IRhys $ UKI: folds 
+Alameda22: folds 
+aristocrat72: folds 
+jonyctt: folds 
+00Tom00: calls $0.50
+rabbit1388: folds 
+Descartes10: calls $0.25
+jd185152: checks 
+*** FLOP *** [8d 3h 7d]
+Descartes10: checks 
+jd185152: checks 
+00Tom00: checks 
+*** TURN *** [8d 3h 7d] [5s]
+Descartes10: checks 
+jd185152: checks 
+00Tom00: checks 
+*** RIVER *** [8d 3h 7d 5s] [6s]
+Descartes10: checks 
+jd185152: bets $1
+00Tom00: folds 
+Descartes10: folds 
+Uncalled bet ($1) returned to jd185152
+jd185152 collected $1.45 from pot
+jd185152: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [8d 3h 7d 5s 6s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: aristocrat72 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 folded on the River
+Seat 5: rabbit1388 (button) folded before Flop (didn't bet)
+Seat 6: Descartes10 (small blind) folded on the River
+Seat 7: jd185152 (big blind) collected ($1.45)
+Seat 8: rudinho15 folded before Flop (didn't bet)
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149809854:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:54:51 ET
+Table 'Tomyris II' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($103.90 in chips) 
+Seat 2: aristocrat72 ($24.25 in chips) 
+Seat 3: jonyctt ($51.70 in chips) 
+Seat 4: 00Tom00 ($41.95 in chips) 
+Seat 5: rabbit1388 ($68.40 in chips) 
+Seat 6: Descartes10 ($54.20 in chips) 
+Seat 7: jd185152 ($25.75 in chips) 
+Seat 8: rudinho15 ($50 in chips) 
+Seat 9: IRhys $ UKI ($65.70 in chips) 
+jd185152: posts small blind $0.25
+rudinho15: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 7d]
+IRhys $ UKI: folds 
+Alameda22: folds 
+aristocrat72: folds 
+jonyctt: folds 
+00Tom00: folds 
+rabbit1388: folds 
+Descartes10: folds 
+jd185152: calls $0.25
+rudinho15: checks 
+*** FLOP *** [6d Ah 9h]
+jd185152: bets $0.50
+rudinho15: calls $0.50
+*** TURN *** [6d Ah 9h] [Jh]
+jd185152: checks 
+rudinho15: checks 
+*** RIVER *** [6d Ah 9h Jh] [8d]
+jd185152: checks 
+rudinho15: checks 
+*** SHOW DOWN ***
+jd185152: shows [5d 9d] (a pair of Nines)
+rudinho15: shows [2h 9c] (a pair of Nines)
+jd185152 collected $1 from pot
+rudinho15 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [6d Ah 9h Jh 8d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: aristocrat72 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 (button) folded before Flop (didn't bet)
+Seat 7: jd185152 (small blind) showed [5d 9d] and won ($1) with a pair of Nines
+Seat 8: rudinho15 (big blind) showed [2h 9c] and won ($0.95) with a pair of Nines
+Seat 9: IRhys $ UKI folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20149824576:  Hold'em No Limit ($0.25/$0.50) - 2008/09/04 18:55:32 ET
+Table 'Tomyris II' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($103.90 in chips) 
+Seat 2: aristocrat72 ($24.25 in chips) 
+Seat 3: jonyctt ($51.70 in chips) 
+Seat 4: 00Tom00 ($41.95 in chips) 
+Seat 5: rabbit1388 ($68.40 in chips) 
+Seat 6: Descartes10 ($54.20 in chips) 
+Seat 7: jd185152 ($25.75 in chips) 
+Seat 8: rudinho15 ($49.95 in chips) 
+Seat 9: IRhys $ UKI ($65.70 in chips) 
+rudinho15: posts small blind $0.25
+IRhys $ UKI: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Jh]
+Alameda22: folds 
+aristocrat72: folds 
+jonyctt: folds 
+00Tom00: folds 
+rabbit1388: folds 
+Descartes10: raises $0.50 to $1
+jd185152: folds 
+rudinho15: folds 
+IRhys $ UKI: folds 
+Uncalled bet ($0.50) returned to Descartes10
+Descartes10 collected $1.25 from pot
+Descartes10: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: aristocrat72 folded before Flop (didn't bet)
+Seat 3: jonyctt folded before Flop (didn't bet)
+Seat 4: 00Tom00 folded before Flop (didn't bet)
+Seat 5: rabbit1388 folded before Flop (didn't bet)
+Seat 6: Descartes10 collected ($1.25)
+Seat 7: jd185152 (button) folded before Flop (didn't bet)
+Seat 8: rudinho15 (small blind) folded before Flop
+Seat 9: IRhys $ UKI (big blind) folded before Flop
+
+
+

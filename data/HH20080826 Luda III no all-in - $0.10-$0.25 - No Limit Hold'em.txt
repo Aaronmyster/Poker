@@ -1,0 +1,2583 @@
+PokerStars Game #19903805828:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:00:31 (ET)
+Table 'Luda III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($23.50 in chips) 
+Seat 2: ThannTheOne ($4.30 in chips) 
+Seat 3: Farva500 ($19.05 in chips) 
+Seat 4: Boks22 ($35.80 in chips) 
+Seat 5: Cardini 23 ($24.65 in chips) 
+Seat 6: David VO ($18.25 in chips) 
+Seat 7: aFreakinG8r ($83.65 in chips) 
+Seat 8: mmffo ($38.75 in chips) 
+Seat 9: x_Tobes_x ($21.50 in chips) 
+aFreakinG8r: posts small blind $0.10
+mmffo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Kd]
+x_Tobes_x: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+Boks22: folds 
+Cardini 23: folds 
+David VO: calls $0.25
+aFreakinG8r: calls $0.15
+mmffo: checks 
+*** FLOP *** [4h 9h Qc]
+aFreakinG8r: checks 
+mmffo: checks 
+David VO: checks 
+*** TURN *** [4h 9h Qc] [5h]
+aFreakinG8r: bets $0.50
+mmffo: folds 
+David VO: calls $0.50
+*** RIVER *** [4h 9h Qc 5h] [Js]
+aFreakinG8r: bets $1
+David VO: folds 
+Uncalled bet ($1) returned to aFreakinG8r
+aFreakinG8r collected $1.70 from pot
+aFreakinG8r: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [4h 9h Qc 5h Js]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 folded before Flop (didn't bet)
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO (button) folded on the River
+Seat 7: aFreakinG8r (small blind) collected ($1.70)
+Seat 8: mmffo (big blind) folded on the Turn
+Seat 9: x_Tobes_x folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903822987:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:01:27 (ET)
+Table 'Luda III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($23.50 in chips) 
+Seat 2: ThannTheOne ($4.30 in chips) 
+Seat 3: Farva500 ($19.05 in chips) 
+Seat 4: Boks22 ($35.80 in chips) 
+Seat 5: Cardini 23 ($24.65 in chips) 
+Seat 6: David VO ($17.50 in chips) 
+Seat 7: aFreakinG8r ($84.60 in chips) 
+Seat 8: mmffo ($38.50 in chips) 
+Seat 9: x_Tobes_x ($21.50 in chips) 
+mmffo: posts small blind $0.10
+x_Tobes_x: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 2d]
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+Boks22: calls $0.25
+Cardini 23: folds 
+David VO: folds 
+aFreakinG8r: folds 
+mmffo: calls $0.15
+x_Tobes_x: checks 
+*** FLOP *** [Qs Td Tc]
+mmffo: checks 
+x_Tobes_x: checks 
+Boks22: bets $0.50
+mmffo: folds 
+x_Tobes_x: folds 
+Uncalled bet ($0.50) returned to Boks22
+Boks22 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Qs Td Tc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 collected ($0.75)
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO folded before Flop (didn't bet)
+Seat 7: aFreakinG8r (button) folded before Flop (didn't bet)
+Seat 8: mmffo (small blind) folded on the Flop
+Seat 9: x_Tobes_x (big blind) folded on the Flop
+
+
+
+PokerStars Game #19903841674:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:02:28 (ET)
+Table 'Luda III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($23.50 in chips) 
+Seat 2: ThannTheOne ($4.30 in chips) 
+Seat 3: Farva500 ($19.05 in chips) 
+Seat 4: Boks22 ($36.30 in chips) 
+Seat 5: Cardini 23 ($24.65 in chips) 
+Seat 6: David VO ($17.50 in chips) 
+Seat 7: aFreakinG8r ($84.60 in chips) 
+Seat 8: mmffo ($38.25 in chips) 
+Seat 9: x_Tobes_x ($21.25 in chips) 
+x_Tobes_x: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 6d]
+ThannTheOne: folds 
+Farva500: folds 
+Boks22: folds 
+Cardini 23: folds 
+David VO: raises $0.75 to $1
+aFreakinG8r: folds 
+mmffo: calls $1
+x_Tobes_x: calls $0.90
+Alameda22: folds 
+*** FLOP *** [6h Jc 4s]
+x_Tobes_x: bets $1.75
+David VO: calls $1.75
+mmffo: folds 
+*** TURN *** [6h Jc 4s] [4h]
+x_Tobes_x: checks 
+David VO: checks 
+*** RIVER *** [6h Jc 4s 4h] [9c]
+x_Tobes_x: checks 
+David VO: checks 
+*** SHOW DOWN ***
+x_Tobes_x: shows [Jd 2d] (two pair, Jacks and Fours)
+David VO: mucks hand 
+x_Tobes_x collected $6.45 from pot
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.30 
+Board [6h Jc 4s 4h 9c]
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 folded before Flop (didn't bet)
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO mucked [7c 5c]
+Seat 7: aFreakinG8r folded before Flop (didn't bet)
+Seat 8: mmffo (button) folded on the Flop
+Seat 9: x_Tobes_x (small blind) showed [Jd 2d] and won ($6.45) with two pair, Jacks and Fours
+
+
+
+PokerStars Game #19903875061:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:04:17 (ET)
+Table 'Luda III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($23.25 in chips) 
+Seat 2: ThannTheOne ($4.30 in chips) 
+Seat 3: Farva500 ($19.05 in chips) 
+Seat 4: Boks22 ($36.30 in chips) 
+Seat 5: Cardini 23 ($24.65 in chips) 
+Seat 6: David VO ($14.75 in chips) 
+Seat 7: aFreakinG8r ($84.60 in chips) 
+Seat 8: mmffo ($37.25 in chips) 
+Seat 9: x_Tobes_x ($24.95 in chips) 
+Alameda22: posts small blind $0.10
+ThannTheOne: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 6h]
+Farva500: folds 
+Boks22: folds 
+Cardini 23: folds 
+David VO: folds 
+aFreakinG8r: folds 
+mmffo: folds 
+x_Tobes_x: raises $0.75 to $1
+Alameda22: folds 
+ThannTheOne: folds 
+Uncalled bet ($0.75) returned to x_Tobes_x
+x_Tobes_x collected $0.60 from pot
+x_Tobes_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: ThannTheOne (big blind) folded before Flop
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 folded before Flop (didn't bet)
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO folded before Flop (didn't bet)
+Seat 7: aFreakinG8r folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: x_Tobes_x (button) collected ($0.60)
+
+
+
+PokerStars Game #19903885297:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:04:51 (ET)
+Table 'Luda III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($23.15 in chips) 
+Seat 2: ThannTheOne ($4.05 in chips) 
+Seat 3: Farva500 ($19.05 in chips) 
+Seat 4: Boks22 ($36.30 in chips) 
+Seat 5: Cardini 23 ($24.65 in chips) 
+Seat 6: David VO ($14.75 in chips) 
+Seat 7: aFreakinG8r ($84.60 in chips) 
+Seat 8: mmffo ($37.25 in chips) 
+Seat 9: x_Tobes_x ($25.30 in chips) 
+ThannTheOne: posts small blind $0.10
+Farva500: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Ad]
+Boks22: folds 
+Cardini 23: folds 
+David VO: folds 
+aFreakinG8r: folds 
+mmffo: calls $0.25
+x_Tobes_x: raises $0.75 to $1
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: calls $0.75
+mmffo: calls $0.75
+*** FLOP *** [5s Tc 3c]
+Farva500: checks 
+mmffo: bets $1
+x_Tobes_x: raises $1.50 to $2.50
+Farva500: folds 
+mmffo: calls $1.50
+*** TURN *** [5s Tc 3c] [Kh]
+mmffo: checks 
+x_Tobes_x: bets $3.50
+mmffo: calls $3.50
+*** RIVER *** [5s Tc 3c Kh] [5d]
+mmffo: checks 
+x_Tobes_x: bets $7
+mmffo: calls $7
+*** SHOW DOWN ***
+x_Tobes_x: shows [2s 2h] (two pair, Fives and Deuces)
+mmffo: shows [7s Ts] (two pair, Tens and Fives)
+mmffo collected $27.70 from pot
+x_Tobes_x said, "nc"
+*** SUMMARY ***
+Total pot $29.10 | Rake $1.40 
+Board [5s Tc 3c Kh 5d]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: ThannTheOne (small blind) folded before Flop
+Seat 3: Farva500 (big blind) folded on the Flop
+Seat 4: Boks22 folded before Flop (didn't bet)
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO folded before Flop (didn't bet)
+Seat 7: aFreakinG8r folded before Flop (didn't bet)
+Seat 8: mmffo showed [7s Ts] and won ($27.70) with two pair, Tens and Fives
+Seat 9: x_Tobes_x showed [2s 2h] and lost with two pair, Fives and Deuces
+
+
+
+PokerStars Game #19903921488:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:06:51 (ET)
+Table 'Luda III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($23.15 in chips) 
+Seat 2: ThannTheOne ($3.95 in chips) 
+Seat 3: Farva500 ($18.05 in chips) 
+Seat 4: Boks22 ($36.30 in chips) 
+Seat 5: Cardini 23 ($24.65 in chips) 
+Seat 6: David VO ($14.75 in chips) 
+Seat 7: aFreakinG8r ($84.60 in chips) 
+Seat 8: mmffo ($50.95 in chips) 
+Seat 9: x_Tobes_x ($11.30 in chips) 
+Farva500: posts small blind $0.10
+Boks22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Jd]
+Cardini 23: folds 
+David VO: folds 
+aFreakinG8r: folds 
+mmffo: folds 
+x_Tobes_x said, "i wish u didn't think i missed a flush"
+x_Tobes_x said, "cause that's prob what pushed u over the edge to call"
+x_Tobes_x: calls $0.25
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+Boks22: checks 
+*** FLOP *** [8h 9d 6d]
+Boks22: checks 
+x_Tobes_x: bets $0.50
+Boks22: folds 
+Uncalled bet ($0.50) returned to x_Tobes_x
+x_Tobes_x collected $0.60 from pot
+x_Tobes_x: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8h 9d 6d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne (button) folded before Flop (didn't bet)
+Seat 3: Farva500 (small blind) folded before Flop
+Seat 4: Boks22 (big blind) folded on the Flop
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO folded before Flop (didn't bet)
+Seat 7: aFreakinG8r folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: x_Tobes_x collected ($0.60)
+
+
+
+PokerStars Game #19903939989:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:07:53 (ET)
+Table 'Luda III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($23.15 in chips) 
+Seat 2: ThannTheOne ($3.95 in chips) 
+Seat 3: Farva500 ($17.95 in chips) 
+Seat 4: Boks22 ($36.05 in chips) 
+Seat 5: Cardini 23 ($24.65 in chips) 
+Seat 6: David VO ($14.75 in chips) 
+Seat 7: aFreakinG8r ($84.60 in chips) 
+Seat 8: mmffo ($50.95 in chips) 
+Seat 9: x_Tobes_x ($11.65 in chips) 
+Boks22: posts small blind $0.10
+Cardini 23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 7s]
+David VO: folds 
+aFreakinG8r: folds 
+mmffo: folds 
+x_Tobes_x: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+Boks22: calls $0.15
+Cardini 23: checks 
+*** FLOP *** [Qd 3h Tc]
+Boks22: bets $0.25
+Cardini 23: folds 
+Uncalled bet ($0.25) returned to Boks22
+Boks22 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Qd 3h Tc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 (button) folded before Flop (didn't bet)
+Seat 4: Boks22 (small blind) collected ($0.50)
+Seat 5: Cardini 23 (big blind) folded on the Flop
+Seat 6: David VO folded before Flop (didn't bet)
+Seat 7: aFreakinG8r folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: x_Tobes_x folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903953247:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:08:37 (ET)
+Table 'Luda III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($23.15 in chips) 
+Seat 2: ThannTheOne ($3.95 in chips) 
+Seat 3: Farva500 ($17.95 in chips) 
+Seat 4: Boks22 ($36.30 in chips) 
+Seat 5: Cardini 23 ($24.40 in chips) 
+Seat 6: David VO ($14.75 in chips) 
+Seat 7: aFreakinG8r ($84.60 in chips) 
+Seat 8: mmffo ($50.95 in chips) 
+Seat 9: x_Tobes_x ($11.65 in chips) 
+Cardini 23: posts small blind $0.10
+David VO: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Kc]
+aFreakinG8r: folds 
+mmffo: folds 
+x_Tobes_x: folds 
+Alameda22: folds 
+ThannTheOne: raises $0.75 to $1
+Farva500: folds 
+Boks22: folds 
+Cardini 23: folds 
+David VO: folds 
+Uncalled bet ($0.75) returned to ThannTheOne
+ThannTheOne collected $0.60 from pot
+ThannTheOne: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne collected ($0.60)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 (button) folded before Flop (didn't bet)
+Seat 5: Cardini 23 (small blind) folded before Flop
+Seat 6: David VO (big blind) folded before Flop
+Seat 7: aFreakinG8r folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: x_Tobes_x folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903964627:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:09:14 (ET)
+Table 'Luda III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($23.15 in chips) 
+Seat 2: ThannTheOne ($4.30 in chips) 
+Seat 3: Farva500 ($17.95 in chips) 
+Seat 4: Boks22 ($36.30 in chips) 
+Seat 5: Cardini 23 ($24.30 in chips) 
+Seat 6: David VO ($14.50 in chips) 
+Seat 7: aFreakinG8r ($84.60 in chips) 
+Seat 8: mmffo ($50.95 in chips) 
+Seat 9: x_Tobes_x ($11.65 in chips) 
+David VO: posts small blind $0.10
+aFreakinG8r: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 9c]
+mmffo: calls $0.25
+x_Tobes_x: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+Boks22: folds 
+Cardini 23: folds 
+David VO: folds 
+aFreakinG8r: checks 
+*** FLOP *** [5s 2h 3d]
+aFreakinG8r: checks 
+mmffo: checks 
+*** TURN *** [5s 2h 3d] [8d]
+aFreakinG8r: bets $0.75
+mmffo: calls $0.75
+*** RIVER *** [5s 2h 3d 8d] [5d]
+aFreakinG8r: bets $0.75
+mmffo: raises $0.75 to $1.50
+aFreakinG8r: calls $0.75
+*** SHOW DOWN ***
+mmffo: shows [Jd Kd] (a flush, King high)
+aFreakinG8r: shows [3s 2d] (two pair, Fives and Threes)
+mmffo collected $4.85 from pot
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.25 
+Board [5s 2h 3d 8d 5d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 folded before Flop (didn't bet)
+Seat 5: Cardini 23 (button) folded before Flop (didn't bet)
+Seat 6: David VO (small blind) folded before Flop
+Seat 7: aFreakinG8r (big blind) showed [3s 2d] and lost with two pair, Fives and Threes
+Seat 8: mmffo showed [Jd Kd] and won ($4.85) with a flush, King high
+Seat 9: x_Tobes_x folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903984973:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:10:23 (ET)
+Table 'Luda III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($23.15 in chips) 
+Seat 2: ThannTheOne ($4.30 in chips) 
+Seat 3: Farva500 ($17.95 in chips) 
+Seat 4: Boks22 ($36.30 in chips) 
+Seat 5: Cardini 23 ($24.30 in chips) 
+Seat 6: David VO ($14.40 in chips) 
+Seat 7: aFreakinG8r ($82.10 in chips) 
+Seat 8: mmffo ($53.30 in chips) 
+Seat 9: x_Tobes_x ($11.65 in chips) 
+aFreakinG8r: posts small blind $0.10
+mmffo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Jc]
+x_Tobes_x: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+Boks22: folds 
+Cardini 23: folds 
+x_Tobes_x leaves the table
+David VO: calls $0.25
+aFreakinG8r: calls $0.15
+mmffo: checks 
+*** FLOP *** [Qs 5d Ad]
+aFreakinG8r: checks 
+mmffo: checks 
+David VO: checks 
+*** TURN *** [Qs 5d Ad] [3d]
+aFreakinG8r: checks 
+mmffo: checks 
+David VO: bets $1.25
+aFreakinG8r: calls $1.25
+mmffo: folds 
+*** RIVER *** [Qs 5d Ad 3d] [7s]
+aFreakinG8r: bets $1.75
+David VO: calls $1.75
+*** SHOW DOWN ***
+aFreakinG8r: shows [6d Ah] (a pair of Aces)
+David VO: shows [2c 4d] (a straight, Ace to Five)
+David VO collected $6.45 from pot
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.30 
+Board [Qs 5d Ad 3d 7s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 folded before Flop (didn't bet)
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO (button) showed [2c 4d] and won ($6.45) with a straight, Ace to Five
+Seat 7: aFreakinG8r (small blind) showed [6d Ah] and lost with a pair of Aces
+Seat 8: mmffo (big blind) folded on the Turn
+Seat 9: x_Tobes_x folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904014359:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:12:01 (ET)
+Table 'Luda III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($23.15 in chips) 
+Seat 2: ThannTheOne ($4.30 in chips) 
+Seat 3: Farva500 ($17.95 in chips) 
+Seat 4: Boks22 ($36.30 in chips) 
+Seat 5: Cardini 23 ($24.30 in chips) 
+Seat 6: David VO ($17.60 in chips) 
+Seat 7: aFreakinG8r ($78.85 in chips) 
+Seat 8: mmffo ($53.05 in chips) 
+mmffo is connected 
+mmffo: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Kd]
+ThannTheOne: folds 
+k030101 joins the table at seat #9 
+Farva500: folds 
+Boks22: folds 
+Cardini 23: folds 
+David VO: folds 
+aFreakinG8r: folds 
+mmffo: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Kh 4d 9c]
+mmffo: checks 
+Alameda22: bets $0.25
+mmffo: folds 
+Uncalled bet ($0.25) returned to Alameda22
+Alameda22 collected $0.50 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Kh 4d 9c]
+Seat 1: Alameda22 (big blind) collected ($0.50)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 folded before Flop (didn't bet)
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO folded before Flop (didn't bet)
+Seat 7: aFreakinG8r (button) folded before Flop (didn't bet)
+Seat 8: mmffo (small blind) folded on the Flop
+
+
+
+PokerStars Game #19904035342:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:13:12 (ET)
+Table 'Luda III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($23.40 in chips) 
+Seat 2: ThannTheOne ($4.30 in chips) 
+Seat 3: Farva500 ($17.95 in chips) 
+Seat 4: Boks22 ($36.30 in chips) 
+Seat 5: Cardini 23 ($24.30 in chips) 
+Seat 6: David VO ($17.60 in chips) 
+Seat 7: aFreakinG8r ($78.85 in chips) 
+Seat 8: mmffo ($52.80 in chips) 
+k030101 will be allowed to play after the button
+Alameda22: posts small blind $0.10
+ThannTheOne: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 8d]
+Farva500: folds 
+Boks22: folds 
+Cardini 23: folds 
+David VO: folds 
+aFreakinG8r: folds 
+mmffo: calls $0.25
+Alameda22: folds 
+ThannTheOne: checks 
+*** FLOP *** [Qd 6h 9d]
+ThannTheOne: checks 
+mmffo: bets $0.75
+ThannTheOne: folds 
+Uncalled bet ($0.75) returned to mmffo
+mmffo collected $0.60 from pot
+mmffo: shows [Ah Ad] (a pair of Aces)
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qd 6h 9d]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: ThannTheOne (big blind) folded on the Flop
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 folded before Flop (didn't bet)
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO folded before Flop (didn't bet)
+Seat 7: aFreakinG8r folded before Flop (didn't bet)
+Seat 8: mmffo (button) collected ($0.60)
+
+
+
+PokerStars Game #19904054845:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:14:18 (ET)
+Table 'Luda III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($23.30 in chips) 
+Seat 2: ThannTheOne ($4.05 in chips) 
+Seat 3: Farva500 ($17.95 in chips) 
+Seat 4: Boks22 ($36.30 in chips) 
+Seat 5: Cardini 23 ($24.30 in chips) 
+Seat 6: David VO ($17.60 in chips) 
+Seat 7: aFreakinG8r ($78.85 in chips) 
+Seat 8: mmffo ($53.15 in chips) 
+ThannTheOne: posts small blind $0.10
+Farva500: posts big blind $0.25
+k030101: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 2s]
+Boks22: folds 
+Cardini 23: folds 
+David VO: folds 
+aFreakinG8r: raises $0.50 to $0.75
+mmffo: calls $0.75
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+*** FLOP *** [7s Ad 4d]
+aFreakinG8r: bets $1.50
+mmffo: folds 
+Uncalled bet ($1.50) returned to aFreakinG8r
+aFreakinG8r collected $1.80 from pot
+aFreakinG8r: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [7s Ad 4d]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: ThannTheOne (small blind) folded before Flop
+Seat 3: Farva500 (big blind) folded before Flop
+Seat 4: Boks22 folded before Flop (didn't bet)
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO folded before Flop (didn't bet)
+Seat 7: aFreakinG8r collected ($1.80)
+Seat 8: mmffo folded on the Flop
+
+
+
+PokerStars Game #19904069453:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:15:07 (ET)
+Table 'Luda III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($23.30 in chips) 
+Seat 2: ThannTheOne ($3.95 in chips) 
+Seat 3: Farva500 ($17.70 in chips) 
+Seat 4: Boks22 ($36.30 in chips) 
+Seat 5: Cardini 23 ($24.30 in chips) 
+Seat 6: David VO ($17.60 in chips) 
+Seat 7: aFreakinG8r ($79.90 in chips) 
+Seat 8: mmffo ($52.40 in chips) 
+Farva500: posts small blind $0.10
+Boks22: posts big blind $0.25
+k030101: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 7d]
+Cardini 23: folds 
+David VO: raises $0.75 to $1
+aFreakinG8r: folds 
+mmffo: folds 
+Alameda22: folds 
+ThannTheOne: raises $2.95 to $3.95 and is all-in
+Farva500: folds 
+Boks22: folds 
+David VO: folds 
+Uncalled bet ($2.95) returned to ThannTheOne
+ThannTheOne collected $2.35 from pot
+ThannTheOne: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne (button) collected ($2.35)
+Seat 3: Farva500 (small blind) folded before Flop
+Seat 4: Boks22 (big blind) folded before Flop
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO folded before Flop
+Seat 7: aFreakinG8r folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904081399:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:15:48 (ET)
+Table 'Luda III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($23.30 in chips) 
+Seat 2: ThannTheOne ($5.30 in chips) 
+Seat 3: Farva500 ($17.60 in chips) 
+Seat 4: Boks22 ($36.05 in chips) 
+Seat 5: Cardini 23 ($24.30 in chips) 
+Seat 6: David VO ($16.60 in chips) 
+Seat 7: aFreakinG8r ($79.90 in chips) 
+Seat 8: mmffo ($52.40 in chips) 
+Boks22: posts small blind $0.10
+Cardini 23: posts big blind $0.25
+k030101: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 5h]
+David VO: folds 
+aFreakinG8r: raises $0.75 to $1
+mmffo: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: calls $1
+Boks22: folds 
+aFreakinG8r said, "where is sungnam?"
+Cardini 23: calls $0.75
+*** FLOP *** [2h 7s Qc]
+Cardini 23: checks 
+aFreakinG8r: bets $1.75
+Farva500: calls $1.75
+Cardini 23: folds 
+*** TURN *** [2h 7s Qc] [9c]
+aFreakinG8r: checks 
+Farva500: bets $3
+aFreakinG8r: folds 
+Uncalled bet ($3) returned to Farva500
+Farva500 collected $6.30 from pot
+*** SUMMARY ***
+Total pot $6.60 | Rake $0.30 
+Board [2h 7s Qc 9c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 (button) collected ($6.30)
+Seat 4: Boks22 (small blind) folded before Flop
+Seat 5: Cardini 23 (big blind) folded on the Flop
+Seat 6: David VO folded before Flop (didn't bet)
+Seat 7: aFreakinG8r folded on the Turn
+Seat 8: mmffo folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904107688:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:17:19 (ET)
+Table 'Luda III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($23.30 in chips) 
+Seat 2: ThannTheOne ($5.30 in chips) 
+Seat 3: Farva500 ($21.15 in chips) 
+Seat 4: Boks22 ($35.95 in chips) 
+Seat 5: Cardini 23 ($23.30 in chips) 
+Seat 6: David VO ($16.60 in chips) 
+Seat 7: aFreakinG8r ($77.15 in chips) 
+Seat 8: mmffo ($52.40 in chips) 
+Cardini 23: posts small blind $0.10
+David VO: posts big blind $0.25
+k030101: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 7d]
+aFreakinG8r: folds 
+mmffo: folds 
+Boks22 said, "google ftw^^"
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+Boks22: folds 
+Cardini 23: folds 
+Uncalled bet ($0.15) returned to David VO
+David VO collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 (button) folded before Flop (didn't bet)
+Seat 5: Cardini 23 (small blind) folded before Flop
+Seat 6: David VO (big blind) collected ($0.20)
+Seat 7: aFreakinG8r folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904119867:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:18:01 (ET)
+Table 'Luda III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($23.30 in chips) 
+Seat 2: ThannTheOne ($5.30 in chips) 
+Seat 3: Farva500 ($21.15 in chips) 
+Seat 4: Boks22 ($35.95 in chips) 
+Seat 5: Cardini 23 ($23.20 in chips) 
+Seat 6: David VO ($16.70 in chips) 
+Seat 7: aFreakinG8r ($77.15 in chips) 
+Seat 8: mmffo ($52.40 in chips) 
+David VO: posts small blind $0.10
+aFreakinG8r: posts big blind $0.25
+k030101: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 9c]
+mmffo: calls $0.25
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+Boks22: folds 
+Cardini 23: folds 
+David VO: folds 
+aFreakinG8r: checks 
+*** FLOP *** [7d Qd As]
+aFreakinG8r: checks 
+mmffo: bets $0.50
+aFreakinG8r: folds 
+Uncalled bet ($0.50) returned to mmffo
+mmffo collected $0.60 from pot
+mmffo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7d Qd As]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 folded before Flop (didn't bet)
+Seat 5: Cardini 23 (button) folded before Flop (didn't bet)
+Seat 6: David VO (small blind) folded before Flop
+Seat 7: aFreakinG8r (big blind) folded on the Flop
+Seat 8: mmffo collected ($0.60)
+
+
+
+PokerStars Game #19904132520:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:18:45 (ET)
+Table 'Luda III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($23.30 in chips) 
+Seat 2: ThannTheOne ($5.30 in chips) 
+Seat 3: Farva500 ($21.15 in chips) 
+Seat 4: Boks22 ($35.95 in chips) 
+Seat 5: Cardini 23 ($25 in chips) 
+Seat 6: David VO ($16.60 in chips) 
+Seat 7: aFreakinG8r ($76.90 in chips) 
+Seat 8: mmffo ($52.75 in chips) 
+aFreakinG8r: posts small blind $0.10
+mmffo: posts big blind $0.25
+k030101: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 2s]
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+Boks22: folds 
+Cardini 23: folds 
+David VO: calls $0.25
+aFreakinG8r: folds 
+mmffo: checks 
+*** FLOP *** [3d 9h Td]
+mmffo: bets $0.50
+David VO: folds 
+Uncalled bet ($0.50) returned to mmffo
+mmffo collected $0.60 from pot
+mmffo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3d 9h Td]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 folded before Flop (didn't bet)
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO (button) folded on the Flop
+Seat 7: aFreakinG8r (small blind) folded before Flop
+Seat 8: mmffo (big blind) collected ($0.60)
+
+
+
+PokerStars Game #19904142522:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:19:20 (ET)
+Table 'Luda III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($23.30 in chips) 
+Seat 2: ThannTheOne ($5.30 in chips) 
+Seat 3: Farva500 ($21.15 in chips) 
+Seat 4: Boks22 ($35.95 in chips) 
+Seat 5: Cardini 23 ($25 in chips) 
+Seat 6: David VO ($16.35 in chips) 
+Seat 7: aFreakinG8r ($76.80 in chips) 
+Seat 8: mmffo ($53.10 in chips) 
+Seat 9: k030101 ($25 in chips) 
+mmffo: posts small blind $0.10
+k030101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Qd]
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+Boks22: raises $0.50 to $0.75
+Cardini 23: folds 
+David VO: folds 
+aFreakinG8r: calls $0.75
+mmffo: folds 
+k030101: folds 
+*** FLOP *** [2d 7c 9c]
+Boks22: bets $1.25
+aFreakinG8r: calls $1.25
+*** TURN *** [2d 7c 9c] [Qh]
+Boks22: bets $2.50
+aFreakinG8r: calls $2.50
+*** RIVER *** [2d 7c 9c Qh] [Kd]
+Boks22: bets $5
+aFreakinG8r: folds 
+Uncalled bet ($5) returned to Boks22
+Boks22 collected $8.90 from pot
+Boks22: shows [Kc Kh] (three of a kind, Kings)
+*** SUMMARY ***
+Total pot $9.35 | Rake $0.45 
+Board [2d 7c 9c Qh Kd]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 collected ($8.90)
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO folded before Flop (didn't bet)
+Seat 7: aFreakinG8r (button) folded on the River
+Seat 8: mmffo (small blind) folded before Flop
+Seat 9: k030101 (big blind) folded before Flop
+
+
+
+PokerStars Game #19904163281:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:20:33 (ET)
+Table 'Luda III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($23.30 in chips) 
+Seat 2: ThannTheOne ($5.30 in chips) 
+Seat 3: Farva500 ($21.15 in chips) 
+Seat 4: Boks22 ($40.35 in chips) 
+Seat 5: Cardini 23 ($25 in chips) 
+Seat 6: David VO ($16.35 in chips) 
+Seat 7: aFreakinG8r ($72.30 in chips) 
+Seat 8: mmffo ($53 in chips) 
+Seat 9: k030101 ($24.75 in chips) 
+k030101: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Jc]
+ThannTheOne: folds 
+Farva500: folds 
+Boks22: folds 
+Cardini 23: folds 
+David VO: folds 
+aFreakinG8r: raises $0.50 to $0.75
+mmffo: folds 
+k030101: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to aFreakinG8r
+aFreakinG8r collected $0.60 from pot
+aFreakinG8r: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 (big blind) folded before Flop
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 folded before Flop (didn't bet)
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO folded before Flop (didn't bet)
+Seat 7: aFreakinG8r collected ($0.60)
+Seat 8: mmffo (button) folded before Flop (didn't bet)
+Seat 9: k030101 (small blind) folded before Flop
+
+
+
+PokerStars Game #19904172459:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:21:05 (ET)
+Table 'Luda III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($23.05 in chips) 
+Seat 2: ThannTheOne ($5.30 in chips) 
+Seat 3: Farva500 ($21.15 in chips) 
+Seat 4: Boks22 ($40.35 in chips) 
+Seat 5: Cardini 23 ($25 in chips) 
+Seat 6: David VO ($16.35 in chips) 
+Seat 7: aFreakinG8r ($72.65 in chips) 
+Seat 8: mmffo ($53 in chips) 
+Seat 9: k030101 ($24.65 in chips) 
+Alameda22: posts small blind $0.10
+ThannTheOne: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 9c]
+Farva500: folds 
+Boks22: calls $0.25
+Cardini 23: folds 
+David VO: calls $0.25
+aFreakinG8r: folds 
+mmffo: folds 
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: checks 
+*** FLOP *** [Kd 4c 8d]
+ThannTheOne: checks 
+Boks22: bets $0.50
+David VO: calls $0.50
+ThannTheOne: folds 
+*** TURN *** [Kd 4c 8d] [Th]
+Boks22: bets $0.75
+David VO: folds 
+Uncalled bet ($0.75) returned to Boks22
+Boks22 collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [Kd 4c 8d Th]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: ThannTheOne (big blind) folded on the Flop
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 collected ($1.80)
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO folded on the Turn
+Seat 7: aFreakinG8r folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904185959:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:21:52 (ET)
+Table 'Luda III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($5.05 in chips) 
+Seat 3: Farva500 ($21.15 in chips) 
+Seat 4: Boks22 ($41.40 in chips) 
+Seat 5: Cardini 23 ($25 in chips) 
+Seat 6: David VO ($15.60 in chips) 
+Seat 7: aFreakinG8r ($72.65 in chips) 
+Seat 8: mmffo ($53 in chips) 
+Seat 9: k030101 ($24.65 in chips) 
+ThannTheOne: posts small blind $0.10
+Farva500: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Kh]
+Boks22: folds 
+Cardini 23: folds 
+David VO: folds 
+aFreakinG8r: raises $0.75 to $1
+mmffo: folds 
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+Uncalled bet ($0.75) returned to aFreakinG8r
+aFreakinG8r collected $0.60 from pot
+aFreakinG8r: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: ThannTheOne (small blind) folded before Flop
+Seat 3: Farva500 (big blind) folded before Flop
+Seat 4: Boks22 folded before Flop (didn't bet)
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO folded before Flop (didn't bet)
+Seat 7: aFreakinG8r collected ($0.60)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904202146:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:22:50 (ET)
+Table 'Luda III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($4.95 in chips) 
+Seat 3: Farva500 ($20.90 in chips) 
+Seat 4: Boks22 ($41.40 in chips) 
+Seat 5: Cardini 23 ($25 in chips) 
+Seat 6: David VO ($15.60 in chips) 
+Seat 7: aFreakinG8r ($73 in chips) 
+Seat 8: mmffo ($53 in chips) 
+Seat 9: k030101 ($24.65 in chips) 
+Farva500: posts small blind $0.10
+Boks22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 9s]
+Cardini 23: folds 
+David VO: folds 
+aFreakinG8r: folds 
+mmffo: calls $0.25
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: calls $0.15
+Boks22: checks 
+*** FLOP *** [Kh 2d 9d]
+Farva500: checks 
+Boks22: checks 
+mmffo: checks 
+*** TURN *** [Kh 2d 9d] [4h]
+Farva500: checks 
+Boks22: bets $0.50
+mmffo: calls $0.50
+Farva500: folds 
+*** RIVER *** [Kh 2d 9d 4h] [7c]
+Boks22: bets $1
+mmffo: folds 
+Uncalled bet ($1) returned to Boks22
+Boks22 collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Kh 2d 9d 4h 7c]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne (button) folded before Flop (didn't bet)
+Seat 3: Farva500 (small blind) folded on the Turn
+Seat 4: Boks22 (big blind) collected ($1.70)
+Seat 5: Cardini 23 folded before Flop (didn't bet)
+Seat 6: David VO folded before Flop (didn't bet)
+Seat 7: aFreakinG8r folded before Flop (didn't bet)
+Seat 8: mmffo folded on the River
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904225601:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:24:13 (ET)
+Table 'Luda III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($4.95 in chips) 
+Seat 3: Farva500 ($20.65 in chips) 
+Seat 4: Boks22 ($42.35 in chips) 
+Seat 5: Cardini 23 ($25 in chips) 
+Seat 6: David VO ($15.60 in chips) 
+Seat 7: aFreakinG8r ($73 in chips) 
+Seat 8: mmffo ($52.25 in chips) 
+Seat 9: k030101 ($24.65 in chips) 
+Boks22: posts small blind $0.10
+Cardini 23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 2s]
+David VO: folds 
+aFreakinG8r: raises $0.50 to $0.75
+mmffo: calls $0.75
+k030101: calls $0.75
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: calls $0.75
+Boks22: folds 
+Cardini 23: folds 
+*** FLOP *** [5s 2c 8h]
+aFreakinG8r: bets $2
+mmffo: raises $2 to $4
+k030101: folds 
+Farva500: calls $4
+aFreakinG8r: calls $2
+*** TURN *** [5s 2c 8h] [8d]
+aFreakinG8r: checks 
+mmffo: bets $8
+Farva500: folds 
+aFreakinG8r: calls $8
+*** RIVER *** [5s 2c 8h 8d] [7h]
+aFreakinG8r: checks 
+mmffo: checks 
+*** SHOW DOWN ***
+aFreakinG8r: shows [6s 7s] (two pair, Eights and Sevens)
+mmffo: shows [9d 9s] (two pair, Nines and Eights)
+mmffo collected $29.85 from pot
+*** SUMMARY ***
+Total pot $31.35 | Rake $1.50 
+Board [5s 2c 8h 8d 7h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 (button) folded on the Turn
+Seat 4: Boks22 (small blind) folded before Flop
+Seat 5: Cardini 23 (big blind) folded before Flop
+Seat 6: David VO folded before Flop (didn't bet)
+Seat 7: aFreakinG8r showed [6s 7s] and lost with two pair, Eights and Sevens
+Seat 8: mmffo showed [9d 9s] and won ($29.85) with two pair, Nines and Eights
+Seat 9: k030101 folded on the Flop
+
+
+
+PokerStars Game #19904251777:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:25:46 (ET)
+Table 'Luda III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($4.95 in chips) 
+Seat 3: Farva500 ($15.90 in chips) 
+Seat 4: Boks22 ($42.25 in chips) 
+Seat 7: aFreakinG8r ($60.25 in chips) 
+Seat 8: mmffo ($69.35 in chips) 
+Seat 9: k030101 ($23.90 in chips) 
+Cardini 23: is sitting out 
+Cardini 23 leaves the table
+WowSick joins the table at seat #5 
+David VO: is sitting out 
+aFreakinG8r: posts small blind $0.10
+mmffo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 4s]
+David VO leaves the table
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+Boks22: folds 
+aFreakinG8r: folds 
+Uncalled bet ($0.15) returned to mmffo
+mmffo collected $0.20 from pot
+mmffo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 (button) folded before Flop (didn't bet)
+Seat 7: aFreakinG8r (small blind) folded before Flop
+Seat 8: mmffo (big blind) collected ($0.20)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904266213:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:26:38 (ET)
+Table 'Luda III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($4.95 in chips) 
+Seat 3: Farva500 ($15.90 in chips) 
+Seat 4: Boks22 ($42.25 in chips) 
+Seat 7: aFreakinG8r ($60.15 in chips) 
+Seat 8: mmffo ($69.45 in chips) 
+Seat 9: k030101 ($23.90 in chips) 
+mmffo: posts small blind $0.10
+k030101: posts big blind $0.25
+WowSick: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Qs]
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+Boks22: calls $0.25
+aFreakinG8r: calls $0.25
+tacotis joins the table at seat #6 
+mmffo: folds 
+k030101: checks 
+*** FLOP *** [8d Js 7d]
+k030101: checks 
+Boks22: checks 
+aFreakinG8r: checks 
+*** TURN *** [8d Js 7d] [8h]
+k030101: checks 
+Boks22: bets $0.25
+aFreakinG8r: raises $0.75 to $1
+k030101: folds 
+Boks22: calls $0.75
+*** RIVER *** [8d Js 7d 8h] [7s]
+Boks22: bets $0.25
+aFreakinG8r: calls $0.25
+*** SHOW DOWN ***
+Boks22: shows [Kh Qh] (two pair, Eights and Sevens)
+aFreakinG8r: shows [Td 9h] (a straight, Seven to Jack)
+aFreakinG8r collected $3.20 from pot
+Boks22 said, "nh^^"
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [8d Js 7d 8h 7s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 showed [Kh Qh] and lost with two pair, Eights and Sevens
+Seat 7: aFreakinG8r (button) showed [Td 9h] and won ($3.20) with a straight, Seven to Jack
+Seat 8: mmffo (small blind) folded before Flop
+Seat 9: k030101 (big blind) folded on the Turn
+
+
+
+PokerStars Game #19904283743:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:27:41 (ET)
+Table 'Luda III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($4.95 in chips) 
+Seat 3: Farva500 ($15.90 in chips) 
+Seat 4: Boks22 ($40.75 in chips) 
+Seat 6: tacotis ($15 in chips) 
+Seat 7: aFreakinG8r ($61.85 in chips) 
+Seat 8: mmffo ($69.35 in chips) 
+Seat 9: k030101 ($23.65 in chips) 
+k030101: posts small blind $0.10
+Alameda22: posts big blind $0.25
+WowSick: sits out 
+tacotis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 7s]
+ThannTheOne: folds 
+Farva500: folds 
+Boks22: folds 
+tacotis: raises $0.25 to $0.50
+aFreakinG8r: calls $0.50
+mmffo: calls $0.50
+k030101: folds 
+Alameda22: calls $0.25
+*** FLOP *** [4c 7c 6c]
+Alameda22: checks 
+tacotis: checks 
+aFreakinG8r: bets $1
+mmffo: raises $4 to $5
+Alameda22: folds 
+tacotis: folds 
+aFreakinG8r: calls $4
+*** TURN *** [4c 7c 6c] [3s]
+aFreakinG8r: checks 
+mmffo: bets $5.50
+aFreakinG8r: calls $5.50
+*** RIVER *** [4c 7c 6c 3s] [Jc]
+aFreakinG8r: bets $5
+mmffo: calls $5
+*** SHOW DOWN ***
+aFreakinG8r: shows [9c 5c] (a flush, Jack high)
+mmffo: shows [4h 4d] (three of a kind, Fours)
+aFreakinG8r collected $31.50 from pot
+*** SUMMARY ***
+Total pot $33.10 | Rake $1.60 
+Board [4c 7c 6c 3s Jc]
+Seat 1: Alameda22 (big blind) folded on the Flop
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 folded before Flop (didn't bet)
+Seat 6: tacotis folded on the Flop
+Seat 7: aFreakinG8r showed [9c 5c] and won ($31.50) with a flush, Jack high
+Seat 8: mmffo (button) showed [4h 4d] and lost with three of a kind, Fours
+Seat 9: k030101 (small blind) folded before Flop
+
+
+
+PokerStars Game #19904314195:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:29:33 (ET)
+Table 'Luda III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($22.45 in chips) 
+Seat 2: ThannTheOne ($4.95 in chips) 
+Seat 3: Farva500 ($15.90 in chips) 
+Seat 4: Boks22 ($40.75 in chips) 
+Seat 6: tacotis ($14.50 in chips) 
+Seat 7: aFreakinG8r ($77.35 in chips) 
+Seat 8: mmffo ($53.35 in chips) 
+Seat 9: k030101 ($23.55 in chips) 
+Alameda22: posts small blind $0.10
+ThannTheOne: posts big blind $0.25
+WowSick: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 6h]
+Farva500: folds 
+Boks22: folds 
+tacotis: calls $0.25
+aFreakinG8r: raises $0.75 to $1
+mmffo: folds 
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+tacotis: calls $0.75
+*** FLOP *** [7s Tc Jd]
+tacotis: checks 
+aFreakinG8r: bets $1.75
+tacotis: calls $1.75
+*** TURN *** [7s Tc Jd] [Jc]
+tacotis: bets $0.75
+aFreakinG8r: calls $0.75
+*** RIVER *** [7s Tc Jd Jc] [Ac]
+tacotis: bets $4.25
+aFreakinG8r: folds 
+Uncalled bet ($4.25) returned to tacotis
+tacotis collected $7 from pot
+tacotis: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.35 | Rake $0.35 
+Board [7s Tc Jd Jc Ac]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: ThannTheOne (big blind) folded before Flop
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: Boks22 folded before Flop (didn't bet)
+Seat 6: tacotis collected ($7)
+Seat 7: aFreakinG8r folded on the River
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904330265:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:30:32 (ET)
+Table 'Luda III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($22.35 in chips) 
+Seat 2: ThannTheOne ($4.70 in chips) 
+Seat 3: Farva500 ($15.90 in chips) 
+Seat 4: Boks22 ($40.75 in chips) 
+Seat 6: tacotis ($18 in chips) 
+Seat 7: aFreakinG8r ($73.85 in chips) 
+Seat 8: mmffo ($53.35 in chips) 
+Seat 9: k030101 ($23.55 in chips) 
+ThannTheOne: posts small blind $0.10
+Farva500: posts big blind $0.25
+WowSick: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 5s]
+Boks22: folds 
+tacotis: calls $0.25
+aFreakinG8r: folds 
+Boks22 is sitting out
+mmffo: folds 
+Boks22 leaves the table
+k030101: folds 
+O-TiGreTon-O joins the table at seat #4 
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: checks 
+*** FLOP *** [8h Kh Kc]
+Farva500: checks 
+tacotis: bets $0.25
+Farva500: folds 
+Uncalled bet ($0.25) returned to tacotis
+Farva500 is sitting out
+tacotis collected $0.60 from pot
+tacotis: doesn't show hand 
+Farva500 has returned
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8h Kh Kc]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: ThannTheOne (small blind) folded before Flop
+Seat 3: Farva500 (big blind) folded on the Flop
+Seat 4: Boks22 folded before Flop (didn't bet)
+Seat 6: tacotis collected ($0.60)
+Seat 7: aFreakinG8r folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904348266:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:31:33 (ET)
+Table 'Luda III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($22.35 in chips) 
+Seat 2: ThannTheOne ($4.60 in chips) 
+Seat 3: Farva500 ($15.65 in chips) 
+Seat 4: O-TiGreTon-O ($25 in chips) 
+Seat 6: tacotis ($18.35 in chips) 
+Seat 7: aFreakinG8r ($73.85 in chips) 
+Seat 8: mmffo ($53.35 in chips) 
+Seat 9: k030101 ($23.55 in chips) 
+Farva500: posts small blind $0.10
+O-TiGreTon-O: posts big blind $0.25
+WowSick: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 5c]
+tacotis: folds 
+aFreakinG8r: folds 
+mmffo: folds 
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+Uncalled bet ($0.15) returned to O-TiGreTon-O
+Farva500 is sitting out
+O-TiGreTon-O collected $0.20 from pot
+O-TiGreTon-O: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne (button) folded before Flop (didn't bet)
+Seat 3: Farva500 (small blind) folded before Flop
+Seat 4: O-TiGreTon-O (big blind) collected ($0.20)
+Seat 6: tacotis folded before Flop (didn't bet)
+Seat 7: aFreakinG8r folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904355327:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:31:59 (ET)
+Table 'Luda III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($22.35 in chips) 
+Seat 2: ThannTheOne ($4.60 in chips) 
+Seat 4: O-TiGreTon-O ($25.10 in chips) 
+Seat 6: tacotis ($18.35 in chips) 
+Seat 7: aFreakinG8r ($73.85 in chips) 
+Seat 8: mmffo ($53.35 in chips) 
+Seat 9: k030101 ($23.55 in chips) 
+WowSick will be allowed to play after the button
+tacotis: posts small blind $0.10
+aFreakinG8r: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Ac]
+mmffo: folds 
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+O-TiGreTon-O: folds 
+tacotis: calls $0.15
+aFreakinG8r: checks 
+*** FLOP *** [Jc 4c 9c]
+tacotis: checks 
+aFreakinG8r: bets $0.25
+tacotis: calls $0.25
+*** TURN *** [Jc 4c 9c] [5d]
+tacotis: checks 
+aFreakinG8r: bets $0.25
+tacotis: calls $0.25
+*** RIVER *** [Jc 4c 9c 5d] [7s]
+tacotis: checks 
+aFreakinG8r: bets $0.25
+tacotis: folds 
+Uncalled bet ($0.25) returned to aFreakinG8r
+aFreakinG8r collected $1.45 from pot
+aFreakinG8r: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Jc 4c 9c 5d 7s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O (button) folded before Flop (didn't bet)
+Seat 6: tacotis (small blind) folded on the River
+Seat 7: aFreakinG8r (big blind) collected ($1.45)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904367218:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:32:40 (ET)
+Table 'Luda III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($22.35 in chips) 
+Seat 2: ThannTheOne ($4.60 in chips) 
+Seat 4: O-TiGreTon-O ($25.10 in chips) 
+Seat 6: tacotis ($17.60 in chips) 
+Seat 7: aFreakinG8r ($74.55 in chips) 
+Seat 8: mmffo ($53.35 in chips) 
+Seat 9: k030101 ($23.55 in chips) 
+aFreakinG8r: posts small blind $0.10
+mmffo: posts big blind $0.25
+WowSick: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Ks]
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+O-TiGreTon-O: folds 
+tacotis: raises $0.25 to $0.50
+aFreakinG8r: folds 
+mmffo: calls $0.25
+*** FLOP *** [Kc Ac 9s]
+mmffo: checks 
+tacotis: bets $0.25
+mmffo: folds 
+Uncalled bet ($0.25) returned to tacotis
+tacotis collected $1.05 from pot
+tacotis: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Kc Ac 9s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O folded before Flop (didn't bet)
+Seat 6: tacotis (button) collected ($1.05)
+Seat 7: aFreakinG8r (small blind) folded before Flop
+Seat 8: mmffo (big blind) folded on the Flop
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904377538:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:33:16 (ET)
+Table 'Luda III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($22.35 in chips) 
+Seat 2: ThannTheOne ($4.60 in chips) 
+Seat 4: O-TiGreTon-O ($25.10 in chips) 
+Seat 6: tacotis ($18.15 in chips) 
+Seat 7: aFreakinG8r ($74.45 in chips) 
+Seat 8: mmffo ($52.85 in chips) 
+Seat 9: k030101 ($23.55 in chips) 
+mmffo: posts small blind $0.10
+k030101: posts big blind $0.25
+WowSick: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 7d]
+Alameda22: folds 
+ThannTheOne: folds 
+O-TiGreTon-O: folds 
+tacotis: calls $0.25
+aFreakinG8r: folds 
+mmffo: folds 
+k030101: checks 
+*** FLOP *** [9s 8d 9d]
+k030101: checks 
+tacotis: checks 
+*** TURN *** [9s 8d 9d] [2d]
+k030101: checks 
+tacotis: bets $0.25
+k030101: folds 
+Uncalled bet ($0.25) returned to tacotis
+tacotis collected $0.60 from pot
+tacotis: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9s 8d 9d 2d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O folded before Flop (didn't bet)
+Seat 6: tacotis collected ($0.60)
+Seat 7: aFreakinG8r (button) folded before Flop (didn't bet)
+Seat 8: mmffo (small blind) folded before Flop
+Seat 9: k030101 (big blind) folded on the Turn
+
+
+
+PokerStars Game #19904388094:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:33:53 (ET)
+Table 'Luda III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($22.35 in chips) 
+Seat 2: ThannTheOne ($4.60 in chips) 
+Seat 4: O-TiGreTon-O ($25.10 in chips) 
+Seat 6: tacotis ($18.50 in chips) 
+Seat 7: aFreakinG8r ($74.45 in chips) 
+Seat 8: mmffo ($52.75 in chips) 
+Seat 9: k030101 ($23.30 in chips) 
+k030101: posts small blind $0.10
+Alameda22: posts big blind $0.25
+WowSick: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Td]
+ThannTheOne: folds 
+O-TiGreTon-O: folds 
+tacotis: calls $0.25
+aFreakinG8r: folds 
+mmffo: calls $0.25
+k030101: folds 
+Alameda22: checks 
+*** FLOP *** [2h Jc Qd]
+Alameda22: bets $0.50
+tacotis: calls $0.50
+mmffo: folds 
+*** TURN *** [2h Jc Qd] [Js]
+Alameda22: checks 
+tacotis: checks 
+*** RIVER *** [2h Jc Qd Js] [Qs]
+Alameda22: bets $1.25
+tacotis: folds 
+Uncalled bet ($1.25) returned to Alameda22
+Alameda22 collected $1.80 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [2h Jc Qd Js Qs]
+Seat 1: Alameda22 (big blind) collected ($1.80)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O folded before Flop (didn't bet)
+Seat 6: tacotis folded on the River
+Seat 7: aFreakinG8r folded before Flop (didn't bet)
+Seat 8: mmffo (button) folded on the Flop
+Seat 9: k030101 (small blind) folded before Flop
+
+
+
+PokerStars Game #19904405904:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:34:55 (ET)
+Table 'Luda III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($23.40 in chips) 
+Seat 2: ThannTheOne ($4.60 in chips) 
+Seat 4: O-TiGreTon-O ($25.10 in chips) 
+Seat 6: tacotis ($17.75 in chips) 
+Seat 7: aFreakinG8r ($74.45 in chips) 
+Seat 8: mmffo ($52.50 in chips) 
+Seat 9: k030101 ($23.20 in chips) 
+Alameda22: posts small blind $0.10
+ThannTheOne: posts big blind $0.25
+WowSick: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 4h]
+O-TiGreTon-O: folds 
+tacotis: calls $0.25
+aFreakinG8r: raises $0.75 to $1
+mmffo: folds 
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+tacotis: calls $0.75
+*** FLOP *** [Qc 3c Ks]
+tacotis: checks 
+aFreakinG8r: bets $1
+tacotis: folds 
+Uncalled bet ($1) returned to aFreakinG8r
+aFreakinG8r collected $2.25 from pot
+aFreakinG8r: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Qc 3c Ks]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: ThannTheOne (big blind) folded before Flop
+Seat 4: O-TiGreTon-O folded before Flop (didn't bet)
+Seat 6: tacotis folded on the Flop
+Seat 7: aFreakinG8r collected ($2.25)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904415452:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:35:28 (ET)
+Table 'Luda III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($23.30 in chips) 
+Seat 2: ThannTheOne ($4.35 in chips) 
+Seat 4: O-TiGreTon-O ($25.10 in chips) 
+Seat 6: tacotis ($16.75 in chips) 
+Seat 7: aFreakinG8r ($75.70 in chips) 
+Seat 8: mmffo ($52.50 in chips) 
+Seat 9: k030101 ($23.20 in chips) 
+ThannTheOne: posts small blind $0.10
+O-TiGreTon-O: posts big blind $0.25
+WowSick: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 8c]
+tacotis: folds 
+aFreakinG8r: folds 
+mmffo: folds 
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+Uncalled bet ($0.15) returned to O-TiGreTon-O
+O-TiGreTon-O collected $0.20 from pot
+O-TiGreTon-O: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: ThannTheOne (small blind) folded before Flop
+Seat 4: O-TiGreTon-O (big blind) collected ($0.20)
+Seat 6: tacotis folded before Flop (didn't bet)
+Seat 7: aFreakinG8r folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904435582:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:36:39 (ET)
+Table 'Luda III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($23.30 in chips) 
+Seat 2: ThannTheOne ($4.25 in chips) 
+Seat 4: O-TiGreTon-O ($25.20 in chips) 
+Seat 5: WowSick ($25 in chips) 
+Seat 6: tacotis ($16.75 in chips) 
+Seat 7: aFreakinG8r ($75.70 in chips) 
+Seat 8: mmffo ($52.50 in chips) 
+Seat 9: k030101 ($23.20 in chips) 
+O-TiGreTon-O: posts small blind $0.10
+WowSick: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 6c]
+tacotis: calls $0.25
+aFreakinG8r: raises $0.75 to $1
+mmffo: folds 
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+O-TiGreTon-O: folds 
+WowSick: calls $0.75
+tacotis: calls $0.75
+*** FLOP *** [4d 3s 2h]
+WowSick: checks 
+tacotis: checks 
+aFreakinG8r: checks 
+*** TURN *** [4d 3s 2h] [7h]
+WowSick: checks 
+tacotis: bets $1.50
+aFreakinG8r: calls $1.50
+WowSick: folds 
+*** RIVER *** [4d 3s 2h 7h] [Ad]
+tacotis: checks 
+aFreakinG8r: bets $2.75
+tacotis: raises $3.25 to $6
+aFreakinG8r: folds 
+Uncalled bet ($3.25) returned to tacotis
+tacotis collected $11.05 from pot
+tacotis: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.60 | Rake $0.55 
+Board [4d 3s 2h 7h Ad]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne (button) folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O (small blind) folded before Flop
+Seat 5: WowSick (big blind) folded on the Turn
+Seat 6: tacotis collected ($11.05)
+Seat 7: aFreakinG8r folded on the River
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904460234:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:38:08 (ET)
+Table 'Luda III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($23.30 in chips) 
+Seat 2: ThannTheOne ($4.25 in chips) 
+Seat 4: O-TiGreTon-O ($25.10 in chips) 
+Seat 5: WowSick ($24 in chips) 
+Seat 6: tacotis ($22.55 in chips) 
+Seat 7: aFreakinG8r ($70.45 in chips) 
+Seat 8: mmffo ($52.50 in chips) 
+Seat 9: k030101 ($23.20 in chips) 
+WowSick: posts small blind $0.10
+tacotis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Tc]
+aFreakinG8r: folds 
+mmffo: calls $0.25
+k030101: folds 
+aFreakinG8r leaves the table
+Alameda22: folds 
+Farva500 has returned
+ThannTheOne: folds 
+O-TiGreTon-O: raises $1 to $1.25
+WowSick: folds 
+tacotis: calls $1
+mmffo: calls $1
+*** FLOP *** [2h 6h Ac]
+tacotis: checks 
+mmffo: checks 
+rommel19540 joins the table at seat #7 
+O-TiGreTon-O: bets $3
+tacotis: calls $3
+mmffo: calls $3
+*** TURN *** [2h 6h Ac] [9s]
+tacotis: bets $1.75
+mmffo: calls $1.75
+O-TiGreTon-O: raises $6.50 to $8.25
+tacotis: raises $10.05 to $18.30 and is all-in
+mmffo: folds 
+O-TiGreTon-O: calls $10.05
+*** RIVER *** [2h 6h Ac 9s] [Ks]
+*** SHOW DOWN ***
+tacotis: shows [Kc Ad] (two pair, Aces and Kings)
+O-TiGreTon-O: shows [6c 6s] (three of a kind, Sixes)
+O-TiGreTon-O collected $48.70 from pot
+*** SUMMARY ***
+Total pot $51.20 | Rake $2.50 
+Board [2h 6h Ac 9s Ks]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O (button) showed [6c 6s] and won ($48.70) with three of a kind, Sixes
+Seat 5: WowSick (small blind) folded before Flop
+Seat 6: tacotis (big blind) showed [Kc Ad] and lost with two pair, Aces and Kings
+Seat 7: aFreakinG8r folded before Flop (didn't bet)
+Seat 8: mmffo folded on the Turn
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904496613:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:40:17 (ET)
+Table 'Luda III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($23.30 in chips) 
+Seat 2: ThannTheOne ($4.25 in chips) 
+Seat 3: Farva500 ($15.55 in chips) 
+Seat 4: O-TiGreTon-O ($51.25 in chips) 
+Seat 5: WowSick ($23.90 in chips) 
+Seat 8: mmffo ($46.50 in chips) 
+Seat 9: k030101 ($23.20 in chips) 
+rommel19540 will be allowed to play after the button
+mmffo: posts small blind $0.10
+k030101: posts big blind $0.25
+Farva500: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 2c]
+Alameda22: folds 
+tacotis leaves the table
+ThannTheOne: folds 
+Farva500: checks 
+O-TiGreTon-O: folds 
+aeroslick joins the table at seat #6 
+WowSick: raises $0.75 to $1
+mmffo: folds 
+k030101: folds 
+Farva500: folds 
+Uncalled bet ($0.75) returned to WowSick
+WowSick collected $0.95 from pot
+WowSick: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop
+Seat 4: O-TiGreTon-O folded before Flop (didn't bet)
+Seat 5: WowSick (button) collected ($0.95)
+Seat 8: mmffo (small blind) folded before Flop
+Seat 9: k030101 (big blind) folded before Flop
+
+
+
+PokerStars Game #19904507599:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:40:57 (ET)
+Table 'Luda III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($23.30 in chips) 
+Seat 2: ThannTheOne ($4.25 in chips) 
+Seat 3: Farva500 ($15.20 in chips) 
+Seat 4: O-TiGreTon-O ($51.25 in chips) 
+Seat 5: WowSick ($24.60 in chips) 
+Seat 6: aeroslick ($10 in chips) 
+Seat 8: mmffo ($46.40 in chips) 
+Seat 9: k030101 ($22.95 in chips) 
+k030101: posts small blind $0.10
+Alameda22: posts big blind $0.25
+aeroslick: posts big blind $0.25
+rommel19540: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 2s]
+ThannTheOne: folds 
+Farva500: folds 
+O-TiGreTon-O: calls $0.25
+WowSick: folds 
+rommel19540 leaves the table
+aeroslick: checks 
+mmffo: calls $0.25
+k030101: folds 
+Alameda22: checks 
+*** FLOP *** [3c 7s 9d]
+Alameda22: checks 
+O-TiGreTon-O: checks 
+aeroslick: checks 
+mmffo: bets $1
+smkeens joins the table at seat #7 
+Alameda22: folds 
+O-TiGreTon-O: folds 
+aeroslick: folds 
+Uncalled bet ($1) returned to mmffo
+mmffo collected $1.05 from pot
+mmffo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [3c 7s 9d]
+Seat 1: Alameda22 (big blind) folded on the Flop
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O folded on the Flop
+Seat 5: WowSick folded before Flop (didn't bet)
+Seat 6: aeroslick folded on the Flop
+Seat 8: mmffo (button) collected ($1.05)
+Seat 9: k030101 (small blind) folded before Flop
+
+
+
+PokerStars Game #19904530312:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:42:19 (ET)
+Table 'Luda III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($23.05 in chips) 
+Seat 2: ThannTheOne ($4.25 in chips) 
+Seat 3: Farva500 ($15.20 in chips) 
+Seat 4: O-TiGreTon-O ($51 in chips) 
+Seat 5: WowSick ($24.60 in chips) 
+Seat 6: aeroslick ($9.75 in chips) 
+Seat 7: smkeens ($25 in chips) 
+Seat 8: mmffo ($47.20 in chips) 
+Seat 9: k030101 ($22.85 in chips) 
+Alameda22: posts small blind $0.10
+ThannTheOne: posts big blind $0.25
+smkeens: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 6s]
+Farva500: folds 
+O-TiGreTon-O: calls $0.25
+WowSick: folds 
+aeroslick: folds 
+smkeens: checks 
+mmffo: calls $0.25
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: checks 
+*** FLOP *** [5d Js 8d]
+ThannTheOne: checks 
+O-TiGreTon-O: checks 
+smkeens: checks 
+mmffo: checks 
+*** TURN *** [5d Js 8d] [2d]
+ThannTheOne: checks 
+O-TiGreTon-O: checks 
+smkeens: checks 
+mmffo: checks 
+*** RIVER *** [5d Js 8d 2d] [Ah]
+ThannTheOne: checks 
+O-TiGreTon-O: checks 
+smkeens: bets $1
+mmffo: folds 
+ThannTheOne: folds 
+O-TiGreTon-O: folds 
+Uncalled bet ($1) returned to smkeens
+smkeens collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [5d Js 8d 2d Ah]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: ThannTheOne (big blind) folded on the River
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O folded on the River
+Seat 5: WowSick folded before Flop (didn't bet)
+Seat 6: aeroslick folded before Flop (didn't bet)
+Seat 7: smkeens collected ($1.05)
+Seat 8: mmffo folded on the River
+Seat 9: k030101 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904554772:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:43:49 (ET)
+Table 'Luda III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($4 in chips) 
+Seat 3: Farva500 ($15.20 in chips) 
+Seat 4: O-TiGreTon-O ($50.75 in chips) 
+Seat 5: WowSick ($24.60 in chips) 
+Seat 6: aeroslick ($9.75 in chips) 
+Seat 7: smkeens ($25.80 in chips) 
+Seat 8: mmffo ($46.95 in chips) 
+Seat 9: k030101 ($22.85 in chips) 
+ThannTheOne: posts small blind $0.10
+Farva500: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 8c]
+O-TiGreTon-O: folds 
+WowSick: folds 
+aeroslick: raises $0.75 to $1
+smkeens: folds 
+mmffo: folds 
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+Uncalled bet ($0.75) returned to aeroslick
+aeroslick collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: ThannTheOne (small blind) folded before Flop
+Seat 3: Farva500 (big blind) folded before Flop
+Seat 4: O-TiGreTon-O folded before Flop (didn't bet)
+Seat 5: WowSick folded before Flop (didn't bet)
+Seat 6: aeroslick collected ($0.60)
+Seat 7: smkeens folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904563629:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:44:21 (ET)
+Table 'Luda III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($3.90 in chips) 
+Seat 3: Farva500 ($14.95 in chips) 
+Seat 4: O-TiGreTon-O ($50.75 in chips) 
+Seat 5: WowSick ($24.60 in chips) 
+Seat 6: aeroslick ($10.10 in chips) 
+Seat 7: smkeens ($25.80 in chips) 
+Seat 8: mmffo ($46.95 in chips) 
+Seat 9: k030101 ($22.85 in chips) 
+Farva500: posts small blind $0.10
+O-TiGreTon-O: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Kc]
+WowSick: folds 
+aeroslick: folds 
+smkeens: folds 
+mmffo: calls $0.25
+k030101: raises $1.25 to $1.50
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+O-TiGreTon-O: folds 
+mmffo: folds 
+Uncalled bet ($1.25) returned to k030101
+k030101 collected $0.85 from pot
+k030101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne (button) folded before Flop (didn't bet)
+Seat 3: Farva500 (small blind) folded before Flop
+Seat 4: O-TiGreTon-O (big blind) folded before Flop
+Seat 5: WowSick folded before Flop (didn't bet)
+Seat 6: aeroslick folded before Flop (didn't bet)
+Seat 7: smkeens folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop
+Seat 9: k030101 collected ($0.85)
+
+
+
+PokerStars Game #19904575122:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:45:04 (ET)
+Table 'Luda III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($3.90 in chips) 
+Seat 3: Farva500 ($14.85 in chips) 
+Seat 4: O-TiGreTon-O ($50.50 in chips) 
+Seat 5: WowSick ($24.60 in chips) 
+Seat 6: aeroslick ($10.10 in chips) 
+Seat 7: smkeens ($25.80 in chips) 
+Seat 8: mmffo ($46.70 in chips) 
+Seat 9: k030101 ($23.45 in chips) 
+O-TiGreTon-O: posts small blind $0.10
+WowSick: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 7s]
+aeroslick: folds 
+smkeens: folds 
+mmffo: folds 
+k030101: calls $0.25
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+O-TiGreTon-O: folds 
+WowSick: checks 
+*** FLOP *** [Jd 3d Jh]
+WowSick: checks 
+k030101: bets $0.50
+WowSick: calls $0.50
+*** TURN *** [Jd 3d Jh] [3c]
+WowSick: checks 
+k030101: checks 
+*** RIVER *** [Jd 3d Jh 3c] [8h]
+WowSick: bets $1.55
+k030101: folds 
+Uncalled bet ($1.55) returned to WowSick
+WowSick collected $1.55 from pot
+WowSick: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Jd 3d Jh 3c 8h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 (button) folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O (small blind) folded before Flop
+Seat 5: WowSick (big blind) collected ($1.55)
+Seat 6: aeroslick folded before Flop (didn't bet)
+Seat 7: smkeens folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 folded on the River
+
+
+
+PokerStars Game #19904596789:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:46:25 (ET)
+Table 'Luda III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($3.90 in chips) 
+Seat 3: Farva500 ($14.85 in chips) 
+Seat 4: O-TiGreTon-O ($50.40 in chips) 
+Seat 5: WowSick ($25.40 in chips) 
+Seat 6: aeroslick ($10.10 in chips) 
+Seat 7: smkeens ($25.80 in chips) 
+Seat 8: mmffo ($46.70 in chips) 
+Seat 9: k030101 ($22.70 in chips) 
+WowSick: posts small blind $0.10
+aeroslick: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 4c]
+smkeens: folds 
+mmffo: folds 
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+O-TiGreTon-O: folds 
+WowSick: folds 
+Uncalled bet ($0.15) returned to aeroslick
+aeroslick collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O (button) folded before Flop (didn't bet)
+Seat 5: WowSick (small blind) folded before Flop
+Seat 6: aeroslick (big blind) collected ($0.20)
+Seat 7: smkeens folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904609217:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:47:12 (ET)
+Table 'Luda III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($3.90 in chips) 
+Seat 3: Farva500 ($14.85 in chips) 
+Seat 4: O-TiGreTon-O ($50.40 in chips) 
+Seat 5: WowSick ($25.30 in chips) 
+Seat 6: aeroslick ($10.20 in chips) 
+Seat 7: smkeens ($25.80 in chips) 
+Seat 8: mmffo ($46.70 in chips) 
+Seat 9: k030101 ($22.70 in chips) 
+aeroslick: posts small blind $0.10
+smkeens: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Jh]
+mmffo: folds 
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+O-TiGreTon-O: folds 
+WowSick: folds 
+aeroslick: raises $0.50 to $0.75
+smkeens: folds 
+Uncalled bet ($0.50) returned to aeroslick
+aeroslick collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O folded before Flop (didn't bet)
+Seat 5: WowSick (button) folded before Flop (didn't bet)
+Seat 6: aeroslick (small blind) collected ($0.50)
+Seat 7: smkeens (big blind) folded before Flop
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904620427:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:47:54 (ET)
+Table 'Luda III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($3.90 in chips) 
+Seat 3: Farva500 ($14.85 in chips) 
+Seat 4: O-TiGreTon-O ($50.40 in chips) 
+Seat 5: WowSick ($25.30 in chips) 
+Seat 6: aeroslick ($10.45 in chips) 
+Seat 7: smkeens ($25.55 in chips) 
+Seat 8: mmffo ($46.70 in chips) 
+Seat 9: k030101 ($25 in chips) 
+smkeens: posts small blind $0.10
+mmffo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 5h]
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: raises $0.75 to $1
+Farva500: folds 
+O-TiGreTon-O: folds 
+WowSick: folds 
+aeroslick: folds 
+smkeens: folds 
+mmffo: folds 
+Uncalled bet ($0.75) returned to ThannTheOne
+ThannTheOne collected $0.60 from pot
+ThannTheOne: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne collected ($0.60)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O folded before Flop (didn't bet)
+Seat 5: WowSick folded before Flop (didn't bet)
+Seat 6: aeroslick (button) folded before Flop (didn't bet)
+Seat 7: smkeens (small blind) folded before Flop
+Seat 8: mmffo (big blind) folded before Flop
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904628709:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:48:25 (ET)
+Table 'Luda III' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($4.25 in chips) 
+Seat 3: Farva500 ($14.85 in chips) 
+Seat 4: O-TiGreTon-O ($50.40 in chips) 
+Seat 5: WowSick ($25.30 in chips) 
+Seat 6: aeroslick ($10.45 in chips) 
+Seat 7: smkeens ($25.45 in chips) 
+Seat 8: mmffo ($46.45 in chips) 
+Seat 9: k030101 ($25 in chips) 
+mmffo: posts small blind $0.10
+k030101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 9c]
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+O-TiGreTon-O: folds 
+WowSick: folds 
+aeroslick: folds 
+smkeens: calls $0.25
+mmffo: calls $0.15
+k030101: checks 
+*** FLOP *** [5d 8h Tc]
+mmffo: bets $0.75
+k030101: folds 
+smkeens: folds 
+Uncalled bet ($0.75) returned to mmffo
+mmffo collected $0.75 from pot
+mmffo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [5d 8h Tc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O folded before Flop (didn't bet)
+Seat 5: WowSick folded before Flop (didn't bet)
+Seat 6: aeroslick folded before Flop (didn't bet)
+Seat 7: smkeens (button) folded on the Flop
+Seat 8: mmffo (small blind) collected ($0.75)
+Seat 9: k030101 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19904642415:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:49:17 (ET)
+Table 'Luda III' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($4.25 in chips) 
+Seat 3: Farva500 ($14.85 in chips) 
+Seat 4: O-TiGreTon-O ($50.40 in chips) 
+Seat 5: WowSick ($25.30 in chips) 
+Seat 6: aeroslick ($10.45 in chips) 
+Seat 7: smkeens ($25.20 in chips) 
+Seat 8: mmffo ($46.95 in chips) 
+Seat 9: k030101 ($24.75 in chips) 
+k030101: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Ks]
+ThannTheOne: folds 
+Farva500: folds 
+O-TiGreTon-O: folds 
+WowSick: folds 
+aeroslick: folds 
+smkeens: folds 
+mmffo: folds 
+k030101: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 (big blind) collected ($0.20)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O folded before Flop (didn't bet)
+Seat 5: WowSick folded before Flop (didn't bet)
+Seat 6: aeroslick folded before Flop (didn't bet)
+Seat 7: smkeens folded before Flop (didn't bet)
+Seat 8: mmffo (button) folded before Flop (didn't bet)
+Seat 9: k030101 (small blind) folded before Flop
+
+
+
+PokerStars Game #19904653175:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:49:57 (ET)
+Table 'Luda III' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($23.05 in chips) 
+Seat 2: ThannTheOne ($4.25 in chips) 
+Seat 3: Farva500 ($14.85 in chips) 
+Seat 4: O-TiGreTon-O ($50.40 in chips) 
+Seat 5: WowSick ($25.30 in chips) 
+Seat 6: aeroslick ($10.45 in chips) 
+Seat 7: smkeens ($25.20 in chips) 
+Seat 8: mmffo ($46.95 in chips) 
+Seat 9: k030101 ($24.65 in chips) 
+Alameda22: posts small blind $0.10
+ThannTheOne: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Kc]
+Farva500: folds 
+O-TiGreTon-O: folds 
+WowSick: folds 
+aeroslick: folds 
+smkeens: folds 
+mmffo: folds 
+k030101: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to ThannTheOne
+ThannTheOne collected $0.20 from pot
+ThannTheOne: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: ThannTheOne (big blind) collected ($0.20)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O folded before Flop (didn't bet)
+Seat 5: WowSick folded before Flop (didn't bet)
+Seat 6: aeroslick folded before Flop (didn't bet)
+Seat 7: smkeens folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904663875:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:50:38 (ET)
+Table 'Luda III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($4.35 in chips) 
+Seat 3: Farva500 ($14.85 in chips) 
+Seat 4: O-TiGreTon-O ($50.40 in chips) 
+Seat 5: WowSick ($25.30 in chips) 
+Seat 6: aeroslick ($10.45 in chips) 
+Seat 7: smkeens ($25.20 in chips) 
+Seat 8: mmffo ($46.95 in chips) 
+Seat 9: k030101 ($24.65 in chips) 
+ThannTheOne: posts small blind $0.10
+Farva500: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 6c]
+O-TiGreTon-O: folds 
+WowSick: folds 
+aeroslick: raises $0.75 to $1
+smkeens: folds 
+mmffo: folds 
+k030101: folds 
+WowSick leaves the table
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: calls $0.75
+*** FLOP *** [6d Ad 8c]
+Farva500: checks 
+aeroslick: bets $1.25
+Farva500: calls $1.25
+*** TURN *** [6d Ad 8c] [Tc]
+Farva500: bets $2.50
+aeroslick: calls $2.50
+*** RIVER *** [6d Ad 8c Tc] [Jh]
+Farva500: bets $4
+aeroslick: raises $1.70 to $5.70 and is all-in
+Farva500: calls $1.70
+*** SHOW DOWN ***
+aeroslick: shows [8h 8d] (three of a kind, Eights)
+Farva500: mucks hand 
+aeroslick collected $20 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $1 
+Board [6d Ad 8c Tc Jh]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: ThannTheOne (small blind) folded before Flop
+Seat 3: Farva500 (big blind) mucked [Qc Ac]
+Seat 4: O-TiGreTon-O folded before Flop (didn't bet)
+Seat 5: WowSick folded before Flop (didn't bet)
+Seat 6: aeroslick showed [8h 8d] and won ($20) with three of a kind, Eights
+Seat 7: smkeens folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904688446:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:52:11 (ET)
+Table 'Luda III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($4.25 in chips) 
+Seat 3: Farva500 ($14.40 in chips) 
+Seat 4: O-TiGreTon-O ($50.40 in chips) 
+Seat 6: aeroslick ($20 in chips) 
+Seat 7: smkeens ($25.20 in chips) 
+Seat 8: mmffo ($46.95 in chips) 
+Seat 9: k030101 ($24.65 in chips) 
+Farva500: posts small blind $0.10
+O-TiGreTon-O: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 5d]
+aeroslick: folds 
+smkeens: folds 
+mmffo: calls $0.25
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+O-TiGreTon-O: checks 
+*** FLOP *** [8h Js 3h]
+O-TiGreTon-O: checks 
+mmffo: checks 
+*** TURN *** [8h Js 3h] [3d]
+O-TiGreTon-O: checks 
+mmffo: bets $0.25
+O-TiGreTon-O: folds 
+Uncalled bet ($0.25) returned to mmffo
+mmffo collected $0.60 from pot
+mmffo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8h Js 3h 3d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne (button) folded before Flop (didn't bet)
+Seat 3: Farva500 (small blind) folded before Flop
+Seat 4: O-TiGreTon-O (big blind) folded on the Turn
+Seat 6: aeroslick folded before Flop (didn't bet)
+Seat 7: smkeens folded before Flop (didn't bet)
+Seat 8: mmffo collected ($0.60)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904704757:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:53:14 (ET)
+Table 'Luda III' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($4.25 in chips) 
+Seat 3: Farva500 ($14.30 in chips) 
+Seat 4: O-TiGreTon-O ($50.15 in chips) 
+Seat 6: aeroslick ($20 in chips) 
+Seat 7: smkeens ($25.20 in chips) 
+Seat 8: mmffo ($47.30 in chips) 
+Seat 9: k030101 ($24.65 in chips) 
+O-TiGreTon-O: posts small blind $0.10
+aeroslick: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Td]
+smkeens: folds 
+mmffo: folds 
+k030101: folds 
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+O-TiGreTon-O: folds 
+Uncalled bet ($0.15) returned to aeroslick
+aeroslick collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 (button) folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O (small blind) folded before Flop
+Seat 6: aeroslick (big blind) collected ($0.20)
+Seat 7: smkeens folded before Flop (didn't bet)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904712334:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:53:43 (ET)
+Table 'Luda III' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($4.25 in chips) 
+Seat 3: Farva500 ($14.30 in chips) 
+Seat 4: O-TiGreTon-O ($50.05 in chips) 
+Seat 6: aeroslick ($20.10 in chips) 
+Seat 7: smkeens ($25.20 in chips) 
+Seat 8: mmffo ($47.30 in chips) 
+Seat 9: k030101 ($24.65 in chips) 
+aeroslick: posts small blind $0.10
+smkeens: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Jc]
+mmffo: folds 
+mmffo leaves the table
+k030101: folds 
+Alameda22: folds 
+k030101 leaves the table
+ThannTheOne: folds 
+Farva500: folds 
+O-TiGreTon-O: folds 
+aeroslick: folds 
+Uncalled bet ($0.15) returned to smkeens
+smkeens collected $0.20 from pot
+smkeens: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O (button) folded before Flop (didn't bet)
+Seat 6: aeroslick (small blind) folded before Flop
+Seat 7: smkeens (big blind) collected ($0.20)
+Seat 8: mmffo folded before Flop (didn't bet)
+Seat 9: k030101 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19904720265:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:54:13 (ET)
+Table 'Luda III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($22.95 in chips) 
+Seat 2: ThannTheOne ($4.25 in chips) 
+Seat 3: Farva500 ($14.30 in chips) 
+Seat 4: O-TiGreTon-O ($50.05 in chips) 
+Seat 6: aeroslick ($20 in chips) 
+Seat 7: smkeens ($25.30 in chips) 
+smkeens: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 8s]
+ThannTheOne: folds 
+Farva500: folds 
+O-TiGreTon-O: folds 
+aeroslick: folds 
+smkeens: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+smkeens leaves the table
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 (big blind) collected ($0.20)
+Seat 2: ThannTheOne folded before Flop (didn't bet)
+Seat 3: Farva500 folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O folded before Flop (didn't bet)
+Seat 6: aeroslick (button) folded before Flop (didn't bet)
+Seat 7: smkeens (small blind) folded before Flop
+
+
+
+PokerStars Game #19904732476:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:55:00 (ET)
+Table 'Luda III' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($23.05 in chips) 
+Seat 2: ThannTheOne ($4.25 in chips) 
+Seat 3: Farva500 ($14.30 in chips) 
+Seat 4: O-TiGreTon-O ($50.05 in chips) 
+Seat 6: aeroslick ($20 in chips) 
+ThannTheOne: posts small blind $0.10
+Farva500: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 6c]
+O-TiGreTon-O: folds 
+aeroslick: raises $0.50 to $0.75
+Alameda22: folds 
+ThannTheOne: folds 
+Farva500: folds 
+Uncalled bet ($0.50) returned to aeroslick
+aeroslick collected $0.60 from pot
+Farva500 leaves the table
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: ThannTheOne (small blind) folded before Flop
+Seat 3: Farva500 (big blind) folded before Flop
+Seat 4: O-TiGreTon-O folded before Flop (didn't bet)
+Seat 6: aeroslick collected ($0.60)
+
+
+
+PokerStars Game #19904741095:  Hold'em No Limit ($0.10/$0.25) - 2008/08/26 - 00:55:34 (ET)
+Table 'Luda III' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($23.05 in chips) 
+Seat 2: ThannTheOne ($4.15 in chips) 
+Seat 4: O-TiGreTon-O ($50.05 in chips) 
+Seat 6: aeroslick ($20.35 in chips) 
+O-TiGreTon-O: posts small blind $0.10
+aeroslick: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 9d]
+Alameda22: folds 
+ThannTheOne: folds 
+O-TiGreTon-O: folds 
+Uncalled bet ($0.15) returned to aeroslick
+aeroslick collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: ThannTheOne (button) folded before Flop (didn't bet)
+Seat 4: O-TiGreTon-O (small blind) folded before Flop
+Seat 6: aeroslick (big blind) collected ($0.20)
+
+
+

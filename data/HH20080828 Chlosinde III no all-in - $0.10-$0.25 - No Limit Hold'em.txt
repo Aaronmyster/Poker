@@ -1,0 +1,94 @@
+PokerStars Game #19954529919:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 00:00:56 (ET)
+Table 'Chlosinde III' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($63.30 in chips) 
+Seat 2: paservant ($13.05 in chips) 
+Seat 3: RemcoB ($37.45 in chips) 
+Seat 4: Lachesis85 ($24.65 in chips) 
+Seat 5: DrFaustus30 ($9.20 in chips) 
+Seat 6: rainbow_J ($24.50 in chips) 
+Seat 7: LashMilliken ($7.05 in chips) 
+Seat 8: Superloopin ($26.50 in chips) 
+Seat 9: ginsb ($3 in chips) 
+rainbow_J: posts small blind $0.10
+LashMilliken: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh As]
+Superloopin: folds 
+ginsb: folds 
+Alameda22: raises $0.50 to $0.75
+paservant: folds 
+RemcoB: folds 
+Lachesis85: folds 
+DrFaustus30: folds 
+rainbow_J: raises $2 to $2.75
+LashMilliken: folds 
+Alameda22: folds 
+Uncalled bet ($2) returned to rainbow_J
+rainbow_J collected $1.75 from pot
+rainbow_J: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Alameda22 folded before Flop
+Seat 2: paservant folded before Flop (didn't bet)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 4: Lachesis85 folded before Flop (didn't bet)
+Seat 5: DrFaustus30 (button) folded before Flop (didn't bet)
+Seat 6: rainbow_J (small blind) collected ($1.75)
+Seat 7: LashMilliken (big blind) folded before Flop
+Seat 8: Superloopin folded before Flop (didn't bet)
+Seat 9: ginsb folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954547852:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 00:01:50 (ET)
+Table 'Chlosinde III' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($62.55 in chips) 
+Seat 2: paservant ($13.05 in chips) 
+Seat 3: RemcoB ($37.45 in chips) 
+Seat 4: Lachesis85 ($24.65 in chips) 
+Seat 5: DrFaustus30 ($9.20 in chips) 
+Seat 6: rainbow_J ($25.50 in chips) 
+Seat 7: LashMilliken ($6.80 in chips) 
+Seat 8: Superloopin ($26.50 in chips) 
+Seat 9: ginsb ($3 in chips) 
+LashMilliken: posts small blind $0.10
+Superloopin: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 7s]
+ginsb: calls $0.25
+Alameda22: folds 
+paservant: folds 
+RemcoB: folds 
+Lachesis85: folds 
+DrFaustus30: folds 
+rainbow_J: calls $0.25
+LashMilliken: folds 
+Superloopin: checks 
+*** FLOP *** [4h 7d 5d]
+Superloopin: checks 
+ginsb: bets $0.75
+rainbow_J: calls $0.75
+Superloopin: folds 
+*** TURN *** [4h 7d 5d] [2c]
+ginsb: bets $2 and is all-in
+rainbow_J: calls $2
+*** RIVER *** [4h 7d 5d 2c] [2s]
+*** SHOW DOWN ***
+ginsb: shows [3s Ac] (a straight, Ace to Five)
+rainbow_J: mucks hand 
+ginsb collected $6.05 from pot
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.30 
+Board [4h 7d 5d 2c 2s]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: paservant folded before Flop (didn't bet)
+Seat 3: RemcoB folded before Flop (didn't bet)
+Seat 4: Lachesis85 folded before Flop (didn't bet)
+Seat 5: DrFaustus30 folded before Flop (didn't bet)
+Seat 6: rainbow_J (button) mucked [Ad 9d]
+Seat 7: LashMilliken (small blind) folded before Flop
+Seat 8: Superloopin (big blind) folded on the Flop
+Seat 9: ginsb showed [3s Ac] and won ($6.05) with a straight, Ace to Five
+
+
+

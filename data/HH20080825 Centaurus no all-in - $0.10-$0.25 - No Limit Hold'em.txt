@@ -1,0 +1,791 @@
+PokerStars Game #19903435378:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:41:08 (ET)
+Table 'Centaurus' 9-max Seat #3 is the button
+Seat 1: Energizerbun ($24.75 in chips) 
+Seat 2: weepeel ($24.50 in chips) 
+Seat 3: jasc78 ($24.90 in chips) 
+Seat 4: tcb1418 ($22.50 in chips) 
+Seat 5: Alameda22 ($25 in chips) 
+Seat 6: LUCKYMONSTER ($24.65 in chips) 
+Seat 8: enright3060 ($24.25 in chips) 
+tcb1418: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 5h]
+LUCKYMONSTER: folds 
+enright3060: folds 
+Energizerbun: folds 
+weepeel: folds 
+jasc78: folds 
+tcb1418: calls $0.15
+Alameda22: checks 
+*** FLOP *** [5s Ks 6s]
+tcb1418: checks 
+Alameda22: bets $0.25
+tcb1418: calls $0.25
+*** TURN *** [5s Ks 6s] [2h]
+tcb1418: checks 
+Alameda22: checks 
+*** RIVER *** [5s Ks 6s 2h] [6c]
+mjh1 has returned
+tcb1418: checks 
+Alameda22: checks 
+*** SHOW DOWN ***
+tcb1418: shows [4c 8c] (a pair of Sixes)
+Alameda22: shows [Td 5h] (two pair, Sixes and Fives)
+Alameda22 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [5s Ks 6s 2h 6c]
+Seat 1: Energizerbun folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: jasc78 (button) folded before Flop (didn't bet)
+Seat 4: tcb1418 (small blind) showed [4c 8c] and lost with a pair of Sixes
+Seat 5: Alameda22 (big blind) showed [Td 5h] and won ($0.95) with two pair, Sixes and Fives
+Seat 6: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 8: enright3060 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903454927:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:42:08 (ET)
+Table 'Centaurus' 9-max Seat #4 is the button
+Seat 1: Energizerbun ($24.75 in chips) 
+Seat 2: weepeel ($24.50 in chips) 
+Seat 3: jasc78 ($24.90 in chips) 
+Seat 4: tcb1418 ($22 in chips) 
+Seat 5: Alameda22 ($25.45 in chips) 
+Seat 6: LUCKYMONSTER ($24.65 in chips) 
+Seat 7: mjh1 ($23.90 in chips) 
+Seat 8: enright3060 ($24.25 in chips) 
+Alameda22: posts small blind $0.10
+LUCKYMONSTER: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Tc]
+mjh1: raises $0.50 to $0.75
+enright3060: folds 
+Energizerbun: folds 
+weepeel: folds 
+jasc78: folds 
+tcb1418: folds 
+Alameda22: calls $0.65
+LUCKYMONSTER: calls $0.50
+*** FLOP *** [Kd 7s 8c]
+Alameda22: checks 
+LUCKYMONSTER: checks 
+mjh1: bets $1
+Alameda22: folds 
+LUCKYMONSTER: raises $2.50 to $3.50
+mjh1: folds 
+Uncalled bet ($2.50) returned to LUCKYMONSTER
+LUCKYMONSTER collected $4.05 from pot
+LUCKYMONSTER: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [Kd 7s 8c]
+Seat 1: Energizerbun folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: jasc78 folded before Flop (didn't bet)
+Seat 4: tcb1418 (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded on the Flop
+Seat 6: LUCKYMONSTER (big blind) collected ($4.05)
+Seat 7: mjh1 folded on the Flop
+Seat 8: enright3060 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903483369:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:43:34 (ET)
+Table 'Centaurus' 9-max Seat #5 is the button
+Seat 1: Energizerbun ($24.75 in chips) 
+Seat 2: weepeel ($24.50 in chips) 
+Seat 3: jasc78 ($24.90 in chips) 
+Seat 4: tcb1418 ($22 in chips) 
+Seat 5: Alameda22 ($24.70 in chips) 
+Seat 6: LUCKYMONSTER ($26.95 in chips) 
+Seat 7: mjh1 ($22.15 in chips) 
+Seat 8: enright3060 ($24.25 in chips) 
+LUCKYMONSTER: posts small blind $0.10
+mjh1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 6s]
+enright3060: folds 
+Energizerbun: folds 
+weepeel: folds 
+jasc78: folds 
+tcb1418: calls $0.25
+Alameda22: folds 
+LUCKYMONSTER: folds 
+mjh1: checks 
+*** FLOP *** [Qc Qd 5s]
+mjh1: checks 
+tcb1418: bets $0.50
+mjh1: folds 
+Uncalled bet ($0.50) returned to tcb1418
+tcb1418 collected $0.60 from pot
+tcb1418: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qc Qd 5s]
+Seat 1: Energizerbun folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: jasc78 folded before Flop (didn't bet)
+Seat 4: tcb1418 collected ($0.60)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: LUCKYMONSTER (small blind) folded before Flop
+Seat 7: mjh1 (big blind) folded on the Flop
+Seat 8: enright3060 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903496175:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:44:13 (ET)
+Table 'Centaurus' 9-max Seat #6 is the button
+Seat 1: Energizerbun ($24.75 in chips) 
+Seat 2: weepeel ($24.50 in chips) 
+Seat 3: jasc78 ($24.90 in chips) 
+Seat 4: tcb1418 ($22.35 in chips) 
+Seat 5: Alameda22 ($24.70 in chips) 
+Seat 6: LUCKYMONSTER ($26.85 in chips) 
+Seat 7: mjh1 ($21.90 in chips) 
+Seat 8: enright3060 ($24.25 in chips) 
+mjh1: posts small blind $0.10
+enright3060: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 8h]
+Energizerbun: folds 
+weepeel: folds 
+jasc78: calls $0.25
+tcb1418: raises $0.75 to $1
+Alameda22: folds 
+LUCKYMONSTER: folds 
+mjh1: folds 
+enright3060: folds 
+jasc78: calls $0.75
+*** FLOP *** [Qs Ks 8c]
+jasc78: checks 
+tcb1418: bets $1
+jasc78: folds 
+Uncalled bet ($1) returned to tcb1418
+tcb1418 collected $2.25 from pot
+tcb1418: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Qs Ks 8c]
+Seat 1: Energizerbun folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: jasc78 folded on the Flop
+Seat 4: tcb1418 collected ($2.25)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: LUCKYMONSTER (button) folded before Flop (didn't bet)
+Seat 7: mjh1 (small blind) folded before Flop
+Seat 8: enright3060 (big blind) folded before Flop
+
+
+
+PokerStars Game #19903514961:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:45:11 (ET)
+Table 'Centaurus' 9-max Seat #7 is the button
+Seat 1: Energizerbun ($24.75 in chips) 
+Seat 2: weepeel ($24.50 in chips) 
+Seat 3: jasc78 ($23.90 in chips) 
+Seat 4: tcb1418 ($23.60 in chips) 
+Seat 5: Alameda22 ($24.70 in chips) 
+Seat 6: LUCKYMONSTER ($26.85 in chips) 
+Seat 7: mjh1 ($21.80 in chips) 
+Seat 8: enright3060 ($24 in chips) 
+enright3060: posts small blind $0.10
+Energizerbun: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Tc]
+weepeel: folds 
+jasc78: folds 
+tcb1418: folds 
+Alameda22: folds 
+LUCKYMONSTER: folds 
+mjh1: folds 
+enright3060: folds 
+Uncalled bet ($0.15) returned to Energizerbun
+Energizerbun collected $0.20 from pot
+Energizerbun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Energizerbun (big blind) collected ($0.20)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: jasc78 folded before Flop (didn't bet)
+Seat 4: tcb1418 folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 7: mjh1 (button) folded before Flop (didn't bet)
+Seat 8: enright3060 (small blind) folded before Flop
+
+
+
+PokerStars Game #19903522436:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:45:34 (ET)
+Table 'Centaurus' 9-max Seat #8 is the button
+Seat 1: Energizerbun ($24.85 in chips) 
+Seat 2: weepeel ($24.50 in chips) 
+Seat 3: jasc78 ($23.90 in chips) 
+Seat 4: tcb1418 ($23.60 in chips) 
+Seat 5: Alameda22 ($24.70 in chips) 
+Seat 6: LUCKYMONSTER ($26.85 in chips) 
+Seat 7: mjh1 ($21.80 in chips) 
+Seat 8: enright3060 ($23.90 in chips) 
+Energizerbun: posts small blind $0.10
+weepeel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Js]
+jasc78: folds 
+tcb1418: folds 
+Alameda22: folds 
+LUCKYMONSTER: folds 
+mjh1: calls $0.25
+enright3060: folds 
+Energizerbun: calls $0.15
+weepeel: checks 
+*** FLOP *** [7d 3s Jc]
+Energizerbun: checks 
+weepeel: checks 
+mjh1: checks 
+*** TURN *** [7d 3s Jc] [6c]
+Energizerbun: checks 
+weepeel: checks 
+mjh1: checks 
+*** RIVER *** [7d 3s Jc 6c] [2c]
+Energizerbun: checks 
+weepeel: checks 
+mjh1: checks 
+*** SHOW DOWN ***
+Energizerbun: shows [Th 8h] (high card Jack)
+weepeel: shows [2s 4d] (a pair of Deuces)
+mjh1: mucks hand 
+weepeel collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [7d 3s Jc 6c 2c]
+Seat 1: Energizerbun (small blind) showed [Th 8h] and lost with high card Jack
+Seat 2: weepeel (big blind) showed [2s 4d] and won ($0.75) with a pair of Deuces
+Seat 3: jasc78 folded before Flop (didn't bet)
+Seat 4: tcb1418 folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 7: mjh1 mucked [Qd 8d]
+Seat 8: enright3060 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903545447:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:46:45 (ET)
+Table 'Centaurus' 9-max Seat #1 is the button
+Seat 1: Energizerbun ($24.60 in chips) 
+Seat 2: weepeel ($25 in chips) 
+Seat 3: jasc78 ($23.90 in chips) 
+Seat 4: tcb1418 ($23.60 in chips) 
+Seat 5: Alameda22 ($24.70 in chips) 
+Seat 6: LUCKYMONSTER ($26.85 in chips) 
+Seat 7: mjh1 ($21.55 in chips) 
+Seat 8: enright3060 ($23.90 in chips) 
+weepeel: posts small blind $0.10
+jasc78: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 3d]
+tcb1418: raises $0.50 to $0.75
+Alameda22: folds 
+LUCKYMONSTER: folds 
+mjh1: folds 
+enright3060: folds 
+Energizerbun: folds 
+weepeel: folds 
+jasc78: calls $0.50
+*** FLOP *** [2h Ks Qd]
+jasc78: checks 
+tcb1418: bets $0.75
+Zorrog was removed from the table for failing to post
+jasc78: folds 
+Uncalled bet ($0.75) returned to tcb1418
+tcb1418 collected $1.55 from pot
+tcb1418: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [2h Ks Qd]
+Seat 1: Energizerbun (button) folded before Flop (didn't bet)
+Seat 2: weepeel (small blind) folded before Flop
+Seat 3: jasc78 (big blind) folded on the Flop
+Seat 4: tcb1418 collected ($1.55)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 7: mjh1 folded before Flop (didn't bet)
+Seat 8: enright3060 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903568062:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:47:55 (ET)
+Table 'Centaurus' 9-max Seat #2 is the button
+Seat 1: Energizerbun ($24.60 in chips) 
+Seat 2: weepeel ($24.90 in chips) 
+Seat 3: jasc78 ($23.15 in chips) 
+Seat 4: tcb1418 ($24.40 in chips) 
+Seat 5: Alameda22 ($24.70 in chips) 
+Seat 6: LUCKYMONSTER ($26.85 in chips) 
+Seat 7: mjh1 ($21.55 in chips) 
+Seat 8: enright3060 ($23.90 in chips) 
+jasc78: posts small blind $0.10
+tcb1418: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 5d]
+Alameda22: folds 
+LUCKYMONSTER: folds 
+mjh1: calls $0.25
+enright3060: folds 
+Energizerbun: folds 
+weepeel: calls $0.25
+jasc78: folds 
+tcb1418: checks 
+*** FLOP *** [5s 7h Js]
+tcb1418: checks 
+mjh1: bets $0.50
+weepeel: folds 
+szil79 joins the table at seat #9 
+tcb1418: folds 
+Uncalled bet ($0.50) returned to mjh1
+mjh1 collected $0.85 from pot
+mjh1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [5s 7h Js]
+Seat 1: Energizerbun folded before Flop (didn't bet)
+Seat 2: weepeel (button) folded on the Flop
+Seat 3: jasc78 (small blind) folded before Flop
+Seat 4: tcb1418 (big blind) folded on the Flop
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 7: mjh1 collected ($0.85)
+Seat 8: enright3060 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903586017:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:48:50 (ET)
+Table 'Centaurus' 9-max Seat #3 is the button
+Seat 1: Energizerbun ($24.60 in chips) 
+Seat 2: weepeel ($24.65 in chips) 
+Seat 3: jasc78 ($23.05 in chips) 
+Seat 4: tcb1418 ($24.15 in chips) 
+Seat 5: Alameda22 ($24.70 in chips) 
+Seat 6: LUCKYMONSTER ($26.85 in chips) 
+Seat 7: mjh1 ($22.15 in chips) 
+Seat 8: enright3060 ($23.90 in chips) 
+tcb1418: posts small blind $0.10
+Alameda22: posts big blind $0.25
+szil79: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 7d]
+LUCKYMONSTER: folds 
+mjh1: folds 
+enright3060: folds 
+Energizerbun: folds 
+weepeel: folds 
+jasc78: calls $0.25
+tcb1418: raises $0.50 to $0.75
+Alameda22: folds 
+jasc78: calls $0.50
+*** FLOP *** [Kd Kc As]
+tcb1418: bets $0.75
+jasc78: folds 
+Uncalled bet ($0.75) returned to tcb1418
+tcb1418 collected $1.70 from pot
+tcb1418: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Kd Kc As]
+Seat 1: Energizerbun folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: jasc78 (button) folded on the Flop
+Seat 4: tcb1418 (small blind) collected ($1.70)
+Seat 5: Alameda22 (big blind) folded before Flop
+Seat 6: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 7: mjh1 folded before Flop (didn't bet)
+Seat 8: enright3060 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903609491:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:50:04 (ET)
+Table 'Centaurus' 9-max Seat #4 is the button
+Seat 1: Energizerbun ($24.60 in chips) 
+Seat 2: weepeel ($24.65 in chips) 
+Seat 3: jasc78 ($22.30 in chips) 
+Seat 4: tcb1418 ($25.10 in chips) 
+Seat 5: Alameda22 ($24.45 in chips) 
+Seat 6: LUCKYMONSTER ($26.85 in chips) 
+Seat 7: mjh1 ($22.15 in chips) 
+Seat 8: enright3060 ($23.90 in chips) 
+Alameda22: posts small blind $0.10
+LUCKYMONSTER: posts big blind $0.25
+szil79: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Jc]
+mjh1: calls $0.25
+enright3060: calls $0.25
+Energizerbun: folds 
+weepeel: calls $0.25
+jasc78: folds 
+tcb1418: calls $0.25
+Alameda22: folds 
+LUCKYMONSTER: checks 
+*** FLOP *** [3c 5h 9d]
+LUCKYMONSTER: checks 
+mjh1: bets $0.50
+enright3060: folds 
+weepeel: folds 
+tcb1418: calls $0.50
+LUCKYMONSTER: calls $0.50
+*** TURN *** [3c 5h 9d] [5s]
+LUCKYMONSTER: checks 
+mjh1: bets $1
+tcb1418: folds 
+LUCKYMONSTER: folds 
+Uncalled bet ($1) returned to mjh1
+mjh1 collected $2.75 from pot
+mjh1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [3c 5h 9d 5s]
+Seat 1: Energizerbun folded before Flop (didn't bet)
+Seat 2: weepeel folded on the Flop
+Seat 3: jasc78 folded before Flop (didn't bet)
+Seat 4: tcb1418 (button) folded on the Turn
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 6: LUCKYMONSTER (big blind) folded on the Turn
+Seat 7: mjh1 collected ($2.75)
+Seat 8: enright3060 folded on the Flop
+
+
+
+PokerStars Game #19903642324:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:51:47 (ET)
+Table 'Centaurus' 9-max Seat #5 is the button
+Seat 1: Energizerbun ($24.60 in chips) 
+Seat 2: weepeel ($24.40 in chips) 
+Seat 3: jasc78 ($22.30 in chips) 
+Seat 4: tcb1418 ($24.35 in chips) 
+Seat 5: Alameda22 ($24.35 in chips) 
+Seat 6: LUCKYMONSTER ($26.10 in chips) 
+Seat 7: mjh1 ($24.15 in chips) 
+Seat 8: enright3060 ($23.65 in chips) 
+LUCKYMONSTER: posts small blind $0.10
+mjh1: posts big blind $0.25
+szil79: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Js]
+enright3060: folds 
+Energizerbun: folds 
+weepeel: folds 
+jasc78: folds 
+tcb1418: folds 
+Alameda22: folds 
+LUCKYMONSTER: folds 
+Uncalled bet ($0.15) returned to mjh1
+mjh1 collected $0.20 from pot
+mjh1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Energizerbun folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: jasc78 folded before Flop (didn't bet)
+Seat 4: tcb1418 folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: LUCKYMONSTER (small blind) folded before Flop
+Seat 7: mjh1 (big blind) collected ($0.20)
+Seat 8: enright3060 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903659757:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:52:43 (ET)
+Table 'Centaurus' 9-max Seat #6 is the button
+Seat 1: Energizerbun ($24.60 in chips) 
+Seat 2: weepeel ($24.40 in chips) 
+Seat 3: jasc78 ($22.30 in chips) 
+Seat 4: tcb1418 ($24.35 in chips) 
+Seat 5: Alameda22 ($24.35 in chips) 
+Seat 6: LUCKYMONSTER ($26 in chips) 
+Seat 7: mjh1 ($24.25 in chips) 
+Seat 8: enright3060 ($23.65 in chips) 
+mjh1: posts small blind $0.10
+enright3060: posts big blind $0.25
+szil79: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Ks]
+Energizerbun: folds 
+weepeel: folds 
+jasc78: raises $0.25 to $0.50
+tcb1418: folds 
+Alameda22: folds 
+LUCKYMONSTER: folds 
+mjh1: calls $0.40
+enright3060: folds 
+*** FLOP *** [Qd 8c 7s]
+mjh1: bets $0.50
+jasc78: calls $0.50
+*** TURN *** [Qd 8c 7s] [7c]
+mjh1: checks 
+jasc78: checks 
+*** RIVER *** [Qd 8c 7s 7c] [2s]
+mjh1: checks 
+jasc78: checks 
+*** SHOW DOWN ***
+mjh1: shows [Td 8h] (two pair, Eights and Sevens)
+jasc78: mucks hand 
+mjh1 collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Qd 8c 7s 7c 2s]
+Seat 1: Energizerbun folded before Flop (didn't bet)
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: jasc78 mucked [Kc Ah]
+Seat 4: tcb1418 folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: LUCKYMONSTER (button) folded before Flop (didn't bet)
+Seat 7: mjh1 (small blind) showed [Td 8h] and won ($2.15) with two pair, Eights and Sevens
+Seat 8: enright3060 (big blind) folded before Flop
+
+
+
+PokerStars Game #19903692199:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:54:25 (ET)
+Table 'Centaurus' 9-max Seat #7 is the button
+Seat 1: Energizerbun ($24.60 in chips) 
+Seat 2: weepeel ($24.40 in chips) 
+Seat 3: jasc78 ($21.30 in chips) 
+Seat 4: tcb1418 ($24.35 in chips) 
+Seat 5: Alameda22 ($24.35 in chips) 
+Seat 6: LUCKYMONSTER ($26 in chips) 
+Seat 7: mjh1 ($25.40 in chips) 
+Seat 8: enright3060 ($23.40 in chips) 
+Seat 9: szil79 ($25 in chips) 
+enright3060: posts small blind $0.10
+szil79: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Th]
+Energizerbun: calls $0.25
+weepeel: folds 
+jasc78: calls $0.25
+tcb1418: folds 
+Alameda22: folds 
+LUCKYMONSTER: folds 
+mjh1: calls $0.25
+enright3060: raises $0.75 to $1
+szil79: folds 
+Energizerbun: calls $0.75
+jasc78: calls $0.75
+mjh1: calls $0.75
+*** FLOP *** [8h Qs 4d]
+enright3060: checks 
+Energizerbun: checks 
+jasc78: bets $1
+mjh1: folds 
+enright3060: calls $1
+Energizerbun: folds 
+*** TURN *** [8h Qs 4d] [Qc]
+enright3060: checks 
+jasc78: bets $1.25
+enright3060: calls $1.25
+*** RIVER *** [8h Qs 4d Qc] [Ad]
+enright3060: checks 
+jasc78: bets $1.50
+enright3060: calls $1.50
+*** SHOW DOWN ***
+jasc78: shows [Tc Qd] (three of a kind, Queens)
+enright3060: mucks hand 
+jasc78 collected $11.20 from pot
+*** SUMMARY ***
+Total pot $11.75 | Rake $0.55 
+Board [8h Qs 4d Qc Ad]
+Seat 1: Energizerbun folded on the Flop
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: jasc78 showed [Tc Qd] and won ($11.20) with three of a kind, Queens
+Seat 4: tcb1418 folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 7: mjh1 (button) folded on the Flop
+Seat 8: enright3060 (small blind) mucked [Jd Jh]
+Seat 9: szil79 (big blind) folded before Flop
+
+
+
+PokerStars Game #19903733790:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:56:38 (ET)
+Table 'Centaurus' 9-max Seat #8 is the button
+Seat 1: Energizerbun ($23.60 in chips) 
+Seat 2: weepeel ($24.40 in chips) 
+Seat 3: jasc78 ($27.75 in chips) 
+Seat 4: tcb1418 ($24.35 in chips) 
+Seat 5: Alameda22 ($24.35 in chips) 
+Seat 6: LUCKYMONSTER ($26 in chips) 
+Seat 7: mjh1 ($24.40 in chips) 
+Seat 8: enright3060 ($18.65 in chips) 
+Seat 9: szil79 ($24.75 in chips) 
+szil79: posts small blind $0.10
+Energizerbun: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 5c]
+weepeel: folds 
+jasc78: folds 
+tcb1418: raises $0.50 to $0.75
+Alameda22: folds 
+LUCKYMONSTER: folds 
+mjh1: folds 
+enright3060: folds 
+szil79: folds 
+Energizerbun: folds 
+Uncalled bet ($0.50) returned to tcb1418
+tcb1418 collected $0.60 from pot
+tcb1418: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Energizerbun (big blind) folded before Flop
+Seat 2: weepeel folded before Flop (didn't bet)
+Seat 3: jasc78 folded before Flop (didn't bet)
+Seat 4: tcb1418 collected ($0.60)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 7: mjh1 folded before Flop (didn't bet)
+Seat 8: enright3060 (button) folded before Flop (didn't bet)
+Seat 9: szil79 (small blind) folded before Flop
+
+
+
+PokerStars Game #19903751291:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:57:34 (ET)
+Table 'Centaurus' 9-max Seat #9 is the button
+Seat 1: Energizerbun ($23.35 in chips) 
+Seat 2: weepeel ($24.40 in chips) 
+Seat 3: jasc78 ($27.75 in chips) 
+Seat 4: tcb1418 ($24.70 in chips) 
+Seat 5: Alameda22 ($24.35 in chips) 
+Seat 6: LUCKYMONSTER ($26 in chips) 
+Seat 7: mjh1 ($24.40 in chips) 
+Seat 8: enright3060 ($18.65 in chips) 
+Seat 9: szil79 ($24.65 in chips) 
+Energizerbun: posts small blind $0.10
+weepeel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Qd]
+jasc78: calls $0.25
+tcb1418: folds 
+Alameda22: raises $0.75 to $1
+LUCKYMONSTER: folds 
+mjh1: folds 
+enright3060: calls $1
+szil79: folds 
+Energizerbun: folds 
+weepeel: folds 
+jasc78: calls $0.75
+*** FLOP *** [Tc Ad 8c]
+jasc78: checks 
+Alameda22: bets $2
+enright3060: raises $2 to $4
+jasc78: folds 
+Alameda22: folds 
+Uncalled bet ($2) returned to enright3060
+enright3060 collected $7 from pot
+*** SUMMARY ***
+Total pot $7.35 | Rake $0.35 
+Board [Tc Ad 8c]
+Seat 1: Energizerbun (small blind) folded before Flop
+Seat 2: weepeel (big blind) folded before Flop
+Seat 3: jasc78 folded on the Flop
+Seat 4: tcb1418 folded before Flop (didn't bet)
+Seat 5: Alameda22 folded on the Flop
+Seat 6: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 7: mjh1 folded before Flop (didn't bet)
+Seat 8: enright3060 collected ($7)
+Seat 9: szil79 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903773947:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:58:48 (ET)
+Table 'Centaurus' 9-max Seat #1 is the button
+Seat 1: Energizerbun ($23.25 in chips) 
+Seat 2: weepeel ($24.15 in chips) 
+Seat 3: jasc78 ($26.75 in chips) 
+Seat 4: tcb1418 ($24.70 in chips) 
+Seat 5: Alameda22 ($21.35 in chips) 
+Seat 6: LUCKYMONSTER ($26 in chips) 
+Seat 7: mjh1 ($24.40 in chips) 
+Seat 8: enright3060 ($22.65 in chips) 
+Seat 9: szil79 ($24.65 in chips) 
+weepeel: posts small blind $0.10
+jasc78: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Kh]
+tcb1418: folds 
+Alameda22: folds 
+LUCKYMONSTER: folds 
+mjh1: folds 
+enright3060: folds 
+szil79: folds 
+Energizerbun: raises $0.75 to $1
+weepeel: folds 
+jasc78: folds 
+Uncalled bet ($0.75) returned to Energizerbun
+Energizerbun collected $0.60 from pot
+Energizerbun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Energizerbun (button) collected ($0.60)
+Seat 2: weepeel (small blind) folded before Flop
+Seat 3: jasc78 (big blind) folded before Flop
+Seat 4: tcb1418 folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 7: mjh1 folded before Flop (didn't bet)
+Seat 8: enright3060 folded before Flop (didn't bet)
+Seat 9: szil79 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903793399:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:59:51 (ET)
+Table 'Centaurus' 9-max Seat #2 is the button
+Seat 1: Energizerbun ($23.60 in chips) 
+Seat 2: weepeel ($24.05 in chips) 
+Seat 3: jasc78 ($26.50 in chips) 
+Seat 4: tcb1418 ($24.70 in chips) 
+Seat 5: Alameda22 ($21.35 in chips) 
+Seat 6: LUCKYMONSTER ($26 in chips) 
+Seat 7: mjh1 ($24.40 in chips) 
+Seat 8: enright3060 ($22.65 in chips) 
+Seat 9: szil79 ($24.65 in chips) 
+jasc78: posts small blind $0.10
+tcb1418: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Th]
+Alameda22: folds 
+LUCKYMONSTER: folds 
+mjh1: calls $0.25
+enright3060: folds 
+szil79: folds 
+Energizerbun: folds 
+weepeel: calls $0.25
+jasc78: calls $0.15
+tcb1418: checks 
+*** FLOP *** [6h Qc 2c]
+jasc78: checks 
+tcb1418: checks 
+mjh1: checks 
+weepeel: bets $0.75
+jasc78: folds 
+tcb1418: folds 
+mjh1: calls $0.75
+*** TURN *** [6h Qc 2c] [Jc]
+mjh1: checks 
+weepeel: checks 
+*** RIVER *** [6h Qc 2c Jc] [8d]
+mjh1: bets $1.25
+weepeel: folds 
+Uncalled bet ($1.25) returned to mjh1
+mjh1 collected $2.40 from pot
+mjh1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [6h Qc 2c Jc 8d]
+Seat 1: Energizerbun folded before Flop (didn't bet)
+Seat 2: weepeel (button) folded on the River
+Seat 3: jasc78 (small blind) folded on the Flop
+Seat 4: tcb1418 (big blind) folded on the Flop
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 7: mjh1 collected ($2.40)
+Seat 8: enright3060 folded before Flop (didn't bet)
+Seat 9: szil79 folded before Flop (didn't bet)
+
+
+

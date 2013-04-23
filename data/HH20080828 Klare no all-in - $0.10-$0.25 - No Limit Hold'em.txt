@@ -1,0 +1,1439 @@
+PokerStars Game #19972208628:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:59:30 (ET)
+Table 'Klare' 9-max Seat #8 is the button
+Seat 1: leits ($28.65 in chips) 
+Seat 2: Alameda22 ($25 in chips) 
+Seat 3: secondbest ($55.45 in chips) 
+Seat 4: sydre ($4.35 in chips) 
+Seat 5: CrazyWizzy ($2.50 in chips) 
+Seat 6: RFKFREAK ($46 in chips) 
+Seat 7: jbdb3 ($25.40 in chips) 
+Seat 8: ld788 ($43.55 in chips) 
+fissil will be allowed to play after the button
+leits: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Js]
+secondbest: folds 
+sydre: calls $0.25
+CrazyWizzy: calls $0.25
+sydre said, "go"
+RFKFREAK: folds 
+jbdb3: folds 
+ld788: calls $0.25
+leits: folds 
+Alameda22: checks 
+*** FLOP *** [6h 7c 2h]
+Alameda22: checks 
+sydre: checks 
+CrazyWizzy: checks 
+sydre said, "go"
+ld788: bets $0.75
+Alameda22: folds 
+sydre: calls $0.75
+CrazyWizzy: folds 
+*** TURN *** [6h 7c 2h] [9s]
+sydre: bets $0.50
+ld788: calls $0.50
+*** RIVER *** [6h 7c 2h 9s] [9d]
+sydre: checks 
+ld788: checks 
+*** SHOW DOWN ***
+sydre: shows [3h 2d] (two pair, Nines and Deuces)
+ld788: shows [7h 8h] (two pair, Nines and Sevens)
+ld788 collected $3.45 from pot
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.15 
+Board [6h 7c 2h 9s 9d]
+Seat 1: leits (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded on the Flop
+Seat 3: secondbest folded before Flop (didn't bet)
+Seat 4: sydre showed [3h 2d] and lost with two pair, Nines and Deuces
+Seat 5: CrazyWizzy folded on the Flop
+Seat 6: RFKFREAK folded before Flop (didn't bet)
+Seat 7: jbdb3 folded before Flop (didn't bet)
+Seat 8: ld788 (button) showed [7h 8h] and won ($3.45) with two pair, Nines and Sevens
+
+
+
+PokerStars Game #19972254245:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:01:22 (ET)
+Table 'Klare' 9-max Seat #1 is the button
+Seat 1: leits ($28.55 in chips) 
+Seat 2: Alameda22 ($24.75 in chips) 
+Seat 4: sydre ($2.85 in chips) 
+Seat 5: CrazyWizzy ($2.25 in chips) 
+Seat 6: RFKFREAK ($46 in chips) 
+Seat 7: jbdb3 ($25.40 in chips) 
+Seat 8: ld788 ($45.50 in chips) 
+Alameda22: posts small blind $0.10
+secondbest: is sitting out 
+sydre: posts big blind $0.25
+secondbest leaves the table
+fissil: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 8c]
+Faraon777 joins the table at seat #3 
+CrazyWizzy: calls $0.25
+RFKFREAK: folds 
+jbdb3: folds 
+ld788: folds 
+leits: folds 
+Alameda22: folds 
+sydre: checks 
+*** FLOP *** [4h 9d 9h]
+sydre: checks 
+CrazyWizzy: bets $2 and is all-in
+sydre: calls $2
+*** TURN *** [4h 9d 9h] [Kd]
+*** RIVER *** [4h 9d 9h Kd] [2s]
+*** SHOW DOWN ***
+sydre: shows [7d 9c] (three of a kind, Nines)
+CrazyWizzy: mucks hand 
+sydre collected $4.40 from pot
+CrazyWizzy leaves the table
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.20 
+Board [4h 9d 9h Kd 2s]
+Seat 1: leits (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 4: sydre (big blind) showed [7d 9c] and won ($4.40) with three of a kind, Nines
+Seat 5: CrazyWizzy mucked [Kh Qd]
+Seat 6: RFKFREAK folded before Flop (didn't bet)
+Seat 7: jbdb3 folded before Flop (didn't bet)
+Seat 8: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972279190:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:02:25 (ET)
+Table 'Klare' 9-max Seat #2 is the button
+Seat 1: leits ($28.55 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 4: sydre ($5 in chips) 
+Seat 6: RFKFREAK ($46 in chips) 
+Seat 7: jbdb3 ($25.40 in chips) 
+Seat 8: ld788 ($45.50 in chips) 
+Faraon777 will be allowed to play after the button
+sydre: posts small blind $0.10
+RFKFREAK: posts big blind $0.25
+fissil: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Td]
+Thomkru joins the table at seat #5 
+jbdb3: folds 
+ld788: folds 
+leits: folds 
+Alameda22: folds 
+sydre: calls $0.15
+RFKFREAK: raises $4.75 to $5
+sydre: folds 
+Uncalled bet ($4.75) returned to RFKFREAK
+RFKFREAK collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: leits folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: sydre (small blind) folded before Flop
+Seat 6: RFKFREAK (big blind) collected ($0.50)
+Seat 7: jbdb3 folded before Flop (didn't bet)
+Seat 8: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972298662:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:03:13 (ET)
+Table 'Klare' 9-max Seat #4 is the button
+Seat 1: leits ($28.55 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 4: sydre ($4.75 in chips) 
+Seat 6: RFKFREAK ($46.25 in chips) 
+Seat 7: jbdb3 ($25.40 in chips) 
+Seat 8: ld788 ($45.50 in chips) 
+Thomkru will be allowed to play after the button
+RFKFREAK: posts small blind $0.10
+jbdb3: posts big blind $0.25
+fissil: sits out 
+Faraon777: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 8d]
+ld788: folds 
+ld788 is sitting out
+leits: folds 
+Alameda22: folds 
+sydre: calls $0.25
+RFKFREAK: calls $0.15
+jbdb3: checks 
+*** FLOP *** [5s Ks 2c]
+RFKFREAK: checks 
+jbdb3: checks 
+sydre: checks 
+*** TURN *** [5s Ks 2c] [As]
+RFKFREAK: checks 
+jbdb3: checks 
+sydre: bets $1
+RFKFREAK: folds 
+sydre said, "lol"
+jbdb3: folds 
+Uncalled bet ($1) returned to sydre
+sydre collected $0.75 from pot
+sydre: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [5s Ks 2c As]
+Seat 1: leits folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: sydre (button) collected ($0.75)
+Seat 6: RFKFREAK (small blind) folded on the Turn
+Seat 7: jbdb3 (big blind) folded on the Turn
+Seat 8: ld788 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972340563:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:04:58 (ET)
+Table 'Klare' 9-max Seat #6 is the button
+Seat 1: leits ($28.55 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 4: sydre ($5.25 in chips) 
+Seat 6: RFKFREAK ($46 in chips) 
+Seat 7: jbdb3 ($25.15 in chips) 
+Seat 9: fissil ($25 in chips) 
+jbdb3: posts small blind $0.10
+fissil: posts big blind $0.25
+Faraon777: sits out 
+Thomkru: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 5s]
+leits: folds 
+Alameda22: folds 
+sydre: calls $0.25
+RFKFREAK: folds 
+jbdb3: folds 
+fissil: checks 
+*** FLOP *** [8h 4s 2s]
+fissil: checks 
+sydre: bets $0.50
+fissil: folds 
+Uncalled bet ($0.50) returned to sydre
+sydre collected $0.60 from pot
+sydre: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8h 4s 2s]
+Seat 1: leits folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: sydre collected ($0.60)
+Seat 6: RFKFREAK (button) folded before Flop (didn't bet)
+Seat 7: jbdb3 (small blind) folded before Flop
+Seat 9: fissil (big blind) folded on the Flop
+
+
+
+PokerStars Game #19972368645:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:06:08 (ET)
+Table 'Klare' 9-max Seat #7 is the button
+Seat 1: leits ($28.55 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 4: sydre ($5.60 in chips) 
+Seat 6: RFKFREAK ($46 in chips) 
+Seat 7: jbdb3 ($25.05 in chips) 
+Seat 9: fissil ($24.75 in chips) 
+fissil: posts small blind $0.10
+leits: posts big blind $0.25
+Faraon777: sits out 
+Thomkru: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 9s]
+Alameda22: folds 
+sydre: calls $0.25
+RFKFREAK: folds 
+jbdb3: folds 
+fissil: calls $0.15
+leits: checks 
+*** FLOP *** [Kh Th Kd]
+fissil: checks 
+leits: checks 
+sydre: checks 
+*** TURN *** [Kh Th Kd] [5c]
+fissil: checks 
+leits: checks 
+sydre: bets $0.50
+fissil: folds 
+leits: folds 
+Uncalled bet ($0.50) returned to sydre
+sydre collected $0.75 from pot
+sydre: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Kh Th Kd 5c]
+Seat 1: leits (big blind) folded on the Turn
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: sydre collected ($0.75)
+Seat 6: RFKFREAK folded before Flop (didn't bet)
+Seat 7: jbdb3 (button) folded before Flop (didn't bet)
+Seat 9: fissil (small blind) folded on the Turn
+
+
+
+PokerStars Game #19972399053:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:07:24 (ET)
+Table 'Klare' 9-max Seat #9 is the button
+Seat 1: leits ($28.30 in chips) 
+Seat 2: Alameda22 ($24.65 in chips) 
+Seat 4: sydre ($6.10 in chips) 
+Seat 6: RFKFREAK ($46 in chips) 
+Seat 7: jbdb3 ($25.05 in chips) 
+Seat 9: fissil ($24.50 in chips) 
+leits: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Faraon777: sits out 
+Thomkru: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 4s]
+sydre: calls $0.25
+RFKFREAK: raises $0.75 to $1
+jbdb3: folds 
+fissil: folds 
+leits: folds 
+Alameda22: folds 
+sydre: calls $0.75
+*** FLOP *** [5d 4c Kd]
+sydre: bets $0.50
+sydre said, "go"
+RFKFREAK: raises $1 to $1.50
+sydre: calls $1
+*** TURN *** [5d 4c Kd] [Jh]
+sydre: checks 
+RFKFREAK: checks 
+*** RIVER *** [5d 4c Kd Jh] [4d]
+sydre: bets $3.60 and is all-in
+RFKFREAK: folds 
+Uncalled bet ($3.60) returned to sydre
+sydre collected $5.10 from pot
+sydre: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [5d 4c Kd Jh 4d]
+Seat 1: leits (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 4: sydre collected ($5.10)
+Seat 6: RFKFREAK folded on the River
+Seat 7: jbdb3 folded before Flop (didn't bet)
+Seat 9: fissil (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972445721:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:09:21 (ET)
+Table 'Klare' 9-max Seat #1 is the button
+Seat 1: leits ($28.20 in chips) 
+Seat 2: Alameda22 ($24.40 in chips) 
+Seat 3: Faraon777 ($25 in chips) 
+Seat 4: sydre ($8.70 in chips) 
+Seat 6: RFKFREAK ($43.50 in chips) 
+Seat 7: jbdb3 ($25.05 in chips) 
+Seat 9: fissil ($25 in chips) 
+Alameda22: posts small blind $0.10
+Faraon777: posts big blind $0.25
+Thomkru: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 9c]
+sydre: calls $0.25
+RFKFREAK: raises $0.75 to $1
+jbdb3: folds 
+fissil: folds 
+leits: folds 
+Alameda22: folds 
+Faraon777: folds 
+sydre: calls $0.75
+*** FLOP *** [Th Kd 3d]
+sydre: checks 
+RFKFREAK: bets $1.50
+sydre: calls $1.50
+*** TURN *** [Th Kd 3d] [Ac]
+sydre: bets $1
+RFKFREAK: folds 
+Uncalled bet ($1) returned to sydre
+sydre collected $5.10 from pot
+sydre: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [Th Kd 3d Ac]
+Seat 1: leits (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Faraon777 (big blind) folded before Flop
+Seat 4: sydre collected ($5.10)
+Seat 6: RFKFREAK folded on the Turn
+Seat 7: jbdb3 folded before Flop (didn't bet)
+Seat 9: fissil folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972478132:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:10:43 (ET)
+Table 'Klare' 9-max Seat #2 is the button
+Seat 1: leits ($28.20 in chips) 
+Seat 2: Alameda22 ($24.30 in chips) 
+Seat 3: Faraon777 ($25 in chips) 
+Seat 4: sydre ($11.30 in chips) 
+Seat 6: RFKFREAK ($41 in chips) 
+Seat 7: jbdb3 ($25.05 in chips) 
+Seat 9: fissil ($25 in chips) 
+Faraon777: posts small blind $0.10
+sydre: posts big blind $0.25
+Thomkru: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 7s]
+RFKFREAK: folds 
+jbdb3: folds 
+fissil: folds 
+leits: folds 
+Alameda22: folds 
+Faraon777: folds 
+Uncalled bet ($0.15) returned to sydre
+sydre collected $0.20 from pot
+sydre: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: leits folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Faraon777 (small blind) folded before Flop
+Seat 4: sydre (big blind) collected ($0.20)
+Seat 6: RFKFREAK folded before Flop (didn't bet)
+Seat 7: jbdb3 folded before Flop (didn't bet)
+Seat 9: fissil folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972490651:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:11:14 (ET)
+Table 'Klare' 9-max Seat #3 is the button
+Seat 1: leits ($28.20 in chips) 
+Seat 2: Alameda22 ($24.30 in chips) 
+Seat 3: Faraon777 ($25 in chips) 
+Seat 4: sydre ($11.40 in chips) 
+Seat 5: Thomkru ($5 in chips) 
+Seat 6: RFKFREAK ($41 in chips) 
+Seat 7: jbdb3 ($25.05 in chips) 
+Seat 9: fissil ($25 in chips) 
+sydre: posts small blind $0.10
+Thomkru: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Qd]
+RFKFREAK: folds 
+jbdb3: folds 
+fissil: folds 
+leits: raises $0.75 to $1
+Alameda22: folds 
+Faraon777: folds 
+sydre: calls $0.90
+Thomkru: folds 
+*** FLOP *** [3h 9d Qc]
+sydre: checks 
+leits: bets $1.75
+sydre: calls $1.75
+*** TURN *** [3h 9d Qc] [4s]
+sydre: bets $2
+leits: calls $2
+*** RIVER *** [3h 9d Qc 4s] [2d]
+sydre: checks 
+leits: checks 
+*** SHOW DOWN ***
+sydre: shows [Jc 3c] (a pair of Threes)
+leits: mucks hand 
+sydre collected $9.30 from pot
+leits said, "omfg"
+*** SUMMARY ***
+Total pot $9.75 | Rake $0.45 
+Board [3h 9d Qc 4s 2d]
+Seat 1: leits mucked [Ad Kc]
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Faraon777 (button) folded before Flop (didn't bet)
+Seat 4: sydre (small blind) showed [Jc 3c] and won ($9.30) with a pair of Threes
+Seat 5: Thomkru (big blind) folded before Flop
+Seat 6: RFKFREAK folded before Flop (didn't bet)
+Seat 7: jbdb3 folded before Flop (didn't bet)
+Seat 9: fissil folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972532142:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:13:00 (ET)
+Table 'Klare' 9-max Seat #4 is the button
+Seat 1: leits ($23.45 in chips) 
+Seat 2: Alameda22 ($24.30 in chips) 
+Seat 3: Faraon777 ($25 in chips) 
+Seat 4: sydre ($15.95 in chips) 
+Seat 5: Thomkru ($4.75 in chips) 
+Seat 6: RFKFREAK ($41 in chips) 
+Seat 7: jbdb3 ($25.05 in chips) 
+Seat 9: fissil ($25 in chips) 
+Thomkru: posts small blind $0.10
+RFKFREAK: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Td]
+jbdb3: folds 
+fissil: raises $0.25 to $0.50
+leits: folds 
+Alameda22: folds 
+Faraon777: folds 
+sydre: calls $0.50
+Thomkru: folds 
+RFKFREAK: calls $0.25
+*** FLOP *** [Ks 7c 5h]
+ld788 has returned
+RFKFREAK: checks 
+fissil: checks 
+sydre: checks 
+*** TURN *** [Ks 7c 5h] [6d]
+RFKFREAK: bets $1.25
+fissil: raises $2.25 to $3.50
+sydre: folds 
+sydre leaves the table
+yipyapsap joins the table at seat #4 
+RFKFREAK: folds 
+Uncalled bet ($2.25) returned to fissil
+fissil collected $3.90 from pot
+fissil: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [Ks 7c 5h 6d]
+Seat 1: leits folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Faraon777 folded before Flop (didn't bet)
+Seat 4: sydre (button) folded on the Turn
+Seat 5: Thomkru (small blind) folded before Flop
+Seat 6: RFKFREAK (big blind) folded on the Turn
+Seat 7: jbdb3 folded before Flop (didn't bet)
+Seat 9: fissil collected ($3.90)
+
+
+
+PokerStars Game #19972589052:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:15:25 (ET)
+Table 'Klare' 9-max Seat #5 is the button
+Seat 1: leits ($23.45 in chips) 
+Seat 2: Alameda22 ($24.30 in chips) 
+Seat 3: Faraon777 ($25 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 6: RFKFREAK ($39.25 in chips) 
+Seat 7: jbdb3 ($25.05 in chips) 
+Seat 9: fissil ($27.15 in chips) 
+RFKFREAK: posts small blind $0.10
+jbdb3: posts big blind $0.25
+ld788: sits out 
+yipyapsap: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 7c]
+fissil: raises $0.75 to $1
+leits: folds 
+Alameda22: folds 
+Faraon777: folds 
+Thomkru: folds 
+RFKFREAK: folds 
+jbdb3: folds 
+Uncalled bet ($0.75) returned to fissil
+fissil collected $0.60 from pot
+fissil: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: leits folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Faraon777 folded before Flop (didn't bet)
+Seat 5: Thomkru (button) folded before Flop (didn't bet)
+Seat 6: RFKFREAK (small blind) folded before Flop
+Seat 7: jbdb3 (big blind) folded before Flop
+Seat 9: fissil collected ($0.60)
+
+
+
+PokerStars Game #19972611012:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:16:21 (ET)
+Table 'Klare' 9-max Seat #6 is the button
+Seat 1: leits ($23.45 in chips) 
+Seat 2: Alameda22 ($24.30 in chips) 
+Seat 3: Faraon777 ($25 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 6: RFKFREAK ($39.15 in chips) 
+Seat 7: jbdb3 ($24.80 in chips) 
+Seat 8: ld788 ($45.50 in chips) 
+Seat 9: fissil ($27.50 in chips) 
+jbdb3: posts small blind $0.10
+ld788: posts big blind $0.25
+yipyapsap: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 2s]
+fissil: folds 
+leits: folds 
+Alameda22: folds 
+Faraon777: folds 
+Thomkru: folds 
+RFKFREAK: folds 
+jbdb3: raises $0.50 to $0.75
+ld788: folds 
+Uncalled bet ($0.50) returned to jbdb3
+jbdb3 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: leits folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Faraon777 folded before Flop (didn't bet)
+Seat 5: Thomkru folded before Flop (didn't bet)
+Seat 6: RFKFREAK (button) folded before Flop (didn't bet)
+Seat 7: jbdb3 (small blind) collected ($0.50)
+Seat 8: ld788 (big blind) folded before Flop
+Seat 9: fissil folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972636757:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:17:26 (ET)
+Table 'Klare' 9-max Seat #7 is the button
+Seat 1: leits ($23.45 in chips) 
+Seat 2: Alameda22 ($24.30 in chips) 
+Seat 3: Faraon777 ($25 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 6: RFKFREAK ($39.15 in chips) 
+Seat 7: jbdb3 ($25.05 in chips) 
+Seat 8: ld788 ($45.25 in chips) 
+Seat 9: fissil ($27.50 in chips) 
+ld788: posts small blind $0.10
+fissil: posts big blind $0.25
+yipyapsap: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 8c]
+leits: folds 
+Alameda22: folds 
+Faraon777: folds 
+Thomkru: folds 
+RFKFREAK: folds 
+jbdb3: folds 
+ld788: folds 
+Uncalled bet ($0.15) returned to fissil
+fissil collected $0.20 from pot
+fissil: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: leits folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Faraon777 folded before Flop (didn't bet)
+Seat 5: Thomkru folded before Flop (didn't bet)
+Seat 6: RFKFREAK folded before Flop (didn't bet)
+Seat 7: jbdb3 (button) folded before Flop (didn't bet)
+Seat 8: ld788 (small blind) folded before Flop
+Seat 9: fissil (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19972653071:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:18:07 (ET)
+Table 'Klare' 9-max Seat #8 is the button
+Seat 1: leits ($23.45 in chips) 
+Seat 2: Alameda22 ($24.30 in chips) 
+Seat 3: Faraon777 ($25 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 6: RFKFREAK ($39.15 in chips) 
+Seat 7: jbdb3 ($25.05 in chips) 
+Seat 8: ld788 ($45.15 in chips) 
+Seat 9: fissil ($27.60 in chips) 
+fissil: posts small blind $0.10
+leits: posts big blind $0.25
+yipyapsap: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 4s]
+Alameda22: folds 
+Faraon777: folds 
+Thomkru: folds 
+RFKFREAK: folds 
+jbdb3: raises $0.50 to $0.75
+ld788: calls $0.75
+fissil: raises $2 to $2.75
+leits: folds 
+jbdb3: folds 
+ld788: folds 
+Uncalled bet ($2) returned to fissil
+fissil collected $2.50 from pot
+fissil: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: leits (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Faraon777 folded before Flop (didn't bet)
+Seat 5: Thomkru folded before Flop (didn't bet)
+Seat 6: RFKFREAK folded before Flop (didn't bet)
+Seat 7: jbdb3 folded before Flop
+Seat 8: ld788 (button) folded before Flop
+Seat 9: fissil (small blind) collected ($2.50)
+
+
+
+PokerStars Game #19972681313:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:19:19 (ET)
+Table 'Klare' 9-max Seat #9 is the button
+Seat 1: leits ($23.20 in chips) 
+Seat 2: Alameda22 ($24.30 in chips) 
+Seat 3: Faraon777 ($25 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 6: RFKFREAK ($39.15 in chips) 
+Seat 7: jbdb3 ($24.30 in chips) 
+Seat 8: ld788 ($44.40 in chips) 
+Seat 9: fissil ($29.35 in chips) 
+leits: posts small blind $0.10
+Alameda22: posts big blind $0.25
+yipyapsap: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 9d]
+Faraon777: folds 
+Thomkru: folds 
+RFKFREAK: folds 
+jbdb3: folds 
+ld788: folds 
+fissil: folds 
+leits: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: leits (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) collected ($0.20)
+Seat 3: Faraon777 folded before Flop (didn't bet)
+Seat 5: Thomkru folded before Flop (didn't bet)
+Seat 6: RFKFREAK folded before Flop (didn't bet)
+Seat 7: jbdb3 folded before Flop (didn't bet)
+Seat 8: ld788 folded before Flop (didn't bet)
+Seat 9: fissil (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972698628:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:20:03 (ET)
+Table 'Klare' 9-max Seat #1 is the button
+Seat 1: leits ($23.10 in chips) 
+Seat 2: Alameda22 ($24.40 in chips) 
+Seat 3: Faraon777 ($25 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 6: RFKFREAK ($39.15 in chips) 
+Seat 7: jbdb3 ($24.30 in chips) 
+Seat 8: ld788 ($44.40 in chips) 
+Seat 9: fissil ($29.35 in chips) 
+Alameda22: posts small blind $0.10
+Faraon777: posts big blind $0.25
+yipyapsap: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Kh]
+Thomkru: folds 
+RFKFREAK: folds 
+jbdb3: folds 
+ld788: folds 
+fissil: folds 
+leits: raises $0.75 to $1
+Alameda22: folds 
+Faraon777: folds 
+Uncalled bet ($0.75) returned to leits
+leits collected $0.60 from pot
+leits: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: leits (button) collected ($0.60)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: Faraon777 (big blind) folded before Flop
+Seat 5: Thomkru folded before Flop (didn't bet)
+Seat 6: RFKFREAK folded before Flop (didn't bet)
+Seat 7: jbdb3 folded before Flop (didn't bet)
+Seat 8: ld788 folded before Flop (didn't bet)
+Seat 9: fissil folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972715594:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:20:47 (ET)
+Table 'Klare' 9-max Seat #2 is the button
+Seat 1: leits ($23.45 in chips) 
+Seat 2: Alameda22 ($24.30 in chips) 
+Seat 3: Faraon777 ($24.75 in chips) 
+Seat 4: yipyapsap ($25 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 6: RFKFREAK ($39.15 in chips) 
+Seat 7: jbdb3 ($24.30 in chips) 
+Seat 8: ld788 ($44.40 in chips) 
+Seat 9: fissil ($29.35 in chips) 
+Faraon777: posts small blind $0.10
+yipyapsap: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 8h]
+Thomkru: folds 
+RFKFREAK: folds 
+jbdb3: folds 
+ld788: folds 
+fissil: folds 
+leits: folds 
+Alameda22: folds 
+Faraon777: folds 
+Uncalled bet ($0.15) returned to yipyapsap
+yipyapsap collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: leits folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: Faraon777 (small blind) folded before Flop
+Seat 4: yipyapsap (big blind) collected ($0.20)
+Seat 5: Thomkru folded before Flop (didn't bet)
+Seat 6: RFKFREAK folded before Flop (didn't bet)
+Seat 7: jbdb3 folded before Flop (didn't bet)
+Seat 8: ld788 folded before Flop (didn't bet)
+Seat 9: fissil folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972729456:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:21:23 (ET)
+Table 'Klare' 9-max Seat #3 is the button
+Seat 1: leits ($23.45 in chips) 
+Seat 2: Alameda22 ($24.30 in chips) 
+Seat 3: Faraon777 ($25 in chips) 
+Seat 4: yipyapsap ($25.10 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 6: RFKFREAK ($39.15 in chips) 
+Seat 7: jbdb3 ($24.30 in chips) 
+Seat 8: ld788 ($44.40 in chips) 
+Seat 9: fissil ($29.35 in chips) 
+yipyapsap: posts small blind $0.10
+Thomkru: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Td]
+RFKFREAK: folds 
+jbdb3: folds 
+ld788: calls $0.25
+fissil: folds 
+leits: folds 
+Alameda22: folds 
+Faraon777: folds 
+yipyapsap: folds 
+Thomkru: checks 
+*** FLOP *** [8c 9h Qc]
+Thomkru: checks 
+ld788: bets $0.50
+Thomkru: folds 
+Uncalled bet ($0.50) returned to ld788
+ld788 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8c 9h Qc]
+Seat 1: leits folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Faraon777 (button) folded before Flop (didn't bet)
+Seat 4: yipyapsap (small blind) folded before Flop
+Seat 5: Thomkru (big blind) folded on the Flop
+Seat 6: RFKFREAK folded before Flop (didn't bet)
+Seat 7: jbdb3 folded before Flop (didn't bet)
+Seat 8: ld788 collected ($0.60)
+Seat 9: fissil folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972760318:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:22:43 (ET)
+Table 'Klare' 9-max Seat #4 is the button
+Seat 1: leits ($23.45 in chips) 
+Seat 2: Alameda22 ($24.30 in chips) 
+Seat 3: Faraon777 ($25 in chips) 
+Seat 4: yipyapsap ($25 in chips) 
+Seat 5: Thomkru ($4.40 in chips) 
+Seat 8: ld788 ($44.75 in chips) 
+Seat 9: fissil ($29.35 in chips) 
+Thomkru: posts small blind $0.10
+RFKFREAK: is sitting out 
+jbdb3: is sitting out 
+ld788: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 3s]
+jbdb3 leaves the table
+fissil: folds 
+RFKFREAK leaves the table
+leits: folds 
+Alameda22: folds 
+Faraon777: folds 
+yipyapsap: folds 
+Thomkru: folds 
+Uncalled bet ($0.15) returned to ld788
+ld788 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: leits folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Faraon777 folded before Flop (didn't bet)
+Seat 4: yipyapsap (button) folded before Flop (didn't bet)
+Seat 5: Thomkru (small blind) folded before Flop
+Seat 8: ld788 (big blind) collected ($0.20)
+Seat 9: fissil folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972777550:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:23:27 (ET)
+Table 'Klare' 9-max Seat #5 is the button
+Seat 1: leits ($23.45 in chips) 
+Seat 2: Alameda22 ($24.30 in chips) 
+Seat 3: Faraon777 ($25 in chips) 
+Seat 4: yipyapsap ($25 in chips) 
+Seat 5: Thomkru ($4.30 in chips) 
+Seat 8: ld788 ($44.85 in chips) 
+Seat 9: fissil ($29.35 in chips) 
+ld788: posts small blind $0.10
+fissil: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 7s]
+Corvus80 joins the table at seat #7 
+magic26v joins the table at seat #6 
+leits: folds 
+Alameda22: folds 
+Faraon777: folds 
+yipyapsap: folds 
+Thomkru: folds 
+ld788: raises $0.50 to $0.75
+fissil: folds 
+Uncalled bet ($0.50) returned to ld788
+ld788 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: leits folded before Flop (didn't bet)
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Faraon777 folded before Flop (didn't bet)
+Seat 4: yipyapsap folded before Flop (didn't bet)
+Seat 5: Thomkru (button) folded before Flop (didn't bet)
+Seat 8: ld788 (small blind) collected ($0.50)
+Seat 9: fissil (big blind) folded before Flop
+
+
+
+PokerStars Game #19972815166:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:25:04 (ET)
+Table 'Klare' 9-max Seat #8 is the button
+Seat 1: leits ($23.45 in chips) 
+Seat 2: Alameda22 ($24.30 in chips) 
+Seat 3: Faraon777 ($25 in chips) 
+Seat 4: yipyapsap ($25 in chips) 
+Seat 5: Thomkru ($4.30 in chips) 
+Seat 8: ld788 ($45.10 in chips) 
+Seat 9: fissil ($29.10 in chips) 
+fissil: posts small blind $0.10
+leits: posts big blind $0.25
+magic26v: sits out 
+Corvus80: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 8c]
+Alameda22: folds 
+Faraon777: folds 
+yipyapsap: folds 
+Thomkru: raises $0.75 to $1
+ld788: folds 
+fissil: folds 
+leits: folds 
+Uncalled bet ($0.75) returned to Thomkru
+Thomkru collected $0.60 from pot
+Thomkru: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: leits (big blind) folded before Flop
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: Faraon777 folded before Flop (didn't bet)
+Seat 4: yipyapsap folded before Flop (didn't bet)
+Seat 5: Thomkru collected ($0.60)
+Seat 8: ld788 (button) folded before Flop (didn't bet)
+Seat 9: fissil (small blind) folded before Flop
+
+
+
+PokerStars Game #19972833252:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:25:51 (ET)
+Table 'Klare' 9-max Seat #9 is the button
+Seat 1: leits ($23.20 in chips) 
+Seat 2: Alameda22 ($24.30 in chips) 
+Seat 3: Faraon777 ($25 in chips) 
+Seat 4: yipyapsap ($25 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 8: ld788 ($45.10 in chips) 
+Seat 9: fissil ($29 in chips) 
+leits: posts small blind $0.10
+Alameda22: posts big blind $0.25
+magic26v: sits out 
+Corvus80: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 5s]
+Faraon777: folds 
+yipyapsap: folds 
+Thomkru: folds 
+ld788: folds 
+fissil: folds 
+leits: raises $0.50 to $0.75
+Alameda22: folds 
+Uncalled bet ($0.50) returned to leits
+leits collected $0.50 from pot
+leits: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: leits (small blind) collected ($0.50)
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 3: Faraon777 folded before Flop (didn't bet)
+Seat 4: yipyapsap folded before Flop (didn't bet)
+Seat 5: Thomkru folded before Flop (didn't bet)
+Seat 8: ld788 folded before Flop (didn't bet)
+Seat 9: fissil (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972850765:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:26:37 (ET)
+Table 'Klare' 9-max Seat #1 is the button
+Seat 1: leits ($23.45 in chips) 
+Seat 2: Alameda22 ($24.05 in chips) 
+Seat 4: yipyapsap ($25 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 8: ld788 ($45.10 in chips) 
+Seat 9: fissil ($29 in chips) 
+Alameda22: posts small blind $0.10
+Faraon777: is sitting out 
+Faraon777 leaves the table
+yipyapsap: posts big blind $0.25
+magic26v: sits out 
+Corvus80: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 6c]
+Thomkru: folds 
+ld788: folds 
+fissil: folds 
+leits: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to yipyapsap
+yipyapsap collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: leits (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 4: yipyapsap (big blind) collected ($0.20)
+Seat 5: Thomkru folded before Flop (didn't bet)
+Seat 8: ld788 folded before Flop (didn't bet)
+Seat 9: fissil folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972866882:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:27:19 (ET)
+Table 'Klare' 9-max Seat #2 is the button
+Seat 1: leits ($23.45 in chips) 
+Seat 2: Alameda22 ($23.95 in chips) 
+Seat 4: yipyapsap ($25.10 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 8: ld788 ($45.10 in chips) 
+Seat 9: fissil ($29 in chips) 
+yipyapsap: posts small blind $0.10
+Thomkru: posts big blind $0.25
+magic26v: sits out 
+Corvus80: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 7c]
+ld788: folds 
+fissil: folds 
+leits: folds 
+Alameda22: folds 
+yipyapsap: raises $0.75 to $1
+leits leaves the table
+Thomkru: folds 
+Uncalled bet ($0.75) returned to yipyapsap
+yipyapsap collected $0.50 from pot
+yipyapsap: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: leits folded before Flop (didn't bet)
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: yipyapsap (small blind) collected ($0.50)
+Seat 5: Thomkru (big blind) folded before Flop
+Seat 8: ld788 folded before Flop (didn't bet)
+Seat 9: fissil folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972879735:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:27:53 (ET)
+Table 'Klare' 9-max Seat #4 is the button
+Seat 2: Alameda22 ($23.95 in chips) 
+Seat 4: yipyapsap ($25.35 in chips) 
+Seat 5: Thomkru ($4.40 in chips) 
+Seat 6: magic26v ($25 in chips) 
+Seat 8: ld788 ($45.10 in chips) 
+Seat 9: fissil ($29 in chips) 
+Thomkru: posts small blind $0.10
+magic26v: posts big blind $0.25
+Corvus80: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 7h]
+ld788: folds 
+fissil: folds 
+Alameda22: folds 
+yipyapsap: folds 
+Thomkru: raises $0.75 to $1
+magic26v: folds 
+Uncalled bet ($0.75) returned to Thomkru
+Thomkru collected $0.50 from pot
+Thomkru: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: yipyapsap (button) folded before Flop (didn't bet)
+Seat 5: Thomkru (small blind) collected ($0.50)
+Seat 6: magic26v (big blind) folded before Flop
+Seat 8: ld788 folded before Flop (didn't bet)
+Seat 9: fissil folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972896955:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:28:38 (ET)
+Table 'Klare' 9-max Seat #5 is the button
+Seat 2: Alameda22 ($23.95 in chips) 
+Seat 4: yipyapsap ($25.35 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 6: magic26v ($25 in chips) 
+Seat 7: Corvus80 ($5 in chips) 
+Seat 8: ld788 ($45.10 in chips) 
+Seat 9: fissil ($29 in chips) 
+magic26v: posts small blind $0.10
+Corvus80: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 8c]
+ld788: folds 
+fissil: folds 
+Alameda22: folds 
+yipyapsap: folds 
+Thomkru: folds 
+magic26v: raises $0.50 to $0.75
+WiredAces joins the table at seat #1 
+Corvus80: folds 
+Uncalled bet ($0.50) returned to magic26v
+magic26v collected $0.50 from pot
+magic26v: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: yipyapsap folded before Flop (didn't bet)
+Seat 5: Thomkru (button) folded before Flop (didn't bet)
+Seat 6: magic26v (small blind) collected ($0.50)
+Seat 7: Corvus80 (big blind) folded before Flop
+Seat 8: ld788 folded before Flop (didn't bet)
+Seat 9: fissil folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972912239:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:29:19 (ET)
+Table 'Klare' 9-max Seat #6 is the button
+Seat 2: Alameda22 ($23.95 in chips) 
+Seat 4: yipyapsap ($25.35 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 6: magic26v ($25.25 in chips) 
+Seat 7: Corvus80 ($4.75 in chips) 
+Seat 8: ld788 ($45.10 in chips) 
+Seat 9: fissil ($29 in chips) 
+Corvus80: posts small blind $0.10
+ld788: posts big blind $0.25
+WiredAces: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Ts]
+fissil: folds 
+Alameda22: folds 
+yipyapsap: folds 
+Thomkru: folds 
+magic26v: folds 
+Corvus80: folds 
+Uncalled bet ($0.15) returned to ld788
+WiredAces leaves the table
+ld788 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: yipyapsap folded before Flop (didn't bet)
+Seat 5: Thomkru folded before Flop (didn't bet)
+Seat 6: magic26v (button) folded before Flop (didn't bet)
+Seat 7: Corvus80 (small blind) folded before Flop
+Seat 8: ld788 (big blind) collected ($0.20)
+Seat 9: fissil folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972924157:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:29:50 (ET)
+Table 'Klare' 9-max Seat #7 is the button
+Seat 2: Alameda22 ($23.95 in chips) 
+Seat 4: yipyapsap ($25.35 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 6: magic26v ($25.25 in chips) 
+Seat 7: Corvus80 ($4.65 in chips) 
+Seat 8: ld788 ($45.20 in chips) 
+Seat 9: fissil ($29 in chips) 
+ld788: posts small blind $0.10
+fissil: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 6s]
+Alameda22: folds 
+yipyapsap: folds 
+Thomkru: folds 
+magic26v: raises $0.50 to $0.75
+Corvus80: folds 
+magic26v is disconnected 
+ld788: folds 
+fissil: folds 
+Uncalled bet ($0.50) returned to magic26v
+magic26v is connected 
+magic26v collected $0.60 from pot
+magic26v: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: yipyapsap folded before Flop (didn't bet)
+Seat 5: Thomkru folded before Flop (didn't bet)
+Seat 6: magic26v collected ($0.60)
+Seat 7: Corvus80 (button) folded before Flop (didn't bet)
+Seat 8: ld788 (small blind) folded before Flop
+Seat 9: fissil (big blind) folded before Flop
+
+
+
+PokerStars Game #19972944233:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:30:44 (ET)
+Table 'Klare' 9-max Seat #8 is the button
+Seat 2: Alameda22 ($23.95 in chips) 
+Seat 4: yipyapsap ($25.35 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 6: magic26v ($25.60 in chips) 
+Seat 7: Corvus80 ($4.65 in chips) 
+Seat 8: ld788 ($45.10 in chips) 
+Seat 9: fissil ($28.75 in chips) 
+fissil: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 6c]
+yipyapsap: folds 
+Thomkru: folds 
+magic26v: folds 
+Corvus80: folds 
+ld788: folds 
+fissil: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 (big blind) collected ($0.20)
+Seat 4: yipyapsap folded before Flop (didn't bet)
+Seat 5: Thomkru folded before Flop (didn't bet)
+Seat 6: magic26v folded before Flop (didn't bet)
+Seat 7: Corvus80 folded before Flop (didn't bet)
+Seat 8: ld788 (button) folded before Flop (didn't bet)
+Seat 9: fissil (small blind) folded before Flop
+
+
+
+PokerStars Game #19972959355:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:31:24 (ET)
+Table 'Klare' 9-max Seat #9 is the button
+Seat 2: Alameda22 ($24.05 in chips) 
+Seat 4: yipyapsap ($25.35 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 6: magic26v ($25.60 in chips) 
+Seat 7: Corvus80 ($4.65 in chips) 
+Seat 8: ld788 ($45.10 in chips) 
+Seat 9: fissil ($28.65 in chips) 
+Alameda22: posts small blind $0.10
+yipyapsap: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 2d]
+Thomkru: folds 
+magic26v: folds 
+Corvus80: folds 
+ld788: folds 
+fissil: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to yipyapsap
+yipyapsap collected $0.20 from pot
+yipyapsap: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 4: yipyapsap (big blind) collected ($0.20)
+Seat 5: Thomkru folded before Flop (didn't bet)
+Seat 6: magic26v folded before Flop (didn't bet)
+Seat 7: Corvus80 folded before Flop (didn't bet)
+Seat 8: ld788 folded before Flop (didn't bet)
+Seat 9: fissil (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972968075:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:31:46 (ET)
+Table 'Klare' 9-max Seat #2 is the button
+Seat 2: Alameda22 ($23.95 in chips) 
+Seat 4: yipyapsap ($25.45 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 6: magic26v ($25.60 in chips) 
+Seat 7: Corvus80 ($4.65 in chips) 
+Seat 8: ld788 ($45.10 in chips) 
+Seat 9: fissil ($28.65 in chips) 
+yipyapsap: posts small blind $0.10
+Thomkru: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 9c]
+magic26v: folds 
+Corvus80: folds 
+ld788: folds 
+fissil: folds 
+Alameda22: folds 
+yipyapsap: folds 
+Uncalled bet ($0.15) returned to Thomkru
+Thomkru collected $0.20 from pot
+Thomkru: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: yipyapsap (small blind) folded before Flop
+Seat 5: Thomkru (big blind) collected ($0.20)
+Seat 6: magic26v folded before Flop (didn't bet)
+Seat 7: Corvus80 folded before Flop (didn't bet)
+Seat 8: ld788 folded before Flop (didn't bet)
+Seat 9: fissil folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972980879:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:32:21 (ET)
+Table 'Klare' 9-max Seat #4 is the button
+Seat 2: Alameda22 ($23.95 in chips) 
+Seat 4: yipyapsap ($25.35 in chips) 
+Seat 5: Thomkru ($4.75 in chips) 
+Seat 6: magic26v ($25.60 in chips) 
+Seat 7: Corvus80 ($4.65 in chips) 
+Seat 8: ld788 ($45.10 in chips) 
+Seat 9: fissil ($28.65 in chips) 
+Thomkru: posts small blind $0.10
+magic26v: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 8s]
+Corvus80: folds 
+ld788: folds 
+fissil: folds 
+Alameda22: folds 
+yipyapsap: folds 
+Thomkru: folds 
+Uncalled bet ($0.15) returned to magic26v
+magic26v collected $0.20 from pot
+magic26v: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: yipyapsap (button) folded before Flop (didn't bet)
+Seat 5: Thomkru (small blind) folded before Flop
+Seat 6: magic26v (big blind) collected ($0.20)
+Seat 7: Corvus80 folded before Flop (didn't bet)
+Seat 8: ld788 folded before Flop (didn't bet)
+Seat 9: fissil folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973002680:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:33:18 (ET)
+Table 'Klare' 9-max Seat #5 is the button
+Seat 2: Alameda22 ($23.95 in chips) 
+Seat 4: yipyapsap ($25.35 in chips) 
+Seat 5: Thomkru ($4.65 in chips) 
+Seat 6: magic26v ($25.70 in chips) 
+Seat 7: Corvus80 ($4.65 in chips) 
+Seat 8: ld788 ($45.10 in chips) 
+Seat 9: fissil ($28.65 in chips) 
+magic26v: posts small blind $0.10
+Corvus80: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 9h]
+ld788: folds 
+fissil: folds 
+Alameda22: folds 
+yipyapsap: folds 
+Thomkru: raises $0.75 to $1
+magic26v: folds 
+Corvus80: folds 
+Uncalled bet ($0.75) returned to Thomkru
+Thomkru collected $0.60 from pot
+Thomkru: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: yipyapsap folded before Flop (didn't bet)
+Seat 5: Thomkru (button) collected ($0.60)
+Seat 6: magic26v (small blind) folded before Flop
+Seat 7: Corvus80 (big blind) folded before Flop
+Seat 8: ld788 folded before Flop (didn't bet)
+Seat 9: fissil folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19973018931:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:34:01 (ET)
+Table 'Klare' 9-max Seat #6 is the button
+Seat 2: Alameda22 ($23.95 in chips) 
+Seat 4: yipyapsap ($25.35 in chips) 
+Seat 5: Thomkru ($5 in chips) 
+Seat 6: magic26v ($25.60 in chips) 
+Seat 7: Corvus80 ($4.40 in chips) 
+Seat 9: fissil ($28.65 in chips) 
+Corvus80: posts small blind $0.10
+ld788: is sitting out 
+fissil: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 3c]
+ld788 leaves the table
+Alameda22: folds 
+yipyapsap: folds 
+Thomkru: folds 
+magic26v: folds 
+Corvus80: folds 
+Uncalled bet ($0.15) returned to fissil
+fissil collected $0.20 from pot
+fissil: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: yipyapsap folded before Flop (didn't bet)
+Seat 5: Thomkru folded before Flop (didn't bet)
+Seat 6: magic26v (button) folded before Flop (didn't bet)
+Seat 7: Corvus80 (small blind) folded before Flop
+Seat 9: fissil (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19973034473:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:34:43 (ET)
+Table 'Klare' 9-max Seat #7 is the button
+Seat 2: Alameda22 ($23.95 in chips) 
+Seat 4: yipyapsap ($25.35 in chips) 
+Seat 5: Thomkru ($5 in chips) 
+Seat 6: magic26v ($25.60 in chips) 
+Seat 7: Corvus80 ($4.30 in chips) 
+Seat 9: fissil ($28.75 in chips) 
+fissil: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 4d]
+yipyapsap: folds 
+Thomkru: folds 
+magic26v: folds 
+Corvus80: folds 
+fissil: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 (big blind) collected ($0.20)
+Seat 4: yipyapsap folded before Flop (didn't bet)
+Seat 5: Thomkru folded before Flop (didn't bet)
+Seat 6: magic26v folded before Flop (didn't bet)
+Seat 7: Corvus80 (button) folded before Flop (didn't bet)
+Seat 9: fissil (small blind) folded before Flop
+
+
+
+PokerStars Game #19973044524:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:35:10 (ET)
+Table 'Klare' 9-max Seat #9 is the button
+Seat 2: Alameda22 ($24.05 in chips) 
+Seat 4: yipyapsap ($25.35 in chips) 
+Seat 5: Thomkru ($5 in chips) 
+Seat 6: magic26v ($25.60 in chips) 
+Seat 7: Corvus80 ($4.30 in chips) 
+Seat 9: fissil ($28.65 in chips) 
+Alameda22: posts small blind $0.10
+yipyapsap: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 5d]
+Thomkru: folds 
+magic26v: folds 
+Corvus80: folds 
+fissil: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to yipyapsap
+yipyapsap collected $0.20 from pot
+yipyapsap: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 4: yipyapsap (big blind) collected ($0.20)
+Seat 5: Thomkru folded before Flop (didn't bet)
+Seat 6: magic26v folded before Flop (didn't bet)
+Seat 7: Corvus80 folded before Flop (didn't bet)
+Seat 9: fissil (button) folded before Flop (didn't bet)
+
+
+

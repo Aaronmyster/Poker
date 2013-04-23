@@ -1,0 +1,595 @@
+PokerStars Game #19929199934:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:00:12 (ET)
+Table 'Irene' 9-max Seat #2 is the button
+Seat 2: serpeture ($9.50 in chips) 
+Seat 3: LittleORK ($39.20 in chips) 
+Seat 4: robbg58 ($13.75 in chips) 
+Seat 5: Bobby1776 ($32.75 in chips) 
+Seat 6: Jamane23 ($5.20 in chips) 
+Seat 7: Messiahlee31 ($11.45 in chips) 
+Seat 8: Alameda22 ($46.70 in chips) 
+Seat 9: Robellis ($23.40 in chips) 
+LittleORK: posts small blind $0.10
+robbg58: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Td]
+Bobby1776: calls $0.25
+Jamane23: folds 
+Messiahlee31: folds 
+Alameda22: folds 
+Robellis: calls $0.25
+serpeture: folds 
+LittleORK: folds 
+robbg58: checks 
+*** FLOP *** [6s Th As]
+fraenk58 joins the table at seat #1 
+robbg58: checks 
+Bobby1776: checks 
+Robellis: checks 
+*** TURN *** [6s Th As] [3s]
+robbg58: bets $0.75
+Bobby1776: raises $1.25 to $2
+Robellis: calls $2
+LittleORK leaves the table
+robbg58: calls $1.25
+*** RIVER *** [6s Th As 3s] [2d]
+robbg58: checks 
+Bobby1776: checks 
+Robellis: checks 
+*** SHOW DOWN ***
+robbg58: shows [Ts 3h] (two pair, Tens and Threes)
+Bobby1776: shows [7s 5s] (a flush, Ace high)
+Robellis: shows [6d 6c] (three of a kind, Sixes)
+Bobby1776 collected $6.55 from pot
+*** SUMMARY ***
+Total pot $6.85 | Rake $0.30 
+Board [6s Th As 3s 2d]
+Seat 2: serpeture (button) folded before Flop (didn't bet)
+Seat 3: LittleORK (small blind) folded before Flop
+Seat 4: robbg58 (big blind) showed [Ts 3h] and lost with two pair, Tens and Threes
+Seat 5: Bobby1776 showed [7s 5s] and won ($6.55) with a flush, Ace high
+Seat 6: Jamane23 folded before Flop (didn't bet)
+Seat 7: Messiahlee31 folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Robellis showed [6d 6c] and lost with three of a kind, Sixes
+
+
+
+PokerStars Game #19929232209:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:01:57 (ET)
+Table 'Irene' 9-max Seat #4 is the button
+Seat 1: fraenk58 ($25 in chips) 
+Seat 2: serpeture ($9.50 in chips) 
+Seat 4: robbg58 ($11.50 in chips) 
+Seat 5: Bobby1776 ($37.05 in chips) 
+Seat 6: Jamane23 ($5.20 in chips) 
+Seat 7: Messiahlee31 ($11.45 in chips) 
+Seat 8: Alameda22 ($46.70 in chips) 
+Seat 9: Robellis ($21.15 in chips) 
+Bobby1776: posts small blind $0.10
+Jamane23: posts big blind $0.25
+fraenk58: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 4s]
+Messiahlee31: folds 
+Bobby1776 said, "a little worried about the strength of my flush there"
+Alameda22: folds 
+Bobby1776 said, "guess I missed a bet"
+Robellis: folds 
+fraenk58: raises $0.75 to $1
+serpeture: folds 
+robbg58: folds 
+Bobby1776: folds 
+Jamane23: folds 
+Uncalled bet ($0.75) returned to fraenk58
+fraenk58 collected $0.60 from pot
+fraenk58: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: fraenk58 collected ($0.60)
+Seat 2: serpeture folded before Flop (didn't bet)
+Seat 4: robbg58 (button) folded before Flop (didn't bet)
+Seat 5: Bobby1776 (small blind) folded before Flop
+Seat 6: Jamane23 (big blind) folded before Flop
+Seat 7: Messiahlee31 folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Robellis folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929242191:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:02:29 (ET)
+Table 'Irene' 9-max Seat #5 is the button
+Seat 1: fraenk58 ($25.35 in chips) 
+Seat 2: serpeture ($9.50 in chips) 
+Seat 4: robbg58 ($11.50 in chips) 
+Seat 5: Bobby1776 ($36.95 in chips) 
+Seat 6: Jamane23 ($4.95 in chips) 
+Seat 7: Messiahlee31 ($11.45 in chips) 
+Seat 8: Alameda22 ($46.70 in chips) 
+Seat 9: Robellis ($21.15 in chips) 
+Jamane23: posts small blind $0.10
+Messiahlee31: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Qh]
+Robellis said, "that you did"
+Alameda22: folds 
+Robellis: folds 
+fraenk58: folds 
+serpeture: calls $0.25
+robbg58: folds 
+Robellis said, "a paired board i sure would have"
+Bobby1776: calls $0.25
+Jamane23: calls $0.15
+Messiahlee31: raises $0.50 to $0.75
+serpeture: calls $0.50
+Bobby1776: folds 
+Jamane23: calls $0.50
+*** FLOP *** [Ks 2s Js]
+Jamane23: checks 
+Dr.R joins the table at seat #3 
+Messiahlee31: bets $10.70 and is all-in
+Bobby1776 said, "you would have still called a little on the river huh?"
+serpeture: folds 
+Jamane23: folds 
+Uncalled bet ($10.70) returned to Messiahlee31
+Messiahlee31 collected $2.40 from pot
+Messiahlee31: shows [Kc Ac] (a pair of Kings)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Ks 2s Js]
+Seat 1: fraenk58 folded before Flop (didn't bet)
+Seat 2: serpeture folded on the Flop
+Seat 4: robbg58 folded before Flop (didn't bet)
+Seat 5: Bobby1776 (button) folded before Flop
+Seat 6: Jamane23 (small blind) folded on the Flop
+Seat 7: Messiahlee31 (big blind) collected ($2.40)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Robellis folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929263610:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:03:40 (ET)
+Table 'Irene' 9-max Seat #6 is the button
+Seat 1: fraenk58 ($25.35 in chips) 
+Seat 2: serpeture ($8.75 in chips) 
+Seat 3: Dr.R ($15 in chips) 
+Seat 4: robbg58 ($11.50 in chips) 
+Seat 5: Bobby1776 ($36.70 in chips) 
+Seat 6: Jamane23 ($4.20 in chips) 
+Seat 7: Messiahlee31 ($13.10 in chips) 
+Seat 8: Alameda22 ($46.70 in chips) 
+Seat 9: Robellis ($21.15 in chips) 
+Messiahlee31: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Dr.R: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah As]
+Robellis: folds 
+fraenk58: calls $0.25
+serpeture: folds 
+Dr.R: checks 
+robbg58: folds 
+Bobby1776: folds 
+Jamane23: calls $0.25
+Messiahlee31: calls $0.15
+Alameda22: raises $1.25 to $1.50
+fraenk58: calls $1.25
+Dr.R: folds 
+Jamane23: folds 
+Messiahlee31: folds 
+*** FLOP *** [8s Ac Kh]
+Alameda22: bets $2.25
+fraenk58: folds 
+Uncalled bet ($2.25) returned to Alameda22
+Alameda22 collected $3.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [8s Ac Kh]
+Seat 1: fraenk58 folded on the Flop
+Seat 2: serpeture folded before Flop (didn't bet)
+Seat 3: Dr.R folded before Flop
+Seat 4: robbg58 folded before Flop (didn't bet)
+Seat 5: Bobby1776 folded before Flop (didn't bet)
+Seat 6: Jamane23 (button) folded before Flop
+Seat 7: Messiahlee31 (small blind) folded before Flop
+Seat 8: Alameda22 (big blind) collected ($3.60)
+Seat 9: Robellis folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929281054:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:04:37 (ET)
+Table 'Irene' 9-max Seat #7 is the button
+Seat 1: fraenk58 ($23.85 in chips) 
+Seat 2: serpeture ($8.75 in chips) 
+Seat 3: Dr.R ($14.75 in chips) 
+Seat 4: robbg58 ($11.50 in chips) 
+Seat 5: Bobby1776 ($36.70 in chips) 
+Seat 6: Jamane23 ($3.95 in chips) 
+Seat 7: Messiahlee31 ($12.85 in chips) 
+Seat 8: Alameda22 ($48.80 in chips) 
+Seat 9: Robellis ($21.15 in chips) 
+Alameda22: posts small blind $0.10
+Robellis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 3d]
+Robellis said, "guess it all depends on how much and not if the 2 pair stayed in"
+fraenk58: folds 
+serpeture: folds 
+Dr.R: folds 
+robbg58: folds 
+Bobby1776: calls $0.25
+Jamane23: calls $0.25
+Messiahlee31: folds 
+Alameda22: folds 
+Robellis: checks 
+*** FLOP *** [9c Ah 5d]
+Robellis: checks 
+Bobby1776: checks 
+Jamane23: checks 
+*** TURN *** [9c Ah 5d] [Tc]
+Bobby1776 said, "robb?"
+Robellis: checks 
+Bobby1776: checks 
+Jamane23: checks 
+*** RIVER *** [9c Ah 5d Tc] [4s]
+Dr.R said, "gay pride needs to play fewer tables"
+Robellis: checks 
+Bobby1776: bets $0.50
+Jamane23: folds 
+Robellis: folds 
+Uncalled bet ($0.50) returned to Bobby1776
+Bobby1776 collected $0.85 from pot
+Bobby1776: doesn't show hand 
+Bobby1776 said, "lol"
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [9c Ah 5d Tc 4s]
+Seat 1: fraenk58 folded before Flop (didn't bet)
+Seat 2: serpeture folded before Flop (didn't bet)
+Seat 3: Dr.R folded before Flop (didn't bet)
+Seat 4: robbg58 folded before Flop (didn't bet)
+Seat 5: Bobby1776 collected ($0.85)
+Seat 6: Jamane23 folded on the River
+Seat 7: Messiahlee31 (button) folded before Flop (didn't bet)
+Seat 8: Alameda22 (small blind) folded before Flop
+Seat 9: Robellis (big blind) folded on the River
+
+
+
+PokerStars Game #19929301126:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:05:44 (ET)
+Table 'Irene' 9-max Seat #8 is the button
+Seat 1: fraenk58 ($23.85 in chips) 
+Seat 2: serpeture ($8.75 in chips) 
+Seat 3: Dr.R ($14.75 in chips) 
+Seat 4: robbg58 ($11.50 in chips) 
+Seat 5: Bobby1776 ($37.30 in chips) 
+Seat 6: Jamane23 ($3.70 in chips) 
+Seat 7: Messiahlee31 ($12.85 in chips) 
+Seat 8: Alameda22 ($48.70 in chips) 
+Seat 9: Robellis ($20.90 in chips) 
+Robellis: posts small blind $0.10
+fraenk58: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 5d]
+serpeture: folds 
+Dr.R: folds 
+Robellis said, "who the **** you callin gay pride"
+robbg58: folds 
+Robellis said, "that's levon and barry"
+Bobby1776: folds 
+Jamane23: folds 
+Messiahlee31: folds 
+Dr.R said, "small brain-hard to process"
+Robellis said, "sagitarius"
+Alameda22: folds 
+Robellis: calls $0.15
+fraenk58: raises $0.75 to $1
+Robellis: calls $0.75
+*** FLOP *** [4d 8s 2h]
+Bobby1776 said, "I belive he is referring to the SF in your logo"
+Robellis: checks 
+fraenk58: bets $1.25
+Robellis: folds 
+Uncalled bet ($1.25) returned to fraenk58
+fraenk58 collected $1.90 from pot
+fraenk58: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [4d 8s 2h]
+Seat 1: fraenk58 (big blind) collected ($1.90)
+Seat 2: serpeture folded before Flop (didn't bet)
+Seat 3: Dr.R folded before Flop (didn't bet)
+Seat 4: robbg58 folded before Flop (didn't bet)
+Seat 5: Bobby1776 folded before Flop (didn't bet)
+Seat 6: Jamane23 folded before Flop (didn't bet)
+Seat 7: Messiahlee31 folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: Robellis (small blind) folded on the Flop
+
+
+
+PokerStars Game #19929317104:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:06:37 (ET)
+Table 'Irene' 9-max Seat #9 is the button
+Seat 1: fraenk58 ($24.75 in chips) 
+Seat 2: serpeture ($8.75 in chips) 
+Seat 3: Dr.R ($14.75 in chips) 
+Seat 4: robbg58 ($11.50 in chips) 
+Seat 5: Bobby1776 ($37.30 in chips) 
+Seat 6: Jamane23 ($3.70 in chips) 
+Seat 7: Messiahlee31 ($12.85 in chips) 
+Seat 8: Alameda22 ($48.70 in chips) 
+Seat 9: Robellis ($19.90 in chips) 
+fraenk58: posts small blind $0.10
+serpeture: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 8s]
+Dr.R said, "Alamdedafag"
+Dr.R: folds 
+robbg58: folds 
+Bobby1776: calls $0.25
+Jamane23: folds 
+Messiahlee31: calls $0.25
+Alameda22: folds 
+Robellis: folds 
+fraenk58: folds 
+serpeture: checks 
+*** FLOP *** [2h 8h 6h]
+serpeture: checks 
+Bobby1776: checks 
+Messiahlee31: checks 
+*** TURN *** [2h 8h 6h] [4c]
+serpeture: checks 
+Bobby1776: checks 
+Messiahlee31: bets $0.75
+serpeture: folds 
+Bobby1776: folds 
+Uncalled bet ($0.75) returned to Messiahlee31
+Messiahlee31 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [2h 8h 6h 4c]
+Seat 1: fraenk58 (small blind) folded before Flop
+Seat 2: serpeture (big blind) folded on the Turn
+Seat 3: Dr.R folded before Flop (didn't bet)
+Seat 4: robbg58 folded before Flop (didn't bet)
+Seat 5: Bobby1776 folded on the Turn
+Seat 6: Jamane23 folded before Flop (didn't bet)
+Seat 7: Messiahlee31 collected ($0.85)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Robellis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929334865:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:07:36 (ET)
+Table 'Irene' 9-max Seat #1 is the button
+Seat 1: fraenk58 ($24.65 in chips) 
+Seat 2: serpeture ($8.50 in chips) 
+Seat 3: Dr.R ($14.75 in chips) 
+Seat 4: robbg58 ($11.50 in chips) 
+Seat 5: Bobby1776 ($37.05 in chips) 
+Seat 6: Jamane23 ($3.70 in chips) 
+Seat 7: Messiahlee31 ($13.45 in chips) 
+Seat 8: Alameda22 ($48.70 in chips) 
+Seat 9: Robellis ($19.90 in chips) 
+serpeture: posts small blind $0.10
+Dr.R: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 8d]
+Dr.R said, "texanqweer"
+Messiahlee31 said, "u guys are too mcuh"
+Robellis said, "aaaaaaaw yeah"
+robbg58: folds 
+Bobby1776: folds 
+Jamane23: folds 
+Messiahlee31: folds 
+Robellis said, "you know what they say about people in texa"
+Robellis said, "s"
+Alameda22: folds 
+Robellis: folds 
+fraenk58: raises $0.75 to $1
+serpeture: folds 
+Dr.R: folds 
+Uncalled bet ($0.75) returned to fraenk58
+Bobby1776 said, "We are super cool?"
+fraenk58 collected $0.60 from pot
+fraenk58: doesn't show hand 
+Dr.R said, "I see NO antlers"
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: fraenk58 (button) collected ($0.60)
+Seat 2: serpeture (small blind) folded before Flop
+Seat 3: Dr.R (big blind) folded before Flop
+Seat 4: robbg58 folded before Flop (didn't bet)
+Seat 5: Bobby1776 folded before Flop (didn't bet)
+Seat 6: Jamane23 folded before Flop (didn't bet)
+Seat 7: Messiahlee31 folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Robellis folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929351783:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:08:32 (ET)
+Table 'Irene' 9-max Seat #2 is the button
+Seat 1: fraenk58 ($25 in chips) 
+Seat 2: serpeture ($8.40 in chips) 
+Seat 3: Dr.R ($14.50 in chips) 
+Seat 4: robbg58 ($11.50 in chips) 
+Seat 5: Bobby1776 ($37.05 in chips) 
+Seat 6: Jamane23 ($3.70 in chips) 
+Seat 7: Messiahlee31 ($13.45 in chips) 
+Seat 8: Alameda22 ($48.70 in chips) 
+Seat 9: Robellis ($19.90 in chips) 
+Dr.R: posts small blind $0.10
+robbg58: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 7c]
+Bobby1776: folds 
+Jamane23: calls $0.25
+Messiahlee31: calls $0.25
+Robellis said, "lol, gay pride parade"
+Alameda22: folds 
+Robellis: folds 
+fraenk58: folds 
+fraenk58 leaves the table
+serpeture: folds 
+Dr.R: calls $0.15
+Bobby1776 said, "don't go knocking on Texas now"
+robbg58: checks 
+*** FLOP *** [Td Jh 6s]
+Messiahlee31 said, "go COWBOYS REDSKINS SUCK"
+Dr.R: bets $0.50
+robbg58: folds 
+Jamane23: calls $0.50
+Bobby1776 said, "there ya go"
+Messiahlee31: folds 
+*** TURN *** [Td Jh 6s] [6d]
+Dr.R: bets $0.75
+Imants joins the table at seat #1 
+Jamane23: calls $0.75
+*** RIVER *** [Td Jh 6s 6d] [8c]
+Bobby1776 said, "there are some inteeligent people in here after all"
+Bobby1776 said, "lol"
+Dr.R: bets $1.25
+Jamane23: calls $1.25
+*** SHOW DOWN ***
+Dr.R: shows [Jc Kd] (two pair, Jacks and Sixes)
+Jamane23: mucks hand 
+Dr.R collected $5.75 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.25 
+Board [Td Jh 6s 6d 8c]
+Seat 1: fraenk58 folded before Flop (didn't bet)
+Seat 2: serpeture (button) folded before Flop (didn't bet)
+Seat 3: Dr.R (small blind) showed [Jc Kd] and won ($5.75) with two pair, Jacks and Sixes
+Seat 4: robbg58 (big blind) folded on the Flop
+Seat 5: Bobby1776 folded before Flop (didn't bet)
+Seat 6: Jamane23 mucked [Tc Ks]
+Seat 7: Messiahlee31 folded on the Flop
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Robellis folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929375475:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:09:52 (ET)
+Table 'Irene' 9-max Seat #3 is the button
+Seat 1: Imants ($25 in chips) 
+Seat 2: serpeture ($8.40 in chips) 
+Seat 3: Dr.R ($17.50 in chips) 
+Seat 4: robbg58 ($11.25 in chips) 
+Seat 5: Bobby1776 ($37.05 in chips) 
+Seat 6: Jamane23 ($0.95 in chips) 
+Seat 7: Messiahlee31 ($13.20 in chips) 
+Seat 8: Alameda22 ($48.70 in chips) 
+Seat 9: Robellis ($19.90 in chips) 
+robbg58: posts small blind $0.10
+Bobby1776: posts big blind $0.25
+Imants: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Jc]
+Messiahlee31 said, "anyone who likes the skins is a moran"
+Jamane23: raises $0.70 to $0.95 and is all-in
+Messiahlee31: folds 
+Alameda22: folds 
+Robellis: calls $0.95
+Imants: folds 
+serpeture: folds 
+Dr.R: folds 
+Messiahlee31 said, "someones on tilt"
+robbg58: calls $0.85
+Bobby1776 said, "so tempting"
+Bobby1776 said, "lol"
+Bobby1776: folds 
+*** FLOP *** [Tc Ks Qh]
+robbg58: checks 
+Robellis: checks 
+*** TURN *** [Tc Ks Qh] [2d]
+Bobby1776 said, "good fold..lol"
+robbg58: checks 
+Robellis: checks 
+*** RIVER *** [Tc Ks Qh 2d] [3s]
+robbg58: checks 
+Robellis: checks 
+*** SHOW DOWN ***
+robbg58: shows [7s 7h] (a pair of Sevens)
+Jamane23: shows [Kh Jd] (a pair of Kings)
+Robellis: mucks hand 
+Jamane23 collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [Tc Ks Qh 2d 3s]
+Seat 1: Imants folded before Flop
+Seat 2: serpeture folded before Flop (didn't bet)
+Seat 3: Dr.R (button) folded before Flop (didn't bet)
+Seat 4: robbg58 (small blind) showed [7s 7h] and lost with a pair of Sevens
+Seat 5: Bobby1776 (big blind) folded before Flop
+Seat 6: Jamane23 showed [Kh Jd] and won ($3.20) with a pair of Kings
+Seat 7: Messiahlee31 folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Robellis mucked [8d 6d]
+
+
+
+PokerStars Game #19929405983:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:11:33 (ET)
+Table 'Irene' 9-max Seat #4 is the button
+Seat 1: Imants ($24.75 in chips) 
+Seat 2: serpeture ($8.40 in chips) 
+Seat 3: Dr.R ($17.50 in chips) 
+Seat 4: robbg58 ($10.30 in chips) 
+Seat 5: Bobby1776 ($36.80 in chips) 
+Seat 6: Jamane23 ($3.20 in chips) 
+Seat 7: Messiahlee31 ($13.20 in chips) 
+Seat 8: Alameda22 ($48.70 in chips) 
+Seat 9: Robellis ($18.95 in chips) 
+Bobby1776: posts small blind $0.10
+Jamane23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 6s]
+Messiahlee31 said, "nh sir"
+Messiahlee31: folds 
+Jamane23 said, "ty"
+Alameda22: folds 
+Messiahlee31 said, "not bad for a redskins fan"
+Robellis said, "all those hands sucked"
+Robellis: folds 
+Imants: raises $0.50 to $0.75
+Jamane23 said, "and dont think i didnt see what you said about my redskins"
+serpeture: folds 
+Robellis said, "excpet the prides"
+Dr.R: folds 
+robbg58: calls $0.75
+Bobby1776: calls $0.65
+Messiahlee31 said, "lol"
+Messiahlee31 said, "who said what"
+Messiahlee31 said, "not me"
+Jamane23: calls $0.50
+*** FLOP *** [3c 2s 5d]
+Robellis said, "except half the deck beats it"
+Bobby1776: bets $0.75
+Jamane23: calls $0.75
+Imants: folds 
+robbg58: folds 
+*** TURN *** [3c 2s 5d] [Qc]
+Bobby1776: checks 
+Jamane23: checks 
+*** RIVER *** [3c 2s 5d Qc] [Kh]
+Bobby1776: bets $2
+Jamane23: calls $1.70 and is all-in
+Uncalled bet ($0.30) returned to Bobby1776
+*** SHOW DOWN ***
+Bobby1776: shows [2d 2h] (three of a kind, Deuces)
+Jamane23: mucks hand 
+Bobby1776 collected $7.55 from pot
+*** SUMMARY ***
+Total pot $7.90 | Rake $0.35 
+Board [3c 2s 5d Qc Kh]
+Seat 1: Imants folded on the Flop
+Seat 2: serpeture folded before Flop (didn't bet)
+Seat 3: Dr.R folded before Flop (didn't bet)
+Seat 4: robbg58 (button) folded on the Flop
+Seat 5: Bobby1776 (small blind) showed [2d 2h] and won ($7.55) with three of a kind, Deuces
+Seat 6: Jamane23 (big blind) mucked [5c Jc]
+Seat 7: Messiahlee31 folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: Robellis folded before Flop (didn't bet)
+
+
+

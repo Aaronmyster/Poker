@@ -1,0 +1,531 @@
+PokerStars Game #19929199853:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:00:12 (ET)
+Table 'Desiderata' 9-max Seat #8 is the button
+Seat 1: weepeel ($38.95 in chips) 
+Seat 2: Alameda22 ($57.60 in chips) 
+Seat 3: srou25 ($29.55 in chips) 
+Seat 4: Dooley2005 ($30.20 in chips) 
+Seat 5: Boks22 ($24.40 in chips) 
+Seat 6: tetekru ($14.95 in chips) 
+Seat 7: FARPCOL ($31.25 in chips) 
+Seat 8: working4ever ($10.50 in chips) 
+Seat 9: DeadEndKev ($25.35 in chips) 
+DeadEndKev: posts small blind $0.10
+weepeel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 8h]
+Alameda22: folds 
+srou25: raises $0.50 to $0.75
+Dooley2005: folds 
+Boks22: folds 
+tetekru: folds 
+FARPCOL: calls $0.75
+working4ever: folds 
+DeadEndKev: folds 
+weepeel: calls $0.50
+*** FLOP *** [Kc Ac 6c]
+weepeel: bets $1.50
+srou25: raises $2 to $3.50
+FARPCOL: calls $3.50
+weepeel: calls $2
+*** TURN *** [Kc Ac 6c] [6h]
+weepeel: checks 
+srou25: checks 
+FARPCOL: checks 
+*** RIVER *** [Kc Ac 6c 6h] [As]
+weepeel: checks 
+srou25: bets $3.50
+FARPCOL: folds 
+weepeel: folds 
+Uncalled bet ($3.50) returned to srou25
+srou25 collected $12.25 from pot
+srou25: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.85 | Rake $0.60 
+Board [Kc Ac 6c 6h As]
+Seat 1: weepeel (big blind) folded on the River
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 3: srou25 collected ($12.25)
+Seat 4: Dooley2005 folded before Flop (didn't bet)
+Seat 5: Boks22 folded before Flop (didn't bet)
+Seat 6: tetekru folded before Flop (didn't bet)
+Seat 7: FARPCOL folded on the River
+Seat 8: working4ever (button) folded before Flop (didn't bet)
+Seat 9: DeadEndKev (small blind) folded before Flop
+
+
+
+PokerStars Game #19929231289:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:01:54 (ET)
+Table 'Desiderata' 9-max Seat #9 is the button
+Seat 1: weepeel ($34.70 in chips) 
+Seat 2: Alameda22 ($57.60 in chips) 
+Seat 3: srou25 ($37.55 in chips) 
+Seat 4: Dooley2005 ($30.20 in chips) 
+Seat 5: Boks22 ($24.40 in chips) 
+Seat 6: tetekru ($14.95 in chips) 
+Seat 7: FARPCOL ($27 in chips) 
+Seat 8: working4ever ($10.50 in chips) 
+Seat 9: DeadEndKev ($25.25 in chips) 
+weepeel: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Ah]
+srou25: folds 
+Dooley2005: folds 
+Boks22: folds 
+tetekru: folds 
+FARPCOL: folds 
+srou25 leaves the table
+working4ever: calls $0.25
+DeadEndKev: folds 
+weepeel: folds 
+Alameda22: checks 
+*** FLOP *** [6d Ks 7c]
+Alameda22: checks 
+working4ever: checks 
+*** TURN *** [6d Ks 7c] [Kc]
+Alameda22: checks 
+working4ever: checks 
+*** RIVER *** [6d Ks 7c Kc] [4s]
+Alameda22: checks 
+working4ever: bets $0.25
+Alameda22: folds 
+Uncalled bet ($0.25) returned to working4ever
+working4ever collected $0.60 from pot
+working4ever: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6d Ks 7c Kc 4s]
+Seat 1: weepeel (small blind) folded before Flop
+Seat 2: Alameda22 (big blind) folded on the River
+Seat 3: srou25 folded before Flop (didn't bet)
+Seat 4: Dooley2005 folded before Flop (didn't bet)
+Seat 5: Boks22 folded before Flop (didn't bet)
+Seat 6: tetekru folded before Flop (didn't bet)
+Seat 7: FARPCOL folded before Flop (didn't bet)
+Seat 8: working4ever collected ($0.60)
+Seat 9: DeadEndKev (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929255095:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:03:12 (ET)
+Table 'Desiderata' 9-max Seat #1 is the button
+Seat 1: weepeel ($34.60 in chips) 
+Seat 2: Alameda22 ($57.35 in chips) 
+Seat 4: Dooley2005 ($30.20 in chips) 
+Seat 5: Boks22 ($24.40 in chips) 
+Seat 6: tetekru ($14.95 in chips) 
+Seat 7: FARPCOL ($27 in chips) 
+Seat 8: working4ever ($10.85 in chips) 
+Seat 9: DeadEndKev ($25.25 in chips) 
+Alameda22: posts small blind $0.10
+Dooley2005: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Jh]
+Boks22: folds 
+tetekru: folds 
+FARPCOL: folds 
+working4ever: calls $0.25
+DeadEndKev: folds 
+weepeel: folds 
+Alameda22: folds 
+Dooley2005: checks 
+*** FLOP *** [Ah 3d Kd]
+Dooley2005: bets $0.60
+working4ever: folds 
+Uncalled bet ($0.60) returned to Dooley2005
+Dooley2005 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ah 3d Kd]
+Seat 1: weepeel (button) folded before Flop (didn't bet)
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 4: Dooley2005 (big blind) collected ($0.60)
+Seat 5: Boks22 folded before Flop (didn't bet)
+Seat 6: tetekru folded before Flop (didn't bet)
+Seat 7: FARPCOL folded before Flop (didn't bet)
+Seat 8: working4ever folded on the Flop
+Seat 9: DeadEndKev folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929269306:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:03:58 (ET)
+Table 'Desiderata' 9-max Seat #2 is the button
+Seat 1: weepeel ($34.60 in chips) 
+Seat 2: Alameda22 ($57.25 in chips) 
+Seat 4: Dooley2005 ($30.55 in chips) 
+Seat 5: Boks22 ($24.40 in chips) 
+Seat 6: tetekru ($14.95 in chips) 
+Seat 7: FARPCOL ($27 in chips) 
+Seat 8: working4ever ($10.60 in chips) 
+Seat 9: DeadEndKev ($25.25 in chips) 
+Dooley2005: posts small blind $0.10
+Boks22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Jh]
+tetekru: folds 
+FARPCOL: folds 
+working4ever: calls $0.25
+1xWeisswurst joins the table at seat #3 
+DeadEndKev: folds 
+weepeel: calls $0.25
+Alameda22: folds 
+Dooley2005: folds 
+Boks22: checks 
+*** FLOP *** [As 8s 7d]
+Boks22: checks 
+working4ever: bets $0.25
+weepeel: folds 
+Boks22: folds 
+Uncalled bet ($0.25) returned to working4ever
+working4ever collected $0.85 from pot
+working4ever: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [As 8s 7d]
+Seat 1: weepeel folded on the Flop
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Dooley2005 (small blind) folded before Flop
+Seat 5: Boks22 (big blind) folded on the Flop
+Seat 6: tetekru folded before Flop (didn't bet)
+Seat 7: FARPCOL folded before Flop (didn't bet)
+Seat 8: working4ever collected ($0.85)
+Seat 9: DeadEndKev folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929285741:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:04:52 (ET)
+Table 'Desiderata' 9-max Seat #4 is the button
+Seat 1: weepeel ($34.35 in chips) 
+Seat 2: Alameda22 ($57.25 in chips) 
+Seat 4: Dooley2005 ($30.45 in chips) 
+Seat 5: Boks22 ($24.15 in chips) 
+Seat 6: tetekru ($14.95 in chips) 
+Seat 7: FARPCOL ($27 in chips) 
+Seat 8: working4ever ($11.20 in chips) 
+Seat 9: DeadEndKev ($25.25 in chips) 
+Boks22: posts small blind $0.10
+tetekru: posts big blind $0.25
+1xWeisswurst: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 5d]
+FARPCOL: folds 
+working4ever: folds 
+DeadEndKev: calls $0.25
+weepeel: calls $0.25
+Alameda22: folds 
+Dooley2005: folds 
+Boks22: folds 
+tetekru: checks 
+*** FLOP *** [7c Qs 5h]
+tetekru: checks 
+DeadEndKev: checks 
+weepeel: bets $0.50
+tetekru: calls $0.50
+DeadEndKev: folds 
+*** TURN *** [7c Qs 5h] [3s]
+tetekru: checks 
+weepeel: bets $0.75
+tetekru: calls $0.75
+*** RIVER *** [7c Qs 5h 3s] [Ks]
+tetekru: checks 
+weepeel: checks 
+*** SHOW DOWN ***
+tetekru: shows [6h 6s] (a pair of Sixes)
+weepeel: shows [Jh Qh] (a pair of Queens)
+weepeel collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [7c Qs 5h 3s Ks]
+Seat 1: weepeel showed [Jh Qh] and won ($3.20) with a pair of Queens
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: Dooley2005 (button) folded before Flop (didn't bet)
+Seat 5: Boks22 (small blind) folded before Flop
+Seat 6: tetekru (big blind) showed [6h 6s] and lost with a pair of Sixes
+Seat 7: FARPCOL folded before Flop (didn't bet)
+Seat 8: working4ever folded before Flop (didn't bet)
+Seat 9: DeadEndKev folded on the Flop
+
+
+
+PokerStars Game #19929310065:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:06:13 (ET)
+Table 'Desiderata' 9-max Seat #5 is the button
+Seat 1: weepeel ($36.05 in chips) 
+Seat 2: Alameda22 ($57.25 in chips) 
+Seat 4: Dooley2005 ($30.45 in chips) 
+Seat 5: Boks22 ($24.05 in chips) 
+Seat 6: tetekru ($13.45 in chips) 
+Seat 7: FARPCOL ($27 in chips) 
+Seat 8: working4ever ($11.20 in chips) 
+Seat 9: DeadEndKev ($25 in chips) 
+tetekru: posts small blind $0.10
+FARPCOL: posts big blind $0.25
+1xWeisswurst: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 3h]
+working4ever: folds 
+DeadEndKev: folds 
+weepeel: calls $0.25
+Alameda22: folds 
+Dooley2005: folds 
+Boks22: folds 
+tetekru: calls $0.15
+FARPCOL: checks 
+*** FLOP *** [Kd Th Qh]
+tetekru: checks 
+FARPCOL: checks 
+weepeel: checks 
+*** TURN *** [Kd Th Qh] [3s]
+tetekru: bets $0.50
+FARPCOL: folds 
+weepeel: folds 
+Uncalled bet ($0.50) returned to tetekru
+weepeel is sitting out
+tetekru collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Kd Th Qh 3s]
+Seat 1: weepeel folded on the Turn
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: Dooley2005 folded before Flop (didn't bet)
+Seat 5: Boks22 (button) folded before Flop (didn't bet)
+Seat 6: tetekru (small blind) collected ($0.75)
+Seat 7: FARPCOL (big blind) folded on the Turn
+Seat 8: working4ever folded before Flop (didn't bet)
+Seat 9: DeadEndKev folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929342712:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:08:02 (ET)
+Table 'Desiderata' 9-max Seat #6 is the button
+Seat 2: Alameda22 ($57.25 in chips) 
+Seat 4: Dooley2005 ($30.45 in chips) 
+Seat 5: Boks22 ($24.05 in chips) 
+Seat 6: tetekru ($13.95 in chips) 
+Seat 7: FARPCOL ($26.75 in chips) 
+Seat 8: working4ever ($11.20 in chips) 
+Seat 9: DeadEndKev ($25 in chips) 
+FARPCOL: posts small blind $0.10
+working4ever: posts big blind $0.25
+1xWeisswurst: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Th]
+DeadEndKev: folds 
+Alameda22: folds 
+Dooley2005: raises $0.75 to $1
+Boks22: folds 
+tetekru: folds 
+FARPCOL: calls $0.90
+working4ever: folds 
+*** FLOP *** [6s Qc Js]
+FARPCOL: checks 
+Dooley2005: bets $2
+FARPCOL: calls $2
+*** TURN *** [6s Qc Js] [Qd]
+FARPCOL: checks 
+Dooley2005: checks 
+*** RIVER *** [6s Qc Js Qd] [8s]
+FARPCOL: checks 
+Dooley2005: checks 
+*** SHOW DOWN ***
+FARPCOL: shows [Kc Kh] (two pair, Kings and Queens)
+Dooley2005: mucks hand 
+FARPCOL collected $5.95 from pot
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.30 
+Board [6s Qc Js Qd 8s]
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: Dooley2005 mucked [9d 9c]
+Seat 5: Boks22 folded before Flop (didn't bet)
+Seat 6: tetekru (button) folded before Flop (didn't bet)
+Seat 7: FARPCOL (small blind) showed [Kc Kh] and won ($5.95) with two pair, Kings and Queens
+Seat 8: working4ever (big blind) folded before Flop
+Seat 9: DeadEndKev folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929365281:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:09:17 (ET)
+Table 'Desiderata' 9-max Seat #7 is the button
+Seat 2: Alameda22 ($57.25 in chips) 
+Seat 4: Dooley2005 ($27.45 in chips) 
+Seat 5: Boks22 ($24.05 in chips) 
+Seat 6: tetekru ($13.95 in chips) 
+Seat 7: FARPCOL ($29.70 in chips) 
+Seat 8: working4ever ($10.95 in chips) 
+Seat 9: DeadEndKev ($25 in chips) 
+working4ever: posts small blind $0.10
+DeadEndKev: posts big blind $0.25
+1xWeisswurst: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Ts]
+Alameda22: folds 
+Dooley2005: folds 
+Boks22: raises $0.50 to $0.75
+tetekru: folds 
+FARPCOL: calls $0.75
+working4ever: folds 
+DeadEndKev: folds 
+*** FLOP *** [2c 4h Ad]
+Boks22: bets $1.25
+FARPCOL: calls $1.25
+*** TURN *** [2c 4h Ad] [Ah]
+Boks22: bets $2.75
+FARPCOL: calls $2.75
+*** RIVER *** [2c 4h Ad Ah] [8c]
+Boks22: bets $1.75
+FARPCOL: calls $1.75
+*** SHOW DOWN ***
+Boks22: shows [4d Js] (two pair, Aces and Fours)
+FARPCOL: shows [Ac Qh] (three of a kind, Aces)
+FARPCOL collected $12.75 from pot
+*** SUMMARY ***
+Total pot $13.35 | Rake $0.60 
+Board [2c 4h Ad Ah 8c]
+Seat 2: Alameda22 folded before Flop (didn't bet)
+Seat 4: Dooley2005 folded before Flop (didn't bet)
+Seat 5: Boks22 showed [4d Js] and lost with two pair, Aces and Fours
+Seat 6: tetekru folded before Flop (didn't bet)
+Seat 7: FARPCOL (button) showed [Ac Qh] and won ($12.75) with three of a kind, Aces
+Seat 8: working4ever (small blind) folded before Flop
+Seat 9: DeadEndKev (big blind) folded before Flop
+
+
+
+PokerStars Game #19929403257:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:11:24 (ET)
+Table 'Desiderata' 9-max Seat #8 is the button
+Seat 2: Alameda22 ($57.25 in chips) 
+Seat 4: Dooley2005 ($27.45 in chips) 
+Seat 5: Boks22 ($17.55 in chips) 
+Seat 6: tetekru ($13.95 in chips) 
+Seat 7: FARPCOL ($35.95 in chips) 
+Seat 8: working4ever ($10.85 in chips) 
+Seat 9: DeadEndKev ($24.75 in chips) 
+DeadEndKev: posts small blind $0.10
+Alameda22: posts big blind $0.25
+1xWeisswurst: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 8c]
+Dooley2005: raises $0.75 to $1
+Boks22: folds 
+tetekru: folds 
+FARPCOL: folds 
+working4ever: folds 
+DeadEndKev: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to Dooley2005
+Dooley2005 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Alameda22 (big blind) folded before Flop
+Seat 4: Dooley2005 collected ($0.60)
+Seat 5: Boks22 folded before Flop (didn't bet)
+Seat 6: tetekru folded before Flop (didn't bet)
+Seat 7: FARPCOL folded before Flop (didn't bet)
+Seat 8: working4ever (button) folded before Flop (didn't bet)
+Seat 9: DeadEndKev (small blind) folded before Flop
+
+
+
+PokerStars Game #19929419363:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:12:18 (ET)
+Table 'Desiderata' 9-max Seat #9 is the button
+Seat 2: Alameda22 ($57 in chips) 
+Seat 3: 1xWeisswurst ($6 in chips) 
+Seat 4: Dooley2005 ($27.80 in chips) 
+Seat 5: Boks22 ($17.55 in chips) 
+Seat 6: tetekru ($13.95 in chips) 
+Seat 7: FARPCOL ($35.95 in chips) 
+Seat 8: working4ever ($10.85 in chips) 
+Seat 9: DeadEndKev ($24.65 in chips) 
+Alameda22: posts small blind $0.10
+1xWeisswurst: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Jh]
+Dooley2005: folds 
+Boks22: folds 
+tetekru: calls $0.25
+FARPCOL: folds 
+working4ever: calls $0.25
+DeadEndKev: raises $1.75 to $2
+Alameda22: folds 
+1xWeisswurst: folds 
+tetekru: calls $1.75
+working4ever: folds 
+*** FLOP *** [Tc 4h 9c]
+tetekru: checks 
+DeadEndKev: bets $3
+tetekru: calls $3
+*** TURN *** [Tc 4h 9c] [Ac]
+tetekru: checks 
+DeadEndKev: checks 
+*** RIVER *** [Tc 4h 9c Ac] [Qs]
+tetekru: bets $3
+DeadEndKev: calls $3
+*** SHOW DOWN ***
+tetekru: shows [Ad 4d] (two pair, Aces and Fours)
+DeadEndKev: mucks hand 
+tetekru collected $15.80 from pot
+*** SUMMARY ***
+Total pot $16.60 | Rake $0.80 
+Board [Tc 4h 9c Ac Qs]
+Seat 2: Alameda22 (small blind) folded before Flop
+Seat 3: 1xWeisswurst (big blind) folded before Flop
+Seat 4: Dooley2005 folded before Flop (didn't bet)
+Seat 5: Boks22 folded before Flop (didn't bet)
+Seat 6: tetekru showed [Ad 4d] and won ($15.80) with two pair, Aces and Fours
+Seat 7: FARPCOL folded before Flop (didn't bet)
+Seat 8: working4ever folded before Flop
+Seat 9: DeadEndKev (button) mucked [Kd Ah]
+
+
+
+PokerStars Game #19929453353:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:14:15 (ET)
+Table 'Desiderata' 9-max Seat #2 is the button
+Seat 2: Alameda22 ($56.90 in chips) 
+Seat 3: 1xWeisswurst ($5.75 in chips) 
+Seat 4: Dooley2005 ($27.80 in chips) 
+Seat 5: Boks22 ($17.55 in chips) 
+Seat 6: tetekru ($21.75 in chips) 
+Seat 7: FARPCOL ($35.95 in chips) 
+Seat 8: working4ever ($10.60 in chips) 
+Seat 9: DeadEndKev ($25 in chips) 
+1xWeisswurst: posts small blind $0.10
+Dooley2005: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Ac]
+Boks22: folds 
+Boks22 leaves the table
+tetekru: calls $0.25
+FARPCOL: raises $1 to $1.25
+working4ever: folds 
+DeadEndKev: folds 
+Alameda22: folds 
+1xWeisswurst: folds 
+Dooley2005: folds 
+tetekru: calls $1
+*** FLOP *** [5d 8s Jd]
+tetekru: checks 
+FARPCOL: bets $1.75
+tetekru: raises $1.75 to $3.50
+weepeel has returned
+FARPCOL: calls $1.75
+*** TURN *** [5d 8s Jd] [7d]
+tetekru: checks 
+FARPCOL: checks 
+*** RIVER *** [5d 8s Jd 7d] [6h]
+tetekru: bets $5.50
+FARPCOL: folds 
+Uncalled bet ($5.50) returned to tetekru
+tetekru collected $9.40 from pot
+*** SUMMARY ***
+Total pot $9.85 | Rake $0.45 
+Board [5d 8s Jd 7d 6h]
+Seat 2: Alameda22 (button) folded before Flop (didn't bet)
+Seat 3: 1xWeisswurst (small blind) folded before Flop
+Seat 4: Dooley2005 (big blind) folded before Flop
+Seat 5: Boks22 folded before Flop (didn't bet)
+Seat 6: tetekru collected ($9.40)
+Seat 7: FARPCOL folded on the River
+Seat 8: working4ever folded before Flop (didn't bet)
+Seat 9: DeadEndKev folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,140 @@
+PokerStars Game #20156304061:  Hold'em No Limit ($0.25/$0.50) - 2008/09/05 0:00:33 ET
+Table 'Woltjer III' 9-max Seat #8 is the button
+Seat 1: dwq2300 ($10 in chips) 
+Seat 3: Ty1erDurden6 ($28.65 in chips) 
+Seat 4: Platonist ($55.90 in chips) 
+Seat 5: IUsux ($57.20 in chips) 
+Seat 6: paracu ($47.50 in chips) 
+Seat 7: alaird ($61.20 in chips) 
+Seat 8: Alameda22 ($49.40 in chips) 
+Seat 9: anguydlb ($43.90 in chips) 
+anguydlb: posts small blind $0.25
+dwq2300: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Jd]
+Ty1erDurden6: folds 
+Platonist: folds 
+IUsux: folds 
+paracu: folds 
+paracu leaves the table
+alaird: folds 
+Alameda22: folds 
+anguydlb: calls $0.25
+dwq2300: checks 
+*** FLOP *** [Jh 3c Tc]
+anguydlb: checks 
+dwq2300: bets $0.50
+anguydlb: calls $0.50
+*** TURN *** [Jh 3c Tc] [Jc]
+anguydlb: checks 
+dwq2300: checks 
+*** RIVER *** [Jh 3c Tc Jc] [As]
+anguydlb: checks 
+dwq2300: checks 
+*** SHOW DOWN ***
+anguydlb: shows [6d Qd] (a pair of Jacks)
+dwq2300: shows [4s Kh] (a pair of Jacks - Ace+King kicker)
+dwq2300 collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [Jh 3c Tc Jc As]
+Seat 1: dwq2300 (big blind) showed [4s Kh] and won ($1.95) with a pair of Jacks
+Seat 3: Ty1erDurden6 folded before Flop (didn't bet)
+Seat 4: Platonist folded before Flop (didn't bet)
+Seat 5: IUsux folded before Flop (didn't bet)
+Seat 6: paracu folded before Flop (didn't bet)
+Seat 7: alaird folded before Flop (didn't bet)
+Seat 8: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: anguydlb (small blind) showed [6d Qd] and lost with a pair of Jacks
+
+
+
+PokerStars Game #20156337351:  Hold'em No Limit ($0.25/$0.50) - 2008/09/05 0:02:25 ET
+Table 'Woltjer III' 9-max Seat #9 is the button
+Seat 1: dwq2300 ($10.95 in chips) 
+Seat 3: Ty1erDurden6 ($28.65 in chips) 
+Seat 4: Platonist ($55.90 in chips) 
+Seat 5: IUsux ($57.20 in chips) 
+Seat 7: alaird ($61.20 in chips) 
+Seat 8: Alameda22 ($49.40 in chips) 
+Seat 9: anguydlb ($42.90 in chips) 
+dwq2300: posts small blind $0.25
+Ty1erDurden6: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 2h]
+Platonist: folds 
+IUsux: folds 
+alaird: folds 
+Alameda22: folds 
+anguydlb: folds 
+dwq2300: calls $0.25
+Ty1erDurden6: checks 
+*** FLOP *** [5s 8s 6d]
+dwq2300: bets $0.50
+Ty1erDurden6: calls $0.50
+*** TURN *** [5s 8s 6d] [Jh]
+dwq2300: checks 
+Ty1erDurden6: bets $0.50
+dwq2300: calls $0.50
+*** RIVER *** [5s 8s 6d Jh] [4s]
+dwq2300: checks 
+Ty1erDurden6: bets $1.50
+dwq2300: folds 
+Uncalled bet ($1.50) returned to Ty1erDurden6
+Ty1erDurden6 collected $2.90 from pot
+Ty1erDurden6: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.10 
+Board [5s 8s 6d Jh 4s]
+Seat 1: dwq2300 (small blind) folded on the River
+Seat 3: Ty1erDurden6 (big blind) collected ($2.90)
+Seat 4: Platonist folded before Flop (didn't bet)
+Seat 5: IUsux folded before Flop (didn't bet)
+Seat 7: alaird folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: anguydlb (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20156372981:  Hold'em No Limit ($0.25/$0.50) - 2008/09/05 0:04:23 ET
+Table 'Woltjer III' 9-max Seat #1 is the button
+Seat 1: dwq2300 ($9.45 in chips) 
+Seat 3: Ty1erDurden6 ($30.05 in chips) 
+Seat 4: Platonist ($55.90 in chips) 
+Seat 5: IUsux ($57.20 in chips) 
+Seat 7: alaird ($61.20 in chips) 
+Seat 8: Alameda22 ($49.40 in chips) 
+Seat 9: anguydlb ($42.90 in chips) 
+Ty1erDurden6: posts small blind $0.25
+Platonist: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 9s]
+IUsux: folds 
+alaird: folds 
+Alameda22: folds 
+anguydlb: folds 
+dwq2300: calls $0.50
+Ty1erDurden6: calls $0.25
+Platonist: checks 
+*** FLOP *** [2d 8c Qs]
+Ty1erDurden6: checks 
+Platonist: checks 
+dwq2300: bets $1
+Ty1erDurden6: folds 
+Platonist: folds 
+Uncalled bet ($1) returned to dwq2300
+dwq2300 collected $1.45 from pot
+dwq2300: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [2d 8c Qs]
+Seat 1: dwq2300 (button) collected ($1.45)
+Seat 3: Ty1erDurden6 (small blind) folded on the Flop
+Seat 4: Platonist (big blind) folded on the Flop
+Seat 5: IUsux folded before Flop (didn't bet)
+Seat 7: alaird folded before Flop (didn't bet)
+Seat 8: Alameda22 folded before Flop (didn't bet)
+Seat 9: anguydlb folded before Flop (didn't bet)
+
+
+

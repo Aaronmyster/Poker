@@ -1,0 +1,3341 @@
+PokerStars Game #19570376767:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:50:05 (ET)
+Table 'Zeissia III' 9-max Seat #7 is the button
+Seat 1: Togi Tog ($43.60 in chips) 
+Seat 2: Fernando26 ($12.25 in chips) 
+Seat 4: Tjitze ($12.15 in chips) 
+Seat 6: istanbul3400 ($25.80 in chips) 
+Seat 7: mikro58 ($3.60 in chips) 
+Seat 8: bownarrow ($25 in chips) 
+Seat 9: Alameda22 ($25 in chips) 
+bownarrow: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Fernando26 said, "nh"
+Breezer929: sits out 
+Chris_Rdam: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Ah]
+Togi Tog: folds 
+Fernando26: folds 
+Tjitze: raises $0.75 to $1
+istanbul3400: folds 
+mikro58: folds 
+bownarrow: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to Tjitze
+Tjitze collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Togi Tog folded before Flop (didn't bet)
+Seat 2: Fernando26 folded before Flop (didn't bet)
+Seat 4: Tjitze collected ($0.60)
+Seat 6: istanbul3400 folded before Flop (didn't bet)
+Seat 7: mikro58 (button) folded before Flop (didn't bet)
+Seat 8: bownarrow (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #19570392284:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:50:45 (ET)
+Table 'Zeissia III' 9-max Seat #8 is the button
+Seat 1: Togi Tog ($43.60 in chips) 
+Seat 2: Fernando26 ($12.25 in chips) 
+Seat 4: Tjitze ($12.50 in chips) 
+Seat 6: istanbul3400 ($25.80 in chips) 
+Seat 7: mikro58 ($3.60 in chips) 
+Seat 8: bownarrow ($24.90 in chips) 
+Seat 9: Alameda22 ($24.75 in chips) 
+Alameda22: posts small blind $0.10
+Togi Tog: posts big blind $0.25
+Breezer929: sits out 
+Chris_Rdam: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 2h]
+Fernando26: calls $0.25
+Tjitze: calls $0.25
+istanbul3400: calls $0.25
+mikro58: folds 
+bownarrow: folds 
+Alameda22: folds 
+Togi Tog: checks 
+*** FLOP *** [Ad Tc 9h]
+Togi Tog: checks 
+Fernando26: checks 
+Tjitze: bets $1.25
+istanbul3400: folds 
+Togi Tog: folds 
+Fernando26: raises $2 to $3.25
+Tjitze: folds 
+Uncalled bet ($2) returned to Fernando26
+Fernando26 collected $3.45 from pot
+Fernando26: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.15 
+Board [Ad Tc 9h]
+Seat 1: Togi Tog (big blind) folded on the Flop
+Seat 2: Fernando26 collected ($3.45)
+Seat 4: Tjitze folded on the Flop
+Seat 6: istanbul3400 folded on the Flop
+Seat 7: mikro58 folded before Flop (didn't bet)
+Seat 8: bownarrow (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19570410816:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:51:33 (ET)
+Table 'Zeissia III' 9-max Seat #9 is the button
+Seat 1: Togi Tog ($43.35 in chips) 
+Seat 2: Fernando26 ($14.20 in chips) 
+Seat 4: Tjitze ($11 in chips) 
+Seat 6: istanbul3400 ($25.55 in chips) 
+Seat 7: mikro58 ($3.60 in chips) 
+Seat 8: bownarrow ($24.90 in chips) 
+Seat 9: Alameda22 ($24.65 in chips) 
+Togi Tog: posts small blind $0.10
+Fernando26: posts big blind $0.25
+Breezer929: sits out 
+Chris_Rdam: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Ad]
+Tjitze: calls $0.25
+istanbul3400: calls $0.25
+mikro58: folds 
+bownarrow: folds 
+Alameda22: folds 
+Togi Tog: calls $0.15
+Fernando26: checks 
+*** FLOP *** [Qh Ac 8s]
+Togi Tog: checks 
+Fernando26: checks 
+Tjitze: checks 
+istanbul3400: checks 
+*** TURN *** [Qh Ac 8s] [3s]
+Togi Tog: checks 
+Fernando26: checks 
+Tjitze: checks 
+istanbul3400: bets $0.25
+Togi Tog: calls $0.25
+Fernando26: calls $0.25
+Tjitze: calls $0.25
+*** RIVER *** [Qh Ac 8s 3s] [8d]
+Togi Tog: checks 
+Fernando26: checks 
+Tjitze: checks 
+istanbul3400: bets $0.25
+Togi Tog: calls $0.25
+Fernando26: calls $0.25
+Tjitze: folds 
+*** SHOW DOWN ***
+istanbul3400: shows [Qc 2h] (two pair, Queens and Eights)
+Togi Tog: shows [As 2c] (two pair, Aces and Eights)
+Fernando26: mucks hand 
+Togi Tog collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [Qh Ac 8s 3s 8d]
+Seat 1: Togi Tog (small blind) showed [As 2c] and won ($2.65) with two pair, Aces and Eights
+Seat 2: Fernando26 (big blind) mucked [6h 6d]
+Seat 4: Tjitze folded on the River
+Seat 6: istanbul3400 showed [Qc 2h] and lost with two pair, Queens and Eights
+Seat 7: mikro58 folded before Flop (didn't bet)
+Seat 8: bownarrow folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570441017:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:52:50 (ET)
+Table 'Zeissia III' 9-max Seat #1 is the button
+Seat 1: Togi Tog ($45.25 in chips) 
+Seat 2: Fernando26 ($13.45 in chips) 
+Seat 3: Breezer929 ($25 in chips) 
+Seat 4: Tjitze ($10.50 in chips) 
+Seat 6: istanbul3400 ($24.80 in chips) 
+Seat 7: mikro58 ($3.60 in chips) 
+Seat 8: bownarrow ($24.90 in chips) 
+Seat 9: Alameda22 ($24.65 in chips) 
+Fernando26: posts small blind $0.10
+Breezer929: posts big blind $0.25
+Chris_Rdam: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Kh]
+Tjitze: raises $0.50 to $0.75
+istanbul3400: folds 
+mikro58: calls $0.75
+bownarrow: folds 
+Alameda22: folds 
+Togi Tog: calls $0.75
+Fernando26: calls $0.65
+Breezer929: folds 
+*** FLOP *** [2h 2s Qh]
+Fernando26: bets $1
+Tjitze: folds 
+mikro58: folds 
+Togi Tog: folds 
+Uncalled bet ($1) returned to Fernando26
+Fernando26 collected $3.10 from pot
+Fernando26: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [2h 2s Qh]
+Seat 1: Togi Tog (button) folded on the Flop
+Seat 2: Fernando26 (small blind) collected ($3.10)
+Seat 3: Breezer929 (big blind) folded before Flop
+Seat 4: Tjitze folded on the Flop
+Seat 6: istanbul3400 folded before Flop (didn't bet)
+Seat 7: mikro58 folded on the Flop
+Seat 8: bownarrow folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570459089:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:53:38 (ET)
+Table 'Zeissia III' 9-max Seat #2 is the button
+Seat 1: Togi Tog ($44.50 in chips) 
+Seat 2: Fernando26 ($15.80 in chips) 
+Seat 3: Breezer929 ($24.75 in chips) 
+Seat 4: Tjitze ($9.75 in chips) 
+Seat 6: istanbul3400 ($24.80 in chips) 
+Seat 7: mikro58 ($2.85 in chips) 
+Seat 8: bownarrow ($24.90 in chips) 
+Seat 9: Alameda22 ($24.65 in chips) 
+Breezer929: posts small blind $0.10
+Tjitze: posts big blind $0.25
+Chris_Rdam: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 6d]
+istanbul3400: calls $0.25
+mikro58: folds 
+bownarrow: folds 
+Alameda22: folds 
+Togi Tog: folds 
+Fernando26: folds 
+Breezer929: folds 
+Tjitze: checks 
+*** FLOP *** [As 2d Td]
+Tjitze: checks 
+istanbul3400: checks 
+*** TURN *** [As 2d Td] [Th]
+Tjitze: checks 
+istanbul3400: bets $0.25
+Tjitze: calls $0.25
+*** RIVER *** [As 2d Td Th] [8s]
+Tjitze: checks 
+istanbul3400: checks 
+*** SHOW DOWN ***
+Tjitze: shows [Kd 5h] (a pair of Tens)
+istanbul3400: shows [2s Ks] (two pair, Tens and Deuces)
+istanbul3400 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [As 2d Td Th 8s]
+Seat 1: Togi Tog folded before Flop (didn't bet)
+Seat 2: Fernando26 (button) folded before Flop (didn't bet)
+Seat 3: Breezer929 (small blind) folded before Flop
+Seat 4: Tjitze (big blind) showed [Kd 5h] and lost with a pair of Tens
+Seat 6: istanbul3400 showed [2s Ks] and won ($1.05) with two pair, Tens and Deuces
+Seat 7: mikro58 folded before Flop (didn't bet)
+Seat 8: bownarrow folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570474145:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:54:16 (ET)
+Table 'Zeissia III' 9-max Seat #3 is the button
+Seat 1: Togi Tog ($44.50 in chips) 
+Seat 2: Fernando26 ($15.80 in chips) 
+Seat 3: Breezer929 ($24.65 in chips) 
+Seat 4: Tjitze ($9.25 in chips) 
+Seat 5: Chris_Rdam ($25 in chips) 
+Seat 6: istanbul3400 ($25.35 in chips) 
+Seat 7: mikro58 ($2.85 in chips) 
+Seat 8: bownarrow ($24.90 in chips) 
+Seat 9: Alameda22 ($24.65 in chips) 
+Tjitze: posts small blind $0.10
+Chris_Rdam: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Tc]
+istanbul3400: calls $0.25
+mikro58: folds 
+bownarrow: folds 
+Alameda22: folds 
+Togi Tog: folds 
+Fernando26: calls $0.25
+Breezer929: folds 
+Tjitze: calls $0.15
+Chris_Rdam: raises $1.25 to $1.50
+istanbul3400: folds 
+Fernando26: calls $1.25
+Tjitze: folds 
+*** FLOP *** [2s 4h Jd]
+Chris_Rdam: bets $2
+Fernando26: raises $4 to $6
+Chris_Rdam: raises $12.25 to $18.25
+Fernando26 said, "nh"
+Fernando26: folds 
+Uncalled bet ($12.25) returned to Chris_Rdam
+Chris_Rdam said, "ty"
+Chris_Rdam collected $14.75 from pot
+Chris_Rdam: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.75 
+Board [2s 4h Jd]
+Seat 1: Togi Tog folded before Flop (didn't bet)
+Seat 2: Fernando26 folded on the Flop
+Seat 3: Breezer929 (button) folded before Flop (didn't bet)
+Seat 4: Tjitze (small blind) folded before Flop
+Seat 5: Chris_Rdam (big blind) collected ($14.75)
+Seat 6: istanbul3400 folded before Flop
+Seat 7: mikro58 folded before Flop (didn't bet)
+Seat 8: bownarrow folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570520079:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:56:16 (ET)
+Table 'Zeissia III' 9-max Seat #4 is the button
+Seat 1: Togi Tog ($44.50 in chips) 
+Seat 2: Fernando26 ($8.30 in chips) 
+Seat 3: Breezer929 ($24.65 in chips) 
+Seat 4: Tjitze ($9 in chips) 
+Seat 5: Chris_Rdam ($32.25 in chips) 
+Seat 6: istanbul3400 ($25.10 in chips) 
+Seat 7: mikro58 ($2.85 in chips) 
+Seat 8: bownarrow ($24.90 in chips) 
+Seat 9: Alameda22 ($24.65 in chips) 
+Chris_Rdam: posts small blind $0.10
+istanbul3400: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Th]
+mikro58: folds 
+bownarrow: folds 
+Tjitze said, "lkr chrissie"
+Alameda22: folds 
+Togi Tog: calls $0.25
+Fernando26: calls $0.25
+Breezer929: folds 
+Tjitze: calls $0.25
+Chris_Rdam: calls $0.15
+istanbul3400: raises $2.25 to $2.50
+Togi Tog: folds 
+Fernando26: folds 
+Tjitze: folds 
+Chris_Rdam: calls $2.25
+*** FLOP *** [Td 8d 4h]
+Chris_Rdam: checks 
+istanbul3400: bets $2.25
+Chris_Rdam: calls $2.25
+*** TURN *** [Td 8d 4h] [6c]
+Chris_Rdam: bets $5
+istanbul3400: calls $5
+*** RIVER *** [Td 8d 4h 6c] [6h]
+Chris_Rdam: bets $15.50
+istanbul3400: folds 
+Uncalled bet ($15.50) returned to Chris_Rdam
+Chris_Rdam collected $19.30 from pot
+Chris_Rdam: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.25 | Rake $0.95 
+Board [Td 8d 4h 6c 6h]
+Seat 1: Togi Tog folded before Flop
+Seat 2: Fernando26 folded before Flop
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: Tjitze (button) folded before Flop
+Seat 5: Chris_Rdam (small blind) collected ($19.30)
+Seat 6: istanbul3400 (big blind) folded on the River
+Seat 7: mikro58 folded before Flop (didn't bet)
+Seat 8: bownarrow folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570567870:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:58:20 (ET)
+Table 'Zeissia III' 9-max Seat #5 is the button
+Seat 1: Togi Tog ($44.25 in chips) 
+Seat 2: Fernando26 ($8.05 in chips) 
+Seat 3: Breezer929 ($24.65 in chips) 
+Seat 4: Tjitze ($8.75 in chips) 
+Seat 5: Chris_Rdam ($41.80 in chips) 
+Seat 6: istanbul3400 ($15.35 in chips) 
+Seat 7: mikro58 ($2.85 in chips) 
+Seat 8: bownarrow ($24.90 in chips) 
+Seat 9: Alameda22 ($24.65 in chips) 
+istanbul3400: posts small blind $0.10
+mikro58: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 9c]
+bownarrow: folds 
+Alameda22: folds 
+Togi Tog: calls $0.25
+Fernando26: calls $0.25
+Breezer929: folds 
+Tjitze: calls $0.25
+Chris_Rdam: folds 
+istanbul3400: calls $0.15
+mikro58: checks 
+*** FLOP *** [2c Jc 7s]
+istanbul3400: checks 
+mikro58: folds 
+Togi Tog: checks 
+Fernando26: bets $1.25
+Tjitze: folds 
+istanbul3400: folds 
+Togi Tog: folds 
+Uncalled bet ($1.25) returned to Fernando26
+Fernando26 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [2c Jc 7s]
+Seat 1: Togi Tog folded on the Flop
+Seat 2: Fernando26 collected ($1.20)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: Tjitze folded on the Flop
+Seat 5: Chris_Rdam (button) folded before Flop (didn't bet)
+Seat 6: istanbul3400 (small blind) folded on the Flop
+Seat 7: mikro58 (big blind) folded on the Flop
+Seat 8: bownarrow folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570596241:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 18:59:35 (ET)
+Table 'Zeissia III' 9-max Seat #6 is the button
+Seat 1: Togi Tog ($44 in chips) 
+Seat 2: Fernando26 ($9 in chips) 
+Seat 3: Breezer929 ($24.65 in chips) 
+Seat 4: Tjitze ($8.50 in chips) 
+Seat 5: Chris_Rdam ($41.80 in chips) 
+Seat 6: istanbul3400 ($15.10 in chips) 
+Seat 7: mikro58 ($2.60 in chips) 
+Seat 8: bownarrow ($24.90 in chips) 
+Seat 9: Alameda22 ($24.65 in chips) 
+mikro58: posts small blind $0.10
+bownarrow: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 5h]
+Alameda22: folds 
+Togi Tog: folds 
+Fernando26: raises $0.75 to $1
+Breezer929: folds 
+Tjitze: folds 
+Chris_Rdam: folds 
+istanbul3400: folds 
+mikro58: calls $0.90
+bownarrow: folds 
+*** FLOP *** [4s 4h 3s]
+mikro58: checks 
+Fernando26: bets $1.75
+mikro58: calls $1.60 and is all-in
+Uncalled bet ($0.15) returned to Fernando26
+*** TURN *** [4s 4h 3s] [Kh]
+*** RIVER *** [4s 4h 3s Kh] [7d]
+*** SHOW DOWN ***
+mikro58: shows [6s Js] (a pair of Fours)
+Fernando26: shows [Kc Jc] (two pair, Kings and Fours)
+Fernando26 collected $5.20 from pot
+*** SUMMARY ***
+Total pot $5.45 | Rake $0.25 
+Board [4s 4h 3s Kh 7d]
+Seat 1: Togi Tog folded before Flop (didn't bet)
+Seat 2: Fernando26 showed [Kc Jc] and won ($5.20) with two pair, Kings and Fours
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: Tjitze folded before Flop (didn't bet)
+Seat 5: Chris_Rdam folded before Flop (didn't bet)
+Seat 6: istanbul3400 (button) folded before Flop (didn't bet)
+Seat 7: mikro58 (small blind) showed [6s Js] and lost with a pair of Fours
+Seat 8: bownarrow (big blind) folded before Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570614221:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:00:21 (ET)
+Table 'Zeissia III' 9-max Seat #8 is the button
+Seat 1: Togi Tog ($44 in chips) 
+Seat 2: Fernando26 ($11.60 in chips) 
+Seat 3: Breezer929 ($24.65 in chips) 
+Seat 4: Tjitze ($8.50 in chips) 
+Seat 5: Chris_Rdam ($41.80 in chips) 
+Seat 6: istanbul3400 ($15.10 in chips) 
+Seat 8: bownarrow ($24.65 in chips) 
+Seat 9: Alameda22 ($24.65 in chips) 
+Alameda22: posts small blind $0.10
+Togi Tog: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Ks]
+Fernando26: folds 
+Breezer929: folds 
+Tjitze: raises $0.50 to $0.75
+Chris_Rdam: folds 
+istanbul3400: calls $0.75
+bownarrow: folds 
+Alameda22: folds 
+Togi Tog: calls $0.50
+*** FLOP *** [Qd Th Jc]
+Togi Tog: checks 
+Tjitze: bets $0.75
+istanbul3400: calls $0.75
+Togi Tog: calls $0.75
+*** TURN *** [Qd Th Jc] [Qc]
+Togi Tog: checks 
+Tjitze: checks 
+istanbul3400: checks 
+*** RIVER *** [Qd Th Jc Qc] [8h]
+Togi Tog: bets $4.25
+Tjitze: folds 
+istanbul3400: folds 
+Uncalled bet ($4.25) returned to Togi Tog
+Togi Tog collected $4.40 from pot
+Togi Tog: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.20 
+Board [Qd Th Jc Qc 8h]
+Seat 1: Togi Tog (big blind) collected ($4.40)
+Seat 2: Fernando26 folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: Tjitze folded on the River
+Seat 5: Chris_Rdam folded before Flop (didn't bet)
+Seat 6: istanbul3400 folded on the River
+Seat 8: bownarrow (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19570641327:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:01:32 (ET)
+Table 'Zeissia III' 9-max Seat #9 is the button
+Seat 1: Togi Tog ($46.90 in chips) 
+Seat 2: Fernando26 ($11.60 in chips) 
+Seat 3: Breezer929 ($24.65 in chips) 
+Seat 4: Tjitze ($7 in chips) 
+Seat 5: Chris_Rdam ($41.80 in chips) 
+Seat 6: istanbul3400 ($13.60 in chips) 
+Seat 8: bownarrow ($24.65 in chips) 
+Seat 9: Alameda22 ($24.55 in chips) 
+Togi Tog: posts small blind $0.10
+Fernando26: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Qd]
+Breezer929: folds 
+Tjitze: calls $0.25
+Chris_Rdam: folds 
+istanbul3400: calls $0.25
+bownarrow: folds 
+Alameda22: folds 
+Togi Tog: calls $0.15
+Fernando26: raises $1.75 to $2
+mikro58 has returned
+Tjitze: folds 
+istanbul3400: folds 
+Togi Tog: calls $1.75
+*** FLOP *** [Kd 9d Jd]
+Togi Tog: bets $0.25
+Fernando26: raises $1.75 to $2
+Togi Tog: folds 
+Uncalled bet ($1.75) returned to Fernando26
+Fernando26 collected $4.80 from pot
+Fernando26: shows [4c 4s] (a pair of Fours)
+*** SUMMARY ***
+Total pot $5 | Rake $0.20 
+Board [Kd 9d Jd]
+Seat 1: Togi Tog (small blind) folded on the Flop
+Seat 2: Fernando26 (big blind) collected ($4.80)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: Tjitze folded before Flop
+Seat 5: Chris_Rdam folded before Flop (didn't bet)
+Seat 6: istanbul3400 folded before Flop
+Seat 8: bownarrow folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570668839:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:02:42 (ET)
+Table 'Zeissia III' 9-max Seat #1 is the button
+Seat 1: Togi Tog ($44.65 in chips) 
+Seat 2: Fernando26 ($14.15 in chips) 
+Seat 3: Breezer929 ($24.65 in chips) 
+Seat 4: Tjitze ($6.75 in chips) 
+Seat 5: Chris_Rdam ($41.80 in chips) 
+Seat 6: istanbul3400 ($13.35 in chips) 
+Seat 7: mikro58 ($15 in chips) 
+Seat 8: bownarrow ($24.65 in chips) 
+Seat 9: Alameda22 ($24.55 in chips) 
+Fernando26: posts small blind $0.10
+Breezer929: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Qh]
+Tjitze: raises $0.50 to $0.75
+Chris_Rdam: folds 
+istanbul3400: calls $0.75
+mikro58: folds 
+bownarrow: folds 
+bownarrow leaves the table
+Alameda22: folds 
+Togi Tog: calls $0.75
+Fernando26: calls $0.65
+trastras joins the table at seat #8 
+Breezer929: folds 
+*** FLOP *** [2c 9s 6d]
+Fernando26: checks 
+Tjitze: bets $1.25
+istanbul3400: calls $1.25
+Togi Tog: calls $1.25
+Fernando26: folds 
+*** TURN *** [2c 9s 6d] [5d]
+Tjitze: bets $1.25
+istanbul3400: calls $1.25
+Togi Tog: raises $9.75 to $11
+Tjitze: folds 
+Togi Tog said, "nein"
+istanbul3400: calls $9.75
+*** RIVER *** [2c 9s 6d 5d] [Qc]
+istanbul3400: checks 
+Togi Tog: bets $0.50
+istanbul3400: calls $0.35 and is all-in
+Uncalled bet ($0.15) returned to Togi Tog
+*** SHOW DOWN ***
+Togi Tog: shows [5s 5h] (three of a kind, Fives)
+istanbul3400: mucks hand 
+Togi Tog collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30.95 | Rake $1.45 
+Board [2c 9s 6d 5d Qc]
+Seat 1: Togi Tog (button) showed [5s 5h] and won ($29.50) with three of a kind, Fives
+Seat 2: Fernando26 (small blind) folded on the Flop
+Seat 3: Breezer929 (big blind) folded before Flop
+Seat 4: Tjitze folded on the Turn
+Seat 5: Chris_Rdam folded before Flop (didn't bet)
+Seat 6: istanbul3400 mucked [9c Ks]
+Seat 7: mikro58 folded before Flop (didn't bet)
+Seat 8: bownarrow folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570712261:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:04:33 (ET)
+Table 'Zeissia III' 9-max Seat #2 is the button
+Seat 1: Togi Tog ($60.80 in chips) 
+Seat 2: Fernando26 ($13.40 in chips) 
+Seat 3: Breezer929 ($24.40 in chips) 
+Seat 4: Tjitze ($3.50 in chips) 
+Seat 5: Chris_Rdam ($41.80 in chips) 
+Seat 7: mikro58 ($15 in chips) 
+Seat 9: Alameda22 ($24.55 in chips) 
+Breezer929: posts small blind $0.10
+Tjitze: posts big blind $0.25
+trastras: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Jh]
+Chris_Rdam: folds 
+mikro58: calls $0.25
+Alameda22: folds 
+Togi Tog: calls $0.25
+Fernando26: calls $0.25
+Breezer929: calls $0.15
+Tjitze: checks 
+*** FLOP *** [7h 5s 2d]
+Togi Tog said, "sorry"
+Breezer929: checks 
+Tjitze: checks 
+mikro58: checks 
+Togi Tog: checks 
+Fernando26: bets $1.25
+Breezer929: folds 
+Tjitze: folds 
+mikro58: folds 
+istanbul3400 leaves the table
+Togi Tog: folds 
+Uncalled bet ($1.25) returned to Fernando26
+Fernando26 collected $1.20 from pot
+Fernando26: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [7h 5s 2d]
+Seat 1: Togi Tog folded on the Flop
+Seat 2: Fernando26 (button) collected ($1.20)
+Seat 3: Breezer929 (small blind) folded on the Flop
+Seat 4: Tjitze (big blind) folded on the Flop
+Seat 5: Chris_Rdam folded before Flop (didn't bet)
+Seat 7: mikro58 folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570734461:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:05:30 (ET)
+Table 'Zeissia III' 9-max Seat #3 is the button
+Seat 1: Togi Tog ($60.55 in chips) 
+Seat 2: Fernando26 ($14.35 in chips) 
+Seat 3: Breezer929 ($24.15 in chips) 
+Seat 4: Tjitze ($3.25 in chips) 
+Seat 5: Chris_Rdam ($41.80 in chips) 
+Seat 7: mikro58 ($14.75 in chips) 
+Seat 9: Alameda22 ($24.55 in chips) 
+Tjitze: posts small blind $0.10
+Chris_Rdam: posts big blind $0.25
+trastras: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Jd]
+ILP_Pr joins the table at seat #6 
+ILP_Pr is sitting out
+mikro58: folds 
+Alameda22: folds 
+Togi Tog: raises $0.25 to $0.50
+Fernando26: folds 
+Breezer929: folds 
+Tjitze: calls $0.40
+Chris_Rdam: folds 
+*** FLOP *** [5c 4h 6h]
+Tjitze: bets $2.75 and is all-in
+Togi Tog: calls $2.75
+*** TURN *** [5c 4h 6h] [8c]
+*** RIVER *** [5c 4h 6h 8c] [3c]
+*** SHOW DOWN ***
+Tjitze: shows [5d 5s] (three of a kind, Fives)
+Togi Tog: mucks hand 
+Tjitze collected $6.45 from pot
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.30 
+Board [5c 4h 6h 8c 3c]
+Seat 1: Togi Tog mucked [6s Js]
+Seat 2: Fernando26 folded before Flop (didn't bet)
+Seat 3: Breezer929 (button) folded before Flop (didn't bet)
+Seat 4: Tjitze (small blind) showed [5d 5s] and won ($6.45) with three of a kind, Fives
+Seat 5: Chris_Rdam (big blind) folded before Flop
+Seat 7: mikro58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570755332:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:06:24 (ET)
+Table 'Zeissia III' 9-max Seat #4 is the button
+Seat 1: Togi Tog ($57.30 in chips) 
+Seat 2: Fernando26 ($14.35 in chips) 
+Seat 3: Breezer929 ($24.15 in chips) 
+Seat 4: Tjitze ($6.45 in chips) 
+Seat 5: Chris_Rdam ($41.55 in chips) 
+Seat 7: mikro58 ($14.75 in chips) 
+Seat 9: Alameda22 ($24.55 in chips) 
+Chris_Rdam: posts small blind $0.10
+mikro58: posts big blind $0.25
+trastras: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Ts]
+Alameda22: folds 
+Togi Tog: raises $0.25 to $0.50
+Fernando26: folds 
+Breezer929: folds 
+Tjitze: calls $0.50
+Chris_Rdam: folds 
+mikro58: calls $0.25
+*** FLOP *** [3d 9d 2h]
+mikro58: checks 
+Togi Tog: bets $0.75
+Tjitze: calls $0.75
+mikro58: folds 
+*** TURN *** [3d 9d 2h] [Js]
+Togi Tog: bets $5.50
+Tjitze: folds 
+Uncalled bet ($5.50) returned to Togi Tog
+Togi Tog collected $2.95 from pot
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [3d 9d 2h Js]
+Seat 1: Togi Tog collected ($2.95)
+Seat 2: Fernando26 folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: Tjitze (button) folded on the Turn
+Seat 5: Chris_Rdam (small blind) folded before Flop
+Seat 7: mikro58 (big blind) folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570780820:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:07:30 (ET)
+Table 'Zeissia III' 9-max Seat #5 is the button
+Seat 1: Togi Tog ($59 in chips) 
+Seat 2: Fernando26 ($14.35 in chips) 
+Seat 3: Breezer929 ($24.15 in chips) 
+Seat 4: Tjitze ($5.20 in chips) 
+Seat 5: Chris_Rdam ($41.45 in chips) 
+Seat 7: mikro58 ($14.25 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($24.55 in chips) 
+mikro58: posts small blind $0.10
+trastras: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Qs]
+Alameda22: folds 
+Togi Tog: raises $0.25 to $0.50
+Fernando26: folds 
+Breezer929: folds 
+Tjitze: calls $0.50
+Chris_Rdam: folds 
+mikro58: calls $0.40
+trastras: calls $0.25
+*** FLOP *** [5d 6s 5s]
+mikro58: checks 
+trastras: checks 
+Togi Tog: bets $1.50
+Tjitze: calls $1.50
+mikro58: folds 
+trastras: folds 
+*** TURN *** [5d 6s 5s] [Td]
+Togi Tog: bets $2.50
+Tjitze: calls $2.50
+*** RIVER *** [5d 6s 5s Td] [Jh]
+Togi Tog: bets $0.25
+Tjitze: calls $0.25
+*** SHOW DOWN ***
+Togi Tog: shows [As Ts] (two pair, Tens and Fives)
+Tjitze: mucks hand 
+Togi Tog collected $10 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.50 
+Board [5d 6s 5s Td Jh]
+Seat 1: Togi Tog showed [As Ts] and won ($10) with two pair, Tens and Fives
+Seat 2: Fernando26 folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: Tjitze mucked [9s 6c]
+Seat 5: Chris_Rdam (button) folded before Flop (didn't bet)
+Seat 7: mikro58 (small blind) folded on the Flop
+Seat 8: trastras (big blind) folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570811011:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:08:47 (ET)
+Table 'Zeissia III' 9-max Seat #7 is the button
+Seat 1: Togi Tog ($64.25 in chips) 
+Seat 2: Fernando26 ($14.35 in chips) 
+Seat 3: Breezer929 ($24.15 in chips) 
+Seat 4: Tjitze ($0.45 in chips) 
+Seat 5: Chris_Rdam ($41.45 in chips) 
+Seat 7: mikro58 ($13.75 in chips) 
+Seat 8: trastras ($24.50 in chips) 
+Seat 9: Alameda22 ($24.55 in chips) 
+trastras: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 7d]
+Togi Tog: folds 
+Fernando26: calls $0.25
+Breezer929: folds 
+Tjitze: calls $0.25
+Chris_Rdam: folds 
+mikro58: calls $0.25
+trastras: folds 
+Alameda22: checks 
+*** FLOP *** [8h Qc 9d]
+Alameda22: checks 
+Fernando26: folds 
+Tjitze: checks 
+mikro58: checks 
+*** TURN *** [8h Qc 9d] [3d]
+Alameda22: checks 
+Tjitze: checks 
+mikro58: checks 
+*** RIVER *** [8h Qc 9d 3d] [4s]
+Alameda22: checks 
+Tjitze: checks 
+mikro58: checks 
+*** SHOW DOWN ***
+Alameda22: shows [Th 7d] (high card Queen)
+Tjitze: shows [Kc 6c] (high card King)
+mikro58: shows [4c 7c] (a pair of Fours)
+mikro58 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [8h Qc 9d 3d 4s]
+Seat 1: Togi Tog folded before Flop (didn't bet)
+Seat 2: Fernando26 folded on the Flop
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: Tjitze showed [Kc 6c] and lost with high card King
+Seat 5: Chris_Rdam folded before Flop (didn't bet)
+Seat 7: mikro58 (button) showed [4c 7c] and won ($1.05) with a pair of Fours
+Seat 8: trastras (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) showed [Th 7d] and lost with high card Queen
+
+
+
+PokerStars Game #19570838849:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:09:59 (ET)
+Table 'Zeissia III' 9-max Seat #8 is the button
+Seat 1: Togi Tog ($64.25 in chips) 
+Seat 2: Fernando26 ($14.10 in chips) 
+Seat 3: Breezer929 ($24.15 in chips) 
+Seat 5: Chris_Rdam ($41.45 in chips) 
+Seat 7: mikro58 ($14.55 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($24.30 in chips) 
+Alameda22: posts small blind $0.10
+Tjitze has returned
+Togi Tog: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Td]
+Tjitze leaves the table
+Fernando26: folds 
+Breezer929: folds 
+Chris_Rdam: folds 
+mikro58: folds 
+trastras: raises $0.50 to $0.75
+owzthat joins the table at seat #4 
+Alameda22: folds 
+Togi Tog: folds 
+Uncalled bet ($0.50) returned to trastras
+trastras collected $0.60 from pot
+trastras: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Togi Tog (big blind) folded before Flop
+Seat 2: Fernando26 folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 5: Chris_Rdam folded before Flop (didn't bet)
+Seat 7: mikro58 folded before Flop (didn't bet)
+Seat 8: trastras (button) collected ($0.60)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19570856679:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:10:45 (ET)
+Table 'Zeissia III' 9-max Seat #9 is the button
+Seat 1: Togi Tog ($64 in chips) 
+Seat 2: Fernando26 ($14.10 in chips) 
+Seat 3: Breezer929 ($24.15 in chips) 
+Seat 5: Chris_Rdam ($41.45 in chips) 
+Seat 7: mikro58 ($14.55 in chips) 
+Seat 8: trastras ($25.35 in chips) 
+Seat 9: Alameda22 ($24.20 in chips) 
+Togi Tog: posts small blind $0.10
+Fernando26: posts big blind $0.25
+owzthat: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 2d]
+Breezer929: calls $0.25
+Chris_Rdam: folds 
+mikro58: folds 
+mikro58 leaves the table
+trastras: folds 
+Alameda22: folds 
+Togi Tog: calls $0.15
+(PSY)De_Ange joins the table at seat #7 
+Fernando26: checks 
+*** FLOP *** [5s Kc 7h]
+Togi Tog: checks 
+Fernando26: bets $1
+Breezer929: folds 
+Togi Tog: folds 
+Uncalled bet ($1) returned to Fernando26
+Fernando26 collected $0.75 from pot
+Fernando26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [5s Kc 7h]
+Seat 1: Togi Tog (small blind) folded on the Flop
+Seat 2: Fernando26 (big blind) collected ($0.75)
+Seat 3: Breezer929 folded on the Flop
+Seat 5: Chris_Rdam folded before Flop (didn't bet)
+Seat 7: mikro58 folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570880021:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:11:45 (ET)
+Table 'Zeissia III' 9-max Seat #1 is the button
+Seat 1: Togi Tog ($63.75 in chips) 
+Seat 2: Fernando26 ($14.60 in chips) 
+Seat 3: Breezer929 ($23.90 in chips) 
+Seat 5: Chris_Rdam ($41.45 in chips) 
+Seat 8: trastras ($25.35 in chips) 
+Seat 9: Alameda22 ($24.20 in chips) 
+Fernando26: posts small blind $0.10
+Breezer929: posts big blind $0.25
+owzthat: sits out 
+(PSY)De_Ange has timed out
+(PSY)De_Ange: is sitting out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 7h]
+Chris_Rdam: folds 
+trastras: folds 
+Alameda22: folds 
+Togi Tog: folds 
+Fernando26: raises $0.50 to $0.75
+Breezer929: folds 
+Uncalled bet ($0.50) returned to Fernando26
+Fernando26 collected $0.50 from pot
+Fernando26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Togi Tog (button) folded before Flop (didn't bet)
+Seat 2: Fernando26 (small blind) collected ($0.50)
+Seat 3: Breezer929 (big blind) folded before Flop
+Seat 5: Chris_Rdam folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570904499:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:12:49 (ET)
+Table 'Zeissia III' 9-max Seat #2 is the button
+Seat 1: Togi Tog ($63.75 in chips) 
+Seat 2: Fernando26 ($14.85 in chips) 
+Seat 3: Breezer929 ($23.65 in chips) 
+Seat 4: owzthat ($25 in chips) 
+Seat 5: Chris_Rdam ($41.45 in chips) 
+Seat 8: trastras ($25.35 in chips) 
+Seat 9: Alameda22 ($24.20 in chips) 
+Breezer929: posts small blind $0.10
+owzthat: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 9s]
+Chris_Rdam: folds 
+trastras: folds 
+(PSY)De_Ange has returned
+Alameda22: folds 
+Togi Tog: calls $0.25
+Fernando26: calls $0.25
+Breezer929: calls $0.15
+owzthat: checks 
+*** FLOP *** [6c 3s 7d]
+Breezer929: checks 
+owzthat: bets $0.75
+Togi Tog: calls $0.75
+Fernando26: raises $2 to $2.75
+Breezer929: folds 
+owzthat: calls $2
+Togi Tog: folds 
+*** TURN *** [6c 3s 7d] [9c]
+owzthat: checks 
+Fernando26: checks 
+*** RIVER *** [6c 3s 7d 9c] [Js]
+owzthat: bets $12.75
+Fernando26: folds 
+Uncalled bet ($12.75) returned to owzthat
+owzthat collected $6.90 from pot
+owzthat: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [6c 3s 7d 9c Js]
+Seat 1: Togi Tog folded on the Flop
+Seat 2: Fernando26 (button) folded on the River
+Seat 3: Breezer929 (small blind) folded on the Flop
+Seat 4: owzthat (big blind) collected ($6.90)
+Seat 5: Chris_Rdam folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19570940118:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:14:25 (ET)
+Table 'Zeissia III' 9-max Seat #3 is the button
+Seat 1: Togi Tog ($62.75 in chips) 
+Seat 2: Fernando26 ($11.85 in chips) 
+Seat 3: Breezer929 ($23.40 in chips) 
+Seat 4: owzthat ($28.90 in chips) 
+Seat 5: Chris_Rdam ($41.45 in chips) 
+Seat 8: trastras ($25.35 in chips) 
+Seat 9: Alameda22 ($24.20 in chips) 
+owzthat: posts small blind $0.10
+Chris_Rdam: posts big blind $0.25
+(PSY)De_Ange: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks As]
+trastras: folds 
+Alameda22: raises $0.50 to $0.75
+Togi Tog: folds 
+Fernando26: calls $0.75
+Breezer929: folds 
+owzthat: folds 
+Chris_Rdam: folds 
+*** FLOP *** [2s 8s 5c]
+Alameda22: bets $1.25
+Fernando26: calls $1.25
+*** TURN *** [2s 8s 5c] [Ac]
+Alameda22: bets $2.75
+Fernando26: folds 
+Uncalled bet ($2.75) returned to Alameda22
+Alameda22 collected $4.15 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.35 | Rake $0.20 
+Board [2s 8s 5c Ac]
+Seat 1: Togi Tog folded before Flop (didn't bet)
+Seat 2: Fernando26 folded on the Turn
+Seat 3: Breezer929 (button) folded before Flop (didn't bet)
+Seat 4: owzthat (small blind) folded before Flop
+Seat 5: Chris_Rdam (big blind) folded before Flop
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 collected ($4.15)
+
+
+
+PokerStars Game #19570967502:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:15:36 (ET)
+Table 'Zeissia III' 9-max Seat #4 is the button
+Seat 1: Togi Tog ($62.75 in chips) 
+Seat 2: Fernando26 ($9.85 in chips) 
+Seat 3: Breezer929 ($23.40 in chips) 
+Seat 4: owzthat ($28.80 in chips) 
+Seat 5: Chris_Rdam ($41.20 in chips) 
+Seat 7: (PSY)De_Ange ($25 in chips) 
+Seat 8: trastras ($25.35 in chips) 
+Seat 9: Alameda22 ($26.35 in chips) 
+Chris_Rdam: posts small blind $0.10
+(PSY)De_Ange: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 5d]
+trastras: calls $0.25
+Alameda22: folds 
+Togi Tog: calls $0.25
+Fernando26: calls $0.25
+Breezer929: calls $0.25
+owzthat: folds 
+Chris_Rdam: folds 
+(PSY)De_Ange: checks 
+*** FLOP *** [3c Kh Qd]
+(PSY)De_Ange: checks 
+trastras: checks 
+Fernando26 said, "pffff"
+Togi Tog: checks 
+Fernando26: checks 
+Breezer929: checks 
+*** TURN *** [3c Kh Qd] [9c]
+(PSY)De_Ange: checks 
+trastras: checks 
+Togi Tog: checks 
+Fernando26: checks 
+Breezer929: checks 
+*** RIVER *** [3c Kh Qd 9c] [Ts]
+(PSY)De_Ange: checks 
+trastras: checks 
+Togi Tog: checks 
+Fernando26: checks 
+Breezer929: checks 
+*** SHOW DOWN ***
+(PSY)De_Ange: shows [8s Ks] (a pair of Kings)
+trastras: mucks hand 
+Togi Tog: mucks hand 
+Fernando26: mucks hand 
+Breezer929: mucks hand 
+(PSY)De_Ange collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [3c Kh Qd 9c Ts]
+Seat 1: Togi Tog mucked [9h 6h]
+Seat 2: Fernando26 mucked [8c Td]
+Seat 3: Breezer929 mucked [9d Ad]
+Seat 4: owzthat (button) folded before Flop (didn't bet)
+Seat 5: Chris_Rdam (small blind) folded before Flop
+Seat 7: (PSY)De_Ange (big blind) showed [8s Ks] and won ($1.30) with a pair of Kings
+Seat 8: trastras mucked [6d 6c]
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571036914:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:18:38 (ET)
+Table 'Zeissia III' 9-max Seat #5 is the button
+Seat 1: Togi Tog ($62.50 in chips) 
+Seat 2: Fernando26 ($9.60 in chips) 
+Seat 3: Breezer929 ($23.15 in chips) 
+Seat 4: owzthat ($28.80 in chips) 
+Seat 5: Chris_Rdam ($41.10 in chips) 
+Seat 7: (PSY)De_Ange ($26.05 in chips) 
+Seat 8: trastras ($25.10 in chips) 
+Seat 9: Alameda22 ($26.35 in chips) 
+(PSY)De_Ange: posts small blind $0.10
+trastras: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 9h]
+Alameda22: folds 
+Togi Tog: folds 
+Fernando26: raises $0.50 to $0.75
+Breezer929: folds 
+owzthat: folds 
+Chris_Rdam: folds 
+(PSY)De_Ange: folds 
+trastras: folds 
+Uncalled bet ($0.50) returned to Fernando26
+Fernando26 collected $0.60 from pot
+Fernando26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Togi Tog folded before Flop (didn't bet)
+Seat 2: Fernando26 collected ($0.60)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: Chris_Rdam (button) folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange (small blind) folded before Flop
+Seat 8: trastras (big blind) folded before Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571049373:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:19:11 (ET)
+Table 'Zeissia III' 9-max Seat #7 is the button
+Seat 1: Togi Tog ($62.50 in chips) 
+Seat 2: Fernando26 ($9.95 in chips) 
+Seat 3: Breezer929 ($23.15 in chips) 
+Seat 4: owzthat ($28.80 in chips) 
+Seat 5: Chris_Rdam ($41.10 in chips) 
+Seat 7: (PSY)De_Ange ($25.95 in chips) 
+Seat 8: trastras ($24.85 in chips) 
+Seat 9: Alameda22 ($26.35 in chips) 
+trastras: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 6c]
+Togi Tog: folds 
+Fernando26: raises $0.25 to $0.50
+Breezer929: folds 
+owzthat: folds 
+Chris_Rdam: raises $1 to $1.50
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: folds 
+Fernando26: calls $1
+*** FLOP *** [2h 4c As]
+Fernando26: checks 
+Chris_Rdam: bets $2.75
+Fernando26 said, "JJ....."
+Fernando26: folds 
+Uncalled bet ($2.75) returned to Chris_Rdam
+Chris_Rdam collected $3.20 from pot
+Chris_Rdam: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [2h 4c As]
+Seat 1: Togi Tog folded before Flop (didn't bet)
+Seat 2: Fernando26 folded on the Flop
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: Chris_Rdam collected ($3.20)
+Seat 7: (PSY)De_Ange (button) folded before Flop (didn't bet)
+Seat 8: trastras (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #19571078783:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:20:28 (ET)
+Table 'Zeissia III' 9-max Seat #8 is the button
+Seat 1: Togi Tog ($62.50 in chips) 
+Seat 2: Fernando26 ($8.45 in chips) 
+Seat 3: Breezer929 ($23.15 in chips) 
+Seat 4: owzthat ($28.80 in chips) 
+Seat 5: Chris_Rdam ($42.80 in chips) 
+Seat 7: (PSY)De_Ange ($25.95 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($26.10 in chips) 
+Alameda22: posts small blind $0.10
+Togi Tog: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Ah]
+Fernando26: folds 
+Breezer929: folds 
+Fernando26 leaves the table
+owzthat: folds 
+Chris_Rdam: folds 
+(PSY)De_Ange: folds 
+Digby Bourke joins the table at seat #2 
+trastras: folds 
+Alameda22: calls $0.15
+Togi Tog: checks 
+*** FLOP *** [9d Td 9c]
+Alameda22: checks 
+Togi Tog: checks 
+*** TURN *** [9d Td 9c] [Ts]
+ILP_Pr has returned
+Alameda22: checks 
+Togi Tog: checks 
+*** RIVER *** [9d Td 9c Ts] [3s]
+Alameda22: bets $0.25
+Togi Tog: calls $0.25
+*** SHOW DOWN ***
+Alameda22: shows [6s Ah] (two pair, Tens and Nines)
+Togi Tog: mucks hand 
+Alameda22 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [9d Td 9c Ts 3s]
+Seat 1: Togi Tog (big blind) mucked [Ks 4c]
+Seat 2: Fernando26 folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: Chris_Rdam folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) showed [6s Ah] and won ($0.95) with two pair, Tens and Nines
+
+
+
+PokerStars Game #19571117270:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:22:09 (ET)
+Table 'Zeissia III' 9-max Seat #9 is the button
+Seat 1: Togi Tog ($62 in chips) 
+Seat 2: Digby Bourke ($25 in chips) 
+Seat 3: Breezer929 ($23.15 in chips) 
+Seat 4: owzthat ($28.80 in chips) 
+Seat 5: Chris_Rdam ($42.80 in chips) 
+Seat 7: (PSY)De_Ange ($25.95 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($26.55 in chips) 
+Togi Tog: posts small blind $0.10
+Digby Bourke: posts big blind $0.25
+ILP_Pr: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c As]
+Breezer929: folds 
+owzthat: folds 
+Chris_Rdam: folds 
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: folds 
+Togi Tog: raises $0.25 to $0.50
+Digby Bourke: folds 
+Uncalled bet ($0.25) returned to Togi Tog
+Togi Tog collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Togi Tog (small blind) collected ($0.50)
+Seat 2: Digby Bourke (big blind) folded before Flop
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: Chris_Rdam folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571140875:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:23:11 (ET)
+Table 'Zeissia III' 9-max Seat #1 is the button
+Seat 1: Togi Tog ($62.25 in chips) 
+Seat 2: Digby Bourke ($24.75 in chips) 
+Seat 3: Breezer929 ($23.15 in chips) 
+Seat 4: owzthat ($28.80 in chips) 
+Seat 5: Chris_Rdam ($42.80 in chips) 
+Seat 7: (PSY)De_Ange ($25.95 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($26.55 in chips) 
+Digby Bourke: posts small blind $0.10
+Breezer929: posts big blind $0.25
+ILP_Pr: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Qh]
+owzthat: folds 
+Chris_Rdam: folds 
+(PSY)De_Ange: raises $0.50 to $0.75
+trastras: folds 
+Alameda22: folds 
+Togi Tog: folds 
+Digby Bourke: folds 
+Breezer929: folds 
+Uncalled bet ($0.50) returned to (PSY)De_Ange
+(PSY)De_Ange collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Togi Tog (button) folded before Flop (didn't bet)
+Seat 2: Digby Bourke (small blind) folded before Flop
+Seat 3: Breezer929 (big blind) folded before Flop
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: Chris_Rdam folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange collected ($0.60)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571155517:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:23:49 (ET)
+Table 'Zeissia III' 9-max Seat #2 is the button
+Seat 1: Togi Tog ($62.25 in chips) 
+Seat 2: Digby Bourke ($24.65 in chips) 
+Seat 3: Breezer929 ($22.90 in chips) 
+Seat 4: owzthat ($28.80 in chips) 
+Seat 5: Chris_Rdam ($42.80 in chips) 
+Seat 7: (PSY)De_Ange ($26.30 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($26.55 in chips) 
+Breezer929: posts small blind $0.10
+owzthat: posts big blind $0.25
+ILP_Pr: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Ah]
+Chris_Rdam: folds 
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: folds 
+Togi Tog: calls $0.25
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: checks 
+*** FLOP *** [6c 9d Ad]
+owzthat: checks 
+Togi Tog: bets $0.25
+owzthat: folds 
+Uncalled bet ($0.25) returned to Togi Tog
+Togi Tog collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6c 9d Ad]
+Seat 1: Togi Tog collected ($0.60)
+Seat 2: Digby Bourke (button) folded before Flop (didn't bet)
+Seat 3: Breezer929 (small blind) folded before Flop
+Seat 4: owzthat (big blind) folded on the Flop
+Seat 5: Chris_Rdam folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571175818:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:24:43 (ET)
+Table 'Zeissia III' 9-max Seat #3 is the button
+Seat 1: Togi Tog ($62.60 in chips) 
+Seat 2: Digby Bourke ($24.65 in chips) 
+Seat 3: Breezer929 ($22.80 in chips) 
+Seat 4: owzthat ($28.55 in chips) 
+Seat 6: ILP_Pr ($5 in chips) 
+Seat 7: (PSY)De_Ange ($26.30 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($26.55 in chips) 
+owzthat: posts small blind $0.10
+Chris_Rdam: is sitting out 
+Chris_Rdam leaves the table
+ILP_Pr: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 2s]
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: folds 
+Togi Tog: raises $0.25 to $0.50
+Digby Bourke: folds 
+virulin joins the table at seat #5 
+Breezer929: folds 
+owzthat: folds 
+ILP_Pr: folds 
+Uncalled bet ($0.25) returned to Togi Tog
+Togi Tog collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Togi Tog collected ($0.60)
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 (button) folded before Flop (didn't bet)
+Seat 4: owzthat (small blind) folded before Flop
+Seat 6: ILP_Pr (big blind) folded before Flop
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571198055:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:25:41 (ET)
+Table 'Zeissia III' 9-max Seat #4 is the button
+Seat 1: Togi Tog ($62.95 in chips) 
+Seat 2: Digby Bourke ($24.65 in chips) 
+Seat 3: Breezer929 ($22.80 in chips) 
+Seat 4: owzthat ($28.45 in chips) 
+Seat 6: ILP_Pr ($4.75 in chips) 
+Seat 7: (PSY)De_Ange ($26.30 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($26.55 in chips) 
+virulin will be allowed to play after the button
+ILP_Pr: posts small blind $0.10
+(PSY)De_Ange: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 6h]
+trastras: folds 
+Alameda22: folds 
+Togi Tog: calls $0.25
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+ILP_Pr: folds 
+(PSY)De_Ange: checks 
+*** FLOP *** [7s Jd 9h]
+(PSY)De_Ange: checks 
+Togi Tog: checks 
+*** TURN *** [7s Jd 9h] [Qs]
+(PSY)De_Ange: checks 
+Togi Tog: checks 
+*** RIVER *** [7s Jd 9h Qs] [7h]
+(PSY)De_Ange: checks 
+Togi Tog: checks 
+*** SHOW DOWN ***
+(PSY)De_Ange: shows [4d Tc] (a pair of Sevens)
+Togi Tog: shows [6s Kc] (a pair of Sevens - King kicker)
+Togi Tog collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7s Jd 9h Qs 7h]
+Seat 1: Togi Tog showed [6s Kc] and won ($0.60) with a pair of Sevens
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat (button) folded before Flop (didn't bet)
+Seat 6: ILP_Pr (small blind) folded before Flop
+Seat 7: (PSY)De_Ange (big blind) showed [4d Tc] and lost with a pair of Sevens
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571231649:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:27:10 (ET)
+Table 'Zeissia III' 9-max Seat #6 is the button
+Seat 1: Togi Tog ($63.30 in chips) 
+Seat 2: Digby Bourke ($24.65 in chips) 
+Seat 3: Breezer929 ($22.80 in chips) 
+Seat 4: owzthat ($28.45 in chips) 
+Seat 5: virulin ($15 in chips) 
+Seat 6: ILP_Pr ($4.65 in chips) 
+Seat 7: (PSY)De_Ange ($26.05 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($26.55 in chips) 
+(PSY)De_Ange: posts small blind $0.10
+trastras: posts big blind $0.25
+virulin: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Kh]
+Alameda22: folds 
+Togi Tog: calls $0.25
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+virulin: checks 
+ILP_Pr: folds 
+(PSY)De_Ange: folds 
+trastras: checks 
+*** FLOP *** [6s Qs 9s]
+trastras: checks 
+Togi Tog: bets $0.25
+virulin: calls $0.25
+trastras: folds 
+*** TURN *** [6s Qs 9s] [Td]
+Togi Tog: bets $0.25
+virulin: calls $0.25
+*** RIVER *** [6s Qs 9s Td] [Ks]
+Togi Tog: bets $1.75
+virulin: folds 
+Uncalled bet ($1.75) returned to Togi Tog
+Togi Tog collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [6s Qs 9s Td Ks]
+Seat 1: Togi Tog collected ($1.80)
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: virulin folded on the River
+Seat 6: ILP_Pr (button) folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange (small blind) folded before Flop
+Seat 8: trastras (big blind) folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571258365:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:28:20 (ET)
+Table 'Zeissia III' 9-max Seat #7 is the button
+Seat 1: Togi Tog ($64.35 in chips) 
+Seat 2: Digby Bourke ($24.65 in chips) 
+Seat 3: Breezer929 ($22.80 in chips) 
+Seat 4: owzthat ($28.45 in chips) 
+Seat 5: virulin ($14.25 in chips) 
+Seat 6: ILP_Pr ($4.65 in chips) 
+Seat 7: (PSY)De_Ange ($25.95 in chips) 
+Seat 8: trastras ($24.75 in chips) 
+Seat 9: Alameda22 ($26.55 in chips) 
+trastras: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 7c]
+Togi Tog: raises $0.25 to $0.50
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+virulin: folds 
+ILP_Pr: folds 
+(PSY)De_Ange: calls $0.50
+trastras: folds 
+Alameda22: folds 
+*** FLOP *** [2d 7d 9s]
+Togi Tog: bets $0.25
+(PSY)De_Ange: calls $0.25
+*** TURN *** [2d 7d 9s] [Qh]
+Togi Tog: bets $0.25
+(PSY)De_Ange: raises $1.25 to $1.50
+Togi Tog: folds 
+Uncalled bet ($1.25) returned to (PSY)De_Ange
+(PSY)De_Ange collected $2.25 from pot
+(PSY)De_Ange: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [2d 7d 9s Qh]
+Seat 1: Togi Tog folded on the Turn
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: virulin folded before Flop (didn't bet)
+Seat 6: ILP_Pr folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange (button) collected ($2.25)
+Seat 8: trastras (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #19571291197:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:29:46 (ET)
+Table 'Zeissia III' 9-max Seat #8 is the button
+Seat 1: Togi Tog ($63.35 in chips) 
+Seat 2: Digby Bourke ($24.65 in chips) 
+Seat 3: Breezer929 ($22.80 in chips) 
+Seat 4: owzthat ($28.45 in chips) 
+Seat 5: virulin ($14.25 in chips) 
+Seat 6: ILP_Pr ($4.65 in chips) 
+Seat 7: (PSY)De_Ange ($27.20 in chips) 
+Seat 8: trastras ($24.65 in chips) 
+Seat 9: Alameda22 ($26.30 in chips) 
+Alameda22: posts small blind $0.10
+Togi Tog: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 2c]
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+virulin: calls $0.25
+ILP_Pr: folds 
+(PSY)De_Ange: calls $0.25
+trastras: folds 
+Alameda22: folds 
+Togi Tog: checks 
+*** FLOP *** [6c Qc 4s]
+Togi Tog: checks 
+virulin: checks 
+(PSY)De_Ange: bets $0.55
+Togi Tog: folds 
+virulin: folds 
+Uncalled bet ($0.55) returned to (PSY)De_Ange
+(PSY)De_Ange collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [6c Qc 4s]
+Seat 1: Togi Tog (big blind) folded on the Flop
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: virulin folded on the Flop
+Seat 6: ILP_Pr folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange collected ($0.85)
+Seat 8: trastras (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19571332793:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:31:37 (ET)
+Table 'Zeissia III' 9-max Seat #9 is the button
+Seat 1: Togi Tog ($63.10 in chips) 
+Seat 2: Digby Bourke ($24.65 in chips) 
+Seat 3: Breezer929 ($22.80 in chips) 
+Seat 4: owzthat ($28.45 in chips) 
+Seat 5: virulin ($14 in chips) 
+Seat 6: ILP_Pr ($4.65 in chips) 
+Seat 7: (PSY)De_Ange ($27.80 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($26.20 in chips) 
+Togi Tog: posts small blind $0.10
+Digby Bourke: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 4s]
+Breezer929: folds 
+owzthat: raises $0.75 to $1
+virulin: folds 
+ILP_Pr: folds 
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: folds 
+Togi Tog: folds 
+Digby Bourke: folds 
+Uncalled bet ($0.75) returned to owzthat
+owzthat collected $0.60 from pot
+owzthat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Togi Tog (small blind) folded before Flop
+Seat 2: Digby Bourke (big blind) folded before Flop
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat collected ($0.60)
+Seat 5: virulin folded before Flop (didn't bet)
+Seat 6: ILP_Pr folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571353595:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:32:29 (ET)
+Table 'Zeissia III' 9-max Seat #1 is the button
+Seat 1: Togi Tog ($63 in chips) 
+Seat 2: Digby Bourke ($24.40 in chips) 
+Seat 3: Breezer929 ($22.80 in chips) 
+Seat 4: owzthat ($28.80 in chips) 
+Seat 5: virulin ($14 in chips) 
+Seat 6: ILP_Pr ($4.65 in chips) 
+Seat 7: (PSY)De_Ange ($27.80 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($26.20 in chips) 
+Digby Bourke: posts small blind $0.10
+Breezer929: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Jc]
+owzthat: folds 
+virulin: folds 
+ILP_Pr: folds 
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: folds 
+Togi Tog: folds 
+Digby Bourke: folds 
+Uncalled bet ($0.15) returned to Breezer929
+Breezer929 collected $0.20 from pot
+Breezer929: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Togi Tog (button) folded before Flop (didn't bet)
+Seat 2: Digby Bourke (small blind) folded before Flop
+Seat 3: Breezer929 (big blind) collected ($0.20)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: virulin folded before Flop (didn't bet)
+Seat 6: ILP_Pr folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571377485:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:33:31 (ET)
+Table 'Zeissia III' 9-max Seat #2 is the button
+Seat 1: Togi Tog ($63 in chips) 
+Seat 2: Digby Bourke ($24.30 in chips) 
+Seat 3: Breezer929 ($22.90 in chips) 
+Seat 4: owzthat ($28.80 in chips) 
+Seat 5: virulin ($14 in chips) 
+Seat 6: ILP_Pr ($4.65 in chips) 
+Seat 7: (PSY)De_Ange ($27.80 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($26.20 in chips) 
+Breezer929: posts small blind $0.10
+owzthat: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 3d]
+virulin: folds 
+ILP_Pr: folds 
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: folds 
+Togi Tog: raises $0.25 to $0.50
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+Uncalled bet ($0.25) returned to Togi Tog
+Togi Tog collected $0.60 from pot
+Togi Tog: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Togi Tog collected ($0.60)
+Seat 2: Digby Bourke (button) folded before Flop (didn't bet)
+Seat 3: Breezer929 (small blind) folded before Flop
+Seat 4: owzthat (big blind) folded before Flop
+Seat 5: virulin folded before Flop (didn't bet)
+Seat 6: ILP_Pr folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571393254:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:34:12 (ET)
+Table 'Zeissia III' 9-max Seat #3 is the button
+Seat 1: Togi Tog ($63.35 in chips) 
+Seat 2: Digby Bourke ($24.30 in chips) 
+Seat 3: Breezer929 ($22.80 in chips) 
+Seat 4: owzthat ($28.55 in chips) 
+Seat 5: virulin ($14 in chips) 
+Seat 6: ILP_Pr ($4.65 in chips) 
+Seat 7: (PSY)De_Ange ($27.80 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($26.20 in chips) 
+owzthat: posts small blind $0.10
+virulin: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Js]
+ILP_Pr: folds 
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: folds 
+Togi Tog: raises $0.25 to $0.50
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+virulin: folds 
+Uncalled bet ($0.25) returned to Togi Tog
+Togi Tog collected $0.60 from pot
+Togi Tog: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Togi Tog collected ($0.60)
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 (button) folded before Flop (didn't bet)
+Seat 4: owzthat (small blind) folded before Flop
+Seat 5: virulin (big blind) folded before Flop
+Seat 6: ILP_Pr folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571415684:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:35:10 (ET)
+Table 'Zeissia III' 9-max Seat #4 is the button
+Seat 1: Togi Tog ($63.70 in chips) 
+Seat 2: Digby Bourke ($24.30 in chips) 
+Seat 3: Breezer929 ($22.80 in chips) 
+Seat 4: owzthat ($28.45 in chips) 
+Seat 5: virulin ($13.75 in chips) 
+Seat 6: ILP_Pr ($4.65 in chips) 
+Seat 7: (PSY)De_Ange ($27.80 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($26.20 in chips) 
+virulin: posts small blind $0.10
+ILP_Pr: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Kc]
+(PSY)De_Ange: calls $0.25
+trastras: folds 
+Alameda22: raises $0.75 to $1
+Togi Tog: folds 
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+virulin: raises $1.75 to $2.75
+ILP_Pr: folds 
+(PSY)De_Ange: folds 
+Alameda22: raises $22 to $24.75
+virulin: calls $11 and is all-in
+Uncalled bet ($11) returned to Alameda22
+*** FLOP *** [9s 6s 5d]
+*** TURN *** [9s 6s 5d] [Kh]
+*** RIVER *** [9s 6s 5d Kh] [Jd]
+*** SHOW DOWN ***
+virulin: shows [Ah Ks] (a pair of Kings)
+Alameda22: shows [Ad Kc] (a pair of Kings)
+virulin collected $13.30 from pot
+Alameda22 collected $13.30 from pot
+*** SUMMARY ***
+Total pot $28 | Rake $1.40 
+Board [9s 6s 5d Kh Jd]
+Seat 1: Togi Tog folded before Flop (didn't bet)
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat (button) folded before Flop (didn't bet)
+Seat 5: virulin (small blind) showed [Ah Ks] and won ($13.30) with a pair of Kings
+Seat 6: ILP_Pr (big blind) folded before Flop
+Seat 7: (PSY)De_Ange folded before Flop
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 showed [Ad Kc] and won ($13.30) with a pair of Kings
+
+
+
+PokerStars Game #19571455107:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:36:53 (ET)
+Table 'Zeissia III' 9-max Seat #5 is the button
+Seat 1: Togi Tog ($63.70 in chips) 
+Seat 2: Digby Bourke ($24.30 in chips) 
+Seat 3: Breezer929 ($22.80 in chips) 
+Seat 4: owzthat ($28.45 in chips) 
+Seat 5: virulin ($13.30 in chips) 
+Seat 6: ILP_Pr ($4.40 in chips) 
+Seat 7: (PSY)De_Ange ($27.55 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($25.75 in chips) 
+ILP_Pr: posts small blind $0.10
+(PSY)De_Ange: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 9h]
+trastras: folds 
+Alameda22: folds 
+Togi Tog: folds 
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+virulin: folds 
+ILP_Pr: folds 
+Uncalled bet ($0.15) returned to (PSY)De_Ange
+(PSY)De_Ange collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Togi Tog folded before Flop (didn't bet)
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: virulin (button) folded before Flop (didn't bet)
+Seat 6: ILP_Pr (small blind) folded before Flop
+Seat 7: (PSY)De_Ange (big blind) collected ($0.20)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571470012:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:37:33 (ET)
+Table 'Zeissia III' 9-max Seat #6 is the button
+Seat 1: Togi Tog ($63.70 in chips) 
+Seat 2: Digby Bourke ($24.30 in chips) 
+Seat 3: Breezer929 ($22.80 in chips) 
+Seat 4: owzthat ($28.45 in chips) 
+Seat 5: virulin ($13.30 in chips) 
+Seat 6: ILP_Pr ($4.30 in chips) 
+Seat 7: (PSY)De_Ange ($27.65 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($25.75 in chips) 
+(PSY)De_Ange: posts small blind $0.10
+trastras: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 9s]
+Alameda22: folds 
+Togi Tog: raises $0.25 to $0.50
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+virulin: folds 
+ILP_Pr: folds 
+(PSY)De_Ange: folds 
+trastras: folds 
+Uncalled bet ($0.25) returned to Togi Tog
+Togi Tog collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Togi Tog collected ($0.60)
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: virulin folded before Flop (didn't bet)
+Seat 6: ILP_Pr (button) folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange (small blind) folded before Flop
+Seat 8: trastras (big blind) folded before Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571482997:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:38:07 (ET)
+Table 'Zeissia III' 9-max Seat #7 is the button
+Seat 1: Togi Tog ($64.05 in chips) 
+Seat 2: Digby Bourke ($24.30 in chips) 
+Seat 3: Breezer929 ($22.80 in chips) 
+Seat 4: owzthat ($28.45 in chips) 
+Seat 5: virulin ($13.30 in chips) 
+Seat 6: ILP_Pr ($4.30 in chips) 
+Seat 7: (PSY)De_Ange ($27.55 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($25.75 in chips) 
+trastras: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Kd]
+Togi Tog: raises $0.25 to $0.50
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+virulin: folds 
+ILP_Pr: folds 
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: raises $1 to $1.50
+Togi Tog: calls $1
+*** FLOP *** [6h Ad Qs]
+Alameda22: bets $2
+Togi Tog: folds 
+Uncalled bet ($2) returned to Alameda22
+Alameda22 collected $2.95 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [6h Ad Qs]
+Seat 1: Togi Tog folded on the Flop
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: virulin folded before Flop (didn't bet)
+Seat 6: ILP_Pr folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange (button) folded before Flop (didn't bet)
+Seat 8: trastras (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) collected ($2.95)
+
+
+
+PokerStars Game #19571515929:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:39:34 (ET)
+Table 'Zeissia III' 9-max Seat #8 is the button
+Seat 1: Togi Tog ($62.55 in chips) 
+Seat 2: Digby Bourke ($24.30 in chips) 
+Seat 3: Breezer929 ($22.80 in chips) 
+Seat 4: owzthat ($28.45 in chips) 
+Seat 5: virulin ($13.30 in chips) 
+Seat 6: ILP_Pr ($5 in chips) 
+Seat 7: (PSY)De_Ange ($27.55 in chips) 
+Seat 8: trastras ($24.90 in chips) 
+Seat 9: Alameda22 ($27.20 in chips) 
+Alameda22: posts small blind $0.10
+Togi Tog: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 3s]
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+virulin: folds 
+ILP_Pr: folds 
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to Togi Tog
+Togi Tog collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Togi Tog (big blind) collected ($0.20)
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: virulin folded before Flop (didn't bet)
+Seat 6: ILP_Pr folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19571536148:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:40:25 (ET)
+Table 'Zeissia III' 9-max Seat #9 is the button
+Seat 1: Togi Tog ($62.65 in chips) 
+Seat 2: Digby Bourke ($24.30 in chips) 
+Seat 3: Breezer929 ($22.80 in chips) 
+Seat 4: owzthat ($28.45 in chips) 
+Seat 5: virulin ($13.30 in chips) 
+Seat 6: ILP_Pr ($5 in chips) 
+Seat 7: (PSY)De_Ange ($27.55 in chips) 
+Seat 8: trastras ($24.90 in chips) 
+Seat 9: Alameda22 ($27.10 in chips) 
+Togi Tog: posts small blind $0.10
+Digby Bourke: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 8h]
+Breezer929: folds 
+owzthat: folds 
+virulin: folds 
+ILP_Pr: folds 
+(PSY)De_Ange: folds 
+trastras: raises $0.50 to $0.75
+Alameda22: folds 
+Togi Tog: calls $0.65
+Digby Bourke: folds 
+*** FLOP *** [2h 3c 3s]
+Togi Tog: checks 
+trastras: checks 
+*** TURN *** [2h 3c 3s] [Jh]
+Togi Tog: checks 
+trastras: checks 
+*** RIVER *** [2h 3c 3s Jh] [8s]
+Togi Tog: bets $0.25
+trastras: calls $0.25
+*** SHOW DOWN ***
+Togi Tog: shows [Ah 7d] (a pair of Threes)
+trastras: shows [6h 8c] (two pair, Eights and Threes)
+trastras collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [2h 3c 3s Jh 8s]
+Seat 1: Togi Tog (small blind) showed [Ah 7d] and lost with a pair of Threes
+Seat 2: Digby Bourke (big blind) folded before Flop
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: virulin folded before Flop (didn't bet)
+Seat 6: ILP_Pr folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras showed [6h 8c] and won ($2.15) with two pair, Eights and Threes
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571565385:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:41:41 (ET)
+Table 'Zeissia III' 9-max Seat #1 is the button
+Seat 1: Togi Tog ($61.65 in chips) 
+Seat 2: Digby Bourke ($24.05 in chips) 
+Seat 3: Breezer929 ($22.80 in chips) 
+Seat 4: owzthat ($28.45 in chips) 
+Seat 5: virulin ($13.30 in chips) 
+Seat 6: ILP_Pr ($5 in chips) 
+Seat 7: (PSY)De_Ange ($27.55 in chips) 
+Seat 8: trastras ($26.05 in chips) 
+Seat 9: Alameda22 ($27.10 in chips) 
+Digby Bourke: posts small blind $0.10
+Breezer929: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 7c]
+owzthat: folds 
+virulin: folds 
+ILP_Pr: folds 
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: folds 
+Togi Tog: raises $0.25 to $0.50
+Digby Bourke: folds 
+Breezer929: folds 
+Uncalled bet ($0.25) returned to Togi Tog
+Togi Tog collected $0.60 from pot
+Togi Tog: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Togi Tog (button) collected ($0.60)
+Seat 2: Digby Bourke (small blind) folded before Flop
+Seat 3: Breezer929 (big blind) folded before Flop
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: virulin folded before Flop (didn't bet)
+Seat 6: ILP_Pr folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571590658:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:42:47 (ET)
+Table 'Zeissia III' 9-max Seat #2 is the button
+Seat 1: Togi Tog ($62 in chips) 
+Seat 2: Digby Bourke ($23.95 in chips) 
+Seat 3: Breezer929 ($22.55 in chips) 
+Seat 4: owzthat ($28.45 in chips) 
+Seat 5: virulin ($13.30 in chips) 
+Seat 6: ILP_Pr ($5 in chips) 
+Seat 7: (PSY)De_Ange ($27.55 in chips) 
+Seat 8: trastras ($26.05 in chips) 
+Seat 9: Alameda22 ($27.10 in chips) 
+Breezer929: posts small blind $0.10
+owzthat: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Qh]
+virulin: folds 
+ILP_Pr: folds 
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: raises $0.50 to $0.75
+Togi Tog: calls $0.75
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+*** FLOP *** [2s Kd Ac]
+Alameda22: bets $1.25
+Togi Tog: folds 
+Uncalled bet ($1.25) returned to Alameda22
+Alameda22 collected $1.80 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [2s Kd Ac]
+Seat 1: Togi Tog folded on the Flop
+Seat 2: Digby Bourke (button) folded before Flop (didn't bet)
+Seat 3: Breezer929 (small blind) folded before Flop
+Seat 4: owzthat (big blind) folded before Flop
+Seat 5: virulin folded before Flop (didn't bet)
+Seat 6: ILP_Pr folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 collected ($1.80)
+
+
+
+PokerStars Game #19571609835:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:43:37 (ET)
+Table 'Zeissia III' 9-max Seat #3 is the button
+Seat 1: Togi Tog ($61.25 in chips) 
+Seat 2: Digby Bourke ($25 in chips) 
+Seat 3: Breezer929 ($22.45 in chips) 
+Seat 4: owzthat ($28.20 in chips) 
+Seat 5: virulin ($13.30 in chips) 
+Seat 6: ILP_Pr ($5 in chips) 
+Seat 7: (PSY)De_Ange ($27.55 in chips) 
+Seat 8: trastras ($26.05 in chips) 
+Seat 9: Alameda22 ($28.15 in chips) 
+owzthat: posts small blind $0.10
+virulin: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Jd]
+ILP_Pr: folds 
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: folds 
+Togi Tog: raises $0.25 to $0.50
+Digby Bourke: calls $0.50
+Breezer929: folds 
+owzthat: folds 
+virulin: folds 
+*** FLOP *** [5d 5h 9s]
+virulin leaves the table
+Togi Tog: checks 
+Digby Bourke: checks 
+*** TURN *** [5d 5h 9s] [3s]
+Togi Tog: checks 
+Digby Bourke: checks 
+*** RIVER *** [5d 5h 9s 3s] [4h]
+Togi Tog: bets $3
+Digby Bourke: folds 
+Uncalled bet ($3) returned to Togi Tog
+Togi Tog collected $1.30 from pot
+Togi Tog: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [5d 5h 9s 3s 4h]
+Seat 1: Togi Tog collected ($1.30)
+Seat 2: Digby Bourke folded on the River
+Seat 3: Breezer929 (button) folded before Flop (didn't bet)
+Seat 4: owzthat (small blind) folded before Flop
+Seat 5: virulin (big blind) folded before Flop
+Seat 6: ILP_Pr folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571642919:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:45:04 (ET)
+Table 'Zeissia III' 9-max Seat #4 is the button
+Seat 1: Togi Tog ($62.05 in chips) 
+Seat 2: Digby Bourke ($24.50 in chips) 
+Seat 3: Breezer929 ($22.45 in chips) 
+Seat 4: owzthat ($28.10 in chips) 
+Seat 7: (PSY)De_Ange ($27.55 in chips) 
+Seat 8: trastras ($26.05 in chips) 
+Seat 9: Alameda22 ($28.15 in chips) 
+ILP_Pr: is sitting out 
+(PSY)De_Ange: posts small blind $0.10
+trastras: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s As]
+ILP_Pr leaves the table
+Alameda22: folds 
+Togi Tog: calls $0.25
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+(PSY)De_Ange: folds 
+trastras: checks 
+*** FLOP *** [5d 5h 9s]
+trastras: checks 
+Togi Tog: bets $0.75
+trastras: folds 
+Uncalled bet ($0.75) returned to Togi Tog
+Togi Tog collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [5d 5h 9s]
+Seat 1: Togi Tog collected ($0.60)
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat (button) folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange (small blind) folded before Flop
+Seat 8: trastras (big blind) folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571667146:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:46:08 (ET)
+Table 'Zeissia III' 9-max Seat #7 is the button
+Seat 1: Togi Tog ($62.40 in chips) 
+Seat 2: Digby Bourke ($24.50 in chips) 
+Seat 3: Breezer929 ($22.45 in chips) 
+Seat 4: owzthat ($28.10 in chips) 
+Seat 7: (PSY)De_Ange ($27.45 in chips) 
+Seat 8: trastras ($25.80 in chips) 
+Seat 9: Alameda22 ($28.15 in chips) 
+trastras: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 4c]
+Togi Tog: raises $0.25 to $0.50
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+(PSY)De_Ange has timed out
+(PSY)De_Ange: folds 
+(PSY)De_Ange is sitting out
+GTO 455 cu joins the table at seat #5 
+(PSY)De_Ange has returned
+yjqian23 joins the table at seat #6 
+trastras: calls $0.40
+Alameda22: folds 
+*** FLOP *** [2h 2c Td]
+trastras: checks 
+Togi Tog: bets $0.25
+trastras: folds 
+Uncalled bet ($0.25) returned to Togi Tog
+Togi Tog collected $1.20 from pot
+Togi Tog: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [2h 2c Td]
+Seat 1: Togi Tog collected ($1.20)
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange (button) folded before Flop (didn't bet)
+Seat 8: trastras (small blind) folded on the Flop
+Seat 9: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #19571701659:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:47:40 (ET)
+Table 'Zeissia III' 9-max Seat #8 is the button
+Seat 1: Togi Tog ($63.10 in chips) 
+Seat 2: Digby Bourke ($24.50 in chips) 
+Seat 3: Breezer929 ($22.45 in chips) 
+Seat 4: owzthat ($28.10 in chips) 
+Seat 5: GTO 455 cu ($15 in chips) 
+Seat 7: (PSY)De_Ange ($27.45 in chips) 
+Seat 8: trastras ($25.30 in chips) 
+Seat 9: Alameda22 ($27.90 in chips) 
+Alameda22: posts small blind $0.10
+Togi Tog: posts big blind $0.25
+GTO 455 cu: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Qc]
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+GTO 455 cu: checks 
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: folds 
+Togi Tog: checks 
+*** FLOP *** [9d Qd 6d]
+Togi Tog: checks 
+GTO 455 cu: bets $0.50
+Togi Tog: folds 
+Uncalled bet ($0.50) returned to GTO 455 cu
+GTO 455 cu collected $0.60 from pot
+GTO 455 cu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9d Qd 6d]
+Seat 1: Togi Tog (big blind) folded on the Flop
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: GTO 455 cu collected ($0.60)
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19571727585:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:48:48 (ET)
+Table 'Zeissia III' 9-max Seat #9 is the button
+Seat 1: Togi Tog ($62.85 in chips) 
+Seat 2: Digby Bourke ($24.50 in chips) 
+Seat 3: Breezer929 ($22.45 in chips) 
+Seat 4: owzthat ($28.10 in chips) 
+Seat 5: GTO 455 cu ($15.35 in chips) 
+Seat 7: (PSY)De_Ange ($27.45 in chips) 
+Seat 8: trastras ($25.30 in chips) 
+Seat 9: Alameda22 ($27.80 in chips) 
+Togi Tog: posts small blind $0.10
+Digby Bourke: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Jc]
+Breezer929: folds 
+owzthat: folds 
+GTO 455 cu: raises $0.25 to $0.50
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: folds 
+Togi Tog: calls $0.40
+Digby Bourke: folds 
+*** FLOP *** [4s 4c As]
+Togi Tog: bets $0.25
+GTO 455 cu: raises $0.75 to $1
+Togi Tog: raises $0.75 to $1.75
+GTO 455 cu: calls $0.75
+*** TURN *** [4s 4c As] [7h]
+Togi Tog: bets $3
+GTO 455 cu: calls $3
+*** RIVER *** [4s 4c As 7h] [9c]
+Togi Tog: bets $7
+GTO 455 cu: calls $7
+*** SHOW DOWN ***
+Togi Tog: shows [2c Tc] (a pair of Fours)
+GTO 455 cu: shows [Ah 3h] (two pair, Aces and Fours)
+GTO 455 cu collected $23.55 from pot
+*** SUMMARY ***
+Total pot $24.75 | Rake $1.20 
+Board [4s 4c As 7h 9c]
+Seat 1: Togi Tog (small blind) showed [2c Tc] and lost with a pair of Fours
+Seat 2: Digby Bourke (big blind) folded before Flop
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: GTO 455 cu showed [Ah 3h] and won ($23.55) with two pair, Aces and Fours
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571756222:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:50:04 (ET)
+Table 'Zeissia III' 9-max Seat #1 is the button
+Seat 1: Togi Tog ($50.60 in chips) 
+Seat 2: Digby Bourke ($24.25 in chips) 
+Seat 3: Breezer929 ($22.45 in chips) 
+Seat 4: owzthat ($28.10 in chips) 
+Seat 5: GTO 455 cu ($26.65 in chips) 
+Seat 7: (PSY)De_Ange ($27.45 in chips) 
+Seat 8: trastras ($25.30 in chips) 
+Seat 9: Alameda22 ($27.80 in chips) 
+Digby Bourke: posts small blind $0.10
+Breezer929: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Jh]
+owzthat: folds 
+GTO 455 cu: folds 
+(PSY)De_Ange: folds 
+trastras: raises $0.75 to $1
+Alameda22: folds 
+Togi Tog: raises $0.75 to $1.75
+Digby Bourke: folds 
+Breezer929: folds 
+trastras: calls $0.75
+*** FLOP *** [As 5c 8d]
+trastras: checks 
+Togi Tog: bets $0.75
+trastras: calls $0.75
+*** TURN *** [As 5c 8d] [4d]
+trastras: checks 
+Togi Tog: bets $2.75
+trastras: folds 
+Uncalled bet ($2.75) returned to Togi Tog
+Togi Tog collected $5.10 from pot
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [As 5c 8d 4d]
+Seat 1: Togi Tog (button) collected ($5.10)
+Seat 2: Digby Bourke (small blind) folded before Flop
+Seat 3: Breezer929 (big blind) folded before Flop
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: GTO 455 cu folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras folded on the Turn
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571788097:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:51:29 (ET)
+Table 'Zeissia III' 9-max Seat #2 is the button
+Seat 1: Togi Tog ($53.20 in chips) 
+Seat 2: Digby Bourke ($24.15 in chips) 
+Seat 3: Breezer929 ($22.20 in chips) 
+Seat 4: owzthat ($28.10 in chips) 
+Seat 5: GTO 455 cu ($26.65 in chips) 
+Seat 7: (PSY)De_Ange ($27.45 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($27.80 in chips) 
+Breezer929: posts small blind $0.10
+owzthat: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 4s]
+GTO 455 cu: calls $0.25
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: folds 
+Togi Tog: folds 
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: checks 
+*** FLOP *** [Tc 7d Td]
+owzthat: checks 
+GTO 455 cu: bets $0.75
+owzthat: folds 
+Uncalled bet ($0.75) returned to GTO 455 cu
+GTO 455 cu collected $0.60 from pot
+GTO 455 cu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Tc 7d Td]
+Seat 1: Togi Tog folded before Flop (didn't bet)
+Seat 2: Digby Bourke (button) folded before Flop (didn't bet)
+Seat 3: Breezer929 (small blind) folded before Flop
+Seat 4: owzthat (big blind) folded on the Flop
+Seat 5: GTO 455 cu collected ($0.60)
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571802330:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:52:06 (ET)
+Table 'Zeissia III' 9-max Seat #3 is the button
+Seat 1: Togi Tog ($53.20 in chips) 
+Seat 2: Digby Bourke ($24.15 in chips) 
+Seat 3: Breezer929 ($22.10 in chips) 
+Seat 4: owzthat ($27.85 in chips) 
+Seat 5: GTO 455 cu ($27 in chips) 
+Seat 7: (PSY)De_Ange ($27.45 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($27.80 in chips) 
+owzthat: posts small blind $0.10
+GTO 455 cu: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 3d]
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: folds 
+Togi Tog: raises $0.25 to $0.50
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+GTO 455 cu: calls $0.25
+*** FLOP *** [4s 8h Jc]
+GTO 455 cu: checks 
+Togi Tog: bets $4.50
+GTO 455 cu: folds 
+Uncalled bet ($4.50) returned to Togi Tog
+Togi Tog collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [4s 8h Jc]
+Seat 1: Togi Tog collected ($1.05)
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 (button) folded before Flop (didn't bet)
+Seat 4: owzthat (small blind) folded before Flop
+Seat 5: GTO 455 cu (big blind) folded on the Flop
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571828443:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:53:16 (ET)
+Table 'Zeissia III' 9-max Seat #4 is the button
+Seat 1: Togi Tog ($53.75 in chips) 
+Seat 2: Digby Bourke ($24.15 in chips) 
+Seat 3: Breezer929 ($22.10 in chips) 
+Seat 4: owzthat ($27.75 in chips) 
+Seat 5: GTO 455 cu ($26.50 in chips) 
+Seat 6: yjqian23 ($25 in chips) 
+Seat 7: (PSY)De_Ange ($27.45 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($27.80 in chips) 
+GTO 455 cu: posts small blind $0.10
+yjqian23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 7d]
+(PSY)De_Ange: folds 
+trastras: folds 
+Alameda22: folds 
+Togi Tog: calls $0.25
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+GTO 455 cu: calls $0.15
+yjqian23: checks 
+*** FLOP *** [Jc 7c 5c]
+GTO 455 cu: checks 
+yjqian23: checks 
+Togi Tog: checks 
+*** TURN *** [Jc 7c 5c] [8s]
+GTO 455 cu: checks 
+yjqian23: checks 
+Togi Tog: checks 
+*** RIVER *** [Jc 7c 5c 8s] [Qd]
+GTO 455 cu: checks 
+yjqian23: checks 
+Togi Tog: bets $1.50
+GTO 455 cu: folds 
+yjqian23: folds 
+Uncalled bet ($1.50) returned to Togi Tog
+Togi Tog collected $0.75 from pot
+Togi Tog: shows [4h Th] (high card Queen)
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Jc 7c 5c 8s Qd]
+Seat 1: Togi Tog collected ($0.75)
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat (button) folded before Flop (didn't bet)
+Seat 5: GTO 455 cu (small blind) folded on the River
+Seat 6: yjqian23 (big blind) folded on the River
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571885657:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:55:48 (ET)
+Table 'Zeissia III' 9-max Seat #5 is the button
+Seat 1: Togi Tog ($54.25 in chips) 
+Seat 2: Digby Bourke ($24.15 in chips) 
+Seat 3: Breezer929 ($22.10 in chips) 
+Seat 4: owzthat ($27.75 in chips) 
+Seat 5: GTO 455 cu ($26.25 in chips) 
+Seat 6: yjqian23 ($24.75 in chips) 
+Seat 7: (PSY)De_Ange ($27.45 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($27.80 in chips) 
+yjqian23: posts small blind $0.10
+(PSY)De_Ange: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 8h]
+trastras: folds 
+GTO 455 cu said, "nh"
+Alameda22: folds 
+Togi Tog: folds 
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+GTO 455 cu: folds 
+yjqian23: folds 
+Uncalled bet ($0.15) returned to (PSY)De_Ange
+(PSY)De_Ange collected $0.20 from pot
+(PSY)De_Ange: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Togi Tog folded before Flop (didn't bet)
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: GTO 455 cu (button) folded before Flop (didn't bet)
+Seat 6: yjqian23 (small blind) folded before Flop
+Seat 7: (PSY)De_Ange (big blind) collected ($0.20)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571897376:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:56:20 (ET)
+Table 'Zeissia III' 9-max Seat #6 is the button
+Seat 1: Togi Tog ($54.25 in chips) 
+Seat 2: Digby Bourke ($24.15 in chips) 
+Seat 3: Breezer929 ($22.10 in chips) 
+Seat 4: owzthat ($27.75 in chips) 
+Seat 5: GTO 455 cu ($26.25 in chips) 
+Seat 6: yjqian23 ($24.65 in chips) 
+Seat 7: (PSY)De_Ange ($27.55 in chips) 
+Seat 8: trastras ($25 in chips) 
+Seat 9: Alameda22 ($27.80 in chips) 
+(PSY)De_Ange: posts small blind $0.10
+trastras: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Qs]
+Alameda22: folds 
+Togi Tog: calls $0.25
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: raises $0.50 to $0.75
+GTO 455 cu: folds 
+yjqian23: folds 
+(PSY)De_Ange: folds 
+trastras: folds 
+Togi Tog: folds 
+Uncalled bet ($0.50) returned to owzthat
+owzthat collected $0.85 from pot
+owzthat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Togi Tog folded before Flop
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat collected ($0.85)
+Seat 5: GTO 455 cu folded before Flop (didn't bet)
+Seat 6: yjqian23 (button) folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange (small blind) folded before Flop
+Seat 8: trastras (big blind) folded before Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19571916010:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:57:10 (ET)
+Table 'Zeissia III' 9-max Seat #7 is the button
+Seat 1: Togi Tog ($54 in chips) 
+Seat 2: Digby Bourke ($24.15 in chips) 
+Seat 3: Breezer929 ($22.10 in chips) 
+Seat 4: owzthat ($28.35 in chips) 
+Seat 5: GTO 455 cu ($26.25 in chips) 
+Seat 6: yjqian23 ($24.65 in chips) 
+Seat 7: (PSY)De_Ange ($27.45 in chips) 
+Seat 8: trastras ($24.75 in chips) 
+Seat 9: Alameda22 ($27.80 in chips) 
+trastras: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Td]
+Togi Tog: folds 
+Digby Bourke: folds 
+Togi Tog leaves the table
+Breezer929: folds 
+owzthat: folds 
+GTO 455 cu: folds 
+yjqian23: folds 
+(PSY)De_Ange: folds 
+trastras: raises $0.50 to $0.75
+Alameda22: calls $0.50
+*** FLOP *** [5s Qs 8c]
+trastras: bets $1
+Alameda22: folds 
+Uncalled bet ($1) returned to trastras
+trastras collected $1.45 from pot
+trastras: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [5s Qs 8c]
+Seat 1: Togi Tog folded before Flop (didn't bet)
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: GTO 455 cu folded before Flop (didn't bet)
+Seat 6: yjqian23 folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange (button) folded before Flop (didn't bet)
+Seat 8: trastras (small blind) collected ($1.45)
+Seat 9: Alameda22 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19571948373:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 19:58:36 (ET)
+Table 'Zeissia III' 9-max Seat #8 is the button
+Seat 2: Digby Bourke ($24.15 in chips) 
+Seat 3: Breezer929 ($22.10 in chips) 
+Seat 4: owzthat ($28.35 in chips) 
+Seat 5: GTO 455 cu ($26.25 in chips) 
+Seat 6: yjqian23 ($24.65 in chips) 
+Seat 7: (PSY)De_Ange ($27.45 in chips) 
+Seat 8: trastras ($25.45 in chips) 
+Seat 9: Alameda22 ($27.05 in chips) 
+Alameda22: posts small blind $0.10
+Digby Bourke: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 3s]
+Breezer929: folds 
+owzthat: folds 
+GTO 455 cu: calls $0.25
+yjqian23: folds 
+(PSY)De_Ange: calls $0.25
+trastras: folds 
+Alameda22: folds 
+Digby Bourke: checks 
+*** FLOP *** [Ah Jh 2s]
+Digby Bourke: checks 
+GTO 455 cu: bets $0.50
+(PSY)De_Ange: calls $0.50
+Digby Bourke: folds 
+*** TURN *** [Ah Jh 2s] [9s]
+GTO 455 cu: bets $0.75
+(PSY)De_Ange: calls $0.75
+*** RIVER *** [Ah Jh 2s 9s] [7c]
+GTO 455 cu: bets $1
+(PSY)De_Ange: calls $1
+*** SHOW DOWN ***
+GTO 455 cu: shows [Ac 9c] (two pair, Aces and Nines)
+(PSY)De_Ange: mucks hand 
+GTO 455 cu collected $5.10 from pot
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [Ah Jh 2s 9s 7c]
+Seat 2: Digby Bourke (big blind) folded on the Flop
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: GTO 455 cu showed [Ac 9c] and won ($5.10) with two pair, Aces and Nines
+Seat 6: yjqian23 folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange mucked [As 5s]
+Seat 8: trastras (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19571986329:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:00:16 (ET)
+Table 'Zeissia III' 9-max Seat #9 is the button
+Seat 2: Digby Bourke ($23.90 in chips) 
+Seat 3: Breezer929 ($22.10 in chips) 
+Seat 4: owzthat ($28.35 in chips) 
+Seat 5: GTO 455 cu ($28.85 in chips) 
+Seat 6: yjqian23 ($24.65 in chips) 
+Seat 7: (PSY)De_Ange ($24.95 in chips) 
+Seat 8: trastras ($25.45 in chips) 
+Seat 9: Alameda22 ($26.95 in chips) 
+Digby Bourke: posts small blind $0.10
+Breezer929: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 5s]
+owzthat: folds 
+GTO 455 cu: calls $0.25
+yjqian23: folds 
+(PSY)De_Ange: folds 
+(PSY)De_Ange leaves the table
+trastras: folds 
+Alameda22: folds 
+Digby Bourke: folds 
+Breezer929: raises $0.50 to $0.75
+GTO 455 cu: calls $0.50
+*** FLOP *** [9d 2h Qs]
+Breezer929: bets $1.25
+GTO 455 cu: folds 
+Uncalled bet ($1.25) returned to Breezer929
+Breezer929 collected $1.55 from pot
+Breezer929: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [9d 2h Qs]
+Seat 2: Digby Bourke (small blind) folded before Flop
+Seat 3: Breezer929 (big blind) collected ($1.55)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: GTO 455 cu folded on the Flop
+Seat 6: yjqian23 folded before Flop (didn't bet)
+Seat 7: (PSY)De_Ange folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572009092:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:01:17 (ET)
+Table 'Zeissia III' 9-max Seat #2 is the button
+Seat 2: Digby Bourke ($25 in chips) 
+Seat 3: Breezer929 ($22.90 in chips) 
+Seat 4: owzthat ($28.35 in chips) 
+Seat 5: GTO 455 cu ($28.10 in chips) 
+Seat 6: yjqian23 ($24.65 in chips) 
+Seat 8: trastras ($25.45 in chips) 
+Seat 9: Alameda22 ($26.95 in chips) 
+Breezer929: posts small blind $0.10
+owzthat: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 7c]
+GTO 455 cu: folds 
+yjqian23: folds 
+trastras: folds 
+Alameda22: raises $0.50 to $0.75
+Digby Bourke: folds 
+Breezer929: calls $0.65
+owzthat: folds 
+*** FLOP *** [Ah 6s Kc]
+Breezer929: checks 
+Alameda22: bets $1.25
+Breezer929: calls $1.25
+*** TURN *** [Ah 6s Kc] [8s]
+Breezer929: checks 
+Alameda22: checks 
+*** RIVER *** [Ah 6s Kc 8s] [5c]
+Breezer929: bets $2.25
+Alameda22: folds 
+Uncalled bet ($2.25) returned to Breezer929
+Breezer929 collected $4.05 from pot
+Breezer929: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [Ah 6s Kc 8s 5c]
+Seat 2: Digby Bourke (button) folded before Flop (didn't bet)
+Seat 3: Breezer929 (small blind) collected ($4.05)
+Seat 4: owzthat (big blind) folded before Flop
+Seat 5: GTO 455 cu folded before Flop (didn't bet)
+Seat 6: yjqian23 folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded on the River
+
+
+
+PokerStars Game #19572043183:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:02:47 (ET)
+Table 'Zeissia III' 9-max Seat #3 is the button
+Seat 2: Digby Bourke ($25 in chips) 
+Seat 3: Breezer929 ($24.95 in chips) 
+Seat 4: owzthat ($28.10 in chips) 
+Seat 5: GTO 455 cu ($28.10 in chips) 
+Seat 6: yjqian23 ($24.65 in chips) 
+Seat 8: trastras ($25.45 in chips) 
+Seat 9: Alameda22 ($24.95 in chips) 
+owzthat: posts small blind $0.10
+GTO 455 cu: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Qc]
+yjqian23: folds 
+atsmug joins the table at seat #7 
+trastras: raises $0.75 to $1
+Alameda22: folds 
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+GTO 455 cu: folds 
+Uncalled bet ($0.75) returned to trastras
+trastras collected $0.60 from pot
+trastras: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 (button) folded before Flop (didn't bet)
+Seat 4: owzthat (small blind) folded before Flop
+Seat 5: GTO 455 cu (big blind) folded before Flop
+Seat 6: yjqian23 folded before Flop (didn't bet)
+Seat 8: trastras collected ($0.60)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572055918:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:03:20 (ET)
+Table 'Zeissia III' 9-max Seat #4 is the button
+Seat 2: Digby Bourke ($25 in chips) 
+Seat 3: Breezer929 ($24.95 in chips) 
+Seat 4: owzthat ($28 in chips) 
+Seat 5: GTO 455 cu ($27.85 in chips) 
+Seat 7: atsmug ($25 in chips) 
+Seat 8: trastras ($25.80 in chips) 
+Seat 9: Alameda22 ($24.95 in chips) 
+GTO 455 cu: posts small blind $0.10
+yjqian23: is sitting out 
+yjqian23 leaves the table
+atsmug: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Ts]
+trastras: folds 
+Alameda22: folds 
+Digby Bourke: raises $0.75 to $1
+Breezer929: folds 
+owzthat: folds 
+GTO 455 cu: folds 
+atsmug: folds 
+Uncalled bet ($0.75) returned to Digby Bourke
+Digby Bourke collected $0.60 from pot
+Digby Bourke: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Digby Bourke collected ($0.60)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat (button) folded before Flop (didn't bet)
+Seat 5: GTO 455 cu (small blind) folded before Flop
+Seat 7: atsmug (big blind) folded before Flop
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572075131:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:04:11 (ET)
+Table 'Zeissia III' 9-max Seat #5 is the button
+Seat 2: Digby Bourke ($25.35 in chips) 
+Seat 3: Breezer929 ($24.95 in chips) 
+Seat 4: owzthat ($28 in chips) 
+Seat 5: GTO 455 cu ($27.75 in chips) 
+Seat 7: atsmug ($24.75 in chips) 
+Seat 8: trastras ($25.80 in chips) 
+Seat 9: Alameda22 ($24.95 in chips) 
+atsmug: posts small blind $0.10
+trastras: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 5c]
+Alameda22: folds 
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+GTO 455 cu: calls $0.25
+atsmug: folds 
+trastras: checks 
+*** FLOP *** [Qc 3h 9d]
+trastras: checks 
+GTO 455 cu: bets $0.50
+trastras: folds 
+Uncalled bet ($0.50) returned to GTO 455 cu
+GTO 455 cu collected $0.60 from pot
+GTO 455 cu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qc 3h 9d]
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: GTO 455 cu (button) collected ($0.60)
+Seat 7: atsmug (small blind) folded before Flop
+Seat 8: trastras (big blind) folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572101074:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:05:21 (ET)
+Table 'Zeissia III' 9-max Seat #7 is the button
+Seat 2: Digby Bourke ($25.35 in chips) 
+Seat 3: Breezer929 ($24.95 in chips) 
+Seat 4: owzthat ($28 in chips) 
+Seat 5: GTO 455 cu ($28.10 in chips) 
+Seat 7: atsmug ($24.65 in chips) 
+Seat 8: trastras ($25.55 in chips) 
+Seat 9: Alameda22 ($24.95 in chips) 
+trastras: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Ad]
+Digby Bourke: calls $0.25
+Breezer929: folds 
+owzthat: raises $0.75 to $1
+GTO 455 cu: folds 
+atsmug: folds 
+trastras: folds 
+Alameda22: folds 
+Digby Bourke: calls $0.75
+*** FLOP *** [4s Ac 7h]
+Digby Bourke: checks 
+owzthat: bets $1.50
+Digby Bourke: folds 
+Uncalled bet ($1.50) returned to owzthat
+owzthat collected $2.25 from pot
+owzthat: doesn't show hand 
+mbbm94 joins the table at seat #6 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [4s Ac 7h]
+Seat 2: Digby Bourke folded on the Flop
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat collected ($2.25)
+Seat 5: GTO 455 cu folded before Flop (didn't bet)
+Seat 7: atsmug (button) folded before Flop (didn't bet)
+Seat 8: trastras (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #19572121719:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:06:16 (ET)
+Table 'Zeissia III' 9-max Seat #8 is the button
+Seat 2: Digby Bourke ($24.35 in chips) 
+Seat 3: Breezer929 ($24.95 in chips) 
+Seat 4: owzthat ($29.25 in chips) 
+Seat 5: GTO 455 cu ($28.10 in chips) 
+Seat 6: mbbm94 ($5 in chips) 
+Seat 7: atsmug ($24.65 in chips) 
+Seat 8: trastras ($25.45 in chips) 
+Seat 9: Alameda22 ($24.70 in chips) 
+Alameda22: posts small blind $0.10
+Digby Bourke: posts big blind $0.25
+mbbm94: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Jh]
+Breezer929: calls $0.25
+owzthat: raises $0.75 to $1
+GTO 455 cu: folds 
+mbbm94: calls $0.75
+atsmug: folds 
+trastras: calls $1
+Alameda22: folds 
+Digby Bourke: folds 
+Breezer929: calls $0.75
+*** FLOP *** [2d 3h 6h]
+Breezer929: checks 
+owzthat: checks 
+mbbm94: bets $4 and is all-in
+trastras: calls $4
+Breezer929: folds 
+owzthat: folds 
+*** TURN *** [2d 3h 6h] [5d]
+*** RIVER *** [2d 3h 6h 5d] [3s]
+*** SHOW DOWN ***
+mbbm94: shows [7s 7h] (two pair, Sevens and Threes)
+trastras: shows [4c 6c] (a straight, Deuce to Six)
+trastras collected $11.75 from pot
+*** SUMMARY ***
+Total pot $12.35 | Rake $0.60 
+Board [2d 3h 6h 5d 3s]
+Seat 2: Digby Bourke (big blind) folded before Flop
+Seat 3: Breezer929 folded on the Flop
+Seat 4: owzthat folded on the Flop
+Seat 5: GTO 455 cu folded before Flop (didn't bet)
+Seat 6: mbbm94 showed [7s 7h] and lost with two pair, Sevens and Threes
+Seat 7: atsmug folded before Flop (didn't bet)
+Seat 8: trastras (button) showed [4c 6c] and won ($11.75) with a straight, Deuce to Six
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19572158217:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:07:53 (ET)
+Table 'Zeissia III' 9-max Seat #9 is the button
+Seat 2: Digby Bourke ($24.10 in chips) 
+Seat 3: Breezer929 ($23.95 in chips) 
+Seat 4: owzthat ($28.25 in chips) 
+Seat 5: GTO 455 cu ($28.10 in chips) 
+Seat 7: atsmug ($24.65 in chips) 
+Seat 8: trastras ($32.20 in chips) 
+Seat 9: Alameda22 ($24.60 in chips) 
+Digby Bourke: posts small blind $0.10
+Breezer929: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 3s]
+owzthat: raises $0.75 to $1
+mbbm94 leaves the table
+GTO 455 cu: calls $1
+atsmug: folds 
+trastras: folds 
+Alameda22: folds 
+Digby Bourke: folds 
+Breezer929: folds 
+*** FLOP *** [9c Ks Ad]
+owzthat: bets $2
+GTO 455 cu: raises $2 to $4
+owzthat: calls $2
+*** TURN *** [9c Ks Ad] [Th]
+e11vin joins the table at seat #6 
+owzthat: checks 
+GTO 455 cu: bets $2.50
+owzthat: raises $20.75 to $23.25 and is all-in
+GTO 455 cu: calls $20.60 and is all-in
+Uncalled bet ($0.15) returned to owzthat
+*** RIVER *** [9c Ks Ad Th] [Jd]
+*** SHOW DOWN ***
+owzthat: shows [Kc Kd] (three of a kind, Kings)
+GTO 455 cu: mucks hand 
+owzthat collected $53.75 from pot
+*** SUMMARY ***
+Total pot $56.55 | Rake $2.80 
+Board [9c Ks Ad Th Jd]
+Seat 2: Digby Bourke (small blind) folded before Flop
+Seat 3: Breezer929 (big blind) folded before Flop
+Seat 4: owzthat showed [Kc Kd] and won ($53.75) with three of a kind, Kings
+Seat 5: GTO 455 cu mucked [9d 9h]
+Seat 7: atsmug folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572193756:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:09:28 (ET)
+Table 'Zeissia III' 9-max Seat #2 is the button
+Seat 2: Digby Bourke ($24 in chips) 
+Seat 3: Breezer929 ($23.70 in chips) 
+Seat 4: owzthat ($53.90 in chips) 
+Seat 5: GTO 455 cu ($13.05 in chips) 
+Seat 6: e11vin ($9 in chips) 
+Seat 7: atsmug ($24.65 in chips) 
+Seat 8: trastras ($32.20 in chips) 
+Seat 9: Alameda22 ($24.60 in chips) 
+Breezer929: posts small blind $0.10
+owzthat: posts big blind $0.25
+e11vin: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 3s]
+GTO 455 cu: folds 
+e11vin: checks 
+atsmug: folds 
+lockedgroove joins the table at seat #1 
+trastras: folds 
+Alameda22: folds 
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: checks 
+*** FLOP *** [Kc 3c Ks]
+owzthat: checks 
+e11vin: checks 
+*** TURN *** [Kc 3c Ks] [Jc]
+owzthat: checks 
+e11vin: bets $0.25
+owzthat: folds 
+Uncalled bet ($0.25) returned to e11vin
+e11vin collected $0.60 from pot
+e11vin: shows [Qs Kd] (three of a kind, Kings)
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kc 3c Ks Jc]
+Seat 2: Digby Bourke (button) folded before Flop (didn't bet)
+Seat 3: Breezer929 (small blind) folded before Flop
+Seat 4: owzthat (big blind) folded on the Turn
+Seat 5: GTO 455 cu folded before Flop (didn't bet)
+Seat 6: e11vin collected ($0.60)
+Seat 7: atsmug folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572218665:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:10:35 (ET)
+Table 'Zeissia III' 9-max Seat #3 is the button
+Seat 1: lockedgroove ($15 in chips) 
+Seat 2: Digby Bourke ($24 in chips) 
+Seat 3: Breezer929 ($23.60 in chips) 
+Seat 4: owzthat ($53.65 in chips) 
+Seat 5: GTO 455 cu ($13.05 in chips) 
+Seat 6: e11vin ($9.35 in chips) 
+Seat 7: atsmug ($24.65 in chips) 
+Seat 8: trastras ($32.20 in chips) 
+Seat 9: Alameda22 ($24.60 in chips) 
+owzthat: posts small blind $0.10
+GTO 455 cu: posts big blind $0.25
+lockedgroove: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 7c]
+e11vin: folds 
+atsmug: folds 
+trastras: folds 
+Alameda22: folds 
+lockedgroove: checks 
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+GTO 455 cu: checks 
+*** FLOP *** [Kc Ac 4c]
+GTO 455 cu: checks 
+lockedgroove: bets $0.25
+GTO 455 cu: folds 
+Uncalled bet ($0.25) returned to lockedgroove
+lockedgroove collected $0.60 from pot
+lockedgroove: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kc Ac 4c]
+Seat 1: lockedgroove collected ($0.60)
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 (button) folded before Flop (didn't bet)
+Seat 4: owzthat (small blind) folded before Flop
+Seat 5: GTO 455 cu (big blind) folded on the Flop
+Seat 6: e11vin folded before Flop (didn't bet)
+Seat 7: atsmug folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572235986:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:11:21 (ET)
+Table 'Zeissia III' 9-max Seat #4 is the button
+Seat 1: lockedgroove ($15.35 in chips) 
+Seat 2: Digby Bourke ($24 in chips) 
+Seat 3: Breezer929 ($23.60 in chips) 
+Seat 4: owzthat ($53.55 in chips) 
+Seat 5: GTO 455 cu ($12.80 in chips) 
+Seat 6: e11vin ($9.35 in chips) 
+Seat 7: atsmug ($24.65 in chips) 
+Seat 8: trastras ($32.20 in chips) 
+Seat 9: Alameda22 ($24.60 in chips) 
+GTO 455 cu: posts small blind $0.10
+e11vin: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 6h]
+atsmug: folds 
+atsmug is sitting out
+atsmug leaves the table
+trastras: folds 
+spoiled9 joins the table at seat #7 
+Alameda22: folds 
+lockedgroove: folds 
+Digby Bourke: raises $0.75 to $1
+Breezer929: folds 
+owzthat: folds 
+GTO 455 cu: folds 
+e11vin: folds 
+Uncalled bet ($0.75) returned to Digby Bourke
+Digby Bourke collected $0.60 from pot
+Digby Bourke: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: lockedgroove folded before Flop (didn't bet)
+Seat 2: Digby Bourke collected ($0.60)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat (button) folded before Flop (didn't bet)
+Seat 5: GTO 455 cu (small blind) folded before Flop
+Seat 6: e11vin (big blind) folded before Flop
+Seat 7: atsmug folded before Flop (didn't bet)
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572250930:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:12:01 (ET)
+Table 'Zeissia III' 9-max Seat #5 is the button
+Seat 1: lockedgroove ($15.35 in chips) 
+Seat 2: Digby Bourke ($24.35 in chips) 
+Seat 3: Breezer929 ($23.60 in chips) 
+Seat 4: owzthat ($53.55 in chips) 
+Seat 5: GTO 455 cu ($12.70 in chips) 
+Seat 6: e11vin ($9.10 in chips) 
+Seat 7: spoiled9 ($15 in chips) 
+Seat 8: trastras ($32.20 in chips) 
+Seat 9: Alameda22 ($24.60 in chips) 
+e11vin: posts small blind $0.10
+spoiled9: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 4s]
+trastras: folds 
+Alameda22: folds 
+lockedgroove: folds 
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+GTO 455 cu: calls $0.25
+e11vin: calls $0.15
+spoiled9: checks 
+*** FLOP *** [Th Ad 8s]
+e11vin: checks 
+spoiled9: bets $0.75
+GTO 455 cu: raises $0.75 to $1.50
+e11vin: folds 
+spoiled9: calls $0.75
+*** TURN *** [Th Ad 8s] [Kc]
+spoiled9: checks 
+GTO 455 cu: bets $1
+spoiled9: calls $1
+*** RIVER *** [Th Ad 8s Kc] [5d]
+spoiled9: checks 
+GTO 455 cu: checks 
+*** SHOW DOWN ***
+spoiled9: shows [7h Jd] (high card Ace)
+GTO 455 cu: shows [Ah Js] (a pair of Aces)
+GTO 455 cu collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.25 
+Board [Th Ad 8s Kc 5d]
+Seat 1: lockedgroove folded before Flop (didn't bet)
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: GTO 455 cu (button) showed [Ah Js] and won ($5.50) with a pair of Aces
+Seat 6: e11vin (small blind) folded on the Flop
+Seat 7: spoiled9 (big blind) showed [7h Jd] and lost with high card Ace
+Seat 8: trastras folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19572278798:  Hold'em No Limit ($0.10/$0.25) - 2008/08/12 - 20:13:16 (ET)
+Table 'Zeissia III' 9-max Seat #6 is the button
+Seat 1: lockedgroove ($15.35 in chips) 
+Seat 2: Digby Bourke ($24.35 in chips) 
+Seat 3: Breezer929 ($23.60 in chips) 
+Seat 4: owzthat ($53.55 in chips) 
+Seat 5: GTO 455 cu ($15.45 in chips) 
+Seat 6: e11vin ($8.85 in chips) 
+Seat 7: spoiled9 ($12.25 in chips) 
+Seat 8: trastras ($32.20 in chips) 
+Seat 9: Alameda22 ($24.60 in chips) 
+spoiled9: posts small blind $0.10
+trastras: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Qd]
+Alameda22: folds 
+lockedgroove: folds 
+Digby Bourke: folds 
+Breezer929: folds 
+owzthat: folds 
+GTO 455 cu: folds 
+e11vin: calls $0.25
+spoiled9: calls $0.15
+trastras: checks 
+*** FLOP *** [Qc Kd 6s]
+spoiled9: checks 
+trastras: checks 
+e11vin: checks 
+*** TURN *** [Qc Kd 6s] [5h]
+spoiled9: checks 
+trastras: checks 
+e11vin: checks 
+*** RIVER *** [Qc Kd 6s 5h] [Kc]
+spoiled9: checks 
+trastras: checks 
+e11vin: bets $0.25
+spoiled9: calls $0.25
+trastras: folds 
+*** SHOW DOWN ***
+e11vin: shows [Ks Kh] (four of a kind, Kings)
+spoiled9: mucks hand 
+e11vin collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Qc Kd 6s 5h Kc]
+Seat 1: lockedgroove folded before Flop (didn't bet)
+Seat 2: Digby Bourke folded before Flop (didn't bet)
+Seat 3: Breezer929 folded before Flop (didn't bet)
+Seat 4: owzthat folded before Flop (didn't bet)
+Seat 5: GTO 455 cu folded before Flop (didn't bet)
+Seat 6: e11vin (button) showed [Ks Kh] and won ($1.20) with four of a kind, Kings
+Seat 7: spoiled9 (small blind) mucked [6h 2h]
+Seat 8: trastras (big blind) folded on the River
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+

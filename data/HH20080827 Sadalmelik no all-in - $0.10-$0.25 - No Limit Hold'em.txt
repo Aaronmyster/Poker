@@ -1,0 +1,259 @@
+PokerStars Game #19929212195:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:00:52 (ET)
+Table 'Sadalmelik' 9-max Seat #7 is the button
+Seat 1: CriticalAA ($26.65 in chips) 
+Seat 2: landraas ($23.70 in chips) 
+Seat 3: weepeel ($46.10 in chips) 
+Seat 4: tripa22 ($24 in chips) 
+Seat 5: Alameda22 ($30.35 in chips) 
+Seat 6: szil79 ($5.50 in chips) 
+Seat 7: horacles ($26 in chips) 
+Seat 8: fourz4444 ($13.20 in chips) 
+Seat 9: myS2k22 ($22.70 in chips) 
+fourz4444: posts small blind $0.10
+myS2k22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Qc]
+CriticalAA: folds 
+landraas: folds 
+weepeel: folds 
+tripa22: folds 
+Alameda22: folds 
+szil79: folds 
+horacles: folds 
+horacles leaves the table
+fourz4444: calls $0.15
+myS2k22: raises $0.25 to $0.50
+fourz4444: calls $0.25
+*** FLOP *** [Kh 5c 8d]
+fourz4444: checks 
+myS2k22: checks 
+*** TURN *** [Kh 5c 8d] [3d]
+fourz4444: checks 
+myS2k22: checks 
+*** RIVER *** [Kh 5c 8d 3d] [Ah]
+fourz4444: checks 
+myS2k22: bets $1
+fourz4444: folds 
+Uncalled bet ($1) returned to myS2k22
+myS2k22 collected $0.95 from pot
+myS2k22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Kh 5c 8d 3d Ah]
+Seat 1: CriticalAA folded before Flop (didn't bet)
+Seat 2: landraas folded before Flop (didn't bet)
+Seat 3: weepeel folded before Flop (didn't bet)
+Seat 4: tripa22 folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: szil79 folded before Flop (didn't bet)
+Seat 7: horacles (button) folded before Flop (didn't bet)
+Seat 8: fourz4444 (small blind) folded on the River
+Seat 9: myS2k22 (big blind) collected ($0.95)
+
+
+
+PokerStars Game #19929232964:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:01:59 (ET)
+Table 'Sadalmelik' 9-max Seat #8 is the button
+Seat 2: landraas ($23.70 in chips) 
+Seat 3: weepeel ($46.10 in chips) 
+Seat 4: tripa22 ($24 in chips) 
+Seat 5: Alameda22 ($30.35 in chips) 
+Seat 6: szil79 ($5.50 in chips) 
+Seat 8: fourz4444 ($12.70 in chips) 
+Seat 9: myS2k22 ($23.15 in chips) 
+myS2k22: posts small blind $0.10
+CriticalAA: is sitting out 
+CriticalAA leaves the table
+landraas: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 3h]
+weepeel: folds 
+tripa22: folds 
+Alameda22: folds 
+szil79: folds 
+fourz4444: calls $0.25
+myS2k22: folds 
+landraas: checks 
+*** FLOP *** [6h Js Jd]
+landraas: checks 
+fourz4444: bets $0.50
+landraas: folds 
+Uncalled bet ($0.50) returned to fourz4444
+fourz4444 collected $0.60 from pot
+fourz4444: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6h Js Jd]
+Seat 2: landraas (big blind) folded on the Flop
+Seat 3: weepeel folded before Flop (didn't bet)
+Seat 4: tripa22 folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: szil79 folded before Flop (didn't bet)
+Seat 8: fourz4444 (button) collected ($0.60)
+Seat 9: myS2k22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19929245033:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:02:39 (ET)
+Table 'Sadalmelik' 9-max Seat #9 is the button
+Seat 2: landraas ($23.45 in chips) 
+Seat 3: weepeel ($46.10 in chips) 
+Seat 4: tripa22 ($24 in chips) 
+Seat 5: Alameda22 ($30.35 in chips) 
+Seat 6: szil79 ($5.50 in chips) 
+Seat 8: fourz4444 ($13.05 in chips) 
+Seat 9: myS2k22 ($23.05 in chips) 
+landraas: posts small blind $0.10
+weepeel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Ad]
+tripa22: folds 
+tripa22 leaves the table
+Alameda22: folds 
+szil79: folds 
+fourz4444: calls $0.25
+myS2k22: raises $0.25 to $0.50
+landraas: calls $0.40
+weepeel: folds 
+fourz4444: calls $0.25
+*** FLOP *** [Jd 3h 7c]
+weepeel leaves the table
+landraas: checks 
+fourz4444: checks 
+myS2k22: bets $0.50
+landraas: calls $0.50
+fourz4444: folds 
+*** TURN *** [Jd 3h 7c] [Jc]
+landraas: checks 
+myS2k22: checks 
+*** RIVER *** [Jd 3h 7c Jc] [4d]
+landraas: bets $1.75
+myS2k22: raises $1.75 to $3.50
+landraas: folds 
+Uncalled bet ($1.75) returned to myS2k22
+myS2k22 collected $5.95 from pot
+myS2k22: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.30 
+Board [Jd 3h 7c Jc 4d]
+Seat 2: landraas (small blind) folded on the River
+Seat 3: weepeel (big blind) folded before Flop
+Seat 4: tripa22 folded before Flop (didn't bet)
+Seat 5: Alameda22 folded before Flop (didn't bet)
+Seat 6: szil79 folded before Flop (didn't bet)
+Seat 8: fourz4444 folded on the Flop
+Seat 9: myS2k22 (button) collected ($5.95)
+
+
+
+PokerStars Game #19929266440:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:03:49 (ET)
+Table 'Sadalmelik' 9-max Seat #2 is the button
+Seat 2: landraas ($20.70 in chips) 
+Seat 5: Alameda22 ($30.35 in chips) 
+Seat 6: szil79 ($5.50 in chips) 
+Seat 8: fourz4444 ($12.55 in chips) 
+Seat 9: myS2k22 ($26.25 in chips) 
+Alameda22: posts small blind $0.10
+szil79: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Jd]
+fourz4444: calls $0.25
+myS2k22: calls $0.25
+landraas: folds 
+Alameda22: folds 
+szil79: checks 
+*** FLOP *** [3s 2d 5d]
+szil79: checks 
+fourz4444: checks 
+myS2k22: checks 
+*** TURN *** [3s 2d 5d] [7h]
+szil79: checks 
+fourz4444: checks 
+myS2k22: bets $0.50
+szil79: folds 
+fourz4444: folds 
+Uncalled bet ($0.50) returned to myS2k22
+myS2k22 collected $0.85 from pot
+myS2k22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [3s 2d 5d 7h]
+Seat 2: landraas (button) folded before Flop (didn't bet)
+Seat 5: Alameda22 (small blind) folded before Flop
+Seat 6: szil79 (big blind) folded on the Turn
+Seat 8: fourz4444 folded on the Turn
+Seat 9: myS2k22 collected ($0.85)
+
+
+
+PokerStars Game #19929285654:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:04:52 (ET)
+Table 'Sadalmelik' 9-max Seat #5 is the button
+Seat 2: landraas ($20.70 in chips) 
+Seat 5: Alameda22 ($30.25 in chips) 
+Seat 6: szil79 ($5.25 in chips) 
+Seat 8: fourz4444 ($12.30 in chips) 
+Seat 9: myS2k22 ($26.85 in chips) 
+szil79: posts small blind $0.10
+fourz4444: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 8h]
+myS2k22: folds 
+landraas: folds 
+myS2k22 is sitting out
+Alameda22: folds 
+szil79: calls $0.15
+fourz4444: checks 
+*** FLOP *** [Jd Kd 8s]
+myS2k22 leaves the table
+szil79: bets $0.25
+fourz4444: calls $0.25
+*** TURN *** [Jd Kd 8s] [Ac]
+darkgrape joins the table at seat #4 
+szil79: bets $0.25
+fourz4444: calls $0.25
+*** RIVER *** [Jd Kd 8s Ac] [5s]
+szil79: checks 
+fourz4444: checks 
+*** SHOW DOWN ***
+szil79: shows [Td 8d] (a pair of Eights)
+fourz4444: shows [Jh 6h] (a pair of Jacks)
+fourz4444 collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Jd Kd 8s Ac 5s]
+Seat 2: landraas folded before Flop (didn't bet)
+Seat 5: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: szil79 (small blind) showed [Td 8d] and lost with a pair of Eights
+Seat 8: fourz4444 (big blind) showed [Jh 6h] and won ($1.45) with a pair of Jacks
+Seat 9: myS2k22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929299240:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:05:37 (ET)
+Table 'Sadalmelik' 9-max Seat #6 is the button
+Seat 4: darkgrape ($10 in chips) 
+Seat 5: Alameda22 ($30.25 in chips) 
+Seat 6: szil79 ($4.50 in chips) 
+Seat 8: fourz4444 ($13 in chips) 
+fourz4444: posts small blind $0.10
+landraas: is sitting out 
+darkgrape: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd As]
+landraas leaves the table
+Alameda22: raises $0.50 to $0.75
+szil79: folds 
+fourz4444: folds 
+darkgrape: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 4: darkgrape (big blind) folded before Flop
+Seat 5: Alameda22 collected ($0.60)
+Seat 6: szil79 (button) folded before Flop (didn't bet)
+Seat 8: fourz4444 (small blind) folded before Flop
+
+
+

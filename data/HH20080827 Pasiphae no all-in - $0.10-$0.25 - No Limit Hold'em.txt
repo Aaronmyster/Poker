@@ -1,0 +1,988 @@
+PokerStars Game #19954066779:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:39:36 (ET)
+Table 'Pasiphae' 9-max Seat #2 is the button
+Seat 1: pokerfoole ($21.70 in chips) 
+Seat 2: 11pokeras11 ($23.80 in chips) 
+Seat 3: Vegasdud2359 ($24.40 in chips) 
+Seat 4: liux0258 ($14.30 in chips) 
+Seat 5: skillz101 ($69 in chips) 
+Seat 6: jasons0147 ($25.60 in chips) 
+Seat 7: krampy812 ($34.20 in chips) 
+Seat 8: tcarr89 ($25 in chips) 
+Seat 9: Alameda22 ($25 in chips) 
+Vegasdud2359: posts small blind $0.10
+liux0258: posts big blind $0.25
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 9h]
+skillz101: folds 
+jasons0147: folds 
+krampy812: folds 
+tcarr89: folds 
+Alameda22: checks 
+pokerfoole: folds 
+11pokeras11: folds 
+11pokeras11 is sitting out
+Vegasdud2359: calls $0.15
+liux0258: checks 
+*** FLOP *** [6h Ah 9c]
+Vegasdud2359: checks 
+liux0258: checks 
+Alameda22: checks 
+*** TURN *** [6h Ah 9c] [3h]
+Vegasdud2359: bets $0.75
+liux0258: calls $0.75
+Alameda22: folds 
+*** RIVER *** [6h Ah 9c 3h] [Ks]
+Vegasdud2359: checks 
+liux0258: bets $2.50
+Vegasdud2359: folds 
+Uncalled bet ($2.50) returned to liux0258
+liux0258 collected $2.15 from pot
+liux0258: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [6h Ah 9c 3h Ks]
+Seat 1: pokerfoole folded before Flop (didn't bet)
+Seat 2: 11pokeras11 (button) folded before Flop (didn't bet)
+Seat 3: Vegasdud2359 (small blind) folded on the River
+Seat 4: liux0258 (big blind) collected ($2.15)
+Seat 5: skillz101 folded before Flop (didn't bet)
+Seat 6: jasons0147 folded before Flop (didn't bet)
+Seat 7: krampy812 folded before Flop (didn't bet)
+Seat 8: tcarr89 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded on the Turn
+
+
+
+PokerStars Game #19954098424:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:40:59 (ET)
+Table 'Pasiphae' 9-max Seat #3 is the button
+Seat 1: pokerfoole ($21.70 in chips) 
+Seat 3: Vegasdud2359 ($23.40 in chips) 
+Seat 4: liux0258 ($15.45 in chips) 
+Seat 5: skillz101 ($69 in chips) 
+Seat 6: jasons0147 ($25.60 in chips) 
+Seat 7: krampy812 ($34.20 in chips) 
+Seat 8: tcarr89 ($25 in chips) 
+Seat 9: Alameda22 ($24.75 in chips) 
+liux0258: posts small blind $0.10
+skillz101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 3s]
+jasons0147: folds 
+krampy812: folds 
+tcarr89: folds 
+Alameda22: folds 
+pokerfoole: folds 
+Vegasdud2359: calls $0.25
+liux0258: raises $1 to $1.25
+skillz101: folds 
+Vegasdud2359: calls $1
+*** FLOP *** [2h Ts 9c]
+liux0258: checks 
+Vegasdud2359: bets $2
+liux0258: raises $2 to $4
+Vegasdud2359: raises $18.15 to $22.15 and is all-in
+liux0258: calls $10.20 and is all-in
+Uncalled bet ($7.95) returned to Vegasdud2359
+*** TURN *** [2h Ts 9c] [Qc]
+*** RIVER *** [2h Ts 9c Qc] [Th]
+*** SHOW DOWN ***
+liux0258: shows [Ad Qs] (two pair, Queens and Tens)
+Vegasdud2359: mucks hand 
+liux0258 collected $29.60 from pot
+*** SUMMARY ***
+Total pot $31.15 | Rake $1.55 
+Board [2h Ts 9c Qc Th]
+Seat 1: pokerfoole folded before Flop (didn't bet)
+Seat 3: Vegasdud2359 (button) mucked [Jd Jc]
+Seat 4: liux0258 (small blind) showed [Ad Qs] and won ($29.60) with two pair, Queens and Tens
+Seat 5: skillz101 (big blind) folded before Flop
+Seat 6: jasons0147 folded before Flop (didn't bet)
+Seat 7: krampy812 folded before Flop (didn't bet)
+Seat 8: tcarr89 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954119993:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:41:55 (ET)
+Table 'Pasiphae' 9-max Seat #4 is the button
+Seat 1: pokerfoole ($21.70 in chips) 
+Seat 3: Vegasdud2359 ($7.95 in chips) 
+Seat 4: liux0258 ($29.60 in chips) 
+Seat 5: skillz101 ($68.75 in chips) 
+Seat 6: jasons0147 ($25.60 in chips) 
+Seat 7: krampy812 ($34.20 in chips) 
+Seat 8: tcarr89 ($25 in chips) 
+Seat 9: Alameda22 ($24.75 in chips) 
+skillz101: posts small blind $0.10
+jasons0147: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 7d]
+krampy812: folds 
+tcarr89: folds 
+Alameda22: folds 
+pokerfoole: folds 
+Vegasdud2359: calls $0.25
+liux0258: folds 
+skillz101: calls $0.15
+jasons0147: checks 
+*** FLOP *** [Ks 5s Ah]
+skillz101: checks 
+jasons0147: checks 
+Vegasdud2359: checks 
+*** TURN *** [Ks 5s Ah] [Ad]
+skillz101: checks 
+jasons0147: checks 
+Vegasdud2359: checks 
+*** RIVER *** [Ks 5s Ah Ad] [Qd]
+skillz101: checks 
+jasons0147: checks 
+Vegasdud2359: checks 
+*** SHOW DOWN ***
+skillz101: shows [Ts 6c] (a pair of Aces)
+jasons0147: shows [Kd Qs] (two pair, Aces and Kings)
+Vegasdud2359: mucks hand 
+jasons0147 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Ks 5s Ah Ad Qd]
+Seat 1: pokerfoole folded before Flop (didn't bet)
+Seat 3: Vegasdud2359 mucked [Qc 9s]
+Seat 4: liux0258 (button) folded before Flop (didn't bet)
+Seat 5: skillz101 (small blind) showed [Ts 6c] and lost with a pair of Aces
+Seat 6: jasons0147 (big blind) showed [Kd Qs] and won ($0.75) with two pair, Aces and Kings
+Seat 7: krampy812 folded before Flop (didn't bet)
+Seat 8: tcarr89 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954145736:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:43:03 (ET)
+Table 'Pasiphae' 9-max Seat #5 is the button
+Seat 1: pokerfoole ($21.70 in chips) 
+Seat 3: Vegasdud2359 ($24.75 in chips) 
+Seat 4: liux0258 ($29.60 in chips) 
+Seat 5: skillz101 ($68.50 in chips) 
+Seat 6: jasons0147 ($26.10 in chips) 
+Seat 7: krampy812 ($34.20 in chips) 
+Seat 8: tcarr89 ($25 in chips) 
+Seat 9: Alameda22 ($24.75 in chips) 
+jasons0147: posts small blind $0.10
+krampy812: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h As]
+tcarr89: folds 
+Alameda22: folds 
+pokerfoole: raises $0.50 to $0.75
+11pokeras11 is disconnected 
+Vegasdud2359: calls $0.75
+liux0258: folds 
+skillz101: folds 
+jasons0147: folds 
+krampy812: folds 
+*** FLOP *** [Td 9d 4h]
+pokerfoole: bets $1.50
+Vegasdud2359: calls $1.50
+*** TURN *** [Td 9d 4h] [9h]
+pokerfoole: bets $3.25
+Vegasdud2359: folds 
+Uncalled bet ($3.25) returned to pokerfoole
+pokerfoole collected $4.65 from pot
+pokerfoole: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [Td 9d 4h 9h]
+Seat 1: pokerfoole collected ($4.65)
+Seat 3: Vegasdud2359 folded on the Turn
+Seat 4: liux0258 folded before Flop (didn't bet)
+Seat 5: skillz101 (button) folded before Flop (didn't bet)
+Seat 6: jasons0147 (small blind) folded before Flop
+Seat 7: krampy812 (big blind) folded before Flop
+Seat 8: tcarr89 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954181299:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:44:36 (ET)
+Table 'Pasiphae' 9-max Seat #6 is the button
+Seat 1: pokerfoole ($24.10 in chips) 
+Seat 3: Vegasdud2359 ($22.50 in chips) 
+Seat 4: liux0258 ($29.60 in chips) 
+Seat 5: skillz101 ($68.50 in chips) 
+Seat 6: jasons0147 ($26 in chips) 
+Seat 7: krampy812 ($33.95 in chips) 
+Seat 8: tcarr89 ($25 in chips) 
+Seat 9: Alameda22 ($24.75 in chips) 
+krampy812: posts small blind $0.10
+tcarr89: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 6c]
+Alameda22: folds 
+pokerfoole: folds 
+Vegasdud2359: folds 
+liux0258: calls $0.25
+skillz101: raises $1.25 to $1.50
+jasons0147: folds 
+krampy812: folds 
+tcarr89: folds 
+liux0258: calls $1.25
+*** FLOP *** [3c Jd 3h]
+liux0258: checks 
+skillz101: bets $2.50
+liux0258: folds 
+Uncalled bet ($2.50) returned to skillz101
+skillz101 collected $3.20 from pot
+skillz101: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [3c Jd 3h]
+Seat 1: pokerfoole folded before Flop (didn't bet)
+Seat 3: Vegasdud2359 folded before Flop (didn't bet)
+Seat 4: liux0258 folded on the Flop
+Seat 5: skillz101 collected ($3.20)
+Seat 6: jasons0147 (button) folded before Flop (didn't bet)
+Seat 7: krampy812 (small blind) folded before Flop
+Seat 8: tcarr89 (big blind) folded before Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954199032:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:45:23 (ET)
+Table 'Pasiphae' 9-max Seat #7 is the button
+Seat 1: pokerfoole ($24.10 in chips) 
+Seat 3: Vegasdud2359 ($22.50 in chips) 
+Seat 4: liux0258 ($28.10 in chips) 
+Seat 5: skillz101 ($70.20 in chips) 
+Seat 6: jasons0147 ($26 in chips) 
+Seat 7: krampy812 ($33.85 in chips) 
+Seat 8: tcarr89 ($24.75 in chips) 
+Seat 9: Alameda22 ($24.75 in chips) 
+tcarr89: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 5d]
+pokerfoole: calls $0.25
+Vegasdud2359: folds 
+liux0258: folds 
+skillz101: calls $0.25
+jasons0147: raises $1.25 to $1.50
+krampy812: calls $1.50
+tcarr89: folds 
+Alameda22: folds 
+pokerfoole: calls $1.25
+skillz101: calls $1.25
+*** FLOP *** [8c 9s 8h]
+pokerfoole: checks 
+skillz101: bets $2
+jasons0147: folds 
+krampy812: calls $2
+pokerfoole: folds 
+*** TURN *** [8c 9s 8h] [6c]
+skillz101: bets $4
+krampy812: calls $4
+*** RIVER *** [8c 9s 8h 6c] [4c]
+skillz101: bets $7
+krampy812: raises $11 to $18
+skillz101: calls $11
+*** SHOW DOWN ***
+krampy812: shows [6d 8d] (a full house, Eights full of Sixes)
+skillz101: mucks hand 
+krampy812 collected $51.70 from pot
+skillz101 said, "nh"
+*** SUMMARY ***
+Total pot $54.35 | Rake $2.65 
+Board [8c 9s 8h 6c 4c]
+Seat 1: pokerfoole folded on the Flop
+Seat 3: Vegasdud2359 folded before Flop (didn't bet)
+Seat 4: liux0258 folded before Flop (didn't bet)
+Seat 5: skillz101 mucked [4h 9h]
+Seat 6: jasons0147 folded on the Flop
+Seat 7: krampy812 (button) showed [6d 8d] and won ($51.70) with a full house, Eights full of Sixes
+Seat 8: tcarr89 (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #19954233845:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:46:56 (ET)
+Table 'Pasiphae' 9-max Seat #8 is the button
+Seat 1: pokerfoole ($22.60 in chips) 
+Seat 3: Vegasdud2359 ($22.50 in chips) 
+Seat 4: liux0258 ($28.10 in chips) 
+Seat 5: skillz101 ($44.70 in chips) 
+Seat 6: jasons0147 ($25 in chips) 
+Seat 7: krampy812 ($60.05 in chips) 
+Seat 8: tcarr89 ($24.65 in chips) 
+Seat 9: Alameda22 ($24.50 in chips) 
+Alameda22: posts small blind $0.10
+pokerfoole: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 2c]
+Vegasdud2359: folds 
+liux0258: calls $0.25
+skillz101: raises $2.25 to $2.50
+jasons0147: folds 
+krampy812: folds 
+tcarr89: folds 
+Alameda22: folds 
+pokerfoole: folds 
+liux0258: calls $2.25
+*** FLOP *** [4d Qd Kc]
+liux0258: checks 
+skillz101: bets $3
+liux0258: calls $3
+*** TURN *** [4d Qd Kc] [3c]
+liux0258: checks 
+skillz101: bets $6
+liux0258: raises $16.60 to $22.60 and is all-in
+skillz101: folds 
+Uncalled bet ($16.60) returned to liux0258
+liux0258 collected $22.25 from pot
+liux0258: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.35 | Rake $1.10 
+Board [4d Qd Kc 3c]
+Seat 1: pokerfoole (big blind) folded before Flop
+Seat 3: Vegasdud2359 folded before Flop (didn't bet)
+Seat 4: liux0258 collected ($22.25)
+Seat 5: skillz101 folded on the Turn
+Seat 6: jasons0147 folded before Flop (didn't bet)
+Seat 7: krampy812 folded before Flop (didn't bet)
+Seat 8: tcarr89 (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19954263735:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:48:18 (ET)
+Table 'Pasiphae' 9-max Seat #9 is the button
+Seat 1: pokerfoole ($22.35 in chips) 
+Seat 3: Vegasdud2359 ($22.50 in chips) 
+Seat 4: liux0258 ($38.85 in chips) 
+Seat 5: skillz101 ($33.20 in chips) 
+Seat 6: jasons0147 ($25 in chips) 
+Seat 7: krampy812 ($60.05 in chips) 
+Seat 8: tcarr89 ($25 in chips) 
+Seat 9: Alameda22 ($24.40 in chips) 
+pokerfoole: posts small blind $0.10
+Vegasdud2359: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 7h]
+liux0258: folds 
+skillz101: folds 
+jasons0147: folds 
+krampy812: folds 
+tcarr89: raises $0.75 to $1
+Alameda22: folds 
+pokerfoole: folds 
+Vegasdud2359: calls $0.75
+*** FLOP *** [4d 6d 7c]
+Vegasdud2359: checks 
+tcarr89: bets $1.50
+Vegasdud2359: calls $1.50
+*** TURN *** [4d 6d 7c] [8c]
+Vegasdud2359: checks 
+tcarr89: checks 
+*** RIVER *** [4d 6d 7c 8c] [5c]
+Vegasdud2359: bets $4
+tcarr89: calls $4
+*** SHOW DOWN ***
+Vegasdud2359: shows [5h Qh] (a straight, Four to Eight)
+tcarr89: shows [Ad 4c] (a straight, Four to Eight)
+Vegasdud2359 collected $6.25 from pot
+tcarr89 collected $6.25 from pot
+*** SUMMARY ***
+Total pot $13.10 | Rake $0.60 
+Board [4d 6d 7c 8c 5c]
+Seat 1: pokerfoole (small blind) folded before Flop
+Seat 3: Vegasdud2359 (big blind) showed [5h Qh] and won ($6.25) with a straight, Four to Eight
+Seat 4: liux0258 folded before Flop (didn't bet)
+Seat 5: skillz101 folded before Flop (didn't bet)
+Seat 6: jasons0147 folded before Flop (didn't bet)
+Seat 7: krampy812 folded before Flop (didn't bet)
+Seat 8: tcarr89 showed [Ad 4c] and won ($6.25) with a straight, Four to Eight
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954282941:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:49:11 (ET)
+Table 'Pasiphae' 9-max Seat #1 is the button
+Seat 1: pokerfoole ($22.25 in chips) 
+Seat 3: Vegasdud2359 ($22.25 in chips) 
+Seat 4: liux0258 ($38.85 in chips) 
+Seat 5: skillz101 ($33.20 in chips) 
+Seat 6: jasons0147 ($25 in chips) 
+Seat 7: krampy812 ($60.05 in chips) 
+Seat 8: tcarr89 ($25 in chips) 
+Seat 9: Alameda22 ($24.40 in chips) 
+Vegasdud2359: posts small blind $0.10
+liux0258: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 6h]
+skillz101: raises $0.75 to $1
+jasons0147: folds 
+krampy812: folds 
+tcarr89: folds 
+Alameda22: folds 
+pokerfoole: folds 
+Vegasdud2359: folds 
+liux0258: calls $0.75
+*** FLOP *** [Td 6d 2d]
+liux0258: checks 
+skillz101: checks 
+*** TURN *** [Td 6d 2d] [Th]
+liux0258: checks 
+skillz101: checks 
+*** RIVER *** [Td 6d 2d Th] [7s]
+liux0258: checks 
+skillz101: checks 
+*** SHOW DOWN ***
+liux0258: shows [8s Kh] (a pair of Tens)
+skillz101: shows [4s 4h] (two pair, Tens and Fours)
+skillz101 collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Td 6d 2d Th 7s]
+Seat 1: pokerfoole (button) folded before Flop (didn't bet)
+Seat 3: Vegasdud2359 (small blind) folded before Flop
+Seat 4: liux0258 (big blind) showed [8s Kh] and lost with a pair of Tens
+Seat 5: skillz101 showed [4s 4h] and won ($2) with two pair, Tens and Fours
+Seat 6: jasons0147 folded before Flop (didn't bet)
+Seat 7: krampy812 folded before Flop (didn't bet)
+Seat 8: tcarr89 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954298222:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:49:53 (ET)
+Table 'Pasiphae' 9-max Seat #3 is the button
+Seat 1: pokerfoole ($22.25 in chips) 
+Seat 3: Vegasdud2359 ($22.15 in chips) 
+Seat 4: liux0258 ($37.85 in chips) 
+Seat 5: skillz101 ($34.20 in chips) 
+Seat 6: jasons0147 ($25 in chips) 
+Seat 7: krampy812 ($60.05 in chips) 
+Seat 8: tcarr89 ($25 in chips) 
+Seat 9: Alameda22 ($24.40 in chips) 
+liux0258: posts small blind $0.10
+skillz101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 4h]
+jasons0147: folds 
+krampy812: folds 
+tcarr89: folds 
+Alameda22: folds 
+pokerfoole: folds 
+Vegasdud2359: folds 
+liux0258: folds 
+Uncalled bet ($0.15) returned to skillz101
+skillz101 collected $0.20 from pot
+skillz101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: pokerfoole folded before Flop (didn't bet)
+Seat 3: Vegasdud2359 (button) folded before Flop (didn't bet)
+Seat 4: liux0258 (small blind) folded before Flop
+Seat 5: skillz101 (big blind) collected ($0.20)
+Seat 6: jasons0147 folded before Flop (didn't bet)
+Seat 7: krampy812 folded before Flop (didn't bet)
+Seat 8: tcarr89 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954304812:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:50:12 (ET)
+Table 'Pasiphae' 9-max Seat #4 is the button
+Seat 1: pokerfoole ($22.25 in chips) 
+Seat 3: Vegasdud2359 ($22.15 in chips) 
+Seat 4: liux0258 ($37.75 in chips) 
+Seat 5: skillz101 ($34.30 in chips) 
+Seat 6: jasons0147 ($25 in chips) 
+Seat 7: krampy812 ($60.05 in chips) 
+Seat 8: tcarr89 ($25 in chips) 
+Seat 9: Alameda22 ($24.40 in chips) 
+skillz101: posts small blind $0.10
+jasons0147: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Jh]
+krampy812: folds 
+tcarr89: folds 
+Alameda22: raises $0.50 to $0.75
+pokerfoole: folds 
+Vegasdud2359: folds 
+liux0258: folds 
+skillz101: folds 
+jasons0147: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: pokerfoole folded before Flop (didn't bet)
+Seat 3: Vegasdud2359 folded before Flop (didn't bet)
+Seat 4: liux0258 (button) folded before Flop (didn't bet)
+Seat 5: skillz101 (small blind) folded before Flop
+Seat 6: jasons0147 (big blind) folded before Flop
+Seat 7: krampy812 folded before Flop (didn't bet)
+Seat 8: tcarr89 folded before Flop (didn't bet)
+Seat 9: Alameda22 collected ($0.60)
+
+
+
+PokerStars Game #19954314809:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:50:40 (ET)
+Table 'Pasiphae' 9-max Seat #5 is the button
+Seat 1: pokerfoole ($22.25 in chips) 
+Seat 3: Vegasdud2359 ($25 in chips) 
+Seat 4: liux0258 ($37.75 in chips) 
+Seat 5: skillz101 ($34.20 in chips) 
+Seat 6: jasons0147 ($25 in chips) 
+Seat 7: krampy812 ($60.05 in chips) 
+Seat 8: tcarr89 ($25 in chips) 
+Seat 9: Alameda22 ($24.75 in chips) 
+jasons0147: posts small blind $0.10
+krampy812: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 6s]
+tcarr89: folds 
+Alameda22: folds 
+pokerfoole: folds 
+Vegasdud2359: folds 
+liux0258: calls $0.25
+skillz101: folds 
+jasons0147: raises $1 to $1.25
+krampy812: folds 
+liux0258: calls $1
+*** FLOP *** [4s 5c Js]
+jasons0147: bets $1.75
+liux0258: raises $1.75 to $3.50
+jasons0147: calls $1.75
+*** TURN *** [4s 5c Js] [Ah]
+jasons0147: checks 
+liux0258: checks 
+*** RIVER *** [4s 5c Js Ah] [6c]
+jasons0147: bets $4.50
+liux0258: folds 
+Uncalled bet ($4.50) returned to jasons0147
+jasons0147 collected $9.30 from pot
+jasons0147: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.75 | Rake $0.45 
+Board [4s 5c Js Ah 6c]
+Seat 1: pokerfoole folded before Flop (didn't bet)
+Seat 3: Vegasdud2359 folded before Flop (didn't bet)
+Seat 4: liux0258 folded on the River
+Seat 5: skillz101 (button) folded before Flop (didn't bet)
+Seat 6: jasons0147 (small blind) collected ($9.30)
+Seat 7: krampy812 (big blind) folded before Flop
+Seat 8: tcarr89 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954345005:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:52:04 (ET)
+Table 'Pasiphae' 9-max Seat #6 is the button
+Seat 1: pokerfoole ($22.25 in chips) 
+Seat 3: Vegasdud2359 ($25 in chips) 
+Seat 4: liux0258 ($33 in chips) 
+Seat 5: skillz101 ($34.20 in chips) 
+Seat 6: jasons0147 ($29.55 in chips) 
+Seat 7: krampy812 ($59.80 in chips) 
+Seat 8: tcarr89 ($25 in chips) 
+Seat 9: Alameda22 ($24.75 in chips) 
+krampy812: posts small blind $0.10
+tcarr89: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Ts]
+Alameda22: folds 
+pokerfoole: folds 
+Vegasdud2359: calls $0.25
+liux0258: calls $0.25
+skillz101: calls $0.25
+jasons0147: folds 
+krampy812: calls $0.15
+tcarr89: checks 
+*** FLOP *** [8d Js Qs]
+krampy812: checks 
+tcarr89: checks 
+Vegasdud2359: bets $0.75
+liux0258: calls $0.75
+skillz101: folds 
+krampy812: folds 
+tcarr89: folds 
+*** TURN *** [8d Js Qs] [Ad]
+Vegasdud2359: bets $1.50
+liux0258: calls $1.50
+*** RIVER *** [8d Js Qs Ad] [7d]
+Vegasdud2359: bets $6
+liux0258: calls $6
+*** SHOW DOWN ***
+Vegasdud2359: shows [Jd Qc] (two pair, Queens and Jacks)
+liux0258: mucks hand 
+Vegasdud2359 collected $16.90 from pot
+11pokeras11 was removed from the table for failing to post
+*** SUMMARY ***
+Total pot $17.75 | Rake $0.85 
+Board [8d Js Qs Ad 7d]
+Seat 1: pokerfoole folded before Flop (didn't bet)
+Seat 3: Vegasdud2359 showed [Jd Qc] and won ($16.90) with two pair, Queens and Jacks
+Seat 4: liux0258 mucked [Jh 8h]
+Seat 5: skillz101 folded on the Flop
+Seat 6: jasons0147 (button) folded before Flop (didn't bet)
+Seat 7: krampy812 (small blind) folded on the Flop
+Seat 8: tcarr89 (big blind) folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954373160:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:53:23 (ET)
+Table 'Pasiphae' 9-max Seat #7 is the button
+Seat 1: pokerfoole ($22.25 in chips) 
+Seat 3: Vegasdud2359 ($33.40 in chips) 
+Seat 4: liux0258 ($24.50 in chips) 
+Seat 5: skillz101 ($33.95 in chips) 
+Seat 6: jasons0147 ($29.55 in chips) 
+Seat 7: krampy812 ($59.55 in chips) 
+Seat 8: tcarr89 ($24.75 in chips) 
+Seat 9: Alameda22 ($24.75 in chips) 
+tcarr89: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Jh]
+Cardini 23 joins the table at seat #2 
+pokerfoole: calls $0.25
+Vegasdud2359: folds 
+liux0258: folds 
+skillz101: folds 
+jasons0147: folds 
+krampy812: calls $0.25
+tcarr89: folds 
+Alameda22: checks 
+*** FLOP *** [4c 4d 6d]
+Alameda22: bets $0.50
+pokerfoole: folds 
+krampy812: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.85 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [4c 4d 6d]
+Seat 1: pokerfoole folded on the Flop
+Seat 3: Vegasdud2359 folded before Flop (didn't bet)
+Seat 4: liux0258 folded before Flop (didn't bet)
+Seat 5: skillz101 folded before Flop (didn't bet)
+Seat 6: jasons0147 folded before Flop (didn't bet)
+Seat 7: krampy812 (button) folded on the Flop
+Seat 8: tcarr89 (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) collected ($0.85)
+
+
+
+PokerStars Game #19954393213:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:54:20 (ET)
+Table 'Pasiphae' 9-max Seat #8 is the button
+Seat 1: pokerfoole ($22 in chips) 
+Seat 3: Vegasdud2359 ($33.40 in chips) 
+Seat 4: liux0258 ($24.50 in chips) 
+Seat 5: skillz101 ($33.95 in chips) 
+Seat 6: jasons0147 ($29.55 in chips) 
+Seat 7: krampy812 ($59.30 in chips) 
+Seat 8: tcarr89 ($24.65 in chips) 
+Seat 9: Alameda22 ($25.35 in chips) 
+Alameda22: posts small blind $0.10
+pokerfoole: posts big blind $0.25
+Cardini 23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 3d]
+Vegasdud2359: raises $0.75 to $1
+liux0258: folds 
+skillz101: folds 
+jasons0147: folds 
+krampy812: calls $1
+tcarr89: folds 
+Alameda22: folds 
+pokerfoole: folds 
+*** FLOP *** [Ks 5d Qh]
+Vegasdud2359: bets $1.25
+krampy812: folds 
+Uncalled bet ($1.25) returned to Vegasdud2359
+Vegasdud2359 collected $2.25 from pot
+Vegasdud2359: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Ks 5d Qh]
+Seat 1: pokerfoole (big blind) folded before Flop
+Seat 3: Vegasdud2359 collected ($2.25)
+Seat 4: liux0258 folded before Flop (didn't bet)
+Seat 5: skillz101 folded before Flop (didn't bet)
+Seat 6: jasons0147 folded before Flop (didn't bet)
+Seat 7: krampy812 folded on the Flop
+Seat 8: tcarr89 (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19954408353:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:55:03 (ET)
+Table 'Pasiphae' 9-max Seat #9 is the button
+Seat 1: pokerfoole ($21.75 in chips) 
+Seat 2: Cardini 23 ($25 in chips) 
+Seat 3: Vegasdud2359 ($34.65 in chips) 
+Seat 4: liux0258 ($24.50 in chips) 
+Seat 5: skillz101 ($33.95 in chips) 
+Seat 6: jasons0147 ($29.55 in chips) 
+Seat 7: krampy812 ($58.30 in chips) 
+Seat 8: tcarr89 ($24.65 in chips) 
+Seat 9: Alameda22 ($25.25 in chips) 
+pokerfoole: posts small blind $0.10
+Cardini 23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 7s]
+Vegasdud2359: folds 
+liux0258: raises $0.50 to $0.75
+skillz101: raises $1.25 to $2
+jasons0147: folds 
+krampy812: folds 
+tcarr89: folds 
+Alameda22: folds 
+pokerfoole: folds 
+Cardini 23: folds 
+liux0258: calls $1.25
+*** FLOP *** [Qc Td Qs]
+liux0258: checks 
+skillz101: bets $3
+liux0258: folds 
+Uncalled bet ($3) returned to skillz101
+skillz101 collected $4.15 from pot
+skillz101: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.35 | Rake $0.20 
+Board [Qc Td Qs]
+Seat 1: pokerfoole (small blind) folded before Flop
+Seat 2: Cardini 23 (big blind) folded before Flop
+Seat 3: Vegasdud2359 folded before Flop (didn't bet)
+Seat 4: liux0258 folded on the Flop
+Seat 5: skillz101 collected ($4.15)
+Seat 6: jasons0147 folded before Flop (didn't bet)
+Seat 7: krampy812 folded before Flop (didn't bet)
+Seat 8: tcarr89 folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954424976:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:55:50 (ET)
+Table 'Pasiphae' 9-max Seat #1 is the button
+Seat 1: pokerfoole ($21.65 in chips) 
+Seat 2: Cardini 23 ($24.75 in chips) 
+Seat 3: Vegasdud2359 ($34.65 in chips) 
+Seat 4: liux0258 ($22.50 in chips) 
+Seat 5: skillz101 ($36.10 in chips) 
+Seat 6: jasons0147 ($29.55 in chips) 
+Seat 7: krampy812 ($58.30 in chips) 
+Seat 8: tcarr89 ($24.65 in chips) 
+Seat 9: Alameda22 ($25.25 in chips) 
+Cardini 23: posts small blind $0.10
+Vegasdud2359: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Qc]
+liux0258: folds 
+skillz101: folds 
+jasons0147: folds 
+krampy812: folds 
+tcarr89: folds 
+Alameda22: folds 
+pokerfoole: folds 
+Cardini 23: raises $0.75 to $1
+Vegasdud2359: folds 
+Uncalled bet ($0.75) returned to Cardini 23
+Cardini 23 collected $0.50 from pot
+Cardini 23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: pokerfoole (button) folded before Flop (didn't bet)
+Seat 2: Cardini 23 (small blind) collected ($0.50)
+Seat 3: Vegasdud2359 (big blind) folded before Flop
+Seat 4: liux0258 folded before Flop (didn't bet)
+Seat 5: skillz101 folded before Flop (didn't bet)
+Seat 6: jasons0147 folded before Flop (didn't bet)
+Seat 7: krampy812 folded before Flop (didn't bet)
+Seat 8: tcarr89 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954442903:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:56:42 (ET)
+Table 'Pasiphae' 9-max Seat #2 is the button
+Seat 1: pokerfoole ($21.65 in chips) 
+Seat 2: Cardini 23 ($25 in chips) 
+Seat 3: Vegasdud2359 ($34.40 in chips) 
+Seat 4: liux0258 ($22.50 in chips) 
+Seat 5: skillz101 ($36.10 in chips) 
+Seat 6: jasons0147 ($29.55 in chips) 
+Seat 7: krampy812 ($58.30 in chips) 
+Seat 8: tcarr89 ($24.65 in chips) 
+Seat 9: Alameda22 ($25.25 in chips) 
+Vegasdud2359: posts small blind $0.10
+liux0258: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Jh]
+skillz101: folds 
+jasons0147: folds 
+krampy812: folds 
+tcarr89: folds 
+Alameda22: folds 
+pokerfoole: folds 
+Cardini 23: folds 
+Vegasdud2359: calls $0.15
+liux0258: checks 
+*** FLOP *** [Js 2c 6h]
+Vegasdud2359: bets $0.25
+liux0258: calls $0.25
+*** TURN *** [Js 2c 6h] [4h]
+Vegasdud2359: checks 
+liux0258: checks 
+*** RIVER *** [Js 2c 6h 4h] [7s]
+Vegasdud2359: checks 
+liux0258: checks 
+*** SHOW DOWN ***
+Vegasdud2359: shows [8s Ks] (high card King)
+liux0258: shows [Ad 3d] (high card Ace)
+liux0258 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Js 2c 6h 4h 7s]
+Seat 1: pokerfoole folded before Flop (didn't bet)
+Seat 2: Cardini 23 (button) folded before Flop (didn't bet)
+Seat 3: Vegasdud2359 (small blind) showed [8s Ks] and lost with high card King
+Seat 4: liux0258 (big blind) showed [Ad 3d] and won ($0.95) with high card Ace
+Seat 5: skillz101 folded before Flop (didn't bet)
+Seat 6: jasons0147 folded before Flop (didn't bet)
+Seat 7: krampy812 folded before Flop (didn't bet)
+Seat 8: tcarr89 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954459687:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:57:30 (ET)
+Table 'Pasiphae' 9-max Seat #3 is the button
+Seat 1: pokerfoole ($21.65 in chips) 
+Seat 2: Cardini 23 ($25 in chips) 
+Seat 3: Vegasdud2359 ($33.90 in chips) 
+Seat 4: liux0258 ($22.95 in chips) 
+Seat 5: skillz101 ($36.10 in chips) 
+Seat 6: jasons0147 ($29.55 in chips) 
+Seat 7: krampy812 ($58.30 in chips) 
+Seat 8: tcarr89 ($24.65 in chips) 
+Seat 9: Alameda22 ($25.25 in chips) 
+liux0258: posts small blind $0.10
+skillz101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 4s]
+jasons0147: folds 
+krampy812: folds 
+tcarr89: folds 
+Alameda22: folds 
+pokerfoole: folds 
+Cardini 23: raises $0.75 to $1
+Vegasdud2359: folds 
+liux0258: folds 
+skillz101: calls $0.75
+*** FLOP *** [9h 7h Ac]
+skillz101: checks 
+Cardini 23: bets $1.50
+skillz101: folds 
+Uncalled bet ($1.50) returned to Cardini 23
+Cardini 23 collected $2 from pot
+Cardini 23: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [9h 7h Ac]
+Seat 1: pokerfoole folded before Flop (didn't bet)
+Seat 2: Cardini 23 collected ($2)
+Seat 3: Vegasdud2359 (button) folded before Flop (didn't bet)
+Seat 4: liux0258 (small blind) folded before Flop
+Seat 5: skillz101 (big blind) folded on the Flop
+Seat 6: jasons0147 folded before Flop (didn't bet)
+Seat 7: krampy812 folded before Flop (didn't bet)
+Seat 8: tcarr89 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954480544:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:58:30 (ET)
+Table 'Pasiphae' 9-max Seat #4 is the button
+Seat 1: pokerfoole ($21.65 in chips) 
+Seat 2: Cardini 23 ($26 in chips) 
+Seat 3: Vegasdud2359 ($33.90 in chips) 
+Seat 4: liux0258 ($22.85 in chips) 
+Seat 5: skillz101 ($35.10 in chips) 
+Seat 6: jasons0147 ($29.55 in chips) 
+Seat 7: krampy812 ($58.30 in chips) 
+Seat 8: tcarr89 ($25 in chips) 
+Seat 9: Alameda22 ($25.25 in chips) 
+skillz101: posts small blind $0.10
+jasons0147: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Jd]
+krampy812: folds 
+tcarr89: folds 
+Alameda22: folds 
+pokerfoole: folds 
+Cardini 23: folds 
+Vegasdud2359: folds 
+liux0258: folds 
+skillz101: folds 
+Uncalled bet ($0.15) returned to jasons0147
+jasons0147 collected $0.20 from pot
+jasons0147: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: pokerfoole folded before Flop (didn't bet)
+Seat 2: Cardini 23 folded before Flop (didn't bet)
+Seat 3: Vegasdud2359 folded before Flop (didn't bet)
+Seat 4: liux0258 (button) folded before Flop (didn't bet)
+Seat 5: skillz101 (small blind) folded before Flop
+Seat 6: jasons0147 (big blind) collected ($0.20)
+Seat 7: krampy812 folded before Flop (didn't bet)
+Seat 8: tcarr89 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954498077:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:59:21 (ET)
+Table 'Pasiphae' 9-max Seat #5 is the button
+Seat 1: pokerfoole ($21.65 in chips) 
+Seat 2: Cardini 23 ($26 in chips) 
+Seat 3: Vegasdud2359 ($33.90 in chips) 
+Seat 4: liux0258 ($22.85 in chips) 
+Seat 5: skillz101 ($35 in chips) 
+Seat 6: jasons0147 ($29.65 in chips) 
+Seat 7: krampy812 ($58.30 in chips) 
+Seat 8: tcarr89 ($25 in chips) 
+Seat 9: Alameda22 ($25.25 in chips) 
+jasons0147: posts small blind $0.10
+krampy812: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 7d]
+tcarr89: raises $0.50 to $0.75
+Alameda22: folds 
+pokerfoole: folds 
+Cardini 23: folds 
+Vegasdud2359: folds 
+liux0258: folds 
+skillz101: folds 
+jasons0147: folds 
+krampy812: folds 
+Uncalled bet ($0.50) returned to tcarr89
+tcarr89 collected $0.60 from pot
+tcarr89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: pokerfoole folded before Flop (didn't bet)
+Seat 2: Cardini 23 folded before Flop (didn't bet)
+Seat 3: Vegasdud2359 folded before Flop (didn't bet)
+Seat 4: liux0258 folded before Flop (didn't bet)
+Seat 5: skillz101 (button) folded before Flop (didn't bet)
+Seat 6: jasons0147 (small blind) folded before Flop
+Seat 7: krampy812 (big blind) folded before Flop
+Seat 8: tcarr89 collected ($0.60)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+

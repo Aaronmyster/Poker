@@ -1,0 +1,655 @@
+PokerStars Game #19929199093:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:00:09 (ET)
+Table 'Aguilar' 9-max Seat #9 is the button
+Seat 1: weepeel ($25.40 in chips) 
+Seat 2: Farva500 ($26.25 in chips) 
+Seat 4: tunley12 ($14.60 in chips) 
+Seat 5: Proc21 ($25 in chips) 
+Seat 6: betojch ($47.10 in chips) 
+Seat 7: shaktale66 ($20 in chips) 
+Seat 8: ItsYourCall ($12.30 in chips) 
+Seat 9: Alameda22 ($51.10 in chips) 
+weepeel: posts small blind $0.10
+Farva500: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 3d]
+tunley12: folds 
+Proc21: folds 
+betojch: folds 
+shaktale66: calls $0.25
+ItsYourCall: raises $1 to $1.25
+Alameda22: folds 
+weepeel: folds 
+Farva500: folds 
+shaktale66: folds 
+Uncalled bet ($1) returned to ItsYourCall
+ItsYourCall collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: weepeel (small blind) folded before Flop
+Seat 2: Farva500 (big blind) folded before Flop
+Seat 4: tunley12 folded before Flop (didn't bet)
+Seat 5: Proc21 folded before Flop (didn't bet)
+Seat 6: betojch folded before Flop (didn't bet)
+Seat 7: shaktale66 folded before Flop
+Seat 8: ItsYourCall collected ($0.85)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929215188:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:01:01 (ET)
+Table 'Aguilar' 9-max Seat #1 is the button
+Seat 1: weepeel ($25.30 in chips) 
+Seat 2: Farva500 ($26 in chips) 
+Seat 4: tunley12 ($14.60 in chips) 
+Seat 5: Proc21 ($25 in chips) 
+Seat 6: betojch ($47.10 in chips) 
+Seat 7: shaktale66 ($19.75 in chips) 
+Seat 8: ItsYourCall ($12.90 in chips) 
+Seat 9: Alameda22 ($51.10 in chips) 
+Farva500: posts small blind $0.10
+tunley12: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 6s]
+Proc21: folds 
+betojch: folds 
+shaktale66: calls $0.25
+ItsYourCall: folds 
+Alameda22: folds 
+weepeel: calls $0.25
+Farva500: folds 
+tunley12: checks 
+*** FLOP *** [8h Ks 2c]
+tunley12: checks 
+shaktale66: checks 
+weepeel: bets $0.50
+calpoker0414 joins the table at seat #3 
+tunley12: folds 
+shaktale66: folds 
+Uncalled bet ($0.50) returned to weepeel
+weepeel collected $0.85 from pot
+weepeel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [8h Ks 2c]
+Seat 1: weepeel (button) collected ($0.85)
+Seat 2: Farva500 (small blind) folded before Flop
+Seat 4: tunley12 (big blind) folded on the Flop
+Seat 5: Proc21 folded before Flop (didn't bet)
+Seat 6: betojch folded before Flop (didn't bet)
+Seat 7: shaktale66 folded on the Flop
+Seat 8: ItsYourCall folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929231457:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:01:54 (ET)
+Table 'Aguilar' 9-max Seat #2 is the button
+Seat 1: weepeel ($25.90 in chips) 
+Seat 2: Farva500 ($25.90 in chips) 
+Seat 4: tunley12 ($14.35 in chips) 
+Seat 5: Proc21 ($25 in chips) 
+Seat 6: betojch ($47.10 in chips) 
+Seat 7: shaktale66 ($19.50 in chips) 
+Seat 8: ItsYourCall ($12.90 in chips) 
+Seat 9: Alameda22 ($51.10 in chips) 
+calpoker0414 will be allowed to play after the button
+tunley12: posts small blind $0.10
+Proc21: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Jd]
+betojch: folds 
+shaktale66: folds 
+ItsYourCall: calls $0.25
+Alameda22: folds 
+weepeel: folds 
+Farva500: folds 
+tunley12: folds 
+Proc21: checks 
+*** FLOP *** [7d Ts 6h]
+Proc21: checks 
+ItsYourCall: checks 
+*** TURN *** [7d Ts 6h] [Ah]
+Proc21: checks 
+ItsYourCall: checks 
+*** RIVER *** [7d Ts 6h Ah] [2c]
+Proc21: checks 
+ItsYourCall: checks 
+*** SHOW DOWN ***
+Proc21: shows [5s Ks] (high card Ace)
+ItsYourCall: mucks hand 
+Proc21 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7d Ts 6h Ah 2c]
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: Farva500 (button) folded before Flop (didn't bet)
+Seat 4: tunley12 (small blind) folded before Flop
+Seat 5: Proc21 (big blind) showed [5s Ks] and won ($0.60) with high card Ace
+Seat 6: betojch folded before Flop (didn't bet)
+Seat 7: shaktale66 folded before Flop (didn't bet)
+Seat 8: ItsYourCall mucked [Qc Jh]
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929252786:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:03:04 (ET)
+Table 'Aguilar' 9-max Seat #4 is the button
+Seat 1: weepeel ($25.90 in chips) 
+Seat 2: Farva500 ($25.90 in chips) 
+Seat 3: calpoker0414 ($25 in chips) 
+Seat 4: tunley12 ($14.25 in chips) 
+Seat 5: Proc21 ($25.35 in chips) 
+Seat 6: betojch ($47.10 in chips) 
+Seat 7: shaktale66 ($19.50 in chips) 
+Seat 8: ItsYourCall ($12.65 in chips) 
+Seat 9: Alameda22 ($51.10 in chips) 
+Proc21: posts small blind $0.10
+betojch: posts big blind $0.25
+calpoker0414: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 5s]
+shaktale66: folds 
+ItsYourCall: folds 
+Alameda22: folds 
+weepeel: folds 
+Farva500: folds 
+calpoker0414: checks 
+tunley12: folds 
+Proc21: calls $0.15
+betojch: checks 
+*** FLOP *** [3d 8s 8c]
+Proc21: checks 
+betojch: checks 
+calpoker0414: bets $0.50
+Proc21: folds 
+betojch: folds 
+Uncalled bet ($0.50) returned to calpoker0414
+shaktale66 leaves the table
+calpoker0414 collected $0.75 from pot
+calpoker0414: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [3d 8s 8c]
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: Farva500 folded before Flop (didn't bet)
+Seat 3: calpoker0414 collected ($0.75)
+Seat 4: tunley12 (button) folded before Flop (didn't bet)
+Seat 5: Proc21 (small blind) folded on the Flop
+Seat 6: betojch (big blind) folded on the Flop
+Seat 7: shaktale66 folded before Flop (didn't bet)
+Seat 8: ItsYourCall folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929268433:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:03:56 (ET)
+Table 'Aguilar' 9-max Seat #5 is the button
+Seat 1: weepeel ($25.90 in chips) 
+Seat 2: Farva500 ($25.90 in chips) 
+Seat 3: calpoker0414 ($25.50 in chips) 
+Seat 4: tunley12 ($14.25 in chips) 
+Seat 5: Proc21 ($25.10 in chips) 
+Seat 6: betojch ($46.85 in chips) 
+Seat 8: ItsYourCall ($12.65 in chips) 
+Seat 9: Alameda22 ($51.10 in chips) 
+betojch: posts small blind $0.10
+ItsYourCall: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 6d]
+Alameda22: folds 
+weepeel: folds 
+Farva500: folds 
+calpoker0414: folds 
+tunley12: folds 
+Proc21: folds 
+betojch: folds 
+Uncalled bet ($0.15) returned to ItsYourCall
+ItsYourCall collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: Farva500 folded before Flop (didn't bet)
+Seat 3: calpoker0414 folded before Flop (didn't bet)
+Seat 4: tunley12 folded before Flop (didn't bet)
+Seat 5: Proc21 (button) folded before Flop (didn't bet)
+Seat 6: betojch (small blind) folded before Flop
+Seat 8: ItsYourCall (big blind) collected ($0.20)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929280927:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:04:37 (ET)
+Table 'Aguilar' 9-max Seat #6 is the button
+Seat 1: weepeel ($25.90 in chips) 
+Seat 2: Farva500 ($25.90 in chips) 
+Seat 3: calpoker0414 ($25.50 in chips) 
+Seat 4: tunley12 ($14.25 in chips) 
+Seat 5: Proc21 ($25.10 in chips) 
+Seat 6: betojch ($46.75 in chips) 
+Seat 8: ItsYourCall ($12.75 in chips) 
+Seat 9: Alameda22 ($51.10 in chips) 
+ItsYourCall: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 6c]
+weepeel: folds 
+Farva500: folds 
+calpoker0414: folds 
+tunley12: folds 
+Proc21: folds 
+betojch: raises $0.75 to $1
+yjqian23 joins the table at seat #7 
+ItsYourCall: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to betojch
+betojch collected $0.60 from pot
+betojch: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: weepeel folded before Flop (didn't bet)
+Seat 2: Farva500 folded before Flop (didn't bet)
+Seat 3: calpoker0414 folded before Flop (didn't bet)
+Seat 4: tunley12 folded before Flop (didn't bet)
+Seat 5: Proc21 folded before Flop (didn't bet)
+Seat 6: betojch (button) collected ($0.60)
+Seat 8: ItsYourCall (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #19929291678:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:05:12 (ET)
+Table 'Aguilar' 9-max Seat #8 is the button
+Seat 1: weepeel ($25.90 in chips) 
+Seat 2: Farva500 ($25.90 in chips) 
+Seat 3: calpoker0414 ($25.50 in chips) 
+Seat 4: tunley12 ($14.25 in chips) 
+Seat 5: Proc21 ($25.10 in chips) 
+Seat 6: betojch ($47.10 in chips) 
+Seat 8: ItsYourCall ($12.65 in chips) 
+Seat 9: Alameda22 ($50.85 in chips) 
+Alameda22: posts small blind $0.10
+weepeel: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 6d]
+Farva500: folds 
+calpoker0414: folds 
+tunley12: calls $0.25
+Proc21: folds 
+betojch: folds 
+betojch is sitting out
+ItsYourCall: calls $0.25
+Alameda22: folds 
+weepeel: checks 
+*** FLOP *** [Qd 7h Ah]
+weepeel: checks 
+tunley12: checks 
+ItsYourCall: checks 
+*** TURN *** [Qd 7h Ah] [Kh]
+weepeel: checks 
+tunley12: bets $0.75
+ItsYourCall: folds 
+weepeel: folds 
+Uncalled bet ($0.75) returned to tunley12
+tunley12 collected $0.85 from pot
+tunley12: doesn't show hand 
+Farva500 is sitting out
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Qd 7h Ah Kh]
+Seat 1: weepeel (big blind) folded on the Turn
+Seat 2: Farva500 folded before Flop (didn't bet)
+Seat 3: calpoker0414 folded before Flop (didn't bet)
+Seat 4: tunley12 collected ($0.85)
+Seat 5: Proc21 folded before Flop (didn't bet)
+Seat 6: betojch folded before Flop (didn't bet)
+Seat 8: ItsYourCall (button) folded on the Turn
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19929316362:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:06:34 (ET)
+Table 'Aguilar' 9-max Seat #9 is the button
+Seat 1: weepeel ($25.65 in chips) 
+Seat 3: calpoker0414 ($25.50 in chips) 
+Seat 4: tunley12 ($14.85 in chips) 
+Seat 5: Proc21 ($25.10 in chips) 
+Seat 8: ItsYourCall ($12.40 in chips) 
+Seat 9: Alameda22 ($50.75 in chips) 
+weepeel: posts small blind $0.10
+calpoker0414: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 7d]
+tunley12: folds 
+Proc21: folds 
+ItsYourCall: folds 
+Alameda22: raises $0.50 to $0.75
+weepeel: folds 
+calpoker0414: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: weepeel (small blind) folded before Flop
+Seat 3: calpoker0414 (big blind) folded before Flop
+Seat 4: tunley12 folded before Flop (didn't bet)
+Seat 5: Proc21 folded before Flop (didn't bet)
+Seat 8: ItsYourCall folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) collected ($0.60)
+
+
+
+PokerStars Game #19929330452:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:07:21 (ET)
+Table 'Aguilar' 9-max Seat #1 is the button
+Seat 1: weepeel ($25.55 in chips) 
+Seat 3: calpoker0414 ($25.25 in chips) 
+Seat 4: tunley12 ($14.85 in chips) 
+Seat 5: Proc21 ($25.10 in chips) 
+Seat 8: ItsYourCall ($12.40 in chips) 
+Seat 9: Alameda22 ($51.10 in chips) 
+calpoker0414: posts small blind $0.10
+tunley12: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 9c]
+Farva500 has returned
+Proc21: folds 
+Proc21 leaves the table
+ItsYourCall: folds 
+Alameda22: folds 
+weepeel: folds 
+weepeel is sitting out
+calpoker0414: folds 
+Uncalled bet ($0.15) returned to tunley12
+tunley12 collected $0.20 from pot
+tunley12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: weepeel (button) folded before Flop (didn't bet)
+Seat 3: calpoker0414 (small blind) folded before Flop
+Seat 4: tunley12 (big blind) collected ($0.20)
+Seat 5: Proc21 folded before Flop (didn't bet)
+Seat 8: ItsYourCall folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929344616:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:08:08 (ET)
+Table 'Aguilar' 9-max Seat #3 is the button
+Seat 2: Farva500 ($25.90 in chips) 
+Seat 3: calpoker0414 ($25.15 in chips) 
+Seat 4: tunley12 ($14.95 in chips) 
+Seat 7: yjqian23 ($25 in chips) 
+Seat 8: ItsYourCall ($12.40 in chips) 
+Seat 9: Alameda22 ($51.10 in chips) 
+tunley12: posts small blind $0.10
+yjqian23: posts big blind $0.25
+Farva500: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Kd]
+ItsYourCall: folds 
+Alameda22: folds 
+betojch leaves the table
+Farva500: checks 
+Setops joins the table at seat #5 
+calpoker0414: folds 
+tunley12: calls $0.15
+yjqian23: checks 
+*** FLOP *** [Kc 3s 7s]
+tunley12: checks 
+yjqian23: checks 
+Farva500: checks 
+*** TURN *** [Kc 3s 7s] [Tc]
+tunley12: bets $1
+yjqian23: folds 
+Farva500: folds 
+Uncalled bet ($1) returned to tunley12
+tunley12 collected $0.85 from pot
+tunley12 is sitting out
+tunley12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Kc 3s 7s Tc]
+Seat 2: Farva500 folded on the Turn
+Seat 3: calpoker0414 (button) folded before Flop (didn't bet)
+Seat 4: tunley12 (small blind) collected ($0.85)
+Seat 7: yjqian23 (big blind) folded on the Turn
+Seat 8: ItsYourCall folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929368220:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:09:27 (ET)
+Table 'Aguilar' 9-max Seat #7 is the button
+Seat 2: Farva500 ($25.55 in chips) 
+Seat 3: calpoker0414 ($25.15 in chips) 
+Seat 5: Setops ($25 in chips) 
+Seat 7: yjqian23 ($24.75 in chips) 
+Seat 8: ItsYourCall ($12.40 in chips) 
+Seat 9: Alameda22 ($51.10 in chips) 
+ItsYourCall: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Setops: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Ah]
+Farva500: folds 
+calpoker0414: calls $0.25
+Setops: checks 
+yjqian23: calls $0.25
+ItsYourCall: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Kh 7h 3s]
+ItsYourCall: checks 
+Alameda22: checks 
+calpoker0414: checks 
+Setops: checks 
+yjqian23: bets $0.50
+ItsYourCall: folds 
+Alameda22: folds 
+crabypappy joins the table at seat #6 
+calpoker0414: folds 
+Setops: folds 
+Uncalled bet ($0.50) returned to yjqian23
+yjqian23 collected $1.20 from pot
+yjqian23: doesn't show hand 
+tunley12 said, "g n"
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Kh 7h 3s]
+Seat 2: Farva500 folded before Flop (didn't bet)
+Seat 3: calpoker0414 folded on the Flop
+Seat 5: Setops folded on the Flop
+Seat 7: yjqian23 (button) collected ($1.20)
+Seat 8: ItsYourCall (small blind) folded on the Flop
+Seat 9: Alameda22 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19929391229:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:10:44 (ET)
+Table 'Aguilar' 9-max Seat #8 is the button
+Seat 2: Farva500 ($25.55 in chips) 
+Seat 3: calpoker0414 ($24.90 in chips) 
+Seat 5: Setops ($24.75 in chips) 
+Seat 6: crabypappy ($15 in chips) 
+Seat 7: yjqian23 ($25.70 in chips) 
+Seat 8: ItsYourCall ($12.15 in chips) 
+Seat 9: Alameda22 ($50.85 in chips) 
+Alameda22: posts small blind $0.10
+Farva500: posts big blind $0.25
+crabypappy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Js]
+calpoker0414: calls $0.25
+Setops: folds 
+tunley12 leaves the table
+crabypappy: checks 
+yjqian23: folds 
+ItsYourCall: calls $0.25
+Alameda22: folds 
+Farva500: checks 
+*** FLOP *** [8c Th 9s]
+Farva500: checks 
+calpoker0414: checks 
+crabypappy: checks 
+ItsYourCall: checks 
+*** TURN *** [8c Th 9s] [Td]
+Farva500: checks 
+calpoker0414: checks 
+crabypappy: checks 
+ItsYourCall: checks 
+*** RIVER *** [8c Th 9s Td] [6s]
+titito2007 joins the table at seat #4 
+Farva500: bets $0.75
+calpoker0414: folds 
+crabypappy: calls $0.75
+ItsYourCall: folds 
+*** SHOW DOWN ***
+Farva500: shows [7h 5c] (a straight, Six to Ten)
+crabypappy: shows [Ah 7d] (a straight, Six to Ten)
+Farva500 collected $1.25 from pot
+crabypappy collected $1.25 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [8c Th 9s Td 6s]
+Seat 2: Farva500 (big blind) showed [7h 5c] and won ($1.25) with a straight, Six to Ten
+Seat 3: calpoker0414 folded on the River
+Seat 5: Setops folded before Flop (didn't bet)
+Seat 6: crabypappy showed [Ah 7d] and won ($1.25) with a straight, Six to Ten
+Seat 7: yjqian23 folded before Flop (didn't bet)
+Seat 8: ItsYourCall (button) folded on the River
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19929413736:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:11:59 (ET)
+Table 'Aguilar' 9-max Seat #9 is the button
+Seat 2: Farva500 ($25.80 in chips) 
+Seat 3: calpoker0414 ($24.65 in chips) 
+Seat 5: Setops ($24.75 in chips) 
+Seat 6: crabypappy ($15.25 in chips) 
+Seat 7: yjqian23 ($25.70 in chips) 
+Seat 8: ItsYourCall ($11.90 in chips) 
+Seat 9: Alameda22 ($50.75 in chips) 
+Farva500: posts small blind $0.10
+calpoker0414: posts big blind $0.25
+titito2007: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 5h]
+Setops: folds 
+crabypappy: folds 
+Setops is sitting out
+Setops leaves the table
+928racer joins the table at seat #5 
+yjqian23: folds 
+ItsYourCall: folds 
+Alameda22: folds 
+Farva500: folds 
+Uncalled bet ($0.15) returned to calpoker0414
+calpoker0414 collected $0.20 from pot
+calpoker0414: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Farva500 (small blind) folded before Flop
+Seat 3: calpoker0414 (big blind) collected ($0.20)
+Seat 5: Setops folded before Flop (didn't bet)
+Seat 6: crabypappy folded before Flop (didn't bet)
+Seat 7: yjqian23 folded before Flop (didn't bet)
+Seat 8: ItsYourCall folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929428010:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:12:48 (ET)
+Table 'Aguilar' 9-max Seat #2 is the button
+Seat 2: Farva500 ($25.70 in chips) 
+Seat 3: calpoker0414 ($24.75 in chips) 
+Seat 4: titito2007 ($15 in chips) 
+Seat 6: crabypappy ($15.25 in chips) 
+Seat 7: yjqian23 ($25.70 in chips) 
+Seat 8: ItsYourCall ($11.90 in chips) 
+Seat 9: Alameda22 ($50.75 in chips) 
+calpoker0414: posts small blind $0.10
+titito2007: posts big blind $0.25
+928racer: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 3d]
+crabypappy: folds 
+yjqian23: folds 
+ItsYourCall: calls $0.25
+Alameda22: folds 
+Farva500: raises $0.50 to $0.75
+calpoker0414: folds 
+titito2007: folds 
+ItsYourCall: calls $0.50
+*** FLOP *** [Js 8d As]
+ItsYourCall: checks 
+Farva500: bets $0.75
+ItsYourCall: raises $1.50 to $2.25
+Farva500: calls $1.50
+*** TURN *** [Js 8d As] [Jh]
+ItsYourCall: checks 
+Farva500: bets $2
+ItsYourCall: raises $4.50 to $6.50
+Farva500: raises $16.20 to $22.70 and is all-in
+ItsYourCall: calls $2.40 and is all-in
+Uncalled bet ($13.80) returned to Farva500
+*** RIVER *** [Js 8d As Jh] [Ts]
+*** SHOW DOWN ***
+ItsYourCall: shows [4s 6s] (a flush, Ace high)
+Farva500: shows [Ad Jd] (a full house, Jacks full of Aces)
+Farva500 collected $23 from pot
+ItsYourCall leaves the table
+*** SUMMARY ***
+Total pot $24.15 | Rake $1.15 
+Board [Js 8d As Jh Ts]
+Seat 2: Farva500 (button) showed [Ad Jd] and won ($23) with a full house, Jacks full of Aces
+Seat 3: calpoker0414 (small blind) folded before Flop
+Seat 4: titito2007 (big blind) folded before Flop
+Seat 6: crabypappy folded before Flop (didn't bet)
+Seat 7: yjqian23 folded before Flop (didn't bet)
+Seat 8: ItsYourCall showed [4s 6s] and lost with a flush, Ace high
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929462996:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:14:48 (ET)
+Table 'Aguilar' 9-max Seat #3 is the button
+Seat 2: Farva500 ($36.80 in chips) 
+Seat 3: calpoker0414 ($24.65 in chips) 
+Seat 4: titito2007 ($14.75 in chips) 
+Seat 6: crabypappy ($15.25 in chips) 
+Seat 7: yjqian23 ($25.70 in chips) 
+Seat 9: Alameda22 ($50.75 in chips) 
+titito2007: posts small blind $0.10
+928racer: is sitting out 
+crabypappy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 7s]
+yjqian23: folds 
+Alameda22: folds 
+Farva500: folds 
+calpoker0414: folds 
+titito2007: calls $0.15
+crabypappy: checks 
+*** FLOP *** [5s Qc 2s]
+Farva500 said, "ahh thiose flush chasers"
+titito2007: bets $1
+crabypappy: folds 
+Uncalled bet ($1) returned to titito2007
+Farva500 said, "silly kids"
+titito2007 collected $0.50 from pot
+titito2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [5s Qc 2s]
+Seat 2: Farva500 folded before Flop (didn't bet)
+Seat 3: calpoker0414 (button) folded before Flop (didn't bet)
+Seat 4: titito2007 (small blind) collected ($0.50)
+Seat 6: crabypappy (big blind) folded on the Flop
+Seat 7: yjqian23 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,4566 @@
+PokerStars Game #19952228075:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:22:35 (ET)
+Table 'Geographos' 9-max Seat #7 is the button
+Seat 1: jm517 ($18.60 in chips) 
+Seat 2: Emerson.Fran ($62 in chips) 
+Seat 3: Païtabière ($31.95 in chips) 
+Seat 4: vincentt85 ($25 in chips) 
+Seat 5: educariocabr ($30.20 in chips) 
+Seat 6: duckkilla247 ($23.60 in chips) 
+Seat 7: fuquay111706 ($4.65 in chips) 
+Seat 8: ROFOLD ($34.70 in chips) 
+Seat 9: Alameda22 ($25 in chips) 
+ROFOLD: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 2h]
+jm517: folds 
+Emerson.Fran: folds 
+Païtabière: folds 
+vincentt85: folds 
+educariocabr: folds 
+duckkilla247: calls $0.25
+fuquay111706: folds 
+ROFOLD: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Js Qc 7s]
+ROFOLD: checks 
+Alameda22: checks 
+duckkilla247: checks 
+*** TURN *** [Js Qc 7s] [5d]
+ROFOLD: bets $0.75
+Alameda22: folds 
+duckkilla247: folds 
+Uncalled bet ($0.75) returned to ROFOLD
+ROFOLD collected $0.75 from pot
+ROFOLD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Js Qc 7s 5d]
+Seat 1: jm517 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: vincentt85 folded before Flop (didn't bet)
+Seat 5: educariocabr folded before Flop (didn't bet)
+Seat 6: duckkilla247 folded on the Turn
+Seat 7: fuquay111706 (button) folded before Flop (didn't bet)
+Seat 8: ROFOLD (small blind) collected ($0.75)
+Seat 9: Alameda22 (big blind) folded on the Turn
+
+
+
+PokerStars Game #19952248062:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:23:27 (ET)
+Table 'Geographos' 9-max Seat #8 is the button
+Seat 1: jm517 ($18.60 in chips) 
+Seat 2: Emerson.Fran ($62 in chips) 
+Seat 3: Païtabière ($31.95 in chips) 
+Seat 4: vincentt85 ($25 in chips) 
+Seat 5: educariocabr ($30.20 in chips) 
+Seat 6: duckkilla247 ($23.35 in chips) 
+Seat 7: fuquay111706 ($4.65 in chips) 
+Seat 8: ROFOLD ($35.20 in chips) 
+Seat 9: Alameda22 ($24.75 in chips) 
+Alameda22: posts small blind $0.10
+jm517: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Js]
+Emerson.Fran: folds 
+Païtabière: raises $0.75 to $1
+vincentt85: folds 
+educariocabr: folds 
+duckkilla247: folds 
+fuquay111706: folds 
+ROFOLD: calls $1
+Alameda22: folds 
+jm517: folds 
+*** FLOP *** [Ts 3s 5c]
+Païtabière: checks 
+ROFOLD: bets $1.75
+Païtabière: folds 
+Uncalled bet ($1.75) returned to ROFOLD
+ROFOLD collected $2.25 from pot
+ROFOLD: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Ts 3s 5c]
+Seat 1: jm517 (big blind) folded before Flop
+Seat 2: Emerson.Fran folded before Flop (didn't bet)
+Seat 3: Païtabière folded on the Flop
+Seat 4: vincentt85 folded before Flop (didn't bet)
+Seat 5: educariocabr folded before Flop (didn't bet)
+Seat 6: duckkilla247 folded before Flop (didn't bet)
+Seat 7: fuquay111706 folded before Flop (didn't bet)
+Seat 8: ROFOLD (button) collected ($2.25)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19952264081:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:24:10 (ET)
+Table 'Geographos' 9-max Seat #9 is the button
+Seat 1: jm517 ($18.35 in chips) 
+Seat 2: Emerson.Fran ($62 in chips) 
+Seat 3: Païtabière ($30.95 in chips) 
+Seat 4: vincentt85 ($25 in chips) 
+Seat 5: educariocabr ($30.20 in chips) 
+Seat 6: duckkilla247 ($23.35 in chips) 
+Seat 7: fuquay111706 ($4.65 in chips) 
+Seat 8: ROFOLD ($36.45 in chips) 
+Seat 9: Alameda22 ($24.65 in chips) 
+jm517: posts small blind $0.10
+Emerson.Fran: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 9c]
+Païtabière: folds 
+vincentt85: folds 
+educariocabr: folds 
+duckkilla247: folds 
+fuquay111706: folds 
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Uncalled bet ($0.15) returned to Emerson.Fran
+Emerson.Fran collected $0.20 from pot
+Emerson.Fran: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jm517 (small blind) folded before Flop
+Seat 2: Emerson.Fran (big blind) collected ($0.20)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: vincentt85 folded before Flop (didn't bet)
+Seat 5: educariocabr folded before Flop (didn't bet)
+Seat 6: duckkilla247 folded before Flop (didn't bet)
+Seat 7: fuquay111706 folded before Flop (didn't bet)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952274181:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:24:36 (ET)
+Table 'Geographos' 9-max Seat #1 is the button
+Seat 1: jm517 ($18.25 in chips) 
+Seat 2: Emerson.Fran ($62.10 in chips) 
+Seat 3: Païtabière ($30.95 in chips) 
+Seat 4: vincentt85 ($25 in chips) 
+Seat 5: educariocabr ($30.20 in chips) 
+Seat 6: duckkilla247 ($23.35 in chips) 
+Seat 7: fuquay111706 ($4.65 in chips) 
+Seat 8: ROFOLD ($36.45 in chips) 
+Seat 9: Alameda22 ($24.65 in chips) 
+Emerson.Fran: posts small blind $0.10
+Païtabière: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 5d]
+vincentt85: folds 
+educariocabr: calls $0.25
+duckkilla247: folds 
+fuquay111706: folds 
+ROFOLD: calls $0.25
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: calls $0.15
+Païtabière: checks 
+*** FLOP *** [Ac 6c 4s]
+Emerson.Fran: checks 
+Païtabière: checks 
+educariocabr: checks 
+ROFOLD: checks 
+*** TURN *** [Ac 6c 4s] [Jd]
+Emerson.Fran: checks 
+Païtabière: checks 
+educariocabr: checks 
+ROFOLD: checks 
+*** RIVER *** [Ac 6c 4s Jd] [9c]
+Emerson.Fran: checks 
+Païtabière: checks 
+educariocabr: bets $0.75
+ROFOLD: folds 
+Emerson.Fran: folds 
+Païtabière: folds 
+Uncalled bet ($0.75) returned to educariocabr
+educariocabr collected $0.95 from pot
+educariocabr: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Ac 6c 4s Jd 9c]
+Seat 1: jm517 (button) folded before Flop (didn't bet)
+Seat 2: Emerson.Fran (small blind) folded on the River
+Seat 3: Païtabière (big blind) folded on the River
+Seat 4: vincentt85 folded before Flop (didn't bet)
+Seat 5: educariocabr collected ($0.95)
+Seat 6: duckkilla247 folded before Flop (didn't bet)
+Seat 7: fuquay111706 folded before Flop (didn't bet)
+Seat 8: ROFOLD folded on the River
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952303733:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:25:53 (ET)
+Table 'Geographos' 9-max Seat #2 is the button
+Seat 1: jm517 ($18.25 in chips) 
+Seat 2: Emerson.Fran ($61.85 in chips) 
+Seat 3: Païtabière ($30.70 in chips) 
+Seat 4: vincentt85 ($25 in chips) 
+Seat 5: educariocabr ($30.90 in chips) 
+Seat 6: duckkilla247 ($23.35 in chips) 
+Seat 7: fuquay111706 ($4.65 in chips) 
+Seat 8: ROFOLD ($36.20 in chips) 
+Seat 9: Alameda22 ($24.65 in chips) 
+Païtabière: posts small blind $0.10
+vincentt85: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 4c]
+educariocabr: folds 
+duckkilla247: calls $0.25
+fuquay111706: folds 
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: calls $0.25
+Païtabière: folds 
+vincentt85: checks 
+*** FLOP *** [8h Jh 8c]
+vincentt85: checks 
+duckkilla247: bets $0.75
+Emerson.Fran: calls $0.75
+vincentt85: folds 
+*** TURN *** [8h Jh 8c] [6h]
+duckkilla247: bets $1.25
+Emerson.Fran: calls $1.25
+*** RIVER *** [8h Jh 8c 6h] [2s]
+duckkilla247: bets $1.25
+Emerson.Fran: folds 
+Uncalled bet ($1.25) returned to duckkilla247
+duckkilla247 collected $4.65 from pot
+duckkilla247: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [8h Jh 8c 6h 2s]
+Seat 1: jm517 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran (button) folded on the River
+Seat 3: Païtabière (small blind) folded before Flop
+Seat 4: vincentt85 (big blind) folded on the Flop
+Seat 5: educariocabr folded before Flop (didn't bet)
+Seat 6: duckkilla247 collected ($4.65)
+Seat 7: fuquay111706 folded before Flop (didn't bet)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952326127:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:26:52 (ET)
+Table 'Geographos' 9-max Seat #3 is the button
+Seat 1: jm517 ($18.25 in chips) 
+Seat 2: Emerson.Fran ($59.60 in chips) 
+Seat 3: Païtabière ($30.60 in chips) 
+Seat 4: vincentt85 ($24.75 in chips) 
+Seat 5: educariocabr ($30.90 in chips) 
+Seat 6: duckkilla247 ($25.75 in chips) 
+Seat 7: fuquay111706 ($4.65 in chips) 
+Seat 8: ROFOLD ($36.20 in chips) 
+Seat 9: Alameda22 ($24.65 in chips) 
+vincentt85: posts small blind $0.10
+educariocabr: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 6d]
+duckkilla247: folds 
+fuquay111706: folds 
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: folds 
+Païtabière: raises $0.50 to $0.75
+vincentt85: folds 
+educariocabr: folds 
+Uncalled bet ($0.50) returned to Païtabière
+Païtabière collected $0.60 from pot
+Païtabière: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jm517 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran folded before Flop (didn't bet)
+Seat 3: Païtabière (button) collected ($0.60)
+Seat 4: vincentt85 (small blind) folded before Flop
+Seat 5: educariocabr (big blind) folded before Flop
+Seat 6: duckkilla247 folded before Flop (didn't bet)
+Seat 7: fuquay111706 folded before Flop (didn't bet)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952340972:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:27:31 (ET)
+Table 'Geographos' 9-max Seat #4 is the button
+Seat 1: jm517 ($18.25 in chips) 
+Seat 2: Emerson.Fran ($59.60 in chips) 
+Seat 3: Païtabière ($30.95 in chips) 
+Seat 4: vincentt85 ($24.65 in chips) 
+Seat 5: educariocabr ($30.65 in chips) 
+Seat 6: duckkilla247 ($25.75 in chips) 
+Seat 7: fuquay111706 ($4.65 in chips) 
+Seat 8: ROFOLD ($36.20 in chips) 
+Seat 9: Alameda22 ($24.65 in chips) 
+educariocabr: posts small blind $0.10
+duckkilla247: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 5s]
+fuquay111706: raises $1.75 to $2
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: folds 
+Païtabière: folds 
+vincentt85: folds 
+educariocabr: folds 
+duckkilla247: folds 
+Uncalled bet ($1.75) returned to fuquay111706
+fuquay111706 collected $0.60 from pot
+fuquay111706: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jm517 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: vincentt85 (button) folded before Flop (didn't bet)
+Seat 5: educariocabr (small blind) folded before Flop
+Seat 6: duckkilla247 (big blind) folded before Flop
+Seat 7: fuquay111706 collected ($0.60)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952354959:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:28:08 (ET)
+Table 'Geographos' 9-max Seat #5 is the button
+Seat 1: jm517 ($18.25 in chips) 
+Seat 2: Emerson.Fran ($59.60 in chips) 
+Seat 3: Païtabière ($30.95 in chips) 
+Seat 4: vincentt85 ($24.65 in chips) 
+Seat 5: educariocabr ($30.55 in chips) 
+Seat 6: duckkilla247 ($25.50 in chips) 
+Seat 7: fuquay111706 ($5 in chips) 
+Seat 8: ROFOLD ($36.20 in chips) 
+Seat 9: Alameda22 ($24.65 in chips) 
+duckkilla247: posts small blind $0.10
+fuquay111706: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Ts]
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: calls $0.25
+Païtabière: folds 
+vincentt85: raises $1 to $1.25
+educariocabr: folds 
+duckkilla247: folds 
+fuquay111706: folds 
+Emerson.Fran: folds 
+Uncalled bet ($1) returned to vincentt85
+vincentt85 collected $0.85 from pot
+vincentt85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: jm517 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran folded before Flop
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: vincentt85 collected ($0.85)
+Seat 5: educariocabr (button) folded before Flop (didn't bet)
+Seat 6: duckkilla247 (small blind) folded before Flop
+Seat 7: fuquay111706 (big blind) folded before Flop
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952370228:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:28:48 (ET)
+Table 'Geographos' 9-max Seat #6 is the button
+Seat 1: jm517 ($18.25 in chips) 
+Seat 2: Emerson.Fran ($59.35 in chips) 
+Seat 3: Païtabière ($30.95 in chips) 
+Seat 4: vincentt85 ($25.25 in chips) 
+Seat 5: educariocabr ($30.55 in chips) 
+Seat 6: duckkilla247 ($25.40 in chips) 
+Seat 7: fuquay111706 ($4.75 in chips) 
+Seat 8: ROFOLD ($36.20 in chips) 
+Seat 9: Alameda22 ($24.65 in chips) 
+fuquay111706: posts small blind $0.10
+ROFOLD: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Td]
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: calls $0.25
+Païtabière: folds 
+vincentt85: calls $0.25
+educariocabr: raises $0.75 to $1
+duckkilla247: calls $1
+fuquay111706: folds 
+ROFOLD: folds 
+Emerson.Fran: calls $0.75
+vincentt85: folds 
+*** FLOP *** [As Tc 5d]
+Emerson.Fran: checks 
+educariocabr: bets $1
+duckkilla247: folds 
+Emerson.Fran: calls $1
+*** TURN *** [As Tc 5d] [3c]
+Emerson.Fran: checks 
+educariocabr: bets $1
+Emerson.Fran: calls $1
+*** RIVER *** [As Tc 5d 3c] [8s]
+Emerson.Fran: checks 
+educariocabr: bets $2
+Emerson.Fran: calls $2
+*** SHOW DOWN ***
+educariocabr: shows [Qc Jc] (high card Ace)
+Emerson.Fran: shows [9s Ad] (a pair of Aces)
+Emerson.Fran collected $11.05 from pot
+*** SUMMARY ***
+Total pot $11.60 | Rake $0.55 
+Board [As Tc 5d 3c 8s]
+Seat 1: jm517 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran showed [9s Ad] and won ($11.05) with a pair of Aces
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: vincentt85 folded before Flop
+Seat 5: educariocabr showed [Qc Jc] and lost with high card Ace
+Seat 6: duckkilla247 (button) folded on the Flop
+Seat 7: fuquay111706 (small blind) folded before Flop
+Seat 8: ROFOLD (big blind) folded before Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952401826:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:30:10 (ET)
+Table 'Geographos' 9-max Seat #7 is the button
+Seat 1: jm517 ($18.25 in chips) 
+Seat 2: Emerson.Fran ($65.40 in chips) 
+Seat 3: Païtabière ($30.95 in chips) 
+Seat 4: vincentt85 ($25 in chips) 
+Seat 5: educariocabr ($25.55 in chips) 
+Seat 6: duckkilla247 ($24.40 in chips) 
+Seat 7: fuquay111706 ($4.65 in chips) 
+Seat 8: ROFOLD ($35.95 in chips) 
+Seat 9: Alameda22 ($24.65 in chips) 
+ROFOLD: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 2h]
+jm517: folds 
+Emerson.Fran: folds 
+Païtabière: raises $0.75 to $1
+vincentt85: folds 
+educariocabr: calls $1
+duckkilla247: folds 
+fuquay111706: folds 
+ROFOLD: calls $0.90
+Alameda22: folds 
+*** FLOP *** [Ad 8d 9s]
+ROFOLD: checks 
+Païtabière: checks 
+educariocabr: checks 
+*** TURN *** [Ad 8d 9s] [9h]
+ROFOLD: checks 
+Païtabière: bets $2
+educariocabr: folds 
+ROFOLD: folds 
+Uncalled bet ($2) returned to Païtabière
+Païtabière collected $3.10 from pot
+Païtabière: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Ad 8d 9s 9h]
+Seat 1: jm517 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran folded before Flop (didn't bet)
+Seat 3: Païtabière collected ($3.10)
+Seat 4: vincentt85 folded before Flop (didn't bet)
+Seat 5: educariocabr folded on the Turn
+Seat 6: duckkilla247 folded before Flop (didn't bet)
+Seat 7: fuquay111706 (button) folded before Flop (didn't bet)
+Seat 8: ROFOLD (small blind) folded on the Turn
+Seat 9: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #19952428892:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:31:16 (ET)
+Table 'Geographos' 9-max Seat #8 is the button
+Seat 1: jm517 ($18.25 in chips) 
+Seat 2: Emerson.Fran ($65.40 in chips) 
+Seat 3: Païtabière ($33.05 in chips) 
+Seat 4: vincentt85 ($25 in chips) 
+Seat 5: educariocabr ($24.55 in chips) 
+Seat 6: duckkilla247 ($24.40 in chips) 
+Seat 7: fuquay111706 ($4.65 in chips) 
+Seat 8: ROFOLD ($34.95 in chips) 
+Seat 9: Alameda22 ($24.40 in chips) 
+Alameda22: posts small blind $0.10
+jm517: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 4c]
+Emerson.Fran: folds 
+Païtabière: folds 
+vincentt85: folds 
+educariocabr: folds 
+duckkilla247: folds 
+fuquay111706: folds 
+ROFOLD: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to jm517
+jm517 collected $0.20 from pot
+jm517: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jm517 (big blind) collected ($0.20)
+Seat 2: Emerson.Fran folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: vincentt85 folded before Flop (didn't bet)
+Seat 5: educariocabr folded before Flop (didn't bet)
+Seat 6: duckkilla247 folded before Flop (didn't bet)
+Seat 7: fuquay111706 folded before Flop (didn't bet)
+Seat 8: ROFOLD (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19952443203:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:31:53 (ET)
+Table 'Geographos' 9-max Seat #9 is the button
+Seat 1: jm517 ($18.35 in chips) 
+Seat 2: Emerson.Fran ($65.40 in chips) 
+Seat 3: Païtabière ($33.05 in chips) 
+Seat 4: vincentt85 ($25 in chips) 
+Seat 5: educariocabr ($24.55 in chips) 
+Seat 6: duckkilla247 ($24.40 in chips) 
+Seat 7: fuquay111706 ($4.65 in chips) 
+Seat 8: ROFOLD ($34.95 in chips) 
+Seat 9: Alameda22 ($24.30 in chips) 
+jm517: posts small blind $0.10
+Emerson.Fran: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 9s]
+Païtabière: folds 
+vincentt85: folds 
+educariocabr: calls $0.25
+duckkilla247: folds 
+fuquay111706: raises $0.50 to $0.75
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: calls $0.50
+educariocabr: calls $0.50
+*** FLOP *** [Th 5s 3s]
+Emerson.Fran: bets $0.75
+educariocabr: calls $0.75
+fuquay111706: folds 
+*** TURN *** [Th 5s 3s] [3d]
+Emerson.Fran: checks 
+educariocabr: bets $1.75
+Emerson.Fran: calls $1.75
+*** RIVER *** [Th 5s 3s 3d] [3c]
+Emerson.Fran: checks 
+educariocabr: bets $2
+Emerson.Fran: calls $2
+*** SHOW DOWN ***
+educariocabr: shows [6h 4d] (three of a kind, Threes)
+Emerson.Fran: shows [4c 5d] (a full house, Threes full of Fives)
+Emerson.Fran collected $10.80 from pot
+educariocabr leaves the table
+*** SUMMARY ***
+Total pot $11.35 | Rake $0.55 
+Board [Th 5s 3s 3d 3c]
+Seat 1: jm517 (small blind) folded before Flop
+Seat 2: Emerson.Fran (big blind) showed [4c 5d] and won ($10.80) with a full house, Threes full of Fives
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: vincentt85 folded before Flop (didn't bet)
+Seat 5: educariocabr showed [6h 4d] and lost with three of a kind, Threes
+Seat 6: duckkilla247 folded before Flop (didn't bet)
+Seat 7: fuquay111706 folded on the Flop
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952477981:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:33:18 (ET)
+Table 'Geographos' 9-max Seat #1 is the button
+Seat 1: jm517 ($18.25 in chips) 
+Seat 2: Emerson.Fran ($70.95 in chips) 
+Seat 3: Païtabière ($33.05 in chips) 
+Seat 4: vincentt85 ($25 in chips) 
+Seat 6: duckkilla247 ($24.40 in chips) 
+Seat 7: fuquay111706 ($3.90 in chips) 
+Seat 8: ROFOLD ($34.95 in chips) 
+Seat 9: Alameda22 ($24.30 in chips) 
+Emerson.Fran: posts small blind $0.10
+Païtabière: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 7d]
+vincentt85: folds 
+duckkilla247: folds 
+fuquay111706: folds 
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: raises $0.75 to $1
+Païtabière: folds 
+Uncalled bet ($0.75) returned to Emerson.Fran
+Emerson.Fran collected $0.50 from pot
+Emerson.Fran: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: jm517 (button) folded before Flop (didn't bet)
+Seat 2: Emerson.Fran (small blind) collected ($0.50)
+Seat 3: Païtabière (big blind) folded before Flop
+Seat 4: vincentt85 folded before Flop (didn't bet)
+Seat 6: duckkilla247 folded before Flop (didn't bet)
+Seat 7: fuquay111706 folded before Flop (didn't bet)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952495251:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:34:00 (ET)
+Table 'Geographos' 9-max Seat #2 is the button
+Seat 1: jm517 ($18.25 in chips) 
+Seat 2: Emerson.Fran ($71.20 in chips) 
+Seat 3: Païtabière ($32.80 in chips) 
+Seat 4: vincentt85 ($25 in chips) 
+Seat 6: duckkilla247 ($24.40 in chips) 
+Seat 7: fuquay111706 ($3.90 in chips) 
+Seat 8: ROFOLD ($34.95 in chips) 
+Seat 9: Alameda22 ($24.30 in chips) 
+Païtabière: posts small blind $0.10
+vincentt85: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 7h]
+duckkilla247: folds 
+fuquay111706: folds 
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: calls $0.25
+Païtabière: calls $0.15
+vincentt85: checks 
+*** FLOP *** [9s 2d Qc]
+Païtabière: checks 
+vincentt85: checks 
+Emerson.Fran: bets $0.75
+Païtabière: folds 
+vincentt85: folds 
+Uncalled bet ($0.75) returned to Emerson.Fran
+Emerson.Fran collected $0.75 from pot
+Emerson.Fran: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [9s 2d Qc]
+Seat 1: jm517 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran (button) collected ($0.75)
+Seat 3: Païtabière (small blind) folded on the Flop
+Seat 4: vincentt85 (big blind) folded on the Flop
+Seat 6: duckkilla247 folded before Flop (didn't bet)
+Seat 7: fuquay111706 folded before Flop (didn't bet)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952522321:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:35:06 (ET)
+Table 'Geographos' 9-max Seat #3 is the button
+Seat 1: jm517 ($18.25 in chips) 
+Seat 2: Emerson.Fran ($71.70 in chips) 
+Seat 3: Païtabière ($32.55 in chips) 
+Seat 4: vincentt85 ($24.75 in chips) 
+Seat 6: duckkilla247 ($24.40 in chips) 
+Seat 7: fuquay111706 ($3.90 in chips) 
+Seat 8: ROFOLD ($34.95 in chips) 
+Seat 9: Alameda22 ($24.30 in chips) 
+vincentt85: posts small blind $0.10
+duckkilla247: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 7s]
+fuquay111706: raises $1.25 to $1.50
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: folds 
+Païtabière: folds 
+vincentt85: folds 
+duckkilla247: folds 
+Uncalled bet ($1.25) returned to fuquay111706
+fuquay111706 collected $0.60 from pot
+fuquay111706: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jm517 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran folded before Flop (didn't bet)
+Seat 3: Païtabière (button) folded before Flop (didn't bet)
+Seat 4: vincentt85 (small blind) folded before Flop
+Seat 6: duckkilla247 (big blind) folded before Flop
+Seat 7: fuquay111706 collected ($0.60)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952537143:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:35:44 (ET)
+Table 'Geographos' 9-max Seat #4 is the button
+Seat 1: jm517 ($18.25 in chips) 
+Seat 2: Emerson.Fran ($71.70 in chips) 
+Seat 3: Païtabière ($32.55 in chips) 
+Seat 4: vincentt85 ($24.65 in chips) 
+Seat 6: duckkilla247 ($24.15 in chips) 
+Seat 7: fuquay111706 ($4.25 in chips) 
+Seat 8: ROFOLD ($34.95 in chips) 
+Seat 9: Alameda22 ($24.30 in chips) 
+duckkilla247: posts small blind $0.10
+fuquay111706: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 4s]
+ROFOLD: folds 
+Alameda22: folds 
+jm517: calls $0.25
+Emerson.Fran: folds 
+Païtabière: folds 
+vincentt85: raises $1 to $1.25
+duckkilla247: folds 
+fuquay111706: folds 
+jm517: calls $1
+*** FLOP *** [Td 5s Tc]
+jm517: checks 
+vincentt85: bets $2
+jm517: calls $2
+*** TURN *** [Td 5s Tc] [As]
+jm517: checks 
+vincentt85: bets $5
+jm517: raises $10 to $15 and is all-in
+vincentt85: calls $10
+*** RIVER *** [Td 5s Tc As] [Th]
+*** SHOW DOWN ***
+jm517: shows [5h 5c] (a full house, Tens full of Fives)
+vincentt85: shows [Ad Jh] (a full house, Tens full of Aces)
+vincentt85 collected $35.05 from pot
+*** SUMMARY ***
+Total pot $36.85 | Rake $1.80 
+Board [Td 5s Tc As Th]
+Seat 1: jm517 showed [5h 5c] and lost with a full house, Tens full of Fives
+Seat 2: Emerson.Fran folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: vincentt85 (button) showed [Ad Jh] and won ($35.05) with a full house, Tens full of Aces
+Seat 6: duckkilla247 (small blind) folded before Flop
+Seat 7: fuquay111706 (big blind) folded before Flop
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952582811:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:37:38 (ET)
+Table 'Geographos' 9-max Seat #6 is the button
+Seat 2: Emerson.Fran ($71.70 in chips) 
+Seat 3: Païtabière ($32.55 in chips) 
+Seat 4: vincentt85 ($41.45 in chips) 
+Seat 6: duckkilla247 ($24.05 in chips) 
+Seat 7: fuquay111706 ($4 in chips) 
+Seat 8: ROFOLD ($34.95 in chips) 
+Seat 9: Alameda22 ($24.30 in chips) 
+fuquay111706: posts small blind $0.10
+ROFOLD: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 3s]
+Alameda22: folds 
+jm517 has returned
+Emerson.Fran: calls $0.25
+Païtabière: folds 
+vincentt85: folds 
+duckkilla247: calls $0.25
+fuquay111706: folds 
+ROFOLD: checks 
+*** FLOP *** [9s Td Kc]
+ROFOLD: checks 
+Emerson.Fran: checks 
+duckkilla247: bets $0.75
+ROFOLD: folds 
+Emerson.Fran: folds 
+Uncalled bet ($0.75) returned to duckkilla247
+duckkilla247 collected $0.85 from pot
+duckkilla247: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [9s Td Kc]
+Seat 2: Emerson.Fran folded on the Flop
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: vincentt85 folded before Flop (didn't bet)
+Seat 6: duckkilla247 (button) collected ($0.85)
+Seat 7: fuquay111706 (small blind) folded before Flop
+Seat 8: ROFOLD (big blind) folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952605882:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:38:35 (ET)
+Table 'Geographos' 9-max Seat #7 is the button
+Seat 1: jm517 ($20 in chips) 
+Seat 2: Emerson.Fran ($71.45 in chips) 
+Seat 3: Païtabière ($32.55 in chips) 
+Seat 4: vincentt85 ($41.45 in chips) 
+Seat 6: duckkilla247 ($24.65 in chips) 
+Seat 7: fuquay111706 ($3.90 in chips) 
+Seat 8: ROFOLD ($34.70 in chips) 
+Seat 9: Alameda22 ($24.30 in chips) 
+ROFOLD: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Jc]
+928racer joins the table at seat #5 
+jm517: folds 
+Emerson.Fran: folds 
+Païtabière: folds 
+vincentt85: folds 
+duckkilla247: folds 
+fuquay111706: folds 
+ROFOLD: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jm517 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: vincentt85 folded before Flop (didn't bet)
+Seat 6: duckkilla247 folded before Flop (didn't bet)
+Seat 7: fuquay111706 (button) folded before Flop (didn't bet)
+Seat 8: ROFOLD (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19952620615:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:39:12 (ET)
+Table 'Geographos' 9-max Seat #8 is the button
+Seat 1: jm517 ($20 in chips) 
+Seat 2: Emerson.Fran ($71.45 in chips) 
+Seat 3: Païtabière ($32.55 in chips) 
+Seat 4: vincentt85 ($41.45 in chips) 
+Seat 6: duckkilla247 ($24.65 in chips) 
+Seat 7: fuquay111706 ($3.90 in chips) 
+Seat 8: ROFOLD ($34.60 in chips) 
+Seat 9: Alameda22 ($24.40 in chips) 
+Alameda22: posts small blind $0.10
+jm517: posts big blind $0.25
+928racer: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Kh]
+Emerson.Fran: calls $0.25
+Païtabière: folds 
+vincentt85: folds 
+duckkilla247: folds 
+fuquay111706: folds 
+ROFOLD: folds 
+Alameda22: folds 
+jm517: checks 
+*** FLOP *** [3h 8s 5s]
+jm517: bets $0.50
+Emerson.Fran: calls $0.50
+*** TURN *** [3h 8s 5s] [As]
+jm517: checks 
+Emerson.Fran: bets $0.75
+jm517: folds 
+Uncalled bet ($0.75) returned to Emerson.Fran
+Emerson.Fran collected $1.55 from pot
+Emerson.Fran: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [3h 8s 5s As]
+Seat 1: jm517 (big blind) folded on the Turn
+Seat 2: Emerson.Fran collected ($1.55)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: vincentt85 folded before Flop (didn't bet)
+Seat 6: duckkilla247 folded before Flop (didn't bet)
+Seat 7: fuquay111706 folded before Flop (didn't bet)
+Seat 8: ROFOLD (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19952644626:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:40:11 (ET)
+Table 'Geographos' 9-max Seat #9 is the button
+Seat 1: jm517 ($19.25 in chips) 
+Seat 2: Emerson.Fran ($72.25 in chips) 
+Seat 3: Païtabière ($32.55 in chips) 
+Seat 4: vincentt85 ($41.45 in chips) 
+Seat 6: duckkilla247 ($24.65 in chips) 
+Seat 7: fuquay111706 ($3.90 in chips) 
+Seat 8: ROFOLD ($34.60 in chips) 
+Seat 9: Alameda22 ($24.30 in chips) 
+jm517: posts small blind $0.10
+Emerson.Fran: posts big blind $0.25
+928racer: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 9d]
+Païtabière: folds 
+vincentt85: folds 
+duckkilla247: folds 
+fuquay111706: folds 
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Uncalled bet ($0.15) returned to Emerson.Fran
+Emerson.Fran collected $0.20 from pot
+Emerson.Fran: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: jm517 (small blind) folded before Flop
+Seat 2: Emerson.Fran (big blind) collected ($0.20)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: vincentt85 folded before Flop (didn't bet)
+Seat 6: duckkilla247 folded before Flop (didn't bet)
+Seat 7: fuquay111706 folded before Flop (didn't bet)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952654401:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:40:35 (ET)
+Table 'Geographos' 9-max Seat #1 is the button
+Seat 1: jm517 ($19.15 in chips) 
+Seat 2: Emerson.Fran ($72.35 in chips) 
+Seat 3: Païtabière ($32.55 in chips) 
+Seat 4: vincentt85 ($41.45 in chips) 
+Seat 6: duckkilla247 ($24.65 in chips) 
+Seat 7: fuquay111706 ($3.90 in chips) 
+Seat 8: ROFOLD ($34.60 in chips) 
+Seat 9: Alameda22 ($24.30 in chips) 
+Emerson.Fran: posts small blind $0.10
+Païtabière: posts big blind $0.25
+928racer: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Qc]
+vincentt85: folds 
+duckkilla247: calls $0.25
+fuquay111706: folds 
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: calls $0.15
+Païtabière: checks 
+*** FLOP *** [Qs 3c Ts]
+Emerson.Fran: checks 
+Païtabière: checks 
+duckkilla247: checks 
+*** TURN *** [Qs 3c Ts] [Jh]
+Emerson.Fran: checks 
+Païtabière: checks 
+duckkilla247: checks 
+*** RIVER *** [Qs 3c Ts Jh] [Jd]
+Emerson.Fran: checks 
+Païtabière: checks 
+duckkilla247: checks 
+*** SHOW DOWN ***
+Emerson.Fran: shows [Ah 4h] (a pair of Jacks)
+Païtabière: shows [6d 6c] (two pair, Jacks and Sixes)
+duckkilla247: mucks hand 
+Païtabière collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Qs 3c Ts Jh Jd]
+Seat 1: jm517 (button) folded before Flop (didn't bet)
+Seat 2: Emerson.Fran (small blind) showed [Ah 4h] and lost with a pair of Jacks
+Seat 3: Païtabière (big blind) showed [6d 6c] and won ($0.75) with two pair, Jacks and Sixes
+Seat 4: vincentt85 folded before Flop (didn't bet)
+Seat 6: duckkilla247 mucked [8h Kh]
+Seat 7: fuquay111706 folded before Flop (didn't bet)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952679603:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:41:37 (ET)
+Table 'Geographos' 9-max Seat #2 is the button
+Seat 1: jm517 ($19.15 in chips) 
+Seat 2: Emerson.Fran ($72.10 in chips) 
+Seat 3: Païtabière ($33.05 in chips) 
+Seat 4: vincentt85 ($41.45 in chips) 
+Seat 6: duckkilla247 ($24.40 in chips) 
+Seat 7: fuquay111706 ($3.90 in chips) 
+Seat 8: ROFOLD ($34.60 in chips) 
+Seat 9: Alameda22 ($24.30 in chips) 
+Païtabière: posts small blind $0.10
+vincentt85: posts big blind $0.25
+928racer: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 4h]
+duckkilla247: folds 
+fuquay111706: raises $0.75 to $1
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: folds 
+Païtabière: folds 
+vincentt85: folds 
+Uncalled bet ($0.75) returned to fuquay111706
+fuquay111706 collected $0.60 from pot
+fuquay111706: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jm517 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran (button) folded before Flop (didn't bet)
+Seat 3: Païtabière (small blind) folded before Flop
+Seat 4: vincentt85 (big blind) folded before Flop
+Seat 6: duckkilla247 folded before Flop (didn't bet)
+Seat 7: fuquay111706 collected ($0.60)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952694701:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:42:15 (ET)
+Table 'Geographos' 9-max Seat #3 is the button
+Seat 1: jm517 ($19.15 in chips) 
+Seat 2: Emerson.Fran ($72.10 in chips) 
+Seat 3: Païtabière ($32.95 in chips) 
+Seat 4: vincentt85 ($41.20 in chips) 
+Seat 5: 928racer ($25 in chips) 
+Seat 6: duckkilla247 ($24.40 in chips) 
+Seat 7: fuquay111706 ($4.25 in chips) 
+Seat 8: ROFOLD ($34.60 in chips) 
+Seat 9: Alameda22 ($24.30 in chips) 
+vincentt85: posts small blind $0.10
+928racer: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 8h]
+duckkilla247: folds 
+duckkilla247 leaves the table
+fuquay111706: raises $0.75 to $1
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: folds 
+Païtabière: folds 
+vincentt85: folds 
+928racer: calls $0.75
+*** FLOP *** [Jd 5h Kh]
+928racer: checks 
+fuquay111706: bets $1.25
+928racer: folds 
+Uncalled bet ($1.25) returned to fuquay111706
+fuquay111706 collected $2 from pot
+fuquay111706: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Jd 5h Kh]
+Seat 1: jm517 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran folded before Flop (didn't bet)
+Seat 3: Païtabière (button) folded before Flop (didn't bet)
+Seat 4: vincentt85 (small blind) folded before Flop
+Seat 5: 928racer (big blind) folded on the Flop
+Seat 6: duckkilla247 folded before Flop (didn't bet)
+Seat 7: fuquay111706 collected ($2)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952723256:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:43:26 (ET)
+Table 'Geographos' 9-max Seat #4 is the button
+Seat 1: jm517 ($19.15 in chips) 
+Seat 2: Emerson.Fran ($72.10 in chips) 
+Seat 3: Païtabière ($32.95 in chips) 
+Seat 4: vincentt85 ($41.10 in chips) 
+Seat 5: 928racer ($24 in chips) 
+Seat 7: fuquay111706 ($5.25 in chips) 
+Seat 8: ROFOLD ($34.60 in chips) 
+Seat 9: Alameda22 ($24.30 in chips) 
+928racer: posts small blind $0.10
+fuquay111706: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 6s]
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: raises $0.50 to $0.75
+Païtabière: folds 
+vincentt85: folds 
+928racer: folds 
+fuquay111706: folds 
+Uncalled bet ($0.50) returned to Emerson.Fran
+Emerson.Fran collected $0.60 from pot
+Emerson.Fran: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: jm517 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran collected ($0.60)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: vincentt85 (button) folded before Flop (didn't bet)
+Seat 5: 928racer (small blind) folded before Flop
+Seat 7: fuquay111706 (big blind) folded before Flop
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952742672:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:44:14 (ET)
+Table 'Geographos' 9-max Seat #5 is the button
+Seat 1: jm517 ($19.15 in chips) 
+Seat 2: Emerson.Fran ($72.45 in chips) 
+Seat 3: Païtabière ($32.95 in chips) 
+Seat 4: vincentt85 ($41.10 in chips) 
+Seat 5: 928racer ($23.90 in chips) 
+Seat 8: ROFOLD ($34.60 in chips) 
+Seat 9: Alameda22 ($24.30 in chips) 
+fuquay111706 has timed out
+fuquay111706: is sitting out 
+ROFOLD: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h As]
+fuquay111706 has returned
+jm517: calls $0.25
+Emerson.Fran: calls $0.25
+Païtabière: folds 
+vincentt85: folds 
+928racer: folds 
+ROFOLD: calls $0.15
+Alameda22: checks 
+*** FLOP *** [4d 7s 3d]
+ROFOLD: checks 
+Alameda22: checks 
+jm517: bets $0.75
+Emerson.Fran: calls $0.75
+ROFOLD: folds 
+Alameda22: folds 
+*** TURN *** [4d 7s 3d] [3c]
+jm517: checks 
+Emerson.Fran: checks 
+*** RIVER *** [4d 7s 3d 3c] [Tc]
+jm517: checks 
+Emerson.Fran: bets $0.50
+jm517: calls $0.50
+*** SHOW DOWN ***
+Emerson.Fran: shows [4s Ts] (two pair, Tens and Fours)
+jm517: mucks hand 
+Emerson.Fran collected $3.35 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [4d 7s 3d 3c Tc]
+Seat 1: jm517 mucked [5c 5d]
+Seat 2: Emerson.Fran showed [4s Ts] and won ($3.35) with two pair, Tens and Fours
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: vincentt85 folded before Flop (didn't bet)
+Seat 5: 928racer (button) folded before Flop (didn't bet)
+Seat 8: ROFOLD (small blind) folded on the Flop
+Seat 9: Alameda22 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19952791679:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:46:16 (ET)
+Table 'Geographos' 9-max Seat #8 is the button
+Seat 1: jm517 ($17.65 in chips) 
+Seat 2: Emerson.Fran ($74.30 in chips) 
+Seat 3: Païtabière ($32.95 in chips) 
+Seat 4: vincentt85 ($41.10 in chips) 
+Seat 5: 928racer ($23.90 in chips) 
+Seat 7: fuquay111706 ($5 in chips) 
+Seat 8: ROFOLD ($34.35 in chips) 
+Seat 9: Alameda22 ($24.05 in chips) 
+Alameda22: posts small blind $0.10
+jm517: posts big blind $0.25
+fuquay111706: posts small blind $0.10
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Jc]
+Emerson.Fran: calls $0.25
+Païtabière: folds 
+vincentt85: raises $1 to $1.25
+928racer: folds 
+fuquay111706: folds 
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: folds 
+Uncalled bet ($1) returned to vincentt85
+vincentt85 collected $0.95 from pot
+vincentt85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0 
+Seat 1: jm517 (big blind) folded before Flop
+Seat 2: Emerson.Fran folded before Flop
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: vincentt85 collected ($0.95)
+Seat 5: 928racer folded before Flop (didn't bet)
+Seat 7: fuquay111706 folded before Flop
+Seat 8: ROFOLD (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19952807995:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:46:56 (ET)
+Table 'Geographos' 9-max Seat #9 is the button
+Seat 1: jm517 ($17.40 in chips) 
+Seat 2: Emerson.Fran ($74.05 in chips) 
+Seat 3: Païtabière ($32.95 in chips) 
+Seat 4: vincentt85 ($41.80 in chips) 
+Seat 5: 928racer ($23.90 in chips) 
+Seat 7: fuquay111706 ($4.90 in chips) 
+Seat 8: ROFOLD ($34.35 in chips) 
+Seat 9: Alameda22 ($23.95 in chips) 
+jm517: posts small blind $0.10
+Emerson.Fran: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 2h]
+Païtabière: folds 
+vincentt85: folds 
+928racer: calls $0.25
+fuquay111706: folds 
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: checks 
+*** FLOP *** [9h 2d 3h]
+Emerson.Fran: bets $0.50
+928racer: folds 
+Uncalled bet ($0.50) returned to Emerson.Fran
+DYPM joins the table at seat #6 
+Emerson.Fran collected $0.60 from pot
+Emerson.Fran: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9h 2d 3h]
+Seat 1: jm517 (small blind) folded before Flop
+Seat 2: Emerson.Fran (big blind) collected ($0.60)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: vincentt85 folded before Flop (didn't bet)
+Seat 5: 928racer folded on the Flop
+Seat 7: fuquay111706 folded before Flop (didn't bet)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952824827:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:47:38 (ET)
+Table 'Geographos' 9-max Seat #1 is the button
+Seat 1: jm517 ($17.30 in chips) 
+Seat 2: Emerson.Fran ($74.40 in chips) 
+Seat 3: Païtabière ($32.95 in chips) 
+Seat 4: vincentt85 ($41.80 in chips) 
+Seat 5: 928racer ($23.65 in chips) 
+Seat 6: DYPM ($9.25 in chips) 
+Seat 7: fuquay111706 ($4.90 in chips) 
+Seat 8: ROFOLD ($34.35 in chips) 
+Seat 9: Alameda22 ($23.95 in chips) 
+Emerson.Fran: posts small blind $0.10
+Païtabière: posts big blind $0.25
+DYPM: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Tc]
+vincentt85: folds 
+vincentt85 leaves the table
+928racer: folds 
+DYPM: checks 
+fuquay111706: raises $1.50 to $1.75
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: folds 
+Païtabière: folds 
+DYPM: folds 
+Uncalled bet ($1.50) returned to fuquay111706
+fuquay111706 collected $0.85 from pot
+fuquay111706: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: jm517 (button) folded before Flop (didn't bet)
+Seat 2: Emerson.Fran (small blind) folded before Flop
+Seat 3: Païtabière (big blind) folded before Flop
+Seat 4: vincentt85 folded before Flop (didn't bet)
+Seat 5: 928racer folded before Flop (didn't bet)
+Seat 6: DYPM folded before Flop
+Seat 7: fuquay111706 collected ($0.85)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952843260:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:48:25 (ET)
+Table 'Geographos' 9-max Seat #2 is the button
+Seat 1: jm517 ($17.30 in chips) 
+Seat 2: Emerson.Fran ($74.30 in chips) 
+Seat 3: Païtabière ($32.70 in chips) 
+Seat 5: 928racer ($23.65 in chips) 
+Seat 6: DYPM ($9 in chips) 
+Seat 7: fuquay111706 ($5.50 in chips) 
+Seat 8: ROFOLD ($34.35 in chips) 
+Seat 9: Alameda22 ($23.95 in chips) 
+Païtabière: posts small blind $0.10
+928racer: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 4c]
+DYPM: calls $0.25
+fuquay111706: folds 
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: calls $0.25
+Païtabière: folds 
+928racer: checks 
+*** FLOP *** [8h Qs Ac]
+928racer: checks 
+DYPM: bets $0.50
+Emerson.Fran: calls $0.50
+928racer: folds 
+*** TURN *** [8h Qs Ac] [Jd]
+DYPM: bets $1.25
+Emerson.Fran: folds 
+Uncalled bet ($1.25) returned to DYPM
+DYPM collected $1.80 from pot
+DYPM: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [8h Qs Ac Jd]
+Seat 1: jm517 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran (button) folded on the Turn
+Seat 3: Païtabière (small blind) folded before Flop
+Seat 5: 928racer (big blind) folded on the Flop
+Seat 6: DYPM collected ($1.80)
+Seat 7: fuquay111706 folded before Flop (didn't bet)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952864272:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:49:16 (ET)
+Table 'Geographos' 9-max Seat #3 is the button
+Seat 1: jm517 ($17.30 in chips) 
+Seat 2: Emerson.Fran ($73.55 in chips) 
+Seat 3: Païtabière ($32.60 in chips) 
+Seat 5: 928racer ($23.40 in chips) 
+Seat 6: DYPM ($10.05 in chips) 
+Seat 7: fuquay111706 ($5.50 in chips) 
+Seat 8: ROFOLD ($34.35 in chips) 
+Seat 9: Alameda22 ($23.95 in chips) 
+928racer: posts small blind $0.10
+DYPM: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Js]
+fuquay111706: folds 
+ROFOLD: folds 
+Alameda22: folds 
+jm517: calls $0.25
+Emerson.Fran: raises $0.50 to $0.75
+Païtabière: folds 
+928racer: folds 
+DYPM: folds 
+jm517: folds 
+Uncalled bet ($0.50) returned to Emerson.Fran
+Emerson.Fran collected $0.85 from pot
+Emerson.Fran: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: jm517 folded before Flop
+Seat 2: Emerson.Fran collected ($0.85)
+Seat 3: Païtabière (button) folded before Flop (didn't bet)
+Seat 5: 928racer (small blind) folded before Flop
+Seat 6: DYPM (big blind) folded before Flop
+Seat 7: fuquay111706 folded before Flop (didn't bet)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952879417:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:49:55 (ET)
+Table 'Geographos' 9-max Seat #5 is the button
+Seat 1: jm517 ($17.05 in chips) 
+Seat 2: Emerson.Fran ($74.15 in chips) 
+Seat 3: Païtabière ($32.60 in chips) 
+Seat 5: 928racer ($23.30 in chips) 
+Seat 6: DYPM ($9.80 in chips) 
+Seat 7: fuquay111706 ($5.50 in chips) 
+Seat 8: ROFOLD ($34.35 in chips) 
+Seat 9: Alameda22 ($23.95 in chips) 
+DYPM: posts small blind $0.10
+fuquay111706: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 8d]
+ROFOLD: folds 
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: folds 
+Païtabière: folds 
+928racer: raises $0.75 to $1
+DYPM: calls $0.90
+fuquay111706: folds 
+*** FLOP *** [5h 2d Kd]
+DYPM: bets $0.75
+928racer: folds 
+Uncalled bet ($0.75) returned to DYPM
+DYPM collected $2.15 from pot
+DYPM: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [5h 2d Kd]
+Seat 1: jm517 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 5: 928racer (button) folded on the Flop
+Seat 6: DYPM (small blind) collected ($2.15)
+Seat 7: fuquay111706 (big blind) folded before Flop
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952899290:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:50:44 (ET)
+Table 'Geographos' 9-max Seat #6 is the button
+Seat 1: jm517 ($17.05 in chips) 
+Seat 2: Emerson.Fran ($74.15 in chips) 
+Seat 3: Païtabière ($32.60 in chips) 
+Seat 5: 928racer ($22.30 in chips) 
+Seat 6: DYPM ($10.95 in chips) 
+Seat 7: fuquay111706 ($5.25 in chips) 
+Seat 8: ROFOLD ($34.35 in chips) 
+Seat 9: Alameda22 ($23.95 in chips) 
+fuquay111706: posts small blind $0.10
+ROFOLD: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Qh]
+Alameda22: folds 
+jm517: folds 
+Emerson.Fran: calls $0.25
+jm517 is sitting out
+Païtabière: folds 
+928racer: calls $0.25
+DYPM: calls $0.25
+fuquay111706: calls $0.15
+ROFOLD: checks 
+*** FLOP *** [Jd 9d Js]
+fuquay111706: checks 
+ROFOLD: folds 
+Emerson.Fran: checks 
+rainbow_J joins the table at seat #4 
+928racer: bets $0.75
+DYPM: folds 
+fuquay111706: folds 
+Emerson.Fran: folds 
+Uncalled bet ($0.75) returned to 928racer
+928racer collected $1.20 from pot
+928racer: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Jd 9d Js]
+Seat 1: jm517 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran folded on the Flop
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 5: 928racer collected ($1.20)
+Seat 6: DYPM (button) folded on the Flop
+Seat 7: fuquay111706 (small blind) folded on the Flop
+Seat 8: ROFOLD (big blind) folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952920423:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:51:36 (ET)
+Table 'Geographos' 9-max Seat #7 is the button
+Seat 2: Emerson.Fran ($73.90 in chips) 
+Seat 3: Païtabière ($32.60 in chips) 
+Seat 5: 928racer ($23.25 in chips) 
+Seat 6: DYPM ($10.70 in chips) 
+Seat 7: fuquay111706 ($5 in chips) 
+Seat 8: ROFOLD ($34.10 in chips) 
+Seat 9: Alameda22 ($23.95 in chips) 
+ROFOLD: posts small blind $0.10
+Alameda22: posts big blind $0.25
+jm517 leaves the table
+rainbow_J: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Jd]
+Emerson.Fran: calls $0.25
+Païtabière: folds 
+928racer: folds 
+DYPM: folds 
+fuquay111706: folds 
+ROFOLD: folds 
+Alameda22: raises $0.75 to $1
+Emerson.Fran: calls $0.75
+*** FLOP *** [4d 9d As]
+Alameda22: bets $1.25
+Emerson.Fran: folds 
+Uncalled bet ($1.25) returned to Alameda22
+Alameda22 collected $2 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [4d 9d As]
+Seat 2: Emerson.Fran folded on the Flop
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 5: 928racer folded before Flop (didn't bet)
+Seat 6: DYPM folded before Flop (didn't bet)
+Seat 7: fuquay111706 (button) folded before Flop (didn't bet)
+Seat 8: ROFOLD (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) collected ($2)
+
+
+
+PokerStars Game #19952939311:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:52:24 (ET)
+Table 'Geographos' 9-max Seat #8 is the button
+Seat 2: Emerson.Fran ($72.90 in chips) 
+Seat 3: Païtabière ($32.60 in chips) 
+Seat 5: 928racer ($23.25 in chips) 
+Seat 6: DYPM ($10.70 in chips) 
+Seat 7: fuquay111706 ($5 in chips) 
+Seat 8: ROFOLD ($34 in chips) 
+Seat 9: Alameda22 ($24.95 in chips) 
+Alameda22: posts small blind $0.10
+Emerson.Fran: posts big blind $0.25
+rainbow_J: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 4h]
+Païtabière: folds 
+yjqian23 joins the table at seat #1 
+928racer: folds 
+DYPM: folds 
+fuquay111706: raises $0.75 to $1
+ROFOLD: folds 
+Alameda22: folds 
+Emerson.Fran: raises $1.75 to $2.75
+fuquay111706: calls $1.75
+*** FLOP *** [7h 4d Jh]
+Emerson.Fran: checks 
+fuquay111706: bets $2.25 and is all-in
+Emerson.Fran: calls $2.25
+*** TURN *** [7h 4d Jh] [3s]
+*** RIVER *** [7h 4d Jh 3s] [Jc]
+*** SHOW DOWN ***
+Emerson.Fran: shows [Kc Ad] (a pair of Jacks)
+fuquay111706: mucks hand 
+Emerson.Fran collected $9.65 from pot
+*** SUMMARY ***
+Total pot $10.10 | Rake $0.45 
+Board [7h 4d Jh 3s Jc]
+Seat 2: Emerson.Fran (big blind) showed [Kc Ad] and won ($9.65) with a pair of Jacks
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 5: 928racer folded before Flop (didn't bet)
+Seat 6: DYPM folded before Flop (didn't bet)
+Seat 7: fuquay111706 mucked [Th Qd]
+Seat 8: ROFOLD (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19952964153:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:53:26 (ET)
+Table 'Geographos' 9-max Seat #9 is the button
+Seat 2: Emerson.Fran ($77.55 in chips) 
+Seat 3: Païtabière ($32.60 in chips) 
+Seat 5: 928racer ($23.25 in chips) 
+Seat 6: DYPM ($10.70 in chips) 
+Seat 8: ROFOLD ($34 in chips) 
+Seat 9: Alameda22 ($24.85 in chips) 
+yjqian23 will be allowed to play after the button
+Emerson.Fran: posts small blind $0.10
+Païtabière: posts big blind $0.25
+rainbow_J: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 3h]
+928racer: folds 
+fuquay111706 leaves the table
+DYPM: folds 
+ROFOLD: folds 
+WhiteApe777 joins the table at seat #7 
+Alameda22: folds 
+WhiteApe777 is sitting out
+Emerson.Fran: raises $0.50 to $0.75
+Païtabière: folds 
+Uncalled bet ($0.50) returned to Emerson.Fran
+Emerson.Fran collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Emerson.Fran (small blind) collected ($0.50)
+Seat 3: Païtabière (big blind) folded before Flop
+Seat 5: 928racer folded before Flop (didn't bet)
+Seat 6: DYPM folded before Flop (didn't bet)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952980737:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:54:08 (ET)
+Table 'Geographos' 9-max Seat #2 is the button
+Seat 2: Emerson.Fran ($77.80 in chips) 
+Seat 3: Païtabière ($32.35 in chips) 
+Seat 4: rainbow_J ($25 in chips) 
+Seat 5: 928racer ($23.25 in chips) 
+Seat 6: DYPM ($10.70 in chips) 
+Seat 8: ROFOLD ($34 in chips) 
+Seat 9: Alameda22 ($24.85 in chips) 
+Païtabière: posts small blind $0.10
+rainbow_J: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 9s]
+928racer: folds 
+DYPM: folds 
+928racer is sitting out
+ROFOLD: raises $0.50 to $0.75
+Alameda22: folds 
+Emerson.Fran: folds 
+Païtabière: folds 
+rainbow_J: folds 
+Uncalled bet ($0.50) returned to ROFOLD
+ROFOLD collected $0.60 from pot
+ROFOLD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Emerson.Fran (button) folded before Flop (didn't bet)
+Seat 3: Païtabière (small blind) folded before Flop
+Seat 4: rainbow_J (big blind) folded before Flop
+Seat 5: 928racer folded before Flop (didn't bet)
+Seat 6: DYPM folded before Flop (didn't bet)
+Seat 8: ROFOLD collected ($0.60)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953002598:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:55:04 (ET)
+Table 'Geographos' 9-max Seat #3 is the button
+Seat 2: Emerson.Fran ($77.80 in chips) 
+Seat 3: Païtabière ($32.25 in chips) 
+Seat 4: rainbow_J ($24.75 in chips) 
+Seat 6: DYPM ($10.70 in chips) 
+Seat 8: ROFOLD ($34.35 in chips) 
+Seat 9: Alameda22 ($24.85 in chips) 
+rainbow_J: posts small blind $0.10
+DYPM: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Jd]
+ROFOLD: folds 
+Alameda22: folds 
+Emerson.Fran: folds 
+Païtabière: raises $0.50 to $0.75
+rainbow_J: folds 
+DYPM: folds 
+Uncalled bet ($0.50) returned to Païtabière
+Païtabière collected $0.60 from pot
+Païtabière: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Emerson.Fran folded before Flop (didn't bet)
+Seat 3: Païtabière (button) collected ($0.60)
+Seat 4: rainbow_J (small blind) folded before Flop
+Seat 6: DYPM (big blind) folded before Flop
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953013277:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:55:31 (ET)
+Table 'Geographos' 9-max Seat #4 is the button
+Seat 2: Emerson.Fran ($77.80 in chips) 
+Seat 3: Païtabière ($32.60 in chips) 
+Seat 4: rainbow_J ($24.65 in chips) 
+Seat 6: DYPM ($10.45 in chips) 
+Seat 8: ROFOLD ($34.35 in chips) 
+Seat 9: Alameda22 ($24.85 in chips) 
+DYPM: posts small blind $0.10
+ROFOLD: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Ks]
+Alameda22: folds 
+Emerson.Fran: raises $0.50 to $0.75
+Païtabière: folds 
+rainbow_J: folds 
+DYPM: folds 
+ROFOLD: folds 
+Uncalled bet ($0.50) returned to Emerson.Fran
+Emerson.Fran collected $0.60 from pot
+Emerson.Fran: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Emerson.Fran collected ($0.60)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J (button) folded before Flop (didn't bet)
+Seat 6: DYPM (small blind) folded before Flop
+Seat 8: ROFOLD (big blind) folded before Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953022141:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:55:54 (ET)
+Table 'Geographos' 9-max Seat #6 is the button
+Seat 2: Emerson.Fran ($78.15 in chips) 
+Seat 3: Païtabière ($32.60 in chips) 
+Seat 4: rainbow_J ($24.65 in chips) 
+Seat 6: DYPM ($10.35 in chips) 
+Seat 8: ROFOLD ($34.10 in chips) 
+Seat 9: Alameda22 ($24.85 in chips) 
+ROFOLD: posts small blind $0.10
+Alameda22: posts big blind $0.25
+yjqian23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 5s]
+Emerson.Fran: folds 
+Païtabière: folds 
+rainbow_J: folds 
+DYPM: calls $0.25
+WhiteApe777 has returned
+ROFOLD: folds 
+Alameda22: checks 
+*** FLOP *** [6d Ts 3s]
+Alameda22: checks 
+DYPM: checks 
+*** TURN *** [6d Ts 3s] [6s]
+Alameda22: checks 
+DYPM: bets $0.25
+Alameda22: folds 
+Uncalled bet ($0.25) returned to DYPM
+DYPM collected $0.60 from pot
+DYPM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6d Ts 3s 6s]
+Seat 2: Emerson.Fran folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 6: DYPM (button) collected ($0.60)
+Seat 8: ROFOLD (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded on the Turn
+
+
+
+PokerStars Game #19953044592:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:56:52 (ET)
+Table 'Geographos' 9-max Seat #8 is the button
+Seat 1: yjqian23 ($25 in chips) 
+Seat 2: Emerson.Fran ($78.15 in chips) 
+Seat 3: Païtabière ($32.60 in chips) 
+Seat 4: rainbow_J ($24.65 in chips) 
+Seat 6: DYPM ($10.70 in chips) 
+Seat 8: ROFOLD ($34 in chips) 
+Seat 9: Alameda22 ($24.60 in chips) 
+Alameda22: posts small blind $0.10
+yjqian23: posts big blind $0.25
+WhiteApe777: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Td]
+Emerson.Fran: folds 
+Païtabière: folds 
+rainbow_J: folds 
+DYPM: calls $0.25
+ROFOLD: folds 
+Alameda22: folds 
+yjqian23: checks 
+*** FLOP *** [6c 6d Ac]
+yjqian23: bets $0.25
+DYPM: raises $0.25 to $0.50
+yjqian23: calls $0.25
+*** TURN *** [6c 6d Ac] [2c]
+yjqian23: bets $0.25
+DYPM: calls $0.25
+*** RIVER *** [6c 6d Ac 2c] [5c]
+yjqian23: bets $0.25
+DYPM: calls $0.25
+*** SHOW DOWN ***
+yjqian23: shows [Jc Tc] (a flush, Ace high)
+DYPM: mucks hand 
+yjqian23 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [6c 6d Ac 2c 5c]
+Seat 1: yjqian23 (big blind) showed [Jc Tc] and won ($2.50) with a flush, Ace high
+Seat 2: Emerson.Fran folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 6: DYPM mucked [As 4c]
+Seat 8: ROFOLD (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19953076013:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:58:13 (ET)
+Table 'Geographos' 9-max Seat #9 is the button
+Seat 1: yjqian23 ($26.25 in chips) 
+Seat 2: Emerson.Fran ($78.15 in chips) 
+Seat 3: Païtabière ($32.60 in chips) 
+Seat 4: rainbow_J ($24.65 in chips) 
+Seat 6: DYPM ($9.45 in chips) 
+Seat 8: ROFOLD ($34 in chips) 
+Seat 9: Alameda22 ($24.50 in chips) 
+yjqian23: posts small blind $0.10
+Emerson.Fran: posts big blind $0.25
+WhiteApe777: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 7c]
+Païtabière: raises $0.50 to $0.75
+rainbow_J: folds 
+DYPM: calls $0.75
+ROFOLD: folds 
+Alameda22: folds 
+yjqian23: folds 
+Emerson.Fran: calls $0.50
+*** FLOP *** [Js 4s Kd]
+Emerson.Fran: checks 
+Païtabière: bets $1.50
+DYPM: folds 
+Emerson.Fran: folds 
+Uncalled bet ($1.50) returned to Païtabière
+Païtabière collected $2.25 from pot
+Païtabière: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Js 4s Kd]
+Seat 1: yjqian23 (small blind) folded before Flop
+Seat 2: Emerson.Fran (big blind) folded on the Flop
+Seat 3: Païtabière collected ($2.25)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 6: DYPM folded on the Flop
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953099004:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:59:12 (ET)
+Table 'Geographos' 9-max Seat #1 is the button
+Seat 1: yjqian23 ($26.15 in chips) 
+Seat 2: Emerson.Fran ($77.40 in chips) 
+Seat 3: Païtabière ($34.10 in chips) 
+Seat 4: rainbow_J ($24.65 in chips) 
+Seat 6: DYPM ($8.70 in chips) 
+Seat 8: ROFOLD ($34 in chips) 
+Seat 9: Alameda22 ($24.50 in chips) 
+Emerson.Fran: posts small blind $0.10
+Païtabière: posts big blind $0.25
+WhiteApe777: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 9s]
+rainbow_J: folds 
+DYPM: raises $0.75 to $1
+ROFOLD: folds 
+Alameda22: folds 
+yjqian23: folds 
+Emerson.Fran: folds 
+Païtabière: folds 
+Uncalled bet ($0.75) returned to DYPM
+DYPM collected $0.60 from pot
+DYPM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: yjqian23 (button) folded before Flop (didn't bet)
+Seat 2: Emerson.Fran (small blind) folded before Flop
+Seat 3: Païtabière (big blind) folded before Flop
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 6: DYPM collected ($0.60)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953114081:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:59:50 (ET)
+Table 'Geographos' 9-max Seat #2 is the button
+Seat 1: yjqian23 ($26.15 in chips) 
+Seat 2: Emerson.Fran ($77.30 in chips) 
+Seat 3: Païtabière ($33.85 in chips) 
+Seat 4: rainbow_J ($24.65 in chips) 
+Seat 6: DYPM ($9.05 in chips) 
+Seat 8: ROFOLD ($34 in chips) 
+Seat 9: Alameda22 ($24.50 in chips) 
+Païtabière: posts small blind $0.10
+rainbow_J: posts big blind $0.25
+WhiteApe777: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 3d]
+DYPM: folds 
+ROFOLD: folds 
+Alameda22: folds 
+yjqian23: folds 
+Emerson.Fran: raises $0.50 to $0.75
+Païtabière: folds 
+rainbow_J: folds 
+Uncalled bet ($0.50) returned to Emerson.Fran
+Emerson.Fran collected $0.60 from pot
+Emerson.Fran: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: yjqian23 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran (button) collected ($0.60)
+Seat 3: Païtabière (small blind) folded before Flop
+Seat 4: rainbow_J (big blind) folded before Flop
+Seat 6: DYPM folded before Flop (didn't bet)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953130678:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:00:31 (ET)
+Table 'Geographos' 9-max Seat #3 is the button
+Seat 1: yjqian23 ($26.15 in chips) 
+Seat 2: Emerson.Fran ($77.65 in chips) 
+Seat 3: Païtabière ($33.75 in chips) 
+Seat 4: rainbow_J ($24.40 in chips) 
+Seat 6: DYPM ($9.05 in chips) 
+Seat 8: ROFOLD ($34 in chips) 
+Seat 9: Alameda22 ($24.50 in chips) 
+rainbow_J: posts small blind $0.10
+DYPM: posts big blind $0.25
+WhiteApe777: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 6d]
+ROFOLD: folds 
+Alameda22: folds 
+yjqian23: calls $0.25
+Emerson.Fran: calls $0.25
+Païtabière: calls $0.25
+rainbow_J: calls $0.15
+DYPM: checks 
+*** FLOP *** [4d Ah 2d]
+rainbow_J: checks 
+DYPM: checks 
+yjqian23: bets $0.25
+Emerson.Fran: folds 
+Païtabière: folds 
+rainbow_J: folds 
+DYPM: calls $0.25
+*** TURN *** [4d Ah 2d] [Jc]
+DYPM: checks 
+yjqian23: bets $0.25
+DYPM: calls $0.25
+*** RIVER *** [4d Ah 2d Jc] [3s]
+DYPM: checks 
+yjqian23: bets $0.25
+DYPM: calls $0.25
+*** SHOW DOWN ***
+yjqian23: shows [As Qc] (a pair of Aces)
+DYPM: mucks hand 
+yjqian23 collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [4d Ah 2d Jc 3s]
+Seat 1: yjqian23 showed [As Qc] and won ($2.65) with a pair of Aces
+Seat 2: Emerson.Fran folded on the Flop
+Seat 3: Païtabière (button) folded on the Flop
+Seat 4: rainbow_J (small blind) folded on the Flop
+Seat 6: DYPM (big blind) mucked [3h Ks]
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953169368:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:02:08 (ET)
+Table 'Geographos' 9-max Seat #4 is the button
+Seat 1: yjqian23 ($27.80 in chips) 
+Seat 2: Emerson.Fran ($77.40 in chips) 
+Seat 3: Païtabière ($33.50 in chips) 
+Seat 4: rainbow_J ($24.15 in chips) 
+Seat 6: DYPM ($8.05 in chips) 
+Seat 7: WhiteApe777 ($25 in chips) 
+Seat 8: ROFOLD ($34 in chips) 
+Seat 9: Alameda22 ($24.50 in chips) 
+DYPM: posts small blind $0.10
+WhiteApe777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 3c]
+ROFOLD: folds 
+Alameda22: folds 
+yjqian23: calls $0.25
+Emerson.Fran: calls $0.25
+Païtabière: folds 
+rainbow_J: folds 
+DYPM: raises $0.75 to $1
+WhiteApe777: calls $0.75
+yjqian23: calls $0.75
+Emerson.Fran: calls $0.75
+*** FLOP *** [2h 4c As]
+DYPM: checks 
+WhiteApe777: checks 
+yjqian23: bets $0.25
+Emerson.Fran: raises $0.75 to $1
+DYPM: raises $1.25 to $2.25
+WhiteApe777: folds 
+yjqian23: folds 
+Emerson.Fran: raises $9.50 to $11.75
+DYPM: calls $4.80 and is all-in
+Uncalled bet ($4.70) returned to Emerson.Fran
+*** TURN *** [2h 4c As] [Qh]
+*** RIVER *** [2h 4c As Qh] [Jd]
+*** SHOW DOWN ***
+DYPM: shows [Ad Ts] (a pair of Aces)
+Emerson.Fran: shows [5d 3d] (a straight, Ace to Five)
+Emerson.Fran collected $17.45 from pot
+*** SUMMARY ***
+Total pot $18.35 | Rake $0.90 
+Board [2h 4c As Qh Jd]
+Seat 1: yjqian23 folded on the Flop
+Seat 2: Emerson.Fran showed [5d 3d] and won ($17.45) with a straight, Ace to Five
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J (button) folded before Flop (didn't bet)
+Seat 6: DYPM (small blind) showed [Ad Ts] and lost with a pair of Aces
+Seat 7: WhiteApe777 (big blind) folded on the Flop
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953200559:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:03:27 (ET)
+Table 'Geographos' 9-max Seat #7 is the button
+Seat 1: yjqian23 ($26.55 in chips) 
+Seat 2: Emerson.Fran ($86.80 in chips) 
+Seat 3: Païtabière ($33.50 in chips) 
+Seat 4: rainbow_J ($24.15 in chips) 
+Seat 7: WhiteApe777 ($24 in chips) 
+Seat 8: ROFOLD ($34 in chips) 
+Seat 9: Alameda22 ($24.50 in chips) 
+DYPM leaves the table
+ROFOLD: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 5h]
+yjqian23: folds 
+Emerson.Fran: raises $0.50 to $0.75
+Païtabière: folds 
+rainbow_J: folds 
+WhiteApe777: folds 
+ROFOLD: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to Emerson.Fran
+Emerson.Fran collected $0.60 from pot
+Emerson.Fran: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: yjqian23 folded before Flop (didn't bet)
+Seat 2: Emerson.Fran collected ($0.60)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 7: WhiteApe777 (button) folded before Flop (didn't bet)
+Seat 8: ROFOLD (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #19953221666:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:04:20 (ET)
+Table 'Geographos' 9-max Seat #8 is the button
+Seat 2: Emerson.Fran ($87.15 in chips) 
+Seat 3: Païtabière ($33.50 in chips) 
+Seat 4: rainbow_J ($24.15 in chips) 
+Seat 7: WhiteApe777 ($24 in chips) 
+Seat 8: ROFOLD ($33.90 in chips) 
+Seat 9: Alameda22 ($24.25 in chips) 
+Alameda22: posts small blind $0.10
+yjqian23: is sitting out 
+yjqian23 leaves the table
+Emerson.Fran: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 4s]
+Païtabière: folds 
+rainbow_J: folds 
+WhiteApe777: folds 
+stümironny joins the table at seat #1 
+ROFOLD: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to Emerson.Fran
+Emerson.Fran collected $0.20 from pot
+Emerson.Fran: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Emerson.Fran (big blind) collected ($0.20)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: ROFOLD (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19953235028:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:04:54 (ET)
+Table 'Geographos' 9-max Seat #9 is the button
+Seat 2: Emerson.Fran ($87.25 in chips) 
+Seat 3: Païtabière ($33.50 in chips) 
+Seat 4: rainbow_J ($24.15 in chips) 
+Seat 7: WhiteApe777 ($24 in chips) 
+Seat 8: ROFOLD ($33.90 in chips) 
+Seat 9: Alameda22 ($24.15 in chips) 
+stümironny will be allowed to play after the button
+Emerson.Fran: posts small blind $0.10
+Païtabière: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 5c]
+rainbow_J: folds 
+WhiteApe777: folds 
+ROFOLD: folds 
+Alameda22: folds 
+Emerson.Fran: raises $0.50 to $0.75
+Païtabière: folds 
+Uncalled bet ($0.50) returned to Emerson.Fran
+Emerson.Fran collected $0.50 from pot
+Emerson.Fran: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Emerson.Fran (small blind) collected ($0.50)
+Seat 3: Païtabière (big blind) folded before Flop
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953247184:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:05:24 (ET)
+Table 'Geographos' 9-max Seat #2 is the button
+Seat 1: stümironny ($5 in chips) 
+Seat 2: Emerson.Fran ($87.50 in chips) 
+Seat 3: Païtabière ($33.25 in chips) 
+Seat 4: rainbow_J ($24.15 in chips) 
+Seat 7: WhiteApe777 ($24 in chips) 
+Seat 8: ROFOLD ($33.90 in chips) 
+Seat 9: Alameda22 ($24.15 in chips) 
+Païtabière: posts small blind $0.10
+rainbow_J: posts big blind $0.25
+stümironny: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Ac]
+WhiteApe777: folds 
+ROFOLD: folds 
+Alameda22: folds 
+stümironny: checks 
+Emerson.Fran: folds 
+Païtabière: raises $1.25 to $1.50
+rainbow_J: folds 
+stümironny: folds 
+Uncalled bet ($1.25) returned to Païtabière
+Païtabière collected $0.75 from pot
+Païtabière: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: stümironny folded before Flop
+Seat 2: Emerson.Fran (button) folded before Flop (didn't bet)
+Seat 3: Païtabière (small blind) collected ($0.75)
+Seat 4: rainbow_J (big blind) folded before Flop
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953262814:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:06:03 (ET)
+Table 'Geographos' 9-max Seat #3 is the button
+Seat 1: stümironny ($4.75 in chips) 
+Seat 2: Emerson.Fran ($87.50 in chips) 
+Seat 3: Païtabière ($33.75 in chips) 
+Seat 4: rainbow_J ($23.90 in chips) 
+Seat 7: WhiteApe777 ($24 in chips) 
+Seat 8: ROFOLD ($33.90 in chips) 
+Seat 9: Alameda22 ($24.15 in chips) 
+rainbow_J: posts small blind $0.10
+WhiteApe777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Kd]
+ROFOLD: folds 
+Alameda22: folds 
+stümironny: folds 
+Emerson.Fran: calls $0.25
+Païtabière: folds 
+rainbow_J: raises $0.50 to $0.75
+WhiteApe777: folds 
+Emerson.Fran: calls $0.50
+*** FLOP *** [7d 6s Ad]
+rainbow_J: bets $0.75
+Emerson.Fran: calls $0.75
+*** TURN *** [7d 6s Ad] [5h]
+rainbow_J: bets $1
+Emerson.Fran: calls $1
+*** RIVER *** [7d 6s Ad 5h] [Kc]
+rainbow_J: checks 
+Emerson.Fran: checks 
+*** SHOW DOWN ***
+rainbow_J: shows [Ah Jd] (a pair of Aces)
+Emerson.Fran: mucks hand 
+rainbow_J collected $5 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [7d 6s Ad 5h Kc]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: Emerson.Fran mucked [4c 6c]
+Seat 3: Païtabière (button) folded before Flop (didn't bet)
+Seat 4: rainbow_J (small blind) showed [Ah Jd] and won ($5) with a pair of Aces
+Seat 7: WhiteApe777 (big blind) folded before Flop
+Seat 8: ROFOLD folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953285190:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:07:00 (ET)
+Table 'Geographos' 9-max Seat #4 is the button
+Seat 1: stümironny ($4.75 in chips) 
+Seat 2: Emerson.Fran ($85 in chips) 
+Seat 3: Païtabière ($33.75 in chips) 
+Seat 4: rainbow_J ($26.40 in chips) 
+Seat 7: WhiteApe777 ($23.75 in chips) 
+Seat 8: ROFOLD ($33.90 in chips) 
+Seat 9: Alameda22 ($24.15 in chips) 
+WhiteApe777: posts small blind $0.10
+ROFOLD: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Kd]
+Alameda22: folds 
+stümironny: folds 
+Emerson.Fran: folds 
+Emerson.Fran leaves the table
+Païtabière: raises $0.75 to $1
+rainbow_J: calls $1
+WhiteApe777: folds 
+ROFOLD: folds 
+*** FLOP *** [8h As 2c]
+Païtabière: bets $1.25
+rainbow_J: calls $1.25
+*** TURN *** [8h As 2c] [5s]
+Païtabière: bets $2.75
+rainbow_J: calls $2.75
+*** RIVER *** [8h As 2c 5s] [7h]
+Païtabière: checks 
+rainbow_J: checks 
+*** SHOW DOWN ***
+Païtabière: shows [Tc Qc] (high card Ace)
+rainbow_J: shows [Qd Ac] (a pair of Aces)
+rainbow_J collected $9.85 from pot
+*** SUMMARY ***
+Total pot $10.35 | Rake $0.50 
+Board [8h As 2c 5s 7h]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: Emerson.Fran folded before Flop (didn't bet)
+Seat 3: Païtabière showed [Tc Qc] and lost with high card Ace
+Seat 4: rainbow_J (button) showed [Qd Ac] and won ($9.85) with a pair of Aces
+Seat 7: WhiteApe777 (small blind) folded before Flop
+Seat 8: ROFOLD (big blind) folded before Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953309445:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:08:02 (ET)
+Table 'Geographos' 9-max Seat #7 is the button
+Seat 1: stümironny ($4.75 in chips) 
+Seat 3: Païtabière ($28.75 in chips) 
+Seat 4: rainbow_J ($31.25 in chips) 
+Seat 7: WhiteApe777 ($23.65 in chips) 
+Seat 9: Alameda22 ($24.15 in chips) 
+ROFOLD: is sitting out 
+Alameda22: posts small blind $0.10
+stümironny: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 9c]
+ROFOLD leaves the table
+Païtabière: folds 
+rainbow_J: folds 
+WhiteApe777: raises $0.75 to $1
+Alameda22: folds 
+stümironny: folds 
+Uncalled bet ($0.75) returned to WhiteApe777
+WhiteApe777 collected $0.60 from pot
+WhiteApe777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: stümironny (big blind) folded before Flop
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 7: WhiteApe777 (button) collected ($0.60)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19953320763:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:08:31 (ET)
+Table 'Geographos' 9-max Seat #9 is the button
+Seat 1: stümironny ($4.50 in chips) 
+Seat 3: Païtabière ($28.75 in chips) 
+Seat 4: rainbow_J ($31.25 in chips) 
+Seat 7: WhiteApe777 ($24 in chips) 
+Seat 9: Alameda22 ($24.05 in chips) 
+stümironny: posts small blind $0.10
+Païtabière: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Th]
+rainbow_J: folds 
+WhiteApe777: folds 
+Alameda22: folds 
+stümironny: calls $0.15
+Païtabière: checks 
+*** FLOP *** [5c Jc 2c]
+stümironny: checks 
+Païtabière: checks 
+*** TURN *** [5c Jc 2c] [2d]
+stümironny: checks 
+Païtabière: checks 
+*** RIVER *** [5c Jc 2c 2d] [Tc]
+stümironny: checks 
+Païtabière: checks 
+*** SHOW DOWN ***
+stümironny: shows [6h Kd] (a pair of Deuces)
+Païtabière: mucks hand 
+stümironny collected $0.50 from pot
+Winskill joins the table at seat #8 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [5c Jc 2c 2d Tc]
+Seat 1: stümironny (small blind) showed [6h Kd] and won ($0.50) with a pair of Deuces
+Seat 3: Païtabière (big blind) mucked [Qs 9d]
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953350012:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:09:46 (ET)
+Table 'Geographos' 9-max Seat #1 is the button
+Seat 1: stümironny ($4.75 in chips) 
+Seat 3: Païtabière ($28.50 in chips) 
+Seat 4: rainbow_J ($31.25 in chips) 
+Seat 7: WhiteApe777 ($24 in chips) 
+Seat 8: Winskill ($25 in chips) 
+Seat 9: Alameda22 ($24.05 in chips) 
+Païtabière: posts small blind $0.10
+rainbow_J: posts big blind $0.25
+Winskill: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Ad]
+WhiteApe777: folds 
+Winskill: checks 
+Alameda22: folds 
+stümironny: folds 
+Païtabière: folds 
+rainbow_J: checks 
+*** FLOP *** [Ks 6h 7s]
+rainbow_J: checks 
+Winskill: bets $0.80
+rainbow_J: calls $0.80
+*** TURN *** [Ks 6h 7s] [Kd]
+rainbow_J: checks 
+Winskill: checks 
+*** RIVER *** [Ks 6h 7s Kd] [7h]
+rainbow_J: bets $1.25
+Winskill: folds 
+Uncalled bet ($1.25) returned to rainbow_J
+rainbow_J collected $2.10 from pot
+rainbow_J: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.20 | Rake $0.10 
+Board [Ks 6h 7s Kd 7h]
+Seat 1: stümironny (button) folded before Flop (didn't bet)
+Seat 3: Païtabière (small blind) folded before Flop
+Seat 4: rainbow_J (big blind) collected ($2.10)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: Winskill folded on the River
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953372989:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:10:47 (ET)
+Table 'Geographos' 9-max Seat #3 is the button
+Seat 1: stümironny ($4.75 in chips) 
+Seat 3: Païtabière ($28.40 in chips) 
+Seat 4: rainbow_J ($32.30 in chips) 
+Seat 7: WhiteApe777 ($24 in chips) 
+Seat 8: Winskill ($23.95 in chips) 
+Seat 9: Alameda22 ($24.05 in chips) 
+rainbow_J: posts small blind $0.10
+WiNtaWArLoK joins the table at seat #2 
+WhiteApe777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 3d]
+DBLEE joins the table at seat #6 
+Winskill: folds 
+Alameda22: folds 
+stümironny: folds 
+Païtabière: folds 
+rainbow_J: calls $0.15
+WhiteApe777: checks 
+*** FLOP *** [Th Jd Ac]
+rainbow_J: checks 
+WhiteApe777: checks 
+*** TURN *** [Th Jd Ac] [3c]
+rainbow_J: bets $0.25
+WhiteApe777: calls $0.25
+*** RIVER *** [Th Jd Ac 3c] [Qd]
+rainbow_J: checks 
+WhiteApe777: bets $23.50 and is all-in
+rainbow_J: folds 
+Uncalled bet ($23.50) returned to WhiteApe777
+WhiteApe777 collected $0.95 from pot
+WhiteApe777: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Th Jd Ac 3c Qd]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 3: Païtabière (button) folded before Flop (didn't bet)
+Seat 4: rainbow_J (small blind) folded on the River
+Seat 7: WhiteApe777 (big blind) collected ($0.95)
+Seat 8: Winskill folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953396869:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:11:49 (ET)
+Table 'Geographos' 9-max Seat #4 is the button
+Seat 1: stümironny ($4.75 in chips) 
+Seat 2: WiNtaWArLoK ($5 in chips) 
+Seat 3: Païtabière ($28.40 in chips) 
+Seat 4: rainbow_J ($31.80 in chips) 
+Seat 7: WhiteApe777 ($24.45 in chips) 
+Seat 8: Winskill ($23.95 in chips) 
+Seat 9: Alameda22 ($24.05 in chips) 
+DBLEE will be allowed to play after the button
+928racer was removed from the table for failing to post
+WhiteApe777: posts small blind $0.10
+Winskill: posts big blind $0.25
+WiNtaWArLoK: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 2c]
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: checks 
+Païtabière: folds 
+rainbow_J: folds 
+WhiteApe777: raises $0.95 to $1.20
+Winskill: calls $0.95
+WiNtaWArLoK: folds 
+*** FLOP *** [5s 5d Th]
+WhiteApe777: checks 
+Winskill: bets $1.60
+WhiteApe777: calls $1.60
+*** TURN *** [5s 5d Th] [Qc]
+WhiteApe777: checks 
+Winskill: bets $4.40
+WhiteApe777: folds 
+Uncalled bet ($4.40) returned to Winskill
+Winskill collected $5.60 from pot
+Winskill: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.85 | Rake $0.25 
+Board [5s 5d Th Qc]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK folded before Flop
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J (button) folded before Flop (didn't bet)
+Seat 7: WhiteApe777 (small blind) folded on the Turn
+Seat 8: Winskill (big blind) collected ($5.60)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953427244:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:13:09 (ET)
+Table 'Geographos' 9-max Seat #7 is the button
+Seat 1: stümironny ($4.75 in chips) 
+Seat 2: WiNtaWArLoK ($4.75 in chips) 
+Seat 3: Païtabière ($28.40 in chips) 
+Seat 4: rainbow_J ($31.80 in chips) 
+Seat 6: DBLEE ($15 in chips) 
+Seat 7: WhiteApe777 ($21.65 in chips) 
+Seat 8: Winskill ($26.75 in chips) 
+Seat 9: Alameda22 ($24.05 in chips) 
+Winskill: posts small blind $0.10
+Alameda22: posts big blind $0.25
+DBLEE: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks As]
+stümironny: folds 
+FlagsFinest joins the table at seat #5 
+WiNtaWArLoK has timed out
+WiNtaWArLoK: folds 
+WiNtaWArLoK is sitting out
+Païtabière: folds 
+rainbow_J: folds 
+DBLEE: checks 
+WhiteApe777: folds 
+Winskill: calls $0.15
+Alameda22: raises $1 to $1.25
+DBLEE: folds 
+Winskill: calls $1
+*** FLOP *** [Qc Ad 4s]
+Winskill: checks 
+WiNtaWArLoK has returned
+Alameda22: bets $1.75
+Winskill: calls $1.75
+*** TURN *** [Qc Ad 4s] [4d]
+Winskill: checks 
+Alameda22: bets $4
+Winskill: raises $19.75 to $23.75 and is all-in
+Alameda22: calls $17.05 and is all-in
+Uncalled bet ($2.70) returned to Winskill
+*** RIVER *** [Qc Ad 4s 4d] [3s]
+*** SHOW DOWN ***
+Winskill: shows [6s Ah] (two pair, Aces and Fours)
+Alameda22: shows [Ks As] (two pair, Aces and Fours - King kicker)
+Alameda22 collected $45.95 from pot
+*** SUMMARY ***
+Total pot $48.35 | Rake $2.40 
+Board [Qc Ad 4s 4d 3s]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 6: DBLEE folded before Flop
+Seat 7: WhiteApe777 (button) folded before Flop (didn't bet)
+Seat 8: Winskill (small blind) showed [6s Ah] and lost with two pair, Aces and Fours
+Seat 9: Alameda22 (big blind) showed [Ks As] and won ($45.95) with two pair, Aces and Fours
+
+
+
+PokerStars Game #19953478228:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:15:14 (ET)
+Table 'Geographos' 9-max Seat #8 is the button
+Seat 1: stümironny ($4.75 in chips) 
+Seat 2: WiNtaWArLoK ($4.75 in chips) 
+Seat 3: Païtabière ($28.40 in chips) 
+Seat 4: rainbow_J ($31.80 in chips) 
+Seat 5: FlagsFinest ($5 in chips) 
+Seat 6: DBLEE ($14.75 in chips) 
+Seat 7: WhiteApe777 ($25 in chips) 
+Seat 8: Winskill ($2.70 in chips) 
+Seat 9: Alameda22 ($45.95 in chips) 
+Alameda22: posts small blind $0.10
+stümironny: posts big blind $0.25
+FlagsFinest: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 2s]
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+FlagsFinest: checks 
+DBLEE: calls $0.25
+WhiteApe777: folds 
+Winskill: raises $2.45 to $2.70 and is all-in
+Alameda22: folds 
+stümironny: folds 
+FlagsFinest: folds 
+DBLEE: calls $2.45
+*** FLOP *** [Jc 7h 5s]
+*** TURN *** [Jc 7h 5s] [4s]
+*** RIVER *** [Jc 7h 5s 4s] [Ad]
+*** SHOW DOWN ***
+DBLEE: shows [Qc Js] (a pair of Jacks)
+Winskill: mucks hand 
+DBLEE collected $5.70 from pot
+Winskill leaves the table
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Jc 7h 5s 4s Ad]
+Seat 1: stümironny (big blind) folded before Flop
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: FlagsFinest folded before Flop
+Seat 6: DBLEE showed [Qc Js] and won ($5.70) with a pair of Jacks
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: Winskill (button) mucked [9h Tc]
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19953510881:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:16:31 (ET)
+Table 'Geographos' 9-max Seat #9 is the button
+Seat 1: stümironny ($4.50 in chips) 
+Seat 2: WiNtaWArLoK ($4.75 in chips) 
+Seat 3: Païtabière ($28.40 in chips) 
+Seat 4: rainbow_J ($31.80 in chips) 
+Seat 5: FlagsFinest ($4.75 in chips) 
+Seat 6: DBLEE ($17.75 in chips) 
+Seat 7: WhiteApe777 ($25 in chips) 
+Seat 9: Alameda22 ($45.85 in chips) 
+stümironny: posts small blind $0.10
+WiNtaWArLoK: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Td]
+Païtabière: folds 
+rainbow_J: folds 
+FlagsFinest: folds 
+DBLEE: raises $1 to $1.25
+WhiteApe777: folds 
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Uncalled bet ($1) returned to DBLEE
+DBLEE collected $0.60 from pot
+DBLEE: shows [As Ah] (a pair of Aces)
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: stümironny (small blind) folded before Flop
+Seat 2: WiNtaWArLoK (big blind) folded before Flop
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: FlagsFinest folded before Flop (didn't bet)
+Seat 6: DBLEE collected ($0.60)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953529121:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:17:13 (ET)
+Table 'Geographos' 9-max Seat #1 is the button
+Seat 1: stümironny ($4.40 in chips) 
+Seat 2: WiNtaWArLoK ($4.50 in chips) 
+Seat 3: Païtabière ($28.40 in chips) 
+Seat 4: rainbow_J ($31.80 in chips) 
+Seat 5: FlagsFinest ($4.75 in chips) 
+Seat 6: DBLEE ($18.10 in chips) 
+Seat 7: WhiteApe777 ($25 in chips) 
+Seat 9: Alameda22 ($45.85 in chips) 
+WiNtaWArLoK: posts small blind $0.10
+Païtabière: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Qs]
+rainbow_J: folds 
+FlagsFinest: folds 
+DBLEE: folds 
+WhiteApe777: folds 
+Alameda22: folds 
+stümironny: folds 
+robbg58 joins the table at seat #8 
+WiNtaWArLoK: folds 
+Uncalled bet ($0.15) returned to Païtabière
+Païtabière collected $0.20 from pot
+Païtabière: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: stümironny (button) folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK (small blind) folded before Flop
+Seat 3: Païtabière (big blind) collected ($0.20)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: FlagsFinest folded before Flop (didn't bet)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953543536:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:17:47 (ET)
+Table 'Geographos' 9-max Seat #2 is the button
+Seat 1: stümironny ($4.40 in chips) 
+Seat 2: WiNtaWArLoK ($4.40 in chips) 
+Seat 3: Païtabière ($28.50 in chips) 
+Seat 4: rainbow_J ($31.80 in chips) 
+Seat 5: FlagsFinest ($4.75 in chips) 
+Seat 6: DBLEE ($18.10 in chips) 
+Seat 7: WhiteApe777 ($25 in chips) 
+Seat 9: Alameda22 ($45.85 in chips) 
+Païtabière: posts small blind $0.10
+rainbow_J: posts big blind $0.25
+robbg58: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 3s]
+FlagsFinest: folds 
+DBLEE: folds 
+WhiteApe777: raises $0.75 to $1
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+Uncalled bet ($0.75) returned to WhiteApe777
+WhiteApe777 collected $0.60 from pot
+WhiteApe777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK (button) folded before Flop (didn't bet)
+Seat 3: Païtabière (small blind) folded before Flop
+Seat 4: rainbow_J (big blind) folded before Flop
+Seat 5: FlagsFinest folded before Flop (didn't bet)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 7: WhiteApe777 collected ($0.60)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953558734:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:18:23 (ET)
+Table 'Geographos' 9-max Seat #3 is the button
+Seat 1: stümironny ($4.40 in chips) 
+Seat 2: WiNtaWArLoK ($4.40 in chips) 
+Seat 3: Païtabière ($28.40 in chips) 
+Seat 4: rainbow_J ($31.55 in chips) 
+Seat 5: FlagsFinest ($4.75 in chips) 
+Seat 6: DBLEE ($18.10 in chips) 
+Seat 7: WhiteApe777 ($25.35 in chips) 
+Seat 9: Alameda22 ($45.85 in chips) 
+rainbow_J: posts small blind $0.10
+FlagsFinest: posts big blind $0.25
+robbg58: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 6h]
+DBLEE: calls $0.25
+WhiteApe777: folds 
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+FlagsFinest: checks 
+*** FLOP *** [Ks Jh Ts]
+FlagsFinest: bets $0.25
+DBLEE: folds 
+Uncalled bet ($0.25) returned to FlagsFinest
+FlagsFinest collected $0.60 from pot
+FlagsFinest: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ks Jh Ts]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière (button) folded before Flop (didn't bet)
+Seat 4: rainbow_J (small blind) folded before Flop
+Seat 5: FlagsFinest (big blind) collected ($0.60)
+Seat 6: DBLEE folded on the Flop
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953573091:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:18:58 (ET)
+Table 'Geographos' 9-max Seat #4 is the button
+Seat 1: stümironny ($4.40 in chips) 
+Seat 2: WiNtaWArLoK ($4.40 in chips) 
+Seat 3: Païtabière ($28.40 in chips) 
+Seat 4: rainbow_J ($31.45 in chips) 
+Seat 5: FlagsFinest ($5.10 in chips) 
+Seat 6: DBLEE ($17.85 in chips) 
+Seat 7: WhiteApe777 ($25.35 in chips) 
+Seat 9: Alameda22 ($45.85 in chips) 
+FlagsFinest: posts small blind $0.10
+DBLEE: posts big blind $0.25
+robbg58: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 3s]
+WhiteApe777: folds 
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+FlagsFinest: folds 
+Uncalled bet ($0.15) returned to DBLEE
+DBLEE collected $0.20 from pot
+DBLEE: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J (button) folded before Flop (didn't bet)
+Seat 5: FlagsFinest (small blind) folded before Flop
+Seat 6: DBLEE (big blind) collected ($0.20)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953586520:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:19:30 (ET)
+Table 'Geographos' 9-max Seat #5 is the button
+Seat 1: stümironny ($4.40 in chips) 
+Seat 2: WiNtaWArLoK ($4.40 in chips) 
+Seat 3: Païtabière ($28.40 in chips) 
+Seat 4: rainbow_J ($31.45 in chips) 
+Seat 5: FlagsFinest ($5 in chips) 
+Seat 6: DBLEE ($17.95 in chips) 
+Seat 7: WhiteApe777 ($25.35 in chips) 
+Seat 9: Alameda22 ($45.85 in chips) 
+DBLEE: posts small blind $0.10
+WhiteApe777: posts big blind $0.25
+robbg58: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Ts]
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+FlagsFinest: folds 
+DBLEE: folds 
+Uncalled bet ($0.15) returned to WhiteApe777
+WhiteApe777 collected $0.20 from pot
+WhiteApe777 is disconnected 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: FlagsFinest (button) folded before Flop (didn't bet)
+Seat 6: DBLEE (small blind) folded before Flop
+Seat 7: WhiteApe777 (big blind) collected ($0.20)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953602253:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:20:08 (ET)
+Table 'Geographos' 9-max Seat #6 is the button
+Seat 1: stümironny ($4.40 in chips) 
+Seat 2: WiNtaWArLoK ($4.40 in chips) 
+Seat 3: Païtabière ($28.40 in chips) 
+Seat 4: rainbow_J ($31.45 in chips) 
+Seat 5: FlagsFinest ($5 in chips) 
+Seat 6: DBLEE ($17.85 in chips) 
+Seat 7: WhiteApe777 ($25.45 in chips) 
+Seat 8: robbg58 ($15 in chips) 
+Seat 9: Alameda22 ($45.85 in chips) 
+WhiteApe777 is connected 
+WhiteApe777: posts small blind $0.10
+robbg58: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Jh]
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+FlagsFinest: calls $0.25
+DBLEE: raises $1 to $1.25
+WhiteApe777: folds 
+robbg58: folds 
+FlagsFinest: calls $1
+*** FLOP *** [7h 3c 4d]
+FlagsFinest: bets $3.75 and is all-in
+DBLEE: folds 
+Uncalled bet ($3.75) returned to FlagsFinest
+FlagsFinest collected $2.75 from pot
+FlagsFinest: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [7h 3c 4d]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: FlagsFinest collected ($2.75)
+Seat 6: DBLEE (button) folded on the Flop
+Seat 7: WhiteApe777 (small blind) folded before Flop
+Seat 8: robbg58 (big blind) folded before Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953631337:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:21:18 (ET)
+Table 'Geographos' 9-max Seat #7 is the button
+Seat 1: stümironny ($4.40 in chips) 
+Seat 2: WiNtaWArLoK ($4.40 in chips) 
+Seat 3: Païtabière ($28.40 in chips) 
+Seat 4: rainbow_J ($31.45 in chips) 
+Seat 5: FlagsFinest ($6.50 in chips) 
+Seat 6: DBLEE ($16.60 in chips) 
+Seat 7: WhiteApe777 ($25.35 in chips) 
+Seat 8: robbg58 ($14.75 in chips) 
+Seat 9: Alameda22 ($45.85 in chips) 
+robbg58: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 6h]
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+FlagsFinest: folds 
+DBLEE: raises $0.75 to $1
+WhiteApe777: folds 
+robbg58: raises $0.75 to $1.75
+Alameda22: folds 
+DBLEE: calls $0.75
+*** FLOP *** [3d 8c 6d]
+robbg58: bets $2.50
+DBLEE: calls $2.50
+*** TURN *** [3d 8c 6d] [Ts]
+robbg58: bets $2.50
+DBLEE: folds 
+Uncalled bet ($2.50) returned to robbg58
+robbg58 collected $8.35 from pot
+robbg58: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.75 | Rake $0.40 
+Board [3d 8c 6d Ts]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: FlagsFinest folded before Flop (didn't bet)
+Seat 6: DBLEE folded on the Turn
+Seat 7: WhiteApe777 (button) folded before Flop (didn't bet)
+Seat 8: robbg58 (small blind) collected ($8.35)
+Seat 9: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #19953659061:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:22:25 (ET)
+Table 'Geographos' 9-max Seat #8 is the button
+Seat 1: stümironny ($4.40 in chips) 
+Seat 2: WiNtaWArLoK ($4.40 in chips) 
+Seat 3: Païtabière ($28.40 in chips) 
+Seat 4: rainbow_J ($31.45 in chips) 
+Seat 5: FlagsFinest ($6.50 in chips) 
+Seat 6: DBLEE ($12.35 in chips) 
+Seat 7: WhiteApe777 ($25.35 in chips) 
+Seat 8: robbg58 ($18.85 in chips) 
+Seat 9: Alameda22 ($45.60 in chips) 
+Alameda22: posts small blind $0.10
+stümironny: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 4d]
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+FlagsFinest: calls $0.25
+DBLEE: folds 
+WhiteApe777: folds 
+robbg58: folds 
+Alameda22: folds 
+stümironny: checks 
+*** FLOP *** [Kd 7c Jd]
+stümironny: checks 
+FlagsFinest: bets $0.50
+stümironny: folds 
+Uncalled bet ($0.50) returned to FlagsFinest
+FlagsFinest collected $0.60 from pot
+FlagsFinest: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kd 7c Jd]
+Seat 1: stümironny (big blind) folded on the Flop
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: FlagsFinest collected ($0.60)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: robbg58 (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19953673973:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:23:02 (ET)
+Table 'Geographos' 9-max Seat #9 is the button
+Seat 1: stümironny ($4.15 in chips) 
+Seat 2: WiNtaWArLoK ($4.40 in chips) 
+Seat 3: Païtabière ($28.40 in chips) 
+Seat 4: rainbow_J ($31.45 in chips) 
+Seat 5: FlagsFinest ($6.85 in chips) 
+Seat 6: DBLEE ($12.35 in chips) 
+Seat 7: WhiteApe777 ($25.35 in chips) 
+Seat 8: robbg58 ($18.85 in chips) 
+Seat 9: Alameda22 ($45.50 in chips) 
+stümironny: posts small blind $0.10
+WiNtaWArLoK: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 9s]
+Païtabière: folds 
+rainbow_J: folds 
+FlagsFinest: folds 
+DBLEE is disconnected 
+DBLEE is connected 
+DBLEE: folds 
+WhiteApe777: calls $0.25
+robbg58: folds 
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: checks 
+*** FLOP *** [Qs 3c Jc]
+WiNtaWArLoK: checks 
+WhiteApe777: checks 
+*** TURN *** [Qs 3c Jc] [Kh]
+WiNtaWArLoK: checks 
+DBLEE is sitting out
+WhiteApe777: checks 
+*** RIVER *** [Qs 3c Jc Kh] [Kc]
+WiNtaWArLoK: checks 
+WhiteApe777: checks 
+*** SHOW DOWN ***
+WiNtaWArLoK: shows [Js Ts] (two pair, Kings and Jacks)
+WhiteApe777: mucks hand 
+WiNtaWArLoK collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qs 3c Jc Kh Kc]
+Seat 1: stümironny (small blind) folded before Flop
+Seat 2: WiNtaWArLoK (big blind) showed [Js Ts] and won ($0.60) with two pair, Kings and Jacks
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: FlagsFinest folded before Flop (didn't bet)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 7: WhiteApe777 mucked [4d 4c]
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953706019:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:24:21 (ET)
+Table 'Geographos' 9-max Seat #1 is the button
+Seat 1: stümironny ($4.05 in chips) 
+Seat 2: WiNtaWArLoK ($4.75 in chips) 
+Seat 3: Païtabière ($28.40 in chips) 
+Seat 4: rainbow_J ($31.45 in chips) 
+Seat 5: FlagsFinest ($6.85 in chips) 
+Seat 7: WhiteApe777 ($25.10 in chips) 
+Seat 8: robbg58 ($18.85 in chips) 
+Seat 9: Alameda22 ($45.50 in chips) 
+WiNtaWArLoK: posts small blind $0.10
+Païtabière: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 6c]
+rainbow_J: folds 
+FlagsFinest: folds 
+WhiteApe777: calls $0.25
+robbg58: folds 
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: checks 
+*** FLOP *** [As 7s Td]
+Païtabière: checks 
+WhiteApe777: checks 
+*** TURN *** [As 7s Td] [6d]
+Païtabière: checks 
+WhiteApe777: checks 
+*** RIVER *** [As 7s Td 6d] [Ad]
+Païtabière: checks 
+WhiteApe777: checks 
+*** SHOW DOWN ***
+Païtabière: shows [5s Kc] (a pair of Aces)
+WhiteApe777: shows [2d 2s] (two pair, Aces and Deuces)
+WhiteApe777 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [As 7s Td 6d Ad]
+Seat 1: stümironny (button) folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK (small blind) folded before Flop
+Seat 3: Païtabière (big blind) showed [5s Kc] and lost with a pair of Aces
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: FlagsFinest folded before Flop (didn't bet)
+Seat 7: WhiteApe777 showed [2d 2s] and won ($0.60) with two pair, Aces and Deuces
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953726961:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:25:14 (ET)
+Table 'Geographos' 9-max Seat #2 is the button
+Seat 1: stümironny ($4.05 in chips) 
+Seat 2: WiNtaWArLoK ($4.65 in chips) 
+Seat 3: Païtabière ($28.15 in chips) 
+Seat 4: rainbow_J ($31.45 in chips) 
+Seat 5: FlagsFinest ($6.85 in chips) 
+Seat 7: WhiteApe777 ($25.45 in chips) 
+Seat 8: robbg58 ($18.85 in chips) 
+Seat 9: Alameda22 ($45.50 in chips) 
+Païtabière: posts small blind $0.10
+rainbow_J: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 7c]
+FlagsFinest: calls $0.25
+WhiteApe777: folds 
+robbg58: folds 
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: checks 
+*** FLOP *** [5h 6h 6c]
+rainbow_J: checks 
+DBLEE has returned
+FlagsFinest: bets $0.25
+rainbow_J: calls $0.25
+*** TURN *** [5h 6h 6c] [Kd]
+rainbow_J: checks 
+FlagsFinest: bets $0.75
+rainbow_J: folds 
+Uncalled bet ($0.75) returned to FlagsFinest
+FlagsFinest collected $1.05 from pot
+FlagsFinest: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [5h 6h 6c Kd]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK (button) folded before Flop (didn't bet)
+Seat 3: Païtabière (small blind) folded before Flop
+Seat 4: rainbow_J (big blind) folded on the Turn
+Seat 5: FlagsFinest collected ($1.05)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953751491:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:26:15 (ET)
+Table 'Geographos' 9-max Seat #3 is the button
+Seat 1: stümironny ($4.05 in chips) 
+Seat 2: WiNtaWArLoK ($4.65 in chips) 
+Seat 3: Païtabière ($28.05 in chips) 
+Seat 4: rainbow_J ($30.95 in chips) 
+Seat 5: FlagsFinest ($7.40 in chips) 
+Seat 6: DBLEE ($12.35 in chips) 
+Seat 7: WhiteApe777 ($25.45 in chips) 
+Seat 8: robbg58 ($18.85 in chips) 
+Seat 9: Alameda22 ($45.50 in chips) 
+rainbow_J: posts small blind $0.10
+FlagsFinest: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Tc]
+DBLEE: calls $0.25
+WhiteApe777: folds 
+robbg58: folds 
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+FlagsFinest: checks 
+*** FLOP *** [2d Qc 6d]
+FlagsFinest: checks 
+DBLEE: bets $0.50
+FlagsFinest: folds 
+Uncalled bet ($0.50) returned to DBLEE
+DBLEE collected $0.60 from pot
+DBLEE: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [2d Qc 6d]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière (button) folded before Flop (didn't bet)
+Seat 4: rainbow_J (small blind) folded before Flop
+Seat 5: FlagsFinest (big blind) folded on the Flop
+Seat 6: DBLEE collected ($0.60)
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953769354:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:27:00 (ET)
+Table 'Geographos' 9-max Seat #4 is the button
+Seat 1: stümironny ($4.05 in chips) 
+Seat 2: WiNtaWArLoK ($4.65 in chips) 
+Seat 3: Païtabière ($28.05 in chips) 
+Seat 4: rainbow_J ($30.85 in chips) 
+Seat 5: FlagsFinest ($7.15 in chips) 
+Seat 6: DBLEE ($12.70 in chips) 
+Seat 7: WhiteApe777 ($25.45 in chips) 
+Seat 8: robbg58 ($18.85 in chips) 
+Seat 9: Alameda22 ($45.50 in chips) 
+FlagsFinest: posts small blind $0.10
+DBLEE: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 5s]
+WhiteApe777: folds 
+robbg58: folds 
+Alameda22: folds 
+stümironny: calls $0.25
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+FlagsFinest: folds 
+DBLEE: checks 
+*** FLOP *** [Ac 6s 5h]
+DBLEE: checks 
+stümironny: bets $0.25
+DBLEE: folds 
+Uncalled bet ($0.25) returned to stümironny
+stümironny collected $0.60 from pot
+stümironny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ac 6s 5h]
+Seat 1: stümironny collected ($0.60)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J (button) folded before Flop (didn't bet)
+Seat 5: FlagsFinest (small blind) folded before Flop
+Seat 6: DBLEE (big blind) folded on the Flop
+Seat 7: WhiteApe777 folded before Flop (didn't bet)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953788184:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:27:48 (ET)
+Table 'Geographos' 9-max Seat #5 is the button
+Seat 1: stümironny ($4.40 in chips) 
+Seat 2: WiNtaWArLoK ($4.65 in chips) 
+Seat 3: Païtabière ($28.05 in chips) 
+Seat 4: rainbow_J ($30.85 in chips) 
+Seat 5: FlagsFinest ($7.05 in chips) 
+Seat 6: DBLEE ($12.45 in chips) 
+Seat 7: WhiteApe777 ($25.45 in chips) 
+Seat 8: robbg58 ($18.85 in chips) 
+Seat 9: Alameda22 ($45.50 in chips) 
+DBLEE: posts small blind $0.10
+WhiteApe777: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 4s]
+robbg58: folds 
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: raises $0.75 to $1
+rainbow_J: folds 
+FlagsFinest: folds 
+DBLEE: calls $0.90
+WhiteApe777: folds 
+*** FLOP *** [2s 6d 9c]
+DBLEE: checks 
+Païtabière: bets $1.50
+DBLEE: calls $1.50
+*** TURN *** [2s 6d 9c] [Tc]
+DBLEE: checks 
+Païtabière: checks 
+*** RIVER *** [2s 6d 9c Tc] [Ad]
+DBLEE: checks 
+Païtabière: checks 
+*** SHOW DOWN ***
+DBLEE: shows [Td Jd] (a pair of Tens)
+Païtabière: mucks hand 
+DBLEE collected $5 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [2s 6d 9c Tc Ad]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière mucked [Kh Qh]
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: FlagsFinest (button) folded before Flop (didn't bet)
+Seat 6: DBLEE (small blind) showed [Td Jd] and won ($5) with a pair of Tens
+Seat 7: WhiteApe777 (big blind) folded before Flop
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953811334:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:28:47 (ET)
+Table 'Geographos' 9-max Seat #6 is the button
+Seat 1: stümironny ($4.40 in chips) 
+Seat 2: WiNtaWArLoK ($4.65 in chips) 
+Seat 3: Païtabière ($25.55 in chips) 
+Seat 4: rainbow_J ($30.85 in chips) 
+Seat 5: FlagsFinest ($7.05 in chips) 
+Seat 6: DBLEE ($14.95 in chips) 
+Seat 8: robbg58 ($18.85 in chips) 
+Seat 9: Alameda22 ($45.50 in chips) 
+WhiteApe777: is sitting out 
+robbg58: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 4d]
+stümironny: calls $0.25
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+FlagsFinest: folds 
+DBLEE: folds 
+DBLEE is sitting out
+robbg58: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Ts 7d 4s]
+robbg58: bets $0.50
+Alameda22: folds 
+stümironny: calls $0.50
+*** TURN *** [Ts 7d 4s] [2c]
+robbg58: bets $1
+stümironny: calls $1
+*** RIVER *** [Ts 7d 4s 2c] [7s]
+robbg58: bets $4
+stümironny: folds 
+Uncalled bet ($4) returned to robbg58
+robbg58 collected $3.60 from pot
+robbg58: doesn't show hand 
+FlagsFinest leaves the table
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [Ts 7d 4s 2c 7s]
+Seat 1: stümironny folded on the River
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: FlagsFinest folded before Flop (didn't bet)
+Seat 6: DBLEE (button) folded before Flop (didn't bet)
+Seat 8: robbg58 (small blind) collected ($3.60)
+Seat 9: Alameda22 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19953852354:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:30:32 (ET)
+Table 'Geographos' 9-max Seat #8 is the button
+Seat 1: stümironny ($2.65 in chips) 
+Seat 2: WiNtaWArLoK ($4.65 in chips) 
+Seat 3: Païtabière ($25.55 in chips) 
+Seat 4: rainbow_J ($30.85 in chips) 
+Seat 8: robbg58 ($20.70 in chips) 
+Seat 9: Alameda22 ($45.25 in chips) 
+Alameda22: posts small blind $0.10
+stümironny: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 5c]
+DBLEE has returned
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+robbg58: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to stümironny
+stümironny collected $0.20 from pot
+stümironny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: stümironny (big blind) collected ($0.20)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 8: robbg58 (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19953872450:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:31:23 (ET)
+Table 'Geographos' 9-max Seat #9 is the button
+Seat 1: stümironny ($2.75 in chips) 
+Seat 2: WiNtaWArLoK ($4.65 in chips) 
+Seat 3: Païtabière ($25.55 in chips) 
+Seat 4: rainbow_J ($30.85 in chips) 
+Seat 6: DBLEE ($14.95 in chips) 
+Seat 8: robbg58 ($20.70 in chips) 
+Seat 9: Alameda22 ($45.15 in chips) 
+stümironny: posts small blind $0.10
+WiNtaWArLoK: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Kc]
+Païtabière: folds 
+rainbow_J: folds 
+ullr49 joins the table at seat #5 
+DBLEE: calls $0.25
+robbg58: folds 
+Alameda22: folds 
+stümironny: calls $0.15
+WiNtaWArLoK: checks 
+*** FLOP *** [7h 6h Qs]
+stümironny: bets $0.25
+WiNtaWArLoK: folds 
+DBLEE: folds 
+Uncalled bet ($0.25) returned to stümironny
+stümironny collected $0.75 from pot
+stümironny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [7h 6h Qs]
+Seat 1: stümironny (small blind) collected ($0.75)
+Seat 2: WiNtaWArLoK (big blind) folded on the Flop
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 6: DBLEE folded on the Flop
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953887192:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:32:01 (ET)
+Table 'Geographos' 9-max Seat #1 is the button
+Seat 1: stümironny ($3.25 in chips) 
+Seat 2: WiNtaWArLoK ($4.40 in chips) 
+Seat 3: Païtabière ($25.55 in chips) 
+Seat 4: rainbow_J ($30.85 in chips) 
+Seat 6: DBLEE ($14.70 in chips) 
+Seat 8: robbg58 ($20.70 in chips) 
+Seat 9: Alameda22 ($45.15 in chips) 
+WiNtaWArLoK: posts small blind $0.10
+Païtabière: posts big blind $0.25
+ullr49: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 5s]
+rainbow_J: folds 
+DBLEE: folds 
+robbg58: folds 
+WhiteApe777 leaves the table
+Alameda22: folds 
+stümironny is disconnected 
+stümironny has timed out while disconnected
+stümironny: folds 
+stümironny is sitting out
+WiNtaWArLoK: raises $4.15 to $4.40 and is all-in
+stümironny is connected 
+Païtabière: calls $4.15
+*** FLOP *** [5c 4c 7c]
+*** TURN *** [5c 4c 7c] [Ac]
+stümironny has returned
+*** RIVER *** [5c 4c 7c Ac] [3s]
+*** SHOW DOWN ***
+WiNtaWArLoK: shows [Jd Kc] (a flush, Ace high)
+Païtabière: mucks hand 
+WiNtaWArLoK collected $8.40 from pot
+*** SUMMARY ***
+Total pot $8.80 | Rake $0.40 
+Board [5c 4c 7c Ac 3s]
+Seat 1: stümironny (button) folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK (small blind) showed [Jd Kc] and won ($8.40) with a flush, Ace high
+Seat 3: Païtabière (big blind) mucked [8d 8s]
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953917106:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:33:16 (ET)
+Table 'Geographos' 9-max Seat #2 is the button
+Seat 1: stümironny ($3.25 in chips) 
+Seat 2: WiNtaWArLoK ($8.40 in chips) 
+Seat 3: Païtabière ($25 in chips) 
+Seat 4: rainbow_J ($30.85 in chips) 
+Seat 6: DBLEE ($14.70 in chips) 
+Seat 8: robbg58 ($20.70 in chips) 
+Seat 9: Alameda22 ($45.15 in chips) 
+Païtabière: posts small blind $0.10
+rainbow_J: posts big blind $0.25
+ullr49: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 9c]
+DBLEE: folds 
+robbg58: folds 
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: folds 
+Uncalled bet ($0.15) returned to rainbow_J
+rainbow_J collected $0.20 from pot
+rainbow_J: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK (button) folded before Flop (didn't bet)
+Seat 3: Païtabière (small blind) folded before Flop
+Seat 4: rainbow_J (big blind) collected ($0.20)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953930995:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:33:52 (ET)
+Table 'Geographos' 9-max Seat #3 is the button
+Seat 1: stümironny ($3.25 in chips) 
+Seat 2: WiNtaWArLoK ($8.40 in chips) 
+Seat 3: Païtabière ($25 in chips) 
+Seat 4: rainbow_J ($30.95 in chips) 
+Seat 5: ullr49 ($15 in chips) 
+Seat 6: DBLEE ($14.70 in chips) 
+Seat 8: robbg58 ($20.70 in chips) 
+Seat 9: Alameda22 ($45.15 in chips) 
+rainbow_J: posts small blind $0.10
+ullr49: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 4d]
+DBLEE: folds 
+robbg58: folds 
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+Uncalled bet ($0.15) returned to ullr49
+ullr49 collected $0.20 from pot
+ullr49: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière (button) folded before Flop (didn't bet)
+Seat 4: rainbow_J (small blind) folded before Flop
+Seat 5: ullr49 (big blind) collected ($0.20)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953941325:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:34:17 (ET)
+Table 'Geographos' 9-max Seat #4 is the button
+Seat 1: stümironny ($3.25 in chips) 
+Seat 2: WiNtaWArLoK ($8.40 in chips) 
+Seat 3: Païtabière ($25 in chips) 
+Seat 4: rainbow_J ($30.85 in chips) 
+Seat 5: ullr49 ($15.10 in chips) 
+Seat 6: DBLEE ($14.70 in chips) 
+Seat 8: robbg58 ($20.70 in chips) 
+Seat 9: Alameda22 ($45.15 in chips) 
+ullr49: posts small blind $0.10
+DBLEE: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 8c]
+robbg58: folds 
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+ullr49: calls $0.15
+DBLEE: checks 
+*** FLOP *** [Js 9s Jh]
+ullr49: checks 
+DBLEE: checks 
+*** TURN *** [Js 9s Jh] [Ah]
+ullr49: bets $0.50
+DBLEE: folds 
+Uncalled bet ($0.50) returned to ullr49
+ullr49 collected $0.50 from pot
+ullr49: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Js 9s Jh Ah]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J (button) folded before Flop (didn't bet)
+Seat 5: ullr49 (small blind) collected ($0.50)
+Seat 6: DBLEE (big blind) folded on the Turn
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953971067:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:35:33 (ET)
+Table 'Geographos' 9-max Seat #5 is the button
+Seat 1: stümironny ($3.25 in chips) 
+Seat 2: WiNtaWArLoK ($8.40 in chips) 
+Seat 3: Païtabière ($25 in chips) 
+Seat 4: rainbow_J ($30.85 in chips) 
+Seat 5: ullr49 ($15.35 in chips) 
+Seat 6: DBLEE ($14.45 in chips) 
+Seat 8: robbg58 ($20.70 in chips) 
+Seat 9: Alameda22 ($45.15 in chips) 
+DBLEE: posts small blind $0.10
+robbg58: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh Ks]
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+ullr49: folds 
+DBLEE: calls $0.15
+robbg58: checks 
+*** FLOP *** [6d Th 9c]
+DBLEE: checks 
+robbg58: checks 
+*** TURN *** [6d Th 9c] [4d]
+DBLEE: checks 
+robbg58: checks 
+*** RIVER *** [6d Th 9c 4d] [Ac]
+DBLEE: checks 
+e@pop77 joins the table at seat #7 
+robbg58: checks 
+*** SHOW DOWN ***
+DBLEE: shows [5s 8s] (high card Ace)
+robbg58: shows [Kc 7c] (high card Ace - King kicker)
+robbg58 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [6d Th 9c 4d Ac]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: ullr49 (button) folded before Flop (didn't bet)
+Seat 6: DBLEE (small blind) showed [5s 8s] and lost with high card Ace
+Seat 8: robbg58 (big blind) showed [Kc 7c] and won ($0.50) with high card Ace
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953994999:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:36:33 (ET)
+Table 'Geographos' 9-max Seat #6 is the button
+Seat 1: stümironny ($3.25 in chips) 
+Seat 2: WiNtaWArLoK ($8.40 in chips) 
+Seat 3: Païtabière ($25 in chips) 
+Seat 4: rainbow_J ($30.85 in chips) 
+Seat 5: ullr49 ($15.35 in chips) 
+Seat 6: DBLEE ($14.20 in chips) 
+Seat 8: robbg58 ($20.95 in chips) 
+Seat 9: Alameda22 ($45.15 in chips) 
+e@pop77 will be allowed to play after the button
+robbg58: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 4d]
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: raises $0.75 to $1
+ullr49: folds 
+DBLEE: folds 
+robbg58: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to rainbow_J
+rainbow_J collected $0.60 from pot
+rainbow_J: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J collected ($0.60)
+Seat 5: ullr49 folded before Flop (didn't bet)
+Seat 6: DBLEE (button) folded before Flop (didn't bet)
+Seat 8: robbg58 (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded before Flop
+
+
+
+PokerStars Game #19954007768:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:37:06 (ET)
+Table 'Geographos' 9-max Seat #8 is the button
+Seat 1: stümironny ($3.25 in chips) 
+Seat 2: WiNtaWArLoK ($8.40 in chips) 
+Seat 3: Païtabière ($25 in chips) 
+Seat 4: rainbow_J ($31.20 in chips) 
+Seat 5: ullr49 ($15.35 in chips) 
+Seat 6: DBLEE ($14.20 in chips) 
+Seat 7: e@pop77 ($15 in chips) 
+Seat 8: robbg58 ($20.85 in chips) 
+Seat 9: Alameda22 ($44.90 in chips) 
+Alameda22: posts small blind $0.10
+stümironny: posts big blind $0.25
+e@pop77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 8d]
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+ullr49: folds 
+DBLEE: raises $1 to $1.25
+e@pop77: folds 
+robbg58: folds 
+Alameda22: folds 
+stümironny: folds 
+Uncalled bet ($1) returned to DBLEE
+DBLEE collected $0.85 from pot
+DBLEE: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: stümironny (big blind) folded before Flop
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: ullr49 folded before Flop (didn't bet)
+Seat 6: DBLEE collected ($0.85)
+Seat 7: e@pop77 folded before Flop
+Seat 8: robbg58 (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19954024702:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:37:49 (ET)
+Table 'Geographos' 9-max Seat #9 is the button
+Seat 1: stümironny ($3 in chips) 
+Seat 2: WiNtaWArLoK ($8.40 in chips) 
+Seat 3: Païtabière ($25 in chips) 
+Seat 4: rainbow_J ($31.20 in chips) 
+Seat 5: ullr49 ($15.35 in chips) 
+Seat 6: DBLEE ($14.80 in chips) 
+Seat 7: e@pop77 ($14.75 in chips) 
+Seat 8: robbg58 ($20.85 in chips) 
+Seat 9: Alameda22 ($44.80 in chips) 
+stümironny: posts small blind $0.10
+WiNtaWArLoK: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c Qh]
+Païtabière: folds 
+rainbow_J: calls $0.25
+ullr49: folds 
+DBLEE: folds 
+e@pop77: folds 
+robbg58: folds 
+Alameda22: folds 
+stümironny: calls $0.15
+WiNtaWArLoK: checks 
+*** FLOP *** [Jc 5c 8s]
+stümironny: checks 
+WiNtaWArLoK: checks 
+rainbow_J: checks 
+*** TURN *** [Jc 5c 8s] [Ad]
+stümironny: checks 
+WiNtaWArLoK: checks 
+rainbow_J: checks 
+*** RIVER *** [Jc 5c 8s Ad] [5s]
+stümironny: checks 
+WiNtaWArLoK: checks 
+rainbow_J: checks 
+*** SHOW DOWN ***
+stümironny: shows [6d Th] (a pair of Fives)
+WiNtaWArLoK: mucks hand 
+rainbow_J: shows [4s 4c] (two pair, Fives and Fours)
+rainbow_J collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Jc 5c 8s Ad 5s]
+Seat 1: stümironny (small blind) showed [6d Th] and lost with a pair of Fives
+Seat 2: WiNtaWArLoK (big blind) mucked [9c 2s]
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J showed [4s 4c] and won ($0.75) with two pair, Fives and Fours
+Seat 5: ullr49 folded before Flop (didn't bet)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 7: e@pop77 folded before Flop (didn't bet)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954080259:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:40:11 (ET)
+Table 'Geographos' 9-max Seat #1 is the button
+Seat 1: stümironny ($2.75 in chips) 
+Seat 2: WiNtaWArLoK ($8.15 in chips) 
+Seat 3: Païtabière ($25 in chips) 
+Seat 4: rainbow_J ($31.70 in chips) 
+Seat 5: ullr49 ($15.35 in chips) 
+Seat 6: DBLEE ($14.80 in chips) 
+Seat 7: e@pop77 ($14.75 in chips) 
+Seat 8: robbg58 ($20.85 in chips) 
+Seat 9: Alameda22 ($44.80 in chips) 
+WiNtaWArLoK: posts small blind $0.10
+Païtabière: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 9h]
+rainbow_J: folds 
+ullr49: folds 
+DBLEE: folds 
+e@pop77: folds 
+robbg58: folds 
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Uncalled bet ($0.15) returned to Païtabière
+Païtabière collected $0.20 from pot
+Païtabière: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: stümironny (button) folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK (small blind) folded before Flop
+Seat 3: Païtabière (big blind) collected ($0.20)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: ullr49 folded before Flop (didn't bet)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 7: e@pop77 folded before Flop (didn't bet)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954095834:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:40:52 (ET)
+Table 'Geographos' 9-max Seat #2 is the button
+Seat 1: stümironny ($2.75 in chips) 
+Seat 2: WiNtaWArLoK ($8.05 in chips) 
+Seat 3: Païtabière ($25.10 in chips) 
+Seat 4: rainbow_J ($31.70 in chips) 
+Seat 5: ullr49 ($15.35 in chips) 
+Seat 6: DBLEE ($14.80 in chips) 
+Seat 7: e@pop77 ($14.75 in chips) 
+Seat 8: robbg58 ($20.85 in chips) 
+Seat 9: Alameda22 ($44.80 in chips) 
+Païtabière: posts small blind $0.10
+rainbow_J: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Tc]
+ullr49: folds 
+DBLEE: folds 
+e@pop77: folds 
+robbg58: folds 
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: raises $0.50 to $0.75
+rainbow_J: folds 
+Uncalled bet ($0.50) returned to Païtabière
+Païtabière collected $0.50 from pot
+Païtabière: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK (button) folded before Flop (didn't bet)
+Seat 3: Païtabière (small blind) collected ($0.50)
+Seat 4: rainbow_J (big blind) folded before Flop
+Seat 5: ullr49 folded before Flop (didn't bet)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 7: e@pop77 folded before Flop (didn't bet)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954109764:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:41:29 (ET)
+Table 'Geographos' 9-max Seat #3 is the button
+Seat 1: stümironny ($2.75 in chips) 
+Seat 2: WiNtaWArLoK ($8.05 in chips) 
+Seat 3: Païtabière ($25.35 in chips) 
+Seat 4: rainbow_J ($31.45 in chips) 
+Seat 5: ullr49 ($15.35 in chips) 
+Seat 6: DBLEE ($14.80 in chips) 
+Seat 7: e@pop77 ($14.75 in chips) 
+Seat 8: robbg58 ($20.85 in chips) 
+Seat 9: Alameda22 ($44.80 in chips) 
+rainbow_J: posts small blind $0.10
+ullr49: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 3h]
+DBLEE: calls $0.25
+e@pop77: folds 
+robbg58: folds 
+Alameda22: folds 
+stümironny: calls $0.25
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+ullr49: checks 
+*** FLOP *** [4d 9d 5s]
+ullr49: checks 
+DBLEE: checks 
+stümironny: bets $0.25
+ullr49: folds 
+DBLEE: folds 
+Uncalled bet ($0.25) returned to stümironny
+stümironny collected $0.85 from pot
+stümironny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [4d 9d 5s]
+Seat 1: stümironny collected ($0.85)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière (button) folded before Flop (didn't bet)
+Seat 4: rainbow_J (small blind) folded before Flop
+Seat 5: ullr49 (big blind) folded on the Flop
+Seat 6: DBLEE folded on the Flop
+Seat 7: e@pop77 folded before Flop (didn't bet)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954135095:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:42:35 (ET)
+Table 'Geographos' 9-max Seat #4 is the button
+Seat 1: stümironny ($3.35 in chips) 
+Seat 2: WiNtaWArLoK ($8.05 in chips) 
+Seat 3: Païtabière ($25.35 in chips) 
+Seat 4: rainbow_J ($31.35 in chips) 
+Seat 5: ullr49 ($15.10 in chips) 
+Seat 6: DBLEE ($14.55 in chips) 
+Seat 7: e@pop77 ($14.75 in chips) 
+Seat 8: robbg58 ($20.85 in chips) 
+Seat 9: Alameda22 ($44.80 in chips) 
+ullr49: posts small blind $0.10
+DBLEE: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 3c]
+e@pop77: folds 
+robbg58: folds 
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+ullr49: calls $0.15
+DBLEE: checks 
+*** FLOP *** [8d 5c 6s]
+ullr49: checks 
+DBLEE: checks 
+*** TURN *** [8d 5c 6s] [Kc]
+ullr49: checks 
+DBLEE: checks 
+*** RIVER *** [8d 5c 6s Kc] [3d]
+ullr49: bets $0.50
+DBLEE: folds 
+Uncalled bet ($0.50) returned to ullr49
+ullr49 collected $0.50 from pot
+ullr49: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [8d 5c 6s Kc 3d]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J (button) folded before Flop (didn't bet)
+Seat 5: ullr49 (small blind) collected ($0.50)
+Seat 6: DBLEE (big blind) folded on the River
+Seat 7: e@pop77 folded before Flop (didn't bet)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954161954:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:43:46 (ET)
+Table 'Geographos' 9-max Seat #5 is the button
+Seat 1: stümironny ($3.35 in chips) 
+Seat 2: WiNtaWArLoK ($8.05 in chips) 
+Seat 3: Païtabière ($25.35 in chips) 
+Seat 4: rainbow_J ($31.35 in chips) 
+Seat 5: ullr49 ($15.35 in chips) 
+Seat 6: DBLEE ($14.30 in chips) 
+Seat 7: e@pop77 ($14.75 in chips) 
+Seat 8: robbg58 ($20.85 in chips) 
+Seat 9: Alameda22 ($44.80 in chips) 
+DBLEE: posts small blind $0.10
+e@pop77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 4c]
+robbg58: folds 
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+Païtabière: folds 
+rainbow_J: folds 
+ullr49: raises $0.50 to $0.75
+DBLEE: calls $0.65
+e@pop77: folds 
+*** FLOP *** [Qc 2c 9h]
+DBLEE: checks 
+ullr49: bets $1
+DBLEE: calls $1
+*** TURN *** [Qc 2c 9h] [3d]
+DBLEE: checks 
+ullr49: bets $1
+DBLEE: calls $1
+*** RIVER *** [Qc 2c 9h 3d] [8c]
+DBLEE: checks 
+ullr49: checks 
+*** SHOW DOWN ***
+DBLEE: shows [As 9s] (a pair of Nines)
+ullr49: mucks hand 
+DBLEE collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.25 
+Board [Qc 2c 9h 3d 8c]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: ullr49 (button) mucked [5h 5c]
+Seat 6: DBLEE (small blind) showed [As 9s] and won ($5.50) with a pair of Nines
+Seat 7: e@pop77 (big blind) folded before Flop
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954183039:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:44:41 (ET)
+Table 'Geographos' 9-max Seat #6 is the button
+Seat 1: stümironny ($3.35 in chips) 
+Seat 2: WiNtaWArLoK ($8.05 in chips) 
+Seat 3: Païtabière ($25.35 in chips) 
+Seat 4: rainbow_J ($31.35 in chips) 
+Seat 5: ullr49 ($12.60 in chips) 
+Seat 6: DBLEE ($17.05 in chips) 
+Seat 7: e@pop77 ($14.50 in chips) 
+Seat 8: robbg58 ($20.85 in chips) 
+Seat 9: Alameda22 ($44.80 in chips) 
+e@pop77: posts small blind $0.10
+robbg58: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 5h]
+Alameda22: folds 
+stümironny: folds 
+WiNtaWArLoK: folds 
+WiNtaWArLoK leaves the table
+Païtabière: folds 
+Kojikabuto joins the table at seat #2 
+rainbow_J: folds 
+ullr49: folds 
+DBLEE: folds 
+e@pop77: calls $0.15
+robbg58: checks 
+*** FLOP *** [8h 8s 3h]
+e@pop77: checks 
+robbg58: bets $0.50
+e@pop77: calls $0.50
+*** TURN *** [8h 8s 3h] [Ad]
+e@pop77: bets $1
+robbg58: folds 
+Uncalled bet ($1) returned to e@pop77
+e@pop77 collected $1.45 from pot
+e@pop77: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [8h 8s 3h Ad]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: WiNtaWArLoK folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: ullr49 folded before Flop (didn't bet)
+Seat 6: DBLEE (button) folded before Flop (didn't bet)
+Seat 7: e@pop77 (small blind) collected ($1.45)
+Seat 8: robbg58 (big blind) folded on the Turn
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954212021:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:45:58 (ET)
+Table 'Geographos' 9-max Seat #7 is the button
+Seat 1: stümironny ($3.35 in chips) 
+Seat 2: Kojikabuto ($10 in chips) 
+Seat 3: Païtabière ($25.35 in chips) 
+Seat 4: rainbow_J ($31.35 in chips) 
+Seat 5: ullr49 ($12.60 in chips) 
+Seat 6: DBLEE ($17.05 in chips) 
+Seat 7: e@pop77 ($15.20 in chips) 
+Seat 8: robbg58 ($20.10 in chips) 
+Seat 9: Alameda22 ($44.80 in chips) 
+robbg58: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Kojikabuto: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Th]
+stümironny: folds 
+Kojikabuto: checks 
+Païtabière: folds 
+rainbow_J: folds 
+rainbow_J is sitting out
+ullr49: folds 
+DBLEE: folds 
+e@pop77: folds 
+robbg58: folds 
+e@pop77 is sitting out
+Alameda22: checks 
+*** FLOP *** [Qh 3s 9c]
+Alameda22: checks 
+Kojikabuto: bets $0.25
+Alameda22: folds 
+Uncalled bet ($0.25) returned to Kojikabuto
+Kojikabuto collected $0.60 from pot
+Kojikabuto: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qh 3s 9c]
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: Kojikabuto collected ($0.60)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J folded before Flop (didn't bet)
+Seat 5: ullr49 folded before Flop (didn't bet)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 7: e@pop77 (button) folded before Flop (didn't bet)
+Seat 8: robbg58 (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19954231196:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:46:49 (ET)
+Table 'Geographos' 9-max Seat #8 is the button
+Seat 1: stümironny ($3.35 in chips) 
+Seat 2: Kojikabuto ($10.35 in chips) 
+Seat 3: Païtabière ($25.35 in chips) 
+Seat 5: ullr49 ($12.60 in chips) 
+Seat 6: DBLEE ($17.05 in chips) 
+Seat 8: robbg58 ($20 in chips) 
+Seat 9: Alameda22 ($44.55 in chips) 
+Alameda22: posts small blind $0.10
+stümironny: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 6d]
+Kojikabuto: folds 
+Païtabière: folds 
+ullr49: folds 
+DBLEE: folds 
+robbg58: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to stümironny
+stümironny collected $0.20 from pot
+stümironny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: stümironny (big blind) collected ($0.20)
+Seat 2: Kojikabuto folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 5: ullr49 folded before Flop (didn't bet)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 8: robbg58 (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19954239974:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:47:13 (ET)
+Table 'Geographos' 9-max Seat #9 is the button
+Seat 1: stümironny ($3.45 in chips) 
+Seat 2: Kojikabuto ($10.35 in chips) 
+Seat 3: Païtabière ($25.35 in chips) 
+Seat 5: ullr49 ($12.60 in chips) 
+Seat 6: DBLEE ($17.05 in chips) 
+Seat 8: robbg58 ($20 in chips) 
+Seat 9: Alameda22 ($44.45 in chips) 
+stümironny: posts small blind $0.10
+Kojikabuto: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Ah]
+Païtabière: folds 
+ullr49: folds 
+DBLEE: raises $0.75 to $1
+robbg58: folds 
+e@pop77 has returned
+Alameda22: calls $1
+stümironny: folds 
+Kojikabuto: folds 
+*** FLOP *** [5c 9c 4h]
+DBLEE: bets $1.25
+Alameda22: folds 
+Uncalled bet ($1.25) returned to DBLEE
+DBLEE collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [5c 9c 4h]
+Seat 1: stümironny (small blind) folded before Flop
+Seat 2: Kojikabuto (big blind) folded before Flop
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 5: ullr49 folded before Flop (didn't bet)
+Seat 6: DBLEE collected ($2.25)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded on the Flop
+
+
+
+PokerStars Game #19954261687:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:48:13 (ET)
+Table 'Geographos' 9-max Seat #1 is the button
+Seat 1: stümironny ($3.35 in chips) 
+Seat 2: Kojikabuto ($10.10 in chips) 
+Seat 3: Païtabière ($25.35 in chips) 
+Seat 5: ullr49 ($12.60 in chips) 
+Seat 6: DBLEE ($18.30 in chips) 
+Seat 7: e@pop77 ($15.20 in chips) 
+Seat 8: robbg58 ($20 in chips) 
+Seat 9: Alameda22 ($43.45 in chips) 
+Kojikabuto: posts small blind $0.10
+Païtabière: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 6h]
+ullr49: folds 
+DBLEE: folds 
+e@pop77: folds 
+robbg58: folds 
+Alameda22: folds 
+stümironny: folds 
+Kojikabuto: folds 
+Uncalled bet ($0.15) returned to Païtabière
+Païtabière collected $0.20 from pot
+Païtabière: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: stümironny (button) folded before Flop (didn't bet)
+Seat 2: Kojikabuto (small blind) folded before Flop
+Seat 3: Païtabière (big blind) collected ($0.20)
+Seat 5: ullr49 folded before Flop (didn't bet)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 7: e@pop77 folded before Flop (didn't bet)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954271212:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:48:39 (ET)
+Table 'Geographos' 9-max Seat #2 is the button
+Seat 1: stümironny ($3.35 in chips) 
+Seat 2: Kojikabuto ($10 in chips) 
+Seat 3: Païtabière ($25.45 in chips) 
+Seat 5: ullr49 ($12.60 in chips) 
+Seat 6: DBLEE ($18.30 in chips) 
+Seat 7: e@pop77 ($15.20 in chips) 
+Seat 8: robbg58 ($20 in chips) 
+Seat 9: Alameda22 ($43.45 in chips) 
+Païtabière: posts small blind $0.10
+ullr49: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Ad]
+DBLEE: folds 
+e@pop77: folds 
+robbg58: folds 
+Alameda22: raises $0.50 to $0.75
+stümironny: folds 
+Kojikabuto: folds 
+Païtabière: folds 
+ullr49: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: stümironny folded before Flop (didn't bet)
+Seat 2: Kojikabuto (button) folded before Flop (didn't bet)
+Seat 3: Païtabière (small blind) folded before Flop
+Seat 5: ullr49 (big blind) folded before Flop
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 7: e@pop77 folded before Flop (didn't bet)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 collected ($0.60)
+
+
+
+PokerStars Game #19954294798:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:49:44 (ET)
+Table 'Geographos' 9-max Seat #3 is the button
+Seat 1: stümironny ($3.35 in chips) 
+Seat 2: Kojikabuto ($10 in chips) 
+Seat 3: Païtabière ($25.35 in chips) 
+Seat 5: ullr49 ($12.35 in chips) 
+Seat 6: DBLEE ($18.30 in chips) 
+Seat 7: e@pop77 ($15.20 in chips) 
+Seat 8: robbg58 ($20 in chips) 
+Seat 9: Alameda22 ($43.80 in chips) 
+ullr49: posts small blind $0.10
+DBLEE: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 7h]
+e@pop77: folds 
+robbg58: raises $0.50 to $0.75
+Alameda22: folds 
+stümironny: calls $0.75
+Kojikabuto: folds 
+Païtabière: calls $0.75
+ullr49: folds 
+DBLEE: folds 
+*** FLOP *** [8h Ad 3d]
+robbg58: bets $1.25
+stümironny: raises $1.25 to $2.50
+Païtabière: folds 
+robbg58: calls $1.25
+*** TURN *** [8h Ad 3d] [6d]
+robbg58: bets $2
+stümironny: calls $0.10 and is all-in
+Uncalled bet ($1.90) returned to robbg58
+*** RIVER *** [8h Ad 3d 6d] [8s]
+*** SHOW DOWN ***
+robbg58: shows [Ac Jc] (two pair, Aces and Eights)
+stümironny: mucks hand 
+robbg58 collected $7.45 from pot
+*** SUMMARY ***
+Total pot $7.80 | Rake $0.35 
+Board [8h Ad 3d 6d 8s]
+Seat 1: stümironny mucked [Js Jd]
+Seat 2: Kojikabuto folded before Flop (didn't bet)
+Seat 3: Païtabière (button) folded on the Flop
+Seat 5: ullr49 (small blind) folded before Flop
+Seat 6: DBLEE (big blind) folded before Flop
+Seat 7: e@pop77 folded before Flop (didn't bet)
+Seat 8: robbg58 showed [Ac Jc] and won ($7.45) with two pair, Aces and Eights
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954324095:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:51:06 (ET)
+Table 'Geographos' 9-max Seat #5 is the button
+Seat 2: Kojikabuto ($10 in chips) 
+Seat 3: Païtabière ($24.60 in chips) 
+Seat 5: ullr49 ($12.25 in chips) 
+Seat 6: DBLEE ($18.05 in chips) 
+Seat 7: e@pop77 ($15.20 in chips) 
+Seat 8: robbg58 ($24.10 in chips) 
+Seat 9: Alameda22 ($43.80 in chips) 
+DBLEE: posts small blind $0.10
+e@pop77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd As]
+stümironny leaves the table
+robbg58: folds 
+Alameda22: folds 
+Kojikabuto: folds 
+Païtabière: folds 
+ullr49: folds 
+DBLEE: folds 
+Uncalled bet ($0.15) returned to e@pop77
+e@pop77 collected $0.20 from pot
+e@pop77: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Kojikabuto folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 5: ullr49 (button) folded before Flop (didn't bet)
+Seat 6: DBLEE (small blind) folded before Flop
+Seat 7: e@pop77 (big blind) collected ($0.20)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954335955:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:51:39 (ET)
+Table 'Geographos' 9-max Seat #6 is the button
+Seat 2: Kojikabuto ($10 in chips) 
+Seat 3: Païtabière ($24.60 in chips) 
+Seat 5: ullr49 ($12.25 in chips) 
+Seat 6: DBLEE ($17.95 in chips) 
+Seat 7: e@pop77 ($15.30 in chips) 
+Seat 8: robbg58 ($24.10 in chips) 
+Seat 9: Alameda22 ($43.80 in chips) 
+e@pop77: posts small blind $0.10
+robbg58: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Jh]
+Alameda22: folds 
+rainbow_J has returned
+Kojikabuto: folds 
+Païtabière: folds 
+ullr49: folds 
+DBLEE: folds 
+e@pop77: calls $0.15
+robbg58: checks 
+*** FLOP *** [Ah Qs 4d]
+e@pop77: checks 
+robbg58: checks 
+*** TURN *** [Ah Qs 4d] [9d]
+e@pop77: checks 
+robbg58: checks 
+*** RIVER *** [Ah Qs 4d 9d] [2s]
+e@pop77: bets $0.25
+JE Electric joins the table at seat #1 
+robbg58: folds 
+Uncalled bet ($0.25) returned to e@pop77
+e@pop77 collected $0.50 from pot
+e@pop77: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Ah Qs 4d 9d 2s]
+Seat 2: Kojikabuto folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 5: ullr49 folded before Flop (didn't bet)
+Seat 6: DBLEE (button) folded before Flop (didn't bet)
+Seat 7: e@pop77 (small blind) collected ($0.50)
+Seat 8: robbg58 (big blind) folded on the River
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954360727:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:52:48 (ET)
+Table 'Geographos' 9-max Seat #7 is the button
+Seat 2: Kojikabuto ($10 in chips) 
+Seat 3: Païtabière ($24.60 in chips) 
+Seat 4: rainbow_J ($31.35 in chips) 
+Seat 5: ullr49 ($12.25 in chips) 
+Seat 6: DBLEE ($17.95 in chips) 
+Seat 7: e@pop77 ($15.55 in chips) 
+Seat 8: robbg58 ($23.85 in chips) 
+Seat 9: Alameda22 ($43.80 in chips) 
+robbg58: posts small blind $0.10
+Alameda22: posts big blind $0.25
+JE Electric: sits out 
+rainbow_J: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 3c]
+Kojikabuto: folds 
+Païtabière: folds 
+rainbow_J: checks 
+ullr49: folds 
+DBLEE: folds 
+e@pop77: folds 
+robbg58: calls $0.15
+Alameda22: checks 
+*** FLOP *** [5h 8d Ts]
+robbg58: checks 
+Alameda22: checks 
+rainbow_J: checks 
+*** TURN *** [5h 8d Ts] [6s]
+robbg58: checks 
+Alameda22: checks 
+rainbow_J: checks 
+*** RIVER *** [5h 8d Ts 6s] [9d]
+robbg58: bets $0.75
+Alameda22: folds 
+rainbow_J: calls $0.75
+*** SHOW DOWN ***
+robbg58: shows [7d Js] (a straight, Seven to Jack)
+rainbow_J: mucks hand 
+robbg58 collected $2.25 from pot
+rainbow_J is sitting out
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [5h 8d Ts 6s 9d]
+Seat 2: Kojikabuto folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 4: rainbow_J mucked [7c 3s]
+Seat 5: ullr49 folded before Flop (didn't bet)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 7: e@pop77 (button) folded before Flop (didn't bet)
+Seat 8: robbg58 (small blind) showed [7d Js] and won ($2.25) with a straight, Seven to Jack
+Seat 9: Alameda22 (big blind) folded on the River
+
+
+
+PokerStars Game #19954402054:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:54:45 (ET)
+Table 'Geographos' 9-max Seat #8 is the button
+Seat 1: JE Electric ($25 in chips) 
+Seat 2: Kojikabuto ($10 in chips) 
+Seat 3: Païtabière ($24.60 in chips) 
+Seat 5: ullr49 ($12.25 in chips) 
+Seat 6: DBLEE ($17.95 in chips) 
+Seat 7: e@pop77 ($15.55 in chips) 
+Seat 8: robbg58 ($25.10 in chips) 
+Seat 9: Alameda22 ($43.55 in chips) 
+Alameda22: posts small blind $0.10
+JE Electric: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Qd]
+Kojikabuto: folds 
+Païtabière: folds 
+ullr49: folds 
+DBLEE: folds 
+e@pop77: folds 
+robbg58: folds 
+Alameda22: raises $0.50 to $0.75
+JE Electric: calls $0.50
+*** FLOP *** [Ac 7d Th]
+Alameda22: bets $1
+JE Electric: calls $1
+*** TURN *** [Ac 7d Th] [Jc]
+Alameda22: checks 
+JE Electric: checks 
+*** RIVER *** [Ac 7d Th Jc] [Js]
+Alameda22: checks 
+JE Electric: bets $2
+Alameda22: calls $2
+*** SHOW DOWN ***
+JE Electric: shows [Td 2d] (two pair, Jacks and Tens)
+Alameda22: shows [Qh Qd] (two pair, Queens and Jacks)
+Alameda22 collected $7.15 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.35 
+Board [Ac 7d Th Jc Js]
+Seat 1: JE Electric (big blind) showed [Td 2d] and lost with two pair, Jacks and Tens
+Seat 2: Kojikabuto folded before Flop (didn't bet)
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 5: ullr49 folded before Flop (didn't bet)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 7: e@pop77 folded before Flop (didn't bet)
+Seat 8: robbg58 (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) showed [Qh Qd] and won ($7.15) with two pair, Queens and Jacks
+
+
+
+PokerStars Game #19954439750:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:56:33 (ET)
+Table 'Geographos' 9-max Seat #9 is the button
+Seat 1: JE Electric ($21.25 in chips) 
+Seat 2: Kojikabuto ($10 in chips) 
+Seat 3: Païtabière ($24.60 in chips) 
+Seat 5: ullr49 ($12.25 in chips) 
+Seat 6: DBLEE ($17.95 in chips) 
+Seat 7: e@pop77 ($15.55 in chips) 
+Seat 8: robbg58 ($25.10 in chips) 
+Seat 9: Alameda22 ($46.95 in chips) 
+JE Electric: posts small blind $0.10
+Kojikabuto: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 5c]
+Païtabière: folds 
+ullr49: folds 
+rainbow_J has returned
+DBLEE: folds 
+e@pop77: folds 
+robbg58: folds 
+Alameda22: folds 
+JE Electric: calls $0.15
+Kojikabuto: checks 
+*** FLOP *** [3s 6s Ah]
+JE Electric: bets $0.50
+Kojikabuto: folds 
+Uncalled bet ($0.50) returned to JE Electric
+JE Electric collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [3s 6s Ah]
+Seat 1: JE Electric (small blind) collected ($0.50)
+Seat 2: Kojikabuto (big blind) folded on the Flop
+Seat 3: Païtabière folded before Flop (didn't bet)
+Seat 5: ullr49 folded before Flop (didn't bet)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 7: e@pop77 folded before Flop (didn't bet)
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954454121:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:57:14 (ET)
+Table 'Geographos' 9-max Seat #1 is the button
+Seat 1: JE Electric ($21.50 in chips) 
+Seat 2: Kojikabuto ($9.75 in chips) 
+Seat 3: Païtabière ($24.60 in chips) 
+Seat 4: rainbow_J ($30.25 in chips) 
+Seat 5: ullr49 ($12.25 in chips) 
+Seat 6: DBLEE ($17.95 in chips) 
+Seat 7: e@pop77 ($15.55 in chips) 
+Seat 8: robbg58 ($25.10 in chips) 
+Seat 9: Alameda22 ($46.95 in chips) 
+Kojikabuto: posts small blind $0.10
+Païtabière: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 5d]
+rainbow_J: calls $0.25
+ullr49: folds 
+DBLEE: folds 
+e@pop77: folds 
+robbg58: raises $0.25 to $0.50
+Alameda22: folds 
+JE Electric: calls $0.50
+Kojikabuto: folds 
+Païtabière: folds 
+rainbow_J: calls $0.25
+*** FLOP *** [Ac 2d 9d]
+rainbow_J: checks 
+robbg58: bets $1
+JE Electric: folds 
+rainbow_J: calls $1
+*** TURN *** [Ac 2d 9d] [8c]
+rainbow_J: checks 
+robbg58: bets $2.50
+rainbow_J: calls $2.50
+*** RIVER *** [Ac 2d 9d 8c] [7d]
+rainbow_J: checks 
+robbg58: bets $4
+rainbow_J: calls $4
+*** SHOW DOWN ***
+robbg58: shows [8h Ah] (two pair, Aces and Eights)
+rainbow_J: mucks hand 
+robbg58 collected $16.05 from pot
+*** SUMMARY ***
+Total pot $16.85 | Rake $0.80 
+Board [Ac 2d 9d 8c 7d]
+Seat 1: JE Electric (button) folded on the Flop
+Seat 2: Kojikabuto (small blind) folded before Flop
+Seat 3: Païtabière (big blind) folded before Flop
+Seat 4: rainbow_J mucked [Js As]
+Seat 5: ullr49 folded before Flop (didn't bet)
+Seat 6: DBLEE folded before Flop (didn't bet)
+Seat 7: e@pop77 folded before Flop (didn't bet)
+Seat 8: robbg58 showed [8h Ah] and won ($16.05) with two pair, Aces and Eights
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954484815:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:58:42 (ET)
+Table 'Geographos' 9-max Seat #2 is the button
+Seat 1: JE Electric ($21 in chips) 
+Seat 2: Kojikabuto ($9.65 in chips) 
+Seat 3: Païtabière ($24.35 in chips) 
+Seat 4: rainbow_J ($22.25 in chips) 
+Seat 5: ullr49 ($12.25 in chips) 
+Seat 6: DBLEE ($17.95 in chips) 
+Seat 7: e@pop77 ($15.55 in chips) 
+Seat 8: robbg58 ($33.15 in chips) 
+Seat 9: Alameda22 ($46.95 in chips) 
+Païtabière: posts small blind $0.10
+rainbow_J: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 2c]
+ullr49: folds 
+DBLEE: calls $0.25
+e@pop77: calls $0.25
+robbg58: folds 
+Alameda22: folds 
+JE Electric: folds 
+Kojikabuto: folds 
+Païtabière: folds 
+rainbow_J: checks 
+*** FLOP *** [3d Kd Jd]
+rainbow_J: checks 
+DBLEE: checks 
+e@pop77: checks 
+*** TURN *** [3d Kd Jd] [Td]
+rainbow_J: checks 
+DBLEE: checks 
+e@pop77: checks 
+*** RIVER *** [3d Kd Jd Td] [7h]
+rainbow_J: checks 
+DBLEE: checks 
+e@pop77: checks 
+*** SHOW DOWN ***
+rainbow_J: shows [6h Ac] (high card Ace)
+DBLEE: shows [Js Ts] (two pair, Jacks and Tens)
+e@pop77: mucks hand 
+DBLEE collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [3d Kd Jd Td 7h]
+Seat 1: JE Electric folded before Flop (didn't bet)
+Seat 2: Kojikabuto (button) folded before Flop (didn't bet)
+Seat 3: Païtabière (small blind) folded before Flop
+Seat 4: rainbow_J (big blind) showed [6h Ac] and lost with high card Ace
+Seat 5: ullr49 folded before Flop (didn't bet)
+Seat 6: DBLEE showed [Js Ts] and won ($0.85) with two pair, Jacks and Tens
+Seat 7: e@pop77 mucked [8h 8s]
+Seat 8: robbg58 folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,4583 @@
+PokerStars Game #19969894182:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:24:56 (ET)
+Table 'Artek' 9-max Seat #4 is the button
+Seat 2: harderone ($14.40 in chips) 
+Seat 3: Ammaron ($11.25 in chips) 
+Seat 4: chessmanA1 ($23.90 in chips) 
+Seat 5: Mightym0e ($16.35 in chips) 
+Seat 6: Alameda22 ($25 in chips) 
+Seat 7: ld788 ($24.50 in chips) 
+Seat 8: 928racer ($31.15 in chips) 
+Seat 9: stevegny2k7 ($10.90 in chips) 
+Mightym0e: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 4s]
+ld788: folds 
+928racer: folds 
+stevegny2k7: calls $0.25
+harderone: folds 
+Ammaron: raises $0.75 to $1
+chessmanA1: folds 
+Mightym0e: folds 
+Alameda22: folds 
+stevegny2k7: calls $0.75
+*** FLOP *** [3h 9c 4h]
+stevegny2k7: checks 
+Ammaron: bets $1.75
+stevegny2k7: calls $1.75
+*** TURN *** [3h 9c 4h] [5s]
+stevegny2k7: checks 
+Ammaron: bets $3
+stevegny2k7: raises $5.15 to $8.15 and is all-in
+Ammaron: folds 
+Uncalled bet ($5.15) returned to stevegny2k7
+stevegny2k7 collected $11.30 from pot
+*** SUMMARY ***
+Total pot $11.85 | Rake $0.55 
+Board [3h 9c 4h 5s]
+Seat 2: harderone folded before Flop (didn't bet)
+Seat 3: Ammaron folded on the Turn
+Seat 4: chessmanA1 (button) folded before Flop (didn't bet)
+Seat 5: Mightym0e (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: 928racer folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($11.30)
+
+
+
+PokerStars Game #19969945211:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:26:59 (ET)
+Table 'Artek' 9-max Seat #5 is the button
+Seat 2: harderone ($14.40 in chips) 
+Seat 3: Ammaron ($5.50 in chips) 
+Seat 4: chessmanA1 ($23.90 in chips) 
+Seat 5: Mightym0e ($16.25 in chips) 
+Seat 6: Alameda22 ($24.75 in chips) 
+Seat 7: ld788 ($24.50 in chips) 
+Seat 8: 928racer ($31.15 in chips) 
+Seat 9: stevegny2k7 ($16.45 in chips) 
+Alameda22: posts small blind $0.10
+ld788: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 4h]
+928racer: folds 
+928racer is sitting out
+stevegny2k7: folds 
+harderone: calls $0.25
+Ammaron: folds 
+chessmanA1: folds 
+Mightym0e: calls $0.25
+Alameda22: calls $0.15
+ld788: checks 
+*** FLOP *** [8s 3c 2d]
+Alameda22: checks 
+ld788: checks 
+harderone: checks 
+Mightym0e: checks 
+*** TURN *** [8s 3c 2d] [Ad]
+Alameda22: checks 
+ld788: checks 
+harderone: bets $1
+Mightym0e: calls $1
+Alameda22: folds 
+ld788: folds 
+*** RIVER *** [8s 3c 2d Ad] [7s]
+harderone: bets $3.50
+Mightym0e: raises $11.50 to $15 and is all-in
+harderone: folds 
+Uncalled bet ($11.50) returned to Mightym0e
+Mightym0e collected $9.55 from pot
+Mightym0e: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.45 
+Board [8s 3c 2d Ad 7s]
+Seat 2: harderone folded on the River
+Seat 3: Ammaron folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: Mightym0e (button) collected ($9.55)
+Seat 6: Alameda22 (small blind) folded on the Turn
+Seat 7: ld788 (big blind) folded on the Turn
+Seat 8: 928racer folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19969999444:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:29:09 (ET)
+Table 'Artek' 9-max Seat #6 is the button
+Seat 2: harderone ($9.65 in chips) 
+Seat 3: Ammaron ($5.50 in chips) 
+Seat 4: chessmanA1 ($23.90 in chips) 
+Seat 5: Mightym0e ($21.05 in chips) 
+Seat 6: Alameda22 ($24.50 in chips) 
+Seat 7: ld788 ($24.25 in chips) 
+Seat 9: stevegny2k7 ($16.45 in chips) 
+ld788: posts small blind $0.10
+stevegny2k7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 8h]
+harderone: folds 
+Ammaron: folds 
+chessmanA1: folds 
+Mightym0e: calls $0.25
+CheifNegro has returned
+Alameda22: folds 
+ld788: folds 
+stevegny2k7: checks 
+*** FLOP *** [4s Jh 2h]
+stevegny2k7: checks 
+Mightym0e: checks 
+*** TURN *** [4s Jh 2h] [9c]
+stevegny2k7: checks 
+Mightym0e: checks 
+*** RIVER *** [4s Jh 2h 9c] [4c]
+stevegny2k7: bets $1
+Mightym0e: folds 
+Uncalled bet ($1) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+stevegny2k7: shows [4d 4h] (four of a kind, Fours)
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4s Jh 2h 9c 4c]
+Seat 2: harderone folded before Flop (didn't bet)
+Seat 3: Ammaron folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: Mightym0e folded on the River
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: ld788 (small blind) folded before Flop
+Seat 9: stevegny2k7 (big blind) collected ($0.60)
+
+
+
+PokerStars Game #19970029813:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:30:22 (ET)
+Table 'Artek' 9-max Seat #7 is the button
+Seat 1: CheifNegro ($24.65 in chips) 
+Seat 2: harderone ($9.65 in chips) 
+Seat 3: Ammaron ($5.50 in chips) 
+Seat 4: chessmanA1 ($23.90 in chips) 
+Seat 5: Mightym0e ($20.80 in chips) 
+Seat 6: Alameda22 ($24.50 in chips) 
+Seat 7: ld788 ($24.15 in chips) 
+Seat 9: stevegny2k7 ($16.80 in chips) 
+stevegny2k7: posts small blind $0.10
+CheifNegro: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Kc]
+harderone: folds 
+Ammaron: folds 
+chessmanA1: folds 
+Mightym0e: calls $0.25
+Alameda22: folds 
+ld788: folds 
+stevegny2k7: folds 
+928racer leaves the table
+CheifNegro: checks 
+*** FLOP *** [Kd 7c 5d]
+rodjeur1982 joins the table at seat #8 
+CheifNegro: bets $0.50
+Mightym0e: raises $0.75 to $1.25
+CheifNegro: calls $0.75
+*** TURN *** [Kd 7c 5d] [Qd]
+CheifNegro: bets $2
+Mightym0e: calls $2
+*** RIVER *** [Kd 7c 5d Qd] [9c]
+CheifNegro: bets $6
+Mightym0e: folds 
+Uncalled bet ($6) returned to CheifNegro
+CheifNegro collected $6.80 from pot
+CheifNegro: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.10 | Rake $0.30 
+Board [Kd 7c 5d Qd 9c]
+Seat 1: CheifNegro (big blind) collected ($6.80)
+Seat 2: harderone folded before Flop (didn't bet)
+Seat 3: Ammaron folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: Mightym0e folded on the River
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 (button) folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (small blind) folded before Flop
+
+
+
+PokerStars Game #19970053800:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:31:19 (ET)
+Table 'Artek' 9-max Seat #9 is the button
+Seat 1: CheifNegro ($27.95 in chips) 
+Seat 2: harderone ($9.65 in chips) 
+Seat 3: Ammaron ($5.50 in chips) 
+Seat 4: chessmanA1 ($23.90 in chips) 
+Seat 5: Mightym0e ($17.30 in chips) 
+Seat 6: Alameda22 ($24.50 in chips) 
+Seat 7: ld788 ($24.15 in chips) 
+Seat 9: stevegny2k7 ($16.70 in chips) 
+CheifNegro: posts small blind $0.10
+harderone: posts big blind $0.25
+rodjeur1982: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 3h]
+Ammaron: folds 
+chessmanA1: folds 
+Mightym0e: folds 
+Mightym0e leaves the table
+Alameda22: folds 
+ld788: folds 
+baardaapke joins the table at seat #5 
+stevegny2k7: raises $0.75 to $1
+CheifNegro: folds 
+harderone: calls $0.75
+*** FLOP *** [Kc Ac 6h]
+harderone: checks 
+stevegny2k7: bets $1.25
+harderone: folds 
+Uncalled bet ($1.25) returned to stevegny2k7
+harderone is sitting out
+stevegny2k7 collected $2 from pot
+harderone leaves the table
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Kc Ac 6h]
+Seat 1: CheifNegro (small blind) folded before Flop
+Seat 2: harderone (big blind) folded on the Flop
+Seat 3: Ammaron folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: Mightym0e folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (button) collected ($2)
+
+
+
+PokerStars Game #19970076875:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:32:17 (ET)
+Table 'Artek' 9-max Seat #1 is the button
+Seat 1: CheifNegro ($27.85 in chips) 
+Seat 3: Ammaron ($5.50 in chips) 
+Seat 4: chessmanA1 ($23.90 in chips) 
+Seat 5: baardaapke ($13.40 in chips) 
+Seat 6: Alameda22 ($24.50 in chips) 
+Seat 7: ld788 ($24.15 in chips) 
+Seat 9: stevegny2k7 ($17.70 in chips) 
+Ammaron: posts small blind $0.10
+Aylindirk joins the table at seat #2 
+chessmanA1: posts big blind $0.25
+baardaapke: posts big blind $0.25
+rodjeur1982: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 6s]
+baardaapke: checks 
+Alameda22: folds 
+ld788: folds 
+stevegny2k7: folds 
+CheifNegro: folds 
+Ammaron: folds 
+chessmanA1: checks 
+*** FLOP *** [6c 2s 4s]
+chessmanA1: checks 
+baardaapke: bets $0.50
+chessmanA1: folds 
+Uncalled bet ($0.50) returned to baardaapke
+baardaapke collected $0.60 from pot
+baardaapke: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6c 2s 4s]
+Seat 1: CheifNegro (button) folded before Flop (didn't bet)
+Seat 3: Ammaron (small blind) folded before Flop
+Seat 4: chessmanA1 (big blind) folded on the Flop
+Seat 5: baardaapke collected ($0.60)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970109283:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:33:36 (ET)
+Table 'Artek' 9-max Seat #3 is the button
+Seat 1: CheifNegro ($27.85 in chips) 
+Seat 3: Ammaron ($5.40 in chips) 
+Seat 4: chessmanA1 ($23.65 in chips) 
+Seat 5: baardaapke ($13.75 in chips) 
+Seat 6: Alameda22 ($24.50 in chips) 
+Seat 7: ld788 ($24.15 in chips) 
+Seat 9: stevegny2k7 ($17.70 in chips) 
+chessmanA1: posts small blind $0.10
+baardaapke: posts big blind $0.25
+rodjeur1982: sits out 
+Aylindirk: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s As]
+Alameda22: folds 
+ld788: folds 
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+Ammaron: calls $0.25
+chessmanA1: folds 
+baardaapke: checks 
+*** FLOP *** [3c 9s 8s]
+baardaapke: checks 
+stevegny2k7: checks 
+Ammaron: bets $0.75
+baardaapke: folds 
+stevegny2k7: calls $0.75
+*** TURN *** [3c 9s 8s] [Ah]
+stevegny2k7: checks 
+Ammaron: checks 
+*** RIVER *** [3c 9s 8s Ah] [Ts]
+stevegny2k7: checks 
+Ammaron: checks 
+*** SHOW DOWN ***
+stevegny2k7: shows [3d 3s] (three of a kind, Threes)
+Ammaron: mucks hand 
+stevegny2k7 collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [3c 9s 8s Ah Ts]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 3: Ammaron (button) mucked [Td Js]
+Seat 4: chessmanA1 (small blind) folded before Flop
+Seat 5: baardaapke (big blind) folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 showed [3d 3s] and won ($2.25) with three of a kind, Threes
+
+
+
+PokerStars Game #19970145848:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:35:05 (ET)
+Table 'Artek' 9-max Seat #4 is the button
+Seat 1: CheifNegro ($27.85 in chips) 
+Seat 3: Ammaron ($4.40 in chips) 
+Seat 4: chessmanA1 ($23.55 in chips) 
+Seat 5: baardaapke ($13.50 in chips) 
+Seat 6: Alameda22 ($24.50 in chips) 
+Seat 7: ld788 ($24.15 in chips) 
+Seat 9: stevegny2k7 ($18.95 in chips) 
+baardaapke: posts small blind $0.10
+Alameda22: posts big blind $0.25
+rodjeur1982: sits out 
+Aylindirk: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 8h]
+ld788: folds 
+stevegny2k7: raises $0.75 to $1
+CheifNegro: folds 
+Ammaron: folds 
+chessmanA1: folds 
+baardaapke: calls $0.90
+Alameda22: folds 
+*** FLOP *** [9h 9c 4d]
+baardaapke: checks 
+stevegny2k7: bets $1.25
+baardaapke: folds 
+Uncalled bet ($1.25) returned to stevegny2k7
+stevegny2k7 collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [9h 9c 4d]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 3: Ammaron folded before Flop (didn't bet)
+Seat 4: chessmanA1 (button) folded before Flop (didn't bet)
+Seat 5: baardaapke (small blind) folded on the Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($2.15)
+
+
+
+PokerStars Game #19970169779:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:36:04 (ET)
+Table 'Artek' 9-max Seat #5 is the button
+Seat 1: CheifNegro ($27.85 in chips) 
+Seat 3: Ammaron ($4.40 in chips) 
+Seat 4: chessmanA1 ($23.55 in chips) 
+Seat 5: baardaapke ($12.50 in chips) 
+Seat 6: Alameda22 ($24.25 in chips) 
+Seat 7: ld788 ($24.15 in chips) 
+Seat 9: stevegny2k7 ($20.10 in chips) 
+Alameda22: posts small blind $0.10
+ld788: posts big blind $0.25
+rodjeur1982: sits out 
+Aylindirk: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Jd]
+stevegny2k7: folds 
+CheifNegro: folds 
+Ammaron: calls $0.25
+chessmanA1: folds 
+baardaapke: folds 
+Alameda22: folds 
+ld788: checks 
+*** FLOP *** [Kh 8s 2c]
+ld788: checks 
+Ammaron: bets $0.50
+ld788: folds 
+Uncalled bet ($0.50) returned to Ammaron
+Ammaron collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kh 8s 2c]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 3: Ammaron collected ($0.60)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: baardaapke (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: ld788 (big blind) folded on the Flop
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970192827:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:37:00 (ET)
+Table 'Artek' 9-max Seat #6 is the button
+Seat 1: CheifNegro ($27.85 in chips) 
+Seat 3: Ammaron ($4.75 in chips) 
+Seat 4: chessmanA1 ($23.55 in chips) 
+Seat 5: baardaapke ($12.50 in chips) 
+Seat 6: Alameda22 ($24.15 in chips) 
+Seat 7: ld788 ($25 in chips) 
+Seat 8: rodjeur1982 ($25 in chips) 
+Seat 9: stevegny2k7 ($20.10 in chips) 
+ld788: posts small blind $0.10
+rodjeur1982: posts big blind $0.25
+Aylindirk: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 6h]
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+Ammaron: folds 
+chessmanA1: folds 
+baardaapke: calls $0.25
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: checks 
+*** FLOP *** [3c 6d 9s]
+rodjeur1982: checks 
+stevegny2k7: checks 
+baardaapke: checks 
+*** TURN *** [3c 6d 9s] [Th]
+rodjeur1982: checks 
+stevegny2k7: checks 
+baardaapke: checks 
+*** RIVER *** [3c 6d 9s Th] [Jd]
+rodjeur1982: checks 
+stevegny2k7: bets $1
+baardaapke: folds 
+rodjeur1982: folds 
+Uncalled bet ($1) returned to stevegny2k7
+stevegny2k7 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [3c 6d 9s Th Jd]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 3: Ammaron folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: baardaapke folded on the River
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: ld788 (small blind) folded before Flop
+Seat 8: rodjeur1982 (big blind) folded on the River
+Seat 9: stevegny2k7 collected ($0.85)
+
+
+
+PokerStars Game #19970252852:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:39:25 (ET)
+Table 'Artek' 9-max Seat #7 is the button
+Seat 1: CheifNegro ($27.85 in chips) 
+Seat 3: Ammaron ($4.75 in chips) 
+Seat 4: chessmanA1 ($23.55 in chips) 
+Seat 5: baardaapke ($12.25 in chips) 
+Seat 6: Alameda22 ($24.15 in chips) 
+Seat 7: ld788 ($24.90 in chips) 
+Seat 8: rodjeur1982 ($24.75 in chips) 
+Seat 9: stevegny2k7 ($20.70 in chips) 
+rodjeur1982: posts small blind $0.10
+stevegny2k7: posts big blind $0.25
+Aylindirk: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 4d]
+CheifNegro: folds 
+Ammaron: folds 
+chessmanA1: folds 
+baardaapke: folds 
+Alameda22: calls $0.25
+ld788: folds 
+rodjeur1982: raises $1 to $1.25
+stevegny2k7: folds 
+Alameda22: calls $1
+*** FLOP *** [7h 5s Kc]
+rodjeur1982: bets $1.50
+Alameda22: folds 
+Uncalled bet ($1.50) returned to rodjeur1982
+rodjeur1982 collected $2.65 from pot
+rodjeur1982: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [7h 5s Kc]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 3: Ammaron folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: baardaapke folded before Flop (didn't bet)
+Seat 6: Alameda22 folded on the Flop
+Seat 7: ld788 (button) folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (small blind) collected ($2.65)
+Seat 9: stevegny2k7 (big blind) folded before Flop
+
+
+
+PokerStars Game #19970277793:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:40:25 (ET)
+Table 'Artek' 9-max Seat #8 is the button
+Seat 1: CheifNegro ($27.85 in chips) 
+Seat 3: Ammaron ($4.75 in chips) 
+Seat 4: chessmanA1 ($23.55 in chips) 
+Seat 5: baardaapke ($12.25 in chips) 
+Seat 6: Alameda22 ($22.90 in chips) 
+Seat 7: ld788 ($24.90 in chips) 
+Seat 8: rodjeur1982 ($26.15 in chips) 
+Seat 9: stevegny2k7 ($20.45 in chips) 
+stevegny2k7: posts small blind $0.10
+CheifNegro: posts big blind $0.25
+Aylindirk: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 2s]
+Ammaron: folds 
+chessmanA1: folds 
+baardaapke: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.15
+CheifNegro: checks 
+*** FLOP *** [Ah Jd 9c]
+stevegny2k7: checks 
+CheifNegro: bets $0.50
+stevegny2k7: folds 
+Uncalled bet ($0.50) returned to CheifNegro
+CheifNegro collected $0.50 from pot
+CheifNegro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Ah Jd 9c]
+Seat 1: CheifNegro (big blind) collected ($0.50)
+Seat 3: Ammaron folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: baardaapke folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (button) folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (small blind) folded on the Flop
+
+
+
+PokerStars Game #19970298688:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:41:15 (ET)
+Table 'Artek' 9-max Seat #9 is the button
+Seat 1: CheifNegro ($28.10 in chips) 
+Seat 2: Aylindirk ($5 in chips) 
+Seat 3: Ammaron ($4.75 in chips) 
+Seat 4: chessmanA1 ($23.55 in chips) 
+Seat 5: baardaapke ($12.25 in chips) 
+Seat 6: Alameda22 ($22.90 in chips) 
+Seat 7: ld788 ($24.90 in chips) 
+Seat 8: rodjeur1982 ($26.15 in chips) 
+Seat 9: stevegny2k7 ($20.20 in chips) 
+CheifNegro: posts small blind $0.10
+Aylindirk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 9s]
+Ammaron: folds 
+chessmanA1: folds 
+baardaapke: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: raises $0.75 to $1
+stevegny2k7: folds 
+CheifNegro: folds 
+Aylindirk: folds 
+Uncalled bet ($0.75) returned to rodjeur1982
+rodjeur1982 collected $0.60 from pot
+rodjeur1982: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro (small blind) folded before Flop
+Seat 2: Aylindirk (big blind) folded before Flop
+Seat 3: Ammaron folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: baardaapke folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 collected ($0.60)
+Seat 9: stevegny2k7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970313775:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:41:52 (ET)
+Table 'Artek' 9-max Seat #1 is the button
+Seat 1: CheifNegro ($28 in chips) 
+Seat 2: Aylindirk ($4.75 in chips) 
+Seat 3: Ammaron ($4.75 in chips) 
+Seat 4: chessmanA1 ($23.55 in chips) 
+Seat 5: baardaapke ($12.25 in chips) 
+Seat 6: Alameda22 ($22.90 in chips) 
+Seat 7: ld788 ($24.90 in chips) 
+Seat 8: rodjeur1982 ($26.50 in chips) 
+Seat 9: stevegny2k7 ($20.20 in chips) 
+Aylindirk: posts small blind $0.10
+Ammaron: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Qs]
+chessmanA1: folds 
+baardaapke: raises $0.50 to $0.75
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: folds 
+CheifNegro: folds 
+Aylindirk: folds 
+Ammaron: folds 
+Uncalled bet ($0.50) returned to baardaapke
+baardaapke collected $0.60 from pot
+baardaapke: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro (button) folded before Flop (didn't bet)
+Seat 2: Aylindirk (small blind) folded before Flop
+Seat 3: Ammaron (big blind) folded before Flop
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: baardaapke collected ($0.60)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970338153:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:42:50 (ET)
+Table 'Artek' 9-max Seat #2 is the button
+Seat 1: CheifNegro ($28 in chips) 
+Seat 2: Aylindirk ($4.65 in chips) 
+Seat 3: Ammaron ($4.50 in chips) 
+Seat 4: chessmanA1 ($23.55 in chips) 
+Seat 5: baardaapke ($12.60 in chips) 
+Seat 6: Alameda22 ($22.90 in chips) 
+Seat 7: ld788 ($24.90 in chips) 
+Seat 8: rodjeur1982 ($26.50 in chips) 
+Seat 9: stevegny2k7 ($20.20 in chips) 
+Ammaron: posts small blind $0.10
+chessmanA1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Jh]
+baardaapke: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+Aylindirk: folds 
+Ammaron: folds 
+chessmanA1: checks 
+*** FLOP *** [6h 9h 5s]
+chessmanA1: checks 
+stevegny2k7: checks 
+*** TURN *** [6h 9h 5s] [Kc]
+chessmanA1: checks 
+stevegny2k7: bets $1
+chessmanA1: folds 
+Uncalled bet ($1) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6h 9h 5s Kc]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk (button) folded before Flop (didn't bet)
+Seat 3: Ammaron (small blind) folded before Flop
+Seat 4: chessmanA1 (big blind) folded on the Turn
+Seat 5: baardaapke folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19970380489:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:44:32 (ET)
+Table 'Artek' 9-max Seat #3 is the button
+Seat 1: CheifNegro ($28 in chips) 
+Seat 2: Aylindirk ($4.65 in chips) 
+Seat 3: Ammaron ($4.40 in chips) 
+Seat 4: chessmanA1 ($23.30 in chips) 
+Seat 5: baardaapke ($12.60 in chips) 
+Seat 6: Alameda22 ($22.90 in chips) 
+Seat 7: ld788 ($24.90 in chips) 
+Seat 8: rodjeur1982 ($26.50 in chips) 
+Seat 9: stevegny2k7 ($20.55 in chips) 
+chessmanA1: posts small blind $0.10
+baardaapke: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Jd]
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+Aylindirk: folds 
+Ammaron: calls $0.25
+chessmanA1: folds 
+baardaapke: checks 
+*** FLOP *** [4h 7s Jc]
+baardaapke: checks 
+stevegny2k7: bets $0.75
+Ammaron: calls $0.75
+baardaapke: folds 
+*** TURN *** [4h 7s Jc] [4d]
+stevegny2k7: bets $0.25
+Ammaron: calls $0.25
+*** RIVER *** [4h 7s Jc 4d] [9s]
+stevegny2k7: bets $1
+Ammaron: folds 
+Uncalled bet ($1) returned to stevegny2k7
+stevegny2k7 collected $2.75 from pot
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [4h 7s Jc 4d 9s]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: Ammaron (button) folded on the River
+Seat 4: chessmanA1 (small blind) folded before Flop
+Seat 5: baardaapke (big blind) folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($2.75)
+
+
+
+PokerStars Game #19970406348:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:45:35 (ET)
+Table 'Artek' 9-max Seat #4 is the button
+Seat 1: CheifNegro ($28 in chips) 
+Seat 2: Aylindirk ($4.65 in chips) 
+Seat 3: Ammaron ($3.15 in chips) 
+Seat 4: chessmanA1 ($23.20 in chips) 
+Seat 5: baardaapke ($12.35 in chips) 
+Seat 6: Alameda22 ($22.90 in chips) 
+Seat 7: ld788 ($24.90 in chips) 
+Seat 8: rodjeur1982 ($26.50 in chips) 
+Seat 9: stevegny2k7 ($22.05 in chips) 
+baardaapke: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 6s]
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+Aylindirk: folds 
+Ammaron: folds 
+chessmanA1: folds 
+baardaapke: calls $0.15
+Alameda22: checks 
+*** FLOP *** [9s Js Qd]
+baardaapke: checks 
+Alameda22: bets $0.50
+stevegny2k7: calls $0.50
+baardaapke: calls $0.50
+*** TURN *** [9s Js Qd] [2s]
+baardaapke: checks 
+Alameda22: bets $1.50
+stevegny2k7: folds 
+baardaapke: raises $1.50 to $3
+Alameda22: raises $3.50 to $6.50
+baardaapke: calls $3.50
+*** RIVER *** [9s Js Qd 2s] [5c]
+baardaapke: checks 
+Alameda22: bets $6
+baardaapke: calls $5.10 and is all-in
+Uncalled bet ($0.90) returned to Alameda22
+*** SHOW DOWN ***
+Alameda22: shows [As 6s] (a flush, Ace high)
+baardaapke: mucks hand 
+Alameda22 collected $24.25 from pot
+*** SUMMARY ***
+Total pot $25.45 | Rake $1.20 
+Board [9s Js Qd 2s 5c]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: Ammaron folded before Flop (didn't bet)
+Seat 4: chessmanA1 (button) folded before Flop (didn't bet)
+Seat 5: baardaapke (small blind) mucked [Td Kd]
+Seat 6: Alameda22 (big blind) showed [As 6s] and won ($24.25) with a flush, Ace high
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded on the Turn
+
+
+
+PokerStars Game #19970454145:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:47:32 (ET)
+Table 'Artek' 9-max Seat #6 is the button
+Seat 1: CheifNegro ($28 in chips) 
+Seat 2: Aylindirk ($4.65 in chips) 
+Seat 3: Ammaron ($3.15 in chips) 
+Seat 4: chessmanA1 ($23.20 in chips) 
+Seat 6: Alameda22 ($34.80 in chips) 
+Seat 7: ld788 ($24.90 in chips) 
+Seat 8: rodjeur1982 ($26.50 in chips) 
+Seat 9: stevegny2k7 ($21.30 in chips) 
+baardaapke leaves the table
+ld788: posts small blind $0.10
+rodjeur1982: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 7s]
+stevegny2k7: raises $0.25 to $0.50
+CheifNegro: folds 
+Aylindirk: folds 
+Ammaron: folds 
+chessmanA1: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+Uncalled bet ($0.25) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: Ammaron folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: ld788 (small blind) folded before Flop
+Seat 8: rodjeur1982 (big blind) folded before Flop
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19970474789:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:48:22 (ET)
+Table 'Artek' 9-max Seat #7 is the button
+Seat 1: CheifNegro ($28 in chips) 
+Seat 2: Aylindirk ($4.65 in chips) 
+Seat 3: Ammaron ($3.15 in chips) 
+Seat 4: chessmanA1 ($23.20 in chips) 
+Seat 6: Alameda22 ($34.80 in chips) 
+Seat 7: ld788 ($24.80 in chips) 
+Seat 8: rodjeur1982 ($26.25 in chips) 
+Seat 9: stevegny2k7 ($21.65 in chips) 
+rodjeur1982: posts small blind $0.10
+stevegny2k7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 8c]
+CheifNegro: folds 
+Aylindirk: folds 
+Ammaron: folds 
+chessmanA1: folds 
+Alameda22: folds 
+Fokkus77 joins the table at seat #5 
+ld788: folds 
+rodjeur1982: folds 
+Uncalled bet ($0.15) returned to stevegny2k7
+stevegny2k7 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: Ammaron folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 (button) folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (small blind) folded before Flop
+Seat 9: stevegny2k7 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19970498627:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:49:20 (ET)
+Table 'Artek' 9-max Seat #8 is the button
+Seat 1: CheifNegro ($28 in chips) 
+Seat 2: Aylindirk ($4.65 in chips) 
+Seat 3: Ammaron ($3.15 in chips) 
+Seat 4: chessmanA1 ($23.20 in chips) 
+Seat 6: Alameda22 ($34.80 in chips) 
+Seat 7: ld788 ($24.80 in chips) 
+Seat 8: rodjeur1982 ($26.15 in chips) 
+Seat 9: stevegny2k7 ($21.75 in chips) 
+stevegny2k7: posts small blind $0.10
+CheifNegro: posts big blind $0.25
+Fokkus77: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 7d]
+Aylindirk: folds 
+Ammaron: folds 
+chessmanA1: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.15
+CheifNegro: checks 
+*** FLOP *** [8h Ts 6s]
+stevegny2k7: checks 
+CheifNegro: checks 
+*** TURN *** [8h Ts 6s] [Ac]
+stevegny2k7: bets $0.75
+CheifNegro: folds 
+Uncalled bet ($0.75) returned to stevegny2k7
+stevegny2k7 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [8h Ts 6s Ac]
+Seat 1: CheifNegro (big blind) folded on the Turn
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: Ammaron folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (button) folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (small blind) collected ($0.50)
+
+
+
+PokerStars Game #19970522988:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:50:19 (ET)
+Table 'Artek' 9-max Seat #9 is the button
+Seat 1: CheifNegro ($27.75 in chips) 
+Seat 2: Aylindirk ($4.65 in chips) 
+Seat 3: Ammaron ($3.15 in chips) 
+Seat 4: chessmanA1 ($23.20 in chips) 
+Seat 6: Alameda22 ($34.80 in chips) 
+Seat 7: ld788 ($24.80 in chips) 
+Seat 8: rodjeur1982 ($26.15 in chips) 
+Seat 9: stevegny2k7 ($22 in chips) 
+CheifNegro: posts small blind $0.10
+Aylindirk: posts big blind $0.25
+Fokkus77: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 7c]
+Ammaron: raises $2.90 to $3.15 and is all-in
+chessmanA1: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: folds 
+CheifNegro: folds 
+Aylindirk: folds 
+Uncalled bet ($2.90) returned to Ammaron
+Ammaron collected $0.60 from pot
+Ammaron: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro (small blind) folded before Flop
+Seat 2: Aylindirk (big blind) folded before Flop
+Seat 3: Ammaron collected ($0.60)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970549649:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:51:25 (ET)
+Table 'Artek' 9-max Seat #1 is the button
+Seat 1: CheifNegro ($27.65 in chips) 
+Seat 2: Aylindirk ($4.40 in chips) 
+Seat 3: Ammaron ($3.50 in chips) 
+Seat 4: chessmanA1 ($23.20 in chips) 
+Seat 6: Alameda22 ($34.80 in chips) 
+Seat 7: ld788 ($24.80 in chips) 
+Seat 8: rodjeur1982 ($26.15 in chips) 
+Seat 9: stevegny2k7 ($22 in chips) 
+Aylindirk: posts small blind $0.10
+Ammaron: posts big blind $0.25
+Fokkus77: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Jh]
+chessmanA1: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: folds 
+CheifNegro: folds 
+Aylindirk: folds 
+Uncalled bet ($0.15) returned to Ammaron
+Ammaron collected $0.20 from pot
+Ammaron: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: CheifNegro (button) folded before Flop (didn't bet)
+Seat 2: Aylindirk (small blind) folded before Flop
+Seat 3: Ammaron (big blind) collected ($0.20)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970572760:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:52:22 (ET)
+Table 'Artek' 9-max Seat #2 is the button
+Seat 1: CheifNegro ($27.65 in chips) 
+Seat 2: Aylindirk ($4.30 in chips) 
+Seat 3: Ammaron ($3.60 in chips) 
+Seat 4: chessmanA1 ($23.20 in chips) 
+Seat 6: Alameda22 ($34.80 in chips) 
+Seat 7: ld788 ($24.80 in chips) 
+Seat 8: rodjeur1982 ($26.15 in chips) 
+Seat 9: stevegny2k7 ($22 in chips) 
+Ammaron: posts small blind $0.10
+chessmanA1: posts big blind $0.25
+Fokkus77: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 9s]
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+Aylindirk: folds 
+Ammaron: folds 
+chessmanA1: checks 
+*** FLOP *** [9h 6d 7d]
+chessmanA1: checks 
+stevegny2k7: bets $0.75
+chessmanA1: folds 
+Uncalled bet ($0.75) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9h 6d 7d]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk (button) folded before Flop (didn't bet)
+Seat 3: Ammaron (small blind) folded before Flop
+Seat 4: chessmanA1 (big blind) folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19970606060:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:53:43 (ET)
+Table 'Artek' 9-max Seat #3 is the button
+Seat 1: CheifNegro ($27.65 in chips) 
+Seat 2: Aylindirk ($4.30 in chips) 
+Seat 3: Ammaron ($3.50 in chips) 
+Seat 4: chessmanA1 ($22.95 in chips) 
+Seat 5: Fokkus77 ($5 in chips) 
+Seat 6: Alameda22 ($34.80 in chips) 
+Seat 7: ld788 ($24.80 in chips) 
+Seat 8: rodjeur1982 ($26.15 in chips) 
+Seat 9: stevegny2k7 ($22.35 in chips) 
+chessmanA1: posts small blind $0.10
+Fokkus77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Ah]
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: folds 
+CheifNegro: folds 
+Aylindirk: folds 
+Ammaron: raises $0.75 to $1
+chessmanA1: folds 
+Fokkus77: folds 
+Uncalled bet ($0.75) returned to Ammaron
+Ammaron collected $0.60 from pot
+Ammaron: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: Ammaron (button) collected ($0.60)
+Seat 4: chessmanA1 (small blind) folded before Flop
+Seat 5: Fokkus77 (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970629112:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:54:40 (ET)
+Table 'Artek' 9-max Seat #4 is the button
+Seat 1: CheifNegro ($27.65 in chips) 
+Seat 2: Aylindirk ($4.30 in chips) 
+Seat 3: Ammaron ($3.85 in chips) 
+Seat 4: chessmanA1 ($22.85 in chips) 
+Seat 5: Fokkus77 ($4.75 in chips) 
+Seat 6: Alameda22 ($34.80 in chips) 
+Seat 7: ld788 ($24.80 in chips) 
+Seat 8: rodjeur1982 ($26.15 in chips) 
+Seat 9: stevegny2k7 ($22.35 in chips) 
+Fokkus77: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Jc]
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+Aylindirk: folds 
+Ammaron: folds 
+chessmanA1: folds 
+Fokkus77: calls $0.15
+Alameda22: raises $0.75 to $1
+stevegny2k7: raises $1.25 to $2.25
+Fokkus77: folds 
+Alameda22: folds 
+Uncalled bet ($1.25) returned to stevegny2k7
+stevegny2k7 collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: Ammaron folded before Flop (didn't bet)
+Seat 4: chessmanA1 (button) folded before Flop (didn't bet)
+Seat 5: Fokkus77 (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($2.25)
+
+
+
+PokerStars Game #19970649917:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:55:32 (ET)
+Table 'Artek' 9-max Seat #5 is the button
+Seat 1: CheifNegro ($27.65 in chips) 
+Seat 2: Aylindirk ($4.30 in chips) 
+Seat 3: Ammaron ($3.85 in chips) 
+Seat 4: chessmanA1 ($22.85 in chips) 
+Seat 5: Fokkus77 ($4.50 in chips) 
+Seat 6: Alameda22 ($33.80 in chips) 
+Seat 7: ld788 ($24.80 in chips) 
+Seat 8: rodjeur1982 ($26.15 in chips) 
+Seat 9: stevegny2k7 ($23.60 in chips) 
+Alameda22: posts small blind $0.10
+ld788: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 6s]
+rodjeur1982: folds 
+stevegny2k7: folds 
+CheifNegro: folds 
+Aylindirk: folds 
+Ammaron: calls $0.25
+chessmanA1: raises $1.25 to $1.50
+Fokkus77: folds 
+Alameda22: folds 
+ld788: folds 
+Ammaron: calls $1.25
+*** FLOP *** [As 7c 7s]
+Ammaron: checks 
+chessmanA1: bets $2.75
+Ammaron: calls $2.35 and is all-in
+Uncalled bet ($0.40) returned to chessmanA1
+*** TURN *** [As 7c 7s] [4d]
+*** RIVER *** [As 7c 7s 4d] [2h]
+*** SHOW DOWN ***
+Ammaron: shows [8s 9s] (a pair of Sevens)
+chessmanA1: shows [Kh Ac] (two pair, Aces and Sevens)
+Ammaron leaves the table
+chessmanA1 collected $7.70 from pot
+*** SUMMARY ***
+Total pot $8.05 | Rake $0.35 
+Board [As 7c 7s 4d 2h]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: Ammaron showed [8s 9s] and lost with a pair of Sevens
+Seat 4: chessmanA1 showed [Kh Ac] and won ($7.70) with two pair, Aces and Sevens
+Seat 5: Fokkus77 (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: ld788 (big blind) folded before Flop
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970680667:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:56:47 (ET)
+Table 'Artek' 9-max Seat #6 is the button
+Seat 1: CheifNegro ($27.65 in chips) 
+Seat 2: Aylindirk ($4.30 in chips) 
+Seat 4: chessmanA1 ($26.70 in chips) 
+Seat 5: Fokkus77 ($4.50 in chips) 
+Seat 6: Alameda22 ($33.70 in chips) 
+Seat 7: ld788 ($24.55 in chips) 
+Seat 8: rodjeur1982 ($26.15 in chips) 
+Seat 9: stevegny2k7 ($23.60 in chips) 
+ld788: posts small blind $0.10
+rodjeur1982: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Ts]
+stevegny2k7: raises $0.25 to $0.50
+CheifNegro: folds 
+Aylindirk: folds 
+Aylindirk is sitting out
+chessmanA1: folds 
+Fokkus77: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: calls $0.25
+*** FLOP *** [4d 8h Qh]
+rodjeur1982: checks 
+stevegny2k7: bets $0.50
+rodjeur1982: folds 
+Uncalled bet ($0.50) returned to stevegny2k7
+stevegny2k7 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [4d 8h Qh]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: Fokkus77 folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: ld788 (small blind) folded before Flop
+Seat 8: rodjeur1982 (big blind) folded on the Flop
+Seat 9: stevegny2k7 collected ($1.05)
+
+
+
+PokerStars Game #19970706734:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 16:57:51 (ET)
+Table 'Artek' 9-max Seat #7 is the button
+Seat 1: CheifNegro ($27.65 in chips) 
+Seat 4: chessmanA1 ($26.70 in chips) 
+Seat 5: Fokkus77 ($4.50 in chips) 
+Seat 6: Alameda22 ($33.70 in chips) 
+Seat 7: ld788 ($24.45 in chips) 
+Seat 8: rodjeur1982 ($25.65 in chips) 
+Seat 9: stevegny2k7 ($24.15 in chips) 
+rodjeur1982: posts small blind $0.10
+stevegny2k7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 7s]
+CheifNegro: folds 
+chessmanA1: calls $0.25
+Fokkus77: folds 
+Alameda22: folds 
+ld788: calls $0.25
+rodjeur1982: calls $0.15
+stevegny2k7: raises $0.25 to $0.50
+chessmanA1: calls $0.25
+ld788: calls $0.25
+rodjeur1982: calls $0.25
+*** FLOP *** [9s Ad 4c]
+rodjeur1982: checks 
+stevegny2k7: bets $0.25
+chessmanA1: calls $0.25
+ld788: folds 
+rodjeur1982: folds 
+*** TURN *** [9s Ad 4c] [Jh]
+stevegny2k7: bets $0.75
+chessmanA1: raises $1.75 to $2.50
+stevegny2k7: folds 
+Uncalled bet ($1.75) returned to chessmanA1
+chessmanA1 collected $3.85 from pot
+chessmanA1: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.15 
+Board [9s Ad 4c Jh]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 4: chessmanA1 collected ($3.85)
+Seat 5: Fokkus77 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 (button) folded on the Flop
+Seat 8: rodjeur1982 (small blind) folded on the Flop
+Seat 9: stevegny2k7 (big blind) folded on the Turn
+
+
+
+PokerStars Game #19970784951:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:01:06 (ET)
+Table 'Artek' 9-max Seat #8 is the button
+Seat 1: CheifNegro ($27.65 in chips) 
+Seat 4: chessmanA1 ($29.05 in chips) 
+Seat 5: Fokkus77 ($4.50 in chips) 
+Seat 6: Alameda22 ($33.70 in chips) 
+Seat 7: ld788 ($23.95 in chips) 
+Seat 8: rodjeur1982 ($25.15 in chips) 
+Seat 9: stevegny2k7 ($22.65 in chips) 
+stevegny2k7: posts small blind $0.10
+CheifNegro: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 8s]
+chessmanA1: folds 
+Fokkus77: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.15
+CheifNegro: checks 
+*** FLOP *** [Td Ad 9s]
+stevegny2k7: checks 
+CheifNegro: checks 
+*** TURN *** [Td Ad 9s] [4h]
+stevegny2k7: bets $0.75
+CheifNegro: folds 
+Uncalled bet ($0.75) returned to stevegny2k7
+stevegny2k7 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Td Ad 9s 4h]
+Seat 1: CheifNegro (big blind) folded on the Turn
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: Fokkus77 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (button) folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (small blind) collected ($0.50)
+
+
+
+PokerStars Game #19970806880:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:02:00 (ET)
+Table 'Artek' 9-max Seat #9 is the button
+Seat 1: CheifNegro ($27.40 in chips) 
+Seat 4: chessmanA1 ($29.05 in chips) 
+Seat 5: Fokkus77 ($4.50 in chips) 
+Seat 6: Alameda22 ($33.70 in chips) 
+Seat 7: ld788 ($23.95 in chips) 
+Seat 8: rodjeur1982 ($25.15 in chips) 
+Seat 9: stevegny2k7 ($22.90 in chips) 
+CheifNegro: posts small blind $0.10
+chessmanA1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Td]
+Fokkus77: folds 
+Alameda22: folds 
+Aylindirk has returned
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: folds 
+CheifNegro: raises $1 to $1.25
+chessmanA1: folds 
+Uncalled bet ($1) returned to CheifNegro
+CheifNegro collected $0.50 from pot
+CheifNegro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: CheifNegro (small blind) collected ($0.50)
+Seat 4: chessmanA1 (big blind) folded before Flop
+Seat 5: Fokkus77 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970828214:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:02:52 (ET)
+Table 'Artek' 9-max Seat #1 is the button
+Seat 1: CheifNegro ($27.65 in chips) 
+Seat 4: chessmanA1 ($28.80 in chips) 
+Seat 5: Fokkus77 ($4.50 in chips) 
+Seat 6: Alameda22 ($33.70 in chips) 
+Seat 7: ld788 ($23.95 in chips) 
+Seat 8: rodjeur1982 ($25.15 in chips) 
+Seat 9: stevegny2k7 ($22.90 in chips) 
+Aylindirk will be allowed to play after the button
+chessmanA1: posts small blind $0.10
+Fokkus77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Ks]
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: folds 
+robinwhy joins the table at seat #3 
+CheifNegro: raises $0.75 to $1
+chessmanA1: folds 
+Fokkus77: raises $0.75 to $1.75
+CheifNegro: calls $0.75
+*** FLOP *** [9c 7s 3h]
+Fokkus77: bets $1
+CheifNegro: folds 
+Uncalled bet ($1) returned to Fokkus77
+Fokkus77 collected $3.45 from pot
+Fokkus77: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.15 
+Board [9c 7s 3h]
+Seat 1: CheifNegro (button) folded on the Flop
+Seat 4: chessmanA1 (small blind) folded before Flop
+Seat 5: Fokkus77 (big blind) collected ($3.45)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970858838:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:04:07 (ET)
+Table 'Artek' 9-max Seat #4 is the button
+Seat 1: CheifNegro ($25.90 in chips) 
+Seat 4: chessmanA1 ($28.70 in chips) 
+Seat 5: Fokkus77 ($6.20 in chips) 
+Seat 6: Alameda22 ($33.70 in chips) 
+Seat 7: ld788 ($23.95 in chips) 
+Seat 8: rodjeur1982 ($25.15 in chips) 
+Seat 9: stevegny2k7 ($22.90 in chips) 
+Fokkus77: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Aylindirk: sits out 
+robinwhy: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Td]
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: folds 
+CheifNegro: folds 
+chessmanA1: folds 
+Fokkus77: calls $0.15
+Alameda22: checks 
+*** FLOP *** [3s Tc 2h]
+Fokkus77: checks 
+Alameda22: bets $0.25
+Fokkus77: calls $0.25
+*** TURN *** [3s Tc 2h] [Qd]
+Fokkus77: checks 
+Alameda22: checks 
+*** RIVER *** [3s Tc 2h Qd] [Ah]
+Fokkus77: bets $0.25
+Alameda22: calls $0.25
+*** SHOW DOWN ***
+Fokkus77: shows [9s Ac] (a pair of Aces)
+Alameda22: mucks hand 
+Fokkus77 collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [3s Tc 2h Qd Ah]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 4: chessmanA1 (button) folded before Flop (didn't bet)
+Seat 5: Fokkus77 (small blind) showed [9s Ac] and won ($1.45) with a pair of Aces
+Seat 6: Alameda22 (big blind) mucked [8d Td]
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970907280:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:06:04 (ET)
+Table 'Artek' 9-max Seat #5 is the button
+Seat 1: CheifNegro ($25.90 in chips) 
+Seat 4: chessmanA1 ($28.70 in chips) 
+Seat 5: Fokkus77 ($6.90 in chips) 
+Seat 6: Alameda22 ($32.95 in chips) 
+Seat 7: ld788 ($23.95 in chips) 
+Seat 8: rodjeur1982 ($25.15 in chips) 
+Seat 9: stevegny2k7 ($22.90 in chips) 
+Alameda22: posts small blind $0.10
+ld788: posts big blind $0.25
+Aylindirk: sits out 
+robinwhy: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 3s]
+rodjeur1982: folds 
+stevegny2k7: folds 
+CheifNegro: raises $0.75 to $1
+chessmanA1: folds 
+Fokkus77: folds 
+Alameda22: folds 
+ld788: folds 
+Uncalled bet ($0.75) returned to CheifNegro
+CheifNegro collected $0.60 from pot
+CheifNegro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro collected ($0.60)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: Fokkus77 (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: ld788 (big blind) folded before Flop
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19970922045:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:06:41 (ET)
+Table 'Artek' 9-max Seat #6 is the button
+Seat 1: CheifNegro ($26.25 in chips) 
+Seat 4: chessmanA1 ($28.70 in chips) 
+Seat 5: Fokkus77 ($6.90 in chips) 
+Seat 6: Alameda22 ($32.85 in chips) 
+Seat 7: ld788 ($23.70 in chips) 
+Seat 8: rodjeur1982 ($25.15 in chips) 
+Seat 9: stevegny2k7 ($22.90 in chips) 
+ld788: posts small blind $0.10
+rodjeur1982: posts big blind $0.25
+Aylindirk: sits out 
+robinwhy: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Js]
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+chessmanA1: folds 
+Fokkus77: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: raises $1 to $1.25
+stevegny2k7: folds 
+Uncalled bet ($1) returned to rodjeur1982
+rodjeur1982 collected $0.60 from pot
+rodjeur1982: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: Fokkus77 folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: ld788 (small blind) folded before Flop
+Seat 8: rodjeur1982 (big blind) collected ($0.60)
+Seat 9: stevegny2k7 folded before Flop
+
+
+
+PokerStars Game #19970950720:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:07:50 (ET)
+Table 'Artek' 9-max Seat #7 is the button
+Seat 1: CheifNegro ($26.25 in chips) 
+Seat 4: chessmanA1 ($28.70 in chips) 
+Seat 5: Fokkus77 ($6.90 in chips) 
+Seat 6: Alameda22 ($32.85 in chips) 
+Seat 7: ld788 ($23.60 in chips) 
+Seat 8: rodjeur1982 ($25.50 in chips) 
+Seat 9: stevegny2k7 ($22.65 in chips) 
+rodjeur1982: posts small blind $0.10
+stevegny2k7: posts big blind $0.25
+Aylindirk: sits out 
+robinwhy: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Jd]
+CheifNegro: folds 
+chessmanA1: calls $0.25
+Fokkus77: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: raises $1 to $1.25
+stevegny2k7: folds 
+chessmanA1: folds 
+Uncalled bet ($1) returned to rodjeur1982
+rodjeur1982 collected $0.75 from pot
+rodjeur1982: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop
+Seat 5: Fokkus77 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 (button) folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (small blind) collected ($0.75)
+Seat 9: stevegny2k7 (big blind) folded before Flop
+
+
+
+PokerStars Game #19970979774:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:09:02 (ET)
+Table 'Artek' 9-max Seat #8 is the button
+Seat 1: CheifNegro ($26.25 in chips) 
+Seat 4: chessmanA1 ($28.45 in chips) 
+Seat 5: Fokkus77 ($6.90 in chips) 
+Seat 6: Alameda22 ($32.85 in chips) 
+Seat 7: ld788 ($25 in chips) 
+Seat 8: rodjeur1982 ($26 in chips) 
+Seat 9: stevegny2k7 ($22.40 in chips) 
+stevegny2k7: posts small blind $0.10
+CheifNegro: posts big blind $0.25
+Aylindirk: sits out 
+robinwhy: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 8h]
+chessmanA1: folds 
+Fokkus77: raises $1 to $1.25
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: raises $2.50 to $3.75
+stevegny2k7: calls $3.65
+CheifNegro: folds 
+Fokkus77: calls $2.50
+*** FLOP *** [3c 2s 8s]
+stevegny2k7: checks 
+Fokkus77: checks 
+rodjeur1982: bets $6
+stevegny2k7: folds 
+Fokkus77: folds 
+Uncalled bet ($6) returned to rodjeur1982
+rodjeur1982 collected $10.95 from pot
+rodjeur1982: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.55 
+Board [3c 2s 8s]
+Seat 1: CheifNegro (big blind) folded before Flop
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: Fokkus77 folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (button) collected ($10.95)
+Seat 9: stevegny2k7 (small blind) folded on the Flop
+
+
+
+PokerStars Game #19971018985:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:10:38 (ET)
+Table 'Artek' 9-max Seat #9 is the button
+Seat 1: CheifNegro ($26 in chips) 
+Seat 2: Aylindirk ($4.30 in chips) 
+Seat 4: chessmanA1 ($28.45 in chips) 
+Seat 5: Fokkus77 ($3.15 in chips) 
+Seat 6: Alameda22 ($32.85 in chips) 
+Seat 7: ld788 ($25 in chips) 
+Seat 8: rodjeur1982 ($33.20 in chips) 
+Seat 9: stevegny2k7 ($18.65 in chips) 
+CheifNegro: posts small blind $0.10
+Aylindirk: posts big blind $0.25
+robinwhy: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Jc]
+chessmanA1: folds 
+Fokkus77: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: folds 
+CheifNegro: folds 
+Uncalled bet ($0.15) returned to Aylindirk
+Aylindirk collected $0.20 from pot
+Aylindirk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: CheifNegro (small blind) folded before Flop
+Seat 2: Aylindirk (big blind) collected ($0.20)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: Fokkus77 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19971039156:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:11:27 (ET)
+Table 'Artek' 9-max Seat #1 is the button
+Seat 1: CheifNegro ($25.90 in chips) 
+Seat 2: Aylindirk ($4.40 in chips) 
+Seat 3: robinwhy ($25 in chips) 
+Seat 4: chessmanA1 ($28.45 in chips) 
+Seat 5: Fokkus77 ($5.15 in chips) 
+Seat 6: Alameda22 ($32.85 in chips) 
+Seat 7: ld788 ($25 in chips) 
+Seat 8: rodjeur1982 ($33.20 in chips) 
+Seat 9: stevegny2k7 ($18.65 in chips) 
+Aylindirk: posts small blind $0.10
+robinwhy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 7h]
+chessmanA1: folds 
+Fokkus77: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: folds 
+CheifNegro: raises $0.75 to $1
+Aylindirk: folds 
+robinwhy: folds 
+Uncalled bet ($0.75) returned to CheifNegro
+CheifNegro collected $0.60 from pot
+CheifNegro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro (button) collected ($0.60)
+Seat 2: Aylindirk (small blind) folded before Flop
+Seat 3: robinwhy (big blind) folded before Flop
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: Fokkus77 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19971059975:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:12:18 (ET)
+Table 'Artek' 9-max Seat #2 is the button
+Seat 1: CheifNegro ($26.25 in chips) 
+Seat 2: Aylindirk ($4.30 in chips) 
+Seat 3: robinwhy ($24.75 in chips) 
+Seat 4: chessmanA1 ($28.45 in chips) 
+Seat 5: Fokkus77 ($5.15 in chips) 
+Seat 6: Alameda22 ($32.85 in chips) 
+Seat 7: ld788 ($25 in chips) 
+Seat 8: rodjeur1982 ($33.20 in chips) 
+Seat 9: stevegny2k7 ($18.65 in chips) 
+robinwhy: posts small blind $0.10
+chessmanA1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 4c]
+Fokkus77: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+CheifNegro: raises $1 to $1.25
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+stevegny2k7: calls $1
+*** FLOP *** [Ks 7d Kh]
+stevegny2k7: bets $1.25
+CheifNegro: calls $1.25
+*** TURN *** [Ks 7d Kh] [Tc]
+stevegny2k7: bets $0.25
+CheifNegro: calls $0.25
+*** RIVER *** [Ks 7d Kh Tc] [Jh]
+stevegny2k7: bets $2.25
+CheifNegro: raises $7.75 to $10
+stevegny2k7: folds 
+Uncalled bet ($7.75) returned to CheifNegro
+CheifNegro collected $9.85 from pot
+CheifNegro: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.35 | Rake $0.50 
+Board [Ks 7d Kh Tc Jh]
+Seat 1: CheifNegro collected ($9.85)
+Seat 2: Aylindirk (button) folded before Flop (didn't bet)
+Seat 3: robinwhy (small blind) folded before Flop
+Seat 4: chessmanA1 (big blind) folded before Flop
+Seat 5: Fokkus77 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded on the River
+
+
+
+PokerStars Game #19971108292:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:14:17 (ET)
+Table 'Artek' 9-max Seat #3 is the button
+Seat 1: CheifNegro ($31.10 in chips) 
+Seat 2: Aylindirk ($4.30 in chips) 
+Seat 3: robinwhy ($24.65 in chips) 
+Seat 4: chessmanA1 ($28.20 in chips) 
+Seat 5: Fokkus77 ($5.15 in chips) 
+Seat 6: Alameda22 ($32.85 in chips) 
+Seat 7: ld788 ($25 in chips) 
+Seat 8: rodjeur1982 ($33.20 in chips) 
+Seat 9: stevegny2k7 ($13.65 in chips) 
+chessmanA1: posts small blind $0.10
+Fokkus77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 7d]
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+Fokkus77: checks 
+*** FLOP *** [4d 8h 3s]
+Fokkus77: checks 
+stevegny2k7: bets $0.50
+Fokkus77: folds 
+Uncalled bet ($0.50) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4d 8h 3s]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy (button) folded before Flop (didn't bet)
+Seat 4: chessmanA1 (small blind) folded before Flop
+Seat 5: Fokkus77 (big blind) folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19971133810:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:15:19 (ET)
+Table 'Artek' 9-max Seat #4 is the button
+Seat 1: CheifNegro ($31.10 in chips) 
+Seat 2: Aylindirk ($4.30 in chips) 
+Seat 3: robinwhy ($24.65 in chips) 
+Seat 4: chessmanA1 ($28.10 in chips) 
+Seat 5: Fokkus77 ($4.90 in chips) 
+Seat 6: Alameda22 ($32.85 in chips) 
+Seat 7: ld788 ($25 in chips) 
+Seat 8: rodjeur1982 ($33.20 in chips) 
+Seat 9: stevegny2k7 ($14 in chips) 
+Fokkus77: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 5d]
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+Aylindirk: raises $0.75 to $1
+robinwhy: folds 
+chessmanA1: folds 
+Fokkus77: folds 
+Alameda22: folds 
+stevegny2k7: calls $0.75
+*** FLOP *** [2d 7s 3h]
+stevegny2k7: checks 
+Aylindirk: bets $3.30 and is all-in
+stevegny2k7: folds 
+Uncalled bet ($3.30) returned to Aylindirk
+Aylindirk collected $2.25 from pot
+Aylindirk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [2d 7s 3h]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk collected ($2.25)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 (button) folded before Flop (didn't bet)
+Seat 5: Fokkus77 (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded on the Flop
+
+
+
+PokerStars Game #19971153911:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:16:08 (ET)
+Table 'Artek' 9-max Seat #5 is the button
+Seat 1: CheifNegro ($31.10 in chips) 
+Seat 2: Aylindirk ($5.55 in chips) 
+Seat 3: robinwhy ($24.65 in chips) 
+Seat 4: chessmanA1 ($28.10 in chips) 
+Seat 5: Fokkus77 ($4.80 in chips) 
+Seat 6: Alameda22 ($32.60 in chips) 
+Seat 7: ld788 ($25 in chips) 
+Seat 8: rodjeur1982 ($33.20 in chips) 
+Seat 9: stevegny2k7 ($13 in chips) 
+Alameda22: posts small blind $0.10
+ld788: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Jd]
+rodjeur1982: folds 
+stevegny2k7: raises $0.75 to $1
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+Fokkus77: folds 
+Alameda22: folds 
+ld788: folds 
+Uncalled bet ($0.75) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: Fokkus77 (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: ld788 (big blind) folded before Flop
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19971177999:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:17:07 (ET)
+Table 'Artek' 9-max Seat #6 is the button
+Seat 1: CheifNegro ($31.10 in chips) 
+Seat 2: Aylindirk ($5.55 in chips) 
+Seat 3: robinwhy ($24.65 in chips) 
+Seat 4: chessmanA1 ($28.10 in chips) 
+Seat 5: Fokkus77 ($4.80 in chips) 
+Seat 6: Alameda22 ($32.50 in chips) 
+Seat 7: ld788 ($24.75 in chips) 
+Seat 8: rodjeur1982 ($33.20 in chips) 
+Seat 9: stevegny2k7 ($13.35 in chips) 
+ld788: posts small blind $0.10
+rodjeur1982: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 7h]
+stevegny2k7: folds 
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+Fokkus77: folds 
+Alameda22: folds 
+ld788: folds 
+Uncalled bet ($0.15) returned to rodjeur1982
+rodjeur1982 collected $0.20 from pot
+rodjeur1982: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: Fokkus77 folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: ld788 (small blind) folded before Flop
+Seat 8: rodjeur1982 (big blind) collected ($0.20)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19971198462:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:17:57 (ET)
+Table 'Artek' 9-max Seat #7 is the button
+Seat 1: CheifNegro ($31.10 in chips) 
+Seat 2: Aylindirk ($5.55 in chips) 
+Seat 3: robinwhy ($24.65 in chips) 
+Seat 4: chessmanA1 ($28.10 in chips) 
+Seat 5: Fokkus77 ($4.80 in chips) 
+Seat 6: Alameda22 ($32.50 in chips) 
+Seat 7: ld788 ($24.65 in chips) 
+Seat 8: rodjeur1982 ($33.30 in chips) 
+Seat 9: stevegny2k7 ($13.35 in chips) 
+rodjeur1982: posts small blind $0.10
+stevegny2k7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 5d]
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+Fokkus77: folds 
+Alameda22: folds 
+ld788: raises $0.75 to $1
+rodjeur1982: raises $2 to $3
+stevegny2k7: folds 
+ld788: calls $2
+*** FLOP *** [8d 9h As]
+rodjeur1982: bets $4
+ld788: folds 
+Uncalled bet ($4) returned to rodjeur1982
+rodjeur1982 collected $5.95 from pot
+rodjeur1982: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.30 
+Board [8d 9h As]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: Fokkus77 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 (button) folded on the Flop
+Seat 8: rodjeur1982 (small blind) collected ($5.95)
+Seat 9: stevegny2k7 (big blind) folded before Flop
+
+
+
+PokerStars Game #19971240516:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:19:41 (ET)
+Table 'Artek' 9-max Seat #8 is the button
+Seat 1: CheifNegro ($31.10 in chips) 
+Seat 2: Aylindirk ($5.55 in chips) 
+Seat 3: robinwhy ($24.65 in chips) 
+Seat 4: chessmanA1 ($28.10 in chips) 
+Seat 5: Fokkus77 ($4.80 in chips) 
+Seat 6: Alameda22 ($32.50 in chips) 
+Seat 7: ld788 ($25 in chips) 
+Seat 8: rodjeur1982 ($36.25 in chips) 
+Seat 9: stevegny2k7 ($13.10 in chips) 
+stevegny2k7: posts small blind $0.10
+CheifNegro: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Ah]
+Aylindirk: folds 
+robinwhy: calls $0.25
+chessmanA1: folds 
+Fokkus77: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: raises $0.75 to $1
+CheifNegro: folds 
+robinwhy: calls $0.75
+*** FLOP *** [5c 9c 6d]
+stevegny2k7: checks 
+robinwhy: checks 
+*** TURN *** [5c 9c 6d] [5s]
+stevegny2k7: bets $0.25
+robinwhy: calls $0.25
+*** RIVER *** [5c 9c 6d 5s] [5h]
+stevegny2k7: bets $1.25
+robinwhy: folds 
+Uncalled bet ($1.25) returned to stevegny2k7
+stevegny2k7 collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [5c 9c 6d 5s 5h]
+Seat 1: CheifNegro (big blind) folded before Flop
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded on the River
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: Fokkus77 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (button) folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (small blind) collected ($2.65)
+
+
+
+PokerStars Game #19971266221:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:20:44 (ET)
+Table 'Artek' 9-max Seat #9 is the button
+Seat 1: CheifNegro ($30.85 in chips) 
+Seat 2: Aylindirk ($5.55 in chips) 
+Seat 3: robinwhy ($23.40 in chips) 
+Seat 4: chessmanA1 ($28.10 in chips) 
+Seat 5: Fokkus77 ($4.80 in chips) 
+Seat 6: Alameda22 ($32.50 in chips) 
+Seat 7: ld788 ($25 in chips) 
+Seat 8: rodjeur1982 ($36.25 in chips) 
+Seat 9: stevegny2k7 ($14.50 in chips) 
+CheifNegro: posts small blind $0.10
+Aylindirk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Jh]
+robinwhy: folds 
+chessmanA1: folds 
+Fokkus77: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: raises $0.75 to $1
+stevegny2k7: folds 
+CheifNegro: folds 
+Aylindirk: folds 
+Uncalled bet ($0.75) returned to rodjeur1982
+rodjeur1982 collected $0.60 from pot
+rodjeur1982: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro (small blind) folded before Flop
+Seat 2: Aylindirk (big blind) folded before Flop
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: Fokkus77 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 collected ($0.60)
+Seat 9: stevegny2k7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19971284519:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:21:29 (ET)
+Table 'Artek' 9-max Seat #1 is the button
+Seat 1: CheifNegro ($30.75 in chips) 
+Seat 2: Aylindirk ($5.30 in chips) 
+Seat 3: robinwhy ($23.40 in chips) 
+Seat 4: chessmanA1 ($28.10 in chips) 
+Seat 5: Fokkus77 ($4.80 in chips) 
+Seat 6: Alameda22 ($32.50 in chips) 
+Seat 7: ld788 ($25 in chips) 
+Seat 8: rodjeur1982 ($36.60 in chips) 
+Seat 9: stevegny2k7 ($14.50 in chips) 
+Aylindirk: posts small blind $0.10
+robinwhy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 2d]
+chessmanA1: raises $0.25 to $0.50
+Fokkus77: folds 
+Alameda22: folds 
+ld788 has timed out
+ld788: folds 
+ld788 is sitting out
+ld788 has returned
+rodjeur1982: folds 
+stevegny2k7: folds 
+CheifNegro: folds 
+Aylindirk: folds 
+Aylindirk is sitting out
+robinwhy: calls $0.25
+*** FLOP *** [Js Td As]
+robinwhy: bets $0.25
+chessmanA1: calls $0.25
+*** TURN *** [Js Td As] [6h]
+robinwhy: checks 
+chessmanA1: bets $0.75
+robinwhy: calls $0.75
+*** RIVER *** [Js Td As 6h] [4c]
+robinwhy: checks 
+chessmanA1: bets $1
+robinwhy: calls $1
+*** SHOW DOWN ***
+chessmanA1: shows [Ah Kc] (a pair of Aces)
+robinwhy: mucks hand 
+chessmanA1 collected $4.90 from pot
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.20 
+Board [Js Td As 6h 4c]
+Seat 1: CheifNegro (button) folded before Flop (didn't bet)
+Seat 2: Aylindirk (small blind) folded before Flop
+Seat 3: robinwhy (big blind) mucked [Jh Kh]
+Seat 4: chessmanA1 showed [Ah Kc] and won ($4.90) with a pair of Aces
+Seat 5: Fokkus77 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19971341070:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:23:49 (ET)
+Table 'Artek' 9-max Seat #3 is the button
+Seat 1: CheifNegro ($30.75 in chips) 
+Seat 3: robinwhy ($20.90 in chips) 
+Seat 4: chessmanA1 ($30.50 in chips) 
+Seat 5: Fokkus77 ($4.80 in chips) 
+Seat 6: Alameda22 ($32.50 in chips) 
+Seat 7: ld788 ($25 in chips) 
+Seat 8: rodjeur1982 ($36.60 in chips) 
+Seat 9: stevegny2k7 ($14.50 in chips) 
+chessmanA1: posts small blind $0.10
+Fokkus77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Ac]
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: raises $0.75 to $1
+CheifNegro: folds 
+robinwhy: folds 
+chessmanA1: folds 
+Fokkus77: folds 
+Uncalled bet ($0.75) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 3: robinwhy (button) folded before Flop (didn't bet)
+Seat 4: chessmanA1 (small blind) folded before Flop
+Seat 5: Fokkus77 (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19971356469:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:24:27 (ET)
+Table 'Artek' 9-max Seat #4 is the button
+Seat 1: CheifNegro ($30.75 in chips) 
+Seat 3: robinwhy ($20.90 in chips) 
+Seat 4: chessmanA1 ($30.40 in chips) 
+Seat 6: Alameda22 ($32.50 in chips) 
+Seat 7: ld788 ($25 in chips) 
+Seat 8: rodjeur1982 ($36.60 in chips) 
+Seat 9: stevegny2k7 ($14.85 in chips) 
+Fokkus77: is sitting out 
+Alameda22: posts small blind $0.10
+ld788: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 9d]
+Fokkus77 leaves the table
+rodjeur1982: folds 
+stevegny2k7: raises $1.25 to $1.50
+JoshBastian joins the table at seat #5 
+CheifNegro: folds 
+robinwhy: folds 
+chessmanA1: folds 
+Alameda22: folds 
+ld788: folds 
+Uncalled bet ($1.25) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: ld788 (big blind) folded before Flop
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19971388419:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:25:47 (ET)
+Table 'Artek' 9-max Seat #6 is the button
+Seat 1: CheifNegro ($30.75 in chips) 
+Seat 3: robinwhy ($20.90 in chips) 
+Seat 4: chessmanA1 ($30.40 in chips) 
+Seat 5: JoshBastian ($5 in chips) 
+Seat 6: Alameda22 ($32.40 in chips) 
+Seat 7: ld788 ($24.75 in chips) 
+Seat 8: rodjeur1982 ($36.60 in chips) 
+Seat 9: stevegny2k7 ($15.20 in chips) 
+ld788: posts small blind $0.10
+rodjeur1982: posts big blind $0.25
+JoshBastian: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Kd]
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+robinwhy: folds 
+chessmanA1: folds 
+JoshBastian: checks 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: checks 
+*** FLOP *** [As Jc 6c]
+rodjeur1982: checks 
+stevegny2k7: bets $0.50
+JoshBastian: folds 
+rodjeur1982: folds 
+Uncalled bet ($0.50) returned to stevegny2k7
+stevegny2k7 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [As Jc 6c]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: JoshBastian folded on the Flop
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: ld788 (small blind) folded before Flop
+Seat 8: rodjeur1982 (big blind) folded on the Flop
+Seat 9: stevegny2k7 collected ($0.85)
+
+
+
+PokerStars Game #19971434390:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:27:41 (ET)
+Table 'Artek' 9-max Seat #7 is the button
+Seat 1: CheifNegro ($30.75 in chips) 
+Seat 3: robinwhy ($20.90 in chips) 
+Seat 4: chessmanA1 ($30.40 in chips) 
+Seat 5: JoshBastian ($4.75 in chips) 
+Seat 6: Alameda22 ($32.40 in chips) 
+Seat 7: ld788 ($24.65 in chips) 
+Seat 8: rodjeur1982 ($36.35 in chips) 
+Seat 9: stevegny2k7 ($15.80 in chips) 
+rodjeur1982: posts small blind $0.10
+stevegny2k7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 6d]
+CheifNegro: folds 
+robinwhy: folds 
+chessmanA1: folds 
+JoshBastian: calls $0.25
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: raises $1 to $1.25
+stevegny2k7: calls $1
+JoshBastian: folds 
+*** FLOP *** [Jc 8h 7h]
+rodjeur1982: bets $1.50
+stevegny2k7: calls $1.50
+*** TURN *** [Jc 8h 7h] [Qd]
+rodjeur1982: bets $3.50
+stevegny2k7: calls $3.50
+*** RIVER *** [Jc 8h 7h Qd] [9d]
+rodjeur1982: checks 
+stevegny2k7: bets $9.55 and is all-in
+rodjeur1982: calls $9.55
+*** SHOW DOWN ***
+stevegny2k7: shows [9c 8d] (two pair, Nines and Eights)
+rodjeur1982: mucks hand 
+stevegny2k7 collected $30.30 from pot
+*** SUMMARY ***
+Total pot $31.85 | Rake $1.55 
+Board [Jc 8h 7h Qd 9d]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: JoshBastian folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 (button) folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (small blind) mucked [Qh Kh]
+Seat 9: stevegny2k7 (big blind) showed [9c 8d] and won ($30.30) with two pair, Nines and Eights
+
+
+
+PokerStars Game #19971489937:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:29:59 (ET)
+Table 'Artek' 9-max Seat #8 is the button
+Seat 1: CheifNegro ($30.75 in chips) 
+Seat 3: robinwhy ($20.90 in chips) 
+Seat 4: chessmanA1 ($30.40 in chips) 
+Seat 5: JoshBastian ($4.50 in chips) 
+Seat 6: Alameda22 ($32.40 in chips) 
+Seat 7: ld788 ($24.65 in chips) 
+Seat 8: rodjeur1982 ($20.55 in chips) 
+Seat 9: stevegny2k7 ($30.30 in chips) 
+stevegny2k7: posts small blind $0.10
+CheifNegro: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 2d]
+robinwhy: folds 
+chessmanA1: folds 
+JoshBastian: folds 
+Alameda22: folds 
+Aylindirk has returned
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.15
+CheifNegro: checks 
+*** FLOP *** [Jc 8s Kd]
+stevegny2k7: checks 
+CheifNegro: checks 
+*** TURN *** [Jc 8s Kd] [Jd]
+stevegny2k7: bets $1
+CheifNegro: folds 
+Uncalled bet ($1) returned to stevegny2k7
+stevegny2k7 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Jc 8s Kd Jd]
+Seat 1: CheifNegro (big blind) folded on the Turn
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: JoshBastian folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (button) folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (small blind) collected ($0.50)
+
+
+
+PokerStars Game #19971546909:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:32:17 (ET)
+Table 'Artek' 9-max Seat #9 is the button
+Seat 1: CheifNegro ($30.50 in chips) 
+Seat 2: Aylindirk ($5.20 in chips) 
+Seat 3: robinwhy ($20.90 in chips) 
+Seat 4: chessmanA1 ($30.40 in chips) 
+Seat 5: JoshBastian ($4.50 in chips) 
+Seat 6: Alameda22 ($32.40 in chips) 
+Seat 7: ld788 ($24.65 in chips) 
+Seat 8: rodjeur1982 ($25 in chips) 
+Seat 9: stevegny2k7 ($30.55 in chips) 
+CheifNegro: posts small blind $0.10
+Aylindirk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Qd]
+robinwhy: folds 
+chessmanA1: folds 
+JoshBastian: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: folds 
+CheifNegro: folds 
+Uncalled bet ($0.15) returned to Aylindirk
+Aylindirk collected $0.20 from pot
+Aylindirk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: CheifNegro (small blind) folded before Flop
+Seat 2: Aylindirk (big blind) collected ($0.20)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: JoshBastian folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19971569336:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:33:12 (ET)
+Table 'Artek' 9-max Seat #1 is the button
+Seat 1: CheifNegro ($30.40 in chips) 
+Seat 2: Aylindirk ($5.30 in chips) 
+Seat 3: robinwhy ($20.90 in chips) 
+Seat 4: chessmanA1 ($30.40 in chips) 
+Seat 5: JoshBastian ($4.50 in chips) 
+Seat 6: Alameda22 ($32.40 in chips) 
+Seat 7: ld788 ($24.65 in chips) 
+Seat 8: rodjeur1982 ($25 in chips) 
+Seat 9: stevegny2k7 ($30.55 in chips) 
+Aylindirk: posts small blind $0.10
+robinwhy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 7d]
+chessmanA1: folds 
+JoshBastian: folds 
+Alameda22: calls $0.25
+ld788: raises $1 to $1.25
+rodjeur1982: folds 
+stevegny2k7: folds 
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+Alameda22: calls $1
+*** FLOP *** [8s 5c 5s]
+Alameda22: checks 
+ld788: bets $1.25
+Alameda22: folds 
+Uncalled bet ($1.25) returned to ld788
+ld788 collected $2.75 from pot
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [8s 5c 5s]
+Seat 1: CheifNegro (button) folded before Flop (didn't bet)
+Seat 2: Aylindirk (small blind) folded before Flop
+Seat 3: robinwhy (big blind) folded before Flop
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: JoshBastian folded before Flop (didn't bet)
+Seat 6: Alameda22 folded on the Flop
+Seat 7: ld788 collected ($2.75)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19971608616:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:34:48 (ET)
+Table 'Artek' 9-max Seat #2 is the button
+Seat 1: CheifNegro ($30.40 in chips) 
+Seat 2: Aylindirk ($5.20 in chips) 
+Seat 3: robinwhy ($20.65 in chips) 
+Seat 4: chessmanA1 ($30.40 in chips) 
+Seat 5: JoshBastian ($4.50 in chips) 
+Seat 6: Alameda22 ($31.15 in chips) 
+Seat 7: ld788 ($26.15 in chips) 
+Seat 8: rodjeur1982 ($25 in chips) 
+Seat 9: stevegny2k7 ($30.55 in chips) 
+robinwhy: posts small blind $0.10
+chessmanA1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 6d]
+JoshBastian: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+Aylindirk: raises $1 to $1.25
+robinwhy: folds 
+chessmanA1: folds 
+stevegny2k7: calls $1
+*** FLOP *** [2c Ad 7c]
+stevegny2k7: bets $1.25
+Aylindirk: folds 
+Uncalled bet ($1.25) returned to stevegny2k7
+stevegny2k7 collected $2.75 from pot
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [2c Ad 7c]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk (button) folded on the Flop
+Seat 3: robinwhy (small blind) folded before Flop
+Seat 4: chessmanA1 (big blind) folded before Flop
+Seat 5: JoshBastian folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($2.75)
+
+
+
+PokerStars Game #19971630711:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:35:42 (ET)
+Table 'Artek' 9-max Seat #3 is the button
+Seat 1: CheifNegro ($30.40 in chips) 
+Seat 2: Aylindirk ($3.95 in chips) 
+Seat 3: robinwhy ($20.55 in chips) 
+Seat 4: chessmanA1 ($30.15 in chips) 
+Seat 5: JoshBastian ($4.50 in chips) 
+Seat 6: Alameda22 ($31.15 in chips) 
+Seat 7: ld788 ($26.15 in chips) 
+Seat 8: rodjeur1982 ($25 in chips) 
+Seat 9: stevegny2k7 ($32.05 in chips) 
+chessmanA1: posts small blind $0.10
+JoshBastian: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 5h]
+Alameda22: folds 
+ld788 has timed out
+ld788: folds 
+ld788 is sitting out
+ld788 has returned
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+CheifNegro: raises $1 to $1.25
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+JoshBastian: folds 
+stevegny2k7: calls $1
+*** FLOP *** [3d 6h 8s]
+stevegny2k7: bets $1.75
+CheifNegro: folds 
+Uncalled bet ($1.75) returned to stevegny2k7
+stevegny2k7 collected $2.75 from pot
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [3d 6h 8s]
+Seat 1: CheifNegro folded on the Flop
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy (button) folded before Flop (didn't bet)
+Seat 4: chessmanA1 (small blind) folded before Flop
+Seat 5: JoshBastian (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($2.75)
+
+
+
+PokerStars Game #19971667072:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:37:11 (ET)
+Table 'Artek' 9-max Seat #4 is the button
+Seat 1: CheifNegro ($29.15 in chips) 
+Seat 2: Aylindirk ($3.95 in chips) 
+Seat 3: robinwhy ($20.55 in chips) 
+Seat 4: chessmanA1 ($30.05 in chips) 
+Seat 5: JoshBastian ($4.25 in chips) 
+Seat 6: Alameda22 ($31.15 in chips) 
+Seat 7: ld788 ($26.15 in chips) 
+Seat 8: rodjeur1982 ($25 in chips) 
+Seat 9: stevegny2k7 ($33.55 in chips) 
+JoshBastian: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 4d]
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: raises $0.75 to $1
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+JoshBastian: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 (button) folded before Flop (didn't bet)
+Seat 5: JoshBastian (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19971682330:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:37:48 (ET)
+Table 'Artek' 9-max Seat #5 is the button
+Seat 1: CheifNegro ($29.15 in chips) 
+Seat 2: Aylindirk ($3.95 in chips) 
+Seat 3: robinwhy ($20.55 in chips) 
+Seat 4: chessmanA1 ($30.05 in chips) 
+Seat 5: JoshBastian ($4.15 in chips) 
+Seat 6: Alameda22 ($30.90 in chips) 
+Seat 7: ld788 ($26.15 in chips) 
+Seat 8: rodjeur1982 ($25 in chips) 
+Seat 9: stevegny2k7 ($33.90 in chips) 
+Alameda22: posts small blind $0.10
+ld788: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Ah]
+rodjeur1982: folds 
+stevegny2k7: folds 
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+JoshBastian: raises $0.50 to $0.75
+Alameda22: folds 
+ld788: folds 
+Uncalled bet ($0.50) returned to JoshBastian
+JoshBastian collected $0.60 from pot
+JoshBastian: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: JoshBastian (button) collected ($0.60)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: ld788 (big blind) folded before Flop
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19971698225:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:38:27 (ET)
+Table 'Artek' 9-max Seat #6 is the button
+Seat 1: CheifNegro ($29.15 in chips) 
+Seat 2: Aylindirk ($3.95 in chips) 
+Seat 3: robinwhy ($20.55 in chips) 
+Seat 4: chessmanA1 ($30.05 in chips) 
+Seat 5: JoshBastian ($4.50 in chips) 
+Seat 6: Alameda22 ($30.80 in chips) 
+Seat 7: ld788 ($25.90 in chips) 
+Seat 8: rodjeur1982 ($25 in chips) 
+Seat 9: stevegny2k7 ($33.90 in chips) 
+ld788: posts small blind $0.10
+rodjeur1982: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 5d]
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+JoshBastian: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: checks 
+*** FLOP *** [3h 2s 3c]
+rodjeur1982: checks 
+stevegny2k7: bets $0.75
+rodjeur1982: folds 
+Uncalled bet ($0.75) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3h 2s 3c]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: JoshBastian folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: ld788 (small blind) folded before Flop
+Seat 8: rodjeur1982 (big blind) folded on the Flop
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19971730018:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:39:45 (ET)
+Table 'Artek' 9-max Seat #7 is the button
+Seat 1: CheifNegro ($29.15 in chips) 
+Seat 2: Aylindirk ($3.95 in chips) 
+Seat 3: robinwhy ($20.55 in chips) 
+Seat 4: chessmanA1 ($30.05 in chips) 
+Seat 5: JoshBastian ($4.50 in chips) 
+Seat 6: Alameda22 ($30.80 in chips) 
+Seat 7: ld788 ($25.80 in chips) 
+Seat 8: rodjeur1982 ($24.75 in chips) 
+Seat 9: stevegny2k7 ($34.25 in chips) 
+rodjeur1982: posts small blind $0.10
+stevegny2k7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 2h]
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+JoshBastian: calls $0.25
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: checks 
+*** FLOP *** [As Kh Qh]
+stevegny2k7: bets $0.50
+JoshBastian: folds 
+Uncalled bet ($0.50) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [As Kh Qh]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: JoshBastian folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 (button) folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (small blind) folded before Flop
+Seat 9: stevegny2k7 (big blind) collected ($0.60)
+
+
+
+PokerStars Game #19971768823:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:41:20 (ET)
+Table 'Artek' 9-max Seat #8 is the button
+Seat 1: CheifNegro ($29.15 in chips) 
+Seat 2: Aylindirk ($3.95 in chips) 
+Seat 3: robinwhy ($20.55 in chips) 
+Seat 4: chessmanA1 ($30.05 in chips) 
+Seat 5: JoshBastian ($4.25 in chips) 
+Seat 6: Alameda22 ($30.80 in chips) 
+Seat 7: ld788 ($25.80 in chips) 
+Seat 8: rodjeur1982 ($24.65 in chips) 
+Seat 9: stevegny2k7 ($34.60 in chips) 
+stevegny2k7: posts small blind $0.10
+CheifNegro: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Js]
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+JoshBastian: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.15
+CheifNegro: checks 
+*** FLOP *** [Kd Jh 6s]
+stevegny2k7: bets $1
+CheifNegro: folds 
+Uncalled bet ($1) returned to stevegny2k7
+stevegny2k7 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Kd Jh 6s]
+Seat 1: CheifNegro (big blind) folded on the Flop
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: JoshBastian folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (button) folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (small blind) collected ($0.50)
+
+
+
+PokerStars Game #19971798244:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:42:33 (ET)
+Table 'Artek' 9-max Seat #9 is the button
+Seat 1: CheifNegro ($28.90 in chips) 
+Seat 2: Aylindirk ($3.95 in chips) 
+Seat 3: robinwhy ($20.55 in chips) 
+Seat 4: chessmanA1 ($30.05 in chips) 
+Seat 5: JoshBastian ($4.25 in chips) 
+Seat 6: Alameda22 ($30.80 in chips) 
+Seat 7: ld788 ($25.80 in chips) 
+Seat 8: rodjeur1982 ($24.65 in chips) 
+Seat 9: stevegny2k7 ($34.85 in chips) 
+CheifNegro: posts small blind $0.10
+Aylindirk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 9s]
+robinwhy: calls $0.25
+chessmanA1: folds 
+JoshBastian: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+Aylindirk: checks 
+*** FLOP *** [4d 8d 7s]
+Aylindirk: checks 
+robinwhy: checks 
+stevegny2k7: bets $1
+Aylindirk: folds 
+robinwhy: folds 
+Uncalled bet ($1) returned to stevegny2k7
+stevegny2k7 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [4d 8d 7s]
+Seat 1: CheifNegro (small blind) folded before Flop
+Seat 2: Aylindirk (big blind) folded on the Flop
+Seat 3: robinwhy folded on the Flop
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: JoshBastian folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (button) collected ($0.85)
+
+
+
+PokerStars Game #19971838142:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:44:11 (ET)
+Table 'Artek' 9-max Seat #1 is the button
+Seat 1: CheifNegro ($28.80 in chips) 
+Seat 2: Aylindirk ($3.70 in chips) 
+Seat 3: robinwhy ($20.30 in chips) 
+Seat 4: chessmanA1 ($30.05 in chips) 
+Seat 5: JoshBastian ($4.25 in chips) 
+Seat 6: Alameda22 ($30.80 in chips) 
+Seat 7: ld788 ($25.80 in chips) 
+Seat 8: rodjeur1982 ($24.65 in chips) 
+Seat 9: stevegny2k7 ($35.45 in chips) 
+Aylindirk: posts small blind $0.10
+robinwhy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Th]
+chessmanA1: folds 
+JoshBastian: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: raises $0.75 to $1
+stevegny2k7: calls $0.75
+*** FLOP *** [9h Ac 2h]
+robinwhy: bets $1.50
+stevegny2k7: folds 
+Uncalled bet ($1.50) returned to robinwhy
+robinwhy collected $2 from pot
+robinwhy: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [9h Ac 2h]
+Seat 1: CheifNegro (button) folded before Flop (didn't bet)
+Seat 2: Aylindirk (small blind) folded before Flop
+Seat 3: robinwhy (big blind) collected ($2)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: JoshBastian folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded on the Flop
+
+
+
+PokerStars Game #19971871459:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:45:34 (ET)
+Table 'Artek' 9-max Seat #2 is the button
+Seat 1: CheifNegro ($28.80 in chips) 
+Seat 2: Aylindirk ($3.60 in chips) 
+Seat 3: robinwhy ($21.30 in chips) 
+Seat 4: chessmanA1 ($30.05 in chips) 
+Seat 5: JoshBastian ($4.25 in chips) 
+Seat 6: Alameda22 ($30.80 in chips) 
+Seat 7: ld788 ($25.80 in chips) 
+Seat 8: rodjeur1982 ($24.65 in chips) 
+Seat 9: stevegny2k7 ($34.45 in chips) 
+robinwhy: posts small blind $0.10
+chessmanA1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 5d]
+JoshBastian: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: raises $0.75 to $1
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+Uncalled bet ($0.75) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk (button) folded before Flop (didn't bet)
+Seat 3: robinwhy (small blind) folded before Flop
+Seat 4: chessmanA1 (big blind) folded before Flop
+Seat 5: JoshBastian folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19971895708:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:46:34 (ET)
+Table 'Artek' 9-max Seat #3 is the button
+Seat 1: CheifNegro ($28.80 in chips) 
+Seat 2: Aylindirk ($3.60 in chips) 
+Seat 3: robinwhy ($21.20 in chips) 
+Seat 4: chessmanA1 ($29.80 in chips) 
+Seat 5: JoshBastian ($4.25 in chips) 
+Seat 6: Alameda22 ($30.80 in chips) 
+Seat 7: ld788 ($25.80 in chips) 
+Seat 8: rodjeur1982 ($24.65 in chips) 
+Seat 9: stevegny2k7 ($34.80 in chips) 
+chessmanA1: posts small blind $0.10
+JoshBastian: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 9c]
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: calls $0.15
+JoshBastian: checks 
+*** FLOP *** [2s Qc 9d]
+chessmanA1: bets $0.25
+JoshBastian: folds 
+stevegny2k7: calls $0.25
+*** TURN *** [2s Qc 9d] [Ts]
+chessmanA1: bets $0.50
+stevegny2k7: raises $0.50 to $1
+chessmanA1: calls $0.50
+*** RIVER *** [2s Qc 9d Ts] [7d]
+chessmanA1: bets $0.25
+stevegny2k7: calls $0.25
+*** SHOW DOWN ***
+chessmanA1: shows [Kd Qd] (a pair of Queens)
+stevegny2k7: mucks hand 
+chessmanA1 collected $3.60 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [2s Qc 9d Ts 7d]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy (button) folded before Flop (didn't bet)
+Seat 4: chessmanA1 (small blind) showed [Kd Qd] and won ($3.60) with a pair of Queens
+Seat 5: JoshBastian (big blind) folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 mucked [4d Kh]
+
+
+
+PokerStars Game #19971941049:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:48:25 (ET)
+Table 'Artek' 9-max Seat #4 is the button
+Seat 1: CheifNegro ($28.80 in chips) 
+Seat 2: Aylindirk ($3.60 in chips) 
+Seat 3: robinwhy ($21.20 in chips) 
+Seat 4: chessmanA1 ($31.65 in chips) 
+Seat 5: JoshBastian ($5 in chips) 
+Seat 6: Alameda22 ($30.80 in chips) 
+Seat 7: ld788 ($25.80 in chips) 
+Seat 8: rodjeur1982 ($24.65 in chips) 
+Seat 9: stevegny2k7 ($33.05 in chips) 
+JoshBastian: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 3s]
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: raises $0.50 to $0.75
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+JoshBastian: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 (button) folded before Flop (didn't bet)
+Seat 5: JoshBastian (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19971954084:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:48:57 (ET)
+Table 'Artek' 9-max Seat #5 is the button
+Seat 1: CheifNegro ($28.80 in chips) 
+Seat 2: Aylindirk ($3.60 in chips) 
+Seat 3: robinwhy ($21.20 in chips) 
+Seat 4: chessmanA1 ($31.65 in chips) 
+Seat 5: JoshBastian ($4.90 in chips) 
+Seat 6: Alameda22 ($30.55 in chips) 
+Seat 7: ld788 ($25.80 in chips) 
+Seat 8: rodjeur1982 ($24.65 in chips) 
+Seat 9: stevegny2k7 ($33.40 in chips) 
+Alameda22: posts small blind $0.10
+ld788: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 2d]
+rodjeur1982: folds 
+stevegny2k7: raises $0.75 to $1
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+JoshBastian: folds 
+Alameda22: folds 
+ld788: folds 
+Uncalled bet ($0.75) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: JoshBastian (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: ld788 (big blind) folded before Flop
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19971968525:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:49:32 (ET)
+Table 'Artek' 9-max Seat #6 is the button
+Seat 1: CheifNegro ($28.80 in chips) 
+Seat 2: Aylindirk ($3.60 in chips) 
+Seat 3: robinwhy ($21.20 in chips) 
+Seat 4: chessmanA1 ($31.65 in chips) 
+Seat 5: JoshBastian ($4.90 in chips) 
+Seat 6: Alameda22 ($30.45 in chips) 
+Seat 7: ld788 ($25.55 in chips) 
+Seat 8: rodjeur1982 ($24.65 in chips) 
+Seat 9: stevegny2k7 ($33.75 in chips) 
+ld788: posts small blind $0.10
+rodjeur1982: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 3d]
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+JoshBastian: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: checks 
+*** FLOP *** [7s 2h Kc]
+rodjeur1982: bets $0.50
+stevegny2k7: folds 
+Uncalled bet ($0.50) returned to rodjeur1982
+rodjeur1982 collected $0.60 from pot
+rodjeur1982: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [7s 2h Kc]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: JoshBastian folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: ld788 (small blind) folded before Flop
+Seat 8: rodjeur1982 (big blind) collected ($0.60)
+Seat 9: stevegny2k7 folded on the Flop
+
+
+
+PokerStars Game #19971990335:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:50:27 (ET)
+Table 'Artek' 9-max Seat #7 is the button
+Seat 1: CheifNegro ($28.80 in chips) 
+Seat 2: Aylindirk ($3.60 in chips) 
+Seat 3: robinwhy ($21.20 in chips) 
+Seat 4: chessmanA1 ($31.65 in chips) 
+Seat 5: JoshBastian ($4.90 in chips) 
+Seat 6: Alameda22 ($30.45 in chips) 
+Seat 7: ld788 ($25.45 in chips) 
+Seat 8: rodjeur1982 ($25 in chips) 
+Seat 9: stevegny2k7 ($33.50 in chips) 
+rodjeur1982: posts small blind $0.10
+stevegny2k7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Jc]
+CheifNegro: folds 
+Aylindirk: folds 
+Aylindirk is sitting out
+robinwhy: folds 
+chessmanA1: folds 
+JoshBastian: raises $0.75 to $1
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: folds 
+Uncalled bet ($0.75) returned to JoshBastian
+JoshBastian collected $0.60 from pot
+JoshBastian: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: JoshBastian collected ($0.60)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 (button) folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (small blind) folded before Flop
+Seat 9: stevegny2k7 (big blind) folded before Flop
+
+
+
+PokerStars Game #19972006921:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:51:07 (ET)
+Table 'Artek' 9-max Seat #8 is the button
+Seat 1: CheifNegro ($28.80 in chips) 
+Seat 3: robinwhy ($21.20 in chips) 
+Seat 4: chessmanA1 ($31.65 in chips) 
+Seat 5: JoshBastian ($5.25 in chips) 
+Seat 6: Alameda22 ($30.45 in chips) 
+Seat 7: ld788 ($25.45 in chips) 
+Seat 8: rodjeur1982 ($24.90 in chips) 
+Seat 9: stevegny2k7 ($33.25 in chips) 
+stevegny2k7: posts small blind $0.10
+CheifNegro: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 3d]
+robinwhy: folds 
+chessmanA1: folds 
+JoshBastian: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: raises $0.75 to $1
+stevegny2k7: raises $1.25 to $2.25
+CheifNegro: folds 
+rodjeur1982: calls $1.25
+*** FLOP *** [7h 3h Ah]
+stevegny2k7: bets $3.50
+rodjeur1982: calls $3.50
+*** TURN *** [7h 3h Ah] [7d]
+stevegny2k7: bets $3.50
+rodjeur1982: calls $3.50
+*** RIVER *** [7h 3h Ah 7d] [5d]
+stevegny2k7: bets $9.75
+rodjeur1982: raises $5.90 to $15.65 and is all-in
+stevegny2k7: calls $5.90
+*** SHOW DOWN ***
+rodjeur1982: shows [Th Kh] (a flush, Ace high)
+stevegny2k7: mucks hand 
+rodjeur1982 collected $47.60 from pot
+*** SUMMARY ***
+Total pot $50.05 | Rake $2.45 
+Board [7h 3h Ah 7d 5d]
+Seat 1: CheifNegro (big blind) folded before Flop
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: JoshBastian folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (button) showed [Th Kh] and won ($47.60) with a flush, Ace high
+Seat 9: stevegny2k7 (small blind) mucked [As Ks]
+
+
+
+PokerStars Game #19972054674:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:53:05 (ET)
+Table 'Artek' 9-max Seat #9 is the button
+Seat 1: CheifNegro ($28.55 in chips) 
+Seat 3: robinwhy ($21.20 in chips) 
+Seat 4: chessmanA1 ($31.65 in chips) 
+Seat 5: JoshBastian ($5.25 in chips) 
+Seat 6: Alameda22 ($30.45 in chips) 
+Seat 7: ld788 ($25.45 in chips) 
+Seat 8: rodjeur1982 ($47.60 in chips) 
+Seat 9: stevegny2k7 ($8.35 in chips) 
+CheifNegro: posts small blind $0.10
+robinwhy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 4h]
+chessmanA1: folds 
+JoshBastian: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: raises $8.10 to $8.35 and is all-in
+CheifNegro: folds 
+robinwhy: folds 
+Uncalled bet ($8.10) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro (small blind) folded before Flop
+Seat 3: robinwhy (big blind) folded before Flop
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: JoshBastian folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (button) collected ($0.60)
+
+
+
+PokerStars Game #19972073859:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:53:53 (ET)
+Table 'Artek' 9-max Seat #1 is the button
+Seat 1: CheifNegro ($28.45 in chips) 
+Seat 3: robinwhy ($20.95 in chips) 
+Seat 4: chessmanA1 ($31.65 in chips) 
+Seat 5: JoshBastian ($5.25 in chips) 
+Seat 6: Alameda22 ($30.45 in chips) 
+Seat 7: ld788 ($25.45 in chips) 
+Seat 8: rodjeur1982 ($47.60 in chips) 
+Seat 9: stevegny2k7 ($8.70 in chips) 
+robinwhy: posts small blind $0.10
+chessmanA1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Td]
+JoshBastian: folds 
+JoshBastian leaves the table
+Alameda22: calls $0.25
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+CheifNegro: folds 
+robinwhy: calls $0.15
+chessmanA1: checks 
+*** FLOP *** [Jd Th Qc]
+robinwhy: checks 
+chessmanA1: checks 
+Alameda22: bets $0.50
+stevegny2k7: calls $0.50
+robinwhy: calls $0.50
+chessmanA1: folds 
+*** TURN *** [Jd Th Qc] [3d]
+robinwhy: checks 
+Alameda22: bets $1.75
+stevegny2k7: folds 
+robinwhy: folds 
+Uncalled bet ($1.75) returned to Alameda22
+Alameda22 collected $2.40 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Jd Th Qc 3d]
+Seat 1: CheifNegro (button) folded before Flop (didn't bet)
+Seat 3: robinwhy (small blind) folded on the Turn
+Seat 4: chessmanA1 (big blind) folded on the Flop
+Seat 5: JoshBastian folded before Flop (didn't bet)
+Seat 6: Alameda22 collected ($2.40)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded on the Turn
+
+
+
+PokerStars Game #19972113586:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:55:32 (ET)
+Table 'Artek' 9-max Seat #3 is the button
+Seat 1: CheifNegro ($28.45 in chips) 
+Seat 3: robinwhy ($20.20 in chips) 
+Seat 4: chessmanA1 ($31.40 in chips) 
+Seat 6: Alameda22 ($32.10 in chips) 
+Seat 7: ld788 ($25.45 in chips) 
+Seat 8: rodjeur1982 ($47.60 in chips) 
+Seat 9: stevegny2k7 ($7.95 in chips) 
+chessmanA1: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 3s]
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: raises $0.50 to $0.75
+CheifNegro: folds 
+robinwhy: folds 
+chessmanA1: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 3: robinwhy (button) folded before Flop (didn't bet)
+Seat 4: chessmanA1 (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19972131120:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:56:16 (ET)
+Table 'Artek' 9-max Seat #4 is the button
+Seat 1: CheifNegro ($28.45 in chips) 
+Seat 3: robinwhy ($20.20 in chips) 
+Seat 4: chessmanA1 ($31.30 in chips) 
+Seat 6: Alameda22 ($31.85 in chips) 
+Seat 7: ld788 ($25.45 in chips) 
+Seat 8: rodjeur1982 ($47.60 in chips) 
+Seat 9: stevegny2k7 ($8.30 in chips) 
+Alameda22: posts small blind $0.10
+ld788: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 5c]
+rodjeur1982: folds 
+stevegny2k7: folds 
+CheifNegro: raises $0.75 to $1
+robinwhy: folds 
+Aylindirk has returned
+chessmanA1: folds 
+Alameda22: folds 
+ld788: folds 
+Uncalled bet ($0.75) returned to CheifNegro
+CheifNegro collected $0.60 from pot
+CheifNegro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro collected ($0.60)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: ld788 (big blind) folded before Flop
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972159564:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:57:27 (ET)
+Table 'Artek' 9-max Seat #6 is the button
+Seat 1: CheifNegro ($28.80 in chips) 
+Seat 3: robinwhy ($20.20 in chips) 
+Seat 4: chessmanA1 ($31.30 in chips) 
+Seat 6: Alameda22 ($31.75 in chips) 
+Seat 7: ld788 ($25.20 in chips) 
+Seat 8: rodjeur1982 ($47.60 in chips) 
+Seat 9: stevegny2k7 ($8.30 in chips) 
+ld788: posts small blind $0.10
+rodjeur1982: posts big blind $0.25
+Aylindirk: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 5c]
+stevegny2k7: raises $2 to $2.25
+CheifNegro: folds 
+robinwhy: folds 
+chessmanA1: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+Uncalled bet ($2) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: ld788 (small blind) folded before Flop
+Seat 8: rodjeur1982 (big blind) folded before Flop
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19972177565:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:58:12 (ET)
+Table 'Artek' 9-max Seat #7 is the button
+Seat 1: CheifNegro ($28.80 in chips) 
+Seat 3: robinwhy ($20.20 in chips) 
+Seat 4: chessmanA1 ($31.30 in chips) 
+Seat 6: Alameda22 ($31.75 in chips) 
+Seat 7: ld788 ($25.10 in chips) 
+Seat 8: rodjeur1982 ($47.35 in chips) 
+Seat 9: stevegny2k7 ($8.65 in chips) 
+rodjeur1982: posts small blind $0.10
+stevegny2k7: posts big blind $0.25
+Aylindirk: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 2h]
+CheifNegro: folds 
+robinwhy: folds 
+chessmanA1: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+Uncalled bet ($0.15) returned to stevegny2k7
+stevegny2k7 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 (button) folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (small blind) folded before Flop
+Seat 9: stevegny2k7 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19972192954:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:58:50 (ET)
+Table 'Artek' 9-max Seat #8 is the button
+Seat 1: CheifNegro ($28.80 in chips) 
+Seat 3: robinwhy ($20.20 in chips) 
+Seat 4: chessmanA1 ($31.30 in chips) 
+Seat 6: Alameda22 ($31.75 in chips) 
+Seat 7: ld788 ($25.10 in chips) 
+Seat 8: rodjeur1982 ($47.25 in chips) 
+Seat 9: stevegny2k7 ($8.75 in chips) 
+M.S.(PDR) joins the table at seat #5 
+stevegny2k7: posts small blind $0.10
+CheifNegro: posts big blind $0.25
+Aylindirk: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 2h]
+robinwhy: folds 
+chessmanA1: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: raises $0.75 to $1
+stevegny2k7: calls $0.90
+CheifNegro: folds 
+*** FLOP *** [5d 6s 2s]
+stevegny2k7: bets $1
+rodjeur1982: folds 
+Uncalled bet ($1) returned to stevegny2k7
+stevegny2k7 collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [5d 6s 2s]
+Seat 1: CheifNegro (big blind) folded before Flop
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (button) folded on the Flop
+Seat 9: stevegny2k7 (small blind) collected ($2.15)
+
+
+
+PokerStars Game #19972210144:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 17:59:34 (ET)
+Table 'Artek' 9-max Seat #9 is the button
+Seat 1: CheifNegro ($28.55 in chips) 
+Seat 2: Aylindirk ($3.60 in chips) 
+Seat 3: robinwhy ($20.20 in chips) 
+Seat 4: chessmanA1 ($31.30 in chips) 
+Seat 6: Alameda22 ($31.75 in chips) 
+Seat 7: ld788 ($25.10 in chips) 
+Seat 8: rodjeur1982 ($46.25 in chips) 
+Seat 9: stevegny2k7 ($9.90 in chips) 
+CheifNegro: posts small blind $0.10
+Aylindirk: posts big blind $0.25
+M.S.(PDR): sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 4s]
+robinwhy: folds 
+chessmanA1: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+CheifNegro: calls $0.15
+Aylindirk: checks 
+*** FLOP *** [Ad Kd 9h]
+CheifNegro: checks 
+Aylindirk: checks 
+stevegny2k7: bets $0.50
+CheifNegro: folds 
+Aylindirk: folds 
+Uncalled bet ($0.50) returned to stevegny2k7
+stevegny2k7 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Ad Kd 9h]
+Seat 1: CheifNegro (small blind) folded on the Flop
+Seat 2: Aylindirk (big blind) folded on the Flop
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (button) collected ($0.75)
+
+
+
+PokerStars Game #19972234533:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:00:34 (ET)
+Table 'Artek' 9-max Seat #1 is the button
+Seat 1: CheifNegro ($28.30 in chips) 
+Seat 2: Aylindirk ($3.35 in chips) 
+Seat 3: robinwhy ($20.20 in chips) 
+Seat 4: chessmanA1 ($31.30 in chips) 
+Seat 6: Alameda22 ($31.75 in chips) 
+Seat 7: ld788 ($25.10 in chips) 
+Seat 8: rodjeur1982 ($46.25 in chips) 
+Seat 9: stevegny2k7 ($10.40 in chips) 
+Aylindirk: posts small blind $0.10
+robinwhy: posts big blind $0.25
+M.S.(PDR): sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 9s]
+chessmanA1: folds 
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: raises $1.25 to $1.50
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+Uncalled bet ($1.25) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro (button) folded before Flop (didn't bet)
+Seat 2: Aylindirk (small blind) folded before Flop
+Seat 3: robinwhy (big blind) folded before Flop
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19972257464:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:01:30 (ET)
+Table 'Artek' 9-max Seat #2 is the button
+Seat 1: CheifNegro ($28.30 in chips) 
+Seat 2: Aylindirk ($3.25 in chips) 
+Seat 3: robinwhy ($19.95 in chips) 
+Seat 4: chessmanA1 ($31.30 in chips) 
+Seat 6: Alameda22 ($31.75 in chips) 
+Seat 7: ld788 ($25.10 in chips) 
+Seat 8: rodjeur1982 ($46.25 in chips) 
+Seat 9: stevegny2k7 ($10.75 in chips) 
+robinwhy: posts small blind $0.10
+chessmanA1: posts big blind $0.25
+M.S.(PDR): sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 4d]
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: raises $1 to $1.25
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+Uncalled bet ($1) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk (button) folded before Flop (didn't bet)
+Seat 3: robinwhy (small blind) folded before Flop
+Seat 4: chessmanA1 (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19972275655:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:02:16 (ET)
+Table 'Artek' 9-max Seat #3 is the button
+Seat 1: CheifNegro ($28.30 in chips) 
+Seat 2: Aylindirk ($3.25 in chips) 
+Seat 3: robinwhy ($19.85 in chips) 
+Seat 4: chessmanA1 ($31.05 in chips) 
+Seat 5: M.S.(PDR) ($5 in chips) 
+Seat 6: Alameda22 ($31.75 in chips) 
+Seat 7: ld788 ($25.10 in chips) 
+Seat 8: rodjeur1982 ($46.25 in chips) 
+Seat 9: stevegny2k7 ($11.10 in chips) 
+chessmanA1: posts small blind $0.10
+M.S.(PDR): posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 3d]
+Alameda22: folds 
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: raises $0.75 to $1
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+M.S.(PDR): folds 
+Uncalled bet ($0.75) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy (button) folded before Flop (didn't bet)
+Seat 4: chessmanA1 (small blind) folded before Flop
+Seat 5: M.S.(PDR) (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19972294980:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:03:04 (ET)
+Table 'Artek' 9-max Seat #4 is the button
+Seat 1: CheifNegro ($28.30 in chips) 
+Seat 2: Aylindirk ($5 in chips) 
+Seat 3: robinwhy ($19.85 in chips) 
+Seat 4: chessmanA1 ($30.95 in chips) 
+Seat 5: M.S.(PDR) ($4.75 in chips) 
+Seat 6: Alameda22 ($31.75 in chips) 
+Seat 7: ld788 ($25.10 in chips) 
+Seat 8: rodjeur1982 ($46.25 in chips) 
+Seat 9: stevegny2k7 ($11.45 in chips) 
+M.S.(PDR): posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 8h]
+ld788: folds 
+rodjeur1982: folds 
+stevegny2k7: raises $0.75 to $1
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+M.S.(PDR): folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 (button) folded before Flop (didn't bet)
+Seat 5: M.S.(PDR) (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: ld788 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19972313353:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:03:50 (ET)
+Table 'Artek' 9-max Seat #5 is the button
+Seat 1: CheifNegro ($28.30 in chips) 
+Seat 2: Aylindirk ($5 in chips) 
+Seat 3: robinwhy ($19.85 in chips) 
+Seat 4: chessmanA1 ($30.95 in chips) 
+Seat 5: M.S.(PDR) ($4.65 in chips) 
+Seat 6: Alameda22 ($31.50 in chips) 
+Seat 7: ld788 ($25.10 in chips) 
+Seat 8: rodjeur1982 ($46.25 in chips) 
+Seat 9: stevegny2k7 ($11.80 in chips) 
+Alameda22: posts small blind $0.10
+ld788: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 7c]
+rodjeur1982: folds 
+stevegny2k7: raises $0.75 to $1
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+M.S.(PDR): folds 
+Alameda22: folds 
+ld788: folds 
+Uncalled bet ($0.75) returned to stevegny2k7
+ld788 is sitting out
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: M.S.(PDR) (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: ld788 (big blind) folded before Flop
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19972328553:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:04:28 (ET)
+Table 'Artek' 9-max Seat #6 is the button
+Seat 1: CheifNegro ($28.30 in chips) 
+Seat 2: Aylindirk ($5 in chips) 
+Seat 3: robinwhy ($19.85 in chips) 
+Seat 4: chessmanA1 ($30.95 in chips) 
+Seat 5: M.S.(PDR) ($4.65 in chips) 
+Seat 6: Alameda22 ($31.40 in chips) 
+Seat 8: rodjeur1982 ($46.25 in chips) 
+Seat 9: stevegny2k7 ($12.15 in chips) 
+rodjeur1982: posts small blind $0.10
+stevegny2k7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 3d]
+CheifNegro: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: raises $0.25 to $0.50
+M.S.(PDR): folds 
+Alameda22: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+*** FLOP *** [5c 5d 5s]
+stevegny2k7: bets $1
+chessmanA1: folds 
+Uncalled bet ($1) returned to stevegny2k7
+stevegny2k7 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [5c 5d 5s]
+Seat 1: CheifNegro folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded on the Flop
+Seat 5: M.S.(PDR) folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (small blind) folded before Flop
+Seat 9: stevegny2k7 (big blind) collected ($1.05)
+
+
+
+PokerStars Game #19972352028:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:05:26 (ET)
+Table 'Artek' 9-max Seat #8 is the button
+Seat 2: Aylindirk ($5 in chips) 
+Seat 3: robinwhy ($19.85 in chips) 
+Seat 4: chessmanA1 ($30.45 in chips) 
+Seat 5: M.S.(PDR) ($4.65 in chips) 
+Seat 6: Alameda22 ($31.40 in chips) 
+Seat 8: rodjeur1982 ($46.15 in chips) 
+Seat 9: stevegny2k7 ($12.70 in chips) 
+stevegny2k7: posts small blind $0.10
+CheifNegro: is sitting out 
+Aylindirk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 7h]
+robinwhy: folds 
+chessmanA1: folds 
+CheifNegro leaves the table
+M.S.(PDR): calls $0.25
+Alameda22: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.15
+Aylindirk: checks 
+*** FLOP *** [6s 8c 9c]
+stevegny2k7: bets $1
+Aylindirk: folds 
+M.S.(PDR): calls $1
+*** TURN *** [6s 8c 9c] [2d]
+Devil_flame joins the table at seat #1 
+stevegny2k7: bets $1.25
+M.S.(PDR): calls $1.25
+*** RIVER *** [6s 8c 9c 2d] [9h]
+stevegny2k7: bets $5.50
+M.S.(PDR): folds 
+Uncalled bet ($5.50) returned to stevegny2k7
+stevegny2k7 collected $5 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [6s 8c 9c 2d 9h]
+Seat 2: Aylindirk (big blind) folded on the Flop
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: M.S.(PDR) folded on the River
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (button) folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (small blind) collected ($5)
+
+
+
+PokerStars Game #19972382768:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:06:43 (ET)
+Table 'Artek' 9-max Seat #9 is the button
+Seat 2: Aylindirk ($4.75 in chips) 
+Seat 3: robinwhy ($19.85 in chips) 
+Seat 4: chessmanA1 ($30.45 in chips) 
+Seat 5: M.S.(PDR) ($2.15 in chips) 
+Seat 6: Alameda22 ($31.40 in chips) 
+Seat 8: rodjeur1982 ($46.15 in chips) 
+Seat 9: stevegny2k7 ($15.20 in chips) 
+Devil_flame will be allowed to play after the button
+Aylindirk: posts small blind $0.10
+robinwhy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Jc]
+chessmanA1: folds 
+M.S.(PDR): calls $0.25
+Alameda22: folds 
+rodjeur1982: folds 
+stevegny2k7: raises $0.75 to $1
+Aylindirk: folds 
+robinwhy: folds 
+M.S.(PDR): calls $0.75
+*** FLOP *** [9s 8h Kc]
+M.S.(PDR): bets $1.15 and is all-in
+stevegny2k7: calls $1.15
+*** TURN *** [9s 8h Kc] [7c]
+*** RIVER *** [9s 8h Kc 7c] [Jh]
+*** SHOW DOWN ***
+M.S.(PDR): shows [2d 3d] (high card King)
+stevegny2k7: shows [5s 8s] (a pair of Eights)
+stevegny2k7 collected $4.45 from pot
+M.S.(PDR) leaves the table
+*** SUMMARY ***
+Total pot $4.65 | Rake $0.20 
+Board [9s 8h Kc 7c Jh]
+Seat 2: Aylindirk (small blind) folded before Flop
+Seat 3: robinwhy (big blind) folded before Flop
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: M.S.(PDR) showed [2d 3d] and lost with high card King
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (button) showed [5s 8s] and won ($4.45) with a pair of Eights
+
+
+
+PokerStars Game #19972407273:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:07:45 (ET)
+Table 'Artek' 9-max Seat #2 is the button
+Seat 1: Devil_flame ($5 in chips) 
+Seat 2: Aylindirk ($4.65 in chips) 
+Seat 3: robinwhy ($19.60 in chips) 
+Seat 4: chessmanA1 ($30.45 in chips) 
+Seat 6: Alameda22 ($31.40 in chips) 
+Seat 8: rodjeur1982 ($46.15 in chips) 
+Seat 9: stevegny2k7 ($17.50 in chips) 
+robinwhy: posts small blind $0.10
+bangooman joins the table at seat #5 
+chessmanA1: posts big blind $0.25
+Devil_flame: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Js]
+Alameda22: folds 
+rodjeur1982: folds 
+stevegny2k7: folds 
+Devil_flame: checks 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: checks 
+*** FLOP *** [3d 4h 2s]
+chessmanA1: checks 
+Devil_flame: checks 
+*** TURN *** [3d 4h 2s] [Th]
+chessmanA1: checks 
+Devil_flame: checks 
+*** RIVER *** [3d 4h 2s Th] [5c]
+chessmanA1: bets $1
+Devil_flame: folds 
+Uncalled bet ($1) returned to chessmanA1
+chessmanA1 collected $0.60 from pot
+chessmanA1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3d 4h 2s Th 5c]
+Seat 1: Devil_flame folded on the River
+Seat 2: Aylindirk (button) folded before Flop (didn't bet)
+Seat 3: robinwhy (small blind) folded before Flop
+Seat 4: chessmanA1 (big blind) collected ($0.60)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972439267:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:09:05 (ET)
+Table 'Artek' 9-max Seat #3 is the button
+Seat 1: Devil_flame ($4.75 in chips) 
+Seat 2: Aylindirk ($4.65 in chips) 
+Seat 3: robinwhy ($19.50 in chips) 
+Seat 4: chessmanA1 ($30.80 in chips) 
+Seat 5: bangooman ($9.50 in chips) 
+Seat 6: Alameda22 ($31.40 in chips) 
+Seat 8: rodjeur1982 ($46.15 in chips) 
+Seat 9: stevegny2k7 ($17.50 in chips) 
+chessmanA1: posts small blind $0.10
+bangooman: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 9h]
+Alameda22: folds 
+rodjeur1982: folds 
+stevegny2k7: folds 
+Devil_flame: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+Uncalled bet ($0.15) returned to bangooman
+bangooman collected $0.20 from pot
+bangooman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Devil_flame folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy (button) folded before Flop (didn't bet)
+Seat 4: chessmanA1 (small blind) folded before Flop
+Seat 5: bangooman (big blind) collected ($0.20)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972452430:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:09:38 (ET)
+Table 'Artek' 9-max Seat #4 is the button
+Seat 1: Devil_flame ($4.75 in chips) 
+Seat 2: Aylindirk ($4.65 in chips) 
+Seat 3: robinwhy ($19.50 in chips) 
+Seat 4: chessmanA1 ($30.70 in chips) 
+Seat 5: bangooman ($9.60 in chips) 
+Seat 6: Alameda22 ($31.40 in chips) 
+Seat 8: rodjeur1982 ($46.15 in chips) 
+Seat 9: stevegny2k7 ($17.50 in chips) 
+bangooman: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 5d]
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+Devil_flame: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+bangooman: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Ad 5s 6s]
+bangooman: checks 
+Alameda22: checks 
+stevegny2k7: bets $1
+bangooman: folds 
+Alameda22: folds 
+Uncalled bet ($1) returned to stevegny2k7
+stevegny2k7 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Ad 5s 6s]
+Seat 1: Devil_flame folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 (button) folded before Flop (didn't bet)
+Seat 5: bangooman (small blind) folded on the Flop
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.75)
+
+
+
+PokerStars Game #19972471640:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:10:26 (ET)
+Table 'Artek' 9-max Seat #5 is the button
+Seat 1: Devil_flame ($4.75 in chips) 
+Seat 2: Aylindirk ($4.65 in chips) 
+Seat 3: robinwhy ($19.50 in chips) 
+Seat 4: chessmanA1 ($30.70 in chips) 
+Seat 5: bangooman ($9.35 in chips) 
+Seat 6: Alameda22 ($31.15 in chips) 
+Seat 8: rodjeur1982 ($46.15 in chips) 
+Seat 9: stevegny2k7 ($18 in chips) 
+Alameda22: posts small blind $0.10
+rodjeur1982: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Qh]
+stevegny2k7: raises $0.25 to $0.50
+Devil_flame: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+bangooman: calls $0.50
+Alameda22: folds 
+rodjeur1982: folds 
+*** FLOP *** [3h 4d Kd]
+stevegny2k7: bets $1
+bangooman: calls $1
+*** TURN *** [3h 4d Kd] [As]
+stevegny2k7: bets $2
+bangooman: calls $2
+*** RIVER *** [3h 4d Kd As] [8d]
+stevegny2k7: bets $5
+bangooman: raises $0.85 to $5.85 and is all-in
+stevegny2k7: calls $0.85
+*** SHOW DOWN ***
+bangooman: shows [Jd Qd] (a flush, King high)
+stevegny2k7: mucks hand 
+bangooman collected $18.15 from pot
+*** SUMMARY ***
+Total pot $19.05 | Rake $0.90 
+Board [3h 4d Kd As 8d]
+Seat 1: Devil_flame folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: bangooman (button) showed [Jd Qd] and won ($18.15) with a flush, King high
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 8: rodjeur1982 (big blind) folded before Flop
+Seat 9: stevegny2k7 mucked [Ad 8s]
+
+
+
+PokerStars Game #19972496930:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:11:30 (ET)
+Table 'Artek' 9-max Seat #6 is the button
+Seat 1: Devil_flame ($4.75 in chips) 
+Seat 2: Aylindirk ($4.65 in chips) 
+Seat 3: robinwhy ($19.50 in chips) 
+Seat 4: chessmanA1 ($30.70 in chips) 
+Seat 5: bangooman ($18.15 in chips) 
+Seat 6: Alameda22 ($31.05 in chips) 
+Seat 8: rodjeur1982 ($45.90 in chips) 
+Seat 9: stevegny2k7 ($8.65 in chips) 
+rodjeur1982: posts small blind $0.10
+stevegny2k7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Kc]
+Devil_flame: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+bangooman: folds 
+Alameda22: folds 
+rodjeur1982: folds 
+Uncalled bet ($0.15) returned to stevegny2k7
+stevegny2k7 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Devil_flame folded before Flop (didn't bet)
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: bangooman folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (small blind) folded before Flop
+Seat 9: stevegny2k7 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19972513193:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:12:11 (ET)
+Table 'Artek' 9-max Seat #8 is the button
+Seat 2: Aylindirk ($4.65 in chips) 
+Seat 3: robinwhy ($19.50 in chips) 
+Seat 4: chessmanA1 ($30.70 in chips) 
+Seat 5: bangooman ($18.15 in chips) 
+Seat 6: Alameda22 ($31.05 in chips) 
+Seat 8: rodjeur1982 ($45.80 in chips) 
+Seat 9: stevegny2k7 ($8.75 in chips) 
+stevegny2k7: posts small blind $0.10
+Devil_flame: is sitting out 
+Devil_flame leaves the table
+Aylindirk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 2d]
+robinwhy: folds 
+chessmanA1: folds 
+bangooman: calls $0.25
+Alameda22: folds 
+rodjeur1982: folds 
+stevegny2k7: raises $1 to $1.25
+Aylindirk: folds 
+bangooman: calls $1
+*** FLOP *** [3s 2h 5c]
+stevegny2k7: bets $1
+bangooman: folds 
+Uncalled bet ($1) returned to stevegny2k7
+stevegny2k7 collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [3s 2h 5c]
+Seat 2: Aylindirk (big blind) folded before Flop
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: bangooman folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (button) folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (small blind) collected ($2.65)
+
+
+
+PokerStars Game #19972543463:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:13:29 (ET)
+Table 'Artek' 9-max Seat #9 is the button
+Seat 2: Aylindirk ($4.40 in chips) 
+Seat 3: robinwhy ($19.50 in chips) 
+Seat 4: chessmanA1 ($30.70 in chips) 
+Seat 5: bangooman ($16.90 in chips) 
+Seat 6: Alameda22 ($31.05 in chips) 
+Seat 8: rodjeur1982 ($45.80 in chips) 
+Seat 9: stevegny2k7 ($10.15 in chips) 
+Aylindirk: posts small blind $0.10
+robinwhy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Jd]
+marlin250 joins the table at seat #1 
+ld788 leaves the table
+chessmanA1: calls $0.25
+bangooman: calls $0.25
+Alameda22: folds 
+rodjeur1982: folds 
+stevegny2k7: raises $1 to $1.25
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+bangooman: calls $1
+*** FLOP *** [6d Kd 6s]
+bangooman: checks 
+stevegny2k7: bets $1.25
+bangooman: folds 
+Uncalled bet ($1.25) returned to stevegny2k7
+dubble3 joins the table at seat #7 
+stevegny2k7 collected $2.95 from pot
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [6d Kd 6s]
+Seat 2: Aylindirk (small blind) folded before Flop
+Seat 3: robinwhy (big blind) folded before Flop
+Seat 4: chessmanA1 folded before Flop
+Seat 5: bangooman folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (button) collected ($2.95)
+
+
+
+PokerStars Game #19972570505:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:14:38 (ET)
+Table 'Artek' 9-max Seat #2 is the button
+Seat 2: Aylindirk ($4.30 in chips) 
+Seat 3: robinwhy ($19.25 in chips) 
+Seat 4: chessmanA1 ($30.45 in chips) 
+Seat 5: bangooman ($15.65 in chips) 
+Seat 6: Alameda22 ($31.05 in chips) 
+Seat 7: dubble3 ($9 in chips) 
+Seat 8: rodjeur1982 ($45.80 in chips) 
+Seat 9: stevegny2k7 ($11.85 in chips) 
+robinwhy: posts small blind $0.10
+chessmanA1: posts big blind $0.25
+dubble3: posts big blind $0.25
+marlin250: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 6s]
+bangooman: calls $0.25
+Alameda22: folds 
+dubble3: checks 
+rodjeur1982: folds 
+stevegny2k7: raises $0.75 to $1
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+bangooman: calls $0.75
+dubble3: folds 
+*** FLOP *** [8c 4s 8s]
+bangooman: bets $0.25
+stevegny2k7: calls $0.25
+*** TURN *** [8c 4s 8s] [Ah]
+bangooman: bets $0.25
+stevegny2k7: calls $0.25
+*** RIVER *** [8c 4s 8s Ah] [6d]
+bangooman: bets $0.25
+stevegny2k7: raises $1.25 to $1.50
+bangooman: calls $1.25
+*** SHOW DOWN ***
+stevegny2k7: shows [Ks Td] (a pair of Eights)
+bangooman: shows [9c 6c] (two pair, Eights and Sixes)
+bangooman collected $6.30 from pot
+*** SUMMARY ***
+Total pot $6.60 | Rake $0.30 
+Board [8c 4s 8s Ah 6d]
+Seat 2: Aylindirk (button) folded before Flop (didn't bet)
+Seat 3: robinwhy (small blind) folded before Flop
+Seat 4: chessmanA1 (big blind) folded before Flop
+Seat 5: bangooman showed [9c 6c] and won ($6.30) with two pair, Eights and Sixes
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dubble3 folded before Flop
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 showed [Ks Td] and lost with a pair of Eights
+
+
+
+PokerStars Game #19972605161:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:16:06 (ET)
+Table 'Artek' 9-max Seat #3 is the button
+Seat 2: Aylindirk ($4.30 in chips) 
+Seat 3: robinwhy ($19.15 in chips) 
+Seat 4: chessmanA1 ($30.20 in chips) 
+Seat 5: bangooman ($18.95 in chips) 
+Seat 6: Alameda22 ($31.05 in chips) 
+Seat 7: dubble3 ($8.75 in chips) 
+Seat 8: rodjeur1982 ($45.80 in chips) 
+Seat 9: stevegny2k7 ($8.85 in chips) 
+chessmanA1: posts small blind $0.10
+bangooman: posts big blind $0.25
+marlin250: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 7d]
+Alameda22: folds 
+dubble3: folds 
+rodjeur1982: folds 
+stevegny2k7: raises $1.75 to $2
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+bangooman: folds 
+Uncalled bet ($1.75) returned to stevegny2k7
+stevegny2k7 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy (button) folded before Flop (didn't bet)
+Seat 4: chessmanA1 (small blind) folded before Flop
+Seat 5: bangooman (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dubble3 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($0.60)
+
+
+
+PokerStars Game #19972619172:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:16:41 (ET)
+Table 'Artek' 9-max Seat #4 is the button
+Seat 2: Aylindirk ($4.30 in chips) 
+Seat 3: robinwhy ($19.15 in chips) 
+Seat 4: chessmanA1 ($30.10 in chips) 
+Seat 5: bangooman ($18.70 in chips) 
+Seat 6: Alameda22 ($31.05 in chips) 
+Seat 7: dubble3 ($8.75 in chips) 
+Seat 8: rodjeur1982 ($45.80 in chips) 
+Seat 9: stevegny2k7 ($9.20 in chips) 
+bangooman: posts small blind $0.10
+Alameda22: posts big blind $0.25
+marlin250: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Qc]
+dubble3: calls $0.25
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+bangooman: calls $0.15
+Alameda22: checks 
+*** FLOP *** [6s As Ad]
+bangooman: checks 
+Alameda22: checks 
+dubble3: bets $0.75
+stevegny2k7: calls $0.75
+bangooman: folds 
+Alameda22: folds 
+*** TURN *** [6s As Ad] [9s]
+dubble3: bets $1
+stevegny2k7: calls $1
+*** RIVER *** [6s As Ad 9s] [3h]
+dubble3: checks 
+stevegny2k7: bets $7.20 and is all-in
+dubble3: folds 
+Uncalled bet ($7.20) returned to stevegny2k7
+stevegny2k7 collected $4.30 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [6s As Ad 9s 3h]
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 (button) folded before Flop (didn't bet)
+Seat 5: bangooman (small blind) folded on the Flop
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: dubble3 folded on the River
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 collected ($4.30)
+
+
+
+PokerStars Game #19972644734:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:17:46 (ET)
+Table 'Artek' 9-max Seat #5 is the button
+Seat 2: Aylindirk ($4.30 in chips) 
+Seat 3: robinwhy ($19.15 in chips) 
+Seat 4: chessmanA1 ($30.10 in chips) 
+Seat 5: bangooman ($18.45 in chips) 
+Seat 6: Alameda22 ($30.80 in chips) 
+Seat 7: dubble3 ($6.75 in chips) 
+Seat 8: rodjeur1982 ($45.80 in chips) 
+Seat 9: stevegny2k7 ($11.50 in chips) 
+Alameda22: posts small blind $0.10
+dubble3: posts big blind $0.25
+marlin250: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 3c]
+rodjeur1982: folds 
+stevegny2k7: calls $0.25
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+bangooman: calls $0.25
+Alameda22: folds 
+dubble3: checks 
+*** FLOP *** [4s 4c Th]
+dubble3: bets $0.50
+stevegny2k7: folds 
+bangooman: folds 
+Uncalled bet ($0.50) returned to dubble3
+dubble3 collected $0.85 from pot
+dubble3: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [4s 4c Th]
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: bangooman (button) folded on the Flop
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: dubble3 (big blind) collected ($0.85)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded on the Flop
+
+
+
+PokerStars Game #19972659977:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:18:25 (ET)
+Table 'Artek' 9-max Seat #6 is the button
+Seat 2: Aylindirk ($4.30 in chips) 
+Seat 3: robinwhy ($19.15 in chips) 
+Seat 4: chessmanA1 ($30.10 in chips) 
+Seat 5: bangooman ($18.20 in chips) 
+Seat 6: Alameda22 ($30.70 in chips) 
+Seat 7: dubble3 ($7.35 in chips) 
+Seat 8: rodjeur1982 ($45.80 in chips) 
+Seat 9: stevegny2k7 ($11.25 in chips) 
+dubble3: posts small blind $0.10
+rodjeur1982: posts big blind $0.25
+marlin250: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Ac]
+stevegny2k7: folds 
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: folds 
+bangooman: calls $0.25
+Alameda22: folds 
+dubble3: calls $0.15
+rodjeur1982: checks 
+*** FLOP *** [Kd 2h 9s]
+dubble3: checks 
+rodjeur1982: bets $0.50
+bangooman: calls $0.50
+dubble3: folds 
+*** TURN *** [Kd 2h 9s] [5d]
+stevegny2k7 is sitting out
+stevegny2k7 has returned
+rodjeur1982: checks 
+bangooman: bets $0.25
+stevegny2k7 is sitting out
+stevegny2k7 has returned
+rodjeur1982: calls $0.25
+*** RIVER *** [Kd 2h 9s 5d] [Qd]
+stevegny2k7 is sitting out
+stevegny2k7 has returned
+rodjeur1982: checks 
+bangooman: bets $0.50
+rodjeur1982: calls $0.50
+*** SHOW DOWN ***
+bangooman: shows [2c 3s] (a pair of Deuces)
+rodjeur1982: shows [9c 7c] (a pair of Nines)
+rodjeur1982 collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Kd 2h 9s 5d Qd]
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: bangooman showed [2c 3s] and lost with a pair of Deuces
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: dubble3 (small blind) folded on the Flop
+Seat 8: rodjeur1982 (big blind) showed [9c 7c] and won ($3.10) with a pair of Nines
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972684942:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:19:28 (ET)
+Table 'Artek' 9-max Seat #7 is the button
+Seat 2: Aylindirk ($4.30 in chips) 
+Seat 3: robinwhy ($19.15 in chips) 
+Seat 4: chessmanA1 ($30.10 in chips) 
+Seat 5: bangooman ($16.70 in chips) 
+Seat 6: Alameda22 ($30.70 in chips) 
+Seat 7: dubble3 ($7.10 in chips) 
+Seat 8: rodjeur1982 ($47.40 in chips) 
+Seat 9: stevegny2k7 ($11.25 in chips) 
+rodjeur1982: posts small blind $0.10
+stevegny2k7: posts big blind $0.25
+marlin250: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Jh]
+Aylindirk: folds 
+robinwhy: folds 
+chessmanA1: raises $0.25 to $0.50
+bangooman: folds 
+Alameda22: folds 
+dubble3: calls $0.50
+rodjeur1982: folds 
+stevegny2k7: raises $0.75 to $1.25
+Aylindirk is sitting out
+chessmanA1: calls $0.75
+dubble3: calls $0.75
+*** FLOP *** [Th 4s 3h]
+stevegny2k7: bets $1.25
+chessmanA1: calls $1.25
+dubble3: folds 
+*** TURN *** [Th 4s 3h] [3s]
+stevegny2k7: bets $1.25
+chessmanA1: calls $1.25
+*** RIVER *** [Th 4s 3h 3s] [Qd]
+stevegny2k7: bets $7.50 and is all-in
+chessmanA1: folds 
+Uncalled bet ($7.50) returned to stevegny2k7
+stevegny2k7 collected $8.45 from pot
+*** SUMMARY ***
+Total pot $8.85 | Rake $0.40 
+Board [Th 4s 3h 3s Qd]
+Seat 2: Aylindirk folded before Flop (didn't bet)
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded on the River
+Seat 5: bangooman folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dubble3 (button) folded on the Flop
+Seat 8: rodjeur1982 (small blind) folded before Flop
+Seat 9: stevegny2k7 (big blind) collected ($8.45)
+
+
+
+PokerStars Game #19972722653:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:21:05 (ET)
+Table 'Artek' 9-max Seat #8 is the button
+Seat 1: marlin250 ($25 in chips) 
+Seat 3: robinwhy ($19.15 in chips) 
+Seat 4: chessmanA1 ($26.35 in chips) 
+Seat 5: bangooman ($16.70 in chips) 
+Seat 6: Alameda22 ($30.70 in chips) 
+Seat 7: dubble3 ($5.85 in chips) 
+Seat 8: rodjeur1982 ($47.30 in chips) 
+Seat 9: stevegny2k7 ($15.95 in chips) 
+stevegny2k7: posts small blind $0.10
+marlin250: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 2h]
+robinwhy: folds 
+chessmanA1: folds 
+bangooman: calls $0.25
+Alameda22: folds 
+dubble3: folds 
+rodjeur1982: folds 
+stevegny2k7: raises $0.50 to $0.75
+marlin250: folds 
+bangooman: raises $0.50 to $1.25
+stevegny2k7: raises $2.25 to $3.50
+bangooman: calls $2.25
+*** FLOP *** [5c 7c 9h]
+stevegny2k7: bets $3.25
+bangooman: calls $3.25
+*** TURN *** [5c 7c 9h] [8c]
+stevegny2k7: bets $9.20 and is all-in
+bangooman: calls $9.20
+*** RIVER *** [5c 7c 9h 8c] [Qc]
+*** SHOW DOWN ***
+stevegny2k7: shows [Jc Jd] (a flush, Queen high)
+bangooman: mucks hand 
+stevegny2k7 collected $30.60 from pot
+*** SUMMARY ***
+Total pot $32.15 | Rake $1.55 
+Board [5c 7c 9h 8c Qc]
+Seat 1: marlin250 (big blind) folded before Flop
+Seat 3: robinwhy folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: bangooman mucked [7s 7h]
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dubble3 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (button) folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (small blind) showed [Jc Jd] and won ($30.60) with a flush, Queen high
+
+
+
+PokerStars Game #19972754268:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:22:27 (ET)
+Table 'Artek' 9-max Seat #9 is the button
+Seat 1: marlin250 ($24.75 in chips) 
+Seat 4: chessmanA1 ($26.35 in chips) 
+Seat 5: bangooman ($0.75 in chips) 
+Seat 6: Alameda22 ($30.70 in chips) 
+Seat 7: dubble3 ($5.85 in chips) 
+Seat 8: rodjeur1982 ($47.30 in chips) 
+Seat 9: stevegny2k7 ($30.60 in chips) 
+marlin250: posts small blind $0.10
+robinwhy: is sitting out 
+chessmanA1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Jh]
+bangooman: raises $0.50 to $0.75 and is all-in
+Alameda22: folds 
+dubble3: folds 
+rodjeur1982: folds 
+stevegny2k7: calls $0.75
+marlin250: folds 
+chessmanA1: folds 
+*** FLOP *** [4h Ts 5h]
+*** TURN *** [4h Ts 5h] [Qh]
+*** RIVER *** [4h Ts 5h Qh] [8c]
+*** SHOW DOWN ***
+bangooman: shows [9c 5c] (a pair of Fives)
+stevegny2k7: mucks hand 
+bangooman collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [4h Ts 5h Qh 8c]
+Seat 1: marlin250 (small blind) folded before Flop
+Seat 4: chessmanA1 (big blind) folded before Flop
+Seat 5: bangooman showed [9c 5c] and won ($1.80) with a pair of Fives
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dubble3 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 (button) mucked [3d 9d]
+
+
+
+PokerStars Game #19972770273:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:23:08 (ET)
+Table 'Artek' 9-max Seat #1 is the button
+Seat 1: marlin250 ($24.65 in chips) 
+Seat 4: chessmanA1 ($26.10 in chips) 
+Seat 6: Alameda22 ($30.70 in chips) 
+Seat 7: dubble3 ($5.85 in chips) 
+Seat 8: rodjeur1982 ($47.30 in chips) 
+Seat 9: stevegny2k7 ($29.85 in chips) 
+chessmanA1: posts small blind $0.10
+bangooman: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 7h]
+dubble3: folds 
+rodjeur1982: folds 
+stevegny2k7: folds 
+marlin250: calls $0.25
+stevegny2k7 leaves the table
+chessmanA1: folds 
+Alameda22: checks 
+*** FLOP *** [9d 7s Qh]
+bangooman has returned
+Alameda22: checks 
+marlin250: checks 
+*** TURN *** [9d 7s Qh] [Js]
+Alameda22: checks 
+marlin250: checks 
+*** RIVER *** [9d 7s Qh Js] [Qs]
+Alameda22: bets $0.25
+marlin250: folds 
+Uncalled bet ($0.25) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9d 7s Qh Js Qs]
+Seat 1: marlin250 (button) folded on the River
+Seat 4: chessmanA1 (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) collected ($0.60)
+Seat 7: dubble3 folded before Flop (didn't bet)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+Seat 9: stevegny2k7 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972802706:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:24:32 (ET)
+Table 'Artek' 9-max Seat #4 is the button
+Seat 1: marlin250 ($24.40 in chips) 
+Seat 4: chessmanA1 ($26 in chips) 
+Seat 6: Alameda22 ($31.05 in chips) 
+Seat 7: dubble3 ($5.85 in chips) 
+Seat 8: rodjeur1982 ($47.30 in chips) 
+bangooman will be allowed to play after the button
+Alameda22: posts small blind $0.10
+dubble3: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Js]
+rodjeur1982: folds 
+marlin250: folds 
+chessmanA1: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to dubble3
+dubble3 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: marlin250 folded before Flop (didn't bet)
+Seat 4: chessmanA1 (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: dubble3 (big blind) collected ($0.20)
+Seat 8: rodjeur1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19972812096:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:24:56 (ET)
+Table 'Artek' 9-max Seat #6 is the button
+Seat 1: marlin250 ($24.40 in chips) 
+Seat 4: chessmanA1 ($26 in chips) 
+Seat 5: bangooman ($1.80 in chips) 
+Seat 6: Alameda22 ($30.95 in chips) 
+Seat 7: dubble3 ($5.95 in chips) 
+Seat 8: rodjeur1982 ($47.30 in chips) 
+dubble3: posts small blind $0.10
+rodjeur1982: posts big blind $0.25
+bangooman: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 7d]
+marlin250: folds 
+chessmanA1: folds 
+bangooman: raises $1.45 to $1.70 and is all-in
+marlin250 leaves the table
+Alameda22: folds 
+dubble3: folds 
+rodjeur1982: folds 
+Uncalled bet ($1.45) returned to bangooman
+bangooman collected $0.70 from pot
+bangooman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: marlin250 folded before Flop (didn't bet)
+Seat 4: chessmanA1 folded before Flop (didn't bet)
+Seat 5: bangooman collected ($0.70)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: dubble3 (small blind) folded before Flop
+Seat 8: rodjeur1982 (big blind) folded before Flop
+
+
+
+PokerStars Game #19972825102:  Hold'em No Limit ($0.10/$0.25) - 2008/08/28 - 18:25:30 (ET)
+Table 'Artek' 9-max Seat #7 is the button
+Seat 5: bangooman ($2.15 in chips) 
+Seat 6: Alameda22 ($30.95 in chips) 
+Seat 7: dubble3 ($5.85 in chips) 
+Seat 8: rodjeur1982 ($47.05 in chips) 
+rodjeur1982: posts small blind $0.10
+chessmanA1: is sitting out 
+chessmanA1 leaves the table
+bangooman: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 5s]
+lukasek10 joins the table at seat #4 
+Alameda22: folds 
+dubble3: folds 
+rodjeur1982: folds 
+Uncalled bet ($0.15) returned to bangooman
+bangooman collected $0.20 from pot
+bangooman: doesn't show hand 
+Aylindirk leaves the table
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 5: bangooman (big blind) collected ($0.20)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: dubble3 (button) folded before Flop (didn't bet)
+Seat 8: rodjeur1982 (small blind) folded before Flop
+
+
+

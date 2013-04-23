@@ -1,0 +1,5390 @@
+PokerStars Game #19951389578:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:45:52 (ET)
+Table 'Alagasta III' 9-max Seat #2 is the button
+Seat 1: AcedePique ($38.80 in chips) 
+Seat 2: E_St_Shuffle ($31.15 in chips) 
+Seat 3: zachsback ($14 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 5: cdcmiglino ($16.75 in chips) 
+Seat 6: billard113 ($25.60 in chips) 
+Seat 7: Horseshoer07 ($12.60 in chips) 
+Seat 8: r0nny72 ($7.75 in chips) 
+Seat 9: foyt67 ($20.90 in chips) 
+zachsback: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Kd]
+cdcmiglino: calls $0.25
+billard113: folds 
+Horseshoer07: folds 
+r0nny72: folds 
+foyt67: folds 
+AcedePique: folds 
+E_St_Shuffle: folds 
+zachsback: folds 
+Alameda22: checks 
+*** FLOP *** [Kc Ks Th]
+Alameda22: bets $0.50
+cdcmiglino: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kc Ks Th]
+Seat 1: AcedePique folded before Flop (didn't bet)
+Seat 2: E_St_Shuffle (button) folded before Flop (didn't bet)
+Seat 3: zachsback (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) collected ($0.60)
+Seat 5: cdcmiglino folded on the Flop
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: foyt67 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951411827:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:46:49 (ET)
+Table 'Alagasta III' 9-max Seat #3 is the button
+Seat 1: AcedePique ($38.80 in chips) 
+Seat 2: E_St_Shuffle ($31.15 in chips) 
+Seat 3: zachsback ($13.90 in chips) 
+Seat 4: Alameda22 ($25.35 in chips) 
+Seat 5: cdcmiglino ($16.50 in chips) 
+Seat 6: billard113 ($25.60 in chips) 
+Seat 7: Horseshoer07 ($12.60 in chips) 
+Seat 8: r0nny72 ($7.75 in chips) 
+Seat 9: foyt67 ($20.90 in chips) 
+Alameda22: posts small blind $0.10
+cdcmiglino: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 8h]
+billard113: folds 
+Horseshoer07: folds 
+r0nny72: folds 
+foyt67: calls $0.25
+AcedePique: folds 
+E_St_Shuffle: folds 
+zachsback: folds 
+Alameda22: folds 
+cdcmiglino: checks 
+*** FLOP *** [7h As Jd]
+cdcmiglino: bets $0.25
+foyt67: raises $0.25 to $0.50
+cdcmiglino: calls $0.25
+*** TURN *** [7h As Jd] [Th]
+cdcmiglino: checks 
+foyt67: bets $0.25
+cdcmiglino: raises $0.50 to $0.75
+foyt67: calls $0.50
+*** RIVER *** [7h As Jd Th] [9s]
+cdcmiglino: checks 
+foyt67: bets $1
+cdcmiglino: calls $1
+*** SHOW DOWN ***
+foyt67: shows [9h 7c] (two pair, Nines and Sevens)
+cdcmiglino: shows [Td Js] (two pair, Jacks and Tens)
+cdcmiglino collected $4.90 from pot
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.20 
+Board [7h As Jd Th 9s]
+Seat 1: AcedePique folded before Flop (didn't bet)
+Seat 2: E_St_Shuffle folded before Flop (didn't bet)
+Seat 3: zachsback (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: cdcmiglino (big blind) showed [Td Js] and won ($4.90) with two pair, Jacks and Tens
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: foyt67 showed [9h 7c] and lost with two pair, Nines and Sevens
+
+
+
+PokerStars Game #19951451400:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:48:30 (ET)
+Table 'Alagasta III' 9-max Seat #4 is the button
+Seat 1: AcedePique ($38.80 in chips) 
+Seat 2: E_St_Shuffle ($31.15 in chips) 
+Seat 3: zachsback ($13.90 in chips) 
+Seat 4: Alameda22 ($25.25 in chips) 
+Seat 5: cdcmiglino ($18.90 in chips) 
+Seat 6: billard113 ($25.60 in chips) 
+Seat 7: Horseshoer07 ($12.60 in chips) 
+Seat 8: r0nny72 ($7.75 in chips) 
+Seat 9: foyt67 ($18.40 in chips) 
+cdcmiglino: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 2s]
+Horseshoer07: raises $0.25 to $0.50
+r0nny72: calls $0.50
+foyt67: calls $0.50
+AcedePique: calls $0.50
+E_St_Shuffle: folds 
+zachsback: folds 
+Alameda22: folds 
+cdcmiglino: folds 
+billard113: calls $0.25
+*** FLOP *** [3c As Qd]
+billard113: checks 
+Horseshoer07: bets $0.50
+r0nny72: calls $0.50
+foyt67: folds 
+AcedePique: raises $2 to $2.50
+billard113: folds 
+Horseshoer07: calls $2
+r0nny72: folds 
+*** TURN *** [3c As Qd] [Th]
+Horseshoer07: checks 
+AcedePique: bets $3.50
+Horseshoer07: folds 
+Uncalled bet ($3.50) returned to AcedePique
+AcedePique collected $7.70 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.10 | Rake $0.40 
+Board [3c As Qd Th]
+Seat 1: AcedePique collected ($7.70)
+Seat 2: E_St_Shuffle folded before Flop (didn't bet)
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: cdcmiglino (small blind) folded before Flop
+Seat 6: billard113 (big blind) folded on the Flop
+Seat 7: Horseshoer07 folded on the Turn
+Seat 8: r0nny72 folded on the Flop
+Seat 9: foyt67 folded on the Flop
+
+
+
+PokerStars Game #19951492955:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:50:18 (ET)
+Table 'Alagasta III' 9-max Seat #5 is the button
+Seat 1: AcedePique ($43.50 in chips) 
+Seat 2: E_St_Shuffle ($31.15 in chips) 
+Seat 3: zachsback ($13.90 in chips) 
+Seat 4: Alameda22 ($25.25 in chips) 
+Seat 5: cdcmiglino ($18.80 in chips) 
+Seat 6: billard113 ($25.10 in chips) 
+Seat 7: Horseshoer07 ($9.60 in chips) 
+Seat 8: r0nny72 ($6.75 in chips) 
+Seat 9: foyt67 ($17.90 in chips) 
+billard113: posts small blind $0.10
+Horseshoer07: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 3c]
+r0nny72: folds 
+foyt67: folds 
+AcedePique: folds 
+E_St_Shuffle: folds 
+zachsback: folds 
+Alameda22: folds 
+cdcmiglino: calls $0.25
+billard113: calls $0.15
+Horseshoer07: checks 
+*** FLOP *** [5s Ac 6s]
+billard113: checks 
+Horseshoer07: bets $1
+cdcmiglino: folds 
+billard113: folds 
+Uncalled bet ($1) returned to Horseshoer07
+Horseshoer07 collected $0.75 from pot
+Horseshoer07: shows [5c 6c] (two pair, Sixes and Fives)
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [5s Ac 6s]
+Seat 1: AcedePique folded before Flop (didn't bet)
+Seat 2: E_St_Shuffle folded before Flop (didn't bet)
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: cdcmiglino (button) folded on the Flop
+Seat 6: billard113 (small blind) folded on the Flop
+Seat 7: Horseshoer07 (big blind) collected ($0.75)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: foyt67 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951515225:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:51:16 (ET)
+Table 'Alagasta III' 9-max Seat #6 is the button
+Seat 1: AcedePique ($43.50 in chips) 
+Seat 2: E_St_Shuffle ($31.15 in chips) 
+Seat 3: zachsback ($13.90 in chips) 
+Seat 4: Alameda22 ($25.25 in chips) 
+Seat 5: cdcmiglino ($18.55 in chips) 
+Seat 6: billard113 ($24.85 in chips) 
+Seat 7: Horseshoer07 ($10.10 in chips) 
+Seat 8: r0nny72 ($6.75 in chips) 
+Seat 9: foyt67 ($17.90 in chips) 
+Horseshoer07: posts small blind $0.10
+r0nny72: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd As]
+foyt67: calls $0.25
+AcedePique: folds 
+E_St_Shuffle: folds 
+zachsback: folds 
+Alameda22: raises $0.75 to $1
+cdcmiglino: folds 
+billard113: folds 
+Horseshoer07: folds 
+r0nny72: calls $0.75
+foyt67: folds 
+*** FLOP *** [Kc 5d Jd]
+r0nny72: checks 
+Alameda22: bets $1.50
+r0nny72: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $2.25 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Kc 5d Jd]
+Seat 1: AcedePique folded before Flop (didn't bet)
+Seat 2: E_St_Shuffle folded before Flop (didn't bet)
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 collected ($2.25)
+Seat 5: cdcmiglino folded before Flop (didn't bet)
+Seat 6: billard113 (button) folded before Flop (didn't bet)
+Seat 7: Horseshoer07 (small blind) folded before Flop
+Seat 8: r0nny72 (big blind) folded on the Flop
+Seat 9: foyt67 folded before Flop
+
+
+
+PokerStars Game #19951541564:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:52:23 (ET)
+Table 'Alagasta III' 9-max Seat #7 is the button
+Seat 1: AcedePique ($43.50 in chips) 
+Seat 2: E_St_Shuffle ($31.15 in chips) 
+Seat 3: zachsback ($13.90 in chips) 
+Seat 4: Alameda22 ($26.50 in chips) 
+Seat 5: cdcmiglino ($18.55 in chips) 
+Seat 6: billard113 ($24.85 in chips) 
+Seat 7: Horseshoer07 ($10 in chips) 
+Seat 8: r0nny72 ($5.75 in chips) 
+Seat 9: foyt67 ($17.65 in chips) 
+r0nny72: posts small blind $0.10
+foyt67: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 2d]
+AcedePique: folds 
+E_St_Shuffle: folds 
+zachsback: folds 
+Alameda22: folds 
+cdcmiglino: folds 
+billard113: folds 
+Horseshoer07: calls $0.25
+r0nny72: calls $0.15
+foyt67: checks 
+*** FLOP *** [5c Qs 7c]
+r0nny72: checks 
+foyt67: checks 
+Horseshoer07: checks 
+*** TURN *** [5c Qs 7c] [6h]
+r0nny72: checks 
+E_St_Shuffle leaves the table
+foyt67: checks 
+Horseshoer07: bets $0.75
+r0nny72: folds 
+foyt67: folds 
+Uncalled bet ($0.75) returned to Horseshoer07
+AcedePique leaves the table
+Horseshoer07 collected $0.75 from pot
+Horseshoer07: shows [Ks Kc] (a pair of Kings)
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [5c Qs 7c 6h]
+Seat 1: AcedePique folded before Flop (didn't bet)
+Seat 2: E_St_Shuffle folded before Flop (didn't bet)
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: cdcmiglino folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 (button) collected ($0.75)
+Seat 8: r0nny72 (small blind) folded on the Turn
+Seat 9: foyt67 (big blind) folded on the Turn
+
+
+
+PokerStars Game #19951573424:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:53:46 (ET)
+Table 'Alagasta III' 9-max Seat #8 is the button
+Seat 3: zachsback ($15.90 in chips) 
+Seat 4: Alameda22 ($26.50 in chips) 
+Seat 5: cdcmiglino ($18.55 in chips) 
+Seat 6: billard113 ($24.85 in chips) 
+Seat 7: Horseshoer07 ($10.50 in chips) 
+Seat 8: r0nny72 ($5.50 in chips) 
+Seat 9: foyt67 ($17.40 in chips) 
+CRB23 joins the table at seat #2 
+foyt67: posts small blind $0.10
+zachsback: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 5c]
+cdcmiglino said, "any slower"
+Alameda22: folds 
+cdcmiglino: folds 
+cdcmiglino is sitting out
+billard113: folds 
+Horseshoer07: folds 
+r0nny72: calls $0.25
+foyt67: raises $0.50 to $0.75
+zachsback: folds 
+r0nny72: calls $0.50
+*** FLOP *** [Jd As 6h]
+foyt67: bets $0.75
+r0nny72: calls $0.75
+*** TURN *** [Jd As 6h] [3d]
+foyt67: bets $0.75
+r0nny72: calls $0.75
+*** RIVER *** [Jd As 6h 3d] [2s]
+foyt67: bets $0.25
+r0nny72: folds 
+Uncalled bet ($0.25) returned to foyt67
+foyt67 collected $4.55 from pot
+foyt67: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.20 
+Board [Jd As 6h 3d 2s]
+Seat 3: zachsback (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: cdcmiglino folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 folded before Flop (didn't bet)
+Seat 8: r0nny72 (button) folded on the River
+Seat 9: foyt67 (small blind) collected ($4.55)
+
+
+
+PokerStars Game #19951598033:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:54:50 (ET)
+Table 'Alagasta III' 9-max Seat #9 is the button
+Seat 3: zachsback ($15.65 in chips) 
+Seat 4: Alameda22 ($26.50 in chips) 
+Seat 6: billard113 ($24.85 in chips) 
+Seat 7: Horseshoer07 ($10.50 in chips) 
+Seat 8: r0nny72 ($3.25 in chips) 
+Seat 9: foyt67 ($19.70 in chips) 
+CRB23 will be allowed to play after the button
+zachsback: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 5c]
+billard113: folds 
+Horseshoer07: calls $0.25
+r0nny72: folds 
+foyt67: raises $0.75 to $1
+zachsback: folds 
+Alameda22: folds 
+Horseshoer07: calls $0.75
+*** FLOP *** [Ts Ks 5s]
+Horseshoer07: checks 
+foyt67: checks 
+*** TURN *** [Ts Ks 5s] [6d]
+Horseshoer07: checks 
+foyt67: bets $1
+Horseshoer07: folds 
+Uncalled bet ($1) returned to foyt67
+foyt67 collected $2.25 from pot
+EnjoyLife73 joins the table at seat #1 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Ts Ks 5s 6d]
+Seat 3: zachsback (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 folded on the Turn
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: foyt67 (button) collected ($2.25)
+
+
+
+PokerStars Game #19951622830:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:55:55 (ET)
+Table 'Alagasta III' 9-max Seat #3 is the button
+Seat 2: CRB23 ($5 in chips) 
+Seat 3: zachsback ($15.55 in chips) 
+Seat 4: Alameda22 ($26.25 in chips) 
+Seat 6: billard113 ($24.85 in chips) 
+Seat 7: Horseshoer07 ($9.50 in chips) 
+Seat 8: r0nny72 ($3.25 in chips) 
+Seat 9: foyt67 ($20.95 in chips) 
+Alameda22: posts small blind $0.10
+billard113: posts big blind $0.25
+EnjoyLife73: sits out 
+CRB23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 7h]
+Horseshoer07: folds 
+r0nny72: folds 
+foyt67: calls $0.25
+CRB23: checks 
+zachsback: folds 
+Alameda22: folds 
+billard113: checks 
+*** FLOP *** [9s 2c 6d]
+billard113: checks 
+foyt67: checks 
+CRB23: bets $0.50
+billard113: folds 
+foyt67: calls $0.50
+*** TURN *** [9s 2c 6d] [5c]
+foyt67: checks 
+CRB23: checks 
+*** RIVER *** [9s 2c 6d 5c] [Jd]
+foyt67: checks 
+CRB23: checks 
+*** SHOW DOWN ***
+foyt67: shows [Kd 4d] (high card King)
+CRB23: shows [Ad 3h] (high card Ace)
+CRB23 collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [9s 2c 6d 5c Jd]
+Seat 2: CRB23 showed [Ad 3h] and won ($1.80) with high card Ace
+Seat 3: zachsback (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 6: billard113 (big blind) folded on the Flop
+Seat 7: Horseshoer07 folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: foyt67 showed [Kd 4d] and lost with high card King
+
+
+
+PokerStars Game #19951657927:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:57:27 (ET)
+Table 'Alagasta III' 9-max Seat #4 is the button
+Seat 2: CRB23 ($6.05 in chips) 
+Seat 3: zachsback ($15.55 in chips) 
+Seat 4: Alameda22 ($26.15 in chips) 
+Seat 6: billard113 ($24.60 in chips) 
+Seat 7: Horseshoer07 ($9.50 in chips) 
+Seat 8: r0nny72 ($3.25 in chips) 
+Seat 9: foyt67 ($20.20 in chips) 
+billard113: posts small blind $0.10
+Horseshoer07: posts big blind $0.25
+EnjoyLife73: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Jc]
+r0nny72: folds 
+foyt67: calls $0.25
+CRB23: calls $0.25
+zachsback: folds 
+Alameda22: folds 
+billard113: folds 
+Horseshoer07: checks 
+*** FLOP *** [Qs 4s Ah]
+Horseshoer07: bets $0.75
+foyt67: folds 
+CRB23: calls $0.75
+*** TURN *** [Qs 4s Ah] [Th]
+Horseshoer07: bets $1
+CRB23: calls $1
+*** RIVER *** [Qs 4s Ah Th] [Kh]
+Horseshoer07: bets $1
+CRB23: raises $1 to $2
+Horseshoer07: calls $1
+*** SHOW DOWN ***
+CRB23: shows [Js Ts] (a straight, Ten to Ace)
+Horseshoer07: mucks hand 
+CRB23 collected $7.95 from pot
+*** SUMMARY ***
+Total pot $8.35 | Rake $0.40 
+Board [Qs 4s Ah Th Kh]
+Seat 2: CRB23 showed [Js Ts] and won ($7.95) with a straight, Ten to Ace
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 6: billard113 (small blind) folded before Flop
+Seat 7: Horseshoer07 (big blind) mucked [7h Ad]
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: foyt67 folded on the Flop
+
+
+
+PokerStars Game #19951687068:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 21:58:44 (ET)
+Table 'Alagasta III' 9-max Seat #6 is the button
+Seat 2: CRB23 ($10 in chips) 
+Seat 3: zachsback ($15.55 in chips) 
+Seat 4: Alameda22 ($26.15 in chips) 
+Seat 6: billard113 ($24.50 in chips) 
+Seat 7: Horseshoer07 ($5.50 in chips) 
+Seat 8: r0nny72 ($13.25 in chips) 
+Seat 9: foyt67 ($19.95 in chips) 
+Horseshoer07: posts small blind $0.10
+r0nny72: posts big blind $0.25
+EnjoyLife73: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 6h]
+foyt67: calls $0.25
+CRB23: calls $0.25
+zachsback: folds 
+Alameda22: folds 
+billard113: folds 
+Horseshoer07: calls $0.15
+r0nny72: checks 
+*** FLOP *** [Jh 4c Td]
+Horseshoer07: checks 
+r0nny72: checks 
+foyt67: checks 
+CRB23: checks 
+*** TURN *** [Jh 4c Td] [6c]
+Horseshoer07: bets $0.25
+r0nny72: folds 
+foyt67: folds 
+CRB23: raises $0.50 to $0.75
+Horseshoer07: calls $0.50
+*** RIVER *** [Jh 4c Td 6c] [Qd]
+Horseshoer07: checks 
+CRB23: checks 
+*** SHOW DOWN ***
+Horseshoer07: shows [4d Ks] (a pair of Fours)
+CRB23: shows [7d 7h] (a pair of Sevens)
+CRB23 collected $2.40 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Jh 4c Td 6c Qd]
+Seat 2: CRB23 showed [7d 7h] and won ($2.40) with a pair of Sevens
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: billard113 (button) folded before Flop (didn't bet)
+Seat 7: Horseshoer07 (small blind) showed [4d Ks] and lost with a pair of Fours
+Seat 8: r0nny72 (big blind) folded on the Turn
+Seat 9: foyt67 folded on the Turn
+
+
+
+PokerStars Game #19951733614:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:00:45 (ET)
+Table 'Alagasta III' 9-max Seat #7 is the button
+Seat 2: CRB23 ($11.40 in chips) 
+Seat 3: zachsback ($15.55 in chips) 
+Seat 4: Alameda22 ($26.15 in chips) 
+Seat 6: billard113 ($24.50 in chips) 
+Seat 7: Horseshoer07 ($4.50 in chips) 
+Seat 8: r0nny72 ($13 in chips) 
+Seat 9: foyt67 ($19.70 in chips) 
+r0nny72: posts small blind $0.10
+foyt67: posts big blind $0.25
+EnjoyLife73: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 7c]
+CRB23: calls $0.25
+zachsback: folds 
+Alameda22: folds 
+billard113: folds 
+Horseshoer07: calls $0.25
+r0nny72: folds 
+foyt67: checks 
+*** FLOP *** [Js 9s 7d]
+foyt67: checks 
+CRB23: bets $1
+Horseshoer07: raises $3.25 to $4.25 and is all-in
+foyt67: folds 
+foyt67 leaves the table
+CRB23 said, "flopped the straight"
+CRB23: calls $3.25
+*** TURN *** [Js 9s 7d] [Ts]
+*** RIVER *** [Js 9s 7d Ts] [8c]
+*** SHOW DOWN ***
+CRB23: shows [8s Td] (a straight, Seven to Jack)
+Horseshoer07: shows [Jd Ks] (a straight, Seven to Jack)
+CRB23 collected $4.45 from pot
+Horseshoer07 collected $4.45 from pot
+*** SUMMARY ***
+Total pot $9.35 | Rake $0.45 
+Board [Js 9s 7d Ts 8c]
+Seat 2: CRB23 showed [8s Td] and won ($4.45) with a straight, Seven to Jack
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 (button) showed [Jd Ks] and won ($4.45) with a straight, Seven to Jack
+Seat 8: r0nny72 (small blind) folded before Flop
+Seat 9: foyt67 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19951775940:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:02:37 (ET)
+Table 'Alagasta III' 9-max Seat #8 is the button
+Seat 2: CRB23 ($11.35 in chips) 
+Seat 3: zachsback ($15.55 in chips) 
+Seat 4: Alameda22 ($26.15 in chips) 
+Seat 6: billard113 ($24.50 in chips) 
+Seat 7: Horseshoer07 ($4.45 in chips) 
+Seat 8: r0nny72 ($12.90 in chips) 
+EnjoyLife73 will be allowed to play after the button
+jay8955 joins the table at seat #9 
+CRB23: posts small blind $0.10
+zachsback: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 2h]
+Horseshoer07 said, "nh"
+CRB23 said, "good save 4 u"
+Alameda22: folds 
+Horseshoer07 said, "yeah"
+billard113: folds 
+Horseshoer07: calls $0.25
+r0nny72: folds 
+CRB23: folds 
+zachsback: checks 
+*** FLOP *** [Jh 6c Qc]
+zachsback: checks 
+Horseshoer07: checks 
+*** TURN *** [Jh 6c Qc] [As]
+zachsback: checks 
+cdcmiglino has returned
+Horseshoer07: checks 
+*** RIVER *** [Jh 6c Qc As] [5h]
+zachsback: checks 
+Horseshoer07: checks 
+*** SHOW DOWN ***
+zachsback: shows [Ts 9s] (high card Ace)
+Horseshoer07: shows [Kc 8h] (high card Ace - King kicker)
+Horseshoer07 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Jh 6c Qc As 5h]
+Seat 2: CRB23 (small blind) folded before Flop
+Seat 3: zachsback (big blind) showed [Ts 9s] and lost with high card Ace
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 showed [Kc 8h] and won ($0.60) with high card Ace
+Seat 8: r0nny72 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951800035:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:03:40 (ET)
+Table 'Alagasta III' 9-max Seat #2 is the button
+Seat 2: CRB23 ($11.25 in chips) 
+Seat 3: zachsback ($15.30 in chips) 
+Seat 4: Alameda22 ($26.15 in chips) 
+Seat 6: billard113 ($24.50 in chips) 
+Seat 7: Horseshoer07 ($4.80 in chips) 
+Seat 8: r0nny72 ($12.90 in chips) 
+Seat 9: jay8955 ($15 in chips) 
+zachsback: posts small blind $0.10
+Alameda22: posts big blind $0.25
+cdcmiglino: sits out 
+jay8955: posts big blind $0.25
+EnjoyLife73: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Qs]
+billard113: folds 
+Horseshoer07: folds 
+r0nny72: folds 
+jay8955: checks 
+CRB23: calls $0.25
+zachsback: folds 
+Alameda22: checks 
+*** FLOP *** [Td Kd Kh]
+Alameda22: checks 
+jay8955: checks 
+CRB23: checks 
+*** TURN *** [Td Kd Kh] [9h]
+Alameda22: checks 
+jay8955: checks 
+CRB23: checks 
+*** RIVER *** [Td Kd Kh 9h] [6d]
+Alameda22: checks 
+jay8955: checks 
+CRB23: checks 
+*** SHOW DOWN ***
+Alameda22: shows [Ts Qs] (two pair, Kings and Tens)
+jay8955: mucks hand 
+CRB23: mucks hand 
+Alameda22 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Td Kd Kh 9h 6d]
+Seat 2: CRB23 (button) mucked [4d 5c]
+Seat 3: zachsback (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) showed [Ts Qs] and won ($0.85) with two pair, Kings and Tens
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 mucked [3c 5h]
+
+
+
+PokerStars Game #19951833057:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:05:08 (ET)
+Table 'Alagasta III' 9-max Seat #3 is the button
+Seat 2: CRB23 ($11 in chips) 
+Seat 3: zachsback ($15.20 in chips) 
+Seat 4: Alameda22 ($26.75 in chips) 
+Seat 5: cdcmiglino ($18.55 in chips) 
+Seat 6: billard113 ($24.50 in chips) 
+Seat 7: Horseshoer07 ($4.80 in chips) 
+Seat 8: r0nny72 ($12.90 in chips) 
+Seat 9: jay8955 ($14.75 in chips) 
+Alameda22: posts small blind $0.10
+cdcmiglino: posts big blind $0.25
+EnjoyLife73: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 4h]
+billard113: folds 
+Horseshoer07: calls $0.25
+r0nny72: folds 
+jay8955: folds 
+CRB23: raises $0.25 to $0.50
+zachsback: folds 
+Alameda22: folds 
+cdcmiglino: calls $0.25
+Horseshoer07: calls $0.25
+*** FLOP *** [7d Ah 7s]
+cdcmiglino: checks 
+Horseshoer07: checks 
+CRB23: bets $1
+cdcmiglino: calls $1
+Horseshoer07: folds 
+*** TURN *** [7d Ah 7s] [8h]
+cdcmiglino: checks 
+CRB23: bets $1
+cdcmiglino: calls $1
+*** RIVER *** [7d Ah 7s 8h] [Js]
+cdcmiglino: checks 
+CRB23: checks 
+*** SHOW DOWN ***
+cdcmiglino: shows [7c Jh] (a full house, Sevens full of Jacks)
+CRB23: mucks hand 
+CRB23 said, "lol"
+cdcmiglino collected $5.35 from pot
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.25 
+Board [7d Ah 7s 8h Js]
+Seat 2: CRB23 mucked [Ac 6d]
+Seat 3: zachsback (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: cdcmiglino (big blind) showed [7c Jh] and won ($5.35) with a full house, Sevens full of Jacks
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 folded on the Flop
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951861743:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:06:24 (ET)
+Table 'Alagasta III' 9-max Seat #4 is the button
+Seat 2: CRB23 ($8.50 in chips) 
+Seat 3: zachsback ($15.20 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: cdcmiglino ($21.40 in chips) 
+Seat 6: billard113 ($24.50 in chips) 
+Seat 7: Horseshoer07 ($4.30 in chips) 
+Seat 8: r0nny72 ($12.90 in chips) 
+Seat 9: jay8955 ($14.75 in chips) 
+zachsback is connected 
+cdcmiglino: posts small blind $0.10
+billard113: posts big blind $0.25
+EnjoyLife73: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 6s]
+Horseshoer07: folds 
+r0nny72: folds 
+jay8955: raises $0.50 to $0.75
+CRB23: folds 
+zachsback: calls $0.75
+Alameda22: folds 
+cdcmiglino: folds 
+billard113: folds 
+*** FLOP *** [8d Kc 2h]
+jay8955: checks 
+zachsback: checks 
+*** TURN *** [8d Kc 2h] [Qh]
+jay8955: bets $1
+zachsback: calls $1
+*** RIVER *** [8d Kc 2h Qh] [Kd]
+jay8955: checks 
+zachsback: checks 
+*** SHOW DOWN ***
+jay8955: shows [4c 4d] (two pair, Kings and Fours)
+zachsback: mucks hand 
+jay8955 collected $3.70 from pot
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [8d Kc 2h Qh Kd]
+Seat 2: CRB23 folded before Flop (didn't bet)
+Seat 3: zachsback mucked [6h 5h]
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: cdcmiglino (small blind) folded before Flop
+Seat 6: billard113 (big blind) folded before Flop
+Seat 7: Horseshoer07 folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 showed [4c 4d] and won ($3.70) with two pair, Kings and Fours
+
+
+
+PokerStars Game #19951893905:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:07:49 (ET)
+Table 'Alagasta III' 9-max Seat #5 is the button
+Seat 2: CRB23 ($8.50 in chips) 
+Seat 3: zachsback ($13.45 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: cdcmiglino ($21.30 in chips) 
+Seat 6: billard113 ($24.25 in chips) 
+Seat 7: Horseshoer07 ($4.30 in chips) 
+Seat 8: r0nny72 ($12.90 in chips) 
+Seat 9: jay8955 ($16.70 in chips) 
+billard113: posts small blind $0.10
+Horseshoer07: posts big blind $0.25
+EnjoyLife73: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 3c]
+r0nny72: folds 
+jay8955: calls $0.25
+CRB23: folds 
+zachsback: folds 
+Alameda22: folds 
+cdcmiglino: calls $0.25
+billard113: calls $0.15
+Horseshoer07: checks 
+*** FLOP *** [Ac 7d Jd]
+billard113: checks 
+Horseshoer07: checks 
+jay8955: checks 
+cdcmiglino: checks 
+*** TURN *** [Ac 7d Jd] [Ks]
+billard113: checks 
+Horseshoer07: bets $0.50
+jay8955: folds 
+cdcmiglino: folds 
+billard113: folds 
+Uncalled bet ($0.50) returned to Horseshoer07
+Horseshoer07 collected $0.95 from pot
+Horseshoer07: shows [Ah 8c] (a pair of Aces)
+jay8955 said, "had 4s again"
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Ac 7d Jd Ks]
+Seat 2: CRB23 folded before Flop (didn't bet)
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: cdcmiglino (button) folded on the Turn
+Seat 6: billard113 (small blind) folded on the Turn
+Seat 7: Horseshoer07 (big blind) collected ($0.95)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 folded on the Turn
+
+
+
+PokerStars Game #19951926297:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:09:15 (ET)
+Table 'Alagasta III' 9-max Seat #6 is the button
+Seat 2: CRB23 ($8.50 in chips) 
+Seat 3: zachsback ($13.45 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: cdcmiglino ($21.05 in chips) 
+Seat 6: billard113 ($24 in chips) 
+Seat 7: Horseshoer07 ($5 in chips) 
+Seat 8: r0nny72 ($12.90 in chips) 
+Seat 9: jay8955 ($16.45 in chips) 
+Horseshoer07: posts small blind $0.10
+r0nny72: posts big blind $0.25
+EnjoyLife73: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 9d]
+jay8955: folds 
+CRB23: calls $0.25
+zachsback: folds 
+Alameda22: folds 
+cdcmiglino: calls $0.25
+billard113: calls $0.25
+Horseshoer07: calls $0.15
+r0nny72: checks 
+*** FLOP *** [Tc Ts 8d]
+Horseshoer07: checks 
+r0nny72: folds 
+CRB23: checks 
+cdcmiglino: checks 
+billard113: checks 
+*** TURN *** [Tc Ts 8d] [Jh]
+Horseshoer07: checks 
+CRB23: bets $1
+cdcmiglino: calls $1
+billard113: folds 
+Horseshoer07: calls $1
+*** RIVER *** [Tc Ts 8d Jh] [4d]
+Horseshoer07: checks 
+CRB23: bets $1.25
+cdcmiglino: folds 
+Horseshoer07: calls $1.25
+*** SHOW DOWN ***
+CRB23: shows [7d Jd] (two pair, Jacks and Tens)
+Horseshoer07: shows [Js As] (two pair, Jacks and Tens - Ace kicker)
+Horseshoer07 collected $6.45 from pot
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.30 
+Board [Tc Ts 8d Jh 4d]
+Seat 2: CRB23 showed [7d Jd] and lost with two pair, Jacks and Tens
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: cdcmiglino folded on the River
+Seat 6: billard113 (button) folded on the Turn
+Seat 7: Horseshoer07 (small blind) showed [Js As] and won ($6.45) with two pair, Jacks and Tens
+Seat 8: r0nny72 (big blind) folded on the Flop
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19951954342:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:10:29 (ET)
+Table 'Alagasta III' 9-max Seat #7 is the button
+Seat 2: CRB23 ($6 in chips) 
+Seat 3: zachsback ($15.45 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: cdcmiglino ($19.80 in chips) 
+Seat 6: billard113 ($23.75 in chips) 
+Seat 7: Horseshoer07 ($8.95 in chips) 
+Seat 8: r0nny72 ($12.65 in chips) 
+Seat 9: jay8955 ($16.45 in chips) 
+r0nny72: posts small blind $0.10
+jay8955: posts big blind $0.25
+EnjoyLife73: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Qh]
+Horseshoer07 said, "nh"
+Horseshoer07 said, "i was worried"
+Horseshoer07 said, "straight drawin ***"
+CRB23: folds 
+zachsback: folds 
+Alameda22: folds 
+cdcmiglino: folds 
+billard113: folds 
+Horseshoer07: calls $0.25
+r0nny72: folds 
+jay8955: raises $0.75 to $1
+Horseshoer07: calls $0.75
+*** FLOP *** [5h Td Ts]
+CRB23 said, "damn"
+jay8955: bets $2
+CRB23 said, "since that bullsht split pot"
+Horseshoer07: folds 
+Uncalled bet ($2) returned to jay8955
+CRB23 said, "been down hill"
+CRB23 said, "lol"
+jay8955 collected $2 from pot
+jay8955: doesn't show hand 
+Horseshoer07 said, "haha"
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [5h Td Ts]
+Seat 2: CRB23 folded before Flop (didn't bet)
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: cdcmiglino folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 (button) folded on the Flop
+Seat 8: r0nny72 (small blind) folded before Flop
+Seat 9: jay8955 (big blind) collected ($2)
+
+
+
+PokerStars Game #19951981279:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:11:40 (ET)
+Table 'Alagasta III' 9-max Seat #8 is the button
+Seat 1: EnjoyLife73 ($25 in chips) 
+Seat 2: CRB23 ($6 in chips) 
+Seat 3: zachsback ($15.45 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: cdcmiglino ($19.80 in chips) 
+Seat 6: billard113 ($23.75 in chips) 
+Seat 7: Horseshoer07 ($7.95 in chips) 
+Seat 8: r0nny72 ($12.55 in chips) 
+Seat 9: jay8955 ($17.45 in chips) 
+jay8955: posts small blind $0.10
+Horseshoer07 said, "been down hill all night"
+EnjoyLife73: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Td]
+CRB23: folds 
+zachsback: folds 
+Alameda22: folds 
+cdcmiglino: calls $0.25
+Horseshoer07 said, "its about to turn"
+billard113: calls $0.25
+Horseshoer07: raises $0.25 to $0.50
+r0nny72: folds 
+jay8955: folds 
+EnjoyLife73: folds 
+Horseshoer07 said, "always does"
+CRB23 said, "need top pair im all in ride or die on that hand"
+cdcmiglino: calls $0.25
+CRB23 said, "lol"
+billard113: calls $0.25
+*** FLOP *** [2h Qc 9c]
+cdcmiglino: checks 
+billard113: checks 
+Horseshoer07: bets $0.50
+Horseshoer07 said, "haha"
+cdcmiglino: calls $0.50
+billard113: folds 
+*** TURN *** [2h Qc 9c] [Ah]
+cdcmiglino: checks 
+Horseshoer07: bets $0.50
+cdcmiglino: calls $0.50
+*** RIVER *** [2h Qc 9c Ah] [Qs]
+cdcmiglino: checks 
+Horseshoer07: bets $2
+cdcmiglino: calls $2
+*** SHOW DOWN ***
+Horseshoer07: shows [Kd Qd] (three of a kind, Queens)
+cdcmiglino: shows [Qh Kh] (three of a kind, Queens)
+cdcmiglino collected $3.75 from pot
+Horseshoer07 collected $3.75 from pot
+Horseshoer07 said, "damm"
+*** SUMMARY ***
+Total pot $7.85 | Rake $0.35 
+Board [2h Qc 9c Ah Qs]
+Seat 1: EnjoyLife73 (big blind) folded before Flop
+Seat 2: CRB23 folded before Flop (didn't bet)
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: cdcmiglino showed [Qh Kh] and won ($3.75) with three of a kind, Queens
+Seat 6: billard113 folded on the Flop
+Seat 7: Horseshoer07 showed [Kd Qd] and won ($3.75) with three of a kind, Queens
+Seat 8: r0nny72 (button) folded before Flop (didn't bet)
+Seat 9: jay8955 (small blind) folded before Flop
+
+
+
+PokerStars Game #19952009895:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:12:56 (ET)
+Table 'Alagasta III' 9-max Seat #9 is the button
+Seat 1: EnjoyLife73 ($24.75 in chips) 
+Seat 2: CRB23 ($6 in chips) 
+Seat 3: zachsback ($15.45 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: cdcmiglino ($20.05 in chips) 
+Seat 6: billard113 ($23.25 in chips) 
+Seat 7: Horseshoer07 ($8.20 in chips) 
+Seat 8: r0nny72 ($12.55 in chips) 
+Seat 9: jay8955 ($17.35 in chips) 
+EnjoyLife73: posts small blind $0.10
+CRB23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 7d]
+zachsback: folds 
+Alameda22: folds 
+cdcmiglino: calls $0.25
+jay8955 said, "you cant get a break"
+billard113: folds 
+Horseshoer07: folds 
+r0nny72: folds 
+jay8955: raises $0.50 to $0.75
+EnjoyLife73: calls $0.65
+CRB23: raises $5.25 to $6 and is all-in
+cdcmiglino: folds 
+Horseshoer07 said, "right"
+jay8955 said, "ok AA"
+jay8955: folds 
+CRB23 said, "let s gamle"
+jay8955 said, "bad kicker"
+EnjoyLife73: calls $5.25
+*** FLOP *** [Ts 9d 9h]
+*** TURN *** [Ts 9d 9h] [Qc]
+*** RIVER *** [Ts 9d 9h Qc] [9c]
+*** SHOW DOWN ***
+EnjoyLife73: shows [5h 5s] (a full house, Nines full of Fives)
+CRB23: shows [Ks Kh] (a full house, Nines full of Kings)
+CRB23 collected $12.35 from pot
+*** SUMMARY ***
+Total pot $13 | Rake $0.65 
+Board [Ts 9d 9h Qc 9c]
+Seat 1: EnjoyLife73 (small blind) showed [5h 5s] and lost with a full house, Nines full of Fives
+Seat 2: CRB23 (big blind) showed [Ks Kh] and won ($12.35) with a full house, Nines full of Kings
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: cdcmiglino folded before Flop
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 (button) folded before Flop
+
+
+
+PokerStars Game #19952041131:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:14:19 (ET)
+Table 'Alagasta III' 9-max Seat #1 is the button
+Seat 1: EnjoyLife73 ($18.75 in chips) 
+Seat 2: CRB23 ($12.35 in chips) 
+Seat 3: zachsback ($15.45 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: cdcmiglino ($19.80 in chips) 
+Seat 6: billard113 ($23.25 in chips) 
+Seat 7: Horseshoer07 ($8.20 in chips) 
+Seat 8: r0nny72 ($12.55 in chips) 
+Seat 9: jay8955 ($16.60 in chips) 
+CRB23: posts small blind $0.10
+zachsback: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 3s]
+jay8955 said, "nh"
+Alameda22: folds 
+cdcmiglino: folds 
+billard113: folds 
+Horseshoer07: calls $0.25
+r0nny72: calls $0.25
+CRB23 said, "thanks"
+CRB23 said, "wish u called too"
+jay8955: calls $0.25
+EnjoyLife73: folds 
+CRB23 said, "what u have"
+CRB23: calls $0.15
+zachsback: checks 
+*** FLOP *** [Qs Kh Td]
+jay8955 said, "i wouldve folded even with AK"
+CRB23: checks 
+zachsback: checks 
+CRB23 said, "u had ak?"
+Horseshoer07: checks 
+r0nny72: checks 
+jay8955 said, "A3"
+jay8955: checks 
+*** TURN *** [Qs Kh Td] [8h]
+CRB23 said, "eww yea"
+CRB23: checks 
+zachsback: checks 
+jay8955 said, "figured one out"
+Horseshoer07 is disconnected 
+Horseshoer07 has timed out while disconnected
+Horseshoer07: checks 
+r0nny72: checks 
+Horseshoer07 is connected 
+jay8955: checks 
+*** RIVER *** [Qs Kh Td 8h] [Qd]
+Horseshoer07 said, "****"
+CRB23: checks 
+zachsback: checks 
+Horseshoer07: checks 
+r0nny72: checks 
+jay8955: checks 
+*** SHOW DOWN ***
+CRB23: shows [Jd 7d] (a pair of Queens)
+zachsback: shows [Ad Th] (two pair, Queens and Tens)
+Horseshoer07: mucks hand 
+r0nny72: mucks hand 
+jay8955: mucks hand 
+zachsback collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Qs Kh Td 8h Qd]
+Seat 1: EnjoyLife73 (button) folded before Flop (didn't bet)
+Seat 2: CRB23 (small blind) showed [Jd 7d] and lost with a pair of Queens
+Seat 3: zachsback (big blind) showed [Ad Th] and won ($1.20) with two pair, Queens and Tens
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: cdcmiglino folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 mucked [5h 9s]
+Seat 8: r0nny72 mucked [As 8s]
+Seat 9: jay8955 mucked [9h 7c]
+
+
+
+PokerStars Game #19952089700:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:16:28 (ET)
+Table 'Alagasta III' 9-max Seat #2 is the button
+Seat 1: EnjoyLife73 ($18.75 in chips) 
+Seat 2: CRB23 ($12.10 in chips) 
+Seat 3: zachsback ($16.40 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: cdcmiglino ($19.80 in chips) 
+Seat 6: billard113 ($23.25 in chips) 
+Seat 7: Horseshoer07 ($7.95 in chips) 
+Seat 8: r0nny72 ($12.30 in chips) 
+Seat 9: jay8955 ($16.35 in chips) 
+zachsback: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 7c]
+cdcmiglino: folds 
+billard113: calls $0.25
+Horseshoer07: folds 
+r0nny72: folds 
+jay8955: folds 
+cdcmiglino leaves the table
+EnjoyLife73: folds 
+CRB23: folds 
+zachsback: folds 
+Iconoclasty joins the table at seat #5 
+Alameda22: checks 
+*** FLOP *** [5s 8h 4h]
+Alameda22: checks 
+billard113: bets $0.75
+Alameda22: folds 
+Uncalled bet ($0.75) returned to billard113
+billard113 collected $0.60 from pot
+billard113: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [5s 8h 4h]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: CRB23 (button) folded before Flop (didn't bet)
+Seat 3: zachsback (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 5: cdcmiglino folded before Flop (didn't bet)
+Seat 6: billard113 collected ($0.60)
+Seat 7: Horseshoer07 folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952117084:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:17:41 (ET)
+Table 'Alagasta III' 9-max Seat #3 is the button
+Seat 1: EnjoyLife73 ($18.75 in chips) 
+Seat 2: CRB23 ($12.10 in chips) 
+Seat 3: zachsback ($16.30 in chips) 
+Seat 4: Alameda22 ($26.40 in chips) 
+Seat 5: Iconoclasty ($25 in chips) 
+Seat 6: billard113 ($23.60 in chips) 
+Seat 7: Horseshoer07 ($7.95 in chips) 
+Seat 8: r0nny72 ($12.30 in chips) 
+Seat 9: jay8955 ($16.35 in chips) 
+Alameda22: posts small blind $0.10
+Iconoclasty: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Jh]
+billard113: folds 
+Horseshoer07: raises $0.25 to $0.50
+r0nny72: folds 
+jay8955: calls $0.50
+EnjoyLife73: calls $0.50
+CRB23: calls $0.50
+zachsback: folds 
+Alameda22: folds 
+Iconoclasty: folds 
+*** FLOP *** [9h 7s Tc]
+Horseshoer07: checks 
+jay8955: bets $1
+EnjoyLife73: calls $1
+CRB23: folds 
+Horseshoer07: calls $1
+*** TURN *** [9h 7s Tc] [7h]
+Horseshoer07: checks 
+jay8955: checks 
+EnjoyLife73: bets $2
+Horseshoer07: raises $4.45 to $6.45 and is all-in
+jay8955 said, "saw that comming"
+jay8955: folds 
+EnjoyLife73: calls $4.45
+*** RIVER *** [9h 7s Tc 7h] [2s]
+*** SHOW DOWN ***
+Horseshoer07: shows [7d 7c] (four of a kind, Sevens)
+EnjoyLife73: mucks hand 
+Horseshoer07 collected $17.35 from pot
+jay8955 said, "nh"
+*** SUMMARY ***
+Total pot $18.25 | Rake $0.90 
+Board [9h 7s Tc 7h 2s]
+Seat 1: EnjoyLife73 mucked [Ks Ts]
+Seat 2: CRB23 folded on the Flop
+Seat 3: zachsback (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: Iconoclasty (big blind) folded before Flop
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 showed [7d 7c] and won ($17.35) with four of a kind, Sevens
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 folded on the Turn
+
+
+
+PokerStars Game #19952175444:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:20:15 (ET)
+Table 'Alagasta III' 9-max Seat #4 is the button
+Seat 1: EnjoyLife73 ($10.80 in chips) 
+Seat 2: CRB23 ($11.60 in chips) 
+Seat 3: zachsback ($16.30 in chips) 
+Seat 4: Alameda22 ($26.30 in chips) 
+Seat 5: Iconoclasty ($24.75 in chips) 
+Seat 6: billard113 ($23.60 in chips) 
+Seat 7: Horseshoer07 ($17.35 in chips) 
+Seat 8: r0nny72 ($12.30 in chips) 
+Seat 9: jay8955 ($14.85 in chips) 
+Iconoclasty: posts small blind $0.10
+Horseshoer07 said, "ty"
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 7d]
+Horseshoer07: calls $0.25
+r0nny72: folds 
+jay8955: folds 
+EnjoyLife73: folds 
+CRB23: calls $0.25
+zachsback: folds 
+Alameda22: folds 
+Iconoclasty: folds 
+billard113: checks 
+*** FLOP *** [7c 9d Qc]
+billard113: checks 
+Horseshoer07: checks 
+CRB23: bets $1
+billard113: folds 
+Horseshoer07: calls $1
+*** TURN *** [7c 9d Qc] [9s]
+Horseshoer07: checks 
+CRB23: bets $1.75
+Horseshoer07: calls $1.75
+*** RIVER *** [7c 9d Qc 9s] [As]
+Horseshoer07: bets $1.25
+CRB23: folds 
+Uncalled bet ($1.25) returned to Horseshoer07
+Horseshoer07 collected $6.05 from pot
+CRB23 said, "fkin a"
+Horseshoer07: shows [2d 7h] (two pair, Nines and Sevens)
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.30 
+Board [7c 9d Qc 9s As]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: CRB23 folded on the River
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: Iconoclasty (small blind) folded before Flop
+Seat 6: billard113 (big blind) folded on the Flop
+Seat 7: Horseshoer07 collected ($6.05)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952206481:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:21:38 (ET)
+Table 'Alagasta III' 9-max Seat #5 is the button
+Seat 1: EnjoyLife73 ($10.80 in chips) 
+Seat 2: CRB23 ($8.60 in chips) 
+Seat 3: zachsback ($16.30 in chips) 
+Seat 4: Alameda22 ($26.30 in chips) 
+Seat 5: Iconoclasty ($24.65 in chips) 
+Seat 6: billard113 ($23.35 in chips) 
+Seat 7: Horseshoer07 ($20.40 in chips) 
+Seat 8: r0nny72 ($12.30 in chips) 
+Seat 9: jay8955 ($14.85 in chips) 
+billard113: posts small blind $0.10
+Horseshoer07: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 9c]
+r0nny72: calls $0.25
+jay8955: folds 
+EnjoyLife73: folds 
+CRB23: folds 
+zachsback: folds 
+Alameda22: folds 
+Iconoclasty: raises $0.75 to $1
+billard113: folds 
+Horseshoer07: calls $0.75
+r0nny72: raises $1 to $2
+Iconoclasty: raises $2 to $4
+Horseshoer07: folds 
+r0nny72: raises $8.30 to $12.30 and is all-in
+Iconoclasty: calls $8.30
+*** FLOP *** [8c 9d 6c]
+*** TURN *** [8c 9d 6c] [2c]
+*** RIVER *** [8c 9d 6c 2c] [5d]
+*** SHOW DOWN ***
+r0nny72: shows [Ac Ad] (a pair of Aces)
+Iconoclasty: mucks hand 
+r0nny72 collected $24.45 from pot
+*** SUMMARY ***
+Total pot $25.70 | Rake $1.25 
+Board [8c 9d 6c 2c 5d]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: CRB23 folded before Flop (didn't bet)
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Iconoclasty (button) mucked [Qh Qc]
+Seat 6: billard113 (small blind) folded before Flop
+Seat 7: Horseshoer07 (big blind) folded before Flop
+Seat 8: r0nny72 showed [Ac Ad] and won ($24.45) with a pair of Aces
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952237251:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:22:59 (ET)
+Table 'Alagasta III' 9-max Seat #6 is the button
+Seat 1: EnjoyLife73 ($10.80 in chips) 
+Seat 2: CRB23 ($8.60 in chips) 
+Seat 3: zachsback ($16.30 in chips) 
+Seat 4: Alameda22 ($26.30 in chips) 
+Seat 5: Iconoclasty ($12.35 in chips) 
+Seat 6: billard113 ($23.25 in chips) 
+Seat 7: Horseshoer07 ($19.40 in chips) 
+Seat 8: r0nny72 ($24.45 in chips) 
+Seat 9: jay8955 ($14.85 in chips) 
+Horseshoer07: posts small blind $0.10
+r0nny72: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc As]
+jay8955: folds 
+r0nny72 said, "ty"
+EnjoyLife73: folds 
+CRB23: raises $0.25 to $0.50
+zachsback: folds 
+Alameda22: folds 
+Iconoclasty: folds 
+billard113: calls $0.50
+Horseshoer07: calls $0.40
+r0nny72: folds 
+*** FLOP *** [6d Th 8c]
+Horseshoer07: checks 
+CRB23: checks 
+billard113: bets $0.50
+Horseshoer07: folds 
+CRB23: calls $0.50
+*** TURN *** [6d Th 8c] [Qc]
+CRB23: bets $2.25
+billard113: calls $2.25
+*** RIVER *** [6d Th 8c Qc] [Ah]
+CRB23: bets $5.35 and is all-in
+billard113: folds 
+Uncalled bet ($5.35) returned to CRB23
+CRB23 collected $6.90 from pot
+CRB23: doesn't show hand 
+zachsback is disconnected 
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.35 
+Board [6d Th 8c Qc Ah]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: CRB23 collected ($6.90)
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Iconoclasty folded before Flop (didn't bet)
+Seat 6: billard113 (button) folded on the River
+Seat 7: Horseshoer07 (small blind) folded on the Flop
+Seat 8: r0nny72 (big blind) folded before Flop
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952266348:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:24:15 (ET)
+Table 'Alagasta III' 9-max Seat #7 is the button
+Seat 1: EnjoyLife73 ($10.80 in chips) 
+Seat 2: CRB23 ($12.25 in chips) 
+Seat 3: zachsback ($16.30 in chips) 
+Seat 4: Alameda22 ($26.30 in chips) 
+Seat 5: Iconoclasty ($12.35 in chips) 
+Seat 6: billard113 ($25 in chips) 
+Seat 7: Horseshoer07 ($18.90 in chips) 
+Seat 8: r0nny72 ($24.20 in chips) 
+Seat 9: jay8955 ($14.85 in chips) 
+r0nny72: posts small blind $0.10
+jay8955: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h As]
+zachsback is connected 
+EnjoyLife73: folds 
+CRB23: calls $0.25
+zachsback: folds 
+Alameda22: folds 
+Iconoclasty: folds 
+billard113: folds 
+Horseshoer07: raises $0.25 to $0.50
+r0nny72: folds 
+jay8955: folds 
+CRB23: calls $0.25
+*** FLOP *** [Ah 4s Qh]
+CRB23: bets $0.50
+Horseshoer07: raises $0.50 to $1
+CRB23: calls $0.50
+*** TURN *** [Ah 4s Qh] [5c]
+CRB23: bets $0.50
+Horseshoer07: raises $0.50 to $1
+CRB23: calls $0.50
+*** RIVER *** [Ah 4s Qh 5c] [Jd]
+CRB23: bets $0.50
+Horseshoer07: raises $4.50 to $5
+CRB23 said, "u catch 2 pair or a stright now"
+CRB23 said, "wtf"
+CRB23: calls $4.50
+*** SHOW DOWN ***
+Horseshoer07: shows [Ad Ac] (three of a kind, Aces)
+CRB23: mucks hand 
+Horseshoer07 collected $14.60 from pot
+*** SUMMARY ***
+Total pot $15.35 | Rake $0.75 
+Board [Ah 4s Qh 5c Jd]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: CRB23 mucked [Qs 9s]
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Iconoclasty folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 (button) showed [Ad Ac] and won ($14.60) with three of a kind, Aces
+Seat 8: r0nny72 (small blind) folded before Flop
+Seat 9: jay8955 (big blind) folded before Flop
+
+
+
+PokerStars Game #19952303537:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:25:53 (ET)
+Table 'Alagasta III' 9-max Seat #8 is the button
+Seat 1: EnjoyLife73 ($10.80 in chips) 
+Seat 2: CRB23 ($4.75 in chips) 
+Seat 3: zachsback ($16.30 in chips) 
+Seat 4: Alameda22 ($26.30 in chips) 
+Seat 5: Iconoclasty ($12.35 in chips) 
+Seat 6: billard113 ($25 in chips) 
+Seat 7: Horseshoer07 ($26 in chips) 
+Seat 8: r0nny72 ($24.10 in chips) 
+Seat 9: jay8955 ($14.60 in chips) 
+CRB23 said, "sht that was an accident call too damn it"
+jay8955: posts small blind $0.10
+EnjoyLife73: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 5s]
+CRB23: folds 
+jay8955 said, "i wish i had the run of cards he has gotten"
+CRB23 said, "damnit damnit'"
+CRB23 said, "damnit"
+zachsback: folds 
+Alameda22: folds 
+Iconoclasty: raises $0.25 to $0.50
+billard113: folds 
+Horseshoer07 said, "you didnt bout 20 min ago"
+Horseshoer07 said, "haha"
+Horseshoer07: calls $0.50
+r0nny72: folds 
+jay8955: folds 
+EnjoyLife73: calls $0.25
+*** FLOP *** [Qc Ad 3s]
+EnjoyLife73: checks 
+Iconoclasty: checks 
+CRB23 said, "i didnt mean to fkin call.. im pissednow"
+Horseshoer07: checks 
+*** TURN *** [Qc Ad 3s] [Kd]
+EnjoyLife73: checks 
+CRB23 said, "my mouse clipped"
+Iconoclasty: checks 
+CRB23 said, "slipped"
+Horseshoer07: checks 
+*** RIVER *** [Qc Ad 3s Kd] [7h]
+jay8955 said, "couldnt really tell"
+CRB23 said, "piece of sht"
+EnjoyLife73: bets $0.50
+CRB23 said, "lol"
+Iconoclasty: calls $0.50
+Horseshoer07: folds 
+*** SHOW DOWN ***
+EnjoyLife73: shows [Ts Ks] (a pair of Kings)
+Iconoclasty: mucks hand 
+EnjoyLife73 collected $2.50 from pot
+Horseshoer07 said, "haha"
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Qc Ad 3s Kd 7h]
+Seat 1: EnjoyLife73 (big blind) showed [Ts Ks] and won ($2.50) with a pair of Kings
+Seat 2: CRB23 folded before Flop (didn't bet)
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Iconoclasty mucked [4s 4h]
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 folded on the River
+Seat 8: r0nny72 (button) folded before Flop (didn't bet)
+Seat 9: jay8955 (small blind) folded before Flop
+
+
+
+PokerStars Game #19952339078:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:27:26 (ET)
+Table 'Alagasta III' 9-max Seat #9 is the button
+Seat 1: EnjoyLife73 ($12.30 in chips) 
+Seat 2: CRB23 ($4.75 in chips) 
+Seat 3: zachsback ($16.30 in chips) 
+Seat 4: Alameda22 ($26.30 in chips) 
+Seat 5: Iconoclasty ($11.35 in chips) 
+Seat 6: billard113 ($25 in chips) 
+Seat 7: Horseshoer07 ($25.50 in chips) 
+Seat 8: r0nny72 ($24.10 in chips) 
+Seat 9: jay8955 ($14.50 in chips) 
+EnjoyLife73: posts small blind $0.10
+CRB23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Ks]
+Horseshoer07 said, "that **** happens to me too"
+zachsback: folds 
+Alameda22: folds 
+Iconoclasty: folds 
+CRB23 said, "the arrow moved on me"
+billard113: folds 
+Horseshoer07: folds 
+r0nny72: folds 
+CRB23 said, "WTF"
+jay8955: raises $0.50 to $0.75
+EnjoyLife73: folds 
+CRB23: raises $4 to $4.75 and is all-in
+CRB23 said, "take it"
+CRB23 said, "KQ"
+jay8955: calls $4
+*** FLOP *** [Jh 4d 9d]
+*** TURN *** [Jh 4d 9d] [Kh]
+*** RIVER *** [Jh 4d 9d Kh] [Qd]
+*** SHOW DOWN ***
+CRB23: shows [Qs Kc] (two pair, Kings and Queens)
+jay8955: shows [Ah 5h] (high card Ace)
+CRB23 collected $9.15 from pot
+*** SUMMARY ***
+Total pot $9.60 | Rake $0.45 
+Board [Jh 4d 9d Kh Qd]
+Seat 1: EnjoyLife73 (small blind) folded before Flop
+Seat 2: CRB23 (big blind) showed [Qs Kc] and won ($9.15) with two pair, Kings and Queens
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Iconoclasty folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 (button) showed [Ah 5h] and lost with high card Ace
+
+
+
+PokerStars Game #19952366527:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:28:38 (ET)
+Table 'Alagasta III' 9-max Seat #1 is the button
+Seat 1: EnjoyLife73 ($12.20 in chips) 
+Seat 2: CRB23 ($9.15 in chips) 
+Seat 3: zachsback ($16.30 in chips) 
+Seat 4: Alameda22 ($26.30 in chips) 
+Seat 5: Iconoclasty ($11.35 in chips) 
+Seat 6: billard113 ($25 in chips) 
+Seat 7: Horseshoer07 ($25.50 in chips) 
+Seat 8: r0nny72 ($24.10 in chips) 
+Seat 9: jay8955 ($9.75 in chips) 
+CRB23: posts small blind $0.10
+zachsback: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Kc]
+Alameda22: folds 
+Iconoclasty: folds 
+Horseshoer07 said, "nh"
+billard113: folds 
+Horseshoer07: calls $0.25
+r0nny72: folds 
+jay8955: raises $0.25 to $0.50
+CRB23 said, "thx"
+EnjoyLife73: folds 
+CRB23: calls $0.40
+zachsback: folds 
+jay8955 said, "was going to call just not sure i hate have a bad kicker"
+Horseshoer07: calls $0.25
+*** FLOP *** [6h Js 6s]
+CRB23: checks 
+Horseshoer07: checks 
+jay8955: bets $0.75
+CRB23 said, "lol"
+CRB23: folds 
+Horseshoer07: folds 
+Uncalled bet ($0.75) returned to jay8955
+jay8955 collected $1.70 from pot
+jay8955: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [6h Js 6s]
+Seat 1: EnjoyLife73 (button) folded before Flop (didn't bet)
+Seat 2: CRB23 (small blind) folded on the Flop
+Seat 3: zachsback (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Iconoclasty folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 folded on the Flop
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 collected ($1.70)
+
+
+
+PokerStars Game #19952398023:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:30:00 (ET)
+Table 'Alagasta III' 9-max Seat #2 is the button
+Seat 1: EnjoyLife73 ($12.20 in chips) 
+Seat 2: CRB23 ($8.65 in chips) 
+Seat 3: zachsback ($16.05 in chips) 
+Seat 4: Alameda22 ($26.30 in chips) 
+Seat 5: Iconoclasty ($11.35 in chips) 
+Seat 6: billard113 ($25 in chips) 
+Seat 7: Horseshoer07 ($25 in chips) 
+Seat 8: r0nny72 ($24.10 in chips) 
+Seat 9: jay8955 ($10.95 in chips) 
+zachsback: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 6d]
+Iconoclasty: folds 
+billard113: folds 
+Horseshoer07: raises $0.25 to $0.50
+r0nny72: folds 
+jay8955: folds 
+EnjoyLife73: folds 
+CRB23: folds 
+zachsback: folds 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to Horseshoer07
+Horseshoer07 collected $0.60 from pot
+Horseshoer07: shows [As Qd] (high card Ace)
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: CRB23 (button) folded before Flop (didn't bet)
+Seat 3: zachsback (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: Iconoclasty folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 collected ($0.60)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952419643:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:30:55 (ET)
+Table 'Alagasta III' 9-max Seat #3 is the button
+Seat 1: EnjoyLife73 ($12.20 in chips) 
+Seat 2: CRB23 ($8.65 in chips) 
+Seat 3: zachsback ($15.95 in chips) 
+Seat 4: Alameda22 ($26.05 in chips) 
+Seat 5: Iconoclasty ($11.35 in chips) 
+Seat 6: billard113 ($25 in chips) 
+Seat 7: Horseshoer07 ($25.35 in chips) 
+Seat 8: r0nny72 ($24.10 in chips) 
+Seat 9: jay8955 ($10.95 in chips) 
+Alameda22: posts small blind $0.10
+Iconoclasty: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Jc]
+billard113: folds 
+Horseshoer07: calls $0.25
+r0nny72: folds 
+jay8955: folds 
+EnjoyLife73: folds 
+CRB23: folds 
+zachsback: folds 
+Alameda22: folds 
+Iconoclasty: checks 
+*** FLOP *** [7c 5h 6c]
+Iconoclasty: checks 
+Horseshoer07: bets $0.50
+Iconoclasty: calls $0.50
+*** TURN *** [7c 5h 6c] [Kd]
+Iconoclasty: checks 
+Horseshoer07: bets $0.50
+Iconoclasty: calls $0.50
+*** RIVER *** [7c 5h 6c Kd] [8s]
+Iconoclasty: checks 
+Horseshoer07: checks 
+*** SHOW DOWN ***
+Iconoclasty: shows [9s 5c] (a straight, Five to Nine)
+Horseshoer07: mucks hand 
+Iconoclasty collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [7c 5h 6c Kd 8s]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: CRB23 folded before Flop (didn't bet)
+Seat 3: zachsback (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: Iconoclasty (big blind) showed [9s 5c] and won ($2.50) with a straight, Five to Nine
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 mucked [7h Ac]
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952455825:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:32:24 (ET)
+Table 'Alagasta III' 9-max Seat #4 is the button
+Seat 1: EnjoyLife73 ($12.20 in chips) 
+Seat 2: CRB23 ($8.65 in chips) 
+Seat 3: zachsback ($15.95 in chips) 
+Seat 4: Alameda22 ($25.95 in chips) 
+Seat 5: Iconoclasty ($12.60 in chips) 
+Seat 6: billard113 ($25 in chips) 
+Seat 7: Horseshoer07 ($24.10 in chips) 
+Seat 8: r0nny72 ($24.10 in chips) 
+Seat 9: jay8955 ($10.95 in chips) 
+Iconoclasty: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh Ks]
+Horseshoer07: raises $0.25 to $0.50
+r0nny72: folds 
+jay8955: calls $0.50
+EnjoyLife73: folds 
+CRB23: calls $0.50
+zachsback: folds 
+zachsback leaves the table
+Alameda22: folds 
+Iconoclasty: raises $3.50 to $4
+Bubba329 joins the table at seat #3 
+billard113: folds 
+Horseshoer07: calls $3.50
+jay8955: folds 
+CRB23: folds 
+*** FLOP *** [5s 7s 2c]
+Iconoclasty: bets $8.60 and is all-in
+Horseshoer07: folds 
+Uncalled bet ($8.60) returned to Iconoclasty
+Iconoclasty collected $8.80 from pot
+Iconoclasty: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.25 | Rake $0.45 
+Board [5s 7s 2c]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: CRB23 folded before Flop
+Seat 3: zachsback folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: Iconoclasty (small blind) collected ($8.80)
+Seat 6: billard113 (big blind) folded before Flop
+Seat 7: Horseshoer07 folded on the Flop
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 folded before Flop
+
+
+
+PokerStars Game #19952493875:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:33:56 (ET)
+Table 'Alagasta III' 9-max Seat #5 is the button
+Seat 1: EnjoyLife73 ($12.20 in chips) 
+Seat 2: CRB23 ($8.15 in chips) 
+Seat 3: Bubba329 ($25 in chips) 
+Seat 4: Alameda22 ($25.95 in chips) 
+Seat 5: Iconoclasty ($17.40 in chips) 
+Seat 6: billard113 ($24.75 in chips) 
+Seat 7: Horseshoer07 ($20.10 in chips) 
+Seat 8: r0nny72 ($24.10 in chips) 
+Seat 9: jay8955 ($10.45 in chips) 
+billard113: posts small blind $0.10
+Horseshoer07: posts big blind $0.25
+Bubba329: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Jc]
+r0nny72: folds 
+jay8955: folds 
+EnjoyLife73: folds 
+CRB23: folds 
+Bubba329: checks 
+Alameda22: calls $0.25
+Iconoclasty: raises $0.75 to $1
+billard113: folds 
+Horseshoer07: calls $0.75
+Bubba329: calls $0.75
+Alameda22: calls $0.75
+*** FLOP *** [2h Ac As]
+Horseshoer07: checks 
+Bubba329: checks 
+Alameda22: checks 
+Iconoclasty: bets $4
+Horseshoer07: folds 
+Bubba329: raises $4 to $8
+Alameda22: folds 
+Iconoclasty: folds 
+Uncalled bet ($4) returned to Bubba329
+Bubba329 collected $11.55 from pot
+Bubba329: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.10 | Rake $0.55 
+Board [2h Ac As]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: CRB23 folded before Flop (didn't bet)
+Seat 3: Bubba329 collected ($11.55)
+Seat 4: Alameda22 folded on the Flop
+Seat 5: Iconoclasty (button) folded on the Flop
+Seat 6: billard113 (small blind) folded before Flop
+Seat 7: Horseshoer07 (big blind) folded on the Flop
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952527837:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:35:20 (ET)
+Table 'Alagasta III' 9-max Seat #6 is the button
+Seat 1: EnjoyLife73 ($12.20 in chips) 
+Seat 2: CRB23 ($8.15 in chips) 
+Seat 3: Bubba329 ($31.55 in chips) 
+Seat 4: Alameda22 ($24.95 in chips) 
+Seat 5: Iconoclasty ($12.40 in chips) 
+Seat 6: billard113 ($24.65 in chips) 
+Seat 7: Horseshoer07 ($19.10 in chips) 
+Seat 8: r0nny72 ($24.10 in chips) 
+Seat 9: jay8955 ($10.45 in chips) 
+Horseshoer07: posts small blind $0.10
+r0nny72: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 2h]
+jay8955: calls $0.25
+EnjoyLife73: calls $0.25
+CRB23: raises $0.75 to $1
+Bubba329: folds 
+Alameda22: folds 
+Iconoclasty: folds 
+billard113: folds 
+Horseshoer07: folds 
+r0nny72: calls $0.75
+jay8955: calls $0.75
+EnjoyLife73: calls $0.75
+*** FLOP *** [7c Ac 8d]
+r0nny72: checks 
+jay8955: checks 
+EnjoyLife73: checks 
+CRB23: bets $1.75
+r0nny72: calls $1.75
+jay8955: folds 
+EnjoyLife73: folds 
+*** TURN *** [7c Ac 8d] [Qc]
+r0nny72: checks 
+CRB23: checks 
+*** RIVER *** [7c Ac 8d Qc] [Ad]
+r0nny72: checks 
+CRB23: checks 
+*** SHOW DOWN ***
+r0nny72: shows [6d 9d] (a pair of Aces)
+CRB23: shows [8h Td] (two pair, Aces and Eights)
+CRB23 collected $7.25 from pot
+*** SUMMARY ***
+Total pot $7.60 | Rake $0.35 
+Board [7c Ac 8d Qc Ad]
+Seat 1: EnjoyLife73 folded on the Flop
+Seat 2: CRB23 showed [8h Td] and won ($7.25) with two pair, Aces and Eights
+Seat 3: Bubba329 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Iconoclasty folded before Flop (didn't bet)
+Seat 6: billard113 (button) folded before Flop (didn't bet)
+Seat 7: Horseshoer07 (small blind) folded before Flop
+Seat 8: r0nny72 (big blind) showed [6d 9d] and lost with a pair of Aces
+Seat 9: jay8955 folded on the Flop
+
+
+
+PokerStars Game #19952561252:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:36:44 (ET)
+Table 'Alagasta III' 9-max Seat #7 is the button
+Seat 1: EnjoyLife73 ($11.20 in chips) 
+Seat 2: CRB23 ($12.65 in chips) 
+Seat 3: Bubba329 ($31.55 in chips) 
+Seat 4: Alameda22 ($24.95 in chips) 
+Seat 5: Iconoclasty ($12.40 in chips) 
+Seat 6: billard113 ($24.65 in chips) 
+Seat 7: Horseshoer07 ($19 in chips) 
+Seat 8: r0nny72 ($21.35 in chips) 
+Seat 9: jay8955 ($9.45 in chips) 
+r0nny72: posts small blind $0.10
+jay8955: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 6c]
+EnjoyLife73: folds 
+CRB23: folds 
+Bubba329: folds 
+Alameda22: folds 
+Iconoclasty: folds 
+r0nny72 said, "crazy raise"
+billard113: folds 
+Horseshoer07: folds 
+r0nny72: calls $0.15
+jay8955: raises $0.25 to $0.50
+r0nny72: calls $0.25
+*** FLOP *** [8h 3s Th]
+r0nny72: bets $0.75
+jay8955: calls $0.75
+*** TURN *** [8h 3s Th] [9s]
+r0nny72: bets $1
+jay8955: raises $2 to $3
+r0nny72: calls $2
+*** RIVER *** [8h 3s Th 9s] [5s]
+r0nny72: checks 
+jay8955: bets $5.20 and is all-in
+r0nny72: folds 
+Uncalled bet ($5.20) returned to jay8955
+jay8955 collected $8.10 from pot
+jay8955: shows [Tc Td] (three of a kind, Tens)
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.40 
+Board [8h 3s Th 9s 5s]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: CRB23 folded before Flop (didn't bet)
+Seat 3: Bubba329 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Iconoclasty folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 (button) folded before Flop (didn't bet)
+Seat 8: r0nny72 (small blind) folded on the River
+Seat 9: jay8955 (big blind) collected ($8.10)
+
+
+
+PokerStars Game #19952586621:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:37:47 (ET)
+Table 'Alagasta III' 9-max Seat #8 is the button
+Seat 1: EnjoyLife73 ($11.20 in chips) 
+Seat 2: CRB23 ($12.65 in chips) 
+Seat 3: Bubba329 ($31.55 in chips) 
+Seat 4: Alameda22 ($24.95 in chips) 
+Seat 5: Iconoclasty ($12.40 in chips) 
+Seat 6: billard113 ($24.65 in chips) 
+Seat 7: Horseshoer07 ($19 in chips) 
+Seat 8: r0nny72 ($17.10 in chips) 
+Seat 9: jay8955 ($13.30 in chips) 
+jay8955: posts small blind $0.10
+EnjoyLife73: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Qd]
+CRB23: folds 
+Bubba329: folds 
+Alameda22: folds 
+Iconoclasty: folds 
+billard113 is disconnected 
+billard113 has timed out while disconnected
+billard113: folds 
+billard113 is sitting out
+Horseshoer07: calls $0.25
+r0nny72: calls $0.25
+jay8955: calls $0.15
+EnjoyLife73: checks 
+*** FLOP *** [3d 8d 3c]
+jay8955: bets $0.75
+EnjoyLife73: folds 
+Horseshoer07 is disconnected 
+Horseshoer07 has timed out while disconnected
+Horseshoer07: folds 
+Horseshoer07 is sitting out
+r0nny72: calls $0.75
+*** TURN *** [3d 8d 3c] [Kd]
+jay8955: bets $1
+r0nny72: calls $1
+*** RIVER *** [3d 8d 3c Kd] [8c]
+jay8955: checks 
+r0nny72: bets $3
+jay8955: folds 
+Uncalled bet ($3) returned to r0nny72
+r0nny72 collected $4.30 from pot
+r0nny72: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [3d 8d 3c Kd 8c]
+Seat 1: EnjoyLife73 (big blind) folded on the Flop
+Seat 2: CRB23 folded before Flop (didn't bet)
+Seat 3: Bubba329 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Iconoclasty folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Horseshoer07 folded on the Flop
+Seat 8: r0nny72 (button) collected ($4.30)
+Seat 9: jay8955 (small blind) folded on the River
+
+
+
+PokerStars Game #19952667195:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:41:06 (ET)
+Table 'Alagasta III' 9-max Seat #9 is the button
+Seat 1: EnjoyLife73 ($10.95 in chips) 
+Seat 2: CRB23 ($12.65 in chips) 
+Seat 3: Bubba329 ($31.55 in chips) 
+Seat 4: Alameda22 ($24.95 in chips) 
+Seat 5: Iconoclasty ($12.40 in chips) 
+Seat 8: r0nny72 ($19.40 in chips) 
+Seat 9: jay8955 ($11.30 in chips) 
+EnjoyLife73: posts small blind $0.10
+CRB23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 9s]
+Bubba329: folds 
+Alameda22: folds 
+Iconoclasty: folds 
+r0nny72: folds 
+jay8955: folds 
+EnjoyLife73: folds 
+Uncalled bet ($0.15) returned to CRB23
+CRB23 collected $0.20 from pot
+CRB23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: EnjoyLife73 (small blind) folded before Flop
+Seat 2: CRB23 (big blind) collected ($0.20)
+Seat 3: Bubba329 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Iconoclasty folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952679721:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:41:37 (ET)
+Table 'Alagasta III' 9-max Seat #1 is the button
+Seat 1: EnjoyLife73 ($10.85 in chips) 
+Seat 2: CRB23 ($12.75 in chips) 
+Seat 3: Bubba329 ($31.55 in chips) 
+Seat 4: Alameda22 ($24.95 in chips) 
+Seat 5: Iconoclasty ($12.40 in chips) 
+Seat 8: r0nny72 ($19.40 in chips) 
+Seat 9: jay8955 ($11.30 in chips) 
+CRB23: posts small blind $0.10
+Bubba329: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Jc]
+Alameda22: folds 
+Iconoclasty: folds 
+r0nny72: folds 
+jay8955: folds 
+billard113 is connected 
+EnjoyLife73: raises $1 to $1.25
+billard113 has returned
+CRB23: calls $1.15
+Bubba329: folds 
+*** FLOP *** [6s Qs 7d]
+CRB23: bets $11.50 and is all-in
+CRB23 said, "2 pair"
+EnjoyLife73: folds 
+Uncalled bet ($11.50) returned to CRB23
+CRB23 collected $2.65 from pot
+CRB23: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [6s Qs 7d]
+Seat 1: EnjoyLife73 (button) folded on the Flop
+Seat 2: CRB23 (small blind) collected ($2.65)
+Seat 3: Bubba329 (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Iconoclasty folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952706574:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:42:44 (ET)
+Table 'Alagasta III' 9-max Seat #2 is the button
+Seat 1: EnjoyLife73 ($9.60 in chips) 
+Seat 2: CRB23 ($14.15 in chips) 
+Seat 3: Bubba329 ($31.30 in chips) 
+Seat 4: Alameda22 ($24.95 in chips) 
+Seat 5: Iconoclasty ($12.40 in chips) 
+Seat 6: billard113 ($24.65 in chips) 
+Seat 8: r0nny72 ($19.40 in chips) 
+Seat 9: jay8955 ($11.30 in chips) 
+Bubba329: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 2c]
+Iconoclasty: folds 
+billard113: folds 
+r0nny72: raises $0.50 to $0.75
+jay8955: folds 
+EnjoyLife73: folds 
+CRB23: folds 
+Bubba329: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to r0nny72
+r0nny72 collected $0.60 from pot
+r0nny72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: CRB23 (button) folded before Flop (didn't bet)
+Seat 3: Bubba329 (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: Iconoclasty folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 8: r0nny72 collected ($0.60)
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952720526:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:43:19 (ET)
+Table 'Alagasta III' 9-max Seat #3 is the button
+Seat 1: EnjoyLife73 ($9.60 in chips) 
+Seat 2: CRB23 ($14.15 in chips) 
+Seat 3: Bubba329 ($31.20 in chips) 
+Seat 4: Alameda22 ($24.70 in chips) 
+Seat 5: Iconoclasty ($12.40 in chips) 
+Seat 6: billard113 ($24.65 in chips) 
+Seat 8: r0nny72 ($19.75 in chips) 
+Seat 9: jay8955 ($11.30 in chips) 
+Alameda22: posts small blind $0.10
+Iconoclasty: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 4h]
+billard113: raises $0.50 to $0.75
+r0nny72: calls $0.75
+jay8955: folds 
+EnjoyLife73: folds 
+CRB23: calls $0.75
+Bubba329: folds 
+Alameda22: folds 
+Iconoclasty: calls $0.50
+*** FLOP *** [Kh 2d 5s]
+Iconoclasty: checks 
+billard113: checks 
+r0nny72: checks 
+CRB23: bets $1
+Iconoclasty: folds 
+billard113: calls $1
+r0nny72: folds 
+*** TURN *** [Kh 2d 5s] [Ac]
+billard113: checks 
+CRB23: bets $1.25
+billard113: raises $1.25 to $2.50
+CRB23: calls $1.25
+*** RIVER *** [Kh 2d 5s Ac] [4s]
+billard113: bets $3.25
+CRB23: folds 
+Uncalled bet ($3.25) returned to billard113
+CRB23 said, "fkin ace"
+billard113 collected $9.65 from pot
+billard113: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.10 | Rake $0.45 
+Board [Kh 2d 5s Ac 4s]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: CRB23 folded on the River
+Seat 3: Bubba329 (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: Iconoclasty (big blind) folded on the Flop
+Seat 6: billard113 collected ($9.65)
+Seat 8: r0nny72 folded on the Flop
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952764971:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:45:10 (ET)
+Table 'Alagasta III' 9-max Seat #4 is the button
+Seat 1: EnjoyLife73 ($9.60 in chips) 
+Seat 2: CRB23 ($9.90 in chips) 
+Seat 3: Bubba329 ($31.20 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: Iconoclasty ($11.65 in chips) 
+Seat 6: billard113 ($30.05 in chips) 
+Seat 8: r0nny72 ($19 in chips) 
+Seat 9: jay8955 ($11.30 in chips) 
+Iconoclasty: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Kd]
+r0nny72: folds 
+jay8955: folds 
+EnjoyLife73: folds 
+CRB23: calls $0.25
+Bubba329: folds 
+Alameda22: folds 
+Iconoclasty: folds 
+billard113: checks 
+*** FLOP *** [9c Ad 9h]
+billard113: checks 
+CRB23: checks 
+*** TURN *** [9c Ad 9h] [7h]
+billard113: checks 
+CRB23: bets $1
+billard113: folds 
+Uncalled bet ($1) returned to CRB23
+CRB23 collected $0.60 from pot
+CRB23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9c Ad 9h 7h]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: CRB23 collected ($0.60)
+Seat 3: Bubba329 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: Iconoclasty (small blind) folded before Flop
+Seat 6: billard113 (big blind) folded on the Turn
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952792656:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:46:18 (ET)
+Table 'Alagasta III' 9-max Seat #5 is the button
+Seat 1: EnjoyLife73 ($9.60 in chips) 
+Seat 2: CRB23 ($10.25 in chips) 
+Seat 3: Bubba329 ($31.20 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: Iconoclasty ($11.55 in chips) 
+Seat 6: billard113 ($29.80 in chips) 
+Seat 8: r0nny72 ($19 in chips) 
+Seat 9: jay8955 ($11.30 in chips) 
+billard113: posts small blind $0.10
+r0nny72: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 6h]
+jay8955: folds 
+EnjoyLife73: folds 
+CRB23: folds 
+Bubba329: folds 
+Alameda22: folds 
+Iconoclasty: folds 
+billard113: raises $0.50 to $0.75
+r0nny72: folds 
+Uncalled bet ($0.50) returned to billard113
+billard113 collected $0.50 from pot
+billard113: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: CRB23 folded before Flop (didn't bet)
+Seat 3: Bubba329 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Iconoclasty (button) folded before Flop (didn't bet)
+Seat 6: billard113 (small blind) collected ($0.50)
+Seat 8: r0nny72 (big blind) folded before Flop
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952804353:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:46:47 (ET)
+Table 'Alagasta III' 9-max Seat #6 is the button
+Seat 1: EnjoyLife73 ($9.60 in chips) 
+Seat 2: CRB23 ($10.25 in chips) 
+Seat 3: Bubba329 ($31.20 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: Iconoclasty ($11.55 in chips) 
+Seat 6: billard113 ($30.05 in chips) 
+Seat 8: r0nny72 ($18.75 in chips) 
+Seat 9: jay8955 ($11.30 in chips) 
+r0nny72: posts small blind $0.10
+jay8955: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 7s]
+EnjoyLife73: folds 
+CRB23: folds 
+Bubba329: calls $0.25
+Alameda22: folds 
+Iconoclasty: folds 
+billard113: folds 
+r0nny72: folds 
+jay8955: checks 
+*** FLOP *** [Jh 3h 8d]
+jay8955: checks 
+Bubba329: bets $0.50
+jay8955: folds 
+Uncalled bet ($0.50) returned to Bubba329
+Bubba329 collected $0.60 from pot
+Bubba329: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Jh 3h 8d]
+Seat 1: EnjoyLife73 folded before Flop (didn't bet)
+Seat 2: CRB23 folded before Flop (didn't bet)
+Seat 3: Bubba329 collected ($0.60)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Iconoclasty folded before Flop (didn't bet)
+Seat 6: billard113 (button) folded before Flop (didn't bet)
+Seat 8: r0nny72 (small blind) folded before Flop
+Seat 9: jay8955 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19952820553:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:47:28 (ET)
+Table 'Alagasta III' 9-max Seat #8 is the button
+Seat 2: CRB23 ($10.25 in chips) 
+Seat 3: Bubba329 ($31.55 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: Iconoclasty ($11.55 in chips) 
+Seat 6: billard113 ($30.05 in chips) 
+Seat 8: r0nny72 ($18.65 in chips) 
+Seat 9: jay8955 ($11.05 in chips) 
+jay8955: posts small blind $0.10
+EnjoyLife73: is sitting out 
+EnjoyLife73 leaves the table
+CRB23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 5s]
+Bubba329: folds 
+Alameda22: folds 
+Bubba329 leaves the table
+Iconoclasty: folds 
+billard113: folds 
+r0nny72: folds 
+jay8955: raises $0.25 to $0.50
+mspitolai joins the table at seat #3 
+CRB23: calls $0.25
+*** FLOP *** [Kd Ks 4d]
+jay8955: checks 
+CRB23: checks 
+*** TURN *** [Kd Ks 4d] [Th]
+jay8955: bets $0.50
+CRB23: folds 
+Uncalled bet ($0.50) returned to jay8955
+jay8955 collected $0.95 from pot
+jay8955: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Kd Ks 4d Th]
+Seat 2: CRB23 (big blind) folded on the Turn
+Seat 3: Bubba329 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Iconoclasty folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 8: r0nny72 (button) folded before Flop (didn't bet)
+Seat 9: jay8955 (small blind) collected ($0.95)
+
+
+
+PokerStars Game #19952841263:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:48:20 (ET)
+Table 'Alagasta III' 9-max Seat #9 is the button
+Seat 2: CRB23 ($9.75 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: Iconoclasty ($11.55 in chips) 
+Seat 6: billard113 ($30.05 in chips) 
+Seat 8: r0nny72 ($18.65 in chips) 
+Seat 9: jay8955 ($11.50 in chips) 
+CRB23: posts small blind $0.10
+mspitolai: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 7s]
+Alameda22: folds 
+Iconoclasty: folds 
+billard113: folds 
+r0nny72: folds 
+Iconoclasty leaves the table
+jay8955: raises $0.50 to $0.75
+CRB23: calls $0.65
+mspitolai: calls $0.50
+*** FLOP *** [Ad 4c Td]
+CRB23: checks 
+mspitolai: checks 
+jay8955: checks 
+*** TURN *** [Ad 4c Td] [Ks]
+CRB23: checks 
+CRB23 said, "stright"
+atsmug joins the table at seat #5 
+mspitolai: checks 
+jay8955: checks 
+*** RIVER *** [Ad 4c Td Ks] [Qs]
+CRB23: checks 
+Cmoney666 joins the table at seat #1 
+mspitolai: checks 
+jay8955: checks 
+*** SHOW DOWN ***
+CRB23: shows [Qc 8d] (a pair of Queens)
+mspitolai: shows [6s As] (a pair of Aces)
+jay8955: mucks hand 
+mspitolai collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Ad 4c Td Ks Qs]
+Seat 2: CRB23 (small blind) showed [Qc 8d] and lost with a pair of Queens
+Seat 3: mspitolai (big blind) showed [6s As] and won ($2.15) with a pair of Aces
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: Iconoclasty folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 (button) mucked [6h 5h]
+
+
+
+PokerStars Game #19952889412:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:50:19 (ET)
+Table 'Alagasta III' 9-max Seat #2 is the button
+Seat 1: Cmoney666 ($11.10 in chips) 
+Seat 2: CRB23 ($9 in chips) 
+Seat 3: mspitolai ($26.40 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 6: billard113 ($30.05 in chips) 
+Seat 8: r0nny72 ($18.65 in chips) 
+Seat 9: jay8955 ($10.75 in chips) 
+mspitolai: posts small blind $0.10
+Alameda22: posts big blind $0.25
+atsmug: sits out 
+Cmoney666: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 3h]
+billard113: folds 
+r0nny72: calls $0.25
+Horseshoer07 was removed from the table for failing to post
+jay8955: calls $0.25
+Cmoney666: checks 
+CRB23: folds 
+CRB23 leaves the table
+mspitolai: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Td Jd 7c]
+mspitolai: checks 
+Alameda22: checks 
+r0nny72: checks 
+jay8955: bets $0.75
+Cmoney666: folds 
+mspitolai: folds 
+Alameda22: folds 
+r0nny72: calls $0.75
+*** TURN *** [Td Jd 7c] [Qd]
+r0nny72: checks 
+jay8955: bets $1.25
+r0nny72: calls $1.25
+*** RIVER *** [Td Jd 7c Qd] [Tc]
+r0nny72: checks 
+jay8955: bets $2
+r0nny72: calls $2
+*** SHOW DOWN ***
+jay8955: shows [Kd 8d] (a flush, King high)
+r0nny72: shows [Qs Kc] (two pair, Queens and Tens)
+jay8955 collected $8.80 from pot
+*** SUMMARY ***
+Total pot $9.25 | Rake $0.45 
+Board [Td Jd 7c Qd Tc]
+Seat 1: Cmoney666 folded on the Flop
+Seat 2: CRB23 (button) folded before Flop (didn't bet)
+Seat 3: mspitolai (small blind) folded on the Flop
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 8: r0nny72 showed [Qs Kc] and lost with two pair, Queens and Tens
+Seat 9: jay8955 showed [Kd 8d] and won ($8.80) with a flush, King high
+
+
+
+PokerStars Game #19952921040:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:51:38 (ET)
+Table 'Alagasta III' 9-max Seat #3 is the button
+Seat 1: Cmoney666 ($10.85 in chips) 
+Seat 3: mspitolai ($26.15 in chips) 
+Seat 4: Alameda22 ($24.35 in chips) 
+Seat 5: atsmug ($25 in chips) 
+Seat 6: billard113 ($30.05 in chips) 
+Seat 8: r0nny72 ($14.40 in chips) 
+Seat 9: jay8955 ($15.30 in chips) 
+Alameda22: posts small blind $0.10
+atsmug: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 6c]
+billard113: folds 
+r0nny72: folds 
+jay8955: folds 
+Cmoney666: folds 
+mspitolai: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to atsmug
+atsmug collected $0.20 from pot
+atsmug: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Cmoney666 folded before Flop (didn't bet)
+Seat 3: mspitolai (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: atsmug (big blind) collected ($0.20)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952936334:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:52:16 (ET)
+Table 'Alagasta III' 9-max Seat #4 is the button
+Seat 1: Cmoney666 ($10.85 in chips) 
+Seat 3: mspitolai ($26.15 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: atsmug ($25.10 in chips) 
+Seat 6: billard113 ($30.05 in chips) 
+Seat 8: r0nny72 ($14.40 in chips) 
+Seat 9: jay8955 ($15.30 in chips) 
+atsmug: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 6c]
+r0nny72: folds 
+jay8955: folds 
+Cmoney666: calls $0.25
+Foamer joins the table at seat #7 
+mspitolai: folds 
+Alameda22: folds 
+atsmug: calls $0.15
+billard113: checks 
+*** FLOP *** [5s Tc 2d]
+atsmug: checks 
+928racer joins the table at seat #2 
+Foamer is sitting out
+billard113: checks 
+Cmoney666: bets $1.25
+atsmug: folds 
+billard113: folds 
+Uncalled bet ($1.25) returned to Cmoney666
+Cmoney666 collected $0.75 from pot
+Cmoney666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [5s Tc 2d]
+Seat 1: Cmoney666 collected ($0.75)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: atsmug (small blind) folded on the Flop
+Seat 6: billard113 (big blind) folded on the Flop
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952958347:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:53:11 (ET)
+Table 'Alagasta III' 9-max Seat #5 is the button
+Seat 1: Cmoney666 ($11.35 in chips) 
+Seat 3: mspitolai ($26.15 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: atsmug ($24.85 in chips) 
+Seat 6: billard113 ($29.80 in chips) 
+Seat 8: r0nny72 ($14.40 in chips) 
+Seat 9: jay8955 ($15.30 in chips) 
+billard113: posts small blind $0.10
+r0nny72: posts big blind $0.25
+928racer: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Qh]
+jay8955: folds 
+Cmoney666: calls $0.25
+mspitolai: raises $1 to $1.25
+Alameda22: folds 
+atsmug: folds 
+billard113: folds 
+r0nny72: folds 
+Cmoney666: calls $1
+*** FLOP *** [7h 2s 2c]
+928racer leaves the table
+Cmoney666: checks 
+mspitolai: bets $1.50
+Cmoney666: calls $1.50
+*** TURN *** [7h 2s 2c] [6h]
+ready_towalk joins the table at seat #2 
+Cmoney666: bets $3
+mspitolai: folds 
+Uncalled bet ($3) returned to Cmoney666
+Cmoney666 collected $5.60 from pot
+Cmoney666: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.85 | Rake $0.25 
+Board [7h 2s 2c 6h]
+Seat 1: Cmoney666 collected ($5.60)
+Seat 3: mspitolai folded on the Turn
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: atsmug (button) folded before Flop (didn't bet)
+Seat 6: billard113 (small blind) folded before Flop
+Seat 8: r0nny72 (big blind) folded before Flop
+Seat 9: jay8955 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952988511:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:54:27 (ET)
+Table 'Alagasta III' 9-max Seat #6 is the button
+Seat 1: Cmoney666 ($14.20 in chips) 
+Seat 2: ready_towalk ($15 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: atsmug ($24.85 in chips) 
+Seat 6: billard113 ($29.70 in chips) 
+Seat 8: r0nny72 ($14.15 in chips) 
+Seat 9: jay8955 ($15.30 in chips) 
+r0nny72: posts small blind $0.10
+jay8955: posts big blind $0.25
+ready_towalk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Ah]
+Cmoney666: folds 
+ready_towalk: checks 
+mspitolai: calls $0.25
+Alameda22: folds 
+atsmug: folds 
+billard113: folds 
+r0nny72: folds 
+jay8955: checks 
+*** FLOP *** [6h Kd Kc]
+jay8955: checks 
+ready_towalk: checks 
+mspitolai: checks 
+*** TURN *** [6h Kd Kc] [7d]
+Foamer has returned
+jay8955: bets $0.75
+ready_towalk: calls $0.75
+mspitolai: calls $0.75
+*** RIVER *** [6h Kd Kc 7d] [Jh]
+jay8955: checks 
+ready_towalk: bets $0.25
+mspitolai: folds 
+jay8955: calls $0.25
+*** SHOW DOWN ***
+ready_towalk: shows [8d Ks] (three of a kind, Kings)
+jay8955: mucks hand 
+ready_towalk collected $3.45 from pot
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.15 
+Board [6h Kd Kc 7d Jh]
+Seat 1: Cmoney666 folded before Flop (didn't bet)
+Seat 2: ready_towalk showed [8d Ks] and won ($3.45) with three of a kind, Kings
+Seat 3: mspitolai folded on the River
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: atsmug folded before Flop (didn't bet)
+Seat 6: billard113 (button) folded before Flop (didn't bet)
+Seat 8: r0nny72 (small blind) folded before Flop
+Seat 9: jay8955 (big blind) mucked [6d Ts]
+
+
+
+PokerStars Game #19953038561:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:56:36 (ET)
+Table 'Alagasta III' 9-max Seat #8 is the button
+Seat 1: Cmoney666 ($14.20 in chips) 
+Seat 2: ready_towalk ($17.20 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: atsmug ($24.85 in chips) 
+Seat 6: billard113 ($29.70 in chips) 
+Seat 7: Foamer ($10 in chips) 
+Seat 8: r0nny72 ($14.05 in chips) 
+Seat 9: jay8955 ($14.05 in chips) 
+jay8955: posts small blind $0.10
+Cmoney666: posts big blind $0.25
+Foamer: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 9d]
+ready_towalk: raises $0.50 to $0.75
+mspitolai: folds 
+Alameda22: folds 
+atsmug: folds 
+billard113: folds 
+Foamer: folds 
+r0nny72: folds 
+jay8955: calls $0.65
+Cmoney666: calls $0.50
+*** FLOP *** [Ad 4d Jd]
+jay8955: bets $1.50
+Cmoney666: calls $1.50
+ready_towalk: folds 
+*** TURN *** [Ad 4d Jd] [4s]
+jay8955: checks 
+Cmoney666: bets $3.25
+jay8955: raises $3.25 to $6.50
+Cmoney666: raises $3.25 to $9.75
+jay8955: folds 
+Uncalled bet ($3.25) returned to Cmoney666
+Cmoney666 collected $17.60 from pot
+Cmoney666: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.50 | Rake $0.90 
+Board [Ad 4d Jd 4s]
+Seat 1: Cmoney666 (big blind) collected ($17.60)
+Seat 2: ready_towalk folded on the Flop
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: atsmug folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Foamer folded before Flop
+Seat 8: r0nny72 (button) folded before Flop (didn't bet)
+Seat 9: jay8955 (small blind) folded on the Turn
+
+
+
+PokerStars Game #19953070735:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:57:59 (ET)
+Table 'Alagasta III' 9-max Seat #9 is the button
+Seat 1: Cmoney666 ($23.05 in chips) 
+Seat 2: ready_towalk ($16.45 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: atsmug ($24.85 in chips) 
+Seat 6: billard113 ($29.70 in chips) 
+Seat 7: Foamer ($9.75 in chips) 
+Seat 8: r0nny72 ($14.05 in chips) 
+Seat 9: jay8955 ($5.30 in chips) 
+Cmoney666: posts small blind $0.10
+ready_towalk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 5s]
+mspitolai: folds 
+Alameda22: folds 
+atsmug: folds 
+billard113: folds 
+Foamer: calls $0.25
+r0nny72: folds 
+jay8955: calls $0.25
+Cmoney666: calls $0.15
+ready_towalk: checks 
+*** FLOP *** [8s Qd 7s]
+Cmoney666: checks 
+ready_towalk: bets $1
+Foamer: folds 
+jay8955: folds 
+Cmoney666: folds 
+Uncalled bet ($1) returned to ready_towalk
+ready_towalk collected $0.95 from pot
+ready_towalk: shows [Ac Qc] (a pair of Queens)
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [8s Qd 7s]
+Seat 1: Cmoney666 (small blind) folded on the Flop
+Seat 2: ready_towalk (big blind) collected ($0.95)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: atsmug folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Foamer folded on the Flop
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 (button) folded on the Flop
+
+
+
+PokerStars Game #19953089178:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:58:47 (ET)
+Table 'Alagasta III' 9-max Seat #1 is the button
+Seat 1: Cmoney666 ($22.80 in chips) 
+Seat 2: ready_towalk ($17.15 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: atsmug ($24.85 in chips) 
+Seat 6: billard113 ($29.70 in chips) 
+Seat 7: Foamer ($9.50 in chips) 
+Seat 8: r0nny72 ($14.05 in chips) 
+Seat 9: jay8955 ($5.05 in chips) 
+ready_towalk: posts small blind $0.10
+mspitolai: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 4c]
+Cmoney666 said, "nh"
+Alameda22: folds 
+atsmug: folds 
+billard113: folds 
+Foamer: calls $0.25
+r0nny72: folds 
+jay8955: raises $0.50 to $0.75
+Cmoney666: calls $0.75
+ready_towalk: raises $4.75 to $5.50
+mspitolai: folds 
+Foamer: folds 
+jay8955: calls $4.30 and is all-in
+Cmoney666: calls $4.75
+*** FLOP *** [4s 5d Tc]
+ready_towalk: bets $11.65 and is all-in
+Cmoney666: folds 
+Uncalled bet ($11.65) returned to ready_towalk
+*** TURN *** [4s 5d Tc] [6d]
+*** RIVER *** [4s 5d Tc 6d] [7h]
+*** SHOW DOWN ***
+ready_towalk: shows [Kh Kd] (a pair of Kings)
+ready_towalk collected $0.85 from side pot
+ready_towalk said, "TY"
+jay8955: mucks hand 
+ready_towalk collected $14.90 from main pot
+jay8955 leaves the table
+*** SUMMARY ***
+Total pot $16.55 Main pot $14.90. Side pot $0.85. | Rake $0.80 
+Board [4s 5d Tc 6d 7h]
+Seat 1: Cmoney666 (button) folded on the Flop
+Seat 2: ready_towalk (small blind) showed [Kh Kd] and won ($15.75) with a pair of Kings
+Seat 3: mspitolai (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: atsmug folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Foamer folded before Flop
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: jay8955 mucked [9c Ad]
+
+
+
+PokerStars Game #19953116410:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:59:56 (ET)
+Table 'Alagasta III' 9-max Seat #2 is the button
+Seat 1: Cmoney666 ($17.30 in chips) 
+Seat 2: ready_towalk ($27.40 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: atsmug ($24.85 in chips) 
+Seat 6: billard113 ($29.70 in chips) 
+Seat 7: Foamer ($9.25 in chips) 
+Seat 8: r0nny72 ($14.05 in chips) 
+mspitolai: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 9h]
+atsmug: folds 
+atsmug leaves the table
+billard113: folds 
+Foamer: calls $0.25
+r0nny72: folds 
+Cmoney666: calls $0.25
+ready_towalk: folds 
+mspitolai: calls $0.15
+Alameda22: checks 
+*** FLOP *** [6c Qc 2h]
+meathead68 joins the table at seat #5 
+mspitolai: checks 
+spikemolnar joins the table at seat #9 
+Alameda22: checks 
+Foamer: checks 
+Cmoney666: checks 
+*** TURN *** [6c Qc 2h] [Qd]
+mspitolai: checks 
+Alameda22: checks 
+Foamer: bets $0.50
+Cmoney666: folds 
+mspitolai: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to Foamer
+Foamer collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [6c Qc 2h Qd]
+Seat 1: Cmoney666 folded on the Turn
+Seat 2: ready_towalk (button) folded before Flop (didn't bet)
+Seat 3: mspitolai (small blind) folded on the Turn
+Seat 4: Alameda22 (big blind) folded on the Turn
+Seat 5: atsmug folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Foamer collected ($0.95)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953158432:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:01:40 (ET)
+Table 'Alagasta III' 9-max Seat #3 is the button
+Seat 1: Cmoney666 ($17.05 in chips) 
+Seat 2: ready_towalk ($27.40 in chips) 
+Seat 3: mspitolai ($24.75 in chips) 
+Seat 4: Alameda22 ($24 in chips) 
+Seat 5: meathead68 ($15 in chips) 
+Seat 6: billard113 ($29.70 in chips) 
+Seat 7: Foamer ($9.95 in chips) 
+Seat 8: r0nny72 ($14.05 in chips) 
+Seat 9: spikemolnar ($12.85 in chips) 
+Alameda22: posts small blind $0.10
+meathead68: posts big blind $0.25
+spikemolnar: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Kd]
+billard113: folds 
+Foamer: folds 
+r0nny72: folds 
+spikemolnar: checks 
+Cmoney666: calls $0.25
+ready_towalk: calls $0.25
+mspitolai: calls $0.25
+Alameda22: folds 
+meathead68: checks 
+*** FLOP *** [Jd 7s Qh]
+meathead68: checks 
+spikemolnar: bets $0.50
+Cmoney666: calls $0.50
+ready_towalk: calls $0.50
+mspitolai: folds 
+meathead68: folds 
+*** TURN *** [Jd 7s Qh] [Js]
+spikemolnar: bets $0.50
+Cmoney666: calls $0.50
+ready_towalk: folds 
+*** RIVER *** [Jd 7s Qh Js] [Jh]
+spikemolnar: bets $1.25
+Cmoney666: calls $1.25
+*** SHOW DOWN ***
+spikemolnar: shows [9s 6s] (three of a kind, Jacks)
+Cmoney666: shows [7d Ad] (a full house, Jacks full of Sevens)
+Cmoney666 collected $6.05 from pot
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.30 
+Board [Jd 7s Qh Js Jh]
+Seat 1: Cmoney666 showed [7d Ad] and won ($6.05) with a full house, Jacks full of Sevens
+Seat 2: ready_towalk folded on the Turn
+Seat 3: mspitolai (button) folded on the Flop
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: meathead68 (big blind) folded on the Flop
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Foamer folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: spikemolnar showed [9s 6s] and lost with three of a kind, Jacks
+
+
+
+PokerStars Game #19953190248:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:03:01 (ET)
+Table 'Alagasta III' 9-max Seat #4 is the button
+Seat 1: Cmoney666 ($20.60 in chips) 
+Seat 2: ready_towalk ($26.65 in chips) 
+Seat 3: mspitolai ($24.50 in chips) 
+Seat 4: Alameda22 ($23.90 in chips) 
+Seat 5: meathead68 ($14.75 in chips) 
+Seat 6: billard113 ($29.70 in chips) 
+Seat 7: Foamer ($9.95 in chips) 
+Seat 8: r0nny72 ($14.05 in chips) 
+Seat 9: spikemolnar ($10.35 in chips) 
+meathead68: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 3h]
+Foamer: raises $0.50 to $0.75
+r0nny72: folds 
+spikemolnar: folds 
+Cmoney666: calls $0.75
+ready_towalk: folds 
+mspitolai: folds 
+Alameda22: folds 
+meathead68: calls $0.65
+billard113: folds 
+*** FLOP *** [6d 8d 3d]
+meathead68: checks 
+Foamer: bets $0.50
+Cmoney666: folds 
+meathead68: calls $0.50
+*** TURN *** [6d 8d 3d] [Kd]
+meathead68: checks 
+Foamer: bets $0.50
+meathead68: raises $1.50 to $2
+Foamer: folds 
+Uncalled bet ($1.50) returned to meathead68
+meathead68 collected $4.30 from pot
+meathead68: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [6d 8d 3d Kd]
+Seat 1: Cmoney666 folded on the Flop
+Seat 2: ready_towalk folded before Flop (didn't bet)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: meathead68 (small blind) collected ($4.30)
+Seat 6: billard113 (big blind) folded before Flop
+Seat 7: Foamer folded on the Turn
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: spikemolnar folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953212007:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:03:56 (ET)
+Table 'Alagasta III' 9-max Seat #5 is the button
+Seat 1: Cmoney666 ($19.85 in chips) 
+Seat 2: ready_towalk ($26.65 in chips) 
+Seat 3: mspitolai ($24.50 in chips) 
+Seat 4: Alameda22 ($23.90 in chips) 
+Seat 5: meathead68 ($17.30 in chips) 
+Seat 6: billard113 ($29.45 in chips) 
+Seat 7: Foamer ($8.20 in chips) 
+Seat 8: r0nny72 ($14.05 in chips) 
+Seat 9: spikemolnar ($10.35 in chips) 
+billard113: posts small blind $0.10
+Foamer: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 4c]
+r0nny72: folds 
+spikemolnar: calls $0.25
+Cmoney666: calls $0.25
+ready_towalk: folds 
+mspitolai: calls $0.25
+Alameda22: folds 
+meathead68: calls $0.25
+billard113: calls $0.15
+Foamer: checks 
+*** FLOP *** [5d Ac 7h]
+billard113: checks 
+Foamer: checks 
+spikemolnar: bets $0.50
+Cmoney666: folds 
+mspitolai: folds 
+meathead68: folds 
+billard113: folds 
+Foamer: folds 
+Uncalled bet ($0.50) returned to spikemolnar
+spikemolnar collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [5d Ac 7h]
+Seat 1: Cmoney666 folded on the Flop
+Seat 2: ready_towalk folded before Flop (didn't bet)
+Seat 3: mspitolai folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 (button) folded on the Flop
+Seat 6: billard113 (small blind) folded on the Flop
+Seat 7: Foamer (big blind) folded on the Flop
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: spikemolnar collected ($1.45)
+
+
+
+PokerStars Game #19953239586:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:05:05 (ET)
+Table 'Alagasta III' 9-max Seat #6 is the button
+Seat 1: Cmoney666 ($19.60 in chips) 
+Seat 2: ready_towalk ($26.65 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($23.90 in chips) 
+Seat 5: meathead68 ($17.05 in chips) 
+Seat 6: billard113 ($29.20 in chips) 
+Seat 7: Foamer ($7.95 in chips) 
+Seat 8: r0nny72 ($14.05 in chips) 
+Seat 9: spikemolnar ($11.55 in chips) 
+Foamer: posts small blind $0.10
+r0nny72: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 5c]
+spikemolnar: raises $0.25 to $0.50
+Cmoney666: folds 
+ready_towalk: folds 
+mspitolai: folds 
+Cmoney666 leaves the table
+Alameda22: folds 
+meathead68: folds 
+billard113: folds 
+Foamer: folds 
+r0nny72: folds 
+Uncalled bet ($0.25) returned to spikemolnar
+spikemolnar collected $0.60 from pot
+spikemolnar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Cmoney666 folded before Flop (didn't bet)
+Seat 2: ready_towalk folded before Flop (didn't bet)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: billard113 (button) folded before Flop (didn't bet)
+Seat 7: Foamer (small blind) folded before Flop
+Seat 8: r0nny72 (big blind) folded before Flop
+Seat 9: spikemolnar collected ($0.60)
+
+
+
+PokerStars Game #19953256283:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:05:47 (ET)
+Table 'Alagasta III' 9-max Seat #7 is the button
+Seat 2: ready_towalk ($26.65 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($23.90 in chips) 
+Seat 5: meathead68 ($17.05 in chips) 
+Seat 6: billard113 ($29.20 in chips) 
+Seat 7: Foamer ($7.85 in chips) 
+Seat 8: r0nny72 ($13.80 in chips) 
+Seat 9: spikemolnar ($11.90 in chips) 
+r0nny72: posts small blind $0.10
+spikemolnar: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s As]
+ready_towalk: folds 
+mspitolai: folds 
+Alameda22: folds 
+meathead68: folds 
+billard113: folds 
+Foamer: calls $0.25
+r0nny72: folds 
+spikemolnar: checks 
+*** FLOP *** [3s 9c 6d]
+spikemolnar: bets $0.25
+Foamer: calls $0.25
+*** TURN *** [3s 9c 6d] [4d]
+Nick344 joins the table at seat #1 
+spikemolnar: bets $0.25
+Foamer: calls $0.25
+*** RIVER *** [3s 9c 6d 4d] [5h]
+spikemolnar: bets $0.25
+Foamer: raises $1 to $1.25
+spikemolnar: calls $1
+*** SHOW DOWN ***
+Foamer: shows [Ac 7d] (a straight, Three to Seven)
+spikemolnar: mucks hand 
+Foamer collected $3.90 from pot
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [3s 9c 6d 4d 5h]
+Seat 2: ready_towalk folded before Flop (didn't bet)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Foamer (button) showed [Ac 7d] and won ($3.90) with a straight, Three to Seven
+Seat 8: r0nny72 (small blind) folded before Flop
+Seat 9: spikemolnar (big blind) mucked [2h 8d]
+
+
+
+PokerStars Game #19953286844:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:07:04 (ET)
+Table 'Alagasta III' 9-max Seat #8 is the button
+Seat 1: Nick344 ($5 in chips) 
+Seat 2: ready_towalk ($26.65 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($23.90 in chips) 
+Seat 5: meathead68 ($17.05 in chips) 
+Seat 6: billard113 ($29.20 in chips) 
+Seat 7: Foamer ($9.75 in chips) 
+Seat 8: r0nny72 ($13.70 in chips) 
+Seat 9: spikemolnar ($9.90 in chips) 
+spikemolnar: posts small blind $0.10
+Nick344: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d As]
+ready_towalk: calls $0.25
+mspitolai: folds 
+Alameda22: folds 
+meathead68: folds 
+billard113: folds 
+Foamer: folds 
+r0nny72: calls $0.25
+spikemolnar: calls $0.15
+Nick344: checks 
+*** FLOP *** [8d Kd 3s]
+spikemolnar: checks 
+Nick344: checks 
+ready_towalk: checks 
+r0nny72: checks 
+*** TURN *** [8d Kd 3s] [Jc]
+spikemolnar: checks 
+Nick344: checks 
+ready_towalk: checks 
+r0nny72: checks 
+*** RIVER *** [8d Kd 3s Jc] [6d]
+spikemolnar: checks 
+Nick344: bets $0.50
+ready_towalk: folds 
+r0nny72: raises $1.50 to $2
+spikemolnar: folds 
+Nick344: folds 
+Uncalled bet ($1.50) returned to r0nny72
+r0nny72 collected $1.95 from pot
+r0nny72: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [8d Kd 3s Jc 6d]
+Seat 1: Nick344 (big blind) folded on the River
+Seat 2: ready_towalk folded on the River
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Foamer folded before Flop (didn't bet)
+Seat 8: r0nny72 (button) collected ($1.95)
+Seat 9: spikemolnar (small blind) folded on the River
+
+
+
+PokerStars Game #19953325924:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:08:44 (ET)
+Table 'Alagasta III' 9-max Seat #9 is the button
+Seat 1: Nick344 ($4.25 in chips) 
+Seat 2: ready_towalk ($26.40 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($23.90 in chips) 
+Seat 5: meathead68 ($17.05 in chips) 
+Seat 6: billard113 ($29.20 in chips) 
+Seat 7: Foamer ($9.75 in chips) 
+Seat 8: r0nny72 ($14.90 in chips) 
+Seat 9: spikemolnar ($9.65 in chips) 
+Nick344: posts small blind $0.10
+ready_towalk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 7s]
+mspitolai: folds 
+Alameda22: folds 
+meathead68: folds 
+billard113: folds 
+Foamer: folds 
+r0nny72: calls $0.25
+spikemolnar: calls $0.25
+Nick344: calls $0.15
+ready_towalk: checks 
+*** FLOP *** [6h 5s 9h]
+Nick344: checks 
+ready_towalk: checks 
+r0nny72: checks 
+spikemolnar: checks 
+*** TURN *** [6h 5s 9h] [Qs]
+Nick344: checks 
+ready_towalk: checks 
+r0nny72: checks 
+spikemolnar: bets $0.50
+Nick344: calls $0.50
+ready_towalk: calls $0.50
+r0nny72: calls $0.50
+*** RIVER *** [6h 5s 9h Qs] [Jc]
+Nick344: checks 
+ready_towalk: checks 
+r0nny72: checks 
+spikemolnar: bets $1.25
+Nick344: folds 
+ready_towalk: calls $1.25
+r0nny72: folds 
+*** SHOW DOWN ***
+spikemolnar: shows [Td 8c] (a straight, Eight to Queen)
+ready_towalk: mucks hand 
+spikemolnar collected $5.25 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25 
+Board [6h 5s 9h Qs Jc]
+Seat 1: Nick344 (small blind) folded on the River
+Seat 2: ready_towalk (big blind) mucked [Ks 6c]
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Foamer folded before Flop (didn't bet)
+Seat 8: r0nny72 folded on the River
+Seat 9: spikemolnar (button) showed [Td 8c] and won ($5.25) with a straight, Eight to Queen
+
+
+
+PokerStars Game #19953369550:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:10:37 (ET)
+Table 'Alagasta III' 9-max Seat #1 is the button
+Seat 1: Nick344 ($3.50 in chips) 
+Seat 2: ready_towalk ($24.40 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($23.90 in chips) 
+Seat 5: meathead68 ($17.05 in chips) 
+Seat 6: billard113 ($29.20 in chips) 
+Seat 7: Foamer ($9.75 in chips) 
+Seat 8: r0nny72 ($14.15 in chips) 
+Seat 9: spikemolnar ($12.90 in chips) 
+ready_towalk: posts small blind $0.10
+mspitolai: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 8d]
+Alameda22: folds 
+meathead68: folds 
+billard113: folds 
+Foamer: folds 
+r0nny72: folds 
+spikemolnar: calls $0.25
+Nick344: raises $0.25 to $0.50
+ready_towalk: calls $0.40
+mspitolai: calls $0.25
+spikemolnar: calls $0.25
+*** FLOP *** [5d 3s 8h]
+ready_towalk: checks 
+mspitolai: checks 
+spikemolnar: checks 
+Nick344: bets $0.75
+ready_towalk: calls $0.75
+mspitolai: folds 
+spikemolnar: folds 
+*** TURN *** [5d 3s 8h] [3h]
+ready_towalk: checks 
+Nick344: bets $2.25 and is all-in
+ready_towalk: folds 
+Uncalled bet ($2.25) returned to Nick344
+Nick344 collected $3.35 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [5d 3s 8h 3h]
+Seat 1: Nick344 (button) collected ($3.35)
+Seat 2: ready_towalk (small blind) folded on the Turn
+Seat 3: mspitolai (big blind) folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Foamer folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: spikemolnar folded on the Flop
+
+
+
+PokerStars Game #19953410912:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:12:26 (ET)
+Table 'Alagasta III' 9-max Seat #2 is the button
+Seat 1: Nick344 ($5.60 in chips) 
+Seat 2: ready_towalk ($23.15 in chips) 
+Seat 3: mspitolai ($24.50 in chips) 
+Seat 4: Alameda22 ($23.90 in chips) 
+Seat 5: meathead68 ($17.05 in chips) 
+Seat 6: billard113 ($29.20 in chips) 
+Seat 7: Foamer ($9.75 in chips) 
+Seat 8: r0nny72 ($14.15 in chips) 
+Seat 9: spikemolnar ($12.40 in chips) 
+mspitolai: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 5h]
+meathead68: folds 
+billard113: folds 
+Foamer: calls $0.25
+r0nny72: folds 
+spikemolnar: calls $0.25
+Nick344: folds 
+ready_towalk: calls $0.25
+mspitolai: folds 
+Alameda22: checks 
+*** FLOP *** [Qh 7s Ah]
+Alameda22: checks 
+Foamer: checks 
+spikemolnar: checks 
+ready_towalk: bets $0.50
+Alameda22: calls $0.50
+Foamer: calls $0.50
+spikemolnar: calls $0.50
+*** TURN *** [Qh 7s Ah] [9c]
+Alameda22: checks 
+Foamer: checks 
+spikemolnar: checks 
+ready_towalk: checks 
+*** RIVER *** [Qh 7s Ah 9c] [5c]
+Alameda22: checks 
+Foamer: checks 
+spikemolnar: checks 
+ready_towalk: checks 
+*** SHOW DOWN ***
+Alameda22: shows [4h 5h] (a pair of Fives)
+Foamer: shows [Jd Qc] (a pair of Queens)
+spikemolnar: mucks hand 
+ready_towalk: mucks hand 
+Foamer collected $2.95 from pot
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [Qh 7s Ah 9c 5c]
+Seat 1: Nick344 folded before Flop (didn't bet)
+Seat 2: ready_towalk (button) mucked [9h 6h]
+Seat 3: mspitolai (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) showed [4h 5h] and lost with a pair of Fives
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Foamer showed [Jd Qc] and won ($2.95) with a pair of Queens
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: spikemolnar mucked [Td Js]
+
+
+
+PokerStars Game #19953446147:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:13:59 (ET)
+Table 'Alagasta III' 9-max Seat #3 is the button
+Seat 1: Nick344 ($5.60 in chips) 
+Seat 2: ready_towalk ($22.40 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($23.15 in chips) 
+Seat 5: meathead68 ($17.05 in chips) 
+Seat 6: billard113 ($29.20 in chips) 
+Seat 7: Foamer ($11.95 in chips) 
+Seat 8: r0nny72 ($14.15 in chips) 
+Seat 9: spikemolnar ($11.65 in chips) 
+Alameda22: posts small blind $0.10
+meathead68: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Ah]
+billard113: folds 
+Foamer: calls $0.25
+r0nny72: folds 
+spikemolnar: folds 
+Nick344: folds 
+ready_towalk: calls $0.25
+mspitolai: folds 
+Alameda22: folds 
+meathead68: checks 
+*** FLOP *** [Js 8c Ks]
+meathead68: checks 
+Foamer: bets $0.25
+ready_towalk: folds 
+meathead68: folds 
+Uncalled bet ($0.25) returned to Foamer
+Foamer collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Js 8c Ks]
+Seat 1: Nick344 folded before Flop (didn't bet)
+Seat 2: ready_towalk folded on the Flop
+Seat 3: mspitolai (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: meathead68 (big blind) folded on the Flop
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Foamer collected ($0.85)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: spikemolnar folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953474115:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:15:05 (ET)
+Table 'Alagasta III' 9-max Seat #4 is the button
+Seat 1: Nick344 ($5.60 in chips) 
+Seat 2: ready_towalk ($22.15 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($23.05 in chips) 
+Seat 5: meathead68 ($16.80 in chips) 
+Seat 6: billard113 ($29.20 in chips) 
+Seat 7: Foamer ($12.55 in chips) 
+Seat 8: r0nny72 ($14.15 in chips) 
+Seat 9: spikemolnar ($11.65 in chips) 
+meathead68: posts small blind $0.10
+billard113: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Jd]
+Foamer: folds 
+r0nny72: folds 
+spikemolnar: calls $0.25
+Nick344: folds 
+ready_towalk: raises $0.50 to $0.75
+mspitolai: folds 
+Alameda22: folds 
+meathead68: folds 
+billard113: folds 
+spikemolnar: calls $0.50
+*** FLOP *** [9d 2s 4d]
+spikemolnar: checks 
+ready_towalk: bets $2
+spikemolnar: folds 
+Uncalled bet ($2) returned to ready_towalk
+ready_towalk collected $1.80 from pot
+ready_towalk: shows [Ah Ad] (a pair of Aces)
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [9d 2s 4d]
+Seat 1: Nick344 folded before Flop (didn't bet)
+Seat 2: ready_towalk collected ($1.80)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: meathead68 (small blind) folded before Flop
+Seat 6: billard113 (big blind) folded before Flop
+Seat 7: Foamer folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: spikemolnar folded on the Flop
+
+
+
+PokerStars Game #19953516595:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:16:44 (ET)
+Table 'Alagasta III' 9-max Seat #5 is the button
+Seat 1: Nick344 ($5.60 in chips) 
+Seat 2: ready_towalk ($23.20 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($23.05 in chips) 
+Seat 5: meathead68 ($16.70 in chips) 
+Seat 6: billard113 ($28.95 in chips) 
+Seat 7: Foamer ($12.55 in chips) 
+Seat 8: r0nny72 ($14.15 in chips) 
+Seat 9: spikemolnar ($10.90 in chips) 
+billard113: posts small blind $0.10
+Foamer: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Jh]
+r0nny72: folds 
+spikemolnar: folds 
+Nick344: raises $0.25 to $0.50
+ready_towalk: folds 
+mspitolai: folds 
+Alameda22: folds 
+meathead68: calls $0.50
+billard113: calls $0.40
+Foamer: calls $0.25
+*** FLOP *** [4d 4s Th]
+billard113: checks 
+Foamer: checks 
+Nick344: bets $0.75
+meathead68: folds 
+billard113: calls $0.75
+Foamer: folds 
+*** TURN *** [4d 4s Th] [Ad]
+billard113: checks 
+Nick344: bets $1.50
+billard113: calls $1.50
+*** RIVER *** [4d 4s Th Ad] [8s]
+billard113: checks 
+Nick344: checks 
+*** SHOW DOWN ***
+billard113: shows [Qs Ah] (two pair, Aces and Fours)
+Nick344: mucks hand 
+billard113 collected $6.20 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.30 
+Board [4d 4s Th Ad 8s]
+Seat 1: Nick344 mucked [As 7s]
+Seat 2: ready_towalk folded before Flop (didn't bet)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 (button) folded on the Flop
+Seat 6: billard113 (small blind) showed [Qs Ah] and won ($6.20) with two pair, Aces and Fours
+Seat 7: Foamer (big blind) folded on the Flop
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: spikemolnar folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953560677:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:18:28 (ET)
+Table 'Alagasta III' 9-max Seat #6 is the button
+Seat 1: Nick344 ($2.85 in chips) 
+Seat 2: ready_towalk ($23.20 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($23.05 in chips) 
+Seat 5: meathead68 ($16.20 in chips) 
+Seat 6: billard113 ($32.40 in chips) 
+Seat 7: Foamer ($12.05 in chips) 
+Seat 8: r0nny72 ($14.15 in chips) 
+Seat 9: spikemolnar ($10.90 in chips) 
+Foamer: posts small blind $0.10
+r0nny72: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 3d]
+spikemolnar: raises $0.50 to $0.75
+Nick344: raises $2.10 to $2.85 and is all-in
+ready_towalk: folds 
+mspitolai: folds 
+Alameda22: folds 
+meathead68: folds 
+billard113: folds 
+Foamer: folds 
+r0nny72: folds 
+spikemolnar: calls $2.10
+*** FLOP *** [9h Kh Qs]
+*** TURN *** [9h Kh Qs] [5h]
+*** RIVER *** [9h Kh Qs 5h] [2s]
+*** SHOW DOWN ***
+spikemolnar: shows [9s 9c] (three of a kind, Nines)
+Nick344: mucks hand 
+spikemolnar collected $5.75 from pot
+*** SUMMARY ***
+Total pot $6.05 | Rake $0.30 
+Board [9h Kh Qs 5h 2s]
+Seat 1: Nick344 mucked [6c 4c]
+Seat 2: ready_towalk folded before Flop (didn't bet)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: billard113 (button) folded before Flop (didn't bet)
+Seat 7: Foamer (small blind) folded before Flop
+Seat 8: r0nny72 (big blind) folded before Flop
+Seat 9: spikemolnar showed [9s 9c] and won ($5.75) with three of a kind, Nines
+
+
+
+PokerStars Game #19953588841:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:19:35 (ET)
+Table 'Alagasta III' 9-max Seat #7 is the button
+Seat 1: Nick344 ($5 in chips) 
+Seat 2: ready_towalk ($23.20 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($23.05 in chips) 
+Seat 5: meathead68 ($16.20 in chips) 
+Seat 6: billard113 ($32.40 in chips) 
+Seat 7: Foamer ($11.95 in chips) 
+Seat 8: r0nny72 ($13.90 in chips) 
+Seat 9: spikemolnar ($13.80 in chips) 
+r0nny72: posts small blind $0.10
+spikemolnar: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Ac]
+Nick344: raises $0.25 to $0.50
+ready_towalk: folds 
+mspitolai: calls $0.50
+Alameda22: folds 
+meathead68: folds 
+billard113: folds 
+Foamer: folds 
+r0nny72: calls $0.40
+spikemolnar: calls $0.25
+*** FLOP *** [7s 2d 5c]
+r0nny72: checks 
+spikemolnar: bets $0.25
+Nick344: calls $0.25
+mspitolai: folds 
+r0nny72: folds 
+*** TURN *** [7s 2d 5c] [Kh]
+spikemolnar: bets $0.25
+Nick344: folds 
+Uncalled bet ($0.25) returned to spikemolnar
+spikemolnar collected $2.40 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [7s 2d 5c Kh]
+Seat 1: Nick344 folded on the Turn
+Seat 2: ready_towalk folded before Flop (didn't bet)
+Seat 3: mspitolai folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Foamer (button) folded before Flop (didn't bet)
+Seat 8: r0nny72 (small blind) folded on the Flop
+Seat 9: spikemolnar (big blind) collected ($2.40)
+
+
+
+PokerStars Game #19953625177:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:21:03 (ET)
+Table 'Alagasta III' 9-max Seat #8 is the button
+Seat 1: Nick344 ($4.25 in chips) 
+Seat 2: ready_towalk ($23.20 in chips) 
+Seat 3: mspitolai ($24.50 in chips) 
+Seat 4: Alameda22 ($23.05 in chips) 
+Seat 5: meathead68 ($16.20 in chips) 
+Seat 6: billard113 ($32.40 in chips) 
+Seat 7: Foamer ($11.95 in chips) 
+Seat 8: r0nny72 ($13.40 in chips) 
+Seat 9: spikemolnar ($15.45 in chips) 
+spikemolnar: posts small blind $0.10
+Nick344: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 3h]
+ready_towalk: folds 
+mspitolai: folds 
+Alameda22: folds 
+meathead68: folds 
+billard113: folds 
+Foamer: folds 
+r0nny72: folds 
+spikemolnar: calls $0.15
+Nick344: checks 
+*** FLOP *** [Qd 6c Kd]
+spikemolnar: bets $0.25
+Nick344: folds 
+Uncalled bet ($0.25) returned to spikemolnar
+spikemolnar collected $0.50 from pot
+spikemolnar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Qd 6c Kd]
+Seat 1: Nick344 (big blind) folded on the Flop
+Seat 2: ready_towalk folded before Flop (didn't bet)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Foamer folded before Flop (didn't bet)
+Seat 8: r0nny72 (button) folded before Flop (didn't bet)
+Seat 9: spikemolnar (small blind) collected ($0.50)
+
+
+
+PokerStars Game #19953649925:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:22:03 (ET)
+Table 'Alagasta III' 9-max Seat #9 is the button
+Seat 1: Nick344 ($4 in chips) 
+Seat 2: ready_towalk ($23.20 in chips) 
+Seat 3: mspitolai ($24.50 in chips) 
+Seat 4: Alameda22 ($23.05 in chips) 
+Seat 5: meathead68 ($16.20 in chips) 
+Seat 6: billard113 ($32.40 in chips) 
+Seat 7: Foamer ($11.95 in chips) 
+Seat 8: r0nny72 ($13.40 in chips) 
+Seat 9: spikemolnar ($15.70 in chips) 
+Nick344: posts small blind $0.10
+ready_towalk: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 8d]
+mspitolai: folds 
+Alameda22: folds 
+meathead68: raises $0.50 to $0.75
+billard113: folds 
+Foamer: folds 
+r0nny72: folds 
+spikemolnar: folds 
+Nick344: calls $0.65
+ready_towalk: calls $0.50
+*** FLOP *** [2h Ad 6d]
+Nick344: bets $0.75
+ready_towalk: calls $0.75
+meathead68: raises $3.25 to $4
+Nick344: calls $2.50 and is all-in
+ready_towalk: calls $3.25
+*** TURN *** [2h Ad 6d] [6s]
+ready_towalk: bets $18.45 and is all-in
+meathead68: folds 
+Uncalled bet ($18.45) returned to ready_towalk
+*** RIVER *** [2h Ad 6d 6s] [Qc]
+*** SHOW DOWN ***
+ready_towalk: shows [9s 6h] (three of a kind, Sixes)
+ready_towalk collected $1.40 from side pot
+Nick344: mucks hand 
+ready_towalk collected $11.45 from main pot
+*** SUMMARY ***
+Total pot $13.50 Main pot $11.45. Side pot $1.40. | Rake $0.65 
+Board [2h Ad 6d 6s Qc]
+Seat 1: Nick344 (small blind) mucked [2s As]
+Seat 2: ready_towalk (big blind) showed [9s 6h] and won ($12.85) with three of a kind, Sixes
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded on the Turn
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Foamer folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: spikemolnar (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953707038:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:24:24 (ET)
+Table 'Alagasta III' 9-max Seat #2 is the button
+Seat 2: ready_towalk ($31.30 in chips) 
+Seat 3: mspitolai ($24.50 in chips) 
+Seat 4: Alameda22 ($23.05 in chips) 
+Seat 5: meathead68 ($11.45 in chips) 
+Seat 6: billard113 ($32.40 in chips) 
+Seat 7: Foamer ($11.95 in chips) 
+Seat 8: r0nny72 ($13.40 in chips) 
+Seat 9: spikemolnar ($15.70 in chips) 
+mspitolai: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Js]
+meathead68: calls $0.25
+billard113: folds 
+Foamer: folds 
+r0nny72: folds 
+Nick344 has returned
+spikemolnar: calls $0.25
+ready_towalk: calls $0.25
+mspitolai: calls $0.15
+Alameda22: checks 
+*** FLOP *** [9s 3d Tc]
+mspitolai: checks 
+Alameda22: checks 
+meathead68: bets $0.50
+spikemolnar: raises $0.50 to $1
+ready_towalk: calls $1
+mspitolai: folds 
+Alameda22: folds 
+meathead68: raises $1.25 to $2.25
+spikemolnar: calls $1.25
+ready_towalk: folds 
+*** TURN *** [9s 3d Tc] [7c]
+meathead68: bets $3.75
+spikemolnar: calls $3.75
+*** RIVER *** [9s 3d Tc 7c] [6s]
+meathead68: bets $5.20 and is all-in
+spikemolnar: calls $5.20
+*** SHOW DOWN ***
+meathead68: shows [9c 9h] (three of a kind, Nines)
+spikemolnar: mucks hand 
+meathead68 collected $23.45 from pot
+*** SUMMARY ***
+Total pot $24.65 | Rake $1.20 
+Board [9s 3d Tc 7c 6s]
+Seat 2: ready_towalk (button) folded on the Flop
+Seat 3: mspitolai (small blind) folded on the Flop
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 5: meathead68 showed [9c 9h] and won ($23.45) with three of a kind, Nines
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Foamer folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: spikemolnar mucked [Qc Td]
+
+
+
+PokerStars Game #19953749345:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:26:10 (ET)
+Table 'Alagasta III' 9-max Seat #3 is the button
+Seat 1: Nick344 ($5 in chips) 
+Seat 2: ready_towalk ($30.05 in chips) 
+Seat 3: mspitolai ($24.25 in chips) 
+Seat 4: Alameda22 ($22.80 in chips) 
+Seat 5: meathead68 ($23.45 in chips) 
+Seat 6: billard113 ($32.40 in chips) 
+Seat 7: Foamer ($11.95 in chips) 
+Seat 8: r0nny72 ($13.40 in chips) 
+Seat 9: spikemolnar ($4.25 in chips) 
+Alameda22: posts small blind $0.10
+meathead68: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Qc]
+billard113: folds 
+billard113 leaves the table
+Foamer: folds 
+r0nny72: calls $0.25
+spikemolnar: folds 
+Nick344: folds 
+ready_towalk: calls $0.25
+mspitolai: folds 
+Alameda22: folds 
+meathead68: checks 
+*** FLOP *** [4h 3c 8d]
+meathead68: checks 
+r0nny72: checks 
+ready_towalk: checks 
+*** TURN *** [4h 3c 8d] [5s]
+meathead68: bets $0.50
+r0nny72: folds 
+ready_towalk: folds 
+Uncalled bet ($0.50) returned to meathead68
+meathead68 collected $0.85 from pot
+meathead68: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [4h 3c 8d 5s]
+Seat 1: Nick344 folded before Flop (didn't bet)
+Seat 2: ready_towalk folded on the Turn
+Seat 3: mspitolai (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: meathead68 (big blind) collected ($0.85)
+Seat 6: billard113 folded before Flop (didn't bet)
+Seat 7: Foamer folded before Flop (didn't bet)
+Seat 8: r0nny72 folded on the Turn
+Seat 9: spikemolnar folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953772693:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:27:09 (ET)
+Table 'Alagasta III' 9-max Seat #4 is the button
+Seat 1: Nick344 ($5 in chips) 
+Seat 2: ready_towalk ($29.80 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($22.70 in chips) 
+Seat 5: meathead68 ($24.05 in chips) 
+Seat 7: Foamer ($11.95 in chips) 
+Seat 8: r0nny72 ($13.15 in chips) 
+Seat 9: spikemolnar ($4.25 in chips) 
+meathead68: posts small blind $0.10
+Foamer: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Ac]
+r0nny72: calls $0.25
+spikemolnar: calls $0.25
+Nick344: folds 
+ready_towalk: folds 
+ready_towalk leaves the table
+mspitolai: raises $1 to $1.25
+Alameda22: folds 
+meathead68: folds 
+Foamer: folds 
+r0nny72: folds 
+Showtime37 joins the table at seat #6 
+spikemolnar: calls $1
+*** FLOP *** [7c Ks 5h]
+spikemolnar: bets $3 and is all-in
+mspitolai: folds 
+Uncalled bet ($3) returned to spikemolnar
+spikemolnar collected $2.95 from pot
+spikemolnar: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [7c Ks 5h]
+Seat 1: Nick344 folded before Flop (didn't bet)
+Seat 2: ready_towalk folded before Flop (didn't bet)
+Seat 3: mspitolai folded on the Flop
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: meathead68 (small blind) folded before Flop
+Seat 7: Foamer (big blind) folded before Flop
+Seat 8: r0nny72 folded before Flop
+Seat 9: spikemolnar collected ($2.95)
+
+
+
+PokerStars Game #19953805392:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:28:32 (ET)
+Table 'Alagasta III' 9-max Seat #5 is the button
+Seat 1: Nick344 ($5 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($22.70 in chips) 
+Seat 5: meathead68 ($23.95 in chips) 
+Seat 7: Foamer ($11.70 in chips) 
+Seat 8: r0nny72 ($12.90 in chips) 
+Seat 9: spikemolnar ($5.95 in chips) 
+Showtime37 will be allowed to play after the button
+Foamer: posts small blind $0.10
+r0nny72: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h As]
+spikemolnar: raises $0.75 to $1
+Nick344: calls $1
+mspitolai: folds 
+Alameda22: folds 
+meathead68: calls $1
+Foamer: folds 
+r0nny72: calls $0.75
+*** FLOP *** [8c Ad Qh]
+r0nny72: checks 
+AmatureHour joins the table at seat #2 
+spikemolnar: bets $1
+Nick344: calls $1
+meathead68: folds 
+r0nny72: calls $1
+*** TURN *** [8c Ad Qh] [Tc]
+r0nny72: bets $10.90 and is all-in
+spikemolnar: folds 
+Nick344: calls $3 and is all-in
+Uncalled bet ($7.90) returned to r0nny72
+*** RIVER *** [8c Ad Qh Tc] [4h]
+*** SHOW DOWN ***
+r0nny72: shows [Jc Kd] (a straight, Ten to Ace)
+Nick344: mucks hand 
+r0nny72 collected $12.50 from pot
+*** SUMMARY ***
+Total pot $13.10 | Rake $0.60 
+Board [8c Ad Qh Tc 4h]
+Seat 1: Nick344 mucked [Ks Ah]
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 (button) folded on the Flop
+Seat 7: Foamer (small blind) folded before Flop
+Seat 8: r0nny72 (big blind) showed [Jc Kd] and won ($12.50) with a straight, Ten to Ace
+Seat 9: spikemolnar folded on the Turn
+
+
+
+PokerStars Game #19953832866:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:29:42 (ET)
+Table 'Alagasta III' 9-max Seat #7 is the button
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($22.70 in chips) 
+Seat 5: meathead68 ($22.95 in chips) 
+Seat 6: Showtime37 ($25 in chips) 
+Seat 7: Foamer ($11.60 in chips) 
+Seat 8: r0nny72 ($20.40 in chips) 
+Seat 9: spikemolnar ($3.95 in chips) 
+r0nny72: posts small blind $0.10
+spikemolnar: posts big blind $0.25
+Nick344 leaves the table
+AmatureHour: sits out 
+Showtime37: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Qh]
+mspitolai: folds 
+Alameda22: folds 
+meathead68: folds 
+Showtime37: checks 
+Foamer: raises $0.25 to $0.50
+r0nny72: folds 
+spikemolnar: folds 
+Mystikal_81 joins the table at seat #1 
+Showtime37: folds 
+Uncalled bet ($0.25) returned to Foamer
+Foamer collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Showtime37 folded before Flop
+Seat 7: Foamer (button) collected ($0.85)
+Seat 8: r0nny72 (small blind) folded before Flop
+Seat 9: spikemolnar (big blind) folded before Flop
+
+
+
+PokerStars Game #19953847772:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:30:20 (ET)
+Table 'Alagasta III' 9-max Seat #8 is the button
+Seat 1: Mystikal_81 ($10 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($22.70 in chips) 
+Seat 5: meathead68 ($22.95 in chips) 
+Seat 6: Showtime37 ($24.75 in chips) 
+Seat 7: Foamer ($12.20 in chips) 
+Seat 8: r0nny72 ($20.30 in chips) 
+Seat 9: spikemolnar ($3.70 in chips) 
+spikemolnar: posts small blind $0.10
+Mystikal_81: posts big blind $0.25
+AmatureHour: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 2h]
+mspitolai: folds 
+Alameda22: folds 
+meathead68: folds 
+Showtime37: raises $0.25 to $0.50
+Foamer: calls $0.50
+r0nny72: folds 
+spikemolnar: calls $0.40
+Mystikal_81: calls $0.25
+*** FLOP *** [Qc Qh 6d]
+spikemolnar: checks 
+Mystikal_81: bets $1
+Showtime37: folds 
+Foamer: folds 
+spikemolnar: folds 
+Uncalled bet ($1) returned to Mystikal_81
+Mystikal_81 collected $1.90 from pot
+Mystikal_81: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Qc Qh 6d]
+Seat 1: Mystikal_81 (big blind) collected ($1.90)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Showtime37 folded on the Flop
+Seat 7: Foamer folded on the Flop
+Seat 8: r0nny72 (button) folded before Flop (didn't bet)
+Seat 9: spikemolnar (small blind) folded on the Flop
+
+
+
+PokerStars Game #19953878397:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:31:38 (ET)
+Table 'Alagasta III' 9-max Seat #9 is the button
+Seat 1: Mystikal_81 ($11.40 in chips) 
+Seat 2: AmatureHour ($20 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($22.70 in chips) 
+Seat 5: meathead68 ($22.95 in chips) 
+Seat 6: Showtime37 ($24.25 in chips) 
+Seat 7: Foamer ($11.70 in chips) 
+Seat 8: r0nny72 ($20.30 in chips) 
+Seat 9: spikemolnar ($3.20 in chips) 
+Mystikal_81: posts small blind $0.10
+AmatureHour: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Ad]
+mspitolai: folds 
+Alameda22: raises $0.50 to $0.75
+meathead68: folds 
+Showtime37: folds 
+Foamer: calls $0.75
+r0nny72: calls $0.75
+spikemolnar: raises $1.50 to $2.25
+Mystikal_81: folds 
+AmatureHour: folds 
+Alameda22: raises $20.45 to $22.70 and is all-in
+Foamer: folds 
+r0nny72: folds 
+spikemolnar: calls $0.95 and is all-in
+Uncalled bet ($19.50) returned to Alameda22
+*** FLOP *** [4s 4d 4c]
+*** TURN *** [4s 4d 4c] [7h]
+*** RIVER *** [4s 4d 4c 7h] [Th]
+*** SHOW DOWN ***
+Alameda22: shows [Kh Ad] (three of a kind, Fours)
+spikemolnar: mucks hand 
+Alameda22 collected $7.85 from pot
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.40 
+Board [4s 4d 4c 7h Th]
+Seat 1: Mystikal_81 (small blind) folded before Flop
+Seat 2: AmatureHour (big blind) folded before Flop
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 showed [Kh Ad] and won ($7.85) with three of a kind, Fours
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Showtime37 folded before Flop (didn't bet)
+Seat 7: Foamer folded before Flop
+Seat 8: r0nny72 folded before Flop
+Seat 9: spikemolnar (button) mucked [Qc 5c]
+
+
+
+PokerStars Game #19953906005:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:32:48 (ET)
+Table 'Alagasta III' 9-max Seat #1 is the button
+Seat 1: Mystikal_81 ($11.30 in chips) 
+Seat 2: AmatureHour ($19.75 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($27.35 in chips) 
+Seat 5: meathead68 ($22.95 in chips) 
+Seat 6: Showtime37 ($24.25 in chips) 
+Seat 7: Foamer ($10.95 in chips) 
+Seat 8: r0nny72 ($19.55 in chips) 
+AmatureHour: posts small blind $0.10
+mspitolai: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Jc]
+spikemolnar leaves the table
+Alameda22: folds 
+meathead68: folds 
+Showtime37: calls $0.25
+Foamer: calls $0.25
+r0nny72: folds 
+Mystikal_81: calls $0.25
+AmatureHour: calls $0.15
+r0nny72 said, "had to call with my pocket 5´s"
+mspitolai: checks 
+*** FLOP *** [9d 4c 7s]
+AmatureHour: checks 
+mspitolai: checks 
+Showtime37: checks 
+Foamer: checks 
+Mystikal_81: bets $0.50
+AmatureHour: folds 
+mspitolai: calls $0.50
+Showtime37: folds 
+Foamer: folds 
+*** TURN *** [9d 4c 7s] [Tc]
+mspitolai: checks 
+Mystikal_81: bets $1
+Landersp joins the table at seat #9 
+mspitolai: folds 
+Uncalled bet ($1) returned to Mystikal_81
+Mystikal_81 collected $2.15 from pot
+Mystikal_81: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [9d 4c 7s Tc]
+Seat 1: Mystikal_81 (button) collected ($2.15)
+Seat 2: AmatureHour (small blind) folded on the Flop
+Seat 3: mspitolai (big blind) folded on the Turn
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Showtime37 folded on the Flop
+Seat 7: Foamer folded on the Flop
+Seat 8: r0nny72 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953951652:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:34:44 (ET)
+Table 'Alagasta III' 9-max Seat #2 is the button
+Seat 1: Mystikal_81 ($12.70 in chips) 
+Seat 2: AmatureHour ($19.50 in chips) 
+Seat 3: mspitolai ($25 in chips) 
+Seat 4: Alameda22 ($27.35 in chips) 
+Seat 5: meathead68 ($22.95 in chips) 
+Seat 6: Showtime37 ($24 in chips) 
+Seat 7: Foamer ($10.70 in chips) 
+Seat 8: r0nny72 ($19.55 in chips) 
+Seat 9: Landersp ($25 in chips) 
+mspitolai: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Landersp: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 8s]
+meathead68: folds 
+Showtime37: raises $0.25 to $0.50
+Foamer: folds 
+r0nny72: folds 
+Landersp: folds 
+Mystikal_81: folds 
+AmatureHour: calls $0.50
+mspitolai: calls $0.40
+Alameda22: folds 
+*** FLOP *** [Ts Td 9c]
+mspitolai: checks 
+Showtime37: checks 
+AmatureHour: bets $1
+mspitolai: calls $1
+Showtime37: folds 
+*** TURN *** [Ts Td 9c] [4d]
+mspitolai: checks 
+AmatureHour: checks 
+*** RIVER *** [Ts Td 9c 4d] [5h]
+mspitolai: bets $2
+AmatureHour: folds 
+Uncalled bet ($2) returned to mspitolai
+mspitolai collected $3.85 from pot
+mspitolai: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.15 
+Board [Ts Td 9c 4d 5h]
+Seat 1: Mystikal_81 folded before Flop (didn't bet)
+Seat 2: AmatureHour (button) folded on the River
+Seat 3: mspitolai (small blind) collected ($3.85)
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Showtime37 folded on the Flop
+Seat 7: Foamer folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: Landersp folded before Flop
+
+
+
+PokerStars Game #19953987249:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:36:13 (ET)
+Table 'Alagasta III' 9-max Seat #3 is the button
+Seat 1: Mystikal_81 ($12.70 in chips) 
+Seat 2: AmatureHour ($18 in chips) 
+Seat 3: mspitolai ($27.35 in chips) 
+Seat 4: Alameda22 ($27.10 in chips) 
+Seat 5: meathead68 ($22.95 in chips) 
+Seat 6: Showtime37 ($23.50 in chips) 
+Seat 7: Foamer ($10.70 in chips) 
+Seat 8: r0nny72 ($19.55 in chips) 
+Seat 9: Landersp ($24.75 in chips) 
+Alameda22: posts small blind $0.10
+meathead68: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 3h]
+Showtime37: calls $0.25
+Foamer: calls $0.25
+r0nny72: calls $0.25
+Landersp: folds 
+Mystikal_81: raises $0.50 to $0.75
+AmatureHour: folds 
+mspitolai: folds 
+Alameda22: folds 
+meathead68: folds 
+Showtime37: calls $0.50
+Foamer has timed out
+Foamer: folds 
+Foamer is sitting out
+r0nny72: calls $0.50
+*** FLOP *** [8h Tc 5h]
+Showtime37: bets $1
+r0nny72: calls $1
+Mystikal_81: calls $1
+*** TURN *** [8h Tc 5h] [Jc]
+Showtime37: bets $1.75
+r0nny72: calls $1.75
+Mystikal_81: calls $1.75
+*** RIVER *** [8h Tc 5h Jc] [Kd]
+Showtime37: bets $2
+r0nny72: calls $2
+Mystikal_81: folds 
+*** SHOW DOWN ***
+Showtime37: shows [Kh 9h] (a pair of Kings)
+r0nny72: shows [Ts Js] (two pair, Jacks and Tens)
+r0nny72 collected $14.40 from pot
+*** SUMMARY ***
+Total pot $15.10 | Rake $0.70 
+Board [8h Tc 5h Jc Kd]
+Seat 1: Mystikal_81 folded on the River
+Seat 2: AmatureHour folded before Flop (didn't bet)
+Seat 3: mspitolai (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: meathead68 (big blind) folded before Flop
+Seat 6: Showtime37 showed [Kh 9h] and lost with a pair of Kings
+Seat 7: Foamer folded before Flop
+Seat 8: r0nny72 showed [Ts Js] and won ($14.40) with two pair, Jacks and Tens
+Seat 9: Landersp folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954057832:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:39:13 (ET)
+Table 'Alagasta III' 9-max Seat #4 is the button
+Seat 1: Mystikal_81 ($9.20 in chips) 
+Seat 2: AmatureHour ($18 in chips) 
+Seat 3: mspitolai ($27.35 in chips) 
+Seat 4: Alameda22 ($27 in chips) 
+Seat 5: meathead68 ($22.70 in chips) 
+Seat 6: Showtime37 ($18 in chips) 
+Seat 8: r0nny72 ($28.45 in chips) 
+Seat 9: Landersp ($24.75 in chips) 
+meathead68: posts small blind $0.10
+Showtime37: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 9c]
+r0nny72: folds 
+Landersp: calls $0.25
+Mystikal_81: calls $0.25
+AmatureHour: calls $0.25
+mspitolai: calls $0.25
+Alameda22: folds 
+meathead68: folds 
+Showtime37: checks 
+*** FLOP *** [7s Ad Tc]
+Showtime37: checks 
+Landersp: checks 
+Mystikal_81: checks 
+AmatureHour: checks 
+mspitolai: checks 
+*** TURN *** [7s Ad Tc] [5h]
+Showtime37: bets $1
+Landersp: folds 
+Mystikal_81: folds 
+AmatureHour: folds 
+Mystikal_81 leaves the table
+mspitolai: folds 
+Uncalled bet ($1) returned to Showtime37
+Showtime37 collected $1.30 from pot
+Showtime37: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [7s Ad Tc 5h]
+Seat 1: Mystikal_81 folded on the Turn
+Seat 2: AmatureHour folded on the Turn
+Seat 3: mspitolai folded on the Turn
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: meathead68 (small blind) folded before Flop
+Seat 6: Showtime37 (big blind) collected ($1.30)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: Landersp folded on the Turn
+
+
+
+PokerStars Game #19954092469:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:40:43 (ET)
+Table 'Alagasta III' 9-max Seat #5 is the button
+Seat 2: AmatureHour ($17.75 in chips) 
+Seat 3: mspitolai ($27.10 in chips) 
+Seat 4: Alameda22 ($27 in chips) 
+Seat 5: meathead68 ($22.60 in chips) 
+Seat 6: Showtime37 ($19.05 in chips) 
+Seat 8: r0nny72 ($28.45 in chips) 
+Seat 9: Landersp ($24.50 in chips) 
+Showtime37: posts small blind $0.10
+r0nny72: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 8s]
+Landersp: folds 
+AmatureHour: folds 
+mspitolai: folds 
+Alameda22: folds 
+meathead68: folds 
+Showtime37: raises $0.25 to $0.50
+r0nny72: folds 
+Uncalled bet ($0.25) returned to Showtime37
+Showtime37 collected $0.50 from pot
+Showtime37: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: AmatureHour folded before Flop (didn't bet)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 (button) folded before Flop (didn't bet)
+Seat 6: Showtime37 (small blind) collected ($0.50)
+Seat 8: r0nny72 (big blind) folded before Flop
+Seat 9: Landersp folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954102876:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:41:11 (ET)
+Table 'Alagasta III' 9-max Seat #6 is the button
+Seat 2: AmatureHour ($17.75 in chips) 
+Seat 3: mspitolai ($27.10 in chips) 
+Seat 4: Alameda22 ($27 in chips) 
+Seat 5: meathead68 ($22.60 in chips) 
+Seat 6: Showtime37 ($19.30 in chips) 
+Seat 8: r0nny72 ($28.20 in chips) 
+Seat 9: Landersp ($24.50 in chips) 
+r0nny72: posts small blind $0.10
+Landersp: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 5s]
+ThannTheOne joins the table at seat #1 
+AmatureHour: folds 
+mspitolai: folds 
+Alameda22: folds 
+meathead68: folds 
+Showtime37: folds 
+r0nny72: folds 
+Uncalled bet ($0.15) returned to Landersp
+Landersp collected $0.20 from pot
+Landersp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: AmatureHour folded before Flop (didn't bet)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Showtime37 (button) folded before Flop (didn't bet)
+Seat 8: r0nny72 (small blind) folded before Flop
+Seat 9: Landersp (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19954110788:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:41:31 (ET)
+Table 'Alagasta III' 9-max Seat #8 is the button
+Seat 1: ThannTheOne ($5 in chips) 
+Seat 2: AmatureHour ($17.75 in chips) 
+Seat 3: mspitolai ($27.10 in chips) 
+Seat 4: Alameda22 ($27 in chips) 
+Seat 5: meathead68 ($22.60 in chips) 
+Seat 6: Showtime37 ($19.30 in chips) 
+Seat 8: r0nny72 ($28.10 in chips) 
+Seat 9: Landersp ($24.60 in chips) 
+Landersp: posts small blind $0.10
+ThannTheOne: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc As]
+AmatureHour: folds 
+mspitolai: folds 
+Alameda22: folds 
+meathead68: folds 
+Showtime37: calls $0.25
+r0nny72: folds 
+Landersp: folds 
+ThannTheOne: checks 
+*** FLOP *** [Qc 2d Qd]
+ThannTheOne: checks 
+Showtime37: checks 
+*** TURN *** [Qc 2d Qd] [9h]
+ThannTheOne: checks 
+Showtime37: checks 
+*** RIVER *** [Qc 2d Qd 9h] [Ts]
+ThannTheOne: checks 
+Showtime37: checks 
+*** SHOW DOWN ***
+ThannTheOne: shows [5c Jh] (a pair of Queens)
+Showtime37: mucks hand 
+ThannTheOne collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qc 2d Qd 9h Ts]
+Seat 1: ThannTheOne (big blind) showed [5c Jh] and won ($0.60) with a pair of Queens
+Seat 2: AmatureHour folded before Flop (didn't bet)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Showtime37 mucked [7s 6s]
+Seat 8: r0nny72 (button) folded before Flop (didn't bet)
+Seat 9: Landersp (small blind) folded before Flop
+
+
+
+PokerStars Game #19954136555:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:42:39 (ET)
+Table 'Alagasta III' 9-max Seat #9 is the button
+Seat 1: ThannTheOne ($5.35 in chips) 
+Seat 2: AmatureHour ($17.75 in chips) 
+Seat 3: mspitolai ($27.10 in chips) 
+Seat 4: Alameda22 ($27 in chips) 
+Seat 5: meathead68 ($22.60 in chips) 
+Seat 6: Showtime37 ($19.05 in chips) 
+Seat 8: r0nny72 ($28.10 in chips) 
+Seat 9: Landersp ($24.50 in chips) 
+ThannTheOne: posts small blind $0.10
+AmatureHour: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Ah]
+mspitolai: calls $0.25
+Alameda22: folds 
+meathead68: folds 
+Showtime37: calls $0.25
+r0nny72: calls $0.25
+Landersp: calls $0.25
+ThannTheOne: folds 
+AmatureHour: checks 
+*** FLOP *** [7s 3c 9d]
+AmatureHour: bets $0.50
+mspitolai: calls $0.50
+Showtime37: folds 
+r0nny72: calls $0.50
+Showtime37 leaves the table
+Landersp: folds 
+*** TURN *** [7s 3c 9d] [2d]
+AmatureHour: bets $1.50
+mspitolai: raises $1.50 to $3
+Lachesis85 joins the table at seat #6 
+r0nny72: folds 
+AmatureHour: calls $1.50
+*** RIVER *** [7s 3c 9d 2d] [Th]
+AmatureHour: checks 
+mspitolai: bets $23.35 and is all-in
+AmatureHour: calls $14 and is all-in
+Uncalled bet ($9.35) returned to mspitolai
+*** SHOW DOWN ***
+mspitolai: shows [3d 3h] (three of a kind, Threes)
+AmatureHour: mucks hand 
+mspitolai collected $35.05 from pot
+*** SUMMARY ***
+Total pot $36.85 | Rake $1.80 
+Board [7s 3c 9d 2d Th]
+Seat 1: ThannTheOne (small blind) folded before Flop
+Seat 2: AmatureHour (big blind) mucked [8s 9s]
+Seat 3: mspitolai showed [3d 3h] and won ($35.05) with three of a kind, Threes
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Showtime37 folded on the Flop
+Seat 8: r0nny72 folded on the Turn
+Seat 9: Landersp (button) folded on the Flop
+
+
+
+PokerStars Game #19954176578:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:44:23 (ET)
+Table 'Alagasta III' 9-max Seat #1 is the button
+Seat 1: ThannTheOne ($5.25 in chips) 
+Seat 3: mspitolai ($44.40 in chips) 
+Seat 4: Alameda22 ($27 in chips) 
+Seat 5: meathead68 ($22.60 in chips) 
+Seat 8: r0nny72 ($27.35 in chips) 
+Seat 9: Landersp ($24.25 in chips) 
+mspitolai: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Lachesis85: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Ac]
+meathead68: folds 
+r0nny72: folds 
+AmatureHour has returned
+Landersp: folds 
+ThannTheOne: folds 
+mspitolai: raises $0.75 to $1
+Alameda22: folds 
+Uncalled bet ($0.75) returned to mspitolai
+mspitolai collected $0.50 from pot
+mspitolai: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: ThannTheOne (button) folded before Flop (didn't bet)
+Seat 3: mspitolai (small blind) collected ($0.50)
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: Landersp folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954187249:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:44:51 (ET)
+Table 'Alagasta III' 9-max Seat #3 is the button
+Seat 1: ThannTheOne ($5.25 in chips) 
+Seat 2: AmatureHour ($20 in chips) 
+Seat 3: mspitolai ($44.65 in chips) 
+Seat 4: Alameda22 ($26.75 in chips) 
+Seat 5: meathead68 ($22.60 in chips) 
+Seat 8: r0nny72 ($27.35 in chips) 
+Seat 9: Landersp ($24.25 in chips) 
+Alameda22: posts small blind $0.10
+meathead68: posts big blind $0.25
+Lachesis85: sits out 
+AmatureHour: posts small blind $0.10
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 8h]
+r0nny72: folds 
+Landersp: folds 
+ThannTheOne: folds 
+AmatureHour: folds 
+mspitolai: raises $1 to $1.25
+Alameda22: folds 
+meathead68: folds 
+Uncalled bet ($1) returned to mspitolai
+mspitolai collected $0.70 from pot
+mspitolai: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: ThannTheOne folded before Flop (didn't bet)
+Seat 2: AmatureHour folded before Flop
+Seat 3: mspitolai (button) collected ($0.70)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: meathead68 (big blind) folded before Flop
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: Landersp folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954198582:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:45:22 (ET)
+Table 'Alagasta III' 9-max Seat #4 is the button
+Seat 1: ThannTheOne ($5.25 in chips) 
+Seat 2: AmatureHour ($19.90 in chips) 
+Seat 3: mspitolai ($45.10 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: meathead68 ($22.35 in chips) 
+Seat 6: Lachesis85 ($25 in chips) 
+Seat 8: r0nny72 ($27.35 in chips) 
+Seat 9: Landersp ($24.25 in chips) 
+meathead68: posts small blind $0.10
+Lachesis85: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 8s]
+r0nny72: folds 
+Landersp: raises $0.50 to $0.75
+ThannTheOne: folds 
+AmatureHour: folds 
+mspitolai: folds 
+Alameda22: folds 
+meathead68: folds 
+Lachesis85: folds 
+Uncalled bet ($0.50) returned to Landersp
+Landersp collected $0.60 from pot
+Landersp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ThannTheOne folded before Flop (didn't bet)
+Seat 2: AmatureHour folded before Flop (didn't bet)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: meathead68 (small blind) folded before Flop
+Seat 6: Lachesis85 (big blind) folded before Flop
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: Landersp collected ($0.60)
+
+
+
+PokerStars Game #19954207278:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:45:45 (ET)
+Table 'Alagasta III' 9-max Seat #5 is the button
+Seat 1: ThannTheOne ($5.25 in chips) 
+Seat 2: AmatureHour ($19.90 in chips) 
+Seat 3: mspitolai ($45.10 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: meathead68 ($22.25 in chips) 
+Seat 6: Lachesis85 ($24.75 in chips) 
+Seat 8: r0nny72 ($27.35 in chips) 
+Seat 9: Landersp ($24.60 in chips) 
+Lachesis85: posts small blind $0.10
+r0nny72: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 2d]
+Landersp: folds 
+ThannTheOne: folds 
+AmatureHour: folds 
+mspitolai: folds 
+Alameda22: folds 
+meathead68: folds 
+Lachesis85: raises $0.75 to $1
+r0nny72: calls $0.75
+*** FLOP *** [8s Qc 6h]
+Lachesis85: bets $1.50
+r0nny72: folds 
+Uncalled bet ($1.50) returned to Lachesis85
+Lachesis85 collected $1.90 from pot
+Lachesis85: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [8s Qc 6h]
+Seat 1: ThannTheOne folded before Flop (didn't bet)
+Seat 2: AmatureHour folded before Flop (didn't bet)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 (button) folded before Flop (didn't bet)
+Seat 6: Lachesis85 (small blind) collected ($1.90)
+Seat 8: r0nny72 (big blind) folded on the Flop
+Seat 9: Landersp folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954221241:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:46:23 (ET)
+Table 'Alagasta III' 9-max Seat #6 is the button
+Seat 1: ThannTheOne ($5.25 in chips) 
+Seat 2: AmatureHour ($19.90 in chips) 
+Seat 3: mspitolai ($45.10 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: meathead68 ($22.25 in chips) 
+Seat 6: Lachesis85 ($25.65 in chips) 
+Seat 8: r0nny72 ($26.35 in chips) 
+Seat 9: Landersp ($24.60 in chips) 
+r0nny72: posts small blind $0.10
+Landersp: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 8h]
+ThannTheOne: folds 
+AmatureHour: folds 
+mspitolai: folds 
+Alameda22: folds 
+meathead68: calls $0.25
+Lachesis85: folds 
+r0nny72: folds 
+Landersp: checks 
+*** FLOP *** [3s 4s Td]
+Landersp: bets $0.25
+meathead68: calls $0.25
+*** TURN *** [3s 4s Td] [7c]
+Landersp: checks 
+meathead68: checks 
+*** RIVER *** [3s 4s Td 7c] [Jc]
+Landersp: checks 
+meathead68: bets $0.50
+Landersp: folds 
+Uncalled bet ($0.50) returned to meathead68
+meathead68 collected $1.05 from pot
+meathead68: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [3s 4s Td 7c Jc]
+Seat 1: ThannTheOne folded before Flop (didn't bet)
+Seat 2: AmatureHour folded before Flop (didn't bet)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 collected ($1.05)
+Seat 6: Lachesis85 (button) folded before Flop (didn't bet)
+Seat 8: r0nny72 (small blind) folded before Flop
+Seat 9: Landersp (big blind) folded on the River
+
+
+
+PokerStars Game #19954240952:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:47:16 (ET)
+Table 'Alagasta III' 9-max Seat #8 is the button
+Seat 1: ThannTheOne ($5.25 in chips) 
+Seat 2: AmatureHour ($19.90 in chips) 
+Seat 3: mspitolai ($45.10 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: meathead68 ($22.80 in chips) 
+Seat 6: Lachesis85 ($25.65 in chips) 
+Seat 8: r0nny72 ($26.25 in chips) 
+Seat 9: Landersp ($24.10 in chips) 
+Landersp: posts small blind $0.10
+ThannTheOne: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 7s]
+AmatureHour: folds 
+mspitolai: folds 
+Alameda22: folds 
+meathead68: folds 
+Lachesis85: folds 
+r0nny72: calls $0.25
+Landersp: folds 
+ThannTheOne: raises $1 to $1.25
+r0nny72: calls $1
+*** FLOP *** [Kd 3h 9h]
+ThannTheOne: bets $1.75
+r0nny72: folds 
+Uncalled bet ($1.75) returned to ThannTheOne
+ThannTheOne collected $2.50 from pot
+ThannTheOne: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Kd 3h 9h]
+Seat 1: ThannTheOne (big blind) collected ($2.50)
+Seat 2: AmatureHour folded before Flop (didn't bet)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Lachesis85 folded before Flop (didn't bet)
+Seat 8: r0nny72 (button) folded on the Flop
+Seat 9: Landersp (small blind) folded before Flop
+
+
+
+PokerStars Game #19954265586:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:48:23 (ET)
+Table 'Alagasta III' 9-max Seat #9 is the button
+Seat 1: ThannTheOne ($6.50 in chips) 
+Seat 2: AmatureHour ($19.90 in chips) 
+Seat 3: mspitolai ($45.10 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: meathead68 ($22.80 in chips) 
+Seat 6: Lachesis85 ($25.65 in chips) 
+Seat 8: r0nny72 ($25 in chips) 
+Seat 9: Landersp ($24 in chips) 
+ThannTheOne: posts small blind $0.10
+AmatureHour: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 6d]
+mspitolai: folds 
+Alameda22: folds 
+mspitolai leaves the table
+meathead68: folds 
+Lachesis85: folds 
+r0nny72: folds 
+Landersp: folds 
+Cardini 23 joins the table at seat #3 
+ThannTheOne: folds 
+Uncalled bet ($0.15) returned to AmatureHour
+AmatureHour collected $0.20 from pot
+AmatureHour: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ThannTheOne (small blind) folded before Flop
+Seat 2: AmatureHour (big blind) collected ($0.20)
+Seat 3: mspitolai folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Lachesis85 folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: Landersp (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954274573:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:48:48 (ET)
+Table 'Alagasta III' 9-max Seat #1 is the button
+Seat 1: ThannTheOne ($6.40 in chips) 
+Seat 2: AmatureHour ($20 in chips) 
+Seat 3: Cardini 23 ($25 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: meathead68 ($22.80 in chips) 
+Seat 6: Lachesis85 ($25.65 in chips) 
+Seat 8: r0nny72 ($25 in chips) 
+Seat 9: Landersp ($24 in chips) 
+AmatureHour: posts small blind $0.10
+Cardini 23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 7c]
+Alameda22: folds 
+meathead68: folds 
+Lachesis85: folds 
+r0nny72: folds 
+Landersp: folds 
+ThannTheOne: folds 
+AmatureHour: folds 
+Uncalled bet ($0.15) returned to Cardini 23
+Cardini 23 collected $0.20 from pot
+Cardini 23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ThannTheOne (button) folded before Flop (didn't bet)
+Seat 2: AmatureHour (small blind) folded before Flop
+Seat 3: Cardini 23 (big blind) collected ($0.20)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Lachesis85 folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: Landersp folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954288011:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:49:25 (ET)
+Table 'Alagasta III' 9-max Seat #2 is the button
+Seat 1: ThannTheOne ($6.40 in chips) 
+Seat 2: AmatureHour ($19.90 in chips) 
+Seat 3: Cardini 23 ($25.10 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: meathead68 ($22.80 in chips) 
+Seat 6: Lachesis85 ($25.65 in chips) 
+Seat 8: r0nny72 ($25 in chips) 
+Seat 9: Landersp ($24 in chips) 
+Cardini 23: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Qd]
+meathead68: folds 
+Lachesis85: folds 
+r0nny72: folds 
+Landersp: folds 
+ThannTheOne: folds 
+AmatureHour: folds 
+r0nny72 is sitting out
+r0nny72 leaves the table
+Cardini 23: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+Aussiebred joins the table at seat #8 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ThannTheOne folded before Flop (didn't bet)
+Seat 2: AmatureHour (button) folded before Flop (didn't bet)
+Seat 3: Cardini 23 (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) collected ($0.20)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Lachesis85 folded before Flop (didn't bet)
+Seat 8: r0nny72 folded before Flop (didn't bet)
+Seat 9: Landersp folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954301339:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:50:02 (ET)
+Table 'Alagasta III' 9-max Seat #3 is the button
+Seat 1: ThannTheOne ($6.40 in chips) 
+Seat 2: AmatureHour ($19.90 in chips) 
+Seat 3: Cardini 23 ($25 in chips) 
+Seat 4: Alameda22 ($26.75 in chips) 
+Seat 5: meathead68 ($22.80 in chips) 
+Seat 6: Lachesis85 ($25.65 in chips) 
+Seat 8: Aussiebred ($9.85 in chips) 
+Seat 9: Landersp ($24 in chips) 
+Alameda22: posts small blind $0.10
+meathead68: posts big blind $0.25
+Aussiebred: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Qs]
+Lachesis85: folds 
+Aussiebred: checks 
+Landersp: folds 
+ThannTheOne: folds 
+AmatureHour: folds 
+Cardini 23: calls $0.25
+Alameda22: folds 
+meathead68: checks 
+*** FLOP *** [Tc Kd Ts]
+meathead68: checks 
+Aussiebred: checks 
+Cardini 23: checks 
+*** TURN *** [Tc Kd Ts] [Ks]
+meathead68: checks 
+Aussiebred: checks 
+Cardini 23: checks 
+*** RIVER *** [Tc Kd Ts Ks] [Ad]
+meathead68: checks 
+Aussiebred: checks 
+Cardini 23: checks 
+*** SHOW DOWN ***
+meathead68: shows [8d 5d] (two pair, Kings and Tens)
+Aussiebred: shows [4c 7s] (two pair, Kings and Tens)
+Cardini 23: shows [2c 2h] (two pair, Kings and Tens)
+meathead68 collected $0.30 from pot
+Aussiebred collected $0.30 from pot
+Cardini 23 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Tc Kd Ts Ks Ad]
+Seat 1: ThannTheOne folded before Flop (didn't bet)
+Seat 2: AmatureHour folded before Flop (didn't bet)
+Seat 3: Cardini 23 (button) showed [2c 2h] and won ($0.25) with two pair, Kings and Tens
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: meathead68 (big blind) showed [8d 5d] and won ($0.30) with two pair, Kings and Tens
+Seat 6: Lachesis85 folded before Flop (didn't bet)
+Seat 8: Aussiebred showed [4c 7s] and won ($0.30) with two pair, Kings and Tens
+Seat 9: Landersp folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954321833:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:50:59 (ET)
+Table 'Alagasta III' 9-max Seat #4 is the button
+Seat 1: ThannTheOne ($6.40 in chips) 
+Seat 2: AmatureHour ($19.90 in chips) 
+Seat 3: Cardini 23 ($25 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: meathead68 ($22.85 in chips) 
+Seat 6: Lachesis85 ($25.65 in chips) 
+Seat 8: Aussiebred ($9.90 in chips) 
+Seat 9: Landersp ($24 in chips) 
+meathead68: posts small blind $0.10
+Lachesis85: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 9s]
+Aussiebred: folds 
+Landersp: folds 
+ThannTheOne: folds 
+AmatureHour: calls $0.25
+Cardini 23: folds 
+Alameda22: folds 
+meathead68: folds 
+Lachesis85: checks 
+*** FLOP *** [6h Qd Jh]
+Lachesis85: checks 
+AmatureHour: bets $0.50
+Lachesis85: folds 
+Uncalled bet ($0.50) returned to AmatureHour
+AmatureHour collected $0.60 from pot
+AmatureHour: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6h Qd Jh]
+Seat 1: ThannTheOne folded before Flop (didn't bet)
+Seat 2: AmatureHour collected ($0.60)
+Seat 3: Cardini 23 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: meathead68 (small blind) folded before Flop
+Seat 6: Lachesis85 (big blind) folded on the Flop
+Seat 8: Aussiebred folded before Flop (didn't bet)
+Seat 9: Landersp folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954336972:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:51:42 (ET)
+Table 'Alagasta III' 9-max Seat #5 is the button
+Seat 1: ThannTheOne ($6.40 in chips) 
+Seat 2: AmatureHour ($20.25 in chips) 
+Seat 3: Cardini 23 ($25 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: meathead68 ($22.75 in chips) 
+Seat 6: Lachesis85 ($25.40 in chips) 
+Seat 8: Aussiebred ($9.90 in chips) 
+Seat 9: Landersp ($24 in chips) 
+Lachesis85: posts small blind $0.10
+Aussiebred: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 2c]
+Landersp: folds 
+ThannTheOne: folds 
+AmatureHour: folds 
+Cardini 23: folds 
+Alameda22: folds 
+meathead68: folds 
+Lachesis85: folds 
+Uncalled bet ($0.15) returned to Aussiebred
+Aussiebred collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ThannTheOne folded before Flop (didn't bet)
+Seat 2: AmatureHour folded before Flop (didn't bet)
+Seat 3: Cardini 23 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 (button) folded before Flop (didn't bet)
+Seat 6: Lachesis85 (small blind) folded before Flop
+Seat 8: Aussiebred (big blind) collected ($0.20)
+Seat 9: Landersp folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954345750:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:52:06 (ET)
+Table 'Alagasta III' 9-max Seat #6 is the button
+Seat 1: ThannTheOne ($6.40 in chips) 
+Seat 2: AmatureHour ($20.25 in chips) 
+Seat 3: Cardini 23 ($25 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: meathead68 ($22.75 in chips) 
+Seat 6: Lachesis85 ($25.30 in chips) 
+Seat 8: Aussiebred ($10 in chips) 
+Seat 9: Landersp ($24 in chips) 
+Aussiebred: posts small blind $0.10
+Landersp: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 4h]
+ThannTheOne: folds 
+AmatureHour: folds 
+Cardini 23: folds 
+Alameda22: folds 
+meathead68: folds 
+Lachesis85: folds 
+Aussiebred: folds 
+Uncalled bet ($0.15) returned to Landersp
+Landersp collected $0.20 from pot
+Landersp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ThannTheOne folded before Flop (didn't bet)
+Seat 2: AmatureHour folded before Flop (didn't bet)
+Seat 3: Cardini 23 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Lachesis85 (button) folded before Flop (didn't bet)
+Seat 8: Aussiebred (small blind) folded before Flop
+Seat 9: Landersp (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19954355375:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:52:33 (ET)
+Table 'Alagasta III' 9-max Seat #8 is the button
+Seat 1: ThannTheOne ($6.40 in chips) 
+Seat 2: AmatureHour ($20.25 in chips) 
+Seat 3: Cardini 23 ($25 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: meathead68 ($22.75 in chips) 
+Seat 6: Lachesis85 ($25.30 in chips) 
+Seat 8: Aussiebred ($9.90 in chips) 
+Seat 9: Landersp ($24.10 in chips) 
+Landersp: posts small blind $0.10
+ThannTheOne: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 8c]
+AmatureHour: folds 
+Cardini 23: folds 
+Alameda22: folds 
+meathead68: folds 
+Lachesis85: folds 
+Aussiebred: raises $0.50 to $0.75
+Landersp: folds 
+ThannTheOne: folds 
+Uncalled bet ($0.50) returned to Aussiebred
+Aussiebred collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ThannTheOne (big blind) folded before Flop
+Seat 2: AmatureHour folded before Flop (didn't bet)
+Seat 3: Cardini 23 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Lachesis85 folded before Flop (didn't bet)
+Seat 8: Aussiebred (button) collected ($0.60)
+Seat 9: Landersp (small blind) folded before Flop
+
+
+
+PokerStars Game #19954367551:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:53:07 (ET)
+Table 'Alagasta III' 9-max Seat #9 is the button
+Seat 1: ThannTheOne ($6.15 in chips) 
+Seat 2: AmatureHour ($20.25 in chips) 
+Seat 3: Cardini 23 ($25 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: meathead68 ($22.75 in chips) 
+Seat 6: Lachesis85 ($25.30 in chips) 
+Seat 8: Aussiebred ($10.25 in chips) 
+Seat 9: Landersp ($24 in chips) 
+ThannTheOne: posts small blind $0.10
+AmatureHour: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 2c]
+Cardini 23: folds 
+Alameda22: folds 
+meathead68: folds 
+Lachesis85: folds 
+Aussiebred: folds 
+Landersp: folds 
+ThannTheOne: folds 
+Uncalled bet ($0.15) returned to AmatureHour
+AmatureHour collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ThannTheOne (small blind) folded before Flop
+Seat 2: AmatureHour (big blind) collected ($0.20)
+Seat 3: Cardini 23 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Lachesis85 folded before Flop (didn't bet)
+Seat 8: Aussiebred folded before Flop (didn't bet)
+Seat 9: Landersp (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954377199:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:53:35 (ET)
+Table 'Alagasta III' 9-max Seat #1 is the button
+Seat 1: ThannTheOne ($6.05 in chips) 
+Seat 2: AmatureHour ($20.35 in chips) 
+Seat 3: Cardini 23 ($25 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: meathead68 ($22.75 in chips) 
+Seat 6: Lachesis85 ($25.30 in chips) 
+Seat 8: Aussiebred ($10.25 in chips) 
+Seat 9: Landersp ($24 in chips) 
+AmatureHour: posts small blind $0.10
+Cardini 23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 7h]
+Alameda22: folds 
+meathead68: folds 
+Lachesis85: folds 
+Aussiebred: folds 
+Landersp: folds 
+ThannTheOne: folds 
+AmatureHour: folds 
+Uncalled bet ($0.15) returned to Cardini 23
+Cardini 23 collected $0.20 from pot
+Cardini 23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ThannTheOne (button) folded before Flop (didn't bet)
+Seat 2: AmatureHour (small blind) folded before Flop
+Seat 3: Cardini 23 (big blind) collected ($0.20)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Lachesis85 folded before Flop (didn't bet)
+Seat 8: Aussiebred folded before Flop (didn't bet)
+Seat 9: Landersp folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954391010:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:54:14 (ET)
+Table 'Alagasta III' 9-max Seat #2 is the button
+Seat 1: ThannTheOne ($6.05 in chips) 
+Seat 2: AmatureHour ($20.25 in chips) 
+Seat 3: Cardini 23 ($25.10 in chips) 
+Seat 4: Alameda22 ($26.65 in chips) 
+Seat 5: meathead68 ($22.75 in chips) 
+Seat 6: Lachesis85 ($25.30 in chips) 
+Seat 8: Aussiebred ($10.25 in chips) 
+Seat 9: Landersp ($24 in chips) 
+Cardini 23: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 8c]
+meathead68: folds 
+Lachesis85: folds 
+Aussiebred: folds 
+Landersp: folds 
+ThannTheOne: folds 
+AmatureHour: folds 
+Cardini 23: raises $0.50 to $0.75
+Alameda22: calls $0.50
+*** FLOP *** [7s 4d 3h]
+Cardini 23: bets $1
+Alameda22: calls $1
+*** TURN *** [7s 4d 3h] [Jd]
+Cardini 23: bets $2.50
+Alameda22: folds 
+Uncalled bet ($2.50) returned to Cardini 23
+Cardini 23 collected $3.35 from pot
+Cardini 23: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [7s 4d 3h Jd]
+Seat 1: ThannTheOne folded before Flop (didn't bet)
+Seat 2: AmatureHour (button) folded before Flop (didn't bet)
+Seat 3: Cardini 23 (small blind) collected ($3.35)
+Seat 4: Alameda22 (big blind) folded on the Turn
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Lachesis85 folded before Flop (didn't bet)
+Seat 8: Aussiebred folded before Flop (didn't bet)
+Seat 9: Landersp folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954414650:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:55:21 (ET)
+Table 'Alagasta III' 9-max Seat #3 is the button
+Seat 1: ThannTheOne ($6.05 in chips) 
+Seat 2: AmatureHour ($20.25 in chips) 
+Seat 3: Cardini 23 ($26.70 in chips) 
+Seat 4: Alameda22 ($24.90 in chips) 
+Seat 5: meathead68 ($22.75 in chips) 
+Seat 6: Lachesis85 ($25.30 in chips) 
+Seat 8: Aussiebred ($10.25 in chips) 
+Seat 9: Landersp ($24 in chips) 
+Alameda22: posts small blind $0.10
+meathead68: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Tc]
+Lachesis85: folds 
+Aussiebred: folds 
+Landersp: folds 
+ThannTheOne: folds 
+AmatureHour: folds 
+Cardini 23: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to meathead68
+meathead68 collected $0.20 from pot
+meathead68: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ThannTheOne folded before Flop (didn't bet)
+Seat 2: AmatureHour folded before Flop (didn't bet)
+Seat 3: Cardini 23 (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: meathead68 (big blind) collected ($0.20)
+Seat 6: Lachesis85 folded before Flop (didn't bet)
+Seat 8: Aussiebred folded before Flop (didn't bet)
+Seat 9: Landersp folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954427254:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:55:57 (ET)
+Table 'Alagasta III' 9-max Seat #4 is the button
+Seat 1: ThannTheOne ($6.05 in chips) 
+Seat 2: AmatureHour ($20.25 in chips) 
+Seat 3: Cardini 23 ($26.70 in chips) 
+Seat 4: Alameda22 ($24.80 in chips) 
+Seat 5: meathead68 ($22.85 in chips) 
+Seat 6: Lachesis85 ($25.30 in chips) 
+Seat 8: Aussiebred ($10.25 in chips) 
+Seat 9: Landersp ($24 in chips) 
+meathead68: posts small blind $0.10
+Lachesis85: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 5h]
+Aussiebred: raises $0.50 to $0.75
+Landersp: folds 
+ThannTheOne: folds 
+AmatureHour: folds 
+Cardini 23: folds 
+Alameda22: folds 
+meathead68: folds 
+Lachesis85: folds 
+Uncalled bet ($0.50) returned to Aussiebred
+Aussiebred collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ThannTheOne folded before Flop (didn't bet)
+Seat 2: AmatureHour folded before Flop (didn't bet)
+Seat 3: Cardini 23 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: meathead68 (small blind) folded before Flop
+Seat 6: Lachesis85 (big blind) folded before Flop
+Seat 8: Aussiebred collected ($0.60)
+Seat 9: Landersp folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954441741:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:56:38 (ET)
+Table 'Alagasta III' 9-max Seat #5 is the button
+Seat 1: ThannTheOne ($6.05 in chips) 
+Seat 2: AmatureHour ($20.25 in chips) 
+Seat 3: Cardini 23 ($26.70 in chips) 
+Seat 4: Alameda22 ($24.80 in chips) 
+Seat 5: meathead68 ($22.75 in chips) 
+Seat 6: Lachesis85 ($25.05 in chips) 
+Seat 9: Landersp ($24 in chips) 
+Lachesis85: posts small blind $0.10
+Aussiebred: is sitting out 
+Aussiebred leaves the table
+Landersp: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 5c]
+ThannTheOne: folds 
+AmatureHour: folds 
+Cardini 23: folds 
+Alameda22: folds 
+meathead68: folds 
+Lachesis85: folds 
+Uncalled bet ($0.15) returned to Landersp
+Landersp collected $0.20 from pot
+Landersp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ThannTheOne folded before Flop (didn't bet)
+Seat 2: AmatureHour folded before Flop (didn't bet)
+Seat 3: Cardini 23 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 (button) folded before Flop (didn't bet)
+Seat 6: Lachesis85 (small blind) folded before Flop
+Seat 9: Landersp (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19954452052:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:57:08 (ET)
+Table 'Alagasta III' 9-max Seat #6 is the button
+Seat 1: ThannTheOne ($6.05 in chips) 
+Seat 2: AmatureHour ($20.25 in chips) 
+Seat 3: Cardini 23 ($26.70 in chips) 
+Seat 4: Alameda22 ($24.80 in chips) 
+Seat 5: meathead68 ($22.75 in chips) 
+Seat 6: Lachesis85 ($24.95 in chips) 
+Seat 9: Landersp ($24.10 in chips) 
+Landersp: posts small blind $0.10
+ThannTheOne: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 5s]
+AmatureHour: folds 
+Foamer was removed from the table for failing to post
+Cardini 23: folds 
+Alameda22: folds 
+meathead68: folds 
+Harman_1023 joins the table at seat #8 
+Lachesis85: folds 
+Landersp: folds 
+Uncalled bet ($0.15) returned to ThannTheOne
+ThannTheOne collected $0.20 from pot
+ThannTheOne: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ThannTheOne (big blind) collected ($0.20)
+Seat 2: AmatureHour folded before Flop (didn't bet)
+Seat 3: Cardini 23 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Lachesis85 (button) folded before Flop (didn't bet)
+Seat 9: Landersp (small blind) folded before Flop
+
+
+
+PokerStars Game #19954463779:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:57:42 (ET)
+Table 'Alagasta III' 9-max Seat #9 is the button
+Seat 1: ThannTheOne ($6.15 in chips) 
+Seat 2: AmatureHour ($20.25 in chips) 
+Seat 3: Cardini 23 ($26.70 in chips) 
+Seat 4: Alameda22 ($24.80 in chips) 
+Seat 5: meathead68 ($22.75 in chips) 
+Seat 6: Lachesis85 ($24.95 in chips) 
+Seat 8: Harman_1023 ($5 in chips) 
+Seat 9: Landersp ($24 in chips) 
+ThannTheOne: posts small blind $0.10
+AmatureHour: posts big blind $0.25
+Harman_1023: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 2d]
+Cardini 23: folds 
+Alameda22: folds 
+meathead68: folds 
+Lachesis85: folds 
+Harman_1023: raises $0.75 to $1
+Landersp: folds 
+ThannTheOne: folds 
+AmatureHour: folds 
+Uncalled bet ($0.75) returned to Harman_1023
+Harman_1023 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ThannTheOne (small blind) folded before Flop
+Seat 2: AmatureHour (big blind) folded before Flop
+Seat 3: Cardini 23 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Lachesis85 folded before Flop (didn't bet)
+Seat 8: Harman_1023 collected ($0.60)
+Seat 9: Landersp (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954479219:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:58:26 (ET)
+Table 'Alagasta III' 9-max Seat #1 is the button
+Seat 1: ThannTheOne ($6.05 in chips) 
+Seat 2: AmatureHour ($20 in chips) 
+Seat 3: Cardini 23 ($26.70 in chips) 
+Seat 4: Alameda22 ($24.80 in chips) 
+Seat 5: meathead68 ($22.75 in chips) 
+Seat 6: Lachesis85 ($24.95 in chips) 
+Seat 8: Harman_1023 ($5.35 in chips) 
+Seat 9: Landersp ($24 in chips) 
+AmatureHour: posts small blind $0.10
+Cardini 23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 5c]
+Alameda22: folds 
+meathead68: folds 
+Lachesis85: folds 
+Harman_1023: raises $0.25 to $0.50
+Landersp: calls $0.50
+ThannTheOne: folds 
+AmatureHour: folds 
+Cardini 23: calls $0.25
+*** FLOP *** [6c 2c 5d]
+Cardini 23: bets $1.25
+Harman_1023: calls $1.25
+Landersp: folds 
+*** TURN *** [6c 2c 5d] [4h]
+Cardini 23: bets $2
+Harman_1023: calls $2
+*** RIVER *** [6c 2c 5d 4h] [Qs]
+Cardini 23: bets $2
+Harman_1023: calls $1.60 and is all-in
+Uncalled bet ($0.40) returned to Cardini 23
+*** SHOW DOWN ***
+Cardini 23: shows [9c 9d] (a pair of Nines)
+Harman_1023: mucks hand 
+Cardini 23 collected $10.80 from pot
+*** SUMMARY ***
+Total pot $11.30 | Rake $0.50 
+Board [6c 2c 5d 4h Qs]
+Seat 1: ThannTheOne (button) folded before Flop (didn't bet)
+Seat 2: AmatureHour (small blind) folded before Flop
+Seat 3: Cardini 23 (big blind) showed [9c 9d] and won ($10.80) with a pair of Nines
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: meathead68 folded before Flop (didn't bet)
+Seat 6: Lachesis85 folded before Flop (didn't bet)
+Seat 8: Harman_1023 mucked [7s 7h]
+Seat 9: Landersp folded on the Flop
+
+
+

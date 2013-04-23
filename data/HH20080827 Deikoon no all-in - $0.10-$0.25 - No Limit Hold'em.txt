@@ -1,0 +1,4018 @@
+PokerStars Game #19952606702:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:38:37 (ET)
+Table 'Deikoon' 9-max Seat #4 is the button
+Seat 1: Sonasatan ($10 in chips) 
+Seat 2: mcceleste ($70.85 in chips) 
+Seat 3: gjc256 ($9.80 in chips) 
+Seat 4: gstepr ($23.80 in chips) 
+Seat 5: aquama ($44.05 in chips) 
+Seat 6: Alameda22 ($25 in chips) 
+Seat 7: Dufresne_36 ($13.55 in chips) 
+Seat 8: sho_suzuki ($25.70 in chips) 
+Seat 9: FlagellumD ($29.50 in chips) 
+aquama: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Qc]
+Dufresne_36: folds 
+sho_suzuki: calls $0.25
+FlagellumD: folds 
+Sonasatan: calls $0.25
+mcceleste: calls $0.25
+gjc256: folds 
+gstepr: calls $0.25
+aquama: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Th 4c Kh]
+aquama: checks 
+Alameda22: checks 
+sho_suzuki: bets $0.50
+Sonasatan: folds 
+mcceleste: folds 
+gstepr: calls $0.50
+aquama: folds 
+Alameda22: folds 
+*** TURN *** [Th 4c Kh] [9h]
+sho_suzuki: checks 
+gstepr: checks 
+*** RIVER *** [Th 4c Kh 9h] [3h]
+sho_suzuki: checks 
+gstepr: checks 
+*** SHOW DOWN ***
+sho_suzuki: shows [4d 4h] (a flush, King high)
+gstepr: mucks hand 
+sho_suzuki collected $2.40 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Th 4c Kh 9h 3h]
+Seat 1: Sonasatan folded on the Flop
+Seat 2: mcceleste folded on the Flop
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: gstepr (button) mucked [Qs 9s]
+Seat 5: aquama (small blind) folded on the Flop
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki showed [4d 4h] and won ($2.40) with a flush, King high
+Seat 9: FlagellumD folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952644614:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:40:11 (ET)
+Table 'Deikoon' 9-max Seat #5 is the button
+Seat 1: Sonasatan ($9.75 in chips) 
+Seat 2: mcceleste ($70.60 in chips) 
+Seat 3: gjc256 ($9.80 in chips) 
+Seat 4: gstepr ($23.05 in chips) 
+Seat 5: aquama ($43.80 in chips) 
+Seat 6: Alameda22 ($24.75 in chips) 
+Seat 7: Dufresne_36 ($13.55 in chips) 
+Seat 8: sho_suzuki ($27.35 in chips) 
+Seat 9: FlagellumD ($29.50 in chips) 
+Alameda22: posts small blind $0.10
+Dufresne_36: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 5s]
+sho_suzuki: raises $0.50 to $0.75
+FlagellumD: folds 
+Sonasatan: folds 
+mcceleste: folds 
+gjc256: folds 
+gstepr: folds 
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+Uncalled bet ($0.50) returned to sho_suzuki
+sho_suzuki collected $0.60 from pot
+sho_suzuki: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sonasatan folded before Flop (didn't bet)
+Seat 2: mcceleste folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: gstepr folded before Flop (didn't bet)
+Seat 5: aquama (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: Dufresne_36 (big blind) folded before Flop
+Seat 8: sho_suzuki collected ($0.60)
+Seat 9: FlagellumD folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952656948:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:40:41 (ET)
+Table 'Deikoon' 9-max Seat #6 is the button
+Seat 1: Sonasatan ($9.75 in chips) 
+Seat 2: mcceleste ($70.60 in chips) 
+Seat 3: gjc256 ($9.80 in chips) 
+Seat 4: gstepr ($23.05 in chips) 
+Seat 5: aquama ($43.80 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 7: Dufresne_36 ($13.30 in chips) 
+Seat 8: sho_suzuki ($27.70 in chips) 
+Seat 9: FlagellumD ($29.50 in chips) 
+Dufresne_36: posts small blind $0.10
+sho_suzuki: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 2c]
+FlagellumD: folds 
+Sonasatan: folds 
+mcceleste: folds 
+gjc256: folds 
+gstepr: raises $0.25 to $0.50
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+Uncalled bet ($0.25) returned to gstepr
+gstepr collected $0.60 from pot
+gstepr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sonasatan folded before Flop (didn't bet)
+Seat 2: mcceleste folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: gstepr collected ($0.60)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: Dufresne_36 (small blind) folded before Flop
+Seat 8: sho_suzuki (big blind) folded before Flop
+Seat 9: FlagellumD folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952675645:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:41:27 (ET)
+Table 'Deikoon' 9-max Seat #7 is the button
+Seat 1: Sonasatan ($9.75 in chips) 
+Seat 2: mcceleste ($70.60 in chips) 
+Seat 3: gjc256 ($9.80 in chips) 
+Seat 4: gstepr ($23.40 in chips) 
+Seat 5: aquama ($43.80 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 7: Dufresne_36 ($13.20 in chips) 
+Seat 8: sho_suzuki ($27.45 in chips) 
+Seat 9: FlagellumD ($29.50 in chips) 
+sho_suzuki: posts small blind $0.10
+FlagellumD: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Qc]
+Sonasatan: calls $0.25
+mcceleste: calls $0.25
+gjc256: calls $0.25
+gstepr: calls $0.25
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: calls $0.25
+sho_suzuki: calls $0.15
+FlagellumD: checks 
+*** FLOP *** [3h 3c 8c]
+sho_suzuki: checks 
+FlagellumD: checks 
+Sonasatan: checks 
+mcceleste: checks 
+gjc256: checks 
+gstepr: checks 
+Dufresne_36: bets $1.25
+sho_suzuki: folds 
+FlagellumD: folds 
+Sonasatan: folds 
+mcceleste: folds 
+gjc256: folds 
+gstepr: folds 
+Uncalled bet ($1.25) returned to Dufresne_36
+Dufresne_36 collected $1.70 from pot
+Dufresne_36: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [3h 3c 8c]
+Seat 1: Sonasatan folded on the Flop
+Seat 2: mcceleste folded on the Flop
+Seat 3: gjc256 folded on the Flop
+Seat 4: gstepr folded on the Flop
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 (button) collected ($1.70)
+Seat 8: sho_suzuki (small blind) folded on the Flop
+Seat 9: FlagellumD (big blind) folded on the Flop
+
+
+
+PokerStars Game #19952717597:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:43:11 (ET)
+Table 'Deikoon' 9-max Seat #8 is the button
+Seat 1: Sonasatan ($9.50 in chips) 
+Seat 2: mcceleste ($70.35 in chips) 
+Seat 3: gjc256 ($9.55 in chips) 
+Seat 4: gstepr ($23.15 in chips) 
+Seat 5: aquama ($43.80 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 7: Dufresne_36 ($14.65 in chips) 
+Seat 8: sho_suzuki ($27.20 in chips) 
+Seat 9: FlagellumD ($29.25 in chips) 
+FlagellumD: posts small blind $0.10
+Sonasatan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 2h]
+mcceleste: raises $0.75 to $1
+gjc256: folds 
+gstepr: calls $1
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+FlagellumD: folds 
+Sonasatan: calls $0.75
+*** FLOP *** [Ks 6c Jd]
+Sonasatan: checks 
+mcceleste: bets $2.50
+gstepr: folds 
+Sonasatan: raises $2.50 to $5
+mcceleste: raises $3.50 to $8.50
+Sonasatan: calls $3.50 and is all-in
+*** TURN *** [Ks 6c Jd] [Ad]
+*** RIVER *** [Ks 6c Jd Ad] [Kc]
+*** SHOW DOWN ***
+Sonasatan: shows [Kd Qh] (three of a kind, Kings)
+mcceleste: shows [Kh As] (a full house, Kings full of Aces)
+mcceleste collected $19.15 from pot
+*** SUMMARY ***
+Total pot $20.10 | Rake $0.95 
+Board [Ks 6c Jd Ad Kc]
+Seat 1: Sonasatan (big blind) showed [Kd Qh] and lost with three of a kind, Kings
+Seat 2: mcceleste showed [Kh As] and won ($19.15) with a full house, Kings full of Aces
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: gstepr folded on the Flop
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki (button) folded before Flop (didn't bet)
+Seat 9: FlagellumD (small blind) folded before Flop
+
+
+
+PokerStars Game #19952764017:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:45:07 (ET)
+Table 'Deikoon' 9-max Seat #9 is the button
+Seat 2: mcceleste ($80 in chips) 
+Seat 3: gjc256 ($9.55 in chips) 
+Seat 4: gstepr ($22.15 in chips) 
+Seat 5: aquama ($43.80 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 7: Dufresne_36 ($14.65 in chips) 
+Seat 8: sho_suzuki ($27.20 in chips) 
+Seat 9: FlagellumD ($29.15 in chips) 
+mcceleste: posts small blind $0.10
+gjc256: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Kh]
+gstepr: folds 
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+Sonasatan has returned
+FlagellumD: folds 
+mcceleste: folds 
+Uncalled bet ($0.15) returned to gjc256
+gjc256 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: mcceleste (small blind) folded before Flop
+Seat 3: gjc256 (big blind) collected ($0.20)
+Seat 4: gstepr folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: FlagellumD (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952781235:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:45:50 (ET)
+Table 'Deikoon' 9-max Seat #2 is the button
+Seat 1: Sonasatan ($15 in chips) 
+Seat 2: mcceleste ($79.90 in chips) 
+Seat 3: gjc256 ($9.65 in chips) 
+Seat 4: gstepr ($22.15 in chips) 
+Seat 5: aquama ($43.80 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 7: Dufresne_36 ($14.65 in chips) 
+Seat 8: sho_suzuki ($27.20 in chips) 
+Seat 9: FlagellumD ($29.15 in chips) 
+gjc256: posts small blind $0.10
+gstepr: posts big blind $0.25
+Sonasatan: posts small blind $0.10
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 7h]
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+FlagellumD: folds 
+Sonasatan: folds 
+mcceleste: folds 
+gjc256: calls $0.15
+gstepr: checks 
+*** FLOP *** [6d 3d Jd]
+gjc256: bets $0.25
+gstepr: folds 
+Uncalled bet ($0.25) returned to gjc256
+gjc256 collected $0.60 from pot
+gjc256: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6d 3d Jd]
+Seat 1: Sonasatan folded before Flop
+Seat 2: mcceleste (button) folded before Flop (didn't bet)
+Seat 3: gjc256 (small blind) collected ($0.60)
+Seat 4: gstepr (big blind) folded on the Flop
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: FlagellumD folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952797022:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:46:29 (ET)
+Table 'Deikoon' 9-max Seat #3 is the button
+Seat 1: Sonasatan ($14.90 in chips) 
+Seat 2: mcceleste ($79.90 in chips) 
+Seat 3: gjc256 ($10 in chips) 
+Seat 4: gstepr ($21.90 in chips) 
+Seat 5: aquama ($43.80 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 7: Dufresne_36 ($14.65 in chips) 
+Seat 8: sho_suzuki ($27.20 in chips) 
+Seat 9: FlagellumD ($29.15 in chips) 
+gstepr: posts small blind $0.10
+aquama: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Jc]
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+FlagellumD: folds 
+Sonasatan: folds 
+mcceleste: folds 
+gjc256: folds 
+gstepr: folds 
+Uncalled bet ($0.15) returned to aquama
+aquama collected $0.20 from pot
+aquama: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Sonasatan folded before Flop (didn't bet)
+Seat 2: mcceleste folded before Flop (didn't bet)
+Seat 3: gjc256 (button) folded before Flop (didn't bet)
+Seat 4: gstepr (small blind) folded before Flop
+Seat 5: aquama (big blind) collected ($0.20)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: FlagellumD folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952805250:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:46:49 (ET)
+Table 'Deikoon' 9-max Seat #4 is the button
+Seat 1: Sonasatan ($14.90 in chips) 
+Seat 2: mcceleste ($79.90 in chips) 
+Seat 3: gjc256 ($10 in chips) 
+Seat 4: gstepr ($21.80 in chips) 
+Seat 5: aquama ($43.90 in chips) 
+Seat 6: Alameda22 ($24.65 in chips) 
+Seat 7: Dufresne_36 ($14.65 in chips) 
+Seat 8: sho_suzuki ($27.20 in chips) 
+Seat 9: FlagellumD ($29.15 in chips) 
+aquama: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 5s]
+Dufresne_36: folds 
+sho_suzuki: folds 
+FlagellumD: folds 
+Sonasatan: raises $0.50 to $0.75
+mcceleste: folds 
+gjc256: folds 
+gstepr: folds 
+aquama: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to Sonasatan
+Sonasatan collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sonasatan collected ($0.60)
+Seat 2: mcceleste folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: gstepr (button) folded before Flop (didn't bet)
+Seat 5: aquama (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: FlagellumD folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952818469:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:47:23 (ET)
+Table 'Deikoon' 9-max Seat #5 is the button
+Seat 1: Sonasatan ($15.25 in chips) 
+Seat 2: mcceleste ($79.90 in chips) 
+Seat 3: gjc256 ($10 in chips) 
+Seat 4: gstepr ($21.80 in chips) 
+Seat 5: aquama ($43.80 in chips) 
+Seat 6: Alameda22 ($24.40 in chips) 
+Seat 7: Dufresne_36 ($14.65 in chips) 
+Seat 8: sho_suzuki ($27.20 in chips) 
+Seat 9: FlagellumD ($29.15 in chips) 
+Alameda22: posts small blind $0.10
+Dufresne_36: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Qc]
+sho_suzuki: folds 
+FlagellumD: folds 
+Sonasatan: calls $0.25
+mcceleste: calls $0.25
+gjc256: folds 
+gstepr: folds 
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: checks 
+*** FLOP *** [Kh 6d 9s]
+Dufresne_36: checks 
+Sonasatan: checks 
+mcceleste: bets $0.75
+Dufresne_36: folds 
+Sonasatan: folds 
+Uncalled bet ($0.75) returned to mcceleste
+mcceleste collected $0.85 from pot
+mcceleste: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Kh 6d 9s]
+Seat 1: Sonasatan folded on the Flop
+Seat 2: mcceleste collected ($0.85)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: gstepr folded before Flop (didn't bet)
+Seat 5: aquama (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: Dufresne_36 (big blind) folded on the Flop
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: FlagellumD folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952841591:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:48:21 (ET)
+Table 'Deikoon' 9-max Seat #6 is the button
+Seat 1: Sonasatan ($15 in chips) 
+Seat 2: mcceleste ($80.50 in chips) 
+Seat 3: gjc256 ($10 in chips) 
+Seat 4: gstepr ($21.80 in chips) 
+Seat 5: aquama ($43.80 in chips) 
+Seat 6: Alameda22 ($24.30 in chips) 
+Seat 7: Dufresne_36 ($14.40 in chips) 
+Seat 8: sho_suzuki ($27.20 in chips) 
+Seat 9: FlagellumD ($29.15 in chips) 
+Dufresne_36: posts small blind $0.10
+sho_suzuki: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 2s]
+FlagellumD: folds 
+Sonasatan: folds 
+mcceleste: folds 
+gjc256: raises $0.25 to $0.50
+gstepr: folds 
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+FlagellumD leaves the table
+sho_suzuki: raises $1 to $1.50
+gjc256: calls $1
+*** FLOP *** [Jh 6d 4c]
+sho_suzuki: bets $3
+gjc256: folds 
+Uncalled bet ($3) returned to sho_suzuki
+sho_suzuki collected $2.95 from pot
+sho_suzuki: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [Jh 6d 4c]
+Seat 1: Sonasatan folded before Flop (didn't bet)
+Seat 2: mcceleste folded before Flop (didn't bet)
+Seat 3: gjc256 folded on the Flop
+Seat 4: gstepr folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: Dufresne_36 (small blind) folded before Flop
+Seat 8: sho_suzuki (big blind) collected ($2.95)
+Seat 9: FlagellumD folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952863943:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:49:16 (ET)
+Table 'Deikoon' 9-max Seat #7 is the button
+Seat 2: mcceleste ($80.50 in chips) 
+Seat 3: gjc256 ($8.50 in chips) 
+Seat 4: gstepr ($21.80 in chips) 
+Seat 5: aquama ($43.80 in chips) 
+Seat 6: Alameda22 ($24.30 in chips) 
+Seat 7: Dufresne_36 ($14.30 in chips) 
+Seat 8: sho_suzuki ($28.65 in chips) 
+sho_suzuki: posts small blind $0.10
+Sonasatan: is sitting out 
+mcceleste: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 8c]
+Sonasatan leaves the table
+gjc256: calls $0.25
+gstepr: folds 
+aquama: calls $0.25
+Alameda22: calls $0.25
+Dufresne_36: folds 
+sho_suzuki: folds 
+mcceleste: checks 
+*** FLOP *** [Qh Kd Jh]
+mcceleste: checks 
+gjc256: checks 
+aquama: checks 
+Alameda22: checks 
+*** TURN *** [Qh Kd Jh] [Jc]
+mcceleste: checks 
+gjc256: checks 
+aquama: checks 
+Alameda22: checks 
+*** RIVER *** [Qh Kd Jh Jc] [2s]
+mcceleste: checks 
+gjc256: bets $0.25
+aquama: folds 
+Alameda22: folds 
+mcceleste: calls $0.25
+*** SHOW DOWN ***
+gjc256: shows [Ah 4h] (a pair of Jacks)
+mcceleste: shows [Ad Qd] (two pair, Queens and Jacks)
+mcceleste collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Qh Kd Jh Jc 2s]
+Seat 2: mcceleste (big blind) showed [Ad Qd] and won ($1.55) with two pair, Queens and Jacks
+Seat 3: gjc256 showed [Ah 4h] and lost with a pair of Jacks
+Seat 4: gstepr folded before Flop (didn't bet)
+Seat 5: aquama folded on the River
+Seat 6: Alameda22 folded on the River
+Seat 7: Dufresne_36 (button) folded before Flop (didn't bet)
+Seat 8: sho_suzuki (small blind) folded before Flop
+
+
+
+PokerStars Game #19952903709:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:50:55 (ET)
+Table 'Deikoon' 9-max Seat #8 is the button
+Seat 2: mcceleste ($81.55 in chips) 
+Seat 3: gjc256 ($8 in chips) 
+Seat 4: gstepr ($21.80 in chips) 
+Seat 5: aquama ($43.55 in chips) 
+Seat 6: Alameda22 ($24.05 in chips) 
+Seat 7: Dufresne_36 ($14.30 in chips) 
+Seat 8: sho_suzuki ($28.55 in chips) 
+mcceleste: posts small blind $0.10
+gjc256: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 3d]
+gstepr: folds 
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: calls $0.25
+sho_suzuki: folds 
+mcceleste: raises $0.75 to $1
+gjc256: folds 
+Dufresne_36: folds 
+Uncalled bet ($0.75) returned to mcceleste
+mcceleste collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 2: mcceleste (small blind) collected ($0.75)
+Seat 3: gjc256 (big blind) folded before Flop
+Seat 4: gstepr folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop
+Seat 8: sho_suzuki (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952915240:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:51:23 (ET)
+Table 'Deikoon' 9-max Seat #2 is the button
+Seat 2: mcceleste ($82.05 in chips) 
+Seat 3: gjc256 ($7.75 in chips) 
+Seat 4: gstepr ($21.80 in chips) 
+Seat 5: aquama ($43.55 in chips) 
+Seat 6: Alameda22 ($24.05 in chips) 
+Seat 7: Dufresne_36 ($14.05 in chips) 
+Seat 8: sho_suzuki ($28.55 in chips) 
+gjc256: posts small blind $0.10
+gstepr: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 6c]
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: raises $0.75 to $1
+sho_suzuki: folds 
+mcceleste: folds 
+gjc256: folds 
+gstepr: folds 
+Uncalled bet ($0.75) returned to Dufresne_36
+Dufresne_36 collected $0.60 from pot
+Dufresne_36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: mcceleste (button) folded before Flop (didn't bet)
+Seat 3: gjc256 (small blind) folded before Flop
+Seat 4: gstepr (big blind) folded before Flop
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 collected ($0.60)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952924685:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:51:47 (ET)
+Table 'Deikoon' 9-max Seat #3 is the button
+Seat 2: mcceleste ($82.05 in chips) 
+Seat 3: gjc256 ($7.65 in chips) 
+Seat 4: gstepr ($21.55 in chips) 
+Seat 5: aquama ($43.55 in chips) 
+Seat 6: Alameda22 ($24.05 in chips) 
+Seat 7: Dufresne_36 ($14.40 in chips) 
+Seat 8: sho_suzuki ($28.55 in chips) 
+gstepr: posts small blind $0.10
+aquama: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Js]
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+mcceleste: raises $0.75 to $1
+gjc256: folds 
+gstepr: folds 
+aquama: calls $0.75
+*** FLOP *** [4h 9d Ts]
+aquama: bets $1
+mcceleste: calls $1
+*** TURN *** [4h 9d Ts] [3s]
+aquama: bets $1.25
+mcceleste: calls $1.25
+*** RIVER *** [4h 9d Ts 3s] [8h]
+aquama: bets $1.50
+mcceleste: calls $1.50
+*** SHOW DOWN ***
+aquama: shows [Td Ad] (a pair of Tens)
+mcceleste: shows [6h 7h] (a straight, Six to Ten)
+mcceleste collected $9.15 from pot
+*** SUMMARY ***
+Total pot $9.60 | Rake $0.45 
+Board [4h 9d Ts 3s 8h]
+Seat 2: mcceleste showed [6h 7h] and won ($9.15) with a straight, Six to Ten
+Seat 3: gjc256 (button) folded before Flop (didn't bet)
+Seat 4: gstepr (small blind) folded before Flop
+Seat 5: aquama (big blind) showed [Td Ad] and lost with a pair of Tens
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952939631:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:52:25 (ET)
+Table 'Deikoon' 9-max Seat #4 is the button
+Seat 2: mcceleste ($86.45 in chips) 
+Seat 3: gjc256 ($7.65 in chips) 
+Seat 4: gstepr ($21.45 in chips) 
+Seat 5: aquama ($38.80 in chips) 
+Seat 6: Alameda22 ($24.05 in chips) 
+Seat 7: Dufresne_36 ($14.40 in chips) 
+Seat 8: sho_suzuki ($28.55 in chips) 
+aquama: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 7d]
+Dufresne_36: folds 
+sho_suzuki: folds 
+mcceleste: folds 
+gjc256: raises $0.75 to $1
+gstepr: folds 
+aquama: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to gjc256
+gjc256 collected $0.60 from pot
+gjc256: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: mcceleste folded before Flop (didn't bet)
+Seat 3: gjc256 collected ($0.60)
+Seat 4: gstepr (button) folded before Flop (didn't bet)
+Seat 5: aquama (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952952418:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:52:57 (ET)
+Table 'Deikoon' 9-max Seat #5 is the button
+Seat 2: mcceleste ($86.45 in chips) 
+Seat 3: gjc256 ($8 in chips) 
+Seat 4: gstepr ($21.45 in chips) 
+Seat 5: aquama ($38.70 in chips) 
+Seat 6: Alameda22 ($23.80 in chips) 
+Seat 7: Dufresne_36 ($14.40 in chips) 
+Seat 8: sho_suzuki ($28.55 in chips) 
+Alameda22: posts small blind $0.10
+Dufresne_36: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 9d]
+sho_suzuki: folds 
+mcceleste: folds 
+gjc256: folds 
+gstepr: raises $0.75 to $1
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+Uncalled bet ($0.75) returned to gstepr
+gstepr collected $0.60 from pot
+gstepr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: mcceleste folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: gstepr collected ($0.60)
+Seat 5: aquama (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: Dufresne_36 (big blind) folded before Flop
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19952961853:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:53:20 (ET)
+Table 'Deikoon' 9-max Seat #6 is the button
+Seat 2: mcceleste ($86.45 in chips) 
+Seat 3: gjc256 ($8 in chips) 
+Seat 4: gstepr ($21.80 in chips) 
+Seat 5: aquama ($38.70 in chips) 
+Seat 6: Alameda22 ($23.70 in chips) 
+Seat 7: Dufresne_36 ($14.15 in chips) 
+Seat 8: sho_suzuki ($28.55 in chips) 
+Dufresne_36: posts small blind $0.10
+sho_suzuki: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 6h]
+rainbow_J joins the table at seat #1 
+mcceleste: folds 
+gjc256: folds 
+gstepr: folds 
+aquama: folds 
+wanaplay2?1 joins the table at seat #9 
+Alameda22: folds 
+Dufresne_36: calls $0.15
+sho_suzuki: checks 
+*** FLOP *** [8d 2d Kd]
+Dufresne_36: checks 
+sho_suzuki: checks 
+*** TURN *** [8d 2d Kd] [Qd]
+Dufresne_36: checks 
+sho_suzuki: checks 
+*** RIVER *** [8d 2d Kd Qd] [9h]
+Dufresne_36: checks 
+sho_suzuki: checks 
+*** SHOW DOWN ***
+Dufresne_36: shows [5h 4s] (high card King)
+sho_suzuki: shows [3s 2s] (a pair of Deuces)
+sho_suzuki collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [8d 2d Kd Qd 9h]
+Seat 2: mcceleste folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: gstepr folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: Dufresne_36 (small blind) showed [5h 4s] and lost with high card King
+Seat 8: sho_suzuki (big blind) showed [3s 2s] and won ($0.50) with a pair of Deuces
+
+
+
+PokerStars Game #19952982047:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:54:11 (ET)
+Table 'Deikoon' 9-max Seat #7 is the button
+Seat 1: rainbow_J ($25 in chips) 
+Seat 2: mcceleste ($86.45 in chips) 
+Seat 3: gjc256 ($8 in chips) 
+Seat 4: gstepr ($21.80 in chips) 
+Seat 5: aquama ($38.70 in chips) 
+Seat 6: Alameda22 ($23.70 in chips) 
+Seat 7: Dufresne_36 ($13.90 in chips) 
+Seat 8: sho_suzuki ($28.80 in chips) 
+Seat 9: wanaplay2?1 ($15 in chips) 
+sho_suzuki: posts small blind $0.10
+wanaplay2?1: posts big blind $0.25
+rainbow_J: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 4h]
+sho_suzuki said, "shipppppppppp"
+rainbow_J: checks 
+mcceleste: folds 
+gjc256: folds 
+gstepr: folds 
+mcceleste said, "lol"
+aquama: calls $0.25
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: checks 
+*** FLOP *** [Ts 7h 8d]
+wanaplay2?1: checks 
+rainbow_J: checks 
+aquama: checks 
+*** TURN *** [Ts 7h 8d] [5c]
+wanaplay2?1: bets $0.25
+rainbow_J: calls $0.25
+aquama: calls $0.25
+*** RIVER *** [Ts 7h 8d 5c] [4d]
+wanaplay2?1: checks 
+rainbow_J: bets $0.75
+aquama: raises $3 to $3.75
+wanaplay2?1: folds 
+rainbow_J: calls $3
+*** SHOW DOWN ***
+aquama: shows [Kh 6h] (a straight, Four to Eight)
+rainbow_J: shows [6d 3c] (a straight, Four to Eight)
+rainbow_J collected $4.35 from pot
+aquama collected $4.30 from pot
+*** SUMMARY ***
+Total pot $9.10 | Rake $0.45 
+Board [Ts 7h 8d 5c 4d]
+Seat 1: rainbow_J showed [6d 3c] and won ($4.35) with a straight, Four to Eight
+Seat 2: mcceleste folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: gstepr folded before Flop (didn't bet)
+Seat 5: aquama showed [Kh 6h] and won ($4.30) with a straight, Four to Eight
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 (button) folded before Flop (didn't bet)
+Seat 8: sho_suzuki (small blind) folded before Flop
+Seat 9: wanaplay2?1 (big blind) folded on the River
+
+
+
+PokerStars Game #19953012602:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:55:30 (ET)
+Table 'Deikoon' 9-max Seat #8 is the button
+Seat 1: rainbow_J ($25.10 in chips) 
+Seat 2: mcceleste ($86.45 in chips) 
+Seat 3: gjc256 ($8 in chips) 
+Seat 4: gstepr ($21.80 in chips) 
+Seat 5: aquama ($38.75 in chips) 
+Seat 6: Alameda22 ($23.70 in chips) 
+Seat 7: Dufresne_36 ($13.90 in chips) 
+Seat 8: sho_suzuki ($28.70 in chips) 
+Seat 9: wanaplay2?1 ($14.50 in chips) 
+wanaplay2?1: posts small blind $0.10
+rainbow_J: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Ts]
+mcceleste: folds 
+gjc256: raises $0.50 to $0.75
+gstepr: folds 
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+Uncalled bet ($0.50) returned to gjc256
+gjc256 collected $0.60 from pot
+gjc256: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rainbow_J (big blind) folded before Flop
+Seat 2: mcceleste folded before Flop (didn't bet)
+Seat 3: gjc256 collected ($0.60)
+Seat 4: gstepr folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki (button) folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 (small blind) folded before Flop
+
+
+
+PokerStars Game #19953029380:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:56:13 (ET)
+Table 'Deikoon' 9-max Seat #9 is the button
+Seat 1: rainbow_J ($24.85 in chips) 
+Seat 2: mcceleste ($86.45 in chips) 
+Seat 3: gjc256 ($8.35 in chips) 
+Seat 4: gstepr ($21.80 in chips) 
+Seat 5: aquama ($38.75 in chips) 
+Seat 6: Alameda22 ($23.70 in chips) 
+Seat 7: Dufresne_36 ($13.90 in chips) 
+Seat 8: sho_suzuki ($28.70 in chips) 
+Seat 9: wanaplay2?1 ($14.40 in chips) 
+rainbow_J: posts small blind $0.10
+mcceleste: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h As]
+gjc256: folds 
+gstepr: folds 
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: calls $0.25
+rainbow_J: calls $0.15
+mcceleste: checks 
+*** FLOP *** [4h Jc Qh]
+rainbow_J: checks 
+mcceleste: checks 
+wanaplay2?1: bets $0.25
+rainbow_J: folds 
+mcceleste: calls $0.25
+*** TURN *** [4h Jc Qh] [Ks]
+mcceleste: checks 
+wanaplay2?1: bets $0.75
+mcceleste: folds 
+Uncalled bet ($0.75) returned to wanaplay2?1
+wanaplay2?1 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [4h Jc Qh Ks]
+Seat 1: rainbow_J (small blind) folded on the Flop
+Seat 2: mcceleste (big blind) folded on the Turn
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: gstepr folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 (button) collected ($1.20)
+
+
+
+PokerStars Game #19953053771:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:57:15 (ET)
+Table 'Deikoon' 9-max Seat #1 is the button
+Seat 1: rainbow_J ($24.60 in chips) 
+Seat 2: mcceleste ($85.95 in chips) 
+Seat 3: gjc256 ($8.35 in chips) 
+Seat 4: gstepr ($21.80 in chips) 
+Seat 5: aquama ($38.75 in chips) 
+Seat 6: Alameda22 ($23.70 in chips) 
+Seat 7: Dufresne_36 ($13.90 in chips) 
+Seat 8: sho_suzuki ($28.70 in chips) 
+Seat 9: wanaplay2?1 ($15.10 in chips) 
+mcceleste: posts small blind $0.10
+gjc256: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Jc]
+gstepr: folds 
+aquama: folds 
+Alameda22: raises $0.50 to $0.75
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+mcceleste: calls $0.65
+gjc256: calls $0.50
+*** FLOP *** [7h Qd 6d]
+mcceleste: checks 
+gjc256: checks 
+Alameda22: bets $1.50
+mcceleste: folds 
+gjc256: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $2.15 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [7h Qd 6d]
+Seat 1: rainbow_J (button) folded before Flop (didn't bet)
+Seat 2: mcceleste (small blind) folded on the Flop
+Seat 3: gjc256 (big blind) folded on the Flop
+Seat 4: gstepr folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 collected ($2.15)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953076721:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:58:15 (ET)
+Table 'Deikoon' 9-max Seat #2 is the button
+Seat 1: rainbow_J ($24.60 in chips) 
+Seat 2: mcceleste ($85.20 in chips) 
+Seat 3: gjc256 ($7.60 in chips) 
+Seat 4: gstepr ($21.80 in chips) 
+Seat 5: aquama ($38.75 in chips) 
+Seat 6: Alameda22 ($25.10 in chips) 
+Seat 7: Dufresne_36 ($13.90 in chips) 
+Seat 8: sho_suzuki ($28.70 in chips) 
+Seat 9: wanaplay2?1 ($15.10 in chips) 
+gjc256: posts small blind $0.10
+gstepr: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 6h]
+aquama: calls $0.25
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: raises $0.75 to $1
+rainbow_J: folds 
+mcceleste: folds 
+mcceleste leaves the table
+gjc256: folds 
+gstepr: folds 
+aquama: calls $0.75
+*** FLOP *** [4c 8c Ts]
+aquama: checks 
+wanaplay2?1: bets $1
+aquama: calls $1
+*** TURN *** [4c 8c Ts] [4s]
+aquama: checks 
+wanaplay2?1: bets $2.25
+aquama: folds 
+Uncalled bet ($2.25) returned to wanaplay2?1
+wanaplay2?1 collected $4.15 from pot
+*** SUMMARY ***
+Total pot $4.35 | Rake $0.20 
+Board [4c 8c Ts 4s]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: mcceleste (button) folded before Flop (didn't bet)
+Seat 3: gjc256 (small blind) folded before Flop
+Seat 4: gstepr (big blind) folded before Flop
+Seat 5: aquama folded on the Turn
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 collected ($4.15)
+
+
+
+PokerStars Game #19953101782:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 22:59:19 (ET)
+Table 'Deikoon' 9-max Seat #3 is the button
+Seat 1: rainbow_J ($24.60 in chips) 
+Seat 3: gjc256 ($7.50 in chips) 
+Seat 4: gstepr ($21.55 in chips) 
+Seat 5: aquama ($36.75 in chips) 
+Seat 6: Alameda22 ($25.10 in chips) 
+Seat 7: Dufresne_36 ($13.90 in chips) 
+Seat 8: sho_suzuki ($28.70 in chips) 
+Seat 9: wanaplay2?1 ($17.25 in chips) 
+gstepr: posts small blind $0.10
+aquama: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 6s]
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: calls $0.25
+rainbow_J: folds 
+gjc256: folds 
+gstepr: folds 
+aquama: checks 
+*** FLOP *** [Ks Qh 9d]
+aquama: checks 
+fuquay111706 joins the table at seat #2 
+wanaplay2?1: bets $0.25
+aquama: folds 
+Uncalled bet ($0.25) returned to wanaplay2?1
+wanaplay2?1 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ks Qh 9d]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 3: gjc256 (button) folded before Flop (didn't bet)
+Seat 4: gstepr (small blind) folded before Flop
+Seat 5: aquama (big blind) folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 collected ($0.60)
+
+
+
+PokerStars Game #19953121148:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:00:07 (ET)
+Table 'Deikoon' 9-max Seat #4 is the button
+Seat 1: rainbow_J ($24.60 in chips) 
+Seat 2: fuquay111706 ($5 in chips) 
+Seat 3: gjc256 ($7.50 in chips) 
+Seat 4: gstepr ($21.45 in chips) 
+Seat 5: aquama ($36.50 in chips) 
+Seat 6: Alameda22 ($25.10 in chips) 
+Seat 7: Dufresne_36 ($13.90 in chips) 
+Seat 8: sho_suzuki ($28.70 in chips) 
+Seat 9: wanaplay2?1 ($17.60 in chips) 
+aquama: posts small blind $0.10
+Alameda22: posts big blind $0.25
+fuquay111706: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Jd]
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: calls $0.25
+rainbow_J: folds 
+fuquay111706: checks 
+gjc256: folds 
+gstepr: calls $0.25
+aquama: folds 
+Alameda22: raises $1.25 to $1.50
+wanaplay2?1: folds 
+fuquay111706: folds 
+gstepr: folds 
+Uncalled bet ($1.25) returned to Alameda22
+Alameda22 collected $1.10 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: fuquay111706 folded before Flop
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: gstepr (button) folded before Flop
+Seat 5: aquama (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) collected ($1.10)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop
+
+
+
+PokerStars Game #19953138253:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:00:50 (ET)
+Table 'Deikoon' 9-max Seat #5 is the button
+Seat 1: rainbow_J ($24.60 in chips) 
+Seat 2: fuquay111706 ($4.75 in chips) 
+Seat 3: gjc256 ($7.50 in chips) 
+Seat 4: gstepr ($21.20 in chips) 
+Seat 5: aquama ($36.40 in chips) 
+Seat 6: Alameda22 ($25.95 in chips) 
+Seat 7: Dufresne_36 ($13.90 in chips) 
+Seat 8: sho_suzuki ($28.70 in chips) 
+Seat 9: wanaplay2?1 ($17.35 in chips) 
+Alameda22: posts small blind $0.10
+Dufresne_36: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 3c]
+sho_suzuki: calls $0.25
+wanaplay2?1: calls $0.25
+rainbow_J: folds 
+fuquay111706: raises $0.75 to $1
+gjc256: folds 
+gstepr: folds 
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: calls $0.75
+wanaplay2?1: calls $0.75
+*** FLOP *** [2h 6d 6s]
+sho_suzuki: checks 
+wanaplay2?1: checks 
+fuquay111706: bets $3.75 and is all-in
+sho_suzuki: folds 
+wanaplay2?1: folds 
+Uncalled bet ($3.75) returned to fuquay111706
+fuquay111706 collected $3.20 from pot
+fuquay111706: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [2h 6d 6s]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: fuquay111706 collected ($3.20)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: gstepr folded before Flop (didn't bet)
+Seat 5: aquama (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: Dufresne_36 (big blind) folded before Flop
+Seat 8: sho_suzuki folded on the Flop
+Seat 9: wanaplay2?1 folded on the Flop
+
+
+
+PokerStars Game #19953159774:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:01:44 (ET)
+Table 'Deikoon' 9-max Seat #6 is the button
+Seat 1: rainbow_J ($24.60 in chips) 
+Seat 2: fuquay111706 ($6.95 in chips) 
+Seat 3: gjc256 ($7.50 in chips) 
+Seat 4: gstepr ($21.20 in chips) 
+Seat 5: aquama ($36.40 in chips) 
+Seat 6: Alameda22 ($25.85 in chips) 
+Seat 7: Dufresne_36 ($13.65 in chips) 
+Seat 8: sho_suzuki ($27.70 in chips) 
+Seat 9: wanaplay2?1 ($16.35 in chips) 
+Dufresne_36: posts small blind $0.10
+sho_suzuki: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Qs]
+wanaplay2?1: folds 
+rainbow_J: folds 
+fuquay111706: folds 
+gjc256: folds 
+gstepr: folds 
+aquama: folds 
+Alameda22: raises $0.50 to $0.75
+Dufresne_36: calls $0.65
+sho_suzuki: folds 
+*** FLOP *** [Tc 7h 5c]
+Dufresne_36: checks 
+Alameda22: bets $1
+Dufresne_36: folds 
+Uncalled bet ($1) returned to Alameda22
+Alameda22 collected $1.70 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Tc 7h 5c]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: fuquay111706 folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: gstepr folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) collected ($1.70)
+Seat 7: Dufresne_36 (small blind) folded on the Flop
+Seat 8: sho_suzuki (big blind) folded before Flop
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953195522:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:03:14 (ET)
+Table 'Deikoon' 9-max Seat #7 is the button
+Seat 1: rainbow_J ($24.60 in chips) 
+Seat 2: fuquay111706 ($6.95 in chips) 
+Seat 3: gjc256 ($7.50 in chips) 
+Seat 4: gstepr ($21.20 in chips) 
+Seat 5: aquama ($36.40 in chips) 
+Seat 6: Alameda22 ($26.80 in chips) 
+Seat 7: Dufresne_36 ($12.90 in chips) 
+Seat 8: sho_suzuki ($27.45 in chips) 
+Seat 9: wanaplay2?1 ($16.35 in chips) 
+sho_suzuki: posts small blind $0.10
+wanaplay2?1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 7s]
+rainbow_J: folds 
+fuquay111706: raises $0.50 to $0.75
+gjc256: folds 
+gstepr: calls $0.75
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: calls $0.50
+*** FLOP *** [2h 9c As]
+wanaplay2?1: checks 
+fuquay111706: bets $1.25
+gstepr: folds 
+wanaplay2?1: folds 
+Uncalled bet ($1.25) returned to fuquay111706
+fuquay111706 collected $2.25 from pot
+fuquay111706: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [2h 9c As]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: fuquay111706 collected ($2.25)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: gstepr folded on the Flop
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 (button) folded before Flop (didn't bet)
+Seat 8: sho_suzuki (small blind) folded before Flop
+Seat 9: wanaplay2?1 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19953211984:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:03:55 (ET)
+Table 'Deikoon' 9-max Seat #8 is the button
+Seat 1: rainbow_J ($24.60 in chips) 
+Seat 2: fuquay111706 ($8.45 in chips) 
+Seat 3: gjc256 ($7.50 in chips) 
+Seat 4: gstepr ($20.45 in chips) 
+Seat 5: aquama ($36.40 in chips) 
+Seat 6: Alameda22 ($26.80 in chips) 
+Seat 7: Dufresne_36 ($12.90 in chips) 
+Seat 8: sho_suzuki ($27.35 in chips) 
+Seat 9: wanaplay2?1 ($15.60 in chips) 
+wanaplay2?1: posts small blind $0.10
+rainbow_J: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 3c]
+fuquay111706: folds 
+gjc256: calls $0.25
+gstepr: calls $0.25
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: calls $0.25
+sho_suzuki: calls $0.25
+wanaplay2?1: calls $0.15
+rainbow_J: checks 
+*** FLOP *** [8d Ac 6h]
+wanaplay2?1: checks 
+rainbow_J: checks 
+gjc256: bets $1
+gstepr: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+gstepr leaves the table
+wanaplay2?1: folds 
+rainbow_J: folds 
+Uncalled bet ($1) returned to gjc256
+gjc256 collected $1.45 from pot
+gjc256: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [8d Ac 6h]
+Seat 1: rainbow_J (big blind) folded on the Flop
+Seat 2: fuquay111706 folded before Flop (didn't bet)
+Seat 3: gjc256 collected ($1.45)
+Seat 4: gstepr folded on the Flop
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded on the Flop
+Seat 8: sho_suzuki (button) folded on the Flop
+Seat 9: wanaplay2?1 (small blind) folded on the Flop
+
+
+
+PokerStars Game #19953239085:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:05:04 (ET)
+Table 'Deikoon' 9-max Seat #9 is the button
+Seat 1: rainbow_J ($24.35 in chips) 
+Seat 2: fuquay111706 ($8.45 in chips) 
+Seat 3: gjc256 ($8.70 in chips) 
+Seat 5: aquama ($36.40 in chips) 
+Seat 6: Alameda22 ($26.80 in chips) 
+Seat 7: Dufresne_36 ($12.65 in chips) 
+Seat 8: sho_suzuki ($27.10 in chips) 
+Seat 9: wanaplay2?1 ($15.35 in chips) 
+rainbow_J: posts small blind $0.10
+fuquay111706: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 5c]
+gjc256: calls $0.25
+aquama: raises $0.50 to $0.75
+Alameda22: folds 
+Dufresne_36: raises $2.25 to $3
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+fuquay111706: folds 
+littlepup5 joins the table at seat #4 
+gjc256: folds 
+aquama: folds 
+Uncalled bet ($2.25) returned to Dufresne_36
+Dufresne_36 collected $2.10 from pot
+Dufresne_36: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0 
+Seat 1: rainbow_J (small blind) folded before Flop
+Seat 2: fuquay111706 (big blind) folded before Flop
+Seat 3: gjc256 folded before Flop
+Seat 5: aquama folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 collected ($2.10)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953255077:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:05:44 (ET)
+Table 'Deikoon' 9-max Seat #1 is the button
+Seat 1: rainbow_J ($24.25 in chips) 
+Seat 2: fuquay111706 ($8.20 in chips) 
+Seat 3: gjc256 ($8.45 in chips) 
+Seat 5: aquama ($35.65 in chips) 
+Seat 6: Alameda22 ($26.80 in chips) 
+Seat 7: Dufresne_36 ($14 in chips) 
+Seat 8: sho_suzuki ($27.10 in chips) 
+Seat 9: wanaplay2?1 ($15.35 in chips) 
+fuquay111706: posts small blind $0.10
+gjc256: posts big blind $0.25
+littlepup5: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Js]
+aquama: calls $0.25
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+fuquay111706: folds 
+gjc256: raises $0.75 to $1
+aquama: folds 
+Uncalled bet ($0.75) returned to gjc256
+gjc256 collected $0.60 from pot
+gjc256: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rainbow_J (button) folded before Flop (didn't bet)
+Seat 2: fuquay111706 (small blind) folded before Flop
+Seat 3: gjc256 (big blind) collected ($0.60)
+Seat 5: aquama folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953274576:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:06:33 (ET)
+Table 'Deikoon' 9-max Seat #2 is the button
+Seat 1: rainbow_J ($24.25 in chips) 
+Seat 2: fuquay111706 ($8.10 in chips) 
+Seat 3: gjc256 ($8.80 in chips) 
+Seat 4: littlepup5 ($12 in chips) 
+Seat 5: aquama ($35.40 in chips) 
+Seat 6: Alameda22 ($26.80 in chips) 
+Seat 7: Dufresne_36 ($14 in chips) 
+Seat 8: sho_suzuki ($27.10 in chips) 
+Seat 9: wanaplay2?1 ($15.35 in chips) 
+gjc256: posts small blind $0.10
+littlepup5: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Kd]
+aquama: calls $0.25
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+fuquay111706: folds 
+gjc256: calls $0.15
+littlepup5: checks 
+*** FLOP *** [Td 3s 4c]
+gjc256: checks 
+littlepup5: checks 
+aquama: checks 
+*** TURN *** [Td 3s 4c] [9s]
+gjc256: bets $0.25
+littlepup5: folds 
+aquama: folds 
+Uncalled bet ($0.25) returned to gjc256
+gjc256 collected $0.75 from pot
+gjc256: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Td 3s 4c 9s]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: fuquay111706 (button) folded before Flop (didn't bet)
+Seat 3: gjc256 (small blind) collected ($0.75)
+Seat 4: littlepup5 (big blind) folded on the Turn
+Seat 5: aquama folded on the Turn
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953295041:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:07:25 (ET)
+Table 'Deikoon' 9-max Seat #3 is the button
+Seat 1: rainbow_J ($24.25 in chips) 
+Seat 2: fuquay111706 ($8.10 in chips) 
+Seat 3: gjc256 ($9.30 in chips) 
+Seat 4: littlepup5 ($11.75 in chips) 
+Seat 5: aquama ($35.15 in chips) 
+Seat 6: Alameda22 ($26.80 in chips) 
+Seat 7: Dufresne_36 ($14 in chips) 
+Seat 8: sho_suzuki ($27.10 in chips) 
+Seat 9: wanaplay2?1 ($15.35 in chips) 
+littlepup5: posts small blind $0.10
+aquama: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 7d]
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: calls $0.25
+rainbow_J: folds 
+fuquay111706: folds 
+gjc256: folds 
+littlepup5: calls $0.15
+aquama: raises $0.75 to $1
+wanaplay2?1: calls $0.75
+littlepup5: folds 
+*** FLOP *** [2s 9d 3d]
+aquama: bets $2
+wanaplay2?1: folds 
+Uncalled bet ($2) returned to aquama
+aquama collected $2.15 from pot
+aquama: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [2s 9d 3d]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: fuquay111706 folded before Flop (didn't bet)
+Seat 3: gjc256 (button) folded before Flop (didn't bet)
+Seat 4: littlepup5 (small blind) folded before Flop
+Seat 5: aquama (big blind) collected ($2.15)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded on the Flop
+
+
+
+PokerStars Game #19953313278:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:08:11 (ET)
+Table 'Deikoon' 9-max Seat #4 is the button
+Seat 1: rainbow_J ($24.25 in chips) 
+Seat 2: fuquay111706 ($8.10 in chips) 
+Seat 3: gjc256 ($9.30 in chips) 
+Seat 4: littlepup5 ($11.50 in chips) 
+Seat 5: aquama ($36.30 in chips) 
+Seat 6: Alameda22 ($26.80 in chips) 
+Seat 7: Dufresne_36 ($14 in chips) 
+Seat 8: sho_suzuki ($27.10 in chips) 
+Seat 9: wanaplay2?1 ($14.35 in chips) 
+aquama: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Jc]
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+fuquay111706: folds 
+gjc256: folds 
+littlepup5: calls $0.25
+aquama: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Th Jd 8s]
+aquama: bets $0.50
+Alameda22: folds 
+littlepup5: calls $0.50
+*** TURN *** [Th Jd 8s] [Ac]
+aquama: checks 
+littlepup5: bets $1.25
+aquama: calls $1.25
+*** RIVER *** [Th Jd 8s Ac] [2c]
+aquama: checks 
+littlepup5: bets $1
+aquama: folds 
+Uncalled bet ($1) returned to littlepup5
+littlepup5 collected $4.05 from pot
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.20 
+Board [Th Jd 8s Ac 2c]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: fuquay111706 folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 (button) collected ($4.05)
+Seat 5: aquama (small blind) folded on the River
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953342646:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:09:27 (ET)
+Table 'Deikoon' 9-max Seat #5 is the button
+Seat 1: rainbow_J ($24.25 in chips) 
+Seat 2: fuquay111706 ($8.10 in chips) 
+Seat 3: gjc256 ($9.30 in chips) 
+Seat 4: littlepup5 ($13.55 in chips) 
+Seat 5: aquama ($34.30 in chips) 
+Seat 6: Alameda22 ($26.55 in chips) 
+Seat 7: Dufresne_36 ($14 in chips) 
+Seat 8: sho_suzuki ($27.10 in chips) 
+Seat 9: wanaplay2?1 ($14.35 in chips) 
+Alameda22: posts small blind $0.10
+Dufresne_36: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Jh]
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+fuquay111706: folds 
+gjc256: folds 
+littlepup5: folds 
+aquama: calls $0.25
+Alameda22: folds 
+Dufresne_36: checks 
+*** FLOP *** [6d 2d Kh]
+Dufresne_36: checks 
+aquama: checks 
+*** TURN *** [6d 2d Kh] [Qh]
+Dufresne_36: checks 
+aquama: checks 
+*** RIVER *** [6d 2d Kh Qh] [7h]
+Dufresne_36: bets $0.25
+aquama: folds 
+Uncalled bet ($0.25) returned to Dufresne_36
+Dufresne_36 collected $0.60 from pot
+Dufresne_36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6d 2d Kh Qh 7h]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: fuquay111706 folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama (button) folded on the River
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: Dufresne_36 (big blind) collected ($0.60)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953367948:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:10:33 (ET)
+Table 'Deikoon' 9-max Seat #6 is the button
+Seat 1: rainbow_J ($24.25 in chips) 
+Seat 2: fuquay111706 ($8.10 in chips) 
+Seat 3: gjc256 ($9.30 in chips) 
+Seat 4: littlepup5 ($13.55 in chips) 
+Seat 5: aquama ($34.05 in chips) 
+Seat 6: Alameda22 ($26.45 in chips) 
+Seat 7: Dufresne_36 ($14.35 in chips) 
+Seat 8: sho_suzuki ($27.10 in chips) 
+Seat 9: wanaplay2?1 ($14.35 in chips) 
+Dufresne_36: posts small blind $0.10
+sho_suzuki: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 9h]
+wanaplay2?1: folds 
+rainbow_J: folds 
+fuquay111706: raises $0.75 to $1
+gjc256: folds 
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+Uncalled bet ($0.75) returned to fuquay111706
+fuquay111706 collected $0.60 from pot
+fuquay111706: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: fuquay111706 collected ($0.60)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: Dufresne_36 (small blind) folded before Flop
+Seat 8: sho_suzuki (big blind) folded before Flop
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953381494:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:11:09 (ET)
+Table 'Deikoon' 9-max Seat #7 is the button
+Seat 1: rainbow_J ($24.25 in chips) 
+Seat 2: fuquay111706 ($8.45 in chips) 
+Seat 3: gjc256 ($9.30 in chips) 
+Seat 4: littlepup5 ($13.55 in chips) 
+Seat 5: aquama ($34.05 in chips) 
+Seat 6: Alameda22 ($26.45 in chips) 
+Seat 7: Dufresne_36 ($14.25 in chips) 
+Seat 8: sho_suzuki ($26.85 in chips) 
+Seat 9: wanaplay2?1 ($14.35 in chips) 
+sho_suzuki: posts small blind $0.10
+wanaplay2?1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 7s]
+rainbow_J: folds 
+fuquay111706: folds 
+gjc256: folds 
+littlepup5: folds 
+aquama: folds 
+Alameda22: raises $0.50 to $0.75
+Dufresne_36: calls $0.75
+sho_suzuki: calls $0.65
+wanaplay2?1: folds 
+*** FLOP *** [2s 4s 8d]
+sho_suzuki: checks 
+Alameda22: bets $1.50
+Dufresne_36: folds 
+sho_suzuki: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $2.40 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [2s 4s 8d]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: fuquay111706 folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 collected ($2.40)
+Seat 7: Dufresne_36 (button) folded on the Flop
+Seat 8: sho_suzuki (small blind) folded on the Flop
+Seat 9: wanaplay2?1 (big blind) folded before Flop
+
+
+
+PokerStars Game #19953405047:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:12:10 (ET)
+Table 'Deikoon' 9-max Seat #8 is the button
+Seat 1: rainbow_J ($24.25 in chips) 
+Seat 2: fuquay111706 ($8.45 in chips) 
+Seat 3: gjc256 ($9.30 in chips) 
+Seat 4: littlepup5 ($13.55 in chips) 
+Seat 5: aquama ($34.05 in chips) 
+Seat 6: Alameda22 ($28.10 in chips) 
+Seat 7: Dufresne_36 ($13.50 in chips) 
+Seat 8: sho_suzuki ($26.10 in chips) 
+Seat 9: wanaplay2?1 ($14.10 in chips) 
+wanaplay2?1: posts small blind $0.10
+rainbow_J: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Tc]
+fuquay111706: folds 
+gjc256: folds 
+littlepup5: calls $0.25
+fuquay111706 leaves the table
+aquama: folds 
+Alameda22: calls $0.25
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: calls $0.15
+rainbow_J: checks 
+*** FLOP *** [7s Jd 7h]
+wanaplay2?1: checks 
+rainbow_J: checks 
+littlepup5: bets $0.50
+Alameda22: folds 
+wanaplay2?1: raises $1.25 to $1.75
+rainbow_J: folds 
+littlepup5: folds 
+Uncalled bet ($1.25) returned to wanaplay2?1
+wanaplay2?1 collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [7s Jd 7h]
+Seat 1: rainbow_J (big blind) folded on the Flop
+Seat 2: fuquay111706 folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded on the Flop
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded on the Flop
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki (button) folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 (small blind) collected ($1.95)
+
+
+
+PokerStars Game #19953431101:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:13:19 (ET)
+Table 'Deikoon' 9-max Seat #9 is the button
+Seat 1: rainbow_J ($24 in chips) 
+Seat 3: gjc256 ($9.30 in chips) 
+Seat 4: littlepup5 ($12.80 in chips) 
+Seat 5: aquama ($34.05 in chips) 
+Seat 6: Alameda22 ($27.85 in chips) 
+Seat 7: Dufresne_36 ($13.50 in chips) 
+Seat 8: sho_suzuki ($26.10 in chips) 
+Seat 9: wanaplay2?1 ($15.30 in chips) 
+rainbow_J: posts small blind $0.10
+gjc256: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 5s]
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+Uncalled bet ($0.15) returned to gjc256
+gjc256 collected $0.20 from pot
+gjc256: shows [Ah Qd] (high card Ace)
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: rainbow_J (small blind) folded before Flop
+Seat 3: gjc256 (big blind) collected ($0.20)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953443420:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:13:52 (ET)
+Table 'Deikoon' 9-max Seat #1 is the button
+Seat 1: rainbow_J ($23.90 in chips) 
+Seat 3: gjc256 ($9.40 in chips) 
+Seat 4: littlepup5 ($12.80 in chips) 
+Seat 5: aquama ($34.05 in chips) 
+Seat 6: Alameda22 ($27.85 in chips) 
+Seat 7: Dufresne_36 ($13.50 in chips) 
+Seat 8: sho_suzuki ($26.10 in chips) 
+Seat 9: wanaplay2?1 ($15.30 in chips) 
+gjc256: posts small blind $0.10
+littlepup5: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Kh]
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: raises $0.75 to $1
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+gjc256: folds 
+littlepup5: folds 
+Uncalled bet ($0.75) returned to Dufresne_36
+Dufresne_36 collected $0.60 from pot
+Dufresne_36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rainbow_J (button) folded before Flop (didn't bet)
+Seat 3: gjc256 (small blind) folded before Flop
+Seat 4: littlepup5 (big blind) folded before Flop
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 collected ($0.60)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953457714:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:14:27 (ET)
+Table 'Deikoon' 9-max Seat #3 is the button
+Seat 1: rainbow_J ($23.90 in chips) 
+Seat 3: gjc256 ($9.30 in chips) 
+Seat 4: littlepup5 ($12.55 in chips) 
+Seat 5: aquama ($34.05 in chips) 
+Seat 6: Alameda22 ($27.85 in chips) 
+Seat 7: Dufresne_36 ($13.85 in chips) 
+Seat 8: sho_suzuki ($26.10 in chips) 
+Seat 9: wanaplay2?1 ($15.30 in chips) 
+littlepup5: posts small blind $0.10
+aquama: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Td]
+yevmoney joins the table at seat #2 
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: calls $0.25
+rainbow_J: folds 
+gjc256: folds 
+littlepup5: folds 
+aquama: checks 
+*** FLOP *** [4d Qc 4h]
+aquama: checks 
+wanaplay2?1: checks 
+*** TURN *** [4d Qc 4h] [Qh]
+aquama: checks 
+wanaplay2?1: bets $0.50
+aquama: folds 
+Uncalled bet ($0.50) returned to wanaplay2?1
+wanaplay2?1 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4d Qc 4h Qh]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 3: gjc256 (button) folded before Flop (didn't bet)
+Seat 4: littlepup5 (small blind) folded before Flop
+Seat 5: aquama (big blind) folded on the Turn
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 collected ($0.60)
+
+
+
+PokerStars Game #19953477165:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:15:12 (ET)
+Table 'Deikoon' 9-max Seat #4 is the button
+Seat 1: rainbow_J ($23.90 in chips) 
+Seat 2: yevmoney ($25 in chips) 
+Seat 3: gjc256 ($9.30 in chips) 
+Seat 4: littlepup5 ($12.45 in chips) 
+Seat 5: aquama ($33.80 in chips) 
+Seat 6: Alameda22 ($27.85 in chips) 
+Seat 7: Dufresne_36 ($13.85 in chips) 
+Seat 8: sho_suzuki ($26.10 in chips) 
+Seat 9: wanaplay2?1 ($15.65 in chips) 
+aquama: posts small blind $0.10
+Alameda22: posts big blind $0.25
+yevmoney: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 8d]
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+yevmoney: checks 
+gjc256: folds 
+littlepup5: folds 
+aquama: folds 
+Alameda22: checks 
+*** FLOP *** [4s Tc 6h]
+Alameda22: checks 
+yevmoney: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to yevmoney
+yevmoney collected $0.60 from pot
+yevmoney: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4s Tc 6h]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: yevmoney collected ($0.60)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 (button) folded before Flop (didn't bet)
+Seat 5: aquama (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953511777:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:16:33 (ET)
+Table 'Deikoon' 9-max Seat #5 is the button
+Seat 1: rainbow_J ($23.90 in chips) 
+Seat 2: yevmoney ($25.35 in chips) 
+Seat 3: gjc256 ($9.30 in chips) 
+Seat 4: littlepup5 ($12.45 in chips) 
+Seat 5: aquama ($33.70 in chips) 
+Seat 6: Alameda22 ($27.60 in chips) 
+Seat 7: Dufresne_36 ($13.85 in chips) 
+Seat 8: sho_suzuki ($26.10 in chips) 
+Seat 9: wanaplay2?1 ($15.65 in chips) 
+Alameda22: posts small blind $0.10
+Dufresne_36: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 2d]
+sho_suzuki: raises $0.50 to $0.75
+wanaplay2?1: folds 
+rainbow_J: raises $2 to $2.75
+yevmoney: folds 
+gjc256: folds 
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+Uncalled bet ($2) returned to rainbow_J
+rainbow_J collected $1.85 from pot
+rainbow_J: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 1: rainbow_J collected ($1.85)
+Seat 2: yevmoney folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: Dufresne_36 (big blind) folded before Flop
+Seat 8: sho_suzuki folded before Flop
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953529453:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:17:14 (ET)
+Table 'Deikoon' 9-max Seat #6 is the button
+Seat 1: rainbow_J ($25 in chips) 
+Seat 2: yevmoney ($25.35 in chips) 
+Seat 3: gjc256 ($9.30 in chips) 
+Seat 4: littlepup5 ($12.45 in chips) 
+Seat 5: aquama ($33.70 in chips) 
+Seat 6: Alameda22 ($27.50 in chips) 
+Seat 7: Dufresne_36 ($13.60 in chips) 
+Seat 8: sho_suzuki ($25.35 in chips) 
+Seat 9: wanaplay2?1 ($15.65 in chips) 
+Dufresne_36: posts small blind $0.10
+sho_suzuki: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Qh]
+wanaplay2?1: calls $0.25
+rainbow_J: folds 
+yevmoney: folds 
+gjc256: folds 
+littlepup5: calls $0.25
+aquama: raises $1 to $1.25
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: calls $1
+littlepup5: calls $1
+*** FLOP *** [4s 4d Jd]
+wanaplay2?1: checks 
+littlepup5: checks 
+aquama: bets $1.25
+wanaplay2?1: folds 
+littlepup5: folds 
+Uncalled bet ($1.25) returned to aquama
+aquama collected $3.90 from pot
+aquama: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [4s 4d Jd]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: yevmoney folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded on the Flop
+Seat 5: aquama collected ($3.90)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: Dufresne_36 (small blind) folded before Flop
+Seat 8: sho_suzuki (big blind) folded before Flop
+Seat 9: wanaplay2?1 folded on the Flop
+
+
+
+PokerStars Game #19953551470:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:18:06 (ET)
+Table 'Deikoon' 9-max Seat #7 is the button
+Seat 1: rainbow_J ($25 in chips) 
+Seat 2: yevmoney ($25.35 in chips) 
+Seat 3: gjc256 ($9.30 in chips) 
+Seat 4: littlepup5 ($11.20 in chips) 
+Seat 5: aquama ($36.35 in chips) 
+Seat 6: Alameda22 ($27.50 in chips) 
+Seat 7: Dufresne_36 ($13.50 in chips) 
+Seat 8: sho_suzuki ($25.10 in chips) 
+Seat 9: wanaplay2?1 ($14.40 in chips) 
+sho_suzuki: posts small blind $0.10
+wanaplay2?1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Td]
+rainbow_J: folds 
+yevmoney: folds 
+gjc256: folds 
+littlepup5: calls $0.25
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: checks 
+*** FLOP *** [3c Ad Js]
+wanaplay2?1: checks 
+littlepup5: checks 
+*** TURN *** [3c Ad Js] [5c]
+wanaplay2?1: bets $0.25
+littlepup5: raises $0.75 to $1
+wanaplay2?1: calls $0.75
+*** RIVER *** [3c Ad Js 5c] [9c]
+wanaplay2?1: checks 
+littlepup5: bets $1.75
+wanaplay2?1: folds 
+Uncalled bet ($1.75) returned to littlepup5
+littlepup5 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [3c Ad Js 5c 9c]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: yevmoney folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 collected ($2.50)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 (button) folded before Flop (didn't bet)
+Seat 8: sho_suzuki (small blind) folded before Flop
+Seat 9: wanaplay2?1 (big blind) folded on the River
+
+
+
+PokerStars Game #19953587079:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:19:31 (ET)
+Table 'Deikoon' 9-max Seat #8 is the button
+Seat 1: rainbow_J ($25 in chips) 
+Seat 2: yevmoney ($25.35 in chips) 
+Seat 3: gjc256 ($9.30 in chips) 
+Seat 4: littlepup5 ($12.45 in chips) 
+Seat 5: aquama ($36.35 in chips) 
+Seat 6: Alameda22 ($27.50 in chips) 
+Seat 7: Dufresne_36 ($13.50 in chips) 
+Seat 8: sho_suzuki ($25 in chips) 
+Seat 9: wanaplay2?1 ($13.15 in chips) 
+wanaplay2?1: posts small blind $0.10
+rainbow_J: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Td]
+yevmoney: calls $0.25
+gjc256: raises $0.50 to $0.75
+littlepup5: folds 
+aquama: calls $0.75
+Alameda22: folds 
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: calls $0.50
+yevmoney: calls $0.50
+*** FLOP *** [Kh 5c 6s]
+rainbow_J: checks 
+yevmoney: checks 
+gjc256: bets $1
+aquama: folds 
+rainbow_J: raises $1 to $2
+yevmoney: folds 
+gjc256: calls $1
+*** TURN *** [Kh 5c 6s] [Ks]
+rainbow_J: bets $2.50
+gjc256: folds 
+Uncalled bet ($2.50) returned to rainbow_J
+rainbow_J collected $6.80 from pot
+rainbow_J: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.10 | Rake $0.30 
+Board [Kh 5c 6s Ks]
+Seat 1: rainbow_J (big blind) collected ($6.80)
+Seat 2: yevmoney folded on the Flop
+Seat 3: gjc256 folded on the Turn
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki (button) folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 (small blind) folded before Flop
+
+
+
+PokerStars Game #19953614658:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:20:37 (ET)
+Table 'Deikoon' 9-max Seat #9 is the button
+Seat 1: rainbow_J ($29.05 in chips) 
+Seat 2: yevmoney ($24.60 in chips) 
+Seat 3: gjc256 ($6.55 in chips) 
+Seat 4: littlepup5 ($12.45 in chips) 
+Seat 5: aquama ($35.60 in chips) 
+Seat 6: Alameda22 ($27.50 in chips) 
+Seat 7: Dufresne_36 ($13.50 in chips) 
+Seat 8: sho_suzuki ($25 in chips) 
+Seat 9: wanaplay2?1 ($13.05 in chips) 
+rainbow_J: posts small blind $0.10
+yevmoney: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Jd]
+gjc256: raises $0.50 to $0.75
+littlepup5: folds 
+aquama: folds 
+Alameda22: raises $1.50 to $2.25
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+yevmoney: folds 
+gjc256: calls $1.50
+*** FLOP *** [2h 2c 7d]
+gjc256: bets $1
+Alameda22: raises $3 to $4
+gjc256: folds 
+Uncalled bet ($3) returned to Alameda22
+Alameda22 collected $6.55 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.85 | Rake $0.30 
+Board [2h 2c 7d]
+Seat 1: rainbow_J (small blind) folded before Flop
+Seat 2: yevmoney (big blind) folded before Flop
+Seat 3: gjc256 folded on the Flop
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 collected ($6.55)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953644052:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:21:49 (ET)
+Table 'Deikoon' 9-max Seat #1 is the button
+Seat 1: rainbow_J ($28.95 in chips) 
+Seat 2: yevmoney ($24.35 in chips) 
+Seat 3: gjc256 ($3.30 in chips) 
+Seat 4: littlepup5 ($12.45 in chips) 
+Seat 5: aquama ($35.60 in chips) 
+Seat 6: Alameda22 ($30.80 in chips) 
+Seat 7: Dufresne_36 ($13.50 in chips) 
+Seat 8: sho_suzuki ($25 in chips) 
+Seat 9: wanaplay2?1 ($13.05 in chips) 
+yevmoney: posts small blind $0.10
+gjc256: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Td]
+littlepup5: calls $0.25
+aquama: folds 
+Alameda22: folds 
+Dufresne_36: raises $1 to $1.25
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+yevmoney: folds 
+gjc256: calls $1
+littlepup5: folds 
+*** FLOP *** [Ac 6c 5d]
+gjc256: checks 
+Dufresne_36: checks 
+*** TURN *** [Ac 6c 5d] [Jd]
+gjc256: bets $0.50
+Dufresne_36: raises $1.75 to $2.25
+gjc256: calls $1.55 and is all-in
+Uncalled bet ($0.20) returned to Dufresne_36
+*** RIVER *** [Ac 6c 5d Jd] [7h]
+*** SHOW DOWN ***
+gjc256: shows [Kc Jc] (a pair of Jacks)
+Dufresne_36: shows [Kh Ks] (a pair of Kings)
+Dufresne_36 collected $6.65 from pot
+*** SUMMARY ***
+Total pot $6.95 | Rake $0.30 
+Board [Ac 6c 5d Jd 7h]
+Seat 1: rainbow_J (button) folded before Flop (didn't bet)
+Seat 2: yevmoney (small blind) folded before Flop
+Seat 3: gjc256 (big blind) showed [Kc Jc] and lost with a pair of Jacks
+Seat 4: littlepup5 folded before Flop
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 showed [Kh Ks] and won ($6.65) with a pair of Kings
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953668609:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:22:49 (ET)
+Table 'Deikoon' 9-max Seat #2 is the button
+Seat 1: rainbow_J ($28.95 in chips) 
+Seat 2: yevmoney ($24.25 in chips) 
+Seat 4: littlepup5 ($12.20 in chips) 
+Seat 5: aquama ($35.60 in chips) 
+Seat 6: Alameda22 ($30.80 in chips) 
+Seat 7: Dufresne_36 ($16.85 in chips) 
+Seat 8: sho_suzuki ($25 in chips) 
+Seat 9: wanaplay2?1 ($13.05 in chips) 
+littlepup5: posts small blind $0.10
+aquama: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 2c]
+Alameda22: folds 
+gjc256 has returned
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: raises $0.50 to $0.75
+yevmoney: folds 
+littlepup5: folds 
+aquama: folds 
+Uncalled bet ($0.50) returned to rainbow_J
+rainbow_J collected $0.60 from pot
+rainbow_J: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rainbow_J collected ($0.60)
+Seat 2: yevmoney (button) folded before Flop (didn't bet)
+Seat 4: littlepup5 (small blind) folded before Flop
+Seat 5: aquama (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953678102:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:23:12 (ET)
+Table 'Deikoon' 9-max Seat #4 is the button
+Seat 1: rainbow_J ($29.30 in chips) 
+Seat 2: yevmoney ($24.25 in chips) 
+Seat 3: gjc256 ($10 in chips) 
+Seat 4: littlepup5 ($12.10 in chips) 
+Seat 5: aquama ($35.35 in chips) 
+Seat 6: Alameda22 ($30.80 in chips) 
+Seat 7: Dufresne_36 ($16.85 in chips) 
+Seat 8: sho_suzuki ($25 in chips) 
+Seat 9: wanaplay2?1 ($13.05 in chips) 
+aquama: posts small blind $0.10
+Alameda22: posts big blind $0.25
+gjc256: posts small blind $0.10
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Kh]
+Dufresne_36: folds 
+sho_suzuki: folds 
+wanaplay2?1: calls $0.25
+rainbow_J: folds 
+yevmoney: folds 
+gjc256: folds 
+littlepup5: folds 
+aquama: folds 
+Dufresne_36 is sitting out
+Alameda22: raises $0.75 to $1
+wanaplay2?1: calls $0.75
+*** FLOP *** [Ad Th 5h]
+Alameda22: checks 
+wanaplay2?1: bets $0.75
+Alameda22: calls $0.75
+*** TURN *** [Ad Th 5h] [5c]
+Alameda22: checks 
+wanaplay2?1: bets $2
+Alameda22: folds 
+Uncalled bet ($2) returned to wanaplay2?1
+wanaplay2?1 collected $3.55 from pot
+*** SUMMARY ***
+Total pot $3.70 | Rake $0.15 
+Board [Ad Th 5h 5c]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: yevmoney folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop
+Seat 4: littlepup5 (button) folded before Flop (didn't bet)
+Seat 5: aquama (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded on the Turn
+Seat 7: Dufresne_36 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 collected ($3.55)
+
+
+
+PokerStars Game #19953706226:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:24:22 (ET)
+Table 'Deikoon' 9-max Seat #5 is the button
+Seat 1: rainbow_J ($29.30 in chips) 
+Seat 2: yevmoney ($24.25 in chips) 
+Seat 3: gjc256 ($9.90 in chips) 
+Seat 4: littlepup5 ($12.10 in chips) 
+Seat 5: aquama ($35.25 in chips) 
+Seat 6: Alameda22 ($29.05 in chips) 
+Seat 8: sho_suzuki ($25 in chips) 
+Seat 9: wanaplay2?1 ($14.85 in chips) 
+Alameda22: posts small blind $0.10
+sho_suzuki: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 7s]
+Dufresne_36 leaves the table
+wanaplay2?1: raises $0.50 to $0.75
+rainbow_J: folds 
+yevmoney: folds 
+gjc256: calls $0.75
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+sho_suzuki: folds 
+*** FLOP *** [9h Kd 3s]
+wanaplay2?1: bets $0.75
+gjc256: folds 
+Uncalled bet ($0.75) returned to wanaplay2?1
+wanaplay2?1 collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [9h Kd 3s]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: yevmoney folded before Flop (didn't bet)
+Seat 3: gjc256 folded on the Flop
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 8: sho_suzuki (big blind) folded before Flop
+Seat 9: wanaplay2?1 collected ($1.80)
+
+
+
+PokerStars Game #19953724540:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:25:08 (ET)
+Table 'Deikoon' 9-max Seat #6 is the button
+Seat 1: rainbow_J ($29.30 in chips) 
+Seat 2: yevmoney ($24.25 in chips) 
+Seat 3: gjc256 ($9.15 in chips) 
+Seat 4: littlepup5 ($12.10 in chips) 
+Seat 5: aquama ($35.25 in chips) 
+Seat 6: Alameda22 ($28.95 in chips) 
+Seat 8: sho_suzuki ($24.75 in chips) 
+Seat 9: wanaplay2?1 ($15.90 in chips) 
+sho_suzuki: posts small blind $0.10
+wanaplay2?1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Kc]
+rainbow_J: raises $0.50 to $0.75
+yevmoney: folds 
+gjc256: folds 
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+Uncalled bet ($0.50) returned to rainbow_J
+rainbow_J collected $0.60 from pot
+rainbow_J: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rainbow_J collected ($0.60)
+Seat 2: yevmoney folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: sho_suzuki (small blind) folded before Flop
+Seat 9: wanaplay2?1 (big blind) folded before Flop
+
+
+
+PokerStars Game #19953737343:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:25:40 (ET)
+Table 'Deikoon' 9-max Seat #8 is the button
+Seat 1: rainbow_J ($29.65 in chips) 
+Seat 2: yevmoney ($24.25 in chips) 
+Seat 3: gjc256 ($9.15 in chips) 
+Seat 4: littlepup5 ($12.10 in chips) 
+Seat 5: aquama ($35.25 in chips) 
+Seat 6: Alameda22 ($28.95 in chips) 
+Seat 8: sho_suzuki ($24.65 in chips) 
+Seat 9: wanaplay2?1 ($15.65 in chips) 
+wanaplay2?1: posts small blind $0.10
+rainbow_J: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Kh]
+yevmoney: folds 
+gjc256: folds 
+littlepup5: calls $0.25
+aquama: calls $0.25
+Alameda22: folds 
+sho_suzuki: folds 
+wanaplay2?1: calls $0.15
+rainbow_J: raises $0.75 to $1
+littlepup5: folds 
+aquama: folds 
+wanaplay2?1: folds 
+Uncalled bet ($0.75) returned to rainbow_J
+rainbow_J collected $1 from pot
+rainbow_J: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: rainbow_J (big blind) collected ($1)
+Seat 2: yevmoney folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded before Flop
+Seat 5: aquama folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: sho_suzuki (button) folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 (small blind) folded before Flop
+
+
+
+PokerStars Game #19953750913:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:26:14 (ET)
+Table 'Deikoon' 9-max Seat #9 is the button
+Seat 1: rainbow_J ($30.40 in chips) 
+Seat 2: yevmoney ($24.25 in chips) 
+Seat 3: gjc256 ($9.15 in chips) 
+Seat 4: littlepup5 ($11.85 in chips) 
+Seat 5: aquama ($35 in chips) 
+Seat 6: Alameda22 ($28.95 in chips) 
+Seat 8: sho_suzuki ($24.65 in chips) 
+Seat 9: wanaplay2?1 ($15.40 in chips) 
+rainbow_J: posts small blind $0.10
+yevmoney: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 3d]
+gjc256: folds 
+littlepup5: folds 
+aquama: calls $0.25
+Alameda22: folds 
+sho_suzuki: folds 
+wanaplay2?1: calls $0.25
+rainbow_J: calls $0.15
+yevmoney: checks 
+*** FLOP *** [3c 9h Kh]
+rainbow_J: bets $0.50
+yevmoney: folds 
+aquama: folds 
+wanaplay2?1: folds 
+Uncalled bet ($0.50) returned to rainbow_J
+rainbow_J collected $0.95 from pot
+rainbow_J: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [3c 9h Kh]
+Seat 1: rainbow_J (small blind) collected ($0.95)
+Seat 2: yevmoney (big blind) folded on the Flop
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 (button) folded on the Flop
+
+
+
+PokerStars Game #19953767088:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:26:54 (ET)
+Table 'Deikoon' 9-max Seat #1 is the button
+Seat 1: rainbow_J ($31.10 in chips) 
+Seat 2: yevmoney ($24 in chips) 
+Seat 3: gjc256 ($9.15 in chips) 
+Seat 4: littlepup5 ($11.85 in chips) 
+Seat 5: aquama ($34.75 in chips) 
+Seat 6: Alameda22 ($28.95 in chips) 
+Seat 8: sho_suzuki ($24.65 in chips) 
+Seat 9: wanaplay2?1 ($15.15 in chips) 
+yevmoney: posts small blind $0.10
+gjc256: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 7s]
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+yevmoney: raises $0.50 to $0.75
+gjc256: calls $0.50
+*** FLOP *** [Ah Ac 2h]
+yevmoney: checks 
+gjc256: checks 
+*** TURN *** [Ah Ac 2h] [Js]
+yevmoney: bets $0.50
+gjc256: folds 
+Uncalled bet ($0.50) returned to yevmoney
+yevmoney collected $1.45 from pot
+yevmoney: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Ah Ac 2h Js]
+Seat 1: rainbow_J (button) folded before Flop (didn't bet)
+Seat 2: yevmoney (small blind) collected ($1.45)
+Seat 3: gjc256 (big blind) folded on the Turn
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953786342:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:27:43 (ET)
+Table 'Deikoon' 9-max Seat #2 is the button
+Seat 1: rainbow_J ($31.10 in chips) 
+Seat 2: yevmoney ($24.70 in chips) 
+Seat 3: gjc256 ($8.40 in chips) 
+Seat 4: littlepup5 ($11.85 in chips) 
+Seat 5: aquama ($34.75 in chips) 
+Seat 6: Alameda22 ($28.95 in chips) 
+Seat 8: sho_suzuki ($24.65 in chips) 
+Seat 9: wanaplay2?1 ($15.15 in chips) 
+gjc256: posts small blind $0.10
+littlepup5: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Th]
+aquama: calls $0.25
+Alameda22: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+yevmoney: calls $0.25
+gjc256: calls $0.15
+littlepup5: checks 
+*** FLOP *** [6d Kh 7c]
+gjc256: bets $0.50
+littlepup5: folds 
+PROGRESS1ST joins the table at seat #7 
+aquama: folds 
+yevmoney: folds 
+Uncalled bet ($0.50) returned to gjc256
+gjc256 collected $0.95 from pot
+gjc256: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [6d Kh 7c]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: yevmoney (button) folded on the Flop
+Seat 3: gjc256 (small blind) collected ($0.95)
+Seat 4: littlepup5 (big blind) folded on the Flop
+Seat 5: aquama folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953803442:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:28:27 (ET)
+Table 'Deikoon' 9-max Seat #3 is the button
+Seat 1: rainbow_J ($31.10 in chips) 
+Seat 2: yevmoney ($24.45 in chips) 
+Seat 3: gjc256 ($9.10 in chips) 
+Seat 4: littlepup5 ($11.60 in chips) 
+Seat 5: aquama ($34.50 in chips) 
+Seat 6: Alameda22 ($28.95 in chips) 
+Seat 8: sho_suzuki ($24.65 in chips) 
+Seat 9: wanaplay2?1 ($15.15 in chips) 
+littlepup5: posts small blind $0.10
+aquama: posts big blind $0.25
+PROGRESS1ST: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Kc]
+Alameda22: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+yevmoney: raises $0.75 to $1
+gjc256: folds 
+littlepup5: folds 
+aquama: folds 
+Uncalled bet ($0.75) returned to yevmoney
+yevmoney collected $0.60 from pot
+yevmoney: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: yevmoney collected ($0.60)
+Seat 3: gjc256 (button) folded before Flop (didn't bet)
+Seat 4: littlepup5 (small blind) folded before Flop
+Seat 5: aquama (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953819424:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:29:07 (ET)
+Table 'Deikoon' 9-max Seat #4 is the button
+Seat 1: rainbow_J ($31.10 in chips) 
+Seat 2: yevmoney ($24.80 in chips) 
+Seat 3: gjc256 ($9.10 in chips) 
+Seat 4: littlepup5 ($11.50 in chips) 
+Seat 5: aquama ($34.25 in chips) 
+Seat 6: Alameda22 ($28.95 in chips) 
+Seat 8: sho_suzuki ($24.65 in chips) 
+Seat 9: wanaplay2?1 ($15.15 in chips) 
+aquama: posts small blind $0.10
+Alameda22: posts big blind $0.25
+PROGRESS1ST: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Qh]
+sho_suzuki: folds 
+wanaplay2?1: calls $0.25
+rainbow_J: folds 
+yevmoney: folds 
+gjc256: raises $0.75 to $1
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+wanaplay2?1: calls $0.75
+*** FLOP *** [9h Ts Th]
+wanaplay2?1: checks 
+gjc256: bets $1.25
+wanaplay2?1: calls $1.25
+*** TURN *** [9h Ts Th] [7c]
+wanaplay2?1: checks 
+gjc256: bets $1.75
+wanaplay2?1: calls $1.75
+*** RIVER *** [9h Ts Th 7c] [9c]
+wanaplay2?1: bets $3.50
+gjc256: calls $3.50
+*** SHOW DOWN ***
+wanaplay2?1: shows [Qc Js] (two pair, Tens and Nines)
+gjc256: shows [Jc Jd] (two pair, Jacks and Tens)
+gjc256 collected $14.65 from pot
+*** SUMMARY ***
+Total pot $15.35 | Rake $0.70 
+Board [9h Ts Th 7c 9c]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: yevmoney folded before Flop (didn't bet)
+Seat 3: gjc256 showed [Jc Jd] and won ($14.65) with two pair, Jacks and Tens
+Seat 4: littlepup5 (button) folded before Flop (didn't bet)
+Seat 5: aquama (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 showed [Qc Js] and lost with two pair, Tens and Nines
+
+
+
+PokerStars Game #19953854921:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:30:39 (ET)
+Table 'Deikoon' 9-max Seat #5 is the button
+Seat 1: rainbow_J ($31.10 in chips) 
+Seat 2: yevmoney ($24.80 in chips) 
+Seat 3: gjc256 ($16.25 in chips) 
+Seat 4: littlepup5 ($11.50 in chips) 
+Seat 5: aquama ($34.15 in chips) 
+Seat 6: Alameda22 ($28.70 in chips) 
+Seat 7: PROGRESS1ST ($5.35 in chips) 
+Seat 8: sho_suzuki ($24.65 in chips) 
+Seat 9: wanaplay2?1 ($7.65 in chips) 
+Alameda22: posts small blind $0.10
+PROGRESS1ST: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c As]
+sho_suzuki: folds 
+wanaplay2?1: raises $0.75 to $1
+rainbow_J: folds 
+yevmoney: folds 
+gjc256: folds 
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+PROGRESS1ST: calls $0.75
+*** FLOP *** [Js Jh Jc]
+PROGRESS1ST: checks 
+wanaplay2?1: bets $6.65 and is all-in
+PROGRESS1ST: folds 
+Uncalled bet ($6.65) returned to wanaplay2?1
+wanaplay2?1 collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Js Jh Jc]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: yevmoney folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: PROGRESS1ST (big blind) folded on the Flop
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 collected ($2)
+
+
+
+PokerStars Game #19953878647:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:31:39 (ET)
+Table 'Deikoon' 9-max Seat #6 is the button
+Seat 1: rainbow_J ($31.10 in chips) 
+Seat 2: yevmoney ($24.80 in chips) 
+Seat 3: gjc256 ($16.25 in chips) 
+Seat 4: littlepup5 ($11.50 in chips) 
+Seat 5: aquama ($34.15 in chips) 
+Seat 6: Alameda22 ($28.60 in chips) 
+Seat 7: PROGRESS1ST ($4.35 in chips) 
+Seat 8: sho_suzuki ($24.65 in chips) 
+Seat 9: wanaplay2?1 ($8.65 in chips) 
+PROGRESS1ST: posts small blind $0.10
+sho_suzuki: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Qd]
+wanaplay2?1: calls $0.25
+rainbow_J: calls $0.25
+yevmoney: folds 
+gjc256: folds 
+littlepup5: folds 
+aquama: calls $0.25
+Alameda22: folds 
+PROGRESS1ST: raises $0.25 to $0.50
+sho_suzuki: raises $2.50 to $3
+wanaplay2?1: folds 
+rainbow_J: folds 
+aquama: folds 
+PROGRESS1ST: raises $1.35 to $4.35 and is all-in
+sho_suzuki: calls $1.35
+*** FLOP *** [5h 5s 2d]
+*** TURN *** [5h 5s 2d] [6d]
+*** RIVER *** [5h 5s 2d 6d] [9c]
+*** SHOW DOWN ***
+PROGRESS1ST: shows [2c As] (two pair, Fives and Deuces)
+sho_suzuki: shows [Qh Qc] (two pair, Queens and Fives)
+sho_suzuki collected $9 from pot
+*** SUMMARY ***
+Total pot $9.45 | Rake $0.45 
+Board [5h 5s 2d 6d 9c]
+Seat 1: rainbow_J folded before Flop
+Seat 2: yevmoney folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST (small blind) showed [2c As] and lost with two pair, Fives and Deuces
+Seat 8: sho_suzuki (big blind) showed [Qh Qc] and won ($9) with two pair, Queens and Fives
+Seat 9: wanaplay2?1 folded before Flop
+
+
+
+PokerStars Game #19953910062:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:32:58 (ET)
+Table 'Deikoon' 9-max Seat #8 is the button
+Seat 1: rainbow_J ($30.85 in chips) 
+Seat 2: yevmoney ($24.80 in chips) 
+Seat 3: gjc256 ($16.25 in chips) 
+Seat 4: littlepup5 ($11.50 in chips) 
+Seat 5: aquama ($33.90 in chips) 
+Seat 6: Alameda22 ($28.60 in chips) 
+Seat 8: sho_suzuki ($29.30 in chips) 
+Seat 9: wanaplay2?1 ($8.40 in chips) 
+wanaplay2?1: posts small blind $0.10
+rainbow_J: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 9s]
+PROGRESS1ST has returned
+yevmoney: folds 
+gjc256: folds 
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+sho_suzuki: folds 
+wanaplay2?1: raises $0.50 to $0.75
+rainbow_J: folds 
+Uncalled bet ($0.50) returned to wanaplay2?1
+wanaplay2?1 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: rainbow_J (big blind) folded before Flop
+Seat 2: yevmoney folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 8: sho_suzuki (button) folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 (small blind) collected ($0.50)
+
+
+
+PokerStars Game #19953919948:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:33:23 (ET)
+Table 'Deikoon' 9-max Seat #9 is the button
+Seat 1: rainbow_J ($30.60 in chips) 
+Seat 2: yevmoney ($24.80 in chips) 
+Seat 3: gjc256 ($16.25 in chips) 
+Seat 4: littlepup5 ($11.50 in chips) 
+Seat 5: aquama ($33.90 in chips) 
+Seat 6: Alameda22 ($28.60 in chips) 
+Seat 7: PROGRESS1ST ($5 in chips) 
+Seat 8: sho_suzuki ($29.30 in chips) 
+Seat 9: wanaplay2?1 ($8.65 in chips) 
+rainbow_J: posts small blind $0.10
+yevmoney: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Js]
+gjc256: folds 
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+PROGRESS1ST: calls $0.25
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+yevmoney: checks 
+*** FLOP *** [6d 6h Ts]
+yevmoney: bets $0.50
+PROGRESS1ST: raises $1 to $1.50
+yevmoney: folds 
+Uncalled bet ($1) returned to PROGRESS1ST
+PROGRESS1ST collected $1.55 from pot
+PROGRESS1ST: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [6d 6h Ts]
+Seat 1: rainbow_J (small blind) folded before Flop
+Seat 2: yevmoney (big blind) folded on the Flop
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST collected ($1.55)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953939492:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:34:13 (ET)
+Table 'Deikoon' 9-max Seat #1 is the button
+Seat 1: rainbow_J ($30.50 in chips) 
+Seat 2: yevmoney ($24.05 in chips) 
+Seat 3: gjc256 ($16.25 in chips) 
+Seat 4: littlepup5 ($11.50 in chips) 
+Seat 5: aquama ($33.90 in chips) 
+Seat 6: Alameda22 ($28.60 in chips) 
+Seat 7: PROGRESS1ST ($5.80 in chips) 
+Seat 8: sho_suzuki ($29.30 in chips) 
+Seat 9: wanaplay2?1 ($8.65 in chips) 
+yevmoney: posts small blind $0.10
+gjc256: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 7c]
+littlepup5: calls $0.25
+aquama: calls $0.25
+Alameda22: folds 
+PROGRESS1ST: calls $0.25
+sho_suzuki: folds 
+wanaplay2?1: calls $0.25
+rainbow_J: folds 
+yevmoney: calls $0.15
+gjc256: checks 
+*** FLOP *** [9h 5h 2h]
+yevmoney: checks 
+gjc256: bets $0.25
+littlepup5: calls $0.25
+aquama: folds 
+PROGRESS1ST: folds 
+wanaplay2?1: folds 
+yevmoney: folds 
+*** TURN *** [9h 5h 2h] [4h]
+gjc256: bets $0.50
+PROGRESS1ST said, "twbb"
+littlepup5: calls $0.50
+*** RIVER *** [9h 5h 2h 4h] [Jh]
+gjc256: bets $1
+littlepup5: raises $1 to $2
+gjc256: folds 
+Uncalled bet ($1) returned to littlepup5
+littlepup5 collected $4.80 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.20 
+Board [9h 5h 2h 4h Jh]
+Seat 1: rainbow_J (button) folded before Flop (didn't bet)
+Seat 2: yevmoney (small blind) folded on the Flop
+Seat 3: gjc256 (big blind) folded on the River
+Seat 4: littlepup5 collected ($4.80)
+Seat 5: aquama folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST folded on the Flop
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded on the Flop
+
+
+
+PokerStars Game #19953975442:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:35:44 (ET)
+Table 'Deikoon' 9-max Seat #2 is the button
+Seat 1: rainbow_J ($30.50 in chips) 
+Seat 2: yevmoney ($23.80 in chips) 
+Seat 3: gjc256 ($14.25 in chips) 
+Seat 4: littlepup5 ($14.30 in chips) 
+Seat 5: aquama ($33.65 in chips) 
+Seat 6: Alameda22 ($28.60 in chips) 
+Seat 7: PROGRESS1ST ($5.55 in chips) 
+Seat 8: sho_suzuki ($29.30 in chips) 
+Seat 9: wanaplay2?1 ($8.40 in chips) 
+gjc256: posts small blind $0.10
+littlepup5: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 5c]
+aquama: raises $0.75 to $1
+Alameda22: folds 
+PROGRESS1ST: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+yevmoney: folds 
+gjc256: folds 
+littlepup5: folds 
+Uncalled bet ($0.75) returned to aquama
+aquama collected $0.60 from pot
+aquama: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: yevmoney (button) folded before Flop (didn't bet)
+Seat 3: gjc256 (small blind) folded before Flop
+Seat 4: littlepup5 (big blind) folded before Flop
+Seat 5: aquama collected ($0.60)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19953987419:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:36:14 (ET)
+Table 'Deikoon' 9-max Seat #3 is the button
+Seat 1: rainbow_J ($30.50 in chips) 
+Seat 2: yevmoney ($23.80 in chips) 
+Seat 3: gjc256 ($14.15 in chips) 
+Seat 4: littlepup5 ($14.05 in chips) 
+Seat 5: aquama ($34 in chips) 
+Seat 6: Alameda22 ($28.60 in chips) 
+Seat 7: PROGRESS1ST ($5.55 in chips) 
+Seat 8: sho_suzuki ($29.30 in chips) 
+Seat 9: wanaplay2?1 ($8.40 in chips) 
+littlepup5: posts small blind $0.10
+aquama: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Td]
+Alameda22: folds 
+PROGRESS1ST: calls $0.25
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+yevmoney: folds 
+gjc256: folds 
+littlepup5: calls $0.15
+aquama: checks 
+*** FLOP *** [Jc 4d 5d]
+littlepup5: checks 
+aquama: checks 
+PROGRESS1ST: bets $0.75
+littlepup5: folds 
+aquama: folds 
+Uncalled bet ($0.75) returned to PROGRESS1ST
+PROGRESS1ST collected $0.75 from pot
+PROGRESS1ST: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Jc 4d 5d]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: yevmoney folded before Flop (didn't bet)
+Seat 3: gjc256 (button) folded before Flop (didn't bet)
+Seat 4: littlepup5 (small blind) folded on the Flop
+Seat 5: aquama (big blind) folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST collected ($0.75)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954007320:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:37:04 (ET)
+Table 'Deikoon' 9-max Seat #4 is the button
+Seat 1: rainbow_J ($30.50 in chips) 
+Seat 2: yevmoney ($23.80 in chips) 
+Seat 3: gjc256 ($14.15 in chips) 
+Seat 4: littlepup5 ($13.80 in chips) 
+Seat 5: aquama ($33.75 in chips) 
+Seat 6: Alameda22 ($28.60 in chips) 
+Seat 7: PROGRESS1ST ($6.05 in chips) 
+Seat 8: sho_suzuki ($29.30 in chips) 
+Seat 9: wanaplay2?1 ($8.40 in chips) 
+aquama: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 7h]
+PROGRESS1ST: calls $0.25
+sho_suzuki: calls $0.25
+wanaplay2?1: calls $0.25
+rainbow_J: folds 
+yevmoney: folds 
+gjc256: folds 
+littlepup5: calls $0.25
+aquama: calls $0.15
+Alameda22: checks 
+*** FLOP *** [9d Th 6d]
+aquama: checks 
+Alameda22: checks 
+PROGRESS1ST: bets $5.80 and is all-in
+sho_suzuki: folds 
+wanaplay2?1: folds 
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+Uncalled bet ($5.80) returned to PROGRESS1ST
+PROGRESS1ST collected $1.45 from pot
+PROGRESS1ST: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [9d Th 6d]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: yevmoney folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 (button) folded on the Flop
+Seat 5: aquama (small blind) folded on the Flop
+Seat 6: Alameda22 (big blind) folded on the Flop
+Seat 7: PROGRESS1ST collected ($1.45)
+Seat 8: sho_suzuki folded on the Flop
+Seat 9: wanaplay2?1 folded on the Flop
+
+
+
+PokerStars Game #19954040628:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:38:30 (ET)
+Table 'Deikoon' 9-max Seat #5 is the button
+Seat 1: rainbow_J ($30.50 in chips) 
+Seat 2: yevmoney ($23.80 in chips) 
+Seat 3: gjc256 ($14.15 in chips) 
+Seat 4: littlepup5 ($13.55 in chips) 
+Seat 5: aquama ($33.50 in chips) 
+Seat 6: Alameda22 ($28.35 in chips) 
+Seat 7: PROGRESS1ST ($7.25 in chips) 
+Seat 8: sho_suzuki ($29.05 in chips) 
+Seat 9: wanaplay2?1 ($8.15 in chips) 
+Alameda22: posts small blind $0.10
+PROGRESS1ST: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 5h]
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+yevmoney: folds 
+gjc256: calls $0.25
+littlepup5: calls $0.25
+aquama: calls $0.25
+Alameda22: folds 
+PROGRESS1ST: raises $0.25 to $0.50
+gjc256: calls $0.25
+littlepup5: calls $0.25
+aquama: folds 
+*** FLOP *** [6d 5c Kh]
+PROGRESS1ST: bets $0.75
+gjc256: folds 
+littlepup5: calls $0.75
+*** TURN *** [6d 5c Kh] [Ad]
+PROGRESS1ST: bets $0.75
+littlepup5: raises $5.75 to $6.50
+PROGRESS1ST: calls $5.25 and is all-in
+Uncalled bet ($0.50) returned to littlepup5
+*** RIVER *** [6d 5c Kh Ad] [Kd]
+*** SHOW DOWN ***
+PROGRESS1ST: shows [8s Ah] (two pair, Aces and Kings)
+littlepup5: shows [Kc Js] (three of a kind, Kings)
+littlepup5 collected $14.60 from pot
+*** SUMMARY ***
+Total pot $15.35 | Rake $0.75 
+Board [6d 5c Kh Ad Kd]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: yevmoney folded before Flop (didn't bet)
+Seat 3: gjc256 folded on the Flop
+Seat 4: littlepup5 showed [Kc Js] and won ($14.60) with three of a kind, Kings
+Seat 5: aquama (button) folded before Flop
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: PROGRESS1ST (big blind) showed [8s Ah] and lost with two pair, Aces and Kings
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954070878:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:39:47 (ET)
+Table 'Deikoon' 9-max Seat #6 is the button
+Seat 1: rainbow_J ($30.50 in chips) 
+Seat 2: yevmoney ($23.80 in chips) 
+Seat 3: gjc256 ($13.65 in chips) 
+Seat 4: littlepup5 ($20.90 in chips) 
+Seat 5: aquama ($33.25 in chips) 
+Seat 6: Alameda22 ($28.25 in chips) 
+Seat 8: sho_suzuki ($29.05 in chips) 
+Seat 9: wanaplay2?1 ($8.15 in chips) 
+sho_suzuki: posts small blind $0.10
+wanaplay2?1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 7h]
+rainbow_J: folds 
+yevmoney: folds 
+gjc256: folds 
+littlepup5: folds 
+aquama: folds 
+PROGRESS1ST has returned
+Alameda22: folds 
+sho_suzuki: folds 
+Uncalled bet ($0.15) returned to wanaplay2?1
+wanaplay2?1 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: yevmoney folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: sho_suzuki (small blind) folded before Flop
+Seat 9: wanaplay2?1 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19954080616:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:40:12 (ET)
+Table 'Deikoon' 9-max Seat #8 is the button
+Seat 1: rainbow_J ($30.50 in chips) 
+Seat 2: yevmoney ($23.80 in chips) 
+Seat 3: gjc256 ($13.65 in chips) 
+Seat 4: littlepup5 ($20.90 in chips) 
+Seat 5: aquama ($33.25 in chips) 
+Seat 6: Alameda22 ($28.25 in chips) 
+Seat 7: PROGRESS1ST ($15 in chips) 
+Seat 8: sho_suzuki ($28.95 in chips) 
+Seat 9: wanaplay2?1 ($8.25 in chips) 
+wanaplay2?1: posts small blind $0.10
+rainbow_J: posts big blind $0.25
+PROGRESS1ST: posts small blind $0.10
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Js]
+yevmoney: folds 
+gjc256: folds 
+yevmoney leaves the table
+littlepup5: folds 
+aquama: raises $1 to $1.25
+Alameda22: folds 
+PROGRESS1ST: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+Uncalled bet ($1) returned to aquama
+aquama collected $0.70 from pot
+aquama: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: rainbow_J (big blind) folded before Flop
+Seat 2: yevmoney folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama collected ($0.70)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST folded before Flop
+Seat 8: sho_suzuki (button) folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 (small blind) folded before Flop
+
+
+
+PokerStars Game #19954091778:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:40:41 (ET)
+Table 'Deikoon' 9-max Seat #9 is the button
+Seat 1: rainbow_J ($30.25 in chips) 
+Seat 3: gjc256 ($13.65 in chips) 
+Seat 4: littlepup5 ($20.90 in chips) 
+Seat 5: aquama ($33.70 in chips) 
+Seat 6: Alameda22 ($28.25 in chips) 
+Seat 7: PROGRESS1ST ($14.90 in chips) 
+Seat 8: sho_suzuki ($28.95 in chips) 
+Seat 9: wanaplay2?1 ($8.15 in chips) 
+rainbow_J: posts small blind $0.10
+gjc256: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 5c]
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+PROGRESS1ST: raises $0.25 to $0.50
+sho_suzuki: calls $0.50
+wanaplay2?1: calls $0.50
+rainbow_J: folds 
+gjc256: calls $0.25
+*** FLOP *** [2d 6d 5d]
+gjc256: checks 
+PROGRESS1ST: bets $14.40 and is all-in
+sho_suzuki: folds 
+wanaplay2?1: folds 
+gjc256: folds 
+Uncalled bet ($14.40) returned to PROGRESS1ST
+PROGRESS1ST collected $2 from pot
+PROGRESS1ST: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [2d 6d 5d]
+Seat 1: rainbow_J (small blind) folded before Flop
+Seat 3: gjc256 (big blind) folded on the Flop
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST collected ($2)
+Seat 8: sho_suzuki folded on the Flop
+Seat 9: wanaplay2?1 (button) folded on the Flop
+
+
+
+PokerStars Game #19954118366:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:41:51 (ET)
+Table 'Deikoon' 9-max Seat #1 is the button
+Seat 1: rainbow_J ($30.15 in chips) 
+Seat 3: gjc256 ($13.15 in chips) 
+Seat 4: littlepup5 ($20.90 in chips) 
+Seat 5: aquama ($33.70 in chips) 
+Seat 6: Alameda22 ($28.25 in chips) 
+Seat 7: PROGRESS1ST ($16.40 in chips) 
+Seat 8: sho_suzuki ($28.45 in chips) 
+Seat 9: wanaplay2?1 ($7.65 in chips) 
+gjc256: posts small blind $0.10
+littlepup5: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 9h]
+aquama: folds 
+Alameda22: folds 
+PROGRESS1ST: calls $0.25
+sho_suzuki: folds 
+mikey0146 joins the table at seat #2 
+wanaplay2?1: folds 
+rainbow_J: folds 
+gjc256: calls $0.15
+littlepup5: checks 
+*** FLOP *** [Ah Qd 2s]
+gjc256: checks 
+littlepup5: checks 
+PROGRESS1ST: bets $0.50
+gjc256: folds 
+littlepup5: folds 
+Uncalled bet ($0.50) returned to PROGRESS1ST
+PROGRESS1ST collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Ah Qd 2s]
+Seat 1: rainbow_J (button) folded before Flop (didn't bet)
+Seat 3: gjc256 (small blind) folded on the Flop
+Seat 4: littlepup5 (big blind) folded on the Flop
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST collected ($0.75)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954133312:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:42:30 (ET)
+Table 'Deikoon' 9-max Seat #3 is the button
+Seat 1: rainbow_J ($30.15 in chips) 
+Seat 2: mikey0146 ($10 in chips) 
+Seat 3: gjc256 ($12.90 in chips) 
+Seat 4: littlepup5 ($20.65 in chips) 
+Seat 5: aquama ($33.70 in chips) 
+Seat 6: Alameda22 ($28.25 in chips) 
+Seat 7: PROGRESS1ST ($16.90 in chips) 
+Seat 8: sho_suzuki ($28.45 in chips) 
+Seat 9: wanaplay2?1 ($7.65 in chips) 
+littlepup5: posts small blind $0.10
+aquama: posts big blind $0.25
+mikey0146: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 9c]
+Alameda22: folds 
+PROGRESS1ST: folds 
+sho_suzuki: calls $0.25
+wanaplay2?1: folds 
+rainbow_J: folds 
+mikey0146: checks 
+gjc256: folds 
+littlepup5: folds 
+aquama: checks 
+*** FLOP *** [7h 2c Kh]
+aquama: checks 
+sho_suzuki: checks 
+mikey0146: bets $0.25
+aquama: calls $0.25
+sho_suzuki: folds 
+*** TURN *** [7h 2c Kh] [8s]
+aquama: checks 
+mikey0146: bets $0.75
+aquama: folds 
+Uncalled bet ($0.75) returned to mikey0146
+mikey0146 collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [7h 2c Kh 8s]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: mikey0146 collected ($1.30)
+Seat 3: gjc256 (button) folded before Flop (didn't bet)
+Seat 4: littlepup5 (small blind) folded before Flop
+Seat 5: aquama (big blind) folded on the Turn
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded on the Flop
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954161088:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:43:43 (ET)
+Table 'Deikoon' 9-max Seat #4 is the button
+Seat 1: rainbow_J ($30.15 in chips) 
+Seat 2: mikey0146 ($10.80 in chips) 
+Seat 3: gjc256 ($12.90 in chips) 
+Seat 4: littlepup5 ($20.55 in chips) 
+Seat 5: aquama ($33.20 in chips) 
+Seat 6: Alameda22 ($28.25 in chips) 
+Seat 7: PROGRESS1ST ($16.90 in chips) 
+Seat 8: sho_suzuki ($28.20 in chips) 
+Seat 9: wanaplay2?1 ($7.65 in chips) 
+aquama: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 4c]
+PROGRESS1ST: raises $0.25 to $0.50
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+mikey0146: folds 
+gjc256: folds 
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to PROGRESS1ST
+PROGRESS1ST collected $0.60 from pot
+PROGRESS1ST: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: mikey0146 folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 (button) folded before Flop (didn't bet)
+Seat 5: aquama (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) folded before Flop
+Seat 7: PROGRESS1ST collected ($0.60)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954173696:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:44:15 (ET)
+Table 'Deikoon' 9-max Seat #5 is the button
+Seat 1: rainbow_J ($30.15 in chips) 
+Seat 2: mikey0146 ($10.80 in chips) 
+Seat 3: gjc256 ($12.90 in chips) 
+Seat 4: littlepup5 ($20.55 in chips) 
+Seat 5: aquama ($33.10 in chips) 
+Seat 6: Alameda22 ($28 in chips) 
+Seat 7: PROGRESS1ST ($17.25 in chips) 
+Seat 8: sho_suzuki ($28.20 in chips) 
+Seat 9: wanaplay2?1 ($7.65 in chips) 
+Alameda22: posts small blind $0.10
+PROGRESS1ST: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Tc]
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: folds 
+mikey0146: calls $0.25
+gjc256: folds 
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+PROGRESS1ST: checks 
+*** FLOP *** [4s Ks 4d]
+PROGRESS1ST: checks 
+mikey0146: checks 
+*** TURN *** [4s Ks 4d] [7d]
+PROGRESS1ST: bets $0.50
+mikey0146: folds 
+Uncalled bet ($0.50) returned to PROGRESS1ST
+PROGRESS1ST collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4s Ks 4d 7d]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: mikey0146 folded on the Turn
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded before Flop
+Seat 7: PROGRESS1ST (big blind) collected ($0.60)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954196822:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:45:17 (ET)
+Table 'Deikoon' 9-max Seat #6 is the button
+Seat 1: rainbow_J ($30.15 in chips) 
+Seat 2: mikey0146 ($10.55 in chips) 
+Seat 3: gjc256 ($12.90 in chips) 
+Seat 4: littlepup5 ($20.55 in chips) 
+Seat 5: aquama ($33.10 in chips) 
+Seat 6: Alameda22 ($27.90 in chips) 
+Seat 7: PROGRESS1ST ($17.60 in chips) 
+Seat 8: sho_suzuki ($28.20 in chips) 
+Seat 9: wanaplay2?1 ($7.65 in chips) 
+PROGRESS1ST: posts small blind $0.10
+sho_suzuki: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 9d]
+wanaplay2?1: folds 
+rainbow_J: folds 
+mikey0146: raises $0.50 to $0.75
+gjc256: calls $0.75
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+PROGRESS1ST: calls $0.65
+sho_suzuki: folds 
+*** FLOP *** [9c 3d 8d]
+PROGRESS1ST: bets $0.50
+mikey0146: raises $9.30 to $9.80 and is all-in
+gjc256: folds 
+PROGRESS1ST: folds 
+Uncalled bet ($9.30) returned to mikey0146
+mikey0146 collected $3.35 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [9c 3d 8d]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: mikey0146 collected ($3.35)
+Seat 3: gjc256 folded on the Flop
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST (small blind) folded on the Flop
+Seat 8: sho_suzuki (big blind) folded before Flop
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954221903:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:46:24 (ET)
+Table 'Deikoon' 9-max Seat #7 is the button
+Seat 1: rainbow_J ($30.15 in chips) 
+Seat 2: mikey0146 ($12.65 in chips) 
+Seat 3: gjc256 ($12.15 in chips) 
+Seat 4: littlepup5 ($20.55 in chips) 
+Seat 5: aquama ($33.10 in chips) 
+Seat 6: Alameda22 ($27.90 in chips) 
+Seat 7: PROGRESS1ST ($16.35 in chips) 
+Seat 8: sho_suzuki ($27.95 in chips) 
+Seat 9: wanaplay2?1 ($7.65 in chips) 
+sho_suzuki: posts small blind $0.10
+wanaplay2?1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 5c]
+rainbow_J: folds 
+rainbow_J is sitting out
+mikey0146: calls $0.25
+gjc256: raises $0.75 to $1
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+PROGRESS1ST: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+mikey0146: calls $0.75
+*** FLOP *** [Ks 4c 3h]
+mikey0146: checks 
+gjc256: bets $0.75
+mikey0146: folds 
+Uncalled bet ($0.75) returned to gjc256
+gjc256 collected $2.25 from pot
+gjc256: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Ks 4c 3h]
+Seat 1: rainbow_J folded before Flop (didn't bet)
+Seat 2: mikey0146 folded on the Flop
+Seat 3: gjc256 collected ($2.25)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST (button) folded before Flop (didn't bet)
+Seat 8: sho_suzuki (small blind) folded before Flop
+Seat 9: wanaplay2?1 (big blind) folded before Flop
+
+
+
+PokerStars Game #19954237897:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:47:07 (ET)
+Table 'Deikoon' 9-max Seat #8 is the button
+Seat 2: mikey0146 ($11.65 in chips) 
+Seat 3: gjc256 ($13.40 in chips) 
+Seat 4: littlepup5 ($20.55 in chips) 
+Seat 5: aquama ($33.10 in chips) 
+Seat 6: Alameda22 ($27.90 in chips) 
+Seat 7: PROGRESS1ST ($16.35 in chips) 
+Seat 8: sho_suzuki ($27.85 in chips) 
+Seat 9: wanaplay2?1 ($7.40 in chips) 
+wanaplay2?1: posts small blind $0.10
+mikey0146: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Ts]
+gjc256: folds 
+littlepup5: calls $0.25
+aquama: calls $0.25
+Alameda22: folds 
+PROGRESS1ST: calls $0.25
+sho_suzuki: folds 
+wanaplay2?1: calls $0.15
+mikey0146: checks 
+*** FLOP *** [Jd 9h Jh]
+wanaplay2?1: checks 
+mikey0146: checks 
+littlepup5: checks 
+aquama: bets $0.75
+PROGRESS1ST: raises $15.35 to $16.10 and is all-in
+wanaplay2?1: folds 
+mikey0146: folds 
+littlepup5: folds 
+aquama: calls $15.35
+*** TURN *** [Jd 9h Jh] [9c]
+*** RIVER *** [Jd 9h Jh 9c] [8c]
+*** SHOW DOWN ***
+aquama: shows [3h Ah] (two pair, Jacks and Nines)
+PROGRESS1ST: shows [Qh 9d] (a full house, Nines full of Jacks)
+PROGRESS1ST collected $31.80 from pot
+*** SUMMARY ***
+Total pot $33.45 | Rake $1.65 
+Board [Jd 9h Jh 9c 8c]
+Seat 2: mikey0146 (big blind) folded on the Flop
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded on the Flop
+Seat 5: aquama showed [3h Ah] and lost with two pair, Jacks and Nines
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST showed [Qh 9d] and won ($31.80) with a full house, Nines full of Jacks
+Seat 8: sho_suzuki (button) folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 (small blind) folded on the Flop
+
+
+
+PokerStars Game #19954263626:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:48:18 (ET)
+Table 'Deikoon' 9-max Seat #9 is the button
+Seat 2: mikey0146 ($11.40 in chips) 
+Seat 3: gjc256 ($13.40 in chips) 
+Seat 4: littlepup5 ($20.30 in chips) 
+Seat 5: aquama ($16.75 in chips) 
+Seat 6: Alameda22 ($27.90 in chips) 
+Seat 7: PROGRESS1ST ($31.80 in chips) 
+Seat 8: sho_suzuki ($27.85 in chips) 
+Seat 9: wanaplay2?1 ($7.15 in chips) 
+mikey0146: posts small blind $0.10
+gjc256: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Qd]
+littlepup5: folds 
+aquama: calls $0.25
+Alameda22: folds 
+PROGRESS1ST: calls $0.25
+sho_suzuki: folds 
+wanaplay2?1: calls $0.25
+mikey0146: calls $0.15
+gjc256: checks 
+*** FLOP *** [9c Kh Qs]
+mikey0146: checks 
+gjc256: checks 
+aquama: checks 
+PROGRESS1ST: checks 
+wanaplay2?1: checks 
+*** TURN *** [9c Kh Qs] [7d]
+mikey0146: bets $0.75
+gjc256: folds 
+aquama: folds 
+PROGRESS1ST: folds 
+wanaplay2?1: folds 
+Uncalled bet ($0.75) returned to mikey0146
+mikey0146 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [9c Kh Qs 7d]
+Seat 2: mikey0146 (small blind) collected ($1.20)
+Seat 3: gjc256 (big blind) folded on the Turn
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded on the Turn
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST folded on the Turn
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 (button) folded on the Turn
+
+
+
+PokerStars Game #19954289656:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:49:29 (ET)
+Table 'Deikoon' 9-max Seat #2 is the button
+Seat 2: mikey0146 ($12.35 in chips) 
+Seat 3: gjc256 ($13.15 in chips) 
+Seat 4: littlepup5 ($20.30 in chips) 
+Seat 5: aquama ($16.50 in chips) 
+Seat 6: Alameda22 ($27.90 in chips) 
+Seat 7: PROGRESS1ST ($31.55 in chips) 
+Seat 8: sho_suzuki ($27.85 in chips) 
+Seat 9: wanaplay2?1 ($6.90 in chips) 
+gjc256: posts small blind $0.10
+littlepup5: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 6c]
+aquama: calls $0.25
+Alameda22: folds 
+PROGRESS1ST: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+mikey0146: calls $0.25
+gjc256: raises $0.50 to $0.75
+littlepup5: folds 
+aquama: folds 
+mikey0146: calls $0.50
+*** FLOP *** [2c Ah 9h]
+gjc256: bets $0.75
+mikey0146: calls $0.75
+*** TURN *** [2c Ah 9h] [4d]
+gjc256: bets $1.25
+mikey0146: calls $1.25
+*** RIVER *** [2c Ah 9h 4d] [Qd]
+gjc256: bets $1.75
+mikey0146: calls $1.75
+*** SHOW DOWN ***
+gjc256: shows [Qc Ks] (a pair of Queens)
+mikey0146: shows [As 6h] (a pair of Aces)
+mikey0146 collected $9.05 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.45 
+Board [2c Ah 9h 4d Qd]
+Seat 2: mikey0146 (button) showed [As 6h] and won ($9.05) with a pair of Aces
+Seat 3: gjc256 (small blind) showed [Qc Ks] and lost with a pair of Queens
+Seat 4: littlepup5 (big blind) folded before Flop
+Seat 5: aquama folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954315118:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:50:41 (ET)
+Table 'Deikoon' 9-max Seat #3 is the button
+Seat 2: mikey0146 ($16.90 in chips) 
+Seat 3: gjc256 ($8.65 in chips) 
+Seat 4: littlepup5 ($20.05 in chips) 
+Seat 5: aquama ($16.25 in chips) 
+Seat 6: Alameda22 ($27.90 in chips) 
+Seat 7: PROGRESS1ST ($31.55 in chips) 
+Seat 8: sho_suzuki ($27.85 in chips) 
+Seat 9: wanaplay2?1 ($6.90 in chips) 
+littlepup5: posts small blind $0.10
+aquama: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 3c]
+Alameda22: folds 
+PROGRESS1ST: calls $0.25
+sho_suzuki: folds 
+wanaplay2?1: calls $0.25
+mikey0146: folds 
+gjc256: raises $0.25 to $0.50
+littlepup5: folds 
+aquama: folds 
+PROGRESS1ST: calls $0.25
+wanaplay2?1: calls $0.25
+*** FLOP *** [8s 3h 4d]
+PROGRESS1ST: checks 
+wanaplay2?1: checks 
+gjc256: checks 
+*** TURN *** [8s 3h 4d] [6h]
+PROGRESS1ST: bets $0.50
+wanaplay2?1: calls $0.50
+gjc256: calls $0.50
+*** RIVER *** [8s 3h 4d 6h] [4h]
+PROGRESS1ST: checks 
+wanaplay2?1: bets $1
+gjc256: folds 
+PROGRESS1ST: folds 
+Uncalled bet ($1) returned to wanaplay2?1
+wanaplay2?1 collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [8s 3h 4d 6h 4h]
+Seat 2: mikey0146 folded before Flop (didn't bet)
+Seat 3: gjc256 (button) folded on the River
+Seat 4: littlepup5 (small blind) folded before Flop
+Seat 5: aquama (big blind) folded before Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST folded on the River
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 collected ($3.20)
+
+
+
+PokerStars Game #19954339854:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:51:50 (ET)
+Table 'Deikoon' 9-max Seat #4 is the button
+Seat 2: mikey0146 ($16.90 in chips) 
+Seat 3: gjc256 ($7.65 in chips) 
+Seat 4: littlepup5 ($19.95 in chips) 
+Seat 5: aquama ($16 in chips) 
+Seat 6: Alameda22 ($27.90 in chips) 
+Seat 7: PROGRESS1ST ($30.55 in chips) 
+Seat 8: sho_suzuki ($27.85 in chips) 
+Seat 9: wanaplay2?1 ($9.10 in chips) 
+aquama: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Qh]
+rainbow_J has returned
+PROGRESS1ST: folds 
+sho_suzuki: folds 
+wanaplay2?1: calls $0.25
+mikey0146: calls $0.25
+gjc256: raises $1 to $1.25
+littlepup5: folds 
+aquama: folds 
+Alameda22: raises $2.50 to $3.75
+wanaplay2?1: folds 
+mikey0146: folds 
+gjc256: calls $2.50
+*** FLOP *** [Ah 8c 9c]
+Alameda22: bets $4
+gjc256: folds 
+Uncalled bet ($4) returned to Alameda22
+Alameda22 collected $7.70 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.10 | Rake $0.40 
+Board [Ah 8c 9c]
+Seat 2: mikey0146 folded before Flop
+Seat 3: gjc256 folded on the Flop
+Seat 4: littlepup5 (button) folded before Flop (didn't bet)
+Seat 5: aquama (small blind) folded before Flop
+Seat 6: Alameda22 (big blind) collected ($7.70)
+Seat 7: PROGRESS1ST folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop
+
+
+
+PokerStars Game #19954362792:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:52:54 (ET)
+Table 'Deikoon' 9-max Seat #5 is the button
+Seat 1: rainbow_J ($30.15 in chips) 
+Seat 2: mikey0146 ($16.65 in chips) 
+Seat 3: gjc256 ($3.90 in chips) 
+Seat 4: littlepup5 ($19.95 in chips) 
+Seat 5: aquama ($15.90 in chips) 
+Seat 6: Alameda22 ($31.85 in chips) 
+Seat 7: PROGRESS1ST ($30.55 in chips) 
+Seat 8: sho_suzuki ($27.85 in chips) 
+Seat 9: wanaplay2?1 ($8.85 in chips) 
+Alameda22: posts small blind $0.10
+PROGRESS1ST: posts big blind $0.25
+rainbow_J: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Jh]
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: checks 
+mikey0146: calls $0.25
+gjc256: folds 
+littlepup5: calls $0.25
+aquama: folds 
+Alameda22: calls $0.15
+PROGRESS1ST: checks 
+*** FLOP *** [6d 4h Tc]
+Alameda22: checks 
+PROGRESS1ST: bets $1.25
+rainbow_J: folds 
+rainbow_J is sitting out
+mikey0146: folds 
+littlepup5: folds 
+Alameda22: folds 
+Uncalled bet ($1.25) returned to PROGRESS1ST
+PROGRESS1ST collected $1.30 from pot
+PROGRESS1ST: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [6d 4h Tc]
+Seat 1: rainbow_J folded on the Flop
+Seat 2: mikey0146 folded on the Flop
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded on the Flop
+Seat 5: aquama (button) folded before Flop (didn't bet)
+Seat 6: Alameda22 (small blind) folded on the Flop
+Seat 7: PROGRESS1ST (big blind) collected ($1.30)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954397904:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:54:33 (ET)
+Table 'Deikoon' 9-max Seat #6 is the button
+Seat 2: mikey0146 ($16.40 in chips) 
+Seat 3: gjc256 ($3.90 in chips) 
+Seat 4: littlepup5 ($19.70 in chips) 
+Seat 5: aquama ($15.90 in chips) 
+Seat 6: Alameda22 ($31.60 in chips) 
+Seat 7: PROGRESS1ST ($31.60 in chips) 
+Seat 8: sho_suzuki ($27.85 in chips) 
+Seat 9: wanaplay2?1 ($8.85 in chips) 
+PROGRESS1ST: posts small blind $0.10
+sho_suzuki: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 3c]
+wanaplay2?1: calls $0.25
+mikey0146: folds 
+gjc256: calls $0.25
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+PROGRESS1ST: calls $0.15
+sho_suzuki: checks 
+*** FLOP *** [Qc 2s As]
+PROGRESS1ST: checks 
+sho_suzuki: checks 
+wanaplay2?1: checks 
+gjc256: bets $0.75
+PROGRESS1ST: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+Uncalled bet ($0.75) returned to gjc256
+gjc256 collected $0.95 from pot
+gjc256: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Qc 2s As]
+Seat 2: mikey0146 folded before Flop (didn't bet)
+Seat 3: gjc256 collected ($0.95)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 (button) folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST (small blind) folded on the Flop
+Seat 8: sho_suzuki (big blind) folded on the Flop
+Seat 9: wanaplay2?1 folded on the Flop
+
+
+
+PokerStars Game #19954423056:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:55:45 (ET)
+Table 'Deikoon' 9-max Seat #7 is the button
+Seat 2: mikey0146 ($16.40 in chips) 
+Seat 3: gjc256 ($4.60 in chips) 
+Seat 4: littlepup5 ($19.70 in chips) 
+Seat 5: aquama ($15.90 in chips) 
+Seat 6: Alameda22 ($31.60 in chips) 
+Seat 7: PROGRESS1ST ($31.35 in chips) 
+Seat 8: sho_suzuki ($27.60 in chips) 
+Seat 9: wanaplay2?1 ($8.60 in chips) 
+sho_suzuki: posts small blind $0.10
+wanaplay2?1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 3d]
+mikey0146: folds 
+gjc256: folds 
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+PROGRESS1ST: folds 
+sho_suzuki: folds 
+Uncalled bet ($0.15) returned to wanaplay2?1
+wanaplay2?1 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: mikey0146 folded before Flop (didn't bet)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST (button) folded before Flop (didn't bet)
+Seat 8: sho_suzuki (small blind) folded before Flop
+Seat 9: wanaplay2?1 (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19954430361:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:56:06 (ET)
+Table 'Deikoon' 9-max Seat #8 is the button
+Seat 2: mikey0146 ($16.40 in chips) 
+Seat 3: gjc256 ($4.60 in chips) 
+Seat 4: littlepup5 ($19.70 in chips) 
+Seat 5: aquama ($15.90 in chips) 
+Seat 6: Alameda22 ($31.60 in chips) 
+Seat 7: PROGRESS1ST ($31.35 in chips) 
+Seat 8: sho_suzuki ($27.50 in chips) 
+Seat 9: wanaplay2?1 ($8.70 in chips) 
+wanaplay2?1: posts small blind $0.10
+mikey0146: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Qh]
+gjc256: folds 
+littlepup5: folds 
+aquama: folds 
+Alameda22: folds 
+rainbow_J has returned
+PROGRESS1ST: folds 
+sho_suzuki: folds 
+wanaplay2?1: calls $0.15
+mikey0146: checks 
+*** FLOP *** [Jh Qc Kc]
+wanaplay2?1: checks 
+mikey0146: checks 
+*** TURN *** [Jh Qc Kc] [Kd]
+wanaplay2?1: checks 
+mikey0146: bets $0.25
+wanaplay2?1: folds 
+Uncalled bet ($0.25) returned to mikey0146
+mikey0146 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Jh Qc Kc Kd]
+Seat 2: mikey0146 (big blind) collected ($0.50)
+Seat 3: gjc256 folded before Flop (didn't bet)
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST folded before Flop (didn't bet)
+Seat 8: sho_suzuki (button) folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 (small blind) folded on the Turn
+
+
+
+PokerStars Game #19954452077:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:57:08 (ET)
+Table 'Deikoon' 9-max Seat #9 is the button
+Seat 2: mikey0146 ($16.65 in chips) 
+Seat 3: gjc256 ($4.60 in chips) 
+Seat 4: littlepup5 ($19.70 in chips) 
+Seat 5: aquama ($15.90 in chips) 
+Seat 6: Alameda22 ($31.60 in chips) 
+Seat 7: PROGRESS1ST ($31.35 in chips) 
+Seat 8: sho_suzuki ($27.50 in chips) 
+Seat 9: wanaplay2?1 ($8.45 in chips) 
+rainbow_J will be allowed to play after the button
+mikey0146: posts small blind $0.10
+gjc256: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Jh]
+littlepup5: folds 
+aquama: raises $0.75 to $1
+Alameda22: folds 
+PROGRESS1ST: calls $1
+sho_suzuki: folds 
+wanaplay2?1: folds 
+mikey0146: folds 
+gjc256: calls $0.75
+*** FLOP *** [3s Ks 7h]
+gjc256: bets $0.75
+aquama: folds 
+PROGRESS1ST: raises $8.75 to $9.50
+gjc256: folds 
+Uncalled bet ($8.75) returned to PROGRESS1ST
+PROGRESS1ST collected $4.40 from pot
+PROGRESS1ST: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.20 
+Board [3s Ks 7h]
+Seat 2: mikey0146 (small blind) folded before Flop
+Seat 3: gjc256 (big blind) folded on the Flop
+Seat 4: littlepup5 folded before Flop (didn't bet)
+Seat 5: aquama folded on the Flop
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST collected ($4.40)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19954470499:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 23:58:01 (ET)
+Table 'Deikoon' 9-max Seat #2 is the button
+Seat 1: rainbow_J ($29.80 in chips) 
+Seat 2: mikey0146 ($16.55 in chips) 
+Seat 3: gjc256 ($2.85 in chips) 
+Seat 4: littlepup5 ($19.70 in chips) 
+Seat 5: aquama ($14.90 in chips) 
+Seat 6: Alameda22 ($31.60 in chips) 
+Seat 7: PROGRESS1ST ($34 in chips) 
+Seat 8: sho_suzuki ($27.50 in chips) 
+Seat 9: wanaplay2?1 ($8.45 in chips) 
+gjc256: posts small blind $0.10
+littlepup5: posts big blind $0.25
+rainbow_J: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 7s]
+aquama: folds 
+Alameda22: folds 
+PROGRESS1ST: folds 
+sho_suzuki: folds 
+wanaplay2?1: folds 
+rainbow_J: checks 
+mikey0146: folds 
+gjc256: raises $0.50 to $0.75
+littlepup5: calls $0.50
+rainbow_J: folds 
+*** FLOP *** [8c Kh 8s]
+gjc256: bets $0.50
+littlepup5: calls $0.50
+*** TURN *** [8c Kh 8s] [Th]
+gjc256: bets $0.50
+littlepup5: folds 
+Uncalled bet ($0.50) returned to gjc256
+gjc256 collected $2.75 from pot
+gjc256: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [8c Kh 8s Th]
+Seat 1: rainbow_J folded before Flop
+Seat 2: mikey0146 (button) folded before Flop (didn't bet)
+Seat 3: gjc256 (small blind) collected ($2.75)
+Seat 4: littlepup5 (big blind) folded on the Turn
+Seat 5: aquama folded before Flop (didn't bet)
+Seat 6: Alameda22 folded before Flop (didn't bet)
+Seat 7: PROGRESS1ST folded before Flop (didn't bet)
+Seat 8: sho_suzuki folded before Flop (didn't bet)
+Seat 9: wanaplay2?1 folded before Flop (didn't bet)
+
+
+

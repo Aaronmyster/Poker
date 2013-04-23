@@ -1,0 +1,43 @@
+PokerStars Game #20082560934:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 - 00:00:04 (ET)
+Table 'Holmia' 9-max Seat #3 is the button
+Seat 3: chompas ($31.80 in chips) 
+Seat 4: BoBMarleyY ($10.10 in chips) 
+Seat 7: Alameda22 ($24.50 in chips) 
+Seat 8: omar_braves ($24.40 in chips) 
+Seat 9: doom069 ($25 in chips) 
+BoBMarleyY: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 2d]
+omar_braves: folds 
+doom069: folds 
+chompas: folds 
+doom069 leaves the table
+chompas leaves the table
+BoBMarleyY: calls $0.15
+aj_ontilt joins the table at seat #2 
+Alameda22: checks 
+*** FLOP *** [5c 9d 8c]
+BoBMarleyY: checks 
+Alameda22: checks 
+*** TURN *** [5c 9d 8c] [Kh]
+BoBMarleyY: checks 
+Alameda22: checks 
+*** RIVER *** [5c 9d 8c Kh] [Ac]
+BoBMarleyY: checks 
+Alameda22: checks 
+*** SHOW DOWN ***
+BoBMarleyY: shows [Js 3d] (high card Ace)
+Alameda22: mucks hand 
+BoBMarleyY collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [5c 9d 8c Kh Ac]
+Seat 3: chompas (button) folded before Flop (didn't bet)
+Seat 4: BoBMarleyY (small blind) showed [Js 3d] and won ($0.50) with high card Ace
+Seat 7: Alameda22 (big blind) mucked [3c 2d]
+Seat 8: omar_braves folded before Flop (didn't bet)
+Seat 9: doom069 folded before Flop (didn't bet)
+
+
+

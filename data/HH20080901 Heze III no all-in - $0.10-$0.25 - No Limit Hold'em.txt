@@ -1,0 +1,5654 @@
+PokerStars Game #20078749826:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:01:20 (ET)
+Table 'Heze III' 9-max Seat #1 is the button
+Seat 1: kestrel5 ($12.85 in chips) 
+Seat 2: lobablue ($13.40 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: Ziggy52555 ($17.10 in chips) 
+Seat 5: mike-nr.1 ($11.45 in chips) 
+Seat 6: DonKarlos ($25 in chips) 
+Seat 8: Fflash ($24.30 in chips) 
+Seat 9: CryptoTrio ($4.65 in chips) 
+lobablue: posts small blind $0.10
+Alameda22: posts big blind $0.25
+macpunk7: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Ts]
+Ziggy52555: folds 
+mike-nr.1: folds 
+DonKarlos: calls $0.25
+Fflash: folds 
+CryptoTrio: folds 
+kestrel5: folds 
+lobablue: folds 
+Alameda22: checks 
+*** FLOP *** [Jd 2s 9h]
+Alameda22: bets $0.75
+DonKarlos: calls $0.75
+*** TURN *** [Jd 2s 9h] [6s]
+Alameda22: checks 
+DonKarlos: bets $1
+Alameda22: calls $1
+*** RIVER *** [Jd 2s 9h 6s] [4d]
+Alameda22: checks 
+DonKarlos: checks 
+*** SHOW DOWN ***
+Alameda22: shows [8c Ts] (high card Jack)
+DonKarlos: shows [Qh Js] (a pair of Jacks)
+DonKarlos collected $3.90 from pot
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [Jd 2s 9h 6s 4d]
+Seat 1: kestrel5 (button) folded before Flop (didn't bet)
+Seat 2: lobablue (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) showed [8c Ts] and lost with high card Jack
+Seat 4: Ziggy52555 folded before Flop (didn't bet)
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 6: DonKarlos showed [Qh Js] and won ($3.90) with a pair of Jacks
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: CryptoTrio folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20078772053:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:02:20 (ET)
+Table 'Heze III' 9-max Seat #2 is the button
+Seat 1: kestrel5 ($12.85 in chips) 
+Seat 2: lobablue ($13.30 in chips) 
+Seat 3: Alameda22 ($23 in chips) 
+Seat 4: Ziggy52555 ($17.10 in chips) 
+Seat 5: mike-nr.1 ($11.45 in chips) 
+Seat 6: DonKarlos ($26.90 in chips) 
+Seat 8: Fflash ($24.30 in chips) 
+Seat 9: CryptoTrio ($4.65 in chips) 
+Alameda22: posts small blind $0.10
+Ziggy52555: posts big blind $0.25
+macpunk7: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Td]
+mike-nr.1: folds 
+DonKarlos: folds 
+Fflash: folds 
+CryptoTrio: folds 
+kestrel5: calls $0.25
+lobablue: folds 
+Alameda22: folds 
+Ziggy52555: checks 
+*** FLOP *** [6s 8s Jc]
+Ziggy52555: checks 
+kestrel5: checks 
+*** TURN *** [6s 8s Jc] [Qd]
+Ziggy52555: checks 
+kestrel5: bets $0.75
+Ziggy52555: folds 
+Uncalled bet ($0.75) returned to kestrel5
+kestrel5 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6s 8s Jc Qd]
+Seat 1: kestrel5 collected ($0.60)
+Seat 2: lobablue (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Ziggy52555 (big blind) folded on the Turn
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 6: DonKarlos folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: CryptoTrio folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20078790402:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:03:09 (ET)
+Table 'Heze III' 9-max Seat #3 is the button
+Seat 1: kestrel5 ($13.20 in chips) 
+Seat 2: lobablue ($13.30 in chips) 
+Seat 3: Alameda22 ($22.90 in chips) 
+Seat 4: Ziggy52555 ($16.85 in chips) 
+Seat 5: mike-nr.1 ($11.45 in chips) 
+Seat 6: DonKarlos ($26.90 in chips) 
+Seat 8: Fflash ($24.30 in chips) 
+Seat 9: CryptoTrio ($4.65 in chips) 
+Ziggy52555: posts small blind $0.10
+mike-nr.1: posts big blind $0.25
+macpunk7: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Jc]
+DonKarlos: folds 
+Fflash: folds 
+CryptoTrio: folds 
+kestrel5: folds 
+lobablue: folds 
+Alameda22: folds 
+Ziggy52555: calls $0.15
+mike-nr.1: checks 
+*** FLOP *** [Js 2h 4h]
+Ziggy52555: bets $0.50
+mike-nr.1: folds 
+Uncalled bet ($0.50) returned to Ziggy52555
+Ziggy52555 collected $0.50 from pot
+Ziggy52555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Js 2h 4h]
+Seat 1: kestrel5 folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Ziggy52555 (small blind) collected ($0.50)
+Seat 5: mike-nr.1 (big blind) folded on the Flop
+Seat 6: DonKarlos folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: CryptoTrio folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20078806027:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:04:12 (ET)
+Table 'Heze III' 9-max Seat #4 is the button
+Seat 1: kestrel5 ($13.20 in chips) 
+Seat 2: lobablue ($13.30 in chips) 
+Seat 3: Alameda22 ($22.90 in chips) 
+Seat 4: Ziggy52555 ($17.10 in chips) 
+Seat 5: mike-nr.1 ($11.20 in chips) 
+Seat 7: macpunk7 ($15 in chips) 
+Seat 8: Fflash ($24.30 in chips) 
+Seat 9: CryptoTrio ($4.65 in chips) 
+mike-nr.1: posts small blind $0.10
+DonKarlos: is sitting out 
+DonKarlos leaves the table
+macpunk7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 6d]
+alanshepard joins the table at seat #6 
+Fflash: folds 
+CryptoTrio: folds 
+kestrel5: calls $0.25
+lobablue: folds 
+Alameda22: folds 
+Ziggy52555: folds 
+mike-nr.1: folds 
+macpunk7: checks 
+*** FLOP *** [5h Qc 5c]
+macpunk7: checks 
+kestrel5: checks 
+*** TURN *** [5h Qc 5c] [5s]
+macpunk7: checks 
+kestrel5: checks 
+*** RIVER *** [5h Qc 5c 5s] [Th]
+macpunk7: checks 
+kestrel5: checks 
+*** SHOW DOWN ***
+macpunk7: shows [Jc 4s] (three of a kind, Fives)
+kestrel5: shows [Ad 2d] (three of a kind, Fives - Ace kicker)
+kestrel5 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [5h Qc 5c 5s Th]
+Seat 1: kestrel5 showed [Ad 2d] and won ($0.60) with three of a kind, Fives
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ziggy52555 (button) folded before Flop (didn't bet)
+Seat 5: mike-nr.1 (small blind) folded before Flop
+Seat 7: macpunk7 (big blind) showed [Jc 4s] and lost with three of a kind, Fives
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: CryptoTrio folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20078848358:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:05:56 (ET)
+Table 'Heze III' 9-max Seat #5 is the button
+Seat 1: kestrel5 ($13.55 in chips) 
+Seat 2: lobablue ($13.30 in chips) 
+Seat 3: Alameda22 ($22.90 in chips) 
+Seat 4: Ziggy52555 ($17.10 in chips) 
+Seat 5: mike-nr.1 ($11.10 in chips) 
+Seat 7: macpunk7 ($14.75 in chips) 
+Seat 8: Fflash ($24.30 in chips) 
+Seat 9: CryptoTrio ($4.65 in chips) 
+alanshepard will be allowed to play after the button
+macpunk7: posts small blind $0.10
+Fflash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 3c]
+CryptoTrio: folds 
+CryptoTrio leaves the table
+kestrel5: folds 
+lobablue: folds 
+Alameda22: folds 
+Ziggy52555: raises $0.25 to $0.50
+mike-nr.1: calls $0.50
+macpunk7: folds 
+Fflash: calls $0.25
+*** FLOP *** [2c 4d 7s]
+elfosso joins the table at seat #9 
+Fflash: checks 
+Ziggy52555 has timed out
+Ziggy52555: folds 
+Ziggy52555 is sitting out
+mike-nr.1: bets $1
+Fflash: calls $1
+*** TURN *** [2c 4d 7s] [Th]
+Fflash: checks 
+mike-nr.1: bets $2.50
+Fflash: calls $2.50
+*** RIVER *** [2c 4d 7s Th] [9c]
+Fflash: checks 
+mike-nr.1: checks 
+*** SHOW DOWN ***
+Fflash: shows [7d 8h] (a pair of Sevens)
+mike-nr.1: mucks hand 
+Fflash collected $8.20 from pot
+*** SUMMARY ***
+Total pot $8.60 | Rake $0.40 
+Board [2c 4d 7s Th 9c]
+Seat 1: kestrel5 folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ziggy52555 folded on the Flop
+Seat 5: mike-nr.1 (button) mucked [5s 5c]
+Seat 7: macpunk7 (small blind) folded before Flop
+Seat 8: Fflash (big blind) showed [7d 8h] and won ($8.20) with a pair of Sevens
+Seat 9: CryptoTrio folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20078908623:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:08:37 (ET)
+Table 'Heze III' 9-max Seat #7 is the button
+Seat 1: kestrel5 ($13.55 in chips) 
+Seat 2: lobablue ($13.30 in chips) 
+Seat 3: Alameda22 ($22.90 in chips) 
+Seat 5: mike-nr.1 ($7.10 in chips) 
+Seat 7: macpunk7 ($14.65 in chips) 
+Seat 8: Fflash ($28.50 in chips) 
+Seat 9: elfosso ($15 in chips) 
+Fflash: posts small blind $0.10
+elfosso: posts big blind $0.25
+alanshepard: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 7d]
+kestrel5: folds 
+lobablue: folds 
+Alameda22: folds 
+mike-nr.1: folds 
+macpunk7: folds 
+Fflash: calls $0.15
+elfosso: checks 
+*** FLOP *** [Ah 8h 2d]
+Ziggy52555 has returned
+Fflash: bets $0.50
+elfosso: raises $0.75 to $1.25
+Fflash: raises $2.75 to $4
+elfosso: folds 
+Uncalled bet ($2.75) returned to Fflash
+Fflash collected $2.85 from pot
+Fflash: doesn't show hand 
+elfosso leaves the table
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Ah 8h 2d]
+Seat 1: kestrel5 folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 7: macpunk7 (button) folded before Flop (didn't bet)
+Seat 8: Fflash (small blind) collected ($2.85)
+Seat 9: elfosso (big blind) folded on the Flop
+
+
+
+PokerStars Game #20078947685:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:10:21 (ET)
+Table 'Heze III' 9-max Seat #8 is the button
+Seat 1: kestrel5 ($13.55 in chips) 
+Seat 2: lobablue ($13.30 in chips) 
+Seat 3: Alameda22 ($22.90 in chips) 
+Seat 4: Ziggy52555 ($16.60 in chips) 
+Seat 5: mike-nr.1 ($7.10 in chips) 
+Seat 7: macpunk7 ($14.65 in chips) 
+Seat 8: Fflash ($29.85 in chips) 
+kestrel5: posts small blind $0.10
+lobablue: posts big blind $0.25
+alanshepard: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 3s]
+Alameda22: folds 
+cr8wealth joins the table at seat #9 
+Ziggy52555: folds 
+mike-nr.1: folds 
+macpunk7: calls $0.25
+Fflash: folds 
+kestrel5: calls $0.15
+lobablue: checks 
+*** FLOP *** [9h Ts 6s]
+kestrel5: checks 
+lobablue: bets $0.25
+macpunk7: raises $1.75 to $2
+kestrel5: folds 
+lobablue: folds 
+Uncalled bet ($1.75) returned to macpunk7
+macpunk7 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [9h Ts 6s]
+Seat 1: kestrel5 (small blind) folded on the Flop
+Seat 2: lobablue (big blind) folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ziggy52555 folded before Flop (didn't bet)
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 7: macpunk7 collected ($1.20)
+Seat 8: Fflash (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20078973462:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:11:29 (ET)
+Table 'Heze III' 9-max Seat #1 is the button
+Seat 1: kestrel5 ($13.30 in chips) 
+Seat 2: lobablue ($12.80 in chips) 
+Seat 3: Alameda22 ($22.90 in chips) 
+Seat 4: Ziggy52555 ($16.60 in chips) 
+Seat 5: mike-nr.1 ($7.10 in chips) 
+Seat 7: macpunk7 ($15.35 in chips) 
+Seat 8: Fflash ($29.85 in chips) 
+Seat 9: cr8wealth ($5 in chips) 
+lobablue: posts small blind $0.10
+Alameda22: posts big blind $0.25
+alanshepard: sits out 
+cr8wealth: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Jc]
+Ziggy52555: calls $0.25
+mike-nr.1: folds 
+macpunk7: folds 
+Fflash: raises $0.75 to $1
+cr8wealth: folds 
+kestrel5: folds 
+lobablue: folds 
+Alameda22: folds 
+Ziggy52555: calls $0.75
+*** FLOP *** [5c 3c 2s]
+Ziggy52555: checks 
+Fflash: bets $1.50
+Ziggy52555: calls $1.50
+*** TURN *** [5c 3c 2s] [6c]
+Ziggy52555: bets $2
+Fflash: raises $3 to $5
+Ziggy52555: raises $9.10 to $14.10 and is all-in
+Fflash: calls $9.10
+*** RIVER *** [5c 3c 2s 6c] [Td]
+*** SHOW DOWN ***
+Ziggy52555: shows [Ad 6d] (a pair of Sixes)
+Fflash: shows [Ac Qc] (a flush, Ace high)
+Fflash collected $32.15 from pot
+*** SUMMARY ***
+Total pot $33.80 | Rake $1.65 
+Board [5c 3c 2s 6c Td]
+Seat 1: kestrel5 (button) folded before Flop (didn't bet)
+Seat 2: lobablue (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: Ziggy52555 showed [Ad 6d] and lost with a pair of Sixes
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 7: macpunk7 folded before Flop (didn't bet)
+Seat 8: Fflash showed [Ac Qc] and won ($32.15) with a flush, Ace high
+Seat 9: cr8wealth folded before Flop
+
+
+
+PokerStars Game #20079010912:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:13:09 (ET)
+Table 'Heze III' 9-max Seat #2 is the button
+Seat 1: kestrel5 ($13.30 in chips) 
+Seat 2: lobablue ($12.70 in chips) 
+Seat 3: Alameda22 ($22.65 in chips) 
+Seat 5: mike-nr.1 ($7.10 in chips) 
+Seat 7: macpunk7 ($15.35 in chips) 
+Seat 8: Fflash ($45.40 in chips) 
+Seat 9: cr8wealth ($4.75 in chips) 
+Alameda22: posts small blind $0.10
+mike-nr.1: posts big blind $0.25
+alanshepard: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Th]
+Ziggy52555 leaves the table
+macpunk7: calls $0.25
+Fflash: folds 
+cr8wealth: folds 
+kestrel5: folds 
+lobablue: folds 
+Alameda22: calls $0.15
+mike-nr.1: checks 
+*** FLOP *** [Kd Ah 7h]
+Alameda22: checks 
+mike-nr.1: checks 
+macpunk7: bets $2
+Alameda22: folds 
+mike-nr.1: folds 
+Uncalled bet ($2) returned to macpunk7
+macpunk7 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Kd Ah 7h]
+Seat 1: kestrel5 folded before Flop (didn't bet)
+Seat 2: lobablue (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded on the Flop
+Seat 5: mike-nr.1 (big blind) folded on the Flop
+Seat 7: macpunk7 collected ($0.75)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: cr8wealth folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079033618:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:14:09 (ET)
+Table 'Heze III' 9-max Seat #3 is the button
+Seat 1: kestrel5 ($13.30 in chips) 
+Seat 2: lobablue ($12.70 in chips) 
+Seat 3: Alameda22 ($22.40 in chips) 
+Seat 5: mike-nr.1 ($6.85 in chips) 
+Seat 6: alanshepard ($5 in chips) 
+Seat 7: macpunk7 ($15.85 in chips) 
+Seat 8: Fflash ($45.40 in chips) 
+Seat 9: cr8wealth ($4.75 in chips) 
+mike-nr.1: posts small blind $0.10
+alanshepard: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 8s]
+macpunk7: folds 
+Fflash: folds 
+cr8wealth: folds 
+kestrel5: calls $0.25
+lobablue: folds 
+Alameda22: folds 
+mike-nr.1: folds 
+alanshepard: raises $0.75 to $1
+kestrel5: calls $0.75
+*** FLOP *** [7d 3c Jh]
+alanshepard: bets $1.25
+kestrel5: folds 
+Uncalled bet ($1.25) returned to alanshepard
+Yankees!232 joins the table at seat #4 
+alanshepard collected $2 from pot
+alanshepard: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [7d 3c Jh]
+Seat 1: kestrel5 folded on the Flop
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: mike-nr.1 (small blind) folded before Flop
+Seat 6: alanshepard (big blind) collected ($2)
+Seat 7: macpunk7 folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: cr8wealth folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079053966:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:15:02 (ET)
+Table 'Heze III' 9-max Seat #5 is the button
+Seat 1: kestrel5 ($12.30 in chips) 
+Seat 2: lobablue ($12.70 in chips) 
+Seat 3: Alameda22 ($22.40 in chips) 
+Seat 4: Yankees!232 ($10 in chips) 
+Seat 5: mike-nr.1 ($6.75 in chips) 
+Seat 6: alanshepard ($6 in chips) 
+Seat 7: macpunk7 ($15.85 in chips) 
+Seat 8: Fflash ($45.40 in chips) 
+Seat 9: cr8wealth ($4.75 in chips) 
+alanshepard: posts small blind $0.10
+macpunk7: posts big blind $0.25
+Yankees!232: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 6c]
+Fflash: folds 
+cr8wealth: calls $0.25
+kestrel5: folds 
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: checks 
+mike-nr.1: calls $0.25
+alanshepard: folds 
+macpunk7: checks 
+*** FLOP *** [8c 2d 5d]
+macpunk7: checks 
+cr8wealth: checks 
+Yankees!232: checks 
+mike-nr.1: bets $0.50
+macpunk7: folds 
+cr8wealth: raises $1 to $1.50
+Yankees!232: folds 
+mike-nr.1: raises $5 to $6.50 and is all-in
+cr8wealth: calls $3 and is all-in
+Uncalled bet ($2) returned to mike-nr.1
+*** TURN *** [8c 2d 5d] [Tc]
+*** RIVER *** [8c 2d 5d Tc] [3h]
+*** SHOW DOWN ***
+cr8wealth: shows [7h 7c] (a pair of Sevens)
+mike-nr.1: shows [6d 8d] (a pair of Eights)
+mike-nr.1 collected $9.60 from pot
+*** SUMMARY ***
+Total pot $10.10 | Rake $0.50 
+Board [8c 2d 5d Tc 3h]
+Seat 1: kestrel5 folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded on the Flop
+Seat 5: mike-nr.1 (button) showed [6d 8d] and won ($9.60) with a pair of Eights
+Seat 6: alanshepard (small blind) folded before Flop
+Seat 7: macpunk7 (big blind) folded on the Flop
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: cr8wealth showed [7h 7c] and lost with a pair of Sevens
+
+
+
+PokerStars Game #20079103990:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:17:14 (ET)
+Table 'Heze III' 9-max Seat #6 is the button
+Seat 1: kestrel5 ($12.30 in chips) 
+Seat 2: lobablue ($12.70 in chips) 
+Seat 3: Alameda22 ($22.40 in chips) 
+Seat 4: Yankees!232 ($9.75 in chips) 
+Seat 5: mike-nr.1 ($11.60 in chips) 
+Seat 6: alanshepard ($5.90 in chips) 
+Seat 7: macpunk7 ($15.60 in chips) 
+Seat 8: Fflash ($45.40 in chips) 
+macpunk7: posts small blind $0.10
+cr8wealth leaves the table
+Fflash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 2h]
+kestrel5: folds 
+lobablue: folds 
+kestrel5 leaves the table
+Alameda22: folds 
+Yankees!232: calls $0.25
+mike-nr.1: folds 
+alanshepard: folds 
+macpunk7: folds 
+Fflash: checks 
+*** FLOP *** [8c 6c 5c]
+D echoo joins the table at seat #9 
+Fflash: checks 
+Yankees!232: checks 
+*** TURN *** [8c 6c 5c] [7d]
+Fflash: checks 
+Yankees!232: checks 
+*** RIVER *** [8c 6c 5c 7d] [5s]
+Dueslag joins the table at seat #1 
+Fflash: checks 
+Yankees!232: checks 
+*** SHOW DOWN ***
+Fflash: shows [Qh Jh] (a pair of Fives)
+Yankees!232: mucks hand 
+Fflash collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8c 6c 5c 7d 5s]
+Seat 1: kestrel5 folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 mucked [Qs Th]
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 6: alanshepard (button) folded before Flop (didn't bet)
+Seat 7: macpunk7 (small blind) folded before Flop
+Seat 8: Fflash (big blind) showed [Qh Jh] and won ($0.60) with a pair of Fives
+
+
+
+PokerStars Game #20079132019:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:18:28 (ET)
+Table 'Heze III' 9-max Seat #7 is the button
+Seat 1: Dueslag ($5 in chips) 
+Seat 2: lobablue ($12.70 in chips) 
+Seat 3: Alameda22 ($22.40 in chips) 
+Seat 4: Yankees!232 ($9.50 in chips) 
+Seat 5: mike-nr.1 ($11.60 in chips) 
+Seat 6: alanshepard ($5.90 in chips) 
+Seat 7: macpunk7 ($15.50 in chips) 
+Seat 8: Fflash ($45.75 in chips) 
+Seat 9: D echoo ($15 in chips) 
+Fflash: posts small blind $0.10
+D echoo: posts big blind $0.25
+Dueslag: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 4s]
+Dueslag: checks 
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+mike-nr.1: folds 
+alanshepard: folds 
+macpunk7: folds 
+Fflash: calls $0.15
+D echoo: checks 
+*** FLOP *** [8s Ah Th]
+Fflash: checks 
+D echoo: bets $0.50
+Dueslag: folds 
+Fflash: calls $0.50
+*** TURN *** [8s Ah Th] [Jd]
+Fflash: bets $1.25
+D echoo: calls $1.25
+*** RIVER *** [8s Ah Th Jd] [Ad]
+Fflash: bets $2.50
+D echoo: calls $2.50
+*** SHOW DOWN ***
+Fflash: shows [9d 7h] (a straight, Seven to Jack)
+D echoo: mucks hand 
+Fflash collected $8.80 from pot
+*** SUMMARY ***
+Total pot $9.25 | Rake $0.45 
+Board [8s Ah Th Jd Ad]
+Seat 1: Dueslag folded on the Flop
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: macpunk7 (button) folded before Flop (didn't bet)
+Seat 8: Fflash (small blind) showed [9d 7h] and won ($8.80) with a straight, Seven to Jack
+Seat 9: D echoo (big blind) mucked [Qd Tc]
+
+
+
+PokerStars Game #20079177543:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:20:28 (ET)
+Table 'Heze III' 9-max Seat #8 is the button
+Seat 1: Dueslag ($4.75 in chips) 
+Seat 2: lobablue ($12.70 in chips) 
+Seat 3: Alameda22 ($22.40 in chips) 
+Seat 4: Yankees!232 ($9.50 in chips) 
+Seat 5: mike-nr.1 ($11.60 in chips) 
+Seat 6: alanshepard ($5.90 in chips) 
+Seat 7: macpunk7 ($15.50 in chips) 
+Seat 8: Fflash ($50.05 in chips) 
+Seat 9: D echoo ($10.50 in chips) 
+D echoo: posts small blind $0.10
+Dueslag: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 9c]
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+mike-nr.1: folds 
+alanshepard: folds 
+macpunk7: folds 
+Fflash: folds 
+D echoo: calls $0.15
+Dueslag: checks 
+*** FLOP *** [8d 5s 9d]
+D echoo: checks 
+Dueslag: checks 
+*** TURN *** [8d 5s 9d] [Jd]
+D echoo: checks 
+Dueslag: checks 
+*** RIVER *** [8d 5s 9d Jd] [9s]
+D echoo: checks 
+Dueslag: checks 
+*** SHOW DOWN ***
+D echoo: shows [Ts 3c] (a pair of Nines)
+Dueslag: shows [4c 8s] (two pair, Nines and Eights)
+Dueslag collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [8d 5s 9d Jd 9s]
+Seat 1: Dueslag (big blind) showed [4c 8s] and won ($0.50) with two pair, Nines and Eights
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: macpunk7 folded before Flop (didn't bet)
+Seat 8: Fflash (button) folded before Flop (didn't bet)
+Seat 9: D echoo (small blind) showed [Ts 3c] and lost with a pair of Nines
+
+
+
+PokerStars Game #20079202372:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:21:33 (ET)
+Table 'Heze III' 9-max Seat #9 is the button
+Seat 1: Dueslag ($5 in chips) 
+Seat 2: lobablue ($12.70 in chips) 
+Seat 3: Alameda22 ($22.40 in chips) 
+Seat 4: Yankees!232 ($9.50 in chips) 
+Seat 5: mike-nr.1 ($11.60 in chips) 
+Seat 6: alanshepard ($5.90 in chips) 
+Seat 7: macpunk7 ($15.50 in chips) 
+Seat 8: Fflash ($50.05 in chips) 
+Seat 9: D echoo ($10.25 in chips) 
+Dueslag: posts small blind $0.10
+lobablue: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 8s]
+Alameda22: folds 
+Yankees!232: folds 
+mike-nr.1: calls $0.25
+alanshepard: folds 
+macpunk7: folds 
+Fflash: folds 
+D echoo: folds 
+Dueslag: calls $0.15
+lobablue: checks 
+*** FLOP *** [Qs 9h 7h]
+Dueslag: checks 
+lobablue: bets $0.75
+mike-nr.1: folds 
+Dueslag: folds 
+Uncalled bet ($0.75) returned to lobablue
+lobablue collected $0.75 from pot
+lobablue: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Qs 9h 7h]
+Seat 1: Dueslag (small blind) folded on the Flop
+Seat 2: lobablue (big blind) collected ($0.75)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: mike-nr.1 folded on the Flop
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: macpunk7 folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: D echoo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079231333:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:22:50 (ET)
+Table 'Heze III' 9-max Seat #1 is the button
+Seat 1: Dueslag ($4.75 in chips) 
+Seat 2: lobablue ($13.20 in chips) 
+Seat 3: Alameda22 ($22.40 in chips) 
+Seat 4: Yankees!232 ($9.50 in chips) 
+Seat 5: mike-nr.1 ($11.35 in chips) 
+Seat 6: alanshepard ($5.90 in chips) 
+Seat 7: macpunk7 ($15.50 in chips) 
+Seat 8: Fflash ($50.05 in chips) 
+Seat 9: D echoo ($10.25 in chips) 
+lobablue: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 9h]
+Yankees!232: folds 
+mike-nr.1: folds 
+alanshepard: folds 
+macpunk7: folds 
+Fflash: folds 
+D echoo: folds 
+Dueslag: folds 
+lobablue: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Dueslag (button) folded before Flop (didn't bet)
+Seat 2: lobablue (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) collected ($0.20)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: macpunk7 folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: D echoo folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079245528:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:23:27 (ET)
+Table 'Heze III' 9-max Seat #2 is the button
+Seat 1: Dueslag ($4.75 in chips) 
+Seat 2: lobablue ($13.10 in chips) 
+Seat 3: Alameda22 ($22.50 in chips) 
+Seat 4: Yankees!232 ($9.50 in chips) 
+Seat 5: mike-nr.1 ($11.35 in chips) 
+Seat 6: alanshepard ($5.90 in chips) 
+Seat 7: macpunk7 ($15.50 in chips) 
+Seat 8: Fflash ($50.05 in chips) 
+Seat 9: D echoo ($10.25 in chips) 
+Alameda22: posts small blind $0.10
+Yankees!232: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Th]
+mike-nr.1: folds 
+alanshepard: folds 
+macpunk7: folds 
+mike-nr.1 said, "hey udeslag,   giver det nogle dollars  her på de sene timer  :o)"
+Fflash: folds 
+D echoo: folds 
+Dueslag: calls $0.25
+lobablue: folds 
+mike-nr.1 said, "    dueslag"
+Alameda22: folds 
+Yankees!232: checks 
+*** FLOP *** [9d Tc Ah]
+Yankees!232: checks 
+Dueslag: checks 
+*** TURN *** [9d Tc Ah] [Qd]
+Yankees!232: checks 
+Dueslag: checks 
+*** RIVER *** [9d Tc Ah Qd] [6d]
+Yankees!232: bets $0.25
+Dueslag: calls $0.25
+*** SHOW DOWN ***
+Yankees!232: shows [9s 7s] (a pair of Nines)
+Dueslag: shows [9c Jc] (a pair of Nines - Ace+Queen+Jack kicker)
+Dueslag collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [9d Tc Ah Qd 6d]
+Seat 1: Dueslag showed [9c Jc] and won ($1.05) with a pair of Nines
+Seat 2: lobablue (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Yankees!232 (big blind) showed [9s 7s] and lost with a pair of Nines
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: macpunk7 folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: D echoo folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079273700:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:24:41 (ET)
+Table 'Heze III' 9-max Seat #3 is the button
+Seat 1: Dueslag ($5.30 in chips) 
+Seat 2: lobablue ($13.10 in chips) 
+Seat 3: Alameda22 ($22.40 in chips) 
+Seat 4: Yankees!232 ($9 in chips) 
+Seat 5: mike-nr.1 ($11.35 in chips) 
+Seat 6: alanshepard ($5.90 in chips) 
+Seat 7: macpunk7 ($15.50 in chips) 
+Seat 8: Fflash ($50.05 in chips) 
+Seat 9: D echoo ($10.25 in chips) 
+Yankees!232: posts small blind $0.10
+mike-nr.1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Qd]
+alanshepard: folds 
+macpunk7: raises $0.75 to $1
+Fflash: folds 
+D echoo: calls $1
+Dueslag: folds 
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+mike-nr.1: folds 
+*** FLOP *** [6d 5h 3h]
+macpunk7: bets $2
+D echoo: calls $2
+*** TURN *** [6d 5h 3h] [9d]
+macpunk7: bets $5
+D echoo: raises $2.25 to $7.25 and is all-in
+macpunk7: calls $2.25
+*** RIVER *** [6d 5h 3h 9d] [4d]
+*** SHOW DOWN ***
+macpunk7: shows [Kc Kd] (a pair of Kings)
+D echoo: mucks hand 
+macpunk7 collected $19.85 from pot
+*** SUMMARY ***
+Total pot $20.85 | Rake $1 
+Board [6d 5h 3h 9d 4d]
+Seat 1: Dueslag folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Yankees!232 (small blind) folded before Flop
+Seat 5: mike-nr.1 (big blind) folded before Flop
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: macpunk7 showed [Kc Kd] and won ($19.85) with a pair of Kings
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: D echoo mucked [8d 9h]
+
+
+
+PokerStars Game #20079313130:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:26:26 (ET)
+Table 'Heze III' 9-max Seat #4 is the button
+Seat 1: Dueslag ($5.30 in chips) 
+Seat 2: lobablue ($13.10 in chips) 
+Seat 3: Alameda22 ($22.40 in chips) 
+Seat 4: Yankees!232 ($8.90 in chips) 
+Seat 5: mike-nr.1 ($11.10 in chips) 
+Seat 6: alanshepard ($5.90 in chips) 
+Seat 7: macpunk7 ($25.10 in chips) 
+Seat 8: Fflash ($50.05 in chips) 
+mike-nr.1: posts small blind $0.10
+alanshepard: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 2h]
+D echoo has returned
+macpunk7: folds 
+Fflash: folds 
+Dueslag: folds 
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+macpunk7 leaves the table
+mike-nr.1: folds 
+Uncalled bet ($0.15) returned to alanshepard
+alanshepard collected $0.20 from pot
+alanshepard: doesn't show hand 
+gbipka joins the table at seat #7 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Dueslag folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 (button) folded before Flop (didn't bet)
+Seat 5: mike-nr.1 (small blind) folded before Flop
+Seat 6: alanshepard (big blind) collected ($0.20)
+Seat 7: macpunk7 folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079332441:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:27:17 (ET)
+Table 'Heze III' 9-max Seat #5 is the button
+Seat 1: Dueslag ($5.30 in chips) 
+Seat 2: lobablue ($13.10 in chips) 
+Seat 3: Alameda22 ($22.40 in chips) 
+Seat 4: Yankees!232 ($8.90 in chips) 
+Seat 5: mike-nr.1 ($11 in chips) 
+Seat 6: alanshepard ($6 in chips) 
+Seat 7: gbipka ($5 in chips) 
+Seat 8: Fflash ($50.05 in chips) 
+Seat 9: D echoo ($18.35 in chips) 
+alanshepard: posts small blind $0.10
+gbipka: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Qs]
+Fflash: folds 
+D echoo: calls $0.25
+Dueslag: calls $0.25
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+mike-nr.1: calls $0.25
+alanshepard: folds 
+gbipka: checks 
+*** FLOP *** [8c Qc 7d]
+gbipka: checks 
+D echoo: checks 
+Dueslag: checks 
+mike-nr.1: checks 
+*** TURN *** [8c Qc 7d] [Kh]
+gbipka: checks 
+D echoo: bets $0.50
+Dueslag: folds 
+mike-nr.1: folds 
+gbipka: calls $0.50
+*** RIVER *** [8c Qc 7d Kh] [5d]
+gbipka: checks 
+D echoo: bets $0.50
+gbipka: calls $0.50
+*** SHOW DOWN ***
+D echoo: shows [9c Kc] (a pair of Kings)
+gbipka: mucks hand 
+D echoo collected $2.95 from pot
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [8c Qc 7d Kh 5d]
+Seat 1: Dueslag folded on the Turn
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: mike-nr.1 (button) folded on the Turn
+Seat 6: alanshepard (small blind) folded before Flop
+Seat 7: gbipka (big blind) mucked [2h Kd]
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: D echoo showed [9c Kc] and won ($2.95) with a pair of Kings
+
+
+
+PokerStars Game #20079362854:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:28:38 (ET)
+Table 'Heze III' 9-max Seat #6 is the button
+Seat 1: Dueslag ($5.05 in chips) 
+Seat 2: lobablue ($13.10 in chips) 
+Seat 3: Alameda22 ($22.40 in chips) 
+Seat 4: Yankees!232 ($8.90 in chips) 
+Seat 5: mike-nr.1 ($10.75 in chips) 
+Seat 6: alanshepard ($5.90 in chips) 
+Seat 7: gbipka ($5 in chips) 
+Seat 8: Fflash ($50.05 in chips) 
+Seat 9: D echoo ($20.05 in chips) 
+gbipka: posts small blind $0.10
+Fflash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Qc]
+D echoo: folds 
+Dueslag: calls $0.25
+lobablue: folds 
+Alameda22: raises $1 to $1.25
+Yankees!232: folds 
+mike-nr.1: folds 
+alanshepard: folds 
+gbipka: folds 
+Fflash: folds 
+Dueslag: raises $1 to $2.25
+Alameda22: raises $20.15 to $22.40 and is all-in
+Dueslag: calls $2.80 and is all-in
+Uncalled bet ($17.35) returned to Alameda22
+*** FLOP *** [Jc Ac Ts]
+*** TURN *** [Jc Ac Ts] [2h]
+*** RIVER *** [Jc Ac Ts 2h] [8d]
+*** SHOW DOWN ***
+Dueslag: shows [Kd Kc] (a pair of Kings)
+Alameda22: mucks hand 
+Dueslag collected $9.95 from pot
+*** SUMMARY ***
+Total pot $10.45 | Rake $0.50 
+Board [Jc Ac Ts 2h 8d]
+Seat 1: Dueslag showed [Kd Kc] and won ($9.95) with a pair of Kings
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 mucked [Qd Qc]
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 6: alanshepard (button) folded before Flop (didn't bet)
+Seat 7: gbipka (small blind) folded before Flop
+Seat 8: Fflash (big blind) folded before Flop
+Seat 9: D echoo folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079391093:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:29:53 (ET)
+Table 'Heze III' 9-max Seat #7 is the button
+Seat 1: Dueslag ($9.95 in chips) 
+Seat 2: lobablue ($13.10 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: Yankees!232 ($8.90 in chips) 
+Seat 5: mike-nr.1 ($10.75 in chips) 
+Seat 6: alanshepard ($5.90 in chips) 
+Seat 7: gbipka ($4.90 in chips) 
+Seat 8: Fflash ($49.80 in chips) 
+Seat 9: D echoo ($20.05 in chips) 
+Fflash: posts small blind $0.10
+D echoo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 7s]
+Dueslag: calls $0.25
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+mike-nr.1: raises $1 to $1.25
+alanshepard: folds 
+gbipka: folds 
+Fflash: folds 
+D echoo: calls $1
+Dueslag: calls $1
+*** FLOP *** [3s 2c 2h]
+D echoo: bets $0.75
+Dueslag: calls $0.75
+mike-nr.1: raises $2.25 to $3
+D echoo: folds 
+Dueslag: folds 
+Uncalled bet ($2.25) returned to mike-nr.1
+mike-nr.1 collected $5.85 from pot
+mike-nr.1: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.10 | Rake $0.25 
+Board [3s 2c 2h]
+Seat 1: Dueslag folded on the Flop
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: mike-nr.1 collected ($5.85)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: gbipka (button) folded before Flop (didn't bet)
+Seat 8: Fflash (small blind) folded before Flop
+Seat 9: D echoo (big blind) folded on the Flop
+
+
+
+PokerStars Game #20079426841:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:31:28 (ET)
+Table 'Heze III' 9-max Seat #8 is the button
+Seat 1: Dueslag ($7.95 in chips) 
+Seat 2: lobablue ($13.10 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: Yankees!232 ($8.90 in chips) 
+Seat 5: mike-nr.1 ($14.60 in chips) 
+Seat 6: alanshepard ($5.90 in chips) 
+Seat 7: gbipka ($4.90 in chips) 
+Seat 8: Fflash ($49.70 in chips) 
+Seat 9: D echoo ($18.05 in chips) 
+D echoo: posts small blind $0.10
+Dueslag: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 7h]
+lobablue: calls $0.25
+Alameda22: folds 
+Yankees!232: folds 
+mike-nr.1: folds 
+alanshepard: folds 
+gbipka: folds 
+Fflash: folds 
+D echoo: raises $0.25 to $0.50
+Dueslag: calls $0.25
+lobablue: calls $0.25
+*** FLOP *** [3c 8h 9s]
+D echoo: checks 
+Dueslag: bets $0.50
+lobablue: folds 
+D echoo: folds 
+Uncalled bet ($0.50) returned to Dueslag
+Dueslag collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [3c 8h 9s]
+Seat 1: Dueslag (big blind) collected ($1.45)
+Seat 2: lobablue folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash (button) folded before Flop (didn't bet)
+Seat 9: D echoo (small blind) folded on the Flop
+
+
+
+PokerStars Game #20079453118:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:32:40 (ET)
+Table 'Heze III' 9-max Seat #9 is the button
+Seat 1: Dueslag ($8.90 in chips) 
+Seat 2: lobablue ($12.60 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: Yankees!232 ($8.90 in chips) 
+Seat 5: mike-nr.1 ($14.60 in chips) 
+Seat 6: alanshepard ($5.90 in chips) 
+Seat 7: gbipka ($4.90 in chips) 
+Seat 8: Fflash ($49.70 in chips) 
+Seat 9: D echoo ($17.55 in chips) 
+Dueslag: posts small blind $0.10
+lobablue: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts As]
+Alameda22: folds 
+Yankees!232: calls $0.25
+mike-nr.1: folds 
+alanshepard: folds 
+gbipka: folds 
+Fflash: folds 
+D echoo: folds 
+Dueslag: calls $0.15
+lobablue: checks 
+*** FLOP *** [6h Qh 9h]
+Dueslag: bets $1
+lobablue: folds 
+Yankees!232: folds 
+Uncalled bet ($1) returned to Dueslag
+Dueslag collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [6h Qh 9h]
+Seat 1: Dueslag (small blind) collected ($0.75)
+Seat 2: lobablue (big blind) folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded on the Flop
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: D echoo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079472612:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:33:32 (ET)
+Table 'Heze III' 9-max Seat #1 is the button
+Seat 1: Dueslag ($9.40 in chips) 
+Seat 2: lobablue ($12.35 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: Yankees!232 ($8.65 in chips) 
+Seat 5: mike-nr.1 ($14.60 in chips) 
+Seat 6: alanshepard ($5.90 in chips) 
+Seat 7: gbipka ($4.90 in chips) 
+Seat 8: Fflash ($49.70 in chips) 
+Seat 9: D echoo ($17.55 in chips) 
+lobablue: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Tc]
+Yankees!232: folds 
+mike-nr.1: folds 
+alanshepard: folds 
+gbipka: folds 
+Fflash: folds 
+D echoo: folds 
+Dueslag: folds 
+lobablue: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Dueslag (button) folded before Flop (didn't bet)
+Seat 2: lobablue (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) collected ($0.20)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: D echoo folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079483763:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:34:02 (ET)
+Table 'Heze III' 9-max Seat #2 is the button
+Seat 1: Dueslag ($9.40 in chips) 
+Seat 2: lobablue ($12.25 in chips) 
+Seat 3: Alameda22 ($25.10 in chips) 
+Seat 4: Yankees!232 ($8.65 in chips) 
+Seat 5: mike-nr.1 ($14.60 in chips) 
+Seat 6: alanshepard ($5.90 in chips) 
+Seat 7: gbipka ($4.90 in chips) 
+Seat 8: Fflash ($49.70 in chips) 
+Seat 9: D echoo ($17.55 in chips) 
+Alameda22: posts small blind $0.10
+Yankees!232: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Jh]
+mike-nr.1: folds 
+alanshepard: folds 
+gbipka: folds 
+Fflash: folds 
+D echoo: raises $0.50 to $0.75
+Dueslag: calls $0.75
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+*** FLOP *** [9s 9c 6d]
+D echoo: bets $0.50
+Dueslag: raises $0.50 to $1
+D echoo: calls $0.50
+*** TURN *** [9s 9c 6d] [Jc]
+D echoo: checks 
+Dueslag: bets $1
+D echoo: folds 
+Uncalled bet ($1) returned to Dueslag
+Dueslag collected $3.70 from pot
+Dueslag: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [9s 9c 6d Jc]
+Seat 1: Dueslag collected ($3.70)
+Seat 2: lobablue (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Yankees!232 (big blind) folded before Flop
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: D echoo folded on the Turn
+
+
+
+PokerStars Game #20079515768:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:35:29 (ET)
+Table 'Heze III' 9-max Seat #3 is the button
+Seat 1: Dueslag ($11.35 in chips) 
+Seat 2: lobablue ($12.25 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: Yankees!232 ($8.40 in chips) 
+Seat 5: mike-nr.1 ($14.60 in chips) 
+Seat 6: alanshepard ($5.90 in chips) 
+Seat 7: gbipka ($4.90 in chips) 
+Seat 8: Fflash ($49.70 in chips) 
+Seat 9: D echoo ($15.80 in chips) 
+Yankees!232: posts small blind $0.10
+mike-nr.1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 8d]
+alanshepard: folds 
+gbipka: folds 
+Fflash: calls $0.25
+D echoo: folds 
+Dueslag: folds 
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+mike-nr.1: checks 
+*** FLOP *** [Td 7s Js]
+mike-nr.1: checks 
+Fflash: bets $0.50
+mike-nr.1: folds 
+Uncalled bet ($0.50) returned to Fflash
+Fflash collected $0.60 from pot
+Fflash: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Td 7s Js]
+Seat 1: Dueslag folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Yankees!232 (small blind) folded before Flop
+Seat 5: mike-nr.1 (big blind) folded on the Flop
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash collected ($0.60)
+Seat 9: D echoo folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079537465:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:36:27 (ET)
+Table 'Heze III' 9-max Seat #4 is the button
+Seat 1: Dueslag ($11.35 in chips) 
+Seat 2: lobablue ($12.25 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: Yankees!232 ($8.30 in chips) 
+Seat 5: mike-nr.1 ($14.35 in chips) 
+Seat 6: alanshepard ($5.90 in chips) 
+Seat 7: gbipka ($4.90 in chips) 
+Seat 8: Fflash ($50.05 in chips) 
+Seat 9: D echoo ($15.80 in chips) 
+mike-nr.1: posts small blind $0.10
+alanshepard: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Kc]
+gbipka: folds 
+Fflash: folds 
+D echoo: folds 
+Dueslag: folds 
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: raises $0.50 to $0.75
+mike-nr.1: calls $0.65
+alanshepard: folds 
+*** FLOP *** [4s 6d Td]
+mike-nr.1: checks 
+Yankees!232: bets $1
+mike-nr.1: calls $1
+*** TURN *** [4s 6d Td] [3d]
+mike-nr.1: checks 
+Yankees!232: bets $1
+mike-nr.1: folds 
+Uncalled bet ($1) returned to Yankees!232
+Yankees!232 collected $3.60 from pot
+Yankees!232: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [4s 6d Td 3d]
+Seat 1: Dueslag folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 (button) collected ($3.60)
+Seat 5: mike-nr.1 (small blind) folded on the Turn
+Seat 6: alanshepard (big blind) folded before Flop
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: D echoo folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079559368:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:37:26 (ET)
+Table 'Heze III' 9-max Seat #5 is the button
+Seat 1: Dueslag ($11.35 in chips) 
+Seat 2: lobablue ($12.25 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: Yankees!232 ($10.15 in chips) 
+Seat 5: mike-nr.1 ($12.60 in chips) 
+Seat 6: alanshepard ($5.65 in chips) 
+Seat 7: gbipka ($4.90 in chips) 
+Seat 8: Fflash ($50.05 in chips) 
+Seat 9: D echoo ($15.80 in chips) 
+alanshepard: posts small blind $0.10
+gbipka: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 3c]
+Fflash: raises $0.75 to $1
+D echoo: folds 
+Dueslag: folds 
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+mike-nr.1: folds 
+alanshepard: folds 
+gbipka: folds 
+Uncalled bet ($0.75) returned to Fflash
+Fflash collected $0.60 from pot
+Fflash: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Dueslag folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: mike-nr.1 (button) folded before Flop (didn't bet)
+Seat 6: alanshepard (small blind) folded before Flop
+Seat 7: gbipka (big blind) folded before Flop
+Seat 8: Fflash collected ($0.60)
+Seat 9: D echoo folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079579487:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:38:21 (ET)
+Table 'Heze III' 9-max Seat #6 is the button
+Seat 1: Dueslag ($11.35 in chips) 
+Seat 2: lobablue ($12.25 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: Yankees!232 ($10.15 in chips) 
+Seat 5: mike-nr.1 ($12.60 in chips) 
+Seat 6: alanshepard ($5.55 in chips) 
+Seat 7: gbipka ($4.65 in chips) 
+Seat 8: Fflash ($50.40 in chips) 
+Seat 9: D echoo ($15.80 in chips) 
+gbipka: posts small blind $0.10
+Fflash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Th]
+D echoo: folds 
+Dueslag: calls $0.25
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+mike-nr.1: folds 
+alanshepard: folds 
+gbipka: folds 
+Fflash: checks 
+*** FLOP *** [Jd 8d Jh]
+Fflash: checks 
+Dueslag: checks 
+*** TURN *** [Jd 8d Jh] [8c]
+Fflash: checks 
+Dueslag: bets $0.50
+Fflash: folds 
+Uncalled bet ($0.50) returned to Dueslag
+Dueslag collected $0.60 from pot
+Dueslag: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Jd 8d Jh 8c]
+Seat 1: Dueslag collected ($0.60)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 6: alanshepard (button) folded before Flop (didn't bet)
+Seat 7: gbipka (small blind) folded before Flop
+Seat 8: Fflash (big blind) folded on the Turn
+Seat 9: D echoo folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079606693:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:39:34 (ET)
+Table 'Heze III' 9-max Seat #7 is the button
+Seat 1: Dueslag ($11.70 in chips) 
+Seat 2: lobablue ($12.25 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: Yankees!232 ($10.15 in chips) 
+Seat 5: mike-nr.1 ($12.60 in chips) 
+Seat 6: alanshepard ($5.55 in chips) 
+Seat 7: gbipka ($4.55 in chips) 
+Seat 8: Fflash ($50.15 in chips) 
+Seat 9: D echoo ($15.80 in chips) 
+Fflash: posts small blind $0.10
+D echoo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Qh]
+Dueslag: folds 
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+mike-nr.1: folds 
+alanshepard: folds 
+gbipka: folds 
+Fflash: folds 
+Uncalled bet ($0.15) returned to D echoo
+D echoo collected $0.20 from pot
+Dueslag said, "zzzzzzzzzzzzzzzplay"
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Dueslag folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: gbipka (button) folded before Flop (didn't bet)
+Seat 8: Fflash (small blind) folded before Flop
+Seat 9: D echoo (big blind) collected ($0.20)
+
+
+
+PokerStars Game #20079621672:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:40:15 (ET)
+Table 'Heze III' 9-max Seat #8 is the button
+Seat 1: Dueslag ($11.70 in chips) 
+Seat 2: lobablue ($12.25 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: Yankees!232 ($10.15 in chips) 
+Seat 5: mike-nr.1 ($12.60 in chips) 
+Seat 6: alanshepard ($5.55 in chips) 
+Seat 7: gbipka ($4.55 in chips) 
+Seat 8: Fflash ($50.05 in chips) 
+Seat 9: D echoo ($15.90 in chips) 
+D echoo: posts small blind $0.10
+Dueslag: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Ks]
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: raises $1 to $1.25
+mike-nr.1: folds 
+alanshepard: folds 
+gbipka: folds 
+Fflash: folds 
+D echoo: folds 
+Dueslag: folds 
+Uncalled bet ($1) returned to Yankees!232
+Yankees!232 collected $0.60 from pot
+Yankees!232: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Dueslag (big blind) folded before Flop
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 collected ($0.60)
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash (button) folded before Flop (didn't bet)
+Seat 9: D echoo (small blind) folded before Flop
+
+
+
+PokerStars Game #20079644630:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:41:14 (ET)
+Table 'Heze III' 9-max Seat #9 is the button
+Seat 1: Dueslag ($11.45 in chips) 
+Seat 2: lobablue ($12.25 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: Yankees!232 ($10.50 in chips) 
+Seat 5: mike-nr.1 ($12.60 in chips) 
+Seat 6: alanshepard ($5.55 in chips) 
+Seat 7: gbipka ($4.55 in chips) 
+Seat 8: Fflash ($50.05 in chips) 
+Seat 9: D echoo ($15.80 in chips) 
+Dueslag: posts small blind $0.10
+lobablue: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 7c]
+Alameda22: folds 
+Yankees!232: folds 
+mike-nr.1: folds 
+alanshepard: folds 
+mike-nr.1 is sitting out
+gbipka: folds 
+mike-nr.1 leaves the table
+Fflash: folds 
+Dueslag said, "***"
+Dueslag said, "play"
+D echoo has timed out
+D echoo: folds 
+D echoo is sitting out
+Dueslag: calls $0.15
+smelt410 joins the table at seat #5 
+lobablue: checks 
+*** FLOP *** [4s 2c Qh]
+Dueslag: checks 
+lobablue: checks 
+*** TURN *** [4s 2c Qh] [8h]
+Dueslag: checks 
+lobablue: checks 
+*** RIVER *** [4s 2c Qh 8h] [4c]
+D echoo has returned
+Dueslag: checks 
+lobablue: checks 
+*** SHOW DOWN ***
+Dueslag: shows [Ah 9c] (a pair of Fours)
+lobablue: mucks hand 
+Dueslag collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [4s 2c Qh 8h 4c]
+Seat 1: Dueslag (small blind) showed [Ah 9c] and won ($0.50) with a pair of Fours
+Seat 2: lobablue (big blind) mucked [3s Jd]
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: mike-nr.1 folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: D echoo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079679839:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:42:47 (ET)
+Table 'Heze III' 9-max Seat #1 is the button
+Seat 1: Dueslag ($11.70 in chips) 
+Seat 2: lobablue ($12 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: Yankees!232 ($10.50 in chips) 
+Seat 5: smelt410 ($6.70 in chips) 
+Seat 6: alanshepard ($5.55 in chips) 
+Seat 7: gbipka ($4.55 in chips) 
+Seat 8: Fflash ($50.05 in chips) 
+Seat 9: D echoo ($15.80 in chips) 
+lobablue: posts small blind $0.10
+Alameda22: posts big blind $0.25
+smelt410: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Td]
+Yankees!232: folds 
+smelt410: checks 
+alanshepard: calls $0.25
+gbipka: folds 
+Fflash: calls $0.25
+D echoo has timed out
+D echoo: folds 
+D echoo is sitting out
+Dueslag: folds 
+Dueslag leaves the table
+lobablue: calls $0.15
+D echoo leaves the table
+Alameda22: checks 
+*** FLOP *** [Jc Ks 2c]
+TioRicoLPP joins the table at seat #1 
+lobablue: checks 
+Alameda22: checks 
+smelt410: checks 
+alanshepard: checks 
+Fflash: bets $1
+lobablue: folds 
+Alameda22: folds 
+smelt410: folds 
+smelt410 leaves the table
+alanshepard: folds 
+Uncalled bet ($1) returned to Fflash
+Fflash collected $1.20 from pot
+Fflash: doesn't show hand 
+cambell1974 joins the table at seat #9 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Jc Ks 2c]
+Seat 1: Dueslag (button) folded before Flop (didn't bet)
+Seat 2: lobablue (small blind) folded on the Flop
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: smelt410 folded on the Flop
+Seat 6: alanshepard folded on the Flop
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash collected ($1.20)
+Seat 9: D echoo folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079728494:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:44:53 (ET)
+Table 'Heze III' 9-max Seat #2 is the button
+Seat 1: TioRicoLPP ($25 in chips) 
+Seat 2: lobablue ($11.75 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: Yankees!232 ($10.50 in chips) 
+Seat 6: alanshepard ($5.30 in chips) 
+Seat 7: gbipka ($4.55 in chips) 
+Seat 8: Fflash ($51 in chips) 
+Seat 9: cambell1974 ($15 in chips) 
+Alameda22: posts small blind $0.10
+Yankees!232: posts big blind $0.25
+cambell1974: posts big blind $0.25
+TioRicoLPP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Kc]
+WinsW/oAces joins the table at seat #5 
+alanshepard: folds 
+gbipka: folds 
+Fflash: folds 
+cambell1974: checks 
+TioRicoLPP: checks 
+lobablue: calls $0.25
+Alameda22: raises $1.25 to $1.50
+Yankees!232: folds 
+cambell1974: folds 
+TioRicoLPP: folds 
+lobablue: folds 
+Uncalled bet ($1.25) returned to Alameda22
+Alameda22 collected $1.25 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: TioRicoLPP folded before Flop
+Seat 2: lobablue (button) folded before Flop
+Seat 3: Alameda22 (small blind) collected ($1.25)
+Seat 4: Yankees!232 (big blind) folded before Flop
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: cambell1974 folded before Flop
+
+
+
+PokerStars Game #20079759581:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:46:14 (ET)
+Table 'Heze III' 9-max Seat #3 is the button
+Seat 1: TioRicoLPP ($24.75 in chips) 
+Seat 2: lobablue ($11.50 in chips) 
+Seat 3: Alameda22 ($25.75 in chips) 
+Seat 4: Yankees!232 ($10.25 in chips) 
+Seat 5: WinsW/oAces ($19.25 in chips) 
+Seat 6: alanshepard ($5.30 in chips) 
+Seat 7: gbipka ($4.55 in chips) 
+Seat 8: Fflash ($51 in chips) 
+Seat 9: cambell1974 ($14.75 in chips) 
+Yankees!232: posts small blind $0.10
+WinsW/oAces: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 4c]
+alanshepard: folds 
+gbipka: folds 
+Fflash: calls $0.25
+cambell1974: calls $0.25
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+WinsW/oAces: checks 
+*** FLOP *** [Ah 3h Jh]
+WinsW/oAces: checks 
+Fflash: checks 
+cambell1974: bets $0.25
+WinsW/oAces: folds 
+Fflash: folds 
+Uncalled bet ($0.25) returned to cambell1974
+cambell1974 collected $0.85 from pot
+cambell1974: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Ah 3h Jh]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Yankees!232 (small blind) folded before Flop
+Seat 5: WinsW/oAces (big blind) folded on the Flop
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash folded on the Flop
+Seat 9: cambell1974 collected ($0.85)
+
+
+
+PokerStars Game #20079780972:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:47:09 (ET)
+Table 'Heze III' 9-max Seat #4 is the button
+Seat 1: TioRicoLPP ($24.75 in chips) 
+Seat 2: lobablue ($11.50 in chips) 
+Seat 3: Alameda22 ($25.75 in chips) 
+Seat 4: Yankees!232 ($10.15 in chips) 
+Seat 5: WinsW/oAces ($19 in chips) 
+Seat 6: alanshepard ($5.30 in chips) 
+Seat 7: gbipka ($4.55 in chips) 
+Seat 8: Fflash ($50.75 in chips) 
+Seat 9: cambell1974 ($15.35 in chips) 
+WinsW/oAces: posts small blind $0.10
+alanshepard: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 4h]
+gbipka: folds 
+Fflash: folds 
+cambell1974: calls $0.25
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+WinsW/oAces: raises $0.75 to $1
+alanshepard: folds 
+cambell1974: calls $0.75
+*** FLOP *** [5c 9c 3c]
+WinsW/oAces: bets $1.50
+cambell1974: folds 
+Uncalled bet ($1.50) returned to WinsW/oAces
+WinsW/oAces collected $2.15 from pot
+WinsW/oAces: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [5c 9c 3c]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 (button) folded before Flop (didn't bet)
+Seat 5: WinsW/oAces (small blind) collected ($2.15)
+Seat 6: alanshepard (big blind) folded before Flop
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: cambell1974 folded on the Flop
+
+
+
+PokerStars Game #20079806684:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:48:16 (ET)
+Table 'Heze III' 9-max Seat #5 is the button
+Seat 1: TioRicoLPP ($24.75 in chips) 
+Seat 2: lobablue ($11.50 in chips) 
+Seat 3: Alameda22 ($25.75 in chips) 
+Seat 4: Yankees!232 ($10.15 in chips) 
+Seat 5: WinsW/oAces ($20.15 in chips) 
+Seat 6: alanshepard ($5.10 in chips) 
+Seat 7: gbipka ($4.55 in chips) 
+Seat 8: Fflash ($50.75 in chips) 
+Seat 9: cambell1974 ($14.35 in chips) 
+alanshepard: posts small blind $0.10
+gbipka: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 2c]
+Fflash: folds 
+cambell1974: calls $0.25
+TioRicoLPP: folds 
+lobablue: raises $1 to $1.25
+Alameda22: folds 
+Yankees!232: folds 
+WinsW/oAces: folds 
+alanshepard: folds 
+gbipka: folds 
+cambell1974: folds 
+Uncalled bet ($1) returned to lobablue
+lobablue collected $0.85 from pot
+lobablue: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue collected ($0.85)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: WinsW/oAces (button) folded before Flop (didn't bet)
+Seat 6: alanshepard (small blind) folded before Flop
+Seat 7: gbipka (big blind) folded before Flop
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: cambell1974 folded before Flop
+
+
+
+PokerStars Game #20079835175:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:49:31 (ET)
+Table 'Heze III' 9-max Seat #6 is the button
+Seat 1: TioRicoLPP ($24.75 in chips) 
+Seat 2: lobablue ($12.10 in chips) 
+Seat 3: Alameda22 ($25.75 in chips) 
+Seat 4: Yankees!232 ($10.15 in chips) 
+Seat 5: WinsW/oAces ($20.15 in chips) 
+Seat 6: alanshepard ($5 in chips) 
+Seat 7: gbipka ($4.30 in chips) 
+Seat 8: Fflash ($50.75 in chips) 
+Seat 9: cambell1974 ($14.10 in chips) 
+gbipka: posts small blind $0.10
+Fflash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Ah]
+cambell1974: calls $0.25
+TioRicoLPP: folds 
+lobablue: raises $1 to $1.25
+Alameda22: folds 
+Yankees!232: folds 
+WinsW/oAces: folds 
+alanshepard: folds 
+gbipka: folds 
+Fflash: folds 
+cambell1974: folds 
+Uncalled bet ($1) returned to lobablue
+lobablue collected $0.85 from pot
+lobablue: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue collected ($0.85)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: alanshepard (button) folded before Flop (didn't bet)
+Seat 7: gbipka (small blind) folded before Flop
+Seat 8: Fflash (big blind) folded before Flop
+Seat 9: cambell1974 folded before Flop
+
+
+
+PokerStars Game #20079854268:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:50:22 (ET)
+Table 'Heze III' 9-max Seat #7 is the button
+Seat 1: TioRicoLPP ($24.75 in chips) 
+Seat 2: lobablue ($12.70 in chips) 
+Seat 3: Alameda22 ($25.75 in chips) 
+Seat 4: Yankees!232 ($10.15 in chips) 
+Seat 5: WinsW/oAces ($20.15 in chips) 
+Seat 6: alanshepard ($5 in chips) 
+Seat 7: gbipka ($4.20 in chips) 
+Seat 8: Fflash ($50.50 in chips) 
+Seat 9: cambell1974 ($13.85 in chips) 
+Fflash: posts small blind $0.10
+cambell1974: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Kc]
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: raises $0.75 to $1
+Yankees!232: raises $2 to $3
+WinsW/oAces: folds 
+alanshepard: folds 
+gbipka: folds 
+Fflash: folds 
+cambell1974: folds 
+Alameda22: folds 
+Uncalled bet ($2) returned to Yankees!232
+Yankees!232 collected $2.35 from pot
+Yankees!232: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0 
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop
+Seat 4: Yankees!232 collected ($2.35)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: gbipka (button) folded before Flop (didn't bet)
+Seat 8: Fflash (small blind) folded before Flop
+Seat 9: cambell1974 (big blind) folded before Flop
+
+
+
+PokerStars Game #20079876447:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:51:20 (ET)
+Table 'Heze III' 9-max Seat #8 is the button
+Seat 1: TioRicoLPP ($24.75 in chips) 
+Seat 2: lobablue ($12.70 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: Yankees!232 ($11.50 in chips) 
+Seat 5: WinsW/oAces ($20.15 in chips) 
+Seat 6: alanshepard ($5 in chips) 
+Seat 7: gbipka ($4.20 in chips) 
+Seat 8: Fflash ($50.40 in chips) 
+Seat 9: cambell1974 ($13.60 in chips) 
+cambell1974: posts small blind $0.10
+TioRicoLPP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 7h]
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: raises $0.75 to $1
+WinsW/oAces: folds 
+alanshepard: folds 
+gbipka: raises $3.20 to $4.20 and is all-in
+Fflash: folds 
+cambell1974: folds 
+TioRicoLPP: folds 
+Yankees!232: calls $3.20
+*** FLOP *** [3h 2c 4c]
+*** TURN *** [3h 2c 4c] [4h]
+*** RIVER *** [3h 2c 4c 4h] [8s]
+*** SHOW DOWN ***
+Yankees!232: shows [Kd Jd] (a pair of Fours)
+gbipka: shows [Kc Kh] (two pair, Kings and Fours)
+gbipka collected $8.35 from pot
+*** SUMMARY ***
+Total pot $8.75 | Rake $0.40 
+Board [3h 2c 4c 4h 8s]
+Seat 1: TioRicoLPP (big blind) folded before Flop
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 showed [Kd Jd] and lost with a pair of Fours
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: gbipka showed [Kc Kh] and won ($8.35) with two pair, Kings and Fours
+Seat 8: Fflash (button) folded before Flop (didn't bet)
+Seat 9: cambell1974 (small blind) folded before Flop
+
+
+
+PokerStars Game #20079898727:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:52:20 (ET)
+Table 'Heze III' 9-max Seat #9 is the button
+Seat 1: TioRicoLPP ($24.50 in chips) 
+Seat 2: lobablue ($12.70 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: Yankees!232 ($7.30 in chips) 
+Seat 5: WinsW/oAces ($20.15 in chips) 
+Seat 6: alanshepard ($5 in chips) 
+Seat 7: gbipka ($8.35 in chips) 
+Seat 8: Fflash ($50.40 in chips) 
+Seat 9: cambell1974 ($13.50 in chips) 
+TioRicoLPP: posts small blind $0.10
+lobablue: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 7h]
+Alameda22: folds 
+Yankees!232: folds 
+WinsW/oAces: folds 
+alanshepard: folds 
+gbipka: folds 
+Fflash: raises $0.75 to $1
+cambell1974: calls $1
+TioRicoLPP: folds 
+lobablue: folds 
+*** FLOP *** [Jh Ts 7s]
+Fflash: bets $1.50
+cambell1974: calls $1.50
+*** TURN *** [Jh Ts 7s] [Qc]
+Fflash: checks 
+cambell1974: checks 
+*** RIVER *** [Jh Ts 7s Qc] [Js]
+Fflash: checks 
+cambell1974: checks 
+*** SHOW DOWN ***
+Fflash: shows [Kc Th] (two pair, Jacks and Tens)
+cambell1974: shows [Tc Ad] (two pair, Jacks and Tens - Ace kicker)
+cambell1974 collected $5.10 from pot
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [Jh Ts 7s Qc Js]
+Seat 1: TioRicoLPP (small blind) folded before Flop
+Seat 2: lobablue (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash showed [Kc Th] and lost with two pair, Jacks and Tens
+Seat 9: cambell1974 (button) showed [Tc Ad] and won ($5.10) with two pair, Jacks and Tens
+
+
+
+PokerStars Game #20079935352:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:53:57 (ET)
+Table 'Heze III' 9-max Seat #1 is the button
+Seat 1: TioRicoLPP ($24.40 in chips) 
+Seat 2: lobablue ($12.45 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: Yankees!232 ($7.30 in chips) 
+Seat 5: WinsW/oAces ($20.15 in chips) 
+Seat 6: alanshepard ($5 in chips) 
+Seat 7: gbipka ($8.35 in chips) 
+Seat 8: Fflash ($47.90 in chips) 
+Seat 9: cambell1974 ($16.10 in chips) 
+lobablue: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 5d]
+Yankees!232: folds 
+WinsW/oAces: folds 
+alanshepard: folds 
+gbipka: folds 
+Fflash: folds 
+cambell1974: folds 
+TioRicoLPP: raises $0.75 to $1
+lobablue: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to TioRicoLPP
+TioRicoLPP collected $0.60 from pot
+TioRicoLPP: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: TioRicoLPP (button) collected ($0.60)
+Seat 2: lobablue (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: cambell1974 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079944577:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:54:21 (ET)
+Table 'Heze III' 9-max Seat #2 is the button
+Seat 1: TioRicoLPP ($24.75 in chips) 
+Seat 2: lobablue ($12.35 in chips) 
+Seat 3: Alameda22 ($24.50 in chips) 
+Seat 4: Yankees!232 ($7.30 in chips) 
+Seat 5: WinsW/oAces ($20.15 in chips) 
+Seat 6: alanshepard ($5 in chips) 
+Seat 7: gbipka ($8.35 in chips) 
+Seat 8: Fflash ($47.90 in chips) 
+Seat 9: cambell1974 ($16.10 in chips) 
+Alameda22: posts small blind $0.10
+Yankees!232: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd Kc]
+WinsW/oAces: raises $0.75 to $1
+alanshepard: folds 
+gbipka: folds 
+Fflash: folds 
+cambell1974: folds 
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: raises $3 to $4
+Yankees!232: folds 
+WinsW/oAces: calls $3
+*** FLOP *** [9c 7c Qh]
+Alameda22: bets $5.50
+WinsW/oAces: folds 
+Uncalled bet ($5.50) returned to Alameda22
+Alameda22 collected $7.85 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.40 
+Board [9c 7c Qh]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) collected ($7.85)
+Seat 4: Yankees!232 (big blind) folded before Flop
+Seat 5: WinsW/oAces folded on the Flop
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: cambell1974 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079970171:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:55:30 (ET)
+Table 'Heze III' 9-max Seat #3 is the button
+Seat 1: TioRicoLPP ($24.75 in chips) 
+Seat 2: lobablue ($12.35 in chips) 
+Seat 3: Alameda22 ($28.35 in chips) 
+Seat 4: Yankees!232 ($7.05 in chips) 
+Seat 5: WinsW/oAces ($16.15 in chips) 
+Seat 6: alanshepard ($5 in chips) 
+Seat 7: gbipka ($8.35 in chips) 
+Seat 8: Fflash ($47.90 in chips) 
+Seat 9: cambell1974 ($16.10 in chips) 
+Yankees!232: posts small blind $0.10
+WinsW/oAces: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Ks]
+alanshepard: raises $0.75 to $1
+gbipka: folds 
+Fflash: folds 
+cambell1974: folds 
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+WinsW/oAces: calls $0.75
+*** FLOP *** [8c Td 2d]
+WinsW/oAces: checks 
+alanshepard: checks 
+*** TURN *** [8c Td 2d] [7d]
+WinsW/oAces: checks 
+alanshepard: checks 
+*** RIVER *** [8c Td 2d 7d] [6c]
+WinsW/oAces: bets $1
+alanshepard: folds 
+Uncalled bet ($1) returned to WinsW/oAces
+WinsW/oAces collected $2 from pot
+WinsW/oAces: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [8c Td 2d 7d 6c]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Yankees!232 (small blind) folded before Flop
+Seat 5: WinsW/oAces (big blind) collected ($2)
+Seat 6: alanshepard folded on the River
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: cambell1974 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20079991111:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:56:26 (ET)
+Table 'Heze III' 9-max Seat #4 is the button
+Seat 1: TioRicoLPP ($24.75 in chips) 
+Seat 2: lobablue ($12.35 in chips) 
+Seat 3: Alameda22 ($28.35 in chips) 
+Seat 4: Yankees!232 ($6.95 in chips) 
+Seat 5: WinsW/oAces ($17.15 in chips) 
+Seat 6: alanshepard ($5.35 in chips) 
+Seat 7: gbipka ($8.35 in chips) 
+Seat 8: Fflash ($47.90 in chips) 
+Seat 9: cambell1974 ($16.10 in chips) 
+WinsW/oAces: posts small blind $0.10
+alanshepard: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 2s]
+gbipka: folds 
+Fflash: folds 
+cambell1974: calls $0.25
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+WinsW/oAces: calls $0.15
+alanshepard: checks 
+*** FLOP *** [6c 8c 7h]
+WinsW/oAces: checks 
+alanshepard: checks 
+cambell1974: checks 
+*** TURN *** [6c 8c 7h] [4h]
+WinsW/oAces: checks 
+alanshepard: checks 
+cambell1974: checks 
+*** RIVER *** [6c 8c 7h 4h] [Qc]
+WinsW/oAces: checks 
+alanshepard: checks 
+cambell1974: checks 
+*** SHOW DOWN ***
+WinsW/oAces: shows [7c Jd] (a pair of Sevens)
+alanshepard: mucks hand 
+cambell1974: mucks hand 
+WinsW/oAces collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [6c 8c 7h 4h Qc]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 (button) folded before Flop (didn't bet)
+Seat 5: WinsW/oAces (small blind) showed [7c Jd] and won ($0.75) with a pair of Sevens
+Seat 6: alanshepard (big blind) mucked [Jh 2d]
+Seat 7: gbipka folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+Seat 9: cambell1974 mucked [Ac 6s]
+
+
+
+PokerStars Game #20080014676:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:57:30 (ET)
+Table 'Heze III' 9-max Seat #5 is the button
+Seat 1: TioRicoLPP ($24.75 in chips) 
+Seat 2: lobablue ($12.35 in chips) 
+Seat 3: Alameda22 ($28.35 in chips) 
+Seat 4: Yankees!232 ($6.95 in chips) 
+Seat 5: WinsW/oAces ($17.65 in chips) 
+Seat 6: alanshepard ($5.10 in chips) 
+Seat 8: Fflash ($47.90 in chips) 
+Seat 9: cambell1974 ($15.85 in chips) 
+alanshepard: posts small blind $0.10
+gbipka: is sitting out 
+gbipka leaves the table
+Fflash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 4s]
+cambell1974: calls $0.25
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+WinsW/oAces: calls $0.25
+alanshepard: folds 
+Fflash: checks 
+*** FLOP *** [3h Qs Qh]
+Fflash: checks 
+cambell1974: checks 
+WinsW/oAces: checks 
+*** TURN *** [3h Qs Qh] [8d]
+Fflash: bets $0.50
+cambell1974: folds 
+WinsW/oAces: folds 
+Uncalled bet ($0.50) returned to Fflash
+Fflash collected $0.85 from pot
+Fflash: doesn't show hand 
+cambell1974 leaves the table
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [3h Qs Qh 8d]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: WinsW/oAces (button) folded on the Turn
+Seat 6: alanshepard (small blind) folded before Flop
+Seat 8: Fflash (big blind) collected ($0.85)
+Seat 9: cambell1974 folded on the Turn
+
+
+
+PokerStars Game #20080036391:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:58:29 (ET)
+Table 'Heze III' 9-max Seat #6 is the button
+Seat 1: TioRicoLPP ($24.75 in chips) 
+Seat 2: lobablue ($12.35 in chips) 
+Seat 3: Alameda22 ($28.35 in chips) 
+Seat 4: Yankees!232 ($6.95 in chips) 
+Seat 5: WinsW/oAces ($17.40 in chips) 
+Seat 6: alanshepard ($5 in chips) 
+Seat 8: Fflash ($48.50 in chips) 
+Fflash: posts small blind $0.10
+TioRicoLPP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 2s]
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+WinsW/oAces: raises $0.75 to $1
+alanshepard: folds 
+Fflash: folds 
+TioRicoLPP: folds 
+Uncalled bet ($0.75) returned to WinsW/oAces
+WinsW/oAces collected $0.60 from pot
+WinsW/oAces: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: TioRicoLPP (big blind) folded before Flop
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: WinsW/oAces collected ($0.60)
+Seat 6: alanshepard (button) folded before Flop (didn't bet)
+Seat 8: Fflash (small blind) folded before Flop
+
+
+
+PokerStars Game #20080046348:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:58:55 (ET)
+Table 'Heze III' 9-max Seat #8 is the button
+Seat 1: TioRicoLPP ($24.50 in chips) 
+Seat 2: lobablue ($12.35 in chips) 
+Seat 3: Alameda22 ($28.35 in chips) 
+Seat 4: Yankees!232 ($6.95 in chips) 
+Seat 5: WinsW/oAces ($17.75 in chips) 
+Seat 6: alanshepard ($5 in chips) 
+Seat 8: Fflash ($48.40 in chips) 
+TioRicoLPP: posts small blind $0.10
+lobablue: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 7c]
+Alameda22: folds 
+Yankees!232: raises $0.50 to $0.75
+WinsW/oAces: folds 
+alanshepard: folds 
+Fflash: folds 
+TioRicoLPP: folds 
+lobablue: folds 
+Uncalled bet ($0.50) returned to Yankees!232
+Yankees!232 collected $0.60 from pot
+Yankees!232: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: TioRicoLPP (small blind) folded before Flop
+Seat 2: lobablue (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 collected ($0.60)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 8: Fflash (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080061081:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 21:59:36 (ET)
+Table 'Heze III' 9-max Seat #1 is the button
+Seat 1: TioRicoLPP ($24.40 in chips) 
+Seat 2: lobablue ($12.10 in chips) 
+Seat 3: Alameda22 ($28.35 in chips) 
+Seat 4: Yankees!232 ($7.30 in chips) 
+Seat 5: WinsW/oAces ($17.75 in chips) 
+Seat 6: alanshepard ($5 in chips) 
+Seat 8: Fflash ($48.40 in chips) 
+lobablue: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 3d]
+Yankees!232: calls $0.25
+WinsW/oAces: folds 
+alanshepard: folds 
+Fflash: folds 
+TioRicoLPP: raises $0.75 to $1
+Fflash leaves the table
+lobablue: calls $0.90
+Alameda22: folds 
+Yankees!232: calls $0.75
+*** FLOP *** [Qd Ah 2h]
+lobablue: checks 
+Yankees!232: checks 
+TioRicoLPP: bets $2
+alanshepard is disconnected 
+lobablue: folds 
+Yankees!232: folds 
+Uncalled bet ($2) returned to TioRicoLPP
+TioRicoLPP collected $3.10 from pot
+TioRicoLPP: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [Qd Ah 2h]
+Seat 1: TioRicoLPP (button) collected ($3.10)
+Seat 2: lobablue (small blind) folded on the Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: Yankees!232 folded on the Flop
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+Seat 8: Fflash folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080088558:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:00:48 (ET)
+Table 'Heze III' 9-max Seat #2 is the button
+Seat 1: TioRicoLPP ($26.50 in chips) 
+Seat 2: lobablue ($11.10 in chips) 
+Seat 3: Alameda22 ($28.10 in chips) 
+Seat 4: Yankees!232 ($6.30 in chips) 
+Seat 5: WinsW/oAces ($17.75 in chips) 
+Seat 6: alanshepard ($5 in chips) 
+Alameda22: posts small blind $0.10
+Yankees!232: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 7d]
+alanshepard is connected 
+WinsW/oAces: folds 
+alanshepard: folds 
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to Yankees!232
+Yankees!232 collected $0.20 from pot
+Yankees!232: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Yankees!232 (big blind) collected ($0.20)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: alanshepard folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080105326:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:01:32 (ET)
+Table 'Heze III' 9-max Seat #3 is the button
+Seat 1: TioRicoLPP ($26.50 in chips) 
+Seat 2: lobablue ($11.10 in chips) 
+Seat 3: Alameda22 ($28 in chips) 
+Seat 4: Yankees!232 ($6.40 in chips) 
+Seat 5: WinsW/oAces ($17.75 in chips) 
+Seat 6: alanshepard ($5 in chips) 
+Yankees!232: posts small blind $0.10
+WinsW/oAces: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Ts]
+alanshepard: folds 
+alanshepard leaves the table
+TioRicoLPP: calls $0.25
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: calls $0.15
+WinsW/oAces: checks 
+*** FLOP *** [3c 5h 5s]
+Yankees!232: checks 
+WinsW/oAces: checks 
+TioRicoLPP: checks 
+*** TURN *** [3c 5h 5s] [5d]
+Yankees!232: checks 
+WinsW/oAces: bets $1
+TioRicoLPP: calls $1
+Yankees!232: folds 
+*** RIVER *** [3c 5h 5s 5d] [8s]
+WinsW/oAces: checks 
+TioRicoLPP: checks 
+*** SHOW DOWN ***
+WinsW/oAces: shows [3s 6c] (a full house, Fives full of Threes)
+TioRicoLPP: mucks hand 
+WinsW/oAces collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [3c 5h 5s 5d 8s]
+Seat 1: TioRicoLPP mucked [2h 2s]
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Yankees!232 (small blind) folded on the Turn
+Seat 5: WinsW/oAces (big blind) showed [3s 6c] and won ($2.65) with a full house, Fives full of Threes
+Seat 6: alanshepard folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080131704:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:02:43 (ET)
+Table 'Heze III' 9-max Seat #4 is the button
+Seat 1: TioRicoLPP ($25.25 in chips) 
+Seat 2: lobablue ($11.10 in chips) 
+Seat 3: Alameda22 ($28 in chips) 
+Seat 4: Yankees!232 ($6.15 in chips) 
+Seat 5: WinsW/oAces ($19.15 in chips) 
+WinsW/oAces: posts small blind $0.10
+TioRicoLPP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 2s]
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: folds 
+WinsW/oAces: calls $0.15
+TioRicoLPP: checks 
+*** FLOP *** [8s Js 4d]
+WinsW/oAces: checks 
+TioRicoLPP: checks 
+*** TURN *** [8s Js 4d] [5c]
+WinsW/oAces: checks 
+TioRicoLPP: checks 
+*** RIVER *** [8s Js 4d 5c] [Ac]
+WinsW/oAces: checks 
+TioRicoLPP: checks 
+*** SHOW DOWN ***
+WinsW/oAces: shows [9s 2c] (high card Ace)
+TioRicoLPP: shows [4h 7c] (a pair of Fours)
+TioRicoLPP collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [8s Js 4d 5c Ac]
+Seat 1: TioRicoLPP (big blind) showed [4h 7c] and won ($0.50) with a pair of Fours
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 (button) folded before Flop (didn't bet)
+Seat 5: WinsW/oAces (small blind) showed [9s 2c] and lost with high card Ace
+
+
+
+PokerStars Game #20080161774:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:04:03 (ET)
+Table 'Heze III' 9-max Seat #5 is the button
+Seat 1: TioRicoLPP ($25.50 in chips) 
+Seat 2: lobablue ($11.10 in chips) 
+Seat 3: Alameda22 ($28 in chips) 
+Seat 4: Yankees!232 ($6.15 in chips) 
+Seat 5: WinsW/oAces ($18.90 in chips) 
+TioRicoLPP: posts small blind $0.10
+lobablue: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 9h]
+4KIDS&AWIFE joins the table at seat #6 
+r1ver_w0m@n joins the table at seat #8 
+Alameda22: folds 
+Jeffrey 7766 joins the table at seat #7 
+Yankees!232: folds 
+WinsW/oAces: calls $0.25
+TioRicoLPP: folds 
+lobablue: checks 
+*** FLOP *** [5d Kd 6h]
+lobablue: checks 
+WinsW/oAces: bets $0.75
+lobablue: folds 
+Uncalled bet ($0.75) returned to WinsW/oAces
+WinsW/oAces collected $0.60 from pot
+WinsW/oAces: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [5d Kd 6h]
+Seat 1: TioRicoLPP (small blind) folded before Flop
+Seat 2: lobablue (big blind) folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: WinsW/oAces (button) collected ($0.60)
+
+
+
+PokerStars Game #20080181711:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:04:56 (ET)
+Table 'Heze III' 9-max Seat #1 is the button
+Seat 1: TioRicoLPP ($25.40 in chips) 
+Seat 2: lobablue ($10.85 in chips) 
+Seat 3: Alameda22 ($28 in chips) 
+Seat 4: Yankees!232 ($6.15 in chips) 
+Seat 5: WinsW/oAces ($19.25 in chips) 
+Seat 6: 4KIDS&AWIFE ($10 in chips) 
+Seat 7: Jeffrey 7766 ($6.55 in chips) 
+Seat 8: r1ver_w0m@n ($15 in chips) 
+lobablue: posts small blind $0.10
+Alameda22: posts big blind $0.25
+4KIDS&AWIFE: posts big blind $0.25
+Jeffrey 7766: posts big blind $0.25
+r1ver_w0m@n: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 4s]
+Yankees!232: folds 
+WinsW/oAces: folds 
+4KIDS&AWIFE: checks 
+Jeffrey 7766: checks 
+r1ver_w0m@n: checks 
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: checks 
+*** FLOP *** [5d 8s Qc]
+Alameda22: checks 
+4KIDS&AWIFE: bets $0.25
+Jeffrey 7766: calls $0.25
+r1ver_w0m@n: folds 
+Alameda22: folds 
+*** TURN *** [5d 8s Qc] [6d]
+joelzehr37 joins the table at seat #9 
+4KIDS&AWIFE: bets $0.50
+Jeffrey 7766: calls $0.50
+*** RIVER *** [5d 8s Qc 6d] [Ah]
+4KIDS&AWIFE: bets $0.50
+Jeffrey 7766: raises $2 to $2.50
+4KIDS&AWIFE: folds 
+Uncalled bet ($2) returned to Jeffrey 7766
+r1ver_w0m@n is disconnected 
+Jeffrey 7766 collected $3.45 from pot
+Jeffrey 7766: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.15 
+Board [5d 8s Qc 6d Ah]
+Seat 1: TioRicoLPP (button) folded before Flop (didn't bet)
+Seat 2: lobablue (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: 4KIDS&AWIFE folded on the River
+Seat 7: Jeffrey 7766 collected ($3.45)
+Seat 8: r1ver_w0m@n folded on the Flop
+
+
+
+PokerStars Game #20080217977:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:06:34 (ET)
+Table 'Heze III' 9-max Seat #2 is the button
+Seat 1: TioRicoLPP ($25.40 in chips) 
+Seat 2: lobablue ($10.75 in chips) 
+Seat 3: Alameda22 ($27.75 in chips) 
+Seat 4: Yankees!232 ($6.15 in chips) 
+Seat 5: WinsW/oAces ($19.25 in chips) 
+Seat 6: 4KIDS&AWIFE ($8.50 in chips) 
+Seat 7: Jeffrey 7766 ($8.50 in chips) 
+Seat 8: r1ver_w0m@n ($14.75 in chips) 
+Seat 9: joelzehr37 ($15 in chips) 
+Alameda22: posts small blind $0.10
+Yankees!232: posts big blind $0.25
+joelzehr37: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 5d]
+WinsW/oAces: calls $0.25
+4KIDS&AWIFE: calls $0.25
+Jeffrey 7766: calls $0.25
+r1ver_w0m@n has timed out while disconnected
+r1ver_w0m@n: folds 
+r1ver_w0m@n is sitting out
+joelzehr37: checks 
+r1ver_w0m@n is connected 
+r1ver_w0m@n has returned
+TioRicoLPP: calls $0.25
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: checks 
+*** FLOP *** [2s 7c 7d]
+Yankees!232: checks 
+WinsW/oAces: checks 
+4KIDS&AWIFE: checks 
+Jeffrey 7766: checks 
+joelzehr37: checks 
+TioRicoLPP: checks 
+*** TURN *** [2s 7c 7d] [Ah]
+Yankees!232: checks 
+WinsW/oAces: checks 
+4KIDS&AWIFE: checks 
+Jeffrey 7766: checks 
+joelzehr37: checks 
+TioRicoLPP: checks 
+*** RIVER *** [2s 7c 7d Ah] [As]
+Yankees!232: checks 
+WinsW/oAces: checks 
+4KIDS&AWIFE: checks 
+Jeffrey 7766: bets $1.50
+joelzehr37: calls $1.50
+TioRicoLPP: calls $1.50
+Yankees!232: folds 
+WinsW/oAces: folds 
+4KIDS&AWIFE: folds 
+*** SHOW DOWN ***
+Jeffrey 7766: shows [Ts 8s] (two pair, Aces and Sevens)
+joelzehr37: shows [7s Qd] (a full house, Sevens full of Aces)
+TioRicoLPP: mucks hand 
+joelzehr37 collected $5.80 from pot
+*** SUMMARY ***
+Total pot $6.10 | Rake $0.30 
+Board [2s 7c 7d Ah As]
+Seat 1: TioRicoLPP mucked [Qc Kh]
+Seat 2: lobablue (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Yankees!232 (big blind) folded on the River
+Seat 5: WinsW/oAces folded on the River
+Seat 6: 4KIDS&AWIFE folded on the River
+Seat 7: Jeffrey 7766 showed [Ts 8s] and lost with two pair, Aces and Sevens
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+Seat 9: joelzehr37 showed [7s Qd] and won ($5.80) with a full house, Sevens full of Aces
+
+
+
+PokerStars Game #20080275248:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:09:07 (ET)
+Table 'Heze III' 9-max Seat #3 is the button
+Seat 1: TioRicoLPP ($23.65 in chips) 
+Seat 2: lobablue ($10.75 in chips) 
+Seat 3: Alameda22 ($27.65 in chips) 
+Seat 4: Yankees!232 ($5.90 in chips) 
+Seat 5: WinsW/oAces ($19 in chips) 
+Seat 6: 4KIDS&AWIFE ($8.25 in chips) 
+Seat 7: Jeffrey 7766 ($6.75 in chips) 
+Seat 8: r1ver_w0m@n ($14.75 in chips) 
+Seat 9: joelzehr37 ($19.05 in chips) 
+Yankees!232: posts small blind $0.10
+WinsW/oAces: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Qd]
+4KIDS&AWIFE: folds 
+Jeffrey 7766 is disconnected 
+Jeffrey 7766 has timed out while disconnected
+Jeffrey 7766: folds 
+Jeffrey 7766 is sitting out
+r1ver_w0m@n: folds 
+joelzehr37: calls $0.25
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: calls $0.15
+WinsW/oAces: checks 
+*** FLOP *** [5s 4d Jh]
+Yankees!232: checks 
+WinsW/oAces: checks 
+joelzehr37: checks 
+*** TURN *** [5s 4d Jh] [4s]
+Yankees!232: bets $0.50
+WinsW/oAces: folds 
+joelzehr37: calls $0.50
+*** RIVER *** [5s 4d Jh 4s] [Kh]
+Yankees!232: checks 
+joelzehr37: checks 
+*** SHOW DOWN ***
+Yankees!232: shows [2s Ad] (a pair of Fours)
+joelzehr37: shows [8h As] (a pair of Fours)
+Yankees!232 collected $0.85 from pot
+joelzehr37 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [5s 4d Jh 4s Kh]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Yankees!232 (small blind) showed [2s Ad] and won ($0.85) with a pair of Fours
+Seat 5: WinsW/oAces (big blind) folded on the Turn
+Seat 6: 4KIDS&AWIFE folded before Flop (didn't bet)
+Seat 7: Jeffrey 7766 folded before Flop (didn't bet)
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+Seat 9: joelzehr37 showed [8h As] and won ($0.85) with a pair of Fours
+
+
+
+PokerStars Game #20080309580:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:10:39 (ET)
+Table 'Heze III' 9-max Seat #4 is the button
+Seat 1: TioRicoLPP ($23.65 in chips) 
+Seat 2: lobablue ($10.75 in chips) 
+Seat 3: Alameda22 ($27.65 in chips) 
+Seat 4: Yankees!232 ($6 in chips) 
+Seat 5: WinsW/oAces ($18.75 in chips) 
+Seat 6: 4KIDS&AWIFE ($8.25 in chips) 
+Seat 8: r1ver_w0m@n ($14.75 in chips) 
+Seat 9: joelzehr37 ($19.15 in chips) 
+WinsW/oAces: posts small blind $0.10
+4KIDS&AWIFE: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Js]
+r1ver_w0m@n has timed out
+r1ver_w0m@n: folds 
+r1ver_w0m@n is sitting out
+joelzehr37: folds 
+TioRicoLPP: folds 
+lobablue: calls $0.25
+Alameda22: folds 
+Yankees!232: raises $0.75 to $1
+WinsW/oAces: calls $0.90
+4KIDS&AWIFE: folds 
+lobablue: folds 
+*** FLOP *** [4s Kh 2s]
+WinsW/oAces: checks 
+Yankees!232: bets $1.25
+r1ver_w0m@n has returned
+WinsW/oAces: folds 
+Uncalled bet ($1.25) returned to Yankees!232
+Yankees!232 collected $2.40 from pot
+Yankees!232: doesn't show hand 
+joelzehr37 is sitting out
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [4s Kh 2s]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 (button) collected ($2.40)
+Seat 5: WinsW/oAces (small blind) folded on the Flop
+Seat 6: 4KIDS&AWIFE (big blind) folded before Flop
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+Seat 9: joelzehr37 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080340809:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:12:02 (ET)
+Table 'Heze III' 9-max Seat #5 is the button
+Seat 1: TioRicoLPP ($23.65 in chips) 
+Seat 2: lobablue ($10.50 in chips) 
+Seat 3: Alameda22 ($27.65 in chips) 
+Seat 4: Yankees!232 ($7.40 in chips) 
+Seat 5: WinsW/oAces ($17.75 in chips) 
+Seat 6: 4KIDS&AWIFE ($8 in chips) 
+Seat 8: r1ver_w0m@n ($14.75 in chips) 
+4KIDS&AWIFE: posts small blind $0.10
+r1ver_w0m@n: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 8c]
+joelzehr37 leaves the table
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: calls $0.25
+WinsW/oAces: calls $0.25
+4KIDS&AWIFE: calls $0.15
+r1ver_w0m@n: checks 
+*** FLOP *** [Qd Jd Ks]
+4KIDS&AWIFE: bets $0.25
+r1ver_w0m@n: calls $0.25
+Yankees!232: folds 
+WinsW/oAces: calls $0.25
+*** TURN *** [Qd Jd Ks] [4h]
+4KIDS&AWIFE: bets $0.25
+r1ver_w0m@n: calls $0.25
+WinsW/oAces: calls $0.25
+*** RIVER *** [Qd Jd Ks 4h] [2c]
+4KIDS&AWIFE: bets $0.25
+r1ver_w0m@n: folds 
+WinsW/oAces: calls $0.25
+*** SHOW DOWN ***
+4KIDS&AWIFE: shows [5h Jh] (a pair of Jacks)
+WinsW/oAces: shows [Kd 9h] (a pair of Kings)
+WinsW/oAces collected $2.90 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.10 
+Board [Qd Jd Ks 4h 2c]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded on the Flop
+Seat 5: WinsW/oAces (button) showed [Kd 9h] and won ($2.90) with a pair of Kings
+Seat 6: 4KIDS&AWIFE (small blind) showed [5h Jh] and lost with a pair of Jacks
+Seat 8: r1ver_w0m@n (big blind) folded on the River
+
+
+
+PokerStars Game #20080365542:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:13:09 (ET)
+Table 'Heze III' 9-max Seat #6 is the button
+Seat 1: TioRicoLPP ($23.65 in chips) 
+Seat 2: lobablue ($10.50 in chips) 
+Seat 3: Alameda22 ($27.65 in chips) 
+Seat 4: Yankees!232 ($7.15 in chips) 
+Seat 5: WinsW/oAces ($19.65 in chips) 
+Seat 6: 4KIDS&AWIFE ($7 in chips) 
+Seat 8: r1ver_w0m@n ($14 in chips) 
+tightline123 joins the table at seat #9 
+r1ver_w0m@n: posts small blind $0.10
+TioRicoLPP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 2c]
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: calls $0.25
+WinsW/oAces: folds 
+4KIDS&AWIFE: calls $0.25
+r1ver_w0m@n: folds 
+TioRicoLPP: checks 
+*** FLOP *** [6d 4c 3s]
+Jeffrey 7766 is connected 
+Jeffrey 7766 has returned
+TioRicoLPP: checks 
+Yankees!232: checks 
+4KIDS&AWIFE: bets $0.25
+TioRicoLPP: folds 
+Yankees!232: folds 
+Uncalled bet ($0.25) returned to 4KIDS&AWIFE
+4KIDS&AWIFE collected $0.85 from pot
+4KIDS&AWIFE: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [6d 4c 3s]
+Seat 1: TioRicoLPP (big blind) folded on the Flop
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded on the Flop
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: 4KIDS&AWIFE (button) collected ($0.85)
+Seat 8: r1ver_w0m@n (small blind) folded before Flop
+
+
+
+PokerStars Game #20080399379:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:14:40 (ET)
+Table 'Heze III' 9-max Seat #8 is the button
+Seat 1: TioRicoLPP ($23.40 in chips) 
+Seat 2: lobablue ($10.50 in chips) 
+Seat 3: Alameda22 ($27.65 in chips) 
+Seat 4: Yankees!232 ($6.90 in chips) 
+Seat 5: WinsW/oAces ($19.65 in chips) 
+Seat 6: 4KIDS&AWIFE ($7.60 in chips) 
+Seat 7: Jeffrey 7766 ($6.75 in chips) 
+Seat 8: r1ver_w0m@n ($13.90 in chips) 
+tightline123 will be allowed to play after the button
+TioRicoLPP: posts small blind $0.10
+lobablue: posts big blind $0.25
+Jeffrey 7766: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 2h]
+Alameda22: folds 
+Yankees!232: folds 
+WinsW/oAces: folds 
+4KIDS&AWIFE: folds 
+Jeffrey 7766: checks 
+r1ver_w0m@n: folds 
+TioRicoLPP: folds 
+lobablue: checks 
+*** FLOP *** [Qc Ks 7d]
+lobablue: checks 
+Jeffrey 7766: checks 
+*** TURN *** [Qc Ks 7d] [8h]
+lobablue: checks 
+Jeffrey 7766: checks 
+*** RIVER *** [Qc Ks 7d 8h] [9c]
+lobablue: bets $0.25
+Jeffrey 7766: raises $0.75 to $1
+lobablue: folds 
+Uncalled bet ($0.75) returned to Jeffrey 7766
+Jeffrey 7766 collected $1.15 from pot
+Jeffrey 7766: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [Qc Ks 7d 8h 9c]
+Seat 1: TioRicoLPP (small blind) folded before Flop
+Seat 2: lobablue (big blind) folded on the River
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: 4KIDS&AWIFE folded before Flop (didn't bet)
+Seat 7: Jeffrey 7766 collected ($1.15)
+Seat 8: r1ver_w0m@n (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080425675:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:15:50 (ET)
+Table 'Heze III' 9-max Seat #1 is the button
+Seat 1: TioRicoLPP ($23.30 in chips) 
+Seat 2: lobablue ($10 in chips) 
+Seat 3: Alameda22 ($27.65 in chips) 
+Seat 4: Yankees!232 ($6.90 in chips) 
+Seat 5: WinsW/oAces ($19.65 in chips) 
+Seat 6: 4KIDS&AWIFE ($7.60 in chips) 
+Seat 7: Jeffrey 7766 ($7.30 in chips) 
+Seat 8: r1ver_w0m@n ($13.90 in chips) 
+Seat 9: tightline123 ($15 in chips) 
+lobablue: posts small blind $0.10
+Alameda22: posts big blind $0.25
+tightline123: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 8s]
+Yankees!232: folds 
+WinsW/oAces: folds 
+4KIDS&AWIFE: calls $0.25
+Jeffrey 7766: calls $0.25
+r1ver_w0m@n: calls $0.25
+tightline123: checks 
+TioRicoLPP: folds 
+lobablue: calls $0.15
+Alameda22: checks 
+*** FLOP *** [2d 3c 2c]
+lobablue: checks 
+Alameda22: checks 
+4KIDS&AWIFE: checks 
+Jeffrey 7766: checks 
+r1ver_w0m@n: checks 
+tightline123: bets $0.50
+lobablue: folds 
+Alameda22: folds 
+4KIDS&AWIFE: folds 
+Jeffrey 7766: folds 
+r1ver_w0m@n: calls $0.50
+*** TURN *** [2d 3c 2c] [6d]
+r1ver_w0m@n: checks 
+tightline123: bets $1
+r1ver_w0m@n: calls $1
+*** RIVER *** [2d 3c 2c 6d] [8h]
+r1ver_w0m@n: checks 
+tightline123: bets $1.75
+r1ver_w0m@n: folds 
+Uncalled bet ($1.75) returned to tightline123
+tightline123 collected $4.30 from pot
+tightline123: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [2d 3c 2c 6d 8h]
+Seat 1: TioRicoLPP (button) folded before Flop (didn't bet)
+Seat 2: lobablue (small blind) folded on the Flop
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 4: Yankees!232 folded before Flop (didn't bet)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: 4KIDS&AWIFE folded on the Flop
+Seat 7: Jeffrey 7766 folded on the Flop
+Seat 8: r1ver_w0m@n folded on the River
+Seat 9: tightline123 collected ($4.30)
+
+
+
+PokerStars Game #20080461018:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:17:26 (ET)
+Table 'Heze III' 9-max Seat #2 is the button
+Seat 1: TioRicoLPP ($23.30 in chips) 
+Seat 2: lobablue ($14.75 in chips) 
+Seat 3: Alameda22 ($27.40 in chips) 
+Seat 4: Yankees!232 ($6.90 in chips) 
+Seat 5: WinsW/oAces ($19.65 in chips) 
+Seat 6: 4KIDS&AWIFE ($7.35 in chips) 
+Seat 7: Jeffrey 7766 ($7.05 in chips) 
+Seat 8: r1ver_w0m@n ($12.15 in chips) 
+Seat 9: tightline123 ($17.55 in chips) 
+Alameda22: posts small blind $0.10
+Yankees!232: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 4c]
+WinsW/oAces: folds 
+4KIDS&AWIFE: folds 
+Jeffrey 7766: calls $0.25
+r1ver_w0m@n: calls $0.25
+tightline123: folds 
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Yankees!232: raises $1 to $1.25
+Jeffrey 7766: folds 
+r1ver_w0m@n: calls $1
+*** FLOP *** [7h Kd Ts]
+Yankees!232: bets $1.75
+r1ver_w0m@n: calls $1.75
+*** TURN *** [7h Kd Ts] [4d]
+Yankees!232: bets $3.90 and is all-in
+r1ver_w0m@n: calls $3.90
+*** RIVER *** [7h Kd Ts 4d] [7d]
+*** SHOW DOWN ***
+Yankees!232: shows [Ac Kc] (two pair, Kings and Sevens)
+r1ver_w0m@n: shows [Td Tc] (a full house, Tens full of Sevens)
+r1ver_w0m@n collected $13.50 from pot
+*** SUMMARY ***
+Total pot $14.15 | Rake $0.65 
+Board [7h Kd Ts 4d 7d]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Yankees!232 (big blind) showed [Ac Kc] and lost with two pair, Kings and Sevens
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: 4KIDS&AWIFE folded before Flop (didn't bet)
+Seat 7: Jeffrey 7766 folded before Flop
+Seat 8: r1ver_w0m@n showed [Td Tc] and won ($13.50) with a full house, Tens full of Sevens
+Seat 9: tightline123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080492691:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:18:52 (ET)
+Table 'Heze III' 9-max Seat #3 is the button
+Seat 1: TioRicoLPP ($23.30 in chips) 
+Seat 2: lobablue ($14.75 in chips) 
+Seat 3: Alameda22 ($27.30 in chips) 
+Seat 5: WinsW/oAces ($19.65 in chips) 
+Seat 6: 4KIDS&AWIFE ($7.35 in chips) 
+Seat 7: Jeffrey 7766 ($6.80 in chips) 
+Seat 8: r1ver_w0m@n ($18.75 in chips) 
+Seat 9: tightline123 ($17.55 in chips) 
+WinsW/oAces: posts small blind $0.10
+4KIDS&AWIFE: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 9h]
+Yankees!232 leaves the table
+Jeffrey 7766: calls $0.25
+r1ver_w0m@n: folds 
+tightline123: calls $0.25
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: calls $0.25
+WinsW/oAces: raises $0.75 to $1
+4KIDS&AWIFE: folds 
+Jeffrey 7766: calls $0.75
+tightline123: folds 
+Alameda22: calls $0.75
+*** FLOP *** [7s Js 2h]
+WinsW/oAces: bets $1.75
+Jeffrey 7766: calls $1.75
+Alameda22: folds 
+*** TURN *** [7s Js 2h] [6s]
+WinsW/oAces: bets $16.90 and is all-in
+Jeffrey 7766: folds 
+Uncalled bet ($16.90) returned to WinsW/oAces
+WinsW/oAces collected $6.70 from pot
+WinsW/oAces: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.30 
+Board [7s Js 2h 6s]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded on the Flop
+Seat 5: WinsW/oAces (small blind) collected ($6.70)
+Seat 6: 4KIDS&AWIFE (big blind) folded before Flop
+Seat 7: Jeffrey 7766 folded on the Turn
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+Seat 9: tightline123 folded before Flop
+
+
+
+PokerStars Game #20080526049:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:20:22 (ET)
+Table 'Heze III' 9-max Seat #5 is the button
+Seat 1: TioRicoLPP ($23.30 in chips) 
+Seat 2: lobablue ($14.75 in chips) 
+Seat 3: Alameda22 ($26.30 in chips) 
+Seat 5: WinsW/oAces ($23.60 in chips) 
+Seat 6: 4KIDS&AWIFE ($7.10 in chips) 
+Seat 7: Jeffrey 7766 ($4.05 in chips) 
+Seat 8: r1ver_w0m@n ($18.75 in chips) 
+Seat 9: tightline123 ($17.30 in chips) 
+4KIDS&AWIFE: posts small blind $0.10
+Jeffrey 7766: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 8c]
+r1ver_w0m@n: folds 
+tightline123: calls $0.25
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+WinsW/oAces: calls $0.25
+4KIDS&AWIFE: folds 
+Jeffrey 7766: checks 
+*** FLOP *** [Td 6s As]
+Jeffrey 7766: checks 
+tightline123: checks 
+WinsW/oAces: checks 
+*** TURN *** [Td 6s As] [Kh]
+Jeffrey 7766: checks 
+tightline123: bets $0.75
+WinsW/oAces: calls $0.75
+Jeffrey 7766: folds 
+*** RIVER *** [Td 6s As Kh] [Kd]
+tightline123: bets $2.25
+WinsW/oAces: calls $2.25
+*** SHOW DOWN ***
+tightline123: shows [Kc Jc] (three of a kind, Kings)
+WinsW/oAces: mucks hand 
+tightline123 collected $6.55 from pot
+*** SUMMARY ***
+Total pot $6.85 | Rake $0.30 
+Board [Td 6s As Kh Kd]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 5: WinsW/oAces (button) mucked [Ks 5s]
+Seat 6: 4KIDS&AWIFE (small blind) folded before Flop
+Seat 7: Jeffrey 7766 (big blind) folded on the Turn
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+Seat 9: tightline123 showed [Kc Jc] and won ($6.55) with three of a kind, Kings
+
+
+
+PokerStars Game #20080554860:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:21:40 (ET)
+Table 'Heze III' 9-max Seat #6 is the button
+Seat 1: TioRicoLPP ($23.30 in chips) 
+Seat 2: lobablue ($14.75 in chips) 
+Seat 3: Alameda22 ($26.30 in chips) 
+Seat 5: WinsW/oAces ($20.35 in chips) 
+Seat 6: 4KIDS&AWIFE ($7 in chips) 
+Seat 7: Jeffrey 7766 ($3.80 in chips) 
+Seat 8: r1ver_w0m@n ($18.75 in chips) 
+Seat 9: tightline123 ($20.60 in chips) 
+Jeffrey 7766: posts small blind $0.10
+r1ver_w0m@n: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s As]
+tightline123: calls $0.25
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+WinsW/oAces: calls $0.25
+4KIDS&AWIFE: folds 
+Jeffrey 7766: calls $0.15
+r1ver_w0m@n: checks 
+*** FLOP *** [5s Ks 2d]
+Jeffrey 7766: checks 
+r1ver_w0m@n: checks 
+tightline123: checks 
+WinsW/oAces: checks 
+*** TURN *** [5s Ks 2d] [3c]
+Jeffrey 7766: checks 
+r1ver_w0m@n: checks 
+tightline123: bets $0.75
+WinsW/oAces: folds 
+Jeffrey 7766: calls $0.75
+r1ver_w0m@n: folds 
+*** RIVER *** [5s Ks 2d 3c] [8h]
+Jeffrey 7766: checks 
+tightline123: bets $3
+Jeffrey 7766: calls $2.80 and is all-in
+Uncalled bet ($0.20) returned to tightline123
+*** SHOW DOWN ***
+tightline123: shows [2s 2h] (three of a kind, Deuces)
+Jeffrey 7766: shows [4d 6h] (a straight, Deuce to Six)
+Jeffrey 7766 collected $7.70 from pot
+*** SUMMARY ***
+Total pot $8.10 | Rake $0.40 
+Board [5s Ks 2d 3c 8h]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 5: WinsW/oAces folded on the Turn
+Seat 6: 4KIDS&AWIFE (button) folded before Flop (didn't bet)
+Seat 7: Jeffrey 7766 (small blind) showed [4d 6h] and won ($7.70) with a straight, Deuce to Six
+Seat 8: r1ver_w0m@n (big blind) folded on the Turn
+Seat 9: tightline123 showed [2s 2h] and lost with three of a kind, Deuces
+
+
+
+PokerStars Game #20080593955:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:23:24 (ET)
+Table 'Heze III' 9-max Seat #7 is the button
+Seat 1: TioRicoLPP ($23.30 in chips) 
+Seat 2: lobablue ($14.75 in chips) 
+Seat 3: Alameda22 ($26.30 in chips) 
+Seat 5: WinsW/oAces ($20.10 in chips) 
+Seat 6: 4KIDS&AWIFE ($7 in chips) 
+Seat 7: Jeffrey 7766 ($7.70 in chips) 
+Seat 8: r1ver_w0m@n ($18.50 in chips) 
+Seat 9: tightline123 ($16.80 in chips) 
+r1ver_w0m@n: posts small blind $0.10
+tightline123: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad Qd]
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+WinsW/oAces: raises $0.75 to $1
+4KIDS&AWIFE: folds 
+Jeffrey 7766: folds 
+r1ver_w0m@n: folds 
+tightline123: folds 
+Uncalled bet ($0.75) returned to WinsW/oAces
+WinsW/oAces collected $0.60 from pot
+WinsW/oAces: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 5: WinsW/oAces collected ($0.60)
+Seat 6: 4KIDS&AWIFE folded before Flop (didn't bet)
+Seat 7: Jeffrey 7766 (button) folded before Flop (didn't bet)
+Seat 8: r1ver_w0m@n (small blind) folded before Flop
+Seat 9: tightline123 (big blind) folded before Flop
+
+
+
+PokerStars Game #20080612836:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:24:15 (ET)
+Table 'Heze III' 9-max Seat #8 is the button
+Seat 1: TioRicoLPP ($23.30 in chips) 
+Seat 2: lobablue ($14.75 in chips) 
+Seat 3: Alameda22 ($26.30 in chips) 
+Seat 5: WinsW/oAces ($20.45 in chips) 
+Seat 6: 4KIDS&AWIFE ($7 in chips) 
+Seat 7: Jeffrey 7766 ($7.70 in chips) 
+Seat 8: r1ver_w0m@n ($18.40 in chips) 
+Seat 9: tightline123 ($16.55 in chips) 
+tightline123: posts small blind $0.10
+TioRicoLPP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Kd]
+lobablue: folds 
+Alameda22: raises $0.75 to $1
+WinsW/oAces: folds 
+4KIDS&AWIFE: folds 
+Jeffrey 7766: folds 
+r1ver_w0m@n: folds 
+tightline123: folds 
+TioRicoLPP: folds 
+Uncalled bet ($0.75) returned to Alameda22
+Ray Zorfold joins the table at seat #4 
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: TioRicoLPP (big blind) folded before Flop
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 collected ($0.60)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: 4KIDS&AWIFE folded before Flop (didn't bet)
+Seat 7: Jeffrey 7766 folded before Flop (didn't bet)
+Seat 8: r1ver_w0m@n (button) folded before Flop (didn't bet)
+Seat 9: tightline123 (small blind) folded before Flop
+
+
+
+PokerStars Game #20080629907:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:25:01 (ET)
+Table 'Heze III' 9-max Seat #9 is the button
+Seat 1: TioRicoLPP ($23.05 in chips) 
+Seat 2: lobablue ($14.75 in chips) 
+Seat 3: Alameda22 ($26.65 in chips) 
+Seat 5: WinsW/oAces ($20.45 in chips) 
+Seat 6: 4KIDS&AWIFE ($7 in chips) 
+Seat 7: Jeffrey 7766 ($7.70 in chips) 
+Seat 8: r1ver_w0m@n ($18.40 in chips) 
+Seat 9: tightline123 ($16.45 in chips) 
+TioRicoLPP: posts small blind $0.10
+lobablue: posts big blind $0.25
+Ray Zorfold: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Kc]
+Alameda22: folds 
+WinsW/oAces: folds 
+4KIDS&AWIFE: folds 
+Jeffrey 7766: calls $0.25
+r1ver_w0m@n: folds 
+tightline123: folds 
+TioRicoLPP: calls $0.15
+lobablue: checks 
+*** FLOP *** [As Kd 9d]
+TioRicoLPP: checks 
+lobablue: checks 
+Jeffrey 7766: checks 
+*** TURN *** [As Kd 9d] [Ks]
+TioRicoLPP: checks 
+lobablue: checks 
+Jeffrey 7766: checks 
+*** RIVER *** [As Kd 9d Ks] [Qh]
+TioRicoLPP: checks 
+lobablue: checks 
+Jeffrey 7766: bets $1
+TioRicoLPP: folds 
+lobablue: folds 
+Uncalled bet ($1) returned to Jeffrey 7766
+Jeffrey 7766 collected $0.75 from pot
+Jeffrey 7766: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [As Kd 9d Ks Qh]
+Seat 1: TioRicoLPP (small blind) folded on the River
+Seat 2: lobablue (big blind) folded on the River
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: 4KIDS&AWIFE folded before Flop (didn't bet)
+Seat 7: Jeffrey 7766 collected ($0.75)
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+Seat 9: tightline123 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080671053:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:26:52 (ET)
+Table 'Heze III' 9-max Seat #1 is the button
+Seat 1: TioRicoLPP ($22.80 in chips) 
+Seat 2: lobablue ($14.50 in chips) 
+Seat 3: Alameda22 ($26.65 in chips) 
+Seat 5: WinsW/oAces ($20.45 in chips) 
+Seat 6: 4KIDS&AWIFE ($7 in chips) 
+Seat 7: Jeffrey 7766 ($8.20 in chips) 
+Seat 8: r1ver_w0m@n ($18.40 in chips) 
+Seat 9: tightline123 ($16.45 in chips) 
+lobablue: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Ray Zorfold: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Tc]
+WinsW/oAces: calls $0.25
+4KIDS&AWIFE: folds 
+Jeffrey 7766: calls $0.25
+r1ver_w0m@n: folds 
+tightline123: folds 
+TioRicoLPP: folds 
+lobablue: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Jd 3h 2c]
+lobablue: checks 
+Alameda22: checks 
+WinsW/oAces: checks 
+Jeffrey 7766: checks 
+*** TURN *** [Jd 3h 2c] [Jc]
+lobablue: checks 
+Alameda22: bets $0.50
+WinsW/oAces: folds 
+Jeffrey 7766: calls $0.50
+lobablue: folds 
+*** RIVER *** [Jd 3h 2c Jc] [6d]
+Alameda22: bets $1.25
+Jeffrey 7766: calls $1.25
+*** SHOW DOWN ***
+Alameda22: shows [Js Tc] (three of a kind, Jacks)
+Jeffrey 7766: mucks hand 
+Alameda22 collected $4.30 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [Jd 3h 2c Jc 6d]
+Seat 1: TioRicoLPP (button) folded before Flop (didn't bet)
+Seat 2: lobablue (small blind) folded on the Turn
+Seat 3: Alameda22 (big blind) showed [Js Tc] and won ($4.30) with three of a kind, Jacks
+Seat 5: WinsW/oAces folded on the Turn
+Seat 6: 4KIDS&AWIFE folded before Flop (didn't bet)
+Seat 7: Jeffrey 7766 mucked [Ad 4d]
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+Seat 9: tightline123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080712991:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:28:46 (ET)
+Table 'Heze III' 9-max Seat #2 is the button
+Seat 1: TioRicoLPP ($22.80 in chips) 
+Seat 2: lobablue ($14.25 in chips) 
+Seat 3: Alameda22 ($28.95 in chips) 
+Seat 4: Ray Zorfold ($25 in chips) 
+Seat 5: WinsW/oAces ($20.20 in chips) 
+Seat 6: 4KIDS&AWIFE ($7 in chips) 
+Seat 7: Jeffrey 7766 ($6.20 in chips) 
+Seat 8: r1ver_w0m@n ($18.40 in chips) 
+Seat 9: tightline123 ($16.45 in chips) 
+Alameda22: posts small blind $0.10
+Ray Zorfold: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 3s]
+WinsW/oAces: folds 
+4KIDS&AWIFE: folds 
+Jeffrey 7766: calls $0.25
+r1ver_w0m@n: calls $0.25
+tightline123: folds 
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Ray Zorfold: checks 
+*** FLOP *** [4s Kd Td]
+Ray Zorfold: checks 
+Jeffrey 7766: checks 
+r1ver_w0m@n: checks 
+*** TURN *** [4s Kd Td] [4d]
+Ray Zorfold: checks 
+Jeffrey 7766: checks 
+r1ver_w0m@n: checks 
+*** RIVER *** [4s Kd Td 4d] [2s]
+Ray Zorfold: checks 
+Jeffrey 7766: bets $0.75
+r1ver_w0m@n: calls $0.75
+Ray Zorfold: folds 
+*** SHOW DOWN ***
+Jeffrey 7766: shows [8s 2c] (two pair, Fours and Deuces)
+r1ver_w0m@n: mucks hand 
+Jeffrey 7766 collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [4s Kd Td 4d 2s]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Ray Zorfold (big blind) folded on the River
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: 4KIDS&AWIFE folded before Flop (didn't bet)
+Seat 7: Jeffrey 7766 showed [8s 2c] and won ($2.25) with two pair, Fours and Deuces
+Seat 8: r1ver_w0m@n mucked [7d As]
+Seat 9: tightline123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080734153:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:29:44 (ET)
+Table 'Heze III' 9-max Seat #3 is the button
+Seat 1: TioRicoLPP ($22.80 in chips) 
+Seat 2: lobablue ($14.25 in chips) 
+Seat 3: Alameda22 ($28.85 in chips) 
+Seat 4: Ray Zorfold ($24.75 in chips) 
+Seat 5: WinsW/oAces ($20.20 in chips) 
+Seat 6: 4KIDS&AWIFE ($7 in chips) 
+Seat 7: Jeffrey 7766 ($7.45 in chips) 
+Seat 8: r1ver_w0m@n ($17.40 in chips) 
+Seat 9: tightline123 ($16.45 in chips) 
+Ray Zorfold: posts small blind $0.10
+WinsW/oAces: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Ad]
+4KIDS&AWIFE: folds 
+Jeffrey 7766: calls $0.25
+r1ver_w0m@n: calls $0.25
+tightline123: folds 
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Ray Zorfold: calls $0.15
+WinsW/oAces: checks 
+*** FLOP *** [7s 4h 6h]
+Ray Zorfold: checks 
+WinsW/oAces: checks 
+Jeffrey 7766: checks 
+r1ver_w0m@n: checks 
+*** TURN *** [7s 4h 6h] [Kh]
+Ray Zorfold: checks 
+WinsW/oAces: checks 
+Jeffrey 7766: checks 
+r1ver_w0m@n: bets $0.25
+Ray Zorfold: folds 
+WinsW/oAces: folds 
+Jeffrey 7766: calls $0.25
+*** RIVER *** [7s 4h 6h Kh] [5d]
+Jeffrey 7766: checks 
+r1ver_w0m@n: checks 
+*** SHOW DOWN ***
+Jeffrey 7766: shows [Ts Ks] (a pair of Kings)
+r1ver_w0m@n: shows [Tc Kc] (a pair of Kings)
+Jeffrey 7766 collected $0.75 from pot
+r1ver_w0m@n collected $0.70 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [7s 4h 6h Kh 5d]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Ray Zorfold (small blind) folded on the Turn
+Seat 5: WinsW/oAces (big blind) folded on the Turn
+Seat 6: 4KIDS&AWIFE folded before Flop (didn't bet)
+Seat 7: Jeffrey 7766 showed [Ts Ks] and won ($0.75) with a pair of Kings
+Seat 8: r1ver_w0m@n showed [Tc Kc] and won ($0.70) with a pair of Kings
+Seat 9: tightline123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080762858:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:31:02 (ET)
+Table 'Heze III' 9-max Seat #4 is the button
+Seat 1: TioRicoLPP ($22.80 in chips) 
+Seat 2: lobablue ($14.25 in chips) 
+Seat 3: Alameda22 ($28.85 in chips) 
+Seat 4: Ray Zorfold ($24.50 in chips) 
+Seat 5: WinsW/oAces ($19.95 in chips) 
+Seat 6: 4KIDS&AWIFE ($7 in chips) 
+Seat 7: Jeffrey 7766 ($7.70 in chips) 
+Seat 8: r1ver_w0m@n ($17.60 in chips) 
+Seat 9: tightline123 ($16.45 in chips) 
+WinsW/oAces: posts small blind $0.10
+4KIDS&AWIFE: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 3s]
+Jeffrey 7766: folds 
+r1ver_w0m@n: folds 
+Jeffrey 7766 leaves the table
+tightline123: raises $0.50 to $0.75
+TioRicoLPP: folds 
+lobablue: calls $0.75
+Alameda22: folds 
+Ray Zorfold: folds 
+WinsW/oAces: calls $0.65
+4KIDS&AWIFE: folds 
+*** FLOP *** [5h Jh 3d]
+WinsW/oAces: checks 
+tightline123: checks 
+lobablue: checks 
+*** TURN *** [5h Jh 3d] [6c]
+WinsW/oAces: checks 
+tightline123: bets $1
+lobablue: calls $1
+WinsW/oAces: folds 
+*** RIVER *** [5h Jh 3d 6c] [8c]
+tightline123: bets $0.25
+jruss133 joins the table at seat #7 
+lobablue: folds 
+Uncalled bet ($0.25) returned to tightline123
+tightline123 collected $4.30 from pot
+tightline123: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [5h Jh 3d 6c 8c]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded on the River
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ray Zorfold (button) folded before Flop (didn't bet)
+Seat 5: WinsW/oAces (small blind) folded on the Turn
+Seat 6: 4KIDS&AWIFE (big blind) folded before Flop
+Seat 7: Jeffrey 7766 folded before Flop (didn't bet)
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+Seat 9: tightline123 collected ($4.30)
+
+
+
+PokerStars Game #20080800615:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:32:38 (ET)
+Table 'Heze III' 9-max Seat #5 is the button
+Seat 1: TioRicoLPP ($22.80 in chips) 
+Seat 2: lobablue ($12.50 in chips) 
+Seat 3: Alameda22 ($28.85 in chips) 
+Seat 4: Ray Zorfold ($24.50 in chips) 
+Seat 5: WinsW/oAces ($19.20 in chips) 
+Seat 6: 4KIDS&AWIFE ($6.75 in chips) 
+Seat 7: jruss133 ($25 in chips) 
+Seat 8: r1ver_w0m@n ($17.60 in chips) 
+Seat 9: tightline123 ($19 in chips) 
+4KIDS&AWIFE: posts small blind $0.10
+jruss133: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 2c]
+r1ver_w0m@n: folds 
+tightline123: folds 
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Ray Zorfold: raises $0.50 to $0.75
+WinsW/oAces: calls $0.75
+4KIDS&AWIFE: calls $0.65
+jruss133: calls $0.50
+*** FLOP *** [4c 3s As]
+4KIDS&AWIFE: checks 
+jruss133: checks 
+Ray Zorfold: checks 
+WinsW/oAces: bets $3
+4KIDS&AWIFE: folds 
+jruss133: folds 
+Ray Zorfold: folds 
+Uncalled bet ($3) returned to WinsW/oAces
+WinsW/oAces collected $2.85 from pot
+WinsW/oAces: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [4c 3s As]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ray Zorfold folded on the Flop
+Seat 5: WinsW/oAces (button) collected ($2.85)
+Seat 6: 4KIDS&AWIFE (small blind) folded on the Flop
+Seat 7: jruss133 (big blind) folded on the Flop
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+Seat 9: tightline123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080824840:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:33:41 (ET)
+Table 'Heze III' 9-max Seat #6 is the button
+Seat 1: TioRicoLPP ($22.80 in chips) 
+Seat 2: lobablue ($12.50 in chips) 
+Seat 3: Alameda22 ($28.85 in chips) 
+Seat 4: Ray Zorfold ($23.75 in chips) 
+Seat 5: WinsW/oAces ($21.30 in chips) 
+Seat 6: 4KIDS&AWIFE ($6 in chips) 
+Seat 7: jruss133 ($24.25 in chips) 
+Seat 8: r1ver_w0m@n ($17.60 in chips) 
+Seat 9: tightline123 ($19 in chips) 
+jruss133: posts small blind $0.10
+r1ver_w0m@n: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Ah]
+tightline123: folds 
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Ray Zorfold: folds 
+WinsW/oAces: folds 
+4KIDS&AWIFE: folds 
+jruss133: raises $0.75 to $1
+r1ver_w0m@n: calls $0.75
+*** FLOP *** [6c 5c Qc]
+jruss133: bets $1.25
+r1ver_w0m@n: folds 
+Uncalled bet ($1.25) returned to jruss133
+jruss133 collected $1.90 from pot
+jruss133: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [6c 5c Qc]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ray Zorfold folded before Flop (didn't bet)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: 4KIDS&AWIFE (button) folded before Flop (didn't bet)
+Seat 7: jruss133 (small blind) collected ($1.90)
+Seat 8: r1ver_w0m@n (big blind) folded on the Flop
+Seat 9: tightline123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080844360:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:34:32 (ET)
+Table 'Heze III' 9-max Seat #7 is the button
+Seat 1: TioRicoLPP ($22.80 in chips) 
+Seat 2: lobablue ($12.50 in chips) 
+Seat 3: Alameda22 ($28.85 in chips) 
+Seat 4: Ray Zorfold ($25 in chips) 
+Seat 5: WinsW/oAces ($21.30 in chips) 
+Seat 6: 4KIDS&AWIFE ($6 in chips) 
+Seat 7: jruss133 ($25.15 in chips) 
+Seat 8: r1ver_w0m@n ($16.60 in chips) 
+Seat 9: tightline123 ($19 in chips) 
+r1ver_w0m@n: posts small blind $0.10
+tightline123: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 5s]
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Ray Zorfold: folds 
+WinsW/oAces: folds 
+4KIDS&AWIFE: calls $0.25
+jruss133: raises $1 to $1.25
+r1ver_w0m@n: folds 
+tightline123: folds 
+4KIDS&AWIFE: calls $1
+*** FLOP *** [6c Js Qd]
+4KIDS&AWIFE: checks 
+jruss133: bets $1.75
+4KIDS&AWIFE: folds 
+Uncalled bet ($1.75) returned to jruss133
+jruss133 collected $2.75 from pot
+jruss133: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [6c Js Qd]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ray Zorfold folded before Flop (didn't bet)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: 4KIDS&AWIFE folded on the Flop
+Seat 7: jruss133 (button) collected ($2.75)
+Seat 8: r1ver_w0m@n (small blind) folded before Flop
+Seat 9: tightline123 (big blind) folded before Flop
+
+
+
+PokerStars Game #20080871837:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:35:44 (ET)
+Table 'Heze III' 9-max Seat #8 is the button
+Seat 1: TioRicoLPP ($22.80 in chips) 
+Seat 2: lobablue ($12.50 in chips) 
+Seat 3: Alameda22 ($28.85 in chips) 
+Seat 4: Ray Zorfold ($25 in chips) 
+Seat 5: WinsW/oAces ($21.30 in chips) 
+Seat 6: 4KIDS&AWIFE ($4.75 in chips) 
+Seat 7: jruss133 ($26.65 in chips) 
+Seat 8: r1ver_w0m@n ($16.50 in chips) 
+Seat 9: tightline123 ($18.75 in chips) 
+tightline123: posts small blind $0.10
+TioRicoLPP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 3h]
+lobablue: folds 
+Alameda22: folds 
+Ray Zorfold: raises $0.75 to $1
+WinsW/oAces: folds 
+4KIDS&AWIFE: calls $1
+jruss133: folds 
+r1ver_w0m@n: calls $1
+tightline123: folds 
+TioRicoLPP: folds 
+*** FLOP *** [Ad Jc 5c]
+Ray Zorfold: checks 
+4KIDS&AWIFE: bets $0.75
+r1ver_w0m@n: calls $0.75
+Ray Zorfold: calls $0.75
+*** TURN *** [Ad Jc 5c] [2s]
+Ray Zorfold: checks 
+4KIDS&AWIFE: bets $0.50
+r1ver_w0m@n is disconnected 
+r1ver_w0m@n is connected 
+r1ver_w0m@n: calls $0.50
+Ray Zorfold: calls $0.50
+*** RIVER *** [Ad Jc 5c 2s] [Ks]
+Ray Zorfold: bets $3.75
+4KIDS&AWIFE: folds 
+r1ver_w0m@n: folds 
+Uncalled bet ($3.75) returned to Ray Zorfold
+Ray Zorfold collected $6.80 from pot
+Ray Zorfold: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.10 | Rake $0.30 
+Board [Ad Jc 5c 2s Ks]
+Seat 1: TioRicoLPP (big blind) folded before Flop
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ray Zorfold collected ($6.80)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: 4KIDS&AWIFE folded on the River
+Seat 7: jruss133 folded before Flop (didn't bet)
+Seat 8: r1ver_w0m@n (button) folded on the River
+Seat 9: tightline123 (small blind) folded before Flop
+
+
+
+PokerStars Game #20080915120:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:37:37 (ET)
+Table 'Heze III' 9-max Seat #9 is the button
+Seat 1: TioRicoLPP ($22.55 in chips) 
+Seat 2: lobablue ($12.50 in chips) 
+Seat 3: Alameda22 ($28.85 in chips) 
+Seat 4: Ray Zorfold ($29.55 in chips) 
+Seat 5: WinsW/oAces ($21.30 in chips) 
+Seat 6: 4KIDS&AWIFE ($2.50 in chips) 
+Seat 7: jruss133 ($26.65 in chips) 
+Seat 8: r1ver_w0m@n ($14.25 in chips) 
+Seat 9: tightline123 ($18.65 in chips) 
+TioRicoLPP: posts small blind $0.10
+lobablue: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 4h]
+Alameda22: folds 
+Ray Zorfold: calls $0.25
+WinsW/oAces: folds 
+4KIDS&AWIFE: folds 
+jruss133: raises $0.75 to $1
+r1ver_w0m@n: folds 
+tightline123: folds 
+TioRicoLPP: folds 
+lobablue: folds 
+Ray Zorfold: calls $0.75
+*** FLOP *** [6h 2s 3s]
+Ray Zorfold: checks 
+jruss133: bets $1.25
+Ray Zorfold: calls $1.25
+*** TURN *** [6h 2s 3s] [7h]
+Ray Zorfold: checks 
+jruss133: checks 
+*** RIVER *** [6h 2s 3s 7h] [Jh]
+Ray Zorfold: checks 
+jruss133: bets $3.25
+Ray Zorfold: calls $3.25
+*** SHOW DOWN ***
+jruss133: shows [Qc Jd] (a pair of Jacks)
+Ray Zorfold: shows [Js As] (a pair of Jacks - Ace kicker)
+Ray Zorfold collected $10.80 from pot
+r1ver_w0m@n is disconnected 
+*** SUMMARY ***
+Total pot $11.35 | Rake $0.55 
+Board [6h 2s 3s 7h Jh]
+Seat 1: TioRicoLPP (small blind) folded before Flop
+Seat 2: lobablue (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ray Zorfold showed [Js As] and won ($10.80) with a pair of Jacks
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: 4KIDS&AWIFE folded before Flop (didn't bet)
+Seat 7: jruss133 showed [Qc Jd] and lost with a pair of Jacks
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+Seat 9: tightline123 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080942252:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:38:48 (ET)
+Table 'Heze III' 9-max Seat #1 is the button
+Seat 1: TioRicoLPP ($22.45 in chips) 
+Seat 2: lobablue ($12.25 in chips) 
+Seat 3: Alameda22 ($28.85 in chips) 
+Seat 4: Ray Zorfold ($34.85 in chips) 
+Seat 5: WinsW/oAces ($21.30 in chips) 
+Seat 6: 4KIDS&AWIFE ($2.50 in chips) 
+Seat 7: jruss133 ($21.15 in chips) 
+Seat 8: r1ver_w0m@n ($14.25 in chips) 
+Seat 9: tightline123 ($18.65 in chips) 
+lobablue: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 5h]
+Ray Zorfold: folds 
+WinsW/oAces: folds 
+4KIDS&AWIFE: folds 
+jruss133: folds 
+r1ver_w0m@n is connected 
+r1ver_w0m@n: calls $0.25
+tightline123: folds 
+TioRicoLPP: raises $1 to $1.25
+lobablue: folds 
+Alameda22: folds 
+r1ver_w0m@n: calls $1
+*** FLOP *** [8c 6d Ah]
+r1ver_w0m@n: bets $0.25
+TioRicoLPP: raises $1.50 to $1.75
+r1ver_w0m@n: calls $1.50
+*** TURN *** [8c 6d Ah] [2s]
+r1ver_w0m@n: checks 
+TioRicoLPP: checks 
+*** RIVER *** [8c 6d Ah 2s] [Th]
+r1ver_w0m@n: bets $3.25
+TioRicoLPP: folds 
+Uncalled bet ($3.25) returned to r1ver_w0m@n
+r1ver_w0m@n collected $6.05 from pot
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.30 
+Board [8c 6d Ah 2s Th]
+Seat 1: TioRicoLPP (button) folded on the River
+Seat 2: lobablue (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: Ray Zorfold folded before Flop (didn't bet)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: 4KIDS&AWIFE folded before Flop (didn't bet)
+Seat 7: jruss133 folded before Flop (didn't bet)
+Seat 8: r1ver_w0m@n collected ($6.05)
+Seat 9: tightline123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20080977678:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:40:20 (ET)
+Table 'Heze III' 9-max Seat #2 is the button
+Seat 1: TioRicoLPP ($19.45 in chips) 
+Seat 2: lobablue ($12.15 in chips) 
+Seat 3: Alameda22 ($28.60 in chips) 
+Seat 4: Ray Zorfold ($34.85 in chips) 
+Seat 5: WinsW/oAces ($21.30 in chips) 
+Seat 6: 4KIDS&AWIFE ($2.50 in chips) 
+Seat 7: jruss133 ($25 in chips) 
+Seat 8: r1ver_w0m@n ($17.30 in chips) 
+Seat 9: tightline123 ($18.65 in chips) 
+Alameda22: posts small blind $0.10
+Ray Zorfold: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Tc]
+WinsW/oAces: folds 
+4KIDS&AWIFE: calls $0.25
+jruss133: folds 
+r1ver_w0m@n: calls $0.25
+tightline123: calls $0.25
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Ray Zorfold: checks 
+*** FLOP *** [6h Qs Ac]
+Ray Zorfold: checks 
+4KIDS&AWIFE: checks 
+r1ver_w0m@n: bets $0.25
+tightline123: calls $0.25
+Ray Zorfold: folds 
+4KIDS&AWIFE: folds 
+*** TURN *** [6h Qs Ac] [5h]
+r1ver_w0m@n: bets $0.25
+tightline123: calls $0.25
+*** RIVER *** [6h Qs Ac 5h] [8d]
+r1ver_w0m@n: bets $2.50
+tightline123: folds 
+Uncalled bet ($2.50) returned to r1ver_w0m@n
+r1ver_w0m@n collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [6h Qs Ac 5h 8d]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Ray Zorfold (big blind) folded on the Flop
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: 4KIDS&AWIFE folded on the Flop
+Seat 7: jruss133 folded before Flop (didn't bet)
+Seat 8: r1ver_w0m@n collected ($2)
+Seat 9: tightline123 folded on the River
+
+
+
+PokerStars Game #20081002251:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:41:24 (ET)
+Table 'Heze III' 9-max Seat #3 is the button
+Seat 1: TioRicoLPP ($19.45 in chips) 
+Seat 2: lobablue ($12.15 in chips) 
+Seat 3: Alameda22 ($28.50 in chips) 
+Seat 4: Ray Zorfold ($34.60 in chips) 
+Seat 5: WinsW/oAces ($21.30 in chips) 
+Seat 6: 4KIDS&AWIFE ($2.25 in chips) 
+Seat 7: jruss133 ($25 in chips) 
+Seat 8: r1ver_w0m@n ($18.55 in chips) 
+Seat 9: tightline123 ($17.90 in chips) 
+Ray Zorfold: posts small blind $0.10
+WinsW/oAces: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s As]
+4KIDS&AWIFE: folds 
+jruss133: folds 
+r1ver_w0m@n: folds 
+tightline123: calls $0.25
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Ray Zorfold: folds 
+WinsW/oAces: checks 
+*** FLOP *** [6s 7h 8c]
+WinsW/oAces: checks 
+tightline123: checks 
+*** TURN *** [6s 7h 8c] [3s]
+WinsW/oAces: checks 
+tightline123: checks 
+*** RIVER *** [6s 7h 8c 3s] [Ad]
+WinsW/oAces: checks 
+tightline123: checks 
+*** SHOW DOWN ***
+WinsW/oAces: shows [Qd Jh] (high card Ace)
+tightline123: shows [Ts Kc] (high card Ace - King kicker)
+tightline123 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6s 7h 8c 3s Ad]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Ray Zorfold (small blind) folded before Flop
+Seat 5: WinsW/oAces (big blind) showed [Qd Jh] and lost with high card Ace
+Seat 6: 4KIDS&AWIFE folded before Flop (didn't bet)
+Seat 7: jruss133 folded before Flop (didn't bet)
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+Seat 9: tightline123 showed [Ts Kc] and won ($0.60) with high card Ace
+
+
+
+PokerStars Game #20081023902:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:42:22 (ET)
+Table 'Heze III' 9-max Seat #4 is the button
+Seat 1: TioRicoLPP ($25 in chips) 
+Seat 2: lobablue ($12.15 in chips) 
+Seat 3: Alameda22 ($28.50 in chips) 
+Seat 4: Ray Zorfold ($34.50 in chips) 
+Seat 5: WinsW/oAces ($21.05 in chips) 
+Seat 6: 4KIDS&AWIFE ($2.25 in chips) 
+Seat 7: jruss133 ($25 in chips) 
+Seat 8: r1ver_w0m@n ($18.55 in chips) 
+Seat 9: tightline123 ($18.25 in chips) 
+WinsW/oAces: posts small blind $0.10
+4KIDS&AWIFE: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 2h]
+jruss133: calls $0.25
+r1ver_w0m@n: folds 
+tightline123: folds 
+TioRicoLPP: folds 
+lobablue: calls $0.25
+Alameda22: folds 
+Ray Zorfold: folds 
+WinsW/oAces: raises $1 to $1.25
+4KIDS&AWIFE: folds 
+tightline123 leaves the table
+jruss133: folds 
+lobablue: calls $1
+*** FLOP *** [8s Ah 3c]
+WinsW/oAces: bets $6
+lobablue: calls $6
+*** TURN *** [8s Ah 3c] [Td]
+WinsW/oAces: bets $13.80 and is all-in
+lobablue: calls $4.90 and is all-in
+Uncalled bet ($8.90) returned to WinsW/oAces
+*** RIVER *** [8s Ah 3c Td] [Jd]
+*** SHOW DOWN ***
+WinsW/oAces: shows [Kd Kc] (a pair of Kings)
+lobablue: shows [3h 3s] (three of a kind, Threes)
+lobablue collected $23.60 from pot
+*** SUMMARY ***
+Total pot $24.80 | Rake $1.20 
+Board [8s Ah 3c Td Jd]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue showed [3h 3s] and won ($23.60) with three of a kind, Threes
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ray Zorfold (button) folded before Flop (didn't bet)
+Seat 5: WinsW/oAces (small blind) showed [Kd Kc] and lost with a pair of Kings
+Seat 6: 4KIDS&AWIFE (big blind) folded before Flop
+Seat 7: jruss133 folded before Flop
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+Seat 9: tightline123 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081053537:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:43:42 (ET)
+Table 'Heze III' 9-max Seat #5 is the button
+Seat 1: TioRicoLPP ($25 in chips) 
+Seat 2: lobablue ($23.60 in chips) 
+Seat 3: Alameda22 ($28.50 in chips) 
+Seat 4: Ray Zorfold ($34.50 in chips) 
+Seat 5: WinsW/oAces ($8.90 in chips) 
+Seat 6: 4KIDS&AWIFE ($2 in chips) 
+Seat 7: jruss133 ($24.75 in chips) 
+Seat 8: r1ver_w0m@n ($18.55 in chips) 
+4KIDS&AWIFE: posts small blind $0.10
+jruss133: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 5d]
+r1ver_w0m@n: folds 
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Ray Zorfold: folds 
+WinsW/oAces: calls $0.25
+4KIDS&AWIFE: raises $0.50 to $0.75
+slightbuzz77 joins the table at seat #9 
+jruss133: folds 
+WinsW/oAces: calls $0.50
+*** FLOP *** [3s Kd 3h]
+4KIDS&AWIFE: bets $1.25 and is all-in
+WinsW/oAces: folds 
+Uncalled bet ($1.25) returned to 4KIDS&AWIFE
+4KIDS&AWIFE collected $1.70 from pot
+4KIDS&AWIFE: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [3s Kd 3h]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ray Zorfold folded before Flop (didn't bet)
+Seat 5: WinsW/oAces (button) folded on the Flop
+Seat 6: 4KIDS&AWIFE (small blind) collected ($1.70)
+Seat 7: jruss133 (big blind) folded before Flop
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081084120:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:45:04 (ET)
+Table 'Heze III' 9-max Seat #6 is the button
+Seat 1: TioRicoLPP ($25 in chips) 
+Seat 2: lobablue ($23.60 in chips) 
+Seat 3: Alameda22 ($28.50 in chips) 
+Seat 4: Ray Zorfold ($34.50 in chips) 
+Seat 5: WinsW/oAces ($8.15 in chips) 
+Seat 6: 4KIDS&AWIFE ($2.95 in chips) 
+Seat 7: jruss133 ($24.50 in chips) 
+Seat 8: r1ver_w0m@n ($18.55 in chips) 
+Seat 9: slightbuzz77 ($15 in chips) 
+jruss133: posts small blind $0.10
+r1ver_w0m@n: posts big blind $0.25
+slightbuzz77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Js]
+slightbuzz77: checks 
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Ray Zorfold: folds 
+WinsW/oAces: folds 
+4KIDS&AWIFE: folds 
+jruss133: calls $0.15
+r1ver_w0m@n: checks 
+*** FLOP *** [8d Th 8h]
+jruss133: bets $0.75
+r1ver_w0m@n: folds 
+slightbuzz77: folds 
+Uncalled bet ($0.75) returned to jruss133
+jruss133 collected $0.75 from pot
+jruss133: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [8d Th 8h]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ray Zorfold folded before Flop (didn't bet)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: 4KIDS&AWIFE (button) folded before Flop (didn't bet)
+Seat 7: jruss133 (small blind) collected ($0.75)
+Seat 8: r1ver_w0m@n (big blind) folded on the Flop
+Seat 9: slightbuzz77 folded on the Flop
+
+
+
+PokerStars Game #20081105815:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:46:03 (ET)
+Table 'Heze III' 9-max Seat #7 is the button
+Seat 1: TioRicoLPP ($25 in chips) 
+Seat 2: lobablue ($23.60 in chips) 
+Seat 3: Alameda22 ($28.50 in chips) 
+Seat 4: Ray Zorfold ($34.50 in chips) 
+Seat 5: WinsW/oAces ($8.15 in chips) 
+Seat 6: 4KIDS&AWIFE ($2.95 in chips) 
+Seat 7: jruss133 ($25 in chips) 
+Seat 8: r1ver_w0m@n ($18.30 in chips) 
+Seat 9: slightbuzz77 ($14.75 in chips) 
+r1ver_w0m@n: posts small blind $0.10
+slightbuzz77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 2d]
+TioRicoLPP: folds 
+lobablue: folds 
+Alameda22: folds 
+Ray Zorfold: raises $0.50 to $0.75
+WinsW/oAces: calls $0.75
+4KIDS&AWIFE: folds 
+jruss133: folds 
+r1ver_w0m@n: folds 
+slightbuzz77: calls $0.50
+*** FLOP *** [Jc 7s Qc]
+slightbuzz77: checks 
+Ray Zorfold: checks 
+WinsW/oAces: checks 
+*** TURN *** [Jc 7s Qc] [7h]
+slightbuzz77: bets $1.65
+Ray Zorfold: folds 
+WinsW/oAces: folds 
+Uncalled bet ($1.65) returned to slightbuzz77
+slightbuzz77 collected $2.25 from pot
+slightbuzz77: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Jc 7s Qc 7h]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ray Zorfold folded on the Turn
+Seat 5: WinsW/oAces folded on the Turn
+Seat 6: 4KIDS&AWIFE folded before Flop (didn't bet)
+Seat 7: jruss133 (button) folded before Flop (didn't bet)
+Seat 8: r1ver_w0m@n (small blind) folded before Flop
+Seat 9: slightbuzz77 (big blind) collected ($2.25)
+
+
+
+PokerStars Game #20081132694:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:47:16 (ET)
+Table 'Heze III' 9-max Seat #8 is the button
+Seat 1: TioRicoLPP ($25 in chips) 
+Seat 2: lobablue ($23.60 in chips) 
+Seat 3: Alameda22 ($28.50 in chips) 
+Seat 4: Ray Zorfold ($33.75 in chips) 
+Seat 5: WinsW/oAces ($7.40 in chips) 
+Seat 6: 4KIDS&AWIFE ($2.95 in chips) 
+Seat 7: jruss133 ($25 in chips) 
+Seat 8: r1ver_w0m@n ($18.20 in chips) 
+Seat 9: slightbuzz77 ($16.25 in chips) 
+slightbuzz77: posts small blind $0.10
+TioRicoLPP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 8d]
+lobablue: folds 
+Alameda22: folds 
+Ray Zorfold: folds 
+WinsW/oAces: folds 
+4KIDS&AWIFE: folds 
+jruss133: folds 
+r1ver_w0m@n: folds 
+slightbuzz77: calls $0.15
+TioRicoLPP: checks 
+*** FLOP *** [8s 6d Qs]
+slightbuzz77: checks 
+TioRicoLPP: checks 
+*** TURN *** [8s 6d Qs] [Qd]
+slightbuzz77: checks 
+TioRicoLPP: bets $0.50
+slightbuzz77: folds 
+Uncalled bet ($0.50) returned to TioRicoLPP
+TioRicoLPP collected $0.50 from pot
+TioRicoLPP: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [8s 6d Qs Qd]
+Seat 1: TioRicoLPP (big blind) collected ($0.50)
+Seat 2: lobablue folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ray Zorfold folded before Flop (didn't bet)
+Seat 5: WinsW/oAces folded before Flop (didn't bet)
+Seat 6: 4KIDS&AWIFE folded before Flop (didn't bet)
+Seat 7: jruss133 folded before Flop (didn't bet)
+Seat 8: r1ver_w0m@n (button) folded before Flop (didn't bet)
+Seat 9: slightbuzz77 (small blind) folded on the Turn
+
+
+
+PokerStars Game #20081152968:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:48:12 (ET)
+Table 'Heze III' 9-max Seat #9 is the button
+Seat 1: TioRicoLPP ($25.25 in chips) 
+Seat 3: Alameda22 ($28.50 in chips) 
+Seat 4: Ray Zorfold ($33.75 in chips) 
+Seat 5: WinsW/oAces ($7.40 in chips) 
+Seat 6: 4KIDS&AWIFE ($2.95 in chips) 
+Seat 7: jruss133 ($25 in chips) 
+Seat 8: r1ver_w0m@n ($18.20 in chips) 
+Seat 9: slightbuzz77 ($16 in chips) 
+TioRicoLPP: posts small blind $0.10
+lobablue: is sitting out 
+lobablue leaves the table
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 9h]
+Ray Zorfold: folds 
+WinsW/oAces: calls $0.25
+4KIDS&AWIFE: calls $0.25
+jruss133: folds 
+r1ver_w0m@n: folds 
+slightbuzz77: calls $0.25
+TioRicoLPP: folds 
+Alameda22: checks 
+*** FLOP *** [Ks 3d 9c]
+Alameda22: bets $0.50
+WinsW/oAces: folds 
+4KIDS&AWIFE: folds 
+slightbuzz77: calls $0.50
+*** TURN *** [Ks 3d 9c] [Jd]
+Alameda22: checks 
+M0RE=C0WBELL joins the table at seat #2 
+slightbuzz77: bets $1
+Alameda22: calls $1
+*** RIVER *** [Ks 3d 9c Jd] [2d]
+Alameda22: checks 
+slightbuzz77: bets $2.25
+Alameda22: calls $2.25
+*** SHOW DOWN ***
+slightbuzz77: shows [Ts Kd] (a pair of Kings)
+Alameda22: shows [3c 9h] (two pair, Nines and Threes)
+Alameda22 collected $8.20 from pot
+slightbuzz77 said, "nice"
+*** SUMMARY ***
+Total pot $8.60 | Rake $0.40 
+Board [Ks 3d 9c Jd 2d]
+Seat 1: TioRicoLPP (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) showed [3c 9h] and won ($8.20) with two pair, Nines and Threes
+Seat 4: Ray Zorfold folded before Flop (didn't bet)
+Seat 5: WinsW/oAces folded on the Flop
+Seat 6: 4KIDS&AWIFE folded on the Flop
+Seat 7: jruss133 folded before Flop (didn't bet)
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+Seat 9: slightbuzz77 (button) showed [Ts Kd] and lost with a pair of Kings
+
+
+
+PokerStars Game #20081190005:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:49:52 (ET)
+Table 'Heze III' 9-max Seat #1 is the button
+Seat 1: TioRicoLPP ($25.15 in chips) 
+Seat 3: Alameda22 ($32.70 in chips) 
+Seat 4: Ray Zorfold ($33.75 in chips) 
+Seat 5: WinsW/oAces ($7.15 in chips) 
+Seat 6: 4KIDS&AWIFE ($2.70 in chips) 
+Seat 7: jruss133 ($25 in chips) 
+Seat 8: r1ver_w0m@n ($18.20 in chips) 
+Seat 9: slightbuzz77 ($12 in chips) 
+M0RE=C0WBELL will be allowed to play after the button
+Alameda22: posts small blind $0.10
+Ray Zorfold: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 6d]
+WinsW/oAces: calls $0.25
+4KIDS&AWIFE: calls $0.25
+jruss133: calls $0.25
+r1ver_w0m@n: folds 
+slightbuzz77: folds 
+TioRicoLPP: folds 
+Alameda22: folds 
+Ray Zorfold: checks 
+*** FLOP *** [5d 8c 2h]
+Ray Zorfold: checks 
+WinsW/oAces: checks 
+4KIDS&AWIFE: bets $0.75
+jruss133: folds 
+Ray Zorfold: folds 
+WinsW/oAces: folds 
+Uncalled bet ($0.75) returned to 4KIDS&AWIFE
+4KIDS&AWIFE collected $1.05 from pot
+4KIDS&AWIFE: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [5d 8c 2h]
+Seat 1: TioRicoLPP (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Ray Zorfold (big blind) folded on the Flop
+Seat 5: WinsW/oAces folded on the Flop
+Seat 6: 4KIDS&AWIFE collected ($1.05)
+Seat 7: jruss133 folded on the Flop
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+Seat 9: slightbuzz77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081207934:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:50:40 (ET)
+Table 'Heze III' 9-max Seat #3 is the button
+Seat 1: TioRicoLPP ($25.15 in chips) 
+Seat 2: M0RE=C0WBELL ($25 in chips) 
+Seat 3: Alameda22 ($32.60 in chips) 
+Seat 4: Ray Zorfold ($33.50 in chips) 
+Seat 5: WinsW/oAces ($6.90 in chips) 
+Seat 6: 4KIDS&AWIFE ($3.50 in chips) 
+Seat 7: jruss133 ($24.75 in chips) 
+Seat 8: r1ver_w0m@n ($18.20 in chips) 
+Seat 9: slightbuzz77 ($12 in chips) 
+Ray Zorfold: posts small blind $0.10
+WinsW/oAces: posts big blind $0.25
+M0RE=C0WBELL: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 9s]
+r1ver_w0m@n is disconnected 
+4KIDS&AWIFE: folds 
+jruss133: folds 
+r1ver_w0m@n has timed out while disconnected
+r1ver_w0m@n: folds 
+r1ver_w0m@n is sitting out
+slightbuzz77: folds 
+r1ver_w0m@n is connected 
+TioRicoLPP: folds 
+M0RE=C0WBELL: checks 
+Alameda22: folds 
+Ray Zorfold: folds 
+WinsW/oAces: checks 
+*** FLOP *** [Ad 2s 5d]
+WinsW/oAces: checks 
+r1ver_w0m@n has returned
+M0RE=C0WBELL: checks 
+*** TURN *** [Ad 2s 5d] [5h]
+WinsW/oAces: checks 
+M0RE=C0WBELL: checks 
+*** RIVER *** [Ad 2s 5d 5h] [3s]
+WinsW/oAces: bets $0.75
+M0RE=C0WBELL: folds 
+Uncalled bet ($0.75) returned to WinsW/oAces
+WinsW/oAces collected $0.60 from pot
+WinsW/oAces: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ad 2s 5d 5h 3s]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: M0RE=C0WBELL folded on the River
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Ray Zorfold (small blind) folded before Flop
+Seat 5: WinsW/oAces (big blind) collected ($0.60)
+Seat 6: 4KIDS&AWIFE folded before Flop (didn't bet)
+Seat 7: jruss133 folded before Flop (didn't bet)
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+Seat 9: slightbuzz77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081248222:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:52:30 (ET)
+Table 'Heze III' 9-max Seat #4 is the button
+Seat 1: TioRicoLPP ($25.15 in chips) 
+Seat 2: M0RE=C0WBELL ($24.75 in chips) 
+Seat 3: Alameda22 ($32.60 in chips) 
+Seat 4: Ray Zorfold ($33.40 in chips) 
+Seat 5: WinsW/oAces ($7.25 in chips) 
+Seat 6: 4KIDS&AWIFE ($3.50 in chips) 
+Seat 7: jruss133 ($24.75 in chips) 
+Seat 8: r1ver_w0m@n ($18.20 in chips) 
+Seat 9: slightbuzz77 ($12 in chips) 
+WinsW/oAces: posts small blind $0.10
+4KIDS&AWIFE: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Ac]
+jruss133: folds 
+r1ver_w0m@n: calls $0.25
+slightbuzz77: folds 
+TioRicoLPP: folds 
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+Ray Zorfold: folds 
+WinsW/oAces: calls $0.15
+4KIDS&AWIFE: raises $0.25 to $0.50
+r1ver_w0m@n is disconnected 
+r1ver_w0m@n is connected 
+r1ver_w0m@n: calls $0.25
+WinsW/oAces: calls $0.25
+*** FLOP *** [7s 9s Qs]
+WinsW/oAces: checks 
+4KIDS&AWIFE: bets $1.50
+r1ver_w0m@n: calls $1.50
+WinsW/oAces: raises $5.25 to $6.75 and is all-in
+4KIDS&AWIFE: calls $1.50 and is all-in
+r1ver_w0m@n: calls $5.25
+*** TURN *** [7s 9s Qs] [6c]
+*** RIVER *** [7s 9s Qs 6c] [9c]
+*** SHOW DOWN ***
+WinsW/oAces: shows [6h Qh] (two pair, Queens and Nines)
+r1ver_w0m@n: shows [5s 4s] (a flush, Queen high)
+r1ver_w0m@n collected $7.15 from side pot
+4KIDS&AWIFE: mucks hand 
+r1ver_w0m@n collected $10 from main pot
+*** SUMMARY ***
+Total pot $18 Main pot $10. Side pot $7.15. | Rake $0.85 
+Board [7s 9s Qs 6c 9c]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ray Zorfold (button) folded before Flop (didn't bet)
+Seat 5: WinsW/oAces (small blind) showed [6h Qh] and lost with two pair, Queens and Nines
+Seat 6: 4KIDS&AWIFE (big blind) mucked [Ah As]
+Seat 7: jruss133 folded before Flop (didn't bet)
+Seat 8: r1ver_w0m@n showed [5s 4s] and won ($17.15) with a flush, Queen high
+Seat 9: slightbuzz77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081295462:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:54:39 (ET)
+Table 'Heze III' 9-max Seat #7 is the button
+Seat 1: TioRicoLPP ($25.15 in chips) 
+Seat 2: M0RE=C0WBELL ($24.75 in chips) 
+Seat 3: Alameda22 ($32.60 in chips) 
+Seat 4: Ray Zorfold ($33.40 in chips) 
+Seat 7: jruss133 ($24.75 in chips) 
+Seat 8: r1ver_w0m@n ($28.10 in chips) 
+Seat 9: slightbuzz77 ($12 in chips) 
+r1ver_w0m@n: posts small blind $0.10
+WinsW/oAces leaves the table
+slightbuzz77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 4h]
+TioRicoLPP: raises $0.75 to $1
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+Ray Zorfold: folds 
+jruss133: folds 
+r1ver_w0m@n: folds 
+slightbuzz77: folds 
+Uncalled bet ($0.75) returned to TioRicoLPP
+whoareume joins the table at seat #5 
+TioRicoLPP collected $0.60 from pot
+TioRicoLPP: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: TioRicoLPP collected ($0.60)
+Seat 2: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ray Zorfold folded before Flop (didn't bet)
+Seat 7: jruss133 (button) folded before Flop (didn't bet)
+Seat 8: r1ver_w0m@n (small blind) folded before Flop
+Seat 9: slightbuzz77 (big blind) folded before Flop
+
+
+
+PokerStars Game #20081306793:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:55:11 (ET)
+Table 'Heze III' 9-max Seat #8 is the button
+Seat 1: TioRicoLPP ($25.50 in chips) 
+Seat 2: M0RE=C0WBELL ($24.75 in chips) 
+Seat 3: Alameda22 ($32.60 in chips) 
+Seat 4: Ray Zorfold ($33.40 in chips) 
+Seat 5: whoareume ($15 in chips) 
+Seat 7: jruss133 ($24.75 in chips) 
+Seat 8: r1ver_w0m@n ($28 in chips) 
+Seat 9: slightbuzz77 ($11.75 in chips) 
+slightbuzz77: posts small blind $0.10
+TioRicoLPP: posts big blind $0.25
+whoareume: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 2d]
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+Ray Zorfold: folds 
+Ray Zorfold is sitting out
+whoareume: checks 
+Ray Zorfold leaves the table
+jruss133: calls $0.25
+r1ver_w0m@n is disconnected 
+r1ver_w0m@n is connected 
+r1ver_w0m@n: calls $0.25
+slightbuzz77: calls $0.15
+TioRicoLPP: checks 
+*** FLOP *** [Ks 7s 3d]
+slightbuzz77: checks 
+Thai Monger joins the table at seat #4 
+TioRicoLPP: checks 
+whoareume: bets $0.25
+jruss133: calls $0.25
+r1ver_w0m@n: folds 
+slightbuzz77: calls $0.25
+TioRicoLPP: folds 
+*** TURN *** [Ks 7s 3d] [8c]
+slightbuzz77: checks 
+whoareume: bets $0.50
+jruss133: calls $0.50
+slightbuzz77: folds 
+*** RIVER *** [Ks 7s 3d 8c] [2h]
+whoareume: bets $1.25
+jruss133: folds 
+Uncalled bet ($1.25) returned to whoareume
+whoareume collected $2.90 from pot
+whoareume: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.10 
+Board [Ks 7s 3d 8c 2h]
+Seat 1: TioRicoLPP (big blind) folded on the Flop
+Seat 2: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Ray Zorfold folded before Flop (didn't bet)
+Seat 5: whoareume collected ($2.90)
+Seat 7: jruss133 folded on the River
+Seat 8: r1ver_w0m@n (button) folded on the Flop
+Seat 9: slightbuzz77 (small blind) folded on the Turn
+
+
+
+PokerStars Game #20081345652:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:56:58 (ET)
+Table 'Heze III' 9-max Seat #9 is the button
+Seat 1: TioRicoLPP ($25.25 in chips) 
+Seat 2: M0RE=C0WBELL ($24.75 in chips) 
+Seat 3: Alameda22 ($32.60 in chips) 
+Seat 5: whoareume ($16.90 in chips) 
+Seat 7: jruss133 ($23.75 in chips) 
+Seat 8: r1ver_w0m@n ($27.75 in chips) 
+Seat 9: slightbuzz77 ($11.25 in chips) 
+TioRicoLPP: posts small blind $0.10
+M0RE=C0WBELL: posts big blind $0.25
+Thai Monger: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 8s]
+Alameda22: folds 
+whoareume: folds 
+jruss133: raises $0.75 to $1
+r1ver_w0m@n is disconnected 
+r1ver_w0m@n has timed out while disconnected
+r1ver_w0m@n: folds 
+r1ver_w0m@n is sitting out
+slightbuzz77: folds 
+TioRicoLPP: folds 
+M0RE=C0WBELL: folds 
+Uncalled bet ($0.75) returned to jruss133
+jruss133 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: TioRicoLPP (small blind) folded before Flop
+Seat 2: M0RE=C0WBELL (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 5: whoareume folded before Flop (didn't bet)
+Seat 7: jruss133 collected ($0.60)
+Seat 8: r1ver_w0m@n folded before Flop (didn't bet)
+Seat 9: slightbuzz77 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081369112:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:58:03 (ET)
+Table 'Heze III' 9-max Seat #1 is the button
+Seat 1: TioRicoLPP ($25.15 in chips) 
+Seat 2: M0RE=C0WBELL ($24.50 in chips) 
+Seat 3: Alameda22 ($32.60 in chips) 
+Seat 5: whoareume ($16.90 in chips) 
+Seat 7: jruss133 ($24.10 in chips) 
+Seat 9: slightbuzz77 ($11.25 in chips) 
+M0RE=C0WBELL: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Thai Monger: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Kc]
+whoareume: folds 
+jruss133: raises $0.25 to $0.50
+slightbuzz77: calls $0.50
+TioRicoLPP: folds 
+M0RE=C0WBELL: folds 
+Alameda22: calls $0.25
+*** FLOP *** [9c 4d 6h]
+Alameda22: checks 
+jruss133: bets $2
+slightbuzz77: folds 
+Alameda22: folds 
+Uncalled bet ($2) returned to jruss133
+jruss133 collected $1.55 from pot
+jruss133: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [9c 4d 6h]
+Seat 1: TioRicoLPP (button) folded before Flop (didn't bet)
+Seat 2: M0RE=C0WBELL (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 5: whoareume folded before Flop (didn't bet)
+Seat 7: jruss133 collected ($1.55)
+Seat 9: slightbuzz77 folded on the Flop
+
+
+
+PokerStars Game #20081392828:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:59:10 (ET)
+Table 'Heze III' 9-max Seat #2 is the button
+Seat 1: TioRicoLPP ($25.15 in chips) 
+Seat 2: M0RE=C0WBELL ($24.40 in chips) 
+Seat 3: Alameda22 ($32.10 in chips) 
+Seat 4: Thai Monger ($6 in chips) 
+Seat 5: whoareume ($16.90 in chips) 
+Seat 7: jruss133 ($25.15 in chips) 
+Seat 9: slightbuzz77 ($10.75 in chips) 
+Alameda22: posts small blind $0.10
+Thai Monger: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 2s]
+whoareume: raises $0.75 to $1
+jruss133: folds 
+slightbuzz77: folds 
+TioRicoLPP: folds 
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+Thai Monger: folds 
+Uncalled bet ($0.75) returned to whoareume
+whoareume collected $0.60 from pot
+whoareume: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: M0RE=C0WBELL (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Thai Monger (big blind) folded before Flop
+Seat 5: whoareume collected ($0.60)
+Seat 7: jruss133 folded before Flop (didn't bet)
+Seat 9: slightbuzz77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081408718:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 22:59:55 (ET)
+Table 'Heze III' 9-max Seat #3 is the button
+Seat 1: TioRicoLPP ($25.15 in chips) 
+Seat 2: M0RE=C0WBELL ($24.40 in chips) 
+Seat 3: Alameda22 ($32 in chips) 
+Seat 4: Thai Monger ($5.75 in chips) 
+Seat 5: whoareume ($17.25 in chips) 
+Seat 7: jruss133 ($25.15 in chips) 
+Seat 9: slightbuzz77 ($10.75 in chips) 
+Thai Monger: posts small blind $0.10
+whoareume: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 6h]
+jruss133: calls $0.25
+slightbuzz77: raises $0.75 to $1
+TioRicoLPP: folds 
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+Thai Monger: folds 
+whoareume: folds 
+jruss133: folds 
+Uncalled bet ($0.75) returned to slightbuzz77
+slightbuzz77 collected $0.85 from pot
+slightbuzz77: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Thai Monger (small blind) folded before Flop
+Seat 5: whoareume (big blind) folded before Flop
+Seat 7: jruss133 folded before Flop
+Seat 9: slightbuzz77 collected ($0.85)
+
+
+
+PokerStars Game #20081424470:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:00:40 (ET)
+Table 'Heze III' 9-max Seat #4 is the button
+Seat 1: TioRicoLPP ($25.15 in chips) 
+Seat 2: M0RE=C0WBELL ($24.40 in chips) 
+Seat 3: Alameda22 ($32 in chips) 
+Seat 4: Thai Monger ($5.65 in chips) 
+Seat 5: whoareume ($17 in chips) 
+Seat 7: jruss133 ($24.90 in chips) 
+Seat 9: slightbuzz77 ($11.35 in chips) 
+whoareume: posts small blind $0.10
+jruss133: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Jc]
+slightbuzz77: folds 
+TioRicoLPP: folds 
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+Thai Monger: folds 
+whoareume: calls $0.15
+jruss133: checks 
+*** FLOP *** [4h 3s Qh]
+whoareume: bets $0.25
+jruss133: calls $0.25
+*** TURN *** [4h 3s Qh] [2d]
+whoareume: bets $0.25
+jruss133: raises $0.75 to $1
+whoareume: calls $0.75
+*** RIVER *** [4h 3s Qh 2d] [6c]
+whoareume: bets $3
+jruss133: folds 
+Uncalled bet ($3) returned to whoareume
+whoareume collected $2.90 from pot
+whoareume: doesn't show hand 
+4KIDS&AWIFE leaves the table
+*** SUMMARY ***
+Total pot $3 | Rake $0.10 
+Board [4h 3s Qh 2d 6c]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Thai Monger (button) folded before Flop (didn't bet)
+Seat 5: whoareume (small blind) collected ($2.90)
+Seat 7: jruss133 (big blind) folded on the River
+Seat 9: slightbuzz77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081445162:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:01:38 (ET)
+Table 'Heze III' 9-max Seat #5 is the button
+Seat 1: TioRicoLPP ($25.15 in chips) 
+Seat 2: M0RE=C0WBELL ($24.40 in chips) 
+Seat 3: Alameda22 ($32 in chips) 
+Seat 4: Thai Monger ($5.65 in chips) 
+Seat 5: whoareume ($18.40 in chips) 
+Seat 7: jruss133 ($23.40 in chips) 
+Seat 9: slightbuzz77 ($11.35 in chips) 
+jruss133: posts small blind $0.10
+slightbuzz77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 2s]
+TioRicoLPP: folds 
+M0RE=C0WBELL: raises $0.50 to $0.75
+Alameda22: folds 
+Thai Monger: folds 
+whoareume: folds 
+jruss133: folds 
+slightbuzz77: folds 
+Uncalled bet ($0.50) returned to M0RE=C0WBELL
+M0RE=C0WBELL collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: M0RE=C0WBELL collected ($0.60)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Thai Monger folded before Flop (didn't bet)
+Seat 5: whoareume (button) folded before Flop (didn't bet)
+Seat 7: jruss133 (small blind) folded before Flop
+Seat 9: slightbuzz77 (big blind) folded before Flop
+
+
+
+PokerStars Game #20081457141:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:02:13 (ET)
+Table 'Heze III' 9-max Seat #7 is the button
+Seat 1: TioRicoLPP ($25.15 in chips) 
+Seat 2: M0RE=C0WBELL ($24.75 in chips) 
+Seat 3: Alameda22 ($32 in chips) 
+Seat 4: Thai Monger ($5.65 in chips) 
+Seat 5: whoareume ($18.40 in chips) 
+Seat 7: jruss133 ($23.30 in chips) 
+Seat 9: slightbuzz77 ($11.10 in chips) 
+slightbuzz77: posts small blind $0.10
+TioRicoLPP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 3c]
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+Thai Monger: folds 
+r1ver_w0m@n is connected 
+whoareume: folds 
+jruss133: raises $0.75 to $1
+slightbuzz77: folds 
+TioRicoLPP: folds 
+Uncalled bet ($0.75) returned to jruss133
+r1ver_w0m@n has returned
+jruss133 collected $0.60 from pot
+jruss133: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: TioRicoLPP (big blind) folded before Flop
+Seat 2: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Thai Monger folded before Flop (didn't bet)
+Seat 5: whoareume folded before Flop (didn't bet)
+Seat 7: jruss133 (button) collected ($0.60)
+Seat 9: slightbuzz77 (small blind) folded before Flop
+
+
+
+PokerStars Game #20081467283:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:02:42 (ET)
+Table 'Heze III' 9-max Seat #9 is the button
+Seat 1: TioRicoLPP ($24.90 in chips) 
+Seat 2: M0RE=C0WBELL ($24.75 in chips) 
+Seat 3: Alameda22 ($32 in chips) 
+Seat 4: Thai Monger ($5.65 in chips) 
+Seat 5: whoareume ($18.40 in chips) 
+Seat 7: jruss133 ($23.65 in chips) 
+Seat 9: slightbuzz77 ($11 in chips) 
+TioRicoLPP: posts small blind $0.10
+M0RE=C0WBELL: posts big blind $0.25
+r1ver_w0m@n: is sitting out 
+r1ver_w0m@n leaves the table
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 3c]
+Alameda22: folds 
+Thai Monger: folds 
+whoareume: folds 
+jruss133: raises $0.75 to $1
+slightbuzz77: calls $1
+TioRicoLPP: folds 
+M0RE=C0WBELL: folds 
+*** FLOP *** [Tc Kc 8s]
+jruss133: bets $1.75
+slightbuzz77: calls $1.75
+*** TURN *** [Tc Kc 8s] [7c]
+jruss133: checks 
+slightbuzz77: bets $3.75
+jruss133: calls $3.75
+*** RIVER *** [Tc Kc 8s 7c] [Ah]
+jruss133: bets $5.75
+slightbuzz77: calls $4.50 and is all-in
+Uncalled bet ($1.25) returned to jruss133
+*** SHOW DOWN ***
+jruss133: shows [Td Jc] (a pair of Tens)
+slightbuzz77: shows [Qd Jh] (a straight, Ten to Ace)
+slightbuzz77 collected $21.30 from pot
+*** SUMMARY ***
+Total pot $22.35 | Rake $1.05 
+Board [Tc Kc 8s 7c Ah]
+Seat 1: TioRicoLPP (small blind) folded before Flop
+Seat 2: M0RE=C0WBELL (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Thai Monger folded before Flop (didn't bet)
+Seat 5: whoareume folded before Flop (didn't bet)
+Seat 7: jruss133 showed [Td Jc] and lost with a pair of Tens
+Seat 9: slightbuzz77 (button) showed [Qd Jh] and won ($21.30) with a straight, Ten to Ace
+
+
+
+PokerStars Game #20081500574:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:04:17 (ET)
+Table 'Heze III' 9-max Seat #1 is the button
+Seat 1: TioRicoLPP ($24.80 in chips) 
+Seat 2: M0RE=C0WBELL ($24.50 in chips) 
+Seat 3: Alameda22 ($32 in chips) 
+Seat 4: Thai Monger ($5.65 in chips) 
+Seat 5: whoareume ($18.40 in chips) 
+Seat 7: jruss133 ($12.65 in chips) 
+Seat 9: slightbuzz77 ($21.30 in chips) 
+M0RE=C0WBELL: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 2s]
+mollyhunter joins the table at seat #8 
+Thai Monger: folds 
+whoareume: folds 
+scblurxc joins the table at seat #6 
+jruss133: folds 
+slightbuzz77: folds 
+TioRicoLPP: raises $0.75 to $1
+M0RE=C0WBELL: folds 
+slightbuzz77 said, "ohhhhh"
+Alameda22: folds 
+Uncalled bet ($0.75) returned to TioRicoLPP
+slightbuzz77 said, "you're here"
+TioRicoLPP collected $0.60 from pot
+TioRicoLPP: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: TioRicoLPP (button) collected ($0.60)
+Seat 2: M0RE=C0WBELL (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: Thai Monger folded before Flop (didn't bet)
+Seat 5: whoareume folded before Flop (didn't bet)
+Seat 7: jruss133 folded before Flop (didn't bet)
+Seat 9: slightbuzz77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081512161:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:04:50 (ET)
+Table 'Heze III' 9-max Seat #2 is the button
+Seat 1: TioRicoLPP ($25.15 in chips) 
+Seat 2: M0RE=C0WBELL ($24.40 in chips) 
+Seat 3: Alameda22 ($31.75 in chips) 
+Seat 4: Thai Monger ($5.65 in chips) 
+Seat 5: whoareume ($18.40 in chips) 
+Seat 6: scblurxc ($25 in chips) 
+Seat 7: jruss133 ($12.65 in chips) 
+Seat 8: mollyhunter ($15 in chips) 
+Seat 9: slightbuzz77 ($21.30 in chips) 
+Alameda22: posts small blind $0.10
+Thai Monger: posts big blind $0.25
+slightbuzz77 said, "need more money?"
+scblurxc: posts big blind $0.25
+mollyhunter: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 9c]
+whoareume: folds 
+scblurxc: checks 
+jruss133: folds 
+mollyhunter: checks 
+slightbuzz77: calls $0.25
+TioRicoLPP: folds 
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+slightbuzz77 said, "what idiot staked you?"
+Thai Monger: checks 
+*** FLOP *** [7s 4c Kd]
+Thai Monger: checks 
+scblurxc: checks 
+mollyhunter: bets $0.25
+slightbuzz77: raises $0.50 to $0.75
+Thai Monger: folds 
+scblurxc: folds 
+mollyhunter: folds 
+Uncalled bet ($0.50) returned to slightbuzz77
+slightbuzz77 collected $1.55 from pot
+slightbuzz77: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [7s 4c Kd]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: M0RE=C0WBELL (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Thai Monger (big blind) folded on the Flop
+Seat 5: whoareume folded before Flop (didn't bet)
+Seat 6: scblurxc folded on the Flop
+Seat 7: jruss133 folded before Flop (didn't bet)
+Seat 8: mollyhunter folded on the Flop
+Seat 9: slightbuzz77 collected ($1.55)
+
+
+
+PokerStars Game #20081540540:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:06:14 (ET)
+Table 'Heze III' 9-max Seat #3 is the button
+Seat 1: TioRicoLPP ($25.15 in chips) 
+Seat 2: M0RE=C0WBELL ($24.40 in chips) 
+Seat 3: Alameda22 ($31.65 in chips) 
+Seat 4: Thai Monger ($5.40 in chips) 
+Seat 5: whoareume ($18.40 in chips) 
+Seat 6: scblurxc ($24.75 in chips) 
+Seat 7: jruss133 ($25 in chips) 
+Seat 8: mollyhunter ($14.50 in chips) 
+Seat 9: slightbuzz77 ($22.35 in chips) 
+Thai Monger: posts small blind $0.10
+whoareume: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 3s]
+scblurxc: raises $0.50 to $0.75
+jruss133: folds 
+mollyhunter: folds 
+slightbuzz77: folds 
+TioRicoLPP: folds 
+slightbuzz77 said, "wanna jump in to a cash table?"
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+Thai Monger: folds 
+whoareume: folds 
+Uncalled bet ($0.50) returned to scblurxc
+scblurxc collected $0.60 from pot
+scblurxc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Thai Monger (small blind) folded before Flop
+Seat 5: whoareume (big blind) folded before Flop
+Seat 6: scblurxc collected ($0.60)
+Seat 7: jruss133 folded before Flop (didn't bet)
+Seat 8: mollyhunter folded before Flop (didn't bet)
+Seat 9: slightbuzz77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081560528:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:07:10 (ET)
+Table 'Heze III' 9-max Seat #4 is the button
+Seat 1: TioRicoLPP ($25.15 in chips) 
+Seat 2: M0RE=C0WBELL ($24.40 in chips) 
+Seat 3: Alameda22 ($31.65 in chips) 
+Seat 4: Thai Monger ($5.30 in chips) 
+Seat 5: whoareume ($18.15 in chips) 
+Seat 6: scblurxc ($25.10 in chips) 
+Seat 7: jruss133 ($25 in chips) 
+Seat 8: mollyhunter ($14.50 in chips) 
+Seat 9: slightbuzz77 ($22.35 in chips) 
+whoareume: posts small blind $0.10
+scblurxc: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 8h]
+jruss133: folds 
+mollyhunter: folds 
+slightbuzz77: calls $0.25
+TioRicoLPP: folds 
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+Thai Monger: folds 
+whoareume: calls $0.15
+scblurxc: checks 
+*** FLOP *** [3h Ts Jh]
+whoareume: checks 
+slightbuzz77 said, "are you in?"
+scblurxc: checks 
+slightbuzz77: checks 
+*** TURN *** [3h Ts Jh] [Jd]
+whoareume: bets $0.50
+scblurxc: folds 
+slightbuzz77: folds 
+Uncalled bet ($0.50) returned to whoareume
+whoareume collected $0.75 from pot
+whoareume: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [3h Ts Jh Jd]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Thai Monger (button) folded before Flop (didn't bet)
+Seat 5: whoareume (small blind) collected ($0.75)
+Seat 6: scblurxc (big blind) folded on the Turn
+Seat 7: jruss133 folded before Flop (didn't bet)
+Seat 8: mollyhunter folded before Flop (didn't bet)
+Seat 9: slightbuzz77 folded on the Turn
+
+
+
+PokerStars Game #20081581719:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:08:11 (ET)
+Table 'Heze III' 9-max Seat #5 is the button
+Seat 1: TioRicoLPP ($25.15 in chips) 
+Seat 2: M0RE=C0WBELL ($24.40 in chips) 
+Seat 3: Alameda22 ($31.65 in chips) 
+Seat 4: Thai Monger ($5.30 in chips) 
+Seat 5: whoareume ($18.65 in chips) 
+Seat 6: scblurxc ($24.85 in chips) 
+Seat 7: jruss133 ($25 in chips) 
+Seat 8: mollyhunter ($14.50 in chips) 
+Seat 9: slightbuzz77 ($22.10 in chips) 
+scblurxc: posts small blind $0.10
+jruss133: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 7c]
+mollyhunter: folds 
+slightbuzz77: calls $0.25
+TioRicoLPP: folds 
+slightbuzz77 said, "i'll be there"
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+Thai Monger: folds 
+whoareume: folds 
+scblurxc: calls $0.15
+jruss133: checks 
+*** FLOP *** [8s Jh 3h]
+scblurxc: bets $0.50
+jruss133: calls $0.50
+slightbuzz77: raises $1 to $1.50
+scblurxc: calls $1
+jruss133: calls $1
+*** TURN *** [8s Jh 3h] [2c]
+scblurxc: bets $2.75
+jruss133: folds 
+slightbuzz77: raises $3.25 to $6
+scblurxc: folds 
+Uncalled bet ($3.25) returned to slightbuzz77
+slightbuzz77 collected $10.25 from pot
+slightbuzz77: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.75 | Rake $0.50 
+Board [8s Jh 3h 2c]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Thai Monger folded before Flop (didn't bet)
+Seat 5: whoareume (button) folded before Flop (didn't bet)
+Seat 6: scblurxc (small blind) folded on the Turn
+Seat 7: jruss133 (big blind) folded on the Turn
+Seat 8: mollyhunter folded before Flop (didn't bet)
+Seat 9: slightbuzz77 collected ($10.25)
+
+
+
+PokerStars Game #20081629358:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:10:31 (ET)
+Table 'Heze III' 9-max Seat #6 is the button
+Seat 1: TioRicoLPP ($25.15 in chips) 
+Seat 2: M0RE=C0WBELL ($24.40 in chips) 
+Seat 3: Alameda22 ($31.65 in chips) 
+Seat 4: Thai Monger ($5.30 in chips) 
+Seat 5: whoareume ($18.65 in chips) 
+Seat 6: scblurxc ($20.35 in chips) 
+Seat 7: jruss133 ($23.25 in chips) 
+Seat 8: mollyhunter ($14.50 in chips) 
+Seat 9: slightbuzz77 ($27.85 in chips) 
+jruss133: posts small blind $0.10
+mollyhunter: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 6c]
+slightbuzz77: folds 
+TioRicoLPP: raises $0.75 to $1
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+Thai Monger: folds 
+whoareume: folds 
+scblurxc: folds 
+jruss133: calls $0.90
+mollyhunter: folds 
+*** FLOP *** [8h 8c 9h]
+jruss133: bets $1.75
+TioRicoLPP: raises $1.75 to $3.50
+jruss133: folds 
+Uncalled bet ($1.75) returned to TioRicoLPP
+TioRicoLPP collected $5.50 from pot
+TioRicoLPP: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.25 
+Board [8h 8c 9h]
+Seat 1: TioRicoLPP collected ($5.50)
+Seat 2: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Thai Monger folded before Flop (didn't bet)
+Seat 5: whoareume folded before Flop (didn't bet)
+Seat 6: scblurxc (button) folded before Flop (didn't bet)
+Seat 7: jruss133 (small blind) folded on the Flop
+Seat 8: mollyhunter (big blind) folded before Flop
+Seat 9: slightbuzz77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081654668:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:11:45 (ET)
+Table 'Heze III' 9-max Seat #7 is the button
+Seat 1: TioRicoLPP ($27.90 in chips) 
+Seat 2: M0RE=C0WBELL ($24.40 in chips) 
+Seat 3: Alameda22 ($31.65 in chips) 
+Seat 4: Thai Monger ($5.30 in chips) 
+Seat 5: whoareume ($18.65 in chips) 
+Seat 6: scblurxc ($20.35 in chips) 
+Seat 7: jruss133 ($20.50 in chips) 
+Seat 8: mollyhunter ($14.25 in chips) 
+Seat 9: slightbuzz77 ($27.85 in chips) 
+mollyhunter: posts small blind $0.10
+slightbuzz77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 6d]
+TioRicoLPP: folds 
+M0RE=C0WBELL: folds 
+Alameda22: folds 
+Thai Monger: folds 
+whoareume: calls $0.25
+scblurxc: calls $0.25
+jruss133: folds 
+mollyhunter: calls $0.15
+slightbuzz77: checks 
+*** FLOP *** [2h 3s Kc]
+mollyhunter: checks 
+slightbuzz77: checks 
+TioRicoLPP leaves the table
+whoareume: bets $0.50
+scblurxc: folds 
+mollyhunter: folds 
+slightbuzz77: folds 
+Uncalled bet ($0.50) returned to whoareume
+whoareume collected $0.95 from pot
+whoareume: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [2h 3s Kc]
+Seat 1: TioRicoLPP folded before Flop (didn't bet)
+Seat 2: M0RE=C0WBELL folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Thai Monger folded before Flop (didn't bet)
+Seat 5: whoareume collected ($0.95)
+Seat 6: scblurxc folded on the Flop
+Seat 7: jruss133 (button) folded before Flop (didn't bet)
+Seat 8: mollyhunter (small blind) folded on the Flop
+Seat 9: slightbuzz77 (big blind) folded on the Flop
+
+
+
+PokerStars Game #20081672957:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:12:39 (ET)
+Table 'Heze III' 9-max Seat #8 is the button
+Seat 3: Alameda22 ($31.65 in chips) 
+Seat 4: Thai Monger ($5.30 in chips) 
+Seat 5: whoareume ($19.35 in chips) 
+Seat 6: scblurxc ($20.10 in chips) 
+Seat 7: jruss133 ($20.50 in chips) 
+Seat 8: mollyhunter ($14 in chips) 
+Seat 9: slightbuzz77 ($27.60 in chips) 
+slightbuzz77: posts small blind $0.10
+M0RE=C0WBELL: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 3h]
+M0RE=C0WBELL leaves the table
+Thai Monger: calls $0.25
+whoareume: folds 
+scblurxc: folds 
+jruss133: calls $0.25
+mollyhunter: folds 
+slightbuzz77: calls $0.15
+Alameda22: checks 
+*** FLOP *** [6s Ad 3s]
+slightbuzz77: checks 
+Alameda22: checks 
+Thai Monger: checks 
+jruss133: bets $1
+slightbuzz77: folds 
+Alameda22: folds 
+Thai Monger: folds 
+Uncalled bet ($1) returned to jruss133
+jruss133 collected $0.95 from pot
+jruss133: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [6s Ad 3s]
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 4: Thai Monger folded on the Flop
+Seat 5: whoareume folded before Flop (didn't bet)
+Seat 6: scblurxc folded before Flop (didn't bet)
+Seat 7: jruss133 collected ($0.95)
+Seat 8: mollyhunter (button) folded before Flop (didn't bet)
+Seat 9: slightbuzz77 (small blind) folded on the Flop
+
+
+
+PokerStars Game #20081689039:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:13:27 (ET)
+Table 'Heze III' 9-max Seat #9 is the button
+Seat 3: Alameda22 ($31.40 in chips) 
+Seat 4: Thai Monger ($5.05 in chips) 
+Seat 5: whoareume ($19.35 in chips) 
+Seat 6: scblurxc ($20.10 in chips) 
+Seat 7: jruss133 ($21.20 in chips) 
+Seat 8: mollyhunter ($14 in chips) 
+Seat 9: slightbuzz77 ($27.35 in chips) 
+Alameda22: posts small blind $0.10
+Thai Monger: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 9h]
+whoareume: folds 
+scblurxc: folds 
+jruss133: calls $0.25
+mollyhunter: folds 
+slightbuzz77: raises $0.50 to $0.75
+Alameda22: folds 
+Thai Monger: folds 
+jruss133: calls $0.50
+*** FLOP *** [9c 3h Jd]
+jruss133: bets $1.75
+slightbuzz77: folds 
+Uncalled bet ($1.75) returned to jruss133
+jruss133 collected $1.80 from pot
+jruss133: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [9c 3h Jd]
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Thai Monger (big blind) folded before Flop
+Seat 5: whoareume folded before Flop (didn't bet)
+Seat 6: scblurxc folded before Flop (didn't bet)
+Seat 7: jruss133 collected ($1.80)
+Seat 8: mollyhunter folded before Flop (didn't bet)
+Seat 9: slightbuzz77 (button) folded on the Flop
+
+
+
+PokerStars Game #20081704866:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:14:15 (ET)
+Table 'Heze III' 9-max Seat #3 is the button
+Seat 3: Alameda22 ($31.30 in chips) 
+Seat 4: Thai Monger ($4.80 in chips) 
+Seat 5: whoareume ($19.35 in chips) 
+Seat 6: scblurxc ($20.10 in chips) 
+Seat 7: jruss133 ($22.25 in chips) 
+Seat 8: mollyhunter ($14 in chips) 
+Seat 9: slightbuzz77 ($26.60 in chips) 
+Thai Monger: posts small blind $0.10
+whoareume: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 6s]
+fitchboy80 joins the table at seat #2 
+scblurxc: folds 
+jruss133: calls $0.25
+mollyhunter: calls $0.25
+slightbuzz77: calls $0.25
+Alameda22: folds 
+Thai Monger: calls $0.15
+whoareume: checks 
+*** FLOP *** [6c Ts 2s]
+Thai Monger: checks 
+whoareume: checks 
+jruss133: checks 
+burn'm joins the table at seat #1 
+mollyhunter: checks 
+slightbuzz77: bets $0.75
+Thai Monger: folds 
+whoareume: folds 
+jruss133: folds 
+mollyhunter: calls $0.75
+*** TURN *** [6c Ts 2s] [3s]
+mollyhunter: checks 
+slightbuzz77: checks 
+*** RIVER *** [6c Ts 2s 3s] [9d]
+mollyhunter: checks 
+slightbuzz77: checks 
+*** SHOW DOWN ***
+mollyhunter: shows [Ah Kc] (high card Ace)
+slightbuzz77: shows [Td Jc] (a pair of Tens)
+slightbuzz77 collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [6c Ts 2s 3s 9d]
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Thai Monger (small blind) folded on the Flop
+Seat 5: whoareume (big blind) folded on the Flop
+Seat 6: scblurxc folded before Flop (didn't bet)
+Seat 7: jruss133 folded on the Flop
+Seat 8: mollyhunter showed [Ah Kc] and lost with high card Ace
+Seat 9: slightbuzz77 showed [Td Jc] and won ($2.65) with a pair of Tens
+
+
+
+PokerStars Game #20081726534:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:15:19 (ET)
+Table 'Heze III' 9-max Seat #4 is the button
+Seat 1: burn'm ($10 in chips) 
+Seat 2: fitchboy80 ($15 in chips) 
+Seat 3: Alameda22 ($31.30 in chips) 
+Seat 4: Thai Monger ($4.55 in chips) 
+Seat 5: whoareume ($19.10 in chips) 
+Seat 6: scblurxc ($20.10 in chips) 
+Seat 7: jruss133 ($22 in chips) 
+Seat 8: mollyhunter ($13 in chips) 
+Seat 9: slightbuzz77 ($28.25 in chips) 
+whoareume: posts small blind $0.10
+scblurxc: posts big blind $0.25
+burn'm: posts big blind $0.25
+fitchboy80: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 3h]
+jruss133: calls $0.25
+mollyhunter: folds 
+mollyhunter leaves the table
+slightbuzz77: calls $0.25
+burn'm: raises $1 to $1.25
+fitchboy80: folds 
+Alameda22: folds 
+Thai Monger: folds 
+whoareume: folds 
+scblurxc: folds 
+jruss133: folds 
+slightbuzz77: folds 
+Uncalled bet ($1) returned to burn'm
+burn'm collected $1.35 from pot
+burn'm: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0 
+Seat 1: burn'm collected ($1.35)
+Seat 2: fitchboy80 folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Thai Monger (button) folded before Flop (didn't bet)
+Seat 5: whoareume (small blind) folded before Flop
+Seat 6: scblurxc (big blind) folded before Flop
+Seat 7: jruss133 folded before Flop
+Seat 8: mollyhunter folded before Flop (didn't bet)
+Seat 9: slightbuzz77 folded before Flop
+
+
+
+PokerStars Game #20081743815:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:16:11 (ET)
+Table 'Heze III' 9-max Seat #5 is the button
+Seat 1: burn'm ($11.10 in chips) 
+Seat 2: fitchboy80 ($14.75 in chips) 
+Seat 3: Alameda22 ($31.30 in chips) 
+Seat 4: Thai Monger ($4.55 in chips) 
+Seat 5: whoareume ($19 in chips) 
+Seat 6: scblurxc ($19.85 in chips) 
+Seat 9: slightbuzz77 ($28 in chips) 
+scblurxc: posts small blind $0.10
+jruss133: is sitting out 
+slightbuzz77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 2h]
+jruss133 leaves the table
+burn'm: folds 
+fitchboy80: folds 
+Alameda22: folds 
+Thai Monger: folds 
+whoareume: raises $0.50 to $0.75
+scblurxc: folds 
+slightbuzz77: raises $0.50 to $1.25
+whoareume: calls $0.50
+*** FLOP *** [7s Qd 8h]
+slightbuzz77: bets $1.75
+whoareume: calls $1.75
+*** TURN *** [7s Qd 8h] [Jc]
+slightbuzz77: checks 
+whoareume: bets $4
+slightbuzz77: raises $5 to $9
+whoareume: calls $5
+*** RIVER *** [7s Qd 8h Jc] [5c]
+slightbuzz77: checks 
+whoareume: checks 
+*** SHOW DOWN ***
+slightbuzz77: shows [Ks As] (high card Ace)
+whoareume: shows [Kd Kh] (a pair of Kings)
+whoareume collected $22.95 from pot
+slightbuzz77 said, "nh"
+*** SUMMARY ***
+Total pot $24.10 | Rake $1.15 
+Board [7s Qd 8h Jc 5c]
+Seat 1: burn'm folded before Flop (didn't bet)
+Seat 2: fitchboy80 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Thai Monger folded before Flop (didn't bet)
+Seat 5: whoareume (button) showed [Kd Kh] and won ($22.95) with a pair of Kings
+Seat 6: scblurxc (small blind) folded before Flop
+Seat 9: slightbuzz77 (big blind) showed [Ks As] and lost with high card Ace
+
+
+
+PokerStars Game #20081776970:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:17:50 (ET)
+Table 'Heze III' 9-max Seat #6 is the button
+Seat 1: burn'm ($11.10 in chips) 
+Seat 2: fitchboy80 ($14.75 in chips) 
+Seat 3: Alameda22 ($31.30 in chips) 
+Seat 4: Thai Monger ($4.55 in chips) 
+Seat 5: whoareume ($29.95 in chips) 
+Seat 6: scblurxc ($19.75 in chips) 
+Seat 9: slightbuzz77 ($16 in chips) 
+slightbuzz77: posts small blind $0.10
+burn'm: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 5c]
+fitchboy80: folds 
+Alameda22: folds 
+Thai Monger: folds 
+whoareume: calls $0.25
+slightbuzz77 said, "oh well"
+scblurxc: raises $0.50 to $0.75
+whoareume said, "didn't know what to put u on"
+slightbuzz77: folds 
+burn'm: folds 
+fitchboy80 leaves the table
+whoareume: calls $0.50
+*** FLOP *** [2d Tc Jc]
+whoareume: checks 
+slightbuzz77 said, "i was reaching"
+scblurxc: checks 
+*** TURN *** [2d Tc Jc] [6s]
+burn'm leaves the table
+whoareume said, "good play on the turn"
+whoareume: checks 
+scblurxc: checks 
+*** RIVER *** [2d Tc Jc 6s] [Qh]
+slightbuzz77 said, "tried"
+whoareume: checks 
+scblurxc: checks 
+whoareume said, "heh"
+*** SHOW DOWN ***
+whoareume: shows [8s 7s] (high card Queen)
+scblurxc: shows [As 9h] (high card Ace)
+Donuts1111 joins the table at seat #8 
+scblurxc collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [2d Tc Jc 6s Qh]
+Seat 1: burn'm (big blind) folded before Flop
+Seat 2: fitchboy80 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Thai Monger folded before Flop (didn't bet)
+Seat 5: whoareume showed [8s 7s] and lost with high card Queen
+Seat 6: scblurxc (button) showed [As 9h] and won ($1.80) with high card Ace
+Seat 9: slightbuzz77 (small blind) folded before Flop
+
+
+
+PokerStars Game #20081797392:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:18:52 (ET)
+Table 'Heze III' 9-max Seat #9 is the button
+Seat 3: Alameda22 ($31.30 in chips) 
+Seat 4: Thai Monger ($4.55 in chips) 
+Seat 5: whoareume ($29.20 in chips) 
+Seat 6: scblurxc ($20.80 in chips) 
+Seat 9: slightbuzz77 ($15.90 in chips) 
+Alameda22: posts small blind $0.10
+Thai Monger: posts big blind $0.25
+Donuts1111: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Qh]
+whoareume: folds 
+scblurxc: folds 
+slightbuzz77: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to Thai Monger
+Thai Monger collected $0.20 from pot
+Thai Monger: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: Thai Monger (big blind) collected ($0.20)
+Seat 5: whoareume folded before Flop (didn't bet)
+Seat 6: scblurxc folded before Flop (didn't bet)
+Seat 9: slightbuzz77 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081804709:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:19:14 (ET)
+Table 'Heze III' 9-max Seat #3 is the button
+Seat 3: Alameda22 ($31.20 in chips) 
+Seat 4: Thai Monger ($4.65 in chips) 
+Seat 5: whoareume ($29.20 in chips) 
+Seat 6: scblurxc ($20.80 in chips) 
+Seat 9: slightbuzz77 ($15.90 in chips) 
+Thai Monger: posts small blind $0.10
+whoareume: posts big blind $0.25
+Donuts1111: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Kc]
+scblurxc: folds 
+slightbuzz77: calls $0.25
+whoareume said, "i hope not"
+Alameda22: folds 
+Thai Monger: folds 
+whoareume: checks 
+*** FLOP *** [Ad Kd 6c]
+whoareume: checks 
+slightbuzz77: checks 
+*** TURN *** [Ad Kd 6c] [Jc]
+whoareume: bets $0.25
+slightbuzz77: calls $0.25
+*** RIVER *** [Ad Kd 6c Jc] [5c]
+whoareume: bets $0.25
+slightbuzz77: folds 
+Uncalled bet ($0.25) returned to whoareume
+whoareume collected $1.05 from pot
+whoareume: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Ad Kd 6c Jc 5c]
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: Thai Monger (small blind) folded before Flop
+Seat 5: whoareume (big blind) collected ($1.05)
+Seat 6: scblurxc folded before Flop (didn't bet)
+Seat 9: slightbuzz77 folded on the River
+
+
+
+PokerStars Game #20081818445:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:19:55 (ET)
+Table 'Heze III' 9-max Seat #4 is the button
+Seat 3: Alameda22 ($31.20 in chips) 
+Seat 4: Thai Monger ($4.55 in chips) 
+Seat 5: whoareume ($29.75 in chips) 
+Seat 6: scblurxc ($20.80 in chips) 
+Seat 9: slightbuzz77 ($15.40 in chips) 
+whoareume: posts small blind $0.10
+scblurxc: posts big blind $0.25
+Donuts1111: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 3c]
+slightbuzz77: folds 
+Alameda22: folds 
+Thai Monger: folds 
+whoareume: calls $0.15
+scblurxc: checks 
+*** FLOP *** [Ks 4s 7h]
+whoareume: bets $0.25
+scblurxc: folds 
+Uncalled bet ($0.25) returned to whoareume
+whoareume collected $0.50 from pot
+whoareume: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Ks 4s 7h]
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Thai Monger (button) folded before Flop (didn't bet)
+Seat 5: whoareume (small blind) collected ($0.50)
+Seat 6: scblurxc (big blind) folded on the Flop
+Seat 9: slightbuzz77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081829506:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:20:29 (ET)
+Table 'Heze III' 9-max Seat #5 is the button
+Seat 3: Alameda22 ($31.20 in chips) 
+Seat 4: Thai Monger ($4.55 in chips) 
+Seat 5: whoareume ($30 in chips) 
+Seat 6: scblurxc ($20.55 in chips) 
+Seat 8: Donuts1111 ($15 in chips) 
+Seat 9: slightbuzz77 ($15.40 in chips) 
+scblurxc: posts small blind $0.10
+Donuts1111: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 9d]
+slightbuzz77: folds 
+Alameda22: folds 
+Thai Monger: folds 
+whoareume: folds 
+scblurxc: folds 
+Uncalled bet ($0.15) returned to Donuts1111
+Donuts1111 collected $0.20 from pot
+Donuts1111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Thai Monger folded before Flop (didn't bet)
+Seat 5: whoareume (button) folded before Flop (didn't bet)
+Seat 6: scblurxc (small blind) folded before Flop
+Seat 8: Donuts1111 (big blind) collected ($0.20)
+Seat 9: slightbuzz77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20081840182:  Hold'em No Limit ($0.10/$0.25) - 2008/09/01 - 23:21:01 (ET)
+Table 'Heze III' 9-max Seat #6 is the button
+Seat 3: Alameda22 ($31.20 in chips) 
+Seat 4: Thai Monger ($4.55 in chips) 
+Seat 5: whoareume ($30 in chips) 
+Seat 6: scblurxc ($20.45 in chips) 
+Seat 8: Donuts1111 ($15.10 in chips) 
+Seat 9: slightbuzz77 ($15.40 in chips) 
+Donuts1111: posts small blind $0.10
+slightbuzz77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d Td]
+Alameda22: folds 
+Thai Monger: folds 
+whoareume: calls $0.25
+scblurxc: calls $0.25
+Donuts1111: calls $0.15
+slightbuzz77: checks 
+*** FLOP *** [9s 4h 5h]
+Donuts1111: checks 
+slightbuzz77: checks 
+whoareume: bets $0.25
+scblurxc: calls $0.25
+Donuts1111: calls $0.25
+slightbuzz77: calls $0.25
+*** TURN *** [9s 4h 5h] [Jc]
+Donuts1111: checks 
+slightbuzz77: checks 
+whoareume: bets $0.50
+scblurxc: calls $0.50
+Donuts1111: calls $0.50
+slightbuzz77: folds 
+*** RIVER *** [9s 4h 5h Jc] [8d]
+Donuts1111: bets $0.50
+whoareume: calls $0.50
+scblurxc: folds 
+*** SHOW DOWN ***
+Donuts1111: shows [8s 4s] (two pair, Eights and Fours)
+whoareume: mucks hand 
+Donuts1111 collected $4.30 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [9s 4h 5h Jc 8d]
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: Thai Monger folded before Flop (didn't bet)
+Seat 5: whoareume mucked [Th 9c]
+Seat 6: scblurxc (button) folded on the River
+Seat 8: Donuts1111 (small blind) showed [8s 4s] and won ($4.30) with two pair, Eights and Fours
+Seat 9: slightbuzz77 (big blind) folded on the Turn
+
+
+

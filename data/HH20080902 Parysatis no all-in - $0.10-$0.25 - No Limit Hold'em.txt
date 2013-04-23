@@ -1,0 +1,5587 @@
+PokerStars Game #20099157071:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:45:22 ET
+Table 'Parysatis' 9-max Seat #4 is the button
+Seat 1: lpoolreds ($44.85 in chips) 
+Seat 2: luna1985 ($17.50 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: puan29 ($24.65 in chips) 
+Seat 5: N_Marrajo_H ($27.45 in chips) 
+Seat 6: AcedePique ($22.50 in chips) 
+Seat 7: ojogadorbr ($24.15 in chips) 
+Seat 8: MC192 ($35.70 in chips) 
+Seat 9: UmaWorman ($4.75 in chips) 
+N_Marrajo_H: posts small blind $0.10
+AcedePique: posts big blind $0.25
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 3d]
+ojogadorbr: folds 
+MC192: folds 
+UmaWorman: folds 
+lpoolreds: folds 
+luna1985: folds 
+Alameda22: checks 
+puan29: folds 
+N_Marrajo_H: folds 
+AcedePique: checks 
+*** FLOP *** [Kd 7d 5s]
+AcedePique: checks 
+Alameda22: checks 
+*** TURN *** [Kd 7d 5s] [Th]
+AcedePique: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to AcedePique
+AcedePique collected $0.60 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kd 7d 5s Th]
+Seat 1: lpoolreds folded before Flop (didn't bet)
+Seat 2: luna1985 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded on the Turn
+Seat 4: puan29 (button) folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H (small blind) folded before Flop
+Seat 6: AcedePique (big blind) collected ($0.60)
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 8: MC192 folded before Flop (didn't bet)
+Seat 9: UmaWorman folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099189675:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:46:40 ET
+Table 'Parysatis' 9-max Seat #5 is the button
+Seat 1: lpoolreds ($44.85 in chips) 
+Seat 2: luna1985 ($17.50 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: puan29 ($24.65 in chips) 
+Seat 5: N_Marrajo_H ($27.35 in chips) 
+Seat 6: AcedePique ($22.85 in chips) 
+Seat 7: ojogadorbr ($24.15 in chips) 
+Seat 8: MC192 ($35.70 in chips) 
+Seat 9: UmaWorman ($4.75 in chips) 
+AcedePique: posts small blind $0.10
+ojogadorbr: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 6h]
+MC192: raises $0.50 to $0.75
+UmaWorman: folds 
+lpoolreds: folds 
+luna1985: folds 
+Alameda22: folds 
+puan29: raises $1.50 to $2.25
+N_Marrajo_H: folds 
+AcedePique: folds 
+AcedePique is sitting out
+ojogadorbr: folds 
+MC192: calls $1.50
+*** FLOP *** [5c 8h 4c]
+MC192: checks 
+puan29: bets $3
+MC192: folds 
+Uncalled bet ($3) returned to puan29
+puan29 collected $4.65 from pot
+puan29: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [5c 8h 4c]
+Seat 1: lpoolreds folded before Flop (didn't bet)
+Seat 2: luna1985 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 collected ($4.65)
+Seat 5: N_Marrajo_H (button) folded before Flop (didn't bet)
+Seat 6: AcedePique (small blind) folded before Flop
+Seat 7: ojogadorbr (big blind) folded before Flop
+Seat 8: MC192 folded on the Flop
+Seat 9: UmaWorman folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099231068:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:48:19 ET
+Table 'Parysatis' 9-max Seat #7 is the button
+Seat 1: lpoolreds ($44.85 in chips) 
+Seat 2: luna1985 ($17.50 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: puan29 ($27.05 in chips) 
+Seat 5: N_Marrajo_H ($27.35 in chips) 
+Seat 7: ojogadorbr ($23.90 in chips) 
+Seat 8: MC192 ($33.45 in chips) 
+Seat 9: UmaWorman ($4.75 in chips) 
+MC192: posts small blind $0.10
+UmaWorman: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 2d]
+lpoolreds: folds 
+luna1985: folds 
+Alameda22: folds 
+puan29: folds 
+N_Marrajo_H: folds 
+ojogadorbr: folds 
+MC192: calls $0.15
+UmaWorman: checks 
+*** FLOP *** [5c 6h 8c]
+MC192: bets $1
+UmaWorman: raises $3.50 to $4.50 and is all-in
+MC192: calls $3.50
+*** TURN *** [5c 6h 8c] [Ks]
+*** RIVER *** [5c 6h 8c Ks] [4d]
+*** SHOW DOWN ***
+MC192: shows [8s 9d] (a pair of Eights)
+UmaWorman: shows [8h Qc] (a pair of Eights - King+Queen kicker)
+UmaWorman collected $9.05 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.45 
+Board [5c 6h 8c Ks 4d]
+Seat 1: lpoolreds folded before Flop (didn't bet)
+Seat 2: luna1985 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 7: ojogadorbr (button) folded before Flop (didn't bet)
+Seat 8: MC192 (small blind) showed [8s 9d] and lost with a pair of Eights
+Seat 9: UmaWorman (big blind) showed [8h Qc] and won ($9.05) with a pair of Eights
+
+
+
+PokerStars Game #20099261753:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:49:33 ET
+Table 'Parysatis' 9-max Seat #8 is the button
+Seat 1: lpoolreds ($44.85 in chips) 
+Seat 2: luna1985 ($17.50 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: puan29 ($27.05 in chips) 
+Seat 5: N_Marrajo_H ($27.35 in chips) 
+Seat 7: ojogadorbr ($23.90 in chips) 
+Seat 8: MC192 ($28.70 in chips) 
+Seat 9: UmaWorman ($10.05 in chips) 
+UmaWorman: posts small blind $0.10
+lpoolreds: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 3c]
+luna1985: calls $0.25
+Alameda22: folds 
+puan29: folds 
+N_Marrajo_H: folds 
+ojogadorbr: calls $0.25
+MC192: calls $0.25
+UmaWorman: folds 
+lpoolreds: checks 
+*** FLOP *** [6d 6s Qs]
+UmaWorman leaves the table
+lpoolreds: checks 
+luna1985: checks 
+skrzypek joins the table at seat #9 
+ojogadorbr: checks 
+MC192: bets $0.80
+lpoolreds: folds 
+luna1985: folds 
+ojogadorbr: folds 
+Uncalled bet ($0.80) returned to MC192
+MC192 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [6d 6s Qs]
+Seat 1: lpoolreds (big blind) folded on the Flop
+Seat 2: luna1985 folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 7: ojogadorbr folded on the Flop
+Seat 8: MC192 (button) collected ($1.05)
+Seat 9: UmaWorman (small blind) folded before Flop
+
+
+
+PokerStars Game #20099290449:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:50:42 ET
+Table 'Parysatis' 9-max Seat #1 is the button
+Seat 1: lpoolreds ($44.60 in chips) 
+Seat 2: luna1985 ($17.25 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: puan29 ($27.05 in chips) 
+Seat 5: N_Marrajo_H ($27.35 in chips) 
+Seat 7: ojogadorbr ($23.65 in chips) 
+Seat 8: MC192 ($29.50 in chips) 
+Seat 9: skrzypek ($25 in chips) 
+luna1985: posts small blind $0.10
+Alameda22: posts big blind $0.25
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 7c]
+puan29: folds 
+N_Marrajo_H: folds 
+ojogadorbr: folds 
+MC192: folds 
+skrzypek: checks 
+lpoolreds: raises $0.75 to $1
+luna1985: folds 
+Alameda22: folds 
+skrzypek: folds 
+Uncalled bet ($0.75) returned to lpoolreds
+lpoolreds collected $0.85 from pot
+lpoolreds: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: lpoolreds (button) collected ($0.85)
+Seat 2: luna1985 (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 8: MC192 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop
+
+
+
+PokerStars Game #20099318288:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:51:50 ET
+Table 'Parysatis' 9-max Seat #2 is the button
+Seat 1: lpoolreds ($45.20 in chips) 
+Seat 2: luna1985 ($17.15 in chips) 
+Seat 3: Alameda22 ($24.50 in chips) 
+Seat 4: puan29 ($27.05 in chips) 
+Seat 5: N_Marrajo_H ($27.35 in chips) 
+Seat 7: ojogadorbr ($23.65 in chips) 
+Seat 8: MC192 ($29.50 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+Alameda22: posts small blind $0.10
+puan29: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 7c]
+N_Marrajo_H: folds 
+ojogadorbr: folds 
+MC192: raises $0.25 to $0.50
+skrzypek: folds 
+lpoolreds: folds 
+luna1985: folds 
+Alameda22: folds 
+puan29: folds 
+Uncalled bet ($0.25) returned to MC192
+MC192 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: lpoolreds folded before Flop (didn't bet)
+Seat 2: luna1985 (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: puan29 (big blind) folded before Flop
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 8: MC192 collected ($0.60)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099334869:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:52:31 ET
+Table 'Parysatis' 9-max Seat #3 is the button
+Seat 1: lpoolreds ($45.20 in chips) 
+Seat 2: luna1985 ($17.15 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: puan29 ($26.80 in chips) 
+Seat 5: N_Marrajo_H ($27.35 in chips) 
+Seat 7: ojogadorbr ($23.65 in chips) 
+Seat 8: MC192 ($29.85 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+puan29: posts small blind $0.10
+N_Marrajo_H: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 9h]
+ojogadorbr: folds 
+MC192: folds 
+skrzypek: folds 
+lpoolreds: folds 
+luna1985: folds 
+Alameda22: folds 
+puan29: folds 
+Uncalled bet ($0.15) returned to N_Marrajo_H
+N_Marrajo_H collected $0.20 from pot
+N_Marrajo_H: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: lpoolreds folded before Flop (didn't bet)
+Seat 2: luna1985 folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: puan29 (small blind) folded before Flop
+Seat 5: N_Marrajo_H (big blind) collected ($0.20)
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 8: MC192 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099347607:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:53:02 ET
+Table 'Parysatis' 9-max Seat #4 is the button
+Seat 1: lpoolreds ($45.20 in chips) 
+Seat 2: luna1985 ($17.15 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: puan29 ($26.70 in chips) 
+Seat 5: N_Marrajo_H ($27.45 in chips) 
+Seat 7: ojogadorbr ($23.65 in chips) 
+Seat 8: MC192 ($29.85 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+N_Marrajo_H: posts small blind $0.10
+ojogadorbr: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 4h]
+MC192: calls $0.25
+skrzypek: folds 
+lpoolreds: folds 
+luna1985: folds 
+Alameda22: folds 
+puan29: folds 
+N_Marrajo_H: folds 
+ojogadorbr: checks 
+*** FLOP *** [9h 5c 9c]
+ojogadorbr: checks 
+MC192: checks 
+*** TURN *** [9h 5c 9c] [6d]
+ojogadorbr: checks 
+MC192: checks 
+*** RIVER *** [9h 5c 9c 6d] [6h]
+ojogadorbr: checks 
+MC192: checks 
+*** SHOW DOWN ***
+ojogadorbr: shows [3s 2h] (two pair, Nines and Sixes)
+MC192: shows [Ac Qs] (two pair, Nines and Sixes - Ace kicker)
+MC192 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9h 5c 9c 6d 6h]
+Seat 1: lpoolreds folded before Flop (didn't bet)
+Seat 2: luna1985 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 (button) folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H (small blind) folded before Flop
+Seat 7: ojogadorbr (big blind) showed [3s 2h] and lost with two pair, Nines and Sixes
+Seat 8: MC192 showed [Ac Qs] and won ($0.60) with two pair, Nines and Sixes
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099373437:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:54:05 ET
+Table 'Parysatis' 9-max Seat #5 is the button
+Seat 1: lpoolreds ($45.20 in chips) 
+Seat 2: luna1985 ($17.15 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: puan29 ($26.70 in chips) 
+Seat 5: N_Marrajo_H ($27.35 in chips) 
+Seat 7: ojogadorbr ($25 in chips) 
+Seat 8: MC192 ($30.20 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+ojogadorbr: posts small blind $0.10
+MC192: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc Td]
+skrzypek: folds 
+lpoolreds: folds 
+luna1985: calls $0.25
+Alameda22: calls $0.25
+puan29: folds 
+N_Marrajo_H: raises $1.25 to $1.50
+ojogadorbr: folds 
+MC192: folds 
+luna1985: folds 
+Alameda22: calls $1.25
+*** FLOP *** [Qd 5d 4c]
+luna1985 leaves the table
+Alameda22: checks 
+N_Marrajo_H: bets $2.25
+Alameda22: folds 
+Uncalled bet ($2.25) returned to N_Marrajo_H
+N_Marrajo_H collected $3.45 from pot
+N_Marrajo_H: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.15 
+Board [Qd 5d 4c]
+Seat 1: lpoolreds folded before Flop (didn't bet)
+Seat 2: luna1985 folded before Flop
+Seat 3: Alameda22 folded on the Flop
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H (button) collected ($3.45)
+Seat 7: ojogadorbr (small blind) folded before Flop
+Seat 8: MC192 (big blind) folded before Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099405136:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:55:22 ET
+Table 'Parysatis' 9-max Seat #7 is the button
+Seat 1: lpoolreds ($45.20 in chips) 
+Seat 3: Alameda22 ($22.90 in chips) 
+Seat 4: puan29 ($26.70 in chips) 
+Seat 5: N_Marrajo_H ($29.30 in chips) 
+Seat 7: ojogadorbr ($24.90 in chips) 
+Seat 8: MC192 ($29.95 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+MC192: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 4c]
+lpoolreds: folds 
+Alameda22: folds 
+puan29: folds 
+N_Marrajo_H: folds 
+ojogadorbr: folds 
+MC192: folds 
+Uncalled bet ($0.15) returned to skrzypek
+skrzypek collected $0.20 from pot
+skrzypek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: lpoolreds folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 7: ojogadorbr (button) folded before Flop (didn't bet)
+Seat 8: MC192 (small blind) folded before Flop
+Seat 9: skrzypek (big blind) collected ($0.20)
+
+
+
+PokerStars Game #20099417984:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:55:54 ET
+Table 'Parysatis' 9-max Seat #8 is the button
+Seat 1: lpoolreds ($45.20 in chips) 
+Seat 3: Alameda22 ($22.90 in chips) 
+Seat 4: puan29 ($26.70 in chips) 
+Seat 5: N_Marrajo_H ($29.30 in chips) 
+Seat 7: ojogadorbr ($24.90 in chips) 
+Seat 8: MC192 ($29.85 in chips) 
+Seat 9: skrzypek ($24.85 in chips) 
+skrzypek: posts small blind $0.10
+lpoolreds: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 5s]
+Alameda22: folds 
+puan29: folds 
+N_Marrajo_H: folds 
+ojogadorbr: calls $0.25
+MC192: folds 
+skrzypek: folds 
+lpoolreds: checks 
+*** FLOP *** [Ah Qd Ts]
+lpoolreds: folds 
+lpoolreds leaves the table
+ojogadorbr collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ah Qd Ts]
+Seat 1: lpoolreds (big blind) folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 7: ojogadorbr collected ($0.60)
+Seat 8: MC192 (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20099439714:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:56:47 ET
+Table 'Parysatis' 9-max Seat #9 is the button
+Seat 3: Alameda22 ($22.90 in chips) 
+Seat 4: puan29 ($26.70 in chips) 
+Seat 5: N_Marrajo_H ($29.30 in chips) 
+Seat 7: ojogadorbr ($25.25 in chips) 
+Seat 8: MC192 ($29.85 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+Alameda22: posts small blind $0.10
+puan29: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 8s]
+N_Marrajo_H: folds 
+ojogadorbr: folds 
+MC192: folds 
+skrzypek: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to puan29
+puan29 collected $0.20 from pot
+puan29: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: puan29 (big blind) collected ($0.20)
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 8: MC192 folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099455799:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:57:26 ET
+Table 'Parysatis' 9-max Seat #3 is the button
+Seat 3: Alameda22 ($22.80 in chips) 
+Seat 4: puan29 ($26.80 in chips) 
+Seat 5: N_Marrajo_H ($29.30 in chips) 
+Seat 7: ojogadorbr ($25.25 in chips) 
+Seat 8: MC192 ($29.85 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+puan29: posts small blind $0.10
+N_Marrajo_H: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Td]
+ojogadorbr: folds 
+MC192: folds 
+skrzypek: folds 
+Alameda22: folds 
+puan29: calls $0.15
+N_Marrajo_H: checks 
+*** FLOP *** [Qc Jd 9d]
+puan29: bets $0.50
+N_Marrajo_H: folds 
+Uncalled bet ($0.50) returned to puan29
+puan29 collected $0.50 from pot
+puan29: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Qc Jd 9d]
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: puan29 (small blind) collected ($0.50)
+Seat 5: N_Marrajo_H (big blind) folded on the Flop
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 8: MC192 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099480512:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:58:27 ET
+Table 'Parysatis' 9-max Seat #4 is the button
+Seat 3: Alameda22 ($22.80 in chips) 
+Seat 4: puan29 ($27.05 in chips) 
+Seat 5: N_Marrajo_H ($29.05 in chips) 
+Seat 7: ojogadorbr ($25.25 in chips) 
+Seat 8: MC192 ($29.85 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+N_Marrajo_H: posts small blind $0.10
+ojogadorbr: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 7h]
+MC192: folds 
+skrzypek: folds 
+Alameda22: folds 
+puan29: raises $0.50 to $0.75
+N_Marrajo_H: folds 
+ojogadorbr: raises $1 to $1.75
+puan29: folds 
+Uncalled bet ($1) returned to ojogadorbr
+JesseGrunn joins the table at seat #2 
+ojogadorbr collected $1.60 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0 
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 (button) folded before Flop
+Seat 5: N_Marrajo_H (small blind) folded before Flop
+Seat 7: ojogadorbr (big blind) collected ($1.60)
+Seat 8: MC192 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099504011:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 17:59:25 ET
+Table 'Parysatis' 9-max Seat #5 is the button
+Seat 2: JesseGrunn ($15 in chips) 
+Seat 3: Alameda22 ($22.80 in chips) 
+Seat 4: puan29 ($26.30 in chips) 
+Seat 5: N_Marrajo_H ($28.95 in chips) 
+Seat 7: ojogadorbr ($26.10 in chips) 
+Seat 8: MC192 ($29.85 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+Blomski1984 joins the table at seat #1 
+ojogadorbr: posts small blind $0.10
+MC192: posts big blind $0.25
+JesseGrunn: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Qh]
+skrzypek: folds 
+JesseGrunn: checks 
+Alameda22: folds 
+puan29: folds 
+N_Marrajo_H: folds 
+ojogadorbr: folds 
+MC192: checks 
+*** FLOP *** [Jh 9d Kh]
+MC192: checks 
+JesseGrunn: bets $0.25
+MC192: folds 
+Uncalled bet ($0.25) returned to JesseGrunn
+JesseGrunn collected $0.60 from pot
+JesseGrunn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Jh 9d Kh]
+Seat 2: JesseGrunn collected ($0.60)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H (button) folded before Flop (didn't bet)
+Seat 7: ojogadorbr (small blind) folded before Flop
+Seat 8: MC192 (big blind) folded on the Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099541469:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:00:58 ET
+Table 'Parysatis' 9-max Seat #7 is the button
+Seat 1: Blomski1984 ($15 in chips) 
+Seat 2: JesseGrunn ($15.35 in chips) 
+Seat 3: Alameda22 ($22.80 in chips) 
+Seat 4: puan29 ($26.30 in chips) 
+Seat 5: N_Marrajo_H ($28.95 in chips) 
+Seat 7: ojogadorbr ($26 in chips) 
+Seat 8: MC192 ($29.60 in chips) 
+Seat 9: skrzypek ($24.75 in chips) 
+MC192: posts small blind $0.10
+skrzypek: posts big blind $0.25
+Blomski1984: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Ks]
+Blomski1984: checks 
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: folds 
+N_Marrajo_H: folds 
+ojogadorbr: calls $0.25
+MC192: folds 
+skrzypek: checks 
+*** FLOP *** [4d Kc 9d]
+skrzypek: checks 
+Blomski1984: checks 
+JesseGrunn: checks 
+ojogadorbr: bets $0.50
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: calls $0.50
+*** TURN *** [4d Kc 9d] [7d]
+JesseGrunn: checks 
+ojogadorbr: bets $1
+JesseGrunn: folds 
+Uncalled bet ($1) returned to ojogadorbr
+ojogadorbr collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [4d Kc 9d 7d]
+Seat 1: Blomski1984 folded on the Flop
+Seat 2: JesseGrunn folded on the Turn
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 7: ojogadorbr (button) collected ($2)
+Seat 8: MC192 (small blind) folded before Flop
+Seat 9: skrzypek (big blind) folded on the Flop
+
+
+
+PokerStars Game #20099572610:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:02:15 ET
+Table 'Parysatis' 9-max Seat #8 is the button
+Seat 1: Blomski1984 ($14.75 in chips) 
+Seat 2: JesseGrunn ($14.60 in chips) 
+Seat 3: Alameda22 ($22.80 in chips) 
+Seat 4: puan29 ($26.30 in chips) 
+Seat 5: N_Marrajo_H ($28.95 in chips) 
+Seat 7: ojogadorbr ($27.25 in chips) 
+Seat 8: MC192 ($29.50 in chips) 
+Seat 9: skrzypek ($24.50 in chips) 
+skrzypek: posts small blind $0.10
+Blomski1984: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Ad]
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: folds 
+N_Marrajo_H: folds 
+ojogadorbr: folds 
+MC192: folds 
+skrzypek: folds 
+Blomski1984: checks 
+*** FLOP *** [3c 5s Th]
+Blomski1984: bets $0.25
+AcedePique has returned
+JesseGrunn: calls $0.25
+*** TURN *** [3c 5s Th] [9h]
+Blomski1984: bets $0.25
+JesseGrunn: calls $0.25
+*** RIVER *** [3c 5s Th 9h] [2h]
+Blomski1984: bets $0.25
+JesseGrunn: raises $0.75 to $1
+Blomski1984: folds 
+Uncalled bet ($0.75) returned to JesseGrunn
+JesseGrunn collected $2 from pot
+JesseGrunn: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [3c 5s Th 9h 2h]
+Seat 1: Blomski1984 (big blind) folded on the River
+Seat 2: JesseGrunn collected ($2)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 8: MC192 (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20099594155:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:03:12 ET
+Table 'Parysatis' 9-max Seat #9 is the button
+Seat 1: Blomski1984 ($13.75 in chips) 
+Seat 2: JesseGrunn ($15.60 in chips) 
+Seat 3: Alameda22 ($22.80 in chips) 
+Seat 4: puan29 ($26.30 in chips) 
+Seat 5: N_Marrajo_H ($28.95 in chips) 
+Seat 6: AcedePique ($25 in chips) 
+Seat 7: ojogadorbr ($27.25 in chips) 
+Seat 8: MC192 ($29.50 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+Blomski1984: posts small blind $0.10
+JesseGrunn said, "a:"
+JesseGrunn: posts big blind $0.25
+AcedePique: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Kh]
+Alameda22: folds 
+puan29: folds 
+N_Marrajo_H: folds 
+AcedePique: checks 
+ojogadorbr: folds 
+MC192: folds 
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: checks 
+*** FLOP *** [6s Th 4d]
+JesseGrunn: checks 
+AcedePique: checks 
+*** TURN *** [6s Th 4d] [5s]
+JesseGrunn: checks 
+AcedePique: checks 
+*** RIVER *** [6s Th 4d 5s] [Tc]
+JesseGrunn: bets $0.50
+AcedePique: folds 
+Uncalled bet ($0.50) returned to JesseGrunn
+JesseGrunn collected $0.70 from pot
+JesseGrunn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Board [6s Th 4d 5s Tc]
+Seat 1: Blomski1984 (small blind) folded before Flop
+Seat 2: JesseGrunn (big blind) collected ($0.70)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 6: AcedePique folded on the River
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 8: MC192 folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099630795:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:04:44 ET
+Table 'Parysatis' 9-max Seat #1 is the button
+Seat 1: Blomski1984 ($13.65 in chips) 
+Seat 2: JesseGrunn ($16.05 in chips) 
+Seat 3: Alameda22 ($22.80 in chips) 
+Seat 4: puan29 ($26.30 in chips) 
+Seat 5: N_Marrajo_H ($28.95 in chips) 
+Seat 6: AcedePique ($24.65 in chips) 
+Seat 7: ojogadorbr ($27.25 in chips) 
+Seat 8: MC192 ($29.50 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+JesseGrunn: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Kh]
+puan29: folds 
+N_Marrajo_H: folds 
+AcedePique: folds 
+ojogadorbr: folds 
+MC192: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: calls $0.15
+Alameda22: checks 
+*** FLOP *** [2c Kd Ts]
+JesseGrunn: checks 
+Alameda22: bets $0.50
+Blomski1984: calls $0.50
+JesseGrunn: folds 
+*** TURN *** [2c Kd Ts] [Ks]
+Alameda22: checks 
+Blomski1984: bets $0.50
+Alameda22: calls $0.50
+*** RIVER *** [2c Kd Ts Ks] [Jc]
+ojogadorbr is disconnected 
+Alameda22: bets $1.75
+Blomski1984: calls $1.75
+*** SHOW DOWN ***
+Alameda22: shows [8s Kh] (three of a kind, Kings)
+Blomski1984: mucks hand 
+Alameda22 collected $5.95 from pot
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.30 
+Board [2c Kd Ts Ks Jc]
+Seat 1: Blomski1984 (button) mucked [Js Tc]
+Seat 2: JesseGrunn (small blind) folded on the Flop
+Seat 3: Alameda22 (big blind) showed [8s Kh] and won ($5.95) with three of a kind, Kings
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 8: MC192 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099665365:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:06:11 ET
+Table 'Parysatis' 9-max Seat #2 is the button
+Seat 1: Blomski1984 ($10.65 in chips) 
+Seat 2: JesseGrunn ($15.80 in chips) 
+Seat 3: Alameda22 ($25.75 in chips) 
+Seat 4: puan29 ($26.30 in chips) 
+Seat 5: N_Marrajo_H ($28.95 in chips) 
+Seat 6: AcedePique ($24.65 in chips) 
+Seat 7: ojogadorbr ($27.25 in chips) 
+Seat 8: MC192 ($29.50 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+Alameda22: posts small blind $0.10
+puan29: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 8c]
+N_Marrajo_H: folds 
+AcedePique: raises $0.75 to $1
+ojogadorbr is connected 
+ojogadorbr: folds 
+MC192: calls $1
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: folds 
+*** FLOP *** [6h 4d 7h]
+AcedePique: bets $1
+MC192: calls $1
+*** TURN *** [6h 4d 7h] [9s]
+AcedePique: bets $3
+MC192: folds 
+Uncalled bet ($3) returned to AcedePique
+AcedePique collected $4.15 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.35 | Rake $0.20 
+Board [6h 4d 7h 9s]
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: puan29 (big blind) folded before Flop
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 6: AcedePique collected ($4.15)
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 8: MC192 folded on the Turn
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099700046:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:07:38 ET
+Table 'Parysatis' 9-max Seat #3 is the button
+Seat 1: Blomski1984 ($10.65 in chips) 
+Seat 2: JesseGrunn ($15.80 in chips) 
+Seat 3: Alameda22 ($25.65 in chips) 
+Seat 4: puan29 ($26.05 in chips) 
+Seat 5: N_Marrajo_H ($28.95 in chips) 
+Seat 6: AcedePique ($26.80 in chips) 
+Seat 7: ojogadorbr ($27.25 in chips) 
+Seat 8: MC192 ($27.50 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+puan29: posts small blind $0.10
+N_Marrajo_H: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad As]
+AcedePique: folds 
+ojogadorbr: folds 
+MC192: raises $0.50 to $0.75
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: folds 
+Alameda22: raises $2 to $2.75
+puan29: folds 
+N_Marrajo_H: folds 
+MC192: raises $24.75 to $27.50 and is all-in
+Alameda22: calls $22.90 and is all-in
+Uncalled bet ($1.85) returned to MC192
+*** FLOP *** [8h 9s Qd]
+*** TURN *** [8h 9s Qd] [3h]
+*** RIVER *** [8h 9s Qd 3h] [5d]
+*** SHOW DOWN ***
+MC192: shows [Td Ts] (a pair of Tens)
+Alameda22: shows [Ad As] (a pair of Aces)
+Alameda22 collected $49.10 from pot
+*** SUMMARY ***
+Total pot $51.65 | Rake $2.55 
+Board [8h 9s Qd 3h 5d]
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) showed [Ad As] and won ($49.10) with a pair of Aces
+Seat 4: puan29 (small blind) folded before Flop
+Seat 5: N_Marrajo_H (big blind) folded before Flop
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 8: MC192 showed [Td Ts] and lost with a pair of Tens
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099727044:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:08:46 ET
+Table 'Parysatis' 9-max Seat #4 is the button
+Seat 1: Blomski1984 ($10.65 in chips) 
+Seat 2: JesseGrunn ($15.80 in chips) 
+Seat 3: Alameda22 ($49.10 in chips) 
+Seat 4: puan29 ($25.95 in chips) 
+Seat 5: N_Marrajo_H ($28.70 in chips) 
+Seat 6: AcedePique ($26.80 in chips) 
+Seat 7: ojogadorbr ($27.25 in chips) 
+Seat 8: MC192 ($1.85 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+N_Marrajo_H: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 7h]
+ojogadorbr: calls $0.25
+MC192: folds 
+MC192 leaves the table
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: folds 
+N_Marrajo_H: folds 
+candeee joins the table at seat #8 
+AcedePique: checks 
+*** FLOP *** [Kd 3h 6s]
+AcedePique: checks 
+ojogadorbr: bets $0.25
+JesseGrunn: calls $0.25
+AcedePique: folds 
+*** TURN *** [Kd 3h 6s] [4c]
+ojogadorbr: bets $0.50
+JesseGrunn: folds 
+Uncalled bet ($0.50) returned to ojogadorbr
+ojogadorbr collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [Kd 3h 6s 4c]
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn folded on the Turn
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 (button) folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H (small blind) folded before Flop
+Seat 6: AcedePique (big blind) folded on the Flop
+Seat 7: ojogadorbr collected ($1.30)
+Seat 8: MC192 folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099753796:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:09:53 ET
+Table 'Parysatis' 9-max Seat #5 is the button
+Seat 1: Blomski1984 ($10.65 in chips) 
+Seat 2: JesseGrunn ($15.30 in chips) 
+Seat 3: Alameda22 ($49.10 in chips) 
+Seat 4: puan29 ($25.95 in chips) 
+Seat 5: N_Marrajo_H ($28.60 in chips) 
+Seat 6: AcedePique ($26.55 in chips) 
+Seat 7: ojogadorbr ($28.05 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+AcedePique: posts small blind $0.10
+ojogadorbr: posts big blind $0.25
+candeee: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 7h]
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: folds 
+N_Marrajo_H: raises $0.75 to $1
+AcedePique: folds 
+ojogadorbr: calls $0.75
+*** FLOP *** [5c Td As]
+ojogadorbr: checks 
+N_Marrajo_H: bets $1.50
+ojogadorbr: folds 
+Uncalled bet ($1.50) returned to N_Marrajo_H
+N_Marrajo_H collected $2 from pot
+N_Marrajo_H: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [5c Td As]
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H (button) collected ($2)
+Seat 6: AcedePique (small blind) folded before Flop
+Seat 7: ojogadorbr (big blind) folded on the Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099785660:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:11:14 ET
+Table 'Parysatis' 9-max Seat #6 is the button
+Seat 1: Blomski1984 ($10.65 in chips) 
+Seat 2: JesseGrunn ($15.30 in chips) 
+Seat 3: Alameda22 ($49.10 in chips) 
+Seat 4: puan29 ($25.95 in chips) 
+Seat 5: N_Marrajo_H ($29.60 in chips) 
+Seat 6: AcedePique ($26.45 in chips) 
+Seat 7: ojogadorbr ($27.05 in chips) 
+Seat 8: candeee ($15 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+ojogadorbr: posts small blind $0.10
+candeee: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 9s]
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: folds 
+N_Marrajo_H: folds 
+AcedePique: folds 
+ojogadorbr: folds 
+candeee: checks 
+*** FLOP *** [Qs Jc 6h]
+candeee: checks 
+Blomski1984: checks 
+*** TURN *** [Qs Jc 6h] [Ad]
+candeee: checks 
+Blomski1984: bets $0.25
+candeee: folds 
+Uncalled bet ($0.25) returned to Blomski1984
+Blomski1984 collected $0.60 from pot
+Blomski1984: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qs Jc 6h Ad]
+Seat 1: Blomski1984 collected ($0.60)
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 6: AcedePique (button) folded before Flop (didn't bet)
+Seat 7: ojogadorbr (small blind) folded before Flop
+Seat 8: candeee (big blind) folded on the Turn
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099820437:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:12:43 ET
+Table 'Parysatis' 9-max Seat #7 is the button
+Seat 1: Blomski1984 ($11 in chips) 
+Seat 2: JesseGrunn ($15.30 in chips) 
+Seat 3: Alameda22 ($49.10 in chips) 
+Seat 4: puan29 ($25.95 in chips) 
+Seat 5: N_Marrajo_H ($29.60 in chips) 
+Seat 6: AcedePique ($26.45 in chips) 
+Seat 7: ojogadorbr ($26.95 in chips) 
+Seat 8: candeee ($14.75 in chips) 
+Seat 9: skrzypek ($24.40 in chips) 
+candeee: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Qd]
+Blomski1984: calls $0.25
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: folds 
+N_Marrajo_H: folds 
+AcedePique: folds 
+ojogadorbr: folds 
+candeee: calls $0.15
+skrzypek: checks 
+*** FLOP *** [4d 3h 2c]
+candeee: checks 
+skrzypek: checks 
+Blomski1984: checks 
+*** TURN *** [4d 3h 2c] [5c]
+candeee: checks 
+skrzypek: bets $0.50
+Blomski1984: folds 
+candeee: folds 
+Uncalled bet ($0.50) returned to skrzypek
+skrzypek collected $0.75 from pot
+skrzypek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [4d 3h 2c 5c]
+Seat 1: Blomski1984 folded on the Turn
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: ojogadorbr (button) folded before Flop (didn't bet)
+Seat 8: candeee (small blind) folded on the Turn
+Seat 9: skrzypek (big blind) collected ($0.75)
+
+
+
+PokerStars Game #20099850490:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:14:00 ET
+Table 'Parysatis' 9-max Seat #8 is the button
+Seat 1: Blomski1984 ($10.75 in chips) 
+Seat 2: JesseGrunn ($15.30 in chips) 
+Seat 3: Alameda22 ($49.10 in chips) 
+Seat 4: puan29 ($25.95 in chips) 
+Seat 5: N_Marrajo_H ($29.60 in chips) 
+Seat 6: AcedePique ($26.45 in chips) 
+Seat 7: ojogadorbr ($26.95 in chips) 
+Seat 8: candeee ($14.50 in chips) 
+Seat 9: skrzypek ($24.90 in chips) 
+skrzypek: posts small blind $0.10
+Blomski1984: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 9h]
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: folds 
+N_Marrajo_H: folds 
+AcedePique: folds 
+ojogadorbr: folds 
+candeee: calls $0.25
+skrzypek: folds 
+Blomski1984: checks 
+*** FLOP *** [Jh 7s 2c]
+Blomski1984: checks 
+candeee: bets $0.25
+Blomski1984: calls $0.25
+*** TURN *** [Jh 7s 2c] [Ac]
+Blomski1984: checks 
+candeee: bets $0.25
+Blomski1984: folds 
+Uncalled bet ($0.25) returned to candeee
+candeee collected $1.05 from pot
+candeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Jh 7s 2c Ac]
+Seat 1: Blomski1984 (big blind) folded on the Turn
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 8: candeee (button) collected ($1.05)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20099868565:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:14:46 ET
+Table 'Parysatis' 9-max Seat #9 is the button
+Seat 1: Blomski1984 ($10.25 in chips) 
+Seat 2: JesseGrunn ($15.30 in chips) 
+Seat 3: Alameda22 ($49.10 in chips) 
+Seat 4: puan29 ($25.95 in chips) 
+Seat 5: N_Marrajo_H ($29.60 in chips) 
+Seat 6: AcedePique ($26.45 in chips) 
+Seat 7: ojogadorbr ($26.95 in chips) 
+Seat 8: candeee ($15.05 in chips) 
+Seat 9: skrzypek ($24.80 in chips) 
+Blomski1984: posts small blind $0.10
+JesseGrunn: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s Td]
+Alameda22: folds 
+puan29: folds 
+N_Marrajo_H: folds 
+AcedePique: calls $0.25
+ojogadorbr: folds 
+candeee: calls $0.25
+skrzypek: folds 
+Blomski1984: calls $0.15
+JesseGrunn: checks 
+*** FLOP *** [5h As Qh]
+Blomski1984: bets $0.25
+JesseGrunn: folds 
+AcedePique: calls $0.25
+candeee: folds 
+*** TURN *** [5h As Qh] [6c]
+Blomski1984: bets $0.50
+AcedePique: calls $0.50
+*** RIVER *** [5h As Qh 6c] [Ac]
+Blomski1984: bets $1
+AcedePique: calls $1
+*** SHOW DOWN ***
+Blomski1984: shows [Ad 3h] (three of a kind, Aces)
+AcedePique: mucks hand 
+Blomski1984 collected $4.30 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [5h As Qh 6c Ac]
+Seat 1: Blomski1984 (small blind) showed [Ad 3h] and won ($4.30) with three of a kind, Aces
+Seat 2: JesseGrunn (big blind) folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 6: AcedePique mucked [Kc Qc]
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 8: candeee folded on the Flop
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099901905:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:16:11 ET
+Table 'Parysatis' 9-max Seat #1 is the button
+Seat 1: Blomski1984 ($12.55 in chips) 
+Seat 2: JesseGrunn ($15.05 in chips) 
+Seat 3: Alameda22 ($49.10 in chips) 
+Seat 4: puan29 ($25.95 in chips) 
+Seat 5: N_Marrajo_H ($29.60 in chips) 
+Seat 6: AcedePique ($24.45 in chips) 
+Seat 7: ojogadorbr ($26.95 in chips) 
+Seat 8: candeee ($14.80 in chips) 
+Seat 9: skrzypek ($24.80 in chips) 
+JesseGrunn: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 7s]
+puan29: folds 
+N_Marrajo_H: folds 
+AcedePique: folds 
+ojogadorbr: folds 
+candeee: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Jd 2c Qs]
+JesseGrunn: checks 
+Alameda22: checks 
+Blomski1984: checks 
+*** TURN *** [Jd 2c Qs] [4c]
+JesseGrunn: checks 
+Alameda22: checks 
+Blomski1984: checks 
+*** RIVER *** [Jd 2c Qs 4c] [3s]
+JesseGrunn: checks 
+Alameda22: checks 
+Blomski1984: bets $1
+JesseGrunn: calls $1
+Alameda22: folds 
+*** SHOW DOWN ***
+Blomski1984: shows [5d 6h] (a straight, Deuce to Six)
+JesseGrunn: mucks hand 
+Blomski1984 collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [Jd 2c Qs 4c 3s]
+Seat 1: Blomski1984 (button) showed [5d 6h] and won ($2.65) with a straight, Deuce to Six
+Seat 2: JesseGrunn (small blind) mucked [2s Kh]
+Seat 3: Alameda22 (big blind) folded on the River
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 8: candeee folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099943964:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:17:58 ET
+Table 'Parysatis' 9-max Seat #2 is the button
+Seat 1: Blomski1984 ($13.95 in chips) 
+Seat 2: JesseGrunn ($13.80 in chips) 
+Seat 3: Alameda22 ($48.85 in chips) 
+Seat 4: puan29 ($25.95 in chips) 
+Seat 5: N_Marrajo_H ($29.60 in chips) 
+Seat 6: AcedePique ($24.45 in chips) 
+Seat 7: ojogadorbr ($26.95 in chips) 
+Seat 8: candeee ($14.80 in chips) 
+Seat 9: skrzypek ($24.80 in chips) 
+Alameda22: posts small blind $0.10
+puan29: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 6d]
+N_Marrajo_H: folds 
+AcedePique: folds 
+ojogadorbr: folds 
+candeee: folds 
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: checks 
+*** FLOP *** [Js 4s 8c]
+puan29: checks 
+JesseGrunn: checks 
+*** TURN *** [Js 4s 8c] [Qc]
+puan29: checks 
+JesseGrunn: checks 
+*** RIVER *** [Js 4s 8c Qc] [4d]
+puan29: checks 
+JesseGrunn: bets $0.25
+puan29: folds 
+Uncalled bet ($0.25) returned to JesseGrunn
+JesseGrunn collected $0.60 from pot
+JesseGrunn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Js 4s 8c Qc 4d]
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn (button) collected ($0.60)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: puan29 (big blind) folded on the River
+Seat 5: N_Marrajo_H folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 8: candeee folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20099976276:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:19:21 ET
+Table 'Parysatis' 9-max Seat #3 is the button
+Seat 1: Blomski1984 ($13.95 in chips) 
+Seat 2: JesseGrunn ($14.15 in chips) 
+Seat 3: Alameda22 ($48.75 in chips) 
+Seat 4: puan29 ($25.70 in chips) 
+Seat 6: AcedePique ($24.45 in chips) 
+Seat 7: ojogadorbr ($26.95 in chips) 
+Seat 8: candeee ($14.80 in chips) 
+Seat 9: skrzypek ($24.80 in chips) 
+puan29: posts small blind $0.10
+N_Marrajo_H: is sitting out 
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Kd]
+N_Marrajo_H leaves the table
+ojogadorbr: folds 
+candeee: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: folds 
+goodkarma1 joins the table at seat #5 
+Alameda22: folds 
+puan29: folds 
+AcedePique: checks 
+*** FLOP *** [4h Jd Th]
+AcedePique: checks 
+Blomski1984: bets $0.25
+AcedePique: folds 
+Uncalled bet ($0.25) returned to Blomski1984
+Blomski1984 collected $0.60 from pot
+Blomski1984: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [4h Jd Th]
+Seat 1: Blomski1984 collected ($0.60)
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: puan29 (small blind) folded before Flop
+Seat 6: AcedePique (big blind) folded on the Flop
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 8: candeee folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100002386:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:20:27 ET
+Table 'Parysatis' 9-max Seat #4 is the button
+Seat 1: Blomski1984 ($14.30 in chips) 
+Seat 2: JesseGrunn ($14.15 in chips) 
+Seat 3: Alameda22 ($48.75 in chips) 
+Seat 4: puan29 ($25.60 in chips) 
+Seat 6: AcedePique ($24.20 in chips) 
+Seat 7: ojogadorbr ($26.95 in chips) 
+Seat 8: candeee ($14.80 in chips) 
+Seat 9: skrzypek ($24.80 in chips) 
+goodkarma1 will be allowed to play after the button
+AcedePique: posts small blind $0.10
+ojogadorbr: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 5h]
+candeee: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: folds 
+AcedePique: folds 
+ojogadorbr: calls $0.25
+Blomski1984: calls $0.25
+*** FLOP *** [6d Tc 4h]
+ojogadorbr: checks 
+Blomski1984: checks 
+JesseGrunn: bets $0.50
+ojogadorbr: folds 
+Blomski1984: folds 
+Uncalled bet ($0.50) returned to JesseGrunn
+JesseGrunn collected $1.55 from pot
+JesseGrunn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [6d Tc 4h]
+Seat 1: Blomski1984 folded on the Flop
+Seat 2: JesseGrunn collected ($1.55)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 (button) folded before Flop (didn't bet)
+Seat 6: AcedePique (small blind) folded before Flop
+Seat 7: ojogadorbr (big blind) folded on the Flop
+Seat 8: candeee folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100031977:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:21:43 ET
+Table 'Parysatis' 9-max Seat #6 is the button
+Seat 1: Blomski1984 ($13.80 in chips) 
+Seat 2: JesseGrunn ($15.20 in chips) 
+Seat 3: Alameda22 ($48.75 in chips) 
+Seat 4: puan29 ($25.60 in chips) 
+Seat 5: goodkarma1 ($9.20 in chips) 
+Seat 6: AcedePique ($24.10 in chips) 
+Seat 7: ojogadorbr ($26.45 in chips) 
+Seat 9: skrzypek ($24.80 in chips) 
+ojogadorbr: posts small blind $0.10
+candeee: is sitting out 
+candeee leaves the table
+skrzypek: posts big blind $0.25
+goodkarma1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 3h]
+Blomski1984: calls $0.25
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: calls $0.25
+goodkarma1: checks 
+AcedePique: folds 
+ojogadorbr: calls $0.15
+skrzypek: checks 
+*** FLOP *** [2s 9s 4d]
+ojogadorbr: checks 
+skrzypek: checks 
+Blomski1984: checks 
+puan29: checks 
+goodkarma1: bets $8.95 and is all-in
+ojogadorbr: folds 
+skrzypek: folds 
+Blomski1984: folds 
+puan29: folds 
+Uncalled bet ($8.95) returned to goodkarma1
+goodkarma1 collected $1.20 from pot
+goodkarma1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [2s 9s 4d]
+Seat 1: Blomski1984 folded on the Flop
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded on the Flop
+Seat 5: goodkarma1 collected ($1.20)
+Seat 6: AcedePique (button) folded before Flop (didn't bet)
+Seat 7: ojogadorbr (small blind) folded on the Flop
+Seat 9: skrzypek (big blind) folded on the Flop
+
+
+
+PokerStars Game #20100061637:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:22:59 ET
+Table 'Parysatis' 9-max Seat #7 is the button
+Seat 1: Blomski1984 ($13.55 in chips) 
+Seat 2: JesseGrunn ($15.20 in chips) 
+Seat 3: Alameda22 ($48.75 in chips) 
+Seat 4: puan29 ($25.35 in chips) 
+Seat 5: goodkarma1 ($10.15 in chips) 
+Seat 6: AcedePique ($24.10 in chips) 
+Seat 7: ojogadorbr ($26.20 in chips) 
+Seat 9: skrzypek ($24.55 in chips) 
+skrzypek: posts small blind $0.10
+Blomski1984: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Th]
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: folds 
+goodkarma1: folds 
+AcedePique: folds 
+shift4ie joins the table at seat #8 
+ojogadorbr: folds 
+skrzypek: folds 
+Uncalled bet ($0.15) returned to Blomski1984
+Blomski1984 collected $0.20 from pot
+Blomski1984: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Blomski1984 (big blind) collected ($0.20)
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: goodkarma1 folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: ojogadorbr (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20100076984:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:23:39 ET
+Table 'Parysatis' 9-max Seat #9 is the button
+Seat 1: Blomski1984 ($13.65 in chips) 
+Seat 2: JesseGrunn ($15.20 in chips) 
+Seat 3: Alameda22 ($48.75 in chips) 
+Seat 4: puan29 ($25.35 in chips) 
+Seat 5: goodkarma1 ($10.15 in chips) 
+Seat 6: AcedePique ($24.10 in chips) 
+Seat 7: ojogadorbr ($26.20 in chips) 
+Seat 9: skrzypek ($24.45 in chips) 
+Blomski1984: posts small blind $0.10
+JesseGrunn: posts big blind $0.25
+shift4ie: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Jc]
+Alameda22: folds 
+puan29: folds 
+goodkarma1: folds 
+AcedePique: folds 
+ojogadorbr: calls $0.25
+skrzypek: raises $1 to $1.25
+Blomski1984: calls $1.15
+JesseGrunn: folds 
+ojogadorbr: folds 
+*** FLOP *** [5h 8h Qc]
+Blomski1984: checks 
+skrzypek: bets $1.75
+Blomski1984: raises $10.65 to $12.40 and is all-in
+skrzypek: calls $10.65
+*** TURN *** [5h 8h Qc] [Ts]
+*** RIVER *** [5h 8h Qc Ts] [9d]
+*** SHOW DOWN ***
+Blomski1984: shows [Qh Jh] (a straight, Eight to Queen)
+skrzypek: shows [Qd Ah] (a pair of Queens)
+Blomski1984 collected $26.45 from pot
+*** SUMMARY ***
+Total pot $27.80 | Rake $1.35 
+Board [5h 8h Qc Ts 9d]
+Seat 1: Blomski1984 (small blind) showed [Qh Jh] and won ($26.45) with a straight, Eight to Queen
+Seat 2: JesseGrunn (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: goodkarma1 folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: ojogadorbr folded before Flop
+Seat 9: skrzypek (button) showed [Qd Ah] and lost with a pair of Queens
+
+
+
+PokerStars Game #20100123610:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:25:40 ET
+Table 'Parysatis' 9-max Seat #1 is the button
+Seat 1: Blomski1984 ($26.45 in chips) 
+Seat 2: JesseGrunn ($14.95 in chips) 
+Seat 3: Alameda22 ($48.75 in chips) 
+Seat 4: puan29 ($25.35 in chips) 
+Seat 5: goodkarma1 ($10.15 in chips) 
+Seat 6: AcedePique ($24.10 in chips) 
+Seat 7: ojogadorbr ($25.95 in chips) 
+Seat 9: skrzypek ($25 in chips) 
+JesseGrunn: posts small blind $0.10
+Alameda22: posts big blind $0.25
+shift4ie: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Qc]
+puan29: folds 
+goodkarma1: raises $0.75 to $1
+AcedePique: folds 
+ojogadorbr: folds 
+skrzypek: folds 
+Blomski1984: calls $1
+JesseGrunn: calls $0.90
+Alameda22: folds 
+*** FLOP *** [Td Js 6s]
+JesseGrunn: bets $1
+goodkarma1: folds 
+Blomski1984: calls $1
+*** TURN *** [Td Js 6s] [9h]
+JesseGrunn: checks 
+Blomski1984: bets $1
+JesseGrunn: folds 
+Uncalled bet ($1) returned to Blomski1984
+Blomski1984 collected $5 from pot
+Blomski1984: shows [Ts Jd] (two pair, Jacks and Tens)
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [Td Js 6s 9h]
+Seat 1: Blomski1984 (button) collected ($5)
+Seat 2: JesseGrunn (small blind) folded on the Turn
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: goodkarma1 folded on the Flop
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100147748:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:26:43 ET
+Table 'Parysatis' 9-max Seat #2 is the button
+Seat 1: Blomski1984 ($29.45 in chips) 
+Seat 2: JesseGrunn ($12.95 in chips) 
+Seat 3: Alameda22 ($48.50 in chips) 
+Seat 4: puan29 ($25.35 in chips) 
+Seat 5: goodkarma1 ($9.15 in chips) 
+Seat 6: AcedePique ($24.10 in chips) 
+Seat 7: ojogadorbr ($25.95 in chips) 
+Seat 9: skrzypek ($25 in chips) 
+Alameda22: posts small blind $0.10
+puan29: posts big blind $0.25
+shift4ie: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js 2d]
+goodkarma1: folds 
+AcedePique: folds 
+ojogadorbr: raises $0.75 to $1
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: calls $1
+Alameda22: folds 
+puan29: folds 
+*** FLOP *** [Ac 5h 9c]
+ojogadorbr: bets $1.25
+JesseGrunn: folds 
+Uncalled bet ($1.25) returned to ojogadorbr
+ojogadorbr collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Ac 5h 9c]
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn (button) folded on the Flop
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: puan29 (big blind) folded before Flop
+Seat 5: goodkarma1 folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: ojogadorbr collected ($2.25)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100167854:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:27:35 ET
+Table 'Parysatis' 9-max Seat #3 is the button
+Seat 1: Blomski1984 ($29.45 in chips) 
+Seat 2: JesseGrunn ($11.95 in chips) 
+Seat 3: Alameda22 ($48.40 in chips) 
+Seat 4: puan29 ($25.10 in chips) 
+Seat 5: goodkarma1 ($9.15 in chips) 
+Seat 6: AcedePique ($24.10 in chips) 
+Seat 7: ojogadorbr ($27.20 in chips) 
+Seat 9: skrzypek ($25 in chips) 
+puan29: posts small blind $0.10
+goodkarma1: posts big blind $0.25
+shift4ie: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d Ac]
+AcedePique: folds 
+ojogadorbr: calls $0.25
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: calls $0.15
+goodkarma1: raises $8.90 to $9.15 and is all-in
+ojogadorbr: folds 
+Blomski1984: folds 
+JesseGrunn: folds 
+puan29: folds 
+Uncalled bet ($8.90) returned to goodkarma1
+goodkarma1 collected $1.25 from pot
+goodkarma1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Blomski1984 folded before Flop
+Seat 2: JesseGrunn folded before Flop
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: puan29 (small blind) folded before Flop
+Seat 5: goodkarma1 (big blind) collected ($1.25)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: ojogadorbr folded before Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100191430:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:28:36 ET
+Table 'Parysatis' 9-max Seat #4 is the button
+Seat 1: Blomski1984 ($29.20 in chips) 
+Seat 2: JesseGrunn ($11.70 in chips) 
+Seat 3: Alameda22 ($48.40 in chips) 
+Seat 4: puan29 ($24.85 in chips) 
+Seat 5: goodkarma1 ($10.15 in chips) 
+Seat 6: AcedePique ($24.10 in chips) 
+Seat 7: ojogadorbr ($26.95 in chips) 
+Seat 9: skrzypek ($25 in chips) 
+goodkarma1: posts small blind $0.10
+AcedePique: posts big blind $0.25
+shift4ie: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Jc]
+ojogadorbr: folds 
+ojogadorbr leaves the table
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: folds 
+goodkarma1: raises $9.90 to $10.15 and is all-in
+AcedePique: folds 
+Blomski1984: folds 
+Uncalled bet ($9.90) returned to goodkarma1
+goodkarma1 collected $0.75 from pot
+goodkarma1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Blomski1984 folded before Flop
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 (button) folded before Flop (didn't bet)
+Seat 5: goodkarma1 (small blind) collected ($0.75)
+Seat 6: AcedePique (big blind) folded before Flop
+Seat 7: ojogadorbr folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100210348:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:29:26 ET
+Table 'Parysatis' 9-max Seat #5 is the button
+Seat 1: Blomski1984 ($28.95 in chips) 
+Seat 2: JesseGrunn ($11.70 in chips) 
+Seat 3: Alameda22 ($48.40 in chips) 
+Seat 4: puan29 ($24.85 in chips) 
+Seat 5: goodkarma1 ($10.65 in chips) 
+Seat 6: AcedePique ($23.85 in chips) 
+Seat 8: shift4ie ($25 in chips) 
+Seat 9: skrzypek ($25 in chips) 
+AcedePique: posts small blind $0.10
+shift4ie: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 2c]
+skrzypek: raises $1 to $1.25
+Blomski1984: folds 
+wasserss joins the table at seat #7 
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: calls $1.25
+goodkarma1: folds 
+AcedePique: calls $1.15
+shift4ie: folds 
+*** FLOP *** [Ks Qc 5h]
+AcedePique: checks 
+skrzypek: bets $2.25
+puan29: calls $2.25
+AcedePique: folds 
+*** TURN *** [Ks Qc 5h] [Js]
+skrzypek: bets $5.25
+puan29: calls $5.25
+*** RIVER *** [Ks Qc 5h Js] [6c]
+skrzypek: bets $8
+puan29: calls $8
+*** SHOW DOWN ***
+skrzypek: shows [As Kc] (a pair of Kings)
+puan29: shows [Kh Ac] (a pair of Kings)
+skrzypek collected $16.65 from pot
+puan29 collected $16.65 from pot
+*** SUMMARY ***
+Total pot $35 | Rake $1.70 
+Board [Ks Qc 5h Js 6c]
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 showed [Kh Ac] and won ($16.65) with a pair of Kings
+Seat 5: goodkarma1 (button) folded before Flop (didn't bet)
+Seat 6: AcedePique (small blind) folded on the Flop
+Seat 8: shift4ie (big blind) folded before Flop
+Seat 9: skrzypek showed [As Kc] and won ($16.65) with a pair of Kings
+
+
+
+PokerStars Game #20100248723:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:31:06 ET
+Table 'Parysatis' 9-max Seat #6 is the button
+Seat 1: Blomski1984 ($28.95 in chips) 
+Seat 2: JesseGrunn ($11.70 in chips) 
+Seat 3: Alameda22 ($48.40 in chips) 
+Seat 4: puan29 ($24.75 in chips) 
+Seat 5: goodkarma1 ($10.65 in chips) 
+Seat 6: AcedePique ($22.60 in chips) 
+Seat 8: shift4ie ($24.75 in chips) 
+Seat 9: skrzypek ($24.90 in chips) 
+wasserss will be allowed to play after the button
+shift4ie: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 9s]
+Blomski1984: calls $0.25
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: folds 
+goodkarma1: folds 
+AcedePique: folds 
+shift4ie: calls $0.15
+skrzypek: checks 
+*** FLOP *** [7s Ks Ad]
+shift4ie: checks 
+skrzypek: checks 
+Blomski1984: checks 
+JesseGrunn: checks 
+*** TURN *** [7s Ks Ad] [Ts]
+shift4ie: checks 
+skrzypek: checks 
+Blomski1984: bets $0.25
+JesseGrunn: calls $0.25
+shift4ie: folds 
+skrzypek: folds 
+*** RIVER *** [7s Ks Ad Ts] [8h]
+Blomski1984: checks 
+JesseGrunn: bets $1
+Blomski1984: folds 
+Uncalled bet ($1) returned to JesseGrunn
+JesseGrunn collected $1.45 from pot
+JesseGrunn: shows [4c Qc] (high card Ace)
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [7s Ks Ad Ts 8h]
+Seat 1: Blomski1984 folded on the River
+Seat 2: JesseGrunn collected ($1.45)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: goodkarma1 folded before Flop (didn't bet)
+Seat 6: AcedePique (button) folded before Flop (didn't bet)
+Seat 8: shift4ie (small blind) folded on the Turn
+Seat 9: skrzypek (big blind) folded on the Turn
+
+
+
+PokerStars Game #20100277161:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:32:21 ET
+Table 'Parysatis' 9-max Seat #8 is the button
+Seat 1: Blomski1984 ($28.45 in chips) 
+Seat 2: JesseGrunn ($12.65 in chips) 
+Seat 3: Alameda22 ($48.40 in chips) 
+Seat 4: puan29 ($24.75 in chips) 
+Seat 5: goodkarma1 ($10.65 in chips) 
+Seat 6: AcedePique ($22.60 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: shift4ie ($24.50 in chips) 
+Seat 9: skrzypek ($24.65 in chips) 
+skrzypek: posts small blind $0.10
+Blomski1984: posts big blind $0.25
+wasserss: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Jd]
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: folds 
+goodkarma1: folds 
+AcedePique: folds 
+wasserss: checks 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: checks 
+*** FLOP *** [Ac 5s 3d]
+Blomski1984: checks 
+wasserss: checks 
+*** TURN *** [Ac 5s 3d] [Qc]
+Blomski1984: checks 
+wasserss: checks 
+*** RIVER *** [Ac 5s 3d Qc] [Js]
+Blomski1984: checks 
+wasserss: checks 
+*** SHOW DOWN ***
+Blomski1984: shows [8c 9d] (high card Ace)
+wasserss: shows [Ks 3s] (a pair of Threes)
+wasserss collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ac 5s 3d Qc Js]
+Seat 1: Blomski1984 (big blind) showed [8c 9d] and lost with high card Ace
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: goodkarma1 folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: wasserss showed [Ks 3s] and won ($0.60) with a pair of Threes
+Seat 8: shift4ie (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20100301980:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:33:28 ET
+Table 'Parysatis' 9-max Seat #9 is the button
+Seat 1: Blomski1984 ($28.20 in chips) 
+Seat 2: JesseGrunn ($12.65 in chips) 
+Seat 3: Alameda22 ($48.40 in chips) 
+Seat 4: puan29 ($24.75 in chips) 
+Seat 5: goodkarma1 ($10.65 in chips) 
+Seat 6: AcedePique ($22.60 in chips) 
+Seat 7: wasserss ($5.35 in chips) 
+Seat 8: shift4ie ($24.50 in chips) 
+Seat 9: skrzypek ($24.55 in chips) 
+Blomski1984: posts small blind $0.10
+JesseGrunn: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 9d]
+Alameda22: folds 
+puan29: folds 
+goodkarma1: folds 
+AcedePique: calls $0.25
+wasserss: folds 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: calls $0.15
+JesseGrunn: checks 
+*** FLOP *** [Ks Ts Ah]
+Blomski1984: checks 
+JesseGrunn: checks 
+AcedePique: checks 
+*** TURN *** [Ks Ts Ah] [Qs]
+Blomski1984: checks 
+JesseGrunn: bets $0.25
+AcedePique: folds 
+Blomski1984: folds 
+Uncalled bet ($0.25) returned to JesseGrunn
+JesseGrunn collected $0.75 from pot
+JesseGrunn: shows [6h 9s] (high card Ace)
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Ks Ts Ah Qs]
+Seat 1: Blomski1984 (small blind) folded on the Turn
+Seat 2: JesseGrunn (big blind) collected ($0.75)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: goodkarma1 folded before Flop (didn't bet)
+Seat 6: AcedePique folded on the Turn
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100330733:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:34:45 ET
+Table 'Parysatis' 9-max Seat #1 is the button
+Seat 1: Blomski1984 ($27.95 in chips) 
+Seat 2: JesseGrunn ($13.15 in chips) 
+Seat 3: Alameda22 ($48.40 in chips) 
+Seat 4: puan29 ($24.75 in chips) 
+Seat 5: goodkarma1 ($10.65 in chips) 
+Seat 6: AcedePique ($22.35 in chips) 
+Seat 7: wasserss ($5.35 in chips) 
+Seat 8: shift4ie ($24.50 in chips) 
+Seat 9: skrzypek ($24.55 in chips) 
+JesseGrunn: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 5h]
+puan29: folds 
+goodkarma1: folds 
+AcedePique: folds 
+wasserss: folds 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: folds 
+Uncalled bet ($0.15) returned to Alameda22
+Alameda22 collected $0.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Blomski1984 (button) folded before Flop (didn't bet)
+Seat 2: JesseGrunn (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) collected ($0.20)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: goodkarma1 folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100344292:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:35:21 ET
+Table 'Parysatis' 9-max Seat #2 is the button
+Seat 1: Blomski1984 ($27.95 in chips) 
+Seat 2: JesseGrunn ($13.05 in chips) 
+Seat 3: Alameda22 ($48.50 in chips) 
+Seat 4: puan29 ($24.75 in chips) 
+Seat 5: goodkarma1 ($10.65 in chips) 
+Seat 6: AcedePique ($22.35 in chips) 
+Seat 7: wasserss ($5.35 in chips) 
+Seat 8: shift4ie ($24.50 in chips) 
+Seat 9: skrzypek ($24.55 in chips) 
+Alameda22: posts small blind $0.10
+puan29: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Jd]
+goodkarma1: folds 
+AcedePique: folds 
+wasserss: folds 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: checks 
+*** FLOP *** [Ks 4c Ts]
+puan29: checks 
+JesseGrunn: checks 
+*** TURN *** [Ks 4c Ts] [9h]
+puan29: checks 
+JesseGrunn: checks 
+*** RIVER *** [Ks 4c Ts 9h] [Td]
+puan29: checks 
+JesseGrunn: checks 
+*** SHOW DOWN ***
+puan29: shows [6d Qd] (a pair of Tens)
+JesseGrunn: shows [Ah 7s] (a pair of Tens - Ace kicker)
+JesseGrunn collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ks 4c Ts 9h Td]
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn (button) showed [Ah 7s] and won ($0.60) with a pair of Tens
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: puan29 (big blind) showed [6d Qd] and lost with a pair of Tens
+Seat 5: goodkarma1 folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100369570:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:36:29 ET
+Table 'Parysatis' 9-max Seat #3 is the button
+Seat 1: Blomski1984 ($27.95 in chips) 
+Seat 2: JesseGrunn ($13.40 in chips) 
+Seat 3: Alameda22 ($48.40 in chips) 
+Seat 4: puan29 ($24.50 in chips) 
+Seat 5: goodkarma1 ($10.65 in chips) 
+Seat 6: AcedePique ($22.35 in chips) 
+Seat 7: wasserss ($5.35 in chips) 
+Seat 8: shift4ie ($24.50 in chips) 
+Seat 9: skrzypek ($24.55 in chips) 
+puan29: posts small blind $0.10
+goodkarma1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Jd]
+AcedePique: folds 
+wasserss: folds 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: calls $0.40
+goodkarma1: raises $10.15 to $10.65 and is all-in
+Blomski1984: folds 
+JesseGrunn: folds 
+puan29: folds 
+Uncalled bet ($10.15) returned to goodkarma1
+goodkarma1 collected $1.75 from pot
+goodkarma1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Blomski1984 folded before Flop
+Seat 2: JesseGrunn folded before Flop
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: puan29 (small blind) folded before Flop
+Seat 5: goodkarma1 (big blind) collected ($1.75)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100405196:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:38:05 ET
+Table 'Parysatis' 9-max Seat #4 is the button
+Seat 1: Blomski1984 ($27.70 in chips) 
+Seat 2: JesseGrunn ($12.90 in chips) 
+Seat 3: Alameda22 ($48.40 in chips) 
+Seat 4: puan29 ($24 in chips) 
+Seat 5: goodkarma1 ($11.90 in chips) 
+Seat 6: AcedePique ($22.35 in chips) 
+Seat 7: wasserss ($5.35 in chips) 
+Seat 8: shift4ie ($24.50 in chips) 
+Seat 9: skrzypek ($24.55 in chips) 
+goodkarma1: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 6h]
+wasserss: folds 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: folds 
+goodkarma1: folds 
+AcedePique: folds 
+Blomski1984: calls $0.25
+*** FLOP *** [5s 5c 2c]
+Blomski1984: bets $0.25
+JesseGrunn: calls $0.25
+*** TURN *** [5s 5c 2c] [Ah]
+Blomski1984: bets $1
+JesseGrunn: folds 
+Uncalled bet ($1) returned to Blomski1984
+Blomski1984 collected $1.80 from pot
+Blomski1984: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [5s 5c 2c Ah]
+Seat 1: Blomski1984 collected ($1.80)
+Seat 2: JesseGrunn folded on the Turn
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 (button) folded before Flop (didn't bet)
+Seat 5: goodkarma1 (small blind) folded before Flop
+Seat 6: AcedePique (big blind) folded before Flop
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100435339:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:39:26 ET
+Table 'Parysatis' 9-max Seat #5 is the button
+Seat 1: Blomski1984 ($28.75 in chips) 
+Seat 2: JesseGrunn ($12.15 in chips) 
+Seat 3: Alameda22 ($48.40 in chips) 
+Seat 4: puan29 ($24 in chips) 
+Seat 5: goodkarma1 ($11.80 in chips) 
+Seat 6: AcedePique ($22.10 in chips) 
+Seat 7: wasserss ($5.35 in chips) 
+Seat 8: shift4ie ($24.50 in chips) 
+Seat 9: skrzypek ($24.55 in chips) 
+AcedePique: posts small blind $0.10
+wasserss: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Tc]
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: folds 
+goodkarma1: folds 
+AcedePique: folds 
+wasserss: checks 
+*** FLOP *** [6s Kc Ah]
+wasserss: checks 
+Blomski1984: checks 
+JesseGrunn: checks 
+*** TURN *** [6s Kc Ah] [9s]
+wasserss: checks 
+Blomski1984: checks 
+JesseGrunn: checks 
+*** RIVER *** [6s Kc Ah 9s] [Th]
+wasserss: checks 
+Blomski1984: checks 
+JesseGrunn: checks 
+*** SHOW DOWN ***
+wasserss: shows [2s 5d] (high card Ace)
+Blomski1984: shows [2h 3h] (high card Ace)
+JesseGrunn: shows [7c Jh] (high card Ace - King+Jack kicker)
+JesseGrunn collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [6s Kc Ah 9s Th]
+Seat 1: Blomski1984 showed [2h 3h] and lost with high card Ace
+Seat 2: JesseGrunn showed [7c Jh] and won ($0.85) with high card Ace
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: goodkarma1 (button) folded before Flop (didn't bet)
+Seat 6: AcedePique (small blind) folded before Flop
+Seat 7: wasserss (big blind) showed [2s 5d] and lost with high card Ace
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100460526:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:40:34 ET
+Table 'Parysatis' 9-max Seat #6 is the button
+Seat 1: Blomski1984 ($28.50 in chips) 
+Seat 2: JesseGrunn ($12.75 in chips) 
+Seat 3: Alameda22 ($48.40 in chips) 
+Seat 4: puan29 ($24 in chips) 
+Seat 5: goodkarma1 ($11.80 in chips) 
+Seat 6: AcedePique ($22 in chips) 
+Seat 7: wasserss ($5.10 in chips) 
+Seat 8: shift4ie ($24.50 in chips) 
+Seat 9: skrzypek ($24.55 in chips) 
+wasserss: posts small blind $0.10
+shift4ie: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 5s]
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: folds 
+goodkarma1: raises $0.75 to $1
+AcedePique: folds 
+wasserss: folds 
+shift4ie: folds 
+Blomski1984: calls $0.75
+JesseGrunn: folds 
+*** FLOP *** [8d Qc 4h]
+Blomski1984: checks 
+goodkarma1: bets $2.50
+Blomski1984: folds 
+Uncalled bet ($2.50) returned to goodkarma1
+goodkarma1 collected $2.50 from pot
+goodkarma1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [8d Qc 4h]
+Seat 1: Blomski1984 folded on the Flop
+Seat 2: JesseGrunn folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: goodkarma1 collected ($2.50)
+Seat 6: AcedePique (button) folded before Flop (didn't bet)
+Seat 7: wasserss (small blind) folded before Flop
+Seat 8: shift4ie (big blind) folded before Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100485836:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:41:42 ET
+Table 'Parysatis' 9-max Seat #7 is the button
+Seat 1: Blomski1984 ($27.50 in chips) 
+Seat 2: JesseGrunn ($12.50 in chips) 
+Seat 3: Alameda22 ($48.40 in chips) 
+Seat 4: puan29 ($24 in chips) 
+Seat 5: goodkarma1 ($13.30 in chips) 
+Seat 6: AcedePique ($22 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: shift4ie ($24.25 in chips) 
+Seat 9: skrzypek ($24.55 in chips) 
+shift4ie: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Tc]
+Blomski1984: folds 
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: folds 
+goodkarma1: folds 
+AcedePique: folds 
+wasserss: folds 
+shift4ie: folds 
+skrzypek: folds 
+Uncalled bet ($0.25) returned to JesseGrunn
+JesseGrunn collected $0.60 from pot
+JesseGrunn: shows [Kh Ah] (high card Ace)
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn collected ($0.60)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: goodkarma1 folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: wasserss (button) folded before Flop (didn't bet)
+Seat 8: shift4ie (small blind) folded before Flop
+Seat 9: skrzypek (big blind) folded before Flop
+
+
+
+PokerStars Game #20100506106:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:42:37 ET
+Table 'Parysatis' 9-max Seat #8 is the button
+Seat 1: Blomski1984 ($27.50 in chips) 
+Seat 2: JesseGrunn ($12.85 in chips) 
+Seat 3: Alameda22 ($48.40 in chips) 
+Seat 4: puan29 ($24 in chips) 
+Seat 5: goodkarma1 ($13.30 in chips) 
+Seat 6: AcedePique ($22 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: shift4ie ($24.15 in chips) 
+Seat 9: skrzypek ($24.30 in chips) 
+skrzypek: posts small blind $0.10
+Blomski1984: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Ac]
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: folds 
+goodkarma1: folds 
+AcedePique: folds 
+wasserss: folds 
+shift4ie: folds 
+skrzypek: calls $0.40
+Blomski1984: folds 
+*** FLOP *** [6h Td Tc]
+skrzypek: checks 
+JesseGrunn: bets $0.50
+skrzypek: folds 
+Uncalled bet ($0.50) returned to JesseGrunn
+JesseGrunn collected $1.20 from pot
+JesseGrunn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [6h Td Tc]
+Seat 1: Blomski1984 (big blind) folded before Flop
+Seat 2: JesseGrunn collected ($1.20)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: goodkarma1 folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: shift4ie (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded on the Flop
+
+
+
+PokerStars Game #20100536660:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:44:00 ET
+Table 'Parysatis' 9-max Seat #9 is the button
+Seat 1: Blomski1984 ($27.25 in chips) 
+Seat 2: JesseGrunn ($13.55 in chips) 
+Seat 3: Alameda22 ($48.40 in chips) 
+Seat 4: puan29 ($24 in chips) 
+Seat 5: goodkarma1 ($13.30 in chips) 
+Seat 6: AcedePique ($22 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: shift4ie ($24.15 in chips) 
+Seat 9: skrzypek ($23.80 in chips) 
+Blomski1984: posts small blind $0.10
+JesseGrunn: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Qh]
+Alameda22: folds 
+puan29: raises $0.75 to $1
+goodkarma1: folds 
+AcedePique: folds 
+wasserss: folds 
+shift4ie: calls $1
+skrzypek: folds 
+Blomski1984: calls $0.90
+JesseGrunn: folds 
+*** FLOP *** [5s 7d 6d]
+Blomski1984: bets $1
+puan29: raises $2.75 to $3.75
+shift4ie: folds 
+Blomski1984: calls $2.75
+*** TURN *** [5s 7d 6d] [2d]
+Blomski1984: bets $4
+puan29: folds 
+Uncalled bet ($4) returned to Blomski1984
+Blomski1984 collected $10.25 from pot
+Blomski1984: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.75 | Rake $0.50 
+Board [5s 7d 6d 2d]
+Seat 1: Blomski1984 (small blind) collected ($10.25)
+Seat 2: JesseGrunn (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded on the Turn
+Seat 5: goodkarma1 folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: shift4ie folded on the Flop
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100574518:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:45:43 ET
+Table 'Parysatis' 9-max Seat #1 is the button
+Seat 1: Blomski1984 ($32.75 in chips) 
+Seat 2: JesseGrunn ($13.30 in chips) 
+Seat 3: Alameda22 ($48.40 in chips) 
+Seat 4: puan29 ($25 in chips) 
+Seat 5: goodkarma1 ($13.30 in chips) 
+Seat 6: AcedePique ($22 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: shift4ie ($23.15 in chips) 
+Seat 9: skrzypek ($23.80 in chips) 
+JesseGrunn: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 4c]
+puan29: folds 
+goodkarma1: raises $0.75 to $1
+AcedePique: folds 
+wasserss: folds 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to goodkarma1
+goodkarma1 collected $0.60 from pot
+goodkarma1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Blomski1984 (button) folded before Flop (didn't bet)
+Seat 2: JesseGrunn (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: goodkarma1 collected ($0.60)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100589700:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:46:24 ET
+Table 'Parysatis' 9-max Seat #2 is the button
+Seat 1: Blomski1984 ($32.75 in chips) 
+Seat 2: JesseGrunn ($13.20 in chips) 
+Seat 3: Alameda22 ($48.15 in chips) 
+Seat 4: puan29 ($25 in chips) 
+Seat 5: goodkarma1 ($13.65 in chips) 
+Seat 6: AcedePique ($22 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: shift4ie ($23.15 in chips) 
+Seat 9: skrzypek ($23.80 in chips) 
+Alameda22: posts small blind $0.10
+puan29: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ad 2d]
+goodkarma1: folds 
+AcedePique: folds 
+wasserss: raises $0.75 to $1
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: folds 
+Uncalled bet ($0.75) returned to wasserss
+wasserss collected $0.60 from pot
+wasserss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: puan29 (big blind) folded before Flop
+Seat 5: goodkarma1 folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: wasserss collected ($0.60)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100602462:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:46:58 ET
+Table 'Parysatis' 9-max Seat #3 is the button
+Seat 1: Blomski1984 ($32.75 in chips) 
+Seat 2: JesseGrunn ($13.20 in chips) 
+Seat 3: Alameda22 ($48.05 in chips) 
+Seat 4: puan29 ($24.75 in chips) 
+Seat 5: goodkarma1 ($13.65 in chips) 
+Seat 6: AcedePique ($22 in chips) 
+Seat 7: wasserss ($5.35 in chips) 
+Seat 8: shift4ie ($23.15 in chips) 
+Seat 9: skrzypek ($23.80 in chips) 
+puan29: posts small blind $0.10
+goodkarma1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 5s]
+AcedePique: folds 
+wasserss: folds 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: calls $0.15
+goodkarma1: checks 
+*** FLOP *** [2c 4c Qs]
+puan29: checks 
+goodkarma1: checks 
+Blomski1984: checks 
+JesseGrunn: checks 
+*** TURN *** [2c 4c Qs] [Js]
+puan29: checks 
+goodkarma1: checks 
+Blomski1984: checks 
+JesseGrunn: bets $0.50
+puan29: folds 
+goodkarma1: folds 
+Blomski1984: folds 
+Uncalled bet ($0.50) returned to JesseGrunn
+JesseGrunn collected $0.95 from pot
+JesseGrunn said, "k"
+JesseGrunn: shows [Kh 4d] (a pair of Fours)
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [2c 4c Qs Js]
+Seat 1: Blomski1984 folded on the Turn
+Seat 2: JesseGrunn collected ($0.95)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: puan29 (small blind) folded on the Turn
+Seat 5: goodkarma1 (big blind) folded on the Turn
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100631097:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:48:16 ET
+Table 'Parysatis' 9-max Seat #4 is the button
+Seat 1: Blomski1984 ($32.50 in chips) 
+Seat 2: JesseGrunn ($13.90 in chips) 
+Seat 3: Alameda22 ($48.05 in chips) 
+Seat 4: puan29 ($24.50 in chips) 
+Seat 5: goodkarma1 ($13.40 in chips) 
+Seat 6: AcedePique ($22 in chips) 
+Seat 7: wasserss ($5.35 in chips) 
+Seat 8: shift4ie ($23.15 in chips) 
+Seat 9: skrzypek ($23.80 in chips) 
+goodkarma1: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 3s]
+wasserss: folds 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: folds 
+goodkarma1: raises $0.75 to $1
+AcedePique: folds 
+JesseGrunn: calls $0.75
+*** FLOP *** [7h 4s Jh]
+goodkarma1: bets $2
+JesseGrunn: calls $2
+*** TURN *** [7h 4s Jh] [4d]
+goodkarma1: bets $5
+JesseGrunn: raises $5.90 to $10.90 and is all-in
+goodkarma1: folds 
+Uncalled bet ($5.90) returned to JesseGrunn
+JesseGrunn collected $15.50 from pot
+JesseGrunn: shows [4h Kh] (three of a kind, Fours)
+*** SUMMARY ***
+Total pot $16.25 | Rake $0.75 
+Board [7h 4s Jh 4d]
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn collected ($15.50)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 (button) folded before Flop (didn't bet)
+Seat 5: goodkarma1 (small blind) folded on the Turn
+Seat 6: AcedePique (big blind) folded before Flop
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100672458:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:50:08 ET
+Table 'Parysatis' 9-max Seat #5 is the button
+Seat 1: Blomski1984 ($32.50 in chips) 
+Seat 2: JesseGrunn ($21.40 in chips) 
+Seat 3: Alameda22 ($48.05 in chips) 
+Seat 4: puan29 ($24.50 in chips) 
+Seat 5: goodkarma1 ($5.40 in chips) 
+Seat 6: AcedePique ($21.75 in chips) 
+Seat 7: wasserss ($5.35 in chips) 
+Seat 8: shift4ie ($23.15 in chips) 
+Seat 9: skrzypek ($23.80 in chips) 
+AcedePique: posts small blind $0.10
+goodkarma1 said, "do u really have 4?"
+wasserss: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Jd]
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+goodkarma1 said, "guess I got my answer..."
+JesseGrunn: raises $0.25 to $0.50
+goodkarma1 said, "had Q-Q"
+Alameda22: folds 
+puan29: calls $0.50
+goodkarma1: folds 
+AcedePique: folds 
+wasserss: folds 
+Blomski1984: calls $0.25
+*** FLOP *** [6c 5d 4h]
+Blomski1984: bets $0.25
+JesseGrunn: folds 
+puan29: folds 
+Uncalled bet ($0.25) returned to Blomski1984
+Blomski1984 collected $1.80 from pot
+Blomski1984: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [6c 5d 4h]
+Seat 1: Blomski1984 collected ($1.80)
+Seat 2: JesseGrunn folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded on the Flop
+Seat 5: goodkarma1 (button) folded before Flop (didn't bet)
+Seat 6: AcedePique (small blind) folded before Flop
+Seat 7: wasserss (big blind) folded before Flop
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100699916:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:51:22 ET
+Table 'Parysatis' 9-max Seat #6 is the button
+Seat 1: Blomski1984 ($33.80 in chips) 
+Seat 2: JesseGrunn ($20.90 in chips) 
+Seat 3: Alameda22 ($48.05 in chips) 
+Seat 4: puan29 ($24 in chips) 
+Seat 5: goodkarma1 ($5.40 in chips) 
+Seat 6: AcedePique ($21.65 in chips) 
+Seat 7: wasserss ($5.10 in chips) 
+Seat 8: shift4ie ($23.15 in chips) 
+Seat 9: skrzypek ($23.80 in chips) 
+wasserss: posts small blind $0.10
+shift4ie: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 5c]
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: folds 
+goodkarma1: calls $0.50
+AcedePique: folds 
+wasserss: folds 
+shift4ie: calls $0.25
+*** FLOP *** [Ac 2d 5s]
+shift4ie: checks 
+JesseGrunn: checks 
+goodkarma1: bets $4.90 and is all-in
+shift4ie: folds 
+JesseGrunn: calls $4.90
+*** TURN *** [Ac 2d 5s] [Td]
+*** RIVER *** [Ac 2d 5s Td] [4d]
+*** SHOW DOWN ***
+JesseGrunn: shows [Jd Ad] (a flush, Ace high)
+goodkarma1: mucks hand 
+JesseGrunn collected $10.85 from pot
+goodkarma1 leaves the table
+*** SUMMARY ***
+Total pot $11.40 | Rake $0.55 
+Board [Ac 2d 5s Td 4d]
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn showed [Jd Ad] and won ($10.85) with a flush, Ace high
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: goodkarma1 mucked [5h 6h]
+Seat 6: AcedePique (button) folded before Flop (didn't bet)
+Seat 7: wasserss (small blind) folded before Flop
+Seat 8: shift4ie (big blind) folded on the Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100728315:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:52:40 ET
+Table 'Parysatis' 9-max Seat #7 is the button
+Seat 1: Blomski1984 ($33.80 in chips) 
+Seat 2: JesseGrunn ($26.35 in chips) 
+Seat 3: Alameda22 ($48.05 in chips) 
+Seat 4: puan29 ($24 in chips) 
+Seat 6: AcedePique ($21.65 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: shift4ie ($22.65 in chips) 
+Seat 9: skrzypek ($23.80 in chips) 
+shift4ie: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Kc]
+Blomski1984: calls $0.25
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: folds 
+AcedePique: raises $0.75 to $1
+mettwl joins the table at seat #5 
+wasserss: folds 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: folds 
+Uncalled bet ($0.75) returned to AcedePique
+AcedePique collected $0.85 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Blomski1984 folded before Flop
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 6: AcedePique collected ($0.85)
+Seat 7: wasserss (button) folded before Flop (didn't bet)
+Seat 8: shift4ie (small blind) folded before Flop
+Seat 9: skrzypek (big blind) folded before Flop
+
+
+
+PokerStars Game #20100742551:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:53:19 ET
+Table 'Parysatis' 9-max Seat #8 is the button
+Seat 1: Blomski1984 ($33.55 in chips) 
+Seat 2: JesseGrunn ($26.35 in chips) 
+Seat 3: Alameda22 ($48.05 in chips) 
+Seat 4: puan29 ($24 in chips) 
+Seat 6: AcedePique ($22.25 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: shift4ie ($22.55 in chips) 
+Seat 9: skrzypek ($23.55 in chips) 
+skrzypek: posts small blind $0.10
+Blomski1984: posts big blind $0.25
+mettwl: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Td]
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: folds 
+AcedePique: folds 
+wasserss: folds 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: checks 
+*** FLOP *** [5s Qd Kd]
+Blomski1984: checks 
+JesseGrunn: checks 
+*** TURN *** [5s Qd Kd] [Js]
+Blomski1984: bets $0.25
+JesseGrunn: calls $0.25
+*** RIVER *** [5s Qd Kd Js] [Jd]
+Blomski1984: bets $0.25
+JesseGrunn: folds 
+Uncalled bet ($0.25) returned to Blomski1984
+Blomski1984 collected $1.05 from pot
+Blomski1984: shows [2c 6s] (a pair of Jacks)
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [5s Qd Kd Js Jd]
+Seat 1: Blomski1984 (big blind) collected ($1.05)
+Seat 2: JesseGrunn folded on the River
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: shift4ie (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20100768512:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:54:30 ET
+Table 'Parysatis' 9-max Seat #9 is the button
+Seat 1: Blomski1984 ($34.10 in chips) 
+Seat 2: JesseGrunn ($25.85 in chips) 
+Seat 3: Alameda22 ($48.05 in chips) 
+Seat 4: puan29 ($24 in chips) 
+Seat 6: AcedePique ($22.25 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: shift4ie ($22.55 in chips) 
+Seat 9: skrzypek ($23.45 in chips) 
+Blomski1984: posts small blind $0.10
+JesseGrunn: posts big blind $0.25
+mettwl: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 9s]
+Alameda22: folds 
+puan29: folds 
+AcedePique: folds 
+wasserss: folds 
+shift4ie: folds 
+skrzypek: calls $0.25
+Blomski1984: calls $0.15
+JesseGrunn: checks 
+*** FLOP *** [5h Kc 2d]
+Blomski1984: bets $0.25
+JesseGrunn: raises $0.25 to $0.50
+skrzypek: folds 
+Blomski1984: calls $0.25
+*** TURN *** [5h Kc 2d] [7c]
+Blomski1984: bets $0.75
+JesseGrunn: calls $0.75
+*** RIVER *** [5h Kc 2d 7c] [7s]
+Blomski1984: checks 
+JesseGrunn: bets $1
+Blomski1984: folds 
+Uncalled bet ($1) returned to JesseGrunn
+JesseGrunn collected $3.10 from pot
+JesseGrunn: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [5h Kc 2d 7c 7s]
+Seat 1: Blomski1984 (small blind) folded on the River
+Seat 2: JesseGrunn (big blind) collected ($3.10)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded on the Flop
+
+
+
+PokerStars Game #20100793397:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:55:38 ET
+Table 'Parysatis' 9-max Seat #1 is the button
+Seat 1: Blomski1984 ($32.60 in chips) 
+Seat 2: JesseGrunn ($27.45 in chips) 
+Seat 3: Alameda22 ($48.05 in chips) 
+Seat 4: puan29 ($24 in chips) 
+Seat 6: AcedePique ($22.25 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: shift4ie ($22.55 in chips) 
+Seat 9: skrzypek ($23.20 in chips) 
+JesseGrunn: posts small blind $0.10
+Alameda22: posts big blind $0.25
+mettwl: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s 5s]
+puan29: folds 
+AcedePique: raises $0.75 to $1
+wasserss: folds 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: folds 
+Alameda22: folds 
+Uncalled bet ($0.75) returned to AcedePique
+AcedePique collected $0.60 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Blomski1984 (button) folded before Flop (didn't bet)
+Seat 2: JesseGrunn (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 6: AcedePique collected ($0.60)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100809386:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:56:22 ET
+Table 'Parysatis' 9-max Seat #2 is the button
+Seat 1: Blomski1984 ($32.60 in chips) 
+Seat 2: JesseGrunn ($27.35 in chips) 
+Seat 3: Alameda22 ($47.80 in chips) 
+Seat 4: puan29 ($24 in chips) 
+Seat 6: AcedePique ($22.60 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: shift4ie ($22.55 in chips) 
+Seat 9: skrzypek ($23.20 in chips) 
+Alameda22: posts small blind $0.10
+puan29: posts big blind $0.25
+mettwl: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 2d]
+AcedePique: folds 
+wasserss: folds 
+shift4ie: folds 
+skrzypek: raises $1 to $1.25
+Blomski1984: calls $1.25
+JesseGrunn: calls $1.25
+Alameda22: folds 
+puan29: folds 
+*** FLOP *** [6d 2h Ah]
+skrzypek: bets $2.50
+Blomski1984: raises $28.85 to $31.35 and is all-in
+JesseGrunn: folds 
+skrzypek: calls $19.45 and is all-in
+Uncalled bet ($9.40) returned to Blomski1984
+*** TURN *** [6d 2h Ah] [Jd]
+*** RIVER *** [6d 2h Ah Jd] [Ts]
+*** SHOW DOWN ***
+skrzypek: shows [Ac Kc] (a pair of Aces)
+Blomski1984: shows [Qh Kh] (a straight, Ten to Ace)
+Blomski1984 collected $45.65 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $2.35 
+Board [6d 2h Ah Jd Ts]
+Seat 1: Blomski1984 showed [Qh Kh] and won ($45.65) with a straight, Ten to Ace
+Seat 2: JesseGrunn (button) folded on the Flop
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: puan29 (big blind) folded before Flop
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek showed [Ac Kc] and lost with a pair of Aces
+
+
+
+PokerStars Game #20100833701:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:57:29 ET
+Table 'Parysatis' 9-max Seat #3 is the button
+Seat 1: Blomski1984 ($55.05 in chips) 
+Seat 2: JesseGrunn ($26.10 in chips) 
+Seat 3: Alameda22 ($47.70 in chips) 
+Seat 4: puan29 ($23.75 in chips) 
+Seat 5: mettwl ($25 in chips) 
+Seat 6: AcedePique ($22.60 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: shift4ie ($22.55 in chips) 
+puan29: posts small blind $0.10
+skrzypek has returned
+mettwl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 4d]
+AcedePique: folds 
+wasserss: folds 
+shift4ie: folds 
+Blomski1984: calls $0.25
+skrzypek said, "idiota"
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: raises $1 to $1.25
+mettwl: folds 
+Blomski1984: folds 
+Uncalled bet ($1) returned to puan29
+puan29 collected $0.75 from pot
+puan29: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Blomski1984 folded before Flop
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: puan29 (small blind) collected ($0.75)
+Seat 5: mettwl (big blind) folded before Flop
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100845603:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:58:02 ET
+Table 'Parysatis' 9-max Seat #4 is the button
+Seat 1: Blomski1984 ($54.80 in chips) 
+Seat 2: JesseGrunn ($26.10 in chips) 
+Seat 3: Alameda22 ($47.70 in chips) 
+Seat 4: puan29 ($24.25 in chips) 
+Seat 5: mettwl ($24.75 in chips) 
+Seat 6: AcedePique ($22.60 in chips) 
+Seat 7: wasserss ($5 in chips) 
+Seat 8: shift4ie ($22.55 in chips) 
+Seat 9: skrzypek ($25 in chips) 
+mettwl: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d 2c]
+wasserss: folds 
+shift4ie: raises $0.75 to $1
+skrzypek: folds 
+Blomski1984 said, "idiota? :)"
+Blomski1984: folds 
+JesseGrunn: raises $1 to $2
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+skrzypek said, "its idiot in my language"
+shift4ie: calls $1
+*** FLOP *** [Jc 3h Js]
+shift4ie: checks 
+JesseGrunn: bets $1
+shift4ie: calls $1
+*** TURN *** [Jc 3h Js] [Qc]
+shift4ie: checks 
+Blomski1984 said, "why idiot? :)"
+JesseGrunn: bets $1
+shift4ie: calls $1
+*** RIVER *** [Jc 3h Js Qc] [Qh]
+Blomski1984 said, "me?"
+shift4ie: checks 
+JesseGrunn: checks 
+*** SHOW DOWN ***
+shift4ie: shows [As Kc] (two pair, Queens and Jacks)
+JesseGrunn: mucks hand 
+shift4ie collected $7.95 from pot
+*** SUMMARY ***
+Total pot $8.35 | Rake $0.40 
+Board [Jc 3h Js Qc Qh]
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn mucked [7h 7s]
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 (button) folded before Flop (didn't bet)
+Seat 5: mettwl (small blind) folded before Flop
+Seat 6: AcedePique (big blind) folded before Flop
+Seat 7: wasserss folded before Flop (didn't bet)
+Seat 8: shift4ie showed [As Kc] and won ($7.95) with two pair, Queens and Jacks
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100879964:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 18:59:37 ET
+Table 'Parysatis' 9-max Seat #5 is the button
+Seat 1: Blomski1984 ($54.80 in chips) 
+Seat 2: JesseGrunn ($22.10 in chips) 
+Seat 3: Alameda22 ($47.70 in chips) 
+Seat 4: puan29 ($24.25 in chips) 
+Seat 5: mettwl ($24.65 in chips) 
+Seat 6: AcedePique ($22.35 in chips) 
+Seat 8: shift4ie ($26.50 in chips) 
+Seat 9: skrzypek ($25 in chips) 
+AcedePique: posts small blind $0.10
+wasserss: is sitting out 
+wasserss leaves the table
+shift4ie: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 3c]
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: raises $1.25 to $1.50
+mettwl: folds 
+AcedePique: folds 
+shift4ie: calls $1.25
+Blomski1984: folds 
+JesseGrunn: folds 
+*** FLOP *** [Kd 6h 8c]
+shift4ie: checks 
+puan29: bets $2.25
+shift4ie: folds 
+Uncalled bet ($2.25) returned to puan29
+puan29 collected $3.45 from pot
+puan29: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.15 
+Board [Kd 6h 8c]
+Seat 1: Blomski1984 folded before Flop
+Seat 2: JesseGrunn folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 collected ($3.45)
+Seat 5: mettwl (button) folded before Flop (didn't bet)
+Seat 6: AcedePique (small blind) folded before Flop
+Seat 8: shift4ie (big blind) folded on the Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100910253:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:00:59 ET
+Table 'Parysatis' 9-max Seat #6 is the button
+Seat 1: Blomski1984 ($54.55 in chips) 
+Seat 2: JesseGrunn ($21.85 in chips) 
+Seat 3: Alameda22 ($47.70 in chips) 
+Seat 4: puan29 ($26.20 in chips) 
+Seat 5: mettwl ($24.65 in chips) 
+Seat 6: AcedePique ($22.25 in chips) 
+Seat 8: shift4ie ($25 in chips) 
+Seat 9: skrzypek ($25 in chips) 
+shift4ie: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 4c]
+Blomski1984: calls $0.25
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: calls $0.25
+mettwl: folds 
+Cross Damon joins the table at seat #7 
+AcedePique: folds 
+shift4ie: folds 
+skrzypek: checks 
+*** FLOP *** [Ts 7s 3h]
+skrzypek: bets $1
+Blomski1984: folds 
+JesseGrunn: folds 
+puan29: folds 
+Uncalled bet ($1) returned to skrzypek
+skrzypek collected $1.05 from pot
+skrzypek: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Ts 7s 3h]
+Seat 1: Blomski1984 folded on the Flop
+Seat 2: JesseGrunn folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded on the Flop
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique (button) folded before Flop (didn't bet)
+Seat 8: shift4ie (small blind) folded before Flop
+Seat 9: skrzypek (big blind) collected ($1.05)
+
+
+
+PokerStars Game #20100928354:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:01:48 ET
+Table 'Parysatis' 9-max Seat #8 is the button
+Seat 1: Blomski1984 ($54.30 in chips) 
+Seat 2: JesseGrunn ($21.60 in chips) 
+Seat 3: Alameda22 ($47.70 in chips) 
+Seat 4: puan29 ($25.95 in chips) 
+Seat 5: mettwl ($24.65 in chips) 
+Seat 6: AcedePique ($22.25 in chips) 
+Seat 8: shift4ie ($24.90 in chips) 
+Seat 9: skrzypek ($25.80 in chips) 
+skrzypek: posts small blind $0.10
+Blomski1984: posts big blind $0.25
+Cross Damon: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 7s]
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+shift4ie: folds 
+skrzypek: raises $0.25 to $0.50
+Blomski1984: calls $0.25
+*** FLOP *** [8d 4d Qh]
+skrzypek: checks 
+Blomski1984: bets $0.75
+skrzypek: folds 
+Uncalled bet ($0.75) returned to Blomski1984
+Blomski1984 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [8d 4d Qh]
+Seat 1: Blomski1984 (big blind) collected ($0.95)
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 8: shift4ie (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded on the Flop
+
+
+
+PokerStars Game #20100949814:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:02:46 ET
+Table 'Parysatis' 9-max Seat #9 is the button
+Seat 1: Blomski1984 ($54.75 in chips) 
+Seat 2: JesseGrunn ($21.60 in chips) 
+Seat 3: Alameda22 ($47.70 in chips) 
+Seat 4: puan29 ($25.95 in chips) 
+Seat 5: mettwl ($24.65 in chips) 
+Seat 6: AcedePique ($22.25 in chips) 
+Seat 8: shift4ie ($24.90 in chips) 
+Seat 9: skrzypek ($25.30 in chips) 
+Blomski1984: posts small blind $0.10
+JesseGrunn: posts big blind $0.25
+Cross Damon: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Js]
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: calls $0.15
+JesseGrunn: checks 
+*** FLOP *** [2s Ad Th]
+Blomski1984: bets $0.25
+JesseGrunn: folds 
+Uncalled bet ($0.25) returned to Blomski1984
+Blomski1984 collected $0.50 from pot
+Blomski1984: shows [7d 6d] (high card Ace)
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [2s Ad Th]
+Seat 1: Blomski1984 (small blind) collected ($0.50)
+Seat 2: JesseGrunn (big blind) folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100963340:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:03:22 ET
+Table 'Parysatis' 9-max Seat #1 is the button
+Seat 1: Blomski1984 ($55 in chips) 
+Seat 2: JesseGrunn ($21.35 in chips) 
+Seat 3: Alameda22 ($47.70 in chips) 
+Seat 4: puan29 ($25.95 in chips) 
+Seat 5: mettwl ($24.65 in chips) 
+Seat 6: AcedePique ($22.25 in chips) 
+Seat 8: shift4ie ($24.90 in chips) 
+Seat 9: skrzypek ($25.30 in chips) 
+JesseGrunn: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Cross Damon: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Jd]
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: calls $0.15
+Alameda22: checks 
+*** FLOP *** [4c Jc 9h]
+JesseGrunn: checks 
+Alameda22: checks 
+*** TURN *** [4c Jc 9h] [4h]
+JesseGrunn: checks 
+Alameda22: bets $0.25
+JesseGrunn: folds 
+Uncalled bet ($0.25) returned to Alameda22
+Alameda22 collected $0.50 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [4c Jc 9h 4h]
+Seat 1: Blomski1984 (button) folded before Flop (didn't bet)
+Seat 2: JesseGrunn (small blind) folded on the Turn
+Seat 3: Alameda22 (big blind) collected ($0.50)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20100987653:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:04:27 ET
+Table 'Parysatis' 9-max Seat #2 is the button
+Seat 1: Blomski1984 ($55 in chips) 
+Seat 2: JesseGrunn ($21.10 in chips) 
+Seat 3: Alameda22 ($47.95 in chips) 
+Seat 4: puan29 ($25.95 in chips) 
+Seat 5: mettwl ($24.65 in chips) 
+Seat 6: AcedePique ($22.25 in chips) 
+Seat 8: shift4ie ($24.90 in chips) 
+Seat 9: skrzypek ($25.30 in chips) 
+Alameda22: posts small blind $0.10
+puan29: posts big blind $0.25
+Cross Damon: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd As]
+mettwl: folds 
+AcedePique: folds 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: folds 
+Alameda22: raises $1 to $1.25
+puan29: folds 
+Blomski1984: folds 
+Uncalled bet ($1) returned to Alameda22
+Alameda22 collected $0.75 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Blomski1984 folded before Flop
+Seat 2: JesseGrunn (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) collected ($0.75)
+Seat 4: puan29 (big blind) folded before Flop
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101003143:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:05:09 ET
+Table 'Parysatis' 9-max Seat #3 is the button
+Seat 1: Blomski1984 ($54.75 in chips) 
+Seat 2: JesseGrunn ($21.10 in chips) 
+Seat 3: Alameda22 ($48.45 in chips) 
+Seat 4: puan29 ($25.70 in chips) 
+Seat 5: mettwl ($24.65 in chips) 
+Seat 6: AcedePique ($22.25 in chips) 
+Seat 8: shift4ie ($24.90 in chips) 
+Seat 9: skrzypek ($25.30 in chips) 
+puan29: posts small blind $0.10
+mettwl: posts big blind $0.25
+Cross Damon: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 2d]
+AcedePique: folds 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: calls $0.15
+mettwl: checks 
+*** FLOP *** [9h 6d Ac]
+puan29: checks 
+mettwl: checks 
+Blomski1984: checks 
+JesseGrunn: bets $0.25
+puan29: folds 
+mettwl: folds 
+Blomski1984: folds 
+Uncalled bet ($0.25) returned to JesseGrunn
+JesseGrunn collected $0.95 from pot
+JesseGrunn: shows [Ah 8c] (a pair of Aces)
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [9h 6d Ac]
+Seat 1: Blomski1984 folded on the Flop
+Seat 2: JesseGrunn collected ($0.95)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: puan29 (small blind) folded on the Flop
+Seat 5: mettwl (big blind) folded on the Flop
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101040220:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:06:51 ET
+Table 'Parysatis' 9-max Seat #4 is the button
+Seat 1: Blomski1984 ($54.50 in chips) 
+Seat 2: JesseGrunn ($21.80 in chips) 
+Seat 3: Alameda22 ($48.45 in chips) 
+Seat 4: puan29 ($25.45 in chips) 
+Seat 5: mettwl ($24.40 in chips) 
+Seat 6: AcedePique ($22.25 in chips) 
+Seat 8: shift4ie ($24.90 in chips) 
+Seat 9: skrzypek ($25.30 in chips) 
+mettwl: posts small blind $0.10
+AcedePique: posts big blind $0.25
+Cross Damon: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Qh]
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+Blomski1984: calls $0.25
+*** FLOP *** [6s As 4c]
+Blomski1984: checks 
+JesseGrunn: checks 
+*** TURN *** [6s As 4c] [9s]
+Blomski1984: checks 
+JesseGrunn: bets $0.50
+Blomski1984: folds 
+Uncalled bet ($0.50) returned to JesseGrunn
+JesseGrunn collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [6s As 4c 9s]
+Seat 1: Blomski1984 folded on the Turn
+Seat 2: JesseGrunn collected ($1.30)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 (button) folded before Flop (didn't bet)
+Seat 5: mettwl (small blind) folded before Flop
+Seat 6: AcedePique (big blind) folded before Flop
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101063227:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:07:54 ET
+Table 'Parysatis' 9-max Seat #5 is the button
+Seat 1: Blomski1984 ($54 in chips) 
+Seat 2: JesseGrunn ($22.60 in chips) 
+Seat 3: Alameda22 ($48.45 in chips) 
+Seat 4: puan29 ($25.45 in chips) 
+Seat 5: mettwl ($24.30 in chips) 
+Seat 6: AcedePique ($22 in chips) 
+Seat 7: Cross Damon ($5 in chips) 
+Seat 8: shift4ie ($24.90 in chips) 
+Seat 9: skrzypek ($25.30 in chips) 
+AcedePique: posts small blind $0.10
+Cross Damon: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c Kd]
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: calls $0.50
+mettwl: folds 
+AcedePique: folds 
+Cross Damon: folds 
+Blomski1984: calls $0.25
+*** FLOP *** [7s 8c 8h]
+Blomski1984: bets $0.75
+JesseGrunn: calls $0.75
+puan29: raises $2.50 to $3.25
+Blomski1984: calls $2.50
+JesseGrunn: folds 
+*** TURN *** [7s 8c 8h] [4s]
+Blomski1984: bets $2.25
+puan29: raises $5 to $7.25
+Blomski1984: folds 
+Uncalled bet ($5) returned to puan29
+puan29 collected $12.95 from pot
+puan29: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.60 | Rake $0.65 
+Board [7s 8c 8h 4s]
+Seat 1: Blomski1984 folded on the Turn
+Seat 2: JesseGrunn folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 collected ($12.95)
+Seat 5: mettwl (button) folded before Flop (didn't bet)
+Seat 6: AcedePique (small blind) folded before Flop
+Seat 7: Cross Damon (big blind) folded before Flop
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101110170:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:10:00 ET
+Table 'Parysatis' 9-max Seat #6 is the button
+Seat 1: Blomski1984 ($48 in chips) 
+Seat 2: JesseGrunn ($21.35 in chips) 
+Seat 3: Alameda22 ($48.45 in chips) 
+Seat 4: puan29 ($32.40 in chips) 
+Seat 5: mettwl ($24.30 in chips) 
+Seat 6: AcedePique ($21.90 in chips) 
+Seat 7: Cross Damon ($4.75 in chips) 
+Seat 8: shift4ie ($24.90 in chips) 
+Seat 9: skrzypek ($25.30 in chips) 
+Cross Damon: posts small blind $0.10
+shift4ie: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 5h]
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+Cross Damon: calls $0.15
+shift4ie: checks 
+*** FLOP *** [9d 6c 2h]
+Cross Damon: checks 
+shift4ie: bets $0.50
+Blomski1984: folds 
+JesseGrunn: folds 
+Cross Damon: folds 
+Uncalled bet ($0.50) returned to shift4ie
+shift4ie collected $0.95 from pot
+shift4ie: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [9d 6c 2h]
+Seat 1: Blomski1984 folded on the Flop
+Seat 2: JesseGrunn folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique (button) folded before Flop (didn't bet)
+Seat 7: Cross Damon (small blind) folded on the Flop
+Seat 8: shift4ie (big blind) collected ($0.95)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101137314:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:11:15 ET
+Table 'Parysatis' 9-max Seat #7 is the button
+Seat 1: Blomski1984 ($47.75 in chips) 
+Seat 2: JesseGrunn ($21.10 in chips) 
+Seat 3: Alameda22 ($48.45 in chips) 
+Seat 4: puan29 ($32.40 in chips) 
+Seat 5: mettwl ($24.30 in chips) 
+Seat 6: AcedePique ($21.90 in chips) 
+Seat 7: Cross Damon ($4.50 in chips) 
+Seat 8: shift4ie ($25.60 in chips) 
+Seat 9: skrzypek ($25.30 in chips) 
+shift4ie: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 9h]
+Blomski1984: folds 
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+Cross Damon: folds 
+shift4ie: folds 
+skrzypek: folds 
+Uncalled bet ($0.25) returned to JesseGrunn
+JesseGrunn collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn collected ($0.60)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: Cross Damon (button) folded before Flop (didn't bet)
+Seat 8: shift4ie (small blind) folded before Flop
+Seat 9: skrzypek (big blind) folded before Flop
+
+
+
+PokerStars Game #20101156440:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:12:07 ET
+Table 'Parysatis' 9-max Seat #8 is the button
+Seat 1: Blomski1984 ($47.75 in chips) 
+Seat 2: JesseGrunn ($21.45 in chips) 
+Seat 3: Alameda22 ($48.45 in chips) 
+Seat 4: puan29 ($32.40 in chips) 
+Seat 5: mettwl ($24.30 in chips) 
+Seat 6: AcedePique ($21.90 in chips) 
+Seat 7: Cross Damon ($4.50 in chips) 
+Seat 8: shift4ie ($25.50 in chips) 
+Seat 9: skrzypek ($25.05 in chips) 
+skrzypek: posts small blind $0.10
+Blomski1984: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 9d]
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+Cross Damon: folds 
+shift4ie: folds 
+skrzypek: folds 
+Uncalled bet ($0.15) returned to Blomski1984
+Blomski1984 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Blomski1984 (big blind) collected ($0.20)
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: Cross Damon folded before Flop (didn't bet)
+Seat 8: shift4ie (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20101167741:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:12:38 ET
+Table 'Parysatis' 9-max Seat #9 is the button
+Seat 1: Blomski1984 ($47.85 in chips) 
+Seat 2: JesseGrunn ($21.45 in chips) 
+Seat 3: Alameda22 ($48.45 in chips) 
+Seat 4: puan29 ($32.40 in chips) 
+Seat 5: mettwl ($24.30 in chips) 
+Seat 6: AcedePique ($21.90 in chips) 
+Seat 7: Cross Damon ($4.50 in chips) 
+Seat 8: shift4ie ($25.50 in chips) 
+Seat 9: skrzypek ($24.95 in chips) 
+Blomski1984: posts small blind $0.10
+JesseGrunn: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Td]
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+Cross Damon: folds 
+shift4ie: folds 
+skrzypek: folds 
+Blomski1984: calls $0.15
+JesseGrunn: checks 
+*** FLOP *** [Ac 8s Qh]
+Blomski1984: bets $0.25
+JesseGrunn: folds 
+Uncalled bet ($0.25) returned to Blomski1984
+Blomski1984 collected $0.50 from pot
+Blomski1984: shows [Kc Jd] (high card Ace)
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Ac 8s Qh]
+Seat 1: Blomski1984 (small blind) collected ($0.50)
+Seat 2: JesseGrunn (big blind) folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: Cross Damon folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101185560:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:13:28 ET
+Table 'Parysatis' 9-max Seat #1 is the button
+Seat 1: Blomski1984 ($48.10 in chips) 
+Seat 2: JesseGrunn ($21.20 in chips) 
+Seat 3: Alameda22 ($48.45 in chips) 
+Seat 4: puan29 ($32.40 in chips) 
+Seat 5: mettwl ($24.30 in chips) 
+Seat 6: AcedePique ($21.90 in chips) 
+Seat 7: Cross Damon ($4.50 in chips) 
+Seat 8: shift4ie ($25.50 in chips) 
+Seat 9: skrzypek ($24.95 in chips) 
+JesseGrunn: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 3d]
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+Cross Damon: folds 
+shift4ie: folds 
+shift4ie leaves the table
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: calls $0.15
+Alameda22: checks 
+*** FLOP *** [8c 6c 5h]
+kernez joins the table at seat #8 
+JesseGrunn: bets $0.25
+Alameda22: folds 
+Blomski1984: calls $0.25
+*** TURN *** [8c 6c 5h] [Ac]
+JesseGrunn: bets $0.50
+Blomski1984: folds 
+Uncalled bet ($0.50) returned to JesseGrunn
+JesseGrunn collected $1.20 from pot
+JesseGrunn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [8c 6c 5h Ac]
+Seat 1: Blomski1984 (button) folded on the Turn
+Seat 2: JesseGrunn (small blind) collected ($1.20)
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: Cross Damon folded before Flop (didn't bet)
+Seat 8: shift4ie folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101219987:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:15:04 ET
+Table 'Parysatis' 9-max Seat #2 is the button
+Seat 1: Blomski1984 ($47.60 in chips) 
+Seat 2: JesseGrunn ($21.90 in chips) 
+Seat 3: Alameda22 ($48.20 in chips) 
+Seat 4: puan29 ($32.40 in chips) 
+Seat 5: mettwl ($24.30 in chips) 
+Seat 6: AcedePique ($21.90 in chips) 
+Seat 7: Cross Damon ($4.50 in chips) 
+Seat 9: skrzypek ($24.95 in chips) 
+Alameda22: posts small blind $0.10
+puan29: posts big blind $0.25
+kernez: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Js]
+mettwl: folds 
+AcedePique: folds 
+Cross Damon: folds 
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: folds 
+Uncalled bet ($0.25) returned to JesseGrunn
+JesseGrunn collected $0.60 from pot
+JesseGrunn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn (button) collected ($0.60)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: puan29 (big blind) folded before Flop
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: Cross Damon folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101235769:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:15:48 ET
+Table 'Parysatis' 9-max Seat #3 is the button
+Seat 1: Blomski1984 ($47.60 in chips) 
+Seat 2: JesseGrunn ($22.25 in chips) 
+Seat 3: Alameda22 ($48.10 in chips) 
+Seat 4: puan29 ($32.15 in chips) 
+Seat 5: mettwl ($24.30 in chips) 
+Seat 6: AcedePique ($21.90 in chips) 
+Seat 7: Cross Damon ($4.50 in chips) 
+Seat 9: skrzypek ($24.95 in chips) 
+puan29: posts small blind $0.10
+mettwl: posts big blind $0.25
+kernez: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 7c]
+AcedePique: folds 
+AcedePique is sitting out
+Cross Damon: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+Blomski1984: calls $0.25
+*** FLOP *** [5d Ks 3d]
+Blomski1984: checks 
+JesseGrunn: bets $0.50
+Blomski1984: calls $0.50
+*** TURN *** [5d Ks 3d] [Qs]
+Blomski1984: checks 
+JesseGrunn: bets $0.50
+Blomski1984: calls $0.50
+*** RIVER *** [5d Ks 3d Qs] [Qc]
+Blomski1984: checks 
+JesseGrunn: bets $1
+Blomski1984: raises $1 to $2
+JesseGrunn: folds 
+Uncalled bet ($1) returned to Blomski1984
+Blomski1984 collected $5.10 from pot
+Blomski1984: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [5d Ks 3d Qs Qc]
+Seat 1: Blomski1984 collected ($5.10)
+Seat 2: JesseGrunn folded on the River
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: puan29 (small blind) folded before Flop
+Seat 5: mettwl (big blind) folded before Flop
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: Cross Damon folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101271957:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:17:29 ET
+Table 'Parysatis' 9-max Seat #4 is the button
+Seat 1: Blomski1984 ($50.20 in chips) 
+Seat 2: JesseGrunn ($19.75 in chips) 
+Seat 3: Alameda22 ($48.10 in chips) 
+Seat 4: puan29 ($32.05 in chips) 
+Seat 5: mettwl ($24.05 in chips) 
+Seat 7: Cross Damon ($4.50 in chips) 
+Seat 9: skrzypek ($24.95 in chips) 
+mettwl: posts small blind $0.10
+Cross Damon: posts big blind $0.25
+kernez: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 7s]
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: calls $0.25
+mettwl: calls $0.15
+Cross Damon: checks 
+*** FLOP *** [5c Jh 9h]
+mettwl: checks 
+Cross Damon: checks 
+Blomski1984: bets $0.25
+puan29: folds 
+mettwl: calls $0.25
+Cross Damon: folds 
+*** TURN *** [5c Jh 9h] [Jc]
+mettwl: checks 
+Blomski1984: bets $0.25
+mettwl: calls $0.25
+*** RIVER *** [5c Jh 9h Jc] [As]
+mettwl: checks 
+Blomski1984: checks 
+*** SHOW DOWN ***
+mettwl: shows [Kh Jd] (three of a kind, Jacks)
+Blomski1984: mucks hand 
+mettwl collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.05 
+Board [5c Jh 9h Jc As]
+Seat 1: Blomski1984 mucked [5s 6c]
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 (button) folded on the Flop
+Seat 5: mettwl (small blind) showed [Kh Jd] and won ($1.95) with three of a kind, Jacks
+Seat 7: Cross Damon (big blind) folded on the Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101300324:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:18:49 ET
+Table 'Parysatis' 9-max Seat #5 is the button
+Seat 1: Blomski1984 ($49.45 in chips) 
+Seat 2: JesseGrunn ($19.75 in chips) 
+Seat 3: Alameda22 ($48.10 in chips) 
+Seat 4: puan29 ($31.80 in chips) 
+Seat 5: mettwl ($25.25 in chips) 
+Seat 7: Cross Damon ($4.25 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($24.95 in chips) 
+Cross Damon: posts small blind $0.10
+kernez: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 2c]
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+Cross Damon: folds 
+kernez: folds 
+Blomski1984: calls $0.25
+*** FLOP *** [Kd 9h Tc]
+Blomski1984: bets $0.75
+JesseGrunn: raises $2.25 to $3
+Blomski1984: folds 
+Uncalled bet ($2.25) returned to JesseGrunn
+JesseGrunn collected $2.75 from pot
+JesseGrunn: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [Kd 9h Tc]
+Seat 1: Blomski1984 folded on the Flop
+Seat 2: JesseGrunn collected ($2.75)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl (button) folded before Flop (didn't bet)
+Seat 7: Cross Damon (small blind) folded before Flop
+Seat 8: kernez (big blind) folded before Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101335486:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:20:25 ET
+Table 'Parysatis' 9-max Seat #7 is the button
+Seat 1: Blomski1984 ($48.20 in chips) 
+Seat 2: JesseGrunn ($21.25 in chips) 
+Seat 3: Alameda22 ($48.10 in chips) 
+Seat 4: puan29 ($31.80 in chips) 
+Seat 5: mettwl ($25.25 in chips) 
+Seat 7: Cross Damon ($4.15 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($24.95 in chips) 
+kernez: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 6d]
+Blomski1984: calls $0.25
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+Cross Damon: folds 
+kernez: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+*** FLOP *** [7d 4h 5d]
+Blomski1984: checks 
+JesseGrunn: bets $1
+Blomski1984: folds 
+Uncalled bet ($1) returned to JesseGrunn
+JesseGrunn collected $1.30 from pot
+JesseGrunn: shows [5h Kh] (a pair of Fives)
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [7d 4h 5d]
+Seat 1: Blomski1984 folded on the Flop
+Seat 2: JesseGrunn collected ($1.30)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 7: Cross Damon (button) folded before Flop (didn't bet)
+Seat 8: kernez (small blind) folded before Flop
+Seat 9: skrzypek (big blind) folded before Flop
+
+
+
+PokerStars Game #20101357955:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:21:27 ET
+Table 'Parysatis' 9-max Seat #8 is the button
+Seat 1: Blomski1984 ($47.70 in chips) 
+Seat 2: JesseGrunn ($22.05 in chips) 
+Seat 3: Alameda22 ($48.10 in chips) 
+Seat 4: puan29 ($31.80 in chips) 
+Seat 5: mettwl ($25.25 in chips) 
+Seat 7: Cross Damon ($4.15 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($24.70 in chips) 
+skrzypek: posts small blind $0.10
+Blomski1984: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 3c]
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: raises $0.75 to $1.25
+mettwl: folds 
+Cross Damon: folds 
+kernez: folds 
+skrzypek: folds 
+Blomski1984: calls $1
+JesseGrunn: raises $0.75 to $2
+puan29: calls $0.75
+Blomski1984: calls $0.75
+*** FLOP *** [9h Th 7c]
+Blomski1984: checks 
+JesseGrunn: bets $2
+puan29: calls $2
+Blomski1984: folds 
+*** TURN *** [9h Th 7c] [8c]
+JesseGrunn: bets $2
+puan29: raises $5 to $7
+JesseGrunn: calls $5
+*** RIVER *** [9h Th 7c 8c] [Kc]
+JesseGrunn: checks 
+puan29: checks 
+*** SHOW DOWN ***
+JesseGrunn: shows [Js Jd] (a straight, Seven to Jack)
+puan29: mucks hand 
+JesseGrunn collected $22.95 from pot
+AcedePique has returned
+*** SUMMARY ***
+Total pot $24.10 | Rake $1.15 
+Board [9h Th 7c 8c Kc]
+Seat 1: Blomski1984 (big blind) folded on the Flop
+Seat 2: JesseGrunn showed [Js Jd] and won ($22.95) with a straight, Seven to Jack
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 mucked [Qs Ks]
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 7: Cross Damon folded before Flop (didn't bet)
+Seat 8: kernez (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20101390077:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:22:55 ET
+Table 'Parysatis' 9-max Seat #9 is the button
+Seat 1: Blomski1984 ($45.70 in chips) 
+Seat 2: JesseGrunn ($34 in chips) 
+Seat 3: Alameda22 ($48.10 in chips) 
+Seat 4: puan29 ($20.80 in chips) 
+Seat 5: mettwl ($25.25 in chips) 
+Seat 6: AcedePique ($21.90 in chips) 
+Seat 7: Cross Damon ($4.15 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($24.60 in chips) 
+Blomski1984: posts small blind $0.10
+JesseGrunn: posts big blind $0.25
+AcedePique: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Kd]
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: checks 
+Cross Damon: folds 
+kernez: folds 
+skrzypek: folds 
+Blomski1984: calls $0.15
+JesseGrunn: raises $0.25 to $0.50
+AcedePique: calls $0.25
+Blomski1984: calls $0.25
+*** FLOP *** [4s 2s 4c]
+Blomski1984: bets $0.25
+JesseGrunn: calls $0.25
+AcedePique: calls $0.25
+*** TURN *** [4s 2s 4c] [Jc]
+Blomski1984: checks 
+JesseGrunn: checks 
+AcedePique: bets $1
+Blomski1984: folds 
+JesseGrunn: folds 
+Uncalled bet ($1) returned to AcedePique
+AcedePique collected $2.25 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [4s 2s 4c Jc]
+Seat 1: Blomski1984 (small blind) folded on the Turn
+Seat 2: JesseGrunn (big blind) folded on the Turn
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique collected ($2.25)
+Seat 7: Cross Damon folded before Flop (didn't bet)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101411534:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:23:53 ET
+Table 'Parysatis' 9-max Seat #1 is the button
+Seat 1: Blomski1984 ($44.95 in chips) 
+Seat 2: JesseGrunn ($33.25 in chips) 
+Seat 3: Alameda22 ($48.10 in chips) 
+Seat 4: puan29 ($20.80 in chips) 
+Seat 5: mettwl ($25.25 in chips) 
+Seat 6: AcedePique ($23.30 in chips) 
+Seat 7: Cross Damon ($4.15 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($24.60 in chips) 
+JesseGrunn: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 2s]
+puan29: folds 
+mettwl: raises $0.25 to $0.50
+AcedePique: folds 
+Cross Damon: folds 
+kernez: folds 
+skrzypek: folds 
+Blomski1984: calls $0.50
+JesseGrunn: folds 
+Alameda22: calls $0.25
+*** FLOP *** [9h 8h 6s]
+Alameda22: checks 
+mettwl: checks 
+Blomski1984: bets $0.50
+Alameda22: folds 
+mettwl: folds 
+Uncalled bet ($0.50) returned to Blomski1984
+Blomski1984 collected $1.55 from pot
+Blomski1984: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [9h 8h 6s]
+Seat 1: Blomski1984 (button) collected ($1.55)
+Seat 2: JesseGrunn (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded on the Flop
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: Cross Damon folded before Flop (didn't bet)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101434315:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:24:55 ET
+Table 'Parysatis' 9-max Seat #2 is the button
+Seat 1: Blomski1984 ($46 in chips) 
+Seat 2: JesseGrunn ($33.15 in chips) 
+Seat 3: Alameda22 ($47.60 in chips) 
+Seat 4: puan29 ($20.80 in chips) 
+Seat 5: mettwl ($24.75 in chips) 
+Seat 6: AcedePique ($23.30 in chips) 
+Seat 7: Cross Damon ($4.15 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($24.60 in chips) 
+Alameda22: posts small blind $0.10
+puan29: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 7c]
+mettwl: folds 
+AcedePique: folds 
+Cross Damon: folds 
+kernez: folds 
+skrzypek: folds 
+Blomski1984 is disconnected 
+Blomski1984 is connected 
+Blomski1984: calls $0.25
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: checks 
+*** FLOP *** [Ts 5s 9h]
+puan29: checks 
+Blomski1984: bets $0.25
+puan29: raises $0.25 to $0.50
+Blomski1984: calls $0.25
+*** TURN *** [Ts 5s 9h] [Ah]
+puan29: checks 
+Blomski1984: bets $0.25
+puan29: calls $0.25
+*** RIVER *** [Ts 5s 9h Ah] [Ks]
+puan29: checks 
+Blomski1984: bets $1.50
+puan29: raises $1.50 to $3
+Blomski1984: calls $1.50
+*** SHOW DOWN ***
+puan29: shows [2s 3s] (a flush, King high)
+Blomski1984: shows [Ad Ac] (three of a kind, Aces)
+puan29 collected $7.70 from pot
+*** SUMMARY ***
+Total pot $8.10 | Rake $0.40 
+Board [Ts 5s 9h Ah Ks]
+Seat 1: Blomski1984 showed [Ad Ac] and lost with three of a kind, Aces
+Seat 2: JesseGrunn (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: puan29 (big blind) showed [2s 3s] and won ($7.70) with a flush, King high
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: Cross Damon folded before Flop (didn't bet)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101465977:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:26:22 ET
+Table 'Parysatis' 9-max Seat #3 is the button
+Seat 1: Blomski1984 ($42 in chips) 
+Seat 2: JesseGrunn ($33.15 in chips) 
+Seat 3: Alameda22 ($47.50 in chips) 
+Seat 4: puan29 ($24.50 in chips) 
+Seat 5: mettwl ($24.75 in chips) 
+Seat 6: AcedePique ($23.30 in chips) 
+Seat 7: Cross Damon ($4.15 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($24.60 in chips) 
+puan29: posts small blind $0.10
+mettwl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 8h]
+AcedePique: raises $0.75 to $1
+Cross Damon: folds 
+kernez: folds 
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: calls $1
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+*** FLOP *** [7h Ks 5s]
+AcedePique: checks 
+JesseGrunn: checks 
+*** TURN *** [7h Ks 5s] [4s]
+AcedePique: checks 
+JesseGrunn: checks 
+*** RIVER *** [7h Ks 5s 4s] [2s]
+AcedePique: checks 
+JesseGrunn: bets $1
+AcedePique: raises $1 to $2
+JesseGrunn: calls $1
+*** SHOW DOWN ***
+AcedePique: shows [As Qh] (a flush, Ace high)
+JesseGrunn: mucks hand 
+AcedePique collected $6.05 from pot
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.30 
+Board [7h Ks 5s 4s 2s]
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn mucked [Js Qc]
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: puan29 (small blind) folded before Flop
+Seat 5: mettwl (big blind) folded before Flop
+Seat 6: AcedePique showed [As Qh] and won ($6.05) with a flush, Ace high
+Seat 7: Cross Damon folded before Flop (didn't bet)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101504736:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:28:08 ET
+Table 'Parysatis' 9-max Seat #4 is the button
+Seat 1: Blomski1984 ($42 in chips) 
+Seat 2: JesseGrunn ($30.15 in chips) 
+Seat 3: Alameda22 ($47.50 in chips) 
+Seat 4: puan29 ($24.40 in chips) 
+Seat 5: mettwl ($24.50 in chips) 
+Seat 6: AcedePique ($26.35 in chips) 
+Seat 7: Cross Damon ($4.15 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($24.60 in chips) 
+mettwl: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 8s]
+Cross Damon: folds 
+kernez: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: raises $0.75 to $1
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+Blomski1984: calls $0.75
+*** FLOP *** [9c Td Jh]
+Blomski1984: bets $0.75
+JesseGrunn: folds 
+Uncalled bet ($0.75) returned to Blomski1984
+Blomski1984 collected $2.25 from pot
+Blomski1984: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [9c Td Jh]
+Seat 1: Blomski1984 collected ($2.25)
+Seat 2: JesseGrunn folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 (button) folded before Flop (didn't bet)
+Seat 5: mettwl (small blind) folded before Flop
+Seat 6: AcedePique (big blind) folded before Flop
+Seat 7: Cross Damon folded before Flop (didn't bet)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101532581:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:29:26 ET
+Table 'Parysatis' 9-max Seat #5 is the button
+Seat 1: Blomski1984 ($43.25 in chips) 
+Seat 2: JesseGrunn ($29.15 in chips) 
+Seat 3: Alameda22 ($47.50 in chips) 
+Seat 4: puan29 ($24.40 in chips) 
+Seat 5: mettwl ($24.40 in chips) 
+Seat 6: AcedePique ($26.10 in chips) 
+Seat 7: Cross Damon ($4.15 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($24.60 in chips) 
+AcedePique: posts small blind $0.10
+Cross Damon: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Tc]
+kernez: folds 
+skrzypek: calls $0.25
+Blomski1984: calls $0.25
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: folds 
+mettwl: calls $0.25
+AcedePique: folds 
+Cross Damon: checks 
+*** FLOP *** [5c Kd Td]
+Cross Damon: checks 
+skrzypek: checks 
+Blomski1984: checks 
+JesseGrunn: checks 
+mettwl: bets $0.75
+Cross Damon: calls $0.75
+skrzypek: calls $0.75
+Blomski1984: folds 
+JesseGrunn: folds 
+*** TURN *** [5c Kd Td] [6d]
+Cross Damon: bets $1.50
+skrzypek: folds 
+mettwl: calls $1.50
+*** RIVER *** [5c Kd Td 6d] [9d]
+Cross Damon: bets $1.65 and is all-in
+mettwl: folds 
+Uncalled bet ($1.65) returned to Cross Damon
+Cross Damon collected $6.30 from pot
+*** SUMMARY ***
+Total pot $6.60 | Rake $0.30 
+Board [5c Kd Td 6d 9d]
+Seat 1: Blomski1984 folded on the Flop
+Seat 2: JesseGrunn folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl (button) folded on the River
+Seat 6: AcedePique (small blind) folded before Flop
+Seat 7: Cross Damon (big blind) collected ($6.30)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek folded on the Turn
+
+
+
+PokerStars Game #20101560875:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:30:43 ET
+Table 'Parysatis' 9-max Seat #6 is the button
+Seat 1: Blomski1984 ($43 in chips) 
+Seat 2: JesseGrunn ($28.90 in chips) 
+Seat 3: Alameda22 ($47.50 in chips) 
+Seat 4: puan29 ($24.40 in chips) 
+Seat 5: mettwl ($21.90 in chips) 
+Seat 6: AcedePique ($26 in chips) 
+Seat 7: Cross Damon ($7.95 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($23.60 in chips) 
+Cross Damon: posts small blind $0.10
+kernez: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Jh]
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn has timed out
+JesseGrunn: folds 
+JesseGrunn is sitting out
+JesseGrunn has returned
+Alameda22: folds 
+puan29: folds 
+mettwl: calls $0.25
+AcedePique: folds 
+Cross Damon: calls $0.15
+kernez: checks 
+*** FLOP *** [4h 7c 9h]
+Cross Damon: checks 
+kernez: checks 
+Blomski1984: bets $0.25
+mettwl: folds 
+Cross Damon: folds 
+kernez: folds 
+Uncalled bet ($0.25) returned to Blomski1984
+Blomski1984 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [4h 7c 9h]
+Seat 1: Blomski1984 collected ($0.95)
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded on the Flop
+Seat 6: AcedePique (button) folded before Flop (didn't bet)
+Seat 7: Cross Damon (small blind) folded on the Flop
+Seat 8: kernez (big blind) folded on the Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101611587:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:32:59 ET
+Table 'Parysatis' 9-max Seat #7 is the button
+Seat 1: Blomski1984 ($43.70 in chips) 
+Seat 2: JesseGrunn ($28.90 in chips) 
+Seat 3: Alameda22 ($47.50 in chips) 
+Seat 4: puan29 ($24.40 in chips) 
+Seat 5: mettwl ($24.75 in chips) 
+Seat 6: AcedePique ($26 in chips) 
+Seat 7: Cross Damon ($7.70 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($23.60 in chips) 
+kernez: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 5d]
+Blomski1984: raises $0.25 to $0.50
+JesseGrunn: calls $0.50
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: calls $0.50
+Cross Damon: folds 
+kernez: folds 
+skrzypek: folds 
+*** FLOP *** [7c 2c 8d]
+Blomski1984: checks 
+JesseGrunn: checks 
+AcedePique: checks 
+*** TURN *** [7c 2c 8d] [6s]
+Blomski1984: bets $1
+JesseGrunn: folds 
+AcedePique: calls $1
+*** RIVER *** [7c 2c 8d 6s] [2h]
+Blomski1984: bets $4
+AcedePique: calls $4
+*** SHOW DOWN ***
+Blomski1984: shows [Qd Ks] (a pair of Deuces)
+AcedePique: shows [6h 6d] (a full house, Sixes full of Deuces)
+AcedePique collected $11.30 from pot
+*** SUMMARY ***
+Total pot $11.85 | Rake $0.55 
+Board [7c 2c 8d 6s 2h]
+Seat 1: Blomski1984 showed [Qd Ks] and lost with a pair of Deuces
+Seat 2: JesseGrunn folded on the Turn
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique showed [6h 6d] and won ($11.30) with a full house, Sixes full of Deuces
+Seat 7: Cross Damon (button) folded before Flop (didn't bet)
+Seat 8: kernez (small blind) folded before Flop
+Seat 9: skrzypek (big blind) folded before Flop
+
+
+
+PokerStars Game #20101652974:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:34:52 ET
+Table 'Parysatis' 9-max Seat #8 is the button
+Seat 1: Blomski1984 ($38.20 in chips) 
+Seat 2: JesseGrunn ($28.40 in chips) 
+Seat 3: Alameda22 ($47.50 in chips) 
+Seat 4: puan29 ($24.40 in chips) 
+Seat 5: mettwl ($24.75 in chips) 
+Seat 6: AcedePique ($31.80 in chips) 
+Seat 7: Cross Damon ($7.70 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($23.35 in chips) 
+skrzypek: posts small blind $0.10
+Blomski1984: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 2c]
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: raises $0.75 to $1
+mettwl: folds 
+AcedePique: folds 
+Cross Damon: folds 
+kernez: folds 
+skrzypek: folds 
+Blomski1984: calls $0.75
+*** FLOP *** [5s Th Ts]
+Blomski1984: checks 
+puan29: checks 
+*** TURN *** [5s Th Ts] [7c]
+Blomski1984: bets $0.50
+puan29: folds 
+Uncalled bet ($0.50) returned to Blomski1984
+Blomski1984 collected $2 from pot
+Blomski1984: shows [Kd Tc] (three of a kind, Tens)
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [5s Th Ts 7c]
+Seat 1: Blomski1984 (big blind) collected ($2)
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded on the Turn
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: Cross Damon folded before Flop (didn't bet)
+Seat 8: kernez (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded before Flop
+
+
+
+PokerStars Game #20101675565:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:35:54 ET
+Table 'Parysatis' 9-max Seat #9 is the button
+Seat 1: Blomski1984 ($39.20 in chips) 
+Seat 2: JesseGrunn ($28.40 in chips) 
+Seat 3: Alameda22 ($47.50 in chips) 
+Seat 4: puan29 ($23.40 in chips) 
+Seat 5: mettwl ($24.75 in chips) 
+Seat 6: AcedePique ($31.80 in chips) 
+Seat 7: Cross Damon ($7.70 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($23.25 in chips) 
+Blomski1984: posts small blind $0.10
+JesseGrunn: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 8c]
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+Cross Damon: raises $0.75 to $1
+kernez: folds 
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: folds 
+Uncalled bet ($0.75) returned to Cross Damon
+Cross Damon collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Blomski1984 (small blind) folded before Flop
+Seat 2: JesseGrunn (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: Cross Damon collected ($0.60)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101692875:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:36:41 ET
+Table 'Parysatis' 9-max Seat #1 is the button
+Seat 1: Blomski1984 ($39.10 in chips) 
+Seat 2: JesseGrunn ($28.15 in chips) 
+Seat 3: Alameda22 ($47.50 in chips) 
+Seat 4: puan29 ($23.40 in chips) 
+Seat 5: mettwl ($24.75 in chips) 
+Seat 6: AcedePique ($31.80 in chips) 
+Seat 7: Cross Damon ($8.05 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($23.25 in chips) 
+JesseGrunn: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Qc]
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+Cross Damon: folds 
+kernez: folds 
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: calls $0.15
+Alameda22: raises $1 to $1.25
+JesseGrunn: calls $1
+*** FLOP *** [Ad 2d Kh]
+JesseGrunn: checks 
+Alameda22: checks 
+*** TURN *** [Ad 2d Kh] [5c]
+JesseGrunn: checks 
+Alameda22: checks 
+*** RIVER *** [Ad 2d Kh 5c] [Jd]
+Cross Damon is sitting out
+JesseGrunn: checks 
+Alameda22: checks 
+*** SHOW DOWN ***
+JesseGrunn: shows [Jh 8h] (a pair of Jacks)
+Alameda22: shows [Qd Qc] (a pair of Queens)
+Alameda22 collected $2.40 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Ad 2d Kh 5c Jd]
+Seat 1: Blomski1984 (button) folded before Flop (didn't bet)
+Seat 2: JesseGrunn (small blind) showed [Jh 8h] and lost with a pair of Jacks
+Seat 3: Alameda22 (big blind) showed [Qd Qc] and won ($2.40) with a pair of Queens
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: Cross Damon folded before Flop (didn't bet)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101720391:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:37:57 ET
+Table 'Parysatis' 9-max Seat #2 is the button
+Seat 1: Blomski1984 ($39.10 in chips) 
+Seat 2: JesseGrunn ($26.90 in chips) 
+Seat 3: Alameda22 ($48.65 in chips) 
+Seat 4: puan29 ($23.40 in chips) 
+Seat 5: mettwl ($24.75 in chips) 
+Seat 6: AcedePique ($31.80 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($23.25 in chips) 
+Alameda22: posts small blind $0.10
+puan29: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 6c]
+mettwl: folds 
+AcedePique: folds 
+kernez: folds 
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: folds 
+Uncalled bet ($0.25) returned to JesseGrunn
+JesseGrunn collected $0.60 from pot
+JesseGrunn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn (button) collected ($0.60)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: puan29 (big blind) folded before Flop
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101735711:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:38:39 ET
+Table 'Parysatis' 9-max Seat #3 is the button
+Seat 1: Blomski1984 ($39.10 in chips) 
+Seat 2: JesseGrunn ($27.25 in chips) 
+Seat 3: Alameda22 ($48.55 in chips) 
+Seat 4: puan29 ($23.15 in chips) 
+Seat 5: mettwl ($24.75 in chips) 
+Seat 6: AcedePique ($31.80 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($23.25 in chips) 
+puan29: posts small blind $0.10
+mettwl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 7h]
+AcedePique: folds 
+kernez: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: folds 
+mettwl: checks 
+*** FLOP *** [2d Ts 4d]
+Cross Damon has returned
+mettwl: checks 
+Blomski1984: bets $0.25
+JesseGrunn: calls $0.25
+mettwl: folds 
+*** TURN *** [2d Ts 4d] [Jd]
+Blomski1984: bets $0.50
+JesseGrunn: calls $0.50
+*** RIVER *** [2d Ts 4d Jd] [Kd]
+Blomski1984: bets $1.50
+JesseGrunn: calls $1.50
+*** SHOW DOWN ***
+Blomski1984: shows [3d 4h] (a flush, King high)
+JesseGrunn: shows [9d 8s] (a flush, King high - Nine higher)
+JesseGrunn collected $5.10 from pot
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [2d Ts 4d Jd Kd]
+Seat 1: Blomski1984 showed [3d 4h] and lost with a flush, King high
+Seat 2: JesseGrunn showed [9d 8s] and won ($5.10) with a flush, King high
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: puan29 (small blind) folded before Flop
+Seat 5: mettwl (big blind) folded on the Flop
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101767954:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:40:06 ET
+Table 'Parysatis' 9-max Seat #4 is the button
+Seat 1: Blomski1984 ($36.60 in chips) 
+Seat 2: JesseGrunn ($29.85 in chips) 
+Seat 3: Alameda22 ($48.55 in chips) 
+Seat 4: puan29 ($23.05 in chips) 
+Seat 5: mettwl ($24.50 in chips) 
+Seat 6: AcedePique ($31.80 in chips) 
+Seat 7: Cross Damon ($8.05 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($23.25 in chips) 
+mettwl: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 6h]
+Cross Damon: folds 
+kernez: folds 
+skrzypek: folds 
+Blomski1984: raises $0.25 to $0.50
+JesseGrunn: calls $0.50
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: calls $0.25
+*** FLOP *** [5s 8s 9s]
+AcedePique: checks 
+Blomski1984: bets $0.25
+JesseGrunn: calls $0.25
+AcedePique: calls $0.25
+*** TURN *** [5s 8s 9s] [Ac]
+AcedePique: checks 
+Blomski1984: bets $0.50
+JesseGrunn: folds 
+AcedePique: folds 
+Uncalled bet ($0.50) returned to Blomski1984
+Blomski1984 collected $2.25 from pot
+Blomski1984: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [5s 8s 9s Ac]
+Seat 1: Blomski1984 collected ($2.25)
+Seat 2: JesseGrunn folded on the Turn
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 (button) folded before Flop (didn't bet)
+Seat 5: mettwl (small blind) folded before Flop
+Seat 6: AcedePique (big blind) folded on the Turn
+Seat 7: Cross Damon folded before Flop (didn't bet)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101800312:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:41:34 ET
+Table 'Parysatis' 9-max Seat #5 is the button
+Seat 1: Blomski1984 ($38.10 in chips) 
+Seat 2: JesseGrunn ($29.10 in chips) 
+Seat 3: Alameda22 ($48.55 in chips) 
+Seat 4: puan29 ($23.05 in chips) 
+Seat 5: mettwl ($24.40 in chips) 
+Seat 6: AcedePique ($31.05 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($23.25 in chips) 
+AcedePique: posts small blind $0.10
+Cross Damon: is sitting out 
+kernez: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Ah]
+Cross Damon leaves the table
+skrzypek: raises $1.50 to $1.75
+extrachill joins the table at seat #7 
+Blomski1984: folds 
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+kernez: folds 
+Uncalled bet ($1.50) returned to skrzypek
+skrzypek collected $0.60 from pot
+skrzypek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl (button) folded before Flop (didn't bet)
+Seat 6: AcedePique (small blind) folded before Flop
+Seat 8: kernez (big blind) folded before Flop
+Seat 9: skrzypek collected ($0.60)
+
+
+
+PokerStars Game #20101820368:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:42:29 ET
+Table 'Parysatis' 9-max Seat #6 is the button
+Seat 1: Blomski1984 ($38.10 in chips) 
+Seat 2: JesseGrunn ($29.10 in chips) 
+Seat 3: Alameda22 ($48.55 in chips) 
+Seat 4: puan29 ($23.05 in chips) 
+Seat 5: mettwl ($24.40 in chips) 
+Seat 6: AcedePique ($30.95 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($23.60 in chips) 
+extrachill will be allowed to play after the button
+kernez: posts small blind $0.10
+skrzypek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Qc]
+Blomski1984: calls $0.25
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+kernez: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+*** FLOP *** [Kd Kc 2d]
+Blomski1984: checks 
+JesseGrunn: bets $0.50
+Blomski1984: raises $0.50 to $1
+JesseGrunn: calls $0.50
+*** TURN *** [Kd Kc 2d] [Qd]
+Blomski1984: bets $2
+JesseGrunn: raises $2 to $4
+Blomski1984: raises $32.60 to $36.60 and is all-in
+JesseGrunn: folds 
+Uncalled bet ($32.60) returned to Blomski1984
+Blomski1984 collected $10.80 from pot
+Blomski1984: shows [As Kh] (three of a kind, Kings)
+*** SUMMARY ***
+Total pot $11.35 | Rake $0.55 
+Board [Kd Kc 2d Qd]
+Seat 1: Blomski1984 collected ($10.80)
+Seat 2: JesseGrunn folded on the Turn
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique (button) folded before Flop (didn't bet)
+Seat 8: kernez (small blind) folded before Flop
+Seat 9: skrzypek (big blind) folded before Flop
+
+
+
+PokerStars Game #20101855179:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:44:04 ET
+Table 'Parysatis' 9-max Seat #8 is the button
+Seat 1: Blomski1984 ($43.40 in chips) 
+Seat 2: JesseGrunn ($23.60 in chips) 
+Seat 3: Alameda22 ($48.55 in chips) 
+Seat 4: puan29 ($23.05 in chips) 
+Seat 5: mettwl ($24.40 in chips) 
+Seat 6: AcedePique ($30.95 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($23.35 in chips) 
+skrzypek: posts small blind $0.10
+Blomski1984: posts big blind $0.25
+extrachill: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 4c]
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+kernez: folds 
+skrzypek: calls $0.15
+Blomski1984: checks 
+*** FLOP *** [2c Ah 5h]
+skrzypek: checks 
+Blomski1984: bets $0.25
+JesseGrunn: raises $0.25 to $0.50
+skrzypek: folds 
+Blomski1984: calls $0.25
+*** TURN *** [2c Ah 5h] [Ad]
+Blomski1984: bets $0.25
+JesseGrunn: raises $0.75 to $1
+Blomski1984: folds 
+Uncalled bet ($0.75) returned to JesseGrunn
+JesseGrunn collected $2.15 from pot
+JesseGrunn: shows [9d Ac] (three of a kind, Aces)
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [2c Ah 5h Ad]
+Seat 1: Blomski1984 (big blind) folded on the Turn
+Seat 2: JesseGrunn collected ($2.15)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 8: kernez (button) folded before Flop (didn't bet)
+Seat 9: skrzypek (small blind) folded on the Flop
+
+
+
+PokerStars Game #20101898414:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:46:02 ET
+Table 'Parysatis' 9-max Seat #9 is the button
+Seat 1: Blomski1984 ($42.40 in chips) 
+Seat 2: JesseGrunn ($24.75 in chips) 
+Seat 3: Alameda22 ($48.55 in chips) 
+Seat 4: puan29 ($23.05 in chips) 
+Seat 5: mettwl ($24.40 in chips) 
+Seat 6: AcedePique ($30.95 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($23.10 in chips) 
+Blomski1984: posts small blind $0.10
+JesseGrunn: posts big blind $0.25
+extrachill: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Qc]
+Alameda22: raises $0.75 to $1
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+kernez: folds 
+skrzypek: calls $1
+Blomski1984: folds 
+JesseGrunn: raises $3 to $4
+Alameda22: calls $3
+skrzypek: folds 
+*** FLOP *** [Qh Ah Kc]
+JesseGrunn: checks 
+Alameda22: bets $5.75
+JesseGrunn: folds 
+Uncalled bet ($5.75) returned to Alameda22
+Alameda22 collected $8.65 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.10 | Rake $0.45 
+Board [Qh Ah Kc]
+Seat 1: Blomski1984 (small blind) folded before Flop
+Seat 2: JesseGrunn (big blind) folded on the Flop
+Seat 3: Alameda22 collected ($8.65)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek (button) folded before Flop
+
+
+
+PokerStars Game #20101927476:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:47:23 ET
+Table 'Parysatis' 9-max Seat #1 is the button
+Seat 1: Blomski1984 ($42.30 in chips) 
+Seat 2: JesseGrunn ($20.75 in chips) 
+Seat 3: Alameda22 ($53.20 in chips) 
+Seat 4: puan29 ($23.05 in chips) 
+Seat 5: mettwl ($24.40 in chips) 
+Seat 6: AcedePique ($30.95 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($22.10 in chips) 
+JesseGrunn: posts small blind $0.10
+Alameda22: posts big blind $0.25
+extrachill: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Kd]
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+kernez: folds 
+skrzypek: folds 
+Blomski1984: raises $0.25 to $0.50
+JesseGrunn: calls $0.40
+Alameda22: folds 
+*** FLOP *** [7c Qh 2d]
+JesseGrunn: bets $1
+Blomski1984: calls $1
+*** TURN *** [7c Qh 2d] [6h]
+JesseGrunn: checks 
+Blomski1984: bets $1
+JesseGrunn: raises $1 to $2
+Blomski1984: calls $1
+*** RIVER *** [7c Qh 2d 6h] [Kc]
+JesseGrunn: checks 
+Blomski1984: bets $3.50
+JesseGrunn: calls $3.50
+*** SHOW DOWN ***
+Blomski1984: shows [As Ks] (a pair of Kings)
+JesseGrunn: mucks hand 
+Blomski1984 collected $13.60 from pot
+*** SUMMARY ***
+Total pot $14.25 | Rake $0.65 
+Board [7c Qh 2d 6h Kc]
+Seat 1: Blomski1984 (button) showed [As Ks] and won ($13.60) with a pair of Kings
+Seat 2: JesseGrunn (small blind) mucked [Qs 3s]
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101953811:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:48:35 ET
+Table 'Parysatis' 9-max Seat #2 is the button
+Seat 1: Blomski1984 ($48.90 in chips) 
+Seat 2: JesseGrunn ($13.75 in chips) 
+Seat 3: Alameda22 ($52.95 in chips) 
+Seat 4: puan29 ($23.05 in chips) 
+Seat 5: mettwl ($24.40 in chips) 
+Seat 6: AcedePique ($30.95 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($22.10 in chips) 
+Alameda22: posts small blind $0.10
+puan29: posts big blind $0.25
+extrachill: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Kd]
+mettwl: folds 
+AcedePique: folds 
+kernez: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: folds 
+Blomski1984: calls $0.25
+*** FLOP *** [Ks 3s 2d]
+Blomski1984: checks 
+JesseGrunn: checks 
+*** TURN *** [Ks 3s 2d] [5h]
+Blomski1984: bets $0.25
+JesseGrunn: folds 
+Uncalled bet ($0.25) returned to Blomski1984
+Blomski1984 collected $1.30 from pot
+Blomski1984: shows [Qh 5d] (a pair of Fives)
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [Ks 3s 2d 5h]
+Seat 1: Blomski1984 collected ($1.30)
+Seat 2: JesseGrunn (button) folded on the Turn
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: puan29 (big blind) folded before Flop
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101985673:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:50:02 ET
+Table 'Parysatis' 9-max Seat #3 is the button
+Seat 1: Blomski1984 ($49.70 in chips) 
+Seat 2: JesseGrunn ($13.25 in chips) 
+Seat 3: Alameda22 ($52.85 in chips) 
+Seat 4: puan29 ($22.80 in chips) 
+Seat 5: mettwl ($24.40 in chips) 
+Seat 6: AcedePique ($30.95 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($22.10 in chips) 
+puan29: posts small blind $0.10
+mettwl: posts big blind $0.25
+extrachill: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Ah]
+AcedePique: folds 
+kernez: folds 
+skrzypek: folds 
+Blomski1984: folds 
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: folds 
+Uncalled bet ($0.15) returned to mettwl
+mettwl collected $0.20 from pot
+mettwl: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: puan29 (small blind) folded before Flop
+Seat 5: mettwl (big blind) collected ($0.20)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20101999912:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:50:42 ET
+Table 'Parysatis' 9-max Seat #4 is the button
+Seat 1: Blomski1984 ($49.70 in chips) 
+Seat 2: JesseGrunn ($13.25 in chips) 
+Seat 3: Alameda22 ($52.85 in chips) 
+Seat 4: puan29 ($22.70 in chips) 
+Seat 5: mettwl ($24.50 in chips) 
+Seat 6: AcedePique ($30.95 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($22.10 in chips) 
+mettwl: posts small blind $0.10
+AcedePique: posts big blind $0.25
+extrachill: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 8c]
+kernez: folds 
+skrzypek: folds 
+Blomski1984: calls $0.25
+JesseGrunn: raises $0.25 to $0.50
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+Blomski1984: calls $0.25
+*** FLOP *** [4c Ac 9c]
+Blomski1984: bets $0.50
+JesseGrunn: folds 
+Uncalled bet ($0.50) returned to Blomski1984
+Blomski1984 collected $1.30 from pot
+Blomski1984: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [4c Ac 9c]
+Seat 1: Blomski1984 collected ($1.30)
+Seat 2: JesseGrunn folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 (button) folded before Flop (didn't bet)
+Seat 5: mettwl (small blind) folded before Flop
+Seat 6: AcedePique (big blind) folded before Flop
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102022127:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:51:44 ET
+Table 'Parysatis' 9-max Seat #5 is the button
+Seat 1: Blomski1984 ($50.50 in chips) 
+Seat 2: JesseGrunn ($12.75 in chips) 
+Seat 3: Alameda22 ($52.85 in chips) 
+Seat 4: puan29 ($22.70 in chips) 
+Seat 5: mettwl ($24.40 in chips) 
+Seat 6: AcedePique ($30.70 in chips) 
+Seat 7: extrachill ($25 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($22.10 in chips) 
+AcedePique: posts small blind $0.10
+extrachill: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 7h]
+kernez: folds 
+skrzypek: calls $0.25
+Blomski1984: folds 
+JesseGrunn: folds 
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+extrachill: checks 
+*** FLOP *** [6s 4s Qc]
+extrachill: checks 
+skrzypek: checks 
+*** TURN *** [6s 4s Qc] [Tc]
+extrachill: checks 
+skrzypek: checks 
+*** RIVER *** [6s 4s Qc Tc] [Jc]
+extrachill: checks 
+skrzypek: checks 
+*** SHOW DOWN ***
+extrachill: shows [5h Th] (a pair of Tens)
+skrzypek: mucks hand 
+extrachill collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6s 4s Qc Tc Jc]
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 2: JesseGrunn folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl (button) folded before Flop (didn't bet)
+Seat 6: AcedePique (small blind) folded before Flop
+Seat 7: extrachill (big blind) showed [5h Th] and won ($0.60) with a pair of Tens
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: skrzypek mucked [9s 9d]
+
+
+
+PokerStars Game #20102062805:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:53:36 ET
+Table 'Parysatis' 9-max Seat #6 is the button
+Seat 1: Blomski1984 ($50.50 in chips) 
+Seat 2: JesseGrunn ($12.75 in chips) 
+Seat 3: Alameda22 ($52.85 in chips) 
+Seat 4: puan29 ($22.70 in chips) 
+Seat 5: mettwl ($24.40 in chips) 
+Seat 6: AcedePique ($30.60 in chips) 
+Seat 7: extrachill ($25.35 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: skrzypek ($21.85 in chips) 
+extrachill: posts small blind $0.10
+kernez: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 6d]
+skrzypek: folds 
+skrzypek leaves the table
+Blomski1984: calls $0.25
+JesseGrunn: calls $0.25
+Alameda22: folds 
+puan29: folds 
+mettwl: raises $1 to $1.25
+AcedePique: folds 
+extrachill: folds 
+kernez: folds 
+Blomski1984: folds 
+geosat joins the table at seat #9 
+JesseGrunn: calls $1
+*** FLOP *** [8h Qs Tc]
+JesseGrunn: checks 
+mettwl: bets $1.75
+JesseGrunn: calls $1.75
+*** TURN *** [8h Qs Tc] [Td]
+JesseGrunn: checks 
+mettwl: checks 
+*** RIVER *** [8h Qs Tc Td] [2d]
+JesseGrunn: bets $9.75 and is all-in
+mettwl: calls $9.75
+*** SHOW DOWN ***
+JesseGrunn: shows [Jd Qh] (two pair, Queens and Tens)
+mettwl: shows [Ad Ac] (two pair, Aces and Tens)
+mettwl collected $24.85 from pot
+*** SUMMARY ***
+Total pot $26.10 | Rake $1.25 
+Board [8h Qs Tc Td 2d]
+Seat 1: Blomski1984 folded before Flop
+Seat 2: JesseGrunn showed [Jd Qh] and lost with two pair, Queens and Tens
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl showed [Ad Ac] and won ($24.85) with two pair, Aces and Tens
+Seat 6: AcedePique (button) folded before Flop (didn't bet)
+Seat 7: extrachill (small blind) folded before Flop
+Seat 8: kernez (big blind) folded before Flop
+Seat 9: skrzypek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102088294:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:54:46 ET
+Table 'Parysatis' 9-max Seat #7 is the button
+Seat 1: Blomski1984 ($50.25 in chips) 
+Seat 3: Alameda22 ($52.85 in chips) 
+Seat 4: puan29 ($22.70 in chips) 
+Seat 5: mettwl ($36.50 in chips) 
+Seat 6: AcedePique ($30.60 in chips) 
+Seat 7: extrachill ($25.25 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: geosat ($25 in chips) 
+kernez: posts small blind $0.10
+geosat: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 8d]
+Blomski1984: folds 
+Alameda22: folds 
+puan29: folds 
+mettwl: calls $0.25
+AcedePique: folds 
+extrachill: folds 
+kernez: folds 
+geosat: checks 
+*** FLOP *** [8c 4s Ah]
+geosat: checks 
+mettwl: bets $0.50
+geosat: calls $0.50
+*** TURN *** [8c 4s Ah] [Qd]
+geosat: checks 
+mettwl: checks 
+*** RIVER *** [8c 4s Ah Qd] [Kd]
+geosat: bets $1
+mettwl: folds 
+Uncalled bet ($1) returned to geosat
+geosat collected $1.55 from pot
+geosat: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [8c 4s Ah Qd Kd]
+Seat 1: Blomski1984 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded on the River
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: extrachill (button) folded before Flop (didn't bet)
+Seat 8: kernez (small blind) folded before Flop
+Seat 9: geosat (big blind) collected ($1.55)
+
+
+
+PokerStars Game #20102127626:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:56:33 ET
+Table 'Parysatis' 9-max Seat #8 is the button
+Seat 1: Blomski1984 ($50.25 in chips) 
+Seat 3: Alameda22 ($52.85 in chips) 
+Seat 4: puan29 ($22.70 in chips) 
+Seat 5: mettwl ($35.75 in chips) 
+Seat 6: AcedePique ($30.60 in chips) 
+Seat 7: extrachill ($25.25 in chips) 
+Seat 8: kernez ($25 in chips) 
+Seat 9: geosat ($25.80 in chips) 
+geosat: posts small blind $0.10
+Blomski1984: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 8h]
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+extrachill: folds 
+kernez: raises $0.60 to $0.85
+geosat: folds 
+Blomski1984: folds 
+Uncalled bet ($0.60) returned to kernez
+kernez collected $0.60 from pot
+kernez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Blomski1984 (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: extrachill folded before Flop (didn't bet)
+Seat 8: kernez (button) collected ($0.60)
+Seat 9: geosat (small blind) folded before Flop
+
+
+
+PokerStars Game #20102142547:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:57:14 ET
+Table 'Parysatis' 9-max Seat #9 is the button
+Seat 1: Blomski1984 ($50 in chips) 
+Seat 3: Alameda22 ($52.85 in chips) 
+Seat 4: puan29 ($22.70 in chips) 
+Seat 5: mettwl ($35.75 in chips) 
+Seat 6: AcedePique ($30.60 in chips) 
+Seat 7: extrachill ($25.25 in chips) 
+Seat 8: kernez ($25.35 in chips) 
+Seat 9: geosat ($25.70 in chips) 
+Blomski1984: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 4s]
+puan29: folds 
+mettwl: calls $0.25
+AcedePique: folds 
+extrachill: folds 
+kernez: raises $0.85 to $1.10
+geosat: folds 
+Blomski1984: folds 
+Alameda22: folds 
+mettwl: folds 
+Uncalled bet ($0.85) returned to kernez
+kernez collected $0.85 from pot
+kernez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Blomski1984 (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: extrachill folded before Flop (didn't bet)
+Seat 8: kernez collected ($0.85)
+Seat 9: geosat (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102162297:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:58:09 ET
+Table 'Parysatis' 9-max Seat #1 is the button
+Seat 1: Blomski1984 ($49.90 in chips) 
+Seat 3: Alameda22 ($52.60 in chips) 
+Seat 4: puan29 ($22.70 in chips) 
+Seat 5: mettwl ($35.50 in chips) 
+Seat 6: AcedePique ($30.60 in chips) 
+Seat 7: extrachill ($25.25 in chips) 
+Seat 8: kernez ($25.95 in chips) 
+Seat 9: geosat ($25.70 in chips) 
+Alameda22: posts small blind $0.10
+puan29: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d As]
+mettwl: folds 
+AcedePique: folds 
+extrachill: raises $0.75 to $1
+kernez: folds 
+geosat: folds 
+Blomski1984: folds 
+Alameda22: folds 
+puan29: folds 
+Uncalled bet ($0.75) returned to extrachill
+extrachill collected $0.60 from pot
+extrachill: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Blomski1984 (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: puan29 (big blind) folded before Flop
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: extrachill collected ($0.60)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: geosat folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102176057:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 19:58:47 ET
+Table 'Parysatis' 9-max Seat #3 is the button
+Seat 1: Blomski1984 ($49.90 in chips) 
+Seat 3: Alameda22 ($52.50 in chips) 
+Seat 4: puan29 ($22.45 in chips) 
+Seat 5: mettwl ($35.50 in chips) 
+Seat 6: AcedePique ($30.60 in chips) 
+Seat 7: extrachill ($25.60 in chips) 
+Seat 8: kernez ($25.95 in chips) 
+Seat 9: geosat ($25.70 in chips) 
+puan29: posts small blind $0.10
+mettwl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 4c]
+AcedePique: folds 
+extrachill: folds 
+kernez: folds 
+geosat: calls $0.25
+Blomski1984: calls $0.25
+Alameda22: folds 
+puan29: calls $0.15
+mettwl: checks 
+*** FLOP *** [Ad 2s 3c]
+puan29: checks 
+mettwl: checks 
+geosat: bets $0.50
+Blomski1984: calls $0.50
+puan29: calls $0.50
+mettwl: folds 
+*** TURN *** [Ad 2s 3c] [Qh]
+puan29: checks 
+geosat: bets $2
+Blomski1984: folds 
+puan29: calls $2
+*** RIVER *** [Ad 2s 3c Qh] [3d]
+puan29: checks 
+geosat: bets $5
+puan29: calls $5
+*** SHOW DOWN ***
+geosat: shows [2c 2d] (a full house, Deuces full of Threes)
+puan29: mucks hand 
+geosat collected $15.70 from pot
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.80 
+Board [Ad 2s 3c Qh 3d]
+Seat 1: Blomski1984 folded on the Turn
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: puan29 (small blind) mucked [As 4s]
+Seat 5: mettwl (big blind) folded on the Flop
+Seat 6: AcedePique folded before Flop (didn't bet)
+Seat 7: extrachill folded before Flop (didn't bet)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: geosat showed [2c 2d] and won ($15.70) with a full house, Deuces full of Threes
+
+
+
+PokerStars Game #20102216335:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 20:00:36 ET
+Table 'Parysatis' 9-max Seat #4 is the button
+Seat 1: Blomski1984 ($49.15 in chips) 
+Seat 3: Alameda22 ($52.50 in chips) 
+Seat 4: puan29 ($25 in chips) 
+Seat 5: mettwl ($35.25 in chips) 
+Seat 6: AcedePique ($30.60 in chips) 
+Seat 7: extrachill ($25.60 in chips) 
+Seat 8: kernez ($25.95 in chips) 
+Seat 9: geosat ($33.65 in chips) 
+mettwl: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Qs]
+extrachill: folds 
+kernez: folds 
+geosat: raises $0.75 to $1
+Blomski1984: calls $1
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: folds 
+*** FLOP *** [8s 2d Tc]
+geosat: checks 
+Blomski1984: bets $1.50
+geosat: folds 
+Uncalled bet ($1.50) returned to Blomski1984
+Blomski1984 collected $2.25 from pot
+Blomski1984: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [8s 2d Tc]
+Seat 1: Blomski1984 collected ($2.25)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 (button) folded before Flop (didn't bet)
+Seat 5: mettwl (small blind) folded before Flop
+Seat 6: AcedePique (big blind) folded before Flop
+Seat 7: extrachill folded before Flop (didn't bet)
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: geosat folded on the Flop
+
+
+
+PokerStars Game #20102254755:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 20:02:21 ET
+Table 'Parysatis' 9-max Seat #5 is the button
+Seat 1: Blomski1984 ($50.40 in chips) 
+Seat 3: Alameda22 ($52.50 in chips) 
+Seat 4: puan29 ($25 in chips) 
+Seat 5: mettwl ($35.15 in chips) 
+Seat 6: AcedePique ($30.35 in chips) 
+Seat 7: extrachill ($25.60 in chips) 
+Seat 8: kernez ($25.95 in chips) 
+Seat 9: geosat ($32.65 in chips) 
+AcedePique: posts small blind $0.10
+extrachill: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Kd]
+kernez: folds 
+geosat: folds 
+Blomski1984: calls $0.25
+JesseGrunn leaves the table
+Alameda22: folds 
+puan29: folds 
+mettwl: calls $0.25
+AcedePique: calls $0.15
+extrachill: checks 
+*** FLOP *** [Qh 9d 6d]
+AcedePique: checks 
+extrachill: checks 
+Blomski1984: bets $1
+mettwl: calls $1
+AcedePique: folds 
+extrachill: folds 
+*** TURN *** [Qh 9d 6d] [8s]
+Blomski1984: bets $1.25
+mettwl: calls $1.25
+*** RIVER *** [Qh 9d 6d 8s] [Tc]
+Blomski1984: bets $2.50
+mettwl: folds 
+Uncalled bet ($2.50) returned to Blomski1984
+Blomski1984 collected $5.25 from pot
+Blomski1984: shows [Qc Jc] (a straight, Eight to Queen)
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.25 
+Board [Qh 9d 6d 8s Tc]
+Seat 1: Blomski1984 collected ($5.25)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl (button) folded on the River
+Seat 6: AcedePique (small blind) folded on the Flop
+Seat 7: extrachill (big blind) folded on the Flop
+Seat 8: kernez folded before Flop (didn't bet)
+Seat 9: geosat folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102300970:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 20:04:26 ET
+Table 'Parysatis' 9-max Seat #6 is the button
+Seat 1: Blomski1984 ($53.15 in chips) 
+Seat 3: Alameda22 ($52.50 in chips) 
+Seat 4: puan29 ($25 in chips) 
+Seat 5: mettwl ($32.65 in chips) 
+Seat 6: AcedePique ($30.10 in chips) 
+Seat 7: extrachill ($25.35 in chips) 
+Seat 9: geosat ($32.65 in chips) 
+extrachill: posts small blind $0.10
+kernez: is sitting out 
+kernez leaves the table
+geosat: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 8h]
+Blomski1984: calls $0.25
+Alameda22: calls $0.25
+puan29: calls $0.25
+mettwl: folds 
+AcedePique: folds 
+extrachill: folds 
+geosat: checks 
+*** FLOP *** [4s 3d 9s]
+geosat: checks 
+Blomski1984: bets $0.25
+Alameda22: folds 
+puan29: folds 
+geosat: folds 
+Uncalled bet ($0.25) returned to Blomski1984
+Blomski1984 collected $1.05 from pot
+Blomski1984: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [4s 3d 9s]
+Seat 1: Blomski1984 collected ($1.05)
+Seat 3: Alameda22 folded on the Flop
+Seat 4: puan29 folded on the Flop
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique (button) folded before Flop (didn't bet)
+Seat 7: extrachill (small blind) folded before Flop
+Seat 9: geosat (big blind) folded on the Flop
+
+
+
+PokerStars Game #20102336419:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 20:06:03 ET
+Table 'Parysatis' 9-max Seat #7 is the button
+Seat 1: Blomski1984 ($53.95 in chips) 
+Seat 3: Alameda22 ($52.25 in chips) 
+Seat 4: puan29 ($24.75 in chips) 
+Seat 5: mettwl ($32.65 in chips) 
+Seat 6: AcedePique ($30.10 in chips) 
+Seat 7: extrachill ($25.25 in chips) 
+Seat 9: geosat ($32.40 in chips) 
+geosat: posts small blind $0.10
+Blomski1984: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 3h]
+Alameda22: folds 
+puan29: folds 
+mettwl: folds 
+AcedePique: raises $0.75 to $1
+extrachill: folds 
+geosat: folds 
+Blomski1984: folds 
+Uncalled bet ($0.75) returned to AcedePique
+Blomski1984 leaves the table
+AcedePique collected $0.60 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Blomski1984 (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: puan29 folded before Flop (didn't bet)
+Seat 5: mettwl folded before Flop (didn't bet)
+Seat 6: AcedePique collected ($0.60)
+Seat 7: extrachill (button) folded before Flop (didn't bet)
+Seat 9: geosat (small blind) folded before Flop
+
+
+
+PokerStars Game #20102347820:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 20:06:35 ET
+Table 'Parysatis' 9-max Seat #9 is the button
+Seat 3: Alameda22 ($52.25 in chips) 
+Seat 6: AcedePique ($30.45 in chips) 
+Seat 7: extrachill ($25.25 in chips) 
+Seat 9: geosat ($32.30 in chips) 
+Alameda22: posts small blind $0.10
+puan29: is sitting out 
+puan29 leaves the table
+mettwl: is sitting out 
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 8h]
+mettwl leaves the table
+extrachill: folds 
+geosat: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to AcedePique
+AcedePique collected $0.20 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 6: AcedePique (big blind) collected ($0.20)
+Seat 7: extrachill folded before Flop (didn't bet)
+Seat 9: geosat (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20102359969:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 20:07:07 ET
+Table 'Parysatis' 9-max Seat #6 is the button
+Seat 3: Alameda22 ($52.15 in chips) 
+Seat 6: AcedePique ($30.55 in chips) 
+AcedePique: posts small blind $0.10
+extrachill: is sitting out 
+extrachill leaves the table
+geosat: is sitting out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 4s]
+geosat leaves the table
+Bjoern24 joins the table at seat #8 
+AcedePique: calls $0.15
+Alameda22: checks 
+*** FLOP *** [5d 3h 2c]
+Alameda22: bets $0.25
+AcedePique: calls $0.25
+*** TURN *** [5d 3h 2c] [Jh]
+Alameda22: checks 
+AcedePique: checks 
+*** RIVER *** [5d 3h 2c Jh] [Kc]
+Alameda22: checks 
+AcedePique: checks 
+*** SHOW DOWN ***
+Alameda22: shows [4d 4s] (a pair of Fours)
+AcedePique: mucks hand 
+Alameda22 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [5d 3h 2c Jh Kc]
+Seat 3: Alameda22 (big blind) showed [4d 4s] and won ($0.95) with a pair of Fours
+Seat 6: AcedePique (button) (small blind) mucked [9c 7h]
+
+
+
+PokerStars Game #20102395600:  Hold'em No Limit ($0.10/$0.25) - 2008/09/02 20:08:45 ET
+Table 'Parysatis' 9-max Seat #3 is the button
+Seat 3: Alameda22 ($52.60 in chips) 
+Seat 6: AcedePique ($30.05 in chips) 
+Alameda22: posts small blind $0.10
+AcedePique: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Jh]
+Alameda22: folds 
+Uncalled bet ($0.15) returned to AcedePique
+AcedePique collected $0.20 from pot
+AcedePique: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Alameda22 (button) (small blind) folded before Flop
+Seat 6: AcedePique (big blind) collected ($0.20)
+
+
+

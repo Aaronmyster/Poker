@@ -1,0 +1,657 @@
+PokerStars Game #19929231014:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:01:53 (ET)
+Table 'Paris V' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($62.85 in chips) 
+Seat 2: wompie111 ($7.10 in chips) 
+Seat 3: DeadEndKev ($28.45 in chips) 
+Seat 4: Stapher ($20.10 in chips) 
+Seat 6: BgBllzNoNutz ($34.45 in chips) 
+Seat 7: szil79 ($4.65 in chips) 
+Seat 8: FaustianDeal ($24.35 in chips) 
+Seat 9: munkyluva87 ($5.05 in chips) 
+Alameda22: posts small blind $0.10
+wompie111: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Qh]
+DeadEndKev: calls $0.25
+Stapher: folds 
+BgBllzNoNutz: folds 
+szil79: raises $4.40 to $4.65 and is all-in
+FaustianDeal: folds 
+munkyluva87: folds 
+Alameda22: folds 
+wompie111: raises $2.45 to $7.10 and is all-in
+DeadEndKev: folds 
+Uncalled bet ($2.45) returned to wompie111
+*** FLOP *** [8d Qc Ad]
+*** TURN *** [8d Qc Ad] [6d]
+*** RIVER *** [8d Qc Ad 6d] [9h]
+*** SHOW DOWN ***
+wompie111: shows [7s Ah] (a pair of Aces)
+szil79: mucks hand 
+wompie111 collected $9.20 from pot
+*** SUMMARY ***
+Total pot $9.65 | Rake $0.45 
+Board [8d Qc Ad 6d 9h]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: wompie111 (big blind) showed [7s Ah] and won ($9.20) with a pair of Aces
+Seat 3: DeadEndKev folded before Flop
+Seat 4: Stapher folded before Flop (didn't bet)
+Seat 6: BgBllzNoNutz folded before Flop (didn't bet)
+Seat 7: szil79 mucked [Kd Kh]
+Seat 8: FaustianDeal folded before Flop (didn't bet)
+Seat 9: munkyluva87 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929242399:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:02:30 (ET)
+Table 'Paris V' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($62.75 in chips) 
+Seat 2: wompie111 ($11.65 in chips) 
+Seat 3: DeadEndKev ($28.20 in chips) 
+Seat 4: Stapher ($20.10 in chips) 
+Seat 6: BgBllzNoNutz ($34.45 in chips) 
+Seat 8: FaustianDeal ($24.35 in chips) 
+Seat 9: munkyluva87 ($5.05 in chips) 
+wompie111: posts small blind $0.10
+DeadEndKev: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Tc]
+Stapher: folds 
+BgBllzNoNutz: calls $0.25
+FaustianDeal: folds 
+munkyluva87: raises $0.50 to $0.75
+Alameda22: folds 
+wompie111: folds 
+DeadEndKev: folds 
+BgBllzNoNutz: calls $0.50
+*** FLOP *** [Ks Qd 8s]
+BgBllzNoNutz: checks 
+szil79 has returned
+munkyluva87: bets $1.50
+BgBllzNoNutz: folds 
+Uncalled bet ($1.50) returned to munkyluva87
+munkyluva87 collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [Ks Qd 8s]
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: wompie111 (small blind) folded before Flop
+Seat 3: DeadEndKev (big blind) folded before Flop
+Seat 4: Stapher folded before Flop (didn't bet)
+Seat 6: BgBllzNoNutz folded on the Flop
+Seat 8: FaustianDeal folded before Flop (didn't bet)
+Seat 9: munkyluva87 collected ($1.80)
+
+
+
+PokerStars Game #19929255222:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:03:12 (ET)
+Table 'Paris V' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($62.75 in chips) 
+Seat 2: wompie111 ($11.55 in chips) 
+Seat 3: DeadEndKev ($27.95 in chips) 
+Seat 4: Stapher ($20.10 in chips) 
+Seat 6: BgBllzNoNutz ($33.70 in chips) 
+Seat 7: szil79 ($5 in chips) 
+Seat 8: FaustianDeal ($24.35 in chips) 
+Seat 9: munkyluva87 ($6.10 in chips) 
+DeadEndKev: posts small blind $0.10
+Stapher: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 5h]
+BgBllzNoNutz: folds 
+szil79: folds 
+FaustianDeal: raises $0.50 to $0.75
+munkyluva87: folds 
+Alameda22: folds 
+wompie111: folds 
+DeadEndKev: folds 
+Stapher: folds 
+Uncalled bet ($0.50) returned to FaustianDeal
+FaustianDeal collected $0.60 from pot
+FaustianDeal: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: wompie111 (button) folded before Flop (didn't bet)
+Seat 3: DeadEndKev (small blind) folded before Flop
+Seat 4: Stapher (big blind) folded before Flop
+Seat 6: BgBllzNoNutz folded before Flop (didn't bet)
+Seat 7: szil79 folded before Flop (didn't bet)
+Seat 8: FaustianDeal collected ($0.60)
+Seat 9: munkyluva87 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929265916:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:03:48 (ET)
+Table 'Paris V' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($62.75 in chips) 
+Seat 2: wompie111 ($11.55 in chips) 
+Seat 3: DeadEndKev ($27.85 in chips) 
+Seat 4: Stapher ($19.85 in chips) 
+Seat 6: BgBllzNoNutz ($33.70 in chips) 
+Seat 7: szil79 ($5 in chips) 
+Seat 8: FaustianDeal ($24.70 in chips) 
+Seat 9: munkyluva87 ($6.10 in chips) 
+Stapher: posts small blind $0.10
+BgBllzNoNutz: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Jc]
+szil79: folds 
+FaustianDeal: folds 
+munkyluva87: raises $0.75 to $1
+Alameda22: folds 
+wompie111: folds 
+DeadEndKev: folds 
+Stapher: folds 
+BgBllzNoNutz: calls $0.75
+*** FLOP *** [Qh 3c 2d]
+BgBllzNoNutz: checks 
+munkyluva87: bets $1.50
+BgBllzNoNutz: folds 
+Uncalled bet ($1.50) returned to munkyluva87
+munkyluva87 collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Qh 3c 2d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: wompie111 folded before Flop (didn't bet)
+Seat 3: DeadEndKev (button) folded before Flop (didn't bet)
+Seat 4: Stapher (small blind) folded before Flop
+Seat 6: BgBllzNoNutz (big blind) folded on the Flop
+Seat 7: szil79 folded before Flop (didn't bet)
+Seat 8: FaustianDeal folded before Flop (didn't bet)
+Seat 9: munkyluva87 collected ($2)
+
+
+
+PokerStars Game #19929279742:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:04:33 (ET)
+Table 'Paris V' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($62.75 in chips) 
+Seat 2: wompie111 ($11.55 in chips) 
+Seat 3: DeadEndKev ($27.85 in chips) 
+Seat 4: Stapher ($19.75 in chips) 
+Seat 6: BgBllzNoNutz ($32.70 in chips) 
+Seat 7: szil79 ($5 in chips) 
+Seat 8: FaustianDeal ($24.70 in chips) 
+Seat 9: munkyluva87 ($7.10 in chips) 
+BgBllzNoNutz: posts small blind $0.10
+szil79: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Kh]
+FaustianDeal: folds 
+munkyluva87: folds 
+Alameda22: folds 
+wompie111: calls $0.25
+DeadEndKev: folds 
+Stapher: raises $0.75 to $1
+BgBllzNoNutz: calls $0.90
+szil79: folds 
+wompie111: calls $0.75
+*** FLOP *** [7c Ts 9h]
+BgBllzNoNutz: bets $1.50
+wompie111: raises $9.05 to $10.55 and is all-in
+Stapher: folds 
+BgBllzNoNutz: calls $9.05
+*** TURN *** [7c Ts 9h] [5h]
+*** RIVER *** [7c Ts 9h 5h] [Qh]
+*** SHOW DOWN ***
+BgBllzNoNutz: shows [Tc 8c] (a pair of Tens)
+wompie111: shows [Jd Td] (a pair of Tens - Queen+Jack kicker)
+wompie111 collected $23.15 from pot
+*** SUMMARY ***
+Total pot $24.35 | Rake $1.20 
+Board [7c Ts 9h 5h Qh]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: wompie111 showed [Jd Td] and won ($23.15) with a pair of Tens
+Seat 3: DeadEndKev folded before Flop (didn't bet)
+Seat 4: Stapher (button) folded on the Flop
+Seat 6: BgBllzNoNutz (small blind) showed [Tc 8c] and lost with a pair of Tens
+Seat 7: szil79 (big blind) folded before Flop
+Seat 8: FaustianDeal folded before Flop (didn't bet)
+Seat 9: munkyluva87 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929308019:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:06:06 (ET)
+Table 'Paris V' 9-max Seat #6 is the button
+Seat 1: Alameda22 ($62.75 in chips) 
+Seat 2: wompie111 ($23.15 in chips) 
+Seat 3: DeadEndKev ($27.85 in chips) 
+Seat 4: Stapher ($18.75 in chips) 
+Seat 6: BgBllzNoNutz ($21.15 in chips) 
+Seat 7: szil79 ($4.75 in chips) 
+Seat 8: FaustianDeal ($24.70 in chips) 
+Seat 9: munkyluva87 ($7.10 in chips) 
+szil79: posts small blind $0.10
+FaustianDeal: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Qd]
+munkyluva87: folds 
+Alameda22: folds 
+wompie111: folds 
+Croustille joins the table at seat #5 
+DeadEndKev: folds 
+Stapher: folds 
+BgBllzNoNutz: calls $0.25
+szil79: calls $0.15
+FaustianDeal: checks 
+*** FLOP *** [Qc 3d Ks]
+szil79: checks 
+FaustianDeal: checks 
+BgBllzNoNutz: checks 
+*** TURN *** [Qc 3d Ks] [Ts]
+szil79: checks 
+FaustianDeal: bets $0.75
+BgBllzNoNutz: folds 
+szil79: folds 
+Uncalled bet ($0.75) returned to FaustianDeal
+FaustianDeal collected $0.75 from pot
+FaustianDeal: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Qc 3d Ks Ts]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: wompie111 folded before Flop (didn't bet)
+Seat 3: DeadEndKev folded before Flop (didn't bet)
+Seat 4: Stapher folded before Flop (didn't bet)
+Seat 6: BgBllzNoNutz (button) folded on the Turn
+Seat 7: szil79 (small blind) folded on the Turn
+Seat 8: FaustianDeal (big blind) collected ($0.75)
+Seat 9: munkyluva87 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929327819:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:07:12 (ET)
+Table 'Paris V' 9-max Seat #7 is the button
+Seat 1: Alameda22 ($62.75 in chips) 
+Seat 2: wompie111 ($23.15 in chips) 
+Seat 3: DeadEndKev ($27.85 in chips) 
+Seat 4: Stapher ($18.75 in chips) 
+Seat 5: Croustille ($25 in chips) 
+Seat 6: BgBllzNoNutz ($20.90 in chips) 
+Seat 7: szil79 ($4.50 in chips) 
+Seat 8: FaustianDeal ($25.20 in chips) 
+Seat 9: munkyluva87 ($7.10 in chips) 
+FaustianDeal: posts small blind $0.10
+munkyluva87: posts big blind $0.25
+Croustille: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 3c]
+Alameda22: folds 
+wompie111: folds 
+DeadEndKev: calls $0.25
+Stapher: raises $1.25 to $1.50
+Croustille: calls $1.25
+BgBllzNoNutz: calls $1.50
+szil79: folds 
+FaustianDeal: folds 
+munkyluva87: folds 
+DeadEndKev: calls $1.25
+*** FLOP *** [Qs 2s Kc]
+DeadEndKev: checks 
+Stapher: bets $4
+Croustille: folds 
+BgBllzNoNutz: calls $4
+DeadEndKev: folds 
+*** TURN *** [Qs 2s Kc] [5h]
+Stapher: bets $13.25 and is all-in
+BgBllzNoNutz: calls $13.25
+*** RIVER *** [Qs 2s Kc 5h] [Jc]
+*** SHOW DOWN ***
+Stapher: shows [Ah As] (a pair of Aces)
+BgBllzNoNutz: mucks hand 
+Stapher collected $38.85 from pot
+*** SUMMARY ***
+Total pot $40.85 | Rake $2 
+Board [Qs 2s Kc 5h Jc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: wompie111 folded before Flop (didn't bet)
+Seat 3: DeadEndKev folded on the Flop
+Seat 4: Stapher showed [Ah As] and won ($38.85) with a pair of Aces
+Seat 5: Croustille folded on the Flop
+Seat 6: BgBllzNoNutz mucked [Ts Ks]
+Seat 7: szil79 (button) folded before Flop (didn't bet)
+Seat 8: FaustianDeal (small blind) folded before Flop
+Seat 9: munkyluva87 (big blind) folded before Flop
+
+
+
+PokerStars Game #19929355210:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:08:43 (ET)
+Table 'Paris V' 9-max Seat #8 is the button
+Seat 1: Alameda22 ($62.75 in chips) 
+Seat 2: wompie111 ($23.15 in chips) 
+Seat 3: DeadEndKev ($26.35 in chips) 
+Seat 4: Stapher ($38.85 in chips) 
+Seat 5: Croustille ($23.50 in chips) 
+Seat 6: BgBllzNoNutz ($2.15 in chips) 
+Seat 7: szil79 ($4.50 in chips) 
+Seat 8: FaustianDeal ($25.10 in chips) 
+Seat 9: munkyluva87 ($6.85 in chips) 
+munkyluva87: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Ts]
+wompie111: folds 
+wompie111 leaves the table
+DeadEndKev: folds 
+Stapher: folds 
+Croustille: folds 
+BgBllzNoNutz: calls $0.25
+szil79: calls $0.25
+FaustianDeal: folds 
+munkyluva87: folds 
+Alameda22: checks 
+*** FLOP *** [5c Kd 7c]
+Alameda22: checks 
+BgBllzNoNutz: checks 
+szil79: checks 
+*** TURN *** [5c Kd 7c] [Kh]
+Alameda22: bets $0.50
+Bert_Musser joins the table at seat #2 
+BgBllzNoNutz: folds 
+szil79: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.85 from pot
+BgBllzNoNutz leaves the table
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [5c Kd 7c Kh]
+Seat 1: Alameda22 (big blind) collected ($0.85)
+Seat 2: wompie111 folded before Flop (didn't bet)
+Seat 3: DeadEndKev folded before Flop (didn't bet)
+Seat 4: Stapher folded before Flop (didn't bet)
+Seat 5: Croustille folded before Flop (didn't bet)
+Seat 6: BgBllzNoNutz folded on the Turn
+Seat 7: szil79 folded on the Turn
+Seat 8: FaustianDeal (button) folded before Flop (didn't bet)
+Seat 9: munkyluva87 (small blind) folded before Flop
+
+
+
+PokerStars Game #19929374718:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:09:49 (ET)
+Table 'Paris V' 9-max Seat #9 is the button
+Seat 1: Alameda22 ($63.35 in chips) 
+Seat 2: Bert_Musser ($15 in chips) 
+Seat 3: DeadEndKev ($26.35 in chips) 
+Seat 4: Stapher ($38.85 in chips) 
+Seat 5: Croustille ($23.50 in chips) 
+Seat 7: szil79 ($4.25 in chips) 
+Seat 8: FaustianDeal ($25.10 in chips) 
+Seat 9: munkyluva87 ($6.75 in chips) 
+Alameda22: posts small blind $0.10
+Bert_Musser: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 8c]
+DeadEndKev: folds 
+Stapher: folds 
+Croustille: folds 
+szil79: folds 
+FaustianDeal: folds 
+munkyluva87: calls $0.25
+Alameda22: folds 
+Bert_Musser: checks 
+*** FLOP *** [Ac Ts Js]
+b_strat77 joins the table at seat #6 
+Bert_Musser: checks 
+munkyluva87: bets $0.50
+Bert_Musser: folds 
+Uncalled bet ($0.50) returned to munkyluva87
+munkyluva87 collected $0.60 from pot
+munkyluva87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ac Ts Js]
+Seat 1: Alameda22 (small blind) folded before Flop
+Seat 2: Bert_Musser (big blind) folded on the Flop
+Seat 3: DeadEndKev folded before Flop (didn't bet)
+Seat 4: Stapher folded before Flop (didn't bet)
+Seat 5: Croustille folded before Flop (didn't bet)
+Seat 7: szil79 folded before Flop (didn't bet)
+Seat 8: FaustianDeal folded before Flop (didn't bet)
+Seat 9: munkyluva87 (button) collected ($0.60)
+
+
+
+PokerStars Game #19929388161:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:10:34 (ET)
+Table 'Paris V' 9-max Seat #1 is the button
+Seat 1: Alameda22 ($63.25 in chips) 
+Seat 2: Bert_Musser ($14.75 in chips) 
+Seat 3: DeadEndKev ($26.35 in chips) 
+Seat 4: Stapher ($38.85 in chips) 
+Seat 5: Croustille ($23.50 in chips) 
+Seat 6: b_strat77 ($25 in chips) 
+Seat 7: szil79 ($4.25 in chips) 
+Seat 8: FaustianDeal ($25.10 in chips) 
+Seat 9: munkyluva87 ($7.10 in chips) 
+Bert_Musser: posts small blind $0.10
+DeadEndKev: posts big blind $0.25
+b_strat77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 6c]
+Stapher: calls $0.25
+Croustille: folds 
+b_strat77: checks 
+szil79: folds 
+FaustianDeal: folds 
+munkyluva87: raises $0.75 to $1
+Alameda22: folds 
+Bert_Musser: folds 
+DeadEndKev: folds 
+Stapher: folds 
+b_strat77 said, "Hey stapher did you watch the yankees tonight?"
+b_strat77: folds 
+Uncalled bet ($0.75) returned to munkyluva87
+munkyluva87 collected $1.10 from pot
+munkyluva87: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: Alameda22 (button) folded before Flop (didn't bet)
+Seat 2: Bert_Musser (small blind) folded before Flop
+Seat 3: DeadEndKev (big blind) folded before Flop
+Seat 4: Stapher folded before Flop
+Seat 5: Croustille folded before Flop (didn't bet)
+Seat 6: b_strat77 folded before Flop
+Seat 7: szil79 folded before Flop (didn't bet)
+Seat 8: FaustianDeal folded before Flop (didn't bet)
+Seat 9: munkyluva87 collected ($1.10)
+
+
+
+PokerStars Game #19929400067:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:11:13 (ET)
+Table 'Paris V' 9-max Seat #2 is the button
+Seat 1: Alameda22 ($63.25 in chips) 
+Seat 2: Bert_Musser ($14.65 in chips) 
+Seat 3: DeadEndKev ($26.10 in chips) 
+Seat 4: Stapher ($38.60 in chips) 
+Seat 5: Croustille ($23.50 in chips) 
+Seat 6: b_strat77 ($24.75 in chips) 
+Seat 7: szil79 ($4.25 in chips) 
+Seat 8: FaustianDeal ($25.10 in chips) 
+Seat 9: munkyluva87 ($7.95 in chips) 
+DeadEndKev: posts small blind $0.10
+Stapher: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 8d]
+Croustille: folds 
+b_strat77: calls $0.25
+szil79: folds 
+FaustianDeal: folds 
+munkyluva87: folds 
+Alameda22: folds 
+Bert_Musser: folds 
+DeadEndKev: folds 
+Stapher: checks 
+*** FLOP *** [Ac 9c 6h]
+Stapher: checks 
+b_strat77: checks 
+*** TURN *** [Ac 9c 6h] [3h]
+Stapher: checks 
+b_strat77: bets $0.25
+Stapher: calls $0.25
+*** RIVER *** [Ac 9c 6h 3h] [5d]
+Stapher: checks 
+b_strat77: bets $2
+Stapher: folds 
+Uncalled bet ($2) returned to b_strat77
+b_strat77 collected $1.05 from pot
+b_strat77: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Ac 9c 6h 3h 5d]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Bert_Musser (button) folded before Flop (didn't bet)
+Seat 3: DeadEndKev (small blind) folded before Flop
+Seat 4: Stapher (big blind) folded on the River
+Seat 5: Croustille folded before Flop (didn't bet)
+Seat 6: b_strat77 collected ($1.05)
+Seat 7: szil79 folded before Flop (didn't bet)
+Seat 8: FaustianDeal folded before Flop (didn't bet)
+Seat 9: munkyluva87 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929419107:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:12:17 (ET)
+Table 'Paris V' 9-max Seat #3 is the button
+Seat 1: Alameda22 ($63.25 in chips) 
+Seat 2: Bert_Musser ($14.65 in chips) 
+Seat 3: DeadEndKev ($26 in chips) 
+Seat 4: Stapher ($38.10 in chips) 
+Seat 5: Croustille ($23.50 in chips) 
+Seat 6: b_strat77 ($25.30 in chips) 
+Seat 7: szil79 ($4.25 in chips) 
+Seat 8: FaustianDeal ($25.10 in chips) 
+Seat 9: munkyluva87 ($7.95 in chips) 
+Stapher: posts small blind $0.10
+Croustille: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d Th]
+b_strat77: folds 
+szil79: folds 
+FaustianDeal: raises $0.50 to $0.75
+munkyluva87: folds 
+Alameda22: folds 
+Bert_Musser: folds 
+DeadEndKev: raises $1.50 to $2.25
+Stapher: folds 
+Croustille: folds 
+FaustianDeal: folds 
+Uncalled bet ($1.50) returned to DeadEndKev
+DeadEndKev collected $1.85 from pot
+DeadEndKev: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Bert_Musser folded before Flop (didn't bet)
+Seat 3: DeadEndKev (button) collected ($1.85)
+Seat 4: Stapher (small blind) folded before Flop
+Seat 5: Croustille (big blind) folded before Flop
+Seat 6: b_strat77 folded before Flop (didn't bet)
+Seat 7: szil79 folded before Flop (didn't bet)
+Seat 8: FaustianDeal folded before Flop
+Seat 9: munkyluva87 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929440725:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:13:32 (ET)
+Table 'Paris V' 9-max Seat #4 is the button
+Seat 1: Alameda22 ($63.25 in chips) 
+Seat 2: Bert_Musser ($14.65 in chips) 
+Seat 3: DeadEndKev ($27.10 in chips) 
+Seat 4: Stapher ($38 in chips) 
+Seat 5: Croustille ($23.25 in chips) 
+Seat 6: b_strat77 ($25.30 in chips) 
+Seat 7: szil79 ($4.25 in chips) 
+Seat 8: FaustianDeal ($24.35 in chips) 
+Seat 9: munkyluva87 ($7.95 in chips) 
+Croustille: posts small blind $0.10
+b_strat77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Ac]
+b_strat77 said, "Stapher did you watch the yankees blow the big one tonight they played like crap"
+szil79: folds 
+FaustianDeal: folds 
+munkyluva87: folds 
+Alameda22: folds 
+Bert_Musser: calls $0.25
+DeadEndKev: folds 
+Stapher: calls $0.25
+Croustille: folds 
+b_strat77: checks 
+*** FLOP *** [Tc Th Qc]
+b_strat77: checks 
+Bert_Musser: checks 
+Stapher: bets $0.50
+b_strat77: folds 
+Bert_Musser: folds 
+Uncalled bet ($0.50) returned to Stapher
+Stapher collected $0.85 from pot
+Stapher: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Tc Th Qc]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Bert_Musser folded on the Flop
+Seat 3: DeadEndKev folded before Flop (didn't bet)
+Seat 4: Stapher (button) collected ($0.85)
+Seat 5: Croustille (small blind) folded before Flop
+Seat 6: b_strat77 (big blind) folded on the Flop
+Seat 7: szil79 folded before Flop (didn't bet)
+Seat 8: FaustianDeal folded before Flop (didn't bet)
+Seat 9: munkyluva87 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19929464135:  Hold'em No Limit ($0.10/$0.25) - 2008/08/27 - 00:14:52 (ET)
+Table 'Paris V' 9-max Seat #5 is the button
+Seat 1: Alameda22 ($63.25 in chips) 
+Seat 2: Bert_Musser ($14.40 in chips) 
+Seat 3: DeadEndKev ($27.10 in chips) 
+Seat 4: Stapher ($38.60 in chips) 
+Seat 5: Croustille ($23.15 in chips) 
+Seat 6: b_strat77 ($25.05 in chips) 
+Seat 7: szil79 ($4.25 in chips) 
+Seat 8: FaustianDeal ($24.35 in chips) 
+Seat 9: munkyluva87 ($7.95 in chips) 
+b_strat77: posts small blind $0.10
+szil79: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Js]
+FaustianDeal: folds 
+munkyluva87: calls $0.25
+Alameda22: folds 
+Stapher said, "yeah they suck"
+Bert_Musser: folds 
+DeadEndKev: folds 
+Stapher: folds 
+Croustille: folds 
+b_strat77: calls $0.15
+szil79: checks 
+*** FLOP *** [2h 2c As]
+b_strat77: checks 
+szil79: checks 
+munkyluva87: bets $0.50
+b_strat77: calls $0.50
+szil79: folds 
+*** TURN *** [2h 2c As] [5h]
+b_strat77: checks 
+munkyluva87: bets $0.75
+b_strat77: folds 
+Uncalled bet ($0.75) returned to munkyluva87
+munkyluva87 collected $1.70 from pot
+munkyluva87: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [2h 2c As 5h]
+Seat 1: Alameda22 folded before Flop (didn't bet)
+Seat 2: Bert_Musser folded before Flop (didn't bet)
+Seat 3: DeadEndKev folded before Flop (didn't bet)
+Seat 4: Stapher folded before Flop (didn't bet)
+Seat 5: Croustille (button) folded before Flop (didn't bet)
+Seat 6: b_strat77 (small blind) folded on the Turn
+Seat 7: szil79 (big blind) folded on the Flop
+Seat 8: FaustianDeal folded before Flop (didn't bet)
+Seat 9: munkyluva87 collected ($1.70)
+
+
+

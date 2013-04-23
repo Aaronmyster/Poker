@@ -1,0 +1,758 @@
+PokerStars Game #19903488927:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:43:51 (ET)
+Table 'Brandia IV' 9-max Seat #5 is the button
+Seat 1: Popeye Jones ($24.75 in chips) 
+Seat 3: silver2871 ($25.90 in chips) 
+Seat 4: 1BIGDEAL1 ($17.55 in chips) 
+Seat 5: k030101 ($56.65 in chips) 
+Seat 6: DontShowMe ($4.65 in chips) 
+Seat 7: Alameda22 ($25 in chips) 
+Seat 9: Energizerbun ($25 in chips) 
+DontShowMe: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Cardini 23: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 2s]
+Energizerbun: folds 
+Popeye Jones: folds 
+silver2871: raises $0.50 to $0.75
+1BIGDEAL1: calls $0.75
+k030101: folds 
+DontShowMe: folds 
+Alameda22: folds 
+*** FLOP *** [Ad 5d Jc]
+silver2871: bets $1.75
+1BIGDEAL1: calls $1.75
+*** TURN *** [Ad 5d Jc] [9s]
+silver2871: bets $5.50
+1BIGDEAL1: calls $5.50
+*** RIVER *** [Ad 5d Jc 9s] [Tc]
+silver2871: bets $7
+1BIGDEAL1: raises $2.55 to $9.55 and is all-in
+silver2871: calls $2.55
+*** SHOW DOWN ***
+1BIGDEAL1: shows [7c Ah] (a pair of Aces)
+silver2871: shows [Ac Ks] (a pair of Aces - King kicker)
+silver2871 collected $33.75 from pot
+*** SUMMARY ***
+Total pot $35.45 | Rake $1.70 
+Board [Ad 5d Jc 9s Tc]
+Seat 1: Popeye Jones folded before Flop (didn't bet)
+Seat 3: silver2871 showed [Ac Ks] and won ($33.75) with a pair of Aces
+Seat 4: 1BIGDEAL1 showed [7c Ah] and lost with a pair of Aces
+Seat 5: k030101 (button) folded before Flop (didn't bet)
+Seat 6: DontShowMe (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 9: Energizerbun folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903507548:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:44:48 (ET)
+Table 'Brandia IV' 9-max Seat #6 is the button
+Seat 1: Popeye Jones ($24.75 in chips) 
+Seat 3: silver2871 ($42.10 in chips) 
+Seat 5: k030101 ($56.65 in chips) 
+Seat 6: DontShowMe ($4.55 in chips) 
+Seat 7: Alameda22 ($24.75 in chips) 
+Seat 8: Cardini 23 ($25 in chips) 
+Seat 9: Energizerbun ($25 in chips) 
+Alameda22: posts small blind $0.10
+Cardini 23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 4s]
+Energizerbun: folds 
+Popeye Jones: folds 
+silver2871: calls $0.25
+1BIGDEAL1 has returned
+1BIGDEAL1 said, "nh"
+k030101: raises $0.75 to $1
+DontShowMe: folds 
+Alameda22: folds 
+Cardini 23: folds 
+silver2871: calls $0.75
+*** FLOP *** [Qc 8h 2c]
+silver2871: checks 
+k030101: checks 
+*** TURN *** [Qc 8h 2c] [7c]
+silver2871: checks 
+k030101: checks 
+*** RIVER *** [Qc 8h 2c 7c] [3s]
+silver2871: checks 
+k030101: bets $1.25
+silver2871: folds 
+Uncalled bet ($1.25) returned to k030101
+k030101 collected $2.25 from pot
+k030101: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Qc 8h 2c 7c 3s]
+Seat 1: Popeye Jones folded before Flop (didn't bet)
+Seat 3: silver2871 folded on the River
+Seat 5: k030101 collected ($2.25)
+Seat 6: DontShowMe (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: Cardini 23 (big blind) folded before Flop
+Seat 9: Energizerbun folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903526115:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:45:45 (ET)
+Table 'Brandia IV' 9-max Seat #7 is the button
+Seat 1: Popeye Jones ($24.75 in chips) 
+Seat 3: silver2871 ($41.10 in chips) 
+Seat 4: 1BIGDEAL1 ($15 in chips) 
+Seat 5: k030101 ($57.90 in chips) 
+Seat 6: DontShowMe ($4.55 in chips) 
+Seat 7: Alameda22 ($24.65 in chips) 
+Seat 8: Cardini 23 ($24.75 in chips) 
+Seat 9: Energizerbun ($25 in chips) 
+Cardini 23: posts small blind $0.10
+Energizerbun: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Jh]
+Popeye Jones: folds 
+silver2871: folds 
+1BIGDEAL1: calls $0.25
+k030101: folds 
+DontShowMe: folds 
+Alameda22: folds 
+Cardini 23: folds 
+Energizerbun: checks 
+*** FLOP *** [9s 6c Ac]
+Energizerbun: checks 
+1BIGDEAL1: checks 
+*** TURN *** [9s 6c Ac] [3s]
+Energizerbun: checks 
+1BIGDEAL1: bets $0.75
+Energizerbun: folds 
+Uncalled bet ($0.75) returned to 1BIGDEAL1
+1BIGDEAL1 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9s 6c Ac 3s]
+Seat 1: Popeye Jones folded before Flop (didn't bet)
+Seat 3: silver2871 folded before Flop (didn't bet)
+Seat 4: 1BIGDEAL1 collected ($0.60)
+Seat 5: k030101 folded before Flop (didn't bet)
+Seat 6: DontShowMe folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: Cardini 23 (small blind) folded before Flop
+Seat 9: Energizerbun (big blind) folded on the Turn
+
+
+
+PokerStars Game #19903542338:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:46:35 (ET)
+Table 'Brandia IV' 9-max Seat #8 is the button
+Seat 1: Popeye Jones ($25 in chips) 
+Seat 3: silver2871 ($41.10 in chips) 
+Seat 4: 1BIGDEAL1 ($15.35 in chips) 
+Seat 5: k030101 ($57.90 in chips) 
+Seat 6: DontShowMe ($4.55 in chips) 
+Seat 7: Alameda22 ($24.65 in chips) 
+Seat 8: Cardini 23 ($24.65 in chips) 
+Seat 9: Energizerbun ($24.75 in chips) 
+Energizerbun: posts small blind $0.10
+Popeye Jones: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 9d]
+silver2871: raises $0.50 to $0.75
+1BIGDEAL1: folds 
+k030101: folds 
+DontShowMe: folds 
+Alameda22: folds 
+Cardini 23: folds 
+Energizerbun: folds 
+Popeye Jones: folds 
+Uncalled bet ($0.50) returned to silver2871
+silver2871 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Popeye Jones (big blind) folded before Flop
+Seat 3: silver2871 collected ($0.60)
+Seat 4: 1BIGDEAL1 folded before Flop (didn't bet)
+Seat 5: k030101 folded before Flop (didn't bet)
+Seat 6: DontShowMe folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Cardini 23 (button) folded before Flop (didn't bet)
+Seat 9: Energizerbun (small blind) folded before Flop
+
+
+
+PokerStars Game #19903553722:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:47:11 (ET)
+Table 'Brandia IV' 9-max Seat #9 is the button
+Seat 1: Popeye Jones ($24.75 in chips) 
+Seat 3: silver2871 ($41.45 in chips) 
+Seat 4: 1BIGDEAL1 ($15.35 in chips) 
+Seat 5: k030101 ($57.90 in chips) 
+Seat 6: DontShowMe ($4.55 in chips) 
+Seat 7: Alameda22 ($24.65 in chips) 
+Seat 8: Cardini 23 ($24.65 in chips) 
+Seat 9: Energizerbun ($24.65 in chips) 
+Popeye Jones: posts small blind $0.10
+silver2871: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh Ad]
+1BIGDEAL1: calls $0.25
+k030101: folds 
+DontShowMe: folds 
+Alameda22: raises $0.75 to $1
+Cardini 23: folds 
+Energizerbun: calls $1
+Popeye Jones: calls $0.90
+silver2871: folds 
+1BIGDEAL1: calls $0.75
+*** FLOP *** [6d 5d 4d]
+Popeye Jones: checks 
+1BIGDEAL1: bets $3.50
+Alameda22: raises $6.50 to $10
+Energizerbun: folds 
+Popeye Jones: folds 
+1BIGDEAL1: calls $6.50
+*** TURN *** [6d 5d 4d] [As]
+1BIGDEAL1: checks 
+1BIGDEAL1 said, "bet"
+Alameda22: bets $13.65 and is all-in
+1BIGDEAL1: calls $4.35 and is all-in
+Uncalled bet ($9.30) returned to Alameda22
+*** RIVER *** [6d 5d 4d As] [Qd]
+*** SHOW DOWN ***
+1BIGDEAL1: shows [6c Qc] (two pair, Queens and Sixes)
+Alameda22: shows [Kh Ad] (a flush, Ace high)
+Alameda22 collected $31.40 from pot
+*** SUMMARY ***
+Total pot $32.95 | Rake $1.55 
+Board [6d 5d 4d As Qd]
+Seat 1: Popeye Jones (small blind) folded on the Flop
+Seat 3: silver2871 (big blind) folded before Flop
+Seat 4: 1BIGDEAL1 showed [6c Qc] and lost with two pair, Queens and Sixes
+Seat 5: k030101 folded before Flop (didn't bet)
+Seat 6: DontShowMe folded before Flop (didn't bet)
+Seat 7: Alameda22 showed [Kh Ad] and won ($31.40) with a flush, Ace high
+Seat 8: Cardini 23 folded before Flop (didn't bet)
+Seat 9: Energizerbun (button) folded on the Flop
+
+
+
+PokerStars Game #19903589336:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:49:01 (ET)
+Table 'Brandia IV' 9-max Seat #1 is the button
+Seat 1: Popeye Jones ($25 in chips) 
+Seat 3: silver2871 ($41.20 in chips) 
+Seat 5: k030101 ($57.90 in chips) 
+Seat 6: DontShowMe ($4.55 in chips) 
+Seat 7: Alameda22 ($40.70 in chips) 
+Seat 8: Cardini 23 ($24.65 in chips) 
+Seat 9: Energizerbun ($23.65 in chips) 
+silver2871: posts small blind $0.10
+k030101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Ts]
+DontShowMe: folds 
+1BIGDEAL1 leaves the table
+garyfmarsh joins the table at seat #4 
+Alameda22: folds 
+Cardini 23: folds 
+Energizerbun: folds 
+Popeye Jones: folds 
+silver2871: folds 
+Uncalled bet ($0.15) returned to k030101
+k030101 collected $0.20 from pot
+k030101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Popeye Jones (button) folded before Flop (didn't bet)
+Seat 3: silver2871 (small blind) folded before Flop
+Seat 5: k030101 (big blind) collected ($0.20)
+Seat 6: DontShowMe folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Cardini 23 folded before Flop (didn't bet)
+Seat 9: Energizerbun folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903601411:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:49:39 (ET)
+Table 'Brandia IV' 9-max Seat #3 is the button
+Seat 1: Popeye Jones ($25 in chips) 
+Seat 3: silver2871 ($41.10 in chips) 
+Seat 5: k030101 ($58 in chips) 
+Seat 6: DontShowMe ($4.55 in chips) 
+Seat 7: Alameda22 ($40.70 in chips) 
+Seat 8: Cardini 23 ($24.65 in chips) 
+Seat 9: Energizerbun ($23.65 in chips) 
+garyfmarsh will be allowed to play after the button
+k030101: posts small blind $0.10
+DontShowMe: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Kh]
+Alameda22: folds 
+Cardini 23: folds 
+Energizerbun: folds 
+Popeye Jones: folds 
+silver2871: raises $0.50 to $0.75
+k030101: folds 
+DontShowMe: calls $0.50
+*** FLOP *** [Ts Jh 9s]
+DontShowMe: checks 
+silver2871: bets $1
+DontShowMe: folds 
+Uncalled bet ($1) returned to silver2871
+silver2871 collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Ts Jh 9s]
+Seat 1: Popeye Jones folded before Flop (didn't bet)
+Seat 3: silver2871 (button) collected ($1.55)
+Seat 5: k030101 (small blind) folded before Flop
+Seat 6: DontShowMe (big blind) folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Cardini 23 folded before Flop (didn't bet)
+Seat 9: Energizerbun folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903614820:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:50:21 (ET)
+Table 'Brandia IV' 9-max Seat #5 is the button
+Seat 1: Popeye Jones ($25 in chips) 
+Seat 3: silver2871 ($41.90 in chips) 
+Seat 4: garyfmarsh ($25 in chips) 
+Seat 5: k030101 ($57.90 in chips) 
+Seat 6: DontShowMe ($3.80 in chips) 
+Seat 7: Alameda22 ($40.70 in chips) 
+Seat 8: Cardini 23 ($24.65 in chips) 
+Seat 9: Energizerbun ($23.65 in chips) 
+DontShowMe: posts small blind $0.10
+Alameda22: posts big blind $0.25
+garyfmarsh: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 7d]
+Cardini 23: folds 
+Energizerbun: folds 
+Popeye Jones: folds 
+silver2871: folds 
+garyfmarsh: checks 
+k030101: folds 
+DontShowMe: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Kd 3d 2c]
+DontShowMe: bets $0.50
+Alameda22: calls $0.50
+garyfmarsh: folds 
+*** TURN *** [Kd 3d 2c] [2d]
+DontShowMe: bets $0.50
+Alameda22: raises $1 to $1.50
+DontShowMe: folds 
+Uncalled bet ($1) returned to Alameda22
+Alameda22 collected $2.65 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [Kd 3d 2c 2d]
+Seat 1: Popeye Jones folded before Flop (didn't bet)
+Seat 3: silver2871 folded before Flop (didn't bet)
+Seat 4: garyfmarsh folded on the Flop
+Seat 5: k030101 (button) folded before Flop (didn't bet)
+Seat 6: DontShowMe (small blind) folded on the Turn
+Seat 7: Alameda22 (big blind) collected ($2.65)
+Seat 8: Cardini 23 folded before Flop (didn't bet)
+Seat 9: Energizerbun folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903638450:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:51:35 (ET)
+Table 'Brandia IV' 9-max Seat #6 is the button
+Seat 1: Popeye Jones ($25 in chips) 
+Seat 3: silver2871 ($41.90 in chips) 
+Seat 4: garyfmarsh ($24.75 in chips) 
+Seat 5: k030101 ($57.90 in chips) 
+Seat 6: DontShowMe ($2.55 in chips) 
+Seat 7: Alameda22 ($42.10 in chips) 
+Seat 8: Cardini 23 ($24.65 in chips) 
+Seat 9: Energizerbun ($23.65 in chips) 
+Alameda22: posts small blind $0.10
+Cardini 23: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Qs]
+Energizerbun: folds 
+Popeye Jones: folds 
+silver2871: folds 
+garyfmarsh: folds 
+k030101: folds 
+DontShowMe: folds 
+Alameda22: folds 
+Uncalled bet ($0.15) returned to Cardini 23
+Cardini 23 collected $0.20 from pot
+Cardini 23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Popeye Jones folded before Flop (didn't bet)
+Seat 3: silver2871 folded before Flop (didn't bet)
+Seat 4: garyfmarsh folded before Flop (didn't bet)
+Seat 5: k030101 folded before Flop (didn't bet)
+Seat 6: DontShowMe (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: Cardini 23 (big blind) collected ($0.20)
+Seat 9: Energizerbun folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903644412:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:51:54 (ET)
+Table 'Brandia IV' 9-max Seat #7 is the button
+Seat 1: Popeye Jones ($25 in chips) 
+Seat 3: silver2871 ($41.90 in chips) 
+Seat 4: garyfmarsh ($24.75 in chips) 
+Seat 5: k030101 ($57.90 in chips) 
+Seat 6: DontShowMe ($2.55 in chips) 
+Seat 7: Alameda22 ($42 in chips) 
+Seat 8: Cardini 23 ($24.75 in chips) 
+Seat 9: Energizerbun ($23.65 in chips) 
+Cardini 23: posts small blind $0.10
+Energizerbun: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 3c]
+Popeye Jones: folds 
+silver2871: folds 
+garyfmarsh: folds 
+k030101: folds 
+DontShowMe: folds 
+Alameda22: raises $0.50 to $0.75
+Cardini 23: folds 
+Energizerbun: calls $0.50
+*** FLOP *** [Jc 8h 6d]
+Energizerbun: checks 
+Alameda22: checks 
+*** TURN *** [Jc 8h 6d] [4d]
+Energizerbun: checks 
+Alameda22: checks 
+*** RIVER *** [Jc 8h 6d 4d] [Tc]
+Energizerbun: checks 
+Alameda22: checks 
+*** SHOW DOWN ***
+Energizerbun: shows [Kh 5h] (high card King)
+Alameda22: shows [Ac 3c] (high card Ace)
+Alameda22 collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [Jc 8h 6d 4d Tc]
+Seat 1: Popeye Jones folded before Flop (didn't bet)
+Seat 3: silver2871 folded before Flop (didn't bet)
+Seat 4: garyfmarsh folded before Flop (didn't bet)
+Seat 5: k030101 folded before Flop (didn't bet)
+Seat 6: DontShowMe folded before Flop (didn't bet)
+Seat 7: Alameda22 (button) showed [Ac 3c] and won ($1.55) with high card Ace
+Seat 8: Cardini 23 (small blind) folded before Flop
+Seat 9: Energizerbun (big blind) showed [Kh 5h] and lost with high card King
+
+
+
+PokerStars Game #19903668067:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:53:09 (ET)
+Table 'Brandia IV' 9-max Seat #8 is the button
+Seat 1: Popeye Jones ($25 in chips) 
+Seat 3: silver2871 ($41.90 in chips) 
+Seat 4: garyfmarsh ($24.75 in chips) 
+Seat 5: k030101 ($57.90 in chips) 
+Seat 6: DontShowMe ($2.55 in chips) 
+Seat 7: Alameda22 ($42.80 in chips) 
+Seat 8: Cardini 23 ($24.65 in chips) 
+Seat 9: Energizerbun ($22.90 in chips) 
+Energizerbun: posts small blind $0.10
+Popeye Jones: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 4h]
+silver2871: folds 
+garyfmarsh: folds 
+k030101: folds 
+DontShowMe: folds 
+Alameda22: folds 
+Cardini 23: raises $0.75 to $1
+Energizerbun: calls $0.90
+Popeye Jones: folds 
+*** FLOP *** [Js As 5h]
+Energizerbun: checks 
+Cardini 23: bets $1.50
+Energizerbun: raises $4 to $5.50
+Cardini 23: folds 
+Uncalled bet ($4) returned to Energizerbun
+Energizerbun collected $5 from pot
+Energizerbun: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [Js As 5h]
+Seat 1: Popeye Jones (big blind) folded before Flop
+Seat 3: silver2871 folded before Flop (didn't bet)
+Seat 4: garyfmarsh folded before Flop (didn't bet)
+Seat 5: k030101 folded before Flop (didn't bet)
+Seat 6: DontShowMe folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Cardini 23 (button) folded on the Flop
+Seat 9: Energizerbun (small blind) collected ($5)
+
+
+
+PokerStars Game #19903685427:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:54:03 (ET)
+Table 'Brandia IV' 9-max Seat #9 is the button
+Seat 1: Popeye Jones ($24.75 in chips) 
+Seat 3: silver2871 ($41.90 in chips) 
+Seat 4: garyfmarsh ($24.75 in chips) 
+Seat 5: k030101 ($57.90 in chips) 
+Seat 6: DontShowMe ($2.55 in chips) 
+Seat 7: Alameda22 ($42.80 in chips) 
+Seat 8: Cardini 23 ($25 in chips) 
+Seat 9: Energizerbun ($25.40 in chips) 
+Popeye Jones: posts small blind $0.10
+silver2871: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 5d]
+garyfmarsh: folds 
+k030101: folds 
+DontShowMe: calls $0.25
+Alameda22: folds 
+Cardini 23: folds 
+Energizerbun: folds 
+Popeye Jones: calls $0.15
+silver2871: checks 
+*** FLOP *** [Th Jd 9h]
+Popeye Jones: checks 
+silver2871: bets $0.75
+DontShowMe: calls $0.75
+Popeye Jones: folds 
+*** TURN *** [Th Jd 9h] [Kh]
+silver2871: bets $1.75
+DontShowMe: calls $1.55 and is all-in
+Uncalled bet ($0.20) returned to silver2871
+*** RIVER *** [Th Jd 9h Kh] [6d]
+*** SHOW DOWN ***
+silver2871: shows [8c 7c] (a straight, Seven to Jack)
+DontShowMe: shows [5h Qh] (a flush, King high)
+DontShowMe collected $5.10 from pot
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.25 
+Board [Th Jd 9h Kh 6d]
+Seat 1: Popeye Jones (small blind) folded on the Flop
+Seat 3: silver2871 (big blind) showed [8c 7c] and lost with a straight, Seven to Jack
+Seat 4: garyfmarsh folded before Flop (didn't bet)
+Seat 5: k030101 folded before Flop (didn't bet)
+Seat 6: DontShowMe showed [5h Qh] and won ($5.10) with a flush, King high
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Cardini 23 folded before Flop (didn't bet)
+Seat 9: Energizerbun (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903708959:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:55:18 (ET)
+Table 'Brandia IV' 9-max Seat #1 is the button
+Seat 1: Popeye Jones ($25 in chips) 
+Seat 3: silver2871 ($39.35 in chips) 
+Seat 4: garyfmarsh ($24.75 in chips) 
+Seat 5: k030101 ($57.90 in chips) 
+Seat 6: DontShowMe ($5.10 in chips) 
+Seat 7: Alameda22 ($42.80 in chips) 
+Seat 8: Cardini 23 ($25 in chips) 
+Seat 9: Energizerbun ($25.40 in chips) 
+Aioras was removed from the table for failing to post
+silver2871: posts small blind $0.10
+garyfmarsh: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Js]
+LuryWW joins the table at seat #2 
+k030101: folds 
+DontShowMe: calls $0.25
+Alameda22: folds 
+Cardini 23: calls $0.25
+Energizerbun: folds 
+Popeye Jones: raises $1 to $1.25
+silver2871: folds 
+garyfmarsh: folds 
+DontShowMe: calls $1
+Cardini 23: calls $1
+*** FLOP *** [4h Td 3s]
+DontShowMe: checks 
+Cardini 23: checks 
+Popeye Jones: bets $2.50
+DontShowMe: raises $1.35 to $3.85 and is all-in
+Cardini 23: folds 
+Popeye Jones: calls $1.35
+*** TURN *** [4h Td 3s] [8c]
+*** RIVER *** [4h Td 3s 8c] [6h]
+*** SHOW DOWN ***
+DontShowMe: shows [4d 4s] (three of a kind, Fours)
+Popeye Jones: mucks hand 
+DontShowMe collected $11.25 from pot
+*** SUMMARY ***
+Total pot $11.80 | Rake $0.55 
+Board [4h Td 3s 8c 6h]
+Seat 1: Popeye Jones (button) mucked [Qc Kc]
+Seat 3: silver2871 (small blind) folded before Flop
+Seat 4: garyfmarsh (big blind) folded before Flop
+Seat 5: k030101 folded before Flop (didn't bet)
+Seat 6: DontShowMe showed [4d 4s] and won ($11.25) with three of a kind, Fours
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Cardini 23 folded on the Flop
+Seat 9: Energizerbun folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903737065:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:56:48 (ET)
+Table 'Brandia IV' 9-max Seat #3 is the button
+Seat 1: Popeye Jones ($25 in chips) 
+Seat 3: silver2871 ($39.25 in chips) 
+Seat 4: garyfmarsh ($24.50 in chips) 
+Seat 5: k030101 ($57.90 in chips) 
+Seat 6: DontShowMe ($11.25 in chips) 
+Seat 7: Alameda22 ($42.80 in chips) 
+Seat 8: Cardini 23 ($23.75 in chips) 
+Seat 9: Energizerbun ($25.40 in chips) 
+garyfmarsh: posts small blind $0.10
+k030101: posts big blind $0.25
+LuryWW: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd Jc]
+DontShowMe: calls $0.25
+Alameda22: raises $0.75 to $1
+Cardini 23: folds 
+Energizerbun: folds 
+Popeye Jones: folds 
+silver2871: calls $1
+garyfmarsh: folds 
+k030101: folds 
+DontShowMe: calls $0.75
+*** FLOP *** [Qs 7s Ks]
+DontShowMe: checks 
+Alameda22: bets $2
+silver2871: folds 
+DontShowMe: folds 
+Uncalled bet ($2) returned to Alameda22
+Alameda22 collected $3.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [Qs 7s Ks]
+Seat 1: Popeye Jones folded before Flop (didn't bet)
+Seat 3: silver2871 (button) folded on the Flop
+Seat 4: garyfmarsh (small blind) folded before Flop
+Seat 5: k030101 (big blind) folded before Flop
+Seat 6: DontShowMe folded on the Flop
+Seat 7: Alameda22 collected ($3.20)
+Seat 8: Cardini 23 folded before Flop (didn't bet)
+Seat 9: Energizerbun folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903761412:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:58:07 (ET)
+Table 'Brandia IV' 9-max Seat #4 is the button
+Seat 1: Popeye Jones ($25 in chips) 
+Seat 3: silver2871 ($38.25 in chips) 
+Seat 4: garyfmarsh ($25 in chips) 
+Seat 5: k030101 ($57.65 in chips) 
+Seat 6: DontShowMe ($10.25 in chips) 
+Seat 7: Alameda22 ($45 in chips) 
+Seat 8: Cardini 23 ($23.75 in chips) 
+Seat 9: Energizerbun ($25.40 in chips) 
+k030101: posts small blind $0.10
+DontShowMe: posts big blind $0.25
+LuryWW: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 9c]
+Alameda22: folds 
+Cardini 23: folds 
+Energizerbun: folds 
+Popeye Jones: folds 
+silver2871: folds 
+garyfmarsh: raises $0.75 to $1
+k030101: folds 
+DontShowMe: folds 
+Uncalled bet ($0.75) returned to garyfmarsh
+garyfmarsh collected $0.60 from pot
+garyfmarsh: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Popeye Jones folded before Flop (didn't bet)
+Seat 3: silver2871 folded before Flop (didn't bet)
+Seat 4: garyfmarsh (button) collected ($0.60)
+Seat 5: k030101 (small blind) folded before Flop
+Seat 6: DontShowMe (big blind) folded before Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: Cardini 23 folded before Flop (didn't bet)
+Seat 9: Energizerbun folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903775735:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:58:54 (ET)
+Table 'Brandia IV' 9-max Seat #5 is the button
+Seat 1: Popeye Jones ($25 in chips) 
+Seat 3: silver2871 ($38.25 in chips) 
+Seat 4: garyfmarsh ($25.35 in chips) 
+Seat 5: k030101 ($57.55 in chips) 
+Seat 6: DontShowMe ($10 in chips) 
+Seat 7: Alameda22 ($45 in chips) 
+Seat 8: Cardini 23 ($23.75 in chips) 
+Seat 9: Energizerbun ($25.40 in chips) 
+DontShowMe: posts small blind $0.10
+Alameda22: posts big blind $0.25
+LuryWW: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 9s]
+Cardini 23: folds 
+Energizerbun: folds 
+Popeye Jones: raises $0.50 to $0.75
+silver2871: calls $0.75
+garyfmarsh: folds 
+k030101: folds 
+DontShowMe: folds 
+Alameda22: folds 
+*** FLOP *** [2c 5d Jc]
+Popeye Jones: bets $1
+silver2871: folds 
+Uncalled bet ($1) returned to Popeye Jones
+Popeye Jones collected $1.80 from pot
+Popeye Jones: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [2c 5d Jc]
+Seat 1: Popeye Jones collected ($1.80)
+Seat 3: silver2871 folded on the Flop
+Seat 4: garyfmarsh folded before Flop (didn't bet)
+Seat 5: k030101 (button) folded before Flop (didn't bet)
+Seat 6: DontShowMe (small blind) folded before Flop
+Seat 7: Alameda22 (big blind) folded before Flop
+Seat 8: Cardini 23 folded before Flop (didn't bet)
+Seat 9: Energizerbun folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903792374:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:59:48 (ET)
+Table 'Brandia IV' 9-max Seat #6 is the button
+Seat 1: Popeye Jones ($26.05 in chips) 
+Seat 3: silver2871 ($37.50 in chips) 
+Seat 4: garyfmarsh ($25.35 in chips) 
+Seat 5: k030101 ($57.55 in chips) 
+Seat 6: DontShowMe ($9.90 in chips) 
+Seat 7: Alameda22 ($44.75 in chips) 
+Seat 8: Cardini 23 ($23.75 in chips) 
+Seat 9: Energizerbun ($25.40 in chips) 
+Alameda22: posts small blind $0.10
+Cardini 23: posts big blind $0.25
+LuryWW: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Jc]
+Energizerbun: folds 
+Popeye Jones: folds 
+silver2871: folds 
+garyfmarsh: raises $0.75 to $1
+k030101: folds 
+DontShowMe: folds 
+Alameda22: folds 
+Cardini 23: folds 
+Uncalled bet ($0.75) returned to garyfmarsh
+garyfmarsh collected $0.60 from pot
+garyfmarsh: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Popeye Jones folded before Flop (didn't bet)
+Seat 3: silver2871 folded before Flop (didn't bet)
+Seat 4: garyfmarsh collected ($0.60)
+Seat 5: k030101 folded before Flop (didn't bet)
+Seat 6: DontShowMe (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: Cardini 23 (big blind) folded before Flop
+Seat 9: Energizerbun folded before Flop (didn't bet)
+
+
+

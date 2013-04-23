@@ -1,0 +1,2647 @@
+PokerStars Game #19273655660:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:09:37 (ET)
+Table 'Watsonia' 9-max Seat #1 is the button
+Seat 1: goland1 ($22.70 in chips) 
+Seat 2: zzGiant ($6.95 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: zyx7000 ($8.05 in chips) 
+Seat 5: haui8 ($12.75 in chips) 
+Seat 6: siebersd ($14.60 in chips) 
+Seat 7: KoRn1337 ($28.60 in chips) 
+Seat 8: board2 ($24.35 in chips) 
+Seat 9: Alboub2001 ($8.15 in chips) 
+zzGiant: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 3h]
+zyx7000: calls $0.25
+haui8: calls $0.25
+siebersd: folds 
+KoRn1337: folds 
+board2: folds 
+Alboub2001: folds 
+goland1: folds 
+zzGiant: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Jc 5d 8h]
+zzGiant: checks 
+Alameda22: checks 
+zyx7000: checks 
+haui8: bets $0.25
+zzGiant: folds 
+Alameda22: folds 
+zyx7000: calls $0.25
+*** TURN *** [Jc 5d 8h] [Th]
+zyx7000: checks 
+haui8: checks 
+*** RIVER *** [Jc 5d 8h Th] [Kd]
+zyx7000: bets $0.50
+haui8: raises $0.50 to $1
+zyx7000: calls $0.50
+*** SHOW DOWN ***
+haui8: shows [As 8c] (a pair of Eights)
+zyx7000: shows [Qs Kh] (a pair of Kings)
+zyx7000 collected $3.35 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [Jc 5d 8h Th Kd]
+Seat 1: goland1 (button) folded before Flop (didn't bet)
+Seat 2: zzGiant (small blind) folded on the Flop
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 4: zyx7000 showed [Qs Kh] and won ($3.35) with a pair of Kings
+Seat 5: haui8 showed [As 8c] and lost with a pair of Eights
+Seat 6: siebersd folded before Flop (didn't bet)
+Seat 7: KoRn1337 folded before Flop (didn't bet)
+Seat 8: board2 folded before Flop (didn't bet)
+Seat 9: Alboub2001 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273672882:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:10:28 (ET)
+Table 'Watsonia' 9-max Seat #2 is the button
+Seat 1: goland1 ($22.70 in chips) 
+Seat 2: zzGiant ($6.70 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: zyx7000 ($9.90 in chips) 
+Seat 5: haui8 ($11.25 in chips) 
+Seat 6: siebersd ($14.60 in chips) 
+Seat 7: KoRn1337 ($28.60 in chips) 
+Seat 8: board2 ($24.35 in chips) 
+Seat 9: Alboub2001 ($8.15 in chips) 
+Alameda22: posts small blind $0.10
+zyx7000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s Ts]
+haui8: calls $0.25
+siebersd: calls $0.25
+KoRn1337: calls $0.25
+board2: folds 
+Alboub2001: calls $0.25
+goland1: folds 
+zzGiant: folds 
+Alameda22: calls $0.15
+zyx7000: checks 
+*** FLOP *** [Th 2d 3c]
+Alameda22: checks 
+zyx7000: checks 
+haui8: checks 
+siebersd: bets $0.50
+KoRn1337: folds 
+Alboub2001: folds 
+Alameda22: folds 
+zyx7000: folds 
+haui8: folds 
+Uncalled bet ($0.50) returned to siebersd
+siebersd collected $1.45 from pot
+siebersd: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Th 2d 3c]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: zzGiant (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded on the Flop
+Seat 4: zyx7000 (big blind) folded on the Flop
+Seat 5: haui8 folded on the Flop
+Seat 6: siebersd collected ($1.45)
+Seat 7: KoRn1337 folded on the Flop
+Seat 8: board2 folded before Flop (didn't bet)
+Seat 9: Alboub2001 folded on the Flop
+
+
+
+PokerStars Game #19273692775:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:11:27 (ET)
+Table 'Watsonia' 9-max Seat #3 is the button
+Seat 1: goland1 ($22.70 in chips) 
+Seat 2: zzGiant ($6.70 in chips) 
+Seat 3: Alameda22 ($24.50 in chips) 
+Seat 4: zyx7000 ($9.65 in chips) 
+Seat 5: haui8 ($11 in chips) 
+Seat 6: siebersd ($15.80 in chips) 
+Seat 7: KoRn1337 ($28.35 in chips) 
+Seat 8: board2 ($24.35 in chips) 
+Seat 9: Alboub2001 ($7.90 in chips) 
+zyx7000: posts small blind $0.10
+haui8: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 7c]
+siebersd: calls $0.25
+KoRn1337: calls $0.25
+board2: folds 
+Alboub2001: folds 
+goland1: raises $0.50 to $0.75
+zzGiant: folds 
+Alameda22: folds 
+zyx7000: folds 
+haui8: folds 
+siebersd: calls $0.50
+KoRn1337: calls $0.50
+*** FLOP *** [Qs Tc Ad]
+siebersd: checks 
+KoRn1337: checks 
+goland1: bets $1
+siebersd: calls $1
+KoRn1337: folds 
+*** TURN *** [Qs Tc Ad] [6c]
+siebersd: bets $2.50
+goland1: folds 
+Uncalled bet ($2.50) returned to siebersd
+siebersd collected $4.40 from pot
+siebersd: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.20 
+Board [Qs Tc Ad 6c]
+Seat 1: goland1 folded on the Turn
+Seat 2: zzGiant folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: zyx7000 (small blind) folded before Flop
+Seat 5: haui8 (big blind) folded before Flop
+Seat 6: siebersd collected ($4.40)
+Seat 7: KoRn1337 folded on the Flop
+Seat 8: board2 folded before Flop (didn't bet)
+Seat 9: Alboub2001 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273725906:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:13:05 (ET)
+Table 'Watsonia' 9-max Seat #4 is the button
+Seat 1: goland1 ($25 in chips) 
+Seat 2: zzGiant ($6.70 in chips) 
+Seat 3: Alameda22 ($24.50 in chips) 
+Seat 4: zyx7000 ($9.55 in chips) 
+Seat 5: haui8 ($10.75 in chips) 
+Seat 6: siebersd ($18.45 in chips) 
+Seat 7: KoRn1337 ($27.60 in chips) 
+Seat 8: board2 ($24.35 in chips) 
+Seat 9: Alboub2001 ($7.90 in chips) 
+haui8: posts small blind $0.10
+siebersd: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts Js]
+KoRn1337: folds 
+board2: folds 
+board2 is sitting out
+Alboub2001: calls $0.25
+goland1: folds 
+zzGiant: folds 
+Alameda22: raises $0.75 to $1
+zyx7000: folds 
+haui8: folds 
+siebersd: folds 
+Alboub2001: calls $0.75
+*** FLOP *** [5c 4d 5s]
+Alboub2001: checks 
+Alameda22: bets $1.50
+Alboub2001: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $2.25 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [5c 4d 5s]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: zzGiant folded before Flop (didn't bet)
+Seat 3: Alameda22 collected ($2.25)
+Seat 4: zyx7000 (button) folded before Flop (didn't bet)
+Seat 5: haui8 (small blind) folded before Flop
+Seat 6: siebersd (big blind) folded before Flop
+Seat 7: KoRn1337 folded before Flop (didn't bet)
+Seat 8: board2 folded before Flop (didn't bet)
+Seat 9: Alboub2001 folded on the Flop
+
+
+
+PokerStars Game #19273743608:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:13:58 (ET)
+Table 'Watsonia' 9-max Seat #5 is the button
+Seat 1: goland1 ($25 in chips) 
+Seat 2: zzGiant ($6.70 in chips) 
+Seat 3: Alameda22 ($25.75 in chips) 
+Seat 4: zyx7000 ($9.55 in chips) 
+Seat 5: haui8 ($10.65 in chips) 
+Seat 6: siebersd ($18.20 in chips) 
+Seat 7: KoRn1337 ($27.60 in chips) 
+Seat 9: Alboub2001 ($6.90 in chips) 
+siebersd: posts small blind $0.10
+KoRn1337: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 9s]
+Alboub2001: folds 
+goland1: folds 
+zzGiant: folds 
+Alameda22: folds 
+zyx7000: calls $0.25
+haui8: raises $0.25 to $0.50
+siebersd: folds 
+KoRn1337: folds 
+zyx7000: calls $0.25
+*** FLOP *** [Qc Js 8h]
+KoRn1337 leaves the table
+zyx7000: bets $0.50
+haui8: raises $0.50 to $1
+zyx7000: calls $0.50
+*** TURN *** [Qc Js 8h] [4c]
+zyx7000: checks 
+arukufid joins the table at seat #7 
+haui8: checks 
+*** RIVER *** [Qc Js 8h 4c] [7d]
+zyx7000: bets $1
+haui8: raises $1.75 to $2.75
+zyx7000: calls $1.75
+*** SHOW DOWN ***
+haui8: shows [Qs Ac] (a pair of Queens)
+zyx7000: mucks hand 
+haui8 collected $8.45 from pot
+*** SUMMARY ***
+Total pot $8.85 | Rake $0.40 
+Board [Qc Js 8h 4c 7d]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: zzGiant folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: zyx7000 mucked [Ts Qd]
+Seat 5: haui8 (button) showed [Qs Ac] and won ($8.45) with a pair of Queens
+Seat 6: siebersd (small blind) folded before Flop
+Seat 7: KoRn1337 (big blind) folded before Flop
+Seat 9: Alboub2001 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273757004:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:14:37 (ET)
+Table 'Watsonia' 9-max Seat #6 is the button
+Seat 1: goland1 ($25 in chips) 
+Seat 2: zzGiant ($6.70 in chips) 
+Seat 3: Alameda22 ($25.75 in chips) 
+Seat 4: zyx7000 ($5.30 in chips) 
+Seat 5: haui8 ($14.85 in chips) 
+Seat 6: siebersd ($18.10 in chips) 
+Seat 9: Alboub2001 ($6.90 in chips) 
+arukufid will be allowed to play after the button
+Alboub2001: posts small blind $0.10
+goland1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c 8s]
+zzGiant: folds 
+Alameda22: folds 
+zyx7000: calls $0.25
+haui8: calls $0.25
+siebersd: calls $0.25
+Alboub2001: folds 
+goland1: checks 
+*** FLOP *** [Ts 5h 7s]
+goland1: checks 
+zyx7000: bets $0.25
+haui8: calls $0.25
+siebersd: calls $0.25
+goland1: folds 
+*** TURN *** [Ts 5h 7s] [3c]
+zyx7000: bets $0.25
+haui8: raises $0.50 to $0.75
+siebersd: calls $0.75
+zyx7000: calls $0.50
+*** RIVER *** [Ts 5h 7s 3c] [8d]
+zyx7000: checks 
+haui8: bets $2
+siebersd: calls $2
+zyx7000: folds 
+*** SHOW DOWN ***
+haui8: shows [Th 3h] (two pair, Tens and Threes)
+siebersd: mucks hand 
+haui8 collected $7.75 from pot
+*** SUMMARY ***
+Total pot $8.10 | Rake $0.35 
+Board [Ts 5h 7s 3c 8d]
+Seat 1: goland1 (big blind) folded on the Flop
+Seat 2: zzGiant folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: zyx7000 folded on the River
+Seat 5: haui8 showed [Th 3h] and won ($7.75) with two pair, Tens and Threes
+Seat 6: siebersd (button) mucked [8c Ah]
+Seat 9: Alboub2001 (small blind) folded before Flop
+
+
+
+PokerStars Game #19273778518:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:15:40 (ET)
+Table 'Watsonia' 9-max Seat #9 is the button
+Seat 1: goland1 ($24.75 in chips) 
+Seat 2: zzGiant ($6.70 in chips) 
+Seat 3: Alameda22 ($25.75 in chips) 
+Seat 4: zyx7000 ($6.05 in chips) 
+Seat 5: haui8 ($19.35 in chips) 
+Seat 6: siebersd ($14.85 in chips) 
+Seat 9: Alboub2001 ($6.80 in chips) 
+goland1: posts small blind $0.10
+zzGiant: posts big blind $0.25
+arukufid: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 5s]
+Alameda22: folds 
+zyx7000: folds 
+haui8: folds 
+haui8 leaves the table
+siebersd: folds 
+Alboub2001: folds 
+goland1: calls $0.15
+zzGiant: checks 
+*** FLOP *** [Js 2s Ad]
+AACrazyProAA joins the table at seat #5 
+goland1: bets $0.25
+zzGiant: folds 
+Uncalled bet ($0.25) returned to goland1
+goland1 collected $0.50 from pot
+goland1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Js 2s Ad]
+Seat 1: goland1 (small blind) collected ($0.50)
+Seat 2: zzGiant (big blind) folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: zyx7000 folded before Flop (didn't bet)
+Seat 5: haui8 folded before Flop (didn't bet)
+Seat 6: siebersd folded before Flop (didn't bet)
+Seat 9: Alboub2001 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273787843:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:16:07 (ET)
+Table 'Watsonia' 9-max Seat #1 is the button
+Seat 1: goland1 ($25 in chips) 
+Seat 2: zzGiant ($6.45 in chips) 
+Seat 3: Alameda22 ($25.75 in chips) 
+Seat 4: zyx7000 ($6.05 in chips) 
+Seat 6: siebersd ($14.85 in chips) 
+Seat 9: Alboub2001 ($6.80 in chips) 
+zzGiant: posts small blind $0.10
+Alameda22: posts big blind $0.25
+AACrazyProAA: sits out 
+arukufid: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Qd]
+zyx7000: folds 
+siebersd: calls $0.25
+Alboub2001: folds 
+goland1: folds 
+zzGiant: calls $0.15
+Alameda22: checks 
+*** FLOP *** [2s Jh 4c]
+zzGiant: checks 
+Alameda22: checks 
+siebersd: bets $0.50
+zzGiant: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to siebersd
+siebersd collected $0.75 from pot
+siebersd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [2s Jh 4c]
+Seat 1: goland1 (button) folded before Flop (didn't bet)
+Seat 2: zzGiant (small blind) folded on the Flop
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 4: zyx7000 folded before Flop (didn't bet)
+Seat 6: siebersd collected ($0.75)
+Seat 9: Alboub2001 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273803317:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:16:53 (ET)
+Table 'Watsonia' 9-max Seat #2 is the button
+Seat 1: goland1 ($25 in chips) 
+Seat 2: zzGiant ($6.20 in chips) 
+Seat 3: Alameda22 ($25.50 in chips) 
+Seat 4: zyx7000 ($6.05 in chips) 
+Seat 6: siebersd ($15.35 in chips) 
+Seat 9: Alboub2001 ($6.80 in chips) 
+Alameda22: posts small blind $0.10
+zyx7000: posts big blind $0.25
+AACrazyProAA: sits out 
+arukufid: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 4c]
+siebersd: calls $0.25
+Alboub2001: folds 
+goland1: folds 
+zzGiant: folds 
+Alameda22: folds 
+zyx7000: checks 
+*** FLOP *** [3h 8s 8h]
+zyx7000: checks 
+siebersd: checks 
+*** TURN *** [3h 8s 8h] [Jh]
+zyx7000: checks 
+siebersd: checks 
+*** RIVER *** [3h 8s 8h Jh] [3c]
+zyx7000: checks 
+siebersd: checks 
+*** SHOW DOWN ***
+zyx7000: shows [Qh 9d] (two pair, Eights and Threes)
+siebersd: shows [2s Ah] (two pair, Eights and Threes - Ace kicker)
+siebersd collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [3h 8s 8h Jh 3c]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: zzGiant (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: zyx7000 (big blind) showed [Qh 9d] and lost with two pair, Eights and Threes
+Seat 6: siebersd showed [2s Ah] and won ($0.60) with two pair, Eights and Threes
+Seat 9: Alboub2001 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273816225:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:17:31 (ET)
+Table 'Watsonia' 9-max Seat #3 is the button
+Seat 1: goland1 ($25 in chips) 
+Seat 2: zzGiant ($6.20 in chips) 
+Seat 3: Alameda22 ($25.40 in chips) 
+Seat 4: zyx7000 ($5.80 in chips) 
+Seat 5: AACrazyProAA ($25 in chips) 
+Seat 6: siebersd ($15.70 in chips) 
+Seat 9: Alboub2001 ($6.80 in chips) 
+zyx7000: posts small blind $0.10
+AACrazyProAA: posts big blind $0.25
+arukufid: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts As]
+siebersd: folds 
+Alboub2001: calls $0.25
+board2 has returned
+goland1: raises $0.50 to $0.75
+zzGiant: folds 
+Alameda22: folds 
+zyx7000: folds 
+AACrazyProAA: raises $1 to $1.75
+Alboub2001: folds 
+goland1: folds 
+Uncalled bet ($1) returned to AACrazyProAA
+AACrazyProAA collected $1.85 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 1: goland1 folded before Flop
+Seat 2: zzGiant folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: zyx7000 (small blind) folded before Flop
+Seat 5: AACrazyProAA (big blind) collected ($1.85)
+Seat 6: siebersd folded before Flop (didn't bet)
+Seat 9: Alboub2001 folded before Flop
+
+
+
+PokerStars Game #19273832620:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:18:19 (ET)
+Table 'Watsonia' 9-max Seat #4 is the button
+Seat 1: goland1 ($24.25 in chips) 
+Seat 2: zzGiant ($6.20 in chips) 
+Seat 3: Alameda22 ($25.40 in chips) 
+Seat 4: zyx7000 ($5.70 in chips) 
+Seat 5: AACrazyProAA ($26.10 in chips) 
+Seat 6: siebersd ($15.70 in chips) 
+Seat 8: board2 ($24.35 in chips) 
+Seat 9: Alboub2001 ($6.55 in chips) 
+AACrazyProAA: posts small blind $0.10
+siebersd: posts big blind $0.25
+arukufid: sits out 
+board2: posts small blind $0.10
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kd 3d]
+board2: folds 
+Alboub2001: folds 
+goland1: folds 
+zzGiant: folds 
+Alameda22: folds 
+zyx7000: folds 
+AACrazyProAA: raises $0.50 to $0.75
+siebersd: calls $0.50
+*** FLOP *** [3h 5c 7h]
+AACrazyProAA: checks 
+siebersd: bets $0.50
+AACrazyProAA: raises $1 to $1.50
+siebersd: calls $1
+*** TURN *** [3h 5c 7h] [Qh]
+AACrazyProAA: checks 
+siebersd: checks 
+*** RIVER *** [3h 5c 7h Qh] [7s]
+AACrazyProAA: checks 
+siebersd: checks 
+*** SHOW DOWN ***
+AACrazyProAA: shows [5s Kc] (two pair, Sevens and Fives)
+siebersd: mucks hand 
+AACrazyProAA collected $4.40 from pot
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.20 
+Board [3h 5c 7h Qh 7s]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: zzGiant folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: zyx7000 (button) folded before Flop (didn't bet)
+Seat 5: AACrazyProAA (small blind) showed [5s Kc] and won ($4.40) with two pair, Sevens and Fives
+Seat 6: siebersd (big blind) mucked [4d Js]
+Seat 8: board2 folded before Flop
+Seat 9: Alboub2001 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273864390:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:19:45 (ET)
+Table 'Watsonia' 9-max Seat #5 is the button
+Seat 1: goland1 ($24.25 in chips) 
+Seat 2: zzGiant ($6.20 in chips) 
+Seat 3: Alameda22 ($25.40 in chips) 
+Seat 4: zyx7000 ($5.70 in chips) 
+Seat 5: AACrazyProAA ($28.25 in chips) 
+Seat 6: siebersd ($13.45 in chips) 
+Seat 7: arukufid ($15 in chips) 
+Seat 8: board2 ($24.25 in chips) 
+Seat 9: Alboub2001 ($6.55 in chips) 
+siebersd: posts small blind $0.10
+arukufid: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 4s]
+board2: folds 
+Alboub2001: calls $0.25
+goland1: folds 
+zzGiant: folds 
+Alameda22: folds 
+zyx7000: folds 
+AACrazyProAA: folds 
+siebersd: calls $0.15
+arukufid: checks 
+*** FLOP *** [Td 6h 3h]
+siebersd: bets $0.50
+arukufid: folds 
+Alboub2001: folds 
+Uncalled bet ($0.50) returned to siebersd
+siebersd collected $0.75 from pot
+siebersd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Td 6h 3h]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: zzGiant folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: zyx7000 folded before Flop (didn't bet)
+Seat 5: AACrazyProAA (button) folded before Flop (didn't bet)
+Seat 6: siebersd (small blind) collected ($0.75)
+Seat 7: arukufid (big blind) folded on the Flop
+Seat 8: board2 folded before Flop (didn't bet)
+Seat 9: Alboub2001 folded on the Flop
+
+
+
+PokerStars Game #19273883510:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:20:36 (ET)
+Table 'Watsonia' 9-max Seat #6 is the button
+Seat 1: goland1 ($24.25 in chips) 
+Seat 2: zzGiant ($6.20 in chips) 
+Seat 3: Alameda22 ($25.40 in chips) 
+Seat 4: zyx7000 ($5.70 in chips) 
+Seat 5: AACrazyProAA ($28.25 in chips) 
+Seat 6: siebersd ($13.95 in chips) 
+Seat 7: arukufid ($14.75 in chips) 
+Seat 8: board2 ($24.25 in chips) 
+Seat 9: Alboub2001 ($6.30 in chips) 
+arukufid: posts small blind $0.10
+board2: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ts 8c]
+Alboub2001: folds 
+goland1: folds 
+zzGiant: folds 
+Alameda22: folds 
+zyx7000: folds 
+AACrazyProAA: folds 
+siebersd: calls $0.25
+arukufid: folds 
+board2: raises $0.25 to $0.50
+siebersd: calls $0.25
+*** FLOP *** [5d 9s 2c]
+board2: bets $1.25
+siebersd: raises $1.25 to $2.50
+board2: calls $1.25
+*** TURN *** [5d 9s 2c] [3c]
+board2: checks 
+siebersd: bets $2.50
+board2 said, "s-t-l"
+board2: folds 
+Uncalled bet ($2.50) returned to siebersd
+siebersd collected $5.80 from pot
+siebersd: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.10 | Rake $0.30 
+Board [5d 9s 2c 3c]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: zzGiant folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: zyx7000 folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: siebersd (button) collected ($5.80)
+Seat 7: arukufid (small blind) folded before Flop
+Seat 8: board2 (big blind) folded on the Turn
+Seat 9: Alboub2001 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273924993:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:22:26 (ET)
+Table 'Watsonia' 9-max Seat #7 is the button
+Seat 1: goland1 ($24.25 in chips) 
+Seat 2: zzGiant ($6.20 in chips) 
+Seat 3: Alameda22 ($25.40 in chips) 
+Seat 4: zyx7000 ($5.70 in chips) 
+Seat 5: AACrazyProAA ($28.25 in chips) 
+Seat 6: siebersd ($16.75 in chips) 
+Seat 7: arukufid ($14.65 in chips) 
+Seat 8: board2 ($25 in chips) 
+Seat 9: Alboub2001 ($6.30 in chips) 
+board2: posts small blind $0.10
+Alboub2001: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Tc]
+goland1: folds 
+zzGiant: folds 
+Alameda22: folds 
+zyx7000: folds 
+AACrazyProAA: folds 
+siebersd: calls $0.25
+arukufid has timed out
+arukufid: folds 
+arukufid is sitting out
+arukufid has returned
+board2: folds 
+Alboub2001: checks 
+*** FLOP *** [Jh 3c 9s]
+arukufid is sitting out
+Alboub2001: bets $0.75
+siebersd: calls $0.75
+*** TURN *** [Jh 3c 9s] [4d]
+Alboub2001: bets $0.50
+arukufid leaves the table
+siebersd: calls $0.50
+*** RIVER *** [Jh 3c 9s 4d] [8h]
+Alboub2001: bets $0.50
+siebersd: calls $0.50
+*** SHOW DOWN ***
+Alboub2001: shows [6h Jc] (a pair of Jacks)
+siebersd: mucks hand 
+Alboub2001 collected $3.95 from pot
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.15 
+Board [Jh 3c 9s 4d 8h]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: zzGiant folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: zyx7000 folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: siebersd mucked [3s Ac]
+Seat 7: arukufid (button) folded before Flop (didn't bet)
+Seat 8: board2 (small blind) folded before Flop
+Seat 9: Alboub2001 (big blind) showed [6h Jc] and won ($3.95) with a pair of Jacks
+
+
+
+PokerStars Game #19273948261:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:23:29 (ET)
+Table 'Watsonia' 9-max Seat #8 is the button
+Seat 1: goland1 ($24.25 in chips) 
+Seat 2: zzGiant ($6.20 in chips) 
+Seat 3: Alameda22 ($25.40 in chips) 
+Seat 4: zyx7000 ($5.70 in chips) 
+Seat 5: AACrazyProAA ($28.25 in chips) 
+Seat 6: siebersd ($14.75 in chips) 
+Seat 8: board2 ($24.90 in chips) 
+Seat 9: Alboub2001 ($8.25 in chips) 
+Alboub2001: posts small blind $0.10
+goland1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 2h]
+zzGiant: calls $0.25
+Alameda22: folds 
+zyx7000: folds 
+AACrazyProAA: folds 
+siebersd: calls $0.25
+board2: folds 
+Alboub2001: calls $0.15
+goland1: checks 
+*** FLOP *** [7c 3s Kc]
+Alboub2001: bets $0.50
+goland1: folds 
+zzGiant: folds 
+siebersd: calls $0.50
+*** TURN *** [7c 3s Kc] [Qc]
+Alboub2001: bets $0.50
+zzGiant leaves the table
+siebersd: raises $1.50 to $2
+Alboub2001: calls $1.50
+*** RIVER *** [7c 3s Kc Qc] [5h]
+Alboub2001: bets $0.50
+siebersd: raises $2 to $2.50
+Alboub2001: calls $2
+*** SHOW DOWN ***
+siebersd: shows [Ah Ad] (a pair of Aces)
+Alboub2001: shows [2c 8c] (a flush, King high)
+Alboub2001 collected $10.50 from pot
+*** SUMMARY ***
+Total pot $11 | Rake $0.50 
+Board [7c 3s Kc Qc 5h]
+Seat 1: goland1 (big blind) folded on the Flop
+Seat 2: zzGiant folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: zyx7000 folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: siebersd showed [Ah Ad] and lost with a pair of Aces
+Seat 8: board2 (button) folded before Flop (didn't bet)
+Seat 9: Alboub2001 (small blind) showed [2c 8c] and won ($10.50) with a flush, King high
+
+
+
+PokerStars Game #19273980764:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:24:58 (ET)
+Table 'Watsonia' 9-max Seat #9 is the button
+Seat 1: goland1 ($24 in chips) 
+Seat 3: Alameda22 ($25.40 in chips) 
+Seat 4: zyx7000 ($5.70 in chips) 
+Seat 5: AACrazyProAA ($28.25 in chips) 
+Seat 6: siebersd ($9.50 in chips) 
+Seat 8: board2 ($24.90 in chips) 
+Seat 9: Alboub2001 ($13.50 in chips) 
+goland1: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 9s]
+bigred0684 joins the table at seat #2 
+zyx7000: folds 
+AACrazyProAA: folds 
+siebersd: calls $0.25
+board2: folds 
+Alboub2001: folds 
+goland1: folds 
+Alameda22: checks 
+*** FLOP *** [9c 7s Ts]
+Alameda22: checks 
+siebersd: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to siebersd
+siebersd collected $0.60 from pot
+siebersd: doesn't show hand 
+jcwooddy joins the table at seat #7 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [9c 7s Ts]
+Seat 1: goland1 (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 4: zyx7000 folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: siebersd collected ($0.60)
+Seat 8: board2 folded before Flop (didn't bet)
+Seat 9: Alboub2001 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19273994908:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:25:38 (ET)
+Table 'Watsonia' 9-max Seat #1 is the button
+Seat 1: goland1 ($23.90 in chips) 
+Seat 3: Alameda22 ($25.15 in chips) 
+Seat 4: zyx7000 ($5.70 in chips) 
+Seat 5: AACrazyProAA ($28.25 in chips) 
+Seat 6: siebersd ($9.85 in chips) 
+Seat 8: board2 ($24.90 in chips) 
+Seat 9: Alboub2001 ($13.50 in chips) 
+bigred0684 will be allowed to play after the button
+Alameda22: posts small blind $0.10
+zyx7000: posts big blind $0.25
+jcwooddy: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 7s]
+AACrazyProAA: raises $0.75 to $1
+siebersd: folds 
+board2: folds 
+Alboub2001: folds 
+goland1: folds 
+Alameda22: folds 
+zyx7000: folds 
+Uncalled bet ($0.75) returned to AACrazyProAA
+AACrazyProAA collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: goland1 (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: zyx7000 (big blind) folded before Flop
+Seat 5: AACrazyProAA collected ($0.60)
+Seat 6: siebersd folded before Flop (didn't bet)
+Seat 8: board2 folded before Flop (didn't bet)
+Seat 9: Alboub2001 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274001277:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:25:56 (ET)
+Table 'Watsonia' 9-max Seat #3 is the button
+Seat 1: goland1 ($23.90 in chips) 
+Seat 2: bigred0684 ($17.50 in chips) 
+Seat 3: Alameda22 ($25.05 in chips) 
+Seat 4: zyx7000 ($5.45 in chips) 
+Seat 5: AACrazyProAA ($28.60 in chips) 
+Seat 6: siebersd ($9.85 in chips) 
+Seat 8: board2 ($24.90 in chips) 
+Seat 9: Alboub2001 ($13.50 in chips) 
+zyx7000: posts small blind $0.10
+AACrazyProAA: posts big blind $0.25
+jcwooddy: sits out 
+bigred0684: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h 5s]
+siebersd: calls $0.25
+board2: folds 
+Alboub2001: folds 
+goland1: raises $0.50 to $0.75
+bigred0684: raises $0.75 to $1.50
+Alameda22: folds 
+zyx7000: folds 
+AACrazyProAA: folds 
+siebersd: calls $1.25
+goland1: calls $0.75
+*** FLOP *** [Jh Jc 8h]
+siebersd: bets $2
+goland1: folds 
+bigred0684: calls $2
+*** TURN *** [Jh Jc 8h] [7c]
+siebersd: bets $2
+bigred0684: raises $3.50 to $5.50
+siebersd: calls $3.50
+*** RIVER *** [Jh Jc 8h 7c] [8s]
+siebersd: checks 
+bigred0684: bets $1.25
+siebersd: calls $0.85 and is all-in
+Uncalled bet ($0.40) returned to bigred0684
+*** SHOW DOWN ***
+bigred0684: shows [Qh Qc] (two pair, Queens and Jacks)
+siebersd: mucks hand 
+bigred0684 collected $20.55 from pot
+*** SUMMARY ***
+Total pot $21.55 | Rake $1 
+Board [Jh Jc 8h 7c 8s]
+Seat 1: goland1 folded on the Flop
+Seat 2: bigred0684 showed [Qh Qc] and won ($20.55) with two pair, Queens and Jacks
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: zyx7000 (small blind) folded before Flop
+Seat 5: AACrazyProAA (big blind) folded before Flop
+Seat 6: siebersd mucked [3s 3d]
+Seat 8: board2 folded before Flop (didn't bet)
+Seat 9: Alboub2001 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274027625:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:27:12 (ET)
+Table 'Watsonia' 9-max Seat #4 is the button
+Seat 1: goland1 ($22.40 in chips) 
+Seat 2: bigred0684 ($28.20 in chips) 
+Seat 3: Alameda22 ($25.05 in chips) 
+Seat 4: zyx7000 ($5.35 in chips) 
+Seat 5: AACrazyProAA ($28.35 in chips) 
+Seat 7: jcwooddy ($10 in chips) 
+Seat 8: board2 ($24.90 in chips) 
+Seat 9: Alboub2001 ($13.50 in chips) 
+AACrazyProAA: posts small blind $0.10
+jcwooddy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 5h]
+siebersd has returned
+board2: folds 
+Alboub2001: calls $0.25
+goland1: folds 
+bigred0684: folds 
+Alameda22: folds 
+zyx7000: calls $0.25
+AACrazyProAA: folds 
+jcwooddy: checks 
+*** FLOP *** [2h 9c Kh]
+jcwooddy: checks 
+Alboub2001: bets $0.75
+zyx7000: calls $0.75
+jcwooddy: folds 
+*** TURN *** [2h 9c Kh] [Ah]
+Alboub2001: checks 
+zyx7000: bets $2
+Alboub2001: calls $2
+*** RIVER *** [2h 9c Kh Ah] [7c]
+Alboub2001: bets $1
+zyx7000: raises $1 to $2
+Alboub2001: calls $1
+*** SHOW DOWN ***
+zyx7000: shows [7h 8h] (a flush, Ace high)
+Alboub2001: mucks hand 
+zyx7000 collected $9.85 from pot
+*** SUMMARY ***
+Total pot $10.35 | Rake $0.50 
+Board [2h 9c Kh Ah 7c]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: bigred0684 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: zyx7000 (button) showed [7h 8h] and won ($9.85) with a flush, Ace high
+Seat 5: AACrazyProAA (small blind) folded before Flop
+Seat 7: jcwooddy (big blind) folded on the Flop
+Seat 8: board2 folded before Flop (didn't bet)
+Seat 9: Alboub2001 mucked [Ks 2s]
+
+
+
+PokerStars Game #19274058718:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:28:41 (ET)
+Table 'Watsonia' 9-max Seat #5 is the button
+Seat 1: goland1 ($22.40 in chips) 
+Seat 2: bigred0684 ($28.20 in chips) 
+Seat 3: Alameda22 ($25.05 in chips) 
+Seat 4: zyx7000 ($10.20 in chips) 
+Seat 5: AACrazyProAA ($28.25 in chips) 
+Seat 7: jcwooddy ($9.75 in chips) 
+Seat 8: board2 ($24.90 in chips) 
+Seat 9: Alboub2001 ($8.50 in chips) 
+siebersd will be allowed to play after the button
+jcwooddy: posts small blind $0.10
+board2: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s Jd]
+Alboub2001: folds 
+Alboub2001 leaves the table
+goland1: folds 
+bigred0684: folds 
+Alameda22: folds 
+zyx7000: folds 
+Puff Man joins the table at seat #9 
+AACrazyProAA: folds 
+jcwooddy: calls $0.15
+board2: raises $0.50 to $0.75
+jcwooddy: folds 
+Uncalled bet ($0.50) returned to board2
+board2 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: bigred0684 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: zyx7000 folded before Flop (didn't bet)
+Seat 5: AACrazyProAA (button) folded before Flop (didn't bet)
+Seat 7: jcwooddy (small blind) folded before Flop
+Seat 8: board2 (big blind) collected ($0.50)
+Seat 9: Alboub2001 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274070781:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:29:16 (ET)
+Table 'Watsonia' 9-max Seat #7 is the button
+Seat 1: goland1 ($22.40 in chips) 
+Seat 2: bigred0684 ($28.20 in chips) 
+Seat 3: Alameda22 ($25.05 in chips) 
+Seat 4: zyx7000 ($10.20 in chips) 
+Seat 5: AACrazyProAA ($28.25 in chips) 
+Seat 6: siebersd ($10 in chips) 
+Seat 7: jcwooddy ($9.50 in chips) 
+Seat 8: board2 ($25.15 in chips) 
+Seat 9: Puff Man ($10 in chips) 
+board2: posts small blind $0.10
+Puff Man: posts big blind $0.25
+siebersd: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 6s]
+goland1: folds 
+bigred0684: folds 
+bigred0684 leaves the table
+Alameda22: folds 
+beldhar77 joins the table at seat #2 
+zyx7000: calls $0.25
+AACrazyProAA: folds 
+siebersd: checks 
+jcwooddy: folds 
+board2: calls $0.15
+Puff Man: checks 
+*** FLOP *** [Jh 4h 5c]
+board2: checks 
+Puff Man: checks 
+zyx7000: bets $0.75
+siebersd: calls $0.75
+board2: folds 
+Puff Man: folds 
+*** TURN *** [Jh 4h 5c] [2h]
+zyx7000: checks 
+siebersd: bets $1
+zyx7000: folds 
+Uncalled bet ($1) returned to siebersd
+siebersd collected $2.50 from pot
+siebersd: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Jh 4h 5c 2h]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: bigred0684 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: zyx7000 folded on the Turn
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: siebersd collected ($2.50)
+Seat 7: jcwooddy (button) folded before Flop (didn't bet)
+Seat 8: board2 (small blind) folded on the Flop
+Seat 9: Puff Man (big blind) folded on the Flop
+
+
+
+PokerStars Game #19274092322:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:30:19 (ET)
+Table 'Watsonia' 9-max Seat #8 is the button
+Seat 1: goland1 ($22.40 in chips) 
+Seat 3: Alameda22 ($25.05 in chips) 
+Seat 4: zyx7000 ($9.20 in chips) 
+Seat 5: AACrazyProAA ($28.25 in chips) 
+Seat 6: siebersd ($11.40 in chips) 
+Seat 7: jcwooddy ($9.50 in chips) 
+Seat 8: board2 ($24.90 in chips) 
+Seat 9: Puff Man ($9.75 in chips) 
+Puff Man: posts small blind $0.10
+goland1: posts big blind $0.25
+beldhar77: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h 5s]
+Alameda22: folds 
+zyx7000: folds 
+AACrazyProAA: folds 
+siebersd: folds 
+jcwooddy: calls $0.25
+board2: calls $0.25
+Puff Man: calls $0.15
+goland1: checks 
+*** FLOP *** [3c 2s 8d]
+Puff Man: bets $0.50
+goland1: folds 
+jcwooddy: raises $0.50 to $1
+zyx7000 leaves the table
+board2: folds 
+Puff Man: calls $0.50
+*** TURN *** [3c 2s 8d] [Js]
+Puff Man: checks 
+jcwooddy: bets $1
+Puff Man: folds 
+Uncalled bet ($1) returned to jcwooddy
+jcwooddy collected $2.90 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.10 
+Board [3c 2s 8d Js]
+Seat 1: goland1 (big blind) folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: zyx7000 folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: siebersd folded before Flop (didn't bet)
+Seat 7: jcwooddy collected ($2.90)
+Seat 8: board2 (button) folded on the Flop
+Seat 9: Puff Man (small blind) folded on the Turn
+
+
+
+PokerStars Game #19274118735:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:31:32 (ET)
+Table 'Watsonia' 9-max Seat #9 is the button
+Seat 1: goland1 ($22.15 in chips) 
+Seat 2: beldhar77 ($15 in chips) 
+Seat 3: Alameda22 ($25.05 in chips) 
+Seat 5: AACrazyProAA ($28.25 in chips) 
+Seat 6: siebersd ($11.40 in chips) 
+Seat 7: jcwooddy ($11.15 in chips) 
+Seat 8: board2 ($24.65 in chips) 
+Seat 9: Puff Man ($8.50 in chips) 
+goland1: posts small blind $0.10
+beldhar77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc Ks]
+Alameda22: raises $0.75 to $1
+lepsyl joins the table at seat #4 
+AACrazyProAA: folds 
+siebersd: folds 
+jcwooddy: calls $1
+board2: folds 
+Puff Man: folds 
+goland1: folds 
+beldhar77: calls $0.75
+*** FLOP *** [Ad 7d 7c]
+beldhar77: checks 
+Alameda22: bets $2
+jcwooddy: calls $2
+beldhar77: folds 
+*** TURN *** [Ad 7d 7c] [5s]
+Alameda22: checks 
+jcwooddy: bets $1.50
+Alameda22: calls $1.50
+*** RIVER *** [Ad 7d 7c 5s] [5h]
+Alameda22: checks 
+jcwooddy: checks 
+*** SHOW DOWN ***
+Alameda22: shows [Kc Ks] (two pair, Kings and Sevens)
+jcwooddy: shows [4s Ah] (two pair, Aces and Sevens)
+jcwooddy collected $9.65 from pot
+*** SUMMARY ***
+Total pot $10.10 | Rake $0.45 
+Board [Ad 7d 7c 5s 5h]
+Seat 1: goland1 (small blind) folded before Flop
+Seat 2: beldhar77 (big blind) folded on the Flop
+Seat 3: Alameda22 showed [Kc Ks] and lost with two pair, Kings and Sevens
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: siebersd folded before Flop (didn't bet)
+Seat 7: jcwooddy showed [4s Ah] and won ($9.65) with two pair, Aces and Sevens
+Seat 8: board2 folded before Flop (didn't bet)
+Seat 9: Puff Man (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274140797:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:32:34 (ET)
+Table 'Watsonia' 9-max Seat #1 is the button
+Seat 1: goland1 ($22.05 in chips) 
+Seat 2: beldhar77 ($14 in chips) 
+Seat 3: Alameda22 ($20.55 in chips) 
+Seat 5: AACrazyProAA ($28.25 in chips) 
+Seat 6: siebersd ($11.40 in chips) 
+Seat 7: jcwooddy ($16.30 in chips) 
+Seat 8: board2 ($24.65 in chips) 
+Seat 9: Puff Man ($8.50 in chips) 
+beldhar77: posts small blind $0.10
+Alameda22: posts big blind $0.25
+lepsyl: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [3d Th]
+AACrazyProAA has timed out
+AACrazyProAA: folds 
+AACrazyProAA is sitting out
+AACrazyProAA has returned
+siebersd: calls $0.25
+jcwooddy: folds 
+board2: folds 
+Puff Man: folds 
+goland1: folds 
+beldhar77: calls $0.15
+Alameda22: checks 
+*** FLOP *** [7c Kc 3s]
+beldhar77: bets $0.50
+Alameda22: folds 
+siebersd: calls $0.50
+*** TURN *** [7c Kc 3s] [2c]
+beldhar77: checks 
+siebersd: bets $1
+beldhar77: raises $2 to $3
+siebersd: folds 
+Uncalled bet ($2) returned to beldhar77
+beldhar77 collected $3.60 from pot
+beldhar77: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [7c Kc 3s 2c]
+Seat 1: goland1 (button) folded before Flop (didn't bet)
+Seat 2: beldhar77 (small blind) collected ($3.60)
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: siebersd folded on the Turn
+Seat 7: jcwooddy folded before Flop (didn't bet)
+Seat 8: board2 folded before Flop (didn't bet)
+Seat 9: Puff Man folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274169394:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:33:54 (ET)
+Table 'Watsonia' 9-max Seat #2 is the button
+Seat 1: goland1 ($25 in chips) 
+Seat 2: beldhar77 ($15.85 in chips) 
+Seat 3: Alameda22 ($20.30 in chips) 
+Seat 4: lepsyl ($25 in chips) 
+Seat 5: AACrazyProAA ($28.25 in chips) 
+Seat 6: siebersd ($9.65 in chips) 
+Seat 7: jcwooddy ($16.30 in chips) 
+Seat 8: board2 ($24.65 in chips) 
+Seat 9: Puff Man ($8.50 in chips) 
+Alameda22: posts small blind $0.10
+lepsyl: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs Kc]
+AACrazyProAA: folds 
+siebersd: folds 
+jcwooddy: calls $0.25
+board2: folds 
+Puff Man: folds 
+goland1: folds 
+beldhar77: calls $0.25
+Alameda22: calls $0.15
+lepsyl: checks 
+*** FLOP *** [3d 4s Jc]
+Alameda22: checks 
+lepsyl: bets $0.75
+jcwooddy: calls $0.75
+beldhar77: folds 
+Alameda22: folds 
+*** TURN *** [3d 4s Jc] [Qd]
+lepsyl: bets $2
+jcwooddy: folds 
+Uncalled bet ($2) returned to lepsyl
+lepsyl collected $2.40 from pot
+lepsyl: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [3d 4s Jc Qd]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: beldhar77 (button) folded on the Flop
+Seat 3: Alameda22 (small blind) folded on the Flop
+Seat 4: lepsyl (big blind) collected ($2.40)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: siebersd folded before Flop (didn't bet)
+Seat 7: jcwooddy folded on the Turn
+Seat 8: board2 folded before Flop (didn't bet)
+Seat 9: Puff Man folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274191736:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:34:57 (ET)
+Table 'Watsonia' 9-max Seat #3 is the button
+Seat 1: goland1 ($25 in chips) 
+Seat 2: beldhar77 ($15.60 in chips) 
+Seat 3: Alameda22 ($20.05 in chips) 
+Seat 4: lepsyl ($26.40 in chips) 
+Seat 5: AACrazyProAA ($28.25 in chips) 
+Seat 6: siebersd ($9.65 in chips) 
+Seat 7: jcwooddy ($15.30 in chips) 
+Seat 8: board2 ($24.65 in chips) 
+Seat 9: Puff Man ($8.50 in chips) 
+lepsyl: posts small blind $0.10
+AACrazyProAA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Ac]
+siebersd: folds 
+jcwooddy: folds 
+board2 has timed out
+board2: folds 
+board2 is sitting out
+Puff Man: folds 
+board2 has returned
+goland1: raises $0.50 to $0.75
+beldhar77: folds 
+Alameda22: folds 
+lepsyl: folds 
+AACrazyProAA: folds 
+Uncalled bet ($0.50) returned to goland1
+goland1 collected $0.60 from pot
+goland1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: goland1 collected ($0.60)
+Seat 2: beldhar77 folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: lepsyl (small blind) folded before Flop
+Seat 5: AACrazyProAA (big blind) folded before Flop
+Seat 6: siebersd folded before Flop (didn't bet)
+Seat 7: jcwooddy folded before Flop (didn't bet)
+Seat 8: board2 folded before Flop (didn't bet)
+Seat 9: Puff Man folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274209827:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:35:41 (ET)
+Table 'Watsonia' 9-max Seat #4 is the button
+Seat 1: goland1 ($25.35 in chips) 
+Seat 2: beldhar77 ($15.60 in chips) 
+Seat 3: Alameda22 ($20.05 in chips) 
+Seat 4: lepsyl ($26.30 in chips) 
+Seat 5: AACrazyProAA ($28 in chips) 
+Seat 6: siebersd ($9.65 in chips) 
+Seat 7: jcwooddy ($15.30 in chips) 
+Seat 8: board2 ($24.65 in chips) 
+Seat 9: Puff Man ($8.50 in chips) 
+AACrazyProAA: posts small blind $0.10
+siebersd: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 5d]
+jcwooddy: raises $0.25 to $0.50
+board2: folds 
+Puff Man: folds 
+goland1: folds 
+beldhar77: calls $0.50
+Alameda22: folds 
+lepsyl: folds 
+AACrazyProAA: folds 
+siebersd: calls $0.25
+*** FLOP *** [Th Ks Jc]
+siebersd: checks 
+jcwooddy: bets $0.50
+beldhar77: raises $1.75 to $2.25
+siebersd: folds 
+jcwooddy: raises $1.75 to $4
+beldhar77: raises $11.10 to $15.10 and is all-in
+jcwooddy: calls $10.80 and is all-in
+Uncalled bet ($0.30) returned to beldhar77
+*** TURN *** [Th Ks Jc] [9s]
+*** RIVER *** [Th Ks Jc 9s] [Jh]
+*** SHOW DOWN ***
+jcwooddy: shows [Qc Kd] (a straight, Nine to King)
+beldhar77: shows [Td Tc] (a full house, Tens full of Jacks)
+beldhar77 collected $29.65 from pot
+*** SUMMARY ***
+Total pot $31.20 | Rake $1.55 
+Board [Th Ks Jc 9s Jh]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: beldhar77 showed [Td Tc] and won ($29.65) with a full house, Tens full of Jacks
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: lepsyl (button) folded before Flop (didn't bet)
+Seat 5: AACrazyProAA (small blind) folded before Flop
+Seat 6: siebersd (big blind) folded on the Flop
+Seat 7: jcwooddy showed [Qc Kd] and lost with a straight, Nine to King
+Seat 8: board2 folded before Flop (didn't bet)
+Seat 9: Puff Man folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274232682:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:36:39 (ET)
+Table 'Watsonia' 9-max Seat #5 is the button
+Seat 1: goland1 ($25.35 in chips) 
+Seat 2: beldhar77 ($29.95 in chips) 
+Seat 3: Alameda22 ($20.05 in chips) 
+Seat 4: lepsyl ($26.30 in chips) 
+Seat 5: AACrazyProAA ($27.90 in chips) 
+Seat 6: siebersd ($9.15 in chips) 
+Seat 8: board2 ($24.65 in chips) 
+Seat 9: Puff Man ($8.50 in chips) 
+siebersd: posts small blind $0.10
+board2: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Jc]
+Puff Man: calls $0.25
+goland1: folds 
+beldhar77: calls $0.25
+Alameda22: folds 
+lepsyl: folds 
+AACrazyProAA: folds 
+siebersd: calls $0.15
+board2: checks 
+*** FLOP *** [6s 8h Ts]
+jcwooddy has returned
+siebersd: bets $0.25
+board2: calls $0.25
+Puff Man: folds 
+beldhar77: calls $0.25
+*** TURN *** [6s 8h Ts] [7d]
+siebersd: bets $1
+board2: folds 
+beldhar77: raises $2 to $3
+siebersd: raises $5.65 to $8.65 and is all-in
+beldhar77: calls $5.65
+*** RIVER *** [6s 8h Ts 7d] [Js]
+*** SHOW DOWN ***
+siebersd: shows [Th Tc] (three of a kind, Tens)
+beldhar77: shows [9s 8s] (a flush, Jack high)
+beldhar77 collected $18.10 from pot
+*** SUMMARY ***
+Total pot $19.05 | Rake $0.95 
+Board [6s 8h Ts 7d Js]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: beldhar77 showed [9s 8s] and won ($18.10) with a flush, Jack high
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: lepsyl folded before Flop (didn't bet)
+Seat 5: AACrazyProAA (button) folded before Flop (didn't bet)
+Seat 6: siebersd (small blind) showed [Th Tc] and lost with three of a kind, Tens
+Seat 8: board2 (big blind) folded on the Turn
+Seat 9: Puff Man folded on the Flop
+
+
+
+PokerStars Game #19274256564:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:37:40 (ET)
+Table 'Watsonia' 9-max Seat #8 is the button
+Seat 1: goland1 ($25.35 in chips) 
+Seat 2: beldhar77 ($38.90 in chips) 
+Seat 3: Alameda22 ($20.05 in chips) 
+Seat 4: lepsyl ($26.30 in chips) 
+Seat 5: AACrazyProAA ($27.90 in chips) 
+Seat 8: board2 ($24.15 in chips) 
+Seat 9: Puff Man ($8.25 in chips) 
+Puff Man: posts small blind $0.10
+goland1: posts big blind $0.25
+jcwooddy: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 3h]
+beldhar77: folds 
+siebersd leaves the table
+Alameda22: folds 
+lepsyl: folds 
+AACrazyProAA: folds 
+board2: calls $0.25
+Puff Man: calls $0.15
+goland1: checks 
+*** FLOP *** [5h 4d 6c]
+Puff Man: checks 
+goland1: bets $0.25
+board2: calls $0.25
+Subi7 joins the table at seat #6 
+Puff Man: calls $0.25
+*** TURN *** [5h 4d 6c] [8h]
+Puff Man: checks 
+goland1: checks 
+board2: bets $2.25
+Puff Man: folds 
+goland1: folds 
+Uncalled bet ($2.25) returned to board2
+board2 collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [5h 4d 6c 8h]
+Seat 1: goland1 (big blind) folded on the Turn
+Seat 2: beldhar77 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: lepsyl folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 8: board2 (button) collected ($1.45)
+Seat 9: Puff Man (small blind) folded on the Turn
+
+
+
+PokerStars Game #19274275188:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:38:28 (ET)
+Table 'Watsonia' 9-max Seat #9 is the button
+Seat 1: goland1 ($24.85 in chips) 
+Seat 2: beldhar77 ($38.90 in chips) 
+Seat 3: Alameda22 ($20.05 in chips) 
+Seat 4: lepsyl ($26.30 in chips) 
+Seat 5: AACrazyProAA ($27.90 in chips) 
+Seat 8: board2 ($25.10 in chips) 
+Seat 9: Puff Man ($7.75 in chips) 
+goland1: posts small blind $0.10
+beldhar77: posts big blind $0.25
+Subi7: sits out 
+jcwooddy: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td Kd]
+Alameda22: folds 
+lepsyl: folds 
+AACrazyProAA: folds 
+board2: calls $0.25
+Puff Man: folds 
+goland1: folds 
+beldhar77: checks 
+*** FLOP *** [Jc 5s 7s]
+beldhar77: checks 
+board2: checks 
+*** TURN *** [Jc 5s 7s] [As]
+beldhar77: checks 
+board2: bets $0.75
+beldhar77: folds 
+Uncalled bet ($0.75) returned to board2
+board2 collected $0.60 from pot
+board2 is sitting out
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Jc 5s 7s As]
+Seat 1: goland1 (small blind) folded before Flop
+Seat 2: beldhar77 (big blind) folded on the Turn
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: lepsyl folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 8: board2 collected ($0.60)
+Seat 9: Puff Man (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274300874:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:39:35 (ET)
+Table 'Watsonia' 9-max Seat #1 is the button
+Seat 1: goland1 ($24.75 in chips) 
+Seat 2: beldhar77 ($38.65 in chips) 
+Seat 3: Alameda22 ($20.05 in chips) 
+Seat 4: lepsyl ($26.30 in chips) 
+Seat 5: AACrazyProAA ($27.90 in chips) 
+Seat 9: Puff Man ($7.75 in chips) 
+beldhar77: posts small blind $0.10
+Alameda22: posts big blind $0.25
+Subi7: sits out 
+jcwooddy: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s Kc]
+lepsyl: folds 
+AACrazyProAA: folds 
+Puff Man: calls $0.25
+goland1: raises $0.50 to $0.75
+beldhar77: folds 
+Alameda22: folds 
+Puff Man: calls $0.50
+*** FLOP *** [2h Qc 9s]
+Puff Man: checks 
+goland1: bets $1
+Puff Man: folds 
+Uncalled bet ($1) returned to goland1
+goland1 collected $1.80 from pot
+goland1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [2h Qc 9s]
+Seat 1: goland1 (button) collected ($1.80)
+Seat 2: beldhar77 (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: lepsyl folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 9: Puff Man folded on the Flop
+
+
+
+PokerStars Game #19274316548:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:40:15 (ET)
+Table 'Watsonia' 9-max Seat #2 is the button
+Seat 1: goland1 ($25.80 in chips) 
+Seat 2: beldhar77 ($38.55 in chips) 
+Seat 3: Alameda22 ($19.80 in chips) 
+Seat 4: lepsyl ($26.30 in chips) 
+Seat 5: AACrazyProAA ($27.90 in chips) 
+Seat 9: Puff Man ($7 in chips) 
+Alameda22: posts small blind $0.10
+lepsyl: posts big blind $0.25
+Subi7: sits out 
+jcwooddy: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 4c]
+AACrazyProAA: folds 
+Puff Man: folds 
+goland1: raises $0.50 to $0.75
+beldhar77: folds 
+Alameda22: folds 
+lepsyl: folds 
+Uncalled bet ($0.50) returned to goland1
+goland1 collected $0.60 from pot
+goland1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: goland1 collected ($0.60)
+Seat 2: beldhar77 (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: lepsyl (big blind) folded before Flop
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 9: Puff Man folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274331902:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:40:55 (ET)
+Table 'Watsonia' 9-max Seat #3 is the button
+Seat 1: goland1 ($26.15 in chips) 
+Seat 2: beldhar77 ($38.55 in chips) 
+Seat 3: Alameda22 ($19.70 in chips) 
+Seat 4: lepsyl ($26.05 in chips) 
+Seat 5: AACrazyProAA ($27.90 in chips) 
+Seat 9: Puff Man ($7 in chips) 
+lepsyl: posts small blind $0.10
+AACrazyProAA: posts big blind $0.25
+Subi7: sits out 
+jcwooddy: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 2h]
+Puff Man: folds 
+goland1: folds 
+beldhar77: folds 
+Alameda22: folds 
+lepsyl: folds 
+Uncalled bet ($0.15) returned to AACrazyProAA
+AACrazyProAA collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: beldhar77 folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: lepsyl (small blind) folded before Flop
+Seat 5: AACrazyProAA (big blind) collected ($0.20)
+Seat 9: Puff Man folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274338179:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:41:12 (ET)
+Table 'Watsonia' 9-max Seat #4 is the button
+Seat 1: goland1 ($26.15 in chips) 
+Seat 2: beldhar77 ($38.55 in chips) 
+Seat 3: Alameda22 ($19.70 in chips) 
+Seat 4: lepsyl ($25.95 in chips) 
+Seat 5: AACrazyProAA ($28 in chips) 
+Seat 6: Subi7 ($25 in chips) 
+Seat 9: Puff Man ($7 in chips) 
+AACrazyProAA: posts small blind $0.10
+Subi7: posts big blind $0.25
+jcwooddy: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 5s]
+Puff Man: calls $0.25
+goland1: folds 
+beldhar77: folds 
+Alameda22: folds 
+lepsyl: folds 
+AACrazyProAA: folds 
+Subi7: checks 
+*** FLOP *** [6h 3d 2h]
+Subi7: checks 
+Puff Man: bets $0.25
+Subi7: folds 
+Uncalled bet ($0.25) returned to Puff Man
+Puff Man collected $0.60 from pot
+Puff Man: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [6h 3d 2h]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: beldhar77 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: lepsyl (button) folded before Flop (didn't bet)
+Seat 5: AACrazyProAA (small blind) folded before Flop
+Seat 6: Subi7 (big blind) folded on the Flop
+Seat 9: Puff Man collected ($0.60)
+
+
+
+PokerStars Game #19274348280:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:41:38 (ET)
+Table 'Watsonia' 9-max Seat #5 is the button
+Seat 1: goland1 ($26.15 in chips) 
+Seat 2: beldhar77 ($38.55 in chips) 
+Seat 3: Alameda22 ($19.70 in chips) 
+Seat 4: lepsyl ($25.95 in chips) 
+Seat 5: AACrazyProAA ($27.90 in chips) 
+Seat 6: Subi7 ($24.75 in chips) 
+Seat 7: jcwooddy ($10 in chips) 
+Seat 9: Puff Man ($7.35 in chips) 
+Subi7: posts small blind $0.10
+jcwooddy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 8c]
+Puff Man: folds 
+goland1: folds 
+beldhar77: raises $0.50 to $0.75
+Alameda22: folds 
+lepsyl: calls $0.75
+AACrazyProAA: folds 
+Subi7: folds 
+jcwooddy: folds 
+*** FLOP *** [9h 2c 2d]
+beldhar77: checks 
+lepsyl: bets $1.50
+beldhar77: folds 
+Uncalled bet ($1.50) returned to lepsyl
+lepsyl collected $1.80 from pot
+lepsyl: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [9h 2c 2d]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: beldhar77 folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: lepsyl collected ($1.80)
+Seat 5: AACrazyProAA (button) folded before Flop (didn't bet)
+Seat 6: Subi7 (small blind) folded before Flop
+Seat 7: jcwooddy (big blind) folded before Flop
+Seat 9: Puff Man folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274370387:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:42:36 (ET)
+Table 'Watsonia' 9-max Seat #6 is the button
+Seat 1: goland1 ($26.15 in chips) 
+Seat 2: beldhar77 ($37.80 in chips) 
+Seat 3: Alameda22 ($19.70 in chips) 
+Seat 4: lepsyl ($27 in chips) 
+Seat 5: AACrazyProAA ($27.90 in chips) 
+Seat 6: Subi7 ($24.65 in chips) 
+Seat 7: jcwooddy ($9.75 in chips) 
+Seat 9: Puff Man ($7.35 in chips) 
+jcwooddy: posts small blind $0.10
+Puff Man: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h As]
+goland1: folds 
+beldhar77: folds 
+Alameda22: folds 
+lepsyl: folds 
+AACrazyProAA: folds 
+Subi7: folds 
+jcwooddy: folds 
+Uncalled bet ($0.15) returned to Puff Man
+Puff Man collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: beldhar77 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: lepsyl folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: Subi7 (button) folded before Flop (didn't bet)
+Seat 7: jcwooddy (small blind) folded before Flop
+Seat 9: Puff Man (big blind) collected ($0.20)
+
+
+
+PokerStars Game #19274376719:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:42:53 (ET)
+Table 'Watsonia' 9-max Seat #7 is the button
+Seat 1: goland1 ($26.15 in chips) 
+Seat 2: beldhar77 ($37.80 in chips) 
+Seat 3: Alameda22 ($19.70 in chips) 
+Seat 4: lepsyl ($27 in chips) 
+Seat 5: AACrazyProAA ($27.90 in chips) 
+Seat 6: Subi7 ($24.65 in chips) 
+Seat 7: jcwooddy ($9.65 in chips) 
+Seat 9: Puff Man ($7.45 in chips) 
+Puff Man: posts small blind $0.10
+goland1: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 4s]
+beldhar77: folds 
+Alameda22: folds 
+lepsyl: folds 
+AACrazyProAA: folds 
+Subi7: folds 
+jcwooddy: folds 
+Puff Man: folds 
+Uncalled bet ($0.15) returned to goland1
+goland1 collected $0.20 from pot
+goland1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: goland1 (big blind) collected ($0.20)
+Seat 2: beldhar77 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: lepsyl folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: Subi7 folded before Flop (didn't bet)
+Seat 7: jcwooddy (button) folded before Flop (didn't bet)
+Seat 9: Puff Man (small blind) folded before Flop
+
+
+
+PokerStars Game #19274387117:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:43:20 (ET)
+Table 'Watsonia' 9-max Seat #9 is the button
+Seat 1: goland1 ($26.25 in chips) 
+Seat 2: beldhar77 ($37.80 in chips) 
+Seat 3: Alameda22 ($19.70 in chips) 
+Seat 4: lepsyl ($27 in chips) 
+Seat 5: AACrazyProAA ($27.90 in chips) 
+Seat 6: Subi7 ($24.65 in chips) 
+Seat 7: jcwooddy ($9.65 in chips) 
+Seat 9: Puff Man ($7.35 in chips) 
+goland1: posts small blind $0.10
+beldhar77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 2h]
+Alameda22: folds 
+lepsyl: folds 
+AACrazyProAA: folds 
+Subi7: folds 
+jcwooddy: calls $0.25
+Puff Man: calls $0.25
+goland1: calls $0.15
+beldhar77: checks 
+*** FLOP *** [4h 5h 6h]
+goland1: checks 
+beldhar77: checks 
+jcwooddy: checks 
+Puff Man: checks 
+*** TURN *** [4h 5h 6h] [7h]
+goland1: checks 
+beldhar77: checks 
+jcwooddy: checks 
+Puff Man: checks 
+*** RIVER *** [4h 5h 6h 7h] [Qh]
+goland1: checks 
+beldhar77: checks 
+jcwooddy: bets $1.50
+Puff Man: calls $1.50
+goland1: folds 
+beldhar77: folds 
+*** SHOW DOWN ***
+jcwooddy: shows [Ts Jc] (a flush, Queen high)
+Puff Man: shows [Ks 9h] (a flush, Queen high - Nine higher)
+Puff Man collected $3.85 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.15 
+Board [4h 5h 6h 7h Qh]
+Seat 1: goland1 (small blind) folded on the River
+Seat 2: beldhar77 (big blind) folded on the River
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: lepsyl folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: Subi7 folded before Flop (didn't bet)
+Seat 7: jcwooddy showed [Ts Jc] and lost with a flush, Queen high
+Seat 9: Puff Man (button) showed [Ks 9h] and won ($3.85) with a flush, Queen high
+
+
+
+PokerStars Game #19274416464:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:44:39 (ET)
+Table 'Watsonia' 9-max Seat #1 is the button
+Seat 1: goland1 ($26 in chips) 
+Seat 2: beldhar77 ($37.55 in chips) 
+Seat 3: Alameda22 ($19.70 in chips) 
+Seat 4: lepsyl ($27 in chips) 
+Seat 5: AACrazyProAA ($27.90 in chips) 
+Seat 6: Subi7 ($24.65 in chips) 
+Seat 7: jcwooddy ($7.90 in chips) 
+Seat 9: Puff Man ($9.45 in chips) 
+beldhar77: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 8d]
+lepsyl: folds 
+AACrazyProAA: folds 
+Subi7: folds 
+jcwooddy: raises $0.50 to $0.75
+Puff Man: folds 
+board2 has returned
+goland1: folds 
+beldhar77: folds 
+lepsyl leaves the table
+Alameda22: folds 
+Uncalled bet ($0.50) returned to jcwooddy
+jcwooddy collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: goland1 (button) folded before Flop (didn't bet)
+Seat 2: beldhar77 (small blind) folded before Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: lepsyl folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: Subi7 folded before Flop (didn't bet)
+Seat 7: jcwooddy collected ($0.60)
+Seat 9: Puff Man folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274425882:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:45:01 (ET)
+Table 'Watsonia' 9-max Seat #2 is the button
+Seat 1: goland1 ($26 in chips) 
+Seat 2: beldhar77 ($37.45 in chips) 
+Seat 3: Alameda22 ($19.45 in chips) 
+Seat 5: AACrazyProAA ($27.90 in chips) 
+Seat 6: Subi7 ($24.65 in chips) 
+Seat 7: jcwooddy ($8.25 in chips) 
+Seat 9: Puff Man ($9.45 in chips) 
+Alameda22: posts small blind $0.10
+AACrazyProAA: posts big blind $0.25
+board2: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 9d]
+Subi7: folds 
+jcwooddy: calls $0.25
+Puff Man: folds 
+goland1: folds 
+beldhar77: folds 
+Alameda22: folds 
+cap. marb joins the table at seat #4 
+AACrazyProAA: checks 
+*** FLOP *** [5d Qs Th]
+AACrazyProAA: checks 
+jcwooddy: bets $0.50
+AACrazyProAA: folds 
+Uncalled bet ($0.50) returned to jcwooddy
+jcwooddy collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [5d Qs Th]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: beldhar77 (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 5: AACrazyProAA (big blind) folded on the Flop
+Seat 6: Subi7 folded before Flop (didn't bet)
+Seat 7: jcwooddy collected ($0.60)
+Seat 9: Puff Man folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274441689:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:45:43 (ET)
+Table 'Watsonia' 9-max Seat #3 is the button
+Seat 1: goland1 ($26 in chips) 
+Seat 2: beldhar77 ($37.45 in chips) 
+Seat 3: Alameda22 ($19.35 in chips) 
+Seat 5: AACrazyProAA ($27.65 in chips) 
+Seat 6: Subi7 ($24.65 in chips) 
+Seat 7: jcwooddy ($8.60 in chips) 
+Seat 8: board2 ($25.45 in chips) 
+Seat 9: Puff Man ($9.45 in chips) 
+cap. marb will be allowed to play after the button
+AACrazyProAA: posts small blind $0.10
+Subi7: posts big blind $0.25
+board2: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qs 6d]
+jcwooddy: raises $0.50 to $0.75
+board2: folds 
+Puff Man: folds 
+goland1: raises $1.50 to $2.25
+beldhar77: folds 
+Alameda22: folds 
+AACrazyProAA: folds 
+Subi7: folds 
+jcwooddy: calls $1.50
+*** FLOP *** [5h Qd 3s]
+jcwooddy: checks 
+goland1: bets $2.25
+jcwooddy: folds 
+Uncalled bet ($2.25) returned to goland1
+goland1 collected $4.95 from pot
+goland1: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.20 | Rake $0.25 
+Board [5h Qd 3s]
+Seat 1: goland1 collected ($4.95)
+Seat 2: beldhar77 folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: AACrazyProAA (small blind) folded before Flop
+Seat 6: Subi7 (big blind) folded before Flop
+Seat 7: jcwooddy folded on the Flop
+Seat 8: board2 folded before Flop
+Seat 9: Puff Man folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274464131:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:46:41 (ET)
+Table 'Watsonia' 9-max Seat #5 is the button
+Seat 1: goland1 ($28.70 in chips) 
+Seat 2: beldhar77 ($37.45 in chips) 
+Seat 3: Alameda22 ($19.35 in chips) 
+Seat 5: AACrazyProAA ($27.55 in chips) 
+Seat 6: Subi7 ($24.40 in chips) 
+Seat 7: jcwooddy ($6.35 in chips) 
+Seat 8: board2 ($25.10 in chips) 
+Seat 9: Puff Man ($9.45 in chips) 
+Subi7: posts small blind $0.10
+jcwooddy: posts big blind $0.25
+cap. marb: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6s 6d]
+board2: folds 
+Puff Man: calls $0.25
+goland1: folds 
+beldhar77: folds 
+Alameda22: calls $0.25
+AACrazyProAA: calls $0.25
+Subi7: folds 
+jcwooddy: checks 
+*** FLOP *** [Kh 9s 7s]
+jcwooddy: checks 
+Puff Man: checks 
+Alameda22: checks 
+AACrazyProAA: checks 
+*** TURN *** [Kh 9s 7s] [5h]
+jcwooddy: checks 
+Puff Man: checks 
+Alameda22: checks 
+AACrazyProAA: checks 
+*** RIVER *** [Kh 9s 7s 5h] [2c]
+jcwooddy: checks 
+Puff Man: bets $0.75
+Alameda22: folds 
+AACrazyProAA: folds 
+jcwooddy: calls $0.75
+*** SHOW DOWN ***
+Puff Man: shows [3d 3h] (a pair of Threes)
+jcwooddy: shows [5c Td] (a pair of Fives)
+jcwooddy collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [Kh 9s 7s 5h 2c]
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: beldhar77 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded on the River
+Seat 5: AACrazyProAA (button) folded on the River
+Seat 6: Subi7 (small blind) folded before Flop
+Seat 7: jcwooddy (big blind) showed [5c Td] and won ($2.50) with a pair of Fives
+Seat 8: board2 folded before Flop (didn't bet)
+Seat 9: Puff Man showed [3d 3h] and lost with a pair of Threes
+
+
+
+PokerStars Game #19274495557:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:48:02 (ET)
+Table 'Watsonia' 9-max Seat #6 is the button
+Seat 1: goland1 ($28.70 in chips) 
+Seat 2: beldhar77 ($37.45 in chips) 
+Seat 3: Alameda22 ($19.10 in chips) 
+Seat 5: AACrazyProAA ($27.30 in chips) 
+Seat 6: Subi7 ($24.30 in chips) 
+Seat 7: jcwooddy ($7.85 in chips) 
+Seat 8: board2 ($25.10 in chips) 
+Seat 9: Puff Man ($8.45 in chips) 
+jcwooddy: posts small blind $0.10
+board2: posts big blind $0.25
+cap. marb: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Jd]
+Puff Man: raises $0.75 to $1
+goland1: folds 
+beldhar77: folds 
+Alameda22: folds 
+AACrazyProAA: folds 
+Subi7: folds 
+jcwooddy: folds 
+board2: folds 
+Uncalled bet ($0.75) returned to Puff Man
+Puff Man collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: goland1 folded before Flop (didn't bet)
+Seat 2: beldhar77 folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: Subi7 (button) folded before Flop (didn't bet)
+Seat 7: jcwooddy (small blind) folded before Flop
+Seat 8: board2 (big blind) folded before Flop
+Seat 9: Puff Man collected ($0.60)
+
+
+
+PokerStars Game #19274510966:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:48:43 (ET)
+Table 'Watsonia' 9-max Seat #7 is the button
+Seat 1: goland1 ($28.70 in chips) 
+Seat 2: beldhar77 ($37.45 in chips) 
+Seat 3: Alameda22 ($19.10 in chips) 
+Seat 5: AACrazyProAA ($27.30 in chips) 
+Seat 6: Subi7 ($24.30 in chips) 
+Seat 7: jcwooddy ($7.75 in chips) 
+Seat 8: board2 ($24.85 in chips) 
+Seat 9: Puff Man ($8.80 in chips) 
+board2: posts small blind $0.10
+Puff Man: posts big blind $0.25
+cap. marb: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 4s]
+goland1: calls $0.25
+beldhar77: calls $0.25
+Alameda22: folds 
+AACrazyProAA: folds 
+Subi7: folds 
+jcwooddy: calls $0.25
+board2: folds 
+board2 is sitting out
+Puff Man: checks 
+*** FLOP *** [5h 9c Kc]
+Puff Man: checks 
+goland1: bets $0.25
+beldhar77: calls $0.25
+jcwooddy: calls $0.25
+Puff Man: folds 
+*** TURN *** [5h 9c Kc] [As]
+goland1: bets $1.80
+beldhar77: folds 
+jcwooddy: folds 
+Uncalled bet ($1.80) returned to goland1
+goland1 collected $1.80 from pot
+goland1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [5h 9c Kc As]
+Seat 1: goland1 collected ($1.80)
+Seat 2: beldhar77 folded on the Turn
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: Subi7 folded before Flop (didn't bet)
+Seat 7: jcwooddy (button) folded on the Turn
+Seat 8: board2 (small blind) folded before Flop
+Seat 9: Puff Man (big blind) folded on the Flop
+
+
+
+PokerStars Game #19274538567:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:49:56 (ET)
+Table 'Watsonia' 9-max Seat #9 is the button
+Seat 3: Alameda22 ($19.10 in chips) 
+Seat 4: cap. marb ($25 in chips) 
+Seat 5: AACrazyProAA ($27.30 in chips) 
+Seat 6: Subi7 ($24.30 in chips) 
+Seat 7: jcwooddy ($7.25 in chips) 
+Seat 9: Puff Man ($8.55 in chips) 
+goland1: is sitting out 
+beldhar77: is sitting out 
+Alameda22: posts small blind $0.10
+cap. marb: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 3d]
+goland1 leaves the table
+beldhar77 leaves the table
+AACrazyProAA: folds 
+Subi7: calls $0.25
+jcwooddy: folds 
+Puff Man: folds 
+Alameda22: folds 
+cap. marb: checks 
+*** FLOP *** [Qd Jd 8s]
+cap. marb: checks 
+Subi7: bets $0.50
+cap. marb: folds 
+Uncalled bet ($0.50) returned to Subi7
+Subi7 collected $0.60 from pot
+Subi7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Qd Jd 8s]
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: cap. marb (big blind) folded on the Flop
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: Subi7 collected ($0.60)
+Seat 7: jcwooddy folded before Flop (didn't bet)
+Seat 9: Puff Man (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274557934:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:50:47 (ET)
+Table 'Watsonia' 9-max Seat #3 is the button
+Seat 3: Alameda22 ($19 in chips) 
+Seat 4: cap. marb ($24.75 in chips) 
+Seat 5: AACrazyProAA ($27.30 in chips) 
+Seat 6: Subi7 ($24.65 in chips) 
+Seat 7: jcwooddy ($7.25 in chips) 
+Seat 9: Puff Man ($8.55 in chips) 
+cap. marb: posts small blind $0.10
+AACrazyProAA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 3h]
+Subi7: calls $0.25
+jcwooddy: folds 
+Puff Man: folds 
+Alameda22: folds 
+cap. marb: folds 
+AACrazyProAA: raises $0.75 to $1
+Subi7: calls $0.75
+*** FLOP *** [5c 5s 2h]
+AACrazyProAA: bets $1.25
+Subi7: folds 
+Uncalled bet ($1.25) returned to AACrazyProAA
+AACrazyProAA collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [5c 5s 2h]
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: cap. marb (small blind) folded before Flop
+Seat 5: AACrazyProAA (big blind) collected ($2)
+Seat 6: Subi7 folded on the Flop
+Seat 7: jcwooddy folded before Flop (didn't bet)
+Seat 9: Puff Man folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274573626:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:51:29 (ET)
+Table 'Watsonia' 9-max Seat #4 is the button
+Seat 3: Alameda22 ($19 in chips) 
+Seat 4: cap. marb ($24.65 in chips) 
+Seat 5: AACrazyProAA ($28.30 in chips) 
+Seat 6: Subi7 ($23.65 in chips) 
+Seat 7: jcwooddy ($7.25 in chips) 
+Seat 9: Puff Man ($8.55 in chips) 
+AACrazyProAA: posts small blind $0.10
+Subi7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 4c]
+jcwooddy: folds 
+Puff Man: folds 
+VL-Hannibal joins the table at seat #1 
+Alameda22: raises $0.50 to $0.75
+cap. marb: folds 
+AACrazyProAA: folds 
+Subi7: folds 
+Uncalled bet ($0.50) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 3: Alameda22 collected ($0.60)
+Seat 4: cap. marb (button) folded before Flop (didn't bet)
+Seat 5: AACrazyProAA (small blind) folded before Flop
+Seat 6: Subi7 (big blind) folded before Flop
+Seat 7: jcwooddy folded before Flop (didn't bet)
+Seat 9: Puff Man folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274582187:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:51:51 (ET)
+Table 'Watsonia' 9-max Seat #5 is the button
+Seat 3: Alameda22 ($19.35 in chips) 
+Seat 4: cap. marb ($24.65 in chips) 
+Seat 5: AACrazyProAA ($28.20 in chips) 
+Seat 6: Subi7 ($23.40 in chips) 
+Seat 7: jcwooddy ($7.25 in chips) 
+Seat 9: Puff Man ($8.55 in chips) 
+Subi7: posts small blind $0.10
+jcwooddy: posts big blind $0.25
+VL-Hannibal: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h 3d]
+Puff Man: folds 
+Alameda22: folds 
+cap. marb: folds 
+AACrazyProAA: raises $0.50 to $0.75
+Subi7: folds 
+jcwooddy: folds 
+Uncalled bet ($0.50) returned to AACrazyProAA
+AACrazyProAA collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: cap. marb folded before Flop (didn't bet)
+Seat 5: AACrazyProAA (button) collected ($0.60)
+Seat 6: Subi7 (small blind) folded before Flop
+Seat 7: jcwooddy (big blind) folded before Flop
+Seat 9: Puff Man folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274594474:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:52:24 (ET)
+Table 'Watsonia' 9-max Seat #6 is the button
+Seat 3: Alameda22 ($19.35 in chips) 
+Seat 4: cap. marb ($24.65 in chips) 
+Seat 5: AACrazyProAA ($28.55 in chips) 
+Seat 6: Subi7 ($23.30 in chips) 
+Seat 7: jcwooddy ($7 in chips) 
+Seat 9: Puff Man ($8.55 in chips) 
+jcwooddy: posts small blind $0.10
+Puff Man: posts big blind $0.25
+VL-Hannibal: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 6s]
+Alameda22: folds 
+cap. marb: folds 
+AACrazyProAA: folds 
+Subi7: raises $0.75 to $1
+jcwooddy: folds 
+Puff Man: calls $0.75
+*** FLOP *** [Kc Jd 7s]
+Puff Man: checks 
+Subi7: bets $1
+Puff Man: folds 
+Uncalled bet ($1) returned to Subi7
+Subi7 collected $2 from pot
+Subi7: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [Kc Jd 7s]
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: cap. marb folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: Subi7 (button) collected ($2)
+Seat 7: jcwooddy (small blind) folded before Flop
+Seat 9: Puff Man (big blind) folded on the Flop
+
+
+
+PokerStars Game #19274607058:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:52:58 (ET)
+Table 'Watsonia' 9-max Seat #7 is the button
+Seat 1: VL-Hannibal ($12.40 in chips) 
+Seat 3: Alameda22 ($19.35 in chips) 
+Seat 4: cap. marb ($24.65 in chips) 
+Seat 5: AACrazyProAA ($28.55 in chips) 
+Seat 6: Subi7 ($24.30 in chips) 
+Seat 7: jcwooddy ($6.90 in chips) 
+Seat 9: Puff Man ($7.55 in chips) 
+Puff Man: posts small blind $0.10
+VL-Hannibal: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Kd]
+Alameda22: folds 
+cap. marb: raises $0.75 to $1
+AACrazyProAA: folds 
+Subi7: folds 
+jcwooddy: folds 
+Puff Man: folds 
+VL-Hannibal: folds 
+Uncalled bet ($0.75) returned to cap. marb
+cap. marb collected $0.60 from pot
+cap. marb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: VL-Hannibal (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: cap. marb collected ($0.60)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: Subi7 folded before Flop (didn't bet)
+Seat 7: jcwooddy (button) folded before Flop (didn't bet)
+Seat 9: Puff Man (small blind) folded before Flop
+
+
+
+PokerStars Game #19274615626:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:53:21 (ET)
+Table 'Watsonia' 9-max Seat #9 is the button
+Seat 1: VL-Hannibal ($12.15 in chips) 
+Seat 3: Alameda22 ($19.35 in chips) 
+Seat 4: cap. marb ($25 in chips) 
+Seat 5: AACrazyProAA ($28.55 in chips) 
+Seat 6: Subi7 ($24.30 in chips) 
+Seat 7: jcwooddy ($6.90 in chips) 
+Seat 9: Puff Man ($7.45 in chips) 
+VL-Hannibal: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 4h]
+cap. marb: folds 
+AACrazyProAA: raises $0.75 to $1
+Subi7: folds 
+jcwooddy: folds 
+Puff Man: calls $1
+VL-Hannibal: raises $11.15 to $12.15 and is all-in
+Alameda22: folds 
+AACrazyProAA: calls $11.15
+Puff Man: folds 
+*** FLOP *** [6s 9d Jh]
+*** TURN *** [6s 9d Jh] [Ac]
+*** RIVER *** [6s 9d Jh Ac] [9h]
+*** SHOW DOWN ***
+VL-Hannibal: shows [Th Ts] (two pair, Tens and Nines)
+AACrazyProAA: shows [Qh Qc] (two pair, Queens and Nines)
+AACrazyProAA collected $24.30 from pot
+*** SUMMARY ***
+Total pot $25.55 | Rake $1.25 
+Board [6s 9d Jh Ac 9h]
+Seat 1: VL-Hannibal (small blind) showed [Th Ts] and lost with two pair, Tens and Nines
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: cap. marb folded before Flop (didn't bet)
+Seat 5: AACrazyProAA showed [Qh Qc] and won ($24.30) with two pair, Queens and Nines
+Seat 6: Subi7 folded before Flop (didn't bet)
+Seat 7: jcwooddy folded before Flop (didn't bet)
+Seat 9: Puff Man (button) folded before Flop
+
+
+
+PokerStars Game #19274633051:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:54:07 (ET)
+Table 'Watsonia' 9-max Seat #3 is the button
+Seat 3: Alameda22 ($19.10 in chips) 
+Seat 4: cap. marb ($25 in chips) 
+Seat 5: AACrazyProAA ($40.70 in chips) 
+Seat 6: Subi7 ($24.30 in chips) 
+Seat 7: jcwooddy ($6.90 in chips) 
+Seat 9: Puff Man ($6.45 in chips) 
+cap. marb: posts small blind $0.10
+AACrazyProAA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 7d]
+Subi7: folds 
+VL-Hannibal leaves the table
+jcwooddy: calls $0.25
+Puff Man: folds 
+Alameda22 has timed out
+Alameda22: folds 
+Alameda22 is sitting out
+Alameda22 has returned
+cap. marb: folds 
+AACrazyProAA: checks 
+*** FLOP *** [8h 9h Qd]
+AACrazyProAA: checks 
+jcwooddy: checks 
+*** TURN *** [8h 9h Qd] [9d]
+AACrazyProAA: bets $0.50
+jcwooddy: calls $0.50
+*** RIVER *** [8h 9h Qd 9d] [4d]
+AACrazyProAA: checks 
+jcwooddy: bets $1
+AACrazyProAA: folds 
+Uncalled bet ($1) returned to jcwooddy
+jcwooddy collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [8h 9h Qd 9d 4d]
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: cap. marb (small blind) folded before Flop
+Seat 5: AACrazyProAA (big blind) folded on the River
+Seat 6: Subi7 folded before Flop (didn't bet)
+Seat 7: jcwooddy collected ($1.55)
+Seat 9: Puff Man folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274656727:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:55:12 (ET)
+Table 'Watsonia' 9-max Seat #4 is the button
+Seat 3: Alameda22 ($19.10 in chips) 
+Seat 4: cap. marb ($24.90 in chips) 
+Seat 5: AACrazyProAA ($39.95 in chips) 
+Seat 6: Subi7 ($24.30 in chips) 
+Seat 7: jcwooddy ($7.70 in chips) 
+Seat 9: Puff Man ($6.45 in chips) 
+AACrazyProAA: posts small blind $0.10
+Subi7: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 3c]
+jcwooddy: folds 
+Puff Man: folds 
+Alameda22: folds 
+babaj67 joins the table at seat #1 
+cap. marb: folds 
+AACrazyProAA: raises $0.50 to $0.75
+Subi7: folds 
+Uncalled bet ($0.50) returned to AACrazyProAA
+AACrazyProAA collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: cap. marb (button) folded before Flop (didn't bet)
+Seat 5: AACrazyProAA (small blind) collected ($0.50)
+Seat 6: Subi7 (big blind) folded before Flop
+Seat 7: jcwooddy folded before Flop (didn't bet)
+Seat 9: Puff Man folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274670947:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:55:51 (ET)
+Table 'Watsonia' 9-max Seat #5 is the button
+Seat 3: Alameda22 ($19.10 in chips) 
+Seat 4: cap. marb ($24.90 in chips) 
+Seat 5: AACrazyProAA ($40.20 in chips) 
+Seat 6: Subi7 ($24.05 in chips) 
+Seat 7: jcwooddy ($7.70 in chips) 
+Seat 9: Puff Man ($6.45 in chips) 
+Subi7: posts small blind $0.10
+jcwooddy: posts big blind $0.25
+babaj67: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s Jd]
+Puff Man: folds 
+Alameda22: folds 
+Puff Man leaves the table
+cap. marb: folds 
+AACrazyProAA: folds 
+Subi7: folds 
+Uncalled bet ($0.15) returned to jcwooddy
+jcwooddy collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: cap. marb folded before Flop (didn't bet)
+Seat 5: AACrazyProAA (button) folded before Flop (didn't bet)
+Seat 6: Subi7 (small blind) folded before Flop
+Seat 7: jcwooddy (big blind) collected ($0.20)
+Seat 9: Puff Man folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274680322:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:56:16 (ET)
+Table 'Watsonia' 9-max Seat #6 is the button
+Seat 1: babaj67 ($5 in chips) 
+Seat 3: Alameda22 ($19.10 in chips) 
+Seat 4: cap. marb ($24.90 in chips) 
+Seat 5: AACrazyProAA ($40.20 in chips) 
+Seat 6: Subi7 ($23.95 in chips) 
+Seat 7: jcwooddy ($7.80 in chips) 
+jcwooddy: posts small blind $0.10
+babaj67: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Qd]
+Alameda22: folds 
+cap. marb: folds 
+AACrazyProAA: raises $0.50 to $0.75
+Subi7: folds 
+jcwooddy: folds 
+babaj67: calls $0.50
+*** FLOP *** [3s 9c 9s]
+babaj67: bets $0.25
+AACrazyProAA: raises $0.75 to $1
+mick davy joins the table at seat #2 
+babaj67: calls $0.75
+*** TURN *** [3s 9c 9s] [3h]
+babaj67: checks 
+AACrazyProAA: checks 
+*** RIVER *** [3s 9c 9s 3h] [2s]
+babaj67: bets $0.50
+AACrazyProAA: calls $0.50
+*** SHOW DOWN ***
+babaj67: shows [8s 3c] (a full house, Threes full of Nines)
+AACrazyProAA: mucks hand 
+babaj67 collected $4.40 from pot
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.20 
+Board [3s 9c 9s 3h 2s]
+Seat 1: babaj67 (big blind) showed [8s 3c] and won ($4.40) with a full house, Threes full of Nines
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: cap. marb folded before Flop (didn't bet)
+Seat 5: AACrazyProAA mucked [4d Ad]
+Seat 6: Subi7 (button) folded before Flop (didn't bet)
+Seat 7: jcwooddy (small blind) folded before Flop
+
+
+
+PokerStars Game #19274705990:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:57:26 (ET)
+Table 'Watsonia' 9-max Seat #7 is the button
+Seat 1: babaj67 ($7.15 in chips) 
+Seat 2: mick davy ($15 in chips) 
+Seat 3: Alameda22 ($19.10 in chips) 
+Seat 4: cap. marb ($24.90 in chips) 
+Seat 5: AACrazyProAA ($37.95 in chips) 
+Seat 6: Subi7 ($23.95 in chips) 
+Seat 7: jcwooddy ($7.70 in chips) 
+babaj67: posts small blind $0.10
+mick davy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 9c]
+Alameda22: folds 
+babaj67 said, "ty"
+cap. marb: folds 
+AACrazyProAA: folds 
+Subi7: folds 
+jcwooddy: folds 
+babaj67: calls $0.15
+mick davy: checks 
+*** FLOP *** [7s 7d 8s]
+babaj67: bets $0.25
+mick davy: folds 
+Uncalled bet ($0.25) returned to babaj67
+babaj67 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [7s 7d 8s]
+Seat 1: babaj67 (small blind) collected ($0.50)
+Seat 2: mick davy (big blind) folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: cap. marb folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: Subi7 folded before Flop (didn't bet)
+Seat 7: jcwooddy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274718878:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:58:02 (ET)
+Table 'Watsonia' 9-max Seat #1 is the button
+Seat 1: babaj67 ($7.40 in chips) 
+Seat 2: mick davy ($14.75 in chips) 
+Seat 3: Alameda22 ($19.10 in chips) 
+Seat 4: cap. marb ($24.90 in chips) 
+Seat 5: AACrazyProAA ($37.95 in chips) 
+Seat 6: Subi7 ($23.95 in chips) 
+Seat 7: jcwooddy ($7.70 in chips) 
+mick davy: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d Ad]
+cap. marb: folds 
+AACrazyProAA: folds 
+Subi7: folds 
+jcwooddy: folds 
+babaj67: calls $0.25
+mick davy: calls $0.15
+Alameda22: checks 
+*** FLOP *** [3h Qs 3c]
+mick davy: checks 
+Alameda22: bets $0.50
+babaj67: raises $0.50 to $1
+mick davy: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to babaj67
+babaj67 collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [3h Qs 3c]
+Seat 1: babaj67 (button) collected ($1.70)
+Seat 2: mick davy (small blind) folded on the Flop
+Seat 3: Alameda22 (big blind) folded on the Flop
+Seat 4: cap. marb folded before Flop (didn't bet)
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: Subi7 folded before Flop (didn't bet)
+Seat 7: jcwooddy folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19274729343:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:58:31 (ET)
+Table 'Watsonia' 9-max Seat #2 is the button
+Seat 1: babaj67 ($8.35 in chips) 
+Seat 2: mick davy ($14.50 in chips) 
+Seat 3: Alameda22 ($18.35 in chips) 
+Seat 4: cap. marb ($24.90 in chips) 
+Seat 5: AACrazyProAA ($37.95 in chips) 
+Seat 6: Subi7 ($23.95 in chips) 
+Seat 7: jcwooddy ($7.70 in chips) 
+Alameda22: posts small blind $0.10
+cap. marb: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 4c]
+AACrazyProAA: folds 
+Subi7: folds 
+jcwooddy: calls $0.25
+babaj67: folds 
+mick davy: raises $0.75 to $1
+Alameda22: folds 
+cap. marb: folds 
+jcwooddy: calls $0.75
+*** FLOP *** [Jh 3s 5s]
+jcwooddy: checks 
+mick davy: bets $2
+jcwooddy: folds 
+Uncalled bet ($2) returned to mick davy
+mick davy collected $2.25 from pot
+mick davy: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Jh 3s 5s]
+Seat 1: babaj67 folded before Flop (didn't bet)
+Seat 2: mick davy (button) collected ($2.25)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: cap. marb (big blind) folded before Flop
+Seat 5: AACrazyProAA folded before Flop (didn't bet)
+Seat 6: Subi7 folded before Flop (didn't bet)
+Seat 7: jcwooddy folded on the Flop
+
+
+
+PokerStars Game #19274746935:  Hold'em No Limit ($0.10/$0.25) - 2008/08/01 - 13:59:19 (ET)
+Table 'Watsonia' 9-max Seat #3 is the button
+Seat 1: babaj67 ($8.35 in chips) 
+Seat 2: mick davy ($15.75 in chips) 
+Seat 3: Alameda22 ($18.25 in chips) 
+Seat 4: cap. marb ($24.65 in chips) 
+Seat 5: AACrazyProAA ($37.95 in chips) 
+Seat 6: Subi7 ($23.95 in chips) 
+Seat 7: jcwooddy ($6.70 in chips) 
+cap. marb: posts small blind $0.10
+AACrazyProAA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 9d]
+Subi7: folds 
+jcwooddy: folds 
+babaj67: raises $0.25 to $0.50
+mick davy: folds 
+Alameda22: calls $0.50
+cap. marb: folds 
+AACrazyProAA: folds 
+*** FLOP *** [6h Kd Kh]
+babaj67: bets $0.25
+Alameda22: folds 
+Uncalled bet ($0.25) returned to babaj67
+babaj67 collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [6h Kd Kh]
+Seat 1: babaj67 collected ($1.30)
+Seat 2: mick davy folded before Flop (didn't bet)
+Seat 3: Alameda22 (button) folded on the Flop
+Seat 4: cap. marb (small blind) folded before Flop
+Seat 5: AACrazyProAA (big blind) folded before Flop
+Seat 6: Subi7 folded before Flop (didn't bet)
+Seat 7: jcwooddy folded before Flop (didn't bet)
+
+
+

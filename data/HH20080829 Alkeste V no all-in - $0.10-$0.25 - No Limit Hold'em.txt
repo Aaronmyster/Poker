@@ -1,0 +1,877 @@
+PokerStars Game #19980044495:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:01:37 (ET)
+Table 'Alkeste V' 9-max Seat #8 is the button
+Seat 1: calpoker0414 ($24.50 in chips) 
+Seat 3: _973.LIO_ ($17.75 in chips) 
+Seat 4: KIDNIC ($21.95 in chips) 
+Seat 5: CHRONIKCHAOS ($14.25 in chips) 
+Seat 6: Danny68 ($11.85 in chips) 
+Seat 7: Alameda22 ($30.30 in chips) 
+Seat 8: lebase01 ($34.10 in chips) 
+Seat 9: reginatr ($8.20 in chips) 
+reginatr: posts small blind $0.10
+calpoker0414: posts big blind $0.25
+tinyvessels: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Th]
+_973.LIO_: folds 
+KIDNIC: folds 
+CHRONIKCHAOS: raises $0.25 to $0.50
+Danny68: calls $0.50
+Alameda22: folds 
+lebase01: calls $0.50
+reginatr: folds 
+calpoker0414: folds 
+*** FLOP *** [5c Qd 6h]
+CHRONIKCHAOS: bets $0.75
+Danny68: raises $0.75 to $1.50
+lebase01: folds 
+CHRONIKCHAOS: calls $0.75
+*** TURN *** [5c Qd 6h] [7d]
+CHRONIKCHAOS: checks 
+Danny68: bets $9.85 and is all-in
+CHRONIKCHAOS: folds 
+Uncalled bet ($9.85) returned to Danny68
+Danny68 collected $4.65 from pot
+Danny68: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.20 
+Board [5c Qd 6h 7d]
+Seat 1: calpoker0414 (big blind) folded before Flop
+Seat 3: _973.LIO_ folded before Flop (didn't bet)
+Seat 4: KIDNIC folded before Flop (didn't bet)
+Seat 5: CHRONIKCHAOS folded on the Turn
+Seat 6: Danny68 collected ($4.65)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: lebase01 (button) folded on the Flop
+Seat 9: reginatr (small blind) folded before Flop
+
+
+
+PokerStars Game #19980066625:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:02:51 (ET)
+Table 'Alkeste V' 9-max Seat #9 is the button
+Seat 1: calpoker0414 ($24.25 in chips) 
+Seat 2: tinyvessels ($25 in chips) 
+Seat 3: _973.LIO_ ($17.75 in chips) 
+Seat 4: KIDNIC ($21.95 in chips) 
+Seat 5: CHRONIKCHAOS ($12.25 in chips) 
+Seat 6: Danny68 ($14.50 in chips) 
+Seat 7: Alameda22 ($30.30 in chips) 
+Seat 8: lebase01 ($33.60 in chips) 
+Seat 9: reginatr ($8.10 in chips) 
+calpoker0414: posts small blind $0.10
+tinyvessels: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 3d]
+_973.LIO_: folds 
+KIDNIC: folds 
+CHRONIKCHAOS: folds 
+Danny68: calls $0.25
+Alameda22: folds 
+lebase01: folds 
+reginatr: folds 
+calpoker0414: folds 
+tinyvessels: checks 
+*** FLOP *** [Td Th Jd]
+tinyvessels: checks 
+Danny68: bets $0.75
+tinyvessels: folds 
+Uncalled bet ($0.75) returned to Danny68
+Danny68 collected $0.60 from pot
+Danny68: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Td Th Jd]
+Seat 1: calpoker0414 (small blind) folded before Flop
+Seat 2: tinyvessels (big blind) folded on the Flop
+Seat 3: _973.LIO_ folded before Flop (didn't bet)
+Seat 4: KIDNIC folded before Flop (didn't bet)
+Seat 5: CHRONIKCHAOS folded before Flop (didn't bet)
+Seat 6: Danny68 collected ($0.60)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: lebase01 folded before Flop (didn't bet)
+Seat 9: reginatr (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980086071:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:03:56 (ET)
+Table 'Alkeste V' 9-max Seat #1 is the button
+Seat 1: calpoker0414 ($24.15 in chips) 
+Seat 2: tinyvessels ($24.75 in chips) 
+Seat 3: _973.LIO_ ($17.75 in chips) 
+Seat 4: KIDNIC ($21.95 in chips) 
+Seat 5: CHRONIKCHAOS ($12.25 in chips) 
+Seat 6: Danny68 ($14.85 in chips) 
+Seat 7: Alameda22 ($30.30 in chips) 
+Seat 8: lebase01 ($33.60 in chips) 
+Seat 9: reginatr ($8.10 in chips) 
+tinyvessels: posts small blind $0.10
+_973.LIO_: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 7s]
+KIDNIC: folds 
+CHRONIKCHAOS: folds 
+Danny68: folds 
+Alameda22: folds 
+lebase01: calls $0.25
+reginatr: folds 
+calpoker0414: folds 
+tinyvessels: folds 
+_973.LIO_: checks 
+*** FLOP *** [8s Ad Js]
+_973.LIO_: checks 
+lebase01: bets $0.50
+_973.LIO_: folds 
+Uncalled bet ($0.50) returned to lebase01
+lebase01 collected $0.60 from pot
+lebase01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [8s Ad Js]
+Seat 1: calpoker0414 (button) folded before Flop (didn't bet)
+Seat 2: tinyvessels (small blind) folded before Flop
+Seat 3: _973.LIO_ (big blind) folded on the Flop
+Seat 4: KIDNIC folded before Flop (didn't bet)
+Seat 5: CHRONIKCHAOS folded before Flop (didn't bet)
+Seat 6: Danny68 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: lebase01 collected ($0.60)
+Seat 9: reginatr folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980101372:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:04:47 (ET)
+Table 'Alkeste V' 9-max Seat #2 is the button
+Seat 1: calpoker0414 ($24.15 in chips) 
+Seat 2: tinyvessels ($24.65 in chips) 
+Seat 3: _973.LIO_ ($17.50 in chips) 
+Seat 4: KIDNIC ($21.95 in chips) 
+Seat 5: CHRONIKCHAOS ($12.25 in chips) 
+Seat 6: Danny68 ($14.85 in chips) 
+Seat 7: Alameda22 ($30.30 in chips) 
+Seat 8: lebase01 ($33.95 in chips) 
+Seat 9: reginatr ($8.10 in chips) 
+_973.LIO_: posts small blind $0.10
+KIDNIC: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 4h]
+CHRONIKCHAOS: folds 
+Danny68: folds 
+Alameda22: folds 
+lebase01: folds 
+reginatr: folds 
+calpoker0414: folds 
+tinyvessels: folds 
+_973.LIO_: calls $0.15
+KIDNIC: checks 
+*** FLOP *** [3c 3s Kd]
+_973.LIO_: bets $0.25
+KIDNIC: raises $0.50 to $0.75
+_973.LIO_: folds 
+Uncalled bet ($0.50) returned to KIDNIC
+KIDNIC collected $0.95 from pot
+KIDNIC: shows [As 7h] (a pair of Threes)
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [3c 3s Kd]
+Seat 1: calpoker0414 folded before Flop (didn't bet)
+Seat 2: tinyvessels (button) folded before Flop (didn't bet)
+Seat 3: _973.LIO_ (small blind) folded on the Flop
+Seat 4: KIDNIC (big blind) collected ($0.95)
+Seat 5: CHRONIKCHAOS folded before Flop (didn't bet)
+Seat 6: Danny68 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: lebase01 folded before Flop (didn't bet)
+Seat 9: reginatr folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980118829:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:05:45 (ET)
+Table 'Alkeste V' 9-max Seat #3 is the button
+Seat 1: calpoker0414 ($24.15 in chips) 
+Seat 2: tinyvessels ($24.65 in chips) 
+Seat 3: _973.LIO_ ($17 in chips) 
+Seat 4: KIDNIC ($22.40 in chips) 
+Seat 5: CHRONIKCHAOS ($12.25 in chips) 
+Seat 6: Danny68 ($14.85 in chips) 
+Seat 7: Alameda22 ($30.30 in chips) 
+Seat 8: lebase01 ($33.95 in chips) 
+Seat 9: reginatr ($8.10 in chips) 
+KIDNIC: posts small blind $0.10
+CHRONIKCHAOS: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc 5s]
+Danny68: raises $0.25 to $0.50
+Alameda22: folds 
+lebase01: calls $0.50
+reginatr: folds 
+calpoker0414: folds 
+tinyvessels: raises $1.25 to $1.75
+_973.LIO_: folds 
+KIDNIC: folds 
+CHRONIKCHAOS: folds 
+Danny68: calls $1.25
+lebase01: calls $1.25
+*** FLOP *** [3h Jd 8d]
+Danny68: bets $0.50
+lebase01: calls $0.50
+tinyvessels: raises $3.50 to $4
+Danny68: folds 
+lebase01: folds 
+Uncalled bet ($3.50) returned to tinyvessels
+tinyvessels collected $6.80 from pot
+tinyvessels: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.10 | Rake $0.30 
+Board [3h Jd 8d]
+Seat 1: calpoker0414 folded before Flop (didn't bet)
+Seat 2: tinyvessels collected ($6.80)
+Seat 3: _973.LIO_ (button) folded before Flop (didn't bet)
+Seat 4: KIDNIC (small blind) folded before Flop
+Seat 5: CHRONIKCHAOS (big blind) folded before Flop
+Seat 6: Danny68 folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: lebase01 folded on the Flop
+Seat 9: reginatr folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980145192:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:07:14 (ET)
+Table 'Alkeste V' 9-max Seat #4 is the button
+Seat 1: calpoker0414 ($24.15 in chips) 
+Seat 2: tinyvessels ($29.20 in chips) 
+Seat 3: _973.LIO_ ($17 in chips) 
+Seat 4: KIDNIC ($22.30 in chips) 
+Seat 5: CHRONIKCHAOS ($12 in chips) 
+Seat 6: Danny68 ($12.60 in chips) 
+Seat 7: Alameda22 ($30.30 in chips) 
+Seat 8: lebase01 ($31.70 in chips) 
+Seat 9: reginatr ($8.10 in chips) 
+CHRONIKCHAOS: posts small blind $0.10
+Danny68: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 6s]
+Alameda22: folds 
+lebase01: calls $0.25
+reginatr: folds 
+calpoker0414: folds 
+tinyvessels: folds 
+_973.LIO_: folds 
+KIDNIC: calls $0.25
+CHRONIKCHAOS: calls $0.15
+Danny68: checks 
+*** FLOP *** [Qc 7s 4d]
+CHRONIKCHAOS: checks 
+Danny68: bets $0.25
+lebase01: folds 
+KIDNIC: folds 
+CHRONIKCHAOS: calls $0.25
+*** TURN *** [Qc 7s 4d] [9s]
+CHRONIKCHAOS: checks 
+Danny68: bets $2
+CHRONIKCHAOS: folds 
+Uncalled bet ($2) returned to Danny68
+Danny68 collected $1.45 from pot
+Danny68: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [Qc 7s 4d 9s]
+Seat 1: calpoker0414 folded before Flop (didn't bet)
+Seat 2: tinyvessels folded before Flop (didn't bet)
+Seat 3: _973.LIO_ folded before Flop (didn't bet)
+Seat 4: KIDNIC (button) folded on the Flop
+Seat 5: CHRONIKCHAOS (small blind) folded on the Turn
+Seat 6: Danny68 (big blind) collected ($1.45)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: lebase01 folded on the Flop
+Seat 9: reginatr folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980170917:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:08:41 (ET)
+Table 'Alkeste V' 9-max Seat #5 is the button
+Seat 1: calpoker0414 ($24.15 in chips) 
+Seat 2: tinyvessels ($29.20 in chips) 
+Seat 3: _973.LIO_ ($17 in chips) 
+Seat 4: KIDNIC ($22.05 in chips) 
+Seat 5: CHRONIKCHAOS ($11.50 in chips) 
+Seat 6: Danny68 ($13.55 in chips) 
+Seat 7: Alameda22 ($30.30 in chips) 
+Seat 8: lebase01 ($31.45 in chips) 
+Seat 9: reginatr ($8.10 in chips) 
+Danny68: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc Ad]
+lebase01: folds 
+lebase01 leaves the table
+reginatr: folds 
+calpoker0414: folds 
+tinyvessels: folds 
+_973.LIO_: calls $0.25
+KIDNIC: folds 
+CHRONIKCHAOS: calls $0.25
+Danny68: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Qs 2h Th]
+Danny68: bets $0.25
+Alameda22: folds 
+_973.LIO_: calls $0.25
+CHRONIKCHAOS: calls $0.25
+*** TURN *** [Qs 2h Th] [Jh]
+Danny68: checks 
+_973.LIO_: bets $0.50
+CHRONIKCHAOS: calls $0.50
+Danny68: folds 
+*** RIVER *** [Qs 2h Th Jh] [9c]
+k0ngen joins the table at seat #8 
+_973.LIO_: bets $1.25
+CHRONIKCHAOS: calls $1.25
+*** SHOW DOWN ***
+_973.LIO_: shows [Kd Kc] (a straight, Nine to King)
+CHRONIKCHAOS: mucks hand 
+_973.LIO_ collected $5 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.25 
+Board [Qs 2h Th Jh 9c]
+Seat 1: calpoker0414 folded before Flop (didn't bet)
+Seat 2: tinyvessels folded before Flop (didn't bet)
+Seat 3: _973.LIO_ showed [Kd Kc] and won ($5) with a straight, Nine to King
+Seat 4: KIDNIC folded before Flop (didn't bet)
+Seat 5: CHRONIKCHAOS (button) mucked [9s Qd]
+Seat 6: Danny68 (small blind) folded on the Turn
+Seat 7: Alameda22 (big blind) folded on the Flop
+Seat 8: lebase01 folded before Flop (didn't bet)
+Seat 9: reginatr folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980191076:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:09:49 (ET)
+Table 'Alkeste V' 9-max Seat #6 is the button
+Seat 1: calpoker0414 ($24.15 in chips) 
+Seat 2: tinyvessels ($29.20 in chips) 
+Seat 3: _973.LIO_ ($19.75 in chips) 
+Seat 4: KIDNIC ($22.05 in chips) 
+Seat 5: CHRONIKCHAOS ($9.25 in chips) 
+Seat 6: Danny68 ($13.05 in chips) 
+Seat 7: Alameda22 ($30.05 in chips) 
+Seat 8: k0ngen ($7 in chips) 
+Seat 9: reginatr ($8.10 in chips) 
+Alameda22: posts small blind $0.10
+k0ngen: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Js Qc]
+reginatr: folds 
+reginatr leaves the table
+calpoker0414: folds 
+tinyvessels: folds 
+_973.LIO_: raises $0.50 to $0.75
+KIDNIC: folds 
+CHRONIKCHAOS: folds 
+Danny68: folds 
+Alameda22: folds 
+k0ngen: folds 
+Uncalled bet ($0.50) returned to _973.LIO_
+_973.LIO_ collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: calpoker0414 folded before Flop (didn't bet)
+Seat 2: tinyvessels folded before Flop (didn't bet)
+Seat 3: _973.LIO_ collected ($0.60)
+Seat 4: KIDNIC folded before Flop (didn't bet)
+Seat 5: CHRONIKCHAOS folded before Flop (didn't bet)
+Seat 6: Danny68 (button) folded before Flop (didn't bet)
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 8: k0ngen (big blind) folded before Flop
+Seat 9: reginatr folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980204595:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:10:35 (ET)
+Table 'Alkeste V' 9-max Seat #7 is the button
+Seat 1: calpoker0414 ($24.15 in chips) 
+Seat 2: tinyvessels ($29.20 in chips) 
+Seat 3: _973.LIO_ ($20.10 in chips) 
+Seat 4: KIDNIC ($22.05 in chips) 
+Seat 5: CHRONIKCHAOS ($9.25 in chips) 
+Seat 6: Danny68 ($13.05 in chips) 
+Seat 7: Alameda22 ($29.95 in chips) 
+Seat 8: k0ngen ($6.75 in chips) 
+k0ngen: posts small blind $0.10
+calpoker0414: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 8d]
+dmack24 joins the table at seat #9 
+tinyvessels: folds 
+_973.LIO_: calls $0.25
+KIDNIC: folds 
+tinyvessels leaves the table
+CHRONIKCHAOS: raises $0.50 to $0.75
+Danny68: calls $0.75
+Alameda22: folds 
+k0ngen: folds 
+calpoker0414: folds 
+_973.LIO_: calls $0.50
+*** FLOP *** [4d Ks 8s]
+_973.LIO_: checks 
+CHRONIKCHAOS: bets $0.50
+Danny68: calls $0.50
+_973.LIO_: folds 
+*** TURN *** [4d Ks 8s] [Qd]
+CHRONIKCHAOS: checks 
+Danny68: bets $2.25
+CHRONIKCHAOS: folds 
+Uncalled bet ($2.25) returned to Danny68
+Danny68 collected $3.45 from pot
+Danny68: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.15 
+Board [4d Ks 8s Qd]
+Seat 1: calpoker0414 (big blind) folded before Flop
+Seat 2: tinyvessels folded before Flop (didn't bet)
+Seat 3: _973.LIO_ folded on the Flop
+Seat 4: KIDNIC folded before Flop (didn't bet)
+Seat 5: CHRONIKCHAOS folded on the Turn
+Seat 6: Danny68 collected ($3.45)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 8: k0ngen (small blind) folded before Flop
+
+
+
+PokerStars Game #19980230623:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:12:04 (ET)
+Table 'Alkeste V' 9-max Seat #8 is the button
+Seat 1: calpoker0414 ($23.90 in chips) 
+Seat 3: _973.LIO_ ($19.35 in chips) 
+Seat 4: KIDNIC ($22.05 in chips) 
+Seat 5: CHRONIKCHAOS ($8 in chips) 
+Seat 6: Danny68 ($15.25 in chips) 
+Seat 7: Alameda22 ($29.95 in chips) 
+Seat 8: k0ngen ($6.65 in chips) 
+dmack24 will be allowed to play after the button
+calpoker0414: posts small blind $0.10
+_973.LIO_: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 8h]
+KIDNIC: folds 
+CHRONIKCHAOS: folds 
+Danny68: raises $0.25 to $0.50
+Alameda22: folds 
+k0ngen: calls $0.50
+calpoker0414: folds 
+_973.LIO_: folds 
+*** FLOP *** [Qh 8c 5d]
+rengual joins the table at seat #2 
+Danny68: bets $2.25
+k0ngen: calls $2.25
+*** TURN *** [Qh 8c 5d] [Th]
+Danny68: bets $4.25
+k0ngen: calls $3.90 and is all-in
+Uncalled bet ($0.35) returned to Danny68
+*** RIVER *** [Qh 8c 5d Th] [3h]
+*** SHOW DOWN ***
+Danny68: shows [Qc 8d] (two pair, Queens and Eights)
+k0ngen: mucks hand 
+Danny68 collected $13 from pot
+*** SUMMARY ***
+Total pot $13.65 | Rake $0.65 
+Board [Qh 8c 5d Th 3h]
+Seat 1: calpoker0414 (small blind) folded before Flop
+Seat 3: _973.LIO_ (big blind) folded before Flop
+Seat 4: KIDNIC folded before Flop (didn't bet)
+Seat 5: CHRONIKCHAOS folded before Flop (didn't bet)
+Seat 6: Danny68 showed [Qc 8d] and won ($13) with two pair, Queens and Eights
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 8: k0ngen (button) mucked [As Ad]
+
+
+
+PokerStars Game #19980251379:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:13:16 (ET)
+Table 'Alkeste V' 9-max Seat #1 is the button
+Seat 1: calpoker0414 ($23.80 in chips) 
+Seat 3: _973.LIO_ ($19.10 in chips) 
+Seat 4: KIDNIC ($22.05 in chips) 
+Seat 5: CHRONIKCHAOS ($8 in chips) 
+Seat 6: Danny68 ($21.60 in chips) 
+Seat 7: Alameda22 ($29.95 in chips) 
+Seat 9: dmack24 ($5 in chips) 
+rengual will be allowed to play after the button
+_973.LIO_: posts small blind $0.10
+KIDNIC: posts big blind $0.25
+dmack24: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2c 4d]
+CHRONIKCHAOS: folds 
+Danny68: calls $0.25
+Alameda22: folds 
+dmack24: checks 
+calpoker0414: calls $0.25
+_973.LIO_: calls $0.15
+KIDNIC: raises $2.25 to $2.50
+Danny68: calls $2.25
+dmack24: folds 
+calpoker0414: folds 
+_973.LIO_: folds 
+*** FLOP *** [Tc Ac As]
+KIDNIC: bets $2.50
+Danny68: folds 
+Uncalled bet ($2.50) returned to KIDNIC
+KIDNIC collected $5.50 from pot
+KIDNIC: shows [Ts Td] (a full house, Tens full of Aces)
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.25 
+Board [Tc Ac As]
+Seat 1: calpoker0414 (button) folded before Flop
+Seat 3: _973.LIO_ (small blind) folded before Flop
+Seat 4: KIDNIC (big blind) collected ($5.50)
+Seat 5: CHRONIKCHAOS folded before Flop (didn't bet)
+Seat 6: Danny68 folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: dmack24 folded before Flop
+
+
+
+PokerStars Game #19980271751:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:14:26 (ET)
+Table 'Alkeste V' 9-max Seat #3 is the button
+Seat 1: calpoker0414 ($23.55 in chips) 
+Seat 2: rengual ($15 in chips) 
+Seat 3: _973.LIO_ ($18.85 in chips) 
+Seat 4: KIDNIC ($25.05 in chips) 
+Seat 5: CHRONIKCHAOS ($8 in chips) 
+Seat 6: Danny68 ($19.10 in chips) 
+Seat 7: Alameda22 ($29.95 in chips) 
+Seat 9: dmack24 ($4.75 in chips) 
+KIDNIC: posts small blind $0.10
+CHRONIKCHAOS: posts big blind $0.25
+rengual: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s Qd]
+Danny68: calls $0.25
+Alameda22: folds 
+dmack24: calls $0.25
+calpoker0414: folds 
+rengual: checks 
+_973.LIO_: calls $0.25
+KIDNIC: calls $0.15
+CHRONIKCHAOS: checks 
+*** FLOP *** [6c 3h 7h]
+KIDNIC: checks 
+CHRONIKCHAOS: bets $0.50
+Danny68: raises $0.50 to $1
+dmack24: folds 
+rengual: folds 
+_973.LIO_: folds 
+KIDNIC: folds 
+CHRONIKCHAOS: raises $0.50 to $1.50
+Danny68: calls $0.50
+*** TURN *** [6c 3h 7h] [Kh]
+CHRONIKCHAOS: bets $1.75
+Danny68: calls $1.75
+*** RIVER *** [6c 3h 7h Kh] [8c]
+CHRONIKCHAOS: bets $4.50 and is all-in
+Danny68: folds 
+Uncalled bet ($4.50) returned to CHRONIKCHAOS
+CHRONIKCHAOS collected $7.65 from pot
+CHRONIKCHAOS: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.35 
+Board [6c 3h 7h Kh 8c]
+Seat 1: calpoker0414 folded before Flop (didn't bet)
+Seat 2: rengual folded on the Flop
+Seat 3: _973.LIO_ (button) folded on the Flop
+Seat 4: KIDNIC (small blind) folded on the Flop
+Seat 5: CHRONIKCHAOS (big blind) collected ($7.65)
+Seat 6: Danny68 folded on the River
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: dmack24 folded on the Flop
+
+
+
+PokerStars Game #19980292057:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:15:38 (ET)
+Table 'Alkeste V' 9-max Seat #4 is the button
+Seat 1: calpoker0414 ($23.55 in chips) 
+Seat 2: rengual ($14.75 in chips) 
+Seat 3: _973.LIO_ ($18.60 in chips) 
+Seat 4: KIDNIC ($24.80 in chips) 
+Seat 5: CHRONIKCHAOS ($12.15 in chips) 
+Seat 6: Danny68 ($15.60 in chips) 
+Seat 7: Alameda22 ($29.95 in chips) 
+Seat 9: dmack24 ($4.50 in chips) 
+CHRONIKCHAOS: posts small blind $0.10
+Danny68: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 6d]
+Alameda22: folds 
+dmack24: calls $0.25
+calpoker0414: folds 
+rengual: folds 
+_973.LIO_: folds 
+KIDNIC: folds 
+CHRONIKCHAOS: calls $0.15
+Danny68: checks 
+*** FLOP *** [Ad 2c Ah]
+CHRONIKCHAOS: checks 
+Danny68: bets $3.25
+dmack24: raises $1 to $4.25 and is all-in
+CHRONIKCHAOS: folds 
+Danny68: calls $1
+*** TURN *** [Ad 2c Ah] [Ks]
+*** RIVER *** [Ad 2c Ah Ks] [Td]
+*** SHOW DOWN ***
+Danny68: shows [5s Tc] (two pair, Aces and Tens)
+dmack24: shows [7c As] (three of a kind, Aces)
+dmack24 collected $8.80 from pot
+*** SUMMARY ***
+Total pot $9.25 | Rake $0.45 
+Board [Ad 2c Ah Ks Td]
+Seat 1: calpoker0414 folded before Flop (didn't bet)
+Seat 2: rengual folded before Flop (didn't bet)
+Seat 3: _973.LIO_ folded before Flop (didn't bet)
+Seat 4: KIDNIC (button) folded before Flop (didn't bet)
+Seat 5: CHRONIKCHAOS (small blind) folded on the Flop
+Seat 6: Danny68 (big blind) showed [5s Tc] and lost with two pair, Aces and Tens
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: dmack24 showed [7c As] and won ($8.80) with three of a kind, Aces
+
+
+
+PokerStars Game #19980307950:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:16:33 (ET)
+Table 'Alkeste V' 9-max Seat #5 is the button
+Seat 1: calpoker0414 ($23.55 in chips) 
+Seat 2: rengual ($14.75 in chips) 
+Seat 3: _973.LIO_ ($18.60 in chips) 
+Seat 4: KIDNIC ($24.80 in chips) 
+Seat 5: CHRONIKCHAOS ($11.90 in chips) 
+Seat 6: Danny68 ($11.10 in chips) 
+Seat 7: Alameda22 ($29.95 in chips) 
+Seat 9: dmack24 ($8.80 in chips) 
+Danny68: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Ah]
+dmack24: folds 
+calpoker0414: folds 
+rengual: folds 
+_973.LIO_: folds 
+KIDNIC: folds 
+CHRONIKCHAOS: calls $0.25
+Danny68: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Jd Jc Th]
+Danny68: checks 
+Alameda22: checks 
+CHRONIKCHAOS: bets $0.50
+Danny68: calls $0.50
+Alameda22: folds 
+*** TURN *** [Jd Jc Th] [Kc]
+Danny68: checks 
+CHRONIKCHAOS: bets $0.75
+Danny68: folds 
+Uncalled bet ($0.75) returned to CHRONIKCHAOS
+CHRONIKCHAOS collected $1.70 from pot
+CHRONIKCHAOS: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [Jd Jc Th Kc]
+Seat 1: calpoker0414 folded before Flop (didn't bet)
+Seat 2: rengual folded before Flop (didn't bet)
+Seat 3: _973.LIO_ folded before Flop (didn't bet)
+Seat 4: KIDNIC folded before Flop (didn't bet)
+Seat 5: CHRONIKCHAOS (button) collected ($1.70)
+Seat 6: Danny68 (small blind) folded on the Turn
+Seat 7: Alameda22 (big blind) folded on the Flop
+Seat 9: dmack24 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980335923:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:18:12 (ET)
+Table 'Alkeste V' 9-max Seat #6 is the button
+Seat 1: calpoker0414 ($23.55 in chips) 
+Seat 2: rengual ($14.75 in chips) 
+Seat 3: _973.LIO_ ($18.60 in chips) 
+Seat 4: KIDNIC ($24.80 in chips) 
+Seat 5: CHRONIKCHAOS ($12.85 in chips) 
+Seat 6: Danny68 ($10.35 in chips) 
+Seat 7: Alameda22 ($29.70 in chips) 
+Seat 9: dmack24 ($8.80 in chips) 
+Alameda22: posts small blind $0.10
+dmack24: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 5h]
+calpoker0414: folds 
+rengual: folds 
+_973.LIO_: folds 
+KIDNIC: folds 
+CHRONIKCHAOS: raises $0.25 to $0.50
+Danny68: calls $0.50
+Alameda22: folds 
+dmack24: folds 
+*** FLOP *** [4d Ts 9h]
+CHRONIKCHAOS: bets $0.75
+Danny68: calls $0.75
+*** TURN *** [4d Ts 9h] [Jc]
+CHRONIKCHAOS: bets $0.75
+Danny68: raises $2.25 to $3
+CHRONIKCHAOS: raises $3.25 to $6.25
+Danny68: calls $3.25
+*** RIVER *** [4d Ts 9h Jc] [Jh]
+CHRONIKCHAOS: bets $3
+Danny68: calls $2.85 and is all-in
+Uncalled bet ($0.15) returned to CHRONIKCHAOS
+*** SHOW DOWN ***
+CHRONIKCHAOS: shows [8s 7s] (a straight, Seven to Jack)
+Danny68: mucks hand 
+CHRONIKCHAOS collected $20.05 from pot
+*** SUMMARY ***
+Total pot $21.05 | Rake $1 
+Board [4d Ts 9h Jc Jh]
+Seat 1: calpoker0414 folded before Flop (didn't bet)
+Seat 2: rengual folded before Flop (didn't bet)
+Seat 3: _973.LIO_ folded before Flop (didn't bet)
+Seat 4: KIDNIC folded before Flop (didn't bet)
+Seat 5: CHRONIKCHAOS showed [8s 7s] and won ($20.05) with a straight, Seven to Jack
+Seat 6: Danny68 (button) mucked [3d 9d]
+Seat 7: Alameda22 (small blind) folded before Flop
+Seat 9: dmack24 (big blind) folded before Flop
+
+
+
+PokerStars Game #19980359848:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:19:36 (ET)
+Table 'Alkeste V' 9-max Seat #7 is the button
+Seat 1: calpoker0414 ($23.55 in chips) 
+Seat 2: rengual ($14.75 in chips) 
+Seat 3: _973.LIO_ ($18.60 in chips) 
+Seat 4: KIDNIC ($24.80 in chips) 
+Seat 5: CHRONIKCHAOS ($22.55 in chips) 
+Seat 7: Alameda22 ($29.60 in chips) 
+Seat 9: dmack24 ($8.55 in chips) 
+dmack24: posts small blind $0.10
+Danny68 has returned
+calpoker0414: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 9s]
+rengual: folds 
+_973.LIO_: calls $0.25
+KIDNIC: folds 
+CHRONIKCHAOS: calls $0.25
+Alameda22: folds 
+dmack24: calls $0.15
+calpoker0414: checks 
+*** FLOP *** [2d Qc 8d]
+dmack24: bets $0.25
+calpoker0414: folds 
+_973.LIO_: folds 
+CHRONIKCHAOS: calls $0.25
+*** TURN *** [2d Qc 8d] [6d]
+dmack24: bets $0.50
+CHRONIKCHAOS: calls $0.50
+*** RIVER *** [2d Qc 8d 6d] [Th]
+dmack24: bets $0.50
+CHRONIKCHAOS: raises $0.75 to $1.25
+dmack24: folds 
+Uncalled bet ($0.75) returned to CHRONIKCHAOS
+CHRONIKCHAOS collected $3.35 from pot
+CHRONIKCHAOS: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.15 
+Board [2d Qc 8d 6d Th]
+Seat 1: calpoker0414 (big blind) folded on the Flop
+Seat 2: rengual folded before Flop (didn't bet)
+Seat 3: _973.LIO_ folded on the Flop
+Seat 4: KIDNIC folded before Flop (didn't bet)
+Seat 5: CHRONIKCHAOS collected ($3.35)
+Seat 7: Alameda22 (button) folded before Flop (didn't bet)
+Seat 9: dmack24 (small blind) folded on the River
+
+
+
+PokerStars Game #19980380152:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:20:49 (ET)
+Table 'Alkeste V' 9-max Seat #9 is the button
+Seat 1: calpoker0414 ($23.30 in chips) 
+Seat 2: rengual ($14.75 in chips) 
+Seat 3: _973.LIO_ ($18.35 in chips) 
+Seat 4: KIDNIC ($24.80 in chips) 
+Seat 5: CHRONIKCHAOS ($24.40 in chips) 
+Seat 6: Danny68 ($15 in chips) 
+Seat 7: Alameda22 ($29.60 in chips) 
+Seat 9: dmack24 ($7.05 in chips) 
+calpoker0414: posts small blind $0.10
+rengual: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Tc]
+_973.LIO_: calls $0.25
+KIDNIC: folds 
+CHRONIKCHAOS: folds 
+Danny68: calls $0.25
+Alameda22: folds 
+dmack24: folds 
+calpoker0414: folds 
+rengual: checks 
+*** FLOP *** [7s Kd 7d]
+rengual: bets $0.50
+_973.LIO_: folds 
+Danny68: folds 
+Uncalled bet ($0.50) returned to rengual
+rengual collected $0.85 from pot
+rengual: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [7s Kd 7d]
+Seat 1: calpoker0414 (small blind) folded before Flop
+Seat 2: rengual (big blind) collected ($0.85)
+Seat 3: _973.LIO_ folded on the Flop
+Seat 4: KIDNIC folded before Flop (didn't bet)
+Seat 5: CHRONIKCHAOS folded before Flop (didn't bet)
+Seat 6: Danny68 folded on the Flop
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: dmack24 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980392647:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:21:34 (ET)
+Table 'Alkeste V' 9-max Seat #1 is the button
+Seat 1: calpoker0414 ($23.20 in chips) 
+Seat 2: rengual ($15.35 in chips) 
+Seat 3: _973.LIO_ ($18.10 in chips) 
+Seat 4: KIDNIC ($24.80 in chips) 
+Seat 5: CHRONIKCHAOS ($24.40 in chips) 
+Seat 6: Danny68 ($14.75 in chips) 
+Seat 7: Alameda22 ($29.60 in chips) 
+Seat 9: dmack24 ($7.05 in chips) 
+rengual: posts small blind $0.10
+_973.LIO_: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 3h]
+KIDNIC: folds 
+CHRONIKCHAOS: raises $0.25 to $0.50
+Danny68: folds 
+Alameda22: folds 
+dmack24: folds 
+calpoker0414: folds 
+rengual: folds 
+_973.LIO_: calls $0.25
+*** FLOP *** [2d 6s As]
+_973.LIO_: checks 
+CHRONIKCHAOS: bets $1
+_973.LIO_: calls $1
+*** TURN *** [2d 6s As] [Ad]
+_973.LIO_: checks 
+CHRONIKCHAOS: bets $2.25
+_973.LIO_: calls $2.25
+*** RIVER *** [2d 6s As Ad] [3s]
+_973.LIO_: bets $3.75
+CHRONIKCHAOS: folds 
+Uncalled bet ($3.75) returned to _973.LIO_
+_973.LIO_ collected $7.25 from pot
+*** SUMMARY ***
+Total pot $7.60 | Rake $0.35 
+Board [2d 6s As Ad 3s]
+Seat 1: calpoker0414 (button) folded before Flop (didn't bet)
+Seat 2: rengual (small blind) folded before Flop
+Seat 3: _973.LIO_ (big blind) collected ($7.25)
+Seat 4: KIDNIC folded before Flop (didn't bet)
+Seat 5: CHRONIKCHAOS folded on the River
+Seat 6: Danny68 folded before Flop (didn't bet)
+Seat 7: Alameda22 folded before Flop (didn't bet)
+Seat 9: dmack24 folded before Flop (didn't bet)
+
+
+

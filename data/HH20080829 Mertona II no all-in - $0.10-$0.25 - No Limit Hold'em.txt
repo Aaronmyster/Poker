@@ -1,0 +1,817 @@
+PokerStars Game #19980027408:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:00:41 (ET)
+Table 'Mertona II' 9-max Seat #1 is the button
+Seat 1: Twheatski ($29.50 in chips) 
+Seat 2: hickerso ($29.45 in chips) 
+Seat 3: b0n3z88 ($25 in chips) 
+Seat 4: fbspower ($12.55 in chips) 
+Seat 5: gtowza1974 ($4.70 in chips) 
+Seat 6: 2049er ($16.40 in chips) 
+Seat 7: get pissed ($2.25 in chips) 
+Seat 9: Alameda22 ($41.35 in chips) 
+hickerso: posts small blind $0.10
+b0n3z88: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 2h]
+fbspower: calls $0.25
+gtowza1974: calls $0.25
+2049er: calls $0.25
+get pissed: folds 
+Alameda22: folds 
+Twheatski: folds 
+hickerso: folds 
+b0n3z88: checks 
+*** FLOP *** [8s 3h 9d]
+b0n3z88: bets $0.50
+fbspower: folds 
+gtowza1974: folds 
+2049er: calls $0.50
+*** TURN *** [8s 3h 9d] [Th]
+b0n3z88: bets $1.25
+2049er: calls $1.25
+*** RIVER *** [8s 3h 9d Th] [Kh]
+b0n3z88: bets $1
+2049er: raises $1 to $2
+b0n3z88: calls $1
+*** SHOW DOWN ***
+2049er: shows [Jc Ts] (a pair of Tens)
+b0n3z88: shows [Tc 9c] (two pair, Tens and Nines)
+b0n3z88 collected $8.20 from pot
+*** SUMMARY ***
+Total pot $8.60 | Rake $0.40 
+Board [8s 3h 9d Th Kh]
+Seat 1: Twheatski (button) folded before Flop (didn't bet)
+Seat 2: hickerso (small blind) folded before Flop
+Seat 3: b0n3z88 (big blind) showed [Tc 9c] and won ($8.20) with two pair, Tens and Nines
+Seat 4: fbspower folded on the Flop
+Seat 5: gtowza1974 folded on the Flop
+Seat 6: 2049er showed [Jc Ts] and lost with a pair of Tens
+Seat 7: get pissed folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980050911:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:01:58 (ET)
+Table 'Mertona II' 9-max Seat #2 is the button
+Seat 1: Twheatski ($29.50 in chips) 
+Seat 2: hickerso ($29.35 in chips) 
+Seat 3: b0n3z88 ($29.20 in chips) 
+Seat 4: fbspower ($12.30 in chips) 
+Seat 5: gtowza1974 ($4.45 in chips) 
+Seat 6: 2049er ($12.40 in chips) 
+Seat 7: get pissed ($2.25 in chips) 
+Seat 9: Alameda22 ($41.35 in chips) 
+b0n3z88: posts small blind $0.10
+fbspower: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3s 7h]
+gtowza1974: raises $0.25 to $0.50
+2049er: calls $0.50
+get pissed: calls $0.50
+Alameda22: folds 
+Twheatski: folds 
+hickerso: raises $1.25 to $1.75
+b0n3z88: folds 
+fbspower: folds 
+gtowza1974: raises $2.70 to $4.45 and is all-in
+2049er: folds 
+get pissed: calls $1.75 and is all-in
+hickerso: calls $2.70
+*** FLOP *** [Ac 5d Td]
+*** TURN *** [Ac 5d Td] [5h]
+*** RIVER *** [Ac 5d Td 5h] [Th]
+*** SHOW DOWN ***
+gtowza1974: shows [Js Jh] (two pair, Jacks and Tens)
+hickerso: mucks hand 
+gtowza1974 collected $4.15 from side pot
+get pissed: mucks hand 
+get pissed leaves the table
+gtowza1974 collected $7.25 from main pot
+*** SUMMARY ***
+Total pot $12 Main pot $7.25. Side pot $4.15. | Rake $0.60 
+Board [Ac 5d Td 5h Th]
+Seat 1: Twheatski folded before Flop (didn't bet)
+Seat 2: hickerso (button) mucked [9h 9d]
+Seat 3: b0n3z88 (small blind) folded before Flop
+Seat 4: fbspower (big blind) folded before Flop
+Seat 5: gtowza1974 showed [Js Jh] and won ($11.40) with two pair, Jacks and Tens
+Seat 6: 2049er folded before Flop
+Seat 7: get pissed mucked [2d Qd]
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980075438:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:03:20 (ET)
+Table 'Mertona II' 9-max Seat #3 is the button
+Seat 1: Twheatski ($29.50 in chips) 
+Seat 2: hickerso ($24.90 in chips) 
+Seat 3: b0n3z88 ($29.10 in chips) 
+Seat 4: fbspower ($12.05 in chips) 
+Seat 5: gtowza1974 ($11.40 in chips) 
+Seat 6: 2049er ($11.90 in chips) 
+Seat 9: Alameda22 ($41.35 in chips) 
+fbspower: posts small blind $0.10
+gtowza1974: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 6c]
+2049er: calls $0.25
+Alameda22: folds 
+Twheatski: raises $0.50 to $0.75
+hickerso: calls $0.75
+b0n3z88: folds 
+SnapUr$Roll joins the table at seat #7 
+fbspower: calls $0.65
+gtowza1974: calls $0.50
+2049er: calls $0.50
+*** FLOP *** [3h 9h 4d]
+fbspower: checks 
+gtowza1974: checks 
+2049er: checks 
+Twheatski: bets $2
+hickerso: folds 
+fbspower: folds 
+gtowza1974: folds 
+2049er: folds 
+Uncalled bet ($2) returned to Twheatski
+Twheatski collected $3.60 from pot
+Twheatski: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [3h 9h 4d]
+Seat 1: Twheatski collected ($3.60)
+Seat 2: hickerso folded on the Flop
+Seat 3: b0n3z88 (button) folded before Flop (didn't bet)
+Seat 4: fbspower (small blind) folded on the Flop
+Seat 5: gtowza1974 (big blind) folded on the Flop
+Seat 6: 2049er folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980099199:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:04:40 (ET)
+Table 'Mertona II' 9-max Seat #4 is the button
+Seat 1: Twheatski ($32.35 in chips) 
+Seat 2: hickerso ($24.15 in chips) 
+Seat 3: b0n3z88 ($29.10 in chips) 
+Seat 4: fbspower ($11.30 in chips) 
+Seat 5: gtowza1974 ($10.65 in chips) 
+Seat 6: 2049er ($11.15 in chips) 
+Seat 9: Alameda22 ($41.35 in chips) 
+gtowza1974: posts small blind $0.10
+2049er: posts big blind $0.25
+SnapUr$Roll: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9s 6d]
+Alameda22: folds 
+Twheatski: folds 
+hickerso: raises $0.25 to $0.50
+b0n3z88: calls $0.50
+fbspower: folds 
+gtowza1974: calls $0.40
+2049er: calls $0.25
+*** FLOP *** [5c Jd 2s]
+gtowza1974: bets $0.25
+2049er: calls $0.25
+hickerso: raises $0.50 to $0.75
+b0n3z88: folds 
+gtowza1974: calls $0.50
+2049er: folds 
+*** TURN *** [5c Jd 2s] [Jc]
+gtowza1974: checks 
+hickerso: checks 
+*** RIVER *** [5c Jd 2s Jc] [Td]
+gtowza1974: checks 
+hickerso: checks 
+*** SHOW DOWN ***
+gtowza1974: shows [5h Kd] (two pair, Jacks and Fives)
+hickerso: mucks hand 
+gtowza1974 collected $3.60 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [5c Jd 2s Jc Td]
+Seat 1: Twheatski folded before Flop (didn't bet)
+Seat 2: hickerso mucked [Kc 9d]
+Seat 3: b0n3z88 folded on the Flop
+Seat 4: fbspower (button) folded before Flop (didn't bet)
+Seat 5: gtowza1974 (small blind) showed [5h Kd] and won ($3.60) with two pair, Jacks and Fives
+Seat 6: 2049er (big blind) folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980123900:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:06:02 (ET)
+Table 'Mertona II' 9-max Seat #5 is the button
+Seat 1: Twheatski ($32.35 in chips) 
+Seat 2: hickerso ($22.90 in chips) 
+Seat 3: b0n3z88 ($28.60 in chips) 
+Seat 4: fbspower ($11.30 in chips) 
+Seat 5: gtowza1974 ($13 in chips) 
+Seat 6: 2049er ($10.40 in chips) 
+Seat 7: SnapUr$Roll ($7 in chips) 
+Seat 9: Alameda22 ($41.35 in chips) 
+2049er: posts small blind $0.10
+SnapUr$Roll: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Td 9d]
+Alameda22: folds 
+Twheatski: folds 
+hickerso: calls $0.25
+b0n3z88: folds 
+fbspower: calls $0.25
+gtowza1974: folds 
+2049er: calls $0.15
+SnapUr$Roll: checks 
+*** FLOP *** [Jh 8h 5c]
+2049er: checks 
+SnapUr$Roll: checks 
+hickerso: bets $0.75
+fbspower: folds 
+2049er: folds 
+SnapUr$Roll: folds 
+Uncalled bet ($0.75) returned to hickerso
+hickerso collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Jh 8h 5c]
+Seat 1: Twheatski folded before Flop (didn't bet)
+Seat 2: hickerso collected ($0.95)
+Seat 3: b0n3z88 folded before Flop (didn't bet)
+Seat 4: fbspower folded on the Flop
+Seat 5: gtowza1974 (button) folded before Flop (didn't bet)
+Seat 6: 2049er (small blind) folded on the Flop
+Seat 7: SnapUr$Roll (big blind) folded on the Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980148941:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:07:26 (ET)
+Table 'Mertona II' 9-max Seat #6 is the button
+Seat 1: Twheatski ($32.35 in chips) 
+Seat 2: hickerso ($23.60 in chips) 
+Seat 3: b0n3z88 ($28.60 in chips) 
+Seat 4: fbspower ($11.05 in chips) 
+Seat 5: gtowza1974 ($13 in chips) 
+Seat 6: 2049er ($10.15 in chips) 
+Seat 7: SnapUr$Roll ($6.75 in chips) 
+Seat 9: Alameda22 ($41.35 in chips) 
+SnapUr$Roll: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h Ts]
+Twheatski: folds 
+hickerso: calls $0.25
+Twheatski leaves the table
+b0n3z88: folds 
+fbspower: folds 
+Runtimmy joins the table at seat #1 
+gtowza1974: calls $0.25
+2049er: calls $0.25
+SnapUr$Roll: folds 
+Alameda22: checks 
+*** FLOP *** [8d Tc 2c]
+Alameda22: checks 
+hickerso: bets $0.75
+gtowza1974: calls $0.75
+2049er: folds 
+Alameda22: folds 
+*** TURN *** [8d Tc 2c] [8h]
+hickerso: checks 
+gtowza1974: checks 
+*** RIVER *** [8d Tc 2c 8h] [Th]
+hickerso: checks 
+gtowza1974: checks 
+*** SHOW DOWN ***
+hickerso: shows [Jh 9c] (two pair, Tens and Eights)
+gtowza1974: shows [Jc Qh] (two pair, Tens and Eights - Queen kicker)
+gtowza1974 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [8d Tc 2c 8h Th]
+Seat 1: Twheatski folded before Flop (didn't bet)
+Seat 2: hickerso showed [Jh 9c] and lost with two pair, Tens and Eights
+Seat 3: b0n3z88 folded before Flop (didn't bet)
+Seat 4: fbspower folded before Flop (didn't bet)
+Seat 5: gtowza1974 showed [Jc Qh] and won ($2.50) with two pair, Tens and Eights
+Seat 6: 2049er (button) folded on the Flop
+Seat 7: SnapUr$Roll (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19980174926:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:08:54 (ET)
+Table 'Mertona II' 9-max Seat #7 is the button
+Seat 1: Runtimmy ($25 in chips) 
+Seat 2: hickerso ($22.60 in chips) 
+Seat 3: b0n3z88 ($28.60 in chips) 
+Seat 4: fbspower ($11.05 in chips) 
+Seat 5: gtowza1974 ($14.50 in chips) 
+Seat 6: 2049er ($9.90 in chips) 
+Seat 7: SnapUr$Roll ($6.65 in chips) 
+Seat 9: Alameda22 ($41.10 in chips) 
+Alameda22: posts small blind $0.10
+Runtimmy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 8s]
+hickerso: folds 
+b0n3z88: folds 
+hickerso leaves the table
+fbspower: folds 
+gtowza1974: calls $0.25
+2049er: calls $0.25
+SnapUr$Roll: folds 
+Alameda22: calls $0.15
+Runtimmy: raises $1.25 to $1.50
+gtowza1974: folds 
+2049er: calls $1.25
+MagicPie 85 joins the table at seat #2 
+Alameda22: calls $1.25
+*** FLOP *** [Ad 8c Ac]
+Alameda22: checks 
+Runtimmy: bets $3.50
+2049er: folds 
+Alameda22: raises $5.50 to $9
+Runtimmy: folds 
+Uncalled bet ($5.50) returned to Alameda22
+Alameda22 collected $11.20 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.75 | Rake $0.55 
+Board [Ad 8c Ac]
+Seat 1: Runtimmy (big blind) folded on the Flop
+Seat 2: hickerso folded before Flop (didn't bet)
+Seat 3: b0n3z88 folded before Flop (didn't bet)
+Seat 4: fbspower folded before Flop (didn't bet)
+Seat 5: gtowza1974 folded before Flop
+Seat 6: 2049er folded on the Flop
+Seat 7: SnapUr$Roll (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) collected ($11.20)
+
+
+
+PokerStars Game #19980206062:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:10:40 (ET)
+Table 'Mertona II' 9-max Seat #9 is the button
+Seat 1: Runtimmy ($25 in chips) 
+Seat 2: MagicPie 85 ($25 in chips) 
+Seat 3: b0n3z88 ($28.60 in chips) 
+Seat 4: fbspower ($11.05 in chips) 
+Seat 5: gtowza1974 ($14.25 in chips) 
+Seat 6: 2049er ($18.40 in chips) 
+Seat 7: SnapUr$Roll ($6.65 in chips) 
+Seat 9: Alameda22 ($47.30 in chips) 
+Runtimmy: posts small blind $0.10
+MagicPie 85: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Qh]
+b0n3z88: folds 
+fbspower: folds 
+gtowza1974: folds 
+2049er: calls $0.25
+SnapUr$Roll: raises $1 to $1.25
+Alameda22: folds 
+Runtimmy: folds 
+MagicPie 85: folds 
+2049er: raises $1 to $2.25
+SnapUr$Roll: calls $1
+*** FLOP *** [6c 2h 8h]
+2049er: checks 
+SnapUr$Roll: bets $4.40 and is all-in
+2049er: calls $4.40
+*** TURN *** [6c 2h 8h] [Ah]
+*** RIVER *** [6c 2h 8h Ah] [7c]
+*** SHOW DOWN ***
+2049er: shows [Ts Th] (a pair of Tens)
+SnapUr$Roll: mucks hand 
+2049er collected $13 from pot
+*** SUMMARY ***
+Total pot $13.65 | Rake $0.65 
+Board [6c 2h 8h Ah 7c]
+Seat 1: Runtimmy (small blind) folded before Flop
+Seat 2: MagicPie 85 (big blind) folded before Flop
+Seat 3: b0n3z88 folded before Flop (didn't bet)
+Seat 4: fbspower folded before Flop (didn't bet)
+Seat 5: gtowza1974 folded before Flop (didn't bet)
+Seat 6: 2049er showed [Ts Th] and won ($13) with a pair of Tens
+Seat 7: SnapUr$Roll mucked [Jd 2d]
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980229206:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:12:00 (ET)
+Table 'Mertona II' 9-max Seat #1 is the button
+Seat 1: Runtimmy ($24.90 in chips) 
+Seat 2: MagicPie 85 ($24.75 in chips) 
+Seat 3: b0n3z88 ($28.60 in chips) 
+Seat 4: fbspower ($11.05 in chips) 
+Seat 5: gtowza1974 ($14.25 in chips) 
+Seat 6: 2049er ($24.75 in chips) 
+Seat 9: Alameda22 ($47.30 in chips) 
+MagicPie 85: posts small blind $0.10
+b0n3z88: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h Th]
+fbspower: folds 
+gtowza1974: raises $0.25 to $0.50
+2049er: calls $0.50
+Alameda22: calls $0.50
+Runtimmy: folds 
+MagicPie 85: folds 
+b0n3z88: calls $0.25
+*** FLOP *** [2s Td Js]
+b0n3z88: bets $1.25
+gtowza1974: folds 
+2049er: folds 
+Alameda22: folds 
+Uncalled bet ($1.25) returned to b0n3z88
+b0n3z88 collected $2 from pot
+SnapUr$Roll leaves the table
+b0n3z88: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [2s Td Js]
+Seat 1: Runtimmy (button) folded before Flop (didn't bet)
+Seat 2: MagicPie 85 (small blind) folded before Flop
+Seat 3: b0n3z88 (big blind) collected ($2)
+Seat 4: fbspower folded before Flop (didn't bet)
+Seat 5: gtowza1974 folded on the Flop
+Seat 6: 2049er folded on the Flop
+Seat 9: Alameda22 folded on the Flop
+
+
+
+PokerStars Game #19980247945:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:13:04 (ET)
+Table 'Mertona II' 9-max Seat #2 is the button
+Seat 1: Runtimmy ($24.90 in chips) 
+Seat 2: MagicPie 85 ($24.65 in chips) 
+Seat 3: b0n3z88 ($30.10 in chips) 
+Seat 4: fbspower ($11.05 in chips) 
+Seat 5: gtowza1974 ($13.75 in chips) 
+Seat 6: 2049er ($24.25 in chips) 
+Seat 9: Alameda22 ($46.80 in chips) 
+b0n3z88: posts small blind $0.10
+fbspower: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 5c]
+betganij joins the table at seat #7 
+gtowza1974: folds 
+2049er: calls $0.25
+Alameda22: folds 
+Runtimmy: folds 
+MagicPie 85: raises $1 to $1.25
+b0n3z88: folds 
+fbspower: folds 
+2049er: raises $1 to $2.25
+MagicPie 85: calls $1
+*** FLOP *** [3d Js 2c]
+2049er: checks 
+MagicPie 85: checks 
+*** TURN *** [3d Js 2c] [6s]
+2049er: bets $2
+MagicPie 85: calls $2
+*** RIVER *** [3d Js 2c 6s] [Ks]
+2049er: bets $2
+MagicPie 85: calls $2
+*** SHOW DOWN ***
+2049er: shows [Kh Ah] (a pair of Kings)
+MagicPie 85: mucks hand 
+2049er collected $12.25 from pot
+*** SUMMARY ***
+Total pot $12.85 | Rake $0.60 
+Board [3d Js 2c 6s Ks]
+Seat 1: Runtimmy folded before Flop (didn't bet)
+Seat 2: MagicPie 85 (button) mucked [Ts Tc]
+Seat 3: b0n3z88 (small blind) folded before Flop
+Seat 4: fbspower (big blind) folded before Flop
+Seat 5: gtowza1974 folded before Flop (didn't bet)
+Seat 6: 2049er showed [Kh Ah] and won ($12.25) with a pair of Kings
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980269666:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:14:19 (ET)
+Table 'Mertona II' 9-max Seat #3 is the button
+Seat 1: Runtimmy ($24.90 in chips) 
+Seat 2: MagicPie 85 ($25 in chips) 
+Seat 3: b0n3z88 ($30 in chips) 
+Seat 4: fbspower ($10.80 in chips) 
+Seat 5: gtowza1974 ($13.75 in chips) 
+Seat 6: 2049er ($30.25 in chips) 
+Seat 9: Alameda22 ($46.80 in chips) 
+fbspower: posts small blind $0.10
+gtowza1974: posts big blind $0.25
+betganij: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jh 5h]
+2049er: calls $0.25
+Alameda22: folds 
+Runtimmy: folds 
+MagicPie 85: folds 
+b0n3z88: folds 
+fbspower: folds 
+gtowza1974: raises $0.50 to $0.75
+2049er: calls $0.50
+*** FLOP *** [7h 7s Jc]
+fbspower leaves the table
+gtowza1974: bets $0.25
+2049er: calls $0.25
+*** TURN *** [7h 7s Jc] [6s]
+gtowza1974: checks 
+2049er: bets $1
+gtowza1974: calls $1
+*** RIVER *** [7h 7s Jc 6s] [3d]
+gtowza1974: checks 
+2049er: bets $1
+gtowza1974: folds 
+Uncalled bet ($1) returned to 2049er
+2049er collected $3.90 from pot
+2049er: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [7h 7s Jc 6s 3d]
+Seat 1: Runtimmy folded before Flop (didn't bet)
+Seat 2: MagicPie 85 folded before Flop (didn't bet)
+Seat 3: b0n3z88 (button) folded before Flop (didn't bet)
+Seat 4: fbspower (small blind) folded before Flop
+Seat 5: gtowza1974 (big blind) folded on the River
+Seat 6: 2049er collected ($3.90)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980289102:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:15:27 (ET)
+Table 'Mertona II' 9-max Seat #5 is the button
+Seat 1: Runtimmy ($24.90 in chips) 
+Seat 2: MagicPie 85 ($25 in chips) 
+Seat 3: b0n3z88 ($30 in chips) 
+Seat 5: gtowza1974 ($11.75 in chips) 
+Seat 6: 2049er ($32.15 in chips) 
+Seat 7: betganij ($5 in chips) 
+Seat 9: Alameda22 ($46.80 in chips) 
+2049er: posts small blind $0.10
+betganij: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 8h]
+Alameda22: folds 
+Runtimmy: folds 
+MagicPie 85: raises $0.75 to $1
+b0n3z88: folds 
+gtowza1974: folds 
+2049er: raises $1 to $2
+betganij: folds 
+CriticalAA joins the table at seat #4 
+MagicPie 85: raises $3 to $5
+2049er: calls $3
+*** FLOP *** [7s 8c 7d]
+2049er: checks 
+MagicPie 85: bets $6
+2049er: calls $6
+*** TURN *** [7s 8c 7d] [9c]
+2049er: checks 
+MagicPie 85: bets $14 and is all-in
+2049er: calls $14
+*** RIVER *** [7s 8c 7d 9c] [4h]
+*** SHOW DOWN ***
+2049er: shows [Kc Ac] (a pair of Sevens)
+MagicPie 85: shows [Kd Ah] (a pair of Sevens)
+2049er collected $23.90 from pot
+MagicPie 85 collected $23.90 from pot
+*** SUMMARY ***
+Total pot $50.25 | Rake $2.45 
+Board [7s 8c 7d 9c 4h]
+Seat 1: Runtimmy folded before Flop (didn't bet)
+Seat 2: MagicPie 85 showed [Kd Ah] and won ($23.90) with a pair of Sevens
+Seat 3: b0n3z88 folded before Flop (didn't bet)
+Seat 5: gtowza1974 (button) folded before Flop (didn't bet)
+Seat 6: 2049er (small blind) showed [Kc Ac] and won ($23.90) with a pair of Sevens
+Seat 7: betganij (big blind) folded before Flop
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980311820:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:16:47 (ET)
+Table 'Mertona II' 9-max Seat #6 is the button
+Seat 1: Runtimmy ($24.90 in chips) 
+Seat 2: MagicPie 85 ($23.90 in chips) 
+Seat 3: b0n3z88 ($30 in chips) 
+Seat 5: gtowza1974 ($11.75 in chips) 
+Seat 6: 2049er ($31.05 in chips) 
+Seat 7: betganij ($4.75 in chips) 
+Seat 9: Alameda22 ($46.80 in chips) 
+betganij: posts small blind $0.10
+Alameda22: posts big blind $0.25
+CriticalAA: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Ad]
+Runtimmy: folds 
+MagicPie 85: folds 
+b0n3z88: folds 
+gtowza1974: calls $0.25
+2049er: calls $0.25
+betganij: folds 
+Alameda22: checks 
+*** FLOP *** [9s 8c 6c]
+Alameda22: checks 
+gtowza1974: bets $0.75
+2049er: calls $0.75
+Alameda22: folds 
+*** TURN *** [9s 8c 6c] [7d]
+gtowza1974: bets $0.75
+2049er: folds 
+Uncalled bet ($0.75) returned to gtowza1974
+gtowza1974 collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [9s 8c 6c 7d]
+Seat 1: Runtimmy folded before Flop (didn't bet)
+Seat 2: MagicPie 85 folded before Flop (didn't bet)
+Seat 3: b0n3z88 folded before Flop (didn't bet)
+Seat 5: gtowza1974 collected ($2.25)
+Seat 6: 2049er (button) folded on the Turn
+Seat 7: betganij (small blind) folded before Flop
+Seat 9: Alameda22 (big blind) folded on the Flop
+
+
+
+PokerStars Game #19980328442:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:17:45 (ET)
+Table 'Mertona II' 9-max Seat #7 is the button
+Seat 1: Runtimmy ($24.90 in chips) 
+Seat 2: MagicPie 85 ($25 in chips) 
+Seat 3: b0n3z88 ($30 in chips) 
+Seat 5: gtowza1974 ($13 in chips) 
+Seat 6: 2049er ($30.05 in chips) 
+Seat 7: betganij ($4.65 in chips) 
+Seat 9: Alameda22 ($46.55 in chips) 
+Alameda22: posts small blind $0.10
+Runtimmy: posts big blind $0.25
+CriticalAA: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d Ac]
+MagicPie 85: folds 
+b0n3z88: folds 
+gtowza1974: calls $0.25
+2049er: calls $0.25
+betganij: folds 
+Alameda22: folds 
+Runtimmy: checks 
+*** FLOP *** [Jh Qc 3c]
+stylishone has returned
+Runtimmy: checks 
+gtowza1974: checks 
+2049er: checks 
+*** TURN *** [Jh Qc 3c] [6s]
+Runtimmy: checks 
+gtowza1974: checks 
+2049er: checks 
+*** RIVER *** [Jh Qc 3c 6s] [3d]
+Runtimmy: bets $0.50
+gtowza1974: folds 
+2049er: folds 
+Uncalled bet ($0.50) returned to Runtimmy
+Runtimmy collected $0.85 from pot
+Runtimmy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [Jh Qc 3c 6s 3d]
+Seat 1: Runtimmy (big blind) collected ($0.85)
+Seat 2: MagicPie 85 folded before Flop (didn't bet)
+Seat 3: b0n3z88 folded before Flop (didn't bet)
+Seat 5: gtowza1974 folded on the River
+Seat 6: 2049er folded on the River
+Seat 7: betganij (button) folded before Flop (didn't bet)
+Seat 9: Alameda22 (small blind) folded before Flop
+
+
+
+PokerStars Game #19980351249:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:19:06 (ET)
+Table 'Mertona II' 9-max Seat #9 is the button
+Seat 1: Runtimmy ($25.50 in chips) 
+Seat 2: MagicPie 85 ($25 in chips) 
+Seat 3: b0n3z88 ($30 in chips) 
+Seat 5: gtowza1974 ($12.75 in chips) 
+Seat 6: 2049er ($29.80 in chips) 
+Seat 7: betganij ($4.65 in chips) 
+Seat 8: stylishone ($23.55 in chips) 
+Seat 9: Alameda22 ($46.45 in chips) 
+Runtimmy: posts small blind $0.10
+MagicPie 85: posts big blind $0.25
+CriticalAA: sits out 
+stylishone: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 4h]
+b0n3z88: folds 
+gtowza1974: calls $0.25
+2049er: calls $0.25
+betganij: raises $1.50 to $1.75
+stylishone: folds 
+Alameda22: folds 
+Runtimmy: folds 
+MagicPie 85: folds 
+gtowza1974: folds 
+2049er: folds 
+Uncalled bet ($1.50) returned to betganij
+betganij collected $1.45 from pot
+betganij: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.45 | Rake $0 
+Seat 1: Runtimmy (small blind) folded before Flop
+Seat 2: MagicPie 85 (big blind) folded before Flop
+Seat 3: b0n3z88 folded before Flop (didn't bet)
+Seat 5: gtowza1974 folded before Flop
+Seat 6: 2049er folded before Flop
+Seat 7: betganij collected ($1.45)
+Seat 8: stylishone folded before Flop
+Seat 9: Alameda22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980365024:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:19:54 (ET)
+Table 'Mertona II' 9-max Seat #1 is the button
+Seat 1: Runtimmy ($25.40 in chips) 
+Seat 2: MagicPie 85 ($24.75 in chips) 
+Seat 3: b0n3z88 ($30 in chips) 
+Seat 5: gtowza1974 ($12.50 in chips) 
+Seat 6: 2049er ($29.55 in chips) 
+Seat 7: betganij ($5.85 in chips) 
+Seat 8: stylishone ($23.20 in chips) 
+Seat 9: Alameda22 ($46.45 in chips) 
+MagicPie 85: posts small blind $0.10
+b0n3z88: posts big blind $0.25
+CriticalAA: sits out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 2s]
+gtowza1974: folds 
+2049er: calls $0.25
+betganij: folds 
+stylishone: folds 
+Alameda22: folds 
+Runtimmy: folds 
+MagicPie 85: raises $1 to $1.25
+b0n3z88: folds 
+2049er: calls $1
+*** FLOP *** [9h Ts 6c]
+MagicPie 85: bets $4
+2049er said, "lol"
+2049er said, "again?"
+2049er: folds 
+Uncalled bet ($4) returned to MagicPie 85
+MagicPie 85 collected $2.65 from pot
+MagicPie 85: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.10 
+Board [9h Ts 6c]
+Seat 1: Runtimmy (button) folded before Flop (didn't bet)
+Seat 2: MagicPie 85 (small blind) collected ($2.65)
+Seat 3: b0n3z88 (big blind) folded before Flop
+Seat 5: gtowza1974 folded before Flop (didn't bet)
+Seat 6: 2049er folded on the Flop
+Seat 7: betganij folded before Flop (didn't bet)
+Seat 8: stylishone folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19980383330:  Hold'em No Limit ($0.10/$0.25) - 2008/08/29 - 00:21:00 (ET)
+Table 'Mertona II' 9-max Seat #2 is the button
+Seat 1: Runtimmy ($25.40 in chips) 
+Seat 2: MagicPie 85 ($26.15 in chips) 
+Seat 3: b0n3z88 ($29.75 in chips) 
+Seat 4: CriticalAA ($25 in chips) 
+Seat 5: gtowza1974 ($12.50 in chips) 
+Seat 6: 2049er ($28.30 in chips) 
+Seat 7: betganij ($5.85 in chips) 
+Seat 8: stylishone ($23.20 in chips) 
+Seat 9: Alameda22 ($46.45 in chips) 
+b0n3z88: posts small blind $0.10
+CriticalAA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 5h]
+gtowza1974: folds 
+2049er: calls $0.25
+betganij: folds 
+stylishone: folds 
+Alameda22: folds 
+Runtimmy: folds 
+MagicPie 85: folds 
+b0n3z88: raises $0.75 to $1
+CriticalAA: folds 
+2049er: calls $0.75
+*** FLOP *** [6d 4c Kd]
+b0n3z88: checks 
+2049er: bets $1
+b0n3z88: folds 
+Uncalled bet ($1) returned to 2049er
+2049er collected $2.15 from pot
+2049er: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [6d 4c Kd]
+Seat 1: Runtimmy folded before Flop (didn't bet)
+Seat 2: MagicPie 85 (button) folded before Flop (didn't bet)
+Seat 3: b0n3z88 (small blind) folded on the Flop
+Seat 4: CriticalAA (big blind) folded before Flop
+Seat 5: gtowza1974 folded before Flop (didn't bet)
+Seat 6: 2049er collected ($2.15)
+Seat 7: betganij folded before Flop (didn't bet)
+Seat 8: stylishone folded before Flop (didn't bet)
+Seat 9: Alameda22 folded before Flop (didn't bet)
+
+
+

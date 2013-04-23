@@ -1,0 +1,2826 @@
+PokerStars Game #20142308987:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:50:11 ET
+Table 'Phemios IV' 9-max Seat #5 is the button
+Seat 1: 2wt-7x ($5.25 in chips) 
+Seat 2: Sick M ($25.90 in chips) 
+Seat 3: dalmatian112 ($29.05 in chips) 
+Seat 4: Alameda22 ($25 in chips) 
+Seat 5: spikemichael ($14.10 in chips) 
+Seat 6: thisiszid ($6.10 in chips) 
+Seat 7: Sebulon333 ($8.60 in chips) 
+Seat 8: teddipete ($43.30 in chips) 
+Seat 9: chirak1982 ($29.15 in chips) 
+thisiszid: posts small blind $0.10
+Sebulon333: posts big blind $0.25
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 7d]
+teddipete: folds 
+chirak1982: folds 
+2wt-7x: calls $0.25
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: checks 
+spikemichael: calls $0.25
+thisiszid: folds 
+Sebulon333: checks 
+*** FLOP *** [8s 2h 6h]
+Sebulon333: checks 
+2wt-7x: bets $0.50
+Alameda22: folds 
+spikemichael: calls $0.50
+Sebulon333: folds 
+*** TURN *** [8s 2h 6h] [4h]
+2wt-7x: checks 
+spikemichael: checks 
+*** RIVER *** [8s 2h 6h 4h] [Ks]
+2wt-7x: bets $1
+spikemichael: calls $1
+*** SHOW DOWN ***
+2wt-7x: shows [Td 9c] (high card King)
+spikemichael: shows [Kc Ad] (a pair of Kings)
+spikemichael collected $3.90 from pot
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [8s 2h 6h 4h Ks]
+Seat 1: 2wt-7x showed [Td 9c] and lost with high card King
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded on the Flop
+Seat 5: spikemichael (button) showed [Kc Ad] and won ($3.90) with a pair of Kings
+Seat 6: thisiszid (small blind) folded before Flop
+Seat 7: Sebulon333 (big blind) folded on the Flop
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142349690:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:51:51 ET
+Table 'Phemios IV' 9-max Seat #6 is the button
+Seat 1: 2wt-7x ($3.50 in chips) 
+Seat 2: Sick M ($25.90 in chips) 
+Seat 3: dalmatian112 ($29.05 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: spikemichael ($16.25 in chips) 
+Seat 6: thisiszid ($6 in chips) 
+Seat 7: Sebulon333 ($8.35 in chips) 
+Seat 8: teddipete ($43.30 in chips) 
+Seat 9: chirak1982 ($29.15 in chips) 
+Sebulon333: posts small blind $0.10
+teddipete: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Td]
+chirak1982: folds 
+2wt-7x: calls $0.25
+Sick M: raises $1 to $1.25
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+thisiszid: folds 
+Sebulon333: folds 
+teddipete: folds 
+2wt-7x: calls $1
+*** FLOP *** [2c Qs Js]
+2wt-7x: checks 
+Sick M: bets $2
+2wt-7x: folds 
+Uncalled bet ($2) returned to Sick M
+Sick M collected $2.75 from pot
+Sick M: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [2c Qs Js]
+Seat 1: 2wt-7x folded on the Flop
+Seat 2: Sick M collected ($2.75)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: thisiszid (button) folded before Flop (didn't bet)
+Seat 7: Sebulon333 (small blind) folded before Flop
+Seat 8: teddipete (big blind) folded before Flop
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142373335:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:52:50 ET
+Table 'Phemios IV' 9-max Seat #7 is the button
+Seat 1: 2wt-7x ($2.25 in chips) 
+Seat 2: Sick M ($27.40 in chips) 
+Seat 3: dalmatian112 ($29.05 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: spikemichael ($16.25 in chips) 
+Seat 6: thisiszid ($6 in chips) 
+Seat 7: Sebulon333 ($8.25 in chips) 
+Seat 8: teddipete ($43.05 in chips) 
+Seat 9: chirak1982 ($29.15 in chips) 
+teddipete: posts small blind $0.10
+chirak1982: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 4s]
+2wt-7x: raises $2 to $2.25 and is all-in
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+thisiszid: folds 
+Sebulon333: folds 
+teddipete: folds 
+chirak1982: folds 
+Uncalled bet ($2) returned to 2wt-7x
+2wt-7x collected $0.60 from pot
+2wt-7x: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: 2wt-7x collected ($0.60)
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: thisiszid folded before Flop (didn't bet)
+Seat 7: Sebulon333 (button) folded before Flop (didn't bet)
+Seat 8: teddipete (small blind) folded before Flop
+Seat 9: chirak1982 (big blind) folded before Flop
+
+
+
+PokerStars Game #20142386722:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:53:23 ET
+Table 'Phemios IV' 9-max Seat #8 is the button
+Seat 1: 2wt-7x ($2.60 in chips) 
+Seat 2: Sick M ($27.40 in chips) 
+Seat 3: dalmatian112 ($29.05 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: spikemichael ($16.25 in chips) 
+Seat 6: thisiszid ($6 in chips) 
+Seat 7: Sebulon333 ($8.25 in chips) 
+Seat 8: teddipete ($42.95 in chips) 
+Seat 9: chirak1982 ($28.90 in chips) 
+chirak1982: posts small blind $0.10
+2wt-7x: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 3d]
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+thisiszid: calls $0.25
+Sebulon333: raises $0.25 to $0.50
+teddipete: folds 
+chirak1982: folds 
+2wt-7x: calls $0.25
+thisiszid: calls $0.25
+*** FLOP *** [As Qd 6d]
+2wt-7x: checks 
+thisiszid: checks 
+Sebulon333: bets $0.75
+2wt-7x: folds 
+thisiszid: folds 
+Uncalled bet ($0.75) returned to Sebulon333
+Sebulon333 collected $1.55 from pot
+Sebulon333: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [As Qd 6d]
+Seat 1: 2wt-7x (big blind) folded on the Flop
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: thisiszid folded on the Flop
+Seat 7: Sebulon333 collected ($1.55)
+Seat 8: teddipete (button) folded before Flop (didn't bet)
+Seat 9: chirak1982 (small blind) folded before Flop
+
+
+
+PokerStars Game #20142413622:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:54:30 ET
+Table 'Phemios IV' 9-max Seat #9 is the button
+Seat 1: 2wt-7x ($2.10 in chips) 
+Seat 2: Sick M ($27.40 in chips) 
+Seat 3: dalmatian112 ($29.05 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: spikemichael ($16.25 in chips) 
+Seat 6: thisiszid ($5.50 in chips) 
+Seat 7: Sebulon333 ($9.30 in chips) 
+Seat 8: teddipete ($42.95 in chips) 
+Seat 9: chirak1982 ($28.80 in chips) 
+2wt-7x: posts small blind $0.10
+Sick M: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah Ts]
+dalmatian112: calls $0.25
+Alameda22: folds 
+spikemichael: folds 
+thisiszid: calls $0.25
+Sebulon333: folds 
+teddipete: folds 
+chirak1982: folds 
+2wt-7x: calls $0.15
+Sick M: checks 
+*** FLOP *** [9h Th 8h]
+2wt-7x: bets $1
+Sick M: folds 
+dalmatian112: folds 
+thisiszid: calls $1
+*** TURN *** [9h Th 8h] [Jd]
+2wt-7x: bets $0.85 and is all-in
+thisiszid: calls $0.85
+*** RIVER *** [9h Th 8h Jd] [6c]
+*** SHOW DOWN ***
+2wt-7x: shows [7c 8d] (a straight, Seven to Jack)
+thisiszid: shows [Ad 7d] (a straight, Seven to Jack)
+2wt-7x collected $2.25 from pot
+thisiszid collected $2.25 from pot
+*** SUMMARY ***
+Total pot $4.70 | Rake $0.20 
+Board [9h Th 8h Jd 6c]
+Seat 1: 2wt-7x (small blind) showed [7c 8d] and won ($2.25) with a straight, Seven to Jack
+Seat 2: Sick M (big blind) folded on the Flop
+Seat 3: dalmatian112 folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: thisiszid showed [Ad 7d] and won ($2.25) with a straight, Seven to Jack
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142443445:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:55:47 ET
+Table 'Phemios IV' 9-max Seat #1 is the button
+Seat 1: 2wt-7x ($2.25 in chips) 
+Seat 2: Sick M ($27.15 in chips) 
+Seat 3: dalmatian112 ($28.80 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: spikemichael ($16.25 in chips) 
+Seat 6: thisiszid ($5.65 in chips) 
+Seat 7: Sebulon333 ($9.30 in chips) 
+Seat 8: teddipete ($42.95 in chips) 
+Seat 9: chirak1982 ($28.80 in chips) 
+Sick M: posts small blind $0.10
+dalmatian112: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 3d]
+Alameda22: folds 
+spikemichael: calls $0.25
+thisiszid: raises $0.75 to $1
+Sebulon333: folds 
+teddipete: folds 
+chirak1982: folds 
+2wt-7x: folds 
+2wt-7x is sitting out
+Sick M: folds 
+dalmatian112: calls $0.75
+spikemichael: calls $0.75
+*** FLOP *** [7d Jh Qs]
+dalmatian112: checks 
+spikemichael: checks 
+thisiszid: checks 
+*** TURN *** [7d Jh Qs] [9c]
+dalmatian112: checks 
+spikemichael: checks 
+thisiszid: checks 
+*** RIVER *** [7d Jh Qs 9c] [Td]
+dalmatian112: bets $2
+spikemichael: folds 
+thisiszid: folds 
+Uncalled bet ($2) returned to dalmatian112
+dalmatian112 collected $2.95 from pot
+dalmatian112: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.15 
+Board [7d Jh Qs 9c Td]
+Seat 1: 2wt-7x (button) folded before Flop (didn't bet)
+Seat 2: Sick M (small blind) folded before Flop
+Seat 3: dalmatian112 (big blind) collected ($2.95)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded on the River
+Seat 6: thisiszid folded on the River
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142470460:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:56:58 ET
+Table 'Phemios IV' 9-max Seat #2 is the button
+Seat 2: Sick M ($27.05 in chips) 
+Seat 3: dalmatian112 ($30.75 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: spikemichael ($15.25 in chips) 
+Seat 6: thisiszid ($4.65 in chips) 
+Seat 7: Sebulon333 ($9.30 in chips) 
+Seat 8: teddipete ($42.95 in chips) 
+Seat 9: chirak1982 ($28.80 in chips) 
+dalmatian112: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Js]
+spikemichael: folds 
+thisiszid: calls $0.25
+Sebulon333: folds 
+2wt-7x has returned
+teddipete: raises $0.50 to $0.75
+chirak1982: folds 
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+thisiszid: calls $0.50
+*** FLOP *** [6c Ac Qd]
+thisiszid: checks 
+teddipete: bets $1
+thisiszid: folds 
+Uncalled bet ($1) returned to teddipete
+teddipete collected $1.80 from pot
+teddipete: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [6c Ac Qd]
+Seat 2: Sick M (button) folded before Flop (didn't bet)
+Seat 3: dalmatian112 (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: thisiszid folded on the Flop
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: teddipete collected ($1.80)
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142495431:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:58:00 ET
+Table 'Phemios IV' 9-max Seat #3 is the button
+Seat 1: 2wt-7x ($2.25 in chips) 
+Seat 2: Sick M ($27.05 in chips) 
+Seat 3: dalmatian112 ($30.65 in chips) 
+Seat 4: Alameda22 ($24.50 in chips) 
+Seat 5: spikemichael ($15.25 in chips) 
+Seat 6: thisiszid ($3.90 in chips) 
+Seat 7: Sebulon333 ($9.30 in chips) 
+Seat 8: teddipete ($44 in chips) 
+Seat 9: chirak1982 ($28.80 in chips) 
+Alameda22: posts small blind $0.10
+spikemichael: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 5s]
+thisiszid: folds 
+Sebulon333 has timed out
+Sebulon333: folds 
+Sebulon333 is sitting out
+teddipete: folds 
+chirak1982: folds 
+2wt-7x: calls $0.25
+Sebulon333 has returned
+Sick M: folds 
+dalmatian112: calls $0.25
+Alameda22: calls $0.15
+spikemichael: checks 
+*** FLOP *** [8h 2c 4c]
+Alameda22: checks 
+spikemichael: bets $0.75
+2wt-7x: raises $1.25 to $2 and is all-in
+dalmatian112: calls $2
+Alameda22: folds 
+spikemichael: folds 
+*** TURN *** [8h 2c 4c] [Jc]
+*** RIVER *** [8h 2c 4c Jc] [9s]
+*** SHOW DOWN ***
+2wt-7x: shows [8s 4s] (two pair, Eights and Fours)
+dalmatian112: shows [Tc 3c] (a flush, Jack high)
+dalmatian112 collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.25 
+Board [8h 2c 4c Jc 9s]
+Seat 1: 2wt-7x showed [8s 4s] and lost with two pair, Eights and Fours
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 (button) showed [Tc 3c] and won ($5.50) with a flush, Jack high
+Seat 4: Alameda22 (small blind) folded on the Flop
+Seat 5: spikemichael (big blind) folded on the Flop
+Seat 6: thisiszid folded before Flop (didn't bet)
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142541194:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 13:59:57 ET
+Table 'Phemios IV' 9-max Seat #4 is the button
+Seat 2: Sick M ($27.05 in chips) 
+Seat 3: dalmatian112 ($33.90 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: spikemichael ($14.25 in chips) 
+Seat 6: thisiszid ($5.90 in chips) 
+Seat 7: Sebulon333 ($9.30 in chips) 
+Seat 8: teddipete ($44 in chips) 
+Seat 9: chirak1982 ($28.80 in chips) 
+spikemichael: posts small blind $0.10
+thisiszid: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Ac]
+2wt-7x leaves the table
+Sebulon333: folds 
+teddipete: folds 
+chirak1982: folds 
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: calls $0.15
+thisiszid: checks 
+*** FLOP *** [2c Qs 5s]
+spikemichael: checks 
+thisiszid: checks 
+*** TURN *** [2c Qs 5s] [5c]
+spikemichael: checks 
+thisiszid: checks 
+*** RIVER *** [2c Qs 5s 5c] [2d]
+spikemichael: checks 
+thisiszid: checks 
+*** SHOW DOWN ***
+spikemichael: shows [Jc Td] (two pair, Fives and Deuces)
+thisiszid: shows [9s 4h] (two pair, Fives and Deuces)
+spikemichael collected $0.25 from pot
+thisiszid collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [2c Qs 5s 5c 2d]
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: spikemichael (small blind) showed [Jc Td] and won ($0.25) with two pair, Fives and Deuces
+Seat 6: thisiszid (big blind) showed [9s 4h] and won ($0.25) with two pair, Fives and Deuces
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142564331:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:00:53 ET
+Table 'Phemios IV' 9-max Seat #5 is the button
+Seat 2: Sick M ($27.05 in chips) 
+Seat 3: dalmatian112 ($33.90 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: spikemichael ($14.25 in chips) 
+Seat 6: thisiszid ($5.90 in chips) 
+Seat 7: Sebulon333 ($9.30 in chips) 
+Seat 8: teddipete ($44 in chips) 
+Seat 9: chirak1982 ($28.80 in chips) 
+thisiszid: posts small blind $0.10
+Sebulon333: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 6d]
+teddipete: raises $0.50 to $0.75
+chirak1982: folds 
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+thisiszid: calls $0.65
+Sebulon333: folds 
+*** FLOP *** [5s Qd 2s]
+thisiszid: bets $1.25
+teddipete: calls $1.25
+*** TURN *** [5s Qd 2s] [6h]
+thisiszid: bets $1
+teddipete: calls $1
+*** RIVER *** [5s Qd 2s 6h] [2c]
+thisiszid: checks 
+teddipete: bets $3
+thisiszid: calls $2.90 and is all-in
+Uncalled bet ($0.10) returned to teddipete
+*** SHOW DOWN ***
+teddipete: shows [Qs Qh] (a full house, Queens full of Deuces)
+thisiszid: mucks hand 
+teddipete collected $11.50 from pot
+thisiszid leaves the table
+*** SUMMARY ***
+Total pot $12.05 | Rake $0.55 
+Board [5s Qd 2s 6h 2c]
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael (button) folded before Flop (didn't bet)
+Seat 6: thisiszid (small blind) mucked [Td Qc]
+Seat 7: Sebulon333 (big blind) folded before Flop
+Seat 8: teddipete showed [Qs Qh] and won ($11.50) with a full house, Queens full of Deuces
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142591121:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:01:59 ET
+Table 'Phemios IV' 9-max Seat #7 is the button
+Seat 2: Sick M ($27.05 in chips) 
+Seat 3: dalmatian112 ($33.90 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: spikemichael ($14.25 in chips) 
+Seat 7: Sebulon333 ($9.05 in chips) 
+Seat 8: teddipete ($49.60 in chips) 
+Seat 9: chirak1982 ($28.80 in chips) 
+teddipete: posts small blind $0.10
+chirak1982: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac Ks]
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: raises $0.75 to $1
+spikemichael: folds 
+Sebulon333: folds 
+teddipete: folds 
+chirak1982: folds 
+Uncalled bet ($0.75) returned to Alameda22
+Alameda22 collected $0.60 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 collected ($0.60)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 7: Sebulon333 (button) folded before Flop (didn't bet)
+Seat 8: teddipete (small blind) folded before Flop
+Seat 9: chirak1982 (big blind) folded before Flop
+
+
+
+PokerStars Game #20142608473:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:02:41 ET
+Table 'Phemios IV' 9-max Seat #8 is the button
+Seat 2: Sick M ($27.05 in chips) 
+Seat 3: dalmatian112 ($33.90 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: spikemichael ($14.25 in chips) 
+Seat 7: Sebulon333 ($9.05 in chips) 
+Seat 8: teddipete ($49.50 in chips) 
+Seat 9: chirak1982 ($28.55 in chips) 
+chirak1982: posts small blind $0.10
+Sick M: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d 6h]
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+Sebulon333: folds 
+teddipete: raises $0.50 to $0.75
+chirak1982: calls $0.65
+Sick M: calls $0.50
+*** FLOP *** [Kh 9c Th]
+chirak1982: checks 
+Sick M: checks 
+teddipete: bets $1
+chirak1982: folds 
+Sick M: folds 
+Uncalled bet ($1) returned to teddipete
+teddipete collected $2.15 from pot
+teddipete: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Kh 9c Th]
+Seat 2: Sick M (big blind) folded on the Flop
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: teddipete (button) collected ($2.15)
+Seat 9: chirak1982 (small blind) folded on the Flop
+
+
+
+PokerStars Game #20142629303:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:03:32 ET
+Table 'Phemios IV' 9-max Seat #9 is the button
+Seat 2: Sick M ($26.30 in chips) 
+Seat 3: dalmatian112 ($33.90 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: spikemichael ($14.25 in chips) 
+Seat 7: Sebulon333 ($9.05 in chips) 
+Seat 8: teddipete ($50.90 in chips) 
+Seat 9: chirak1982 ($27.80 in chips) 
+Sick M: posts small blind $0.10
+dalmatian112: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 3c]
+Alameda22: folds 
+spikemichael: folds 
+Sebulon333: raises $0.50 to $0.75
+teddipete: folds 
+chirak1982: folds 
+Sick M: folds 
+dalmatian112: folds 
+Uncalled bet ($0.50) returned to Sebulon333
+Sebulon333 collected $0.60 from pot
+Sebulon333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Sick M (small blind) folded before Flop
+Seat 3: dalmatian112 (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 7: Sebulon333 collected ($0.60)
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142648355:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:04:19 ET
+Table 'Phemios IV' 9-max Seat #2 is the button
+Seat 2: Sick M ($26.20 in chips) 
+Seat 3: dalmatian112 ($33.65 in chips) 
+Seat 4: Alameda22 ($24.60 in chips) 
+Seat 5: spikemichael ($14.25 in chips) 
+Seat 7: Sebulon333 ($9.40 in chips) 
+Seat 8: teddipete ($50.90 in chips) 
+Seat 9: chirak1982 ($27.80 in chips) 
+dalmatian112: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 9d]
+spikemichael: folds 
+Sebulon333: folds 
+teddipete: folds 
+chirak1982: folds 
+Sick M: folds 
+dalmatian112: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Qs 7c 6s]
+dalmatian112: checks 
+Alameda22: checks 
+*** TURN *** [Qs 7c 6s] [Ks]
+dalmatian112: bets $0.50
+Alameda22: folds 
+Uncalled bet ($0.50) returned to dalmatian112
+dalmatian112 collected $0.50 from pot
+dalmatian112: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [Qs 7c 6s Ks]
+Seat 2: Sick M (button) folded before Flop (didn't bet)
+Seat 3: dalmatian112 (small blind) collected ($0.50)
+Seat 4: Alameda22 (big blind) folded on the Turn
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142682848:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:05:42 ET
+Table 'Phemios IV' 9-max Seat #3 is the button
+Seat 2: Sick M ($26.20 in chips) 
+Seat 3: dalmatian112 ($33.90 in chips) 
+Seat 4: Alameda22 ($24.35 in chips) 
+Seat 5: spikemichael ($14.25 in chips) 
+Seat 7: Sebulon333 ($9.40 in chips) 
+Seat 8: teddipete ($50.90 in chips) 
+Seat 9: chirak1982 ($27.80 in chips) 
+Alameda22: posts small blind $0.10
+spikemichael: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2d Ts]
+Sebulon333: calls $0.25
+teddipete: folds 
+chirak1982: folds 
+Sick M: folds 
+dalmatian112: calls $0.25
+Alameda22: folds 
+spikemichael: checks 
+*** FLOP *** [7d 5s 5c]
+Fixsie joins the table at seat #1 
+spikemichael: checks 
+Sebulon333: checks 
+dalmatian112: checks 
+*** TURN *** [7d 5s 5c] [Qs]
+spikemichael: checks 
+Sebulon333: bets $0.75
+dalmatian112: folds 
+spikemichael: folds 
+Uncalled bet ($0.75) returned to Sebulon333
+Sebulon333 collected $0.85 from pot
+Sebulon333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [7d 5s 5c Qs]
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 (button) folded on the Turn
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: spikemichael (big blind) folded on the Turn
+Seat 7: Sebulon333 collected ($0.85)
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142712037:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:06:53 ET
+Table 'Phemios IV' 9-max Seat #4 is the button
+Seat 1: Fixsie ($6.15 in chips) 
+Seat 2: Sick M ($26.20 in chips) 
+Seat 3: dalmatian112 ($33.65 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: spikemichael ($14 in chips) 
+Seat 7: Sebulon333 ($10 in chips) 
+Seat 8: teddipete ($50.90 in chips) 
+Seat 9: chirak1982 ($27.80 in chips) 
+spikemichael: posts small blind $0.10
+Sebulon333: posts big blind $0.25
+Fixsie: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 4h]
+teddipete: folds 
+chirak1982: raises $1 to $1.25
+Fixsie: folds 
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+Sebulon333: calls $1
+*** FLOP *** [5s Kc 8h]
+Sebulon333: checks 
+chirak1982: bets $1.25
+Sebulon333: folds 
+Uncalled bet ($1.25) returned to chirak1982
+chirak1982 collected $2.75 from pot
+chirak1982: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.10 
+Board [5s Kc 8h]
+Seat 1: Fixsie folded before Flop
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: spikemichael (small blind) folded before Flop
+Seat 7: Sebulon333 (big blind) folded on the Flop
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 collected ($2.75)
+
+
+
+PokerStars Game #20142753278:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:08:33 ET
+Table 'Phemios IV' 9-max Seat #5 is the button
+Seat 1: Fixsie ($5.90 in chips) 
+Seat 2: Sick M ($26.20 in chips) 
+Seat 3: dalmatian112 ($33.65 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: spikemichael ($13.90 in chips) 
+Seat 7: Sebulon333 ($8.75 in chips) 
+Seat 8: teddipete ($50.90 in chips) 
+Seat 9: chirak1982 ($29.30 in chips) 
+Sebulon333: posts small blind $0.10
+teddipete: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 7s]
+chirak1982: folds 
+Fixsie: calls $0.25
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: calls $0.25
+Sebulon333: folds 
+teddipete: checks 
+*** FLOP *** [2c Qs 3c]
+teddipete: checks 
+Fixsie: checks 
+spikemichael: checks 
+*** TURN *** [2c Qs 3c] [6d]
+teddipete: checks 
+Fixsie: checks 
+spikemichael: checks 
+*** RIVER *** [2c Qs 3c 6d] [9c]
+teddipete: bets $1
+Fixsie: folds 
+spikemichael: folds 
+Uncalled bet ($1) returned to teddipete
+teddipete collected $0.85 from pot
+teddipete: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [2c Qs 3c 6d 9c]
+Seat 1: Fixsie folded on the River
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael (button) folded on the River
+Seat 7: Sebulon333 (small blind) folded before Flop
+Seat 8: teddipete (big blind) collected ($0.85)
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142776227:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:09:27 ET
+Table 'Phemios IV' 9-max Seat #7 is the button
+Seat 1: Fixsie ($5.65 in chips) 
+Seat 2: Sick M ($26.20 in chips) 
+Seat 3: dalmatian112 ($33.65 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: spikemichael ($23.65 in chips) 
+Seat 7: Sebulon333 ($8.65 in chips) 
+Seat 8: teddipete ($51.50 in chips) 
+Seat 9: chirak1982 ($29.30 in chips) 
+teddipete: posts small blind $0.10
+chirak1982: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c 9h]
+Fixsie: calls $0.25
+Sick M: calls $0.25
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+Sebulon333: folds 
+teddipete: calls $0.15
+chirak1982: checks 
+*** FLOP *** [Kh Th 3d]
+teddipete: checks 
+chirak1982: checks 
+Fixsie: checks 
+Sick M: checks 
+*** TURN *** [Kh Th 3d] [Tc]
+teddipete: checks 
+chirak1982: checks 
+Fixsie: checks 
+Sick M: checks 
+*** RIVER *** [Kh Th 3d Tc] [Js]
+teddipete: bets $1
+chirak1982: folds 
+Fixsie: folds 
+Sick M: folds 
+Uncalled bet ($1) returned to teddipete
+teddipete collected $0.95 from pot
+teddipete: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Kh Th 3d Tc Js]
+Seat 1: Fixsie folded on the River
+Seat 2: Sick M folded on the River
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 7: Sebulon333 (button) folded before Flop (didn't bet)
+Seat 8: teddipete (small blind) collected ($0.95)
+Seat 9: chirak1982 (big blind) folded on the River
+
+
+
+PokerStars Game #20142814849:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:10:59 ET
+Table 'Phemios IV' 9-max Seat #8 is the button
+Seat 1: Fixsie ($5.40 in chips) 
+Seat 2: Sick M ($25.95 in chips) 
+Seat 3: dalmatian112 ($33.65 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: spikemichael ($23.65 in chips) 
+Seat 7: Sebulon333 ($8.65 in chips) 
+Seat 8: teddipete ($52.20 in chips) 
+Seat 9: chirak1982 ($29.05 in chips) 
+chirak1982: posts small blind $0.10
+dusel08 joins the table at seat #6 
+Fixsie: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qh 7h]
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+Sebulon333: folds 
+teddipete: folds 
+chirak1982: raises $0.50 to $0.75
+Fixsie: calls $0.50
+*** FLOP *** [9s 9h 5s]
+chirak1982: bets $0.75
+Fixsie: calls $0.75
+*** TURN *** [9s 9h 5s] [3h]
+chirak1982: checks 
+Fixsie: checks 
+*** RIVER *** [9s 9h 5s 3h] [6c]
+chirak1982: checks 
+Fixsie: checks 
+*** SHOW DOWN ***
+chirak1982: shows [2h Ac] (a pair of Nines)
+Fixsie: shows [6s 8s] (two pair, Nines and Sixes)
+Fixsie collected $2.90 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.10 
+Board [9s 9h 5s 3h 6c]
+Seat 1: Fixsie (big blind) showed [6s 8s] and won ($2.90) with two pair, Nines and Sixes
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: teddipete (button) folded before Flop (didn't bet)
+Seat 9: chirak1982 (small blind) showed [2h Ac] and lost with a pair of Nines
+
+
+
+PokerStars Game #20142842153:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:12:04 ET
+Table 'Phemios IV' 9-max Seat #9 is the button
+Seat 1: Fixsie ($6.80 in chips) 
+Seat 2: Sick M ($25.95 in chips) 
+Seat 3: dalmatian112 ($33.65 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: spikemichael ($23.65 in chips) 
+Seat 7: Sebulon333 ($8.65 in chips) 
+Seat 8: teddipete ($52.20 in chips) 
+Seat 9: chirak1982 ($27.55 in chips) 
+Fixsie: posts small blind $0.10
+Sick M: posts big blind $0.25
+dusel08: is sitting out 
+*** HOLE CARDS ***
+Dealt to Alameda22 [6d 5d]
+dalmatian112: folds 
+dusel08 has returned
+Alameda22: folds 
+spikemichael: calls $0.25
+Sebulon333: folds 
+teddipete: folds 
+chirak1982: folds 
+Fixsie: raises $0.25 to $0.50
+Sick M: folds 
+spikemichael: calls $0.25
+*** FLOP *** [Td Jh 6h]
+Fixsie: bets $0.75
+spikemichael: folds 
+Uncalled bet ($0.75) returned to Fixsie
+Fixsie collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Td Jh 6h]
+Seat 1: Fixsie (small blind) collected ($1.20)
+Seat 2: Sick M (big blind) folded before Flop
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded on the Flop
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142864391:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:12:57 ET
+Table 'Phemios IV' 9-max Seat #1 is the button
+Seat 1: Fixsie ($7.50 in chips) 
+Seat 2: Sick M ($25.70 in chips) 
+Seat 3: dalmatian112 ($33.65 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: spikemichael ($23.15 in chips) 
+Seat 6: dusel08 ($15 in chips) 
+Seat 7: Sebulon333 ($8.65 in chips) 
+Seat 8: teddipete ($52.20 in chips) 
+Seat 9: chirak1982 ($27.55 in chips) 
+Sick M: posts small blind $0.10
+dalmatian112: posts big blind $0.25
+dusel08: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 8c]
+Alameda22: folds 
+spikemichael: calls $0.25
+dusel08: checks 
+Sebulon333: folds 
+teddipete: folds 
+chirak1982: calls $0.25
+Fixsie: calls $0.25
+Sick M: calls $0.15
+dalmatian112: checks 
+*** FLOP *** [Ts 2c 9s]
+Sick M: checks 
+dalmatian112: checks 
+spikemichael: checks 
+dusel08: checks 
+chirak1982: bets $1.50
+Fixsie: folds 
+Sick M: calls $1.50
+dalmatian112: folds 
+spikemichael: folds 
+dusel08: folds 
+*** TURN *** [Ts 2c 9s] [4s]
+Sick M: bets $3.50
+chirak1982: calls $3.50
+*** RIVER *** [Ts 2c 9s 4s] [Jc]
+Sick M: bets $8.50
+chirak1982: folds 
+Uncalled bet ($8.50) returned to Sick M
+Sick M collected $10.95 from pot
+Sick M: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.55 
+Board [Ts 2c 9s 4s Jc]
+Seat 1: Fixsie (button) folded on the Flop
+Seat 2: Sick M (small blind) collected ($10.95)
+Seat 3: dalmatian112 (big blind) folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded on the Flop
+Seat 6: dusel08 folded on the Flop
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 folded on the River
+
+
+
+PokerStars Game #20142907662:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:14:42 ET
+Table 'Phemios IV' 9-max Seat #2 is the button
+Seat 1: Fixsie ($7.25 in chips) 
+Seat 2: Sick M ($31.40 in chips) 
+Seat 3: dalmatian112 ($33.40 in chips) 
+Seat 4: Alameda22 ($24.25 in chips) 
+Seat 5: spikemichael ($22.90 in chips) 
+Seat 6: dusel08 ($14.75 in chips) 
+Seat 7: Sebulon333 ($8.65 in chips) 
+Seat 8: teddipete ($52.20 in chips) 
+Seat 9: chirak1982 ($25 in chips) 
+dalmatian112: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 6h]
+spikemichael: folds 
+dusel08: folds 
+Sebulon333: folds 
+teddipete: folds 
+chirak1982: folds 
+Fixsie: folds 
+Sick M: raises $0.50 to $0.75
+dalmatian112: folds 
+Alameda22: folds 
+Uncalled bet ($0.50) returned to Sick M
+Sick M collected $0.60 from pot
+Sick M: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Fixsie folded before Flop (didn't bet)
+Seat 2: Sick M (button) collected ($0.60)
+Seat 3: dalmatian112 (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: dusel08 folded before Flop (didn't bet)
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142923611:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:15:20 ET
+Table 'Phemios IV' 9-max Seat #3 is the button
+Seat 1: Fixsie ($7.25 in chips) 
+Seat 2: Sick M ($31.75 in chips) 
+Seat 3: dalmatian112 ($33.30 in chips) 
+Seat 4: Alameda22 ($24 in chips) 
+Seat 5: spikemichael ($22.90 in chips) 
+Seat 6: dusel08 ($14.75 in chips) 
+Seat 7: Sebulon333 ($8.65 in chips) 
+Seat 8: teddipete ($52.20 in chips) 
+Seat 9: chirak1982 ($25 in chips) 
+Alameda22: posts small blind $0.10
+spikemichael: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As Kd]
+dusel08: calls $0.25
+Sebulon333: folds 
+teddipete: folds 
+chirak1982: folds 
+Fixsie: calls $0.25
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: raises $1.25 to $1.50
+spikemichael: folds 
+dusel08: folds 
+Fixsie: folds 
+Uncalled bet ($1.25) returned to Alameda22
+Alameda22 collected $1 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Fixsie folded before Flop
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) collected ($1)
+Seat 5: spikemichael (big blind) folded before Flop
+Seat 6: dusel08 folded before Flop
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142948918:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:16:20 ET
+Table 'Phemios IV' 9-max Seat #4 is the button
+Seat 1: Fixsie ($7 in chips) 
+Seat 2: Sick M ($31.75 in chips) 
+Seat 3: dalmatian112 ($33.30 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: spikemichael ($22.65 in chips) 
+Seat 6: dusel08 ($14.50 in chips) 
+Seat 7: Sebulon333 ($8.65 in chips) 
+Seat 8: teddipete ($52.20 in chips) 
+Seat 9: chirak1982 ($25 in chips) 
+spikemichael: posts small blind $0.10
+dusel08: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4d 3c]
+Sebulon333: calls $0.25
+teddipete: folds 
+chirak1982: folds 
+Fixsie: folds 
+Sick M: folds 
+dalmatian112: calls $0.25
+Alameda22: folds 
+spikemichael: calls $0.15
+dusel08: checks 
+*** FLOP *** [8d Jd Qc]
+spikemichael: bets $1
+dusel08: folds 
+Sebulon333: folds 
+dalmatian112: folds 
+Uncalled bet ($1) returned to spikemichael
+spikemichael collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [8d Jd Qc]
+Seat 1: Fixsie folded before Flop (didn't bet)
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded on the Flop
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: spikemichael (small blind) collected ($0.95)
+Seat 6: dusel08 (big blind) folded on the Flop
+Seat 7: Sebulon333 folded on the Flop
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20142966761:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:17:03 ET
+Table 'Phemios IV' 9-max Seat #5 is the button
+Seat 1: Fixsie ($7 in chips) 
+Seat 2: Sick M ($31.75 in chips) 
+Seat 3: dalmatian112 ($33.05 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: spikemichael ($23.35 in chips) 
+Seat 6: dusel08 ($14.25 in chips) 
+Seat 7: Sebulon333 ($8.40 in chips) 
+Seat 8: teddipete ($52.20 in chips) 
+Seat 9: chirak1982 ($25 in chips) 
+dusel08: posts small blind $0.10
+Sebulon333: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Tc 7d]
+teddipete: calls $0.25
+chirak1982: folds 
+Fixsie: calls $0.25
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+dusel08: raises $0.50 to $0.75
+Sebulon333: calls $0.50
+teddipete: calls $0.50
+Fixsie: calls $0.50
+*** FLOP *** [3c Th Kc]
+dusel08: checks 
+Sebulon333: bets $1
+teddipete: calls $1
+Fixsie: folds 
+dusel08: folds 
+*** TURN *** [3c Th Kc] [As]
+Sebulon333: bets $1.75
+teddipete: calls $1.75
+*** RIVER *** [3c Th Kc As] [Ts]
+Sebulon333: bets $4.90 and is all-in
+teddipete: calls $4.90
+*** SHOW DOWN ***
+Sebulon333: shows [3s 3d] (a full house, Threes full of Tens)
+teddipete: mucks hand 
+Sebulon333 collected $17.45 from pot
+*** SUMMARY ***
+Total pot $18.30 | Rake $0.85 
+Board [3c Th Kc As Ts]
+Seat 1: Fixsie folded on the Flop
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael (button) folded before Flop (didn't bet)
+Seat 6: dusel08 (small blind) folded on the Flop
+Seat 7: Sebulon333 (big blind) showed [3s 3d] and won ($17.45) with a full house, Threes full of Tens
+Seat 8: teddipete mucked [Jd Td]
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143016546:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:19:04 ET
+Table 'Phemios IV' 9-max Seat #6 is the button
+Seat 1: Fixsie ($6.25 in chips) 
+Seat 2: Sick M ($31.75 in chips) 
+Seat 3: dalmatian112 ($33.05 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: spikemichael ($23.35 in chips) 
+Seat 6: dusel08 ($13.50 in chips) 
+Seat 7: Sebulon333 ($17.45 in chips) 
+Seat 8: teddipete ($43.80 in chips) 
+Seat 9: chirak1982 ($25 in chips) 
+Sebulon333: posts small blind $0.10
+teddipete: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 6s]
+chirak1982: folds 
+Fixsie: folds 
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+dusel08: folds 
+Sebulon333: folds 
+Uncalled bet ($0.15) returned to teddipete
+teddipete collected $0.20 from pot
+teddipete: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Fixsie folded before Flop (didn't bet)
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: dusel08 (button) folded before Flop (didn't bet)
+Seat 7: Sebulon333 (small blind) folded before Flop
+Seat 8: teddipete (big blind) collected ($0.20)
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143035830:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:19:50 ET
+Table 'Phemios IV' 9-max Seat #7 is the button
+Seat 1: Fixsie ($6.25 in chips) 
+Seat 2: Sick M ($31.75 in chips) 
+Seat 3: dalmatian112 ($33.05 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: spikemichael ($23.35 in chips) 
+Seat 6: dusel08 ($13.50 in chips) 
+Seat 7: Sebulon333 ($17.35 in chips) 
+Seat 8: teddipete ($43.90 in chips) 
+Seat 9: chirak1982 ($25 in chips) 
+teddipete: posts small blind $0.10
+chirak1982: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c Kh]
+Fixsie: calls $0.25
+Sick M: folds 
+dalmatian112: calls $0.25
+Alameda22: folds 
+spikemichael: folds 
+dusel08: folds 
+Sebulon333: folds 
+teddipete: calls $0.15
+chirak1982: checks 
+*** FLOP *** [Qs 8c 9h]
+teddipete: checks 
+chirak1982: checks 
+Fixsie: checks 
+dalmatian112: checks 
+*** TURN *** [Qs 8c 9h] [Qc]
+teddipete: checks 
+chirak1982: checks 
+Fixsie: checks 
+dalmatian112: checks 
+*** RIVER *** [Qs 8c 9h Qc] [4h]
+teddipete: checks 
+chirak1982: checks 
+Fixsie: checks 
+dalmatian112: checks 
+*** SHOW DOWN ***
+teddipete: shows [3h 2d] (a pair of Queens)
+chirak1982: shows [5s 5c] (two pair, Queens and Fives)
+Fixsie: mucks hand 
+dalmatian112: mucks hand 
+chirak1982 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Qs 8c 9h Qc 4h]
+Seat 1: Fixsie mucked [6c Kc]
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 mucked [Ah 7s]
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: dusel08 folded before Flop (didn't bet)
+Seat 7: Sebulon333 (button) folded before Flop (didn't bet)
+Seat 8: teddipete (small blind) showed [3h 2d] and lost with a pair of Queens
+Seat 9: chirak1982 (big blind) showed [5s 5c] and won ($0.95) with two pair, Queens and Fives
+
+
+
+PokerStars Game #20143062421:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:20:54 ET
+Table 'Phemios IV' 9-max Seat #8 is the button
+Seat 1: Fixsie ($6 in chips) 
+Seat 2: Sick M ($31.75 in chips) 
+Seat 3: dalmatian112 ($32.80 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: spikemichael ($23.35 in chips) 
+Seat 6: dusel08 ($13.50 in chips) 
+Seat 7: Sebulon333 ($17.35 in chips) 
+Seat 8: teddipete ($43.65 in chips) 
+Seat 9: chirak1982 ($25.70 in chips) 
+chirak1982: posts small blind $0.10
+Fixsie: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 7h]
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+dusel08: folds 
+Sebulon333: calls $0.25
+teddipete: folds 
+chirak1982: folds 
+Fixsie: checks 
+*** FLOP *** [Ac 2h 9h]
+Fixsie: bets $0.25
+Sebulon333: folds 
+Uncalled bet ($0.25) returned to Fixsie
+Fixsie collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ac 2h 9h]
+Seat 1: Fixsie (big blind) collected ($0.60)
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: dusel08 folded before Flop (didn't bet)
+Seat 7: Sebulon333 folded on the Flop
+Seat 8: teddipete (button) folded before Flop (didn't bet)
+Seat 9: chirak1982 (small blind) folded before Flop
+
+
+
+PokerStars Game #20143080934:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:21:38 ET
+Table 'Phemios IV' 9-max Seat #9 is the button
+Seat 1: Fixsie ($6.35 in chips) 
+Seat 2: Sick M ($31.75 in chips) 
+Seat 3: dalmatian112 ($32.80 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: spikemichael ($23.35 in chips) 
+Seat 6: dusel08 ($13.50 in chips) 
+Seat 7: Sebulon333 ($17.10 in chips) 
+Seat 8: teddipete ($43.65 in chips) 
+Seat 9: chirak1982 ($25.60 in chips) 
+Fixsie: posts small blind $0.10
+Sick M: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 4d]
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+dusel08: calls $0.25
+Sebulon333: folds 
+teddipete: folds 
+chirak1982: folds 
+Fixsie: calls $0.15
+Sick M: checks 
+*** FLOP *** [6s 9c Th]
+Fixsie: bets $0.25
+Sick M: calls $0.25
+dusel08: calls $0.25
+*** TURN *** [6s 9c Th] [Td]
+Fixsie: bets $0.25
+Sick M: calls $0.25
+dusel08: raises $0.25 to $0.50
+Fixsie: calls $0.25
+Sick M: calls $0.25
+*** RIVER *** [6s 9c Th Td] [6h]
+Fixsie: checks 
+Sick M: bets $2.75
+dusel08: folds 
+Fixsie: folds 
+Uncalled bet ($2.75) returned to Sick M
+Sick M collected $2.90 from pot
+Sick M: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.10 
+Board [6s 9c Th Td 6h]
+Seat 1: Fixsie (small blind) folded on the River
+Seat 2: Sick M (big blind) collected ($2.90)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: dusel08 folded on the River
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143118700:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:23:07 ET
+Table 'Phemios IV' 9-max Seat #1 is the button
+Seat 1: Fixsie ($5.35 in chips) 
+Seat 2: Sick M ($33.65 in chips) 
+Seat 3: dalmatian112 ($32.80 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: spikemichael ($23.35 in chips) 
+Seat 6: dusel08 ($12.50 in chips) 
+Seat 7: Sebulon333 ($17.10 in chips) 
+Seat 8: teddipete ($43.65 in chips) 
+Seat 9: chirak1982 ($25.60 in chips) 
+Sick M: posts small blind $0.10
+dalmatian112: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4c Qh]
+Alameda22: folds 
+spikemichael: folds 
+dusel08: folds 
+Sebulon333: folds 
+teddipete: folds 
+chirak1982: folds 
+Fixsie: raises $0.25 to $0.50
+Sick M: folds 
+dalmatian112: calls $0.25
+*** FLOP *** [3c 6s Qd]
+dalmatian112: checks 
+Fixsie: checks 
+*** TURN *** [3c 6s Qd] [9c]
+dalmatian112: bets $0.50
+Fixsie: calls $0.50
+*** RIVER *** [3c 6s Qd 9c] [2s]
+dalmatian112: checks 
+Fixsie: checks 
+*** SHOW DOWN ***
+dalmatian112: shows [6c 4s] (a pair of Sixes)
+Fixsie: shows [8d 8s] (a pair of Eights)
+Fixsie collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [3c 6s Qd 9c 2s]
+Seat 1: Fixsie (button) showed [8d 8s] and won ($2) with a pair of Eights
+Seat 2: Sick M (small blind) folded before Flop
+Seat 3: dalmatian112 (big blind) showed [6c 4s] and lost with a pair of Sixes
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: dusel08 folded before Flop (didn't bet)
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143137189:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:23:52 ET
+Table 'Phemios IV' 9-max Seat #2 is the button
+Seat 1: Fixsie ($6.35 in chips) 
+Seat 2: Sick M ($33.55 in chips) 
+Seat 3: dalmatian112 ($31.80 in chips) 
+Seat 4: Alameda22 ($24.75 in chips) 
+Seat 5: spikemichael ($23.35 in chips) 
+Seat 6: dusel08 ($12.50 in chips) 
+Seat 7: Sebulon333 ($17.10 in chips) 
+Seat 8: teddipete ($43.65 in chips) 
+Seat 9: chirak1982 ($25.60 in chips) 
+dalmatian112: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c Th]
+spikemichael: folds 
+dusel08: folds 
+Sebulon333: folds 
+teddipete: folds 
+chirak1982: folds 
+Fixsie: raises $0.25 to $0.50
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to Fixsie
+Fixsie collected $0.60 from pot
+Fixsie: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Fixsie collected ($0.60)
+Seat 2: Sick M (button) folded before Flop (didn't bet)
+Seat 3: dalmatian112 (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: dusel08 folded before Flop (didn't bet)
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143152434:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:24:28 ET
+Table 'Phemios IV' 9-max Seat #3 is the button
+Seat 1: Fixsie ($6.70 in chips) 
+Seat 2: Sick M ($33.55 in chips) 
+Seat 3: dalmatian112 ($31.70 in chips) 
+Seat 4: Alameda22 ($24.50 in chips) 
+Seat 5: spikemichael ($23.35 in chips) 
+Seat 6: dusel08 ($12.50 in chips) 
+Seat 7: Sebulon333 ($17.10 in chips) 
+Seat 8: teddipete ($43.65 in chips) 
+Seat 9: chirak1982 ($25.60 in chips) 
+Alameda22: posts small blind $0.10
+spikemichael: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d Th]
+dusel08: calls $0.25
+Sebulon333: folds 
+teddipete: raises $0.50 to $0.75
+chirak1982: folds 
+Fixsie: calls $0.75
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+dusel08: calls $0.50
+*** FLOP *** [9h 5c 2s]
+dusel08: checks 
+teddipete: bets $1
+Fixsie: calls $1
+dusel08: folds 
+*** TURN *** [9h 5c 2s] [8s]
+teddipete: checks 
+Fixsie: checks 
+*** RIVER *** [9h 5c 2s 8s] [As]
+teddipete: checks 
+Fixsie: bets $1.25
+teddipete: folds 
+Uncalled bet ($1.25) returned to Fixsie
+Fixsie collected $4.40 from pot
+Fixsie: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.20 
+Board [9h 5c 2s 8s As]
+Seat 1: Fixsie collected ($4.40)
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: spikemichael (big blind) folded before Flop
+Seat 6: dusel08 folded on the Flop
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: teddipete folded on the River
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143185830:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:25:48 ET
+Table 'Phemios IV' 9-max Seat #4 is the button
+Seat 1: Fixsie ($9.35 in chips) 
+Seat 2: Sick M ($33.55 in chips) 
+Seat 3: dalmatian112 ($31.70 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: spikemichael ($23.10 in chips) 
+Seat 6: dusel08 ($11.75 in chips) 
+Seat 7: Sebulon333 ($17.10 in chips) 
+Seat 8: teddipete ($41.90 in chips) 
+Seat 9: chirak1982 ($25.60 in chips) 
+spikemichael: posts small blind $0.10
+dusel08: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [As 2s]
+Sebulon333: calls $0.25
+teddipete: raises $0.50 to $0.75
+chirak1982: folds 
+Fixsie: folds 
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: calls $0.65
+dusel08: folds 
+Sebulon333: calls $0.50
+*** FLOP *** [Tc 8c 9s]
+spikemichael: bets $1.50
+Sebulon333: folds 
+teddipete: calls $1.50
+*** TURN *** [Tc 8c 9s] [4d]
+spikemichael: bets $1.50
+teddipete: calls $1.50
+*** RIVER *** [Tc 8c 9s 4d] [8h]
+spikemichael: checks 
+teddipete: checks 
+*** SHOW DOWN ***
+spikemichael: shows [Kd 9d] (two pair, Nines and Eights)
+teddipete: mucks hand 
+spikemichael collected $8.10 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.40 
+Board [Tc 8c 9s 4d 8h]
+Seat 1: Fixsie folded before Flop (didn't bet)
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: spikemichael (small blind) showed [Kd 9d] and won ($8.10) with two pair, Nines and Eights
+Seat 6: dusel08 (big blind) folded before Flop
+Seat 7: Sebulon333 folded on the Flop
+Seat 8: teddipete mucked [Ks Ac]
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143230188:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:27:35 ET
+Table 'Phemios IV' 9-max Seat #5 is the button
+Seat 1: Fixsie ($9.35 in chips) 
+Seat 2: Sick M ($33.55 in chips) 
+Seat 3: dalmatian112 ($31.70 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: spikemichael ($27.45 in chips) 
+Seat 6: dusel08 ($11.50 in chips) 
+Seat 7: Sebulon333 ($16.35 in chips) 
+Seat 8: teddipete ($38.15 in chips) 
+Seat 9: chirak1982 ($25.60 in chips) 
+dusel08: posts small blind $0.10
+Sebulon333: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8s 5c]
+teddipete: folds 
+teddipete leaves the table
+chirak1982: folds 
+Fixsie: calls $0.25
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: calls $0.25
+dusel08: calls $0.15
+Sebulon333: checks 
+*** FLOP *** [9s Td Tc]
+dusel08: bets $0.25
+Sebulon333: folds 
+Fixsie: calls $0.25
+spikemichael: raises $1.75 to $2
+dusel08: folds 
+Fixsie: folds 
+Uncalled bet ($1.75) returned to spikemichael
+spikemichael collected $1.70 from pot
+spikemichael: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.05 
+Board [9s Td Tc]
+Seat 1: Fixsie folded on the Flop
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael (button) collected ($1.70)
+Seat 6: dusel08 (small blind) folded on the Flop
+Seat 7: Sebulon333 (big blind) folded on the Flop
+Seat 8: teddipete folded before Flop (didn't bet)
+Seat 9: chirak1982 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143252124:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:28:29 ET
+Table 'Phemios IV' 9-max Seat #6 is the button
+Seat 1: Fixsie ($8.85 in chips) 
+Seat 2: Sick M ($33.55 in chips) 
+Seat 3: dalmatian112 ($31.70 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: spikemichael ($28.65 in chips) 
+Seat 6: dusel08 ($11 in chips) 
+Seat 7: Sebulon333 ($16.10 in chips) 
+Seat 9: chirak1982 ($25.60 in chips) 
+Sebulon333: posts small blind $0.10
+chirak1982: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7c 8d]
+Fixsie: folds 
+Sick M: folds 
+dalmatian112: folds 
+leomaniac joins the table at seat #8 
+Alameda22: folds 
+spikemichael: folds 
+dusel08: raises $0.50 to $0.75
+Sebulon333: folds 
+chirak1982: folds 
+Uncalled bet ($0.50) returned to dusel08
+dusel08 collected $0.60 from pot
+dusel08: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Fixsie folded before Flop (didn't bet)
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: dusel08 (button) collected ($0.60)
+Seat 7: Sebulon333 (small blind) folded before Flop
+Seat 9: chirak1982 (big blind) folded before Flop
+
+
+
+PokerStars Game #20143273252:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:29:20 ET
+Table 'Phemios IV' 9-max Seat #7 is the button
+Seat 1: Fixsie ($8.85 in chips) 
+Seat 2: Sick M ($33.55 in chips) 
+Seat 3: dalmatian112 ($31.70 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: spikemichael ($28.65 in chips) 
+Seat 6: dusel08 ($11.35 in chips) 
+Seat 7: Sebulon333 ($16 in chips) 
+leomaniac will be allowed to play after the button
+chirak1982: is sitting out 
+chirak1982 leaves the table
+Fixsie: posts small blind $0.10
+Sick M: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 3d]
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+dusel08: folds 
+dusel08 leaves the table
+Sebulon333: folds 
+Fixsie: raises $0.25 to $0.50
+Sick M: calls $0.25
+*** FLOP *** [8c Jc 8d]
+Fixsie: bets $0.25
+Sick M: folds 
+Uncalled bet ($0.25) returned to Fixsie
+Fixsie collected $0.95 from pot
+Fixsie: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [8c Jc 8d]
+Seat 1: Fixsie (small blind) collected ($0.95)
+Seat 2: Sick M (big blind) folded on the Flop
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: dusel08 folded before Flop (didn't bet)
+Seat 7: Sebulon333 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143300167:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:30:26 ET
+Table 'Phemios IV' 9-max Seat #1 is the button
+Seat 1: Fixsie ($9.30 in chips) 
+Seat 2: Sick M ($33.05 in chips) 
+Seat 3: dalmatian112 ($31.70 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: spikemichael ($28.65 in chips) 
+Seat 7: Sebulon333 ($16 in chips) 
+Seat 8: leomaniac ($5 in chips) 
+Sick M: posts small blind $0.10
+dalmatian112: posts big blind $0.25
+leomaniac: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 3s]
+Alameda22: folds 
+spikemichael: calls $0.25
+Sebulon333: calls $0.25
+leomaniac: checks 
+Fixsie: calls $0.25
+Sick M: folds 
+dalmatian112: checks 
+*** FLOP *** [Ks 7h 5s]
+dalmatian112: checks 
+spikemichael: bets $0.75
+Sebulon333: folds 
+leomaniac: folds 
+Fixsie: folds 
+dalmatian112: folds 
+Uncalled bet ($0.75) returned to spikemichael
+spikemichael collected $1.30 from pot
+spikemichael: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [Ks 7h 5s]
+Seat 1: Fixsie (button) folded on the Flop
+Seat 2: Sick M (small blind) folded before Flop
+Seat 3: dalmatian112 (big blind) folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael collected ($1.30)
+Seat 7: Sebulon333 folded on the Flop
+Seat 8: leomaniac folded on the Flop
+
+
+
+PokerStars Game #20143332940:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:31:48 ET
+Table 'Phemios IV' 9-max Seat #2 is the button
+Seat 1: Fixsie ($9.05 in chips) 
+Seat 2: Sick M ($32.95 in chips) 
+Seat 3: dalmatian112 ($31.45 in chips) 
+Seat 4: Alameda22 ($24.40 in chips) 
+Seat 5: spikemichael ($29.70 in chips) 
+Seat 7: Sebulon333 ($15.75 in chips) 
+Seat 8: leomaniac ($4.75 in chips) 
+dalmatian112: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h 5d]
+spikemichael: folds 
+Sebulon333: folds 
+leomaniac: folds 
+Fixsie: raises $0.25 to $0.50
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+Uncalled bet ($0.25) returned to Fixsie
+Fixsie collected $0.60 from pot
+Fixsie: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Fixsie collected ($0.60)
+Seat 2: Sick M (button) folded before Flop (didn't bet)
+Seat 3: dalmatian112 (small blind) folded before Flop
+Seat 4: Alameda22 (big blind) folded before Flop
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: leomaniac folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143357306:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:32:50 ET
+Table 'Phemios IV' 9-max Seat #3 is the button
+Seat 1: Fixsie ($9.40 in chips) 
+Seat 2: Sick M ($32.95 in chips) 
+Seat 3: dalmatian112 ($31.35 in chips) 
+Seat 4: Alameda22 ($24.15 in chips) 
+Seat 5: spikemichael ($29.70 in chips) 
+Seat 7: Sebulon333 ($15.75 in chips) 
+Seat 8: leomaniac ($4.75 in chips) 
+Alameda22: posts small blind $0.10
+spikemichael: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2h Kc]
+Sebulon333: folds 
+leomaniac: raises $0.75 to $1
+Fixsie: folds 
+Sick M: folds 
+dalmatian112: calls $1
+Alameda22: folds 
+spikemichael: folds 
+*** FLOP *** [Ad 6c 4h]
+leomaniac: bets $1.50
+dalmatian112: calls $1.50
+*** TURN *** [Ad 6c 4h] [3h]
+leomaniac: bets $2.25 and is all-in
+dalmatian112: calls $2.25
+*** RIVER *** [Ad 6c 4h 3h] [6h]
+*** SHOW DOWN ***
+leomaniac: shows [Ah Kd] (two pair, Aces and Sixes)
+dalmatian112: mucks hand 
+leomaniac collected $9.40 from pot
+*** SUMMARY ***
+Total pot $9.85 | Rake $0.45 
+Board [Ad 6c 4h 3h 6h]
+Seat 1: Fixsie folded before Flop (didn't bet)
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 (button) mucked [8c Ac]
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: spikemichael (big blind) folded before Flop
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: leomaniac showed [Ah Kd] and won ($9.40) with two pair, Aces and Sixes
+
+
+
+PokerStars Game #20143380732:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:33:49 ET
+Table 'Phemios IV' 9-max Seat #4 is the button
+Seat 1: Fixsie ($9.40 in chips) 
+Seat 2: Sick M ($32.95 in chips) 
+Seat 3: dalmatian112 ($26.60 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: spikemichael ($29.45 in chips) 
+Seat 7: Sebulon333 ($15.75 in chips) 
+Seat 8: leomaniac ($9.40 in chips) 
+spikemichael: posts small blind $0.10
+Sebulon333: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c 4c]
+leomaniac: folds 
+leomaniac leaves the table
+Fixsie: folds 
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: calls $0.15
+Sebulon333: checks 
+*** FLOP *** [3c As 6s]
+spikemichael: checks 
+Sebulon333: checks 
+*** TURN *** [3c As 6s] [2h]
+spikemichael: checks 
+Sebulon333: checks 
+*** RIVER *** [3c As 6s 2h] [6d]
+spikemichael: checks 
+Sebulon333: checks 
+*** SHOW DOWN ***
+spikemichael: shows [Th 9d] (a pair of Sixes)
+Sebulon333: shows [Td Kc] (a pair of Sixes - Ace+King kicker)
+Sebulon333 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Board [3c As 6s 2h 6d]
+Seat 1: Fixsie folded before Flop (didn't bet)
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: spikemichael (small blind) showed [Th 9d] and lost with a pair of Sixes
+Seat 7: Sebulon333 (big blind) showed [Td Kc] and won ($0.50) with a pair of Sixes
+Seat 8: leomaniac folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143412682:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:35:11 ET
+Table 'Phemios IV' 9-max Seat #5 is the button
+Seat 1: Fixsie ($9.40 in chips) 
+Seat 2: Sick M ($32.95 in chips) 
+Seat 3: dalmatian112 ($26.60 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: spikemichael ($29.20 in chips) 
+Seat 7: Sebulon333 ($16 in chips) 
+Sebulon333: posts small blind $0.10
+Fixsie: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [2s Tc]
+Sick M: raises $0.75 to $1
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+Sebulon333: folds 
+Fixsie: folds 
+Uncalled bet ($0.75) returned to Sick M
+Sick M collected $0.60 from pot
+Sick M: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Fixsie (big blind) folded before Flop
+Seat 2: Sick M collected ($0.60)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael (button) folded before Flop (didn't bet)
+Seat 7: Sebulon333 (small blind) folded before Flop
+
+
+
+PokerStars Game #20143424356:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:35:42 ET
+Table 'Phemios IV' 9-max Seat #7 is the button
+Seat 1: Fixsie ($9.15 in chips) 
+Seat 2: Sick M ($33.30 in chips) 
+Seat 3: dalmatian112 ($26.60 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: spikemichael ($29.20 in chips) 
+Seat 7: Sebulon333 ($15.90 in chips) 
+Fixsie: posts small blind $0.10
+Sick M: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6c Qc]
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+Sebulon333: calls $0.25
+Fixsie: calls $0.15
+Sick M: checks 
+*** FLOP *** [Js 2s 7d]
+Fixsie: bets $0.25
+Sick M: folds 
+Sebulon333: calls $0.25
+*** TURN *** [Js 2s 7d] [Qs]
+Fixsie: checks 
+Sebulon333: checks 
+*** RIVER *** [Js 2s 7d Qs] [3h]
+Fixsie: bets $0.25
+Sebulon333: folds 
+Uncalled bet ($0.25) returned to Fixsie
+Fixsie collected $1.20 from pot
+Fixsie: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Js 2s 7d Qs 3h]
+Seat 1: Fixsie (small blind) collected ($1.20)
+Seat 2: Sick M (big blind) folded on the Flop
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 7: Sebulon333 (button) folded on the River
+
+
+
+PokerStars Game #20143441375:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:36:26 ET
+Table 'Phemios IV' 9-max Seat #1 is the button
+Seat 1: Fixsie ($9.85 in chips) 
+Seat 2: Sick M ($33.05 in chips) 
+Seat 3: dalmatian112 ($26.60 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: spikemichael ($29.20 in chips) 
+Seat 7: Sebulon333 ($15.40 in chips) 
+Sick M: posts small blind $0.10
+dalmatian112: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks 8s]
+Alameda22: folds 
+spikemichael: folds 
+Sebulon333: raises $0.25 to $0.50
+Fixsie: folds 
+Sick M: folds 
+dalmatian112: folds 
+Uncalled bet ($0.25) returned to Sebulon333
+Sebulon333 collected $0.60 from pot
+Sebulon333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Fixsie (button) folded before Flop (didn't bet)
+Seat 2: Sick M (small blind) folded before Flop
+Seat 3: dalmatian112 (big blind) folded before Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 7: Sebulon333 collected ($0.60)
+
+
+
+PokerStars Game #20143454861:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:37:00 ET
+Table 'Phemios IV' 9-max Seat #2 is the button
+Seat 1: Fixsie ($9.85 in chips) 
+Seat 2: Sick M ($32.95 in chips) 
+Seat 3: dalmatian112 ($26.35 in chips) 
+Seat 4: Alameda22 ($24.05 in chips) 
+Seat 5: spikemichael ($29.20 in chips) 
+Seat 7: Sebulon333 ($15.75 in chips) 
+dalmatian112: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 3h]
+spikemichael: folds 
+Sebulon333: folds 
+Fixsie: calls $0.25
+Sick M: folds 
+dalmatian112: calls $0.15
+Alameda22: checks 
+*** FLOP *** [6s Td Tc]
+dalmatian112: bets $0.75
+Alameda22: folds 
+Fixsie: folds 
+Uncalled bet ($0.75) returned to dalmatian112
+dalmatian112 collected $0.75 from pot
+dalmatian112: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [6s Td Tc]
+Seat 1: Fixsie folded on the Flop
+Seat 2: Sick M (button) folded before Flop (didn't bet)
+Seat 3: dalmatian112 (small blind) collected ($0.75)
+Seat 4: Alameda22 (big blind) folded on the Flop
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143476809:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:37:56 ET
+Table 'Phemios IV' 9-max Seat #3 is the button
+Seat 1: Fixsie ($9.60 in chips) 
+Seat 2: Sick M ($32.95 in chips) 
+Seat 3: dalmatian112 ($26.85 in chips) 
+Seat 4: Alameda22 ($23.80 in chips) 
+Seat 5: spikemichael ($29.20 in chips) 
+Seat 7: Sebulon333 ($15.75 in chips) 
+Alameda22: posts small blind $0.10
+spikemichael: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Qh]
+Sebulon333: folds 
+Fixsie: calls $0.25
+Sick M: folds 
+dalmatian112: calls $0.25
+Alameda22: folds 
+spikemichael: checks 
+*** FLOP *** [8c 3h Jh]
+Fixsie said, "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ"
+spikemichael: checks 
+Fixsie: checks 
+dalmatian112: checks 
+*** TURN *** [8c 3h Jh] [2h]
+spikemichael: checks 
+Finnschik joins the table at seat #6 
+Fixsie: bets $0.25
+dalmatian112: folds 
+spikemichael: folds 
+Uncalled bet ($0.25) returned to Fixsie
+Fixsie collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [8c 3h Jh 2h]
+Seat 1: Fixsie collected ($0.85)
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 (button) folded on the Turn
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: spikemichael (big blind) folded on the Turn
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143512251:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:39:25 ET
+Table 'Phemios IV' 9-max Seat #4 is the button
+Seat 1: Fixsie ($10.20 in chips) 
+Seat 2: Sick M ($32.95 in chips) 
+Seat 3: dalmatian112 ($26.60 in chips) 
+Seat 4: Alameda22 ($23.70 in chips) 
+Seat 5: spikemichael ($28.95 in chips) 
+Seat 6: Finnschik ($25 in chips) 
+Seat 7: Sebulon333 ($15.75 in chips) 
+spikemichael: posts small blind $0.10
+Finnschik: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s 8d]
+Sebulon333: folds 
+Fixsie: calls $0.25
+Sick M: folds 
+dalmatian112: calls $0.25
+Alameda22: folds 
+spikemichael: folds 
+Finnschik: checks 
+*** FLOP *** [Th 2c Kh]
+Finnschik: checks 
+Fixsie: bets $1.75
+dalmatian112: calls $1.75
+Moschek joins the table at seat #9 
+Finnschik: folds 
+*** TURN *** [Th 2c Kh] [Tc]
+Fixsie: checks 
+dalmatian112: bets $1
+Fixsie: folds 
+Uncalled bet ($1) returned to dalmatian112
+dalmatian112 collected $4.15 from pot
+dalmatian112: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.35 | Rake $0.20 
+Board [Th 2c Kh Tc]
+Seat 1: Fixsie folded on the Turn
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 collected ($4.15)
+Seat 4: Alameda22 (button) folded before Flop (didn't bet)
+Seat 5: spikemichael (small blind) folded before Flop
+Seat 6: Finnschik (big blind) folded on the Flop
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143536085:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:40:26 ET
+Table 'Phemios IV' 9-max Seat #5 is the button
+Seat 1: Fixsie ($8.20 in chips) 
+Seat 2: Sick M ($32.95 in chips) 
+Seat 3: dalmatian112 ($28.75 in chips) 
+Seat 4: Alameda22 ($23.70 in chips) 
+Seat 5: spikemichael ($28.85 in chips) 
+Seat 6: Finnschik ($24.75 in chips) 
+Seat 7: Sebulon333 ($15.75 in chips) 
+Seat 9: Moschek ($5 in chips) 
+Finnschik: posts small blind $0.10
+Sebulon333: posts big blind $0.25
+Moschek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h Ts]
+Moschek: checks 
+Fixsie: calls $0.25
+Sick M: raises $1.25 to $1.50
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+Finnschik: folds 
+chickchrissy joins the table at seat #8 
+Sebulon333: folds 
+Moschek: folds 
+Fixsie: calls $1.25
+*** FLOP *** [4s 8c 8d]
+Fixsie: checks 
+Sick M: bets $3
+Fixsie: folds 
+Uncalled bet ($3) returned to Sick M
+Sick M collected $3.45 from pot
+Sick M: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.15 
+Board [4s 8c 8d]
+Seat 1: Fixsie folded on the Flop
+Seat 2: Sick M collected ($3.45)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael (button) folded before Flop (didn't bet)
+Seat 6: Finnschik (small blind) folded before Flop
+Seat 7: Sebulon333 (big blind) folded before Flop
+Seat 9: Moschek folded before Flop
+
+
+
+PokerStars Game #20143564701:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:41:38 ET
+Table 'Phemios IV' 9-max Seat #6 is the button
+Seat 1: Fixsie ($6.70 in chips) 
+Seat 2: Sick M ($34.90 in chips) 
+Seat 3: dalmatian112 ($28.75 in chips) 
+Seat 4: Alameda22 ($23.70 in chips) 
+Seat 5: spikemichael ($28.85 in chips) 
+Seat 6: Finnschik ($24.65 in chips) 
+Seat 7: Sebulon333 ($15.50 in chips) 
+Seat 8: chickchrissy ($15 in chips) 
+Seat 9: Moschek ($4.75 in chips) 
+Sebulon333: posts small blind $0.10
+chickchrissy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h Kc]
+Moschek: folds 
+Fixsie: folds 
+Sick M: folds 
+dalmatian112: calls $0.25
+Alameda22: folds 
+spikemichael: folds 
+Finnschik: calls $0.25
+Sebulon333: calls $0.15
+chickchrissy: checks 
+*** FLOP *** [5d 4c Ah]
+Sebulon333: checks 
+chickchrissy: checks 
+dalmatian112: checks 
+Finnschik: bets $0.25
+Sebulon333: folds 
+chickchrissy: folds 
+dalmatian112: folds 
+Uncalled bet ($0.25) returned to Finnschik
+Finnschik collected $0.95 from pot
+Finnschik: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [5d 4c Ah]
+Seat 1: Fixsie folded before Flop (didn't bet)
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: Finnschik (button) collected ($0.95)
+Seat 7: Sebulon333 (small blind) folded on the Flop
+Seat 8: chickchrissy (big blind) folded on the Flop
+Seat 9: Moschek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143584747:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:42:29 ET
+Table 'Phemios IV' 9-max Seat #7 is the button
+Seat 1: Fixsie ($6.70 in chips) 
+Seat 2: Sick M ($34.90 in chips) 
+Seat 3: dalmatian112 ($28.50 in chips) 
+Seat 4: Alameda22 ($23.70 in chips) 
+Seat 5: spikemichael ($28.85 in chips) 
+Seat 6: Finnschik ($25.35 in chips) 
+Seat 7: Sebulon333 ($15.25 in chips) 
+Seat 8: chickchrissy ($14.75 in chips) 
+Seat 9: Moschek ($4.75 in chips) 
+chickchrissy: posts small blind $0.10
+Moschek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 8h]
+Fixsie: folds 
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+Finnschik: calls $0.25
+Sebulon333: folds 
+chickchrissy: folds 
+Moschek: checks 
+*** FLOP *** [4d 7s 5h]
+Moschek: checks 
+Finnschik: bets $0.25
+Moschek: raises $0.75 to $1
+Finnschik: calls $0.75
+*** TURN *** [4d 7s 5h] [Td]
+Moschek: bets $1
+Finnschik: folds 
+Uncalled bet ($1) returned to Moschek
+Moschek collected $2.50 from pot
+Moschek: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [4d 7s 5h Td]
+Seat 1: Fixsie folded before Flop (didn't bet)
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: Finnschik folded on the Turn
+Seat 7: Sebulon333 (button) folded before Flop (didn't bet)
+Seat 8: chickchrissy (small blind) folded before Flop
+Seat 9: Moschek (big blind) collected ($2.50)
+
+
+
+PokerStars Game #20143613244:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:43:41 ET
+Table 'Phemios IV' 9-max Seat #8 is the button
+Seat 1: Fixsie ($6.70 in chips) 
+Seat 2: Sick M ($34.90 in chips) 
+Seat 3: dalmatian112 ($28.50 in chips) 
+Seat 4: Alameda22 ($23.70 in chips) 
+Seat 5: spikemichael ($28.85 in chips) 
+Seat 6: Finnschik ($24.10 in chips) 
+Seat 7: Sebulon333 ($15.25 in chips) 
+Seat 8: chickchrissy ($14.65 in chips) 
+Seat 9: Moschek ($6 in chips) 
+Moschek: posts small blind $0.10
+Fixsie: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 3h]
+Sick M: folds 
+dalmatian112: calls $0.25
+Alameda22: folds 
+spikemichael: folds 
+Finnschik: raises $0.25 to $0.50
+Sebulon333: folds 
+chickchrissy: calls $0.50
+Moschek: folds 
+Fixsie: calls $0.25
+dalmatian112: calls $0.25
+*** FLOP *** [Th 7s Ah]
+Fixsie: checks 
+dalmatian112: checks 
+Finnschik: bets $0.50
+chickchrissy: calls $0.50
+Fixsie: folds 
+dalmatian112: folds 
+*** TURN *** [Th 7s Ah] [Ks]
+Finnschik: checks 
+chickchrissy: bets $1
+Finnschik: calls $1
+*** RIVER *** [Th 7s Ah Ks] [7d]
+Finnschik: checks 
+chickchrissy: bets $2
+Finnschik: folds 
+Uncalled bet ($2) returned to chickchrissy
+chickchrissy collected $4.90 from pot
+chickchrissy: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.20 
+Board [Th 7s Ah Ks 7d]
+Seat 1: Fixsie (big blind) folded on the Flop
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: Finnschik folded on the River
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: chickchrissy (button) collected ($4.90)
+Seat 9: Moschek (small blind) folded before Flop
+
+
+
+PokerStars Game #20143653730:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:45:25 ET
+Table 'Phemios IV' 9-max Seat #9 is the button
+Seat 1: Fixsie ($6.20 in chips) 
+Seat 2: Sick M ($34.90 in chips) 
+Seat 3: dalmatian112 ($28 in chips) 
+Seat 4: Alameda22 ($23.70 in chips) 
+Seat 5: spikemichael ($28.85 in chips) 
+Seat 6: Finnschik ($22.10 in chips) 
+Seat 7: Sebulon333 ($15.25 in chips) 
+Seat 8: chickchrissy ($17.55 in chips) 
+Seat 9: Moschek ($5.90 in chips) 
+Fixsie: posts small blind $0.10
+Sick M: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ac 6s]
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+Finnschik: folds 
+Sebulon333: folds 
+chickchrissy: calls $0.25
+Moschek: folds 
+Fixsie: calls $0.15
+Sick M: checks 
+*** FLOP *** [4s Ks 3s]
+Fixsie: bets $0.50
+Sick M: folds 
+chickchrissy: folds 
+Uncalled bet ($0.50) returned to Fixsie
+Fixsie collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [4s Ks 3s]
+Seat 1: Fixsie (small blind) collected ($0.75)
+Seat 2: Sick M (big blind) folded on the Flop
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: Finnschik folded before Flop (didn't bet)
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: chickchrissy folded on the Flop
+Seat 9: Moschek (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143669914:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:46:02 ET
+Table 'Phemios IV' 9-max Seat #1 is the button
+Seat 1: Fixsie ($6.70 in chips) 
+Seat 2: Sick M ($34.65 in chips) 
+Seat 3: dalmatian112 ($28 in chips) 
+Seat 4: Alameda22 ($23.70 in chips) 
+Seat 5: spikemichael ($28.85 in chips) 
+Seat 6: Finnschik ($22.10 in chips) 
+Seat 7: Sebulon333 ($15.25 in chips) 
+Seat 8: chickchrissy ($17.30 in chips) 
+Seat 9: Moschek ($5.90 in chips) 
+Sick M: posts small blind $0.10
+dalmatian112: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 3d]
+Alameda22: folds 
+spikemichael: folds 
+Finnschik: folds 
+Sebulon333: folds 
+chickchrissy: folds 
+Moschek: folds 
+Fixsie: folds 
+Sick M: folds 
+Uncalled bet ($0.15) returned to dalmatian112
+dalmatian112 collected $0.20 from pot
+dalmatian112: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Fixsie (button) folded before Flop (didn't bet)
+Seat 2: Sick M (small blind) folded before Flop
+Seat 3: dalmatian112 (big blind) collected ($0.20)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: Finnschik folded before Flop (didn't bet)
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: chickchrissy folded before Flop (didn't bet)
+Seat 9: Moschek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143689066:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:46:50 ET
+Table 'Phemios IV' 9-max Seat #2 is the button
+Seat 1: Fixsie ($6.70 in chips) 
+Seat 2: Sick M ($34.55 in chips) 
+Seat 3: dalmatian112 ($28.10 in chips) 
+Seat 4: Alameda22 ($23.70 in chips) 
+Seat 5: spikemichael ($28.85 in chips) 
+Seat 6: Finnschik ($22.10 in chips) 
+Seat 7: Sebulon333 ($15.25 in chips) 
+Seat 8: chickchrissy ($17.30 in chips) 
+Seat 9: Moschek ($5.90 in chips) 
+dalmatian112: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kh 9h]
+spikemichael: folds 
+Finnschik: folds 
+Sebulon333: folds 
+chickchrissy: folds 
+Moschek: folds 
+Fixsie: calls $0.25
+Sick M: folds 
+dalmatian112: calls $0.15
+Alameda22: checks 
+*** FLOP *** [Qh Kd Th]
+dalmatian112: checks 
+Alameda22: bets $0.50
+Fixsie: calls $0.50
+dalmatian112: folds 
+*** TURN *** [Qh Kd Th] [3s]
+Alameda22: bets $1
+Fixsie: calls $1
+*** RIVER *** [Qh Kd Th 3s] [Tc]
+Alameda22: checks 
+Fixsie: checks 
+*** SHOW DOWN ***
+Alameda22: shows [Kh 9h] (two pair, Kings and Tens)
+Fixsie: mucks hand 
+Alameda22 collected $3.60 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.15 
+Board [Qh Kd Th 3s Tc]
+Seat 1: Fixsie mucked [Ah 9c]
+Seat 2: Sick M (button) folded before Flop (didn't bet)
+Seat 3: dalmatian112 (small blind) folded on the Flop
+Seat 4: Alameda22 (big blind) showed [Kh 9h] and won ($3.60) with two pair, Kings and Tens
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: Finnschik folded before Flop (didn't bet)
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: chickchrissy folded before Flop (didn't bet)
+Seat 9: Moschek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143730078:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:48:30 ET
+Table 'Phemios IV' 9-max Seat #3 is the button
+Seat 1: Fixsie ($4.95 in chips) 
+Seat 2: Sick M ($34.55 in chips) 
+Seat 3: dalmatian112 ($27.85 in chips) 
+Seat 4: Alameda22 ($25.55 in chips) 
+Seat 5: spikemichael ($28.85 in chips) 
+Seat 6: Finnschik ($22.10 in chips) 
+Seat 7: Sebulon333 ($15.25 in chips) 
+Seat 8: chickchrissy ($17.30 in chips) 
+Seat 9: Moschek ($5.90 in chips) 
+Alameda22: posts small blind $0.10
+spikemichael: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd 9s]
+Finnschik: calls $0.25
+Sebulon333: calls $0.25
+chickchrissy: folds 
+Moschek: folds 
+Fixsie: folds 
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: checks 
+*** FLOP *** [5c 4d 2h]
+spikemichael: checks 
+Finnschik: bets $0.25
+Sebulon333: folds 
+spikemichael: folds 
+Uncalled bet ($0.25) returned to Finnschik
+Finnschik collected $0.85 from pot
+Finnschik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [5c 4d 2h]
+Seat 1: Fixsie folded before Flop (didn't bet)
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 (button) folded before Flop (didn't bet)
+Seat 4: Alameda22 (small blind) folded before Flop
+Seat 5: spikemichael (big blind) folded on the Flop
+Seat 6: Finnschik collected ($0.85)
+Seat 7: Sebulon333 folded on the Flop
+Seat 8: chickchrissy folded before Flop (didn't bet)
+Seat 9: Moschek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143751307:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:49:23 ET
+Table 'Phemios IV' 9-max Seat #4 is the button
+Seat 1: Fixsie ($4.95 in chips) 
+Seat 2: Sick M ($34.55 in chips) 
+Seat 3: dalmatian112 ($27.85 in chips) 
+Seat 4: Alameda22 ($25.45 in chips) 
+Seat 5: spikemichael ($28.60 in chips) 
+Seat 6: Finnschik ($22.70 in chips) 
+Seat 7: Sebulon333 ($15 in chips) 
+Seat 8: chickchrissy ($17.30 in chips) 
+Seat 9: Moschek ($5.90 in chips) 
+spikemichael: posts small blind $0.10
+Finnschik: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 7c]
+Sebulon333: raises $0.25 to $0.50
+chickchrissy: folds 
+Moschek: folds 
+Fixsie: calls $0.50
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: calls $0.50
+spikemichael: folds 
+Finnschik: folds 
+*** FLOP *** [Qd 4h 9h]
+Sebulon333: bets $1
+Fixsie: raises $1 to $2
+Alameda22: folds 
+Sebulon333: folds 
+Uncalled bet ($1) returned to Fixsie
+Fixsie collected $3.70 from pot
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.15 
+Board [Qd 4h 9h]
+Seat 1: Fixsie collected ($3.70)
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 (button) folded on the Flop
+Seat 5: spikemichael (small blind) folded before Flop
+Seat 6: Finnschik (big blind) folded before Flop
+Seat 7: Sebulon333 folded on the Flop
+Seat 8: chickchrissy folded before Flop (didn't bet)
+Seat 9: Moschek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143778809:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:50:30 ET
+Table 'Phemios IV' 9-max Seat #5 is the button
+Seat 1: Fixsie ($7.15 in chips) 
+Seat 2: Sick M ($34.55 in chips) 
+Seat 3: dalmatian112 ($27.85 in chips) 
+Seat 4: Alameda22 ($24.95 in chips) 
+Seat 5: spikemichael ($28.50 in chips) 
+Seat 6: Finnschik ($22.45 in chips) 
+Seat 7: Sebulon333 ($13.50 in chips) 
+Seat 8: chickchrissy ($17.30 in chips) 
+Seat 9: Moschek ($5.90 in chips) 
+Finnschik: posts small blind $0.10
+Sebulon333: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Kc]
+chickchrissy: folds 
+Moschek: folds 
+Fixsie: calls $0.25
+Sick M: folds 
+dalmatian112: calls $0.25
+Alameda22: folds 
+spikemichael: folds 
+Finnschik: calls $0.15
+Sebulon333: checks 
+*** FLOP *** [Jc Js 2h]
+Finnschik: checks 
+Sebulon333: checks 
+Fixsie: checks 
+dalmatian112: checks 
+*** TURN *** [Jc Js 2h] [Tc]
+Finnschik: bets $0.25
+Sebulon333: calls $0.25
+Fixsie: folds 
+dalmatian112: calls $0.25
+*** RIVER *** [Jc Js 2h Tc] [Qs]
+Finnschik: bets $0.25
+Sebulon333: raises $1.25 to $1.50
+dalmatian112: folds 
+Finnschik: folds 
+Uncalled bet ($1.25) returned to Sebulon333
+Sebulon333 collected $2.15 from pot
+Sebulon333: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Jc Js 2h Tc Qs]
+Seat 1: Fixsie folded on the Turn
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded on the River
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael (button) folded before Flop (didn't bet)
+Seat 6: Finnschik (small blind) folded on the River
+Seat 7: Sebulon333 (big blind) collected ($2.15)
+Seat 8: chickchrissy folded before Flop (didn't bet)
+Seat 9: Moschek folded before Flop (didn't bet)
+
+
+
+PokerStars Game #20143818912:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:52:07 ET
+Table 'Phemios IV' 9-max Seat #6 is the button
+Seat 1: Fixsie ($6.90 in chips) 
+Seat 2: Sick M ($34.55 in chips) 
+Seat 3: dalmatian112 ($27.35 in chips) 
+Seat 4: Alameda22 ($24.95 in chips) 
+Seat 5: spikemichael ($28.50 in chips) 
+Seat 6: Finnschik ($21.70 in chips) 
+Seat 7: Sebulon333 ($14.90 in chips) 
+Seat 8: chickchrissy ($17.30 in chips) 
+Seat 9: Moschek ($5.90 in chips) 
+Sebulon333: posts small blind $0.10
+chickchrissy: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5s 3c]
+Moschek: calls $0.25
+Fixsie: calls $0.25
+Sick M: folds 
+dalmatian112: calls $0.25
+Alameda22: folds 
+spikemichael: folds 
+Finnschik: calls $0.25
+Sebulon333: calls $0.15
+chickchrissy: checks 
+*** FLOP *** [7s As Jh]
+Sebulon333: bets $0.75
+chickchrissy: folds 
+Moschek: folds 
+Fixsie: folds 
+dalmatian112: calls $0.75
+Finnschik: calls $0.75
+*** TURN *** [7s As Jh] [6h]
+Sebulon333: bets $1
+dalmatian112: folds 
+Fixsie said, "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ"
+Finnschik: calls $1
+*** RIVER *** [7s As Jh 6h] [8s]
+Sebulon333: bets $3
+Finnschik: folds 
+Uncalled bet ($3) returned to Sebulon333
+Sebulon333 collected $5.50 from pot
+Sebulon333: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.25 
+Board [7s As Jh 6h 8s]
+Seat 1: Fixsie folded on the Flop
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded on the Turn
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: Finnschik (button) folded on the River
+Seat 7: Sebulon333 (small blind) collected ($5.50)
+Seat 8: chickchrissy (big blind) folded on the Flop
+Seat 9: Moschek folded on the Flop
+
+
+
+PokerStars Game #20143875661:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:54:26 ET
+Table 'Phemios IV' 9-max Seat #7 is the button
+Seat 1: Fixsie ($6.65 in chips) 
+Seat 2: Sick M ($34.55 in chips) 
+Seat 3: dalmatian112 ($26.35 in chips) 
+Seat 4: Alameda22 ($24.95 in chips) 
+Seat 5: spikemichael ($28.50 in chips) 
+Seat 6: Finnschik ($19.70 in chips) 
+Seat 7: Sebulon333 ($18.40 in chips) 
+Seat 8: chickchrissy ($17.05 in chips) 
+Seat 9: Moschek ($5.65 in chips) 
+chickchrissy: posts small blind $0.10
+Moschek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 4d]
+Fixsie: calls $0.25
+Sick M: folds 
+dalmatian112: calls $0.25
+Alameda22: folds 
+spikemichael: folds 
+Fixsie said, "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ"
+Finnschik: calls $0.25
+Sebulon333: folds 
+chickchrissy: folds 
+Moschek: checks 
+*** FLOP *** [6h 2h 9s]
+Moschek: checks 
+Fixsie: bets $0.25
+dalmatian112: folds 
+Finnschik: calls $0.25
+Moschek: calls $0.25
+*** TURN *** [6h 2h 9s] [2d]
+Moschek: checks 
+Fixsie: bets $1.75
+Finnschik: folds 
+Moschek: folds 
+Uncalled bet ($1.75) returned to Fixsie
+Fixsie collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.05 
+Board [6h 2h 9s 2d]
+Seat 1: Fixsie collected ($1.80)
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded on the Flop
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: Finnschik folded on the Turn
+Seat 7: Sebulon333 (button) folded before Flop (didn't bet)
+Seat 8: chickchrissy (small blind) folded before Flop
+Seat 9: Moschek (big blind) folded on the Turn
+
+
+
+PokerStars Game #20143919839:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:56:14 ET
+Table 'Phemios IV' 9-max Seat #8 is the button
+Seat 1: Fixsie ($7.95 in chips) 
+Seat 2: Sick M ($34.55 in chips) 
+Seat 3: dalmatian112 ($26.10 in chips) 
+Seat 4: Alameda22 ($24.95 in chips) 
+Seat 5: spikemichael ($28.50 in chips) 
+Seat 6: Finnschik ($19.20 in chips) 
+Seat 7: Sebulon333 ($18.40 in chips) 
+Seat 8: chickchrissy ($16.95 in chips) 
+Seat 9: Moschek ($5.15 in chips) 
+Moschek: posts small blind $0.10
+Fixsie: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4s 5h]
+Sick M: folds 
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: calls $0.25
+Finnschik: calls $0.25
+Sebulon333: folds 
+chickchrissy: folds 
+Moschek: folds 
+Fixsie: checks 
+*** FLOP *** [9s Td 3c]
+Fixsie: checks 
+spikemichael: bets $0.75
+Finnschik: folds 
+Fixsie: folds 
+Uncalled bet ($0.75) returned to spikemichael
+spikemichael collected $0.85 from pot
+spikemichael: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Board [9s Td 3c]
+Seat 1: Fixsie (big blind) folded on the Flop
+Seat 2: Sick M folded before Flop (didn't bet)
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael collected ($0.85)
+Seat 6: Finnschik folded on the Flop
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: chickchrissy (button) folded before Flop (didn't bet)
+Seat 9: Moschek (small blind) folded before Flop
+
+
+
+PokerStars Game #20143937580:  Hold'em No Limit ($0.10/$0.25) - 2008/09/04 14:56:58 ET
+Table 'Phemios IV' 9-max Seat #9 is the button
+Seat 1: Fixsie ($7.70 in chips) 
+Seat 2: Sick M ($34.55 in chips) 
+Seat 3: dalmatian112 ($26.10 in chips) 
+Seat 4: Alameda22 ($24.95 in chips) 
+Seat 5: spikemichael ($29.10 in chips) 
+Seat 6: Finnschik ($18.95 in chips) 
+Seat 7: Sebulon333 ($18.40 in chips) 
+Seat 8: chickchrissy ($16.95 in chips) 
+Seat 9: Moschek ($5.05 in chips) 
+Fixsie: posts small blind $0.10
+Sick M: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9h 5s]
+dalmatian112: folds 
+Alameda22: folds 
+spikemichael: folds 
+Finnschik: calls $0.25
+Sebulon333: folds 
+chickchrissy: calls $0.25
+Moschek: folds 
+Fixsie: raises $7.45 to $7.70 and is all-in
+Sick M: folds 
+Finnschik: folds 
+chickchrissy: folds 
+Uncalled bet ($7.45) returned to Fixsie
+Fixsie collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Fixsie (small blind) collected ($1)
+Seat 2: Sick M (big blind) folded before Flop
+Seat 3: dalmatian112 folded before Flop (didn't bet)
+Seat 4: Alameda22 folded before Flop (didn't bet)
+Seat 5: spikemichael folded before Flop (didn't bet)
+Seat 6: Finnschik folded before Flop
+Seat 7: Sebulon333 folded before Flop (didn't bet)
+Seat 8: chickchrissy folded before Flop
+Seat 9: Moschek (button) folded before Flop (didn't bet)
+
+
+

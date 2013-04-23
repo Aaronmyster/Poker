@@ -1,0 +1,1387 @@
+PokerStars Game #19903112040:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:25:03 (ET)
+Table 'Aguilar' 9-max Seat #4 is the button
+Seat 1: EdSheppard ($9.10 in chips) 
+Seat 2: LAESBEVA ($28.65 in chips) 
+Seat 3: Alameda22 ($25 in chips) 
+Seat 4: AssOfSpades ($15.45 in chips) 
+Seat 5: Usurpov ($44.15 in chips) 
+Seat 6: KIDNIC ($18.60 in chips) 
+Seat 8: Farva500 ($14.75 in chips) 
+Seat 9: weepeel ($23.25 in chips) 
+Usurpov: posts small blind $0.10
+KIDNIC: posts big blind $0.25
+k030101: sits out 
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5c Ks]
+Farva500: folds 
+weepeel: folds 
+EdSheppard: raises $0.75 to $1
+LAESBEVA: folds 
+Alameda22: folds 
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: folds 
+Uncalled bet ($0.75) returned to EdSheppard
+EdSheppard collected $0.85 from pot
+EdSheppard: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: EdSheppard collected ($0.85)
+Seat 2: LAESBEVA folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop
+Seat 4: AssOfSpades (button) folded before Flop (didn't bet)
+Seat 5: Usurpov (small blind) folded before Flop
+Seat 6: KIDNIC (big blind) folded before Flop
+Seat 8: Farva500 folded before Flop (didn't bet)
+Seat 9: weepeel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903130657:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:25:58 (ET)
+Table 'Aguilar' 9-max Seat #5 is the button
+Seat 1: EdSheppard ($9.70 in chips) 
+Seat 2: LAESBEVA ($28.65 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: AssOfSpades ($15.45 in chips) 
+Seat 5: Usurpov ($44.05 in chips) 
+Seat 6: KIDNIC ($18.35 in chips) 
+Seat 7: k030101 ($25 in chips) 
+Seat 8: Farva500 ($14.75 in chips) 
+Seat 9: weepeel ($23.25 in chips) 
+KIDNIC: posts small blind $0.10
+k030101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ah 4s]
+Farva500: folds 
+weepeel: folds 
+EdSheppard: calls $0.25
+LAESBEVA: calls $0.25
+Alameda22: folds 
+AssOfSpades: folds 
+Usurpov: raises $1.50 to $1.75
+KIDNIC: folds 
+k030101: folds 
+EdSheppard: folds 
+LAESBEVA: folds 
+Uncalled bet ($1.50) returned to Usurpov
+Usurpov collected $1.10 from pot
+Usurpov: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: EdSheppard folded before Flop
+Seat 2: LAESBEVA folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades folded before Flop (didn't bet)
+Seat 5: Usurpov (button) collected ($1.10)
+Seat 6: KIDNIC (small blind) folded before Flop
+Seat 7: k030101 (big blind) folded before Flop
+Seat 8: Farva500 folded before Flop (didn't bet)
+Seat 9: weepeel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903148640:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:26:51 (ET)
+Table 'Aguilar' 9-max Seat #6 is the button
+Seat 1: EdSheppard ($9.45 in chips) 
+Seat 2: LAESBEVA ($28.40 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: AssOfSpades ($15.45 in chips) 
+Seat 5: Usurpov ($44.90 in chips) 
+Seat 6: KIDNIC ($18.25 in chips) 
+Seat 7: k030101 ($24.75 in chips) 
+Seat 8: Farva500 ($14.75 in chips) 
+Seat 9: weepeel ($23.25 in chips) 
+k030101: posts small blind $0.10
+Farva500: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 5c]
+weepeel: folds 
+EdSheppard: raises $0.75 to $1
+LAESBEVA: folds 
+Alameda22: folds 
+AssOfSpades: calls $1
+Usurpov: folds 
+KIDNIC: folds 
+k030101: folds 
+Farva500: folds 
+*** FLOP *** [2h Kh 8s]
+EdSheppard: bets $1.25
+AssOfSpades: calls $1.25
+*** TURN *** [2h Kh 8s] [2d]
+EdSheppard: checks 
+AssOfSpades: bets $2
+EdSheppard: calls $2
+*** RIVER *** [2h Kh 8s 2d] [Qc]
+EdSheppard: checks 
+AssOfSpades: checks 
+*** SHOW DOWN ***
+EdSheppard: shows [Jd Ah] (a pair of Deuces)
+AssOfSpades: shows [Ts Th] (two pair, Tens and Deuces)
+AssOfSpades collected $8.45 from pot
+*** SUMMARY ***
+Total pot $8.85 | Rake $0.40 
+Board [2h Kh 8s 2d Qc]
+Seat 1: EdSheppard showed [Jd Ah] and lost with a pair of Deuces
+Seat 2: LAESBEVA folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades showed [Ts Th] and won ($8.45) with two pair, Tens and Deuces
+Seat 5: Usurpov folded before Flop (didn't bet)
+Seat 6: KIDNIC (button) folded before Flop (didn't bet)
+Seat 7: k030101 (small blind) folded before Flop
+Seat 8: Farva500 (big blind) folded before Flop
+Seat 9: weepeel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903170123:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:27:55 (ET)
+Table 'Aguilar' 9-max Seat #7 is the button
+Seat 1: EdSheppard ($5.20 in chips) 
+Seat 2: LAESBEVA ($28.40 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: AssOfSpades ($19.65 in chips) 
+Seat 5: Usurpov ($44.90 in chips) 
+Seat 6: KIDNIC ($18.25 in chips) 
+Seat 7: k030101 ($24.65 in chips) 
+Seat 8: Farva500 ($14.50 in chips) 
+Seat 9: weepeel ($23.25 in chips) 
+Farva500: posts small blind $0.10
+weepeel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7h 9c]
+EdSheppard: folds 
+LAESBEVA: calls $0.25
+Alameda22: folds 
+AssOfSpades: raises $0.75 to $1
+Usurpov: folds 
+KIDNIC: folds 
+k030101: folds 
+Farva500: folds 
+weepeel: folds 
+LAESBEVA: calls $0.75
+*** FLOP *** [9h 2s 5s]
+LAESBEVA: checks 
+AssOfSpades: bets $1.75
+LAESBEVA: folds 
+Uncalled bet ($1.75) returned to AssOfSpades
+AssOfSpades collected $2.25 from pot
+AssOfSpades: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [9h 2s 5s]
+Seat 1: EdSheppard folded before Flop (didn't bet)
+Seat 2: LAESBEVA folded on the Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades collected ($2.25)
+Seat 5: Usurpov folded before Flop (didn't bet)
+Seat 6: KIDNIC folded before Flop (didn't bet)
+Seat 7: k030101 (button) folded before Flop (didn't bet)
+Seat 8: Farva500 (small blind) folded before Flop
+Seat 9: weepeel (big blind) folded before Flop
+
+
+
+PokerStars Game #19903188279:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:28:49 (ET)
+Table 'Aguilar' 9-max Seat #8 is the button
+Seat 1: EdSheppard ($5.20 in chips) 
+Seat 2: LAESBEVA ($27.40 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: AssOfSpades ($20.90 in chips) 
+Seat 5: Usurpov ($44.90 in chips) 
+Seat 6: KIDNIC ($18.25 in chips) 
+Seat 7: k030101 ($24.65 in chips) 
+Seat 8: Farva500 ($14.40 in chips) 
+Seat 9: weepeel ($23 in chips) 
+weepeel: posts small blind $0.10
+EdSheppard: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th 3d]
+LAESBEVA: folds 
+Alameda22: folds 
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: folds 
+k030101: folds 
+Farva500: raises $0.50 to $0.75
+weepeel: folds 
+EdSheppard: calls $0.50
+*** FLOP *** [4s 7s 4d]
+EdSheppard: checks 
+Farva500: bets $0.75
+EdSheppard: folds 
+Uncalled bet ($0.75) returned to Farva500
+Farva500 collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.05 
+Board [4s 7s 4d]
+Seat 1: EdSheppard (big blind) folded on the Flop
+Seat 2: LAESBEVA folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades folded before Flop (didn't bet)
+Seat 5: Usurpov folded before Flop (didn't bet)
+Seat 6: KIDNIC folded before Flop (didn't bet)
+Seat 7: k030101 folded before Flop (didn't bet)
+Seat 8: Farva500 (button) collected ($1.55)
+Seat 9: weepeel (small blind) folded before Flop
+
+
+
+PokerStars Game #19903213723:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:30:06 (ET)
+Table 'Aguilar' 9-max Seat #9 is the button
+Seat 1: EdSheppard ($4.45 in chips) 
+Seat 2: LAESBEVA ($27.40 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: AssOfSpades ($20.90 in chips) 
+Seat 5: Usurpov ($44.90 in chips) 
+Seat 6: KIDNIC ($18.25 in chips) 
+Seat 7: k030101 ($24.65 in chips) 
+Seat 8: Farva500 ($15.20 in chips) 
+Seat 9: weepeel ($22.90 in chips) 
+EdSheppard: posts small blind $0.10
+LAESBEVA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 7h]
+Alameda22: folds 
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: folds 
+k030101: calls $0.25
+Farva500: folds 
+weepeel: folds 
+EdSheppard: raises $0.75 to $1
+LAESBEVA: folds 
+k030101: calls $0.75
+*** FLOP *** [Kc 6d Ac]
+EdSheppard: checks 
+k030101: checks 
+*** TURN *** [Kc 6d Ac] [5h]
+EdSheppard: bets $3.45 and is all-in
+k030101: folds 
+Uncalled bet ($3.45) returned to EdSheppard
+EdSheppard collected $2.15 from pot
+EdSheppard: shows [Qd Qc] (a pair of Queens)
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [Kc 6d Ac 5h]
+Seat 1: EdSheppard (small blind) collected ($2.15)
+Seat 2: LAESBEVA (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades folded before Flop (didn't bet)
+Seat 5: Usurpov folded before Flop (didn't bet)
+Seat 6: KIDNIC folded before Flop (didn't bet)
+Seat 7: k030101 folded on the Turn
+Seat 8: Farva500 folded before Flop (didn't bet)
+Seat 9: weepeel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903233529:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:31:05 (ET)
+Table 'Aguilar' 9-max Seat #1 is the button
+Seat 1: EdSheppard ($5.60 in chips) 
+Seat 2: LAESBEVA ($27.15 in chips) 
+Seat 3: Alameda22 ($24.75 in chips) 
+Seat 4: AssOfSpades ($20.90 in chips) 
+Seat 5: Usurpov ($44.90 in chips) 
+Seat 6: KIDNIC ($18.25 in chips) 
+Seat 7: k030101 ($23.65 in chips) 
+Seat 8: Farva500 ($15.20 in chips) 
+Seat 9: weepeel ($22.90 in chips) 
+LAESBEVA: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3h 5c]
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: folds 
+k030101: folds 
+Farva500: folds 
+weepeel: raises $0.50 to $0.75
+EdSheppard: calls $0.75
+LAESBEVA: calls $0.65
+Alameda22: folds 
+*** FLOP *** [3c Jc 6s]
+LAESBEVA: checks 
+weepeel: bets $1.50
+EdSheppard: folds 
+LAESBEVA: folds 
+Uncalled bet ($1.50) returned to weepeel
+weepeel collected $2.40 from pot
+weepeel: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [3c Jc 6s]
+Seat 1: EdSheppard (button) folded on the Flop
+Seat 2: LAESBEVA (small blind) folded on the Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: AssOfSpades folded before Flop (didn't bet)
+Seat 5: Usurpov folded before Flop (didn't bet)
+Seat 6: KIDNIC folded before Flop (didn't bet)
+Seat 7: k030101 folded before Flop (didn't bet)
+Seat 8: Farva500 folded before Flop (didn't bet)
+Seat 9: weepeel collected ($2.40)
+
+
+
+PokerStars Game #19903253558:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:32:03 (ET)
+Table 'Aguilar' 9-max Seat #2 is the button
+Seat 1: EdSheppard ($4.85 in chips) 
+Seat 2: LAESBEVA ($26.40 in chips) 
+Seat 3: Alameda22 ($24.50 in chips) 
+Seat 4: AssOfSpades ($20.90 in chips) 
+Seat 5: Usurpov ($44.90 in chips) 
+Seat 6: KIDNIC ($18.25 in chips) 
+Seat 7: k030101 ($23.65 in chips) 
+Seat 8: Farva500 ($15.20 in chips) 
+Seat 9: weepeel ($24.55 in chips) 
+Alameda22: posts small blind $0.10
+AssOfSpades: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c 8h]
+Usurpov: folds 
+KIDNIC: raises $0.50 to $0.75
+k030101: folds 
+Farva500: folds 
+weepeel: calls $0.75
+EdSheppard: raises $4.10 to $4.85 and is all-in
+LAESBEVA: folds 
+Alameda22: folds 
+AssOfSpades: folds 
+KIDNIC: folds 
+weepeel: folds 
+Uncalled bet ($4.10) returned to EdSheppard
+EdSheppard collected $2.60 from pot
+EdSheppard: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0 
+Seat 1: EdSheppard collected ($2.60)
+Seat 2: LAESBEVA (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: AssOfSpades (big blind) folded before Flop
+Seat 5: Usurpov folded before Flop (didn't bet)
+Seat 6: KIDNIC folded before Flop
+Seat 7: k030101 folded before Flop (didn't bet)
+Seat 8: Farva500 folded before Flop (didn't bet)
+Seat 9: weepeel folded before Flop
+
+
+
+PokerStars Game #19903280825:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:33:23 (ET)
+Table 'Aguilar' 9-max Seat #3 is the button
+Seat 1: EdSheppard ($6.70 in chips) 
+Seat 2: LAESBEVA ($26.40 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: AssOfSpades ($20.65 in chips) 
+Seat 5: Usurpov ($44.90 in chips) 
+Seat 6: KIDNIC ($17.50 in chips) 
+Seat 7: k030101 ($23.65 in chips) 
+Seat 8: Farva500 ($15.20 in chips) 
+Seat 9: weepeel ($23.80 in chips) 
+AssOfSpades: posts small blind $0.10
+Usurpov: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [6h Kh]
+KIDNIC: folds 
+k030101: folds 
+Farva500: folds 
+weepeel: folds 
+EdSheppard: folds 
+LAESBEVA: calls $0.25
+Alameda22: folds 
+AssOfSpades: calls $0.15
+Usurpov: checks 
+*** FLOP *** [Td Ah 5d]
+AssOfSpades: checks 
+Usurpov: checks 
+LAESBEVA: bets $0.50
+AssOfSpades: folds 
+Usurpov: folds 
+Uncalled bet ($0.50) returned to LAESBEVA
+LAESBEVA collected $0.75 from pot
+LAESBEVA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Board [Td Ah 5d]
+Seat 1: EdSheppard folded before Flop (didn't bet)
+Seat 2: LAESBEVA collected ($0.75)
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: AssOfSpades (small blind) folded on the Flop
+Seat 5: Usurpov (big blind) folded on the Flop
+Seat 6: KIDNIC folded before Flop (didn't bet)
+Seat 7: k030101 folded before Flop (didn't bet)
+Seat 8: Farva500 folded before Flop (didn't bet)
+Seat 9: weepeel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903304510:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:34:33 (ET)
+Table 'Aguilar' 9-max Seat #4 is the button
+Seat 1: EdSheppard ($6.70 in chips) 
+Seat 2: LAESBEVA ($26.90 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: AssOfSpades ($20.40 in chips) 
+Seat 5: Usurpov ($44.65 in chips) 
+Seat 6: KIDNIC ($17.50 in chips) 
+Seat 7: k030101 ($23.65 in chips) 
+Seat 8: Farva500 ($15.20 in chips) 
+Seat 9: weepeel ($23.80 in chips) 
+Usurpov: posts small blind $0.10
+KIDNIC: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8h Ts]
+k030101: folds 
+Farva500: raises $0.50 to $0.75
+weepeel: calls $0.75
+EdSheppard: calls $0.75
+LAESBEVA: folds 
+Alameda22: folds 
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: folds 
+*** FLOP *** [2s 5h 8s]
+Farva500: bets $1.25
+weepeel: folds 
+EdSheppard: folds 
+Uncalled bet ($1.25) returned to Farva500
+Farva500 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.10 
+Board [2s 5h 8s]
+Seat 1: EdSheppard folded on the Flop
+Seat 2: LAESBEVA folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades (button) folded before Flop (didn't bet)
+Seat 5: Usurpov (small blind) folded before Flop
+Seat 6: KIDNIC (big blind) folded before Flop
+Seat 7: k030101 folded before Flop (didn't bet)
+Seat 8: Farva500 collected ($2.50)
+Seat 9: weepeel folded on the Flop
+
+
+
+PokerStars Game #19903326768:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:35:40 (ET)
+Table 'Aguilar' 9-max Seat #5 is the button
+Seat 1: EdSheppard ($5.95 in chips) 
+Seat 2: LAESBEVA ($26.90 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: AssOfSpades ($20.40 in chips) 
+Seat 5: Usurpov ($44.55 in chips) 
+Seat 6: KIDNIC ($17.25 in chips) 
+Seat 7: k030101 ($23.65 in chips) 
+Seat 8: Farva500 ($16.95 in chips) 
+Seat 9: weepeel ($23.05 in chips) 
+KIDNIC: posts small blind $0.10
+k030101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [3c 9d]
+Farva500: folds 
+weepeel: folds 
+EdSheppard: raises $0.75 to $1
+LAESBEVA: folds 
+Alameda22: folds 
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: folds 
+k030101: folds 
+Uncalled bet ($0.75) returned to EdSheppard
+EdSheppard collected $0.60 from pot
+EdSheppard: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: EdSheppard collected ($0.60)
+Seat 2: LAESBEVA folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades folded before Flop (didn't bet)
+Seat 5: Usurpov (button) folded before Flop (didn't bet)
+Seat 6: KIDNIC (small blind) folded before Flop
+Seat 7: k030101 (big blind) folded before Flop
+Seat 8: Farva500 folded before Flop (didn't bet)
+Seat 9: weepeel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903342998:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:36:29 (ET)
+Table 'Aguilar' 9-max Seat #6 is the button
+Seat 1: EdSheppard ($6.30 in chips) 
+Seat 2: LAESBEVA ($26.90 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: AssOfSpades ($20.40 in chips) 
+Seat 5: Usurpov ($44.55 in chips) 
+Seat 6: KIDNIC ($17.15 in chips) 
+Seat 7: k030101 ($23.40 in chips) 
+Seat 8: Farva500 ($16.95 in chips) 
+Seat 9: weepeel ($23.05 in chips) 
+k030101: posts small blind $0.10
+Farva500: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Kc 7s]
+weepeel: folds 
+EdSheppard: calls $0.25
+LAESBEVA: calls $0.25
+Alameda22: folds 
+AssOfSpades: calls $0.25
+Usurpov: folds 
+KIDNIC: folds 
+k030101: folds 
+Farva500: checks 
+*** FLOP *** [8s Jh 5d]
+Farva500: checks 
+EdSheppard: checks 
+LAESBEVA: checks 
+AssOfSpades: checks 
+*** TURN *** [8s Jh 5d] [Th]
+Farva500: checks 
+EdSheppard: checks 
+LAESBEVA: checks 
+AssOfSpades: bets $0.75
+Farva500: folds 
+EdSheppard: folds 
+LAESBEVA: folds 
+Uncalled bet ($0.75) returned to AssOfSpades
+AssOfSpades collected $1.05 from pot
+AssOfSpades: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [8s Jh 5d Th]
+Seat 1: EdSheppard folded on the Turn
+Seat 2: LAESBEVA folded on the Turn
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades collected ($1.05)
+Seat 5: Usurpov folded before Flop (didn't bet)
+Seat 6: KIDNIC (button) folded before Flop (didn't bet)
+Seat 7: k030101 (small blind) folded before Flop
+Seat 8: Farva500 (big blind) folded on the Turn
+Seat 9: weepeel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903392454:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:38:58 (ET)
+Table 'Aguilar' 9-max Seat #7 is the button
+Seat 1: EdSheppard ($6.05 in chips) 
+Seat 2: LAESBEVA ($26.65 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: AssOfSpades ($21.20 in chips) 
+Seat 5: Usurpov ($44.55 in chips) 
+Seat 6: KIDNIC ($17.15 in chips) 
+Seat 7: k030101 ($23.30 in chips) 
+Seat 8: Farva500 ($16.70 in chips) 
+Seat 9: weepeel ($23.05 in chips) 
+Farva500: posts small blind $0.10
+weepeel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Th Jc]
+EdSheppard: calls $0.25
+LAESBEVA: folds 
+Alameda22: folds 
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: folds 
+k030101: folds 
+Farva500: folds 
+weepeel: checks 
+*** FLOP *** [Ks 4d 6c]
+weepeel: checks 
+EdSheppard: checks 
+*** TURN *** [Ks 4d 6c] [Ad]
+weepeel: bets $0.50
+EdSheppard: folds 
+Uncalled bet ($0.50) returned to weepeel
+weepeel collected $0.60 from pot
+weepeel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Ks 4d 6c Ad]
+Seat 1: EdSheppard folded on the Turn
+Seat 2: LAESBEVA folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades folded before Flop (didn't bet)
+Seat 5: Usurpov folded before Flop (didn't bet)
+Seat 6: KIDNIC folded before Flop (didn't bet)
+Seat 7: k030101 (button) folded before Flop (didn't bet)
+Seat 8: Farva500 (small blind) folded before Flop
+Seat 9: weepeel (big blind) collected ($0.60)
+
+
+
+PokerStars Game #19903414917:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:40:06 (ET)
+Table 'Aguilar' 9-max Seat #8 is the button
+Seat 1: EdSheppard ($5.80 in chips) 
+Seat 2: LAESBEVA ($26.65 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: AssOfSpades ($21.20 in chips) 
+Seat 5: Usurpov ($44.55 in chips) 
+Seat 6: KIDNIC ($17.15 in chips) 
+Seat 7: k030101 ($23.30 in chips) 
+Seat 8: Farva500 ($16.60 in chips) 
+Seat 9: weepeel ($23.40 in chips) 
+weepeel: posts small blind $0.10
+EdSheppard: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Qh]
+LAESBEVA: calls $0.25
+Alameda22: folds 
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: folds 
+k030101: folds 
+Farva500: folds 
+weepeel: folds 
+EdSheppard: checks 
+*** FLOP *** [Kd Ah 5d]
+EdSheppard: checks 
+LAESBEVA: checks 
+*** TURN *** [Kd Ah 5d] [3c]
+EdSheppard: checks 
+LAESBEVA: checks 
+*** RIVER *** [Kd Ah 5d 3c] [3h]
+EdSheppard: checks 
+LAESBEVA: bets $0.50
+EdSheppard: folds 
+Uncalled bet ($0.50) returned to LAESBEVA
+LAESBEVA collected $0.60 from pot
+LAESBEVA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Kd Ah 5d 3c 3h]
+Seat 1: EdSheppard (big blind) folded on the River
+Seat 2: LAESBEVA collected ($0.60)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades folded before Flop (didn't bet)
+Seat 5: Usurpov folded before Flop (didn't bet)
+Seat 6: KIDNIC folded before Flop (didn't bet)
+Seat 7: k030101 folded before Flop (didn't bet)
+Seat 8: Farva500 (button) folded before Flop (didn't bet)
+Seat 9: weepeel (small blind) folded before Flop
+
+
+
+PokerStars Game #19903440760:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:41:25 (ET)
+Table 'Aguilar' 9-max Seat #9 is the button
+Seat 1: EdSheppard ($5.55 in chips) 
+Seat 2: LAESBEVA ($27 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: AssOfSpades ($21.20 in chips) 
+Seat 5: Usurpov ($44.55 in chips) 
+Seat 6: KIDNIC ($17.15 in chips) 
+Seat 7: k030101 ($23.30 in chips) 
+Seat 8: Farva500 ($16.60 in chips) 
+Seat 9: weepeel ($23.30 in chips) 
+EdSheppard: posts small blind $0.10
+LAESBEVA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5h Kc]
+Alameda22: folds 
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: folds 
+k030101: raises $1.25 to $1.50
+Farva500: folds 
+weepeel: calls $1.50
+EdSheppard: calls $1.40
+LAESBEVA: folds 
+*** FLOP *** [4d 8s 7d]
+EdSheppard: bets $4.05 and is all-in
+k030101: calls $4.05
+weepeel: folds 
+*** TURN *** [4d 8s 7d] [Qh]
+*** RIVER *** [4d 8s 7d Qh] [8d]
+*** SHOW DOWN ***
+EdSheppard: shows [6h 7h] (two pair, Eights and Sevens)
+k030101: shows [Jc Jd] (two pair, Jacks and Eights)
+k030101 collected $12.25 from pot
+EdSheppard leaves the table
+*** SUMMARY ***
+Total pot $12.85 | Rake $0.60 
+Board [4d 8s 7d Qh 8d]
+Seat 1: EdSheppard (small blind) showed [6h 7h] and lost with two pair, Eights and Sevens
+Seat 2: LAESBEVA (big blind) folded before Flop
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades folded before Flop (didn't bet)
+Seat 5: Usurpov folded before Flop (didn't bet)
+Seat 6: KIDNIC folded before Flop (didn't bet)
+Seat 7: k030101 showed [Jc Jd] and won ($12.25) with two pair, Jacks and Eights
+Seat 8: Farva500 folded before Flop (didn't bet)
+Seat 9: weepeel (button) folded on the Flop
+
+
+
+PokerStars Game #19903459054:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:42:20 (ET)
+Table 'Aguilar' 9-max Seat #2 is the button
+Seat 2: LAESBEVA ($26.75 in chips) 
+Seat 3: Alameda22 ($24.40 in chips) 
+Seat 4: AssOfSpades ($21.20 in chips) 
+Seat 5: Usurpov ($44.55 in chips) 
+Seat 6: KIDNIC ($17.15 in chips) 
+Seat 7: k030101 ($30 in chips) 
+Seat 8: Farva500 ($16.60 in chips) 
+Seat 9: weepeel ($21.80 in chips) 
+Alameda22: posts small blind $0.10
+AssOfSpades: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8d 9d]
+Usurpov: folds 
+LUCKYMONSTER joins the table at seat #1 
+KIDNIC: folds 
+k030101: folds 
+Farva500: raises $0.75 to $1
+weepeel: folds 
+LAESBEVA: folds 
+Alameda22: folds 
+AssOfSpades: calls $0.75
+*** FLOP *** [5s 8c 8h]
+AssOfSpades: checks 
+Farva500: checks 
+*** TURN *** [5s 8c 8h] [3h]
+AssOfSpades: bets $1
+Farva500: folds 
+Uncalled bet ($1) returned to AssOfSpades
+AssOfSpades collected $2 from pot
+AssOfSpades: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [5s 8c 8h 3h]
+Seat 2: LAESBEVA (button) folded before Flop (didn't bet)
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: AssOfSpades (big blind) collected ($2)
+Seat 5: Usurpov folded before Flop (didn't bet)
+Seat 6: KIDNIC folded before Flop (didn't bet)
+Seat 7: k030101 folded before Flop (didn't bet)
+Seat 8: Farva500 folded on the Turn
+Seat 9: weepeel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903476436:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:43:14 (ET)
+Table 'Aguilar' 9-max Seat #3 is the button
+Seat 1: LUCKYMONSTER ($25 in chips) 
+Seat 2: LAESBEVA ($26.75 in chips) 
+Seat 3: Alameda22 ($24.30 in chips) 
+Seat 4: AssOfSpades ($22.20 in chips) 
+Seat 5: Usurpov ($44.55 in chips) 
+Seat 6: KIDNIC ($17.15 in chips) 
+Seat 7: k030101 ($30 in chips) 
+Seat 8: Farva500 ($15.60 in chips) 
+Seat 9: weepeel ($21.80 in chips) 
+AssOfSpades: posts small blind $0.10
+Usurpov: posts big blind $0.25
+LUCKYMONSTER: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Qh]
+KIDNIC: folds 
+k030101: folds 
+Farva500: folds 
+weepeel: folds 
+LUCKYMONSTER: checks 
+LAESBEVA: calls $0.25
+Alameda22: folds 
+AssOfSpades: calls $0.15
+Usurpov: checks 
+*** FLOP *** [3s 7d Tc]
+AssOfSpades: bets $0.75
+Usurpov: folds 
+LUCKYMONSTER: calls $0.75
+LAESBEVA: calls $0.75
+*** TURN *** [3s 7d Tc] [Kd]
+AssOfSpades: bets $2
+LUCKYMONSTER: folds 
+LAESBEVA: folds 
+Uncalled bet ($2) returned to AssOfSpades
+AssOfSpades collected $3.10 from pot
+AssOfSpades: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15 
+Board [3s 7d Tc Kd]
+Seat 1: LUCKYMONSTER folded on the Turn
+Seat 2: LAESBEVA folded on the Turn
+Seat 3: Alameda22 (button) folded before Flop (didn't bet)
+Seat 4: AssOfSpades (small blind) collected ($3.10)
+Seat 5: Usurpov (big blind) folded on the Flop
+Seat 6: KIDNIC folded before Flop (didn't bet)
+Seat 7: k030101 folded before Flop (didn't bet)
+Seat 8: Farva500 folded before Flop (didn't bet)
+Seat 9: weepeel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903519024:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:45:23 (ET)
+Table 'Aguilar' 9-max Seat #4 is the button
+Seat 1: LUCKYMONSTER ($24 in chips) 
+Seat 2: LAESBEVA ($25.75 in chips) 
+Seat 3: Alameda22 ($24.30 in chips) 
+Seat 4: AssOfSpades ($24.30 in chips) 
+Seat 5: Usurpov ($44.30 in chips) 
+Seat 6: KIDNIC ($17.15 in chips) 
+Seat 7: k030101 ($30 in chips) 
+Seat 8: Farva500 ($15.60 in chips) 
+Seat 9: weepeel ($21.80 in chips) 
+Usurpov: posts small blind $0.10
+KIDNIC: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Ks Jc]
+k030101: folds 
+Farva500: folds 
+weepeel: folds 
+LUCKYMONSTER: raises $0.75 to $1
+LAESBEVA: folds 
+Alameda22: folds 
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: folds 
+Uncalled bet ($0.75) returned to LUCKYMONSTER
+LUCKYMONSTER collected $0.60 from pot
+LUCKYMONSTER: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: LUCKYMONSTER collected ($0.60)
+Seat 2: LAESBEVA folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades (button) folded before Flop (didn't bet)
+Seat 5: Usurpov (small blind) folded before Flop
+Seat 6: KIDNIC (big blind) folded before Flop
+Seat 7: k030101 folded before Flop (didn't bet)
+Seat 8: Farva500 folded before Flop (didn't bet)
+Seat 9: weepeel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903531837:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:46:03 (ET)
+Table 'Aguilar' 9-max Seat #5 is the button
+Seat 1: LUCKYMONSTER ($24.35 in chips) 
+Seat 2: LAESBEVA ($25.75 in chips) 
+Seat 3: Alameda22 ($24.30 in chips) 
+Seat 4: AssOfSpades ($24.30 in chips) 
+Seat 5: Usurpov ($44.20 in chips) 
+Seat 6: KIDNIC ($16.90 in chips) 
+Seat 7: k030101 ($30 in chips) 
+Seat 8: Farva500 ($15.60 in chips) 
+Seat 9: weepeel ($21.80 in chips) 
+KIDNIC: posts small blind $0.10
+k030101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qd Ac]
+Farva500: raises $0.75 to $1
+weepeel: folds 
+LUCKYMONSTER: folds 
+LAESBEVA: folds 
+Alameda22: calls $1
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: folds 
+k030101: folds 
+*** FLOP *** [Jd 6c 7s]
+Farva500: checks 
+Alameda22: bets $1.50
+Farva500: folds 
+Uncalled bet ($1.50) returned to Alameda22
+Alameda22 collected $2.25 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.10 
+Board [Jd 6c 7s]
+Seat 1: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 2: LAESBEVA folded before Flop (didn't bet)
+Seat 3: Alameda22 collected ($2.25)
+Seat 4: AssOfSpades folded before Flop (didn't bet)
+Seat 5: Usurpov (button) folded before Flop (didn't bet)
+Seat 6: KIDNIC (small blind) folded before Flop
+Seat 7: k030101 (big blind) folded before Flop
+Seat 8: Farva500 folded on the Flop
+Seat 9: weepeel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903551382:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:47:03 (ET)
+Table 'Aguilar' 9-max Seat #6 is the button
+Seat 1: LUCKYMONSTER ($24.35 in chips) 
+Seat 2: LAESBEVA ($25.75 in chips) 
+Seat 3: Alameda22 ($25.55 in chips) 
+Seat 4: AssOfSpades ($24.30 in chips) 
+Seat 5: Usurpov ($44.20 in chips) 
+Seat 6: KIDNIC ($16.80 in chips) 
+Seat 7: k030101 ($29.75 in chips) 
+Seat 8: Farva500 ($14.60 in chips) 
+Seat 9: weepeel ($21.80 in chips) 
+k030101: posts small blind $0.10
+Farva500: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9d 5s]
+weepeel: folds 
+LUCKYMONSTER: raises $0.75 to $1
+LAESBEVA: folds 
+Alameda22: folds 
+LAESBEVA leaves the table
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: folds 
+k030101: folds 
+Farva500: folds 
+Uncalled bet ($0.75) returned to LUCKYMONSTER
+LUCKYMONSTER collected $0.60 from pot
+LUCKYMONSTER: doesn't show hand 
+shawagan joins the table at seat #2 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: LUCKYMONSTER collected ($0.60)
+Seat 2: LAESBEVA folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades folded before Flop (didn't bet)
+Seat 5: Usurpov folded before Flop (didn't bet)
+Seat 6: KIDNIC (button) folded before Flop (didn't bet)
+Seat 7: k030101 (small blind) folded before Flop
+Seat 8: Farva500 (big blind) folded before Flop
+Seat 9: weepeel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903566226:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:47:49 (ET)
+Table 'Aguilar' 9-max Seat #7 is the button
+Seat 1: LUCKYMONSTER ($24.70 in chips) 
+Seat 2: shawagan ($15 in chips) 
+Seat 3: Alameda22 ($25.55 in chips) 
+Seat 4: AssOfSpades ($24.30 in chips) 
+Seat 5: Usurpov ($44.20 in chips) 
+Seat 6: KIDNIC ($16.80 in chips) 
+Seat 7: k030101 ($29.65 in chips) 
+Seat 8: Farva500 ($14.35 in chips) 
+Seat 9: weepeel ($21.80 in chips) 
+Farva500: posts small blind $0.10
+weepeel: posts big blind $0.25
+shawagan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [4h 8h]
+LUCKYMONSTER: folds 
+shawagan: checks 
+Alameda22: folds 
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: folds 
+k030101: folds 
+Farva500: folds 
+weepeel: checks 
+*** FLOP *** [Th 8c Qs]
+weepeel: checks 
+shawagan: bets $0.25
+weepeel: folds 
+Uncalled bet ($0.25) returned to shawagan
+shawagan collected $0.60 from pot
+shawagan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Board [Th 8c Qs]
+Seat 1: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 2: shawagan collected ($0.60)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades folded before Flop (didn't bet)
+Seat 5: Usurpov folded before Flop (didn't bet)
+Seat 6: KIDNIC folded before Flop (didn't bet)
+Seat 7: k030101 (button) folded before Flop (didn't bet)
+Seat 8: Farva500 (small blind) folded before Flop
+Seat 9: weepeel (big blind) folded on the Flop
+
+
+
+PokerStars Game #19903589434:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:49:01 (ET)
+Table 'Aguilar' 9-max Seat #8 is the button
+Seat 1: LUCKYMONSTER ($24.70 in chips) 
+Seat 2: shawagan ($15.35 in chips) 
+Seat 3: Alameda22 ($25.55 in chips) 
+Seat 4: AssOfSpades ($24.30 in chips) 
+Seat 5: Usurpov ($44.20 in chips) 
+Seat 6: KIDNIC ($16.80 in chips) 
+Seat 7: k030101 ($29.65 in chips) 
+Seat 8: Farva500 ($14.25 in chips) 
+Seat 9: weepeel ($25 in chips) 
+weepeel: posts small blind $0.10
+LUCKYMONSTER: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7s Qd]
+shawagan: calls $0.25
+Alameda22: folds 
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: raises $0.50 to $0.75
+k030101: folds 
+Farva500: folds 
+weepeel: folds 
+LUCKYMONSTER: folds 
+shawagan: calls $0.50
+*** FLOP *** [As 3h Qs]
+shawagan: bets $0.25
+KIDNIC: raises $0.75 to $1
+shawagan: calls $0.75
+*** TURN *** [As 3h Qs] [3d]
+shawagan: bets $0.25
+KIDNIC: raises $0.75 to $1
+shawagan: calls $0.75
+*** RIVER *** [As 3h Qs 3d] [Tc]
+shawagan: bets $0.25
+KIDNIC: calls $0.25
+*** SHOW DOWN ***
+shawagan: shows [Ac Ks] (two pair, Aces and Threes)
+KIDNIC: mucks hand 
+shawagan collected $6.05 from pot
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.30 
+Board [As 3h Qs 3d Tc]
+Seat 1: LUCKYMONSTER (big blind) folded before Flop
+Seat 2: shawagan showed [Ac Ks] and won ($6.05) with two pair, Aces and Threes
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades folded before Flop (didn't bet)
+Seat 5: Usurpov folded before Flop (didn't bet)
+Seat 6: KIDNIC mucked [Ad Jc]
+Seat 7: k030101 folded before Flop (didn't bet)
+Seat 8: Farva500 (button) folded before Flop (didn't bet)
+Seat 9: weepeel (small blind) folded before Flop
+
+
+
+PokerStars Game #19903629674:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:51:08 (ET)
+Table 'Aguilar' 9-max Seat #9 is the button
+Seat 1: LUCKYMONSTER ($24.45 in chips) 
+Seat 2: shawagan ($18.40 in chips) 
+Seat 3: Alameda22 ($25.55 in chips) 
+Seat 4: AssOfSpades ($24.30 in chips) 
+Seat 5: Usurpov ($44.20 in chips) 
+Seat 6: KIDNIC ($13.80 in chips) 
+Seat 7: k030101 ($29.65 in chips) 
+Seat 8: Farva500 ($14.25 in chips) 
+Seat 9: weepeel ($24.90 in chips) 
+LUCKYMONSTER: posts small blind $0.10
+shawagan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [7d 4d]
+Alameda22: folds 
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: calls $0.25
+k030101: folds 
+Farva500: raises $0.50 to $0.75
+weepeel: folds 
+LUCKYMONSTER: folds 
+shawagan: calls $0.50
+KIDNIC: calls $0.50
+*** FLOP *** [Ks 6c Th]
+shawagan: bets $0.25
+KIDNIC: raises $0.50 to $0.75
+Farva500: folds 
+shawagan: calls $0.50
+*** TURN *** [Ks 6c Th] [4c]
+shawagan: checks 
+KIDNIC: bets $1.75
+shawagan: calls $1.75
+*** RIVER *** [Ks 6c Th 4c] [3s]
+shawagan: checks 
+KIDNIC: bets $1.75
+shawagan: calls $1.75
+*** SHOW DOWN ***
+KIDNIC: shows [Kd Jd] (a pair of Kings)
+shawagan: mucks hand 
+KIDNIC collected $10.35 from pot
+*** SUMMARY ***
+Total pot $10.85 | Rake $0.50 
+Board [Ks 6c Th 4c 3s]
+Seat 1: LUCKYMONSTER (small blind) folded before Flop
+Seat 2: shawagan (big blind) mucked [Td Ah]
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades folded before Flop (didn't bet)
+Seat 5: Usurpov folded before Flop (didn't bet)
+Seat 6: KIDNIC showed [Kd Jd] and won ($10.35) with a pair of Kings
+Seat 7: k030101 folded before Flop (didn't bet)
+Seat 8: Farva500 folded on the Flop
+Seat 9: weepeel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903666924:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:53:05 (ET)
+Table 'Aguilar' 9-max Seat #1 is the button
+Seat 1: LUCKYMONSTER ($24.35 in chips) 
+Seat 2: shawagan ($13.40 in chips) 
+Seat 3: Alameda22 ($25.55 in chips) 
+Seat 4: AssOfSpades ($24.30 in chips) 
+Seat 5: Usurpov ($44.20 in chips) 
+Seat 6: KIDNIC ($19.15 in chips) 
+Seat 7: k030101 ($29.65 in chips) 
+Seat 8: Farva500 ($13.50 in chips) 
+Seat 9: weepeel ($24.90 in chips) 
+shawagan: posts small blind $0.10
+Alameda22: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [8c Jd]
+AssOfSpades: folds 
+Usurpov: raises $0.50 to $0.75
+KIDNIC: folds 
+k030101: calls $0.75
+Farva500: folds 
+weepeel: folds 
+LUCKYMONSTER: folds 
+shawagan: calls $0.65
+Alameda22: folds 
+*** FLOP *** [Th 4d 2d]
+shawagan: checks 
+Usurpov: bets $1.75
+k030101: folds 
+shawagan: folds 
+Uncalled bet ($1.75) returned to Usurpov
+Usurpov collected $2.40 from pot
+Usurpov: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.10 
+Board [Th 4d 2d]
+Seat 1: LUCKYMONSTER (button) folded before Flop (didn't bet)
+Seat 2: shawagan (small blind) folded on the Flop
+Seat 3: Alameda22 (big blind) folded before Flop
+Seat 4: AssOfSpades folded before Flop (didn't bet)
+Seat 5: Usurpov collected ($2.40)
+Seat 6: KIDNIC folded before Flop (didn't bet)
+Seat 7: k030101 folded on the Flop
+Seat 8: Farva500 folded before Flop (didn't bet)
+Seat 9: weepeel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903691270:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:54:22 (ET)
+Table 'Aguilar' 9-max Seat #2 is the button
+Seat 1: LUCKYMONSTER ($24.35 in chips) 
+Seat 2: shawagan ($12.65 in chips) 
+Seat 3: Alameda22 ($25.30 in chips) 
+Seat 4: AssOfSpades ($24.30 in chips) 
+Seat 5: Usurpov ($45.85 in chips) 
+Seat 6: KIDNIC ($19.15 in chips) 
+Seat 7: k030101 ($28.90 in chips) 
+Seat 8: Farva500 ($13.50 in chips) 
+Seat 9: weepeel ($24.90 in chips) 
+Alameda22: posts small blind $0.10
+AssOfSpades: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [5d 9d]
+Usurpov: calls $0.25
+KIDNIC: folds 
+k030101: folds 
+Farva500: folds 
+weepeel: folds 
+LUCKYMONSTER: folds 
+shawagan: calls $0.25
+Alameda22: folds 
+AssOfSpades: checks 
+*** FLOP *** [As 8d Ts]
+AssOfSpades: checks 
+Usurpov: checks 
+shawagan: bets $0.50
+AssOfSpades: calls $0.50
+Usurpov: folds 
+*** TURN *** [As 8d Ts] [Js]
+AssOfSpades: checks 
+shawagan: checks 
+*** RIVER *** [As 8d Ts Js] [Ad]
+AssOfSpades: bets $1
+shawagan: raises $1 to $2
+AssOfSpades: calls $1
+*** SHOW DOWN ***
+shawagan: shows [6h Ac] (three of a kind, Aces)
+AssOfSpades: shows [7s 9c] (a straight, Seven to Jack)
+AssOfSpades collected $5.60 from pot
+*** SUMMARY ***
+Total pot $5.85 | Rake $0.25 
+Board [As 8d Ts Js Ad]
+Seat 1: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 2: shawagan (button) showed [6h Ac] and lost with three of a kind, Aces
+Seat 3: Alameda22 (small blind) folded before Flop
+Seat 4: AssOfSpades (big blind) showed [7s 9c] and won ($5.60) with a straight, Seven to Jack
+Seat 5: Usurpov folded on the Flop
+Seat 6: KIDNIC folded before Flop (didn't bet)
+Seat 7: k030101 folded before Flop (didn't bet)
+Seat 8: Farva500 folded before Flop (didn't bet)
+Seat 9: weepeel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903717674:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:55:46 (ET)
+Table 'Aguilar' 9-max Seat #3 is the button
+Seat 1: LUCKYMONSTER ($24.35 in chips) 
+Seat 2: shawagan ($9.90 in chips) 
+Seat 3: Alameda22 ($25.20 in chips) 
+Seat 4: AssOfSpades ($27.15 in chips) 
+Seat 5: Usurpov ($45.60 in chips) 
+Seat 6: KIDNIC ($19.15 in chips) 
+Seat 7: k030101 ($28.90 in chips) 
+Seat 8: Farva500 ($13.50 in chips) 
+Seat 9: weepeel ($24.90 in chips) 
+AssOfSpades: posts small blind $0.10
+Usurpov: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Qc Kh]
+KIDNIC: folds 
+k030101: folds 
+Farva500: folds 
+weepeel: calls $0.25
+LUCKYMONSTER: folds 
+shawagan: calls $0.25
+Alameda22: raises $1 to $1.25
+AssOfSpades: folds 
+Usurpov: folds 
+weepeel: calls $1
+shawagan: calls $1
+*** FLOP *** [Qs Kd Kc]
+weepeel: checks 
+shawagan: checks 
+Alameda22: bets $2.50
+weepeel: folds 
+shawagan: folds 
+Uncalled bet ($2.50) returned to Alameda22
+Alameda22 collected $3.90 from pot
+Alameda22: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [Qs Kd Kc]
+Seat 1: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 2: shawagan folded on the Flop
+Seat 3: Alameda22 (button) collected ($3.90)
+Seat 4: AssOfSpades (small blind) folded before Flop
+Seat 5: Usurpov (big blind) folded before Flop
+Seat 6: KIDNIC folded before Flop (didn't bet)
+Seat 7: k030101 folded before Flop (didn't bet)
+Seat 8: Farva500 folded before Flop (didn't bet)
+Seat 9: weepeel folded on the Flop
+
+
+
+PokerStars Game #19903745102:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:57:14 (ET)
+Table 'Aguilar' 9-max Seat #4 is the button
+Seat 1: LUCKYMONSTER ($24.35 in chips) 
+Seat 2: shawagan ($8.65 in chips) 
+Seat 3: Alameda22 ($27.85 in chips) 
+Seat 4: AssOfSpades ($27.05 in chips) 
+Seat 5: Usurpov ($45.35 in chips) 
+Seat 6: KIDNIC ($19.15 in chips) 
+Seat 7: k030101 ($28.90 in chips) 
+Seat 8: Farva500 ($13.50 in chips) 
+Seat 9: weepeel ($23.65 in chips) 
+Usurpov: posts small blind $0.10
+KIDNIC: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jd 4s]
+k030101: folds 
+Farva500: folds 
+weepeel: folds 
+LUCKYMONSTER: calls $0.25
+shawagan: raises $0.25 to $0.50
+Alameda22: folds 
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: folds 
+LUCKYMONSTER: calls $0.25
+*** FLOP *** [Td Qc 9s]
+LUCKYMONSTER: checks 
+shawagan: bets $0.25
+LUCKYMONSTER: folds 
+Uncalled bet ($0.25) returned to shawagan
+shawagan collected $1.30 from pot
+shawagan: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [Td Qc 9s]
+Seat 1: LUCKYMONSTER folded on the Flop
+Seat 2: shawagan collected ($1.30)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades (button) folded before Flop (didn't bet)
+Seat 5: Usurpov (small blind) folded before Flop
+Seat 6: KIDNIC (big blind) folded before Flop
+Seat 7: k030101 folded before Flop (didn't bet)
+Seat 8: Farva500 folded before Flop (didn't bet)
+Seat 9: weepeel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903772527:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:58:43 (ET)
+Table 'Aguilar' 9-max Seat #5 is the button
+Seat 1: LUCKYMONSTER ($23.85 in chips) 
+Seat 2: shawagan ($9.45 in chips) 
+Seat 3: Alameda22 ($27.85 in chips) 
+Seat 4: AssOfSpades ($27.05 in chips) 
+Seat 5: Usurpov ($45.25 in chips) 
+Seat 6: KIDNIC ($18.90 in chips) 
+Seat 7: k030101 ($28.90 in chips) 
+Seat 8: Farva500 ($13.50 in chips) 
+Seat 9: weepeel ($23.65 in chips) 
+KIDNIC: posts small blind $0.10
+k030101: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [Jc 7c]
+Farva500: folds 
+weepeel: folds 
+LUCKYMONSTER: folds 
+shawagan: folds 
+Alameda22: folds 
+AssOfSpades: folds 
+Usurpov: folds 
+KIDNIC: folds 
+Uncalled bet ($0.15) returned to k030101
+k030101 collected $0.20 from pot
+k030101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 2: shawagan folded before Flop (didn't bet)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades folded before Flop (didn't bet)
+Seat 5: Usurpov (button) folded before Flop (didn't bet)
+Seat 6: KIDNIC (small blind) folded before Flop
+Seat 7: k030101 (big blind) collected ($0.20)
+Seat 8: Farva500 folded before Flop (didn't bet)
+Seat 9: weepeel folded before Flop (didn't bet)
+
+
+
+PokerStars Game #19903789752:  Hold'em No Limit ($0.10/$0.25) - 2008/08/25 - 23:59:39 (ET)
+Table 'Aguilar' 9-max Seat #6 is the button
+Seat 1: LUCKYMONSTER ($23.85 in chips) 
+Seat 2: shawagan ($9.45 in chips) 
+Seat 3: Alameda22 ($27.85 in chips) 
+Seat 4: AssOfSpades ($27.05 in chips) 
+Seat 5: Usurpov ($45.25 in chips) 
+Seat 6: KIDNIC ($18.80 in chips) 
+Seat 7: k030101 ($29 in chips) 
+Seat 8: Farva500 ($13.50 in chips) 
+Seat 9: weepeel ($23.65 in chips) 
+k030101: posts small blind $0.10
+Farva500: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Alameda22 [9c 2s]
+weepeel: folds 
+LUCKYMONSTER: folds 
+shawagan: calls $0.25
+Alameda22: folds 
+AssOfSpades: folds 
+Usurpov: calls $0.25
+KIDNIC: calls $0.25
+k030101: folds 
+Farva500: checks 
+*** FLOP *** [6h 3s Qd]
+Farva500: checks 
+shawagan: bets $0.25
+Usurpov: raises $0.75 to $1
+KIDNIC: folds 
+Farva500: folds 
+shawagan: calls $0.75
+*** TURN *** [6h 3s Qd] [Jc]
+shawagan: bets $0.25
+Usurpov: raises $1.50 to $1.75
+shawagan: raises $6.45 to $8.20 and is all-in
+Usurpov: folds 
+Uncalled bet ($6.45) returned to shawagan
+shawagan collected $6.30 from pot
+shawagan: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.60 | Rake $0.30 
+Board [6h 3s Qd Jc]
+Seat 1: LUCKYMONSTER folded before Flop (didn't bet)
+Seat 2: shawagan collected ($6.30)
+Seat 3: Alameda22 folded before Flop (didn't bet)
+Seat 4: AssOfSpades folded before Flop (didn't bet)
+Seat 5: Usurpov folded on the Turn
+Seat 6: KIDNIC (button) folded on the Flop
+Seat 7: k030101 (small blind) folded before Flop
+Seat 8: Farva500 (big blind) folded on the Flop
+Seat 9: weepeel folded before Flop (didn't bet)
+
+
+
