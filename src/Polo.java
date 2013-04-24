@@ -574,7 +574,7 @@ public class Polo {
 
 	public int getHandRank(){
 		
-		return HandEvaluator.rankHand(new Hand(c1+" "+c2+" "+f1+" "+f2+" "+f3+" "+t+" "+r));
+		return HandEvaluator.rankHand(new Hand(c1+" "+c2+" "+f1+" "+f2+" "+f3+" "+t+" "+r)) + HandEvaluator.rankHand(new Hand(c1+" "+c2));
 		
 	}
 
