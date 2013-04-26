@@ -6,6 +6,8 @@ Depending on speed, and memory, I may make this a lookup table.
  */
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.*;
 
 public class HandEquity{
 	
@@ -16,76 +18,93 @@ public class HandEquity{
 		"Ad","Kd","Qd","Td","9d","8d","7d","6d","5d","4d","3d","2d",};
 
 	public static void main(String[] args){
-		String[] allHands = allPossibleHands("As Ah");
 
-		for(String hand : allHands) System.out.println(hand);
+		HashMap<String,Integer> handIDs = new HashMap<String,Integer>();
 
-		System.out.println(allHands.length);
-	}
+		String search = getOrderedHandString("As Ks Ts 9s 6s");
 
-	//Given a hand, return the sum of all possible future hands
-	public static int getEquity(String hand){
-		int[] allRanks = allPossibleRanks(hand);
-		int out = 0;
-		for(int i : allRanks) out += i;
-		return out;
-	}
+		for (int k=1; k<=7; k++){
+			
+			System.out.println("Building Sets of "+k+"...");
 
-	//Given a hand, return a list of all possible future ranks
-	public static int[] allPossibleRanks(String hand){
-		String[] allHands = allPossibleHands(hand);
-		int[] out = new int[allHands.length];
+			List<Set<String>> list = getSubsets(arrayToArrayList(cards),k);
 
-		for(int i=0;i<out.length;i++){
-			out[i] = HandEvaluator.rankHand(new Hand(allHands[i]));
+			String h;
+			
+			int rank = 0;
+			for(Set<String> set : list){
+				String[] stringArray = new String[1];
+				h = getOrderedHandString(cardArrayToString(set.toArray(stringArray)));
+				if(h.equals(search)) System.out.println("Found it... "+h);
+				try{
+					rank = HandEvaluator.rankHand(new Hand(h));
+				}catch(Exception e){
+					System.out.println(h);
+					e.printStackTrace();
+					System.exit(1);
+				}
+				//System.out.println(h+" : "+rank);			
+				handIDs.put(h,new Integer(rank));
+
+			}
 		}
 
-		return out;
+		System.out.println(search);
+
+		System.out.println(HandEvaluator.rankHand(new Hand("As Ks Ts 9s 6s")));
+
+		System.out.println(handIDs.get(search));
+
+
 	}
 
-	//Given a hand, return all possible 7CARD future hands.
-	//i.e. If I pass in 6 cards, I should get back a list of 46 hands.
-	//Called recursively
-	public static String[] allPossibleHands(String hand){
-		ArrayList<String> list = new ArrayList<String>();
-		ArrayList<String> list2 = new ArrayList<String>();
+	//Convert an array of cards into a hand string
+	public static String cardArrayToString(String[] cards){
+		String hand = "";
+		for(String c: cards) hand = hand+c+" ";
+		hand = hand.trim();
+		return hand;
+	}
 
-		//If the hand is already 7 cards, just return it.
-		if(hand.length() >= 20) return new String[] {hand};
-		//Go through each card in the array. 
-		//If it isn't already in the hand, add an new row in the list with that card
-		for(String c : cards){
-			if(!hand.contains(c)) list.add(hand+" "+c);
+	//Get hand identifier (a unique integer given to each possible hand. Order does not matter);
+	public static String getOrderedHandString(String hand){
+		String out = "";
+		String[] cardsInHand = hand.split(" ");
+
+		java.util.Arrays.sort(cardsInHand);
+		for(int i=0;i<cardsInHand.length;i++){
+			out += cardsInHand[i] + " ";
 		}
+		return out.trim();
+	}
 
-		System.out.println(list.size()+" "+hand);
+	private static void getSubsets(List<String> superSet, int k, int idx, Set<String> current,List<Set<String>> solution) {
+	    //successful stop clause
+	    if (current.size() == k) {
+	        solution.add(new HashSet<>(current));
+	        return;
+	    }
+	    //unseccessful stop clause
+	    if (idx == superSet.size()) return;
+	    String x = superSet.get(idx);
+	    current.add(x);
+	    //"guess" x is in the subset
+	    getSubsets(superSet, k, idx+1, current, solution);
+	    current.remove(x);
+	    //"guess" x is not in the subset
+	    getSubsets(superSet, k, idx+1, current, solution);
+	}
 
-		//If there are no future hands, return the current hand
-		if(list.size()==0) return new String[] {hand};
+	public static List<Set<String>> getSubsets(List<String> superSet, int k) {
+	    List<Set<String>> res = new ArrayList<>();
+	    getSubsets(superSet, k, 0, new HashSet<String>(), res);
+	    return res;
+	}
 
-
-
-		//Go through each new hand in the list,
-		//Call all possible hands recursively.
-		String[] hands;
-		for(String newHand : list){
-			hands = allPossibleHands(newHand);
-			//Add the new hands to list2
-			for(String h : hands) list2.add(h);
-		}
-
-		//Add the current hand to the output list...
-		list.add(hand);
-
-		//Add list2 to list
-		for(String h : list2) list.add(h);
-
-		String[] out = new String[list.size()];
-		list.toArray(out);
-
+	public static List<String> arrayToArrayList(String[] a){
+		ArrayList<String> out = new ArrayList<String>();
+		for(String s : a) out.add(s);
 		return out;
-
-
 	}
 
 
