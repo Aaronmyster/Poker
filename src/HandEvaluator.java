@@ -998,7 +998,7 @@ public class HandEvaluator {
       int i = Card.ACE;
       int value = 0;
       while (kickers != 0) {
-         while (paired[i] == 0 || i == not_allowed[0] || i == not_allowed[1])
+         while (i>0 && (paired[i] == 0 || i == not_allowed[0] || i == not_allowed[1]))
             i--;
          kickers--;
          value += pow(Card.NUM_RANKS, kickers) * i;
