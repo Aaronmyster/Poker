@@ -12,48 +12,53 @@ import java.util.*;
 public class HandEquity{
 	
 	public static String[] cards = {
-		"As","Ks","Qs","Ts","9s","8s","7s","6s","5s","4s","3s","2s",
-		"Ah","Kh","Qh","Th","9h","8h","7h","6h","5h","4h","3h","2h",
-		"Ac","Kc","Qc","Tc","9c","8c","7c","6c","5c","4c","3c","2c",
-		"Ad","Kd","Qd","Td","9d","8d","7d","6d","5d","4d","3d","2d",};
+		"As","Ks","Qs","Js","Ts","9s","8s","7s","6s","5s","4s","3s","2s",
+		"Ah","Kh","Qh","Jh","Th","9h","8h","7h","6h","5h","4h","3h","2h",
+		"Ac","Kc","Qc","Jc","Tc","9c","8c","7c","6c","5c","4c","3c","2c",
+		"Ad","Kd","Qd","Jd","Td","9d","8d","7d","6d","5d","4d","3d","2d",};
 
 	public static void main(String[] args){
 
-		HashMap<String,Integer> handIDs = new HashMap<String,Integer>();
+		String[] currentHand = new String[7];
 
-		String search = getOrderedHandString("As Ks Ts 9s 6s");
+		ArrayList<String> cardArrayList = (ArrayList<String>)arrayToArrayList(cards);
 
-		for (int k=1; k<=7; k++){
+		currentHand[0] = args[0];
+		currentHand[1] = args[1];
+		if(args.length > 2) currentHand[2] = args[2];
+		if(args.length > 3) currentHand[3] = args[3];
+		if(args.length > 4) currentHand[4] = args[4];
+		if(args.length > 5) currentHand[5] = args[5];
+
+		for(String c : currentHand) cardArrayList.remove(c);
+		
+		int k = 7- (52 - cardArrayList.size());
 			
-			System.out.println("Building Sets of "+k+"...");
+		System.out.println("Building Sets of "+k+"...");
 
-			List<Set<String>> list = getSubsets(arrayToArrayList(cards),k);
+		List<Set<String>> list = getSubsets(cardArrayList,k);
 
-			String h;
-			
-			int rank = 0;
-			for(Set<String> set : list){
-				String[] stringArray = new String[1];
-				h = getOrderedHandString(cardArrayToString(set.toArray(stringArray)));
-				if(h.equals(search)) System.out.println("Found it... "+h);
-				try{
-					rank = HandEvaluator.rankHand(new Hand(h));
-				}catch(Exception e){
-					System.out.println(h);
-					e.printStackTrace();
-					System.exit(1);
-				}
-				//System.out.println(h+" : "+rank);			
-				handIDs.put(h,new Integer(rank));
+		String h;
+		
+		double equity = 0;
+		for(Set<String> set : list){
+			String[] stringArray = new String[1];
+			h = "";
+			for(String c : currentHand) if(c!=null) h = h + c + " ";
+			h = h+cardArrayToString(set.toArray(stringArray));
+			try{
+				equity += HandEvaluator.rankHand(new Hand(h));
+				//System.out.println(h+" : "+rank);
 
+			}catch(Exception e){
+				System.out.println(h);
+				e.printStackTrace();
+				System.exit(1);
 			}
+
 		}
 
-		System.out.println(search);
-
-		System.out.println(HandEvaluator.rankHand(new Hand("As Ks Ts 9s 6s")));
-
-		System.out.println(handIDs.get(search));
+		System.out.println("BOOM!: "+equity/list.size());
 
 
 	}
