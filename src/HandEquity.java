@@ -10,6 +10,7 @@ import java.util.HashMap;
 import java.util.*;
 
 public class HandEquity{
+
 	
 	public static String[] cards = {
 		"As","Ks","Qs","Js","Ts","9s","8s","7s","6s","5s","4s","3s","2s",
@@ -17,9 +18,12 @@ public class HandEquity{
 		"Ac","Kc","Qc","Jc","Tc","9c","8c","7c","6c","5c","4c","3c","2c",
 		"Ad","Kd","Qd","Jd","Td","9d","8d","7d","6d","5d","4d","3d","2d",};
 
-	public static void main(String[] args){
+	public static String[] currentHand = new String[7];
 
-		String[] currentHand = new String[7];
+	public static double totalEquity = 0;
+	public static int handsEvaluated = 0;
+
+	public static void main(String[] args){
 
 		ArrayList<String> cardArrayList = (ArrayList<String>)arrayToArrayList(cards);
 
@@ -31,34 +35,16 @@ public class HandEquity{
 		if(args.length > 5) currentHand[5] = args[5];
 
 		for(String c : currentHand) cardArrayList.remove(c);
-		
+
 		int k = 7- (52 - cardArrayList.size());
 			
 		System.out.println("Building Sets of "+k+"...");
 
 		List<Set<String>> list = getSubsets(cardArrayList,k);
 
-		String h;
-		
-		double equity = 0;
-		for(Set<String> set : list){
-			String[] stringArray = new String[1];
-			h = "";
-			for(String c : currentHand) if(c!=null) h = h + c + " ";
-			h = h+cardArrayToString(set.toArray(stringArray));
-			try{
-				equity += HandEvaluator.rankHand(new Hand(h));
-				//System.out.println(h+" : "+rank);
+		totalEquity /= handsEvaluated;
 
-			}catch(Exception e){
-				System.out.println(h);
-				e.printStackTrace();
-				System.exit(1);
-			}
-
-		}
-
-		System.out.println("BOOM!: "+equity/list.size());
+		System.out.println("EQ:"+totalEquity);
 
 
 	}
@@ -66,7 +52,7 @@ public class HandEquity{
 	//Convert an array of cards into a hand string
 	public static String cardArrayToString(String[] cards){
 		String hand = "";
-		for(String c: cards) hand = hand+c+" ";
+		for(String c: cards) if(c!=null) hand = hand+c+" ";
 		hand = hand.trim();
 		return hand;
 	}
@@ -86,7 +72,12 @@ public class HandEquity{
 	private static void getSubsets(List<String> superSet, int k, int idx, Set<String> current,List<Set<String>> solution) {
 	    //successful stop clause
 	    if (current.size() == k) {
-	        solution.add(new HashSet<>(current));
+	        //solution.add(new HashSet<>(current));
+	        String h = "";
+	        h = h+cardArrayToString(currentHand)+" ";
+	        for(String c : current) h = h + c + " ";
+	        totalEquity += HandEvaluator.rankHand(new Hand(h));
+	        handsEvaluated++;
 	        return;
 	    }
 	    //unseccessful stop clause
