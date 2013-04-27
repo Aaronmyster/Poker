@@ -18,7 +18,7 @@ import java.util.Date;
  * Interface uses Polo to convert the actions at the table to instances,
  * and then passes the instances to the model, which then classifies the instance into an action that 
  * an experimenter can then carry out.
- * 
+ *
  * Type "?" for a list of commands that interface will perform.
  * 
  */
@@ -27,9 +27,6 @@ public class Interface{
 
 	
 	//--Interface variables--
-	public static String[] move;
-	public static int i;
-	
 	public static String[][] commands;
 	public static int command = -1;
 	public static String input;
@@ -45,9 +42,6 @@ public class Interface{
 	public static Attribute PotOdds;
 	public static Attribute Turn;
 	public static Attribute TablePosition;
-	public static Attribute BigBlindsLeft;
-	public static Attribute Aggression;
-	public static Attribute NumberOfPlayersLeft;
 	public static Attribute HandRank;
 	public static Attribute Decision;
 	public static FastVector features;
@@ -167,48 +161,10 @@ public class Interface{
 		
 		game = new Polo(player);
 		initialSetupDebug();
-		loadClassifier("Bagging.model");
+		loadClassifier("../Models/Reptree.model");
 		initializeWekaAttributes();
 		
-		
-		
-		
-		/*
-		 for (int i = 0; i < 52; i++){
-	            int rand = (int)(Math.random()*(i + 1));
-	            Int Deck[i] = rand;
-	     
-	        }
-	
-		cards = new Card[52];
-        int index = 0;
-        for (int suit = 0; suit <= 3; suit++) {
-            for (int rank = 1; rank <= 13; rank++) {
-                cards[index] = new Card (suit, rank);
-                index++;
-            }
-        }
-        
-		
-		
-		
-		move = new String[5];
-		
-		i = new Integer(1);
-		//in = new BufferedReader(new InputStreamReader(System.in));
-		String move[]={"addplayer Alan","newhand","dealt A"
-		
-		InputStream movetemp = new ByteArrayInputStream(move[i].getBytes());
-		
-		BufferedReader in = new BufferedReader(new InputStreamReader(movetemp));
-		
-		*/
-		
 		in = new BufferedReader(new InputStreamReader(System.in));
-		
-		
-		
-		
 		
 		//THE MAIN LOOP!
 		while(command != 0){
@@ -297,15 +253,12 @@ public class Interface{
 	}
 
 	public static void classify(){
-		instance = new Instance(8);
+		instance = new Instance(5);
 
 		instance.setValue((Attribute)features.elementAt(0),game.getPotOdds());
 		instance.setValue((Attribute)features.elementAt(1),game.getTurn());
 		instance.setValue((Attribute)features.elementAt(2),game.getTablePosition());
-		instance.setValue((Attribute)features.elementAt(3),game.getBigBlindsLeft());
-		instance.setValue((Attribute)features.elementAt(4),game.getAggressionOfRemainingPlayers());
-		instance.setValue((Attribute)features.elementAt(5),game.getNumberOfRemainingPlayers());
-		instance.setValue((Attribute)features.elementAt(6),game.getHandRank());
+		instance.setValue((Attribute)features.elementAt(3),game.getHandRank());
 		instance.setDataset(instances);
 		double[] fDistribution = new double[0];
 		try {
@@ -313,24 +266,35 @@ public class Interface{
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		output("CHECK/FOLD: "+fDistribution[0]);
-		output("CALL:       "+fDistribution[1]);
-		output("RAISE/BET:  "+fDistribution[2]);
+		output("FOLD: "+fDistribution[0]);
+		output("RAISE:       "+fDistribution[1]);
+		output("BET:  "+fDistribution[2]);
+		output("CHECK:       "+fDistribution[3]);
+		output("CALL:  "+fDistribution[4]);
+	//	output(""+fDistribution);
 		
-		if(fDistribution[0]>fDistribution[1]&&fDistribution[0]>fDistribution[2]){
-			if(game.getAmountToCall()>0){
-				output_speak("i think i should fold...");
-			}else{
-				output_speak("i think i will check");
-			}
-		}else if(fDistribution[1]>fDistribution[0]&&fDistribution[1]>fDistribution[2]){
+		double max = 0;
+		for (int i = 0; i < fDistribution.length; i++) 
+        {
+            if(max < fDistribution[i])
+            {
+               max = fDistribution[i]; 
+            }
+        }
+		
+		output(""+max);
+		if(fDistribution[0]==max){
+			output_speak("i think i should fold...");
+		}else if(fDistribution[3]==max){
+			output_speak("i think i will check");
+		}else if(fDistribution[4]==max){
 			output_speak("i think i should call "+game.getAmountToCall()+" cents.");
-		}else if(fDistribution[2]>fDistribution[0]&&fDistribution[2]>fDistribution[0]){
+		}else{
 			int random = (int)(Math.random()*10);
 			System.out.println("BigBlind: "+game.bigBlind+", Random: "+random);
 			System.out.println((int)((fDistribution[2])*game.bigBlind*random));
 			int raiseAmount = Math.max(game.getAmountToCall(),Math.max(game.bigBlind, ((int)((fDistribution[2])*game.bigBlind*random)/game.bigBlind) * game.bigBlind));
-			if((game.getAmountToCall()+raiseAmount)>game.chipStack)
+			if((game.getAmountToCall()+raiseAmount)> 0.6 * game.chipStack)
 				output_speak("i am all in!");
 			else if(game.getAmountToCall()==0)
 				output_speak("i will bet "+raiseAmount+" cents.");
@@ -357,9 +321,6 @@ public class Interface{
 		fvNom.addElement("river");
 		Turn = new Attribute("Turn",fvNom);
 		TablePosition = new Attribute("TablePosition");
-		BigBlindsLeft= new Attribute("BigBlindsLeft");
-		Aggression = new Attribute("Aggression");
-		NumberOfPlayersLeft = new Attribute("NumberOfPlayersLeft");
 		HandRank = new Attribute("HandRank");
 		FastVector fvClass = new FastVector(3);
 		fvClass.addElement("checkfold");
@@ -370,13 +331,10 @@ public class Interface{
 		features.addElement(PotOdds);
 		features.addElement(Turn);
 		features.addElement(TablePosition);
-		features.addElement(BigBlindsLeft);
-		features.addElement(Aggression);
-		features.addElement(NumberOfPlayersLeft);
 		features.addElement(HandRank);
 		features.addElement(Decision);
 		instances = new Instances("Rel",features,10);
-		instances.setClassIndex(7);
+		instances.setClassIndex(4);
 	}
 	
 	public static void newHand(){
@@ -409,9 +367,6 @@ public class Interface{
 		output("Pot Odds: "+game.getPotOdds());
 		output("Turn: "+game.turn);
 		output("Table Position: "+game.getTablePosition());
-		output("BigBlindsLeft: "+game.getBigBlindsLeft());
-		output("Aggression: "+game.getAggressionOfRemainingPlayers());
-		output("Players left: "+game.getNumberOfRemainingPlayers());
 		output("Hand Rank: "+game.getHandRank());
 	}
 	
@@ -564,9 +519,9 @@ public class Interface{
 		output_speak("Big blind set to " + game.bigBlind);
 	}
 	
-	//public static void evaluateHand(String str){
-	//	handRank = HandEvaluator.rankHand(new Hand(str.substring(str.indexOf("["),str.lastIndexOf("]"))));
-	//}
+//	public static void evaluateHand(String str){
+//		handRank = HandEvaluator.rankHand(new Hand(str.substring(str.indexOf("["),str.lastIndexOf("]"))));
+//	}
 	
 	public static void initialSetup(){
 		output_speak("---Initial Setup---");
