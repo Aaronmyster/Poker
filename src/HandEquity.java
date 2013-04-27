@@ -26,7 +26,7 @@ public class HandEquity{
 	public static double totalEquity = 0;
 	public static int handsEvaluated = 0;
 
-	public static ArrayList<String> cardArrayList = (ArrayList<String>)arrayToArrayList(cards);
+	public static ArrayList<String> cardArrayList;
 
 	public static void main(String[] args){
 
@@ -40,9 +40,25 @@ public class HandEquity{
 		if(args.length > 5) currentHand[5] = args[5];
 		if(args.length > 6) currentHand[6] = args[6];
 
+		String c1 = "";  
+		String c2 = "";  
+		String f1 = "";  
+		String f2 = "";  
+		String f3 = "";  
+		String t = "";  
+		String r = "";  
+
+		if(currentHand[0]!=null) c1 = currentHand[0];
+		if(currentHand[1]!=null) c2 = currentHand[1];
+		if(currentHand[2]!=null) f1 = currentHand[2];
+		if(currentHand[3]!=null) f2 = currentHand[3];
+		if(currentHand[4]!=null) f3 = currentHand[4];
+		if(currentHand[5]!=null) t = currentHand[5];
+		if(currentHand[6]!=null) r = currentHand[6];
 
 		currentHandString = cardArrayToString(currentHand);
 
+		cardArrayList = (ArrayList<String>)arrayToArrayList(cards);
 		for(String c : currentHand) cardArrayList.remove(c);
 
 		int k = 7- (52 - cardArrayList.size());
@@ -51,30 +67,36 @@ public class HandEquity{
 
 		
 
-		int r = HandEvaluator.rankHand(new Hand(cardArrayToString(currentHand)));
-		int r2 = HandEvaluator.rankHand(new Hand(currentHand[0]+" "+currentHand[1]));	
+		//int r = HandEvaluator.rankHand(new Hand(cardArrayToString(currentHand)));
+		//int r2 = HandEvaluator.rankHand(new Hand(currentHand[0]+" "+currentHand[1]));	
 		
 
-		System.out.println("Rank of hand: "+cardArrayToString(currentHand)+" : "+r);
-		System.out.println("Rank of whole: "+cardArrayToString(currentHand)+" : "+r2);
-		System.out.println("Rank of hand+whole: "+cardArrayToString(currentHand)+" : "+(r+r2));
+		//System.out.println("Rank of hand: "+cardArrayToString(currentHand)+" : "+r);
+		//System.out.println("Rank of whole: "+cardArrayToString(currentHand)+" : "+r2);
+		//System.out.println("Rank of hand+whole: "+cardArrayToString(currentHand)+" : "+(r+r2));
 		
 		
 		long startTime = System.nanoTime();
-		if(k==5){
-			evaluateTwoCardHand(cardArrayToString(currentHand));
-		}else{
-			List<Set<String>> list = getSubsets(cardArrayList,k);
-		}
+		//if(k==5){
+		//	evaluateTwoCardHand(cardArrayToString(currentHand));
+		//}else{
+		//	List<Set<String>> list = getSubsets(cardArrayList,k);
+		//}
+		
+		double community = HandEquity.rankHand(f1+" "+f2+" "+f3+" "+t+" "+r);
+		double ourHand = HandEquity.rankHand(c1+" "+c2+" "+f1+" "+f2+" "+f3+" "+t+" "+r);
+
+		System.out.println("Community: "+community);
+		System.out.println("OurHand: "+ourHand);
+		System.out.println("Output: "+(ourHand/community));
+
 		long endTime = System.nanoTime();
-
-
 		System.out.println("Total Time: "+((endTime-startTime)/1000000));
-
-		totalEquity /= handsEvaluated;
-
-		System.out.println("EQ:"+totalEquity);
-		System.out.println("Total Hands Evaluated: "+handsEvaluated);
+//
+		//totalEquity /= handsEvaluated;
+//
+		//System.out.println("EQ:"+totalEquity);
+		//System.out.println("Total Hands Evaluated: "+handsEvaluated);
 
 
 	}
@@ -83,11 +105,24 @@ public class HandEquity{
 		currentHandString = hand;
 		currentHand = hand.split(" ");
 
+		totalEquity = 0;
+		handsEvaluated = 0;
+
+		cardArrayList = (ArrayList<String>)arrayToArrayList(cards);
 		for(String c : currentHand) cardArrayList.remove(c);
 
 		int k = 7- (52 - cardArrayList.size());
 
-		List<Set<String>> list = getSubsets(cardArrayList,k);
+		if(k==5){
+			//System.out.println("TWO CARDS: "+k+" "+currentHandString);
+			evaluateTwoCardHand(cardArrayToString(currentHand));
+		}else{
+			//System.out.println("MORE CARDS: "+k+" "+currentHandString);
+			List<Set<String>> list = getSubsets(cardArrayList,k);
+		}
+
+		//System.out.println("Total Equity: "+totalEquity);
+		//System.out.println("Total Hands : "+handsEvaluated);
 
 		totalEquity /= handsEvaluated;
 
@@ -164,8 +199,6 @@ public class HandEquity{
 		hand = removeSuite(hand,"s");
 		hand = removeSuite(hand,"d");
 		hand = removeSuite(hand,"c");
-
-		System.out.println(hand);
 
 		totalEquity = 169 - preflopList().indexOf(hand);
 		handsEvaluated = 1;		

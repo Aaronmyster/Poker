@@ -579,9 +579,14 @@ public class Polo {
 	}
 
 	public double getHandEquity(){
-		
-		return HandEquity.rankHand(c1+" "+c2+" "+f1+" "+f2+" "+f3+" "+t+" "+r);
-		
+
+		if(f1.equals("")){
+			return HandEquity.rankHand(c1+" "+c2);
+		}else{
+			double community = HandEquity.rankHand(f1+" "+f2+" "+f3+" "+t+" "+r);
+			double ourHand = HandEquity.rankHand(c1+" "+c2+" "+f1+" "+f2+" "+f3+" "+t+" "+r);
+			return ourHand / community;
+		}
 	}
 
 	public String getState() throws Exception{
