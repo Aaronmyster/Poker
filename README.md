@@ -8,7 +8,8 @@ Things to do
 ------------
 
 ### Things For Aaron To Do ###
-* Find a server we can use (Alan's Laptop?... My laptop?...)
+* Get the interface working
+* Add HandEquity to the interface
 * Read on how to set up a tomcat server (Java based server)
 * Install Apache
 * Install Tomcat
@@ -18,6 +19,7 @@ Things to do
 * Set up the bot on Robopoker.org
 
 ### Things for Alan To Do ###
+* Rebuild Classifier 
 * Experiment with different classifiers
 * Experiment with different features
 * Generate a model file using the best classifier/features
