@@ -8,7 +8,6 @@ Things to do
 ------------
 
 ### Things For Aaron To Do ###
-* Add Alan as a contributer
 * Find a server we can use (Alan's Laptop?... My laptop?...)
 * Read on how to set up a tomcat server (Java based server)
 * Install Apache
@@ -19,8 +18,6 @@ Things to do
 * Set up the bot on Robopoker.org
 
 ### Things for Alan To Do ###
-* Install Git
-* Set up a Github account
 * Experiment with different classifiers
 * Experiment with different features
 * Generate a model file using the best classifier/features
