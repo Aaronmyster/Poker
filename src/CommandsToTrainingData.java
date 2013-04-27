@@ -48,8 +48,11 @@ public class CommandsToTrainingData{
 
 			game = new Polo(playerName);
 			BufferedReader in = new BufferedReader(new FileReader(inputFile));
+
+			long startTime = System.nanoTime();
 			while (((str = in.readLine()) != null)){
 				line++;
+				if( line % 100 == 0) System.err.println(line+" : "+((System.nanoTime()-startTime)/1000000000)+" seconds");
 				s = processLine(str);
 				if(!s.equals("")) System.out.println(s);
 
