@@ -578,6 +578,12 @@ public class Polo {
 		
 	}
 
+	public double getHandEquity(){
+		
+		return HandEquity.rankHand(c1+" "+c2+" "+f1+" "+f2+" "+f3+" "+t+" "+r);
+		
+	}
+
 	public String getState() throws Exception{
 
 		String output = "";
@@ -589,6 +595,7 @@ public class Polo {
 		output = output.concat((getAggressionOfRemainingPlayers()+","));
 		output = output.concat((getNumberOfRemainingPlayers()+","));
 		output = output.concat((getHandRank()+","));
+		output = output.concat((getHandEquity()+","));
 
 		return output;
 		

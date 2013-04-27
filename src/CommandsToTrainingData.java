@@ -16,7 +16,7 @@ public class CommandsToTrainingData{
 		//Parameters are an input file name, and an output file name...
 		checkParameters(args);
 
-		System.out.println("HandID,PotOdds,Turn,TablePosition,BigBlindsLeft,Aggression,NumberOfPlayersLeft,HandRank,Decision");
+		System.out.println("HandID,PotOdds,Turn,TablePosition,BigBlindsLeft,Aggression,NumberOfPlayersLeft,HandRank,HandEquity,Decision");
 		
 		try{
 			File f = new File(inputFileName);

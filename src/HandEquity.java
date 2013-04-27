@@ -19,13 +19,16 @@ public class HandEquity{
 		"Ad","Kd","Qd","Jd","Td","9d","8d","7d","6d","5d","4d","3d","2d",};
 
 	public static String[] currentHand = new String[7];
+	public static String currentHandString = "";
 
 	public static double totalEquity = 0;
 	public static int handsEvaluated = 0;
 
+	public static ArrayList<String> cardArrayList = (ArrayList<String>)arrayToArrayList(cards);
+
 	public static void main(String[] args){
 
-		ArrayList<String> cardArrayList = (ArrayList<String>)arrayToArrayList(cards);
+		
 
 		currentHand[0] = args[0];
 		currentHand[1] = args[1];
@@ -33,6 +36,8 @@ public class HandEquity{
 		if(args.length > 3) currentHand[3] = args[3];
 		if(args.length > 4) currentHand[4] = args[4];
 		if(args.length > 5) currentHand[5] = args[5];
+
+		currentHandString = cardArrayToString(currentHand);
 
 		for(String c : currentHand) cardArrayList.remove(c);
 
@@ -47,6 +52,21 @@ public class HandEquity{
 		System.out.println("EQ:"+totalEquity);
 
 
+	}
+
+	public static double rankHand(String hand){
+		currentHandString = hand;
+		currentHand = hand.split(" ");
+
+		for(String c : currentHand) cardArrayList.remove(c);
+
+		int k = 7- (52 - cardArrayList.size());
+
+		List<Set<String>> list = getSubsets(cardArrayList,k);
+
+		totalEquity /= handsEvaluated;
+
+		return totalEquity;
 	}
 
 	//Convert an array of cards into a hand string
@@ -74,7 +94,7 @@ public class HandEquity{
 	    if (current.size() == k) {
 	        //solution.add(new HashSet<>(current));
 	        String h = "";
-	        h = h+cardArrayToString(currentHand)+" ";
+	        h = h+currentHandString+" ";
 	        for(String c : current) h = h + c + " ";
 	        totalEquity += HandEvaluator.rankHand(new Hand(h));
 	        handsEvaluated++;
