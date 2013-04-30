@@ -1,7 +1,11 @@
 import java.util.ArrayList;
+
+import javax.sound.midi.Synthesizer;
 import javax.speech.*;
 import javax.speech.synthesis.*;
+
 import com.sun.speech.freetts.jsapi.*;
+
 import java.util.Locale;
 import java.util.StringTokenizer;
 import java.io.*;
@@ -65,31 +69,12 @@ public class Interface{
 	public static Synthesizer synthesizer;
 	// Text to speach for the human game. (REQUIRES 3RD PARTY LIBRARIES TO BE INSTALLED ON COMPUTER)
 	// freetts.sourceforge.net for more info
-	public static boolean SPEECH = true;
+	public static boolean SPEECH = false;
 	
 
 	public static void main(String[]args) {
 		//Set up text to speech
-		if(SPEECH){
-			try {
-				SynthesizerModeDesc desc = new SynthesizerModeDesc(null, "general", Locale.US, Boolean.FALSE, null);
-	            FreeTTSEngineCentral central = new FreeTTSEngineCentral();
-	            EngineList list = central.createEngineList(desc);
-	            if (list.size() > 0) { 
-	                EngineCreate creator = (EngineCreate) list.get(0); 
-	                synthesizer = (Synthesizer) creator.createEngine(); 
-	            } 
-	            if (synthesizer == null) {
-	                System.err.println("Cannot create synthesizer");
-	                System.exit(1);
-	            }
-	            synthesizer.allocate();
-	            synthesizer.resume();
-	            
-	        } catch (Exception e) {
-	            e.printStackTrace();
-	        }
-        }
+		
 		//startLogging();
 		
 		//--ATTRIBUTES--
@@ -161,10 +146,14 @@ public class Interface{
 		
 		game = new Polo(player);
 		initialSetupDebug();
-		loadClassifier("../Models/Reptree.model");
+		loadClassifier("../Reptree2.model");
 		initializeWekaAttributes();
 		
 		in = new BufferedReader(new InputStreamReader(System.in));
+		
+		game.addPlayer("bob");
+		game.smallBlind=1;
+		game.bigBlind=2;
 		
 		//THE MAIN LOOP!
 		while(command != 0){
@@ -258,7 +247,7 @@ public class Interface{
 		instance.setValue((Attribute)features.elementAt(0),game.getPotOdds());
 		instance.setValue((Attribute)features.elementAt(1),game.getTurn());
 		instance.setValue((Attribute)features.elementAt(2),game.getTablePosition());
-		instance.setValue((Attribute)features.elementAt(3),game.getHandRank());
+		instance.setValue((Attribute)features.elementAt(3),game.getHandEquity());
 		instance.setDataset(instances);
 		double[] fDistribution = new double[0];
 		try {
@@ -374,14 +363,14 @@ public class Interface{
 		st.nextToken();
 		String r = st.nextToken();
 		game.DealRiver(r);
-		output("Dealt some cards. HR = "+game.getHandRank());
+		output("Dealt some cards. HR = "+game.getHandEquity());
 	}
 	
 	public static void turn(StringTokenizer st) throws Exception{
 		st.nextToken();
 		String t = st.nextToken();
 		game.DealTurn(t);
-		output("Dealt some cards. HR = "+game.getHandRank());
+		output("Dealt some cards. HR = "+game.getHandEquity());
 	}
 	
 	public static void flop(StringTokenizer st) throws Exception{
@@ -390,7 +379,7 @@ public class Interface{
 		String f2 = st.nextToken();
 		String f3 = st.nextToken();
 		game.DealFlop(f1,f2,f3);
-		output("Dealt some cards. HR = "+game.getHandRank());
+		output("Dealt some cards. HR = "+game.getHandEquity());
 	}
 	
 	public static void dealt(StringTokenizer st) throws Exception{
@@ -398,7 +387,7 @@ public class Interface{
 		String c1 = st.nextToken();
 		String c2 = st.nextToken();
 		game.DealHand(c1, c2);
-		output("Dealt some cards. HR = "+game.getHandRank());		
+		output("Dealt some cards. HR = "+game.getHandEquity());		
 	}
 	
 	public static void raise(StringTokenizer st) throws Exception{
@@ -581,7 +570,7 @@ public class Interface{
 
 	public static void output_speak(String s){
 		System.out.println(s);
-		speak(s);
+		
 		
 		if(loggingEnabled){
 			try{
@@ -613,7 +602,7 @@ public class Interface{
 	public static void speak(String s){
 		if(SPEECH){
 			try{
-				synthesizer.speakPlainText(s, null);
+//				synthesizer.speakPlainText(s, null);
 			}catch(Exception e){
 				e.printStackTrace();
 			}
