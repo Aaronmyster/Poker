@@ -162,12 +162,12 @@ public class Interface{
 			try {
 				in_str = in.readLine().toLowerCase();
 			} catch (IOException ioe) {
-				output_speak("IO error trying to read input!");
+				//output_speak("IO error trying to read input!");
 			}
 			runCommand(in_str);	
 			
 		}
-		output_speak("Goodbye...");
+		//output_speak("Goodbye...");
 		System.exit(0);		
 
 	}
@@ -184,7 +184,7 @@ public class Interface{
 		}
 		try{
 			switch(command){
-			case -1: output_speak("Command "+in_str+" not found...");
+			case -1: //output_speak("Command "+in_str+" not found...");
 			break;
 			case 1:	listCommands();
 			break;
@@ -282,8 +282,8 @@ public class Interface{
 			int random = (int)(Math.random()*10);
 			System.out.println("BigBlind: "+game.bigBlind+", Random: "+random);
 			System.out.println((int)((fDistribution[2])*game.bigBlind*random));
-			int raiseAmount = Math.max(game.getAmountToCall(),Math.max(game.bigBlind, ((int)((fDistribution[2])*game.bigBlind*random)/game.bigBlind) * game.bigBlind));
-			if((game.getAmountToCall()+raiseAmount)> 0.6 * game.chipStack)
+			int raiseAmount = Math.max(game.getAmountToCall()*3,game.getPotSize());
+			if((game.getAmountToCall()+raiseAmount)> 0.7 * game.chipStack)
 				output_speak("i am all in!");
 			else if(game.getAmountToCall()==0)
 				output_speak("i will bet "+raiseAmount+" cents.");
@@ -354,9 +354,12 @@ public class Interface{
 		output("--Current Instance:--");
 		output("Chipstack: "+game.chipStack);
 		output("Pot Odds: "+game.getPotOdds());
-		output("Turn: "+game.turn);
+		output("Turn: "+game.getTurn());
 		output("Table Position: "+game.getTablePosition());
-		output("Hand Rank: "+game.getHandRank());
+		output("Hand Rank: "+game.getHandEquity());
+		output("PotSize: "+game.getPotSize());
+		output("Hole Cards: "+game.c1+" "+game.c2);
+		output("Community Cards: "+" "+game.f1+" "+game.f2+" "+game.f3+" "+game.t+" "+game.r);
 	}
 	
 	public static void river(StringTokenizer st) throws Exception{
