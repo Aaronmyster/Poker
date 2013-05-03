@@ -201,6 +201,11 @@ public class HandEquity{
 		hand = removeSuite(hand,"c");
 
 		totalEquity = 169 - preflopList().indexOf(hand);
+
+		if(totalEquity==170) System.err.println("Could not rank : "+hand);
+
+		totalEquity /= 169;
+		
 		handsEvaluated = 1;		
 
 	}
@@ -220,19 +225,19 @@ public class HandEquity{
 		out.add("AKS");
 		out.add("JJ");
 		out.add("AQS");
-		out.add("QKS");
+		out.add("KQS");
 		out.add("AJS");
 		out.add("AK");
 		out.add("ATS");
 		out.add("JKS");
 		out.add("TT");
 		out.add("JQS");
-		out.add("TKS");
+		out.add("KTS");
 		out.add("QTS");
 		out.add("JTS");
 		out.add("AQ");
 		out.add("9AS");
-		out.add("QK");
+		out.add("KQ");
 		out.add("AJ");
 		out.add("8AS");
 		out.add("99");
@@ -249,7 +254,7 @@ public class HandEquity{
 		out.add("JQ");
 		out.add("2AS");
 		out.add("6AS");
-		out.add("TK");
+		out.add("KT");
 		out.add("8KS");
 		out.add("88");
 		out.add("JT");

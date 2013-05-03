@@ -1,0 +1,548 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getO",
+				"getOrderedHandString"
+			],
+			[
+				"allPo",
+				"allPossibleHands"
+			],
+			[
+				"heal",
+				"headlineHashMap"
+			],
+			[
+				"headlin",
+				"headlineHashMap"
+			],
+			[
+				"headl",
+				"headlineHashMap"
+			],
+			[
+				"aver",
+				"averageDocLen"
+			],
+			[
+				"Douc",
+				"DocumentWeightStruct"
+			],
+			[
+				"Document",
+				"DocumentWeightStruct"
+			],
+			[
+				"Docu",
+				"DocumentWeightStruct"
+			],
+			[
+				"queryDoc",
+				"queryDocumentIndex"
+			],
+			[
+				"query",
+				"queryDocumentIndex"
+			],
+			[
+				"queryDo",
+				"queryDocumentList"
+			],
+			[
+				"maxtf",
+				"maxtfHashMap"
+			],
+			[
+				"total_",
+				"total_startTime"
+			],
+			[
+				"annotate",
+				"annotatedFiles"
+			],
+			[
+				"annota",
+				"annotatedFilesArray"
+			],
+			[
+				"returnArr",
+				"returnArrayList"
+			],
+			[
+				"out",
+				"outputFileName"
+			],
+			[
+				"array",
+				"arrayListToFile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/Interface.java",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/make",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/CommandsToTrainingData.java",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"mote",
+				"Mote"
+			],
+			[
+				"mo",
+				"Mote"
+			],
+			[
+				"PACKA ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 151.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Aaron/Poker/notes/notes.txt",
+		"/C/Users/Aaron/Poker/src/HandEquity.java",
+		"/C/Users/Aaron/Poker/src/Polo.java",
+		"/C/Users/Aaron/Poker/notes.txt",
+		"/C/Users/Aaron/Poker/src/HandEvaluator.java",
+		"/C/Users/Aaron/Documents/Poker2/src/HandEvaluator.java",
+		"/C/Users/Aaron/Documents/Poker2/src/Card.java",
+		"/C/Users/Aaron/Documents/Poker2/src/out.txt",
+		"/C/Users/Aaron/Documents/Poker2/src/Polo.java",
+		"/C/Users/Aaron/Documents/Poker2/src/Interpreter.java",
+		"/C/Users/Aaron/Documents/Poker2/src/HistoryToCommands.java",
+		"/C/Users/Aaron/Documents/Poker2/src/CommandsToTrainingData.java",
+		"/C/Users/Aaron/Documents/Poker2/data/HH20080804 T99187866 No Limit Hold'em $5 + $0.50.txt",
+		"/C/Users/Aaron/Documents/Poker2/data/HH20080801 Edasich V no all-in - $0.10-$0.25 - Pot Limit Hold'em.txt",
+		"/C/Users/Aaron/Documents/Poker2/src/training.csv",
+		"/C/Users/Aaron/Documents/Poker2/data/HH20080804 T100124492 No Limit Hold'em $10 + $1.txt",
+		"/C/Users/Aaron/Documents/Poker2/data/HH20080802 Irene IV fast, no all-in - $0.10-$0.25 - No Limit Hold'em.txt",
+		"/C/Users/Aaron/Documents/Poker2/src/test.txt",
+		"/C/Users/Aaron/Documents/Poker2/data/HH20080801 Michela III fast, no all-in - $0.10-$0.25 - No Limit Hold'em.txt",
+		"/C/Users/Aaron/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/Aaron/src/GenerateFolds.java",
+		"/C/Users/Aaron/src/gazetteer.java",
+		"/C/Users/Aaron/src/FeatureExtractor.java",
+		"/C/Users/Aaron/src/CRFTrainer.java",
+		"/C/Users/Aaron/src/Experimenter.java",
+		"/C/Users/Aaron/Downloads/InformationRetrieval_Homework3/bin/Cranfield/cranfield0914",
+		"/C/Users/Aaron/Downloads/InformationRetrieval_Homework3/bin/Cranfield/cranfield0172",
+		"/C/Users/Aaron/Documents/My Dropbox/IR_Project/Aaron_Testing/Evaluate.java",
+		"/C/Users/Aaron/Documents/My Dropbox/IR_Project/Aaron_Testing/flattenDirectory.java",
+		"/C/Users/Aaron/Documents/My Dropbox/IR_Project/Aaron_Testing/clusteR.R",
+		"/C/Users/Aaron/Documents/My Dropbox/IR_Project/Aaron_Testing/gladeTesting.R",
+		"/C/Users/Aaron/Documents/My Dropbox/IR_Project/Aaron_Testing/documentNames.csv",
+		"/C/Users/Aaron/Documents/My Dropbox/IR_Project/Aaron_Testing/cluster.ui",
+		"/C/Users/Aaron/Downloads/InformationRetrieval_Homework3/bin/README",
+		"/C/Users/Aaron/Downloads/InformationRetrieval_Homework3/bin/queryOutput",
+		"/C/Users/Aaron/Documents/My Dropbox/IR_Project/Aaron_Testing/hmm.csv",
+		"/C/Users/Aaron/Downloads/InformationRetrieval_Homework3/README",
+		"/C/Users/Aaron/Downloads/InformationRetrieval_Homework3/bin/Cranfield/cranfield0429",
+		"/C/Users/Aaron/Downloads/InformationRetrieval_Homework3/bin/Cranfield/cranfield0486",
+		"/C/Users/Aaron/Downloads/InformationRetrieval_Homework3/bin/Cranfield/cranfield0878",
+		"/C/Users/Aaron/Documents/My Dropbox/IR_Project/Aaron_Testing/gui.R",
+		"/C/IRPROJECT/20news-18828_flat/sci.space.61130",
+		"/C/IRPROJECT/20news-18828/talk.politics.misc/176936",
+		"/C/IRPROJECT/20news-18828/sci.space/61129",
+		"/C/IRPROJECT/20news-18828_flat/sci.space.61129",
+		"/C/Users/Aaron/RScratch/stuff3.R",
+		"/C/Users/Aaron/RScratch/stuff2.R",
+		"/C/Users/Aaron/RScratch/stuff.R",
+		"/C/Users/Aaron/Documents/corpus.r",
+		"/C/Users/Aaron/Downloads/Cranfield/Cranfield/rs.RData",
+		"/C/Users/Aaron/Downloads/InformationRetrieval_Homework3/src/Query.java",
+		"/C/Users/Aaron/Downloads/InformationRetrieval_Homework3/src/Document.java",
+		"/C/Users/Aaron/Documents/Rstuff.R",
+		"/C/Users/Aaron/Downloads/Cranfield/Cranfield/history.Rhistory",
+		"/C/Users/Aaron/Documents/workplace/InformationRetrieval_Homework2/bin/output/index",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352875236/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/src/MakeClassifierTraining.java",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352910640/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/bin/makefile",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352909235/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/src/ClassifierTrainer.java",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352909413/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/src/Entity.java",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352910774/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/bin/training.txt",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352912918/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/src/MakeTraining.java",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1351545433/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/src/CRFTrainer.java",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352147221/hlt.json/shared/hltdir1/disk1/home/aaron/workspace/i2b2/i2b2_2009/src/CRFLabeler.java",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352159137/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/bin/labels",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352156065/hlt.json/shared/hltdir1/disk1/home/aaron/workspace/i2b2/i2b2_2009/bin/labels",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352150779/hlt.json/shared/hltdir1/disk1/home/aaron/workspace/i2b2/i2b2_2009/src/Utility.java",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352148272/hlt.json/shared/hltdir1/disk1/home/aaron/workspace/MalletCRF.java",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352051456/hlt.json/users/aaron/workspace/i2b2/mallet-2.0.7/src/cc/mallet/fst/SimpleTagger.java",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1351546241/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/src/MakeTraining.java",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352151701/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/src/FeatureExtractor.java",
+		"/C/Users/Aaron/Documents/workplace/InformationRetrieval_Homework2/CompressionTest.java",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352155929/hlt.json/shared/hltdir1/disk1/home/aaron/workspace/i2b2/i2b2_2009/bin/labels",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352155783/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/bin/labels",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352154009/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/bin/labels",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352151961/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/bin/labels",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352151482/hlt.json/shared/hltdir1/disk1/home/aaron/workspace/i2b2/i2b2_2009/bin/labels.txt",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352150561/hlt.json/shared/hltdir1/disk1/home/aaron/workspace/i2b2/i2b2_2009/bin/labels.txt",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352151404/hlt.json/shared/hltdir1/disk1/home/aaron/workspace/i2b2/i2b2_2009/bin/labels.txt",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352150461/hlt.json/shared/hltdir1/disk1/home/aaron/workspace/i2b2/i2b2_2009/bin/testing.txt",
+		"/C/Users/Aaron/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352149998/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/bin/labels.txt",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352149951/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/bin/labels.txt",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352149285/hlt.json/shared/hltdir1/disk1/home/aaron/workspace/i2b2/i2b2_2009/bin/labels.txt",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352050495/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/bin/testing.txt",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1352040136/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/src/CRFTrainer.java",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1351119226/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/src/CRFTrainer.java",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1351118307/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/src/FeatureExtractor.java",
+		"/C/users/aaron/appdata/local/temp/sublime-sftp-browse-1351118949/hlt.json/users/aaron/workspace/i2b2/i2b2_2009/src/Mallet.java",
+		"/C/Users/Aaron/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/hlt.json",
+		"/C/Users/Aaron/git/src/Tester.java",
+		"/C/Users/Aaron/git/src/Utility.java",
+		"/C/Users/Aaron/git/src/MakeTraining.java",
+		"/C/Users/Aaron/AppData/Roaming/Sublime Text 2/Packages/Mote/temp/HLT/workspace/i2b2/i2b2_2009/bin/training.txt",
+		"/C/Users/Aaron/git/src/FeatureExtractor.java",
+		"/C/Users/Aaron/AppData/Roaming/Sublime Text 2/Packages/Mote/temp/HLT/workspace/i2b2/i2b2_2009/src/Tester.java",
+		"/C/Users/Aaron/AppData/Roaming/Sublime Text 2/Packages/Mote/temp/HLT/workspace/i2b2/i2b2_2009/src/FeatureExtractor.java",
+		"/C/Users/Aaron/AppData/Roaming/Sublime Text 2/Packages/Mote/temp/HLT/workspace/i2b2/i2b2_2009/bin/test.txt",
+		"/C/Users/Aaron/AppData/Roaming/Sublime Text 2/Packages/Mote/temp/HLT/workspace/i2b2/i2b2_2009/src/MakeTraining.java",
+		"/C/Users/Aaron/AppData/Roaming/Sublime Text 2/Packages/Mote/servers.json",
+		"/C/Users/Aaron/AppData/Roaming/Sublime Text 2/Packages/Mote/temp/HLT/workspace/i2b2/i2b2_2009/src/Utility.java",
+		"/C/Users/Aaron/Documents/workplace/i2b2_2009/src/FeatureExtractor.java",
+		"/C/Users/Aaron/Documents/workplace/i2b2_2009/src/MakeTraining.java",
+		"/C/Users/Aaron/Documents/workplace/i2b2_2009/src/gazetteer.java",
+		"/C/Users/Aaron/Documents/workplace/i2b2_2009/src/Utility.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"output_speak",
+			"speak",
+			"[T|Q]K",
+			"170",
+			"[K|Q|J|T]Q",
+			"[K|Q|J|T]J",
+			"build",
+			"s",
+			"Sting",
+			" and is all-in",
+			"PokerStars Game #(\\d*):.*Hole'em.*",
+			"PokerStars Game #(\\d*): Hold'em.*",
+			" and is all-in",
+			"and is all-in",
+			"all",
+			"all in",
+			"flop",
+			"FLOP",
+			"player",
+			"chip",
+			"addPlayer",
+			"remove",
+			"RAISE",
+			"remove",
+			"leave",
+			"call",
+			"dealCards",
+			"(?<!\\)) is sitting out",
+			"is sitting out",
+			"ADD PLAYER",
+			"{",
+			" ",
+			"ante",
+			"\\{\\{",
+			"Alameda22",
+			"\\$",
+			"ADD PLAYER",
+			"\\\\[.*\",\"\"},",
+			"}\",",
+			"\"--NOMATCH--\"",
+			".*Seat #([1-9]) is the button",
+			".*is the button",
+			"NewHand",
+			"Itt",
+			"table2",
+			"buffer",
+			"/t",
+			"\\t",
+			"/t",
+			"\\\\t",
+			"\"queryOutput\"",
+			"documents",
+			"Collections.sort",
+			"match",
+			"pattern",
+			"regex",
+			".get",
+			"similariti",
+			"stop_hash",
+			"int",
+			"\\t(?!N)",
+			"\\tM",
+			"\\t(?!N)",
+			"\\tF",
+			"\\t(?!N)",
+			"\\tMEDICATION",
+			"MEDICATION",
+			"\\t(?!N)",
+			"\\t",
+			"MODE\\n",
+			"MEDICATION\\n",
+			"NONE\\n",
+			"MODE",
+			"Medication",
+			"TrainCRF",
+			"MEDICATION",
+			"instances",
+			"getFeatures",
+			"extractSequenceFeatures",
+			"arrayList",
+			"toArray",
+			"[report_end]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"output",
+			"S",
+			"String",
+			"",
+			"ADD_PLAYER",
+			"\\t",
+			"/t",
+			"\\t\"+\"",
+			"\\t",
+			"/t",
+			"outFile",
+			"double"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/Interface.java",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/make",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/CommandsToTrainingData.java",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 170.0
+	},
+	"output.sftp":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 398.0,
+	"status_bar_visible": true
+}

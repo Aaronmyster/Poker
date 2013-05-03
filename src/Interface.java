@@ -1,14 +1,11 @@
 import java.util.ArrayList;
-import javax.speech.*;
-import javax.speech.synthesis.*;
-import com.sun.speech.freetts.jsapi.*;
 import java.util.Locale;
 import java.util.StringTokenizer;
 import java.io.*;
+import java.util.Date;
 
 import weka.core.*;
 import weka.classifiers.*;
-import java.util.Date;
 
 /*--Interface--
  * 
@@ -62,34 +59,11 @@ public class Interface{
 	public static File inputLogFile;
 	public static boolean loggingEnabled;
 	
-	public static Synthesizer synthesizer;
-	// Text to speach for the human game. (REQUIRES 3RD PARTY LIBRARIES TO BE INSTALLED ON COMPUTER)
-	// freetts.sourceforge.net for more info
 	public static boolean SPEECH = true;
 	
 
 	public static void main(String[]args) {
-		//Set up text to speech
-		if(SPEECH){
-			try {
-				SynthesizerModeDesc desc = new SynthesizerModeDesc(null, "general", Locale.US, Boolean.FALSE, null);
-	            FreeTTSEngineCentral central = new FreeTTSEngineCentral();
-	            EngineList list = central.createEngineList(desc);
-	            if (list.size() > 0) { 
-	                EngineCreate creator = (EngineCreate) list.get(0); 
-	                synthesizer = (Synthesizer) creator.createEngine(); 
-	            } 
-	            if (synthesizer == null) {
-	                System.err.println("Cannot create synthesizer");
-	                System.exit(1);
-	            }
-	            synthesizer.allocate();
-	            synthesizer.resume();
-	            
-	        } catch (Exception e) {
-	            e.printStackTrace();
-	        }
-        }
+
 		//startLogging();
 		
 		//--ATTRIBUTES--
@@ -157,11 +131,11 @@ public class Interface{
 		//end commands
 		
 		//Initial set up
-		output_speak("POKERBOT HUMAN INTERFACE");
+		output("POKERBOT HUMAN INTERFACE");
 		
 		game = new Polo(player);
 		initialSetupDebug();
-		loadClassifier("../Models/Reptree.model");
+		loadClassifier("../Models/Bagging.model");
 		initializeWekaAttributes();
 		
 		in = new BufferedReader(new InputStreamReader(System.in));
@@ -173,12 +147,12 @@ public class Interface{
 			try {
 				in_str = in.readLine().toLowerCase();
 			} catch (IOException ioe) {
-				output_speak("IO error trying to read input!");
+				output("IO error trying to read input!");
 			}
 			runCommand(in_str);	
 			
 		}
-		output_speak("Goodbye...");
+		output("Goodbye...");
 		System.exit(0);		
 
 	}
@@ -195,7 +169,7 @@ public class Interface{
 		}
 		try{
 			switch(command){
-			case -1: output_speak("Command "+in_str+" not found...");
+			case -1: output("Command "+in_str+" not found...");
 			break;
 			case 1:	listCommands();
 			break;
@@ -284,22 +258,22 @@ public class Interface{
 		
 		output(""+max);
 		if(fDistribution[0]==max){
-			output_speak("i think i should fold...");
+			output("i think i should fold...");
 		}else if(fDistribution[3]==max){
-			output_speak("i think i will check");
+			output("i think i will check");
 		}else if(fDistribution[4]==max){
-			output_speak("i think i should call "+game.getAmountToCall()+" cents.");
+			output("i think i should call "+game.getAmountToCall()+" cents.");
 		}else{
 			int random = (int)(Math.random()*10);
 			System.out.println("BigBlind: "+game.bigBlind+", Random: "+random);
 			System.out.println((int)((fDistribution[2])*game.bigBlind*random));
 			int raiseAmount = Math.max(game.getAmountToCall(),Math.max(game.bigBlind, ((int)((fDistribution[2])*game.bigBlind*random)/game.bigBlind) * game.bigBlind));
 			if((game.getAmountToCall()+raiseAmount)> 0.6 * game.chipStack)
-				output_speak("i am all in!");
+				output("i am all in!");
 			else if(game.getAmountToCall()==0)
-				output_speak("i will bet "+raiseAmount+" cents.");
+				output("i will bet "+raiseAmount+" cents.");
 			else 
-				output_speak("i will see your "+game.getAmountToCall()+", and I will raise you "+raiseAmount+" cents.");
+				output("i will see your "+game.getAmountToCall()+", and I will raise you "+raiseAmount+" cents.");
 				
 		}
 	}
@@ -356,7 +330,7 @@ public class Interface{
 	}
 	
 	public static void win(){
-		output_speak("Sweet! I won a hand!");
+		output("Sweet! I won a hand!");
 		game.chipStack += game.getPotSize();
 		newHand();
 	}
@@ -510,13 +484,13 @@ public class Interface{
 	public static void setSmallBlind(StringTokenizer st){
 		st.nextToken();
 		game.smallBlind = Integer.parseInt(st.nextToken());
-		output_speak("Small blind set to "+game.smallBlind);
+		output("Small blind set to "+game.smallBlind);
 	}
 	
 	public static void setBigBlind(StringTokenizer st){
 		st.nextToken();
 		game.bigBlind = Integer.parseInt(st.nextToken());
-		output_speak("Big blind set to " + game.bigBlind);
+		output("Big blind set to " + game.bigBlind);
 	}
 	
 //	public static void evaluateHand(String str){
@@ -524,13 +498,13 @@ public class Interface{
 //	}
 	
 	public static void initialSetup(){
-		output_speak("---Initial Setup---");
-		output_speak("List players in order, starting from the person on your left. Leave a line blank when you are done.");
+		output("---Initial Setup---");
+		output("List players in order, starting from the person on your left. Leave a line blank when you are done.");
 		//Insert the names of the players, add the players as you go.
-		output_speak("Which player is the starting dealer?");
+		output("Which player is the starting dealer?");
 		//rotate the players until the dealer is 0...
-		output_speak("Small blind?");
-		output_speak("Big Blind?");	
+		output("Small blind?");
+		output("Big Blind?");	
 	}
 	
 	public static void initialSetupDebug(){
@@ -577,24 +551,7 @@ public class Interface{
 				e.printStackTrace();
 			}
 		}
-	}
-
-	public static void output_speak(String s){
-		System.out.println(s);
-		speak(s);
-		
-		if(loggingEnabled){
-			try{
-				outputLogWriter = new BufferedWriter(new FileWriter(outputLogFile, true));
-				outputLogWriter.write(s);
-				outputLogWriter.newLine();
-				outputLogWriter.close();
-			}catch(Exception e){
-				e.printStackTrace();
-			}
-		}
-	}
-	
+	}	
 	
 	public static void addToInputLog(String s){
 		if(loggingEnabled){
@@ -609,15 +566,5 @@ public class Interface{
 		}
 	}
 	
-	//Text to speech
-	public static void speak(String s){
-		if(SPEECH){
-			try{
-				synthesizer.speakPlainText(s, null);
-			}catch(Exception e){
-				e.printStackTrace();
-			}
-		}
-	}
 
 }
