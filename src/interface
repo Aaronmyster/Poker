@@ -1,2 +1,0 @@
-javac -classpath "../lib/weka.jar;./" Interface.java
-java -cp "../lib/weka.jar;./" Interface

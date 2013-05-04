@@ -1,0 +1,4 @@
+echo 'Building...'
+javac -classpath "../src" ../src/CommandsToTrainingData.java
+echo 'Running...'
+java -cp "../src" CommandsToTrainingData Alameda22 ../output/commands.txt > ../output/training.csv

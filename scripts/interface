@@ -1,0 +1,4 @@
+echo 'Building...'
+javac -classpath "../lib/weka.jar;../src" ../src/Interface.java
+echo 'Running...'
+java -cp "../lib/weka.jar;../src" Interface

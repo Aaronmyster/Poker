@@ -1,0 +1,4 @@
+echo 'Building...'
+javac -classpath "../src" ../src/HistoryToCommands.java
+echo 'Running...'
+java -cp "../src" HistoryToCommands ../data > ../output/commands.txt
