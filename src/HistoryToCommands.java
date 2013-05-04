@@ -77,7 +77,7 @@ public class HistoryToCommands{
 		{"(.*): posts big blind \\$?([\\d|\\.]*)","BIG_BLIND||1||2"},
 		{"(.*): posts small & big blinds \\$?([\\d|\\.]*)","SMALL_AND_BIG_BLINDS||1||2"},
 		{"Dealt to (.*) \\[(.*)\\]","DEAL_CARDS||1||2"},
-		{"(.*): calls \\$?([\\d|\\.]*.*)","CALL||1||2"},
+		{"(.*): calls \\$?([\\d|\\.]*).*","CALL||1||2"},
 		{"(.*): folds","FOLD||1"},
 		{"(.*): raises \\$?([\\d|\\.]*) to \\$?([\\d|\\.]*).*","RAISE||1||2||3"},
 		{"(.*): bets \\$?([\\d|\\.]*).*","BETS||1||2"},
