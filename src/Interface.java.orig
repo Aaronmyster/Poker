@@ -1,8 +1,14 @@
 import java.util.ArrayList;
+<<<<<<< HEAD
+=======
 
 import javax.sound.midi.Synthesizer;
+import javax.speech.*;
+import javax.speech.synthesis.*;
 
+import com.sun.speech.freetts.jsapi.*;
 
+>>>>>>> origin/master
 import java.util.Locale;
 import java.util.StringTokenizer;
 import java.io.*;
@@ -63,11 +69,23 @@ public class Interface{
 	public static File inputLogFile;
 	public static boolean loggingEnabled;
 	
-	public static boolean SPEECH = false;
+<<<<<<< HEAD
+	public static boolean SPEECH = true;
 	
 
 	public static void main(String[]args) {
 
+=======
+	public static Synthesizer synthesizer;
+	// Text to speach for the human game. (REQUIRES 3RD PARTY LIBRARIES TO BE INSTALLED ON COMPUTER)
+	// freetts.sourceforge.net for more info
+	public static boolean SPEECH = false;
+	
+
+	public static void main(String[]args) {
+		//Set up text to speech
+		
+>>>>>>> origin/master
 		//startLogging();
 		
 		//--ATTRIBUTES--
@@ -139,7 +157,11 @@ public class Interface{
 		
 		game = new Polo(player);
 		initialSetupDebug();
-		loadClassifier("../Models/Reptree2.model");
+<<<<<<< HEAD
+		loadClassifier("../Models/Bagging.model");
+=======
+		loadClassifier("../Reptree2.model");
+>>>>>>> origin/master
 		initializeWekaAttributes();
 		
 		in = new BufferedReader(new InputStreamReader(System.in));
@@ -155,12 +177,20 @@ public class Interface{
 			try {
 				in_str = in.readLine().toLowerCase();
 			} catch (IOException ioe) {
+<<<<<<< HEAD
 				output("IO error trying to read input!");
+=======
+				//output_speak("IO error trying to read input!");
+>>>>>>> origin/master
 			}
 			runCommand(in_str);	
 			
 		}
+<<<<<<< HEAD
 		output("Goodbye...");
+=======
+		//output_speak("Goodbye...");
+>>>>>>> origin/master
 		System.exit(0);		
 
 	}
@@ -177,7 +207,11 @@ public class Interface{
 		}
 		try{
 			switch(command){
+<<<<<<< HEAD
 			case -1: output("Command "+in_str+" not found...");
+=======
+			case -1: //output_speak("Command "+in_str+" not found...");
+>>>>>>> origin/master
 			break;
 			case 1:	listCommands();
 			break;
@@ -275,9 +309,15 @@ public class Interface{
 			int random = (int)(Math.random()*10);
 			System.out.println("BigBlind: "+game.bigBlind+", Random: "+random);
 			System.out.println((int)((fDistribution[2])*game.bigBlind*random));
+<<<<<<< HEAD
+			int raiseAmount = Math.max(game.getAmountToCall(),Math.max(game.bigBlind, ((int)((fDistribution[2])*game.bigBlind*random)/game.bigBlind) * game.bigBlind));
+			if((game.getAmountToCall()+raiseAmount)> 0.6 * game.chipStack)
+				output("i am all in!");
+=======
 			int raiseAmount = Math.max(game.getAmountToCall()*3,game.getPotSize());
 			if((game.getAmountToCall()+raiseAmount)> 0.7 * game.chipStack)
-				output("i am all in!");
+				output_speak("i am all in!");
+>>>>>>> origin/master
 			else if(game.getAmountToCall()==0)
 				output("i will bet "+raiseAmount+" cents.");
 			else 
@@ -562,7 +602,28 @@ public class Interface{
 				e.printStackTrace();
 			}
 		}
+<<<<<<< HEAD
 	}	
+=======
+	}
+
+	public static void output_speak(String s){
+		System.out.println(s);
+		
+		
+		if(loggingEnabled){
+			try{
+				outputLogWriter = new BufferedWriter(new FileWriter(outputLogFile, true));
+				outputLogWriter.write(s);
+				outputLogWriter.newLine();
+				outputLogWriter.close();
+			}catch(Exception e){
+				e.printStackTrace();
+			}
+		}
+	}
+	
+>>>>>>> origin/master
 	
 	public static void addToInputLog(String s){
 		if(loggingEnabled){
@@ -577,5 +638,18 @@ public class Interface{
 		}
 	}
 	
+<<<<<<< HEAD
+=======
+	//Text to speech
+	public static void speak(String s){
+		if(SPEECH){
+			try{
+//				synthesizer.speakPlainText(s, null);
+			}catch(Exception e){
+				e.printStackTrace();
+			}
+		}
+	}
+>>>>>>> origin/master
 
 }
