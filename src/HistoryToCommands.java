@@ -79,8 +79,8 @@ public class HistoryToCommands{
 		{"Dealt to (.*) \\[(.*)\\]","DEAL_CARDS||1||2"},
 		{"(.*): calls \\$?([\\d|\\.]*.*)","CALL||1||2"},
 		{"(.*): folds","FOLD||1"},
-		{"(.*): raises \\$?([\\d|\\.]*) to \\$?([\\d|\\.]*.*)","RAISE||1||2||3"},
-		{"(.*): bets \\$?([\\d|\\.]*.*)","BETS||1||2"},
+		{"(.*): raises \\$?([\\d|\\.]*) to \\$?([\\d|\\.]*).*","RAISE||1||2||3"},
+		{"(.*): bets \\$?([\\d|\\.]*).*","BETS||1||2"},
 		{"(.*): checks","CHECK||1"},
 		{"(.*): mucks hand","MUCK||1"},
 		{"(.*) leaves the table","LEAVE TABLE||1"},
@@ -136,7 +136,7 @@ public class HistoryToCommands{
 
 		}
 		
-		if(out.equals(NOMATCH)) System.err.println("ERROR: No pattern match: "+input);
+		//if(out.equals(NOMATCH)) System.err.println("ERROR: No pattern match: "+input);
 
 		return out;
 
