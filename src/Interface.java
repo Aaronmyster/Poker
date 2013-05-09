@@ -139,7 +139,7 @@ public class Interface{
 		
 		game = new Polo(player);
 		initialSetupDebug();
-		loadClassifier("../Models/Reptree2.model");
+		loadClassifier("../Models/Bagging.model");
 		initializeWekaAttributes();
 		
 		in = new BufferedReader(new InputStreamReader(System.in));
@@ -147,6 +147,7 @@ public class Interface{
 		game.addPlayer("bob");
 		game.smallBlind=1;
 		game.bigBlind=2;
+		game.chipStack=200;
 		
 		//THE MAIN LOOP!
 		while(command != 0){
