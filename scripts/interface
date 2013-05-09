@@ -1,3 +1,5 @@
+echo 'Cleaning'
+rm ../src/*.class
 echo 'Building...'
 javac -classpath "../lib/weka.jar;../src" ../src/Interface.java
 echo 'Running...'

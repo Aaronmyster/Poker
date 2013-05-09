@@ -156,7 +156,11 @@ public class HandEquity{
 	        String h = "";
 	        h = h+currentHandString+" ";
 	        for(String c : current) h = h + c + " ";
-	        totalEquity += HandEvaluator.rankHand(new Hand(h));
+	        try{
+	        	totalEquity += HandEvaluator.rankHand(new Hand(h));
+	        }catch(Exception e){
+	        	System.err.println(h);
+	        }	        
 	    	//System.out.println(h + " : " +totalEquity);
 	        handsEvaluated++;
 	        return;
@@ -264,7 +268,7 @@ public class HandEquity{
 		out.add("8QS");
 		out.add("8JS");
 		out.add("89S");
-a		out.add("5KS");
+		out.add("5KS");
 		out.add("6KS");
 		out.add("77");
 		out.add("78S");

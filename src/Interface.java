@@ -154,7 +154,7 @@ public class Interface{
 			command = -1;
 			System.out.print(":");
 			try {
-				in_str = in.readLine().toLowerCase();
+				in_str = in.readLine();
 			} catch (IOException ioe) {
 				output("IO error trying to read input!");
 			}
