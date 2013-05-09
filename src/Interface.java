@@ -43,7 +43,7 @@ public class Interface{
 	public static Attribute PotOdds;
 	public static Attribute Turn;
 	public static Attribute TablePosition;
-	public static Attribute HandRank;
+	public static Attribute HandEquity;
 	public static Attribute Decision;
 	public static FastVector features;
 	public static Instances instances;
@@ -304,19 +304,21 @@ public class Interface{
 		fvNom.addElement("river");
 		Turn = new Attribute("Turn",fvNom);
 		TablePosition = new Attribute("TablePosition");
-		HandRank = new Attribute("HandRank");
+		HandEquity = new Attribute("HandEquity");
 		FastVector fvClass = new FastVector(3);
-		fvClass.addElement("checkfold");
-		fvClass.addElement("call");
-		fvClass.addElement("raisebet");
+		fvClass.addElement("FOLD");
+		fvClass.addElement("RAISE");
+		fvClass.addElement("BET");
+		fvClass.addElement("CHECK");
+		fvClass.addElement("CALL");
 		Decision = new Attribute("Decision",fvClass);
-		features = new FastVector(8);
+		features = new FastVector(5);
 		features.addElement(PotOdds);
 		features.addElement(Turn);
 		features.addElement(TablePosition);
-		features.addElement(HandRank);
+		features.addElement(HandEquity);
 		features.addElement(Decision);
-		instances = new Instances("Rel",features,10);
+		instances = new Instances("Rel",features,4);
 		instances.setClassIndex(4);
 	}
 	
