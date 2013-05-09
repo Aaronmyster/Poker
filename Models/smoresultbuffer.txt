@@ -1,0 +1,224 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.SMO -C 1.0 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K "weka.classifiers.functions.supportVector.PolyKernel -C 250007 -E 1.0"
+Relation:     training-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Remove-R3-6
+Instances:    66307
+Attributes:   5
+              PotOdds
+              Turn
+              HandRank
+              HandEquity
+              Decision
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+SMO
+
+Kernel used:
+  Linear Kernel: K(x,y) = <x,y>
+
+Classifier for classes: FOLD, RAISE
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -0.4753 * (normalized) PotOdds
+ +       2.5046 * (normalized) Turn=preflop
+ +      -0.3907 * (normalized) Turn=flop
+ +      -0.9138 * (normalized) Turn=turn
+ +      -1.2001 * (normalized) Turn=river
+ +       5.8321 * (normalized) HandRank
+ +      20.1891 * (normalized) HandEquity
+ -       7.3309
+
+Number of kernel evaluations: 13042497 (57.654% cached)
+
+Classifier for classes: FOLD, BET
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+       -10.8762 * (normalized) PotOdds
+ +      -1      * (normalized) Turn=preflop
+ +       0.3331 * (normalized) Turn=flop
+ +       0.3329 * (normalized) Turn=turn
+ +       0.334  * (normalized) Turn=river
+ +       0.0018 * (normalized) HandRank
+ +       0.0002 * (normalized) HandEquity
+ +       0.6661
+
+Number of kernel evaluations: 2245704 (66.948% cached)
+
+Classifier for classes: FOLD, CHECK
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+       -14.5021 * (normalized) PotOdds
+ +      -0.0004 * (normalized) Turn=preflop
+ +      -0.0005 * (normalized) Turn=flop
+ +       0.0001 * (normalized) Turn=turn
+ +       0.0008 * (normalized) Turn=river
+ +      -0.0016 * (normalized) HandRank
+ +       0.0007 * (normalized) HandEquity
+ +       1.0007
+
+Number of kernel evaluations: 20269256 (41.222% cached)
+
+Classifier for classes: FOLD, CALL
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -1.4371 * (normalized) PotOdds
+ +       0.5108 * (normalized) Turn=preflop
+ +      -0.5131 * (normalized) Turn=flop
+ +      -0.1476 * (normalized) Turn=turn
+ +       0.1498 * (normalized) Turn=river
+ +       3.2302 * (normalized) HandRank
+ +       4.4219 * (normalized) HandEquity
+ -       1.8505
+
+Number of kernel evaluations: 33111207 (52.09% cached)
+
+Classifier for classes: RAISE, BET
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -9.8928 * (normalized) PotOdds
+ +      -1.5001 * (normalized) Turn=preflop
+ +       0.5002 * (normalized) Turn=flop
+ +       0.5    * (normalized) Turn=turn
+ +       0.5    * (normalized) Turn=river
+ +       0      * (normalized) HandRank
+ +       0.0004 * (normalized) HandEquity
+ +       0.5003
+
+Number of kernel evaluations: 2184558 (62.862% cached)
+
+Classifier for classes: RAISE, CHECK
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+       -10.3286 * (normalized) PotOdds
+ +      -0.0035 * (normalized) Turn=preflop
+ +      -0.0005 * (normalized) Turn=flop
+ +       0.0009 * (normalized) Turn=turn
+ +       0.0031 * (normalized) Turn=river
+ +      -0.0029 * (normalized) HandRank
+ +      -0.0159 * (normalized) HandEquity
+ +       1.0064
+
+Number of kernel evaluations: 15458682 (57.286% cached)
+
+Classifier for classes: RAISE, CALL
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -1.1119 * (normalized) PotOdds
+ +      -2.5568 * (normalized) Turn=preflop
+ +      -0.2851 * (normalized) Turn=flop
+ +       0.6588 * (normalized) Turn=turn
+ +       2.1831 * (normalized) Turn=river
+ +       0.9738 * (normalized) HandRank
+ +     -15.296  * (normalized) HandEquity
+ +       5.5215
+
+Number of kernel evaluations: 2647255 (71.702% cached)
+
+Classifier for classes: BET, CHECK
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+         0      * (normalized) Turn=preflop
+ +      -0.1702 * (normalized) Turn=flop
+ +       0.0507 * (normalized) Turn=turn
+ +       0.1195 * (normalized) Turn=river
+ +      -1.1717 * (normalized) HandRank
+ +      -6.1225 * (normalized) HandEquity
+ +       2.6771
+
+Number of kernel evaluations: 5647514 (59.75% cached)
+
+Classifier for classes: BET, CALL
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        11.4751 * (normalized) PotOdds
+ +       0.8156 * (normalized) Turn=preflop
+ +      -0.2719 * (normalized) Turn=flop
+ +      -0.2718 * (normalized) Turn=turn
+ +      -0.2719 * (normalized) Turn=river
+ +       0.0009 * (normalized) HandRank
+ +      -0.0032 * (normalized) HandEquity
+ -       0.7276
+
+Number of kernel evaluations: 2601013 (64.278% cached)
+
+Classifier for classes: CHECK, CALL
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        13.8434 * (normalized) PotOdds
+ +       0      * (normalized) Turn=preflop
+ +      -0.0004 * (normalized) Turn=flop
+ +       0      * (normalized) Turn=turn
+ +       0.0004 * (normalized) Turn=river
+ +      -0.0014 * (normalized) HandRank
+ +       0.0039 * (normalized) HandEquity
+ -       1.0009
+
+Number of kernel evaluations: 46948194 (43.516% cached)
+
+
+
+Time taken to build model: 174.07 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances       59921               90.369  %
+Incorrectly Classified Instances      6386                9.631  %
+Kappa statistic                          0.7403
+Mean absolute error                      0.2448
+Root mean squared error                  0.3237
+Relative absolute error                149.1833 %
+Root relative squared error            113.0131 %
+Total Number of Instances            66307     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.996     0.225      0.931     0.996     0.962      0.889    FOLD
+                 0.408     0.01       0.656     0.408     0.503      0.887    RAISE
+                 0.276     0.002      0.865     0.276     0.418      0.967    BET
+                 0.983     0.033      0.809     0.983     0.888      0.982    CHECK
+                 0.034     0.001      0.61      0.034     0.065      0.513    CALL
+Weighted Avg.    0.904     0.175      0.889     0.904     0.877      0.889
+
+=== Confusion Matrix ===
+
+     a     b     c     d     e   <-- classified as
+ 49804   187     0     1    36 |     a = FOLD
+  1566  1207     5   161    21 |     b = RAISE
+     0     0   667  1753     0 |     c = BET
+    42     1    94  8154     0 |     d = CHECK
+  2060   446     5     8    89 |     e = CALL
+
