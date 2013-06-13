@@ -78,42 +78,38 @@ public class CommandsToTrainingData{
 
 		for(int i=0;i<args.length;i++) args[i] = args[i].trim();
 
+		if(DEBUG){
+			for(int i=0;i<args.length;i++) System.out.print(args[i]+" ");
+			System.out.println();
+		}
+
 		switch(args[0]){
 			case "--NEW_GAME--" :
-				if(DEBUG) System.out.println(args[0]);
 				game = new Polo(playerName);
 				break;
 			case "NEWHAND" :
-				if(DEBUG) System.out.println(args[0]);
 				game.newHand();
 				game.handID = args[1];
 				break;
 			case "SET_BUTTON" :
-				if(DEBUG) System.out.println(args[0]+" "+args[1]);
 				game.setButtonToSeat(integer(args[1]));
 				break;
 			case "ADD_PLAYER" :
-				if(DEBUG) System.out.println(args[0]+" "+args[1]);
 				game.addPlayer(args[1]);
 				break;
 			case "ANTE" :
-				if(DEBUG) System.out.println(args[0]+" "+args[1]);
 				game.addBetAmountToPlayer(args[1],money(args[2]));
 				break;
 			case "SMALL_BLIND" :
-				if(DEBUG) System.out.println(args[0]+" "+args[1]);
 				game.addBetAmountToPlayer(args[1],money(args[2]));
 				break;
 			case "BIG_BLIND" :
-				if(DEBUG) System.out.println(args[0]+" "+args[1]);
 				game.addBetAmountToPlayer(args[1],money(args[2]));
 				break;
 			case "SMALL_AND_BIG_BLINDS" :
-				if(DEBUG) System.out.println(args[0]+" "+args[1]);
 				game.addBetAmountToPlayer(args[1],money(args[2]));
 				break;
 			case "DEAL_CARDS" :
-				if(DEBUG) System.out.println(args[0]+" "+args[1]+" "+args[2]);
 				c = args[2].split(" ");
 				game.DealHand(c[0],c[1]);
 				break;
@@ -165,16 +161,13 @@ public class CommandsToTrainingData{
 				}
 				break;
 			case "FLOP":
-				if(DEBUG) System.out.println(args[0]+" "+args[1]);
 				c = args[1].split(" ");
 				game.DealFlop(c[0],c[1],c[2]);
 				break;
 			case "TURN":
-				if(DEBUG) System.out.println(args[0]+" "+args[1]);
 				game.DealTurn(args[1]);
 				break;
 			case "RIVER":
-				if(DEBUG) System.out.println(args[0]+" "+args[1]);
 				game.DealRiver(args[1]);
 				break;
 
