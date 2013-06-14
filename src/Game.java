@@ -6,17 +6,22 @@ import java.util.ArrayList;
 
 public class Game {
 	
-	public Table table;
-	public ArrayList<Post> posts;
-	public Betting betting;
-	ArrayList<Card> community;
+	public Table table;					//Describes the table structure
+	public ArrayList<Post> posts;		//a collection of Post events
+	public Betting betting;				//The betting rounds
+	public ArrayList<Card> community;	//Collection of Community cards
+	public Card[] pocket;				//The two pocket cards
+	public String myName;				//The name of the player at this hand
+
+	
+
 
 }
 
 //Class to describe the table structure
 class Table {
 	
-	public int button;			//seat of the button player
+	public int button;					//seat of the button player
 	public ArrayList<Player> players;	//list of players
 
 }
@@ -42,9 +47,9 @@ class Player {
 //appears in the type. Amount indicates the post amount
 class Post {
 	
-	public int amount;
-	public Player player;
-	public PostType type;
+	public int amount;		//indicates the post amount
+	public Player player;	//the player that made the post
+	public PostType type;	//the type of Post
 
 }
 
@@ -56,18 +61,18 @@ enum PostType{
 //Players actions appear in chronological order.
 class Betting {
 
-	public Round preflop;
-	public Round flop;
-	public Round turn;
-	public Round river;
+	public Round preflop;	//preflop betting round
+	public Round flop;		//flop betting round
+	public Round turn;		//turn betting round
+	public Round river;		//river betting round
 
 }
 
 //Collection of Player's actions in chronological order
 class Round {
 
-	public RoundType name;
-	public ArrayList<Action> actions;
+	public RoundType name;				//the name of the round
+	public ArrayList<Action> actions;	//collection of actions
 
 }
 
@@ -75,10 +80,11 @@ enum RoundType{
 	PREFLOP, FLOP, TURN, RIVER
 }
 
+//Action that a player performed
 class Action{
-	public int amount;
-	public Player player;
-	public ActionType type;
+	public int amount;		//indicates the amound of the action
+	public Player player;	//the player that performed the action
+	public ActionType type; //the type of action
 }
 
 enum ActionType{
