@@ -17,9 +17,10 @@ public class Game {
 		myName = p_name;
 	}
 
-	public void newHand(){
+	public void newHand(boolean clearPlayers){
 		//If we have already have a table, then use the same players
-		if(table==null){
+		//Or we explicitly want to clear the player list.
+		if(table==null||clearPlayers){
 			table = new Table();
 		}else{
 			table = new Table(table.players);
