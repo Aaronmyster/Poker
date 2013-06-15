@@ -6,12 +6,12 @@ import java.util.ArrayList;
 
 public class Game {
 	
-	public Table table;					//Describes the table structure
-	public ArrayList<Post> posts;		//a collection of Post events
-	public Betting betting;				//The betting rounds
-	public ArrayList<Card> community;	//Collection of Community cards
-	public Card[] pocket;				//The two pocket cards
-	public String myName;				//The name of the player at this hand
+	private Table table;					//Describes the table structure
+	private ArrayList<Post> posts;		//a collection of Post events
+	private Betting betting;				//The betting rounds
+	private ArrayList<Card> community;	//Collection of Community cards
+	private Card[] pocket;				//The two pocket cards
+	private String myName;				//The name of the player at this hand
 
 	public Game(String p_name){
 		myName = p_name;
@@ -39,6 +39,8 @@ class Table {
 	public Table(){
 
 	}
+
+
 
 }
 
