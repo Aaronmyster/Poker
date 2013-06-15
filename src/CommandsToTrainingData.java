@@ -88,8 +88,7 @@ public class CommandsToTrainingData{
 				game = new Game(playerName);
 				break;
 			case "NEWHAND" :
-				game.newHand();
-				game.handID = args[1];
+				game.newHand(args[1]);
 				break;
 			case "SET_BUTTON" :
 				game.setButtonToSeat(integer(args[1]));

@@ -17,6 +17,15 @@ public class Game {
 		myName = p_name;
 	}
 
+	public void newHand(){
+		table = new Table();
+	}
+
+	public void newHand(Strign pTableId){
+		this.newHand();
+		table.tableId = pTableId;
+	}
+
 
 }
 
@@ -26,6 +35,10 @@ class Table {
 	public int button;					//seat of the button player
 	public ArrayList<Player> players;	//list of players
 	public String tableId;				//Unique ID for the hand -optional
+
+	public Table(){
+
+	}
 
 }
 
