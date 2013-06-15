@@ -91,7 +91,7 @@ public class CommandsToTrainingData{
 				game.newHand(args[1]);
 				break;
 			case "SET_BUTTON" :
-				game.setButtonToSeat(integer(args[1]));
+				game.setButton(integer(args[1]));
 				break;
 			case "ADD_PLAYER" :
 				game.addPlayer(args[1]);

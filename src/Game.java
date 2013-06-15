@@ -21,9 +21,13 @@ public class Game {
 		table = new Table();
 	}
 
-	public void newHand(Strign pTableId){
+	public void newHand(Strign tableId){
 		this.newHand();
-		table.tableId = pTableId;
+		table.tableId = tableId;
+	}
+
+	public void setButton(int button){
+		table.button = button;
 	}
 
 
