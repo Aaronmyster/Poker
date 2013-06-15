@@ -13,7 +13,9 @@ public class Game {
 	public Card[] pocket;				//The two pocket cards
 	public String myName;				//The name of the player at this hand
 
-	
+	public Game(String p_name){
+		myName = p_name;
+	}
 
 
 }
@@ -23,6 +25,7 @@ class Table {
 	
 	public int button;					//seat of the button player
 	public ArrayList<Player> players;	//list of players
+	public String tableId;				//Unique ID for the hand -optional
 
 }
 

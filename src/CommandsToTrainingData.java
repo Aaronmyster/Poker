@@ -8,7 +8,7 @@ public class CommandsToTrainingData{
 	public static String inputFileName;
 	public static String playerName;
 	public static String NOMATCH = "--NOMATCH--";
-	public static Polo game;
+	public static Game game;
 	public static boolean DEBUG = false;
 	
 	public static void main(String[] args){
@@ -85,7 +85,7 @@ public class CommandsToTrainingData{
 
 		switch(args[0]){
 			case "--NEW_GAME--" :
-				game = new Polo(playerName);
+				game = new Game(playerName);
 				break;
 			case "NEWHAND" :
 				game.newHand();
