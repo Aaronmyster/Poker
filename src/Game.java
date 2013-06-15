@@ -18,10 +18,15 @@ public class Game {
 	}
 
 	public void newHand(){
-		table = new Table();
+		//If we have already have a table, then use the same players
+		if(table==null){
+			table = new Table();
+		}else{
+			table = new Table(table.players);
+		}
 	}
 
-	public void newHand(Strign tableId){
+	public void newHand(String tableId){
 		this.newHand();
 		table.tableId = tableId;
 	}
@@ -41,7 +46,13 @@ class Table {
 	public String tableId;				//Unique ID for the hand -optional
 
 	public Table(){
+		button = 0;
+		players = new ArrayList<Player>();
+		tableId = "";
+	}
 
+	public Table(ArrayList<Player> oldPlayers){
+		players = oldPlayers;
 	}
 
 
